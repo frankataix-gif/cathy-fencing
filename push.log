@@ -1,1 +1,4 @@
 Reinitialized existing Git repository in G:/我的云端硬盘/1 Devin/Cathy Fencing/.git/
+warning: in the working copy of 'push.log', LF will be replaced by CRLF the next time Git touches it
+[main 2f52ddf] Initial upload
+ 2 files changed, 36 insertions(+), 14 deletions(-)

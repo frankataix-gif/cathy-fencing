@@ -9,6 +9,7 @@ __pycache__/
 # Private Cathy info
 cathy_data/profile.md
 cathy_data/cathy_database.md
+cathy_data/cathy_training_data.json
 cathy_data/updates_extracted.md
 .devin/skills/fencing_handbook/SKILL.md
 .devin/skills/cathy_ai/SKILL.md

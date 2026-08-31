@@ -366,6 +366,77 @@ const GOOGLE_DRIVE_URL = 'https://drive.google.com/drive/folders/1H6UBzhBjnw_J_c
 // 共享报名状态：id -> 'registered'/'watching'/''
 const DEFAULT_REGISTRATIONS = {};
 
+// 击剑数据分类和输入参数 / Fencing data schema
+const CATHY_TRAINING_SCHEMA = [
+  { key: 'competition', label: '比赛成绩', icon: '🏆', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'name', label: '赛事名称', type: 'text' },
+    { key: 'circuit', label: '赛事类型', type: 'select', options: ['SYC','RYC','RJCC','ROC','NAC','Local'] },
+    { key: 'weapon', label: '剑种', type: 'select', options: ['Foil','Epee','Saber'] },
+    { key: 'age_group', label: '年龄组', type: 'select', options: ['Y10','Y12','Y14','CDT','JNR'] },
+    { key: 'rank', label: '名次', type: 'number' },
+    { key: 'total', label: '总人数', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'physical', label: '体能训练', icon: '💪', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'type', label: '类型', type: 'select', options: ['力量','敏捷','耐力','速度','爆发','核心'] },
+    { key: 'duration', label: '时长(分钟)', type: 'number' },
+    { key: 'intensity', label: '强度 1-10', type: 'number' },
+    { key: 'exercises', label: '训练项目', type: 'text' },
+    { key: 'rest_hr', label: '静息心率', type: 'number' },
+    { key: 'fatigue', label: '疲劳感 1-10', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'stretching', label: '拉伸恢复', icon: '🧘', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'type', label: '类型', type: 'select', options: ['训练前','训练后','睡前','晨起','受伤后'] },
+    { key: 'duration', label: '时长(分钟)', type: 'number' },
+    { key: 'areas', label: '拉伸部位', type: 'text' },
+    { key: 'flexibility', label: '柔韧评分 1-10', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'medical', label: '检查报告', icon: '📋', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'type', label: '检查类型', type: 'select', options: ['体检','物理治疗','血检','X光','疫苗','牙科'] },
+    { key: 'result', label: '结果摘要', type: 'text' },
+    { key: 'action', label: '后续行动', type: 'text' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'technical', label: '技术训练', icon: '⚔️', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'drill', label: '训练项目', type: 'text' },
+    { key: 'focus', label: '重点', type: 'select', options: ['步伐','进攻','防守','反击','距离','节奏','心理'] },
+    { key: 'coach', label: '教练', type: 'text' },
+    { key: 'rating', label: '完成度 1-10', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'mental', label: '心理状态', icon: '🧠', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'mood', label: '情绪 1-10', type: 'number' },
+    { key: 'stress', label: '压力 1-10', type: 'number' },
+    { key: 'focus', label: '专注度 1-10', type: 'number' },
+    { key: 'sleep', label: '睡眠小时', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'nutrition', label: '饮食睡眠', icon: '🍎', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'meals', label: '正餐数', type: 'number' },
+    { key: 'protein', label: '蛋白质(g)', type: 'number' },
+    { key: 'water', label: '饮水(L)', type: 'number' },
+    { key: 'supplements', label: '补剂', type: 'text' },
+    { key: 'sleep', label: '睡眠小时', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]},
+  { key: 'equipment', label: '装备维护', icon: '🎒', fields: [
+    { key: 'date', label: '日期', type: 'date' },
+    { key: 'item', label: '装备', type: 'select', options: ['花剑','手套','面罩','击剑服','鞋','线','身体线'] },
+    { key: 'action', label: '维护内容', type: 'select', options: ['检查','清洁','更换','维修','购买'] },
+    { key: 'condition', label: '状态 1-10', type: 'number' },
+    { key: 'notes', label: '备注', type: 'text' }
+  ]}
+];
+
 const CITY_COORDS = {
   'Vancouver, BC': [49.28, -123.12],
   'Seattle, WA': [47.61, -122.33],
@@ -1357,12 +1428,113 @@ const DIFFICULTY_LABELS = {
     document.getElementById('suggested-age').textContent = `建议：Y12 稳打，Y14 挑战`;
   }
 
+  let cathyDataRecords = {};
+  let cathyDataCategory = null;
+  try { cathyDataRecords = JSON.parse(getLocal('cathy_training_data', '{}') || '{}'); } catch(e) { cathyDataRecords = {}; }
+
+  function saveCathyData() {
+    saveToLocal('cathy_training_data', JSON.stringify(cathyDataRecords));
+  }
+
+  function renderCathyDataList() {
+    const container = document.getElementById('cdata-list');
+    if (!container || !cathyDataCategory) return;
+    const cat = CATHY_TRAINING_SCHEMA.find(c => c.key === cathyDataCategory);
+    const rows = cathyDataRecords[cathyDataCategory] || [];
+    if (!rows.length) { container.innerHTML = '<div class="empty-state">暂无记录</div>'; return; }
+    rows.sort((a,b) => new Date(b.date || 0) - new Date(a.date || 0));
+    let html = '<table class="cdata-table" style="width:100%; font-size:0.85rem; border-collapse:collapse;"><thead><tr>';
+    cat.fields.forEach(f => { html += `<th style="text-align:left; padding:6px; border-bottom:1px solid #e2e8f0;">${f.label}</th>`; });
+    html += '<th></th></tr></thead><tbody>';
+    rows.forEach((r, i) => {
+      html += '<tr>';
+      cat.fields.forEach(f => { html += `<td style="padding:6px; border-bottom:1px solid #f1f5f9;">${r[f.key] !== undefined ? r[f.key] : ''}</td>`; });
+      html += `<td style="padding:6px;"><button class="btn" style="padding:4px 10px;" data-idx="${i}">删除</button></td></tr>`;
+    });
+    html += '</tbody></table>';
+    container.innerHTML = html;
+    container.querySelectorAll('button').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const idx = parseInt(e.target.dataset.idx, 10);
+        cathyDataRecords[cathyDataCategory].splice(idx, 1);
+        saveCathyData();
+        renderCathyDataList();
+      });
+    });
+  }
+
+  function renderCathyDataForm() {
+    const area = document.getElementById('cdata-form-area');
+    const cat = CATHY_TRAINING_SCHEMA.find(c => c.key === cathyDataCategory);
+    if (!area || !cat) return;
+    document.getElementById('cdata-title').textContent = cat.label;
+    let html = '<div class="cdata-form">';
+    cat.fields.forEach(f => {
+      html += `<div class="form-row" style="margin-bottom:8px;"><label>${f.label}</label>`;
+      if (f.type === 'select') {
+        html += `<select class="cdata-input" data-key="${f.key}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;"><option value="">请选择</option>`;
+        f.options.forEach(o => { html += `<option value="${o}">${o}</option>`; });
+        html += '</select>';
+      } else if (f.type === 'date') {
+        html += `<input class="cdata-input" data-key="${f.key}" type="date" value="${vancouverISO().slice(0,10)}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;">`;
+      } else {
+        html += `<input class="cdata-input" data-key="${f.key}" type="${f.type === 'number' ? 'number' : 'text'}" placeholder="${f.label}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;">`;
+      }
+      html += '</div>';
+    });
+    html += '<button class="btn cathy" id="cdata-add">添加记录</button></div>';
+    area.innerHTML = html;
+    document.getElementById('cdata-add').addEventListener('click', () => {
+      const entry = {};
+      area.querySelectorAll('.cdata-input').forEach(el => { if (el.value !== '') entry[el.dataset.key] = el.value; });
+      if (!cathyDataRecords[cathyDataCategory]) cathyDataRecords[cathyDataCategory] = [];
+      cathyDataRecords[cathyDataCategory].push(entry);
+      saveCathyData();
+      renderCathyDataList();
+      renderCathyDataForm();
+    });
+  }
+
+  function renderCathyDataCategories() {
+    const c = document.getElementById('cdata-categories');
+    if (!c) return;
+    c.innerHTML = '';
+    CATHY_TRAINING_SCHEMA.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'cdata-cat' + (cat.key === cathyDataCategory ? ' active' : '');
+      btn.textContent = `${cat.icon || ''} ${cat.label}`;
+      btn.style.cssText = 'display:block; width:100%; margin-bottom:6px; padding:10px; border:1px solid #e2e8f0; border-radius:8px; background:white; text-align:left; cursor:pointer; font-size:0.85rem;';
+      btn.addEventListener('click', () => {
+        cathyDataCategory = cat.key;
+        renderCathyDataCategories();
+        renderCathyDataForm();
+        renderCathyDataList();
+      });
+      c.appendChild(btn);
+    });
+  }
+
+  function initCathyData() {
+    document.getElementById('cdata-export').addEventListener('click', () => {
+      const blob = new Blob([JSON.stringify(cathyDataRecords, null, 2)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'cathy_training_data.json';
+      a.click();
+    });
+    if (!cathyDataCategory && CATHY_TRAINING_SCHEMA.length) cathyDataCategory = CATHY_TRAINING_SCHEMA[0].key;
+    renderCathyDataCategories();
+    renderCathyDataForm();
+    renderCathyDataList();
+  }
+
   initBaseCity();
   initFilters();
   initTabs();
   initProfile();
   initGDrive();
   initHeaderMeta();
+  initCathyData();
   renderResults();
   renderDailyQuote();
 </script>
