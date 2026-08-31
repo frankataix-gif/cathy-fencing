@@ -26,7 +26,6 @@
       background: var(--light);
       color: var(--text);
       line-height: 1.6;
-      padding-bottom: 100px;
     }
     .header {
       background: linear-gradient(135deg, var(--primary), var(--primary-dark));
@@ -117,6 +116,12 @@
     }
     .chip.active { background: var(--primary); color: white; border-color: var(--primary); }
     .chip.cathy.active { background: var(--cathy); border-color: var(--cathy); }
+    #pagination { padding: 16px; display: flex; justify-content: center; }
+    .pagination-inner { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .page-btn { padding: 8px 14px; border: 1px solid #d1d5db; border-radius: 8px; background: white; font-size: 0.9rem; cursor: pointer; }
+    .page-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .page-select { padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 0.9rem; }
+    .page-info { font-size: 0.85rem; color: var(--gray); }
     .card {
       background: var(--card-bg);
       border-radius: 12px; padding: 16px;
@@ -150,31 +155,6 @@
       padding: 6px 10px; border: 1px solid #d1d5db; border-radius: 8px;
       font-size: 0.9rem; background: white; min-width: 220px;
     }
-    .select-bar {
-      position: fixed; bottom: 0; left: 0; right: 0;
-      background: white; padding: 12px 16px;
-      box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-      display: flex; align-items: center; justify-content: space-between;
-      z-index: 100;
-    }
-    .btn {
-      background: var(--primary); color: white;
-      border: none; padding: 10px 20px; border-radius: 20px;
-      font-size: 0.9rem; font-weight: 600; cursor: pointer;
-    }
-    .btn:disabled { background: #9ca3af; }
-    .btn.cathy { background: var(--cathy); }
-    .modal-overlay {
-      position: fixed; inset: 0; background: rgba(0,0,0,0.5);
-      display: none; z-index: 200; align-items: center; justify-content: center;
-      padding: 16px;
-    }
-    .modal-overlay.show { display: flex; }
-    .modal { background: white; border-radius: 16px; width: 100%; max-height: 90vh; overflow: auto; padding: 20px; }
-    .modal h2 { font-size: 1.1rem; margin-bottom: 12px; }
-    .itinerary-item { padding: 10px 0; border-bottom: 1px solid #e5e7eb; }
-    .itinerary-date { font-weight: 700; color: var(--primary); }
-    .close-btn { background: #e5e7eb; padding: 8px 16px; border-radius: 20px; border: none; margin-top: 16px; }
     .rule-section { margin-bottom: 16px; }
     .rule-title { font-weight: 700; color: var(--primary); margin-bottom: 6px; font-size: 0.95rem; }
     .rule-body { font-size: 0.85rem; color: var(--text); background: white; padding: 12px; border-radius: 8px; }
@@ -257,6 +237,7 @@
 
     <div class="result-count" id="result-count"></div>
     <div id="results"></div>
+    <div id="pagination"></div>
   </div>
 
   <!-- 北美地图 -->
@@ -339,19 +320,6 @@
         <li><input type="checkbox" id="c4" class="p-check"> <label for="c4">已绑定信用卡/支付方式</label></li>
         <li><input type="checkbox" id="c5" class="p-check"> <label for="c5">已订好酒店/交通</label></li>
       </ul>
-    </div>
-  </div>
-
-  <div class="select-bar">
-    <span class="select-count" id="select-count">已选 0 场</span>
-    <button class="btn" id="generate-btn" disabled>生成行程</button>
-  </div>
-
-  <div class="modal-overlay" id="modal">
-    <div class="modal">
-      <h2>推荐行程 / Recommended Itinerary</h2>
-      <div id="itinerary-content"></div>
-      <button class="close-btn" id="close-btn">关闭</button>
     </div>
   </div>
 
@@ -959,9 +927,10 @@ const DIFFICULTY_LABELS = {
 <!-- ====== 数据结束 / DATA END ====== -->
 
 <script>
-  let selectedIds = new Set();
   let activeFilters = { reg: null, region: null, age: null, circuit: null, distance: Infinity };
   let currentBase = CATHY.home;
+  let currentPage = 1;
+  const PAGE_SIZE = 50;
   let mapColorDim = 'region';
   let map = null, markers = [], baseMarker = null;
 
@@ -1010,6 +979,7 @@ const DIFFICULTY_LABELS = {
       if (CITY_COORDS[key]) {
         currentBase = key;
         computeDistances(currentBase);
+        currentPage = 1;
         renderResults();
         updateMapMarkers();
         saveToLocal('cathy_base_city', currentBase);
@@ -1053,6 +1023,7 @@ const DIFFICULTY_LABELS = {
         if (type === 'distance') activeFilters.distance = parseFloat(chip.dataset.value);
         else if (chip.dataset.value === '全部' || chip.dataset.value === 'all') activeFilters[type] = null;
         else activeFilters[type] = chip.dataset.value;
+        currentPage = 1;
         renderResults();
       });
       container.appendChild(chip);
@@ -1101,6 +1072,31 @@ const DIFFICULTY_LABELS = {
     return s === e ? ds : `${ds} - ${de}`;
   }
 
+  function renderPagination(total, totalPages) {
+    const p = document.getElementById('pagination');
+    if (!p) return;
+    if (totalPages <= 1) { p.innerHTML = ''; return; }
+    let html = `<div class="pagination-inner">`;
+    html += `<button class="page-btn" data-page="prev" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>`;
+    html += `<select class="page-select" id="page-select">`;
+    for (let i = 1; i <= totalPages; i++) {
+      html += `<option value="${i}" ${i === currentPage ? 'selected' : ''}>第 ${i}/${totalPages} 页</option>`;
+    }
+    html += `</select>`;
+    html += `<button class="page-btn" data-page="next" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>`;
+    html += `<span class="page-info">共 ${total} 场</span>`;
+    html += `</div>`;
+    p.innerHTML = html;
+    const sel = document.getElementById('page-select');
+    if (sel) sel.addEventListener('change', (e) => { currentPage = parseInt(e.target.value, 10); renderResults(); });
+    p.querySelectorAll('.page-btn').forEach(btn => btn.addEventListener('click', (e) => {
+      const page = e.target.dataset.page;
+      if (page === 'prev') currentPage = Math.max(1, currentPage - 1);
+      if (page === 'next') currentPage = Math.min(totalPages, currentPage + 1);
+      renderResults();
+    }));
+  }
+
   function renderResults() {
     const regOrder = { 'registered': 0, 'watching': 1 };
     TOURNAMENTS.forEach(t => { t.reg_status = getLocal('reg_' + t.id, t.reg_status || ''); });
@@ -1110,12 +1106,17 @@ const DIFFICULTY_LABELS = {
       if (ao !== bo) return ao - bo;
       return new Date(a.start) - new Date(b.start);
     });
-    document.getElementById('result-count').textContent = `找到 ${list.length} 场 / ${list.length} found`;
+    const totalPages = Math.ceil(list.length / PAGE_SIZE) || 1;
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const pageList = list.slice(start, start + PAGE_SIZE);
+    document.getElementById('result-count').textContent = `找到 ${list.length} 场，第 ${currentPage}/${totalPages} 页 / ${list.length} found, page ${currentPage}/${totalPages}`;
     const c = document.getElementById('results');
     c.innerHTML = '';
-    if (!list.length) { c.innerHTML = '<div class="empty-state">没有符合条件的赛事<br>No matches</div>'; return; }
+    if (!list.length) { c.innerHTML = '<div class="empty-state">没有符合条件的赛事<br>No matches</div>'; renderPagination(0, 1); return; }
 
-    list.forEach(t => {
+    pageList.forEach(t => {
       const card = document.createElement('div');
       card.className = 'card';
       const st = STATUS_LABELS[t.status];
@@ -1141,10 +1142,7 @@ const DIFFICULTY_LABELS = {
         </div>
         <div class="details" style="${closedStyle}">
           <div>${t.notes}</div>
-          <div style="margin-top:8px; display:flex; gap:16px; align-items:center; flex-wrap:wrap;">
-            <label style="display:flex;align-items:center;gap:8px;cursor:pointer;">
-              <input type="checkbox" class="select-cb" data-id="${t.id}" ${selectedIds.has(t.id)?'checked':''}> 加入行程 / Add
-            </label>
+          <div style="margin-top:8px;">
             <label style="font-size:0.85rem; display:flex; align-items:center; gap:6px;">
               报名状态 / Reg:
               <select class="reg-select" data-id="${t.id}" style="padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;">
@@ -1156,47 +1154,19 @@ const DIFFICULTY_LABELS = {
           </div>
         </div>
       `;
-      card.addEventListener('click', (e) => { if (!e.target.classList.contains('select-cb') && !e.target.classList.contains('reg-select')) card.classList.toggle('expanded'); });
-      card.querySelector('.select-cb').addEventListener('click', (e) => {
-        e.stopPropagation();
-        if (e.target.checked) selectedIds.add(t.id); else selectedIds.delete(t.id);
-        updateSelectBar();
-      });
+      card.addEventListener('click', (e) => { if (!e.target.classList.contains('reg-select')) card.classList.toggle('expanded'); });
       const regSel = card.querySelector('.reg-select');
       regSel.addEventListener('click', (e) => e.stopPropagation());
       regSel.addEventListener('change', (e) => {
         e.stopPropagation();
         saveToLocal('reg_' + t.id, e.target.value);
+        currentPage = 1;
         renderResults();
       });
       c.appendChild(card);
     });
+    renderPagination(list.length, totalPages);
     if (map) updateMapMarkers();
-  }
-
-  function updateSelectBar() {
-    document.getElementById('select-count').textContent = `已选 ${selectedIds.size} 场`;
-    document.getElementById('generate-btn').disabled = selectedIds.size === 0;
-  }
-
-  function generateItinerary() {
-    const selected = TOURNAMENTS.filter(t => selectedIds.has(t.id)).sort((a,b) => new Date(a.start) - new Date(b.start));
-    let html = ''; let total = 0;
-    selected.forEach(t => { total += t.distance_km * 2; html += `
-      <div class="itinerary-item">
-        <div class="itinerary-date">${formatDate(t.start, t.end)}</div>
-        <div>${t.name}</div>
-        <div class="itinerary-meta">${t.city}, ${t.state} | ${t.circuits.join(', ')} | ~${t.distance_km}km</div>
-      </div>
-    `;});
-    html += `
-      <div style="background:var(--light);padding:12px;border-radius:8px;margin-top:12px;">
-        共 ${selected.length} 场 | 总往返里程约 ${total}km<br>
-        请提前 4-6 周报名，SYC 更早满员。
-      </div>
-    `;
-    document.getElementById('itinerary-content').innerHTML = html;
-    document.getElementById('modal').classList.add('show');
   }
 
   function initTabs() {
@@ -1327,9 +1297,6 @@ const DIFFICULTY_LABELS = {
 
     document.getElementById('suggested-age').textContent = `建议：Y12 稳打，Y14 挑战`;
   }
-
-  document.getElementById('generate-btn').addEventListener('click', generateItinerary);
-  document.getElementById('close-btn').addEventListener('click', () => document.getElementById('modal').classList.remove('show'));
 
   initBaseCity();
   initFilters();
