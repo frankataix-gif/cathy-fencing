@@ -186,81 +186,104 @@
       <h1>USA Fencing 赛事列表</h1>
       <p>何云熙 Cathy He 个人信息</p>
       <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; margin-top:8px;">打开 Google Drive 文档</a>
+      <button id="cathyai-btn" class="btn cathy" style="margin-top:8px; margin-left:8px; display:inline-block;">🤖 CathyAI 助手</button>
     </div>
     <div class="header-meta" id="header-meta">更新于：<span id="updated-ago">-</span></div>
   </div>
 
+  <div id="cathyai-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); z-index:200000; justify-content:center; align-items:center;">
+    <div class="card" style="max-width:500px; width:90%; max-height:80vh; overflow:auto; position:relative;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+        <h3>🤖 CathyAI 专属助手</h3>
+        <button id="cathyai-close" class="btn" style="padding:4px 10px;">关闭</button>
+      </div>
+      <p>CathyAI 会读取 Cathy 的数据库，回答训练、比赛、规则、报名等问题。</p>
+      <p style="font-size:0.85rem; color:var(--gray);">当前版本：在 Devin 里输入 <b>CathyAI，...</b> 即可提问。</p>
+      <div style="margin-top:12px; font-size:0.85rem; background:var(--light); padding:12px; border-radius:8px;">
+        <b>可以问：</b><br>
+        - Cathy 最近适合参加什么比赛？<br>
+        - 这周训练量会不会太大？<br>
+        - Y14 报名需要什么条件？<br>
+        - 最近比赛成绩趋势如何？
+      </div>
+    </div>
+  </div>
+
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="tournaments">赛事列表</button>
-    <button class="tab" data-tab="map">北美地图</button>
-    <button class="tab" data-tab="rules">规则说明</button>
+    <button class="tab" data-tab="rules">赛事规则</button>
     <button class="tab" data-tab="cathydata">击剑数据</button>
-    <button class="tab" data-tab="profile">Cathy 资料</button>
+    <button class="tab" data-tab="profile">我的</button>
   </div>
 
   <!-- 赛事列表 -->
   <div id="tab-tournaments" class="tab-content active">
-    <div class="profile-card" id="profile-card">
-      <div class="profile-row">
-        <div class="profile-left">
-          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'">
-          <div class="profile-name">何云熙 Cathy He
-            <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
+    <div class="tournaments-layout" style="display:flex; gap:16px; align-items:flex-start;">
+      <div class="tournaments-main" style="flex:1; min-width:0;">
+        <div class="profile-card" id="profile-card">
+          <div class="profile-row">
+            <div class="profile-left">
+              <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'">
+              <div class="profile-name">何云熙 Cathy He
+                <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
+              </div>
+            </div>
+          </div>
+          <div class="profile-row">
+            <div class="profile-meta" id="age-display"></div>
+            <div class="profile-meta" id="suggested-age"></div>
           </div>
         </div>
+
+        <div class="daily-quote" id="daily-quote">
+          <div class="greeting" id="daily-greeting"></div>
+          <div id="daily-quote-text"></div>
+          <div class="from" id="daily-quote-from"></div>
+          <div class="surprise" id="daily-surprise"></div>
+        </div>
+
+        <div class="float-box">
+          <div class="filter-label">出发城市 / Base City（输入城市名自动计算距离）</div>
+          <div class="base-city">
+            <input type="text" id="base-city-input" list="base-city-list" placeholder="如 Vancouver, BC">
+            <datalist id="base-city-list"></datalist>
+            <span id="base-city-hint" style="font-size:0.8rem;color:var(--gray);"></span>
+          </div>
+        </div>
+
+        <div class="filters">
+          <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
+        </div>
+
+        <div class="result-count" id="result-count"></div>
+        <div id="results"></div>
+        <div id="pagination"></div>
       </div>
-      <div class="profile-row">
-        <div class="profile-meta" id="age-display"></div>
-        <div class="profile-meta" id="suggested-age"></div>
+
+      <div class="tournaments-map" style="flex:0 0 360px; display:flex; flex-direction:column; gap:12px;">
+        <div class="card" style="position:sticky; top:12px;">
+          <div class="update-guide" id="map-guide">点击标记查看赛事。颜色维度：推荐 / Region / 赛事级别 / 报名状态。</div>
+          <div style="margin:12px 0;">
+            <div class="filter-label">颜色维度 / Color by</div>
+            <select id="map-color" style="padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:0.9rem;background:white;min-width:160px;">
+              <option value="recommended">何云熙推荐</option>
+              <option value="region" selected>Region</option>
+              <option value="circuit">赛事级别 Circuit</option>
+              <option value="reg">报名状态</option>
+            </select>
+            <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
+          </div>
+          <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
+        </div>
       </div>
     </div>
-
-    <div class="daily-quote" id="daily-quote">
-      <div class="greeting" id="daily-greeting"></div>
-      <div id="daily-quote-text"></div>
-      <div class="from" id="daily-quote-from"></div>
-      <div class="surprise" id="daily-surprise"></div>
-    </div>
-
-    <div class="float-box">
-      <div class="filter-label">出发城市 / Base City（输入城市名自动计算距离）</div>
-      <div class="base-city">
-        <input type="text" id="base-city-input" list="base-city-list" placeholder="如 Vancouver, BC">
-        <datalist id="base-city-list"></datalist>
-        <span id="base-city-hint" style="font-size:0.8rem;color:var(--gray);"></span>
-      </div>
-    </div>
-
-    <div class="filters">
-      <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
-    </div>
-
-    <div class="result-count" id="result-count"></div>
-    <div id="results"></div>
-    <div id="pagination"></div>
   </div>
 
-  <!-- 北美地图 -->
-  <div id="tab-map" class="tab-content">
-    <div class="update-guide" id="map-guide">点击地图上的标记查看赛事详情。颜色维度可选择：推荐 / Region / 赛事级别 / 报名状态。/ Click markers. Choose a color dimension below.</div>
-    <div class="float-box" style="margin-bottom:12px;">
-      <div class="filter-label">颜色维度 / Color by</div>
-      <select id="map-color" style="padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:0.9rem;background:white;min-width:160px;">
-        <option value="recommended">何云熙推荐</option>
-        <option value="region" selected>Region</option>
-        <option value="circuit">赛事级别 Circuit</option>
-        <option value="reg">报名状态</option>
-      </select>
-      <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
-    </div>
-    <div id="map"></div>
-  </div>
-
-  <!-- 规则说明 -->
+  <!-- 赛事规则 -->
   <div id="tab-rules" class="tab-content">
     <div class="rule-section"><div class="rule-title">年龄分组（2026-27 赛季）/ Age Groups</div><div class="rule-body">
       Table A（2 月 NAC 及之前）：Y12 2014-2017，Y14 2012-2015，Cadet 2010-2013，Junior 2007-2013。<br>
@@ -288,28 +311,28 @@
 
   <!-- 击剑数据 -->
   <div id="tab-cathydata" class="tab-content">
-    <div class="card">
-      <div style="display:flex; gap:12px; align-items:flex-start; flex-wrap:wrap;">
-        <div style="min-width:140px;">
-          <h3 style="margin-bottom:12px;">分类</h3>
-          <div id="cdata-categories"></div>
-        </div>
-        <div style="flex:1;">
-          <h3 id="cdata-title" style="margin-bottom:12px;">选择一个分类</h3>
-          <div id="cdata-form-area"></div>
-          <div id="cdata-list" style="margin-top:16px;"></div>
-        </div>
+    <div id="cdata-landing" class="card">
+      <h3 style="margin-bottom:12px;">选择一个数据分类</h3>
+      <div id="cdata-categories" class="cdata-landing-grid" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:12px;"></div>
+    </div>
+    <div id="cdata-detail" class="card" style="display:none;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+        <h3 id="cdata-title"></h3>
+        <button class="btn" id="cdata-back">返回分类</button>
       </div>
-      <div style="margin-top:16px;">
-        <button class="btn cathy" id="cdata-export">导出训练数据 JSON</button>
-      </div>
+      <div id="cdata-form-area"></div>
+      <div id="cdata-list" style="margin-top:16px;"></div>
+    </div>
+    <div style="margin-top:16px;">
+      <button class="btn cathy" id="cdata-export">导出训练数据 JSON</button>
     </div>
   </div>
 
-  <!-- Cathy 资料 -->
+  <!-- 我的 -->
   <div id="tab-profile" class="tab-content">
     <div class="card">
-      <h3 style="margin-bottom:12px;">何云熙注册信息 / Cathy He Registration Info</h3>
+      <h2 style="margin-bottom:12px;">我的</h2>
+      <h3 style="margin-bottom:12px;">Cathy 资料 / Profile</h3>
       <div class="form-row"><label>中文姓名 / Chinese Name</label><input id="p-name-zh" value="何云熙"></div>
       <div class="form-row"><label>英文姓名 / Legal English Name</label><input id="p-name-en" value="Yunxi He"></div>
       <div class="form-row"><label>常用名 / Preferred Name</label><input id="p-name-pref" value="Cathy YUNXI"></div>
@@ -325,6 +348,8 @@
         <select id="p-hand"><option value="" selected>待填写</option><option value="Right-handed">Right-handed 右手</option><option value="Left-handed">Left-handed 左手</option></select>
       </div>
       <div class="form-row"><label>Region</label><input id="p-region" value="Region 1 (WA, OR, MT, ID, WY)"></div>
+
+      <h3 style="margin: 20px 0 12px;">会员信息 / Membership</h3>
       <div class="form-row"><label>USA Fencing Member ID</label><input id="p-member-id" value="102111079"></div>
       <div class="form-row"><label>会员到期 / Membership Expires</label><input id="p-expiry" value="2027-07-31" type="date"></div>
       <div class="form-row"><label>父母 / Parents</label><input id="p-parents" value="Frank He & Natalie Wu"></div>
@@ -1278,7 +1303,7 @@ const DIFFICULTY_LABELS = {
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       e.target.classList.add('active');
       document.getElementById('tab-' + e.target.dataset.tab).classList.add('active');
-      if (e.target.dataset.tab === 'map' && !map) initMap();
+      if (e.target.dataset.tab === 'tournaments' && !map) initMap();
     });
   }
 
@@ -1407,6 +1432,21 @@ const DIFFICULTY_LABELS = {
     }
   }
 
+  function initCathyAIBtn() {
+    const btn = document.getElementById('cathyai-btn');
+    const modal = document.getElementById('cathyai-modal');
+    if (btn) {
+      btn.addEventListener('click', () => { if (modal) modal.style.display = 'flex'; });
+    }
+    const close = document.getElementById('cathyai-close');
+    if (close) {
+      close.addEventListener('click', () => { if (modal) modal.style.display = 'none'; });
+    }
+    if (modal) {
+      modal.addEventListener('click', (e) => { if (e.target === modal) modal.style.display = 'none'; });
+    }
+  }
+
   function timeAgo(iso) {
     const d = new Date(iso + 'T00:00:00-07:00');
     const now = new Date();
@@ -1434,6 +1474,25 @@ const DIFFICULTY_LABELS = {
 
   function saveCathyData() {
     saveToLocal('cathy_training_data', JSON.stringify(cathyDataRecords));
+  }
+
+  function showCathyDataLanding() {
+    const landing = document.getElementById('cdata-landing');
+    const detail = document.getElementById('cdata-detail');
+    if (landing) landing.style.display = 'block';
+    if (detail) detail.style.display = 'none';
+    cathyDataCategory = null;
+    renderCathyDataCategories();
+  }
+
+  function showCathyDataDetail(key) {
+    const landing = document.getElementById('cdata-landing');
+    const detail = document.getElementById('cdata-detail');
+    if (landing) landing.style.display = 'none';
+    if (detail) detail.style.display = 'block';
+    cathyDataCategory = key;
+    renderCathyDataForm();
+    renderCathyDataList();
   }
 
   function renderCathyDataList() {
@@ -1467,22 +1526,22 @@ const DIFFICULTY_LABELS = {
     const area = document.getElementById('cdata-form-area');
     const cat = CATHY_TRAINING_SCHEMA.find(c => c.key === cathyDataCategory);
     if (!area || !cat) return;
-    document.getElementById('cdata-title').textContent = cat.label;
-    let html = '<div class="cdata-form">';
+    document.getElementById('cdata-title').textContent = `${cat.icon || ''} ${cat.label}`;
+    let html = '<div class="cdata-form" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:10px;">';
     cat.fields.forEach(f => {
-      html += `<div class="form-row" style="margin-bottom:8px;"><label>${f.label}</label>`;
+      html += `<div style="display:flex; flex-direction:column; gap:4px;"><label style="font-size:0.8rem; color:var(--gray);">${f.label}</label>`;
       if (f.type === 'select') {
-        html += `<select class="cdata-input" data-key="${f.key}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;"><option value="">请选择</option>`;
+        html += `<select class="cdata-input" data-key="${f.key}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;"><option value="">请选择</option>`;
         f.options.forEach(o => { html += `<option value="${o}">${o}</option>`; });
         html += '</select>';
       } else if (f.type === 'date') {
-        html += `<input class="cdata-input" data-key="${f.key}" type="date" value="${vancouverISO().slice(0,10)}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;">`;
+        html += `<input class="cdata-input" data-key="${f.key}" type="date" value="${vancouverISO().slice(0,10)}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;">`;
       } else {
-        html += `<input class="cdata-input" data-key="${f.key}" type="${f.type === 'number' ? 'number' : 'text'}" placeholder="${f.label}" style="padding:6px; border:1px solid #d1d5db; border-radius:6px;">`;
+        html += `<input class="cdata-input" data-key="${f.key}" type="${f.type === 'number' ? 'number' : 'text'}" placeholder="${f.label}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;">`;
       }
       html += '</div>';
     });
-    html += '<button class="btn cathy" id="cdata-add">添加记录</button></div>';
+    html += '</div><div style="margin-top:12px;"><button class="btn cathy" id="cdata-add">添加记录</button></div>';
     area.innerHTML = html;
     document.getElementById('cdata-add').addEventListener('click', () => {
       const entry = {};
@@ -1500,17 +1559,15 @@ const DIFFICULTY_LABELS = {
     if (!c) return;
     c.innerHTML = '';
     CATHY_TRAINING_SCHEMA.forEach(cat => {
-      const btn = document.createElement('button');
-      btn.className = 'cdata-cat' + (cat.key === cathyDataCategory ? ' active' : '');
-      btn.textContent = `${cat.icon || ''} ${cat.label}`;
-      btn.style.cssText = 'display:block; width:100%; margin-bottom:6px; padding:10px; border:1px solid #e2e8f0; border-radius:8px; background:white; text-align:left; cursor:pointer; font-size:0.85rem;';
-      btn.addEventListener('click', () => {
-        cathyDataCategory = cat.key;
-        renderCathyDataCategories();
-        renderCathyDataForm();
-        renderCathyDataList();
-      });
-      c.appendChild(btn);
+      const count = (cathyDataRecords[cat.key] || []).length;
+      const card = document.createElement('button');
+      card.className = 'cdata-cat';
+      card.innerHTML = `<div style="font-size:1.8rem; margin-bottom:6px;">${cat.icon || ''}</div><div style="font-weight:600;">${cat.label}</div><div style="font-size:0.75rem; color:var(--gray); margin-top:4px;">${count} 条记录</div>`;
+      card.style.cssText = 'display:flex; flex-direction:column; align-items:center; justify-content:center; padding:16px; border:1px solid #e2e8f0; border-radius:12px; background:white; text-align:center; cursor:pointer; transition:box-shadow 0.2s;';
+      card.addEventListener('mouseenter', () => card.style.boxShadow = '0 4px 12px rgba(0,0,0,0.08)');
+      card.addEventListener('mouseleave', () => card.style.boxShadow = 'none');
+      card.addEventListener('click', () => showCathyDataDetail(cat.key));
+      c.appendChild(card);
     });
   }
 
@@ -1522,17 +1579,18 @@ const DIFFICULTY_LABELS = {
       a.download = 'cathy_training_data.json';
       a.click();
     });
-    if (!cathyDataCategory && CATHY_TRAINING_SCHEMA.length) cathyDataCategory = CATHY_TRAINING_SCHEMA[0].key;
-    renderCathyDataCategories();
-    renderCathyDataForm();
-    renderCathyDataList();
+    const back = document.getElementById('cdata-back');
+    if (back) back.addEventListener('click', showCathyDataLanding);
+    showCathyDataLanding();
   }
 
   initBaseCity();
   initFilters();
+  initMap();
   initTabs();
   initProfile();
   initGDrive();
+  initCathyAIBtn();
   initHeaderMeta();
   initCathyData();
   renderResults();
