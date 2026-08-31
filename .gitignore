@@ -16,4 +16,8 @@ desktop.ini
 # Deployment logs
 push.log
 
+# Local source files (images, pdfs, extracted txts)
+1 Files/
+
+
 

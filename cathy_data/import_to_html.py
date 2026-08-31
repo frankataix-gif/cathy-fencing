@@ -213,6 +213,7 @@ def generate_tournaments_from_csv():
                 "recommended": False,
                 "status": status,
                 "notes": f"{r.get('action','')}. Data imported from USA Fencing public list.",
+                "url": r.get("detail_url", ""),
             }
             rows.append(t)
     # sort by start date
@@ -255,7 +256,7 @@ def quote(val):
 
 def obj_to_str(obj):
     fields = ["id", "name", "start", "end", "city", "state", "region", "lat", "lng",
-              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes"]
+              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes", "url"]
     parts = [f"{k}:{quote(obj[k])}" for k in fields if k in obj]
     return "  { " + ", ".join(parts) + " }"
 
@@ -276,6 +277,8 @@ def merge(existing, imported):
                 old["lng"] = t["lng"]
             if old.get("status") in ("not_yet_open", "open") and t["status"] in ("late", "closed"):
                 old["status"] = t["status"]
+            if not old.get("url") and t.get("url"):
+                old["url"] = t["url"]
             continue
         seen[key] = t
     merged = list(seen.values())
