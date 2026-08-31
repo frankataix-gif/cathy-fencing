@@ -187,13 +187,14 @@
       <p>何云熙 Cathy He 个人信息</p>
       <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; margin-top:8px;">打开 Google Drive 文档</a>
     </div>
-    <div class="header-meta" id="header-meta">数据: ...<br>加载: ...</div>
+    <div class="header-meta" id="header-meta">更新于：<span id="updated-ago">-</span></div>
   </div>
 
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="tournaments">赛事列表</button>
     <button class="tab" data-tab="map">北美地图</button>
     <button class="tab" data-tab="rules">规则说明</button>
+    <button class="tab" data-tab="cathydata">击剑数据</button>
     <button class="tab" data-tab="profile">Cathy 资料</button>
   </div>
 
@@ -283,6 +284,26 @@
       3. 确认赛事开放报名，RYC 通常提前 4-6 周，SYC 可能更早满员。<br>
       4. 报名分 Regular Fee 和 Late/Triple Fee，越晚报越贵。
     </div></div>
+  </div>
+
+  <!-- 击剑数据 -->
+  <div id="tab-cathydata" class="tab-content">
+    <div class="card">
+      <div style="display:flex; gap:12px; align-items:flex-start; flex-wrap:wrap;">
+        <div style="min-width:140px;">
+          <h3 style="margin-bottom:12px;">分类</h3>
+          <div id="cdata-categories"></div>
+        </div>
+        <div style="flex:1;">
+          <h3 id="cdata-title" style="margin-bottom:12px;">选择一个分类</h3>
+          <div id="cdata-form-area"></div>
+          <div id="cdata-list" style="margin-top:16px;"></div>
+        </div>
+      </div>
+      <div style="margin-top:16px;">
+        <button class="btn cathy" id="cdata-export">导出训练数据 JSON</button>
+      </div>
+    </div>
   </div>
 
   <!-- Cathy 资料 -->
@@ -1315,9 +1336,21 @@ const DIFFICULTY_LABELS = {
     }
   }
 
+  function timeAgo(iso) {
+    const d = new Date(iso + 'T00:00:00-07:00');
+    const now = new Date();
+    const sec = Math.max(0, Math.floor((now - d) / 1000));
+    if (sec < 60) return '刚刚';
+    if (sec < 3600) return `${Math.floor(sec / 60)} 分钟前`;
+    if (sec < 86400) return `${Math.floor(sec / 3600)} 小时前`;
+    if (sec < 604800) return `${Math.floor(sec / 86400)} 天前`;
+    if (sec < 2592000) return `${Math.floor(sec / 604800)} 周前`;
+    return `${Math.floor(sec / 2592000)} 个月前`;
+  }
+
   function initHeaderMeta() {
-    const loadTime = vancouverTime();
-    document.getElementById('header-meta').innerHTML = `数据: ${DATA_UPDATED}<br>加载: ${loadTime}`;
+    const span = document.getElementById('updated-ago');
+    if (span) span.textContent = timeAgo(DATA_UPDATED);
     const age = getAgeAt(CATHY.birth, vancouverISO());
     document.getElementById('age-display').textContent = isNaN(age) ? '' : `Cathy 今年 ${age} 岁`;
 
