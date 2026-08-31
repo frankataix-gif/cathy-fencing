@@ -211,6 +211,7 @@
 
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="tournaments">赛事列表</button>
+    <button class="tab" data-tab="eventsmap">赛事地图</button>
     <button class="tab" data-tab="rules">赛事规则</button>
     <button class="tab" data-tab="cathydata">击剑数据</button>
     <button class="tab" data-tab="profile">我的</button>
@@ -218,69 +219,64 @@
 
   <!-- 赛事列表 -->
   <div id="tab-tournaments" class="tab-content active">
-    <div class="tournaments-layout" style="display:flex; gap:16px; align-items:flex-start;">
-      <div class="tournaments-main" style="flex:1; min-width:0;">
-        <div class="profile-card" id="profile-card">
-          <div class="profile-row">
-            <div class="profile-left">
-              <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'">
-              <div class="profile-name">何云熙 Cathy He
-                <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
-              </div>
-            </div>
-          </div>
-          <div class="profile-row">
-            <div class="profile-meta" id="age-display"></div>
-            <div class="profile-meta" id="suggested-age"></div>
+    <div class="profile-card" id="profile-card">
+      <div class="profile-row">
+        <div class="profile-left">
+          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'">
+          <div class="profile-name">何云熙 Cathy He
+            <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
           </div>
         </div>
-
-        <div class="daily-quote" id="daily-quote">
-          <div class="greeting" id="daily-greeting"></div>
-          <div id="daily-quote-text"></div>
-          <div class="from" id="daily-quote-from"></div>
-          <div class="surprise" id="daily-surprise"></div>
-        </div>
-
-        <div class="float-box">
-          <div class="filter-label">出发城市 / Base City（输入城市名自动计算距离）</div>
-          <div class="base-city">
-            <input type="text" id="base-city-input" list="base-city-list" placeholder="如 Vancouver, BC">
-            <datalist id="base-city-list"></datalist>
-            <span id="base-city-hint" style="font-size:0.8rem;color:var(--gray);"></span>
-          </div>
-        </div>
-
-        <div class="filters">
-          <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
-          <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
-          <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
-          <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
-          <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
-        </div>
-
-        <div class="result-count" id="result-count"></div>
-        <div id="results"></div>
-        <div id="pagination"></div>
       </div>
-
-      <div class="tournaments-map" style="flex:0 0 360px; display:flex; flex-direction:column; gap:12px;">
-        <div class="card" style="position:sticky; top:12px;">
-          <div class="update-guide" id="map-guide">点击标记查看赛事。颜色维度：推荐 / Region / 赛事级别 / 报名状态。</div>
-          <div style="margin:12px 0;">
-            <div class="filter-label">颜色维度 / Color by</div>
-            <select id="map-color" style="padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:0.9rem;background:white;min-width:160px;">
-              <option value="recommended">何云熙推荐</option>
-              <option value="region" selected>Region</option>
-              <option value="circuit">赛事级别 Circuit</option>
-              <option value="reg">报名状态</option>
-            </select>
-            <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
-          </div>
-          <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
-        </div>
+      <div class="profile-row">
+        <div class="profile-meta" id="age-display"></div>
+        <div class="profile-meta" id="suggested-age"></div>
       </div>
     </div>
+
+    <div class="daily-quote" id="daily-quote">
+      <div class="greeting" id="daily-greeting"></div>
+      <div id="daily-quote-text"></div>
+      <div class="from" id="daily-quote-from"></div>
+      <div class="surprise" id="daily-surprise"></div>
+    </div>
+
+    <div class="float-box">
+      <div class="filter-label">出发城市 / Base City（输入城市名自动计算距离）</div>
+      <div class="base-city">
+        <input type="text" id="base-city-input" list="base-city-list" placeholder="如 Vancouver, BC">
+        <datalist id="base-city-list"></datalist>
+        <span id="base-city-hint" style="font-size:0.8rem;color:var(--gray);"></span>
+      </div>
+    </div>
+
+    <div class="filters">
+      <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
+      <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
+      <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
+      <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
+      <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
+    </div>
+
+    <div class="result-count" id="result-count"></div>
+    <div id="results"></div>
+    <div id="pagination"></div>
+  </div>
+
+  <!-- 赛事地图 -->
+  <div id="tab-eventsmap" class="tab-content">
+    <div class="update-guide" id="map-guide">点击地图上的标记查看赛事详情。颜色维度可选择：推荐 / Region / 赛事级别 / 报名状态。/ Click markers. Choose a color dimension below.</div>
+    <div class="float-box" style="margin-bottom:12px;">
+      <div class="filter-label">颜色维度 / Color by</div>
+      <select id="map-color" style="padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:0.9rem;background:white;min-width:160px;">
+        <option value="recommended">何云熙推荐</option>
+        <option value="region" selected>Region</option>
+        <option value="circuit">赛事级别 Circuit</option>
+        <option value="reg">报名状态</option>
+      </select>
+      <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
+    </div>
+    <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
   </div>
 
   <!-- 赛事规则 -->
@@ -1303,7 +1299,7 @@ const DIFFICULTY_LABELS = {
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       e.target.classList.add('active');
       document.getElementById('tab-' + e.target.dataset.tab).classList.add('active');
-      if (e.target.dataset.tab === 'tournaments' && !map) initMap();
+      if (e.target.dataset.tab === 'eventsmap' && !map) initMap();
     });
   }
 
@@ -1586,7 +1582,6 @@ const DIFFICULTY_LABELS = {
 
   initBaseCity();
   initFilters();
-  initMap();
   initTabs();
   initProfile();
   initGDrive();
