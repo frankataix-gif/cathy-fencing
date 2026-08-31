@@ -1,15 +1,1 @@
 Reinitialized existing Git repository in G:/我的云端硬盘/1 Devin/Cathy Fencing/.git/
-warning: in the working copy of 'push.log', LF will be replaced by CRLF the next time Git touches it
-[main 0819f90] Initial upload
- 1 file changed, 52 insertions(+), 57 deletions(-)
-Step 3: Push to GitHub... 
- 
-===== PUSH OUTPUT ===== 
-Pushing to https://github.com/frankataix-gif/cathy-fencing.git
-POST git-receive-pack (982 bytes)
-To https://github.com/frankataix-gif/cathy-fencing.git
-   7147034..0819f90  main -> main
-updating local tracking ref 'refs/remotes/origin/main'
-branch 'main' set up to track 'origin/main'.
- 
-EXIT CODE: 0 
