@@ -300,15 +300,14 @@
 
   <!-- 赛事地图 -->
   <div id="tab-eventsmap" class="tab-content">
-    <div class="update-guide" id="map-guide">点击地图上的标记查看赛事详情。颜色维度可选择：推荐 / Region / 赛事级别 / 报名状态。/ Click markers. Choose a color dimension below.</div>
     <div class="float-box" style="margin-bottom:12px;">
       <div class="filter-label">颜色维度 / Color by</div>
-      <select id="map-color" style="padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:0.9rem;background:white;min-width:160px;">
-        <option value="recommended">何云熙推荐</option>
-        <option value="region" selected>Region</option>
-        <option value="circuit">赛事级别 Circuit</option>
-        <option value="reg">报名状态</option>
-      </select>
+      <div id="map-color" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
+        <button class="btn secondary" data-dim="recommended" style="padding:6px 12px; font-size:0.8rem;">何云熙推荐</button>
+        <button class="btn" data-dim="region" style="padding:6px 12px; font-size:0.8rem;">Region</button>
+        <button class="btn secondary" data-dim="circuit" style="padding:6px 12px; font-size:0.8rem;">赛事级别 Circuit</button>
+        <button class="btn secondary" data-dim="reg" style="padding:6px 12px; font-size:0.8rem;">报名状态</button>
+      </div>
       <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
     </div>
     <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
@@ -342,15 +341,18 @@
 
   <!-- 日程 -->
   <div id="tab-cathydata" class="tab-content">
-    <div class="card">
+    <div id="schedule-pinned-card" class="card" style="display:none;">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h2>Cathy 日程</h2>
+        <h2>今日 / 正在进行</h2>
         <button class="btn cathy" id="schedule-add">+ 添加事件</button>
       </div>
-      <div id="schedule-next" style="font-size:0.9rem; color:var(--gray);"></div>
+      <div id="schedule-pinned"></div>
     </div>
 
-    <div class="card">
+    <div id="schedule-calendar-card" class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+        <h2>Cathy 日程</h2>
+      </div>
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
         <button class="btn" id="schedule-prev">&lt;</button>
         <h3 id="schedule-month" style="margin:0;"></h3>
@@ -1072,7 +1074,7 @@ const DIFFICULTY_LABELS = {
   const MAP_COLORS = {
     region: { '1':'#2563eb', '2':'#334155', '3':'#64748b', '4':'#94a3b8', '5':'#0f172a', '6':'#1d4ed8' },
     circuit: { 'RYC':'#2563eb', 'SYC':'#334155', 'RJCC':'#64748b', 'ROC':'#94a3b8', 'NAC':'#0f172a', 'Local':'#cbd5e1' },
-    reg: { 'registered':'#16a34a', 'watching':'#f59e0b', 'none':'#6b7280' },
+    reg: { 'registered':'#16a34a', 'watching':'#f59e0b', 'recommended':'#2563eb', 'none':'#6b7280' },
     recommended: { 'yes':'#334155', 'no':'#2563eb' }
   };
 
@@ -1082,6 +1084,40 @@ const DIFFICULTY_LABELS = {
     const m = d.getMonth() - b.getMonth();
     if (m < 0 || (m === 0 && d.getDate() < b.getDate())) age--;
     return age;
+  }
+
+  function cathyAgeGroupsAt(date) {
+    const age = getAgeAt(CATHY.birth, date);
+    const groups = [];
+    if (age <= 10) groups.push('Y10');
+    if (age <= 12) groups.push('Y12');
+    if (age <= 14) groups.push('Y14');
+    if (age <= 16) groups.push('CDT');
+    if (age <= 19) groups.push('JNR');
+    if (age >= 20) groups.push('SNR');
+    return groups;
+  }
+
+  function circuitImportance(circuits) {
+    const ranks = { NAC: 4, ROC: 4, SYC: 3, RJCC: 2, RYC: 1, Local: 0 };
+    return Math.max(...circuits.map(c => ranks[c] ?? 0), 0);
+  }
+
+  function isCathyRecommended(t) {
+    if (!t.weapons.includes(CATHY.weapon)) return false;
+    if (!t.age_groups.some(g => cathyAgeGroupsAt(t.start).includes(g))) return false;
+    if (t.status !== 'open') return false;
+    return true;
+  }
+
+  function recommendReason(t) {
+    const dist = t.distance_km ?? 99999;
+    const imp = circuitImportance(t.circuits);
+    if (dist <= 100 && imp >= 2) return '本地+重要';
+    if (dist <= 100) return '本地距离';
+    if (imp >= 3) return '重要赛事';
+    if (imp >= 2) return '较远但重要';
+    return 'Cathy 可报名';
   }
 
   function haversine([lat1, lon1], [lat2, lon2]) {
@@ -1097,6 +1133,8 @@ const DIFFICULTY_LABELS = {
     if (!baseCoord) return;
     TOURNAMENTS.forEach(t => {
       t.distance_km = haversine(baseCoord, [t.lat, t.lng]);
+      t.cathy_recommended = isCathyRecommended(t);
+      t.recommend_reason = recommendReason(t);
     });
   }
 
@@ -1166,7 +1204,7 @@ const DIFFICULTY_LABELS = {
   }
 
   function initFilters() {
-    const regs = ['全部','未报名','已报名','关注赛事'];
+    const regs = ['全部','推荐Cathy','未报名','已报名','关注赛事'];
     const regions = ['全部','1','2','3','4','5','6'];
     const ages = ['全部','Y12','Y14','CDT','JNR'];
     const circuits = ['全部','RYC','SYC','RJCC','ROC','NAC','Local'];
@@ -1189,6 +1227,7 @@ const DIFFICULTY_LABELS = {
   function matches(t) {
     const rs = t.reg_status;
     if (activeFilters.reg) {
+      if (activeFilters.reg === '推荐Cathy' && !t.cathy_recommended) return false;
       if (activeFilters.reg === '未报名' && (rs === 'registered' || rs === 'watching')) return false;
       if (activeFilters.reg === '已报名' && rs !== 'registered') return false;
       if (activeFilters.reg === '关注赛事' && rs !== 'watching') return false;
@@ -1265,7 +1304,7 @@ const DIFFICULTY_LABELS = {
       card.className = 'card';
       const st = STATUS_LABELS[t.status];
       const diff = DIFFICULTY_LABELS[t.difficulty];
-      const cathyTag = t.recommended ? `<span class="tag cathy">何云熙推荐</span>` : '';
+      const cathyTag = t.cathy_recommended ? `<span class="tag cathy" title="${t.recommend_reason}">推荐Cathy · ${t.recommend_reason}</span>` : '';
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
       const farTag = t.distance_km > 1000 ? `<span class="tag far">远 / ${t.distance_km}km</span>` : `<span class="tag">~${t.distance_km}km</span>`;
       const tournamentMapUrl = makeMapUrl(t);
@@ -1360,16 +1399,25 @@ const DIFFICULTY_LABELS = {
     map = L.map(mapEl).setView([CITY_COORDS[currentBase][0], CITY_COORDS[currentBase][1]], 4);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
     updateMapMarkers();
-    document.getElementById('map-color').addEventListener('change', (e) => {
-      mapColorDim = e.target.value;
-      updateMapMarkers();
+    const colorBtns = document.querySelectorAll('#map-color button[data-dim]');
+    colorBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        mapColorDim = btn.dataset.dim;
+        colorBtns.forEach(b => { b.className = 'btn' + (b === btn ? '' : ' secondary'); });
+        updateMapMarkers();
+      });
     });
   }
 
   function getMarkerColor(t) {
     const p = MAP_COLORS[mapColorDim];
     if (mapColorDim === 'recommended') return t.recommended ? p.yes : p.no;
-    if (mapColorDim === 'reg') return p[t.reg_status || 'none'];
+    if (mapColorDim === 'reg') {
+      if (t.reg_status === 'registered') return p.registered;
+      if (t.reg_status === 'watching') return p.watching;
+      if (t.cathy_recommended) return p.recommended;
+      return p.none;
+    }
     const v = (mapColorDim === 'circuit' ? t.circuits[0] : t[mapColorDim]) || '';
     return p[v] || '#2563eb';
   }
@@ -1656,40 +1704,71 @@ const DIFFICULTY_LABELS = {
     });
   }
 
+  function scheduleCountdown(e) {
+    const now = new Date();
+    const start = new Date(e.date + 'T' + (e.time ? e.time + ':00' : '00:00:00'));
+    const end = new Date((e.end || e.date) + 'T' + (e.endTime ? e.endTime + ':00' : '23:59:59'));
+    if (now >= start && now <= end) {
+      const hours = Math.ceil((end - now) / 3600000);
+      if (hours <= 24) return `进行中 · 剩余 ${hours} 小时`;
+      return `进行中 · 剩余 ${Math.ceil((end - now) / 86400000)} 天`;
+    }
+    if (now < start) {
+      const diff = start - now;
+      if (diff < 86400000) return `还有 ${Math.ceil(diff / 3600000)} 小时`;
+      return `还有 ${Math.ceil(diff / 86400000)} 天`;
+    }
+    const diff = now - end;
+    if (diff < 86400000) return `${Math.ceil(diff / 3600000)} 小时前`;
+    return `${Math.ceil(diff / 86400000)} 天前`;
+  }
+
+  function renderScheduleEventItem(e) {
+    const t = e.type;
+    const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).borderClass;
+    const countdown = scheduleCountdown(e);
+    let html = `<div class="schedule-list-item ${tc}">`;
+    html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${scheduleTypeDot(t)} ${e.title}</span><span style="font-size:0.75rem; color:var(--gray); background:#f1f5f9; padding:2px 8px; border-radius:4px; white-space:nowrap;">${countdown}</span></div>`;
+    html += `<div class="meta">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime && e.end !== e.date ? ' - ' + e.endTime : ''}</div>`;
+    if (e.description) html += `<div class="meta">注意事项：${e.description}</div>`;
+    if (e.url || e.mapUrl) {
+      html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
+      if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">报名官网</a>`;
+      if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
+      html += '</div>';
+    }
+    html += `<div style="margin-top:6px;"><button class="btn secondary" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn danger" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
+    html += '</div>';
+    return html;
+  }
+
   function renderScheduleList() {
     const list = document.getElementById('schedule-list');
-    if (!scheduleEvents.length) { list.innerHTML = '<div class="empty-state">暂无事件</div>'; return; }
-    const now = new Date(vancouverISO());
-    const upcoming = scheduleEvents.filter(e => new Date(e.date) >= now || (e.end && new Date(e.end) >= now));
-    const next = upcoming.length ? upcoming[0] : null;
-    const nextDiv = document.getElementById('schedule-next');
-    if (next) {
-      const diff = Math.ceil((new Date(next.date) - now) / 86400000);
-      nextDiv.innerHTML = `${scheduleTypeDot(next.type)} 下一件事：<b>${next.title}</b>（${next.date}，还有 ${diff} 天）`;
-    } else { nextDiv.textContent = '暂无即将到来的事件'; }
+    const pinnedCard = document.getElementById('schedule-pinned-card');
+    const pinnedDiv = document.getElementById('schedule-pinned');
+    const today = vancouverISO();
+    const pinned = pinnedDiv && scheduleEvents.filter(e => today >= e.date && today <= (e.end || e.date));
+    if (pinned && pinned.length && pinnedCard) {
+      pinnedCard.style.display = 'block';
+      pinnedDiv.innerHTML = pinned.map(renderScheduleEventItem).join('');
+    } else if (pinnedCard) {
+      pinnedCard.style.display = 'none';
+      if (pinnedDiv) pinnedDiv.innerHTML = '';
+    }
 
-    let html = '';
-    scheduleEvents.slice().reverse().forEach(e => {
-      const t = e.type;
-      const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).borderClass;
-      html += `<div class="schedule-list-item schedule-color-${t}">`;
-      html += `<div class="title" style="display:flex; align-items:center; gap:6px;">${scheduleTypeDot(t)} ${e.title}</div>`;
-      html += `<div class="meta">${e.date}${e.end ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime ? ' - ' + e.endTime : ''}</div>`;
-      if (e.description) html += `<div class="meta">注意事项：${e.description}</div>`;
-      if (e.url || e.mapUrl) {
-        html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
-        if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">报名官网</a>`;
-        if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
-        html += '</div>';
-      }
-      html += `<div style="margin-top:6px;"><button class="btn secondary" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn danger" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
-      html += '</div>';
+    if (!scheduleEvents.length) { list.innerHTML = '<div class="empty-state">暂无事件</div>'; return; }
+    const sorted = scheduleEvents.slice().sort((a, b) => {
+      const ad = a.date + 'T' + (a.time || '00:00:00');
+      const bd = b.date + 'T' + (b.time || '00:00:00');
+      return new Date(ad) - new Date(bd);
     });
-    list.innerHTML = html;
-    list.querySelectorAll('button[data-edit]').forEach(btn => {
+    list.innerHTML = sorted.map(renderScheduleEventItem).join('');
+    const tab = document.getElementById('tab-cathydata');
+    if (!tab) return;
+    tab.querySelectorAll('button[data-edit]').forEach(btn => {
       btn.addEventListener('click', () => openScheduleModal(scheduleEvents.find(e => e.id === btn.dataset.edit)));
     });
-    list.querySelectorAll('button[data-delete]').forEach(btn => {
+    tab.querySelectorAll('button[data-delete]').forEach(btn => {
       btn.addEventListener('click', () => { if (confirm('删除这个事件？')) deleteSchedule(btn.dataset.delete); });
     });
   }
@@ -1747,16 +1826,41 @@ const DIFFICULTY_LABELS = {
   }
 
   function initImageLightbox() {
-    const modal = document.getElementById('img-modal');
-    const modalImg = document.getElementById('img-modal-img');
-    if (!modal || !modalImg) return;
     document.querySelectorAll('.membership-thumb').forEach(img => {
       img.addEventListener('click', () => {
+        const modal = document.getElementById('img-modal');
+        const modalImg = document.getElementById('img-modal-img');
+        if (!modal || !modalImg) return;
         modalImg.src = img.dataset.full;
         modal.style.display = 'flex';
       });
     });
-    modal.addEventListener('click', () => { modal.style.display = 'none'; });
+    const modal = document.getElementById('img-modal');
+    if (modal) modal.addEventListener('click', () => { modal.style.display = 'none'; });
+  }
+
+  function initTournamentNav() {
+    const nav = document.getElementById('tournament-nav');
+    const homeBtn = document.getElementById('tournament-back-home');
+    const topBtn = document.getElementById('tournament-back-top');
+    const tournamentTab = document.getElementById('tab-tournaments');
+    if (!nav || !homeBtn || !topBtn || !tournamentTab) return;
+    function update() {
+      const active = tournamentTab.classList.contains('active') && window.scrollY > 300;
+      nav.style.display = active ? 'flex' : 'none';
+    }
+    window.addEventListener('scroll', update, { passive: true });
+    homeBtn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      const homeTab = document.querySelector('.tab[data-tab="tournaments"]');
+      if (homeTab) homeTab.classList.add('active');
+      tournamentTab.classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    topBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    document.getElementById('tabs').addEventListener('click', () => setTimeout(update, 50));
+    update();
   }
 
   initBaseCity();
@@ -1768,6 +1872,7 @@ const DIFFICULTY_LABELS = {
   initHeaderMeta();
   initSchedule();
   initImageLightbox();
+  initTournamentNav();
   renderResults();
   renderDailyQuote();
 </script>
@@ -1810,6 +1915,10 @@ const DIFFICULTY_LABELS = {
 
   <div id="img-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.9); z-index:100000; align-items:center; justify-content:center; padding:16px;">
     <img id="img-modal-img" style="max-width:100%; max-height:90vh; border-radius:12px; cursor:pointer;" alt="Membership">
+  </div>
+  <div id="tournament-nav" style="display:none; position:fixed; bottom:20px; right:20px; z-index:999; gap:8px;">
+    <button class="btn secondary" id="tournament-back-home" style="padding:6px 12px; font-size:0.8rem;">首页</button>
+    <button class="btn" id="tournament-back-top" style="padding:6px 12px; font-size:0.8rem;">顶部</button>
   </div>
 </body>
 </html>
