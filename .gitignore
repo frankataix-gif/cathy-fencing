@@ -23,5 +23,8 @@ push.log
 # Local source files (images, pdfs, extracted txts)
 1 Files/
 
+# Intermediate tournament fetch output
+cathy_data/tournaments.csv
+
 
 
