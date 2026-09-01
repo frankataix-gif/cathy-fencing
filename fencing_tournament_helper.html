@@ -322,12 +322,19 @@
   <!-- 赛事地图 -->
   <div id="tab-eventsmap" class="tab-content">
     <div class="float-box" style="margin-bottom:12px;">
-      <div class="filter-label">颜色维度 / Color by</div>
+      <div id="map-prompt" style="font-size:0.85rem; color:var(--gray); margin-bottom:10px; padding:8px 12px; background:#f8fafc; border-radius:8px;">按 全部 + Region 显示赛事地图</div>
+      <div class="filter-label">主要筛选 / Main</div>
+      <div id="map-primary" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; margin-bottom:12px;">
+        <button class="btn" data-pv="全部" style="padding:6px 12px; font-size:0.8rem;">全部</button>
+        <button class="btn secondary" data-pv="推荐Cathy" style="padding:6px 12px; font-size:0.8rem;">推荐Cathy</button>
+        <button class="btn secondary" data-pv="未报名" style="padding:6px 12px; font-size:0.8rem;">未报名</button>
+        <button class="btn secondary" data-pv="已报名" style="padding:6px 12px; font-size:0.8rem;">已报名</button>
+        <button class="btn secondary" data-pv="关注赛事" style="padding:6px 12px; font-size:0.8rem;">关注赛事</button>
+      </div>
+      <div class="filter-label">第二层颜色 / Color by</div>
       <div id="map-color" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
-        <button class="btn secondary" data-dim="recommended" style="padding:6px 12px; font-size:0.8rem;">推荐Cathy</button>
         <button class="btn" data-dim="region" style="padding:6px 12px; font-size:0.8rem;">Region</button>
         <button class="btn secondary" data-dim="circuit" style="padding:6px 12px; font-size:0.8rem;">赛事级别 Circuit</button>
-        <button class="btn secondary" data-dim="reg" style="padding:6px 12px; font-size:0.8rem;">报名状态</button>
       </div>
       <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
     </div>
@@ -1288,6 +1295,26 @@ const DIFFICULTY_LABELS = {
     return true;
   }
 
+  function mapMatches(t) {
+    const rs = t.reg_status;
+    if (activeFilters.reg) {
+      if (activeFilters.reg === '推荐Cathy' && !t.cathy_recommended) return false;
+      if (activeFilters.reg === '未报名' && (rs === 'registered' || rs === 'watching')) return false;
+      if (activeFilters.reg === '已报名' && rs !== 'registered') return false;
+      if (activeFilters.reg === '关注赛事' && rs !== 'watching') return false;
+    }
+    if (!t.weapons.includes(CATHY.weapon)) return false;
+    return true;
+  }
+
+  function updateMapPrompt() {
+    const prompt = document.getElementById('map-prompt');
+    if (!prompt) return;
+    const main = activeFilters.reg || '全部';
+    const secondary = { region: 'Region', circuit: '赛事级别 Circuit' }[mapColorDim] || mapColorDim;
+    prompt.textContent = `按 ${main} + ${secondary} 显示赛事地图`;
+  }
+
   function formatDate(s, e) {
     const ds = new Date(s).toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
     const de = new Date(e).toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
@@ -1442,12 +1469,43 @@ const DIFFICULTY_LABELS = {
     });
   }
 
+  function updateMapPrimaryUI() {
+    const value = activeFilters.reg || '全部';
+    document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
+      b.className = 'btn' + (b.dataset.pv === value ? '' : ' secondary');
+    });
+    updateMapPrompt();
+  }
+
   function initMap() {
     const mapEl = document.getElementById('map');
     if (!mapEl) return;
     map = L.map(mapEl).setView([CITY_COORDS[currentBase][0], CITY_COORDS[currentBase][1]], 4);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
-    updateMapMarkers();
+
+    function setMapPrimary(value) {
+      activeFilters.reg = value === '全部' ? null : value;
+      document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
+        b.className = 'btn' + (b.dataset.pv === (value || '全部') ? '' : ' secondary');
+      });
+      const regContainer = document.getElementById('reg-filters');
+      if (regContainer) {
+        Array.from(regContainer.children).forEach(b => {
+          b.classList.remove('active');
+          if (b.dataset.value === (value || '全部')) b.classList.add('active');
+        });
+      }
+      currentPage = 1;
+      renderResults();
+      updateMapMarkers();
+    }
+
+    const primaryBtns = document.querySelectorAll('#map-primary button[data-pv]');
+    primaryBtns.forEach(btn => {
+      btn.addEventListener('click', () => setMapPrimary(btn.dataset.pv));
+    });
+    setMapPrimary(activeFilters.reg || '全部');
+
     const colorBtns = document.querySelectorAll('#map-color button[data-dim]');
     colorBtns.forEach(btn => {
       btn.addEventListener('click', () => {
@@ -1456,6 +1514,11 @@ const DIFFICULTY_LABELS = {
         updateMapMarkers();
       });
     });
+    colorBtns.forEach(b => {
+      b.className = 'btn' + (b.dataset.dim === mapColorDim ? '' : ' secondary');
+    });
+
+    updateMapMarkers();
   }
 
   function getMarkerColor(t) {
@@ -1479,9 +1542,11 @@ const DIFFICULTY_LABELS = {
 
   function updateMapMarkers() {
     if (!map) return;
+    updateMapPrimaryUI();
+    updateMapPrompt();
     updateMapLegend();
     markers.forEach(m => map.removeLayer(m)); markers = [];
-    const visible = TOURNAMENTS.filter(matches);
+    const visible = TOURNAMENTS.filter(mapMatches);
     visible.forEach(t => {
       const color = getMarkerColor(t);
       const marker = L.circleMarker([t.lat, t.lng], { radius: 8, color, fillColor: color, fillOpacity: 0.8 }).addTo(map);
