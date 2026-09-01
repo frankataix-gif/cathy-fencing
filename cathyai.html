@@ -3,15 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="mobile-web-app-capable" content="yes">
   <meta name="theme-color" content="#1e40af">
-  <title>CathyAI</title>
+  <title>Cathy 数据导出</title>
   <style>
     :root {
       --primary: #1e40af;
       --primary-dark: #1e3a8a;
-      --primary-light: #dbeafe;
       --bg: #f1f5f9;
       --white: #ffffff;
       --text: #1e293b;
@@ -19,148 +16,174 @@
       --border: #e2e8f0;
     }
     * { box-sizing: border-box; }
-    html, body { margin: 0; height: 100%; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background: var(--bg); color: var(--text); }
-    html { height: -webkit-fill-available; }
-    .app { display: flex; flex-direction: column; height: 100vh; height: 100dvh; min-height: -webkit-fill-available; }
-    .header { background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: white; padding: 12px 16px; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.12); z-index: 10; }
-    .header .avatar { width: 36px; height: 36px; border-radius: 50%; background: white; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; }
-    .header .title { flex: 1; }
+    html, body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background: var(--bg); color: var(--text); }
+    .app { max-width: 760px; margin: 0 auto; min-height: 100vh; }
+    .header { background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: white; padding: 14px 16px; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.12); }
     .header h1 { font-size: 1.1rem; margin: 0; font-weight: 600; }
-    .header .status { font-size: 0.7rem; opacity: 0.85; }
-    .header .close { color: white; text-decoration: none; font-size: 1.2rem; padding: 4px; }
-    .messages { flex: 1; overflow-y: auto; padding: 16px; padding-bottom: 170px; display: flex; flex-direction: column; gap: 12px; -webkit-overflow-scrolling: touch; min-height: 0; }
-    .msg { display: flex; max-width: 85%; }
-    .msg.ai { align-self: flex-start; }
-    .msg.user { align-self: flex-end; }
-    .bubble { padding: 10px 14px; border-radius: 18px; font-size: 0.95rem; line-height: 1.45; white-space: pre-wrap; word-break: break-word; }
-    .msg.ai .bubble { background: white; border: 1px solid var(--border); border-bottom-left-radius: 6px; }
-    .msg.user .bubble { background: var(--primary); color: white; border-bottom-right-radius: 6px; }
-    .typing { font-size: 0.8rem; color: var(--gray); padding: 4px 0; }
-    .input-bar { position: fixed; bottom: 45px; left: 0; right: 0; padding: 12px 16px; padding-bottom: calc(12px + env(safe-area-inset-bottom)); background: white; border-top: 1px solid var(--border); display: flex; gap: 8px; align-items: center; z-index: 100; }
-    .input-bar input { flex: 1; padding: 12px 16px; border: 1px solid var(--border); border-radius: 24px; font-size: 16px; outline: none; -webkit-appearance: none; }
-    .input-bar input:focus { border-color: var(--primary); }
-    .input-bar input::placeholder { color: var(--gray); }
-    .input-bar button { width: 44px; height: 44px; border: none; border-radius: 50%; background: var(--primary); color: white; font-size: 1.2rem; display: flex; align-items: center; justify-content: center; }
-    .input-bar button:disabled { background: var(--gray); }
-    .setup { margin: 12px auto; padding: 14px 18px; background: #fff7ed; border: 1px solid #fed7aa; border-radius: 12px; max-width: 90%; font-size: 0.85rem; color: #9a3412; }
-    .setup a { color: var(--primary); }
+    .header .sub { font-size: 0.75rem; opacity: 0.85; margin-top: 2px; }
+    .header a { color: white; text-decoration: none; font-size: 1.2rem; margin-left: auto; }
+    .content { padding: 16px; }
+    .card { background: white; border-radius: 12px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+    .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; margin-top: 10px; }
+    .stat { background: var(--bg); border-radius: 8px; padding: 10px; text-align: center; }
+    .stat .num { font-size: 1.2rem; font-weight: 700; color: var(--primary); }
+    .stat .label { font-size: 0.75rem; color: var(--gray); }
+    .btn { display: inline-flex; align-items: center; justify-content: center; padding: 10px 16px; border-radius: 24px; border: none; background: var(--primary); color: white; font-size: 0.95rem; margin: 6px 6px 0 0; cursor: pointer; text-decoration: none; }
+    .btn.secondary { background: var(--white); color: var(--primary); border: 1px solid var(--border); }
+    .btn:disabled { background: var(--gray); cursor: not-allowed; }
+    .output { width: 100%; min-height: 240px; margin-top: 12px; padding: 12px; border: 1px solid var(--border); border-radius: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 0.9rem; line-height: 1.5; resize: vertical; }
+    .empty { color: var(--gray); text-align: center; padding: 40px 16px; }
+    .note { font-size: 0.8rem; color: var(--gray); margin-top: 10px; }
   </style>
 </head>
 <body>
   <div class="app">
     <div class="header">
-      <div class="avatar">🤖</div>
-      <div class="title">
-        <h1>CathyAI</h1>
-        <div class="status" id="cathyai-status">何云熙专属击剑助手</div>
+      <div>
+        <h1>Cathy 数据导出</h1>
+        <div class="sub">一键汇总训练 / 比赛 / 成长数据</div>
       </div>
-      <a href="fencing_tournament_helper.html" class="close">✕</a>
+      <a href="fencing_tournament_helper.html">✕</a>
     </div>
 
-    <div id="cathyai-setup" class="setup" style="display:none;">
-      <b>CathyAI 还不能用</b><br>
-      需要先部署 Cloudflare Worker，并把 Worker URL 填到本文件开头的 <code>CATHY_AI_WORKER_URL</code>。<br>
-      教程：<a href="CATHY_AI_SETUP.md" target="_blank">CATHY_AI_SETUP.md</a>
-    </div>
+    <div class="content">
+      <div class="card" id="stats-card" style="display:none;">
+        <b>数据概览</b>
+        <div class="stat-grid" id="stat-grid"></div>
+        <div class="note" id="last-updated"></div>
+      </div>
 
-    <div id="cathyai-messages" class="messages"></div>
+      <div class="card">
+        <button class="btn" id="generate-btn">📊 读取最新数据</button>
+        <button class="btn secondary" id="copy-btn" disabled>📋 复制</button>
+        <button class="btn secondary" id="download-btn" disabled>⬇️ 下载 .txt</button>
+        <button class="btn secondary" id="email-btn" disabled>✉️ 发送邮件</button>
+        <textarea class="output" id="output" readonly placeholder="点击「读取最新数据」生成 Cathy 数据报告..."></textarea>
+      </div>
 
-    <div class="input-bar">
-      <input id="cathyai-input" type="text" placeholder="问 CathyAI..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" inputmode="text" disabled>
-      <button id="cathyai-send" disabled>➤</button>
+      <div class="card note">
+        数据来源：fencing_tournament_helper.html 里输入的「击剑数据」。<br>
+        用途：复制或下载后，可粘贴到任意 AI（ChatGPT、Claude、Gemini 等）进行深度分析。
+      </div>
     </div>
   </div>
 
   <script>
-    // ===================== 配置 =====================
-    // 部署 Cloudflare Worker 后，把 URL 填在这里
-    const CATHY_AI_WORKER_URL = 'https://cathyfencing.frankataix.workers.dev';
-    // ================================================
+    const CATHY_TRAINING_SCHEMA = [
+      { key: 'competition', label: '比赛成绩' },
+      { key: 'physical', label: '体能训练' },
+      { key: 'stretching', label: '拉伸恢复' },
+      { key: 'medical', label: '检查报告' },
+      { key: 'technical', label: '技术训练' },
+      { key: 'mental', label: '心理状态' },
+      { key: 'nutrition', label: '饮食睡眠' },
+      { key: 'equipment', label: '装备维护' }
+    ];
 
-    function getContext() {
+    let currentText = '';
+
+    function getCathyData() {
       try {
-        const raw = localStorage.getItem('cathy_training_data') || '{}';
-        const records = JSON.parse(raw);
-        const text = JSON.stringify(records);
-        return text.length > 8000 ? text.slice(0, 8000) + '\n...（数据已截断）' : text;
-      } catch (e) {
-        return '暂无 Cathy 数据';
-      }
+        return JSON.parse(localStorage.getItem('cathy_training_data') || '{}');
+      } catch (e) { return {}; }
     }
 
-    const messagesEl = document.getElementById('cathyai-messages');
-    const inputEl = document.getElementById('cathyai-input');
-    const sendBtn = document.getElementById('cathyai-send');
-    const statusEl = document.getElementById('cathyai-status');
-    const setupEl = document.getElementById('cathyai-setup');
+    function formatData(records) {
+      const now = new Date().toLocaleString('zh-CN', { timeZone: 'America/Vancouver' });
+      let out = `Cathy He（何云熙）击剑数据报告\n`;
+      out += `导出时间：${now}（Vancouver 时间）\n`;
+      out += `=` .repeat(40) + '\n\n';
 
-    function appendMsg(role, text) {
-      const row = document.createElement('div');
-      row.className = 'msg ' + role;
-      const bubble = document.createElement('div');
-      bubble.className = 'bubble';
-      bubble.textContent = text;
-      row.appendChild(bubble);
-      messagesEl.appendChild(row);
-      messagesEl.scrollTop = messagesEl.scrollHeight;
-    }
-
-    function setTyping(show) {
-      let el = document.getElementById('cathyai-typing');
-      if (!show) {
-        if (el) el.remove();
-        return;
-      }
-      if (!el) {
-        el = document.createElement('div');
-        el.id = 'cathyai-typing';
-        el.className = 'typing';
-        el.textContent = 'CathyAI 思考中...';
-        messagesEl.appendChild(el);
-        messagesEl.scrollTop = messagesEl.scrollHeight;
-      }
-    }
-
-    async function send() {
-      const q = inputEl.value.trim();
-      if (!q) return;
-      inputEl.value = '';
-      appendMsg('user', q);
-      setTyping(true);
-      statusEl.textContent = 'CathyAI 思考中...';
-      try {
-        const resp = await fetch(CATHY_AI_WORKER_URL, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ question: q, context: getContext() })
+      CATHY_TRAINING_SCHEMA.forEach(cat => {
+        const rows = records[cat.key] || [];
+        out += `## ${cat.label}（${rows.length} 条记录）\n\n`;
+        if (!rows.length) {
+          out += '暂无记录\n\n';
+          return;
+        }
+        // 按日期倒序
+        const sorted = [...rows].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+        sorted.forEach((row, idx) => {
+          out += `${idx + 1}. `;
+          const parts = [];
+          for (const [k, v] of Object.entries(row)) {
+            parts.push(`${k}: ${v}`);
+          }
+          out += parts.join(' | ') + '\n';
         });
-        const data = await resp.json();
-        if (!resp.ok || data.error) throw new Error(data.error || '请求失败');
-        appendMsg('ai', data.answer || 'CathyAI 没有回答。');
+        out += '\n';
+      });
+
+      out += `## 数据总结\n\n`;
+      const total = CATHY_TRAINING_SCHEMA.reduce((s, c) => s + (records[c.key] || []).length, 0);
+      out += `总记录数：${total}\n`;
+      CATHY_TRAINING_SCHEMA.forEach(c => {
+        out += `- ${c.label}：${(records[c.key] || []).length}\n`;
+      });
+      out += '\n以上数据可直接粘贴给其它 AI 软件分析。';
+      return out;
+    }
+
+    function renderStats(records) {
+      const card = document.getElementById('stats-card');
+      const grid = document.getElementById('stat-grid');
+      const total = CATHY_TRAINING_SCHEMA.reduce((s, c) => s + (records[c.key] || []).length, 0);
+      if (total === 0) { card.style.display = 'none'; return; }
+      grid.innerHTML = '';
+      CATHY_TRAINING_SCHEMA.forEach(cat => {
+        const count = (records[cat.key] || []).length;
+        if (count === 0) return;
+        const div = document.createElement('div');
+        div.className = 'stat';
+        div.innerHTML = `<div class="num">${count}</div><div class="label">${cat.label}</div>`;
+        grid.appendChild(div);
+      });
+      document.getElementById('last-updated').textContent = `共 ${total} 条记录`;
+      card.style.display = 'block';
+    }
+
+    document.getElementById('generate-btn').addEventListener('click', () => {
+      const records = getCathyData();
+      renderStats(records);
+      currentText = formatData(records);
+      document.getElementById('output').value = currentText;
+      ['copy-btn', 'download-btn', 'email-btn'].forEach(id => document.getElementById(id).disabled = !currentText);
+    });
+
+    document.getElementById('copy-btn').addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(currentText);
+        alert('已复制到剪贴板');
       } catch (e) {
-        appendMsg('ai', '抱歉，出错了：' + e.message);
+        document.getElementById('output').select();
+        alert('请手动复制');
       }
-      setTyping(false);
-      statusEl.textContent = '何云熙专属击剑助手';
-    }
+    });
 
-    if (CATHY_AI_WORKER_URL) {
-      inputEl.disabled = false;
-      sendBtn.disabled = false;
-      appendMsg('ai', '你好，我是 CathyAI。\n\n我可以帮你：\n• 分析 Cathy 的比赛和训练\n• 推荐适合的赛事\n• 解释击剑规则\n• 提醒休息和拉伸\n\n有什么问题随时问我。');
+    document.getElementById('download-btn').addEventListener('click', () => {
+      const blob = new Blob([currentText], { type: 'text/plain;charset=utf-8' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = `Cathy_数据_${new Date().toISOString().slice(0,10)}.txt`;
+      a.click();
+      URL.revokeObjectURL(a.href);
+    });
+
+    document.getElementById('email-btn').addEventListener('click', () => {
+      const subject = encodeURIComponent('Cathy He 击剑数据导出');
+      const bodyMax = 1500;
+      const bodyText = currentText.length > bodyMax ? currentText.slice(0, bodyMax) + '\n\n[数据过长，请使用「下载 .txt」后作为附件发送]' : currentText;
+      const body = encodeURIComponent(bodyText);
+      window.location.href = `mailto:?subject=${subject}&body=${body}`;
+    });
+
+    // 自动读取一次
+    const initial = getCathyData();
+    const total = CATHY_TRAINING_SCHEMA.reduce((s, c) => s + (initial[c.key] || []).length, 0);
+    if (total > 0) {
+      document.getElementById('generate-btn').click();
     } else {
-      setupEl.style.display = 'block';
-      appendMsg('ai', '你好，CathyAI 还没配置好。\n\n请先看 CATHY_AI_SETUP.md 部署 Worker，然后把 Worker URL 填进本文件。');
-    }
-
-    sendBtn.addEventListener('click', send);
-    inputEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') send(); });
-    function keepBottom() {
-      messagesEl.scrollTop = messagesEl.scrollHeight;
-    }
-    inputEl.addEventListener('focus', () => setTimeout(keepBottom, 250));
-    if (window.visualViewport) {
-      window.visualViewport.addEventListener('resize', () => setTimeout(keepBottom, 250));
+      document.getElementById('output').value = '暂无 Cathy 数据。请先在 fencing_tournament_helper.html 的「击剑数据」里输入记录。';
     }
   </script>
 </body>
