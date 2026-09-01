@@ -1259,10 +1259,7 @@ const DIFFICULTY_LABELS = {
   }
 
   function makeMapUrl(t) {
-    if (t && t.lat && t.lng && (t.lat !== 0.0 || t.lng !== 0.0)) {
-      return `https://www.google.com/maps?q=${t.lat},${t.lng}`;
-    }
-    const query = [t.city, t.state, 'USA'].filter(Boolean).join(', ');
+    const query = [t.name, t.city, t.state, 'USA'].filter(Boolean).join(', ');
     return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
   }
 
