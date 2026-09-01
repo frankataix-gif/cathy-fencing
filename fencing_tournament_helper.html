@@ -479,6 +479,18 @@
       <p style="font-size:0.8rem; color:var(--gray); margin-top:8px;">Tap to enlarge / 点击放大</p>
     </div>
 
+    <div class="card">
+      <h3 style="margin-bottom:12px;">GitHub 数据同步</h3>
+      <div class="form-row">
+        <label for="sync-worker-url">Worker URL</label>
+        <input type="text" id="sync-worker-url" placeholder="https://your-worker.your-subdomain.workers.dev/save" value="">
+      </div>
+      <div style="display:flex; gap:8px; justify-content:space-between; align-items:center; margin-top:12px; flex-wrap:wrap;">
+        <span id="sync-last-status" style="font-size:0.8rem;color:var(--gray);">上次同步：从未</span>
+        <button class="btn cathy" id="sync-to-github" onclick="syncAllToGitHub()">同步到 GitHub</button>
+      </div>
+    </div>
+
     <div class="card" style="text-align:center;">
       <h3 style="margin-bottom:12px;">Cathy 数据导出</h3>
       <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">一键读取最新训练、比赛数据，复制或下载后发给其它 AI 分析。</p>
@@ -489,6 +501,7 @@
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
 const DATA_UPDATED = '2026-08-31';
+const CATHY_SYNC_WORKER_URL = '';
 
 const CATHY = {
   nameZh: '何云熙',
@@ -1236,6 +1249,63 @@ const DIFFICULTY_LABELS = {
 
   function getLocal(key, def) {
     try { return localStorage.getItem(key) || def; } catch(e) { return def; }
+  }
+
+  async function loadUserDataFromGitHub() {
+    try {
+      const res = await fetch('cathy_data/user_data.json', { cache: 'no-cache' });
+      if (!res.ok) return;
+      const data = await res.json();
+      if (data.registrations && typeof data.registrations === 'object') {
+        Object.entries(data.registrations).forEach(([id, status]) => {
+          saveToLocal('reg_' + id, status);
+        });
+      }
+      if (Array.isArray(data.schedule)) {
+        scheduleEvents = data.schedule;
+        saveToLocal('cathy_schedule_events', JSON.stringify(data.schedule));
+      }
+      if (data.baseCity) {
+        saveToLocal('cathy_base_city', data.baseCity);
+        const input = document.getElementById('base-city-input');
+        if (input) input.value = data.baseCity;
+        if (CITY_COORDS[data.baseCity]) {
+          currentBase = data.baseCity;
+          computeDistances(currentBase);
+        }
+      }
+      renderResults();
+      renderSchedule();
+    } catch (err) {}
+  }
+
+  async function syncAllToGitHub() {
+    const input = document.getElementById('sync-worker-url');
+    const workerUrl = (input && input.value.trim()) || CATHY_SYNC_WORKER_URL;
+    if (!workerUrl) { alert('请先设置 Worker URL'); return; }
+    const registrations = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith('reg_')) registrations[key.slice(4)] = localStorage.getItem(key);
+    }
+    let schedule = [];
+    try { schedule = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { schedule = []; }
+    const baseCity = getLocal('cathy_base_city', '');
+    const userData = { registrations, schedule, baseCity };
+    try {
+      const res = await fetch(workerUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'save', path: 'cathy_data/user_data.json', content: JSON.stringify(userData), message: 'Sync Cathy data' })
+      });
+      const result = await res.json().catch(() => ({}));
+      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+      const statusEl = document.getElementById('sync-last-status');
+      if (statusEl) statusEl.textContent = '上次同步：' + new Date().toLocaleString();
+      alert('同步成功');
+    } catch(err) {
+      alert('同步失败: ' + err.message);
+    }
   }
 
   function createChips(container, options, type, labelKey = 'label') {
@@ -2116,6 +2186,7 @@ const DIFFICULTY_LABELS = {
   initImageLightbox();
   initTournamentNav();
   initPullToRefresh();
+  loadUserDataFromGitHub();
   renderResults();
   renderDailyQuote();
 </script>

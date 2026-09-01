@@ -83,6 +83,116 @@ function corsHeaders() {
   };
 }
 
+function jsonResponse(obj, status = 200) {
+  return new Response(JSON.stringify(obj), { status, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
+}
+
+function toBase64(str) {
+  const bytes = new TextEncoder().encode(str);
+  let binary = '';
+  for (let i = 0; i < bytes.length; i++) binary += String.fromCharCode(bytes[i]);
+  return btoa(binary);
+}
+
+async function handleSave(body, env) {
+  const { path, content, message } = body || {};
+  if (!path || content === undefined) {
+    return jsonResponse({ error: '缺少 path 或 content' }, 400);
+  }
+  if (!env.GITHUB_TOKEN) {
+    return jsonResponse({ error: 'Worker 没拿到 GITHUB_TOKEN' }, 500);
+  }
+  const repo = env.GITHUB_REPO || '';
+  const slash = repo.indexOf('/');
+  if (slash < 0) {
+    return jsonResponse({ error: 'GITHUB_REPO 格式应为 owner/repo' }, 500);
+  }
+  const owner = repo.slice(0, slash);
+  const repoName = repo.slice(slash + 1);
+  const branch = env.GITHUB_BRANCH || 'main';
+  const encodedPath = encodeURIComponent(path);
+
+  const getResp = await fetch(`https://api.github.com/repos/${owner}/${repoName}/contents/${encodedPath}?ref=${branch}`, {
+    method: 'GET',
+    headers: {
+      'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'cathy-fencing-worker'
+    }
+  });
+
+  let sha;
+  if (getResp.status === 404) {
+    sha = undefined;
+  } else if (!getResp.ok) {
+    const text = await getResp.text();
+    return jsonResponse({ error: `GitHub 读取失败: ${getResp.status} ${text}` }, 502);
+  } else {
+    const data = await getResp.json();
+    sha = data.sha;
+  }
+
+  const putResp = await fetch(`https://api.github.com/repos/${owner}/${repoName}/contents/${encodedPath}`, {
+    method: 'PUT',
+    headers: {
+      'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'cathy-fencing-worker',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      message: message || 'Update via Cathy Fencing Worker',
+      content: toBase64(content),
+      branch,
+      ...(sha ? { sha } : {})
+    })
+  });
+
+  if (!putResp.ok) {
+    const text = await putResp.text();
+    return jsonResponse({ error: `GitHub 保存失败: ${putResp.status} ${text}` }, 502);
+  }
+  return jsonResponse({ success: true });
+}
+
+async function handleAI(body, env) {
+  if (!env.OPENAI_API_KEY) {
+    return jsonResponse({ error: 'Worker 没拿到 OPENAI_API_KEY，请在 Cloudflare Variables 里添加并 Deploy' }, 500);
+  }
+  const { question, context } = body || {};
+  if (!question) {
+    return jsonResponse({ error: '缺少 question' }, 400);
+  }
+
+  const messages = [
+    { role: 'system', content: SYSTEM_PROMPT },
+    { role: 'user', content: `以下是目前 Cathy 的训练/比赛数据：\n\n${context || '暂无数据'}\n\n问题：${question}` }
+  ];
+
+  const openaiResp = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${env.OPENAI_API_KEY}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      messages,
+      temperature: 0.7,
+      max_tokens: 800
+    })
+  });
+
+  if (!openaiResp.ok) {
+    const errText = await openaiResp.text();
+    return jsonResponse({ error: `OpenAI 错误: ${openaiResp.status} ${errText}` }, 502);
+  }
+
+  const data = await openaiResp.json();
+  const answer = data.choices?.[0]?.message?.content || 'CathyAI 没有回答。';
+  return jsonResponse({ answer });
+}
+
 export default {
   async fetch(request, env, ctx) {
     if (request.method === 'OPTIONS') {
@@ -93,45 +203,20 @@ export default {
       return new Response('Only POST is allowed', { status: 405, headers: corsHeaders() });
     }
 
+    let body;
     try {
-      if (!env.OPENAI_API_KEY) {
-        return new Response(JSON.stringify({ error: 'Worker 没拿到 OPENAI_API_KEY，请在 Cloudflare Variables 里添加并 Deploy' }), { status: 500, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
-      }
-      const { question, context } = await request.json();
-      if (!question) {
-        return new Response(JSON.stringify({ error: '缺少 question' }), { status: 400, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
-      }
-
-      const messages = [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: `以下是目前 Cathy 的训练/比赛数据：\n\n${context || '暂无数据'}\n\n问题：${question}` }
-      ];
-
-      const openaiResp = await fetch('https://api.openai.com/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${env.OPENAI_API_KEY}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          model: 'gpt-4o-mini',
-          messages,
-          temperature: 0.7,
-          max_tokens: 800
-        })
-      });
-
-      if (!openaiResp.ok) {
-        const errText = await openaiResp.text();
-        return new Response(JSON.stringify({ error: `OpenAI 错误: ${openaiResp.status} ${errText}` }), { status: 502, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
-      }
-
-      const data = await openaiResp.json();
-      const answer = data.choices?.[0]?.message?.content || 'CathyAI 没有回答。';
-
-      return new Response(JSON.stringify({ answer }), { headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
+      body = await request.json();
     } catch (e) {
-      return new Response(JSON.stringify({ error: e.message }), { status: 500, headers: { ...corsHeaders(), 'Content-Type': 'application/json' } });
+      return jsonResponse({ error: '无法解析 JSON 请求体' }, 400);
+    }
+
+    try {
+      if (request.url.endsWith('/save') || (body && body.action === 'save')) {
+        return await handleSave(body, env);
+      }
+      return await handleAI(body, env);
+    } catch (e) {
+      return jsonResponse({ error: e.message }, 500);
     }
   }
 };
