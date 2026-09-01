@@ -371,7 +371,10 @@
     </div>
 
     <div class="card">
-      <h3 style="margin-bottom:12px;">事件列表</h3>
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+        <h3 style="margin:0;">事件列表</h3>
+        <button class="btn" onclick="openScheduleModal(null)">+ 日程</button>
+      </div>
       <div id="schedule-list"></div>
     </div>
   </div>
