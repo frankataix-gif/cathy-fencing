@@ -1275,6 +1275,8 @@ const DIFFICULTY_LABELS = {
       regSel.addEventListener('change', (e) => {
         e.stopPropagation();
         saveToLocal('reg_' + t.id, e.target.value);
+        t.reg_status = e.target.value;
+        syncTournamentToSchedule(t, e.target.value);
         currentPage = 1;
         renderResults();
       });
@@ -1586,6 +1588,33 @@ const DIFFICULTY_LABELS = {
     renderScheduleList();
   }
 
+  function syncTournamentToSchedule(t, status) {
+    const id = 't_' + t.id;
+    if (status !== 'registered') {
+      scheduleEvents = scheduleEvents.filter(e => e.id !== id);
+      saveSchedule();
+      return;
+    }
+    const existing = scheduleEvents.find(e => e.id === id);
+    const ev = existing || {};
+    ev.id = id;
+    ev.title = t.name;
+    ev.date = t.start || vancouverISO().slice(0,10);
+    ev.end = t.end || null;
+    ev.type = 'competition';
+    ev.description = [t.city, t.state].filter(Boolean).join(', ');
+    if (!existing) scheduleEvents.push(ev);
+    scheduleEvents.sort((a,b) => new Date(a.date) - new Date(b.date));
+    saveSchedule();
+  }
+
+  function syncAllRegisteredTournaments() {
+    TOURNAMENTS.forEach(t => {
+      const status = getLocal('reg_' + t.id, DEFAULT_REGISTRATIONS[t.id] || t.reg_status || '');
+      if (status === 'registered') syncTournamentToSchedule(t, status);
+    });
+  }
+
   function initSchedule() {
     document.getElementById('schedule-prev').addEventListener('click', () => {
       scheduleCurrentMonth.setMonth(scheduleCurrentMonth.getMonth() - 1);
@@ -1599,6 +1628,7 @@ const DIFFICULTY_LABELS = {
     document.getElementById('schedule-save').addEventListener('click', addOrUpdateSchedule);
     document.getElementById('schedule-cancel').addEventListener('click', closeScheduleModal);
     document.getElementById('schedule-modal').addEventListener('click', (e) => { if (e.target.id === 'schedule-modal') closeScheduleModal(); });
+    syncAllRegisteredTournaments();
     renderSchedule();
   }
 
