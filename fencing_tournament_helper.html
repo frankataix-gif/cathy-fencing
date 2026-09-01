@@ -379,34 +379,36 @@
     </div>
   </div>
 
-  <div id="schedule-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:200; align-items:center; justify-content:center;">
-    <div style="background:white; border-radius:12px; width:90%; max-width:420px; max-height:85vh; overflow-y:auto; padding:16px;">
-      <h3 id="schedule-modal-title" style="margin-bottom:12px;">添加事件</h3>
-      <input type="hidden" id="schedule-id">
-      <div class="form-row"><label>标题</label><input id="schedule-title" type="text" placeholder="如：Portland RJCC"></div>
-      <div class="form-row"><label>日期</label><input id="schedule-date" type="date"></div>
-      <div class="form-row"><label>结束日期（可选）</label><input id="schedule-end" type="date"></div>
-      <div class="form-row" style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
-        <div><label>开始时间</label><input id="schedule-time" type="time"></div>
-        <div><label>结束时间</label><input id="schedule-endtime" type="time"></div>
-      </div>
-      <div class="form-row"><label>类型</label>
-        <select id="schedule-type">
-          <option value="competition">比赛</option>
-          <option value="camp">训练营</option>
-          <option value="training">训练</option>
-          <option value="physical">体能</option>
-          <option value="insight">心得</option>
-          <option value="travel">旅行</option>
-          <option value="other">其它</option>
-        </select>
-      </div>
-      <div class="form-row"><label>链接（官网/报名）</label><input id="schedule-url" type="text" placeholder="https://..."></div>
-      <div class="form-row"><label>注意事项</label><textarea id="schedule-desc" rows="3" placeholder="地点、备注、感受等"></textarea></div>
-      <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px;">
-        <button class="btn secondary" id="schedule-cancel">取消</button>
-        <button class="btn cathy" id="schedule-save">保存</button>
-      </div>
+  <div id="schedule-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:white; z-index:200; overflow-y:auto; padding:16px;">
+    <div style="position:sticky; top:0; background:white; padding:10px 0; text-align:right; margin-bottom:12px; border-bottom:1px solid var(--border); z-index:1;">
+      <button class="btn secondary" id="schedule-modal-close">关闭</button>
+    </div>
+    <h3 id="schedule-modal-title" style="margin-bottom:12px;">添加事件</h3>
+    <input type="hidden" id="schedule-id">
+    <div class="form-row"><label>标题</label><input id="schedule-title" type="text" placeholder="如：Portland RJCC"></div>
+    <div class="form-row"><label>日期</label><input id="schedule-date" type="date"></div>
+    <div class="form-row"><label>结束日期（可选）</label><input id="schedule-end" type="date"></div>
+    <div class="form-row" style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+      <div><label>开始时间</label><input id="schedule-time" type="time"></div>
+      <div><label>结束时间</label><input id="schedule-endtime" type="time"></div>
+    </div>
+    <div class="form-row"><label>类型</label>
+      <select id="schedule-type">
+        <option value="competition">比赛</option>
+        <option value="camp">训练营</option>
+        <option value="training">训练</option>
+        <option value="physical">体能</option>
+        <option value="insight">心得</option>
+        <option value="travel">旅行</option>
+        <option value="other">其它</option>
+      </select>
+    </div>
+    <div class="form-row"><label>链接（官网/报名）</label><input id="schedule-url" type="text" placeholder="https://..."></div>
+    <div class="form-row"><label>地图链接</label><input id="schedule-map" type="text" placeholder="https://www.google.com/maps/search/..."></div>
+    <div class="form-row"><label>注意事项</label><textarea id="schedule-desc" rows="3" placeholder="地点、备注、感受等"></textarea></div>
+    <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
+      <button class="btn secondary" id="schedule-cancel">取消</button>
+      <button class="btn cathy" id="schedule-save">保存</button>
     </div>
   </div>
 
@@ -1635,9 +1637,10 @@ const DIFFICULTY_LABELS = {
     document.getElementById('schedule-endtime').value = event ? event.endTime || '' : '';
     document.getElementById('schedule-type').value = event ? event.type : 'competition';
     document.getElementById('schedule-url').value = event ? event.url || '' : '';
+    document.getElementById('schedule-map').value = event ? event.mapUrl || '' : '';
     document.getElementById('schedule-desc').value = event ? event.description || '' : '';
     document.getElementById('schedule-modal-title').textContent = event ? '编辑事件' : '添加事件';
-    document.getElementById('schedule-modal').style.display = 'flex';
+    document.getElementById('schedule-modal').style.display = 'block';
   }
 
   function closeScheduleModal() { document.getElementById('schedule-modal').style.display = 'none'; }
@@ -1657,10 +1660,11 @@ const DIFFICULTY_LABELS = {
     const endTime = document.getElementById('schedule-endtime').value;
     const type = document.getElementById('schedule-type').value;
     const url = document.getElementById('schedule-url').value.trim();
+    const mapUrl = document.getElementById('schedule-map').value.trim();
     const desc = document.getElementById('schedule-desc').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('schedule-title').focus(); return; }
     if (!date) { alert('日期不能为空'); document.getElementById('schedule-date').focus(); return; }
-    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, url: url || null, description: desc };
+    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, url: url || null, mapUrl: mapUrl || null, description: desc };
     if (id) {
       const idx = scheduleEvents.findIndex(e => e.id === id);
       if (idx >= 0) scheduleEvents[idx] = ev;
@@ -1873,9 +1877,9 @@ const DIFFICULTY_LABELS = {
       renderScheduleCalendar();
     });
     document.getElementById('schedule-add').addEventListener('click', () => openScheduleModal(null));
+    document.getElementById('schedule-modal-close').addEventListener('click', closeScheduleModal);
     document.getElementById('schedule-save').addEventListener('click', addOrUpdateSchedule);
     document.getElementById('schedule-cancel').addEventListener('click', closeScheduleModal);
-    document.getElementById('schedule-modal').addEventListener('click', (e) => { if (e.target.id === 'schedule-modal') closeScheduleModal(); });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeScheduleModal(); });
     syncAllRegisteredTournaments();
     renderSchedule();
