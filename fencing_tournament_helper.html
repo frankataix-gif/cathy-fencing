@@ -1267,8 +1267,19 @@ const DIFFICULTY_LABELS = {
     return s === e ? ds : `${ds} - ${de}`;
   }
 
+  function isUSEvent(t) {
+    if (t.lat !== 0.0 || t.lng !== 0.0) {
+      // 粗略判断：美国本土/阿拉斯加/夏威夷大致经纬度范围
+      return t.lat >= 17.0 && t.lat <= 72.0 && (t.lng >= -179.0 && t.lng <= -60.0);
+    }
+    // 无经纬度时，按 state/region 推断
+    return !!t.state || /^[1-6]$/.test(t.region);
+  }
+
   function makeMapUrl(t) {
-    const query = [t.name, t.city, t.state, 'USA'].filter(Boolean).join(', ');
+    const parts = [t.name, t.city, t.state].filter(Boolean);
+    if (isUSEvent(t)) parts.push('USA');
+    const query = parts.join(', ');
     return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
   }
 
