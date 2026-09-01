@@ -1207,10 +1207,11 @@ const DIFFICULTY_LABELS = {
     const regOrder = { 'registered': 0, 'watching': 1 };
     TOURNAMENTS.forEach(t => { t.reg_status = getLocal('reg_' + t.id, DEFAULT_REGISTRATIONS[t.id] || t.reg_status || ''); });
     const list = TOURNAMENTS.filter(matches).sort((a,b) => {
+      const sd = new Date(a.start) - new Date(b.start);
+      if (sd !== 0) return sd;
       const ao = regOrder[a.reg_status] ?? 2;
       const bo = regOrder[b.reg_status] ?? 2;
-      if (ao !== bo) return ao - bo;
-      return new Date(a.start) - new Date(b.start);
+      return ao - bo;
     });
     const totalPages = Math.ceil(list.length / PAGE_SIZE) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
