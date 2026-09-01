@@ -1116,7 +1116,14 @@ const DIFFICULTY_LABELS = {
     region: { '1':'#ef4444', '2':'#f97316', '3':'#eab308', '4':'#22c55e', '5':'#3b82f6', '6':'#a855f7' },
     circuit: { 'RYC':'#06b6d4', 'SYC':'#f59e0b', 'RJCC':'#8b5cf6', 'ROC':'#ec4899', 'NAC':'#10b981', 'Local':'#64748b' },
     reg: { 'registered':'#16a34a', 'watching':'#f59e0b', 'recommended':'#ec4899', 'none':'#94a3b8' },
-    recommended: { 'yes':'#f43f5e', 'no':'#3b82f6' }
+    recommended: {
+      '本地+重要':'#ef4444',
+      '本地距离':'#22c55e',
+      '重要赛事':'#f59e0b',
+      '较远但重要':'#a855f7',
+      'Cathy 可报名':'#3b82f6',
+      '未推荐':'#94a3b8'
+    }
   };
 
   function getAgeAt(birth, date) {
@@ -1453,7 +1460,7 @@ const DIFFICULTY_LABELS = {
 
   function getMarkerColor(t) {
     const p = MAP_COLORS[mapColorDim];
-    if (mapColorDim === 'recommended') return t.cathy_recommended ? p.yes : p.no;
+    if (mapColorDim === 'recommended') return t.cathy_recommended ? (p[t.recommend_reason] || p['Cathy 可报名']) : p['未推荐'];
     if (mapColorDim === 'reg') {
       if (t.reg_status === 'registered') return p.registered;
       if (t.reg_status === 'watching') return p.watching;
