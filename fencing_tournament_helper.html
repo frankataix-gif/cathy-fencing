@@ -1320,8 +1320,12 @@ const DIFFICULTY_LABELS = {
       const closedStyle = t.status === 'closed' ? 'opacity:0.65;' : '';
       card.innerHTML = `
         <div class="card-header" style="${closedStyle}">
-          <div class="card-title">${t.name}<br><span style="font-size:0.75rem;color:var(--gray);font-weight:400;">${formatDate(t.start, t.end)} · ${t.notes}</span></div>
+          <div class="card-title">${t.name}<br><span style="font-size:0.75rem;color:var(--gray);font-weight:400;">${t.notes}</span></div>
           <span class="status ${st.class}">${st.text}</span>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; background:#f8fafc; padding:8px 12px; border-radius:8px; margin:10px 0; font-size:0.8rem;">
+          <div style="color:var(--gray);">📅 ${formatDate(t.start, t.end)} · 📍 ${t.city}, ${t.state}</div>
+          ${farTag}
         </div>
         <div class="tags">
           ${regTag}
@@ -1331,10 +1335,8 @@ const DIFFICULTY_LABELS = {
           <span class="tag">${t.circuits.join(', ')}</span>
           <span class="tag">${t.age_groups.join(', ')}</span>
           <span class="tag">${SIZE_LABELS[t.size]}</span>
-          ${farTag}
         </div>
         <div class="details" style="${closedStyle}">
-          <div style="font-size:0.85rem; color:var(--gray); margin-bottom:10px;">📍 ${t.city}, ${t.state}</div>
           <div style="display:flex; gap:8px; flex-wrap:wrap;">
             ${t.url ? `<a href="${t.url}" target="_blank" class="btn" style="display:inline-block;">USA Fencing 赛事页</a>` : ''}
             <a href="${tournamentMapUrl}" target="_blank" class="btn" style="display:inline-block;">地图</a>
