@@ -30,7 +30,7 @@
     .header {
       background: linear-gradient(135deg, var(--primary), var(--primary-dark));
       color: white;
-      padding: 16px;
+      padding: 10px 16px;
       position: sticky; top: 0; z-index: 50;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       display: flex; align-items: flex-start; justify-content: space-between;
@@ -94,6 +94,14 @@
     .profile-name { font-size: 1.1rem; font-weight: 700; color: var(--primary); }
     .profile-name span { display: block; font-size: 0.8rem; color: var(--gray); font-weight: 400; }
     .profile-meta { font-size: 0.85rem; color: var(--gray); }
+    .header .profile-card { background: transparent; box-shadow: none; padding: 0; gap: 8px; margin: 0; }
+    .header .profile-row { gap: 8px; }
+    .header .profile-left { gap: 10px !important; }
+    .header .avatar { width: 48px !important; height: 48px !important; }
+    .header .profile-name { color: white; font-size: 1rem; }
+    .header .profile-name span { color: rgba(255,255,255,0.85); }
+    .header .profile-meta { color: rgba(255,255,255,0.85); font-size: 0.8rem; }
+    .header .btn { background: white; color: var(--primary); padding: 4px 10px; font-size: 0.75rem; }
     .update-guide {
       background: #eff6ff; border-left: 4px solid var(--primary);
       padding: 12px; margin: 12px 0; border-radius: 8px;
@@ -160,6 +168,16 @@
     .rule-section { margin-bottom: 16px; }
     .rule-title { font-weight: 700; color: var(--primary); margin-bottom: 6px; font-size: 0.95rem; }
     .rule-body { font-size: 0.85rem; color: var(--text); background: white; padding: 12px; border-radius: 8px; }
+    #rules-panel { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: white; z-index: 1000; overflow-y: auto; padding: 16px; }
+    #rules-toggle { display: inline-block; }
+    #rules-panel.rules-open { display: block; }
+    #rules-panel .rules-close { position: sticky; top: 0; background: white; padding: 10px 0; text-align: right; margin-bottom: 12px; border-bottom: 1px solid var(--border); }
+    #rules-panel .rules-close button { background: var(--primary); color: white; padding: 6px 12px; border-radius: 20px; border: none; cursor: pointer; font-size: 0.85rem; }
+    @media (min-width: 768px) {
+      #rules-panel { display: block; position: static; top: auto; left: auto; right: auto; bottom: auto; background: transparent; z-index: auto; overflow: visible; padding: 0; }
+      #rules-toggle { display: none; }
+      #rules-panel .rules-close { display: none; }
+    }
     .daily-quote { background: linear-gradient(135deg, #f8fafc, #e2e8f0); border-left: 4px solid var(--cathy); padding: 12px 16px; border-radius: 8px; margin-bottom: 12px; font-size: 0.9rem; color: var(--text); }
     .daily-quote .greeting { font-size: 0.75rem; color: var(--cathy); font-weight: 600; margin-bottom: 6px; }
     .daily-quote .from { font-size: 0.75rem; color: var(--gray); margin-top: 6px; }
@@ -178,10 +196,18 @@
       background: white; padding: 12px; border-radius: 8px; margin: 12px 0;
       box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     }
-    .schedule-calendar { display:grid; grid-template-columns: repeat(7, 1fr); gap:4px; }
-    .schedule-cal-header { text-align:center; font-size:0.75rem; color:var(--gray); padding:6px 0; }
-    .schedule-cal-day { min-height:48px; border:1px solid var(--border); border-radius:8px; padding:6px; font-size:0.8rem; cursor:pointer; background:white; display:flex; flex-direction:column; gap:2px; }
-    .schedule-cal-day.empty { background:transparent; border:none; cursor:default; }
+    .schedule-calendar { display:grid; grid-template-columns: repeat(7, minmax(0, 1fr)); grid-template-rows: auto repeat(6, minmax(90px, auto)); gap:0; border-top:1px solid var(--border); border-left:1px solid var(--border); position:relative; width:100%; box-sizing:border-box; }
+    .schedule-cal-header { text-align:center; font-size:0.75rem; color:var(--gray); padding:6px 0; border-right:1px solid var(--border); border-bottom:1px solid var(--border); background:#f8fafc; }
+    .schedule-cal-day { min-height:90px; border-right:1px solid var(--border); border-bottom:1px solid var(--border); padding:6px 0; font-size:0.8rem; cursor:pointer; background:white; display:flex; flex-direction:column; gap:4px; position:relative; }
+    .schedule-cal-day .num { position:relative; z-index:3; display:inline-block; padding:0 6px; }
+    .schedule-cal-day.empty { background:transparent; border-right:1px solid var(--border); border-bottom:1px solid var(--border); cursor:default; }
+    .schedule-bar { height: 16px; border-radius: 0; display:block; line-height:16px; color:white; font-size:0.6rem; white-space:nowrap; overflow:hidden; padding:0; box-sizing:border-box; width:100%; margin:1px 0; position:relative; pointer-events:none; }
+    .schedule-bar > span { display:inline-block; height:16px; line-height:16px; padding:0 6px; box-sizing:border-box; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .schedule-bar-extra { background: #94a3b8; color: white; display:flex; align-items:center; justify-content:center; font-size:0.65rem; height: 14px; border-radius: 0; width:100%; box-sizing:border-box; }
+    .schedule-bar.start { border-radius: 0; }
+    .schedule-bar.mid { border-radius: 0; }
+    .schedule-bar.end { border-radius: 0; }
+    .schedule-bar.single { border-radius: 0; }
     .schedule-cal-day:hover { background:var(--primary-light); }
     .schedule-cal-day .num { font-weight:600; }
     .schedule-dot { width:6px; height:6px; border-radius:50%; display:inline-block; }
@@ -192,57 +218,48 @@
     .schedule-color-camp { border-color:#3b82f6; }
     .schedule-color-training { border-color:#22c55e; }
     .schedule-color-physical { border-color:#f59e0b; }
-    .schedule-color-insight { border-color:#a855f7; }
-    .schedule-color-travel { border-color:#06b6d4; }
+    .schedule-color-stretch { border-color:#94a3b8; }
     .schedule-color-other { border-color:#64748b; }
     .bg-competition { background:#ef4444; }
     .bg-camp { background:#3b82f6; }
     .bg-training { background:#22c55e; }
     .bg-physical { background:#f59e0b; }
-    .bg-insight { background:#a855f7; }
-    .bg-travel { background:#06b6d4; }
+    .bg-stretch { background:#94a3b8; }
     .bg-other { background:#64748b; }
   </style>
 </head>
 <body>
-  <div class="header">
-    <div class="header-left">
-      <h1>USA Fencing 赛事列表</h1>
-      <p>何云熙 Cathy He 个人信息</p>
-      <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; margin-top:8px;">打开 Google Drive 文档</a>
-    </div>
-    <div class="header-meta" id="header-meta" style="display:flex; flex-direction:column; align-items:flex-end; gap:6px;">
-      <span>更新于：<span id="updated-ago">-</span></span>
+  <div class="header" style="padding:16px;">
+    <div class="profile-card" style="width:100%;">
+      <div class="profile-row" style="align-items:center;">
+        <div class="profile-left" style="gap:14px;">
+          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'" style="width:60px; height:60px;">
+          <div class="profile-name">何云熙 Cathy He
+            <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
+          </div>
+        </div>
+        <div style="display:flex; align-items:center; gap:8px;">
+          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem; display:none;">🔄 刷新</button>
+          <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; padding:4px 12px; border-radius:20px; font-size:0.75rem;">打开 Google Drive 文档</a>
+        </div>
+      </div>
+      <div class="profile-row" style="gap:12px;">
+        <div class="profile-meta" id="suggested-age"></div>
+      </div>
     </div>
   </div>
 
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="tournaments">赛事列表</button>
     <button class="tab" data-tab="eventsmap">赛事地图</button>
-    <button class="tab" data-tab="rules">赛事规则</button>
     <button class="tab" data-tab="cathydata">日程</button>
     <button class="tab" data-tab="profile">我的</button>
   </div>
 
   <!-- 赛事列表 -->
   <div id="tab-tournaments" class="tab-content active">
-    <div class="profile-card" id="profile-card">
-      <div class="profile-row">
-        <div class="profile-left">
-          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'">
-          <div class="profile-name">何云熙 Cathy He
-            <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
-          </div>
-        </div>
-      </div>
-      <div class="profile-row">
-        <div class="profile-meta" id="age-display"></div>
-        <div class="profile-meta" id="suggested-age"></div>
-      </div>
-    </div>
-
     <div class="daily-quote" id="daily-quote">
-      <div class="greeting" id="daily-greeting"></div>
+      <div class="greeting" id="daily-greeting" style="display:none;"></div>
       <div id="daily-quote-text"></div>
       <div class="from" id="daily-quote-from"></div>
       <div class="surprise" id="daily-surprise"></div>
@@ -257,17 +274,26 @@
       </div>
     </div>
 
-    <div class="filters">
-      <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
-      <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
-    </div>
+    <div class="tournament-body" style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
+      <div id="list-panel" style="flex:2; min-width:300px;">
+        <div class="filters">
+          <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">距离 / Distance</span><div class="filter-options" id="distance-filters"></div></div>
+        </div>
 
-    <div class="result-count" id="result-count"></div>
-    <div id="results"></div>
-    <div id="pagination"></div>
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px; flex-wrap:wrap; gap:8px;">
+          <h2 style="font-size:1.1rem; margin:0;">USA Fencing 赛事列表</h2>
+          <button class="btn" id="rules-toggle" style="padding:4px 10px; font-size:0.75rem;">赛事规则</button>
+        </div>
+        <div class="result-count" id="result-count" style="margin-bottom:10px;"></div>
+        <div id="results"></div>
+        <div id="pagination" style="display:none;"></div>
+      </div>
+      <div id="rules-panel" style="flex:1; min-width:260px;"></div>
+    </div>
   </div>
 
   <!-- 赛事地图 -->
@@ -371,44 +397,35 @@
   <!-- 我的 -->
   <div id="tab-profile" class="tab-content">
     <div class="card">
-      <h2 style="margin-bottom:12px;">我的</h2>
-      <h3 style="margin-bottom:12px;">Cathy 资料 / Profile</h3>
-      <div class="form-row"><label>中文姓名 / Chinese Name</label><input id="p-name-zh" value="何云熙"></div>
-      <div class="form-row"><label>英文姓名 / Legal English Name</label><input id="p-name-en" value="Yunxi He"></div>
-      <div class="form-row"><label>常用名 / Preferred Name</label><input id="p-name-pref" value="Cathy YUNXI"></div>
-      <div class="form-row"><label>出生日期 / Birth</label><input id="p-birth" value="2014-03-13" type="date"></div>
-      <div class="form-row"><label>性别 / Gender</label><input id="p-gender" value="Female"></div>
-      <div class="form-row"><label>身高 / Height</label><input id="p-height" value="165 cm"></div>
-      <div class="form-row"><label>体重 / Weight</label><input id="p-weight" value="114.6 lb"></div>
-      <div class="form-row"><label>居住地 / Home City</label><input id="p-home" value="Vancouver, BC"></div>
-      <div class="form-row"><label>剑种 / Weapon</label>
-        <select id="p-weapon"><option value="Foil" selected>Foil 花剑</option></select>
-      </div>
-      <div class="form-row"><label>持剑手 / Hand</label>
-        <select id="p-hand"><option value="" selected>待填写</option><option value="Right-handed">Right-handed 右手</option><option value="Left-handed">Left-handed 左手</option></select>
-      </div>
-      <div class="form-row"><label>Region</label><input id="p-region" value="Region 1 (WA, OR, MT, ID, WY)"></div>
+      <h2 style="margin-bottom:12px;">我的 / My</h2>
+      <h3 style="margin-bottom:12px;">Cathy Profile</h3>
+      <div style="font-size:0.9rem; line-height:1.8;">
+        <p><b>Name:</b> He Yunxi</p>
+        <p><b>Preferred Name:</b> Cathy</p>
+        <p><b>Country:</b> Grenada</p>
+        <p><b>Federation:</b> USA Fencing (Region 1)</p>
+        <p><b>Birth:</b> Mar 13, 2014 · 12 years old · Female</p>
+        <p><b>Height / Weight:</b> 165 cm / 114.6 lb</p>
+        <p><b>Home:</b> Vancouver, BC · Region 1 (WA, OR, MT, ID, WY)</p>
+        <p><b>Weapon:</b> Foil</p>
+        <p><b>Hand:</b> TBD</p>
 
-      <h3 style="margin: 20px 0 12px;">会员信息 / Membership</h3>
-      <div class="form-row"><label>USA Fencing Member ID</label><input id="p-member-id" value="102111079"></div>
-      <div class="form-row"><label>会员到期 / Membership Expires</label><input id="p-expiry" value="2027-07-31" type="date"></div>
-      <div class="form-row"><label>父母 / Parents</label><input id="p-parents" value="Frank He & Natalie Wu"></div>
-      <div class="form-row"><label>父母邮箱 / Parents Email</label><input id="p-parents-email" placeholder="为安全未保存，可手动填写"></div>
-      <div class="form-row"><label>俱乐部 / Club</label><input id="p-club" placeholder="如 Salle Auriol Seattle"></div>
-      <div class="form-row"><label>教练 / Coach</label><input id="p-coach" placeholder="教练姓名"></div>
-      <div class="form-row"><label>备注 / Notes</label><textarea id="p-notes" rows="3"></textarea></div>
-      <button class="btn cathy" id="save-profile">保存 / Save</button>
+        <h3 style="margin: 20px 0 12px;">USA Fencing Membership</h3>
+        <p><b>Member ID:</b> 102111079</p>
+        <p><b>Membership Expires:</b> Jul 31, 2027</p>
+        <p><b>Parents:</b> Frank He & Natalie Wu</p>
+        <p><b>Club / Coach:</b> TBD / TBD</p>
+        <p><b>Notes:</b> None</p>
+      </div>
     </div>
 
     <div class="card">
-      <h3 style="margin-bottom:12px;">注册前检查清单 / Registration Checklist</h3>
-      <ul class="checklist">
-        <li><input type="checkbox" id="c1" class="p-check"> <label for="c1">已购买 2026-27 Competitive Membership</label></li>
-        <li><input type="checkbox" id="c2" class="p-check"> <label for="c2">已完成 Age Verification（上传出生证明/护照）</label></li>
-        <li><input type="checkbox" id="c3" class="p-check"> <label for="c3">已确认目标赛事报名开放</label></li>
-        <li><input type="checkbox" id="c4" class="p-check"> <label for="c4">已绑定信用卡/支付方式</label></li>
-        <li><input type="checkbox" id="c5" class="p-check"> <label for="c5">已订好酒店/交通</label></li>
-      </ul>
+      <h3 style="margin-bottom:12px;">Membership Photos</h3>
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <img src="cathy_membership_card.png" class="membership-thumb" data-full="cathy_membership_card.png" alt="Membership Card" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+        <img src="cathy_membership_barcode.png" class="membership-thumb" data-full="cathy_membership_barcode.png" alt="Membership Barcode" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+      </div>
+      <p style="font-size:0.8rem; color:var(--gray); margin-top:8px;">Tap to enlarge / 点击放大</p>
     </div>
 
     <div class="card" style="text-align:center;">
@@ -443,9 +460,7 @@ const SCHEDULE_EVENT_TYPES = {
   camp: { label: '训练营', colorClass: 'bg-camp', borderClass: 'schedule-color-camp', dot: '#3b82f6' },
   training: { label: '训练', colorClass: 'bg-training', borderClass: 'schedule-color-training', dot: '#22c55e' },
   physical: { label: '体能', colorClass: 'bg-physical', borderClass: 'schedule-color-physical', dot: '#f59e0b' },
-  insight: { label: '心得', colorClass: 'bg-insight', borderClass: 'schedule-color-insight', dot: '#a855f7' },
-  travel: { label: '旅行', colorClass: 'bg-travel', borderClass: 'schedule-color-travel', dot: '#06b6d4' },
-  other: { label: '其它', colorClass: 'bg-other', borderClass: 'schedule-color-other', dot: '#64748b' }
+  stretch: { label: '拉伸', colorClass: 'bg-stretch', borderClass: 'schedule-color-stretch', dot: '#94a3b8' }
 };
 
 // 旧击剑数据保留，但不再展示
@@ -1048,7 +1063,7 @@ const DIFFICULTY_LABELS = {
   let activeFilters = { reg: null, region: null, age: null, circuit: null, distance: Infinity };
   let currentBase = CATHY.home;
   let currentPage = 1;
-  const PAGE_SIZE = 50;
+  const PAGE_SIZE = 1000;
   let mapColorDim = 'region';
   let map = null, markers = [], baseMarker = null;
 
@@ -1190,6 +1205,14 @@ const DIFFICULTY_LABELS = {
     return s === e ? ds : `${ds} - ${de}`;
   }
 
+  function makeMapUrl(t) {
+    if (t && t.lat && t.lng && (t.lat !== 0.0 || t.lng !== 0.0)) {
+      return `https://www.google.com/maps?q=${t.lat},${t.lng}`;
+    }
+    const query = [t.city, t.state, 'USA'].filter(Boolean).join(', ');
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+  }
+
   function renderPagination(total, totalPages) {
     const p = document.getElementById('pagination');
     if (!p) return;
@@ -1224,13 +1247,13 @@ const DIFFICULTY_LABELS = {
       const ao = regOrder[a.reg_status] ?? 2;
       const bo = regOrder[b.reg_status] ?? 2;
       return ao - bo;
-    });
+    }).filter(t => t.status !== 'not_yet_open');
     const totalPages = Math.ceil(list.length / PAGE_SIZE) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
     if (currentPage < 1) currentPage = 1;
     const start = (currentPage - 1) * PAGE_SIZE;
     const pageList = list.slice(start, start + PAGE_SIZE);
-    document.getElementById('result-count').textContent = `找到 ${list.length} 场，第 ${currentPage}/${totalPages} 页 / ${list.length} found, page ${currentPage}/${totalPages}`;
+    document.getElementById('result-count').textContent = `找到 ${list.length} 场 · 更新：${timeAgo(DATA_UPDATED)}`;
     const c = document.getElementById('results');
     c.innerHTML = '';
     if (!list.length) { c.innerHTML = '<div class="empty-state">没有符合条件的赛事<br>No matches</div>'; renderPagination(0, 1); return; }
@@ -1243,10 +1266,11 @@ const DIFFICULTY_LABELS = {
       const cathyTag = t.recommended ? `<span class="tag cathy">何云熙推荐</span>` : '';
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
       const farTag = t.distance_km > 1000 ? `<span class="tag far">远 / ${t.distance_km}km</span>` : `<span class="tag">~${t.distance_km}km</span>`;
+      const tournamentMapUrl = makeMapUrl(t);
       const closedStyle = t.status === 'closed' ? 'opacity:0.65;' : '';
       card.innerHTML = `
         <div class="card-header" style="${closedStyle}">
-          <div class="card-title">${t.name}<br><span style="font-size:0.75rem;color:var(--gray);font-weight:400;">${formatDate(t.start, t.end)} · ${t.city}, ${t.state}</span></div>
+          <div class="card-title">${t.name}<br><span style="font-size:0.75rem;color:var(--gray);font-weight:400;">${formatDate(t.start, t.end)} · ${t.notes}</span></div>
           <span class="status ${st.class}">${st.text}</span>
         </div>
         <div class="tags">
@@ -1260,8 +1284,11 @@ const DIFFICULTY_LABELS = {
           ${farTag}
         </div>
         <div class="details" style="${closedStyle}">
-          <div>${t.notes}</div>
-          ${t.url ? `<a href="${t.url}" target="_blank" class="btn" style="margin-top:10px; display:inline-block;">USA Fencing 赛事页</a>` : ''}
+          <div style="font-size:0.85rem; color:var(--gray); margin-bottom:10px;">📍 ${t.city}, ${t.state}</div>
+          <div style="display:flex; gap:8px; flex-wrap:wrap;">
+            ${t.url ? `<a href="${t.url}" target="_blank" class="btn" style="display:inline-block;">USA Fencing 赛事页</a>` : ''}
+            <a href="${tournamentMapUrl}" target="_blank" class="btn" style="display:inline-block;">地图</a>
+          </div>
           <div style="margin-top:8px;">
             <label style="font-size:0.85rem; display:flex; align-items:center; gap:6px;">
               报名状态 / Reg:
@@ -1282,6 +1309,7 @@ const DIFFICULTY_LABELS = {
         saveToLocal('reg_' + t.id, e.target.value);
         t.reg_status = e.target.value;
         syncTournamentToSchedule(t, e.target.value);
+        renderSchedule();
         currentPage = 1;
         renderResults();
       });
@@ -1289,6 +1317,28 @@ const DIFFICULTY_LABELS = {
     });
     renderPagination(list.length, totalPages);
     if (map) updateMapMarkers();
+  }
+
+  function initRulesPanel() {
+    const rulesSource = document.getElementById('tab-rules');
+    const rulesPanel = document.getElementById('rules-panel');
+    const rulesToggle = document.getElementById('rules-toggle');
+    if (rulesSource && rulesPanel) {
+      rulesPanel.innerHTML = '<div class="rules-close"><button id="rules-close">关闭</button></div>' + rulesSource.innerHTML;
+    }
+    if (rulesToggle && rulesPanel) {
+      rulesToggle.addEventListener('click', () => {
+        rulesPanel.classList.toggle('rules-open');
+        rulesToggle.textContent = rulesPanel.classList.contains('rules-open') ? '收起规则' : '赛事规则';
+      });
+    }
+    const rulesClose = document.getElementById('rules-close');
+    if (rulesClose && rulesPanel && rulesToggle) {
+      rulesClose.addEventListener('click', () => {
+        rulesPanel.classList.remove('rules-open');
+        rulesToggle.textContent = '赛事规则';
+      });
+    }
   }
 
   function initTabs() {
@@ -1412,37 +1462,10 @@ const DIFFICULTY_LABELS = {
     document.getElementById('daily-greeting').textContent = getGreeting() + ' · Vancouver Time ' + vancouverDate();
     document.getElementById('daily-quote-text').textContent = x.text;
     document.getElementById('daily-quote-from').textContent = '—— ' + x.from;
-    document.getElementById('daily-surprise').textContent = '小惊喜：' + s;
+    document.getElementById('daily-surprise').textContent = s;
   }
 
-  function initProfile() {
-    const defaults = {
-      'p-name-zh': CATHY.nameZh,
-      'p-name-en': CATHY.nameEn,
-      'p-birth': CATHY.birth,
-      'p-home': CATHY.home,
-      'p-weapon': CATHY.weapon,
-      'p-region': CATHY.region
-    };
-    const fields = ['p-name-zh','p-name-en','p-name-pref','p-birth','p-gender','p-height','p-weight','p-home','p-weapon','p-hand','p-region','p-member-id','p-expiry','p-parents','p-parents-email','p-club','p-coach','p-notes'];
-    fields.forEach(id => {
-      const el = document.getElementById(id);
-      const saved = getLocal('cathy_' + id, defaults[id] || '');
-      if (saved) el.value = saved;
-      el.addEventListener('change', () => saveToLocal('cathy_' + id, el.value));
-    });
-    const checks = ['c1','c2','c3','c4','c5'];
-    checks.forEach(id => {
-      const el = document.getElementById(id);
-      const saved = getLocal('cathy_check_' + id, 'false') === 'true';
-      el.checked = saved;
-      el.addEventListener('change', () => saveToLocal('cathy_check_' + id, el.checked));
-    });
-    document.getElementById('save-profile').addEventListener('click', () => {
-      fields.forEach(id => saveToLocal('cathy_' + id, document.getElementById(id).value));
-      alert('已保存 / Saved');
-    });
-  }
+  function initProfile() {}
 
   function initGDrive() {
     const btn = document.getElementById('gdrive-btn');
@@ -1464,13 +1487,21 @@ const DIFFICULTY_LABELS = {
     return `${Math.floor(sec / 2592000)} 个月前`;
   }
 
-  function initHeaderMeta() {
-    const span = document.getElementById('updated-ago');
-    if (span) span.textContent = timeAgo(DATA_UPDATED);
-    const age = getAgeAt(CATHY.birth, vancouverISO());
-    document.getElementById('age-display').textContent = isNaN(age) ? '' : `Cathy 今年 ${age} 岁`;
+  function momGreeting() {
+    const vHour = parseInt(new Date().toLocaleTimeString('en-US', { timeZone: HOME_TZ, hour: 'numeric', hour12: false }), 10);
+    let word = '您好';
+    if (vHour >= 5 && vHour < 12) word = '早上好';
+    else if (vHour >= 12 && vHour < 18) word = '下午好';
+    else if (vHour >= 18 && vHour < 22) word = '晚上好';
+    else word = '夜深了';
+    return `${word}，妈妈辛苦了 · Vancouver Time ${vancouverDate()}`;
+  }
 
-    document.getElementById('suggested-age').textContent = `建议：Y12 稳打，Y14 挑战`;
+  function initHeaderMeta() {
+    document.getElementById('suggested-age').textContent = momGreeting();
+
+    const refreshBtn = document.getElementById('top-refresh');
+    if (refreshBtn) refreshBtn.addEventListener('click', () => window.location.reload(true));
   }
 
   let scheduleCurrentMonth = new Date();
@@ -1482,10 +1513,10 @@ const DIFFICULTY_LABELS = {
 
   function newEventId() { return 'e_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
 
-  function scheduleTypeLabel(t) { return (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).label; }
+  function scheduleTypeLabel(t) { return (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).label; }
 
   function scheduleTypeDot(t) {
-    const c = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).dot;
+    const c = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).dot;
     return `<span class="schedule-dot" style="background:${c};"></span>`;
   }
 
@@ -1545,16 +1576,59 @@ const DIFFICULTY_LABELS = {
     const calendar = document.getElementById('schedule-calendar');
     const days = daysInMonth(y, m);
     const start = firstWeekday(y, m);
+    const rowsNeeded = Math.ceil((start + days) / 7);
+    calendar.style.gridTemplateRows = `auto repeat(${rowsNeeded}, minmax(90px, auto))`;
     let html = '';
     ['日','一','二','三','四','五','六'].forEach(d => { html += `<div class="schedule-cal-header">${d}</div>`; });
-    for (let i=0; i<start; i++) html += '<div class="schedule-cal-day empty"></div>';
+
+    const monthStart = new Date(y, m, 1);
+    const monthEnd = new Date(y, m, days);
+    const monthEvents = scheduleEvents.map(e => {
+      let evEnd = e.end || e.date;
+      if (e.type === 'competition' && e.id && e.id.startsWith('t_')) {
+        const tid = e.id.slice(2);
+        const t = TOURNAMENTS.find(x => x.id === tid);
+        if (t && t.end) evEnd = t.end;
+      }
+      return { ...e, _end: evEnd };
+    }).filter(e => {
+      const evStart = new Date(e.date + 'T00:00:00');
+      const endDate = e._end ? new Date(e._end + 'T00:00:00') : evStart;
+      return evStart <= monthEnd && endDate >= monthStart;
+    });
+
     for (let d=1; d<=days; d++) {
       const iso = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-      const dayEvents = scheduleEvents.filter(e => e.date === iso || (e.date <= iso && e.end && e.end >= iso));
-      const dots = dayEvents.slice(0,5).map(e => scheduleTypeDot(e.type)).join('');
-      html += `<div class="schedule-cal-day" data-date="${iso}"><div class="num">${d}</div><div>${dots}</div></div>`;
+      const isoDate = new Date(iso + 'T00:00:00');
+      const dayEvents = monthEvents.filter(e => {
+        const startDate = new Date(e.date + 'T00:00:00');
+        const endDate = e._end ? new Date(e._end + 'T00:00:00') : startDate;
+        return isoDate >= startDate && isoDate <= endDate;
+      });
+      const visibleEvents = dayEvents.slice(0, 10);
+      let bars = visibleEvents.map(e => {
+        const startDate = new Date(e.date + 'T00:00:00');
+        const endDate = e._end ? new Date(e._end + 'T00:00:00') : startDate;
+        const daysBefore = Math.round((isoDate - startDate) / 86400000);
+        const isStart = daysBefore === 0;
+        const isEnd = e._end === iso;
+        const single = !e._end || e._end === e.date || (isStart && isEnd);
+        let pos;
+        if (single) pos = 'single';
+        else if (isStart) pos = 'start';
+        else if (isEnd) pos = 'end';
+        else pos = 'mid';
+        const color = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.stretch).colorClass;
+        const durationDays = Math.round((endDate - startDate) / 86400000) + 1;
+        const shift = daysBefore * 100;
+        return `<div class="schedule-bar schedule-bar-${pos} ${color}"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${e.title}</span></div>`;
+      }).join('');
+      if (dayEvents.length > 10) {
+        bars += `<div class="schedule-bar schedule-bar-extra">+${dayEvents.length - 10}</div>`;
+      }
+      html += `<div class="schedule-cal-day" data-date="${iso}"><div class="num" style="font-size:0.75rem; color:var(--gray); margin-bottom:4px;">${d}</div><div style="margin-top:auto; display:flex; flex-direction:column; gap:2px; width:100%;">${bars}</div></div>`;
     }
-    const totalCells = 7 * 6;
+    const totalCells = rowsNeeded * 7;
     const filled = start + days;
     for (let i=filled; i<totalCells; i++) html += '<div class="schedule-cal-day empty"></div>';
     calendar.innerHTML = html;
@@ -1581,12 +1655,17 @@ const DIFFICULTY_LABELS = {
     let html = '';
     scheduleEvents.slice().reverse().forEach(e => {
       const t = e.type;
-      const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).borderClass;
+      const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).borderClass;
       html += `<div class="schedule-list-item schedule-color-${t}">`;
       html += `<div class="title" style="display:flex; align-items:center; gap:6px;">${scheduleTypeDot(t)} ${e.title}</div>`;
       html += `<div class="meta">${e.date}${e.end ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime ? ' - ' + e.endTime : ''}</div>`;
       if (e.description) html += `<div class="meta">注意事项：${e.description}</div>`;
-      if (e.url) html += `<div style="margin-top:4px;"><a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">报名官网</a></div>`;
+      if (e.url || e.mapUrl) {
+        html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
+        if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">报名官网</a>`;
+        if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
+        html += '</div>';
+      }
       html += `<div style="margin-top:6px;"><button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
       html += '</div>';
     });
@@ -1619,6 +1698,7 @@ const DIFFICULTY_LABELS = {
     ev.end = t.end || null;
     ev.type = 'competition';
     ev.url = t.url || null;
+    ev.mapUrl = makeMapUrl(t);
     ev.description = [t.city, t.state].filter(Boolean).join(', ');
     if (!existing) scheduleEvents.push(ev);
     scheduleEvents.sort((a,b) => new Date(a.date) - new Date(b.date));
@@ -1649,13 +1729,28 @@ const DIFFICULTY_LABELS = {
     renderSchedule();
   }
 
+  function initImageLightbox() {
+    const modal = document.getElementById('img-modal');
+    const modalImg = document.getElementById('img-modal-img');
+    if (!modal || !modalImg) return;
+    document.querySelectorAll('.membership-thumb').forEach(img => {
+      img.addEventListener('click', () => {
+        modalImg.src = img.dataset.full;
+        modal.style.display = 'flex';
+      });
+    });
+    modal.addEventListener('click', () => { modal.style.display = 'none'; });
+  }
+
   initBaseCity();
   initFilters();
   initTabs();
+  initRulesPanel();
   initProfile();
   initGDrive();
   initHeaderMeta();
   initSchedule();
+  initImageLightbox();
   renderResults();
   renderDailyQuote();
 </script>
@@ -1695,5 +1790,9 @@ const DIFFICULTY_LABELS = {
       userIn.addEventListener('keypress', (e) => { if (e.key === 'Enter') doLogin(); });
     })();
   </script>
+
+  <div id="img-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.9); z-index:100000; align-items:center; justify-content:center; padding:16px;">
+    <img id="img-modal-img" style="max-width:100%; max-height:90vh; border-radius:12px; cursor:pointer;" alt="Membership">
+  </div>
 </body>
 </html>
