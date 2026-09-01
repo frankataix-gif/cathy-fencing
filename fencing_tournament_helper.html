@@ -309,7 +309,7 @@
     <div class="float-box" style="margin-bottom:12px;">
       <div class="filter-label">颜色维度 / Color by</div>
       <div id="map-color" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
-        <button class="btn secondary" data-dim="recommended" style="padding:6px 12px; font-size:0.8rem;">何云熙推荐</button>
+        <button class="btn secondary" data-dim="recommended" style="padding:6px 12px; font-size:0.8rem;">推荐Cathy</button>
         <button class="btn" data-dim="region" style="padding:6px 12px; font-size:0.8rem;">Region</button>
         <button class="btn secondary" data-dim="circuit" style="padding:6px 12px; font-size:0.8rem;">赛事级别 Circuit</button>
         <button class="btn secondary" data-dim="reg" style="padding:6px 12px; font-size:0.8rem;">报名状态</button>
@@ -1417,7 +1417,7 @@ const DIFFICULTY_LABELS = {
 
   function getMarkerColor(t) {
     const p = MAP_COLORS[mapColorDim];
-    if (mapColorDim === 'recommended') return t.recommended ? p.yes : p.no;
+    if (mapColorDim === 'recommended') return t.cathy_recommended ? p.yes : p.no;
     if (mapColorDim === 'reg') {
       if (t.reg_status === 'registered') return p.registered;
       if (t.reg_status === 'watching') return p.watching;
