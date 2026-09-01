@@ -1889,8 +1889,13 @@ const DIFFICULTY_LABELS = {
         modal.style.display = 'flex';
       });
     });
-    const modal = document.getElementById('img-modal');
-    if (modal) modal.addEventListener('click', () => { modal.style.display = 'none'; });
+    document.body.addEventListener('click', (e) => {
+      const m = document.getElementById('img-modal');
+      if (!m) return;
+      if (e.target.id === 'img-modal' || e.target.id === 'img-modal-img' || e.target.id === 'img-modal-close') {
+        m.style.display = 'none';
+      }
+    });
   }
 
   function initTournamentNav() {
