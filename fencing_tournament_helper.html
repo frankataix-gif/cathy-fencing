@@ -1492,7 +1492,7 @@ const DIFFICULTY_LABELS = {
     document.getElementById('schedule-type').value = event ? event.type : 'competition';
     document.getElementById('schedule-desc').value = event ? event.description || '' : '';
     document.getElementById('schedule-modal-title').textContent = event ? '编辑事件' : '添加事件';
-    modal.style.display = 'flex';
+    document.getElementById('schedule-modal').style.display = 'flex';
   }
 
   function closeScheduleModal() { document.getElementById('schedule-modal').style.display = 'none'; }
