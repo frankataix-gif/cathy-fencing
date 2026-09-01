@@ -155,6 +155,10 @@
 
     sendBtn.addEventListener('click', send);
     inputEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') send(); });
+    inputEl.addEventListener('focus', () => setTimeout(() => messagesEl.scrollTop = messagesEl.scrollHeight, 150));
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', () => messagesEl.scrollTop = messagesEl.scrollHeight);
+    }
   </script>
 </body>
 </html>
