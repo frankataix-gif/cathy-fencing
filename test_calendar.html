@@ -27,8 +27,8 @@
   button.secondary { background: #e2e8f0; color: #334155; }
   button.danger { background: #ef4444; color: white; }
   .schedule-calendar { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); grid-template-rows: auto repeat(6, minmax(90px, auto)); gap: 0; border-top: 1px solid var(--border); border-left: 1px solid var(--border); background: white; width: 100%; box-sizing: border-box; }
-  .schedule-cal-header { text-align: center; font-size: 0.75rem; color: var(--gray); padding: 6px 0; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); background: #f8fafc; }
-  .schedule-cal-day { min-height: 90px; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 6px 0; font-size: 0.8rem; cursor: pointer; background: white; display: flex; flex-direction: column; gap: 4px; position: relative; }
+  .schedule-cal-header { text-align: center; font-size: 0.75rem; color: var(--gray); padding: 6px 0; background: #f8fafc; box-shadow: inset -1px 0 0 0 var(--border), inset 0 -1px 0 0 var(--border); }
+  .schedule-cal-day { min-height: 90px; padding: 6px 0; font-size: 0.8rem; cursor: pointer; background: white; display: flex; flex-direction: column; gap: 4px; position: relative; box-shadow: inset -1px 0 0 0 var(--border), inset 0 -1px 0 0 var(--border); }
   .schedule-cal-day.empty { background: transparent; cursor: default; }
   .schedule-cal-day .num { position: relative; z-index: 3; display: inline-block; padding: 0 6px; font-weight: 600; }
   .schedule-bar { height: 16px; border-radius: 0; display: block; line-height: 16px; color: white; font-size: 0.6rem; white-space: nowrap; overflow: hidden; padding: 0; box-sizing: border-box; width: 100%; margin: 1px 0; position: relative; pointer-events: none; }
