@@ -1583,7 +1583,7 @@ const DIFFICULTY_LABELS = {
 
     const monthStart = new Date(y, m, 1);
     const monthEnd = new Date(y, m, days);
-    const monthEvents = scheduleEvents.map(e => {
+    let monthEvents = scheduleEvents.map(e => {
       let evEnd = e.end || e.date;
       if (e.type === 'competition' && e.id && e.id.startsWith('t_')) {
         const tid = e.id.slice(2);
@@ -1597,6 +1597,15 @@ const DIFFICULTY_LABELS = {
       return evStart <= monthEnd && endDate >= monthStart;
     });
 
+    // 为每个事件分配一个固定的垂直轨道，保证跨天时在同一条水平线上
+    const trackEnd = [];
+    monthEvents = monthEvents.slice().sort((a, b) => a.date.localeCompare(b.date) || a._end.localeCompare(b._end)).map(e => {
+      const idx = trackEnd.findIndex(end => end < e.date);
+      if (idx === -1) { trackEnd.push(e._end); return { ...e, track: trackEnd.length - 1 }; }
+      trackEnd[idx] = e._end;
+      return { ...e, track: idx };
+    });
+
     for (let d=1; d<=days; d++) {
       const iso = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
       const isoDate = new Date(iso + 'T00:00:00');
@@ -1604,7 +1613,7 @@ const DIFFICULTY_LABELS = {
         const startDate = new Date(e.date + 'T00:00:00');
         const endDate = e._end ? new Date(e._end + 'T00:00:00') : startDate;
         return isoDate >= startDate && isoDate <= endDate;
-      });
+      }).sort((a, b) => a.track - b.track);
       const visibleEvents = dayEvents.slice(0, 10);
       let bars = visibleEvents.map(e => {
         const startDate = new Date(e.date + 'T00:00:00');
@@ -1621,12 +1630,16 @@ const DIFFICULTY_LABELS = {
         const color = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.stretch).colorClass;
         const durationDays = Math.round((endDate - startDate) / 86400000) + 1;
         const shift = daysBefore * 100;
-        return `<div class="schedule-bar schedule-bar-${pos} ${color}"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${e.title}</span></div>`;
+        return `<div class="schedule-bar schedule-bar-${pos} ${color}" style="position:absolute; top:${e.track * 20 + 24}px; left:0; width:100%;"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${e.title}</span></div>`;
       }).join('');
+      let maxTrack = visibleEvents.reduce((m, e) => Math.max(m, e.track), -1);
       if (dayEvents.length > 10) {
-        bars += `<div class="schedule-bar schedule-bar-extra">+${dayEvents.length - 10}</div>`;
+        const plusTop = (maxTrack + 1) * 20 + 24;
+        bars += `<div class="schedule-bar schedule-bar-extra" style="position:absolute; top:${plusTop}px; left:0; width:100%;">+${dayEvents.length - 10}</div>`;
+        maxTrack = Math.max(maxTrack, maxTrack + 1);
       }
-      html += `<div class="schedule-cal-day" data-date="${iso}"><div class="num" style="font-size:0.75rem; color:var(--gray); margin-bottom:4px;">${d}</div><div style="margin-top:auto; display:flex; flex-direction:column; gap:2px; width:100%;">${bars}</div></div>`;
+      const minHeight = Math.max(90, (maxTrack + 2) * 20 + 24);
+      html += `<div class="schedule-cal-day" data-date="${iso}" style="min-height:${minHeight}px;"><div class="num" style="font-size:0.75rem; color:var(--gray); margin-bottom:4px;">${d}</div>${bars}</div>`;
     }
     const totalCells = rowsNeeded * 7;
     const filled = start + days;
