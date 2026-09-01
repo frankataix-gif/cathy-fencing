@@ -52,15 +52,18 @@
       line-height: 1.4;
     }
     .tabs {
-      display: flex;
-      overflow-x: auto;
       background: white;
-      padding: 8px 12px;
-      gap: 8px;
       border-bottom: 1px solid #e5e7eb;
+      position: -webkit-sticky;
       position: sticky;
       top: 0;
       z-index: 100;
+    }
+    .tabs-inner {
+      display: flex;
+      overflow-x: auto;
+      padding: 8px 12px;
+      gap: 8px;
     }
     .tab {
       flex: 1; min-width: 80px;
@@ -255,10 +258,12 @@
   </div>
 
   <div class="tabs" id="tabs">
-    <button class="tab active" data-tab="tournaments">赛事列表</button>
-    <button class="tab" data-tab="eventsmap">赛事地图</button>
-    <button class="tab" data-tab="cathydata">日程</button>
-    <button class="tab" data-tab="profile">我的</button>
+    <div class="tabs-inner">
+      <button class="tab active" data-tab="tournaments">赛事列表</button>
+      <button class="tab" data-tab="eventsmap">赛事地图</button>
+      <button class="tab" data-tab="cathydata">日程</button>
+      <button class="tab" data-tab="profile">我的</button>
+    </div>
   </div>
 
   <!-- 赛事列表 -->
