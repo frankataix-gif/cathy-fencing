@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <meta name="theme-color" content="#2563eb">
   <title>何云熙 USA Fencing 赛事助手</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -1547,11 +1550,52 @@ const DIFFICULTY_LABELS = {
     return `${word}，妈妈辛苦了 · Vancouver Time ${vancouverDate()}`;
   }
 
+  function forceRefresh() {
+    const url = window.location.href.split('?')[0] + '?_=' + Date.now();
+    window.location.replace(url);
+  }
+
   function initHeaderMeta() {
     document.getElementById('suggested-age').textContent = momGreeting();
 
     const refreshBtn = document.getElementById('top-refresh');
-    if (refreshBtn) refreshBtn.addEventListener('click', () => window.location.reload(true));
+    if (refreshBtn) refreshBtn.addEventListener('click', forceRefresh);
+  }
+
+  function initPullToRefresh() {
+    let startY = 0, pulling = false;
+    const ptr = document.createElement('div');
+    ptr.id = 'pull-to-refresh';
+    ptr.textContent = '↓ 下拉刷新';
+    ptr.style.cssText = 'position:fixed; top:-40px; left:0; width:100%; height:40px; display:flex; align-items:center; justify-content:center; background:var(--primary); color:white; font-size:0.85rem; z-index:100001; transition:transform 0.2s; pointer-events:none;';
+    document.body.appendChild(ptr);
+
+    function onTouchStart(e) {
+      if (window.scrollY > 0) return;
+      startY = e.touches[0].clientY;
+      pulling = true;
+    }
+    function onTouchMove(e) {
+      if (!pulling) return;
+      const dy = e.touches[0].clientY - startY;
+      if (dy > 0 && dy < 120) {
+        ptr.style.transform = `translateY(${dy}px)`;
+      }
+      if (dy >= 100) {
+        ptr.textContent = '松开刷新';
+      }
+    }
+    function onTouchEnd(e) {
+      if (!pulling) return;
+      pulling = false;
+      const dy = e.changedTouches[0].clientY - startY;
+      ptr.style.transform = 'translateY(0px)';
+      ptr.textContent = '↓ 下拉刷新';
+      if (dy >= 100) forceRefresh();
+    }
+    document.addEventListener('touchstart', onTouchStart, { passive: true });
+    document.addEventListener('touchmove', onTouchMove, { passive: true });
+    document.addEventListener('touchend', onTouchEnd, { passive: true });
   }
 
   let scheduleCurrentMonth = new Date();
@@ -1873,6 +1917,7 @@ const DIFFICULTY_LABELS = {
   initSchedule();
   initImageLightbox();
   initTournamentNav();
+  initPullToRefresh();
   renderResults();
   renderDailyQuote();
 </script>
