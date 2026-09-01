@@ -34,7 +34,8 @@
       background: linear-gradient(135deg, var(--primary), var(--primary-dark));
       color: white;
       padding: 10px 16px;
-      position: sticky; top: 0; z-index: 50;
+      position: -webkit-sticky;
+      position: sticky; top: 0; z-index: 101;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       display: flex; align-items: flex-start; justify-content: space-between;
       gap: 12px;
@@ -1565,6 +1566,10 @@ const DIFFICULTY_LABELS = {
 
     const refreshBtn = document.getElementById('top-refresh');
     if (refreshBtn) refreshBtn.addEventListener('click', forceRefresh);
+
+    const header = document.querySelector('.header');
+    const tabs = document.getElementById('tabs');
+    if (header && tabs) tabs.style.top = header.offsetHeight + 'px';
   }
 
   function initPullToRefresh() {
