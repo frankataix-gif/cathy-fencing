@@ -178,6 +178,30 @@
       background: white; padding: 12px; border-radius: 8px; margin: 12px 0;
       box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     }
+    .schedule-calendar { display:grid; grid-template-columns: repeat(7, 1fr); gap:4px; }
+    .schedule-cal-header { text-align:center; font-size:0.75rem; color:var(--gray); padding:6px 0; }
+    .schedule-cal-day { min-height:48px; border:1px solid var(--border); border-radius:8px; padding:6px; font-size:0.8rem; cursor:pointer; background:white; display:flex; flex-direction:column; gap:2px; }
+    .schedule-cal-day.empty { background:transparent; border:none; cursor:default; }
+    .schedule-cal-day:hover { background:var(--primary-light); }
+    .schedule-cal-day .num { font-weight:600; }
+    .schedule-dot { width:6px; height:6px; border-radius:50%; display:inline-block; }
+    .schedule-list-item { border-left:4px solid var(--border); padding:8px 12px; margin-bottom:8px; border-radius:6px; background:#f8fafc; }
+    .schedule-list-item .title { font-weight:600; }
+    .schedule-list-item .meta { font-size:0.8rem; color:var(--gray); }
+    .schedule-color-competition { border-color:#ef4444; }
+    .schedule-color-camp { border-color:#3b82f6; }
+    .schedule-color-training { border-color:#22c55e; }
+    .schedule-color-physical { border-color:#f59e0b; }
+    .schedule-color-insight { border-color:#a855f7; }
+    .schedule-color-travel { border-color:#06b6d4; }
+    .schedule-color-other { border-color:#64748b; }
+    .bg-competition { background:#ef4444; }
+    .bg-camp { background:#3b82f6; }
+    .bg-training { background:#22c55e; }
+    .bg-physical { background:#f59e0b; }
+    .bg-insight { background:#a855f7; }
+    .bg-travel { background:#06b6d4; }
+    .bg-other { background:#64748b; }
   </style>
 </head>
 <body>
@@ -196,7 +220,7 @@
     <button class="tab active" data-tab="tournaments">赛事列表</button>
     <button class="tab" data-tab="eventsmap">赛事地图</button>
     <button class="tab" data-tab="rules">赛事规则</button>
-    <button class="tab" data-tab="cathydata">击剑数据</button>
+    <button class="tab" data-tab="cathydata">日程</button>
     <button class="tab" data-tab="profile">我的</button>
   </div>
 
@@ -288,22 +312,54 @@
     </div></div>
   </div>
 
-  <!-- 击剑数据 -->
+  <!-- 日程 -->
   <div id="tab-cathydata" class="tab-content">
-    <div id="cdata-landing" class="card">
-      <h3 style="margin-bottom:12px;">选择一个数据分类</h3>
-      <div id="cdata-categories" class="cdata-landing-grid" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:12px;"></div>
-    </div>
-    <div id="cdata-detail" class="card" style="display:none;">
+    <div class="card">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h3 id="cdata-title"></h3>
-        <button class="btn" id="cdata-back">返回分类</button>
+        <h2>Cathy 日程</h2>
+        <button class="btn cathy" id="schedule-add">+ 添加事件</button>
       </div>
-      <div id="cdata-form-area"></div>
-      <div id="cdata-list" style="margin-top:16px;"></div>
+      <div id="schedule-next" style="font-size:0.9rem; color:var(--gray);"></div>
     </div>
-    <div style="margin-top:16px;">
-      <button class="btn cathy" id="cdata-export">导出训练数据 JSON</button>
+
+    <div class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+        <button class="btn" id="schedule-prev">&lt;</button>
+        <h3 id="schedule-month" style="margin:0;"></h3>
+        <button class="btn" id="schedule-next-month">&gt;</button>
+      </div>
+      <div class="schedule-calendar" id="schedule-calendar"></div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-bottom:12px;">事件列表</h3>
+      <div id="schedule-list"></div>
+    </div>
+  </div>
+
+  <div id="schedule-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:200; align-items:center; justify-content:center;">
+    <div style="background:white; border-radius:12px; width:90%; max-width:420px; max-height:85vh; overflow-y:auto; padding:16px;">
+      <h3 id="schedule-modal-title" style="margin-bottom:12px;">添加事件</h3>
+      <input type="hidden" id="schedule-id">
+      <div class="form-row"><label>标题</label><input id="schedule-title" type="text" placeholder="如：Portland RJCC"></div>
+      <div class="form-row"><label>日期</label><input id="schedule-date" type="date"></div>
+      <div class="form-row"><label>结束日期（可选）</label><input id="schedule-end" type="date"></div>
+      <div class="form-row"><label>类型</label>
+        <select id="schedule-type">
+          <option value="competition">比赛</option>
+          <option value="camp">训练营</option>
+          <option value="training">训练</option>
+          <option value="physical">体能</option>
+          <option value="insight">心得</option>
+          <option value="travel">旅行</option>
+          <option value="other">其它</option>
+        </select>
+      </div>
+      <div class="form-row"><label>描述</label><textarea id="schedule-desc" rows="3" placeholder="地点、备注、感受等"></textarea></div>
+      <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px;">
+        <button class="btn" id="schedule-cancel">取消</button>
+        <button class="btn cathy" id="schedule-save">保存</button>
+      </div>
     </div>
   </div>
 
@@ -376,76 +432,22 @@ const GOOGLE_DRIVE_URL = 'https://drive.google.com/drive/folders/1H6UBzhBjnw_J_c
 // 共享报名状态：id -> 'registered'/'watching'/''
 const DEFAULT_REGISTRATIONS = {};
 
-// 击剑数据分类和输入参数 / Fencing data schema
-const CATHY_TRAINING_SCHEMA = [
-  { key: 'competition', label: '比赛成绩', icon: '🏆', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'name', label: '赛事名称', type: 'text' },
-    { key: 'circuit', label: '赛事类型', type: 'select', options: ['SYC','RYC','RJCC','ROC','NAC','Local'] },
-    { key: 'weapon', label: '剑种', type: 'select', options: ['Foil','Epee','Saber'] },
-    { key: 'age_group', label: '年龄组', type: 'select', options: ['Y10','Y12','Y14','CDT','JNR'] },
-    { key: 'rank', label: '名次', type: 'number' },
-    { key: 'total', label: '总人数', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'physical', label: '体能训练', icon: '💪', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'type', label: '类型', type: 'select', options: ['力量','敏捷','耐力','速度','爆发','核心'] },
-    { key: 'duration', label: '时长(分钟)', type: 'number' },
-    { key: 'intensity', label: '强度 1-10', type: 'number' },
-    { key: 'exercises', label: '训练项目', type: 'text' },
-    { key: 'rest_hr', label: '静息心率', type: 'number' },
-    { key: 'fatigue', label: '疲劳感 1-10', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'stretching', label: '拉伸恢复', icon: '🧘', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'type', label: '类型', type: 'select', options: ['训练前','训练后','睡前','晨起','受伤后'] },
-    { key: 'duration', label: '时长(分钟)', type: 'number' },
-    { key: 'areas', label: '拉伸部位', type: 'text' },
-    { key: 'flexibility', label: '柔韧评分 1-10', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'medical', label: '检查报告', icon: '📋', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'type', label: '检查类型', type: 'select', options: ['体检','物理治疗','血检','X光','疫苗','牙科'] },
-    { key: 'result', label: '结果摘要', type: 'text' },
-    { key: 'action', label: '后续行动', type: 'text' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'technical', label: '技术训练', icon: '⚔️', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'drill', label: '训练项目', type: 'text' },
-    { key: 'focus', label: '重点', type: 'select', options: ['步伐','进攻','防守','反击','距离','节奏','心理'] },
-    { key: 'coach', label: '教练', type: 'text' },
-    { key: 'rating', label: '完成度 1-10', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'mental', label: '心理状态', icon: '🧠', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'mood', label: '情绪 1-10', type: 'number' },
-    { key: 'stress', label: '压力 1-10', type: 'number' },
-    { key: 'focus', label: '专注度 1-10', type: 'number' },
-    { key: 'sleep', label: '睡眠小时', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'nutrition', label: '饮食睡眠', icon: '🍎', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'meals', label: '正餐数', type: 'number' },
-    { key: 'protein', label: '蛋白质(g)', type: 'number' },
-    { key: 'water', label: '饮水(L)', type: 'number' },
-    { key: 'supplements', label: '补剂', type: 'text' },
-    { key: 'sleep', label: '睡眠小时', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]},
-  { key: 'equipment', label: '装备维护', icon: '🎒', fields: [
-    { key: 'date', label: '日期', type: 'date' },
-    { key: 'item', label: '装备', type: 'select', options: ['花剑','手套','面罩','击剑服','鞋','线','身体线'] },
-    { key: 'action', label: '维护内容', type: 'select', options: ['检查','清洁','更换','维修','购买'] },
-    { key: 'condition', label: '状态 1-10', type: 'number' },
-    { key: 'notes', label: '备注', type: 'text' }
-  ]}
-];
+// 日程事件类型 / Schedule event types
+const SCHEDULE_EVENT_TYPES = {
+  competition: { label: '比赛', colorClass: 'bg-competition', borderClass: 'schedule-color-competition', dot: '#ef4444' },
+  camp: { label: '训练营', colorClass: 'bg-camp', borderClass: 'schedule-color-camp', dot: '#3b82f6' },
+  training: { label: '训练', colorClass: 'bg-training', borderClass: 'schedule-color-training', dot: '#22c55e' },
+  physical: { label: '体能', colorClass: 'bg-physical', borderClass: 'schedule-color-physical', dot: '#f59e0b' },
+  insight: { label: '心得', colorClass: 'bg-insight', borderClass: 'schedule-color-insight', dot: '#a855f7' },
+  travel: { label: '旅行', colorClass: 'bg-travel', borderClass: 'schedule-color-travel', dot: '#06b6d4' },
+  other: { label: '其它', colorClass: 'bg-other', borderClass: 'schedule-color-other', dot: '#64748b' }
+};
+
+// 旧击剑数据保留，但不再展示
+let cathyDataRecords = {};
+let scheduleEvents = [];
+try { cathyDataRecords = JSON.parse(getLocal('cathy_training_data', '{}') || '{}'); } catch(e) { cathyDataRecords = {}; }
+try { scheduleEvents = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { scheduleEvents = []; }
 
 const CITY_COORDS = {
   'Vancouver, BC': [49.28, -123.12],
@@ -1464,120 +1466,140 @@ const DIFFICULTY_LABELS = {
     document.getElementById('suggested-age').textContent = `建议：Y12 稳打，Y14 挑战`;
   }
 
-  let cathyDataRecords = {};
-  let cathyDataCategory = null;
-  try { cathyDataRecords = JSON.parse(getLocal('cathy_training_data', '{}') || '{}'); } catch(e) { cathyDataRecords = {}; }
+  let scheduleCurrentMonth = new Date();
+  let scheduleSelectedDate = vancouverISO().slice(0,10);
 
-  function saveCathyData() {
-    saveToLocal('cathy_training_data', JSON.stringify(cathyDataRecords));
+  function saveSchedule() {
+    saveToLocal('cathy_schedule_events', JSON.stringify(scheduleEvents));
   }
 
-  function showCathyDataLanding() {
-    const landing = document.getElementById('cdata-landing');
-    const detail = document.getElementById('cdata-detail');
-    if (landing) landing.style.display = 'block';
-    if (detail) detail.style.display = 'none';
-    cathyDataCategory = null;
-    renderCathyDataCategories();
+  function newEventId() { return 'e_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
+
+  function scheduleTypeLabel(t) { return (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).label; }
+
+  function scheduleTypeDot(t) {
+    const c = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).dot;
+    return `<span class="schedule-dot" style="background:${c};"></span>`;
   }
 
-  function showCathyDataDetail(key) {
-    const landing = document.getElementById('cdata-landing');
-    const detail = document.getElementById('cdata-detail');
-    if (landing) landing.style.display = 'none';
-    if (detail) detail.style.display = 'block';
-    cathyDataCategory = key;
-    renderCathyDataForm();
-    renderCathyDataList();
+  function openScheduleModal(event) {
+    document.getElementById('schedule-id').value = event ? event.id : '';
+    document.getElementById('schedule-title').value = event ? event.title || '' : '';
+    document.getElementById('schedule-date').value = event ? event.date : scheduleSelectedDate;
+    document.getElementById('schedule-end').value = event ? event.end || '' : '';
+    document.getElementById('schedule-type').value = event ? event.type : 'competition';
+    document.getElementById('schedule-desc').value = event ? event.description || '' : '';
+    document.getElementById('schedule-modal-title').textContent = event ? '编辑事件' : '添加事件';
+    modal.style.display = 'flex';
   }
 
-  function renderCathyDataList() {
-    const container = document.getElementById('cdata-list');
-    if (!container || !cathyDataCategory) return;
-    const cat = CATHY_TRAINING_SCHEMA.find(c => c.key === cathyDataCategory);
-    const rows = cathyDataRecords[cathyDataCategory] || [];
-    if (!rows.length) { container.innerHTML = '<div class="empty-state">暂无记录</div>'; return; }
-    rows.sort((a,b) => new Date(b.date || 0) - new Date(a.date || 0));
-    let html = '<table class="cdata-table" style="width:100%; font-size:0.85rem; border-collapse:collapse;"><thead><tr>';
-    cat.fields.forEach(f => { html += `<th style="text-align:left; padding:6px; border-bottom:1px solid #e2e8f0;">${f.label}</th>`; });
-    html += '<th></th></tr></thead><tbody>';
-    rows.forEach((r, i) => {
-      html += '<tr>';
-      cat.fields.forEach(f => { html += `<td style="padding:6px; border-bottom:1px solid #f1f5f9;">${r[f.key] !== undefined ? r[f.key] : ''}</td>`; });
-      html += `<td style="padding:6px;"><button class="btn" style="padding:4px 10px;" data-idx="${i}">删除</button></td></tr>`;
-    });
-    html += '</tbody></table>';
-    container.innerHTML = html;
-    container.querySelectorAll('button').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        const idx = parseInt(e.target.dataset.idx, 10);
-        cathyDataRecords[cathyDataCategory].splice(idx, 1);
-        saveCathyData();
-        renderCathyDataList();
+  function closeScheduleModal() { document.getElementById('schedule-modal').style.display = 'none'; }
+
+  function deleteSchedule(id) {
+    scheduleEvents = scheduleEvents.filter(e => e.id !== id);
+    saveSchedule();
+    renderSchedule();
+  }
+
+  function addOrUpdateSchedule() {
+    const id = document.getElementById('schedule-id').value;
+    const title = document.getElementById('schedule-title').value.trim();
+    const date = document.getElementById('schedule-date').value;
+    const end = document.getElementById('schedule-end').value;
+    const type = document.getElementById('schedule-type').value;
+    const desc = document.getElementById('schedule-desc').value.trim();
+    if (!title || !date) { alert('标题和日期不能为空'); return; }
+    const ev = { id: id || newEventId(), title, date, end: end || null, type, description: desc };
+    if (id) {
+      const idx = scheduleEvents.findIndex(e => e.id === id);
+      if (idx >= 0) scheduleEvents[idx] = ev;
+    } else {
+      scheduleEvents.push(ev);
+    }
+    scheduleEvents.sort((a,b) => new Date(a.date) - new Date(b.date));
+    saveSchedule();
+    closeScheduleModal();
+    renderSchedule();
+  }
+
+  function daysInMonth(y, m) { return new Date(y, m + 1, 0).getDate(); }
+  function firstWeekday(y, m) { return new Date(y, m, 1).getDay(); }
+
+  function renderScheduleCalendar() {
+    const y = scheduleCurrentMonth.getFullYear();
+    const m = scheduleCurrentMonth.getMonth();
+    document.getElementById('schedule-month').textContent = `${y}年 ${m+1}月`;
+    const calendar = document.getElementById('schedule-calendar');
+    const days = daysInMonth(y, m);
+    const start = firstWeekday(y, m);
+    let html = '';
+    ['日','一','二','三','四','五','六'].forEach(d => { html += `<div class="schedule-cal-header">${d}</div>`; });
+    for (let i=0; i<start; i++) html += '<div class="schedule-cal-day empty"></div>';
+    for (let d=1; d<=days; d++) {
+      const iso = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+      const dayEvents = scheduleEvents.filter(e => e.date === iso || (e.date <= iso && e.end && e.end >= iso));
+      const dots = dayEvents.slice(0,5).map(e => scheduleTypeDot(e.type)).join('');
+      html += `<div class="schedule-cal-day" data-date="${iso}"><div class="num">${d}</div><div>${dots}</div></div>`;
+    }
+    calendar.innerHTML = html;
+    calendar.querySelectorAll('.schedule-cal-day[data-date]').forEach(day => {
+      day.addEventListener('click', () => {
+        scheduleSelectedDate = day.dataset.date;
+        openScheduleModal(null);
       });
     });
   }
 
-  function renderCathyDataForm() {
-    const area = document.getElementById('cdata-form-area');
-    const cat = CATHY_TRAINING_SCHEMA.find(c => c.key === cathyDataCategory);
-    if (!area || !cat) return;
-    document.getElementById('cdata-title').textContent = `${cat.icon || ''} ${cat.label}`;
-    let html = '<div class="cdata-form" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:10px;">';
-    cat.fields.forEach(f => {
-      html += `<div style="display:flex; flex-direction:column; gap:4px;"><label style="font-size:0.8rem; color:var(--gray);">${f.label}</label>`;
-      if (f.type === 'select') {
-        html += `<select class="cdata-input" data-key="${f.key}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;"><option value="">请选择</option>`;
-        f.options.forEach(o => { html += `<option value="${o}">${o}</option>`; });
-        html += '</select>';
-      } else if (f.type === 'date') {
-        html += `<input class="cdata-input" data-key="${f.key}" type="date" value="${vancouverISO().slice(0,10)}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;">`;
-      } else {
-        html += `<input class="cdata-input" data-key="${f.key}" type="${f.type === 'number' ? 'number' : 'text'}" placeholder="${f.label}" style="padding:8px; border:1px solid #d1d5db; border-radius:6px;">`;
-      }
+  function renderScheduleList() {
+    const list = document.getElementById('schedule-list');
+    if (!scheduleEvents.length) { list.innerHTML = '<div class="empty-state">暂无事件</div>'; return; }
+    const now = new Date(vancouverISO());
+    const upcoming = scheduleEvents.filter(e => new Date(e.date) >= now || (e.end && new Date(e.end) >= now));
+    const next = upcoming.length ? upcoming[0] : null;
+    const nextDiv = document.getElementById('schedule-next');
+    if (next) {
+      const diff = Math.ceil((new Date(next.date) - now) / 86400000);
+      nextDiv.innerHTML = `${scheduleTypeDot(next.type)} 下一件事：<b>${next.title}</b>（${next.date}，还有 ${diff} 天）`;
+    } else { nextDiv.textContent = '暂无即将到来的事件'; }
+
+    let html = '';
+    scheduleEvents.slice().reverse().forEach(e => {
+      const t = e.type;
+      const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.other).borderClass;
+      html += `<div class="schedule-list-item schedule-color-${t}">`;
+      html += `<div class="title" style="display:flex; align-items:center; gap:6px;">${scheduleTypeDot(t)} ${e.title} <span class="meta">(${e.date}${e.end ? ' ~ ' + e.end : ''})</span></div>`;
+      if (e.description) html += `<div class="meta">${e.description}</div>`;
+      html += `<div style="margin-top:6px;"><button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
       html += '</div>';
     });
-    html += '</div><div style="margin-top:12px;"><button class="btn cathy" id="cdata-add">添加记录</button></div>';
-    area.innerHTML = html;
-    document.getElementById('cdata-add').addEventListener('click', () => {
-      const entry = {};
-      area.querySelectorAll('.cdata-input').forEach(el => { if (el.value !== '') entry[el.dataset.key] = el.value; });
-      if (!cathyDataRecords[cathyDataCategory]) cathyDataRecords[cathyDataCategory] = [];
-      cathyDataRecords[cathyDataCategory].push(entry);
-      saveCathyData();
-      renderCathyDataList();
-      renderCathyDataForm();
+    list.innerHTML = html;
+    list.querySelectorAll('button[data-edit]').forEach(btn => {
+      btn.addEventListener('click', () => openScheduleModal(scheduleEvents.find(e => e.id === btn.dataset.edit)));
+    });
+    list.querySelectorAll('button[data-delete]').forEach(btn => {
+      btn.addEventListener('click', () => { if (confirm('删除这个事件？')) deleteSchedule(btn.dataset.delete); });
     });
   }
 
-  function renderCathyDataCategories() {
-    const c = document.getElementById('cdata-categories');
-    if (!c) return;
-    c.innerHTML = '';
-    CATHY_TRAINING_SCHEMA.forEach(cat => {
-      const count = (cathyDataRecords[cat.key] || []).length;
-      const card = document.createElement('button');
-      card.className = 'cdata-cat';
-      card.innerHTML = `<div style="font-size:1.8rem; margin-bottom:6px;">${cat.icon || ''}</div><div style="font-weight:600;">${cat.label}</div><div style="font-size:0.75rem; color:var(--gray); margin-top:4px;">${count} 条记录</div>`;
-      card.style.cssText = 'display:flex; flex-direction:column; align-items:center; justify-content:center; padding:16px; border:1px solid #e2e8f0; border-radius:12px; background:white; text-align:center; cursor:pointer; transition:box-shadow 0.2s;';
-      card.addEventListener('mouseenter', () => card.style.boxShadow = '0 4px 12px rgba(0,0,0,0.08)');
-      card.addEventListener('mouseleave', () => card.style.boxShadow = 'none');
-      card.addEventListener('click', () => showCathyDataDetail(cat.key));
-      c.appendChild(card);
-    });
+  function renderSchedule() {
+    renderScheduleCalendar();
+    renderScheduleList();
   }
 
-  function initCathyData() {
-    document.getElementById('cdata-export').addEventListener('click', () => {
-      const blob = new Blob([JSON.stringify(cathyDataRecords, null, 2)], { type: 'application/json' });
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = 'cathy_training_data.json';
-      a.click();
+  function initSchedule() {
+    document.getElementById('schedule-prev').addEventListener('click', () => {
+      scheduleCurrentMonth.setMonth(scheduleCurrentMonth.getMonth() - 1);
+      renderScheduleCalendar();
     });
-    const back = document.getElementById('cdata-back');
-    if (back) back.addEventListener('click', showCathyDataLanding);
-    showCathyDataLanding();
+    document.getElementById('schedule-next-month').addEventListener('click', () => {
+      scheduleCurrentMonth.setMonth(scheduleCurrentMonth.getMonth() + 1);
+      renderScheduleCalendar();
+    });
+    document.getElementById('schedule-add').addEventListener('click', () => openScheduleModal(null));
+    document.getElementById('schedule-save').addEventListener('click', addOrUpdateSchedule);
+    document.getElementById('schedule-cancel').addEventListener('click', closeScheduleModal);
+    document.getElementById('schedule-modal').addEventListener('click', (e) => { if (e.target.id === 'schedule-modal') closeScheduleModal(); });
+    renderSchedule();
   }
 
   initBaseCity();
@@ -1586,7 +1608,7 @@ const DIFFICULTY_LABELS = {
   initProfile();
   initGDrive();
   initHeaderMeta();
-  initCathyData();
+  initSchedule();
   renderResults();
   renderDailyQuote();
 </script>
