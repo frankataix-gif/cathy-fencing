@@ -165,6 +165,8 @@
     }
     .btn { background: var(--primary); color: white; border: none; padding: 8px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-block; }
     .btn.cathy { background: var(--cathy); }
+    .btn.secondary { background: #e2e8f0; color: #334155; }
+    .btn.danger { background: #ef4444; color: white; }
     .rule-section { margin-bottom: 16px; }
     .rule-title { font-weight: 700; color: var(--primary); margin-bottom: 6px; font-size: 0.95rem; }
     .rule-body { font-size: 0.85rem; color: var(--text); background: white; padding: 12px; border-radius: 8px; }
@@ -388,7 +390,7 @@
       <div class="form-row"><label>链接（官网/报名）</label><input id="schedule-url" type="text" placeholder="https://..."></div>
       <div class="form-row"><label>注意事项</label><textarea id="schedule-desc" rows="3" placeholder="地点、备注、感受等"></textarea></div>
       <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px;">
-        <button class="btn" id="schedule-cancel">取消</button>
+        <button class="btn secondary" id="schedule-cancel">取消</button>
         <button class="btn cathy" id="schedule-save">保存</button>
       </div>
     </div>
@@ -1552,7 +1554,8 @@ const DIFFICULTY_LABELS = {
     const type = document.getElementById('schedule-type').value;
     const url = document.getElementById('schedule-url').value.trim();
     const desc = document.getElementById('schedule-desc').value.trim();
-    if (!title || !date) { alert('标题和日期不能为空'); return; }
+    if (!title) { alert('标题不能为空'); document.getElementById('schedule-title').focus(); return; }
+    if (!date) { alert('日期不能为空'); document.getElementById('schedule-date').focus(); return; }
     const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, url: url || null, description: desc };
     if (id) {
       const idx = scheduleEvents.findIndex(e => e.id === id);
@@ -1679,7 +1682,7 @@ const DIFFICULTY_LABELS = {
         if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
         html += '</div>';
       }
-      html += `<div style="margin-top:6px;"><button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
+      html += `<div style="margin-top:6px;"><button class="btn secondary" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn danger" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
       html += '</div>';
     });
     list.innerHTML = html;
@@ -1738,6 +1741,7 @@ const DIFFICULTY_LABELS = {
     document.getElementById('schedule-save').addEventListener('click', addOrUpdateSchedule);
     document.getElementById('schedule-cancel').addEventListener('click', closeScheduleModal);
     document.getElementById('schedule-modal').addEventListener('click', (e) => { if (e.target.id === 'schedule-modal') closeScheduleModal(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeScheduleModal(); });
     syncAllRegisteredTournaments();
     renderSchedule();
   }
@@ -1771,8 +1775,8 @@ const DIFFICULTY_LABELS = {
     <div style="background:#fff; padding:32px; border-radius:12px; width:min(90%,320px); box-shadow:0 20px 60px rgba(0,0,0,0.3);">
       <h2 style="text-align:center; margin-bottom:8px; color:var(--primary);">何云熙击剑助手</h2>
       <p style="text-align:center; color:#6b7280; margin-bottom:20px; font-size:0.85rem;">请输入访问账号</p>
-      <input id="login-user" type="text" placeholder="用户名" style="width:100%; padding:10px 12px; margin-bottom:12px; border:1px solid #d1d5db; border-radius:8px; font-size:0.95rem;">
-      <input id="login-pass" type="password" placeholder="密码" style="width:100%; padding:10px 12px; margin-bottom:16px; border:1px solid #d1d5db; border-radius:8px; font-size:0.95rem;">
+      <input id="login-user" type="text" placeholder="用户名" aria-label="用户名" style="width:100%; padding:10px 12px; margin-bottom:12px; border:1px solid #d1d5db; border-radius:8px; font-size:0.95rem;">
+      <input id="login-pass" type="password" placeholder="密码" aria-label="密码" style="width:100%; padding:10px 12px; margin-bottom:16px; border:1px solid #d1d5db; border-radius:8px; font-size:0.95rem;">
       <button id="login-btn" style="width:100%; padding:12px; background:var(--primary); color:#fff; border:none; border-radius:8px; font-size:1rem; cursor:pointer;">进入</button>
       <p id="login-error" style="color:#dc2626; text-align:center; margin-top:12px; font-size:0.8rem; min-height:1rem;"></p>
     </div>
