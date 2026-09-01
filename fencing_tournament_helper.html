@@ -232,16 +232,21 @@
     .schedule-list-item .meta { font-size:0.8rem; color:var(--gray); }
     .schedule-color-competition { border-color:#ef4444; }
     .schedule-color-camp { border-color:#3b82f6; }
-    .schedule-color-training { border-color:#22c55e; }
+    .schedule-color-club { border-color:#22c55e; }
     .schedule-color-physical { border-color:#f59e0b; }
     .schedule-color-stretch { border-color:#94a3b8; }
     .schedule-color-other { border-color:#64748b; }
     .bg-competition { background:#ef4444; }
     .bg-camp { background:#3b82f6; }
-    .bg-training { background:#22c55e; }
+    .bg-club { background:#22c55e; }
     .bg-physical { background:#f59e0b; }
     .bg-stretch { background:#94a3b8; }
     .bg-other { background:#64748b; }
+    .schedule-countdown { display:inline-block; font-size:0.75rem; padding:2px 8px; border-radius:4px; white-space:nowrap; }
+    .badge-past { background:#f3f4f6; color:#6b7280; }
+    .badge-ongoing { background:#dcfce7; color:#166534; }
+    .badge-soon { background:#fef3c7; color:#92400e; }
+    .badge-future { background:#eff6ff; color:#1d4ed8; }
   </style>
 </head>
 <body>
@@ -380,42 +385,56 @@
     <div class="card">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
         <h3 style="margin:0;">事件列表</h3>
-        <button class="btn" onclick="openScheduleModal(null)">+ 日程</button>
+        <button class="btn" id="schedule-add-btn" onclick="openScheduleEditor()">+ 日程</button>
       </div>
       <div id="schedule-list"></div>
     </div>
+
+    <div class="card">
+      <h3 style="margin-bottom:8px;">日程同步 / GitHub</h3>
+      <p style="font-size:0.8rem;color:var(--gray);margin-bottom:8px;">复制本地 JSON 到 GitHub 文件 cathy_data/schedule.json，或在另一台设备导入。</p>
+      <textarea id="schedule-io" rows="4" style="width:100%; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;" placeholder="粘贴 schedule.json..."></textarea>
+      <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:8px;">
+        <button class="btn secondary" id="schedule-export">导出 JSON</button>
+        <button class="btn cathy" id="schedule-import">导入 JSON</button>
+      </div>
+    </div>
   </div>
 
-  <div id="schedule-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:white; z-index:200; overflow-y:auto; padding:16px;">
-    <div style="position:sticky; top:0; background:white; padding:10px 0; text-align:right; margin-bottom:12px; border-bottom:1px solid var(--border); z-index:1;">
-      <button class="btn secondary" id="schedule-modal-close">关闭</button>
+  <div id="schedule-editor" style="display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:white; z-index:200; overflow-y:auto; padding:16px;">
+    <div style="position:sticky; top:0; background:white; padding:10px 0; text-align:right; margin-bottom:12px; border-bottom:1px solid #e5e7eb; z-index:1;">
+      <button class="btn secondary" id="schedule-editor-close">关闭</button>
     </div>
-    <h3 id="schedule-modal-title" style="margin-bottom:12px;">添加事件</h3>
-    <input type="hidden" id="schedule-id">
-    <div class="form-row"><label>标题</label><input id="schedule-title" type="text" placeholder="如：Portland RJCC"></div>
-    <div class="form-row"><label>日期</label><input id="schedule-date" type="date"></div>
-    <div class="form-row"><label>结束日期（可选）</label><input id="schedule-end" type="date"></div>
+    <h3 id="schedule-editor-title" style="margin-bottom:12px;">添加事件</h3>
+    <input type="hidden" id="schedule-edit-id">
+    <div class="form-row"><label for="se-title">标题</label><input id="se-title" type="text" placeholder="如：Portland RJCC"></div>
     <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
-      <div style="min-width:0;"><label>开始时间</label><input id="schedule-time" type="time"></div>
-      <div style="min-width:0;"><label>结束时间</label><input id="schedule-endtime" type="time"></div>
+      <div style="min-width:0;"><label for="se-date">日期</label><input id="se-date" type="date"></div>
+      <div style="min-width:0;"><label for="se-end">结束日期（可选）</label><input id="se-end" type="date"></div>
     </div>
-    <div class="form-row"><label>类型</label>
-      <select id="schedule-type">
-        <option value="competition">比赛</option>
-        <option value="camp">训练营</option>
-        <option value="training">训练</option>
-        <option value="physical">体能</option>
-        <option value="insight">心得</option>
-        <option value="travel">旅行</option>
-        <option value="other">其它</option>
-      </select>
+    <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
+      <div style="min-width:0;"><label for="se-time">开始时间</label><input id="se-time" type="time"></div>
+      <div style="min-width:0;"><label for="se-endtime">结束时间</label><input id="se-endtime" type="time"></div>
     </div>
-    <div class="form-row"><label>链接（官网/报名）</label><input id="schedule-url" type="text" placeholder="https://..."></div>
-    <div class="form-row"><label>地图链接</label><input id="schedule-map" type="text" placeholder="https://www.google.com/maps/search/..."></div>
-    <div class="form-row"><label>注意事项</label><textarea id="schedule-desc" rows="3" placeholder="地点、备注、感受等"></textarea></div>
+    <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
+      <div style="min-width:0;"><label for="se-type">类型</label>
+        <select id="se-type">
+          <option value="competition">比赛</option>
+          <option value="camp">训练营</option>
+          <option value="club">俱乐部训练</option>
+          <option value="physical">体能</option>
+          <option value="stretch">拉伸</option>
+          <option value="other">其他</option>
+        </select>
+      </div>
+      <div style="min-width:0;"><label for="se-location">地点</label><input id="se-location" type="text" placeholder="场馆 / 城市"></div>
+    </div>
+    <div class="form-row"><label for="se-map-url">地图链接</label><input id="se-map-url" type="text" placeholder="https://www.google.com/maps/search/..."></div>
+    <div class="form-row"><label for="se-url">官网 / 报名链接</label><input id="se-url" type="text" placeholder="https://..."></div>
+    <div class="form-row"><label for="se-notes">备注</label><textarea id="se-notes" rows="3" placeholder="地点、备注、感受等"></textarea></div>
     <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
-      <button class="btn secondary" id="schedule-cancel">取消</button>
-      <button class="btn cathy" id="schedule-save">保存</button>
+      <button class="btn secondary" id="schedule-editor-cancel">取消</button>
+      <button class="btn cathy" id="schedule-editor-save">保存</button>
     </div>
   </div>
 
@@ -483,9 +502,10 @@ const DEFAULT_REGISTRATIONS = {};
 const SCHEDULE_EVENT_TYPES = {
   competition: { label: '比赛', colorClass: 'bg-competition', borderClass: 'schedule-color-competition', dot: '#ef4444' },
   camp: { label: '训练营', colorClass: 'bg-camp', borderClass: 'schedule-color-camp', dot: '#3b82f6' },
-  training: { label: '训练', colorClass: 'bg-training', borderClass: 'schedule-color-training', dot: '#22c55e' },
+  club: { label: '俱乐部训练', colorClass: 'bg-club', borderClass: 'schedule-color-club', dot: '#22c55e' },
   physical: { label: '体能', colorClass: 'bg-physical', borderClass: 'schedule-color-physical', dot: '#f59e0b' },
-  stretch: { label: '拉伸', colorClass: 'bg-stretch', borderClass: 'schedule-color-stretch', dot: '#94a3b8' }
+  stretch: { label: '拉伸', colorClass: 'bg-stretch', borderClass: 'schedule-color-stretch', dot: '#94a3b8' },
+  other: { label: '其他', colorClass: 'bg-other', borderClass: 'schedule-color-other', dot: '#64748b' }
 };
 
 // 旧击剑数据保留，但不再展示
@@ -1628,61 +1648,73 @@ const DIFFICULTY_LABELS = {
     saveToLocal('cathy_schedule_events', JSON.stringify(scheduleEvents));
   }
 
+  function loadSchedule() {
+    try { scheduleEvents = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { scheduleEvents = []; }
+  }
+
   function newEventId() { return 'e_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
 
-  function scheduleTypeLabel(t) { return (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).label; }
+  function scheduleTypeLabel(type) {
+    return (SCHEDULE_EVENT_TYPES[type] || SCHEDULE_EVENT_TYPES.other).label;
+  }
 
-  function scheduleTypeDot(t) {
-    const c = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).dot;
+  function scheduleTypeDot(type) {
+    const c = (SCHEDULE_EVENT_TYPES[type] || SCHEDULE_EVENT_TYPES.other).dot;
     return `<span class="schedule-dot" style="background:${c};"></span>`;
   }
 
-  function openScheduleModal(event) {
-    document.getElementById('schedule-id').value = event ? event.id : '';
-    document.getElementById('schedule-title').value = event ? event.title || '' : '';
-    document.getElementById('schedule-date').value = event ? event.date : scheduleSelectedDate;
-    document.getElementById('schedule-end').value = event ? event.end || '' : '';
-    document.getElementById('schedule-time').value = event ? event.time || '' : '';
-    document.getElementById('schedule-endtime').value = event ? event.endTime || '' : '';
-    document.getElementById('schedule-type').value = event ? event.type : 'competition';
-    document.getElementById('schedule-url').value = event ? event.url || '' : '';
-    document.getElementById('schedule-map').value = event ? event.mapUrl || '' : '';
-    document.getElementById('schedule-desc').value = event ? event.description || '' : '';
-    document.getElementById('schedule-modal-title').textContent = event ? '编辑事件' : '添加事件';
-    document.getElementById('schedule-modal').style.display = 'block';
+  function openScheduleEditor(event) {
+    const isEdit = !!event;
+    document.getElementById('schedule-edit-id').value = isEdit ? event.id : '';
+    document.getElementById('se-title').value = isEdit ? (event.title || '') : '';
+    document.getElementById('se-date').value = isEdit ? event.date : vancouverISO();
+    document.getElementById('se-end').value = isEdit ? (event.end || '') : '';
+    document.getElementById('se-time').value = isEdit ? (event.time || '') : '';
+    document.getElementById('se-endtime').value = isEdit ? (event.endTime || '') : '';
+    document.getElementById('se-type').value = isEdit ? (event.type || 'competition') : 'competition';
+    document.getElementById('se-location').value = isEdit ? (event.location || '') : '';
+    document.getElementById('se-map-url').value = isEdit ? (event.mapUrl || '') : '';
+    document.getElementById('se-url').value = isEdit ? (event.url || '') : '';
+    document.getElementById('se-notes').value = isEdit ? (event.description || '') : '';
+    document.getElementById('schedule-editor-title').textContent = isEdit ? '编辑事件' : '添加事件';
+    document.getElementById('schedule-editor').style.display = 'block';
+    document.getElementById('se-title').focus();
   }
 
-  function closeScheduleModal() { document.getElementById('schedule-modal').style.display = 'none'; }
+  function closeScheduleEditor() { document.getElementById('schedule-editor').style.display = 'none'; }
 
   function deleteSchedule(id) {
+    if (!confirm('确认删除这个事件？')) return;
     scheduleEvents = scheduleEvents.filter(e => e.id !== id);
     saveSchedule();
     renderSchedule();
   }
 
-  function addOrUpdateSchedule() {
-    const id = document.getElementById('schedule-id').value;
-    const title = document.getElementById('schedule-title').value.trim();
-    const date = document.getElementById('schedule-date').value;
-    const end = document.getElementById('schedule-end').value;
-    const time = document.getElementById('schedule-time').value;
-    const endTime = document.getElementById('schedule-endtime').value;
-    const type = document.getElementById('schedule-type').value;
-    const url = document.getElementById('schedule-url').value.trim();
-    const mapUrl = document.getElementById('schedule-map').value.trim();
-    const desc = document.getElementById('schedule-desc').value.trim();
-    if (!title) { alert('标题不能为空'); document.getElementById('schedule-title').focus(); return; }
-    if (!date) { alert('日期不能为空'); document.getElementById('schedule-date').focus(); return; }
-    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, url: url || null, mapUrl: mapUrl || null, description: desc };
+  function saveScheduleEvent() {
+    const id = document.getElementById('schedule-edit-id').value;
+    const title = document.getElementById('se-title').value.trim();
+    const date = document.getElementById('se-date').value;
+    const end = document.getElementById('se-end').value;
+    const time = document.getElementById('se-time').value;
+    const endTime = document.getElementById('se-endtime').value;
+    const type = document.getElementById('se-type').value;
+    const location = document.getElementById('se-location').value.trim();
+    const mapUrl = document.getElementById('se-map-url').value.trim();
+    const url = document.getElementById('se-url').value.trim();
+    const description = document.getElementById('se-notes').value.trim();
+    if (!title) { alert('标题不能为空'); document.getElementById('se-title').focus(); return; }
+    if (!date) { alert('日期不能为空'); document.getElementById('se-date').focus(); return; }
+    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, location: location || null, mapUrl: mapUrl || null, url: url || null, description: description || null };
     if (id) {
       const idx = scheduleEvents.findIndex(e => e.id === id);
       if (idx >= 0) scheduleEvents[idx] = ev;
+      else scheduleEvents.push(ev);
     } else {
       scheduleEvents.push(ev);
     }
-    scheduleEvents.sort((a,b) => new Date(a.date) - new Date(b.date));
+    scheduleEvents.sort((a,b) => new Date(a.date + 'T' + (a.time || '00:00:00')) - new Date(b.date + 'T' + (b.time || '00:00:00')));
     saveSchedule();
-    closeScheduleModal();
+    closeScheduleEditor();
     renderSchedule();
   }
 
@@ -1747,7 +1779,7 @@ const DIFFICULTY_LABELS = {
         else if (isStart) pos = 'start';
         else if (isEnd) pos = 'end';
         else pos = 'mid';
-        const color = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.stretch).colorClass;
+        const color = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.other).colorClass;
         const durationDays = Math.round((endDate - startDate) / 86400000) + 1;
         const shift = daysBefore * 100;
         return `<div class="schedule-bar schedule-bar-${pos} ${color}" style="position:absolute; top:${e.track * 20 + 24}px; left:0; width:100%;"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${e.title}</span></div>`;
@@ -1768,7 +1800,7 @@ const DIFFICULTY_LABELS = {
     calendar.querySelectorAll('.schedule-cal-day[data-date]').forEach(day => {
       day.addEventListener('click', () => {
         scheduleSelectedDate = day.dataset.date;
-        openScheduleModal(null);
+        openScheduleEditor(null);
       });
     });
   }
@@ -1779,30 +1811,35 @@ const DIFFICULTY_LABELS = {
     const end = new Date((e.end || e.date) + 'T' + (e.endTime ? e.endTime + ':00' : '23:59:59'));
     if (now >= start && now <= end) {
       const hours = Math.ceil((end - now) / 3600000);
-      if (hours <= 24) return `进行中 · 剩余 ${hours} 小时`;
-      return `进行中 · 剩余 ${Math.ceil((end - now) / 86400000)} 天`;
+      if (hours <= 24) return { text: `进行中 · 剩余 ${hours} 小时`, class: 'badge-ongoing' };
+      return { text: `进行中 · 剩余 ${Math.ceil((end - now) / 86400000)} 天`, class: 'badge-ongoing' };
     }
     if (now < start) {
       const diff = start - now;
-      if (diff < 86400000) return `还有 ${Math.ceil(diff / 3600000)} 小时`;
-      return `还有 ${Math.ceil(diff / 86400000)} 天`;
+      const days = Math.ceil(diff / 86400000);
+      if (days <= 2 || diff < 86400000) {
+        if (diff < 86400000) return { text: `还有 ${Math.ceil(diff / 3600000)} 小时`, class: 'badge-soon' };
+        return { text: `还有 ${days} 天`, class: 'badge-soon' };
+      }
+      return { text: `还有 ${days} 天`, class: 'badge-future' };
     }
     const diff = now - end;
-    if (diff < 86400000) return `${Math.ceil(diff / 3600000)} 小时前`;
-    return `${Math.ceil(diff / 86400000)} 天前`;
+    if (diff < 86400000) return { text: `${Math.ceil(diff / 3600000)} 小时前`, class: 'badge-past' };
+    return { text: `${Math.ceil(diff / 86400000)} 天前`, class: 'badge-past' };
   }
 
   function renderScheduleEventItem(e) {
-    const t = e.type;
-    const tc = (SCHEDULE_EVENT_TYPES[t] || SCHEDULE_EVENT_TYPES.stretch).borderClass;
-    const countdown = scheduleCountdown(e);
+    const tc = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.other).borderClass;
+    const cd = scheduleCountdown(e);
+    const dot = scheduleTypeDot(e.type);
     let html = `<div class="schedule-list-item ${tc}">`;
-    html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${scheduleTypeDot(t)} ${e.title}</span><span style="font-size:0.75rem; color:var(--gray); background:#f1f5f9; padding:2px 8px; border-radius:4px; white-space:nowrap;">${countdown}</span></div>`;
-    html += `<div class="meta">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime && e.end !== e.date ? ' - ' + e.endTime : ''}</div>`;
-    if (e.description) html += `<div class="meta">注意事项：${e.description}</div>`;
+    html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${dot} ${e.title}</span><span class="schedule-countdown ${cd.class}">${cd.text}</span></div>`;
+    html += `<div class="meta">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime && e.end && e.end !== e.date ? ' - ' + e.endTime : ''}</div>`;
+    if (e.location) html += `<div class="meta">地点：${e.location}</div>`;
+    if (e.description) html += `<div class="meta">备注：${e.description}</div>`;
     if (e.url || e.mapUrl) {
       html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
-      if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">报名官网</a>`;
+      if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">官网/报名</a>`;
       if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
       html += '</div>';
     }
@@ -1815,8 +1852,13 @@ const DIFFICULTY_LABELS = {
     const list = document.getElementById('schedule-list');
     const pinnedCard = document.getElementById('schedule-pinned-card');
     const pinnedDiv = document.getElementById('schedule-pinned');
+    const now = new Date();
     const today = vancouverISO();
-    const pinned = pinnedDiv && scheduleEvents.filter(e => today >= e.date && today <= (e.end || e.date));
+    const pinned = pinnedDiv ? scheduleEvents.filter(e => {
+      const start = new Date(e.date + 'T' + (e.time ? e.time + ':00' : '00:00:00'));
+      const end = new Date((e.end || e.date) + 'T' + (e.endTime ? e.endTime + ':00' : '23:59:59'));
+      return now >= start && now <= end;
+    }) : [];
     if (pinned && pinned.length && pinnedCard) {
       pinnedCard.style.display = 'block';
       pinnedDiv.innerHTML = pinned.map(renderScheduleEventItem).join('');
@@ -1835,10 +1877,10 @@ const DIFFICULTY_LABELS = {
     const tab = document.getElementById('tab-cathydata');
     if (!tab) return;
     tab.querySelectorAll('button[data-edit]').forEach(btn => {
-      btn.addEventListener('click', () => openScheduleModal(scheduleEvents.find(e => e.id === btn.dataset.edit)));
+      btn.addEventListener('click', () => openScheduleEditor(scheduleEvents.find(e => e.id === btn.dataset.edit)));
     });
     tab.querySelectorAll('button[data-delete]').forEach(btn => {
-      btn.addEventListener('click', () => { if (confirm('删除这个事件？')) deleteSchedule(btn.dataset.delete); });
+      btn.addEventListener('click', () => deleteSchedule(btn.dataset.delete));
     });
   }
 
@@ -1876,7 +1918,52 @@ const DIFFICULTY_LABELS = {
     });
   }
 
+  async function loadRemoteSchedule() {
+    try {
+      const res = await fetch('cathy_data/schedule.json', { cache: 'no-cache' });
+      if (!res.ok) return;
+      const remote = await res.json();
+      if (!Array.isArray(remote)) return;
+      const ids = new Set(scheduleEvents.map(e => e.id));
+      remote.forEach(ev => {
+        if (!ev || !ev.id) return;
+        if (ids.has(ev.id)) return; // keep local, skip remote duplicate
+        scheduleEvents.push(ev);
+        ids.add(ev.id);
+      });
+      scheduleEvents.sort((a,b) => new Date(a.date + 'T' + (a.time || '00:00:00')) - new Date(b.date + 'T' + (b.time || '00:00:00')));
+      saveSchedule();
+      renderSchedule();
+    } catch (err) {}
+  }
+
+  function exportScheduleJSON() {
+    const el = document.getElementById('schedule-io');
+    if (el) el.value = JSON.stringify(scheduleEvents, null, 2);
+  }
+
+  function importScheduleJSON() {
+    const el = document.getElementById('schedule-io');
+    if (!el || !el.value.trim()) return;
+    try {
+      const data = JSON.parse(el.value.trim());
+      if (!Array.isArray(data)) { alert('JSON 格式应为数组'); return; }
+      const ids = new Set(scheduleEvents.map(e => e.id));
+      data.forEach(ev => {
+        if (!ev || !ev.id) return;
+        if (ids.has(ev.id)) return;
+        scheduleEvents.push(ev);
+        ids.add(ev.id);
+      });
+      scheduleEvents.sort((a,b) => new Date(a.date + 'T' + (a.time || '00:00:00')) - new Date(b.date + 'T' + (b.time || '00:00:00')));
+      saveSchedule();
+      renderSchedule();
+      alert('导入完成');
+    } catch(e) { alert('JSON 解析失败'); }
+  }
+
   function initSchedule() {
+    loadSchedule();
     document.getElementById('schedule-prev').addEventListener('click', () => {
       scheduleCurrentMonth.setMonth(scheduleCurrentMonth.getMonth() - 1);
       renderScheduleCalendar();
@@ -1885,13 +1972,22 @@ const DIFFICULTY_LABELS = {
       scheduleCurrentMonth.setMonth(scheduleCurrentMonth.getMonth() + 1);
       renderScheduleCalendar();
     });
-    document.getElementById('schedule-add').addEventListener('click', () => openScheduleModal(null));
-    document.getElementById('schedule-modal-close').addEventListener('click', closeScheduleModal);
-    document.getElementById('schedule-save').addEventListener('click', addOrUpdateSchedule);
-    document.getElementById('schedule-cancel').addEventListener('click', closeScheduleModal);
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeScheduleModal(); });
+    const addBtns = ['schedule-add', 'schedule-add-btn'];
+    addBtns.forEach(id => {
+      const b = document.getElementById(id);
+      if (b) b.addEventListener('click', () => openScheduleEditor(null));
+    });
+    document.getElementById('schedule-editor-close').addEventListener('click', closeScheduleEditor);
+    document.getElementById('schedule-editor-save').addEventListener('click', saveScheduleEvent);
+    document.getElementById('schedule-editor-cancel').addEventListener('click', closeScheduleEditor);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeScheduleEditor(); });
+    const exportBtn = document.getElementById('schedule-export');
+    if (exportBtn) exportBtn.addEventListener('click', exportScheduleJSON);
+    const importBtn = document.getElementById('schedule-import');
+    if (importBtn) importBtn.addEventListener('click', importScheduleJSON);
     syncAllRegisteredTournaments();
     renderSchedule();
+    loadRemoteSchedule();
   }
 
   function initImageLightbox() {
