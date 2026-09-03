@@ -61,3 +61,23 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 ### 7. 反馈
 - 保存/提交时禁用按钮，完成后显示成功或失败提示。
 - 表单验证失败时聚焦到第一个错误字段。
+
+## 最近更新 / Changelog
+
+### 2026-09-03
+- 日程（Schedule）功能重写：
+  - `+日程` 改为全屏面板编辑，字段包括标题、日期、结束日期、开始/结束时间、类型、地点、地图链接、官网/报名链接、备注。
+  - 日程类型统一为 6 类：比赛、训练营、俱乐部训练、体能、拉伸、其他。
+  - 倒计时 badge 优化，邻近事件使用醒目颜色区分。
+  - 已报名赛事自动同步到日程，取消报名时同步移除。
+- GitHub 跨设备数据同步：
+  - 新增 Cloudflare Worker `/save` 端点，将本地 `已报名`、`日程`、`出发城市` 等写入 `cathy_data/user_data.json`。
+  - 网页启动时自动读取 `cathy_data/user_data.json` 并恢复 localStorage，实现换机同步。
+  - `CATHY_SYNC_WORKER_URL` 已预填为 `https://cathysync.frankataix.workers.dev/`。
+- 赛事地图：
+  - 地图导航地址按赛事类型推断国家（美国/非美国），不再一律追加 USA。
+  - 推荐 Cathy 维度细分为 `本地+重要` / `本地距离` / `重要赛事` / `较远但重要` / `Cathy 可报名` / `未推荐`，并对应不同颜色。
+  - 地图筛选改为两层：主要筛选（全部 / 推荐 Cathy / 未报名 / 已报名 / 关注赛事）+ 第二层颜色（Region / Circuit），顶部显示当前条件提示。
+
+### 已知问题
+- `.github/workflows/update.yml`（自动拉取 USA Fencing 赛事）最近运行失败，报错 `Process completed with exit code 1`，总时长约 2h48m。可能原因：分页抓取过多/超时，或 `import_to_html.py` 解析 `TOURNAMENTS` 数组失败。需要进一步排查。
