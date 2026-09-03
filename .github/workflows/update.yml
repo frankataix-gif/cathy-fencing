@@ -29,9 +29,6 @@ jobs:
       - name: Fetch tournaments
         run: python cathy_data/fetch_usa_fencing_tournaments.py --pages 30
 
-      - name: Rename CSV
-        run: mv cathy_data/tournaments.csv cathy_data/usa_fencing_all_tournaments.csv
-
       - name: Update HTML
         run: python cathy_data/import_to_html.py
 
