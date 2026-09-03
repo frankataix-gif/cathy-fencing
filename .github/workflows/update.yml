@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,7 +27,7 @@ jobs:
           pip install requests lxml
 
       - name: Fetch tournaments
-        run: python cathy_data/fetch_usa_fencing_tournaments.py
+        run: python cathy_data/fetch_usa_fencing_tournaments.py --pages 30
 
       - name: Rename CSV
         run: mv cathy_data/tournaments.csv cathy_data/usa_fencing_all_tournaments.csv

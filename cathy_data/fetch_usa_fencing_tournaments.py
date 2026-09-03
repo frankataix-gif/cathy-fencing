@@ -42,52 +42,52 @@ def fetch_page(page=1, season=""):
             )
         })
         resp.raise_for_status()
-    except requests.RequestException as e:
-        print(f"ERROR fetching page {page}: {e}", file=sys.stderr)
+
+        doc = lh.fromstring(resp.content)
+        rows = doc.xpath('//table[contains(@class, "table")]//tr')
+        results = []
+        for tr in rows:
+            tds = tr.xpath('.//td')
+            if len(tds) < 4:
+                continue
+            # Date / date range
+            date_raw = " ".join(tds[0].text_content().split())
+            # Description + link
+            desc_link = tds[1].xpath('.//a')
+            name = " ".join(tds[1].text_content().split())
+            detail_url = ""
+            if desc_link:
+                href = desc_link[0].get("href", "")
+                detail_url = urljoin(BASE_URL, href)
+            # Location
+            location = " ".join(tds[2].text_content().split())
+            # Action / status
+            action = " ".join(tds[3].text_content().split())
+
+            start, end = parse_date_range(date_raw)
+
+            results.append({
+                "page": page,
+                "date_raw": date_raw,
+                "start": start,
+                "end": end,
+                "name": name,
+                "detail_url": detail_url,
+                "location": location,
+                "action": action,
+                "fetched_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+            })
+
+        # Look for pagination using regex (fallback to any href with ?page=N)
+        next_page = None
+        for m in re.finditer(r'[?&]page=(\d+)', resp.text):
+            n = int(m.group(1))
+            if n > page and (next_page is None or n < next_page):
+                next_page = n
+        return results, next_page
+    except Exception as e:
+        print(f"ERROR on page {page}: {e}", file=sys.stderr)
         return [], None
-
-    doc = lh.fromstring(resp.content)
-    rows = doc.xpath('//table[contains(@class, "table")]//tr')
-    results = []
-    for tr in rows:
-        tds = tr.xpath('.//td')
-        if len(tds) < 4:
-            continue
-        # Date / date range
-        date_raw = " ".join(tds[0].text_content().split())
-        # Description + link
-        desc_link = tds[1].xpath('.//a')
-        name = " ".join(tds[1].text_content().split())
-        detail_url = ""
-        if desc_link:
-            href = desc_link[0].get("href", "")
-            detail_url = urljoin(BASE_URL, href)
-        # Location
-        location = " ".join(tds[2].text_content().split())
-        # Action / status
-        action = " ".join(tds[3].text_content().split())
-
-        start, end = parse_date_range(date_raw)
-
-        results.append({
-            "page": page,
-            "date_raw": date_raw,
-            "start": start,
-            "end": end,
-            "name": name,
-            "detail_url": detail_url,
-            "location": location,
-            "action": action,
-            "fetched_at": datetime.utcnow().isoformat() + "Z",
-        })
-
-    # Look for pagination using regex (fallback to any href with ?page=N)
-    next_page = None
-    for m in re.finditer(r'[?&]page=(\d+)', resp.text):
-        n = int(m.group(1))
-        if n > page and (next_page is None or n < next_page):
-            next_page = n
-    return results, next_page
 
 
 def parse_date_range(raw):
