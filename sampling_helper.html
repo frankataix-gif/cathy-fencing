@@ -109,7 +109,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
     </div>
     <div class="card">
-      <h3>🧪 含量 / 品位测试 <span style="color:var(--danger)">*</span></h3>
+      <h3>🧪 含量 / 品位测试（可后补）</h3>
       <div class="elgrid" id="elgrid"></div>
       <div id="assays"></div>
       <button class="btn secondary block" id="btn_add_assay">＋ 添加其他元素</button>
@@ -562,7 +562,7 @@ $("btn_save").onclick=async()=>{
     const i=r.querySelectorAll("input"),s=r.querySelector("select");
     return{element:i[0].value.trim(),value:i[1].value.trim(),unit:s.value};
   }).filter(a=>a.element&&a.value);
-  if(!assays0.length){toast("缺少含量：至少填 1 项元素+数值");return}
+  // 含量非必填：现场未知可后补
   if(!photos.length){toast("缺少照片：至少拍 1 张（样品或读数）");return}
   if(!$("f_recorder").value.trim()){toast("缺少记录人：请填写姓名");$("f_recorder").focus();return}
   $("btn_save").disabled=true;$("btn_save").textContent="保存中…";
