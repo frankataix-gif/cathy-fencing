@@ -648,7 +648,15 @@ function initMap(){
   map.toLL=(px,py)=>{const w=cv.width/devicePixelRatio,h=cv.height/devicePixelRatio;
     const x=(px-w/2)/TILE+map.cx*scale(),y=(py-h/2)/TILE+map.cy*scale();
     return[y2lat(y,map.z),x2lon(x,map.z)]};
-  map.draw=async()=>{
+  let _drawing=false,_again=false,_raf=0;
+  map.draw=async()=>{ // 防重入：绘制中再调用则结束后补一次
+    if(_drawing){_again=true;return}
+    _drawing=true;await map._draw();_drawing=false;
+    if(_again){_again=false;map.draw()}
+  };
+  function scheduleDraw(){ // 合并短时间内的多次重绘
+    if(_raf)return;_raf=requestAnimationFrame(()=>{_raf=0;map.draw()})}
+  map._draw=async()=>{
     const w=cv.width/devicePixelRatio,h=cv.height/devicePixelRatio;ctx.fillStyle="#dbe4ee";ctx.fillRect(0,0,w,h);
     const z=Math.round(map.z),sc=Math.pow(2,map.z-z);
     const cx=map.cx*Math.pow(2,z-12),cy=map.cy*Math.pow(2,z-12);
@@ -689,12 +697,14 @@ function initMap(){
       ctx.beginPath();ctx.arc(px,py,5,0,7);ctx.fillStyle="#1668dc";ctx.fill();ctx.strokeStyle="#fff";ctx.lineWidth=2;ctx.stroke();}
     $("mapinfo").textContent=`z${z} · 中心 ${y2lat(cy,z).toFixed(4)}, ${x2lon(cx,z).toFixed(4)} · 离线瓦片 ${await T.count()}`;
   };
-  const tileCache={};
+  const tileCache={},tilePending={};
   async function drawTile(z,x,y,px,py,sz){
     const k=z+"/"+x+"/"+y;
     if(tileCache[k]){ctx.drawImage(tileCache[k],px,py,sz,sz);return}
     const blob=await T.get(k);
     if(blob){const im=await createImageBitmap(blob);tileCache[k]=im;ctx.drawImage(im,px,py,sz,sz);return}
+    if(tilePending[k]){ // 已在下载中，画占位
+      ctx.strokeStyle="rgba(100,116,139,.15)";ctx.strokeRect(px,py,sz,sz);return}
     // 父级补位：逐级向上找已缓存瓦片，放大裁切显示（保证离线有底图）
     for(let pz=z-1;pz>=Math.max(0,z-8);pz--){
       const sh=z-pz,pxt=x>>sh,pyt=y>>sh;
@@ -708,9 +718,12 @@ function initMap(){
     if(!navigator.onLine){ // 无任何瓦片：网格占位
       ctx.strokeStyle="rgba(100,116,139,.25)";ctx.strokeRect(px,py,sz,sz);
       ctx.fillStyle="rgba(100,116,139,.4)";ctx.font="10px sans-serif";ctx.fillText(k,px+4,py+14);return}
-    // 在线下载并缓存
+    // 在线下载并缓存（标记请求中，完成后合并重绘一次）
+    tilePending[k]=1;
     fetch(`${OSM}/${k}.png`).then(r=>r.ok?r.blob():null).then(async b=>{
-      if(!b)return;await T.put(k,b);const im=await createImageBitmap(b);tileCache[k]=im;map.draw()});
+      if(b){await T.put(k,b);tileCache[k]=await createImageBitmap(b)}
+      tilePending[k]=0;scheduleDraw();
+    }).catch(()=>{tilePending[k]=0});
     ctx.strokeStyle="rgba(100,116,139,.2)";ctx.strokeRect(px,py,sz,sz);
   }
   // 交互
