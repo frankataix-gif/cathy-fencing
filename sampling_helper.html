@@ -94,8 +94,8 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="big" id="gps_text">尚未定位</div>
         <div class="gps-acc" id="gps_acc"></div>
         <div class="gps-acc" id="gps_utm"></div>
-        <div style="margin-top:6px"><label style="margin:0 0 3px">地区名称（自己命名，保存后保留继续用）</label>
-        <input id="f_area" placeholder="如 Shofolo 东段 / Serenje NW"></div>
+        <div style="margin-top:6px"><label style="margin:0 0 3px">地区名称（联网时定位自动填入，可改）</label>
+        <input id="f_area" placeholder="如 Central Province / Serenje / XX村"></div>
       </div>
       <div class="row" style="margin-top:8px">
         <div><label>纬度</label><input id="f_lat" inputmode="decimal" placeholder="-13.xxx"></div>
@@ -420,8 +420,27 @@ function showPos(p){
   $("gps_utm").textContent="UTM："+toUTM(c.latitude,c.longitude);
   $("f_lat").value=c.latitude.toFixed(6);$("f_lon").value=c.longitude.toFixed(6);
   if(c.altitude!=null)$("f_alt").value=c.altitude.toFixed(1);
-  const lic=licAt(c.latitude,c.longitude); // 矿证自动识别
-  toast(lic?`📜 位于矿证 ${lic.no}（${lic.holder.slice(0,20)}）`:"📜 不在已导入矿证范围内");
+  licAt(c.latitude,c.longitude); // 矿证静默识别（保存时写入记录，不弹提示）
+  geoAddr(c.latitude,c.longitude); // 联网时自动填地区名（省/县/村）
+}
+// 反向地理编码：省 → 县 → 村/镇，拼成详细地区名
+async function geoAddr(lat,lon){
+  if(!navigator.onLine)return;
+  try{
+    const r=await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`);
+    const j=await r.json();
+    const parts=[];
+    const push=n=>{if(n&&!parts.includes(n))parts.push(n)};
+    push(j.principalSubdivision);           // 省
+    push(j.city||j.county);                  // 城市/县
+    const admins=(j.localityInfo&&j.localityInfo.administrative)||[];
+    // 取最小一级行政区（村/镇）和最末地名
+    const small=admins.filter(a=>a.adminLevel>=8).map(a=>a.name);
+    if(small.length)push(small[small.length-1]);
+    if(!small.length)push(j.locality);       // 村/地名兜底
+    const addr=parts.join(" / ");
+    if(addr)$("f_area").value=addr;
+  }catch(e){}
 }
 function gpsErr(e){const m={1:"定位被拒绝——需要允许位置权限",2:"定位不可用（信号弱/室内）",3:"定位超时，请到开阔地重试"};toast(m[e.code]||"定位失败");showGpsDiag(e)}
 async function showGpsDiag(err){
@@ -448,7 +467,7 @@ $("btn_gps").onclick=()=>{toast("定位中…（无网络也可用）");navigato
   $("gps_text").textContent=`${la.toFixed(6)}, ${lo.toFixed(6)}`;
   $("gps_utm").textContent="UTM："+toUTM(la,lo);
   $("gps_acc").textContent="手动输入坐标";
-  const lic=licAt(la,lo);toast(lic?`📜 位于矿证 ${lic.no}`:"📜 不在已导入矿证范围内");
+  licAt(la,lo);
 });
 // 地图选点模式
 let pickMode=false;
@@ -878,7 +897,7 @@ function initMap(){
       $("gps_text").textContent=`${lat.toFixed(6)}, ${lon.toFixed(6)}`;
       $("gps_utm").textContent="UTM："+toUTM(lat,lon);
       $("gps_acc").textContent="地图选点（非GPS实测）";
-      const lic=licAt(lat,lon);toast(lic?`📜 位于矿证 ${lic.no}`:"📜 不在已导入矿证范围内");
+      licAt(lat,lon);
       pickMode=false;$("picktip").classList.add("hidden");
       document.querySelector('nav button[data-pg="pg-form"]').click();
     }
