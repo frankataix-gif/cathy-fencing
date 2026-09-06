@@ -857,6 +857,11 @@ $("dlzambia").onclick=()=>{ // 赞比亚全境 z6–z10
   runDl(bboxJobs(21.5,-18.3,34.3,-7.8,6,10),"赞比亚底图");
 };
 
+/* ============ Service Worker：缓存页面本体，离线可打开 ============ */
+if("serviceWorker" in navigator&&location.protocol==="https:"){
+  navigator.serviceWorker.register("sampling_sw.js").catch(()=>{});
+}
+
 /* ============ 启动 ============ */
 loadSet();resetForm();refreshPend();refreshSampleCache();TR.load();setTimeout(resumeTrack,800);
 </script>
