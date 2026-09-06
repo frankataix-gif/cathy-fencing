@@ -710,7 +710,7 @@ function viewDetail(id,all){
     ${row("类型",s.sample_type)}
     ${row("坐标",s.latitude!=null?`${(+s.latitude).toFixed(6)}, ${(+s.longitude).toFixed(6)}`:"")}
     ${row("UTM",s.utm)}
-    ${row("海拔/精度",s.altitude!=null?`${s.altitude}m`:"")+(s.gps_accuracy?` · ±${Math.round(s.gps_accuracy)}m`:"")}
+    ${row("海拔",s.altitude!=null?`${s.altitude} m`:"")}
     ${row("地区",s.area_name)}
     ${row("矿证",s.license_no?`${s.license_no} ${s.license_holder||""}`:"")}
     ${row("含量",(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · "))}
