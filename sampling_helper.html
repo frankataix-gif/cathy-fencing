@@ -94,9 +94,14 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
       <label>地区名称（定位自动反查，可改）</label>
       <input id="f_area" placeholder="如 Shofolo / Serenje NW">
-      <div class="hidden"><input id="f_lat"><input id="f_lon"><input id="f_alt"></div>
+      <div class="row" style="margin-top:8px">
+        <div><label>纬度</label><input id="f_lat" inputmode="decimal" placeholder="-13.xxx"></div>
+        <div><label>经度</label><input id="f_lon" inputmode="decimal" placeholder="28.xxx"></div>
+        <div><label>海拔 m</label><input id="f_alt" inputmode="decimal"></div>
+      </div>
       <div class="row" style="margin-top:8px">
         <button class="btn primary" id="btn_gps" style="font-size:17px">📍 获取定位</button>
+        <button class="btn secondary" id="btn_pick">🗺 地图选点</button>
         <button class="btn secondary" id="btn_gpshelp">定位帮助</button>
       </div>
     </div>
@@ -155,6 +160,7 @@ progress{width:100%;height:10px;margin-top:8px}
         <button id="mdl" title="下载离线地图">⬇</button>
       </div>
       <div id="mapinfo">拖动移动 · 双指/按钮缩放</div>
+      <div id="picktip" class="hidden" style="position:absolute;top:10px;left:50%;transform:translateX(-50%);background:#fef3c7;color:#92400e;border-radius:8px;padding:6px 14px;font-size:14px;z-index:11;font-weight:600">👆 点按地图选择取样点位置</div>
     </div>
   </section>
 
@@ -317,6 +323,7 @@ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
   document.querySelectorAll("nav button").forEach(x=>x.classList.remove("on"));b.classList.add("on");
   document.querySelectorAll("main section").forEach(s=>s.classList.add("hidden"));
   $(b.dataset.pg).classList.remove("hidden");
+  if(b.dataset.pg!=="pg-map"){pickMode=false;$("picktip").classList.add("hidden")}
   if(b.dataset.pg==="pg-list")renderList();
   if(b.dataset.pg==="pg-map")initMap();
 });
@@ -361,6 +368,21 @@ $("btn_gpshelp").onclick=()=>showGpsDiag(null);
 $("gpsmodal_close").onclick=()=>{$("gpsmodal").classList.add("hidden");$("btn_gps").click()};
 $("gpsmodal").onclick=e=>{if(e.target.id==="gpsmodal")$("gpsmodal").classList.add("hidden")};
 $("btn_gps").onclick=()=>{toast("定位中…（无网络也可用）");navigator.geolocation.getCurrentPosition(showPos,gpsErr,{enableHighAccuracy:true,timeout:60000,maximumAge:0})};
+// 手动填经纬度时同步显示
+["f_lat","f_lon"].forEach(id=>$(id).onchange=()=>{
+  const la=+$("f_lat").value,lo=+$("f_lon").value;
+  if(!la||!lo)return;
+  $("gps_text").textContent=`${la.toFixed(6)}, ${lo.toFixed(6)}`;
+  $("gps_utm").textContent="UTM："+toUTM(la,lo);
+  $("gps_acc").textContent="手动输入坐标";
+  const lic=licAt(la,lo);toast(lic?`📜 位于矿证 ${lic.no}`:"📜 不在已导入矿证范围内");
+});
+// 地图选点模式
+let pickMode=false;
+$("btn_pick").onclick=()=>{
+  pickMode=true;$("picktip").classList.remove("hidden");
+  document.querySelector('nav button[data-pg="pg-map"]').click();
+};
 
 /* ============ 含量子表 ============ */
 function addAssay(el="",val="",unit="ppm"){
@@ -692,14 +714,27 @@ function initMap(){
     ctx.strokeStyle="rgba(100,116,139,.2)";ctx.strokeRect(px,py,sz,sz);
   }
   // 交互
-  let drag=null,pinch=null;
-  cv.addEventListener("pointerdown",e=>{cv.setPointerCapture(e.pointerId);drag={x:e.clientX,y:e.clientY}});
+  let drag=null,pinch=null,downPt=null;
+  cv.addEventListener("pointerdown",e=>{cv.setPointerCapture(e.pointerId);drag={x:e.clientX,y:e.clientY};downPt={x:e.clientX,y:e.clientY}});
   cv.addEventListener("pointermove",e=>{
     if(pinch)return;
     if(drag){const sc=Math.pow(2,map.z-12);
       map.cx-=(e.clientX-drag.x)/(TILE*sc);map.cy-=(e.clientY-drag.y)/(TILE*sc);
       drag={x:e.clientX,y:e.clientY};map.draw()}});
-  cv.addEventListener("pointerup",()=>{drag=null;pinch=null});
+  cv.addEventListener("pointerup",e=>{
+    // 选点模式：原地点击（位移<8px）即取该点坐标
+    if(pickMode&&downPt&&Math.hypot(e.clientX-downPt.x,e.clientY-downPt.y)<8){
+      const r=cv.getBoundingClientRect();
+      const[lat,lon]=map.toLL(e.clientX-r.left,e.clientY-r.top);
+      $("f_lat").value=lat.toFixed(6);$("f_lon").value=lon.toFixed(6);
+      $("gps_text").textContent=`${lat.toFixed(6)}, ${lon.toFixed(6)}`;
+      $("gps_utm").textContent="UTM："+toUTM(lat,lon);
+      $("gps_acc").textContent="地图选点（非GPS实测）";
+      const lic=licAt(lat,lon);toast(lic?`📜 位于矿证 ${lic.no}`:"📜 不在已导入矿证范围内");
+      pickMode=false;$("picktip").classList.add("hidden");
+      document.querySelector('nav button[data-pg="pg-form"]').click();
+    }
+    drag=null;pinch=null;downPt=null});
   cv.addEventListener("wheel",e=>{e.preventDefault();zoom(e.deltaY<0?0.5:-0.5,e.offsetX,e.offsetY)},{passive:false});
   cv.addEventListener("touchmove",e=>{if(e.touches.length===2){e.preventDefault();
     const[a,b]=e.touches,d=Math.hypot(a.clientX-b.clientX,a.clientY-b.clientY);
