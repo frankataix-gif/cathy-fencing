@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-30</span></h1>
+  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-31</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -213,7 +213,7 @@ progress{width:100%;height:10px;margin-top:8px}
     </div>
     <div class="card">
       <h3>🗑 危险操作</h3>
-      <button class="btn danger block" id="btn_wipe">清空本机全部数据</button>
+      <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
   </section>
 </main>
@@ -247,6 +247,15 @@ progress{width:100%;height:10px;margin-top:8px}
   <button class="btn primary block" id="tripedit_resume">▶ 继续记录（接到这条行程后面）</button>
   <button class="btn danger block" id="tripedit_del" style="margin-top:8px">删除这条行程</button>
   <button class="btn secondary block" id="tripedit_no" style="margin-top:8px">取消</button>
+</div></div>
+<div class="modal hidden" id="wipemodal"><div class="box">
+  <h3 style="color:var(--danger)">🗑 清空本机全部数据</h3>
+  <p style="font-size:14px;color:var(--muted)">将删除<b>全部样品记录、照片、行程轨迹、离线地图</b>，不可恢复！请输入授权密码：</p>
+  <input id="wipepwd" type="password" inputmode="numeric" placeholder="输入授权密码">
+  <div class="row" style="margin-top:10px">
+    <button class="btn secondary" id="wipecancel">取消</button>
+    <button class="btn danger" id="wipeok">确认清空</button>
+  </div>
 </div></div>
 <div class="modal hidden" id="viewer" style="background:rgba(0,0,0,.9);z-index:300">
   <img id="vimg" style="max-width:96vw;max-height:80vh;border-radius:8px;display:block">
@@ -681,7 +690,17 @@ $("btn_synctest").onclick=async()=>{
   try{const r=await fetch(w.replace(/\/$/,"")+"/ping",{headers:{"X-App-Token":$("s_token").value.trim()}});
     toast(r.ok?"连接成功 ✔":"连接失败 "+r.status)}catch(e){toast("连接失败："+e.message)}
 };
-$("btn_wipe").onclick=async()=>{if(confirm("确认清空本机全部记录、照片和离线地图？不可恢复！")){await S.clear();await refreshSampleCache();await TR.clear();toast("已清空");renderList();refreshPend()}};
+const WIPE_PWD="987963";
+$("btn_wipe").onclick=()=>{$("wipepwd").value="";$("wipemodal").classList.remove("hidden");setTimeout(()=>$("wipepwd").focus(),100)};
+$("wipecancel").onclick=()=>$("wipemodal").classList.add("hidden");
+$("wipemodal").onclick=e=>{if(e.target.id==="wipemodal")$("wipemodal").classList.add("hidden")};
+$("wipeok").onclick=async()=>{
+  if($("wipepwd").value!==WIPE_PWD){toast("密码错误，无法清空");$("wipepwd").select();return}
+  $("wipemodal").classList.add("hidden");
+  await S.clear();await refreshSampleCache();await TR.clear();
+  await idb().then(d=>new Promise(res=>{const t=d.transaction("trips","readwrite");t.objectStore("trips").clear();t.oncomplete=res}));
+  toast("已清空全部数据",4000);renderList();refreshPend();
+};
 
 /* ============ CSV 导出 ============ */
 $("btn_csv").onclick=async()=>{
