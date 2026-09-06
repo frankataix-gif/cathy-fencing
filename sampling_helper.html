@@ -213,7 +213,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-33</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-34</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -258,6 +258,12 @@ progress{width:100%;height:10px;margin-top:8px}
     <button class="btn secondary" id="wipecancel">取消</button>
     <button class="btn danger" id="wipeok">确认清空</button>
   </div>
+</div></div>
+<div class="modal hidden" id="samedit"><div class="box">
+  <h3 id="samedit_title">记录操作</h3>
+  <button class="btn primary block" id="samedit_edit">✏️ 修改内容（坐标不可改）</button>
+  <button class="btn danger block" id="samedit_del" style="margin-top:8px">删除这条记录</button>
+  <button class="btn secondary block" id="samedit_no" style="margin-top:8px">取消</button>
 </div></div>
 <div class="modal hidden" id="viewer" style="background:rgba(0,0,0,.9);z-index:300">
   <img id="vimg" style="max-width:96vw;max-height:80vh;border-radius:8px;display:block">
@@ -571,6 +577,7 @@ async function nextSid(){
   return pre+pad(n+1).padStart(3,"0");
 }
 async function resetForm(){
+  exitEdit();
   $("f_sid").value=await nextSid();$("f_time").value=nowLocal();
   $("f_recorder").value=(await store.get("recorder"))||"";
   const lt=await store.get("last_type");if(lt)$("f_type").value=lt; // 取样类型记住上次
@@ -607,10 +614,19 @@ $("btn_save").onclick=async()=>{
     photos:photos.map(p=>({name:p.name,kind:p.kind,blob:p.blob})),
     status:"pending",created_at:new Date().toISOString(),
   };
+  if(editingSample){ // 编辑模式：保留原编号/时间/坐标/矿证，覆盖保存
+    rec.id=editingSample.id;rec.sample_id=editingSample.sample_id;
+    rec.sample_time=editingSample.sample_time;
+    rec.latitude=editingSample.latitude;rec.longitude=editingSample.longitude;
+    rec.altitude=editingSample.altitude;rec.utm=editingSample.utm;
+    rec.gps_accuracy=editingSample.gps_accuracy;
+    rec.license_no=editingSample.license_no;rec.license_holder=editingSample.license_holder;
+    rec.created_at=editingSample.created_at||rec.created_at;
+  }
   await S.put(rec);await refreshSampleCache();
   await store.set("recorder",rec.recorder);
   await store.set("last_type",rec.sample_type);
-  toast(`✅ 已保存样品 ${sid}`,4000);refreshPend();
+  toast(editingSample?`✅ 已更新 ${sid}`:`✅ 已保存样品 ${sid}`,4000);exitEdit();refreshPend();
   // 清空（地区名保留——同一区域连续取样不用重填）
   photos=[];renderThumbs();$("assays").innerHTML="";updateElGrid();
   $("f_desc").value="";$("f_remark").value="";$("f_lith").value="";
@@ -635,14 +651,51 @@ async function renderList(){
       <div class="meta">📷 ${(s.photos||[]).length} 张${s.erp_name?" · ERP:"+s.erp_name:""}</div>
       <div class="row" style="margin-top:8px">
         <button class="btn secondary act-view" style="padding:6px 12px;min-height:36px">详情/照片</button>
-        <button class="btn danger act-del" style="padding:6px 12px;min-height:36px">删除</button>
+        <button class="btn secondary act-edit" style="padding:6px 12px;min-height:36px">⋯ 编辑</button>
       </div></div></div>`;
   }).join("");
-  document.querySelectorAll(".act-del").forEach(b=>b.onclick=async e=>{
-    if(!confirm("确认删除这条记录？不可恢复"))return;
-    await S.del(+e.target.closest(".samcard").dataset.id);await refreshSampleCache();renderList();refreshPend();
+  document.querySelectorAll(".act-edit").forEach(b=>b.onclick=e=>{
+    const s=all.find(x=>x.id===+e.target.closest(".samcard").dataset.id);if(!s)return;
+    editingSample=s;
+    $("samedit_title").textContent=s.sample_id;
+    $("samedit").classList.remove("hidden");
   });
   document.querySelectorAll(".act-view").forEach(b=>b.onclick=e=>viewDetail(+e.target.closest(".samcard").dataset.id,all));
+}
+/* ---- 记录编辑/删除 ---- */
+let editingSample=null;
+$("samedit").onclick=e=>{if(e.target.id==="samedit")$("samedit").classList.add("hidden")};
+$("samedit_no").onclick=()=>$("samedit").classList.add("hidden");
+$("samedit_del").onclick=async()=>{
+  if(!editingSample)return;
+  if(!confirm("确认删除这条记录？不可恢复"))return;
+  await S.del(editingSample.id);editingSample=null;
+  $("samedit").classList.add("hidden");
+  await refreshSampleCache();renderList();refreshPend();
+};
+$("samedit_edit").onclick=()=>{
+  const s=editingSample;if(!s)return;
+  $("samedit").classList.add("hidden");
+  $("f_sid").value=s.sample_id;$("f_time").value=s.sample_time||"";$("f_type").value=s.sample_type||"";
+  $("f_lat").value=s.latitude??"";$("f_lon").value=s.longitude??"";$("f_alt").value=s.altitude??"";
+  $("gps_text").textContent=s.latitude!=null?`${(+s.latitude).toFixed(6)}, ${(+s.longitude).toFixed(6)}`:"无坐标";
+  $("gps_utm").textContent=s.utm?("UTM："+s.utm):"";
+  $("gps_acc").textContent="🔒 编辑模式：坐标锁定不可改";
+  $("f_area").value=s.area_name||"";$("f_lith").value=s.lithology||"";$("f_desc").value=s.description||"";
+  $("f_recorder").value=s.recorder||"";$("f_remark").value=s.remark||"";
+  photos=(s.photos||[]).map(p=>({name:p.name,kind:p.kind,blob:p.blob}));renderThumbs();
+  $("assays").innerHTML="";(s.assays||[]).forEach(a=>addAssay(a.element,a.value,a.unit));updateElGrid();
+  $("f_lat").disabled=$("f_lon").disabled=true;
+  $("btn_gps").disabled=$("btn_pick").disabled=true;
+  $("btn_save").textContent="💾 更新记录（覆盖原记录）";
+  document.querySelector('nav button[data-pg="pg-form"]').click();
+  toast("编辑模式：编号/时间/坐标锁定，其余可改");
+};
+function exitEdit(){
+  if(!editingSample)return;editingSample=null;
+  $("f_lat").disabled=$("f_lon").disabled=false;
+  $("btn_gps").disabled=$("btn_pick").disabled=false;
+  $("btn_save").textContent="💾 保存记录";
 }
 function viewDetail(id,all){
   const s=all.find(x=>x.id===id);if(!s)return;
