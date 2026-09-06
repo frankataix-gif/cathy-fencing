@@ -425,7 +425,7 @@ function addAssay(el="",val="",unit="ppm"){
 }
 $("btn_add_assay").onclick=()=>addAssay();
 // 元素方格：点一下直接加一行
-const ELS=["Cu","Co","Au","Ag","Fe","Mn","Ni","Zn","Pb","Sn","Ta","Nb","Cr","Ti","V","W","Mo","Li","Zr","U","Th","As","Sb","Bi"];
+const ELS=["Ta","Nb","Ni","Cu","Ag","Fe","Mn","Zn","W","As","Co","Au","Pb","Sn","Cr","Ti","V","Mo","Li","Zr","U","Th","Sb","Bi"];
 $("elgrid").innerHTML=ELS.map(e=>`<button type="button" data-el="${e}">${e}</button>`).join("");
 document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>addAssay(b.dataset.el));
 addAssay();
