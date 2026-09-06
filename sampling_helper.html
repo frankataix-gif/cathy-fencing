@@ -66,14 +66,14 @@ nav button.on{color:var(--primary);font-weight:600}
 .modal .box{background:#fff;border-radius:14px;width:min(92%,440px);max-height:85vh;overflow:auto;padding:18px}
 .modal .box h3{margin-bottom:10px}
 progress{width:100%;height:10px;margin-top:8px}
-.toast{position:fixed;top:56px;left:50%;transform:translateX(-50%);background:#0f172a;color:#fff;padding:9px 18px;border-radius:20px;font-size:14px;z-index:200;opacity:0;transition:opacity .25s;pointer-events:none;max-width:90%}
+.toast{position:fixed;top:56px;left:50%;transform:translateX(-50%);background:#0f172a;color:#fff;padding:11px 20px;border-radius:14px;font-size:15px;font-weight:600;z-index:200;opacity:0;transition:opacity .25s;pointer-events:none;max-width:90%;box-shadow:0 4px 14px rgba(0,0,0,.3)}
 @media(max-width:640px){input,select,textarea{width:100%}input[type=date],input[type=time]{width:100%}}
 </style>
 </head>
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-19</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-20</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -246,7 +246,7 @@ progress{width:100%;height:10px;margin-top:8px}
 "use strict";
 /* ============ 工具 ============ */
 const $=id=>document.getElementById(id);
-const toast=m=>{const t=$("toast");t.textContent=m;t.style.opacity=1;clearTimeout(t._t);t._t=setTimeout(()=>t.style.opacity=0,2200)};
+const toast=(m,ms=2200)=>{const t=$("toast");t.textContent=m;t.style.opacity=1;clearTimeout(t._t);t._t=setTimeout(()=>t.style.opacity=0,ms)};
 const pad=n=>String(n).padStart(2,"0");
 const nowLocal=()=>{const d=new Date();return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`};
 /* WGS84 → UTM */
@@ -525,7 +525,7 @@ $("btn_save").onclick=async()=>{
   await S.put(rec);await refreshSampleCache();
   await store.set("recorder",rec.recorder);
   await store.set("last_type",rec.sample_type);
-  toast("已保存到本机 ✔");refreshPend();
+  toast(`✅ 已保存样品 ${sid}`,4000);refreshPend();
   // 清空（地区名保留——同一区域连续取样不用重填）
   photos=[];renderThumbs();$("assays").innerHTML="";updateElGrid();
   $("f_desc").value="";$("f_remark").value="";$("f_lith").value="";
