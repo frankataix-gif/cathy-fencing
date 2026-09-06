@@ -201,6 +201,7 @@ progress{width:100%;height:10px;margin-top:8px}
       <button class="btn primary block" id="btn_gpx">导出 GPX（QGIS 用：样品点+轨迹）</button>
       <button class="btn secondary block" id="btn_kml">导出 KML（Google Earth 用）</button>
       <button class="btn secondary block" id="btn_csv">导出 CSV（表格留档）</button>
+      <button class="btn primary block" id="btn_backup">☁️ 一键备份（分享 → 存 Google Drive）</button>
       <button class="btn secondary block" id="btn_trk_clear">清空轨迹点</button>
       <p style="font-size:13px;color:var(--muted);margin-top:8px">GPX 直接拖进 QGIS；KML 拖进 Google Earth。照片请在列表中逐条点开保存。</p>
     </div>
@@ -215,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260906-42</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-43</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-42</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-43</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -756,6 +757,26 @@ $("syncbtn").onclick=async()=>{
   const firstErr=(await S.all()).find(s=>s.status==="failed"&&s.sync_err);
   toast(`同步完成：成功 ${ok} / ${pend.length}`+(firstErr?`，错误：${firstErr.sync_err.slice(0,120)}`:""),6000);
   await refreshSampleCache();renderList();refreshPend();
+};
+
+/* ---- 一键备份：生成完整 JSON 文件，走系统分享存 Google Drive ---- */
+$("btn_backup").onclick=async()=>{
+  const all=await S.all(),trips=await TRIPS.all();
+  // 照片转 base64 一起备份
+  const data=[];
+  for(const s of all){
+    const ps=[];
+    for(const p of s.photos||[]){if(p.blob)ps.push({name:p.name,kind:p.kind,data:b64(await p.blob.arrayBuffer())})}
+    data.push({...s,photos:ps});
+  }
+  const payload={app:"ecobox-sampling",exported_at:new Date().toISOString(),samples:data,trips};
+  const f=new File([JSON.stringify(payload)],`ecobox_backup_${new Date().toISOString().slice(0,10)}.json`,{type:"application/json"});
+  if(navigator.canShare&&navigator.canShare({files:[f]})){
+    try{await navigator.share({files:[f],title:"ECOBOX 取样备份"});return}catch(e){if(e.name==="AbortError")return}
+  }
+  // 不支持分享的浏览器（如 iOS Safari 旧版）：退化为下载
+  const a=document.createElement("a");a.href=URL.createObjectURL(f);a.download=f.name;a.click();
+  toast("已导出备份文件（下载后手动传 Google Drive）");
 };
 
 /* ============ 设置 ============ */
