@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-8</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-9</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -86,7 +86,7 @@ progress{width:100%;height:10px;margin-top:8px}
           <option>土壤</option><option>岩石</option><option>刻槽</option><option>水系沉积物</option><option>岩心</option><option>其他</option>
         </select></div>
       </div>
-      <label>取样时间</label><input type="datetime-local" id="f_time" step="1">
+      <label>取样时间（系统自动，精确到秒）</label><input type="datetime-local" id="f_time" step="1" readonly style="background:#f1f5f9;color:var(--muted)">
     </div>
     <div class="card">
       <h3>📍 坐标（GPS 无需网络）</h3>
@@ -488,6 +488,7 @@ async function resetForm(){
   const lt=await store.get("last_type");if(lt)$("f_type").value=lt; // 取样类型记住上次
 }
 $("btn_save").onclick=async()=>{
+  $("f_time").value=nowLocal(); // 保存瞬间打时间戳
   const sid=$("f_sid").value.trim();
   if(!sid){toast("请填写样品编号");$("f_sid").focus();return}
   const lat=+$("f_lat").value||null,lon=+$("f_lon").value||null;
