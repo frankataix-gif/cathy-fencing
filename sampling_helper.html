@@ -308,10 +308,14 @@ const T={
   count:()=>idb().then(d=>new Promise(res=>{const r=d.transaction("tiles").objectStore("tiles").count();r.onsuccess=()=>res(r.result)})),
 };
 const TR={ // 轨迹点
-  add:p=>idb().then(d=>new Promise(res=>{const t=d.transaction("track","readwrite");t.objectStore("track").add(p);t.oncomplete=res})),
-  all:()=>idb().then(d=>new Promise(res=>{const r=d.transaction("track").objectStore("track").getAll();r.onsuccess=()=>res(r.result||[])})),
-  clear:()=>idb().then(d=>new Promise(res=>{const t=d.transaction("track","readwrite");t.objectStore("track").clear();t.oncomplete=res})),
+  add:async p=>{trackCache.push(p);await idb().then(d=>new Promise(res=>{const t=d.transaction("track","readwrite");t.objectStore("track").add(p);t.oncomplete=res}))},
+  all:async()=>trackCache,
+  load:async()=>{trackCache=await idb().then(d=>new Promise(res=>{const r=d.transaction("track").objectStore("track").getAll();r.onsuccess=()=>res(r.result||[])}))},
+  clear:async()=>{trackCache=[];await idb().then(d=>new Promise(res=>{const t=d.transaction("track","readwrite");t.objectStore("track").clear();t.oncomplete=res}))},
 };
+/* 内存缓存：地图每帧绘制用同步数据，避免每帧查 IndexedDB 造成覆盖层闪烁 */
+let sampleCache=[],trackCache=[];
+async function refreshSampleCache(){sampleCache=await S.all()}
 
 /* ============ 网络状态 ============ */
 function netStatus(){$("netdot").className="netdot"+(navigator.onLine?"":" off")}
@@ -481,7 +485,7 @@ $("btn_save").onclick=async()=>{
     photos:photos.map(p=>({name:p.name,kind:p.kind,blob:p.blob})),
     status:"pending",created_at:new Date().toISOString(),
   };
-  await S.put(rec);
+  await S.put(rec);await refreshSampleCache();
   await store.set("recorder",rec.recorder);
   await store.set("last_type",rec.sample_type);
   toast("已保存到本机 ✔");refreshPend();
@@ -514,7 +518,7 @@ async function renderList(){
   }).join("");
   document.querySelectorAll(".act-del").forEach(b=>b.onclick=async e=>{
     if(!confirm("确认删除这条记录？不可恢复"))return;
-    await S.del(+e.target.closest(".samcard").dataset.id);renderList();refreshPend();
+    await S.del(+e.target.closest(".samcard").dataset.id);await refreshSampleCache();renderList();refreshPend();
   });
   document.querySelectorAll(".act-view").forEach(b=>b.onclick=e=>viewDetail(+e.target.closest(".samcard").dataset.id,all));
 }
@@ -558,7 +562,7 @@ $("syncbtn").onclick=async()=>{
     }catch(e){s.status="failed";s.sync_err=String(e).slice(0,300)}
     await S.put(s);
   }
-  toast(`同步完成：成功 ${ok} / ${pend.length}`);renderList();refreshPend();
+  toast(`同步完成：成功 ${ok} / ${pend.length}`);await refreshSampleCache();renderList();refreshPend();
 };
 
 /* ============ 设置 ============ */
@@ -573,7 +577,7 @@ $("btn_synctest").onclick=async()=>{
   try{const r=await fetch(w.replace(/\/$/,"")+"/ping",{headers:{"X-App-Token":$("s_token").value.trim()}});
     toast(r.ok?"连接成功 ✔":"连接失败 "+r.status)}catch(e){toast("连接失败："+e.message)}
 };
-$("btn_wipe").onclick=async()=>{if(confirm("确认清空本机全部记录、照片和离线地图？不可恢复！")){await S.clear();toast("已清空");renderList();refreshPend()}};
+$("btn_wipe").onclick=async()=>{if(confirm("确认清空本机全部记录、照片和离线地图？不可恢复！")){await S.clear();await refreshSampleCache();await TR.clear();toast("已清空");renderList();refreshPend()}};
 
 /* ============ CSV 导出 ============ */
 $("btn_csv").onclick=async()=>{
@@ -674,19 +678,18 @@ function initMap(){
     for(const L of LICENSES){
       const[a1,o1,a2,o2]=L.bb;
       if(a2<Math.min(vLa,vLb)||a1>Math.max(vLa,vLb)||o2<Math.min(vLo,vLo2)||o1>Math.max(vLo,vLo2))continue;
-      ctx.beginPath();let cx=0,cy=0;
-      L.ring.forEach((p,i)=>{const[qx,qy]=map.toPx(p[0],p[1]);cx+=qx;cy+=qy;i?ctx.lineTo(qx,qy):ctx.moveTo(qx,qy)});
+      ctx.beginPath();let lcx=0,lcy=0;
+      L.ring.forEach((p,i)=>{const[qx,qy]=map.toPx(p[0],p[1]);lcx+=qx;lcy+=qy;i?ctx.lineTo(qx,qy):ctx.moveTo(qx,qy)});
       ctx.closePath();ctx.stroke();
-      ctx.fillText(L.no,cx/L.ring.length+4,cy/L.ring.length);
+      ctx.fillText(L.no,lcx/L.ring.length+4,lcy/L.ring.length);
     }
-    // 取样点
-    const all=await S.all();
-    for(const s of all){if(s.latitude==null)continue;const[px,py]=map.toPx(s.latitude,s.longitude);
+    // 取样点（内存缓存，同步画）
+    for(const s of sampleCache){if(s.latitude==null)continue;const[px,py]=map.toPx(s.latitude,s.longitude);
       if(px<-20||py<-20||px>w+20||py>h+20)continue;
       ctx.beginPath();ctx.arc(px,py,7,0,7);ctx.fillStyle=s.status==="synced"?"#22c55e":"#ef4444";ctx.fill();ctx.lineWidth=2;ctx.strokeStyle="#fff";ctx.stroke();
       ctx.fillStyle="#0f172a";ctx.font="11px sans-serif";ctx.fillText(s.sample_id,px+9,py+4);}
     // 轨迹线（间隔>30分钟自动断段）
-    const tps=(await TR.all()).sort((a,b)=>a.t-b.t);
+    const tps=trackCache.slice().sort((a,b)=>a.t-b.t);
     if(tps.length){ctx.strokeStyle="#f59e0b";ctx.lineWidth=2.5;ctx.beginPath();let prevT=0;
       for(const p of tps){const[qx,qy]=map.toPx(p.lat,p.lon);
         if(!prevT||p.t-prevT>30*60*1000)ctx.moveTo(qx,qy);else ctx.lineTo(qx,qy);prevT=p.t}
@@ -843,7 +846,7 @@ $("dlzambia").onclick=()=>{ // 赞比亚全境 z6–z10
 };
 
 /* ============ 启动 ============ */
-loadSet();resetForm();refreshPend();setTimeout(resumeTrack,800);
+loadSet();resetForm();refreshPend();refreshSampleCache();TR.load();setTimeout(resumeTrack,800);
 </script>
 </body>
 </html>
