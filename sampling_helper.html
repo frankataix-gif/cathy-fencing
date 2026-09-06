@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-28</span></h1>
+  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-29</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -232,6 +232,14 @@ progress{width:100%;height:10px;margin-top:8px}
   <div class="row" style="margin-top:10px">
     <button class="btn secondary" id="tripcancel">取消</button>
     <button class="btn primary" id="tripok">确定并开始</button>
+  </div>
+</div></div>
+<div class="modal hidden" id="tripstop"><div class="box">
+  <h3>■ 结束本次行程？</h3>
+  <div id="tripstop_info" style="font-size:14px;color:var(--muted);margin-bottom:10px"></div>
+  <div class="row">
+    <button class="btn secondary" id="tripstop_no">继续记录</button>
+    <button class="btn danger" id="tripstop_yes">确认结束并存档</button>
   </div>
 </div></div>
 <div class="modal hidden" id="viewer" style="background:rgba(0,0,0,.9);z-index:300">
@@ -902,6 +910,16 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
 }
 async function toggleTrack(){
   if(trackWatch||await store.get("track_on")){
+    // 先弹确认
+    const t0=await store.get("trip_t0"),name=await store.get("trip_name");
+    $("tripstop_info").innerHTML=`「${xesc(name||"行程")}」<br>开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))} · ${trackCache.length} 点`;
+    $("tripstop").classList.remove("hidden");return}
+  // 未记录 → 弹出取名框
+  $("tripname").value="行程 "+new Date().toLocaleString("zh",{year:"numeric",month:"2-digit",day:"2-digit"});
+  $("tripmodal").classList.remove("hidden");setTimeout(()=>$("tripname").select(),100);
+}
+async function stopTrip(){ // 确认后真正结束并存档
+    $("tripstop").classList.add("hidden");
     if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;
     await store.set("track_on",false);
     const pts=trackCache.slice();
@@ -911,11 +929,11 @@ async function toggleTrack(){
       await TRIPS.put({name,t0,t1:pts[pts.length-1].t,pts});
       toast(`行程已保存：${name}（${pts.length} 点 · ${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
     }else toast("行程已结束（无轨迹点）");
-    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);updTrk();renderTrips();return}
-  // 弹出取名框
-  $("tripname").value="行程 "+new Date().toLocaleString("zh",{year:"numeric",month:"2-digit",day:"2-digit"});
-  $("tripmodal").classList.remove("hidden");setTimeout(()=>$("tripname").select(),100);
+    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);updTrk();renderTrips();
 }
+$("tripstop_yes").onclick=stopTrip;
+$("tripstop_no").onclick=()=>$("tripstop").classList.add("hidden");
+$("tripstop").onclick=e=>{if(e.target.id==="tripstop")$("tripstop").classList.add("hidden")};
 async function startTrip(){
   const name=$("tripname").value.trim()||("行程 "+new Date().toLocaleString("zh",{year:"numeric",month:"2-digit",day:"2-digit"}));
   $("tripmodal").classList.add("hidden");
