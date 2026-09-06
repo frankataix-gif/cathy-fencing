@@ -916,7 +916,7 @@ async function updTrk(){
     const t0=await store.get("trip_t0"),name=await store.get("trip_name");
     $("trk_state").textContent="● 记录中 — "+(name||"行程");
     $("trk_state").style.color="#166534";
-    $("trk_info").textContent=`开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))} · ${trackCache.length} 点`;
+    $("trk_info").textContent=`开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))}`;
     $("btn_trk").textContent="■ 结束本次行程";$("btn_trk").className="btn danger block";
   }else{
     $("trk_state").textContent="未记录";$("trk_state").style.color="";
@@ -937,7 +937,7 @@ async function toggleTrack(){
   if(trackWatch||await store.get("track_on")){
     // 先弹确认
     const t0=await store.get("trip_t0"),name=await store.get("trip_name");
-    $("tripstop_info").innerHTML=`「${xesc(name||"行程")}」<br>开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))} · ${trackCache.length} 点`;
+    $("tripstop_info").innerHTML=`「${xesc(name||"行程")}」<br>开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))}`;
     $("tripstop").classList.remove("hidden");return}
   // 未记录 → 弹出取名框
   $("tripname").value="行程 "+new Date().toLocaleString("zh",{year:"numeric",month:"2-digit",day:"2-digit"});
@@ -954,7 +954,7 @@ async function stopTrip(){ // 确认后真正结束并存档
       const aid=await store.get("trip_active_id"); // 续录旧行程则覆盖更新
       const rec={name,t0,t1:pts[pts.length-1].t,pts};if(aid)rec.id=aid;
       await TRIPS.put(rec);
-      toast(`行程已保存：${name}（${pts.length} 点 · ${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
+      toast(`行程已保存：${name}（${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
     }else toast("行程已结束（无轨迹点）");
     await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);await store.set("trip_active_id",null);updTrk();renderTrips();
 }
@@ -987,7 +987,7 @@ async function renderTrips(){
     return`<div class="samcard" data-tid="${t.id}"${live?' style="border-color:var(--ok);box-shadow:0 0 0 2px rgba(34,197,94,.25)"':""}>
     <div class="info"><div><span class="sid">${xesc(t.name)}</span>${live?'<span class="badge" style="background:#dcfce7;color:#166534">● 记录中</span>':""}</div>
     <div class="meta">${new Date(t.t0).toLocaleString()} → ${new Date(t.t1).toLocaleTimeString()}</div>
-    <div class="meta">⏱ ${fmtDur(t.t1-t.t0)} · 📏 ${(trkDist(t.pts)/1000).toFixed(2)} km · ${(t.pts||[]).length} 点</div>
+    <div class="meta">⏱ ${fmtDur(t.t1-t.t0)} · 📏 ${(trkDist(t.pts)/1000).toFixed(2)} km</div>
     <div class="row" style="margin-top:8px">
       <button class="btn secondary act-replay" style="padding:6px 12px;min-height:36px">🗺 回放轨迹</button>
       <button class="btn secondary act-edit" style="padding:6px 12px;min-height:36px">⋯ 编辑</button>
