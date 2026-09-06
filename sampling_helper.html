@@ -132,6 +132,16 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
       <input type="file" id="f_cam" accept="image/*" capture="environment" class="hidden">
       <input type="file" id="f_album" accept="image/*" multiple class="hidden">
+<datalist id="el_list">
+  <option value="Cu">铜</option><option value="Co">钴</option><option value="Au">金</option><option value="Ag">银</option>
+  <option value="Fe">铁</option><option value="Mn">锰</option><option value="Ni">镍</option><option value="Zn">锌</option>
+  <option value="Pb">铅</option><option value="Sn">锡</option><option value="Ta">钽</option><option value="Nb">铌</option>
+  <option value="Cr">铬</option><option value="Ti">钛</option><option value="V">钒</option><option value="W">钨</option>
+  <option value="Mo">钼</option><option value="U">铀</option><option value="Th">钍</option><option value="Zr">锆</option>
+  <option value="Ba">钡</option><option value="Sr">锶</option><option value="Rb">铷</option><option value="Li">锂</option>
+  <option value="As">砷</option><option value="Cd">镉</option><option value="Sb">锑</option><option value="Bi">铋</option>
+  <option value="K">钾</option><option value="Ca">钙</option><option value="Al">铝</option><option value="Si">硅</option>
+</datalist>
       <div class="thumbs" id="thumbs"></div>
     </div>
     <div class="card">
@@ -402,7 +412,7 @@ $("btn_pick").onclick=()=>{
 /* ============ 含量子表 ============ */
 function addAssay(el="",val="",unit="ppm"){
   const d=document.createElement("div");d.className="assay-row";
-  d.innerHTML=`<input placeholder="元素 如 Au/Cu/Co" value="${el}">
+  d.innerHTML=`<input list="el_list" placeholder="元素 如 Cu/Co/Ta" value="${el}">
     <input placeholder="数值" inputmode="decimal" value="${val}">
     <select>${["ppm","%","g/t","ppb"].map(u=>`<option${u===unit?" selected":""}>${u}</option>`).join("")}</select>
     <button type="button">✕</button>`;
