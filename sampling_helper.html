@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-26</span></h1>
+  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-27</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -177,6 +177,8 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="big" id="trk_state">未记录</div>
         <div class="gps-acc" id="trk_info">点下方按钮开始记录行程轨迹</div>
       </div>
+      <div id="trk_namerow"><label>行程名称（默认日期时间，可改成备注名）</label>
+      <input id="trk_name" placeholder="如：去 Shofolo 矿区"></div>
       <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始新的行程</button>
       <p style="font-size:13px;color:var(--muted);margin-top:8px">一次行程 = 一段独立旅行：开始→记录轨迹→结束存档。与样品无关。中途关掉页面会自动续录。</p>
     </div>
@@ -876,10 +878,13 @@ async function updTrk(){
     $("trk_state").style.color="#166534";
     $("trk_info").textContent=`开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))} · ${trackCache.length} 点`;
     $("btn_trk").textContent="■ 结束本次行程";$("btn_trk").className="btn danger block";
+    $("trk_namerow").style.display="none";
   }else{
     $("trk_state").textContent="未记录";$("trk_state").style.color="";
     $("trk_info").textContent="点开始，记录本次行程轨迹";
     $("btn_trk").textContent="▶ 开始新的行程";$("btn_trk").className="btn primary block";
+    $("trk_namerow").style.display="";
+    if(!$("trk_name").value)$("trk_name").value="行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"});
   }
 }
 function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提示
@@ -902,11 +907,10 @@ async function toggleTrack(){
       await TRIPS.put({name,t0,t1:pts[pts.length-1].t,pts});
       toast(`行程已保存：${name}（${pts.length} 点 · ${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
     }else toast("行程已结束（无轨迹点）");
-    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);updTrk();renderTrips();return}
-  const def="行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"});
-  const name=prompt("给本次行程取个名字（默认按日期时间）",def);
-  if(name===null)return;
-  await store.set("trip_name",name||def);
+    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);
+    $("trk_name").value="";updTrk();renderTrips();return}
+  const name=($("trk_name").value.trim())||("行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}));
+  await store.set("trip_name",name);
   await store.set("trip_t0",Date.now());
   await TR.clear();lastTP=null;
   startWatch();await store.set("track_on",true);updTrk();
