@@ -771,6 +771,7 @@ function initMap(){
     else{toast("定位中…");navigator.geolocation.getCurrentPosition(p=>{showPos(p);map.centerOn(p.coords.latitude,p.coords.longitude)},gpsErr,{enableHighAccuracy:true,timeout:60000})}};
   $("mdl").onclick=openDl;
   $("mtrack").onclick=toggleTrack;
+  setTimeout(resumeDl,1500); // 有未完成下载则自动续传
 }
 /* ---- 轨迹记录：间隔≥15s 且 位移>10m 才存点 ---- */
 let trackWatch=null,lastTP=null;
@@ -821,7 +822,8 @@ function bboxJobs(lonA,latA,lonB,latB,zLo,zHi){
   return jobs;
 }
 async function runDl(jobs,label){
-  if(jobs.length>5000&&!confirm(`共 ${jobs.length} 张瓦片（约 ${Math.round(jobs.length*15/1024)}MB+），较多，继续？`))return;
+  if(jobs.length>5000&&!confirm(`共 ${jobs.length} 张瓦片（约 ${Math.round(jobs.length*15/1024)}MB+），较多，继续？`)){await store.set("dl_job",null);return}
+  await store.set("dl_job",{jobs,label}); // 记录任务，中断可续
   $("dlgo").disabled=true;$("dlzambia").disabled=true;
   let done=0,skip=0;
   for(const k of jobs){
@@ -829,11 +831,21 @@ async function runDl(jobs,label){
     else{try{const r=await fetch(`${OSM}/${k}.png`);if(r.ok)await T.put(k,await r.blob());}catch(e){}
       await new Promise(r=>setTimeout(r,120));} // 限速，尊重 OSM
     done++;
+    if(done%25===0)await store.set("dl_job",{jobs:jobs.slice(done),label}); // 每25张存一次进度
     $("dlprog").value=done/jobs.length*100;
     $("dlstat").textContent=`${label}：${done}/${jobs.length}（跳过已缓存 ${skip}）`;
   }
+  await store.set("dl_job",null); // 完成，清除任务
   $("dlgo").disabled=false;$("dlzambia").disabled=false;
   toast("离线地图下载完成");map.draw();
+}
+async function resumeDl(){ // 页面重开后自动续传未完成的下载
+  const j=await store.get("dl_job");
+  if(j&&j.jobs&&j.jobs.length&&navigator.onLine){
+    toast(`继续上次未完成的下载（剩 ${j.jobs.length} 张）`);
+    $("dlmodal").classList.remove("hidden");
+    runDl(j.jobs,(j.label||"下载")+"·续传");
+  }
 }
 $("dlgo").onclick=()=>{ // 当前视野：z0-extra 到 z0+2，上限 z12 建议
   const z0=Math.round(map.z),extra=+$("dl_extra").value;
