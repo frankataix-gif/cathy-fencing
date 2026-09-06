@@ -215,10 +215,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260906-41</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260906-42</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-41</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-42</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -718,6 +718,7 @@ function viewDetail(id,all){
     ${row("描述",s.description)}
     ${row("记录人",s.recorder)}
     ${row("备注",s.remark)}
+    ${row("同步错误",s.sync_err)}
     <button class="btn secondary block" style="margin-top:10px">关闭</button></div>`;
   m.querySelector("button").onclick=()=>m.remove();
   m.onclick=e=>{if(e.target===m)m.remove()};
@@ -752,7 +753,9 @@ $("syncbtn").onclick=async()=>{
     }catch(e){s.status="failed";s.sync_err=String(e).slice(0,300)}
     await S.put(s);
   }
-  toast(`同步完成：成功 ${ok} / ${pend.length}`);await refreshSampleCache();renderList();refreshPend();
+  const firstErr=(await S.all()).find(s=>s.status==="failed"&&s.sync_err);
+  toast(`同步完成：成功 ${ok} / ${pend.length}`+(firstErr?`，错误：${firstErr.sync_err.slice(0,120)}`:""),6000);
+  await refreshSampleCache();renderList();refreshPend();
 };
 
 /* ============ 设置 ============ */
