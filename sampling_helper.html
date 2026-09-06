@@ -216,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-48</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-49</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-48</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-49</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -578,8 +578,13 @@ async function aiAssay(i){
 /* ============ 保存记录 ============ */
 async function nextSid(){
   const d=new Date(),pre="S"+d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate())+"-";
-  const all=await S.all();let n=0;
-  all.forEach(s=>{if(s.sample_id&&s.sample_id.startsWith(pre)){const m=+s.sample_id.slice(pre.length);if(m>n)n=m}});
+  let n=0;
+  try{
+    const all=await S.all();
+    all.forEach(s=>{if(s.sample_id&&s.sample_id.startsWith(pre)){const m=+s.sample_id.slice(pre.length);if(m>n)n=m}});
+  }catch(e){ // IndexedDB 不可用（如 iOS 无痕模式）→ 用时间戳尾号兜底，编号照样出
+    return pre+String(Date.now()%10000).padStart(4,"0");
+  }
   return pre+pad(n+1).padStart(3,"0");
 }
 async function resetForm(){
@@ -1216,6 +1221,8 @@ if("serviceWorker" in navigator&&location.protocol==="https:"){
 
 /* ============ 启动 ============ */
 loadSet();resetForm();refreshPend();refreshSampleCache();TR.load();setTimeout(resumeTrack,800);
+// 本机存储可用性检测（iOS 无痕/隐私模式会禁 IndexedDB）
+S.all().then(()=>{}).catch(()=>toast("⚠️ 本机存储不可用：请关闭无痕/隐私模式，用普通浏览器打开，否则记录无法保存",6000));
 // 刷新后回到上次停留的页面
 store.get("cur_page").then(pg=>{
   if(pg&&pg!=="pg-form"){const b=document.querySelector(`nav button[data-pg="${pg}"]`);if(b)b.click()}
