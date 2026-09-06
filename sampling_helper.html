@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-11</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-12</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -478,15 +478,23 @@ async function resetForm(){
   const lt=await store.get("last_type");if(lt)$("f_type").value=lt; // 取样类型记住上次
 }
 $("btn_save").onclick=async()=>{
+  if($("btn_save").disabled)return;
+  // === 保存前三项必填校验 ===
+  const lat=+$("f_lat").value||null,lon=+$("f_lon").value||null;
+  if(lat==null||lon==null){toast("缺少坐标：请先📍获取定位或🗺地图选点");return}
+  const assays0=[...document.querySelectorAll(".assay-row")].map(r=>{
+    const i=r.querySelectorAll("input"),s=r.querySelector("select");
+    return{element:i[0].value.trim(),value:i[1].value.trim(),unit:s.value};
+  }).filter(a=>a.element&&a.value);
+  if(!assays0.length){toast("缺少含量：至少填 1 项元素+数值");return}
+  if(!photos.length){toast("缺少照片：至少拍 1 张（样品或读数）");return}
+  $("btn_save").disabled=true;$("btn_save").textContent="保存中…";
+  try{
   $("f_time").value=nowLocal(); // 保存瞬间打时间戳
   const sid=$("f_sid").value.trim();
   if(!sid){toast("请填写样品编号");$("f_sid").focus();return}
-  const lat=+$("f_lat").value||null,lon=+$("f_lon").value||null;
-  const lic=lat!=null&&lon!=null?licAt(lat,lon):null;
-  const assays=[...document.querySelectorAll(".assay-row")].map(r=>{
-    const i=r.querySelectorAll("input"),s=r.querySelector("select");
-    return{element:i[0].value.trim(),value:i[1].value.trim(),unit:s.value};
-  }).filter(a=>a.element||a.value);
+  const lic=licAt(lat,lon);
+  const assays=assays0;
   const rec={
     sample_id:sid,sample_type:$("f_type").value,sample_time:$("f_time").value,
     latitude:lat,longitude:lon,altitude:+$("f_alt").value||null,
@@ -507,9 +515,10 @@ $("btn_save").onclick=async()=>{
   // 清空（地区名保留——同一区域连续取样不用重填）
   photos=[];renderThumbs();$("assays").innerHTML="";addAssay();
   $("f_desc").value="";$("f_remark").value="";$("f_lith").value="";
-  $("f_lat").value="";$("f_lon").value="";$("f_alt").value="";
+  $("f_lat").value="";$("f_lon").value="";$("f_alt").value="";lastPos=null;
   $("gps_text").textContent="尚未定位";$("gps_acc").textContent="";$("gps_utm").textContent="";
   await resetForm();
+  }finally{$("btn_save").disabled=false;$("btn_save").textContent="💾 保存记录"}
 };
 
 /* ============ 列表 ============ */
