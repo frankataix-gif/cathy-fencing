@@ -982,14 +982,16 @@ setInterval(()=>{if(trackWatch&&!$("pg-track").classList.contains("hidden"))updT
 async function renderTrips(){
   const el=$("triplist");if(!el)return;
   const all=(await TRIPS.all()).sort((a,b)=>b.t0-a.t0);
-  el.innerHTML=all.map(t=>`<div class="samcard" data-tid="${t.id}">
-    <div class="info"><div><span class="sid">${xesc(t.name)}</span></div>
+  const activeId=(await store.get("track_on"))?await store.get("trip_active_id"):null;
+  el.innerHTML=all.map(t=>{const live=activeId&&t.id===activeId;
+    return`<div class="samcard" data-tid="${t.id}"${live?' style="border-color:var(--ok);box-shadow:0 0 0 2px rgba(34,197,94,.25)"':""}>
+    <div class="info"><div><span class="sid">${xesc(t.name)}</span>${live?'<span class="badge" style="background:#dcfce7;color:#166534">● 记录中</span>':""}</div>
     <div class="meta">${new Date(t.t0).toLocaleString()} → ${new Date(t.t1).toLocaleTimeString()}</div>
     <div class="meta">⏱ ${fmtDur(t.t1-t.t0)} · 📏 ${(trkDist(t.pts)/1000).toFixed(2)} km · ${(t.pts||[]).length} 点</div>
     <div class="row" style="margin-top:8px">
       <button class="btn secondary act-replay" style="padding:6px 12px;min-height:36px">🗺 回放轨迹</button>
       <button class="btn secondary act-edit" style="padding:6px 12px;min-height:36px">⋯ 编辑</button>
-    </div></div></div>`).join("")||'<p style="color:var(--muted);font-size:14px">还没有行程记录</p>';
+    </div></div></div>`}).join("")||'<p style="color:var(--muted);font-size:14px">还没有行程记录</p>';
   el.querySelectorAll(".act-replay").forEach(b=>b.onclick=()=>{
     const t=all.find(x=>x.id===+b.closest(".samcard").dataset.tid);if(!t)return;
     viewTrip=t.pts||[];
@@ -1021,7 +1023,7 @@ $("tripedit_resume").onclick=async()=>{ // 把新轨迹续接到这条行程
   await TR.clear();trackCache=t.pts||[];
   for(const p of trackCache)await idb().then(d=>new Promise(res=>{const tr=d.transaction("track","readwrite");tr.objectStore("track").add(p);tr.oncomplete=res}));
   lastTP=trackCache.length?{t:trackCache[trackCache.length-1].t,lat:trackCache[trackCache.length-1].lat,lon:trackCache[trackCache.length-1].lon}:null;
-  startWatch();await store.set("track_on",true);updTrk();
+  startWatch();await store.set("track_on",true);updTrk();renderTrips();
   toast(`继续记录「${t.name}」，新轨迹将接到后面`);
 };
 /* ---- 离线瓦片下载 ---- */
