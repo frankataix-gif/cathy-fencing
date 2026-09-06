@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-13</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-14</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -89,7 +89,7 @@ progress{width:100%;height:10px;margin-top:8px}
       <label>取样时间（系统自动，精确到秒）</label><input type="datetime-local" id="f_time" step="1" readonly style="background:#f1f5f9;color:var(--muted)">
     </div>
     <div class="card">
-      <h3>📍 坐标（GPS 无需网络）</h3>
+      <h3>📍 坐标（GPS 无需网络）<span style="color:var(--danger)"> *</span></h3>
       <div class="gpsbox">
         <div class="big" id="gps_text">尚未定位</div>
         <div class="gps-acc" id="gps_acc"></div>
@@ -109,7 +109,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
     </div>
     <div class="card">
-      <h3>🧪 含量 / 品位测试</h3>
+      <h3>🧪 含量 / 品位测试 <span style="color:var(--danger)">*</span></h3>
       <div class="elgrid" id="elgrid"></div>
       <div id="assays"></div>
       <button class="btn secondary block" id="btn_add_assay">＋ 添加其他元素</button>
@@ -128,7 +128,7 @@ progress{width:100%;height:10px;margin-top:8px}
       <textarea id="f_desc" placeholder="如：石英脉发育，可见黄铁矿化…"></textarea>
     </div>
     <div class="card">
-      <h3>📷 照片（最多 6 张）</h3>
+      <h3>📷 照片（至少 1 张，最多 6 张）<span style="color:var(--danger)">*</span></h3>
       <p style="font-size:12px;color:var(--muted);margin-bottom:6px">含量读数（XRF 屏幕照）请标记 🧪，可联网用 AI 自动识别填入上表。</p>
       <div class="row">
         <button class="btn secondary" id="btn_cam">📸 拍照</button>
@@ -141,7 +141,7 @@ progress{width:100%;height:10px;margin-top:8px}
     </div>
     <div class="card">
       <div class="row">
-        <div><label>记录人 *</label><input id="f_recorder" placeholder="姓名"></div>
+        <div><label>记录人 <span style="color:var(--danger)">*</span></label><input id="f_recorder" placeholder="姓名"></div>
       </div>
       <label>备注</label><textarea id="f_remark"></textarea>
       <button class="btn primary block" id="btn_save" style="font-size:17px">💾 保存记录</button>
