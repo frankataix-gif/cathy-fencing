@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-22</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-23</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -570,8 +570,20 @@ async function renderList(){
 function viewDetail(id,all){
   const s=all.find(x=>x.id===id);if(!s)return;
   const m=document.createElement("div");m.className="modal";
+  const row=(k,v)=>v?`<div style="display:flex;gap:8px;font-size:14px;margin-bottom:5px"><span style="color:var(--muted);min-width:64px">${k}</span><span>${v}</span></div>`:"";
   m.innerHTML=`<div class="box"><h3>${s.sample_id}</h3>
-    <p style="font-size:13px;color:var(--muted);white-space:pre-wrap">${JSON.stringify({...s,photos:undefined,blob:undefined},null,1)}</p>
+    ${row("取样时间",s.sample_time)}
+    ${row("类型",s.sample_type)}
+    ${row("坐标",s.latitude!=null?`${(+s.latitude).toFixed(6)}, ${(+s.longitude).toFixed(6)}`:"")}
+    ${row("UTM",s.utm)}
+    ${row("海拔/精度",s.altitude!=null?`${s.altitude}m`:"")+(s.gps_accuracy?` · ±${Math.round(s.gps_accuracy)}m`:"")}
+    ${row("地区",s.area_name)}
+    ${row("矿证",s.license_no?`${s.license_no} ${s.license_holder||""}`:"")}
+    ${row("含量",(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · "))}
+    ${row("岩性",s.lithology)}
+    ${row("描述",s.description)}
+    ${row("记录人",s.recorder)}
+    ${row("备注",s.remark)}
     <div class="thumbs">${(s.photos||[]).map((p,i)=>p.blob?`<img src="${URL.createObjectURL(p.blob)}" data-i="${i}" style="max-width:100px;border-radius:8px;cursor:pointer">`:"").join("")||"<span style='color:var(--muted)'>无照片</span>"}</div>
     <button class="btn secondary block" style="margin-top:10px">关闭</button></div>`;
   m.querySelector("button").onclick=()=>m.remove();
