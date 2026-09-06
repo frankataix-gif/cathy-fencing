@@ -191,7 +191,7 @@ progress{width:100%;height:10px;margin-top:8px}
   <section id="pg-set" class="hidden">
     <div class="card">
       <h3>☁️ 云端同步（Cloudflare Worker）</h3>
-      <label>Worker 地址</label><input id="s_worker" placeholder="https://xxx.workers.dev">
+      <label>Worker 地址</label><input id="s_worker" value="https://fancy-heart-7a80.frankataix.workers.dev" placeholder="https://xxx.workers.dev">
       <label>访问令牌</label><input id="s_token" placeholder="Worker 里配置的 APP_TOKEN">
       <button class="btn primary block" id="btn_saveset">保存设置</button>
       <button class="btn secondary block" id="btn_synctest">测试连接</button>
@@ -215,10 +215,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260906-39</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260906-40</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-39</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-40</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -759,7 +759,7 @@ $("syncbtn").onclick=async()=>{
 async function loadSet(){
   let w=await store.get("worker_url");
   if(!w&&location.host.endsWith(".workers.dev")){w=location.origin;await store.set("worker_url",w)} // 同源托管时自动用本域名
-  $("s_worker").value=w||"";$("s_token").value=(await store.get("app_token"))||"";
+  $("s_worker").value=w||$("s_worker").value; // 默认已填 Worker 地址$("s_token").value=(await store.get("app_token"))||"";
 }
 $("btn_saveset").onclick=async()=>{await store.set("worker_url",$("s_worker").value.trim());await store.set("app_token",$("s_token").value.trim());toast("已保存")};
 $("btn_synctest").onclick=async()=>{
