@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-29</span></h1>
+  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-30</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -241,6 +241,12 @@ progress{width:100%;height:10px;margin-top:8px}
     <button class="btn secondary" id="tripstop_no">继续记录</button>
     <button class="btn danger" id="tripstop_yes">确认结束并存档</button>
   </div>
+</div></div>
+<div class="modal hidden" id="tripedit"><div class="box">
+  <h3 id="tripedit_title">行程操作</h3>
+  <button class="btn primary block" id="tripedit_resume">▶ 继续记录（接到这条行程后面）</button>
+  <button class="btn danger block" id="tripedit_del" style="margin-top:8px">删除这条行程</button>
+  <button class="btn secondary block" id="tripedit_no" style="margin-top:8px">取消</button>
 </div></div>
 <div class="modal hidden" id="viewer" style="background:rgba(0,0,0,.9);z-index:300">
   <img id="vimg" style="max-width:96vw;max-height:80vh;border-radius:8px;display:block">
@@ -926,10 +932,12 @@ async function stopTrip(){ // 确认后真正结束并存档
     if(pts.length){
       const name=(await store.get("trip_name"))||("行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}));
       const t0=(await store.get("trip_t0"))||pts[0].t;
-      await TRIPS.put({name,t0,t1:pts[pts.length-1].t,pts});
+      const aid=await store.get("trip_active_id"); // 续录旧行程则覆盖更新
+      const rec={name,t0,t1:pts[pts.length-1].t,pts};if(aid)rec.id=aid;
+      await TRIPS.put(rec);
       toast(`行程已保存：${name}（${pts.length} 点 · ${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
     }else toast("行程已结束（无轨迹点）");
-    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);updTrk();renderTrips();
+    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);await store.set("trip_active_id",null);updTrk();renderTrips();
 }
 $("tripstop_yes").onclick=stopTrip;
 $("tripstop_no").onclick=()=>$("tripstop").classList.add("hidden");
@@ -961,7 +969,7 @@ async function renderTrips(){
     <div class="meta">⏱ ${fmtDur(t.t1-t.t0)} · 📏 ${(trkDist(t.pts)/1000).toFixed(2)} km · ${(t.pts||[]).length} 点</div>
     <div class="row" style="margin-top:8px">
       <button class="btn secondary act-replay" style="padding:6px 12px;min-height:36px">🗺 回放轨迹</button>
-      <button class="btn danger act-tdel" style="padding:6px 12px;min-height:36px">删除</button>
+      <button class="btn secondary act-edit" style="padding:6px 12px;min-height:36px">⋯ 编辑</button>
     </div></div></div>`).join("")||'<p style="color:var(--muted);font-size:14px">还没有行程记录</p>';
   el.querySelectorAll(".act-replay").forEach(b=>b.onclick=()=>{
     const t=all.find(x=>x.id===+b.closest(".samcard").dataset.tid);if(!t)return;
@@ -969,11 +977,34 @@ async function renderTrips(){
     document.querySelector('nav button[data-pg="pg-map"]').click();
     setTimeout(()=>{if(map&&viewTrip.length){map.cx=lon2x(viewTrip[0].lon,12);map.cy=lat2y(viewTrip[0].lat,12);map.draw()}toast("回放："+t.name)},150);
   });
-  el.querySelectorAll(".act-tdel").forEach(b=>b.onclick=async()=>{
-    const id=+b.closest(".samcard").dataset.tid;
-    if(confirm("删除这条行程记录？不可恢复")){await TRIPS.del(id);renderTrips()}
+  el.querySelectorAll(".act-edit").forEach(b=>b.onclick=()=>{
+    const t=all.find(x=>x.id===+b.closest(".samcard").dataset.tid);if(!t)return;
+    $("tripedit_title").textContent=t.name;
+    $("tripedit").dataset.tid=t.id;
+    $("tripedit").classList.remove("hidden");
   });
 }
+let editingTrip=null;
+$("tripedit").onclick=e=>{if(e.target.id==="tripedit")$("tripedit").classList.add("hidden")};
+$("tripedit_no").onclick=()=>$("tripedit").classList.add("hidden");
+$("tripedit_del").onclick=async()=>{
+  const id=+$("tripedit").dataset.tid;
+  if(confirm("删除这条行程记录？不可恢复")){await TRIPS.del(id);$("tripedit").classList.add("hidden");renderTrips()}
+};
+$("tripedit_resume").onclick=async()=>{ // 把新轨迹续接到这条行程
+  const id=+$("tripedit").dataset.tid;
+  if(trackWatch||await store.get("track_on")){toast("当前已有行程在记录中，先结束它");return}
+  const t=(await TRIPS.all()).find(x=>x.id===id);if(!t)return;
+  $("tripedit").classList.add("hidden");
+  await store.set("trip_active_id",id);
+  await store.set("trip_name",t.name);
+  await store.set("trip_t0",t.t0); // 保留原开始时间
+  await TR.clear();trackCache=t.pts||[];
+  for(const p of trackCache)await idb().then(d=>new Promise(res=>{const tr=d.transaction("track","readwrite");tr.objectStore("track").add(p);tr.oncomplete=res}));
+  lastTP=trackCache.length?{t:trackCache[trackCache.length-1].t,lat:trackCache[trackCache.length-1].lat,lon:trackCache[trackCache.length-1].lon}:null;
+  startWatch();await store.set("track_on",true);updTrk();
+  toast(`继续记录「${t.name}」，新轨迹将接到后面`);
+};
 /* ---- 离线瓦片下载 ---- */
 async function openDl(){
   const z0=Math.round(map.z);
