@@ -403,6 +403,7 @@ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
   document.querySelectorAll("nav button").forEach(x=>x.classList.remove("on"));b.classList.add("on");
   document.querySelectorAll("main section").forEach(s=>s.classList.add("hidden"));
   $(b.dataset.pg).classList.remove("hidden");
+  store.set("cur_page",b.dataset.pg); // 刷新后回到当前页
   if(b.dataset.pg!=="pg-map"){pickMode=false;$("picktip").classList.add("hidden")}
   if(b.dataset.pg==="pg-list")renderList();
   if(b.dataset.pg==="pg-track"){updTrk();renderTrips()}
@@ -1092,6 +1093,10 @@ if("serviceWorker" in navigator&&location.protocol==="https:"){
 
 /* ============ 启动 ============ */
 loadSet();resetForm();refreshPend();refreshSampleCache();TR.load();setTimeout(resumeTrack,800);
+// 刷新后回到上次停留的页面
+store.get("cur_page").then(pg=>{
+  if(pg&&pg!=="pg-form"){const b=document.querySelector(`nav button[data-pg="${pg}"]`);if(b)b.click()}
+});
 </script>
 </body>
 </html>
