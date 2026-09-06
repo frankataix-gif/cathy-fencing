@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-14</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-15</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -416,8 +416,8 @@ addAssay();
 
 /* ============ 照片（最多6张，可标记含量读数） ============ */
 let photos=[]; // {name, blob, kind:'field'|'assay'}
-$("btn_cam").onclick=()=>$("f_cam").click();
-$("btn_album").onclick=()=>$("f_album").click();
+$("btn_cam").onclick=()=>{if(photos.length>=6){toast("最多 6 张，先删除再拍");return}$("f_cam").click()};
+$("btn_album").onclick=()=>{if(photos.length>=6){toast("最多 6 张，先删除再选");return}$("f_album").click()};
 async function addPhotos(files){
   for(const f of files){
     if(photos.length>=6){toast("最多 6 张照片");break}
@@ -438,6 +438,9 @@ function compress(file){ // 压到最长边1600，省空间
     img.onerror=()=>res(file);img.src=url});
 }
 function renderThumbs(){
+  const full=photos.length>=6;
+  $("btn_cam").disabled=full;$("btn_album").disabled=full;
+  $("btn_cam").style.opacity=full?0.4:1;$("btn_album").style.opacity=full?0.4:1;
   $("thumbs").innerHTML=photos.map((p,i)=>`<div class="th">
     <img src="${URL.createObjectURL(p.blob)}">
     <button class="thtag ${p.kind==="assay"?"on":""}" data-i="${i}">${p.kind==="assay"?"🧪 含量读数":"标记为含量"}</button>
