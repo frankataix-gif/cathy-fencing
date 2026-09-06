@@ -222,8 +222,8 @@ progress{width:100%;height:10px;margin-top:8px}
   <h3>下载离线地图</h3>
   <div id="dl_have" style="font-size:14px;font-weight:600;color:#166534;margin-bottom:6px"></div>
   <p style="font-size:13px;color:var(--muted)"><b>任务区详图</b>：下载当前地图视野、缩放 <b id="dlz"></b> 级（z12 可看清矿区道路）。</p>
-  <label>额外放高级别（更大范围概览）</label>
-  <select id="dl_extra"><option value="0">不放</option><option value="2" selected>+2 级</option><option value="4">+4 级</option></select>
+  <label>附带更大范围的概览（级别更小、范围更大）</label>
+  <select id="dl_extra"></select>
   <div class="row" style="margin-top:10px">
     <button class="btn primary" id="dlgo">下载当前视野</button>
   </div>
@@ -821,7 +821,11 @@ async function resumeTrack(){ // 页面重开后自动续录
 }
 /* ---- 离线瓦片下载 ---- */
 async function openDl(){
-  $("dlz").textContent=Math.round(map.z)+" 级";
+  const z0=Math.round(map.z);
+  $("dlz").textContent=`z${z0}（另附 z${z0+1}–z${Math.min(z0+2,15)} 更细级别）`;
+  // 选项动态显示实际级别范围
+  const opts=[[0,"不附带"],[2,`附带 z${Math.max(0,z0-2)}–z${z0-1}（约4倍范围）`],[4,`附带 z${Math.max(0,z0-4)}–z${z0-1}（约16倍范围）`]];
+  $("dl_extra").innerHTML=opts.map(([v,t],i)=>`<option value="${v}"${i===1?" selected":""}>${t}</option>`).join("");
   const zm=await T.byZoom(),tn=Object.values(zm).reduce((a,b)=>a+b,0);
   $("dl_have").textContent=tn>0?`✅ 已缓存 ${tn} 张（约 ${(tn*15/1024).toFixed(1)}MB）：${zoomSummary(zm)}`:"⚠️ 本机暂无离线地图，建议先下载";
   $("dlmodal").classList.remove("hidden");$("dlstat").textContent="";
