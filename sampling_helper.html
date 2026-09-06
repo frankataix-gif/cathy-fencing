@@ -34,6 +34,7 @@ textarea{min-height:64px;resize:vertical}
 .elgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-bottom:10px}
 .elgrid button{border:1px solid var(--border);background:#f8fafc;border-radius:8px;padding:8px 0;font-size:15px;font-weight:600;font-family:ui-monospace,monospace;min-height:40px}
 .elgrid button:active{background:var(--primary);color:#fff}
+.elgrid button.used{background:#dcfce7;border-color:#22c55e;color:#166534}
 .assay-row{display:flex;gap:8px;margin-bottom:8px;align-items:center}
 .assay-row input{flex:1}
 .assay-row select{width:80px;flex:none}
@@ -73,7 +74,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-15</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-16</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -395,24 +396,34 @@ $("btn_pick").onclick=()=>{
 };
 
 /* ============ 含量子表 ============ */
+function usedEls(){return new Set([...document.querySelectorAll(".assay-row")].map(r=>r.querySelector("input").value.trim().toUpperCase()).filter(Boolean))}
+function updateElGrid(){
+  const used=usedEls();
+  document.querySelectorAll("#elgrid button").forEach(b=>b.classList.toggle("used",used.has(b.dataset.el)));
+}
 function addAssay(el="",val="",unit="%"){
   const d=document.createElement("div");d.className="assay-row";
   d.innerHTML=`<input list="el_list" placeholder="元素 如 Cu/Co/Ta" value="${el}">
     <input placeholder="数值" inputmode="decimal" value="${val}">
     <select>${["%","ppm","g/t","ppb"].map(u=>`<option${u===unit?" selected":""}>${u}</option>`).join("")}</select>
     <button type="button">✕</button>`;
-  d.querySelector("button").onclick=()=>d.remove();
-  $("assays").appendChild(d);
+  d.querySelector("button").onclick=()=>{d.remove();updateElGrid()};
+  d.querySelector("input").oninput=updateElGrid;
+  $("assays").appendChild(d);updateElGrid();
+  if(!val)d.querySelectorAll("input")[1].focus();
 }
 $("btn_add_assay").onclick=()=>addAssay();
 // 元素方格：两行常用，钽铌系优先；点一下直接加一行
 const ELS=["Ta","Nb","Ni","Cu","Co","Fe","Mn","Zn","W","As","Ag","Au"];
 $("elgrid").innerHTML=ELS.map(e=>`<button type="button" data-el="${e}">${e}</button>`).join("");
-document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>addAssay(b.dataset.el));
+document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>{
+  if(usedEls().has(b.dataset.el)){toast(b.dataset.el+" 已添加过，避免重复");return}
+  addAssay(b.dataset.el);
+});
 // 完整周期表联想（手动输入用）
 const ALL_EL="H氢 He氦 Li锂 Be铍 B硼 C碳 N氮 O氧 F氟 Ne氖 Na钠 Mg镁 Al铝 Si硅 P磷 S硫 Cl氯 Ar氩 K钾 Ca钙 Sc钪 Ti钛 V钒 Cr铬 Mn锰 Fe铁 Co钴 Ni镍 Cu铜 Zn锌 Ga镓 Ge锗 As砷 Se硒 Br溴 Kr氪 Rb铷 Sr锶 Y钇 Zr锆 Nb铌 Mo钼 Tc锝 Ru钌 Rh铑 Pd钯 Ag银 Cd镉 In铟 Sn锡 Sb锑 Te碲 I碘 Xe氙 Cs铯 Ba钡 La镧 Ce铈 Pr镨 Nd钕 Pm钷 Sm钐 Eu铕 Gd钆 Tb铽 Dy镝 Ho钬 Er铒 Tm铥 Yb镱 Lu镥 Hf铪 Ta钽 W钨 Re铼 Os锇 Ir铱 Pt铂 Au金 Hg汞 Tl铊 Pb铅 Bi铋 Po钋 At砹 Rn氡 Fr钫 Ra镭 Ac锕 Th钍 Pa镤 U铀 Np镎 Pu钚 Am镅 Cm锔 Bk锫 Cf锎 Es锿 Fm镄 Md钔 No锘 Lr铹 Rf𬬻 Db𬭊 Sg𬭳 Bh𬭛 Hs𬭶 Mt鿏 Ds𫟼 Rg𬬭 Cn鿔 Nh鉨 Fl鈇 Mc镆 Lv鉝 Ts鿬 Og鿫";
 $("el_list").innerHTML=ALL_EL.split(" ").map(t=>{const m=t.match(/^([A-Z][a-z]?)(.*)$/);return m?`<option value="${m[1]}">${m[2]}</option>`:""}).join("");
-addAssay();
+// 初始不预置空行，点元素格或＋才出现
 
 /* ============ 照片（最多6张，可标记含量读数） ============ */
 let photos=[]; // {name, blob, kind:'field'|'assay'}
@@ -517,7 +528,7 @@ $("btn_save").onclick=async()=>{
   await store.set("last_type",rec.sample_type);
   toast("已保存到本机 ✔");refreshPend();
   // 清空（地区名保留——同一区域连续取样不用重填）
-  photos=[];renderThumbs();$("assays").innerHTML="";addAssay();
+  photos=[];renderThumbs();$("assays").innerHTML="";updateElGrid();
   $("f_desc").value="";$("f_remark").value="";$("f_lith").value="";
   $("f_lat").value="";$("f_lon").value="";$("f_alt").value="";lastPos=null;
   $("gps_text").textContent="尚未定位";$("gps_acc").textContent="";$("gps_utm").textContent="";
