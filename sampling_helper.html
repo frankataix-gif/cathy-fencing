@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-18</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-19</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -398,7 +398,7 @@ $("btn_pick").onclick=()=>{
 function usedEls(){return new Set([...document.querySelectorAll(".assay-row")].map(r=>r.querySelector("input").value.trim().toUpperCase()).filter(Boolean))}
 function updateElGrid(){
   const used=usedEls();
-  document.querySelectorAll("#elgrid button").forEach(b=>b.classList.toggle("used",used.has(b.dataset.el)));
+  document.querySelectorAll("#elgrid button").forEach(b=>b.classList.toggle("used",used.has(b.dataset.el.toUpperCase())));
 }
 function addAssay(el="",val="",unit="%"){
   const d=document.createElement("div");d.className="assay-row";
@@ -416,7 +416,7 @@ $("btn_add_assay").onclick=()=>addAssay();
 const ELS=["Ta","Nb","Ni","Cu","Co","Fe","Mn","Zn","W","As","Ag","Au"];
 $("elgrid").innerHTML=ELS.map(e=>`<button type="button" data-el="${e}">${e}</button>`).join("");
 document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>{
-  if(usedEls().has(b.dataset.el)){toast(b.dataset.el+" 已添加过，避免重复");return}
+  if(usedEls().has(b.dataset.el.toUpperCase())){toast(b.dataset.el+" 已添加过，避免重复");return}
   addAssay(b.dataset.el);
 });
 // 完整周期表联想（手动输入用）
