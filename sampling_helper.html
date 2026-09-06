@@ -136,16 +136,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
       <input type="file" id="f_cam" accept="image/*" capture="environment" class="hidden">
       <input type="file" id="f_album" accept="image/*" multiple class="hidden">
-<datalist id="el_list">
-  <option value="Cu">铜</option><option value="Co">钴</option><option value="Au">金</option><option value="Ag">银</option>
-  <option value="Fe">铁</option><option value="Mn">锰</option><option value="Ni">镍</option><option value="Zn">锌</option>
-  <option value="Pb">铅</option><option value="Sn">锡</option><option value="Ta">钽</option><option value="Nb">铌</option>
-  <option value="Cr">铬</option><option value="Ti">钛</option><option value="V">钒</option><option value="W">钨</option>
-  <option value="Mo">钼</option><option value="U">铀</option><option value="Th">钍</option><option value="Zr">锆</option>
-  <option value="Ba">钡</option><option value="Sr">锶</option><option value="Rb">铷</option><option value="Li">锂</option>
-  <option value="As">砷</option><option value="Cd">镉</option><option value="Sb">锑</option><option value="Bi">铋</option>
-  <option value="K">钾</option><option value="Ca">钙</option><option value="Al">铝</option><option value="Si">硅</option>
-</datalist>
+<datalist id="el_list"></datalist>
       <div class="thumbs" id="thumbs"></div>
     </div>
     <div class="card">
@@ -424,10 +415,13 @@ function addAssay(el="",val="",unit="ppm"){
   $("assays").appendChild(d);
 }
 $("btn_add_assay").onclick=()=>addAssay();
-// 元素方格：点一下直接加一行
-const ELS=["Ta","Nb","Ni","Cu","Ag","Fe","Mn","Zn","W","As","Co","Au","Pb","Sn","Cr","Ti","V","Mo","Li","Zr","U","Th","Sb","Bi"];
+// 元素方格：两行常用，钽铌系优先；点一下直接加一行
+const ELS=["Ta","Nb","Ni","Cu","Co","Fe","Mn","Zn","W","As","Ag","Au"];
 $("elgrid").innerHTML=ELS.map(e=>`<button type="button" data-el="${e}">${e}</button>`).join("");
 document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>addAssay(b.dataset.el));
+// 完整周期表联想（手动输入用）
+const ALL_EL="H氢 He氦 Li锂 Be铍 B硼 C碳 N氮 O氧 F氟 Ne氖 Na钠 Mg镁 Al铝 Si硅 P磷 S硫 Cl氯 Ar氩 K钾 Ca钙 Sc钪 Ti钛 V钒 Cr铬 Mn锰 Fe铁 Co钴 Ni镍 Cu铜 Zn锌 Ga镓 Ge锗 As砷 Se硒 Br溴 Kr氪 Rb铷 Sr锶 Y钇 Zr锆 Nb铌 Mo钼 Tc锝 Ru钌 Rh铑 Pd钯 Ag银 Cd镉 In铟 Sn锡 Sb锑 Te碲 I碘 Xe氙 Cs铯 Ba钡 La镧 Ce铈 Pr镨 Nd钕 Pm钷 Sm钐 Eu铕 Gd钆 Tb铽 Dy镝 Ho钬 Er铒 Tm铥 Yb镱 Lu镥 Hf铪 Ta钽 W钨 Re铼 Os锇 Ir铱 Pt铂 Au金 Hg汞 Tl铊 Pb铅 Bi铋 Po钋 At砹 Rn氡 Fr钫 Ra镭 Ac锕 Th钍 Pa镤 U铀 Np镎 Pu钚 Am镅 Cm锔 Bk锫 Cf锎 Es锿 Fm镄 Md钔 No锘 Lr铹 Rf𬬻 Db𬭊 Sg𬭳 Bh𬭛 Hs𬭶 Mt鿏 Ds𫟼 Rg𬬭 Cn鿔 Nh鉨 Fl鈇 Mc镆 Lv鉝 Ts鿬 Og鿫";
+$("el_list").innerHTML=ALL_EL.split(" ").map(t=>{const m=t.match(/^([A-Z][a-z]?)(.*)$/);return m?`<option value="${m[1]}">${m[2]}</option>`:""}).join("");
 addAssay();
 
 /* ============ 照片（最多6张，可标记含量读数） ============ */
