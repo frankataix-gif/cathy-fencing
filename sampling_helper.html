@@ -160,6 +160,7 @@ progress{width:100%;height:10px;margin-top:8px}
         <button id="mdl" title="下载离线地图">⬇</button>
       </div>
       <div id="mapinfo">拖动移动 · 双指/按钮缩放</div>
+      <div id="tilebadge" title="点击查看/下载离线地图" style="position:absolute;left:10px;top:10px;background:rgba(255,255,255,.92);border-radius:8px;padding:5px 10px;font-size:12px;z-index:10;cursor:pointer">🗄 离线瓦片 …</div>
       <div id="picktip" class="hidden" style="position:absolute;top:10px;left:50%;transform:translateX(-50%);background:#fef3c7;color:#92400e;border-radius:8px;padding:6px 14px;font-size:14px;z-index:11;font-weight:600">👆 点按地图选择取样点位置</div>
     </div>
   </section>
@@ -219,6 +220,7 @@ progress{width:100%;height:10px;margin-top:8px}
 </div></div>
 <div class="modal hidden" id="dlmodal"><div class="box">
   <h3>下载离线地图</h3>
+  <div id="dl_have" style="font-size:14px;font-weight:600;color:#166534;margin-bottom:6px"></div>
   <p style="font-size:13px;color:var(--muted)"><b>任务区详图</b>：下载当前地图视野、缩放 <b id="dlz"></b> 级（z12 可看清矿区道路）。</p>
   <label>额外放高级别（更大范围概览）</label>
   <select id="dl_extra"><option value="0">不放</option><option value="2" selected>+2 级</option><option value="4">+4 级</option></select>
@@ -698,7 +700,10 @@ function initMap(){
     if(lastPos){const[px,py]=map.toPx(lastPos.coords.latitude,lastPos.coords.longitude);
       ctx.beginPath();ctx.arc(px,py,8,0,7);ctx.fillStyle="rgba(22,104,220,.25)";ctx.fill();
       ctx.beginPath();ctx.arc(px,py,5,0,7);ctx.fillStyle="#1668dc";ctx.fill();ctx.strokeStyle="#fff";ctx.lineWidth=2;ctx.stroke();}
-    $("mapinfo").textContent=`z${z} · 中心 ${y2lat(cy,z).toFixed(4)}, ${x2lon(cx,z).toFixed(4)} · 离线瓦片 ${await T.count()}`;
+    const tn=await T.count();
+    $("mapinfo").textContent=`z${z} · 中心 ${y2lat(cy,z).toFixed(4)}, ${x2lon(cx,z).toFixed(4)}`;
+    $("tilebadge").textContent=`🗄 离线瓦片 ${tn} 张（约 ${(tn*15/1024).toFixed(1)}MB）`;
+    $("tilebadge").style.color=tn>0?"#166534":"#991b1b";
   };
   const tileCache={},tilePending={};
   async function drawTile(z,x,y,px,py,sz){
@@ -806,10 +811,13 @@ async function resumeTrack(){ // 页面重开后自动续录
   }
 }
 /* ---- 离线瓦片下载 ---- */
-function openDl(){
+async function openDl(){
   $("dlz").textContent=Math.round(map.z)+" 级";
+  const tn=await T.count();
+  $("dl_have").textContent=tn>0?`✅ 本机已缓存 ${tn} 张瓦片（约 ${(tn*15/1024).toFixed(1)}MB）`:"⚠️ 本机暂无离线地图，建议先下载";
   $("dlmodal").classList.remove("hidden");$("dlstat").textContent="";
 }
+$("tilebadge").onclick=openDl;
 $("dlcancel").onclick=()=>$("dlmodal").classList.add("hidden");
 function bboxJobs(lonA,latA,lonB,latB,zLo,zHi){
   const jobs=[];
