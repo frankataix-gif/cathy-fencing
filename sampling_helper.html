@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-6</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-7</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -405,11 +405,11 @@ $("btn_pick").onclick=()=>{
 };
 
 /* ============ 含量子表 ============ */
-function addAssay(el="",val="",unit="ppm"){
+function addAssay(el="",val="",unit="%"){
   const d=document.createElement("div");d.className="assay-row";
   d.innerHTML=`<input list="el_list" placeholder="元素 如 Cu/Co/Ta" value="${el}">
     <input placeholder="数值" inputmode="decimal" value="${val}">
-    <select>${["ppm","%","g/t","ppb"].map(u=>`<option${u===unit?" selected":""}>${u}</option>`).join("")}</select>
+    <select>${["%","ppm","g/t","ppb"].map(u=>`<option${u===unit?" selected":""}>${u}</option>`).join("")}</select>
     <button type="button">✕</button>`;
   d.querySelector("button").onclick=()=>d.remove();
   $("assays").appendChild(d);
