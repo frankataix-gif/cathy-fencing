@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-23</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-24</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -161,12 +161,30 @@ progress{width:100%;height:10px;margin-top:8px}
       <div class="mapctl">
         <button id="mzin">＋</button><button id="mzout">－</button>
         <button id="mloc" title="我的位置">◎</button>
-        <button id="mtrack" title="轨迹记录">▶</button>
         <button id="mdl" title="下载离线地图">⬇</button>
       </div>
       <div id="mapinfo">拖动移动 · 双指/按钮缩放</div>
       <div id="tilebadge" title="点击查看/下载离线地图" style="position:absolute;left:10px;top:10px;background:rgba(255,255,255,.92);border-radius:8px;padding:5px 10px;font-size:12px;z-index:10;cursor:pointer;max-width:60%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">🗄 离线瓦片 …</div>
       <div id="picktip" class="hidden" style="position:absolute;top:10px;left:50%;transform:translateX(-50%);background:#fef3c7;color:#92400e;border-radius:8px;padding:6px 14px;font-size:14px;z-index:11;font-weight:600">👆 点按地图选择取样点位置</div>
+    </div>
+  </section>
+
+  <!-- ===== 行程页 ===== -->
+  <section id="pg-track" class="hidden">
+    <div class="card">
+      <h3>🧭 行程轨迹记录</h3>
+      <div class="gpsbox">
+        <div class="big" id="trk_state">未记录</div>
+        <div class="gps-acc" id="trk_info">点下方按钮开始记录行程轨迹</div>
+      </div>
+      <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始记录行程</button>
+      <p style="font-size:13px;color:var(--muted);margin-top:8px">每 ≥15 秒且移动超过 10 米自动记一个点；轨迹仅存本机、会显示在地图上（橙色线）。GPS 持续工作较耗电，停车休息时记得停止。</p>
+    </div>
+    <div class="card">
+      <h3>📤 轨迹导出</h3>
+      <button class="btn primary block" id="btn_trk_gpx">导出 GPX（QGIS 用：样品点+轨迹）</button>
+      <button class="btn secondary block" id="btn_trk_kml">导出 KML（Google Earth 用）</button>
+      <button class="btn danger block" id="btn_trk_del" style="margin-top:8px">清空轨迹点</button>
     </div>
   </section>
 
@@ -203,7 +221,8 @@ progress{width:100%;height:10px;margin-top:8px}
 </main>
 <nav>
   <button data-pg="pg-form" class="on">✏️ 记录</button>
-  <button data-pg="pg-list">📋 列表</button>
+  <button data-pg="pg-list">📋 样品</button>
+  <button data-pg="pg-track">🧭 行程</button>
   <button data-pg="pg-map">🗺 地图</button>
   <button data-pg="pg-set">⚙️ 设置</button>
 </nav>
@@ -350,6 +369,7 @@ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
   $(b.dataset.pg).classList.remove("hidden");
   if(b.dataset.pg!=="pg-map"){pickMode=false;$("picktip").classList.add("hidden")}
   if(b.dataset.pg==="pg-list")renderList();
+  if(b.dataset.pg==="pg-track")updTrk();
   if(b.dataset.pg==="pg-map")initMap();
 });
 
@@ -830,7 +850,6 @@ function initMap(){
   $("mloc").onclick=()=>{if(lastPos)map.centerOn(lastPos.coords.latitude,lastPos.coords.longitude);
     else{toast("定位中…");navigator.geolocation.getCurrentPosition(p=>{showPos(p);map.centerOn(p.coords.latitude,p.coords.longitude)},gpsErr,{enableHighAccuracy:true,timeout:60000})}};
   $("mdl").onclick=openDl;
-  $("mtrack").onclick=toggleTrack;
   setTimeout(resumeDl,1500); // 有未完成下载则自动续传
 }
 /* ---- 轨迹记录：间隔≥15s 且 位移>10m 才存点 ---- */
@@ -838,33 +857,47 @@ let trackWatch=null,lastTP=null;
 function hav(a,b,c,d){const R=6371e3,r=Math.PI/180;
   const h=Math.sin((c-a)*r/2)**2+Math.cos(a*r)*Math.cos(c*r)*Math.sin((d-b)*r/2)**2;
   return 2*R*Math.asin(Math.sqrt(h))}
-async function toggleTrack(){
-  if(trackWatch){
-    navigator.geolocation.clearWatch(trackWatch);trackWatch=null;
-    await store.set("track_on",false);$("mtrack").textContent="▶";
-    toast("轨迹已停止，共 "+(await TR.all()).length+" 个点");return}
-  if(!confirm("开始记录轨迹？GPS 将持续工作（耗电），再次点击停止。"))return;
+async function updTrk(){
+  if(!$("trk_state"))return;
+  const on=!!trackWatch||await store.get("track_on");
+  const pts=trackCache.slice().sort((a,b)=>a.t-b.t);
+  let dist=0;for(let i=1;i<pts.length;i++)dist+=hav(pts[i-1].lat,pts[i-1].lon,pts[i].lat,pts[i].lon);
+  $("trk_state").textContent=on?"● 记录中":"未记录";
+  $("trk_state").style.color=on?"#166534":"";
+  $("trk_info").textContent=pts.length?`已存 ${pts.length} 个点 · 约 ${(dist/1000).toFixed(2)} km`:"点开始记录行程轨迹";
+  $("btn_trk").textContent=on?"■ 停止记录":"▶ 开始记录行程";
+  $("btn_trk").className=(on?"btn danger":"btn primary")+" block";
+}
+function startWatch(){
   lastTP=null;
   trackWatch=navigator.geolocation.watchPosition(async p=>{
     showPos(p);
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
     const ok=!lastTP||(t-lastTP.t>=15000&&hav(lastTP.lat,lastTP.lon,lat,lon)>10)||t-lastTP.t>=60000;
-    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
+    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon};updTrk()}
     if(map)map.draw();
   },e=>{}, {enableHighAccuracy:true});
-  await store.set("track_on",true);$("mtrack").textContent="■";
-  toast("轨迹记录中（15s/10m 打点）");
+}
+async function toggleTrack(){
+  if(trackWatch||await store.get("track_on")){
+    if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;
+    await store.set("track_on",false);updTrk();
+    toast("行程已停止，共 "+trackCache.length+" 个点");return}
+  if(!confirm("开始记录行程轨迹？GPS 将持续工作（耗电），再次点击停止。"))return;
+  startWatch();
+  await store.set("track_on",true);updTrk();
+  toast("行程记录中（15s/10m 打点）");
 }
 async function resumeTrack(){ // 页面重开后自动续录
-  if(await store.get("track_on")){$("mtrack").textContent="■";
-    trackWatch=navigator.geolocation.watchPosition(async p=>{
-      showPos(p);const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
-      const ok=!lastTP||(t-lastTP.t>=15000&&hav(lastTP.lat,lastTP.lon,lat,lon)>10)||t-lastTP.t>=60000;
-      if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
-      if(map)map.draw();
-    },e=>{},{enableHighAccuracy:true});
-  }
+  if(await store.get("track_on"))startWatch();
 }
+$("btn_trk").onclick=toggleTrack;
+$("btn_trk_gpx").onclick=()=>$("btn_gpx").click();
+$("btn_trk_kml").onclick=()=>$("btn_kml").click();
+$("btn_trk_del").onclick=async()=>{
+  const n=trackCache.length;
+  if(confirm(`确认清空全部 ${n} 个轨迹点？不可恢复`)){await TR.clear();updTrk();toast("轨迹已清空");if(map)map.draw()}
+};
 /* ---- 离线瓦片下载 ---- */
 async function openDl(){
   const z0=Math.round(map.z);
