@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-12</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-13</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -141,7 +141,7 @@ progress{width:100%;height:10px;margin-top:8px}
     </div>
     <div class="card">
       <div class="row">
-        <div><label>记录人</label><input id="f_recorder" placeholder="姓名"></div>
+        <div><label>记录人 *</label><input id="f_recorder" placeholder="姓名"></div>
       </div>
       <label>备注</label><textarea id="f_remark"></textarea>
       <button class="btn primary block" id="btn_save" style="font-size:17px">💾 保存记录</button>
@@ -488,6 +488,7 @@ $("btn_save").onclick=async()=>{
   }).filter(a=>a.element&&a.value);
   if(!assays0.length){toast("缺少含量：至少填 1 项元素+数值");return}
   if(!photos.length){toast("缺少照片：至少拍 1 张（样品或读数）");return}
+  if(!$("f_recorder").value.trim()){toast("缺少记录人：请填写姓名");$("f_recorder").focus();return}
   $("btn_save").disabled=true;$("btn_save").textContent="保存中…";
   try{
   $("f_time").value=nowLocal(); // 保存瞬间打时间戳
