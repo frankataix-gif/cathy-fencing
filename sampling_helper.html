@@ -94,8 +94,8 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="big" id="gps_text">尚未定位</div>
         <div class="gps-acc" id="gps_acc"></div>
         <div class="gps-acc" id="gps_utm"></div>
-        <div style="margin-top:6px"><label style="margin:0 0 3px">地区名称（联网时定位自动填入，可改）</label>
-        <input id="f_area" placeholder="如 Central Province / Serenje / XX村"></div>
+        <div style="margin-top:6px"><label style="margin:0 0 3px">📍 定位地址（由 GPS 自动生成，不可修改）</label>
+        <input id="f_area" readonly style="background:#f1f5f9;color:var(--muted)" placeholder="定位后自动填入：省 / 县 / 村镇"></div>
       </div>
       <div class="row" style="margin-top:8px">
         <div><label>纬度</label><input id="f_lat" inputmode="decimal" placeholder="-13.xxx"></div>
@@ -213,7 +213,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-35</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-36</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -685,7 +685,6 @@ $("samedit_edit").onclick=()=>{
   photos=(s.photos||[]).map(p=>({name:p.name,kind:p.kind,blob:p.blob}));renderThumbs();
   $("assays").innerHTML="";(s.assays||[]).forEach(a=>addAssay(a.element,a.value,a.unit));updateElGrid();
   $("f_lat").disabled=$("f_lon").disabled=false;   // 经纬度可手动修正
-  $("f_area").disabled=true;                       // 地区名称锁定
   $("btn_gps").disabled=$("btn_pick").disabled=true; // 定位按钮禁用
   $("btn_save").textContent="💾 更新记录（覆盖原记录）";
   document.querySelector('nav button[data-pg="pg-form"]').click();
@@ -693,7 +692,6 @@ $("samedit_edit").onclick=()=>{
 };
 function exitEdit(){
   if(!editingSample)return;editingSample=null;
-  $("f_area").disabled=false;
   $("btn_gps").disabled=$("btn_pick").disabled=false;
   $("btn_save").textContent="💾 保存记录";
 }
