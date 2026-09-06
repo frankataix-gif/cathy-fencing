@@ -626,11 +626,10 @@ async function renderList(){
   $("empty_tip").style.display=all.length?"none":"";
   $("samlist").innerHTML=all.map(s=>{
     const b=s.status==="synced"?'<span class="badge b-ok">已同步</span>':s.status==="failed"?'<span class="badge b-fail">同步失败</span>':'<span class="badge b-pend">待同步</span>';
-    const loc=s.latitude!=null?`${(+s.latitude).toFixed(5)}, ${(+s.longitude).toFixed(5)}`:"无坐标";
     const as=(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · ");
     return`<div class="card samcard" data-id="${s.id}">
       <div class="info"><div><span class="sid">${s.sample_id}</span>${b}</div>
-      <div class="meta">${s.sample_time||""} · ${s.sample_type||""} · ${loc}${s.task_name?" · "+s.task_name:""}${s.area_name?" · "+s.area_name:""}${s.license_no?" · 📜"+s.license_no:""}</div>
+      <div class="meta">${s.sample_time||""} · ${s.sample_type||""}${s.area_name?" · 📍"+s.area_name:""}${s.license_no?" · 📜"+s.license_no:""}</div>
       ${as?`<div class="meta">🧪 ${as}</div>`:""}
       ${s.lithology||s.description?`<div class="meta">🪨 ${s.lithology||""} ${s.description||""}</div>`:""}
       <div class="meta">📷 ${(s.photos||[]).length} 张${s.erp_name?" · ERP:"+s.erp_name:""}</div>
