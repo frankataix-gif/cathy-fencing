@@ -31,6 +31,9 @@ textarea{min-height:64px;resize:vertical}
 .gpsbox{background:#f0f7ff;border:1px dashed var(--primary);border-radius:8px;padding:10px;font-size:14px}
 .gpsbox .big{font-size:17px;font-weight:600;font-variant-numeric:tabular-nums}
 .gps-acc{color:var(--muted);font-size:13px}
+.elgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-bottom:10px}
+.elgrid button{border:1px solid var(--border);background:#f8fafc;border-radius:8px;padding:8px 0;font-size:15px;font-weight:600;font-family:ui-monospace,monospace;min-height:40px}
+.elgrid button:active{background:var(--primary);color:#fff}
 .assay-row{display:flex;gap:8px;margin-bottom:8px;align-items:center}
 .assay-row input{flex:1}
 .assay-row select{width:80px;flex:none}
@@ -107,8 +110,9 @@ progress{width:100%;height:10px;margin-top:8px}
     </div>
     <div class="card">
       <h3>🧪 含量 / 品位测试</h3>
+      <div class="elgrid" id="elgrid"></div>
       <div id="assays"></div>
-      <button class="btn secondary block" id="btn_add_assay">＋ 添加元素</button>
+      <button class="btn secondary block" id="btn_add_assay">＋ 添加其他元素</button>
     </div>
     <div class="card">
       <h3>🪨 岩性 / 地质描述</h3>
@@ -419,7 +423,12 @@ function addAssay(el="",val="",unit="ppm"){
   d.querySelector("button").onclick=()=>d.remove();
   $("assays").appendChild(d);
 }
-$("btn_add_assay").onclick=()=>addAssay();addAssay();
+$("btn_add_assay").onclick=()=>addAssay();
+// 元素方格：点一下直接加一行
+const ELS=["Cu","Co","Au","Ag","Fe","Mn","Ni","Zn","Pb","Sn","Ta","Nb","Cr","Ti","V","W","Mo","Li","Zr","U","Th","As","Sb","Bi"];
+$("elgrid").innerHTML=ELS.map(e=>`<button type="button" data-el="${e}">${e}</button>`).join("");
+document.querySelectorAll("#elgrid button").forEach(b=>b.onclick=()=>addAssay(b.dataset.el));
+addAssay();
 
 /* ============ 照片（最多6张，可标记含量读数） ============ */
 let photos=[]; // {name, blob, kind:'field'|'assay'}
