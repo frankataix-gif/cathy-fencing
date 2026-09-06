@@ -213,7 +213,7 @@ progress{width:100%;height:10px;margin-top:8px}
       </p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-36</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260906-37</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -423,7 +423,7 @@ let watchId=null,lastPos=null;
 function showPos(p){
   lastPos=p;const c=p.coords;
   $("gps_text").textContent=`${c.latitude.toFixed(6)}, ${c.longitude.toFixed(6)}`;
-  $("gps_acc").textContent=`精度 ±${c.accuracy?c.accuracy.toFixed(0):"?"} m`+(c.altitude!=null?` · 海拔 ${c.altitude.toFixed(0)} m`:"")+" · "+new Date(p.timestamp).toLocaleTimeString();
+  $("gps_acc").textContent=(c.altitude!=null?`海拔 ${c.altitude.toFixed(0)} m · `:"")+new Date(p.timestamp).toLocaleTimeString();
   $("gps_utm").textContent="UTM："+toUTM(c.latitude,c.longitude);
   $("f_lat").value=c.latitude.toFixed(6);$("f_lon").value=c.longitude.toFixed(6);
   if(c.altitude!=null)$("f_alt").value=c.altitude.toFixed(1);
