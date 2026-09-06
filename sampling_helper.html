@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-20</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-21</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -208,6 +208,10 @@ progress{width:100%;height:10px;margin-top:8px}
   <button data-pg="pg-set">⚙️ 设置</button>
 </nav>
 <div class="toast" id="toast"></div>
+<div class="modal hidden" id="viewer" style="background:rgba(0,0,0,.9);z-index:300">
+  <img id="vimg" style="max-width:96vw;max-height:80vh;border-radius:8px;display:block">
+  <button class="btn secondary" id="vclose" style="position:absolute;bottom:24px;left:50%;transform:translateX(-50%)">关闭</button>
+</div>
 <div class="modal hidden" id="gpsmodal"><div class="box">
   <h3>📍 定位诊断</h3>
   <div id="gpsdiag" style="font-size:14px;line-height:1.9"></div>
@@ -246,6 +250,7 @@ progress{width:100%;height:10px;margin-top:8px}
 "use strict";
 /* ============ 工具 ============ */
 const $=id=>document.getElementById(id);
+$("viewer").onclick=e=>{if(e.target.id!=="vimg")$("viewer").classList.add("hidden")};
 const toast=(m,ms=2200)=>{const t=$("toast");t.textContent=m;t.style.opacity=1;clearTimeout(t._t);t._t=setTimeout(()=>t.style.opacity=0,ms)};
 const pad=n=>String(n).padStart(2,"0");
 const nowLocal=()=>{const d=new Date();return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`};
@@ -569,8 +574,8 @@ function viewDetail(id,all){
     <button class="btn secondary block" style="margin-top:10px">关闭</button></div>`;
   m.querySelector("button").onclick=()=>m.remove();
   m.onclick=e=>{if(e.target===m)m.remove()};
-  m.querySelectorAll("img").forEach(im=>im.onclick=()=>{ // 点照片放大另存
-    const w=open();w.document.write(`<img src="${im.src}" style="max-width:100%">`);
+  m.querySelectorAll("img").forEach(im=>im.onclick=()=>{ // 点照片全屏查看
+    $("vimg").src=im.src;$("viewer").classList.remove("hidden");
   });
   document.body.appendChild(m);
 }
