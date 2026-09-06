@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-21</span></h1>
+  <h1>野外取样记录 <span style="font-size:11px;opacity:.7;font-weight:400">v20260906-22</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -457,13 +457,15 @@ function renderThumbs(){
   $("btn_cam").disabled=full;$("btn_album").disabled=full;
   $("btn_cam").style.opacity=full?0.4:1;$("btn_album").style.opacity=full?0.4:1;
   $("thumbs").innerHTML=photos.map((p,i)=>`<div class="th">
-    <img src="${URL.createObjectURL(p.blob)}">
+    <img src="${URL.createObjectURL(p.blob)}" data-v="${i}" style="cursor:pointer">
     <button class="thtag ${p.kind==="assay"?"on":""}" data-i="${i}">${p.kind==="assay"?"🧪 含量读数":"标记为含量"}</button>
     ${p.kind==="assay"?`<button class="thai" data-i="${i}">🤖 AI识别</button>`:""}
     <button class="thdel" data-i="${i}">✕</button></div>`).join("");
   document.querySelectorAll(".thtag").forEach(b=>b.onclick=()=>{const p=photos[+b.dataset.i];p.kind=p.kind==="assay"?"field":"assay";renderThumbs()});
   document.querySelectorAll(".thdel").forEach(b=>b.onclick=()=>{if(confirm("删除这张照片？")){photos.splice(+b.dataset.i,1);renderThumbs()}});
   document.querySelectorAll(".thai").forEach(b=>b.onclick=()=>aiAssay(+b.dataset.i));
+  document.querySelectorAll("#thumbs img").forEach(im=>im.onclick=()=>{ // 点缩略图全屏查看
+    $("vimg").src=im.src;$("viewer").classList.remove("hidden")});
 }
 async function aiAssay(i){
   if(!navigator.onLine){toast("AI 识别需要联网");return}
@@ -570,7 +572,7 @@ function viewDetail(id,all){
   const m=document.createElement("div");m.className="modal";
   m.innerHTML=`<div class="box"><h3>${s.sample_id}</h3>
     <p style="font-size:13px;color:var(--muted);white-space:pre-wrap">${JSON.stringify({...s,photos:undefined,blob:undefined},null,1)}</p>
-    <div class="thumbs">${(s.photos||[]).map((p,i)=>`<img src="${URL.createObjectURL(p.blob)}" data-i="${i}">`).join("")}</div>
+    <div class="thumbs">${(s.photos||[]).map((p,i)=>p.blob?`<img src="${URL.createObjectURL(p.blob)}" data-i="${i}" style="max-width:100px;border-radius:8px;cursor:pointer">`:"").join("")||"<span style='color:var(--muted)'>无照片</span>"}</div>
     <button class="btn secondary block" style="margin-top:10px">关闭</button></div>`;
   m.querySelector("button").onclick=()=>m.remove();
   m.onclick=e=>{if(e.target===m)m.remove()};
