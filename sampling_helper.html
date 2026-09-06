@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -73,7 +73,7 @@ progress{width:100%;height:10px;margin-top:8px}
 <body>
 <header>
   <span class="netdot" id="netdot" title="网络状态"></span>
-  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-25</span></h1>
+  <h1>ECOBOX 样品记录 <span style="font-size:11px;opacity:.7;font-weight:400">v1.0 · b20260906-26</span></h1>
   <button class="hbtn" id="syncbtn">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
@@ -177,14 +177,12 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="big" id="trk_state">未记录</div>
         <div class="gps-acc" id="trk_info">点下方按钮开始记录行程轨迹</div>
       </div>
-      <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始记录行程</button>
-      <p style="font-size:13px;color:var(--muted);margin-top:8px">每 ≥15 秒且移动超过 10 米自动记一个点；轨迹仅存本机、会显示在地图上（橙色线）。GPS 持续工作较耗电，停车休息时记得停止。</p>
+      <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始新的行程</button>
+      <p style="font-size:13px;color:var(--muted);margin-top:8px">一次行程 = 一段独立旅行：开始→记录轨迹→结束存档。与样品无关。中途关掉页面会自动续录。</p>
     </div>
     <div class="card">
-      <h3>📤 轨迹导出</h3>
-      <button class="btn primary block" id="btn_trk_gpx">导出 GPX（QGIS 用：样品点+轨迹）</button>
-      <button class="btn secondary block" id="btn_trk_kml">导出 KML（Google Earth 用）</button>
-      <button class="btn danger block" id="btn_trk_del" style="margin-top:8px">清空轨迹点</button>
+      <h3>🗂 历史行程</h3>
+      <div id="triplist"></div>
     </div>
   </section>
 
@@ -308,7 +306,7 @@ function licAt(lat,lon){
 let db;
 const idb=()=>new Promise((res,rej)=>{
   if(db)return res(db);
-  const r=indexedDB.open("field_sampling",2);
+  const r=indexedDB.open("field_sampling",3);
   r.onupgradeneeded=e=>{
     const d=e.target.result;
     const mk=(n,o)=>{if(!d.objectStoreNames.contains(n))d.createObjectStore(n,o)};
@@ -316,6 +314,7 @@ const idb=()=>new Promise((res,rej)=>{
     mk("tiles",{keyPath:"k"});
     mk("kv",{keyPath:"k"});
     mk("track",{keyPath:"id",autoIncrement:true});
+    mk("trips",{keyPath:"id",autoIncrement:true});
   };
   r.onsuccess=()=>{db=r.result;res(db)};r.onerror=()=>rej(r.error);
 });
@@ -353,8 +352,13 @@ const TR={ // 轨迹点
   load:async()=>{trackCache=await idb().then(d=>new Promise(res=>{const r=d.transaction("track").objectStore("track").getAll();r.onsuccess=()=>res(r.result||[])}))},
   clear:async()=>{trackCache=[];await idb().then(d=>new Promise(res=>{const t=d.transaction("track","readwrite");t.objectStore("track").clear();t.oncomplete=res}))},
 };
+const TRIPS={ // 行程记录：一次旅行=一条
+  all:()=>idb().then(d=>new Promise(res=>{const r=d.transaction("trips").objectStore("trips").getAll();r.onsuccess=()=>res(r.result||[])})),
+  put:t=>idb().then(d=>new Promise(res=>{const tr=d.transaction("trips","readwrite");tr.objectStore("trips").put(t);tr.oncomplete=res})),
+  del:id=>idb().then(d=>new Promise(res=>{const tr=d.transaction("trips","readwrite");tr.objectStore("trips").delete(id);tr.oncomplete=res})),
+};
 /* 内存缓存：地图每帧绘制用同步数据，避免每帧查 IndexedDB 造成覆盖层闪烁 */
-let sampleCache=[],trackCache=[];
+let sampleCache=[],trackCache=[],viewTrip=null;
 async function refreshSampleCache(){sampleCache=await S.all()}
 
 /* ============ 网络状态 ============ */
@@ -369,7 +373,7 @@ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
   $(b.dataset.pg).classList.remove("hidden");
   if(b.dataset.pg!=="pg-map"){pickMode=false;$("picktip").classList.add("hidden")}
   if(b.dataset.pg==="pg-list")renderList();
-  if(b.dataset.pg==="pg-track")updTrk();
+  if(b.dataset.pg==="pg-track"){updTrk();renderTrips()}
   if(b.dataset.pg==="pg-map")initMap();
 });
 
@@ -677,11 +681,11 @@ function trkSegs(pts){ // 按 >30min 间隔断段
   return segs.filter(s=>s.length)}
 const xesc=s=>String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 $("btn_gpx").onclick=async()=>{
-  const all=await S.all(),pts=await TR.all();
+  const all=await S.all(),pts=await TR.all(),trips=await TRIPS.all();
   const wpts=all.filter(s=>s.latitude!=null).map(s=>{
     const as=(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(", ");
     return`<wpt lat="${s.latitude}" lon="${s.longitude}">${s.altitude!=null?`<ele>${s.altitude}</ele>`:""}<name>${xesc(s.sample_id)}</name><desc>${xesc((s.sample_type||"")+" "+as+" "+(s.description||""))}</desc><time>${s.created_at||""}</time></wpt>`}).join("\n");
-  const trks=trkSegs(pts).map(s=>`<trkseg>${s.map(p=>`<trkpt lat="${p.lat}" lon="${p.lon}"><time>${new Date(p.t).toISOString()}</time></trkpt>`).join("")}</trkseg>`).join("\n");
+  const trks=[...trips.map(t=>t.pts),...trkSegs(pts)].filter(a=>a&&a.length).map(s=>`<trkseg>${s.map(p=>`<trkpt lat="${p.lat}" lon="${p.lon}"><time>${new Date(p.t).toISOString()}</time></trkpt>`).join("")}</trkseg>`).join("\n");
   dl("field_"+new Date().toISOString().slice(0,10)+".gpx",
 `<?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="SamplingHelper" xmlns="http://www.topografix.com/GPX/1/1">
@@ -691,10 +695,10 @@ ${wpts}
   toast("GPX 已导出（拖进 QGIS 即可）");
 };
 $("btn_kml").onclick=async()=>{
-  const all=await S.all(),pts=await TR.all();
+  const all=await S.all(),pts=await TR.all(),trips=await TRIPS.all();
   const pms=all.filter(s=>s.latitude!=null).map(s=>
 `<Placemark><name>${xesc(s.sample_id)}</name><description>${xesc((s.sample_type||"")+" "+((s.assays||[]).map(a=>a.element+" "+a.value+a.unit).join(", ")))}</description><Point><coordinates>${s.longitude},${s.latitude},${s.altitude||0}</coordinates></Point></Placemark>`).join("\n");
-  const line=trkSegs(pts).map(s=>`<Placemark><name>轨迹</name><Style><LineStyle><color>ff00a5f5</color><width>3</width></LineStyle></Style><LineString><coordinates>${s.map(p=>p.lon+","+p.lat+",0").join(" ")}</coordinates></LineString></Placemark>`).join("\n");
+  const line=[...trips.map(t=>({n:t.name,p:t.pts})),...trkSegs(pts).map((s,i)=>({n:"当前轨迹"+(i+1),p:s}))].filter(t=>t.p&&t.p.length).map(t=>`<Placemark><name>${xesc(t.n)}</name><Style><LineStyle><color>ff00a5f5</color><width>3</width></LineStyle></Style><LineString><coordinates>${t.p.map(p=>p.lon+","+p.lat+",0").join(" ")}</coordinates></LineString></Placemark>`).join("\n");
   dl("field_"+new Date().toISOString().slice(0,10)+".kml",
 `<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
@@ -771,6 +775,10 @@ function initMap(){
       for(const p of tps){const[qx,qy]=map.toPx(p.lat,p.lon);
         if(!prevT||p.t-prevT>30*60*1000)ctx.moveTo(qx,qy);else ctx.lineTo(qx,qy);prevT=p.t}
       ctx.stroke()}
+    // 回放的历史行程（紫色）
+    if(viewTrip&&viewTrip.length){ctx.strokeStyle="#8b5cf6";ctx.lineWidth=3;ctx.setLineDash([8,4]);ctx.beginPath();
+      viewTrip.forEach((p,i)=>{const[qx,qy]=map.toPx(p.lat,p.lon);i?ctx.lineTo(qx,qy):ctx.moveTo(qx,qy)});
+      ctx.stroke();ctx.setLineDash([])}
     // 当前位置
     if(lastPos){const[px,py]=map.toPx(lastPos.coords.latitude,lastPos.coords.longitude);
       ctx.beginPath();ctx.arc(px,py,8,0,7);ctx.fillStyle="rgba(22,104,220,.25)";ctx.fill();
@@ -857,47 +865,81 @@ let trackWatch=null,lastTP=null;
 function hav(a,b,c,d){const R=6371e3,r=Math.PI/180;
   const h=Math.sin((c-a)*r/2)**2+Math.cos(a*r)*Math.cos(c*r)*Math.sin((d-b)*r/2)**2;
   return 2*R*Math.asin(Math.sqrt(h))}
+function fmtDur(ms){const s=Math.max(0,Math.round(ms/1000));return `${Math.floor(s/3600)}:${String(Math.floor(s/60)%60).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`}
+function trkDist(pts){let d=0;const p=(pts||[]).slice().sort((a,b)=>a.t-b.t);for(let i=1;i<p.length;i++)d+=hav(p[i-1].lat,p[i-1].lon,p[i].lat,p[i].lon);return d}
 async function updTrk(){
   if(!$("trk_state"))return;
   const on=!!trackWatch||await store.get("track_on");
-  const pts=trackCache.slice().sort((a,b)=>a.t-b.t);
-  let dist=0;for(let i=1;i<pts.length;i++)dist+=hav(pts[i-1].lat,pts[i-1].lon,pts[i].lat,pts[i].lon);
-  $("trk_state").textContent=on?"● 记录中":"未记录";
-  $("trk_state").style.color=on?"#166534":"";
-  $("trk_info").textContent=pts.length?`已存 ${pts.length} 个点 · 约 ${(dist/1000).toFixed(2)} km`:"点开始记录行程轨迹";
-  $("btn_trk").textContent=on?"■ 停止记录":"▶ 开始记录行程";
-  $("btn_trk").className=(on?"btn danger":"btn primary")+" block";
+  if(on){
+    const t0=await store.get("trip_t0"),name=await store.get("trip_name");
+    $("trk_state").textContent="● 记录中 — "+(name||"行程");
+    $("trk_state").style.color="#166534";
+    $("trk_info").textContent=`开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))} · ${trackCache.length} 点`;
+    $("btn_trk").textContent="■ 结束本次行程";$("btn_trk").className="btn danger block";
+  }else{
+    $("trk_state").textContent="未记录";$("trk_state").style.color="";
+    $("trk_info").textContent="点开始，记录本次行程轨迹";
+    $("btn_trk").textContent="▶ 开始新的行程";$("btn_trk").className="btn primary block";
+  }
 }
-function startWatch(){
-  lastTP=null;
+function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提示
   trackWatch=navigator.geolocation.watchPosition(async p=>{
-    showPos(p);
+    lastPos=p;
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
     const ok=!lastTP||(t-lastTP.t>=15000&&hav(lastTP.lat,lastTP.lon,lat,lon)>10)||t-lastTP.t>=60000;
-    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon};updTrk()}
+    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
     if(map)map.draw();
   },e=>{}, {enableHighAccuracy:true});
 }
 async function toggleTrack(){
   if(trackWatch||await store.get("track_on")){
     if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;
-    await store.set("track_on",false);updTrk();
-    toast("行程已停止，共 "+trackCache.length+" 个点");return}
-  if(!confirm("开始记录行程轨迹？GPS 将持续工作（耗电），再次点击停止。"))return;
-  startWatch();
-  await store.set("track_on",true);updTrk();
+    await store.set("track_on",false);
+    const pts=trackCache.slice();
+    if(pts.length){
+      const name=(await store.get("trip_name"))||("行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}));
+      const t0=(await store.get("trip_t0"))||pts[0].t;
+      await TRIPS.put({name,t0,t1:pts[pts.length-1].t,pts});
+      toast(`行程已保存：${name}（${pts.length} 点 · ${(trkDist(pts)/1000).toFixed(2)} km）`,4000);
+    }else toast("行程已结束（无轨迹点）");
+    await TR.clear();await store.set("trip_name",null);await store.set("trip_t0",null);updTrk();renderTrips();return}
+  const def="行程 "+new Date().toLocaleString("zh",{month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"});
+  const name=prompt("给本次行程取个名字（默认按日期时间）",def);
+  if(name===null)return;
+  await store.set("trip_name",name||def);
+  await store.set("trip_t0",Date.now());
+  await TR.clear();lastTP=null;
+  startWatch();await store.set("track_on",true);updTrk();
   toast("行程记录中（15s/10m 打点）");
 }
-async function resumeTrack(){ // 页面重开后自动续录
+async function resumeTrack(){ // 页面重开后自动续录同一次行程
   if(await store.get("track_on"))startWatch();
 }
 $("btn_trk").onclick=toggleTrack;
-$("btn_trk_gpx").onclick=()=>$("btn_gpx").click();
-$("btn_trk_kml").onclick=()=>$("btn_kml").click();
-$("btn_trk_del").onclick=async()=>{
-  const n=trackCache.length;
-  if(confirm(`确认清空全部 ${n} 个轨迹点？不可恢复`)){await TR.clear();updTrk();toast("轨迹已清空");if(map)map.draw()}
-};
+setInterval(()=>{if(trackWatch&&!$("pg-track").classList.contains("hidden"))updTrk()},1000);
+/* ---- 历史行程列表 ---- */
+async function renderTrips(){
+  const el=$("triplist");if(!el)return;
+  const all=(await TRIPS.all()).sort((a,b)=>b.t0-a.t0);
+  el.innerHTML=all.map(t=>`<div class="samcard" data-tid="${t.id}">
+    <div class="info"><div><span class="sid">${xesc(t.name)}</span></div>
+    <div class="meta">${new Date(t.t0).toLocaleString()} → ${new Date(t.t1).toLocaleTimeString()}</div>
+    <div class="meta">⏱ ${fmtDur(t.t1-t.t0)} · 📏 ${(trkDist(t.pts)/1000).toFixed(2)} km · ${(t.pts||[]).length} 点</div>
+    <div class="row" style="margin-top:8px">
+      <button class="btn secondary act-replay" style="padding:6px 12px;min-height:36px">🗺 回放轨迹</button>
+      <button class="btn danger act-tdel" style="padding:6px 12px;min-height:36px">删除</button>
+    </div></div></div>`).join("")||'<p style="color:var(--muted);font-size:14px">还没有行程记录</p>';
+  el.querySelectorAll(".act-replay").forEach(b=>b.onclick=()=>{
+    const t=all.find(x=>x.id===+b.closest(".samcard").dataset.tid);if(!t)return;
+    viewTrip=t.pts||[];
+    document.querySelector('nav button[data-pg="pg-map"]').click();
+    setTimeout(()=>{if(map&&viewTrip.length){map.cx=lon2x(viewTrip[0].lon,12);map.cy=lat2y(viewTrip[0].lat,12);map.draw()}toast("回放："+t.name)},150);
+  });
+  el.querySelectorAll(".act-tdel").forEach(b=>b.onclick=async()=>{
+    const id=+b.closest(".samcard").dataset.tid;
+    if(confirm("删除这条行程记录？不可恢复")){await TRIPS.del(id);renderTrips()}
+  });
+}
 /* ---- 离线瓦片下载 ---- */
 async function openDl(){
   const z0=Math.round(map.z);
