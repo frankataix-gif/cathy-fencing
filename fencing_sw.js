@@ -1,5 +1,5 @@
 // Service Worker for Cathy Fencing PWA
-const CACHE_NAME = 'cathy-fencing-v4';
+const CACHE_NAME = 'cathy-fencing-v5';
 const ASSETS = [
   './cathy_avatar.jpg',
   './manifest.json'
@@ -9,12 +9,8 @@ self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS)).catch(() => null)
   );
-});
-
-self.addEventListener('message', (e) => {
-  if (e.data && e.data.action === 'skipWaiting') {
-    self.skipWaiting();
-  }
+  // 安装完成立即激活，让 PWA 能自动更新
+  self.skipWaiting();
 });
 
 self.addEventListener('activate', (e) => {
