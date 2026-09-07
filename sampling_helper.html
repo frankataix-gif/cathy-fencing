@@ -57,7 +57,7 @@ nav{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid 
 nav button{flex:1;border:none;background:none;padding:12px 0 14px;font-size:13px;color:var(--muted)}
 nav button.on{color:var(--primary);font-weight:600}
 .hidden{display:none!important}
-#mapwrap{position:relative;height:calc(100vh - 130px);border-radius:12px;overflow:hidden;background:#dbe4ee}
+#mapwrap{position:relative;height:calc(100vh - 130px);height:calc(100svh - 130px);border-radius:12px;overflow:hidden;background:#dbe4ee}
 #map{width:100%;height:100%;display:block;touch-action:none}
 .mapctl{position:absolute;right:10px;top:10px;display:flex;flex-direction:column;gap:6px;z-index:10}
 .mapctl button{width:40px;height:40px;border-radius:8px;border:1px solid var(--border);background:#fff;font-size:18px}
@@ -216,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-52</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-53</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-52</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-53</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -892,7 +892,9 @@ function initMap(){
   map={cv,ctx,z:12,cx:lon2x(28.2,12),cy:lat2y(-13.0,12),inited:false,marks:[],me:null};
   // 初始中心：有坐标记录则用最近一条，否则等 GPS
   S.all().then(all=>{const g=all.filter(s=>s.latitude!=null);if(g.length){const s=g[g.length-1];map.cx=lon2x(s.longitude,12);map.cy=lat2y(s.latitude,12)}map.draw()});
-  function resize(){const r=cv.parentElement.getBoundingClientRect();cv.width=r.width*devicePixelRatio;cv.height=r.height*devicePixelRatio;cv.style.width=r.width+"px";cv.style.height=r.height+"px";ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);map.draw()}
+  function resize(){const r=cv.parentElement.getBoundingClientRect();
+    if(!r.width||!r.height){setTimeout(resize,200);return} // iOS 切换页瞬间容器可能为0
+    cv.width=r.width*devicePixelRatio;cv.height=r.height*devicePixelRatio;cv.style.width=r.width+"px";cv.style.height=r.height+"px";ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);map.draw()}
   addEventListener("resize",resize);setTimeout(resize,50);
   const scale=()=>Math.pow(2,map.z-12); // 内部坐标以 z12 存储
   map.toPx=(lat,lon)=>{const w=cv.width/devicePixelRatio,h=cv.height/devicePixelRatio;
@@ -1074,8 +1076,15 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
     const ok=!lastTP||(t-lastTP.t>=5000&&hav(lastTP.lat,lastTP.lon,lat,lon)>3)||t-lastTP.t>=30000;
     if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
     if(map)map.draw();
-  },e=>{}, {enableHighAccuracy:true});
+  },e=>{if(!startWatch._e){startWatch._e=1;toast("定位失败："+(e.message||"请检查定位权限"))}}, {enableHighAccuracy:true});
 }
+// iOS 切后台再回来 watchPosition 会静默失效：回前台时重启监听
+document.addEventListener("visibilitychange",async()=>{
+  if(document.visibilityState==="visible"&&(trackWatch||await store.get("track_on"))){
+    if(trackWatch)navigator.geolocation.clearWatch(trackWatch);
+    trackWatch=null;startWatch();if(map)map.draw();
+  }
+});
 async function toggleTrack(){
   if(trackWatch||await store.get("track_on")){
     // 先弹确认
