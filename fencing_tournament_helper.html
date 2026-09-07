@@ -1220,6 +1220,13 @@ function circuitLabel(c) {
 <!-- ====== 数据结束 / DATA END ====== -->
 
 <script>
+  window.onerror = function(msg, src, line, col, err) {
+    const r = document.getElementById('results');
+    if (r) r.innerHTML = `<div class="empty-state">脚本错误：${msg}<br><small>line ${line}</small></div>`;
+    console.error(err || msg);
+    return false;
+  };
+
   let activeFilters = { reg: null, region: null, age: null, circuit: null, distance: Infinity };
   let currentBase = CATHY.home;
   let currentPage = 1;
