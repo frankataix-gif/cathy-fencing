@@ -254,6 +254,18 @@
     .badge-ongoing { background:#dcfce7; color:#166534; }
     .badge-soon { background:#fef3c7; color:#92400e; }
     .badge-future { background:#eff6ff; color:#1d4ed8; }
+    #sw-update-banner {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100001;
+      background: var(--primary); color: white;
+      padding: 12px 16px; text-align: center; font-size: 0.9rem;
+      display: flex; justify-content: center; align-items: center; gap: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    #sw-update-banner button {
+      background: white; color: var(--primary); border: none;
+      padding: 6px 14px; border-radius: 20px; font-weight: 600;
+      cursor: pointer; font-size: 0.85rem;
+    }
   </style>
 </head>
 <body>
@@ -2317,6 +2329,52 @@ function circuitLabel(c) {
     update();
   }
 
+  function initServiceWorker() {
+    if (!('serviceWorker' in navigator)) return;
+
+    let refreshing = false;
+    let newWorker = null;
+
+    function showUpdateBanner(worker) {
+      if (document.getElementById('sw-update-banner')) return;
+      const banner = document.createElement('div');
+      banner.id = 'sw-update-banner';
+      banner.innerHTML = '<span>检测到新版本，一键更新后即可使用最新功能</span><button id="sw-update-btn">立即更新</button>';
+      document.body.appendChild(banner);
+      document.body.style.paddingTop = banner.offsetHeight + 'px';
+      document.getElementById('sw-update-btn').addEventListener('click', () => {
+        if (worker) {
+          worker.postMessage({ action: 'skipWaiting' });
+        } else {
+          window.location.reload();
+        }
+      });
+    }
+
+    navigator.serviceWorker.register('./fencing_sw.js?version=v4', { updateViaCache: 'none' }).then((reg) => {
+      reg.addEventListener('updatefound', () => {
+        newWorker = reg.installing;
+        if (!newWorker) return;
+        newWorker.addEventListener('statechange', () => {
+          if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+            showUpdateBanner(newWorker);
+          }
+        });
+      });
+      if (reg.waiting) {
+        showUpdateBanner(reg.waiting);
+      }
+    }).catch(() => {});
+
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!refreshing) {
+        refreshing = true;
+        window.location.reload();
+      }
+    });
+  }
+
+  initServiceWorker();
   initBaseCity();
   initFilters();
   initTabs();
