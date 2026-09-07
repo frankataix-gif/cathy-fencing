@@ -168,6 +168,8 @@
     .tag.beginner { background: #dcfce7; color: var(--success); }
     .tag.important { background: #fef3c7; color: #92400e; }
     .tag.far { background: #fee2e2; color: var(--danger); }
+    .tag.travel-time { background: #e0f2fe; color: #0369a1; }
+    .tag.travel-flight { background: #f5f3ff; color: #6d28d9; }
     .details { font-size: 0.85rem; margin-top: 10px; padding-top: 10px; border-top: 1px solid #e5e7eb; display: none; }
     .card.expanded .details { display: block; }
     .base-city {
@@ -1640,6 +1642,17 @@ function circuitLabel(c) {
       }
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
       const farTag = t.distance_km > 1000 ? `<span class="tag far">远 / ${t.distance_km}km</span>` : `<span class="tag">~${t.distance_km}km</span>`;
+      let travelTag = '';
+      if (t.distance_km !== undefined && t.distance_km !== null) {
+        if (t.distance_km <= 500) {
+          const hours = Math.max(0.5, Math.round(t.distance_km / 50) / 2);
+          const hText = hours === Math.floor(hours) ? hours + '小时' : hours.toFixed(1) + '小时';
+          travelTag = `<span class="tag travel-time" title="按开车约 100km/h 估算">开车约 ${hText}左右</span>`;
+        } else {
+          const hours = Math.max(1, Math.round(t.distance_km / 800));
+          travelTag = `<span class="tag travel-flight" title="按飞行约 800km/h 估算">飞机约 ${hours} 小时</span>`;
+        }
+      }
       const tournamentMapUrl = makeMapUrl(t);
       const closedStyle = t.status === 'closed' ? 'opacity:0.65;' : '';
       card.innerHTML = `
@@ -1649,7 +1662,10 @@ function circuitLabel(c) {
         </div>
         <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; background:#f8fafc; padding:8px 12px; border-radius:8px; margin:10px 0; font-size:0.8rem;">
           <div style="color:var(--gray);">📅 ${formatDate(t.start, t.end)} · 📍 ${t.city}, ${t.state}</div>
-          ${farTag}
+          <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap; justify-content:flex-end;">
+            ${farTag}
+            ${travelTag}
+          </div>
         </div>
         <div class="tags">
           ${regTag}
