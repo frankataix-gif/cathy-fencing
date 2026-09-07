@@ -236,10 +236,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-66</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-67</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-66</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-67</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1185,18 +1185,24 @@ function tryBeep(){
     setTimeout(()=>ac.close(),1350);
   }catch(e){}
 }
-// 电量监测：低电量/省电模式会中断 GPS
+// 电量监测：低电量/省电模式会中断 GPS（仅在正在记录轨迹且未充电时提醒）
 if("getBattery" in navigator){
   navigator.getBattery().then(bat=>{
-    let warned=false;
     let lowInt=0;
-    function warn(){
+    async function warn(){
+      const recording=trackWatch||await store.get("track_on");
       const lvl=Math.round(bat.level*100);
-      const low=!bat.charging && bat.level<=0.20;
-      if(low){
-        toast(`🔋 电量 ${lvl}%：低电量/省电模式可能中断 GPS 轨迹记录，建议充电或关闭省电`,8000);tryBeep();
-        if(!lowInt)lowInt=setInterval(()=>{if(!bat.charging && bat.level<=0.20){toast(`🔋 电量 ${Math.round(bat.level*100)}%：建议充电，否则 GPS 记录可能中断`,6000);tryBeep();}else{clearInterval(lowInt);lowInt=0;}},20000);
-      }else{clearInterval(lowInt);lowInt=0;}
+      if(!recording || bat.charging || bat.level>0.20){
+        if(lowInt){clearInterval(lowInt);lowInt=0;}
+        return;
+      }
+      // 正在记录轨迹 + 电量低 + 没充电
+      toast(`🔋 电量 ${lvl}%：低电量/省电模式会中断 GPS 轨迹记录，建议充电或关闭省电`,8000);tryBeep();
+      if(!lowInt)lowInt=setInterval(async()=>{
+        const rec=trackWatch||await store.get("track_on");
+        if(!rec || bat.charging || bat.level>0.20){clearInterval(lowInt);lowInt=0;return}
+        toast(`🔋 电量 ${Math.round(bat.level*100)}%：建议充电，否则 GPS 记录可能中断`,6000);tryBeep();
+      },20000);
     }
     bat.addEventListener("levelchange",warn);bat.addEventListener("chargingchange",warn);warn();
   });
