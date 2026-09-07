@@ -216,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-50</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-51</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-50</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-51</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -908,7 +908,11 @@ function initMap(){
   };
   function scheduleDraw(){ // 合并短时间内的多次重绘
     if(_raf)return;_raf=requestAnimationFrame(()=>{_raf=0;map.draw()})}
-  map._draw=async()=>{
+  // iOS 兼容：老版 Safari 无 createImageBitmap，用 <img> 兜底
+  const mkBitmap=async b=>("createImageBitmap" in self)
+    ?createImageBitmap(b)
+    :await new Promise((res,rej)=>{const u=URL.createObjectURL(b),im=new Image();im.onload=()=>{URL.revokeObjectURL(u);res(im)};im.onerror=rej;im.src=u});
+  map._draw=async()=>{try{
     const w=cv.width/devicePixelRatio,h=cv.height/devicePixelRatio;ctx.fillStyle="#dbe4ee";ctx.fillRect(0,0,w,h);
     const z=Math.round(map.z),sc=Math.pow(2,map.z-z);
     const cx=map.cx*Math.pow(2,z-12),cy=map.cy*Math.pow(2,z-12);
@@ -954,20 +958,22 @@ function initMap(){
     $("mapinfo").textContent=`z${z} · 中心 ${y2lat(cy,z).toFixed(4)}, ${x2lon(cx,z).toFixed(4)}`;
     $("tilebadge").textContent=tn>0?`🗄 ${tn}张 ${zoomSummary(zm)}`:"🗄 无离线地图";
     $("tilebadge").style.color=tn>0?"#166534":"#991b1b";
-  };
+  }catch(err){ // iOS 等环境出错时显示原因而不是白屏
+    $("mapinfo").textContent="地图绘制出错："+String(err&&err.message||err).slice(0,80);
+  }};
   const tileCache={},tilePending={};
   async function drawTile(z,x,y,px,py,sz){
     const k=z+"/"+x+"/"+y;
     if(tileCache[k]){ctx.drawImage(tileCache[k],px,py,sz,sz);return}
     const blob=await T.get(k);
-    if(blob){const im=await createImageBitmap(blob);tileCache[k]=im;ctx.drawImage(im,px,py,sz,sz);return}
+    if(blob){const im=await mkBitmap(blob);tileCache[k]=im;ctx.drawImage(im,px,py,sz,sz);return}
     if(tilePending[k]){ // 已在下载中，画占位
       ctx.strokeStyle="rgba(100,116,139,.15)";ctx.strokeRect(px,py,sz,sz);return}
     // 父级补位：逐级向上找已缓存瓦片，放大裁切显示（保证离线有底图）
     for(let pz=z-1;pz>=Math.max(0,z-8);pz--){
       const sh=z-pz,pxt=x>>sh,pyt=y>>sh;
       const pb=await T.get(pz+"/"+pxt+"/"+pyt);
-      if(pb){const im=await createImageBitmap(pb);
+      if(pb){const im=await mkBitmap(pb);
         const s=256/Math.pow(2,sh);
         ctx.drawImage(im,(x-pxt*Math.pow(2,sh))*s,(y-pyt*Math.pow(2,sh))*s,s,s,px,py,sz,sz);
         if(!navigator.onLine)return; // 离线就用补位图
@@ -979,14 +985,14 @@ function initMap(){
     // 在线下载并缓存（标记请求中，完成后合并重绘一次）
     tilePending[k]=1;
     fetch(`${OSM}/${k}.png`).then(r=>r.ok?r.blob():null).then(async b=>{
-      if(b){await T.put(k,b);tileCache[k]=await createImageBitmap(b)}
+      if(b){await T.put(k,b);tileCache[k]=await mkBitmap(b)}
       tilePending[k]=0;scheduleDraw();
     }).catch(()=>{tilePending[k]=0});
     ctx.strokeStyle="rgba(100,116,139,.2)";ctx.strokeRect(px,py,sz,sz);
   }
   // 交互
   let drag=null,pinch=null,downPt=null;
-  cv.addEventListener("pointerdown",e=>{cv.setPointerCapture(e.pointerId);drag={x:e.clientX,y:e.clientY};downPt={x:e.clientX,y:e.clientY}});
+  cv.addEventListener("pointerdown",e=>{try{cv.setPointerCapture(e.pointerId)}catch(_){}drag={x:e.clientX,y:e.clientY};downPt={x:e.clientX,y:e.clientY}});
   cv.addEventListener("pointermove",e=>{
     if(pinch)return;
     if(drag){const sc=Math.pow(2,map.z-12);
