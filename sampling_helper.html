@@ -105,7 +105,7 @@ progress{width:100%;height:10px;margin-top:8px}
       <div class="row" style="margin-top:8px">
         <button class="btn primary" id="btn_gps" style="font-size:17px">📍 获取定位</button>
         <button class="btn secondary" id="btn_pick">🗺 地图选点</button>
-        <button class="btn secondary" id="btn_gpshelp">定位帮助</button>
+        <button class="btn secondary" id="btn_viewpos">👁 定位查看</button>
       </div>
     </div>
     <div class="card">
@@ -220,10 +220,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-59</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-60</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-59</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-60</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -476,7 +476,12 @@ async function showGpsDiag(err){
   $("gpsdiag").innerHTML=rows.join("<br>");
   $("gpsmodal").classList.remove("hidden");
 }
-$("btn_gpshelp").onclick=()=>showGpsDiag(null);
+$("btn_viewpos").onclick=()=>{
+  const la=+$("f_lat").value,lo=+$("f_lon").value;
+  if(!la||!lo){toast("尚未获取定位，无法查看");return}
+  document.querySelector('nav button[data-pg="pg-map"]').click();
+  setTimeout(()=>{if(map&&map.centerOn)map.centerOn(la,lo)},80);
+};
 $("gpsmodal_close").onclick=()=>{$("gpsmodal").classList.add("hidden");$("btn_gps").click()};
 $("gpsmodal").onclick=e=>{if(e.target.id==="gpsmodal")$("gpsmodal").classList.add("hidden")};
 $("btn_gps").onclick=()=>{toast("定位中…（无网络也可用）");navigator.geolocation.getCurrentPosition(showPos,gpsErr,{enableHighAccuracy:true,timeout:60000,maximumAge:0})};
@@ -710,14 +715,14 @@ $("samedit_edit").onclick=()=>{
   photos=(s.photos||[]).map(p=>({name:p.name,kind:p.kind,blob:p.blob}));renderThumbs();
   $("assays").innerHTML="";(s.assays||[]).forEach(a=>addAssay(a.element,a.value,a.unit));updateElGrid();
   $("f_lat").disabled=$("f_lon").disabled=false;   // 经纬度可手动修正
-  $("btn_gps").disabled=$("btn_pick").disabled=true; // 定位按钮禁用
+  $("btn_gps").disabled=$("btn_pick").disabled=$("btn_viewpos").disabled=false; // 编辑时仍可查看位置
   $("btn_save").textContent="💾 更新记录（覆盖原记录）";
   document.querySelector('nav button[data-pg="pg-form"]').click();
   toast("编辑模式：编号/时间/坐标锁定，其余可改");
 };
 function exitEdit(){
   if(!editingSample)return;editingSample=null;
-  $("btn_gps").disabled=$("btn_pick").disabled=false;
+  $("btn_gps").disabled=$("btn_pick").disabled=$("btn_viewpos").disabled=false;
   $("btn_save").textContent="💾 保存记录";
 }
 function viewDetail(id,all){
