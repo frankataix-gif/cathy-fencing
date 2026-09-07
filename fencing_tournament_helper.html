@@ -2337,11 +2337,17 @@ function circuitLabel(c) {
 
     function showUpdateBanner(worker) {
       if (document.getElementById('sw-update-banner')) return;
+      const header = document.querySelector('.header');
+      const tabs = document.getElementById('tabs');
+      const headerH = header ? header.offsetHeight : 0;
       const banner = document.createElement('div');
       banner.id = 'sw-update-banner';
       banner.innerHTML = '<span>检测到新版本，一键更新后即可使用最新功能</span><button id="sw-update-btn">立即更新</button>';
       document.body.appendChild(banner);
-      document.body.style.paddingTop = banner.offsetHeight + 'px';
+      const h = banner.offsetHeight;
+      document.body.style.paddingTop = h + 'px';
+      if (header) header.style.top = h + 'px';
+      if (tabs) tabs.style.top = (h + headerH) + 'px';
       document.getElementById('sw-update-btn').addEventListener('click', () => {
         if (worker) {
           worker.postMessage({ action: 'skipWaiting' });
