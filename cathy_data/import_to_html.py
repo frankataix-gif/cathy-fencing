@@ -42,6 +42,18 @@ STATE_COORDS = {
 }
 
 
+def normalize_name(name):
+    """去掉 USA Fencing CSV 名字里附加的实时状态后缀以及多余的 'Tournament'，和 curated 名字对齐。"""
+    if not name:
+        return name
+    n = name.strip()
+    # 去掉结尾的 "Happening now!" / "Tournament begins in N days." / "begins in N days." / "Late registration closes ..." / "Registration opens on ..."
+    n = re.sub(r"\s+(?:Tournament\s+)?(?:Happening now!|begins? in \d+ day(?:s?)\.|Late registration closes?.*?from? now\.|Registration opens? on .*?)\s*$", "", n, flags=re.IGNORECASE)
+    # 去掉 standalone 的 "Tournament" / "Competition" / "Championship" 后缀
+    n = re.sub(r"\s+(?:Tournament|Competition|Championship)\s*$", "", n, flags=re.IGNORECASE)
+    return n.strip()
+
+
 def load_city_coords():
     global CITY_COORDS
     if CACHE.exists():
@@ -211,13 +223,15 @@ def generate_tournaments_from_csv():
             today = datetime.now(timezone.utc).date()
             if end_dt < today:
                 continue
-            circuits = parse_circuits(r["name"])
+            raw_name = r["name"]
+            clean_name = normalize_name(raw_name)
+            circuits = parse_circuits(clean_name)
             # Determine coordinates
             city = r.get("city", r.get("location", "").split(",")[0].strip())
             state = r.get("state", "")
             lat, lng = get_lat_lng(city, state)
-            weapons = parse_weapons(r["name"])
-            ages = parse_age_groups(r["name"], circuits)
+            weapons = parse_weapons(clean_name)
+            ages = parse_age_groups(clean_name, circuits)
             size = infer_size(circuits)
             difficulty = infer_difficulty(circuits)
             status = parse_status(r.get("action", ""))
@@ -227,8 +241,9 @@ def generate_tournaments_from_csv():
             loc_city = loc.split(",")[0].strip() if loc else city
 
             t = {
-                "id": make_id(r["name"], r.get("start", ""), loc_city, state),
-                "name": r["name"].strip(),
+                # id 仍用 raw name，以兼容已缓存的 entry_counts.json 键
+                "id": make_id(raw_name, r.get("start", ""), loc_city, state),
+                "name": clean_name,
                 "start": r.get("start", ""),
                 "end": r.get("end", "") or r.get("start", ""),
                 "city": loc_city,
@@ -304,28 +319,63 @@ def obj_to_str(obj):
 
 
 def merge(existing, imported):
+    # 先按完整四元组建立索引
     seen = {}
+    by_id = {}
     for e in existing:
+        by_id[e.get("id")] = e
         key = (e.get("name"), e.get("start"), e.get("city"), e.get("state"))
         seen[key] = e
     for t in imported:
-        # Use name+start+city+state to dedup
+        # 同 id 优先：旧 imported 记录名字带后缀，新 imported 同名但名字清洗过
+        if t["id"] in by_id:
+            old = by_id[t["id"]]
+            old["name"] = t["name"]
+            _merge_into(old, t)
+            continue
+        # 完整四元组匹配
         key = (t["name"], t["start"], t["city"], t["state"])
         if key in seen:
-            # update coords/status if new data looks more complete
             old = seen[key]
-            if old.get("lat") == 0 and t["lat"]:
-                old["lat"] = t["lat"]
-                old["lng"] = t["lng"]
-            if old.get("status") in ("not_yet_open", "open") and t["status"] in ("late", "closed"):
-                old["status"] = t["status"]
-            if not old.get("url") and t.get("url"):
-                old["url"] = t["url"]
+            _merge_into(old, t)
             continue
         seen[key] = t
-    merged = list(seen.values())
+        by_id[t["id"]] = t
+
+    # 二次合并：按 名字+开始+州 兜底，把重复的城市记录合并
+    # 以没有 url（curated）/推荐/已有 cathy_entries 的记录为底
+    groups = {}
+    for e in seen.values():
+        fkey = (e.get("name"), e.get("start"), e.get("state"))
+        groups.setdefault(fkey, []).append(e)
+
+    merged = []
+    for items in groups.values():
+        def score(e):
+            return (not e.get("url"), e.get("recommended", False), bool(e.get("cathy_entries")), e.get("lat") != 0)
+        base = max(items, key=score)
+        for other in items:
+            if other is base:
+                continue
+            _merge_into(base, other)
+        merged.append(base)
+
     merged.sort(key=lambda x: x["start"])
     return merged
+
+
+def _merge_into(old, t):
+    # update coords/status if new data looks more complete
+    if old.get("lat") == 0 and t["lat"]:
+        old["lat"] = t["lat"]
+        old["lng"] = t["lng"]
+    if old.get("status") in ("not_yet_open", "open") and t["status"] in ("late", "closed"):
+        old["status"] = t["status"]
+    if not old.get("url") and t.get("url"):
+        old["url"] = t["url"]
+    if t.get("cathy_entries"):
+        old["cathy_entries"] = t["cathy_entries"]
+
 
 
 def update_html(merged):
@@ -352,10 +402,14 @@ def main():
         return
     html = HTML.read_text(encoding="utf-8")
     existing = extract_existing_tournaments(html)
+    # 把已有记录的名字也做一次清洗，方便和 imported 合并
+    for e in existing:
+        e["name"] = normalize_name(e.get("name", ""))
     imported = generate_tournaments_from_csv()
     print(f"Found {len(imported)} current/upcoming tournaments from CSV")
+    # 先给 imported 挂上 cathy_entries，再 merge，这样 curated 能继承
+    attach_cathy_entries(imported)
     merged = merge(existing, imported)
-    attach_cathy_entries(merged)
     update_html(merged)
     save_city_coords()
 
