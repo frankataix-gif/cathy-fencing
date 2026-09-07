@@ -220,10 +220,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-57</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-58</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-57</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-58</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1094,22 +1094,36 @@ async function updTrk(){
     $("btn_trk").textContent="▶ 开始新的行程";$("btn_trk").className="btn primary block";
   }
 }
+let lastFixT=0,watchStartT=0;
+function restartWatch(){if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;startWatch()}
 function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提示
+  watchStartT=Date.now();
   trackWatch=navigator.geolocation.watchPosition(async p=>{
-    lastPos=p;
+    lastPos=p;lastFixT=Date.now();
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
     if(p.coords.accuracy&&p.coords.accuracy>50)return; // 精度太差的点不记
     const th=TRK_TH[trackMode]||TRK_TH.car;
     const ok=!lastTP||(t-lastTP.t>=th.s&&hav(lastTP.lat,lastTP.lon,lat,lon)>th.m)||t-lastTP.t>=30000;
     if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null,m:trackMode});lastTP={t,lat,lon}}
     if(map)map.draw();
-  },e=>{if(!startWatch._e){startWatch._e=1;toast("定位失败："+(e.message||"请检查定位权限"))}}, {enableHighAccuracy:true});
+  },e=>{
+    if(!startWatch._e){startWatch._e=1;toast("定位失败："+(e.message||"请检查定位权限"))}
+    setTimeout(()=>{if(trackWatch)restartWatch()},10000); // 出错后尝试重启监听
+  }, {enableHighAccuracy:true});
 }
+// 看门狗：安卓/iOS 省电会静默掐掉 watch（状态仍显示记录中但没回调）
+// 页面可见时，距上次定位回报超过 45 秒就重启监听
+setInterval(async()=>{
+  if(document.hidden)return;
+  const on=trackWatch||await store.get("track_on");
+  if(!on)return;
+  const last=lastFixT||watchStartT;
+  if(Date.now()-last>45000)restartWatch();
+},15000);
 // iOS 切后台再回来 watchPosition 会静默失效：回前台时重启监听
 document.addEventListener("visibilitychange",async()=>{
   if(document.visibilityState==="visible"&&(trackWatch||await store.get("track_on"))){
-    if(trackWatch)navigator.geolocation.clearWatch(trackWatch);
-    trackWatch=null;startWatch();if(map)map.draw();
+    restartWatch();if(map)map.draw();
   }
 });
 async function toggleTrack(){
