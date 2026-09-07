@@ -306,7 +306,7 @@
     <div class="tournament-body" style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
       <div id="list-panel" style="flex:2; min-width:300px;">
         <div class="filters">
-          <div class="filter-row"><span class="filter-label">报名状态 / Reg</span><div class="filter-options" id="reg-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">赛事筛选 / Filter</span><div class="filter-options" id="reg-filters"></div></div>
           <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
           <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
           <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
@@ -1416,11 +1416,28 @@ function circuitLabel(c) {
         chip.dataset.value = opt.value !== undefined ? String(opt.value) : String(opt.max);
       }
       chip.addEventListener('click', () => {
-        Array.from(container.children).forEach(c => c.classList.remove('active'));
-        chip.classList.add('active');
-        if (type === 'distance') activeFilters.distance = parseFloat(chip.dataset.value);
-        else if (chip.dataset.value === '全部' || chip.dataset.value === 'all') activeFilters[type] = null;
-        else activeFilters[type] = chip.dataset.value;
+        const val = chip.dataset.value;
+        const isAll = val === '全部' || val === 'all' || (type === 'distance' && parseFloat(val) === Infinity);
+        const allChip = container.children[0];
+        if (isAll) {
+          Array.from(container.children).forEach(c => c.classList.remove('active'));
+          chip.classList.add('active');
+          activeFilters[type] = [];
+        } else {
+          chip.classList.toggle('active');
+          if (allChip) allChip.classList.remove('active');
+          const active = Array.from(container.children).filter(c => c.classList.contains('active') && c !== allChip);
+          if (active.length === 0) {
+            if (allChip) allChip.classList.add('active');
+            activeFilters[type] = [];
+          } else {
+            activeFilters[type] = active.map(c => {
+              const v = c.dataset.value;
+              if (type === 'distance') return parseFloat(v);
+              return v;
+            });
+          }
+        }
         currentPage = 1;
         renderResults();
       });
@@ -1454,33 +1471,33 @@ function circuitLabel(c) {
     createChips(document.getElementById('age-filters'), ages, 'age');
     createChips(document.getElementById('circuit-filters'), circuits, 'circuit');
     createChips(document.getElementById('distance-filters'), distances, 'distance', 'label');
-    activeFilters = { reg: null, region: null, age: null, circuit: null, distance: Infinity };
+    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [] };
+  }
+
+  function matchesReg(t, reg) {
+    const rs = t.reg_status;
+    if (reg === '推荐Cathy') return !!t.cathy_recommended;
+    if (reg === '未报名') return rs !== 'registered' && rs !== 'watching';
+    if (reg === '已报名') return rs === 'registered';
+    if (reg === '关注赛事') return rs === 'watching';
+    return true;
   }
 
   function matches(t) {
-    const rs = t.reg_status;
-    if (activeFilters.reg) {
-      if (activeFilters.reg === '推荐Cathy' && !t.cathy_recommended) return false;
-      if (activeFilters.reg === '未报名' && (rs === 'registered' || rs === 'watching')) return false;
-      if (activeFilters.reg === '已报名' && rs !== 'registered') return false;
-      if (activeFilters.reg === '关注赛事' && rs !== 'watching') return false;
+    if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
+    if (activeFilters.region.length && !activeFilters.region.includes(t.region)) return false;
+    if (activeFilters.age.length && !activeFilters.age.some(a => t.age_groups.includes(a))) return false;
+    if (activeFilters.circuit.length && !activeFilters.circuit.some(c => t.circuits.includes(c))) return false;
+    if (activeFilters.distance.length) {
+      const maxDist = Math.max(...activeFilters.distance);
+      if (t.distance_km > maxDist) return false;
     }
-    if (activeFilters.region && activeFilters.region !== t.region) return false;
-    if (activeFilters.age && !t.age_groups.includes(activeFilters.age)) return false;
-    if (activeFilters.circuit && !t.circuits.includes(activeFilters.circuit)) return false;
-    if (t.distance_km > activeFilters.distance) return false;
     if (!t.weapons.includes(CATHY.weapon)) return false; // default Foil
     return true;
   }
 
   function mapMatches(t) {
-    const rs = t.reg_status;
-    if (activeFilters.reg) {
-      if (activeFilters.reg === '推荐Cathy' && !t.cathy_recommended) return false;
-      if (activeFilters.reg === '未报名' && (rs === 'registered' || rs === 'watching')) return false;
-      if (activeFilters.reg === '已报名' && rs !== 'registered') return false;
-      if (activeFilters.reg === '关注赛事' && rs !== 'watching') return false;
-    }
+    if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (!t.weapons.includes(CATHY.weapon)) return false;
     return true;
   }
@@ -1488,7 +1505,7 @@ function circuitLabel(c) {
   function updateMapPrompt() {
     const prompt = document.getElementById('map-prompt');
     if (!prompt) return;
-    const main = activeFilters.reg || '全部';
+    const main = activeFilters.reg.length ? activeFilters.reg.join('+') : '全部';
     const secondary = { region: 'Region', circuit: '赛事级别 Circuit' }[mapColorDim] || mapColorDim;
     prompt.textContent = `按 ${main} + ${secondary} 显示赛事地图`;
   }
@@ -1648,7 +1665,7 @@ function circuitLabel(c) {
   }
 
   function updateMapPrimaryUI() {
-    const value = activeFilters.reg || '全部';
+    const value = activeFilters.reg.length ? activeFilters.reg[0] : '全部';
     document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
       b.className = 'btn' + (b.dataset.pv === value ? '' : ' secondary');
     });
@@ -1662,7 +1679,7 @@ function circuitLabel(c) {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
 
     function setMapPrimary(value) {
-      activeFilters.reg = value === '全部' ? null : value;
+      activeFilters.reg = value === '全部' ? [] : [value];
       document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
         b.className = 'btn' + (b.dataset.pv === (value || '全部') ? '' : ' secondary');
       });
@@ -1682,7 +1699,7 @@ function circuitLabel(c) {
     primaryBtns.forEach(btn => {
       btn.addEventListener('click', () => setMapPrimary(btn.dataset.pv));
     });
-    setMapPrimary(activeFilters.reg || '全部');
+    setMapPrimary(activeFilters.reg.length ? activeFilters.reg[0] : '全部');
 
     const colorBtns = document.querySelectorAll('#map-color button[data-dim]');
     colorBtns.forEach(btn => {
