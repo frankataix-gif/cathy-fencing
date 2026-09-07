@@ -256,15 +256,19 @@
     .badge-future { background:#eff6ff; color:#1d4ed8; }
     #sw-update-banner {
       position: fixed; top: 0; left: 0; right: 0; z-index: 100001;
-      background: var(--primary); color: white;
-      padding: 12px 16px; text-align: center; font-size: 0.9rem;
+      background: #000000; color: #ffffff;
+      padding: 14px 16px; text-align: center; font-size: 1rem;
       display: flex; justify-content: center; align-items: center; gap: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      font-weight: 600;
     }
     #sw-update-banner button {
-      background: white; color: var(--primary); border: none;
-      padding: 6px 14px; border-radius: 20px; font-weight: 600;
-      cursor: pointer; font-size: 0.85rem;
+      background: #ffffff; color: #000000; border: none;
+      padding: 8px 16px; border-radius: 20px; font-weight: 700;
+      cursor: pointer; font-size: 0.9rem;
+    }
+    #sw-update-banner button:disabled {
+      opacity: 0.7; cursor: wait;
     }
   </style>
 </head>
@@ -2335,6 +2339,13 @@ function circuitLabel(c) {
     let refreshing = false;
     let newWorker = null;
 
+    function doReload() {
+      if (!refreshing) {
+        refreshing = true;
+        window.location.reload();
+      }
+    }
+
     function showUpdateBanner(worker) {
       if (document.getElementById('sw-update-banner')) return;
       const header = document.querySelector('.header');
@@ -2342,18 +2353,21 @@ function circuitLabel(c) {
       const headerH = header ? header.offsetHeight : 0;
       const banner = document.createElement('div');
       banner.id = 'sw-update-banner';
-      banner.innerHTML = '<span>检测到新版本，一键更新后即可使用最新功能</span><button id="sw-update-btn">立即更新</button>';
+      banner.innerHTML = '<span>检测到新版本，点“立即更新”使用最新功能</span><button id="sw-update-btn">立即更新</button>';
       document.body.appendChild(banner);
       const h = banner.offsetHeight;
       document.body.style.paddingTop = h + 'px';
       if (header) header.style.top = h + 'px';
       if (tabs) tabs.style.top = (h + headerH) + 'px';
-      document.getElementById('sw-update-btn').addEventListener('click', () => {
+      const btn = document.getElementById('sw-update-btn');
+      btn.addEventListener('click', () => {
+        btn.disabled = true;
+        btn.textContent = '更新中…';
         if (worker) {
           worker.postMessage({ action: 'skipWaiting' });
-        } else {
-          window.location.reload();
         }
+        // 如果 Service Worker 没触发 controllerchange，2 秒后兜底刷新
+        setTimeout(doReload, 2000);
       });
     }
 
@@ -2372,12 +2386,7 @@ function circuitLabel(c) {
       }
     }).catch(() => {});
 
-    navigator.serviceWorker.addEventListener('controllerchange', () => {
-      if (!refreshing) {
-        refreshing = true;
-        window.location.reload();
-      }
-    });
+    navigator.serviceWorker.addEventListener('controllerchange', doReload);
   }
 
   initServiceWorker();
