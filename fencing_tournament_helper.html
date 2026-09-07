@@ -1571,8 +1571,8 @@ function circuitLabel(c) {
     pageList.forEach(t => {
       const card = document.createElement('div');
       card.className = 'card';
-      const st = STATUS_LABELS[t.status];
-      const diff = DIFFICULTY_LABELS[t.difficulty];
+      const st = STATUS_LABELS[t.status] || STATUS_LABELS.not_yet_open;
+      const diff = DIFFICULTY_LABELS[t.difficulty] || DIFFICULTY_LABELS.intermediate;
       const cathyTag = t.cathy_recommended ? `<span class="tag cathy" title="${t.recommend_reason}">推荐Cathy · ${t.recommend_reason}</span>` : '';
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
       const farTag = t.distance_km > 1000 ? `<span class="tag far">远 / ${t.distance_km}km</span>` : `<span class="tag">~${t.distance_km}km</span>`;
@@ -1592,9 +1592,9 @@ function circuitLabel(c) {
           ${cathyTag}
           <span class="tag ${diff.class || ''}">${diff.text}</span>
           <span class="tag">Region ${t.region}</span>
-          <span class="tag">${t.circuits.map(circuitLabel).join(', ')}</span>
-          <span class="tag">${t.age_groups.join(', ')}</span>
-          <span class="tag">${SIZE_LABELS[t.size]}</span>
+          <span class="tag">${(t.circuits || []).map(circuitLabel).join(', ')}</span>
+          <span class="tag">${(t.age_groups || []).join(', ')}</span>
+          <span class="tag">${SIZE_LABELS[t.size] || t.size || ''}</span>
         </div>
         <div class="details" style="${closedStyle}">
           <div style="display:flex; gap:8px; flex-wrap:wrap;">
