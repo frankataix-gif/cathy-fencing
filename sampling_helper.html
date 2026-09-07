@@ -178,6 +178,10 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="big" id="trk_state">未记录</div>
         <div class="gps-acc" id="trk_info">点下方按钮开始记录行程轨迹</div>
       </div>
+      <div class="row" style="margin-bottom:8px">
+        <button class="btn secondary" id="trk_mode_car" style="flex:1">🚗 行车模式</button>
+        <button class="btn secondary" id="trk_mode_walk" style="flex:1">🚶 步行模式</button>
+      </div>
       <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始新的行程</button>
       <p style="font-size:13px;color:var(--muted);margin-top:8px">一次行程 = 一段独立旅行：开始→记录轨迹→结束存档。与样品无关。中途关掉页面会自动续录。</p>
     </div>
@@ -216,10 +220,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-54</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-55</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-54</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-55</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1049,8 +1053,16 @@ function initMap(){
   $("mdl").onclick=openDl;
   setTimeout(resumeDl,1500); // 有未完成下载则自动续传
 }
-/* ---- 轨迹记录：间隔≥5s 且 位移>3m 才存点；精度差>50m 的点丢弃 ---- */
-let trackWatch=null,lastTP=null;
+/* ---- 轨迹记录：行车 10m/5s，步行 2m/3s；精度差>50m 的点丢弃 ---- */
+let trackWatch=null,lastTP=null,trackMode="car";
+const TRK_TH={car:{m:10,s:5000},walk:{m:2,s:3000}};
+async function setTrackMode(m){
+  trackMode=m;await store.set("track_mode",m);
+  $("trk_mode_car").className="btn "+(m==="car"?"primary":"secondary");
+  $("trk_mode_walk").className="btn "+(m==="walk"?"primary":"secondary");
+}
+$("trk_mode_car").onclick=()=>setTrackMode("car");
+$("trk_mode_walk").onclick=()=>setTrackMode("walk");
 function hav(a,b,c,d){const R=6371e3,r=Math.PI/180;
   const h=Math.sin((c-a)*r/2)**2+Math.cos(a*r)*Math.cos(c*r)*Math.sin((d-b)*r/2)**2;
   return 2*R*Math.asin(Math.sqrt(h))}
@@ -1061,7 +1073,7 @@ async function updTrk(){
   const on=!!trackWatch||await store.get("track_on");
   if(on){
     const t0=await store.get("trip_t0"),name=await store.get("trip_name");
-    $("trk_state").textContent="● 记录中 — "+(name||"行程");
+    $("trk_state").textContent="● 记录中 — "+(name||"行程")+(trackMode==="walk"?"（步行）":"（行车）");
     $("trk_state").style.color="#166534";
     $("trk_info").textContent=`开始 ${t0?new Date(t0).toLocaleTimeString():"--"} · 已走 ${(trkDist(trackCache)/1000).toFixed(2)} km · 用时 ${fmtDur(Date.now()-(t0||Date.now()))}`;
     $("btn_trk").textContent="■ 结束本次行程";$("btn_trk").className="btn danger block";
@@ -1076,7 +1088,8 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
     lastPos=p;
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
     if(p.coords.accuracy&&p.coords.accuracy>50)return; // 精度太差的点不记
-    const ok=!lastTP||(t-lastTP.t>=5000&&hav(lastTP.lat,lastTP.lon,lat,lon)>3)||t-lastTP.t>=30000;
+    const th=TRK_TH[trackMode]||TRK_TH.car;
+    const ok=!lastTP||(t-lastTP.t>=th.s&&hav(lastTP.lat,lastTP.lon,lat,lon)>th.m)||t-lastTP.t>=30000;
     if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
     if(map)map.draw();
   },e=>{if(!startWatch._e){startWatch._e=1;toast("定位失败："+(e.message||"请检查定位权限"))}}, {enableHighAccuracy:true});
@@ -1247,6 +1260,7 @@ if("serviceWorker" in navigator&&location.protocol==="https:"){
 
 /* ============ 启动 ============ */
 loadSet();resetForm();refreshPend();refreshSampleCache();TR.load();setTimeout(resumeTrack,800);
+store.get("track_mode").then(m=>setTrackMode(m==="walk"?"walk":"car"));
 // 本机存储可用性检测（iOS 无痕/隐私模式会禁 IndexedDB）
 S.all().then(()=>{}).catch(()=>toast("⚠️ 本机存储不可用：请关闭无痕/隐私模式，用普通浏览器打开，否则记录无法保存",6000));
 // 刷新后回到上次停留的页面
