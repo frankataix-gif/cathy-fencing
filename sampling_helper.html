@@ -179,8 +179,8 @@ progress{width:100%;height:10px;margin-top:8px}
         <div class="gps-acc" id="trk_info">点下方按钮开始记录行程轨迹</div>
       </div>
       <div class="row" style="margin-bottom:8px">
-        <button class="btn secondary" id="trk_mode_car" style="flex:1">🚗 行车模式</button>
-        <button class="btn secondary" id="trk_mode_walk" style="flex:1">🚶 步行模式</button>
+        <button class="btn secondary" id="trk_mode_car" style="flex:1">🚗 行车 <span style="color:#f59e0b">━</span></button>
+        <button class="btn secondary" id="trk_mode_walk" style="flex:1">🚶 步行 <span style="color:#0ea5e9">━</span></button>
       </div>
       <button class="btn primary block" id="btn_trk" style="font-size:17px">▶ 开始新的行程</button>
       <p style="font-size:13px;color:var(--muted);margin-top:8px">一次行程 = 一段独立旅行：开始→记录轨迹→结束存档。与样品无关。中途关掉页面会自动续录。</p>
@@ -220,10 +220,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-55</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-56</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-55</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-56</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -949,16 +949,26 @@ function initMap(){
       if(px<-20||py<-20||px>w+20||py>h+20)continue;
       ctx.beginPath();ctx.arc(px,py,7,0,7);ctx.fillStyle=s.status==="synced"?"#22c55e":"#ef4444";ctx.fill();ctx.lineWidth=2;ctx.strokeStyle="#fff";ctx.stroke();
       ctx.fillStyle="#0f172a";ctx.font="11px sans-serif";ctx.fillText(s.sample_id,px+9,py+4);}
-    // 轨迹线（间隔>30分钟自动断段）
-    const tps=trackCache.slice().sort((a,b)=>a.t-b.t);
-    if(tps.length){ctx.strokeStyle="#f59e0b";ctx.lineWidth=2.5;ctx.beginPath();let prevT=0;
-      for(const p of tps){const[qx,qy]=map.toPx(p.lat,p.lon);
-        if(!prevT||p.t-prevT>30*60*1000)ctx.moveTo(qx,qy);else ctx.lineTo(qx,qy);prevT=p.t}
-      ctx.stroke()}
-    // 回放的历史行程（紫色）
-    if(viewTrip&&viewTrip.length){ctx.strokeStyle="#8b5cf6";ctx.lineWidth=3;ctx.setLineDash([8,4]);ctx.beginPath();
-      viewTrip.forEach((p,i)=>{const[qx,qy]=map.toPx(p.lat,p.lon);i?ctx.lineTo(qx,qy):ctx.moveTo(qx,qy)});
-      ctx.stroke();ctx.setLineDash([])}
+    // 轨迹线：按记录模式分段上色（行车橙/步行蓝），切换点标黑圆点，间隔>30分钟断段
+    const trkColor=m=>m==="walk"?"#0ea5e9":"#f59e0b";
+    const drawTrack=(pts,dash)=>{
+      const p=(pts||[]).slice().sort((a,b)=>a.t-b.t);if(!p.length)return;
+      ctx.lineWidth=dash?3:2.5;if(dash)ctx.setLineDash([8,4]);
+      ctx.strokeStyle=trkColor(p[0].m);ctx.beginPath();let prev=null;
+      for(const q of p){const[qx,qy]=map.toPx(q.lat,q.lon);
+        const gap=prev&&q.t-prev.t>30*60*1000,sw=prev&&(q.m||"car")!==(prev.m||"car");
+        if(!prev||gap)ctx.moveTo(qx,qy);
+        else if(sw){ctx.stroke();ctx.beginPath();ctx.strokeStyle=trkColor(q.m);
+          ctx.moveTo(prev._x,prev._y);ctx.lineTo(qx,qy);ctx.stroke(); // 先画出换色小段
+          ctx.save();ctx.setLineDash([]);ctx.beginPath();ctx.arc(qx,qy,4,0,7);
+          ctx.fillStyle="#0f172a";ctx.fill();ctx.strokeStyle="#fff";ctx.lineWidth=1.5;ctx.stroke();ctx.restore();
+          if(dash)ctx.setLineDash([8,4]);ctx.beginPath();ctx.moveTo(qx,qy)}
+        else ctx.lineTo(qx,qy);
+        prev={...q,_x:qx,_y:qy}}
+      ctx.stroke();ctx.setLineDash([]);
+    };
+    drawTrack(trackCache,false);           // 当前行程
+    if(viewTrip&&viewTrip.length)drawTrack(viewTrip,true); // 回放行程（虚线）
     // 当前位置
     if(lastPos){const[px,py]=map.toPx(lastPos.coords.latitude,lastPos.coords.longitude);
       ctx.beginPath();ctx.arc(px,py,8,0,7);ctx.fillStyle="rgba(22,104,220,.25)";ctx.fill();
@@ -1090,7 +1100,7 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
     if(p.coords.accuracy&&p.coords.accuracy>50)return; // 精度太差的点不记
     const th=TRK_TH[trackMode]||TRK_TH.car;
     const ok=!lastTP||(t-lastTP.t>=th.s&&hav(lastTP.lat,lastTP.lon,lat,lon)>th.m)||t-lastTP.t>=30000;
-    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
+    if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null,m:trackMode});lastTP={t,lat,lon}}
     if(map)map.draw();
   },e=>{if(!startWatch._e){startWatch._e=1;toast("定位失败："+(e.message||"请检查定位权限"))}}, {enableHighAccuracy:true});
 }
