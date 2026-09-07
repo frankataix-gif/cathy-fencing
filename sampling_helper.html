@@ -7,7 +7,12 @@
 <title>跳转中...</title>
 <script>
   if('serviceWorker' in navigator){
-    navigator.serviceWorker.getRegistrations().then(function(rs){rs.forEach(function(r){r.unregister();});});
+    navigator.serviceWorker.getRegistrations().then(function(rs){
+      rs.forEach(function(r){
+        var sw=r.active||r.installing||r.waiting;
+        if(sw&&sw.scriptURL.endsWith('/sampling_sw.js')&&!sw.scriptURL.endsWith('/sampling/sampling_sw.js')) r.unregister();
+      });
+    });
   }
   location.replace('sampling/sampling_helper.html');
 </script>
