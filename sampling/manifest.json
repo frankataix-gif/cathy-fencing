@@ -2,7 +2,7 @@
   "name": "ECOBOX 样品记录",
   "short_name": "样品记录",
   "description": "矿区野外取样、GPS 轨迹、离线地图与导出工具",
-  "start_url": ".",
+  "start_url": "sampling_helper.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4f6f9",
