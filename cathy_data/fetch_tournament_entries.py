@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Fetch per-event entrant counts from USA Fencing tournament detail pages.
-Only counts events relevant to Cathy: Y12 Women Foil (Y12WF), Y14 Women Foil (Y14WF),
+Fetch per-event entrant counts and names from USA Fencing tournament detail pages.
+Only events relevant to Cathy: Y12 Women Foil (Y12WF), Y14 Women Foil (Y14WF),
 Cadet Women Foil (CDTWF).
 
 Reads TOURNAMENTS from fencing_tournament_helper.html, writes/updates entry_counts.json cache.
@@ -29,7 +29,7 @@ HTML = BASE / "fencing_tournament_helper.html"
 CACHE = BASE / "cathy_data" / "entry_counts.json"
 
 TARGET_CODES = {"Y12WF", "Y14WF", "CDTWF"}
-REQUEST_DELAY = 0.2
+REQUEST_DELAY = 0.25
 
 
 def extract_tournaments_from_html(html_path):
@@ -69,14 +69,32 @@ def save_cache(cache):
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def parse_event_counts(text):
-    """Parse a detail page and return {code: count} for target women foil events."""
+def fetch(url, is_json=False):
     try:
-        doc = lh.fromstring(text)
+        resp = requests.get(url, timeout=30, headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            )
+        })
+        resp.raise_for_status()
+        if is_json:
+            return resp.json()
+        return resp.text
+    except Exception as e:
+        print(f"ERROR fetching {url}: {e}", file=sys.stderr)
+        return None
+
+
+def parse_event_info(detail_html):
+    """Parse a detail page and return {code: {count, event_id}} for target events."""
+    try:
+        doc = lh.fromstring(detail_html)
     except Exception:
         return None
     events = doc.xpath('//div[contains(@class, "contested-event")]')
-    counts = {code: 0 for code in TARGET_CODES}
+    info = {}
     found_any = False
     for ev in events:
         name_nodes = ev.xpath('.//span[@class="name"]/text()')
@@ -94,28 +112,72 @@ def parse_event_counts(text):
             count = int(count_nodes[0].strip())
         except Exception:
             continue
-        counts[code] += count
+        # event_id from the contested-event div, fallback to the view-entrants button
+        event_id = ev.get("data-event_id")
+        if not event_id:
+            btn = ev.xpath('.//a[contains(@class, "js-evt-viewEntrants")]')
+            if btn:
+                event_id = btn[0].get("data-event_id")
+        info[code] = {"count": count, "event_id": event_id}
         found_any = True
     if not found_any:
-        # Page may not list the events yet, but we still return zero counts
-        return counts
-    return counts
+        return {code: {"count": 0, "event_id": None} for code in TARGET_CODES}
+    # ensure all target codes present
+    for code in TARGET_CODES:
+        if code not in info:
+            info[code] = {"count": 0, "event_id": None}
+    return info
 
 
-def fetch_detail(url):
+def parse_entrant_names(entrants_table_html):
+    """Parse the entrants table HTML and return a list of {name, club, division, member_num, status}."""
     try:
-        resp = requests.get(url, timeout=30, headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/120.0.0.0 Safari/537.36"
-            )
+        doc = lh.fromstring(entrants_table_html)
+    except Exception:
+        return []
+    rows = doc.xpath("//tbody/tr")
+    names = []
+    for tr in rows:
+        name_nodes = tr.xpath('.//h4[contains(@class, "thin")]/text()')
+        if not name_nodes:
+            continue
+        name = " ".join(name_nodes[0].split())
+        club = tr.get("data-club", "")
+        division = tr.get("data-division", "")
+        member_num = ""
+        status = ""
+        # the small text in the third column: #123456\nApproved
+        smalls = tr.xpath('.//small[@class="text-muted"]/text()')
+        for txt in smalls:
+            txt = txt.strip()
+            if not txt:
+                continue
+            if txt.startswith('#') or '\n' in txt:
+                if '\n' in txt:
+                    member_num, status = txt.split('\n', 1)
+                    status = status.strip()
+                else:
+                    member_num = txt
+                break
+        member_num = member_num.replace('#', '').strip()
+        names.append({
+            "name": name,
+            "club": club,
+            "division": division,
+            "member_num": member_num,
+            "status": status,
         })
-        resp.raise_for_status()
-        return resp.text
-    except Exception as e:
-        print(f"ERROR fetching {url}: {e}", file=sys.stderr)
-        return None
+    return names
+
+
+def fetch_entrant_names(base_url, event_id):
+    if not base_url or not event_id:
+        return []
+    eurl = f"{base_url}/entrants?event_id={event_id}"
+    data = fetch(eurl, is_json=True)
+    if not data or not isinstance(data, dict):
+        return []
+    return parse_entrant_names(data.get("entrants_table", ""))
 
 
 def process_tournament(t, cache, ttl_hours, force):
@@ -135,23 +197,37 @@ def process_tournament(t, cache, ttl_hours, force):
             except Exception:
                 pass
     time.sleep(REQUEST_DELAY)
-    html = fetch_detail(url)
-    if html is None:
+    detail_html = fetch(url)
+    if detail_html is None:
         return tid, None
-    counts = parse_event_counts(html)
-    if counts is None:
+    info = parse_event_info(detail_html)
+    if info is None:
         return tid, None
+
+    base_url = url.rstrip("/")
+    counts = {}
+    names = {}
+    for code in TARGET_CODES:
+        counts[code] = info[code]["count"]
+        # fetch names only if there are entrants and we have an event_id
+        if info[code]["count"] > 0 and info[code]["event_id"]:
+            names[code] = fetch_entrant_names(base_url, info[code]["event_id"])
+            time.sleep(0.1)
+        else:
+            names[code] = []
+
     total = sum(counts.values())
     entry = {
         "fetched_at": now.isoformat().replace("+00:00", "Z"),
         "counts": counts,
+        "names": names,
         "total": total,
     }
     return tid, entry
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Fetch tournament entry counts for Cathy")
+    parser = argparse.ArgumentParser(description="Fetch tournament entry counts and names for Cathy")
     parser.add_argument("--ttl", type=int, default=24, help="Cache TTL in hours")
     parser.add_argument("--workers", type=int, default=8, help="Concurrent fetch workers")
     parser.add_argument("--force", action="store_true", help="Force refetch all")

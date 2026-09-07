@@ -30,6 +30,14 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
+  // 报名名单数据文件每次都从网络取，避免显示旧名单
+  if (url.pathname.includes('cathy_data/entry_counts.json')) {
+    e.respondWith(
+      fetch(e.request, { cache: 'no-store' }).catch(() => caches.match(e.request))
+    );
+    return;
+  }
+
   const isHtml = e.request.mode === 'navigate' || e.request.destination === 'document' || url.pathname.endsWith('.html');
 
   if (isHtml) {
