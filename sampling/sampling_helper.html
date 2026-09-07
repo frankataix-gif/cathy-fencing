@@ -236,10 +236,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-65</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-66</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-65</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-66</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1174,9 +1174,15 @@ function tryBeep(){
   try{
     const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;
     const ac=new AC();const o=ac.createOscillator();const g=ac.createGain();
-    o.type="sine";o.frequency.value=880;g.gain.setValueAtTime(0.08,ac.currentTime);g.gain.exponentialRampToValueAtTime(0.0001,ac.currentTime+0.3);
-    o.connect(g);g.connect(ac.destination);o.start();o.stop(ac.currentTime+0.3);
-    setTimeout(()=>ac.close(),400);
+    o.type="sine";o.frequency.value=1000; // 较高频率更容易听到
+    const now=ac.currentTime;
+    // 0.8 音量，连续 1.2 秒长音，响亮且可识别为警报
+    g.gain.setValueAtTime(0.001,now);
+    g.gain.exponentialRampToValueAtTime(0.8,now+0.05);
+    g.gain.setValueAtTime(0.8,now+1.0);
+    g.gain.exponentialRampToValueAtTime(0.0001,now+1.2);
+    o.connect(g);g.connect(ac.destination);o.start();o.stop(now+1.25);
+    setTimeout(()=>ac.close(),1350);
   }catch(e){}
 }
 // 电量监测：低电量/省电模式会中断 GPS
