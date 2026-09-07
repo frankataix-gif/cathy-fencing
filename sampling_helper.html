@@ -216,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-51</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-52</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-51</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-52</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1044,7 +1044,7 @@ function initMap(){
   $("mdl").onclick=openDl;
   setTimeout(resumeDl,1500); // 有未完成下载则自动续传
 }
-/* ---- 轨迹记录：间隔≥15s 且 位移>10m 才存点 ---- */
+/* ---- 轨迹记录：间隔≥5s 且 位移>3m 才存点；精度差>50m 的点丢弃 ---- */
 let trackWatch=null,lastTP=null;
 function hav(a,b,c,d){const R=6371e3,r=Math.PI/180;
   const h=Math.sin((c-a)*r/2)**2+Math.cos(a*r)*Math.cos(c*r)*Math.sin((d-b)*r/2)**2;
@@ -1070,7 +1070,8 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
   trackWatch=navigator.geolocation.watchPosition(async p=>{
     lastPos=p;
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
-    const ok=!lastTP||(t-lastTP.t>=15000&&hav(lastTP.lat,lastTP.lon,lat,lon)>10)||t-lastTP.t>=60000;
+    if(p.coords.accuracy&&p.coords.accuracy>50)return; // 精度太差的点不记
+    const ok=!lastTP||(t-lastTP.t>=5000&&hav(lastTP.lat,lastTP.lon,lat,lon)>3)||t-lastTP.t>=30000;
     if(ok){await TR.add({t,lat,lon,acc:p.coords.accuracy||null});lastTP={t,lat,lon}}
     if(map)map.draw();
   },e=>{}, {enableHighAccuracy:true});
