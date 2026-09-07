@@ -1203,6 +1203,19 @@ const DIFFICULTY_LABELS = {
   intermediate: { text: '进阶', class: '' },
   advanced: { text: '竞争激烈', class: 'important' }
 };
+
+const CIRCUIT_LABELS = {
+  RYC: 'RYC 区域',
+  SYC: 'SYC 全国',
+  RJCC: 'RJCC 区域青年',
+  ROC: 'ROC 区域',
+  NAC: 'NAC 北美',
+  Local: 'Local 本地'
+};
+
+function circuitLabel(c) {
+  return CIRCUIT_LABELS[c] || c;
+}
 </script>
 <!-- ====== 数据结束 / DATA END ====== -->
 
@@ -1395,8 +1408,13 @@ const DIFFICULTY_LABELS = {
     options.forEach((opt, i) => {
       const chip = document.createElement('div');
       chip.className = 'chip' + (i === 0 ? ' active' : '');
-      chip.textContent = typeof opt === 'string' ? opt : opt[labelKey];
-      chip.dataset.value = typeof opt === 'string' ? opt : String(opt.max);
+      if (typeof opt === 'string') {
+        chip.textContent = opt;
+        chip.dataset.value = opt;
+      } else {
+        chip.textContent = opt[labelKey] || opt.label || String(opt.value);
+        chip.dataset.value = opt.value !== undefined ? String(opt.value) : String(opt.max);
+      }
       chip.addEventListener('click', () => {
         Array.from(container.children).forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
@@ -1414,7 +1432,15 @@ const DIFFICULTY_LABELS = {
     const regs = ['全部','推荐Cathy','未报名','已报名','关注赛事'];
     const regions = ['全部','1','2','3','4','5','6'];
     const ages = ['全部','Y12','Y14','CDT','JNR'];
-    const circuits = ['全部','RYC','SYC','RJCC','ROC','NAC','Local'];
+    const circuits = [
+      { label: '全部', value: '全部' },
+      { label: 'RYC 区域', value: 'RYC' },
+      { label: 'SYC 全国', value: 'SYC' },
+      { label: 'RJCC 区域青年', value: 'RJCC' },
+      { label: 'ROC 区域', value: 'ROC' },
+      { label: 'NAC 北美', value: 'NAC' },
+      { label: 'Local 本地', value: 'Local' }
+    ];
     const distances = [
       { label: '全部', max: Infinity },
       { label: '<100km', max: 100 },
@@ -1549,7 +1575,7 @@ const DIFFICULTY_LABELS = {
           ${cathyTag}
           <span class="tag ${diff.class || ''}">${diff.text}</span>
           <span class="tag">Region ${t.region}</span>
-          <span class="tag">${t.circuits.join(', ')}</span>
+          <span class="tag">${t.circuits.map(circuitLabel).join(', ')}</span>
           <span class="tag">${t.age_groups.join(', ')}</span>
           <span class="tag">${SIZE_LABELS[t.size]}</span>
         </div>
@@ -1689,7 +1715,10 @@ const DIFFICULTY_LABELS = {
   function updateMapLegend() {
     const p = MAP_COLORS[mapColorDim];
     const c = document.getElementById('map-legend');
-    c.innerHTML = Object.entries(p).map(([k,v]) => `<span style="display:inline-flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:${v};"></span>${k}</span>`).join('');
+    c.innerHTML = Object.entries(p).map(([k,v]) => {
+      const label = mapColorDim === 'circuit' ? circuitLabel(k) : k;
+      return `<span style="display:inline-flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:${v};"></span>${label}</span>`;
+    }).join('');
   }
 
   function updateMapMarkers() {
@@ -1702,7 +1731,7 @@ const DIFFICULTY_LABELS = {
     visible.forEach(t => {
       const color = getMarkerColor(t);
       const marker = L.circleMarker([t.lat, t.lng], { radius: 8, color, fillColor: color, fillOpacity: 0.8 }).addTo(map);
-      marker.bindPopup(`<b>${t.name}</b><br>${formatDate(t.start, t.end)}<br>${t.city}, ${t.state} · Region ${t.region}<br>~${t.distance_km}km · ${t.circuits.join(', ')}`);
+      marker.bindPopup(`<b>${t.name}</b><br>${formatDate(t.start, t.end)}<br>${t.city}, ${t.state} · Region ${t.region}<br>~${t.distance_km}km · ${t.circuits.map(circuitLabel).join(', ')}`);
       markers.push(marker);
     });
     const [lat, lng] = CITY_COORDS[currentBase];
