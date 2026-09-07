@@ -1,15 +1,18 @@
 {
-  "name": "何云熙击剑助手",
-  "short_name": "Cathy Fencing",
-  "description": "USA Fencing 赛事助手：赛事列表、地图、日程、报名状态。",
-  "start_url": "./fencing_tournament_helper.html",
-  "scope": "./",
+  "name": "ECOBOX 样品记录",
+  "short_name": "样品记录",
+  "description": "矿区野外取样、GPS 轨迹、离线地图与导出工具",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#2563eb",
-  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1668dc",
   "icons": [
-    { "src": "cathy_avatar.jpg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" },
-    { "src": "cathy_avatar.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
-  ],
-  "lang": "zh-CN"
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }

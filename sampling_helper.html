@@ -4,6 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="theme-color" content="#1668dc">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="样品记录">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.svg">
 <title>ECOBOX 样品记录</title>
 <style>
 :root{--primary:#1668dc;--bg:#f4f6f9;--card:#fff;--text:#1e293b;--muted:#64748b;--border:#e2e8f0;--danger:#ef4444;--ok:#22c55e;--warn:#f59e0b}
@@ -77,6 +83,11 @@ progress{width:100%;height:10px;margin-top:8px}
   <button class="hbtn" id="syncbtn" style="display:none">同步 <span id="pendcnt">0</span></button>
 </header>
 <main>
+  <div class="card hidden" id="pwa_banner" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+    <span style="flex:1;font-size:14px" id="pwa_txt">可将本工具安装到手机主屏幕，离线使用</span>
+    <button class="btn secondary" id="pwa_dismiss" style="padding:8px 12px;font-size:13px">以后</button>
+    <button class="btn primary hidden" id="pwa_install" style="padding:8px 12px;font-size:13px">安装</button>
+  </div>
   <!-- ===== 记录页 ===== -->
   <section id="pg-form">
     <div class="card">
@@ -225,10 +236,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-64</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-65</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-64</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-65</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -833,7 +844,7 @@ $("btn_synctest").onclick=async()=>{
 };
 $("btn_update").onclick=async()=>{
   toast("正在清理缓存并更新…");
-  try{const ks=await caches.keys();await Promise.all(ks.filter(k=>k!==OFFLINE_TILES).map(k=>caches.delete(k)));
+  try{const ks=await caches.keys();await Promise.all(ks.map(k=>caches.delete(k)));
     const rs=await navigator.serviceWorker.getRegistrations();await Promise.all(rs.map(r=>r.unregister()));}catch(e){}
   setTimeout(()=>location.reload(true),400);
 };
@@ -1355,6 +1366,24 @@ $("dlgo").onclick=()=>{ // 当前视野：z0-extra 到 z0+2，上限 z12 建议
 $("dlzambia").onclick=()=>{ // 赞比亚全境 z6–z10
   runDl(bboxJobs(21.5,-18.3,34.3,-7.8,6,10),"赞比亚底图");
 };
+
+/* ============ PWA 安装提示 ============ */
+let deferredPrompt=null;
+const isIOS=/iPad|iPhone|iPod/.test(navigator.userAgent||"");
+const isStandalone=window.matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;
+if(!isStandalone){
+  const banner=$("pwa_banner"),installBtn=$("pwa_install"),txt=$("pwa_txt");
+  if(isIOS){
+    banner.classList.remove("hidden");txt.textContent="Safari：点底部 分享 → 添加到主屏幕，即可像 App 一样使用";installBtn.classList.add("hidden");
+  }
+  addEventListener("beforeinstallprompt",e=>{
+    e.preventDefault();deferredPrompt=e;
+    banner.classList.remove("hidden");installBtn.classList.remove("hidden");
+    installBtn.onclick=()=>{deferredPrompt.prompt();deferredPrompt.userChoice.then(c=>{if(c.outcome==="accepted")banner.classList.add("hidden");deferredPrompt=null;});};
+  });
+  $("pwa_dismiss").onclick=()=>banner.classList.add("hidden");
+  setTimeout(()=>{if(!deferredPrompt&&!isIOS)banner.classList.add("hidden")},12000);
+}
 
 /* ============ Service Worker：缓存页面本体，离线可打开 ============ */
 if("serviceWorker" in navigator&&location.protocol==="https:"){
