@@ -166,7 +166,12 @@ progress{width:100%;height:10px;margin-top:8px}
       </div>
       <div id="mapinfo">拖动移动 · 双指/按钮缩放</div>
       <div id="tilebadge" title="点击查看/下载离线地图" style="position:absolute;left:10px;top:10px;background:rgba(255,255,255,.92);border-radius:8px;padding:5px 10px;font-size:12px;z-index:10;cursor:pointer;max-width:60%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">🗄 离线瓦片 …</div>
-      <div id="picktip" class="hidden" style="position:absolute;top:10px;left:50%;transform:translateX(-50%);background:#fef3c7;color:#92400e;border-radius:8px;padding:6px 14px;font-size:14px;z-index:11;font-weight:600">👆 点按地图选择取样点位置</div>
+      <div id="picktip" class="hidden" style="position:absolute;top:10px;left:50%;transform:translateX(-50%);background:#fef3c7;color:#92400e;border-radius:8px;padding:6px 14px;font-size:14px;z-index:11;font-weight:600">👆 点按地图选择位置，确认后再返回</div>
+      <div id="pickbar" class="hidden" style="position:absolute;bottom:12px;left:50%;transform:translateX(-50%);background:rgba(255,255,255,.96);border-radius:12px;padding:8px 12px;box-shadow:0 2px 10px rgba(0,0,0,.2);z-index:12;display:flex;gap:8px;align-items:center">
+        <span id="picktxt" style="font-size:13px;color:var(--muted);white-space:nowrap">点击地图选择位置</span>
+        <button class="btn secondary" id="pickagain" style="padding:6px 10px;font-size:13px">重新选</button>
+        <button class="btn primary" id="pickok" style="padding:6px 12px;font-size:13px">确认</button>
+      </div>
     </div>
   </section>
 
@@ -220,10 +225,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-60</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-61</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-60</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-61</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -425,7 +430,7 @@ document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{
   document.querySelectorAll("main section").forEach(s=>s.classList.add("hidden"));
   $(b.dataset.pg).classList.remove("hidden");
   store.set("cur_page",b.dataset.pg); // 刷新后回到当前页
-  if(b.dataset.pg!=="pg-map"){pickMode=false;$("picktip").classList.add("hidden")}
+  if(b.dataset.pg!=="pg-map"){pickMode=false;pickPreview=null;if(map)map.draw();$("picktip").classList.add("hidden");$("pickbar").classList.add("hidden")}
   if(b.dataset.pg==="pg-list")renderList();
   if(b.dataset.pg==="pg-track"){updTrk();renderTrips()}
   if(b.dataset.pg==="pg-map")initMap();
@@ -495,11 +500,22 @@ $("btn_gps").onclick=()=>{toast("定位中…（无网络也可用）");navigato
   licAt(la,lo);
 });
 // 地图选点模式
-let pickMode=false;
+let pickMode=false,pickPreview=null;
 $("btn_pick").onclick=()=>{
-  pickMode=true;$("picktip").classList.remove("hidden");
+  pickMode=true;pickPreview=null;$("picktip").classList.remove("hidden");$("pickbar").classList.add("hidden");
   document.querySelector('nav button[data-pg="pg-map"]').click();
 };
+$("pickok").onclick=()=>{
+  if(!pickPreview)return;
+  $("f_lat").value=pickPreview.lat.toFixed(6);$("f_lon").value=pickPreview.lon.toFixed(6);
+  $("gps_text").textContent=`${pickPreview.lat.toFixed(6)}, ${pickPreview.lon.toFixed(6)}`;
+  $("gps_utm").textContent="UTM："+toUTM(pickPreview.lat,pickPreview.lon);
+  $("gps_acc").textContent="地图选点（非GPS实测）";
+  licAt(pickPreview.lat,pickPreview.lon);
+  pickMode=false;pickPreview=null;$("picktip").classList.add("hidden");$("pickbar").classList.add("hidden");if(map)map.draw();
+  document.querySelector('nav button[data-pg="pg-form"]').click();
+};
+$("pickagain").onclick=()=>{pickPreview=null;$("picktxt").textContent="点击地图重新选择";if(map)map.draw();};
 
 /* ============ 含量子表 ============ */
 function usedEls(){return new Set([...document.querySelectorAll(".assay-row")].map(r=>r.querySelector("input").value.trim().toUpperCase()).filter(Boolean))}
@@ -979,6 +995,10 @@ function initMap(){
     if(lastPos){const[px,py]=map.toPx(lastPos.coords.latitude,lastPos.coords.longitude);
       ctx.beginPath();ctx.arc(px,py,8,0,7);ctx.fillStyle="rgba(22,104,220,.25)";ctx.fill();
       ctx.beginPath();ctx.arc(px,py,5,0,7);ctx.fillStyle="#1668dc";ctx.fill();ctx.strokeStyle="#fff";ctx.lineWidth=2;ctx.stroke();}
+    // 地图选点预览：红色十字准星，未确认前可重复点击
+    if(pickPreview){const[px,py]=map.toPx(pickPreview.lat,pickPreview.lon);
+      ctx.beginPath();ctx.arc(px,py,8,0,7);ctx.fillStyle="#dc2626";ctx.fill();ctx.strokeStyle="#fff";ctx.lineWidth=2;ctx.stroke();
+      ctx.beginPath();ctx.moveTo(px-12,py);ctx.lineTo(px+12,py);ctx.moveTo(px,py-12);ctx.lineTo(px,py+12);ctx.strokeStyle="#dc2626";ctx.lineWidth=2;ctx.stroke();}
     const zm=await T.byZoom(),tn=Object.values(zm).reduce((a,b)=>a+b,0);
     $("mapinfo").textContent=`z${z} · 中心 ${y2lat(cy,z).toFixed(4)}, ${x2lon(cx,z).toFixed(4)}`;
     $("tilebadge").textContent=tn>0?`🗄 ${tn}张 ${zoomSummary(zm)}`:"🗄 无离线地图";
@@ -1028,13 +1048,11 @@ function initMap(){
     if(pickMode&&downPt&&Math.hypot(e.clientX-downPt.x,e.clientY-downPt.y)<8){
       const r=cv.getBoundingClientRect();
       const[lat,lon]=map.toLL(e.clientX-r.left,e.clientY-r.top);
-      $("f_lat").value=lat.toFixed(6);$("f_lon").value=lon.toFixed(6);
-      $("gps_text").textContent=`${lat.toFixed(6)}, ${lon.toFixed(6)}`;
-      $("gps_utm").textContent="UTM："+toUTM(lat,lon);
-      $("gps_acc").textContent="地图选点（非GPS实测）";
-      licAt(lat,lon);
-      pickMode=false;$("picktip").classList.add("hidden");
-      document.querySelector('nav button[data-pg="pg-form"]').click();
+      // 先预览，确认后才回填
+      pickPreview={lat,lon};
+      $("picktxt").textContent=`已选 ${lat.toFixed(5)}, ${lon.toFixed(5)}`;
+      $("pickbar").classList.remove("hidden");
+      map.draw();
     }
     drag=null;pinch=null;downPt=null});
   cv.addEventListener("wheel",e=>{e.preventDefault();zoom(e.deltaY<0?0.5:-0.5,e.offsetX,e.offsetY)},{passive:false});
