@@ -506,7 +506,7 @@
 
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
-const DATA_UPDATED = '2026-09-07';
+const DATA_UPDATED = '2026-09-07T18:03:02Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 
 const CATHY = {
@@ -1845,7 +1845,7 @@ function circuitLabel(c) {
   }
 
   function timeAgo(iso) {
-    const d = new Date(iso + 'T00:00:00-07:00');
+    const d = iso.indexOf('T') >= 0 ? new Date(iso) : new Date(iso + 'T00:00:00-07:00');
     const now = new Date();
     const sec = Math.max(0, Math.floor((now - d) / 1000));
     if (sec < 60) return '刚刚';

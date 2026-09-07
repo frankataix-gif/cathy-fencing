@@ -294,8 +294,8 @@ def update_html(merged):
     new_html = re.sub(r"const\s+TOURNAMENTS\s*=\s*\[.*?\];",
                       f"const TOURNAMENTS = [\n{new_array}\n];",
                       html, flags=re.S)
-    # update DATA_UPDATED
-    today = datetime.now(timezone.utc).date().isoformat()
+    # update DATA_UPDATED to full UTC timestamp so timeAgo is accurate
+    today = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     new_html = re.sub(r"const\s+DATA_UPDATED\s*=\s*'[^']*';",
                       f"const DATA_UPDATED = '{today}';",
                       new_html)
