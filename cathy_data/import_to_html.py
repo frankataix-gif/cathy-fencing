@@ -12,11 +12,17 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
+try:
+    import json5
+except Exception:
+    json5 = None
+
 BASE = Path(__file__).parent.parent  # project root
 HTML = BASE / "fencing_tournament_helper.html"
 BAK = BASE / "fencing_tournament_helper.html.bak"
 CSV = BASE / "cathy_data" / "usa_fencing_all_tournaments.csv"
 CACHE = BASE / "cathy_data" / "city_coords.json"
+ENTRY_COUNTS = BASE / "cathy_data" / "entry_counts.json"
 
 # Known city coords cache; will be updated as new cities are found
 CITY_COORDS = {}
@@ -57,6 +63,31 @@ def load_city_coords():
 
 def save_city_coords():
     CACHE.write_text(json.dumps(CITY_COORDS, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_entry_counts():
+    if ENTRY_COUNTS.exists():
+        try:
+            return json.loads(ENTRY_COUNTS.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
+def attach_cathy_entries(merged):
+    counts = load_entry_counts()
+    for t in merged:
+        data = counts.get(t["id"])
+        if not data or not data.get("counts"):
+            t["cathy_entries"] = None
+        else:
+            t["cathy_entries"] = {
+                "total": data.get("total", 0),
+                "y12wf": data["counts"].get("Y12WF", 0),
+                "y14wf": data["counts"].get("Y14WF", 0),
+                "cdtwf": data["counts"].get("CDTWF", 0),
+                "fetched_at": data.get("fetched_at", "")
+            }
 
 
 def get_lat_lng(city, state):
@@ -222,19 +253,28 @@ def generate_tournaments_from_csv():
 
 
 def extract_existing_tournaments(html_text):
-    m = re.search(r"const\s+TOURNAMENTS\s*=\s*\[(.*?)\];", html_text, re.S)
-    if not m:
+    start = html_text.find('const TOURNAMENTS = [')
+    if start < 0:
         raise ValueError("Could not find TOURNAMENTS array in HTML")
-    body = m.group(1)
-    # crude JSON-ish parse: split by object blocks
-    # Each object: { id:'...', ... }
-    objs = re.findall(r"\{[^{}]+\}", body)
+    start += len('const TOURNAMENTS = [')
+    i = start
+    bracket = 1
+    while i < len(html_text) and bracket > 0:
+        c = html_text[i]
+        if c == '[':
+            bracket += 1
+        elif c == ']':
+            bracket -= 1
+        i += 1
+    array_text = html_text[start:i - 1]
+    if json5:
+        return json5.loads('[' + array_text + ']')
+    # Fallback to old regex parser (will fail on nested braces)
+    objs = re.findall(r"\{[^{}]+\}", array_text)
     existing = []
     for s in objs:
         try:
-            # convert key:'val' and key:[...] to JSON-ish
             s_json = re.sub(r"(\w+):", r'"\1":', s)
-            # fix single quotes
             s_json = s_json.replace("'", '"')
             existing.append(json.loads(s_json))
         except Exception:
@@ -247,6 +287,8 @@ def quote(val):
         return json.dumps(val, ensure_ascii=False)
     if isinstance(val, list):
         return "[" + ",".join(quote(v) for v in val) + "]"
+    if isinstance(val, dict):
+        return "{" + ",".join(f'{k}:{quote(v)}' for k, v in val.items()) + "}"
     if isinstance(val, bool):
         return "true" if val else "false"
     if val is None:
@@ -256,7 +298,7 @@ def quote(val):
 
 def obj_to_str(obj):
     fields = ["id", "name", "start", "end", "city", "state", "region", "lat", "lng",
-              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes", "url"]
+              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes", "url", "cathy_entries"]
     parts = [f"{k}:{quote(obj[k])}" for k in fields if k in obj]
     return "  { " + ", ".join(parts) + " }"
 
@@ -313,6 +355,7 @@ def main():
     imported = generate_tournaments_from_csv()
     print(f"Found {len(imported)} current/upcoming tournaments from CSV")
     merged = merge(existing, imported)
+    attach_cathy_entries(merged)
     update_html(merged)
     save_city_coords()
 
