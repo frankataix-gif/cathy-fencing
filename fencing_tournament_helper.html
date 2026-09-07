@@ -1227,7 +1227,7 @@ function circuitLabel(c) {
     return false;
   };
 
-  let activeFilters = { reg: null, region: null, age: null, circuit: null, distance: Infinity };
+  let activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [] };
   let currentBase = CATHY.home;
   let currentPage = 1;
   const PAGE_SIZE = 1000;
