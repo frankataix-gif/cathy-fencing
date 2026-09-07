@@ -216,10 +216,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-53</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-54</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-53</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-54</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -315,6 +315,9 @@ progress{width:100%;height:10px;margin-top:8px}
 const $=id=>document.getElementById(id);
 $("viewer").onclick=e=>{if(e.target.id!=="vimg")$("viewer").classList.add("hidden")};
 const toast=(m,ms=2200)=>{const t=$("toast");t.textContent=m;t.style.opacity=1;clearTimeout(t._t);t._t=setTimeout(()=>t.style.opacity=0,ms)};
+// 全局错误捕获：iOS 上脚本出错时弹提示而不是静默挂掉
+addEventListener("error",e=>{if(e.message)toast("⚠️ "+String(e.message).slice(0,80),5000)});
+addEventListener("unhandledrejection",e=>{const m=e.reason&&(e.reason.message||e.reason);if(m)toast("⚠️ "+String(m).slice(0,80),5000)});
 const pad=n=>String(n).padStart(2,"0");
 const nowLocal=()=>{const d=new Date();return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`};
 /* WGS84 → UTM */
