@@ -172,6 +172,7 @@ progress{width:100%;height:10px;margin-top:8px}
       <div class="mapctl">
         <button id="mzin">＋</button><button id="mzout">－</button>
         <button id="mloc" title="我的位置">◎</button>
+        <button id="msamp" title="跳到全部取样点">🪨</button>
         <button id="mlic" title="跳到矿证范围">📜</button>
         <button id="mdl" title="下载离线地图">⬇</button>
       </div>
@@ -236,10 +237,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-69</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-70</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-69</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-70</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1094,6 +1095,17 @@ function initMap(){
     let z=12;if(span>4)z=7;else if(span>2)z=8;else if(span>1)z=9;else if(span>.5)z=10;else if(span>.2)z=11;
     map.z=z;map.cx=lon2x(lo,12);map.cy=lat2y(la,12);map.draw();
     toast(`已定位到 ${LICENSES.length} 个矿证范围`);
+  };
+  $("msamp").onclick=()=>{ // 视野移到全部取样点
+    const pts=sampleCache.filter(s=>s.latitude!=null&&s.longitude!=null);
+    if(!pts.length){toast("暂无取样点");return}
+    let a1=90,o1=180,a2=-90,o2=-180;
+    for(const s of pts){a1=Math.min(a1,s.latitude);o1=Math.min(o1,s.longitude);a2=Math.max(a2,s.latitude);o2=Math.max(o2,s.longitude)}
+    const la=(a1+a2)/2,lo=(o1+o2)/2;
+    const span=Math.max(a2-a1,o2-o1);
+    let z=15;if(span>2)z=11;else if(span>1)z=12;else if(span>.2)z=13;else if(span>.05)z=14;
+    map.z=z;map.cx=lon2x(lo,12);map.cy=lat2y(la,12);map.draw();
+    toast(`已定位到 ${pts.length} 个取样点`);
   };
   $("mdl").onclick=openDl;
   setTimeout(resumeDl,1500); // 有未完成下载则自动续传
