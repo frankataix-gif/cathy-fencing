@@ -1205,11 +1205,11 @@ const DIFFICULTY_LABELS = {
 };
 
 const CIRCUIT_LABELS = {
-  RYC: 'RYC 区域',
-  SYC: 'SYC 全国',
-  RJCC: 'RJCC 区域青年',
-  ROC: 'ROC 区域',
-  NAC: 'NAC 北美',
+  RYC: 'RYC 区域青年',
+  SYC: 'SYC 全国青年',
+  RJCC: 'RJCC 区域少年',
+  ROC: 'ROC 区域成人',
+  NAC: 'NAC 北美成人',
   Local: 'Local 本地'
 };
 
@@ -1434,11 +1434,11 @@ function circuitLabel(c) {
     const ages = ['全部','Y12','Y14','CDT','JNR'];
     const circuits = [
       { label: '全部', value: '全部' },
-      { label: 'RYC 区域', value: 'RYC' },
-      { label: 'SYC 全国', value: 'SYC' },
-      { label: 'RJCC 区域青年', value: 'RJCC' },
-      { label: 'ROC 区域', value: 'ROC' },
-      { label: 'NAC 北美', value: 'NAC' },
+      { label: 'RYC 区域青年', value: 'RYC' },
+      { label: 'SYC 全国青年', value: 'SYC' },
+      { label: 'RJCC 区域少年', value: 'RJCC' },
+      { label: 'ROC 区域成人', value: 'ROC' },
+      { label: 'NAC 北美成人', value: 'NAC' },
       { label: 'Local 本地', value: 'Local' }
     ];
     const distances = [
