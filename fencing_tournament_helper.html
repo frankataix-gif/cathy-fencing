@@ -1486,19 +1486,19 @@ function circuitLabel(c) {
   function matches(t) {
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (activeFilters.region.length && !activeFilters.region.includes(t.region)) return false;
-    if (activeFilters.age.length && !activeFilters.age.some(a => t.age_groups.includes(a))) return false;
-    if (activeFilters.circuit.length && !activeFilters.circuit.some(c => t.circuits.includes(c))) return false;
+    if (activeFilters.age.length && !activeFilters.age.some(a => (t.age_groups || []).includes(a))) return false;
+    if (activeFilters.circuit.length && !activeFilters.circuit.some(c => (t.circuits || []).includes(c))) return false;
     if (activeFilters.distance.length) {
       const maxDist = Math.max(...activeFilters.distance);
       if (t.distance_km > maxDist) return false;
     }
-    if (!t.weapons.includes(CATHY.weapon)) return false; // default Foil
+    if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false; // default Foil
     return true;
   }
 
   function mapMatches(t) {
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
-    if (!t.weapons.includes(CATHY.weapon)) return false;
+    if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false;
     return true;
   }
 
