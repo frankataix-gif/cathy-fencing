@@ -237,10 +237,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-70</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-71</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-70</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-71</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -580,14 +580,16 @@ async function addPhotos(files){
 }
 $("f_cam").onchange=e=>{addPhotos(e.target.files);e.target.value=""};
 $("f_album").onchange=e=>{addPhotos(e.target.files);e.target.value=""};
-function compress(file){ // 压到最长边1600，省空间
-  return new Promise(res=>{const img=new Image(),url=URL.createObjectURL(file);
+function compress(file){ // 压到最长边1600，省空间；无法解码/HEIC 直接拒绝
+  return new Promise((res,rej)=>{
+    if(/heic|heif/i.test(file.type||file.name||"")){rej(new Error("HEIC"));return}
+    const img=new Image(),url=URL.createObjectURL(file);
     img.onload=()=>{const M=1600;let w=img.width,h=img.height;
       if(Math.max(w,h)>M){const r=M/Math.max(w,h);w=Math.round(w*r);h=Math.round(h*r)}
       const c=document.createElement("canvas");c.width=w;c.height=h;
       c.getContext("2d").drawImage(img,0,0,w,h);
-      c.toBlob(b=>res(b||file),"image/jpeg",0.75);URL.revokeObjectURL(url)};
-    img.onerror=()=>res(file);img.src=url});
+      c.toBlob(b=>{if(b)res(b);else rej(new Error("toBlob"));},"image/jpeg",0.75);URL.revokeObjectURL(url)};
+    img.onerror=()=>rej(new Error("decode"));img.src=url});
 }
 function renderThumbs(){
   const full=photos.length>=6;
@@ -701,11 +703,11 @@ async function renderList(){
     const b=s.status==="synced"?'<span class="badge b-ok">已同步</span>':s.status==="failed"?'<span class="badge b-fail">同步失败</span>':'<span class="badge b-pend">待同步</span>';
     const as=(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · ");
     return`<div class="card samcard" data-id="${s.id}">
-      <div class="info"><div><span class="sid">${s.sample_id}</span>${b}</div>
-      <div class="meta">${s.sample_time||""} · ${s.sample_type||""}${s.area_name?" · 📍"+s.area_name:""}${s.license_no?" · 📜"+s.license_no:""}</div>
-      ${as?`<div class="meta">🧪 ${as}</div>`:""}
-      ${s.lithology||s.description?`<div class="meta">🪨 ${s.lithology||""} ${s.description||""}</div>`:""}
-      <div class="meta">📷 ${(s.photos||[]).length} 张${s.erp_name?" · ERP:"+s.erp_name:""}</div>
+      <div class="info"><div><span class="sid">${xesc(s.sample_id)}</span>${b}</div>
+      <div class="meta">${xesc(s.sample_time||"")} · ${xesc(s.sample_type||"")}${s.area_name?" · 📍"+xesc(s.area_name):""}${s.license_no?" · 📜"+xesc(s.license_no):""}</div>
+      ${as?`<div class="meta">🧪 ${xesc(as)}</div>`:""}
+      ${s.lithology||s.description?`<div class="meta">🪨 ${xesc((s.lithology||"")+" "+(s.description||""))}</div>`:""}
+      <div class="meta">📷 ${(s.photos||[]).length} 张${s.erp_name?" · ERP:"+xesc(s.erp_name):""}</div>
       <div class="row" style="margin-top:8px">
         <button class="btn secondary act-view" style="padding:6px 12px;min-height:36px">详情/照片</button>
         <button class="btn secondary act-edit" style="padding:6px 12px;min-height:36px">⋯ 编辑</button>
@@ -737,16 +739,16 @@ $("samedit_edit").onclick=()=>{
   $("f_lat").value=s.latitude??"";$("f_lon").value=s.longitude??"";$("f_alt").value=s.altitude??"";
   $("gps_text").textContent=s.latitude!=null?`${(+s.latitude).toFixed(6)}, ${(+s.longitude).toFixed(6)}`:"无坐标";
   $("gps_utm").textContent=s.utm?("UTM："+s.utm):"";
-  $("gps_acc").textContent="🔒 编辑模式：坐标锁定不可改";
+  $("gps_acc").textContent="🔒 编辑模式：编号/时间/地址锁定，经纬度可手动修正";
   $("f_area").value=s.area_name||"";$("f_lith").value=s.lithology||"";$("f_desc").value=s.description||"";
   $("f_recorder").value=s.recorder||"";$("f_remark").value=s.remark||"";
   photos=(s.photos||[]).map(p=>({name:p.name,kind:p.kind,blob:p.blob}));renderThumbs();
   $("assays").innerHTML="";(s.assays||[]).forEach(a=>addAssay(a.element,a.value,a.unit));updateElGrid();
   $("f_lat").disabled=$("f_lon").disabled=false;   // 经纬度可手动修正
-  $("btn_gps").disabled=$("btn_pick").disabled=$("btn_viewpos").disabled=false; // 编辑时仍可查看位置
+  $("btn_gps").disabled=$("btn_pick").disabled=true;$("btn_viewpos").disabled=false; // 编辑时锁定 GPS/地图选点，仍可查看位置
   $("btn_save").textContent="💾 更新记录（覆盖原记录）";
   document.querySelector('nav button[data-pg="pg-form"]').click();
-  toast("编辑模式：编号/时间/坐标锁定，其余可改");
+  toast("编辑模式：编号/时间/地址锁定，经纬度可手动修正，其余可改");
 };
 function exitEdit(){
   if(!editingSample)return;editingSample=null;
@@ -757,21 +759,21 @@ function viewDetail(id,all){
   const s=all.find(x=>x.id===id);if(!s)return;
   const m=document.createElement("div");m.className="modal";
   const row=(k,v)=>v?`<div style="display:flex;gap:8px;font-size:14px;margin-bottom:5px"><span style="color:var(--muted);min-width:64px">${k}</span><span>${v}</span></div>`:"";
-  m.innerHTML=`<div class="box"><h3>${s.sample_id}</h3>
+  m.innerHTML=`<div class="box"><h3>${xesc(s.sample_id)}</h3>
     <div class="thumbs">${(s.photos||[]).map((p,i)=>p.blob?`<img src="${URL.createObjectURL(p.blob)}" data-i="${i}" style="max-width:100px;border-radius:8px;cursor:pointer">`:"").join("")||"<span style='color:var(--muted)'>无照片</span>"}</div>
-    ${row("取样时间",s.sample_time)}
-    ${row("类型",s.sample_type)}
+    ${row("取样时间",xesc(s.sample_time))}
+    ${row("类型",xesc(s.sample_type))}
     ${row("坐标",s.latitude!=null?`${(+s.latitude).toFixed(6)}, ${(+s.longitude).toFixed(6)}`:"")}
-    ${row("UTM",s.utm)}
+    ${row("UTM",xesc(s.utm))}
     ${row("海拔",s.altitude!=null?`${s.altitude} m`:"")}
-    ${row("地区",s.area_name)}
-    ${row("矿证",s.license_no?`${s.license_no} ${s.license_holder||""}`:"")}
-    ${row("含量",(s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · "))}
-    ${row("岩性",s.lithology)}
-    ${row("描述",s.description)}
-    ${row("记录人",s.recorder)}
-    ${row("备注",s.remark)}
-    ${row("同步错误",s.sync_err)}
+    ${row("地区",xesc(s.area_name))}
+    ${row("矿证",s.license_no?`${xesc(s.license_no)} ${xesc(s.license_holder||"")}`:"")}
+    ${row("含量",xesc((s.assays||[]).map(a=>`${a.element} ${a.value}${a.unit}`).join(" · ")))}
+    ${row("岩性",xesc(s.lithology))}
+    ${row("描述",xesc(s.description))}
+    ${row("记录人",xesc(s.recorder))}
+    ${row("备注",xesc(s.remark))}
+    ${row("同步错误",xesc(s.sync_err))}
     <button class="btn secondary block" style="margin-top:10px">关闭</button></div>`;
   m.querySelector("button").onclick=()=>m.remove();
   m.onclick=e=>{if(e.target===m)m.remove()};
