@@ -237,10 +237,10 @@ progress{width:100%;height:10px;margin-top:8px}
     <div class="card">
       <h3>🔄 版本更新</h3>
       <button class="btn secondary block" id="btn_update">检查并强制更新到最新版</button>
-      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-71</p>
+      <p style="font-size:12px;color:var(--muted)">感觉功能没变化时点这里：清缓存并重新加载。当前版本：b20260907-72</p>
     </div>
     <div class="card">
-      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-71</p>
+      <p style="font-size:11px;color:var(--muted);text-align:center">b20260907-72</p>
       <h3>🗑 危险操作</h3>
       <button class="btn danger block" id="btn_wipe">🔒 清空本机全部数据（需密码）</button>
     </div>
@@ -1142,11 +1142,13 @@ async function updTrk(){
     $("btn_trk").textContent="▶ 开始新的行程";$("btn_trk").className="btn primary block";
   }
 }
-let lastFixT=0,gpsWatchStartT=0,gpsLostWarned=false;
+let lastFixT=0,gpsWatchStartT=0,gpsLostWarned=false,wakeLock=null;
 function resetGpsWatch(){gpsLostWarned=false;if(!gpsWatchStartT)gpsWatchStartT=Date.now();}
+async function requestWake(){try{if("wakeLock" in navigator){wakeLock=await navigator.wakeLock.request("screen");}}catch(e){}}
+function releaseWake(){try{if(wakeLock){wakeLock.release();wakeLock=null;}}catch(e){}}
 function restartWatch(){if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;startWatch()}
 function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提示
-  resetGpsWatch();
+  resetGpsWatch();requestWake();
   trackWatch=navigator.geolocation.watchPosition(async p=>{
     lastPos=p;clearGpsLost();
     const t=Date.now(),lat=p.coords.latitude,lon=p.coords.longitude;
@@ -1162,34 +1164,35 @@ function startWatch(){ // 只记录轨迹：不碰样品表单、不弹矿证提
 }
 function clearGpsLost(){lastFixT=Date.now();gpsLostWarned=false;}
 // 看门狗：安卓/iOS 省电会静默掐掉 watch（状态仍显示记录中但没回调）
-// 页面可见时，距上次定位回报超过 45 秒就重启监听
+// 页面可见时，距上次定位回报超过 45 秒就重启监听；超过 30 秒立即警报
 setInterval(async()=>{
   if(document.hidden)return;
   const on=trackWatch||await store.get("track_on");
   if(!on)return;
   const last=lastFixT||gpsWatchStartT;
   if(Date.now()-last>45000){restartWatch();}
-  // GPS 长期无更新：只提醒一次，避免一直滴滴滴
-  if(Date.now()-last>90000&&on&&!gpsLostWarned){
+  // GPS 丢失立即警报：只在记录中、页面在前台时；只响一次，直到 GPS 恢复
+  if(Date.now()-last>30000&&on&&!gpsLostWarned){
     gpsLostWarned=true;
-    toast("⚠️ GPS 长时间无更新，可能受省电模式/信号影响",5000);tryBeep();
-  }else if(Date.now()-last<=90000){
+    toast("⚠️ GPS 已丢失 30 秒，可能被省电/锁屏/信号中断，请检查",6000);tryBeep();
+  }else if(Date.now()-last<=30000){
     gpsLostWarned=false;
   }
-},15000);
+},10000);
 let hiddenAt=0;
-// iOS 切后台再回来 watchPosition 会静默失效：回前台时重启监听
+// 切后台再回来：如果刚才有 GPS 丢失，立即警报并重新请求 Wake Lock
 document.addEventListener("visibilitychange",async()=>{
-  if(document.visibilityState==="hidden"){hiddenAt=Date.now();return}
+  if(document.visibilityState==="hidden"){hiddenAt=Date.now();releaseWake();return}
   const on=trackWatch||await store.get("track_on");
   const last=lastFixT||gpsWatchStartT;
-  if(hiddenAt&&on&&Date.now()-hiddenAt>60000&&Date.now()-last>45000){
-    toast(`⚠️ 页面后台 ${Math.round((Date.now()-hiddenAt)/60000)} 分钟，期间可能漏记轨迹。请检查电量和省电设置`,6000);
+  if(hiddenAt&&on&&Date.now()-hiddenAt>30000&&Date.now()-last>30000){
+    const m=Math.max(1,Math.round((Date.now()-hiddenAt)/60000));
+    toast(`⚠️ 刚才页面后台 ${m} 分钟，期间可能漏记轨迹。请检查电量和省电设置`,6000);
     if(!gpsLostWarned){gpsLostWarned=true;tryBeep();}
   }
   hiddenAt=0;
   if(document.visibilityState==="visible"&&on){
-    restartWatch();if(map)map.draw();
+    requestWake();restartWatch();if(map)map.draw();
   }
 });
 // 声音提醒：仅在用户交互后第一次使用才能发声（浏览器策略）
@@ -1242,7 +1245,7 @@ async function toggleTrack(){
 }
 async function stopTrip(){ // 确认后真正结束并存档
     $("tripstop").classList.add("hidden");
-    if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;
+    if(trackWatch)navigator.geolocation.clearWatch(trackWatch);trackWatch=null;releaseWake();
     await store.set("track_on",false);
     const pts=trackCache.slice();
     if(pts.length){
@@ -1261,6 +1264,12 @@ $("tripstop_no").onclick=()=>$("tripstop").classList.add("hidden");
 $("tripstop").onclick=e=>{if(e.target.id==="tripstop")$("tripstop").classList.add("hidden")};
 async function startTrip(){
   const name=$("tripname").value.trim()||("行程 "+new Date().toLocaleString("zh",{year:"numeric",month:"2-digit",day:"2-digit"}));
+  if("getBattery" in navigator){
+    const bat=await navigator.getBattery();
+    if(!bat.charging && bat.level<=0.25){
+      if(!confirm(`🔋 电量 ${Math.round(bat.level*100)}%：电量低/省电模式可能导致 GPS 记录中断，建议充电或保持屏幕常亮。仍要继续？`)) return;
+    }
+  }
   $("tripmodal").classList.add("hidden");
   await store.set("trip_name",name);
   await store.set("trip_t0",Date.now());
