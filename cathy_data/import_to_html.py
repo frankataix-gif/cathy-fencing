@@ -23,6 +23,7 @@ BAK = BASE / "fencing_tournament_helper.html.bak"
 CSV = BASE / "cathy_data" / "usa_fencing_all_tournaments.csv"
 CACHE = BASE / "cathy_data" / "city_coords.json"
 ENTRY_COUNTS = BASE / "cathy_data" / "entry_counts.json"
+LIVE_LINKS = BASE / "cathy_data" / "live_links.json"
 
 # Known city coords cache; will be updated as new cities are found
 CITY_COORDS = {}
@@ -86,6 +87,15 @@ def load_entry_counts():
     return {}
 
 
+def load_live_links():
+    if LIVE_LINKS.exists():
+        try:
+            return json.loads(LIVE_LINKS.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
 def attach_cathy_entries(merged):
     counts = load_entry_counts()
     for t in merged:
@@ -100,6 +110,14 @@ def attach_cathy_entries(merged):
                 "cdtwf": data["counts"].get("CDTWF", 0),
                 "fetched_at": data.get("fetched_at", "")
             }
+
+
+def attach_live_url(merged):
+    links = load_live_links()
+    for t in merged:
+        url = links.get(t["id"])
+        if url:
+            t["live_url"] = url
 
 
 def get_lat_lng(city, state):
@@ -313,7 +331,7 @@ def quote(val):
 
 def obj_to_str(obj):
     fields = ["id", "name", "start", "end", "city", "state", "region", "lat", "lng",
-              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes", "url", "cathy_entries"]
+              "circuits", "age_groups", "weapons", "size", "difficulty", "recommended", "status", "notes", "url", "live_url", "cathy_entries"]
     parts = [f"{k}:{quote(obj[k])}" for k in fields if k in obj]
     return "  { " + ", ".join(parts) + " }"
 
@@ -410,6 +428,7 @@ def main():
     # 先给 imported 挂上 cathy_entries，再 merge，这样 curated 能继承
     attach_cathy_entries(imported)
     merged = merge(existing, imported)
+    attach_live_url(merged)
     update_html(merged)
     save_city_coords()
 

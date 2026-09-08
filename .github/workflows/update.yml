@@ -32,6 +32,9 @@ jobs:
       - name: Fetch entry counts
         run: python cathy_data/fetch_tournament_entries.py --workers 5 --ttl 6
 
+      - name: Fetch live result links
+        run: python cathy_data/fetch_live_links.py --workers 5
+
       - name: Update HTML
         run: python cathy_data/import_to_html.py
 
