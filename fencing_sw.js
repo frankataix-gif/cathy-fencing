@@ -14,8 +14,9 @@ self.addEventListener('install', (e) => {
 });
 
 self.addEventListener('activate', (e) => {
+  // 只清理本 App 自己的旧缓存，不碰 sampling/ 等其他 PWA 的缓存
   e.waitUntil(
-    caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k))))
+    caches.keys().then((keys) => Promise.all(keys.filter((k) => k.startsWith('cathy-fencing-') && k !== CACHE_NAME).map((k) => caches.delete(k))))
       .then(() => clients.claim())
   );
 });
@@ -37,6 +38,9 @@ self.addEventListener('fetch', (e) => {
     );
     return;
   }
+
+  // 不干涉取样 PWA /sampling/ 目录下的请求
+  if (url.pathname.includes('/sampling/')) return;
 
   const isHtml = e.request.mode === 'navigate' || e.request.destination === 'document' || url.pathname.endsWith('.html');
 
