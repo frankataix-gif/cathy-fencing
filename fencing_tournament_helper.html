@@ -317,7 +317,7 @@
           </div>
         </div>
         <div style="display:flex; align-items:center; gap:8px;">
-          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem; display:none;">🔄 刷新</button>
+          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem;">🔄 强制更新</button>
           <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; padding:4px 12px; border-radius:20px; font-size:0.75rem;">打开 Google Drive 文档</a>
         </div>
       </div>
@@ -1954,9 +1954,21 @@ function circuitLabel(c) {
     return `${word}，妈妈辛苦了 · Vancouver Time ${vancouverDate()}`;
   }
 
-  function forceRefresh() {
-    const url = window.location.href.split('?')[0] + '?_=' + Date.now();
-    window.location.replace(url);
+  async function forceRefresh() {
+    if (confirm('确定要强制更新到最新版本吗？会清空缓存并重新加载。')) {
+      const url = window.location.href.split('?')[0] + '?_=' + Date.now();
+      if (!navigator.serviceWorker && !('caches' in window)) {
+        window.location.replace(url);
+        return;
+      }
+      try {
+        const ks = await caches.keys();
+        await Promise.all(ks.map(k => caches.delete(k)));
+        const rs = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(rs.map(r => r.unregister()));
+      } catch (e) {}
+      setTimeout(() => window.location.replace(url), 400);
+    }
   }
 
   function initHeaderMeta() {
