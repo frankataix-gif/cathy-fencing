@@ -24,6 +24,7 @@ CSV = BASE / "cathy_data" / "usa_fencing_all_tournaments.csv"
 CACHE = BASE / "cathy_data" / "city_coords.json"
 ENTRY_COUNTS = BASE / "cathy_data" / "entry_counts.json"
 LIVE_LINKS = BASE / "cathy_data" / "live_links.json"
+TRACKER_LINKS = BASE / "cathy_data" / "tracker_links.json"
 
 # Known city coords cache; will be updated as new cities are found
 CITY_COORDS = {}
@@ -96,8 +97,18 @@ def load_live_links():
     return {}
 
 
+def load_tracker_links():
+    if TRACKER_LINKS.exists():
+        try:
+            return json.loads(TRACKER_LINKS.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
 def attach_cathy_entries(merged):
     counts = load_entry_counts()
+    trackers = load_tracker_links()
     for t in merged:
         data = counts.get(t["id"])
         if not data or not data.get("counts"):
@@ -110,6 +121,9 @@ def attach_cathy_entries(merged):
                 "cdtwf": data["counts"].get("CDTWF", 0),
                 "fetched_at": data.get("fetched_at", "")
             }
+            tracker = trackers.get(t["id"])
+            if tracker:
+                t["cathy_entries"]["tracker"] = tracker
 
 
 def attach_live_url(merged):
