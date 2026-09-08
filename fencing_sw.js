@@ -31,8 +31,8 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // 报名名单数据文件每次都从网络取，避免显示旧名单
-  if (url.pathname.includes('cathy_data/entry_counts.json')) {
+  // 报名名单和版本号文件每次都从网络取，避免显示旧名单
+  if (url.pathname.includes('cathy_data/entry_counts.json') || url.pathname.includes('cathy_data/version.json')) {
     e.respondWith(
       fetch(e.request, { cache: 'no-store' }).catch(() => caches.match(e.request))
     );
@@ -45,9 +45,9 @@ self.addEventListener('fetch', (e) => {
   const isHtml = e.request.mode === 'navigate' || e.request.destination === 'document' || url.pathname.endsWith('.html');
 
   if (isHtml) {
-    // 网页文件：先走网络，失败时走缓存
+    // 网页文件：强制走网络（no-store），保证每次打开都拿到最新版本；失败时走缓存
     e.respondWith(
-      fetch(e.request).then((res) => {
+      fetch(e.request, { cache: 'no-store' }).then((res) => {
         const clone = res.clone();
         caches.open(CACHE_NAME).then((c) => c.put(e.request, clone));
         return res;

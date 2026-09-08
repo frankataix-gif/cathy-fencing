@@ -25,6 +25,7 @@ CACHE = BASE / "cathy_data" / "city_coords.json"
 ENTRY_COUNTS = BASE / "cathy_data" / "entry_counts.json"
 LIVE_LINKS = BASE / "cathy_data" / "live_links.json"
 TRACKER_LINKS = BASE / "cathy_data" / "tracker_links.json"
+VERSION = BASE / "cathy_data" / "version.json"
 
 # Known city coords cache; will be updated as new cities are found
 CITY_COORDS = {}
@@ -424,6 +425,7 @@ def update_html(merged):
                       f"const DATA_UPDATED = '{today}';",
                       new_html)
     HTML.write_text(new_html, encoding="utf-8")
+    VERSION.write_text(json.dumps({"version": today}, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Updated {HTML} with {len(merged)} tournaments. Backup: {BAK}")
 
 

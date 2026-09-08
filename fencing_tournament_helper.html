@@ -16,6 +16,11 @@
   <title>何云熙 USA Fencing 赛事助手</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    // 先隐藏，等版本检测通过再显示，避免旧版本闪一下；2 秒后若检测失败也直接显示
+    document.documentElement.classList.add('app-checking');
+    setTimeout(() => document.documentElement.classList.remove('app-checking'), 2000);
+  </script>
   <style>
     :root {
       --primary: #2563eb;
@@ -36,6 +41,8 @@
       color: var(--text);
       line-height: 1.6;
     }
+    /* 检测新版本完成前隐藏页面，避免旧版本闪一下 */
+    .app-checking { opacity: 0 !important; }
     .header {
       background: linear-gradient(135deg, var(--primary), var(--primary-dark));
       color: white;
@@ -317,7 +324,7 @@
           </div>
         </div>
         <div style="display:flex; align-items:center; gap:8px;">
-          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem;">🔄 强制更新</button>
+          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem; display:none;">🔄 强制更新</button>
           <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; padding:4px 12px; border-radius:20px; font-size:0.75rem;">打开 Google Drive 文档</a>
         </div>
       </div>
@@ -557,8 +564,37 @@
 
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
-const DATA_UPDATED = '2026-09-08T18:04:44Z';
+const DATA_UPDATED = '2026-09-08T22:14:12Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
+
+// 打开或回到前台时检测服务器是否有新版本，有则清缓存并刷新
+async function checkForUpdate() {
+  function show() { document.documentElement.classList.remove('app-checking'); }
+  try {
+    const res = await fetch('./cathy_data/version.json?_=' + Date.now(), { cache: 'no-store' });
+    const data = await res.json();
+    if (data.version && data.version !== DATA_UPDATED) {
+      // 有新版：清缓存、注销 SW、重新加载
+      try {
+        if ('caches' in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(k => caches.delete(k)));
+        }
+        if ('serviceWorker' in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(r => r.unregister()));
+        }
+      } catch (e) {}
+      window.location.replace(window.location.href.split('?')[0] + '?_=' + Date.now());
+      return;
+    }
+  } catch (e) {}
+  show();
+}
+checkForUpdate();
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') checkForUpdate();
+});
 
 const CATHY = {
   nameZh: '何云熙',
