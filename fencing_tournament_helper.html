@@ -358,6 +358,10 @@
     <div class="tournament-body" style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
       <div id="list-panel" style="flex:2; min-width:300px;">
         <div class="filters">
+          <div class="filter-row" style="margin-bottom:14px;">
+            <span class="filter-label">搜索 / Search</span>
+            <input type="search" id="tournament-search" placeholder="输入赛事名称或关键词" style="width:100%; padding:8px 12px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
+          </div>
           <div class="filter-row"><span class="filter-label">赛事筛选 / Filter</span><div class="filter-options" id="reg-filters"></div></div>
           <div class="filter-row"><span class="filter-label">比赛开始时间 / Start Time</span><div class="filter-options" id="time-filters"></div></div>
           <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
@@ -1319,7 +1323,7 @@ function circuitLabel(c) {
     return false;
   };
 
-  let activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [] };
+  let activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], search: '' };
   let currentBase = CATHY.home;
   let currentPage = 1;
   const PAGE_SIZE = 1000;
@@ -1647,7 +1651,18 @@ function circuitLabel(c) {
     createChips(document.getElementById('age-filters'), ages, 'age');
     createChips(document.getElementById('circuit-filters'), circuits, 'circuit');
     createChips(document.getElementById('distance-filters'), distances, 'distance', 'label');
-    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], time: 'all' };
+
+    const searchInput = document.getElementById('tournament-search');
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        activeFilters.search = e.target.value.trim();
+        currentPage = 1;
+        renderResults();
+        updateMapMarkers();
+      });
+    }
+
+    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], time: 'all', search: '' };
   }
 
   function matchesReg(t, reg) {
@@ -1680,6 +1695,12 @@ function circuitLabel(c) {
       deadline.setDate(deadline.getDate() + days);
       const start = new Date((t.start || today) + 'T00:00:00');
       if (start > deadline) return false;
+    }
+    // 名称/关键词搜索
+    if (activeFilters.search) {
+      const q = activeFilters.search.toLowerCase();
+      const hay = `${t.name} ${t.notes || ''} ${t.city || ''} ${t.state || ''} ${(t.circuits || []).join(' ')}`.toLowerCase();
+      if (!hay.includes(q)) return false;
     }
     return true;
   }
