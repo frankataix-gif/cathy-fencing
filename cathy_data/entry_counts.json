@@ -33520,5 +33520,33 @@
       ]
     },
     "total": 248
+  },
+  "september-capital-foil---epee--2026-09-12-sacramento-ca": {
+    "fetched_at": "2026-09-09T06:04:05.895355Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 0,
+      "Y14WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [],
+      "Y14WF": []
+    },
+    "total": 0
+  },
+  "world-fencing-day-celebration--2026-09-13-rocky-river-oh": {
+    "fetched_at": "2026-09-09T06:04:05.895458Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 0,
+      "Y14WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [],
+      "Y14WF": []
+    },
+    "total": 0
   }
 }
