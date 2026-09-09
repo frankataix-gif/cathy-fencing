@@ -27,6 +27,7 @@ except Exception:
 BASE = Path(__file__).parent.parent
 HTML = BASE / "fencing_tournament_helper.html"
 CACHE = BASE / "cathy_data" / "entry_counts.json"
+LINKS = BASE / "cathy_data" / "live_links.json"
 
 TARGET_CODES = {"Y12WF", "Y14WF", "CDTWF"}
 REQUEST_DELAY = 0.25
@@ -67,6 +68,38 @@ def load_cache():
 
 def save_cache(cache):
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_links():
+    if LINKS.exists():
+        try:
+            return json.loads(LINKS.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+
+def save_links(links):
+    LINKS.write_text(json.dumps(links, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def parse_live_url(html):
+    try:
+        doc = lh.fromstring(html)
+    except Exception:
+        return None
+    fallback = None
+    for a in doc.xpath("//a"):
+        href = a.get("href", "")
+        text = a.text_content().strip()
+        if "fencingtimelive.com/tournaments/eventSchedule/" in href:
+            return href
+        if re.search(r"fencingtimelive\.com/\?t=\d+", href):
+            return href
+        if not fallback and "fencingtimelive.com" in href.lower():
+            if "live" in text.lower() or "result" in text.lower() or re.match(r"^(https?://)?(www\.)?fencingtimelive\.com/?$", href):
+                fallback = href
+    return fallback
 
 
 def fetch(url, is_json=False):
@@ -180,11 +213,16 @@ def fetch_entrant_names(base_url, event_id):
     return parse_entrant_names(data.get("entrants_table", ""))
 
 
-def process_tournament(t, cache, ttl_hours, force):
+def process_tournament(t, cache, links, ttl_hours, force, fetch_names=True):
     url = t.get("url")
     tid = t.get("id")
+    status = t.get("status", "")
     if not url or not tid:
         return None
+    # Skip tournaments that are not yet open; they won't have entries or live links yet.
+    if status == "not_yet_open":
+        return tid, None, None
+
     cached = cache.get(tid)
     now = datetime.now(timezone.utc)
     if not force and cached:
@@ -193,16 +231,20 @@ def process_tournament(t, cache, ttl_hours, force):
             try:
                 ft = datetime.fromisoformat(fetched_at.replace("Z", "+00:00"))
                 if now - ft < timedelta(hours=ttl_hours):
-                    return tid, cached
+                    # Live link is cheap to refresh; if we already have it, keep it.
+                    live_url = links.get(tid) if links else None
+                    return tid, cached, live_url
             except Exception:
                 pass
     time.sleep(REQUEST_DELAY)
     detail_html = fetch(url)
     if detail_html is None:
-        return tid, None
+        return tid, None, None
     info = parse_event_info(detail_html)
+    live_url = parse_live_url(detail_html)
+
     if info is None:
-        return tid, None
+        return tid, None, live_url
 
     base_url = url.rstrip("/")
     counts = {}
@@ -210,7 +252,7 @@ def process_tournament(t, cache, ttl_hours, force):
     for code in TARGET_CODES:
         counts[code] = info[code]["count"]
         # fetch names only if there are entrants and we have an event_id
-        if info[code]["count"] > 0 and info[code]["event_id"]:
+        if fetch_names and info[code]["count"] > 0 and info[code]["event_id"]:
             names[code] = fetch_entrant_names(base_url, info[code]["event_id"])
             time.sleep(0.1)
         else:
@@ -223,7 +265,7 @@ def process_tournament(t, cache, ttl_hours, force):
         "names": names,
         "total": total,
     }
-    return tid, entry
+    return tid, entry, live_url
 
 
 def main():
@@ -232,6 +274,7 @@ def main():
     parser.add_argument("--workers", type=int, default=8, help="Concurrent fetch workers")
     parser.add_argument("--force", action="store_true", help="Force refetch all")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of tournaments to fetch")
+    parser.add_argument("--no-names", action="store_true", help="Skip fetching entrant names (faster)")
     args = parser.parse_args()
 
     if not HTML.exists():
@@ -239,29 +282,35 @@ def main():
         return
 
     tournaments = extract_tournaments_from_html(HTML)
-    rows = [t for t in tournaments if t.get("url")]
+    # Skip not_yet_open tournaments to avoid wasted detail fetches.
+    rows = [t for t in tournaments if t.get("url") and t.get("status") != "not_yet_open"]
     if args.limit:
         rows = rows[:args.limit]
 
     cache = load_cache()
-    print(f"Tournaments with detail URLs: {len(rows)} | Cache: {len(cache)} entries")
+    links = load_links()
+    print(f"Tournaments with detail URLs: {len(rows)} | Cache: {len(cache)} | Live links: {len(links)}")
 
     updated = 0
+    live_updated = 0
     errors = 0
     skipped = 0
 
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         future_to_id = {
-            ex.submit(process_tournament, r, cache, args.ttl, args.force): r
+            ex.submit(process_tournament, r, cache, links, args.ttl, args.force, not args.no_names): r
             for r in rows
         }
         for future in as_completed(future_to_id):
             result = future.result()
             if result is None:
                 continue
-            tid, entry = result
+            tid, entry, live_url = result
             if tid is None:
                 continue
+            if live_url is not None and links.get(tid) != live_url:
+                links[tid] = live_url
+                live_updated += 1
             if entry is None:
                 if tid not in cache:
                     cache[tid] = None
@@ -272,13 +321,15 @@ def main():
                 else:
                     cache[tid] = entry
                     updated += 1
-            if (updated + errors + skipped) % 50 == 0:
+            if (updated + errors + skipped + live_updated) % 50 == 0:
                 save_cache(cache)
+                save_links(links)
                 print(f"  ... processed {updated + errors + skipped}/{len(rows)}", flush=True)
 
     save_cache(cache)
-    print(f"Done. Updated: {updated}, Errors: {errors}, Skipped/Cached: {skipped}")
-    print(f"Saved {len(cache)} entries to {CACHE}")
+    save_links(links)
+    print(f"Done. Entries updated: {updated}, errors: {errors}, skipped: {skipped}, live links updated: {live_updated}")
+    print(f"Saved {len(cache)} entries to {CACHE} and {len(links)} live links to {LINKS}")
 
 
 if __name__ == "__main__":

@@ -411,19 +411,47 @@ def _merge_into(old, t):
 
 
 
+def replace_tournaments_array(html, new_array_text):
+    """Replace the TOURNAMENTS array by bracket counting, avoiding regex pitfalls."""
+    marker = "const TOURNAMENTS = ["
+    start = html.find(marker)
+    if start < 0:
+        raise ValueError("Could not find TOURNAMENTS array in HTML")
+    bracket_start = start + len(marker) - 1  # position of the opening '['
+    i = bracket_start + 1
+    bracket = 1
+    while i < len(html) and bracket > 0:
+        c = html[i]
+        if c == "[":
+            bracket += 1
+        elif c == "]":
+            bracket -= 1
+        i += 1
+    # bracket now ends at position i (after closing ']')
+    # Replace the whole block from bracket_start to i
+    return html[:bracket_start] + "[\n" + new_array_text + "\n]" + html[i:]
+
+
+def replace_data_updated(html, new_timestamp):
+    marker = "const DATA_UPDATED = '"
+    start = html.find(marker)
+    if start < 0:
+        return html
+    end = html.find("';", start + len(marker))
+    if end < 0:
+        return html
+    return html[:start + len(marker)] + new_timestamp + html[end:]
+
+
 def update_html(merged):
     if HTML.exists():
         shutil.copy2(HTML, BAK)
     html = HTML.read_text(encoding="utf-8")
     new_array = ",\n".join(obj_to_str(o) for o in merged)
-    new_html = re.sub(r"const\s+TOURNAMENTS\s*=\s*\[.*?\];",
-                      f"const TOURNAMENTS = [\n{new_array}\n];",
-                      html, flags=re.S)
+    new_html = replace_tournaments_array(html, new_array)
     # update DATA_UPDATED to full UTC timestamp so timeAgo is accurate
     today = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
-    new_html = re.sub(r"const\s+DATA_UPDATED\s*=\s*'[^']*';",
-                      f"const DATA_UPDATED = '{today}';",
-                      new_html)
+    new_html = replace_data_updated(new_html, today)
     HTML.write_text(new_html, encoding="utf-8")
     VERSION.write_text(json.dumps({"version": today}, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Updated {HTML} with {len(merged)} tournaments. Backup: {BAK}")

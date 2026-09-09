@@ -107,5 +107,10 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
   - 推荐 Cathy 维度细分为 `本地+重要` / `本地距离` / `重要赛事` / `较远但重要` / `Cathy 可报名` / `未推荐`，并对应不同颜色。
   - 地图筛选改为两层：主要筛选（全部 / 推荐 Cathy / 未报名 / 已报名 / 关注赛事）+ 第二层颜色（Region / Circuit），顶部显示当前条件提示。
 
-### 已知问题
-- `.github/workflows/update.yml`（自动拉取 USA Fencing 赛事）最近运行失败，报错 `Process completed with exit code 1`，总时长约 2h48m。可能原因：分页抓取过多/超时，或 `import_to_html.py` 解析 `TOURNAMENTS` 数组失败。需要进一步排查。
+### 2026-09-09
+- 修复 `.github/workflows/update.yml` 稳定性：
+  - `import_to_html.py` 改用 bracket counting 替换 `TOURNAMENTS` 数组，避免正则表达式解析失败。
+  - `fetch_tournament_entries.py` 在抓取报名人数的同时提取 `live_url`，避免对同一赛事详情页重复请求。
+  - 跳过 `not_yet_open` 赛事的详情抓取，减少无效网络请求。
+  - 工作流增加 `concurrency` 防止多实例同时运行，推送前 `git pull --rebase` 避免 fast-forward 冲突。
+- 赛事地图合并进「赛事」tab，地图筛选与列表完全同步。
