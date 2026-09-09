@@ -1,0 +1,83 @@
+{
+  "results": [
+    {
+      "tournament": "Fortune ROC/RJCC/RYC",
+      "event": "Y-14 Women's Foil",
+      "event_class": "C2",
+      "age_group": "Y14",
+      "date_display": "September 7, 2026",
+      "place": "21 of 86",
+      "seed": "50",
+      "ranked": "Not ranked",
+      "rating": "U",
+      "total": 86,
+      "bouts": [
+        {
+          "bout": "Pool",
+          "result": "Defeat",
+          "score": "0:5",
+          "opponent": "RANAT Saira",
+          "opponent_club": "Socal Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:2",
+          "opponent": "YANG Hanli",
+          "opponent_club": "LA International Fencing",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:4",
+          "opponent": "LIM Kensie",
+          "opponent_club": "Precision Athletics Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:1",
+          "opponent": "TANG Ming-Hao Audrey",
+          "opponent_club": "Silicon Valley Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:4",
+          "opponent": "HAYLETT Emily",
+          "opponent_club": "Prime Fencing Academy / Le Fencer Academy",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:1",
+          "opponent": "SHIN Ellie",
+          "opponent_club": "Elite Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T64",
+          "result": "Victory",
+          "score": "15:4",
+          "opponent": "ALEKSANDROVA Miroslava",
+          "opponent_club": "Massialas Foundation (M Team)",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T32",
+          "result": "Defeat",
+          "score": "11:15",
+          "opponent": "YANG Hanli",
+          "opponent_club": "LA International Fencing",
+          "opponent_country": "USA"
+        }
+      ],
+      "source_url": "/event/42526/results"
+    }
+  ]
+}

@@ -1998,17 +1998,75 @@ function circuitLabel(c) {
 
   function simpleMarkdownToHtml(md) {
     if (!md) return '';
-    return md.split('\n').map(line => {
-      line = line.trimEnd();
-      if (!line.trim()) return '<div style="height:8px;"></div>';
-      line = line.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+    const lines = md.split('\n');
+    let out = '';
+    let inTable = false;
+    let inList = false;
+    let tableRows = [];
+    let listItems = [];
+
+    function flushTable() {
+      if (tableRows.length < 2) {
+        out += tableRows.map(r => `<p style="margin:0 0 6px 0;font-family:monospace;font-size:0.85rem;">${r}</p>`).join('');
+      } else {
+        const header = tableRows[0].split('|').slice(1, -1).map(c => c.trim());
+        const bodyRows = tableRows.slice(2).filter(r => r.startsWith('|') && r.endsWith('|')).map(r => r.split('|').slice(1, -1).map(c => c.trim()));
+        let html = '<table style="width:100%;border-collapse:collapse;font-size:0.85rem;margin-bottom:12px;"><thead><tr>' + header.map(h => `<th style="border:1px solid #e5e7eb;padding:6px 8px;text-align:left;background:#f8fafc;">${h}</th>`).join('') + '</tr></thead><tbody>';
+        html += bodyRows.map(row => '<tr>' + row.map(c => `<td style="border:1px solid #e5e7eb;padding:6px 8px;">${c}</td>`).join('') + '</tr>').join('');
+        html += '</tbody></table>';
+        out += html;
+      }
+      tableRows = [];
+      inTable = false;
+    }
+
+    function flushList() {
+      if (listItems.length) {
+        out += '<ul style="margin:8px 0; padding-left:1.2em;">' + listItems.map(i => `<li style="margin-bottom:4px;">${i}</li>`).join('') + '</ul>';
+      }
+      listItems = [];
+      inList = false;
+    }
+
+    for (let raw of lines) {
+      const line = raw.trimEnd();
       const trimmed = line.trim();
-      if (trimmed.startsWith('### ')) return `<h4 style="margin:12px 0 6px;">${trimmed.slice(4)}</h4>`;
-      if (trimmed.startsWith('## ')) return `<h3 style="margin:14px 0 6px;">${trimmed.slice(3)}</h3>`;
-      if (trimmed.startsWith('# ')) return `<h2 style="margin:16px 0 8px;">${trimmed.slice(2)}</h2>`;
-      if (trimmed.startsWith('- ')) return `<li style="margin-left:1.2em; margin-bottom:4px;">${trimmed.slice(2)}</li>`;
-      return `<p style="margin:0 0 6px 0;">${line}</p>`;
-    }).join('');
+
+      if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
+        if (inList) flushList();
+        inTable = true;
+        tableRows.push(trimmed);
+        continue;
+      } else if (inTable && trimmed) {
+        // table 结束
+        flushTable();
+      } else if (inTable && !trimmed) {
+        flushTable();
+        out += '<div style="height:8px;"></div>';
+        continue;
+      }
+
+      if (trimmed.startsWith('- ')) {
+        inList = true;
+        listItems.push(trimmed.slice(2).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>'));
+        continue;
+      } else if (inList) {
+        flushList();
+      }
+
+      if (!trimmed) { out += '<div style="height:8px;"></div>'; continue; }
+
+      let htmlLine = line.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+      if (trimmed.startsWith('### ')) { out += `<h4 style="margin:12px 0 6px;">${htmlLine.slice(4)}</h4>`; continue; }
+      if (trimmed.startsWith('## ')) { out += `<h3 style="margin:14px 0 6px;">${htmlLine.slice(3)}</h3>`; continue; }
+      if (trimmed.startsWith('# ')) { out += `<h2 style="margin:16px 0 8px;">${htmlLine.slice(2)}</h2>`; continue; }
+
+      out += `<p style="margin:0 0 6px 0;">${htmlLine}</p>`;
+    }
+
+    if (inTable) flushTable();
+    if (inList) flushList();
+    return out;
   }
 
   async function loadResultsView() {
