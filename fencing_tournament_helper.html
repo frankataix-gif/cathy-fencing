@@ -137,6 +137,7 @@
     .filter-row { margin-bottom: 12px; }
     .filter-label { font-size: 0.85rem; color: var(--gray); margin-bottom: 6px; display: block; }
     .filter-options { display: flex; flex-wrap: wrap; gap: 8px; }
+    .filter-select { padding: 6px 10px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 0.85rem; background: white; box-sizing: border-box; }
     .chip {
       padding: 6px 12px; border: 1px solid #d1d5db;
       border-radius: 20px; background: white;
@@ -365,6 +366,21 @@
       <div id="list-panel" style="flex:2; min-width:300px;">
         <div class="filters">
           <div class="filter-row"><span class="filter-label">赛事筛选 / Filter</span><div class="filter-options" id="reg-filters"></div></div>
+          <div class="filter-row"><span class="filter-label">时间 / Time</span>
+            <select id="time-filter" class="filter-select">
+              <option value="all" selected>全部时间</option>
+              <option value="14">最近2周</option>
+              <option value="31">1个月</option>
+              <option value="92">3个月</option>
+              <option value="183">6个月</option>
+            </select>
+          </div>
+          <div class="filter-row"><span class="filter-label">已结束 / Ended</span>
+            <select id="ended-filter" class="filter-select">
+              <option value="hide" selected>隐藏已结束</option>
+              <option value="show">显示已结束</option>
+            </select>
+          </div>
           <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
           <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
           <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
@@ -564,7 +580,7 @@
 
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
-const DATA_UPDATED = '2026-09-08T22:14:12Z';
+const DATA_UPDATED = '2026-09-09T05:48:37Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 
 // 打开或回到前台时检测服务器是否有新版本，有则清缓存并刷新
@@ -1564,7 +1580,17 @@ function circuitLabel(c) {
     createChips(document.getElementById('age-filters'), ages, 'age');
     createChips(document.getElementById('circuit-filters'), circuits, 'circuit');
     createChips(document.getElementById('distance-filters'), distances, 'distance', 'label');
-    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [] };
+    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], time: 'all', ended: 'hide' };
+    document.getElementById('time-filter').addEventListener('change', (e) => {
+      activeFilters.time = e.target.value;
+      currentPage = 1;
+      renderResults();
+    });
+    document.getElementById('ended-filter').addEventListener('change', (e) => {
+      activeFilters.ended = e.target.value;
+      currentPage = 1;
+      renderResults();
+    });
   }
 
   function matchesReg(t, reg) {
@@ -1586,12 +1612,32 @@ function circuitLabel(c) {
       if (t.distance_km > maxDist) return false;
     }
     if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false; // default Foil
+    const today = vancouverISO();
+    if (activeFilters.ended === 'hide') {
+      if (t.end && t.end < today) return false;
+    }
+    if (activeFilters.time !== 'all') {
+      const days = parseInt(activeFilters.time, 10);
+      const deadline = new Date(today + 'T00:00:00');
+      deadline.setDate(deadline.getDate() + days);
+      const start = new Date((t.start || today) + 'T00:00:00');
+      if (start > deadline) return false;
+      // 隐藏已结束时已过滤；若显示已结束，则时间过滤仍按开始日期
+    }
     return true;
   }
 
   function mapMatches(t) {
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false;
+    const today = vancouverISO();
+    if (activeFilters.ended === 'hide' && t.end && t.end < today) return false;
+    if (activeFilters.time !== 'all') {
+      const days = parseInt(activeFilters.time, 10);
+      const deadline = new Date(today + 'T00:00:00');
+      deadline.setDate(deadline.getDate() + days);
+      if (new Date((t.start || today) + 'T00:00:00') > deadline) return false;
+    }
     return true;
   }
 
