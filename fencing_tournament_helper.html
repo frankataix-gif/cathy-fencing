@@ -345,7 +345,7 @@
 
   <div class="tabs" id="tabs">
     <div class="tabs-inner">
-      <button class="tab active" data-tab="tournaments">赛事</button>
+      <button class="tab active" data-tab="tournaments">USA Fencing</button>
       <button class="tab" data-tab="cathydata">日程</button>
       <button class="tab" data-tab="profile">我的</button>
     </div>
@@ -360,8 +360,13 @@
       <div class="surprise" id="daily-surprise"></div>
     </div>
 
+    <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
+      <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
+      <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员信息</button>
+      <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">比赛成绩</button>
+    </div>
 
-
+    <div id="sub-tab-tournaments" class="fencing-sub-content" style="display:block;">
     <div class="tournament-body" style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
       <div id="list-panel" style="flex:2; min-width:300px;">
         <div class="filters">
@@ -407,6 +412,47 @@
         </div>
       </div>
       <div id="rules-panel" style="flex:1; min-width:260px;"></div>
+    </div>
+    </div>
+
+    <div id="sub-tab-membership" class="fencing-sub-content" style="display:none;">
+      <div class="card">
+        <h2 style="margin-bottom:12px;">会员信息 / Membership</h2>
+        <div style="font-size:0.9rem; line-height:1.8;">
+          <p><b>Name:</b> He Yunxi</p>
+          <p><b>Preferred Name:</b> Cathy</p>
+          <p><b>Country:</b> Grenada</p>
+          <p><b>Federation:</b> USA Fencing (Region 1)</p>
+          <p><b>Birth:</b> Mar 13, 2014 · 12 years old · Female</p>
+          <p><b>Height / Weight:</b> 165 cm / 114.6 lb</p>
+          <p><b>Home:</b> Vancouver, BC · Region 1 (WA, OR, MT, ID, WY)</p>
+          <p><b>Weapon:</b> Foil</p>
+          <p><b>Hand:</b> TBD</p>
+
+          <h3 style="margin: 20px 0 12px;">USA Fencing Membership</h3>
+          <p><b>Member ID:</b> 102111079</p>
+          <p><b>Membership Expires:</b> Jul 31, 2027</p>
+          <p><b>Parents:</b> Frank He & Natalie Wu</p>
+          <p><b>Club / Coach:</b> TBD / TBD</p>
+          <p><b>Notes:</b> None</p>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3 style="margin-bottom:12px;">Membership Photos</h3>
+        <div style="display:flex; gap:12px; flex-wrap:wrap;">
+          <img src="cathy_membership_card.png" class="membership-thumb" data-full="cathy_membership_card.png" alt="Membership Card" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+          <img src="cathy_membership_barcode.png" class="membership-thumb" data-full="cathy_membership_barcode.png" alt="Membership Barcode" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+        </div>
+        <p style="font-size:0.8rem; color:var(--gray); margin-top:8px;">Tap to enlarge / 点击放大</p>
+      </div>
+    </div>
+
+    <div id="sub-tab-results" class="fencing-sub-content" style="display:none;">
+      <div class="card">
+        <h2 style="margin-bottom:12px;">比赛成绩 / Results</h2>
+        <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
+      </div>
     </div>
   </div>
 
@@ -518,34 +564,7 @@
   <div id="tab-profile" class="tab-content">
     <div class="card">
       <h2 style="margin-bottom:12px;">我的 / My</h2>
-      <h3 style="margin-bottom:12px;">Cathy Profile</h3>
-      <div style="font-size:0.9rem; line-height:1.8;">
-        <p><b>Name:</b> He Yunxi</p>
-        <p><b>Preferred Name:</b> Cathy</p>
-        <p><b>Country:</b> Grenada</p>
-        <p><b>Federation:</b> USA Fencing (Region 1)</p>
-        <p><b>Birth:</b> Mar 13, 2014 · 12 years old · Female</p>
-        <p><b>Height / Weight:</b> 165 cm / 114.6 lb</p>
-        <p><b>Home:</b> Vancouver, BC · Region 1 (WA, OR, MT, ID, WY)</p>
-        <p><b>Weapon:</b> Foil</p>
-        <p><b>Hand:</b> TBD</p>
-
-        <h3 style="margin: 20px 0 12px;">USA Fencing Membership</h3>
-        <p><b>Member ID:</b> 102111079</p>
-        <p><b>Membership Expires:</b> Jul 31, 2027</p>
-        <p><b>Parents:</b> Frank He & Natalie Wu</p>
-        <p><b>Club / Coach:</b> TBD / TBD</p>
-        <p><b>Notes:</b> None</p>
-      </div>
-    </div>
-
-    <div class="card">
-      <h3 style="margin-bottom:12px;">Membership Photos</h3>
-      <div style="display:flex; gap:12px; flex-wrap:wrap;">
-        <img src="cathy_membership_card.png" class="membership-thumb" data-full="cathy_membership_card.png" alt="Membership Card" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-        <img src="cathy_membership_barcode.png" class="membership-thumb" data-full="cathy_membership_barcode.png" alt="Membership Barcode" style="width:100px; height:auto; border-radius:8px; cursor:pointer; box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-      </div>
-      <p style="font-size:0.8rem; color:var(--gray); margin-top:8px;">Tap to enlarge / 点击放大</p>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">数据同步与导出。</p>
     </div>
 
     <div class="card">
@@ -1977,6 +1996,61 @@ function circuitLabel(c) {
     if (mapBtn) mapBtn.addEventListener('click', () => setTournamentView('map'));
   }
 
+  function simpleMarkdownToHtml(md) {
+    if (!md) return '';
+    return md.split('\n').map(line => {
+      line = line.trimEnd();
+      if (!line.trim()) return '<div style="height:8px;"></div>';
+      line = line.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+      const trimmed = line.trim();
+      if (trimmed.startsWith('### ')) return `<h4 style="margin:12px 0 6px;">${trimmed.slice(4)}</h4>`;
+      if (trimmed.startsWith('## ')) return `<h3 style="margin:14px 0 6px;">${trimmed.slice(3)}</h3>`;
+      if (trimmed.startsWith('# ')) return `<h2 style="margin:16px 0 8px;">${trimmed.slice(2)}</h2>`;
+      if (trimmed.startsWith('- ')) return `<li style="margin-left:1.2em; margin-bottom:4px;">${trimmed.slice(2)}</li>`;
+      return `<p style="margin:0 0 6px 0;">${line}</p>`;
+    }).join('');
+  }
+
+  async function loadResultsView() {
+    const body = document.getElementById('results-view-body');
+    if (!body) return;
+    body.innerHTML = '加载中…';
+    try {
+      const res = await fetch('cathy_data/results.md?_=' + Date.now(), { cache: 'no-store' });
+      const text = await res.text();
+      body.innerHTML = simpleMarkdownToHtml(text);
+    } catch (e) {
+      body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
+    }
+  }
+
+  function setFencingSubTab(tab) {
+    const subs = ['tournaments', 'membership', 'results'];
+    subs.forEach(s => {
+      const el = document.getElementById('sub-tab-' + s);
+      const btn = document.querySelector(`.sub-tabs button[data-subtab="${s}"]`);
+      if (el) el.style.display = s === tab ? 'block' : 'none';
+      if (btn) {
+        if (s === tab) { btn.classList.remove('secondary'); btn.classList.add('active'); }
+        else { btn.classList.add('secondary'); btn.classList.remove('active'); }
+      }
+    });
+    if (tab === 'tournaments' && mapViewActive()) {
+      if (!map) initMap();
+      updateMapMarkers();
+    }
+    if (tab === 'results') loadResultsView();
+  }
+
+  function initFencingSubTabs() {
+    const bar = document.querySelector('.sub-tabs');
+    if (!bar) return;
+    bar.addEventListener('click', (e) => {
+      if (!e.target.dataset || !e.target.dataset.subtab) return;
+      setFencingSubTab(e.target.dataset.subtab);
+    });
+  }
+
   function initTabs() {
     document.getElementById('tabs').addEventListener('click', (e) => {
       if (!e.target.classList.contains('tab')) return;
@@ -2757,6 +2831,7 @@ function circuitLabel(c) {
   initBaseCity();
   initFilters();
   initTournamentView();
+  initFencingSubTabs();
   initTabs();
   initRulesPanel();
   initProfile();
