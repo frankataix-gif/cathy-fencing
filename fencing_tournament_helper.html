@@ -317,23 +317,20 @@
 <body>
   <div class="header" style="padding:16px;">
     <div class="profile-card" style="width:100%;">
-      <div class="profile-row" style="align-items:center;">
+      <div class="profile-row" style="align-items:center; flex-wrap:wrap;">
         <div class="profile-left" style="gap:14px;">
-          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'" style="width:60px; height:60px;">
+          <img class="avatar" src="cathy_avatar.jpg" alt="何云熙" onerror="this.style.display='none'" style="width:48px; height:48px;">
           <div class="profile-name">何云熙 Cathy He
-            <span>2014-03-13 | Vancouver, BC | Region 1 | 剑种：Foil 花剑</span>
+            <span id="header-greeting" style="font-size:0.75rem; color:rgba(255,255,255,0.85);"></span>
           </div>
         </div>
-        <div style="display:flex; align-items:center; gap:8px;">
-          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem; display:none;">🔄 强制更新</button>
+        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+          <button class="btn" id="top-refresh" style="padding:4px 12px; border-radius:20px; font-size:0.75rem; display:none;">强制更新</button>
           <a id="gdrive-btn" class="btn" href="#" target="_blank" style="display:none; padding:4px 12px; border-radius:20px; font-size:0.75rem;">打开 Google Drive 文档</a>
-        </div>
-      </div>
-      <div class="profile-row" style="gap:12px; align-items:center; flex-wrap:wrap;">
-        <div class="profile-meta" id="suggested-age"></div>
-        <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
-          <button class="btn" id="locate-btn" title="定位当前位置" style="padding:3px 10px; font-size:0.75rem;">定位</button>
-          <span id="header-base-city" style="font-size:0.75rem; color:rgba(255,255,255,0.85);"></span>
+          <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+            <button class="btn" id="locate-btn" title="定位当前位置" style="padding:3px 10px; font-size:0.75rem;">定位</button>
+            <span id="header-base-city" style="font-size:0.75rem; color:rgba(255,255,255,0.85);"></span>
+          </div>
         </div>
       </div>
     </div>
@@ -2109,8 +2106,8 @@ function circuitLabel(c) {
   }
 
   function initHeaderMeta() {
-    const meta = document.getElementById('suggested-age');
-    if (meta) meta.textContent = momGreeting();
+    const greeting = document.getElementById('header-greeting');
+    if (greeting) greeting.textContent = momGreeting();
     updateHeaderBaseCity();
 
     const refreshBtn = document.getElementById('top-refresh');
