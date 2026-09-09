@@ -312,6 +312,12 @@
     #entrant-modal-body .ent-name { font-weight: 600; font-size: 0.95rem; }
     #entrant-modal-body .ent-meta { font-size: 0.75rem; color: var(--gray); text-align: right; }
     #entrant-modal-close { background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--gray); }
+
+    #base-city-modal-overlay {
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5); z-index: 1000;
+      display: none; align-items: center; justify-content: center;
+    }
   </style>
 </head>
 <body>
@@ -330,6 +336,7 @@
           <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
             <button class="btn" id="locate-btn" title="定位当前位置" style="padding:3px 10px; font-size:0.75rem;">定位</button>
             <span id="header-base-city" style="font-size:0.75rem; color:rgba(255,255,255,0.85);"></span>
+            <button class="btn" id="edit-base-btn" title="手动输入出发城市" style="padding:2px 8px; font-size:0.7rem;">编辑</button>
           </div>
         </div>
       </div>
@@ -1492,6 +1499,52 @@ function circuitLabel(c) {
     );
   }
 
+  function openBaseCityModal() {
+    const overlay = document.getElementById('base-city-modal-overlay');
+    const input = document.getElementById('base-city-modal-input');
+    const list = document.getElementById('base-city-modal-list');
+    const hint = document.getElementById('base-city-modal-hint');
+    if (list) {
+      list.innerHTML = '';
+      Object.keys(CITY_COORDS).forEach(c => {
+        const opt = document.createElement('option');
+        opt.value = c;
+        list.appendChild(opt);
+      });
+    }
+    if (input) input.value = currentBase || 'Vancouver, BC';
+    if (hint) { hint.textContent = ''; hint.style.color = 'var(--gray)'; }
+    if (overlay) overlay.style.display = 'flex';
+  }
+
+  function closeBaseCityModal(e) {
+    if (e && e.target !== e.currentTarget) return;
+    const overlay = document.getElementById('base-city-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+  }
+
+  function saveBaseCity() {
+    const input = document.getElementById('base-city-modal-input');
+    const hint = document.getElementById('base-city-modal-hint');
+    if (!input) return;
+    const key = input.value.trim();
+    if (CITY_COORDS[key]) {
+      currentBase = key;
+      computeDistances(currentBase);
+      currentPage = 1;
+      renderResults();
+      updateMapMarkers();
+      saveToLocal('cathy_base_city', currentBase);
+      updateHeaderBaseCity();
+      closeBaseCityModal();
+    } else {
+      if (hint) {
+        hint.textContent = '未找到该城市，请从列表选择或在数据中补充';
+        hint.style.color = 'var(--danger)';
+      }
+    }
+  }
+
   function saveToLocal(key, value) {
     try { localStorage.setItem(key, value); } catch(e) {}
   }
@@ -2134,6 +2187,15 @@ function circuitLabel(c) {
     const locateBtn = document.getElementById('locate-btn');
     if (locateBtn) locateBtn.addEventListener('click', locateMom);
 
+    const editBtn = document.getElementById('edit-base-btn');
+    if (editBtn) editBtn.addEventListener('click', openBaseCityModal);
+
+    const saveBtn = document.getElementById('base-city-save');
+    if (saveBtn) saveBtn.addEventListener('click', saveBaseCity);
+
+    const modalInput = document.getElementById('base-city-modal-input');
+    if (modalInput) modalInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') saveBaseCity(); });
+
     const header = document.querySelector('.header');
     const tabs = document.getElementById('tabs');
     if (header && tabs) tabs.style.top = header.offsetHeight + 'px';
@@ -2726,6 +2788,22 @@ function circuitLabel(c) {
         <button id="entrant-modal-close" onclick="closeEntrantModal()">&times;</button>
       </div>
       <div id="entrant-modal-body"></div>
+    </div>
+  </div>
+
+  <div id="base-city-modal-overlay" onclick="closeBaseCityModal(event)">
+    <div id="base-city-modal" style="background:white; border-radius:12px; width:min(92%, 360px); padding:16px; box-shadow:0 10px 40px rgba(0,0,0,0.2); display:flex; flex-direction:column; gap:12px; max-height:85vh;">
+      <div style="display:flex; justify-content:space-between; align-items:center; font-weight:700;">
+        <span>出发城市</span>
+        <button onclick="closeBaseCityModal()" style="background:none; border:none; font-size:1.4rem; cursor:pointer; color:var(--gray);">&times;</button>
+      </div>
+      <input type="text" id="base-city-modal-input" list="base-city-modal-list" placeholder="如 Vancouver, BC" style="width:100%; padding:8px 12px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
+      <datalist id="base-city-modal-list"></datalist>
+      <div id="base-city-modal-hint" style="font-size:0.8rem; min-height:1.2em;"></div>
+      <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:4px;">
+        <button class="btn secondary" onclick="closeBaseCityModal()" style="padding:6px 14px; font-size:0.8rem;">取消</button>
+        <button class="btn" id="base-city-save" onclick="saveBaseCity()" style="padding:6px 14px; font-size:0.8rem;">保存</button>
+      </div>
     </div>
   </div>
 
