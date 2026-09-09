@@ -1625,14 +1625,16 @@ function circuitLabel(c) {
     try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
   }
 
-  function saveReflection(eventId, round, textObj) {
+  function saveReflection(eventId, round, summary) {
     if (!reflections[eventId]) reflections[eventId] = {};
-    reflections[eventId][round] = textObj;
+    reflections[eventId][round] = { summary };
     saveToLocal('cathy_reflections', JSON.stringify(reflections));
   }
 
   function getReflection(eventId, round) {
-    return (reflections[eventId] && reflections[eventId][round]) || { good: '', bad: '', notes: '' };
+    const ref = (reflections[eventId] && reflections[eventId][round]) || {};
+    const legacy = [ref.good, ref.bad, ref.notes].filter(Boolean).join('\n').trim();
+    return { summary: ref.summary || legacy || '' };
   }
 
   let currentReflectionEventId = '';
@@ -1656,16 +1658,8 @@ function circuitLabel(c) {
         <div class="reflection-round" data-round="${round}">
           <h4>${label}</h4>
           <div class="reflection-field">
-            <label for="ref-${round}-good">打得好的地方</label>
-            <textarea id="ref-${round}-good" placeholder="如：开局进攻主动，距离控制好...">${ref.good || ''}</textarea>
-          </div>
-          <div class="reflection-field">
-            <label for="ref-${round}-bad">需要改进的地方</label>
-            <textarea id="ref-${round}-bad" placeholder="如：第三剑后节奏乱，被反击...">${ref.bad || ''}</textarea>
-          </div>
-          <div class="reflection-field">
-            <label for="ref-${round}-notes">其他记录</label>
-            <textarea id="ref-${round}-notes" placeholder="如：对手习惯、心理状态、教练提醒...">${ref.notes || ''}</textarea>
+            <label for="ref-${round}-summary">总结</label>
+            <textarea id="ref-${round}-summary" placeholder="如：赛前心态、对手节奏、进攻距离、裁判适应..." style="min-height:80px;">${escapeHtml(ref.summary)}</textarea>
           </div>
         </div>
       `;
@@ -1686,11 +1680,9 @@ function circuitLabel(c) {
     if (!body || !currentReflectionEventId) return;
     body.querySelectorAll('.reflection-round').forEach(roundEl => {
       const round = roundEl.dataset.round;
-      const good = roundEl.querySelector('[id$="-good"]').value.trim();
-      const bad = roundEl.querySelector('[id$="-bad"]').value.trim();
-      const notes = roundEl.querySelector('[id$="-notes"]').value.trim();
-      if (good || bad || notes) {
-        saveReflection(currentReflectionEventId, round, { good, bad, notes });
+      const summary = roundEl.querySelector('[id$="-summary"]').value.trim();
+      if (summary) {
+        saveReflection(currentReflectionEventId, round, summary);
       }
     });
     closeReflectionModal();
@@ -1700,8 +1692,8 @@ function circuitLabel(c) {
   function renderReflectionSnippet(eventId) {
     const ref = reflections[eventId];
     if (!ref) return '';
-    const roundKeys = Object.keys(ref).filter(r => r !== 'bouts' && ref[r] && (ref[r].good || ref[r].bad || ref[r].notes));
-    const boutKeys = ref.bouts ? Object.keys(ref.bouts).filter(k => ref.bouts[k] && (ref.bouts[k].good || ref.bouts[k].bad || ref.bouts[k].notes)) : [];
+    const roundKeys = Object.keys(ref).filter(r => r !== 'bouts' && ref[r] && (ref[r].summary || ref[r].good || ref[r].bad || ref[r].notes));
+    const boutKeys = ref.bouts ? Object.keys(ref.bouts).filter(k => ref.bouts[k] && (ref.bouts[k].summary || ref.bouts[k].good || ref.bouts[k].bad || ref.bouts[k].notes)) : [];
     const total = roundKeys.length + boutKeys.length;
     if (!total) return '';
     return `<div class="reflection-snippet">已记录 ${total} 条感言</div>`;
@@ -1709,13 +1701,16 @@ function circuitLabel(c) {
 
   function getBoutReflection(eventId, round, opponent) {
     const key = boutReflectKey(round, opponent);
-    return (reflections[eventId] && reflections[eventId].bouts && reflections[eventId].bouts[key]) || { good: '', bad: '', notes: '' };
+    const ref = (reflections[eventId] && reflections[eventId].bouts && reflections[eventId].bouts[key]) || {};
+    // 兼容旧版 good/bad/notes
+    const legacy = [ref.good, ref.bad, ref.notes].filter(Boolean).join('\n').trim();
+    return { summary: ref.summary || legacy || '' };
   }
 
-  function saveBoutReflection(eventId, round, opponent, obj) {
+  function saveBoutReflection(eventId, round, opponent, summary) {
     if (!reflections[eventId]) reflections[eventId] = {};
     if (!reflections[eventId].bouts) reflections[eventId].bouts = {};
-    reflections[eventId].bouts[boutReflectKey(round, opponent)] = obj;
+    reflections[eventId].bouts[boutReflectKey(round, opponent)] = { summary };
     saveToLocal('cathy_reflections', JSON.stringify(reflections));
   }
 
@@ -1735,16 +1730,8 @@ function circuitLabel(c) {
       document.querySelectorAll('.opponent-reflect-form').forEach(f => { f.style.display = 'none'; f.innerHTML = ''; });
       form.innerHTML = `
         <div class="field">
-          <label>对 ${escapeHtml(opponent)}：打得好的地方</label>
-          <textarea class="op-ref-good" placeholder="如：距离控制、节奏把握...">${escapeHtml(ref.good)}</textarea>
-        </div>
-        <div class="field">
-          <label>需要改进的地方</label>
-          <textarea class="op-ref-bad" placeholder="如：开局慢热、被反击...">${escapeHtml(ref.bad)}</textarea>
-        </div>
-        <div class="field">
-          <label>其他观察</label>
-          <textarea class="op-ref-notes" placeholder="如：对手习惯、心理、教练建议...">${escapeHtml(ref.notes)}</textarea>
+          <label>对 ${escapeHtml(opponent)}：总结</label>
+          <textarea class="op-ref-summary" placeholder="如：赛前心态、对手节奏、进攻距离、裁判适应..." style="min-height:100px;">${escapeHtml(ref.summary)}</textarea>
         </div>
         <div style="display:flex; gap:8px; justify-content:flex-end;">
           <button class="btn secondary op-ref-cancel" style="padding:4px 10px; font-size:0.75rem;">取消</button>
@@ -1754,10 +1741,8 @@ function circuitLabel(c) {
       form.style.display = 'block';
       form.querySelector('.op-ref-cancel').addEventListener('click', () => { form.style.display = 'none'; form.innerHTML = ''; });
       form.querySelector('.op-ref-save').addEventListener('click', () => {
-        const good = form.querySelector('.op-ref-good').value.trim();
-        const bad = form.querySelector('.op-ref-bad').value.trim();
-        const notes = form.querySelector('.op-ref-notes').value.trim();
-        saveBoutReflection(eventId, round, opponent, { good, bad, notes });
+        const summary = form.querySelector('.op-ref-summary').value.trim();
+        saveBoutReflection(eventId, round, opponent, summary);
         form.style.display = 'none';
         form.innerHTML = '';
         if (resultsViewMode === 'list') renderResultsList(cachedResults);
