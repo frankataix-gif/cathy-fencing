@@ -326,13 +326,18 @@
     .result-stat { background:#f8fafc; border-radius:20px; padding:4px 10px; font-size:0.75rem; color:var(--gray); }
     .result-stat strong { color:var(--dark); }
     .bout-list { display:flex; flex-direction:column; gap:8px; }
-    .bout-row { display:flex; align-items:center; gap:8px; flex-wrap:nowrap; font-size:0.85rem; padding:6px 8px; background:#f8fafc; border-radius:8px; }
-    .bout-type { min-width:50px; color:var(--gray); font-size:0.75rem; }
+    .bout-row { display:flex; align-items:center; gap:6px; flex-wrap:nowrap; font-size:0.85rem; padding:6px 8px; background:#f8fafc; border-radius:8px; }
+    .bout-type { min-width:38px; color:var(--gray); font-size:0.75rem; }
     .bout-opponent { flex:1; min-width:0; }
     .bout-opponent-name { font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .bout-opponent-club { font-size:0.7rem; color:var(--gray); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .bout-score { font-weight:700; min-width:50px; text-align:center; }
-    .bout-result { min-width:44px; text-align:right; font-size:0.75rem; padding:2px 6px; border-radius:12px; }
+    .bout-score { font-weight:700; min-width:36px; text-align:center; }
+    .bout-result { min-width:36px; text-align:right; font-size:0.75rem; padding:2px 6px; border-radius:12px; }
+    .bout-reflect-btn { min-width:26px; height:26px; padding:0; border-radius:50%; font-size:1rem; line-height:1; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .opponent-reflect-form { background:white; border:1px solid #e5e7eb; border-radius:8px; padding:10px; margin:6px 0 10px; }
+    .opponent-reflect-form .field { margin-bottom:8px; }
+    .opponent-reflect-form label { display:block; font-size:0.75rem; color:var(--gray); margin-bottom:3px; }
+    .opponent-reflect-form textarea { width:100%; padding:6px 10px; border:1px solid #d1d5db; border-radius:6px; font-size:0.85rem; box-sizing:border-box; resize:vertical; min-height:50px; }
     .bout-win { background:#dcfce7; color:#166534; }
     .bout-loss { background:#fee2e2; color:#991b1b; }
     .results-empty { text-align:center; color:var(--gray); padding:30px 0; }
@@ -1695,9 +1700,73 @@ function circuitLabel(c) {
   function renderReflectionSnippet(eventId) {
     const ref = reflections[eventId];
     if (!ref) return '';
-    const rounds = Object.keys(ref).filter(r => ref[r] && (ref[r].good || ref[r].bad || ref[r].notes));
-    if (!rounds.length) return '';
-    return `<div class="reflection-snippet">已记录 ${rounds.length} 个环节感言</div>`;
+    const roundKeys = Object.keys(ref).filter(r => r !== 'bouts' && ref[r] && (ref[r].good || ref[r].bad || ref[r].notes));
+    const boutKeys = ref.bouts ? Object.keys(ref.bouts).filter(k => ref.bouts[k] && (ref.bouts[k].good || ref.bouts[k].bad || ref.bouts[k].notes)) : [];
+    const total = roundKeys.length + boutKeys.length;
+    if (!total) return '';
+    return `<div class="reflection-snippet">已记录 ${total} 条感言</div>`;
+  }
+
+  function getBoutReflection(eventId, round, opponent) {
+    const key = boutReflectKey(round, opponent);
+    return (reflections[eventId] && reflections[eventId].bouts && reflections[eventId].bouts[key]) || { good: '', bad: '', notes: '' };
+  }
+
+  function saveBoutReflection(eventId, round, opponent, obj) {
+    if (!reflections[eventId]) reflections[eventId] = {};
+    if (!reflections[eventId].bouts) reflections[eventId].bouts = {};
+    reflections[eventId].bouts[boutReflectKey(round, opponent)] = obj;
+    saveToLocal('cathy_reflections', JSON.stringify(reflections));
+  }
+
+  function toggleOpponentReflectForm(btn) {
+    const wrap = btn.closest('.bout-wrap');
+    if (!wrap) return;
+    const form = wrap.querySelector('.opponent-reflect-form');
+    if (!form) return;
+    const card = wrap.closest('.result-card');
+    const eventId = card ? card.dataset.eventId : '';
+    const round = wrap.dataset.round;
+    const opponent = wrap.dataset.opponent;
+    const ref = getBoutReflection(eventId, round, opponent);
+
+    if (form.style.display === 'none') {
+      // close other open forms
+      document.querySelectorAll('.opponent-reflect-form').forEach(f => { f.style.display = 'none'; f.innerHTML = ''; });
+      form.innerHTML = `
+        <div class="field">
+          <label>对 ${escapeHtml(opponent)}：打得好的地方</label>
+          <textarea class="op-ref-good" placeholder="如：距离控制、节奏把握...">${escapeHtml(ref.good)}</textarea>
+        </div>
+        <div class="field">
+          <label>需要改进的地方</label>
+          <textarea class="op-ref-bad" placeholder="如：开局慢热、被反击...">${escapeHtml(ref.bad)}</textarea>
+        </div>
+        <div class="field">
+          <label>其他观察</label>
+          <textarea class="op-ref-notes" placeholder="如：对手习惯、心理、教练建议...">${escapeHtml(ref.notes)}</textarea>
+        </div>
+        <div style="display:flex; gap:8px; justify-content:flex-end;">
+          <button class="btn secondary op-ref-cancel" style="padding:4px 10px; font-size:0.75rem;">取消</button>
+          <button class="btn op-ref-save" style="padding:4px 10px; font-size:0.75rem;">保存</button>
+        </div>
+      `;
+      form.style.display = 'block';
+      form.querySelector('.op-ref-cancel').addEventListener('click', () => { form.style.display = 'none'; form.innerHTML = ''; });
+      form.querySelector('.op-ref-save').addEventListener('click', () => {
+        const good = form.querySelector('.op-ref-good').value.trim();
+        const bad = form.querySelector('.op-ref-bad').value.trim();
+        const notes = form.querySelector('.op-ref-notes').value.trim();
+        saveBoutReflection(eventId, round, opponent, { good, bad, notes });
+        form.style.display = 'none';
+        form.innerHTML = '';
+        if (resultsViewMode === 'list') renderResultsList(cachedResults);
+        else renderTrendChart(cachedResults);
+      });
+    } else {
+      form.style.display = 'none';
+      form.innerHTML = '';
+    }
   }
 
   async function loadUserDataFromGitHub() {
@@ -2205,20 +2274,30 @@ function circuitLabel(c) {
     return String(str).replace(/[&<>"']/g, m => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[m]));
   }
 
+  function boutReflectKey(round, opponent) {
+    return round + ' / ' + opponent;
+  }
+
   function renderResultCard(r) {
-    const bouts = (r.bouts || []).map(b => {
+    const bouts = (r.bouts || []).map((b, idx) => {
       const isWin = b.result === 'Victory';
       const resultClass = isWin ? 'bout-win' : 'bout-loss';
       const resultText = isWin ? '胜' : '负';
+      const key = boutReflectKey(b.bout, b.opponent);
+      const hasReflect = (reflections[r.event_id] && reflections[r.event_id].bouts && reflections[r.event_id].bouts[key]) ? true : false;
       return `
-        <div class="bout-row">
-          <div class="bout-type">${b.bout}</div>
-          <div class="bout-opponent">
-            <div class="bout-opponent-name">${b.opponent}</div>
-            <div class="bout-opponent-club">${b.opponent_club || ''}</div>
+        <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
+          <div class="bout-row">
+            <div class="bout-type">${b.bout}</div>
+            <div class="bout-opponent">
+              <div class="bout-opponent-name">${b.opponent}</div>
+              <div class="bout-opponent-club">${b.opponent_club || ''}</div>
+            </div>
+            <div class="bout-score">${b.score}</div>
+            <div class="bout-result ${resultClass}">${resultText}</div>
+            <button class="btn secondary bout-reflect-btn" title="记录对 ${b.opponent} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">+</button>
           </div>
-          <div class="bout-score">${b.score}</div>
-          <div class="bout-result ${resultClass}">${resultText}</div>
+          <div class="opponent-reflect-form" style="display:none;"></div>
         </div>
       `;
     }).join('');
@@ -2331,6 +2410,11 @@ function circuitLabel(c) {
         try { rounds = JSON.parse(decodeURIComponent(card.dataset.rounds || '{}')); } catch(err) {}
         openReflectionModal(eventId, title, rounds);
       });
+    });
+
+    // 绑定逐对手感言 + 按钮
+    body.querySelectorAll('.bout-reflect-btn').forEach(btn => {
+      btn.addEventListener('click', () => toggleOpponentReflectForm(btn));
     });
   }
 
