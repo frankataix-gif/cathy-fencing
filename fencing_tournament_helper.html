@@ -366,21 +366,7 @@
       <div id="list-panel" style="flex:2; min-width:300px;">
         <div class="filters">
           <div class="filter-row"><span class="filter-label">赛事筛选 / Filter</span><div class="filter-options" id="reg-filters"></div></div>
-          <div class="filter-row"><span class="filter-label">时间 / Time</span>
-            <select id="time-filter" class="filter-select">
-              <option value="all" selected>全部时间</option>
-              <option value="14">最近2周</option>
-              <option value="31">1个月</option>
-              <option value="92">3个月</option>
-              <option value="183">6个月</option>
-            </select>
-          </div>
-          <div class="filter-row"><span class="filter-label">已结束 / Ended</span>
-            <select id="ended-filter" class="filter-select">
-              <option value="hide" selected>隐藏已结束</option>
-              <option value="show">显示已结束</option>
-            </select>
-          </div>
+          <div class="filter-row"><span class="filter-label">比赛开始时间 / Start Time</span><div class="filter-options" id="time-filters"></div></div>
           <div class="filter-row"><span class="filter-label">区域 / Region</span><div class="filter-options" id="region-filters"></div></div>
           <div class="filter-row"><span class="filter-label">年龄组 / Age</span><div class="filter-options" id="age-filters"></div></div>
           <div class="filter-row"><span class="filter-label">赛事级别 / Circuit</span><div class="filter-options" id="circuit-filters"></div></div>
@@ -580,7 +566,7 @@
 
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
-const DATA_UPDATED = '2026-09-09T05:49:43Z';
+const DATA_UPDATED = '2026-09-09T06:34:07Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 
 // 打开或回到前台时检测服务器是否有新版本，有则清缓存并刷新
@@ -1556,6 +1542,24 @@ function circuitLabel(c) {
     });
   }
 
+  function createSingleChips(container, options, type, labelKey = 'label') {
+    container.innerHTML = '';
+    options.forEach((opt, i) => {
+      const chip = document.createElement('div');
+      chip.className = 'chip' + (i === 0 ? ' active' : '');
+      chip.textContent = opt[labelKey] || opt.label || String(opt.value);
+      chip.dataset.value = opt.value !== undefined ? String(opt.value) : String(opt.max);
+      chip.addEventListener('click', () => {
+        Array.from(container.children).forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        activeFilters[type] = chip.dataset.value;
+        currentPage = 1;
+        renderResults();
+      });
+      container.appendChild(chip);
+    });
+  }
+
   function initFilters() {
     const regs = ['全部','推荐Cathy','未报名','已报名','关注赛事'];
     const regions = ['全部','1','2','3','4','5','6'];
@@ -1577,22 +1581,20 @@ function circuitLabel(c) {
       { label: '<1000km', max: 1000 },
       { label: '<1500km', max: 1500 }
     ];
+    const times = [
+      { label: '全部', value: 'all' },
+      { label: '2周内', value: '14' },
+      { label: '1个月', value: '31' },
+      { label: '3个月', value: '92' },
+      { label: '6个月', value: '183' }
+    ];
     createChips(document.getElementById('reg-filters'), regs, 'reg');
+    createSingleChips(document.getElementById('time-filters'), times, 'time');
     createChips(document.getElementById('region-filters'), regions, 'region');
     createChips(document.getElementById('age-filters'), ages, 'age');
     createChips(document.getElementById('circuit-filters'), circuits, 'circuit');
     createChips(document.getElementById('distance-filters'), distances, 'distance', 'label');
-    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], time: 'all', ended: 'hide' };
-    document.getElementById('time-filter').addEventListener('change', (e) => {
-      activeFilters.time = e.target.value;
-      currentPage = 1;
-      renderResults();
-    });
-    document.getElementById('ended-filter').addEventListener('change', (e) => {
-      activeFilters.ended = e.target.value;
-      currentPage = 1;
-      renderResults();
-    });
+    activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], time: 'all' };
   }
 
   function matchesReg(t, reg) {
@@ -1614,17 +1616,16 @@ function circuitLabel(c) {
       if (t.distance_km > maxDist) return false;
     }
     if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false; // default Foil
+    // 已结束比赛默认隐藏
     const today = vancouverISO();
-    if (activeFilters.ended === 'hide') {
-      if (t.end && t.end < today) return false;
-    }
+    if (t.end && t.end < today) return false;
+    // 时间过滤：按比赛开始时间
     if (activeFilters.time !== 'all') {
       const days = parseInt(activeFilters.time, 10);
       const deadline = new Date(today + 'T00:00:00');
       deadline.setDate(deadline.getDate() + days);
       const start = new Date((t.start || today) + 'T00:00:00');
       if (start > deadline) return false;
-      // 隐藏已结束时已过滤；若显示已结束，则时间过滤仍按开始日期
     }
     return true;
   }
@@ -1632,8 +1633,9 @@ function circuitLabel(c) {
   function mapMatches(t) {
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false;
+    // 地图也默认隐藏已结束比赛
     const today = vancouverISO();
-    if (activeFilters.ended === 'hide' && t.end && t.end < today) return false;
+    if (t.end && t.end < today) return false;
     if (activeFilters.time !== 'all') {
       const days = parseInt(activeFilters.time, 10);
       const deadline = new Date(today + 'T00:00:00');
