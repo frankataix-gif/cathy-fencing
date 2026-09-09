@@ -1797,34 +1797,32 @@ function circuitLabel(c) {
         }
       }
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
-      const liveTag = t.live_url ? `<a href="${t.live_url}" target="_blank" class="tag live-results" title="打开 FencingTimeLive 直播/结果（需登录）">📺 直播/结果</a>` : '';
-      const farTag = t.distance_km > 1000 ? `<span class="tag far">远 / ${t.distance_km}km</span>` : `<span class="tag">~${t.distance_km}km</span>`;
-      let travelTag = '';
+      const liveTag = t.live_url ? `<a href="${t.live_url}" target="_blank" class="tag live-results" title="打开 FencingTimeLive 直播/结果（需登录）">直播/结果</a>` : '';
+      let travelText = '';
       if (t.distance_km !== undefined && t.distance_km !== null) {
         if (t.distance_km <= 500) {
           const hours = Math.max(0.5, Math.round(t.distance_km / 50) / 2);
           const hText = hours === Math.floor(hours) ? hours + '小时' : hours.toFixed(1) + '小时';
-          travelTag = `<span class="tag travel-time" title="按开车约 100km/h 估算">开车约 ${hText}左右</span>`;
+          travelText = `开车约 ${hText}`;
         } else {
           const hours = Math.max(1, Math.round(t.distance_km / 800));
-          travelTag = `<span class="tag travel-flight" title="按飞行约 800km/h 估算">飞机约 ${hours} 小时</span>`;
+          travelText = `飞机约 ${hours} 小时`;
         }
       }
       const tournamentMapUrl = makeMapUrl(t);
       const closedStyle = t.status === 'closed' ? 'opacity:0.65;' : '';
+      const metaLine = `<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:12px; flex-wrap:wrap; color:var(--gray); font-size:0.8rem; margin-top:6px;">
+          <div>${formatDate(t.start, t.end)} · ${t.city}, ${t.state}</div>
+          <div style="white-space:nowrap;">~${t.distance_km}km${travelText ? ' · ' + travelText : ''}</div>
+        </div>`;
+
       card.innerHTML = `
         <div class="card-header" style="${closedStyle}">
-          <div class="card-title">${t.name}<br><span style="font-size:0.75rem;color:var(--gray);font-weight:400;">${t.notes}</span></div>
+          <div class="card-title">${t.name}</div>
           <span class="status ${st.class}">${st.text}</span>
         </div>
-        <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; background:#f8fafc; padding:8px 12px; border-radius:8px; margin:10px 0; font-size:0.8rem;">
-          <div style="color:var(--gray);">📅 ${formatDate(t.start, t.end)} · 📍 ${t.city}, ${t.state}</div>
-          <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap; justify-content:flex-end;">
-            ${farTag}
-            ${travelTag}
-          </div>
-        </div>
-        <div class="tags">
+        ${metaLine}
+        <div class="tags" style="margin-top:10px;">
           ${regTag}
           ${cathyTag}
           ${cathyEntriesTag}
@@ -1838,7 +1836,6 @@ function circuitLabel(c) {
         <div class="details" style="${closedStyle}">
           <div style="display:flex; gap:8px; flex-wrap:wrap;">
             ${t.url ? `<a href="${t.url}" target="_blank" class="btn" style="display:inline-block;">USA Fencing 赛事页</a>` : ''}
-            ${t.live_url ? `<a href="${t.live_url}" target="_blank" class="btn" style="display:inline-block;">📺 直播/结果</a>` : ''}
             <a href="${tournamentMapUrl}" target="_blank" class="btn" style="display:inline-block;">地图</a>
           </div>
           <div style="margin-top:8px;">
