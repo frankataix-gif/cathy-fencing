@@ -337,14 +337,13 @@
 
   <div class="tabs" id="tabs">
     <div class="tabs-inner">
-      <button class="tab active" data-tab="tournaments">赛事列表</button>
-      <button class="tab" data-tab="eventsmap">赛事地图</button>
+      <button class="tab active" data-tab="tournaments">赛事</button>
       <button class="tab" data-tab="cathydata">日程</button>
       <button class="tab" data-tab="profile">我的</button>
     </div>
   </div>
 
-  <!-- 赛事列表 -->
+  <!-- 赛事 -->
   <div id="tab-tournaments" class="tab-content active">
     <div class="daily-quote" id="daily-quote">
       <div class="greeting" id="daily-greeting" style="display:none;"></div>
@@ -374,37 +373,36 @@
         </div>
 
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px; flex-wrap:wrap; gap:8px;">
-          <h2 style="font-size:1.1rem; margin:0;">USA Fencing 赛事列表</h2>
+          <div class="view-toggle" style="display:flex; gap:8px;">
+            <button class="btn active" id="view-list" style="padding:4px 12px; font-size:0.8rem;">列表</button>
+            <button class="btn secondary" id="view-map" style="padding:4px 12px; font-size:0.8rem;">地图</button>
+          </div>
           <button class="btn" id="rules-toggle" style="padding:4px 10px; font-size:0.75rem;">赛事规则</button>
         </div>
-        <div class="result-count" id="result-count" style="margin-bottom:10px;"></div>
-        <div id="results"></div>
-        <div id="pagination" style="display:none;"></div>
+
+        <div id="tournament-list-view">
+          <div class="result-count" id="result-count" style="margin-bottom:10px;"></div>
+          <div id="results"></div>
+          <div id="pagination" style="display:none;"></div>
+        </div>
+
+        <div id="tournament-map-view" style="display:none;">
+          <div class="float-box" style="margin-bottom:12px;">
+            <div id="map-prompt" style="font-size:0.85rem; color:var(--gray); margin-bottom:10px; padding:8px 12px; background:#f8fafc; border-radius:8px;">按当前筛选显示赛事地图</div>
+            <div class="filter-label">颜色标记 / Color by</div>
+            <div id="map-color" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
+              <button class="btn" data-dim="region" style="padding:6px 12px; font-size:0.8rem;">Region</button>
+              <button class="btn secondary" data-dim="circuit" style="padding:6px 12px; font-size:0.8rem;">赛事级别 Circuit</button>
+              <button class="btn secondary" data-dim="reg" style="padding:6px 12px; font-size:0.8rem;">报名状态</button>
+              <button class="btn secondary" data-dim="recommended" style="padding:6px 12px; font-size:0.8rem;">推荐</button>
+            </div>
+            <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
+          </div>
+          <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
+        </div>
       </div>
       <div id="rules-panel" style="flex:1; min-width:260px;"></div>
     </div>
-  </div>
-
-  <!-- 赛事地图 -->
-  <div id="tab-eventsmap" class="tab-content">
-    <div class="float-box" style="margin-bottom:12px;">
-      <div id="map-prompt" style="font-size:0.85rem; color:var(--gray); margin-bottom:10px; padding:8px 12px; background:#f8fafc; border-radius:8px;">按 全部 + Region 显示赛事地图</div>
-      <div class="filter-label">主要筛选 / Main</div>
-      <div id="map-primary" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; margin-bottom:12px;">
-        <button class="btn" data-pv="全部" style="padding:6px 12px; font-size:0.8rem;">全部</button>
-        <button class="btn secondary" data-pv="推荐Cathy" style="padding:6px 12px; font-size:0.8rem;">推荐Cathy</button>
-        <button class="btn secondary" data-pv="未报名" style="padding:6px 12px; font-size:0.8rem;">未报名</button>
-        <button class="btn secondary" data-pv="已报名" style="padding:6px 12px; font-size:0.8rem;">已报名</button>
-        <button class="btn secondary" data-pv="关注赛事" style="padding:6px 12px; font-size:0.8rem;">关注赛事</button>
-      </div>
-      <div class="filter-label">第二层颜色 / Color by</div>
-      <div id="map-color" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:8px;">
-        <button class="btn" data-dim="region" style="padding:6px 12px; font-size:0.8rem;">Region</button>
-        <button class="btn secondary" data-dim="circuit" style="padding:6px 12px; font-size:0.8rem;">赛事级别 Circuit</button>
-      </div>
-      <div id="map-legend" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;font-size:0.75rem;"></div>
-    </div>
-    <div id="map" style="height:60vh; border-radius:12px; border:1px solid #e5e7eb;"></div>
   </div>
 
   <!-- 赛事规则 -->
@@ -1617,6 +1615,7 @@ function circuitLabel(c) {
   }
 
   function matches(t) {
+    if (t.status === 'not_yet_open') return false;
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (activeFilters.region.length && !activeFilters.region.includes(t.region)) return false;
     if (activeFilters.age.length && !activeFilters.age.some(a => (t.age_groups || []).includes(a))) return false;
@@ -1640,27 +1639,11 @@ function circuitLabel(c) {
     return true;
   }
 
-  function mapMatches(t) {
-    if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
-    if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false;
-    // 地图也默认隐藏已结束比赛
-    const today = vancouverISO();
-    if (t.end && t.end < today) return false;
-    if (activeFilters.time !== 'all') {
-      const days = parseInt(activeFilters.time, 10);
-      const deadline = new Date(today + 'T00:00:00');
-      deadline.setDate(deadline.getDate() + days);
-      if (new Date((t.start || today) + 'T00:00:00') > deadline) return false;
-    }
-    return true;
-  }
-
   function updateMapPrompt() {
     const prompt = document.getElementById('map-prompt');
     if (!prompt) return;
-    const main = activeFilters.reg.length ? activeFilters.reg.join('+') : '全部';
-    const secondary = { region: 'Region', circuit: '赛事级别 Circuit' }[mapColorDim] || mapColorDim;
-    prompt.textContent = `按 ${main} + ${secondary} 显示赛事地图`;
+    const secondary = { region: 'Region', circuit: '赛事级别', reg: '报名状态', recommended: '推荐' }[mapColorDim] || mapColorDim;
+    prompt.textContent = `按当前筛选显示赛事地图 · 颜色：${secondary}`;
   }
 
   function formatDate(s, e) {
@@ -1710,7 +1693,7 @@ function circuitLabel(c) {
       const ao = regOrder[a.reg_status] ?? 2;
       const bo = regOrder[b.reg_status] ?? 2;
       return ao - bo;
-    }).filter(t => t.status !== 'not_yet_open');
+    });
     const totalPages = Math.ceil(list.length / PAGE_SIZE) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
     if (currentPage < 1) currentPage = 1;
@@ -1819,7 +1802,7 @@ function circuitLabel(c) {
       c.appendChild(card);
     });
     renderPagination(list.length, totalPages);
-    if (map) updateMapMarkers();
+    if (map && mapViewActive()) updateMapMarkers();
   }
 
   function initRulesPanel() {
@@ -1844,6 +1827,40 @@ function circuitLabel(c) {
     }
   }
 
+  function setTournamentView(view) {
+    const listView = document.getElementById('tournament-list-view');
+    const mapView = document.getElementById('tournament-map-view');
+    const listBtn = document.getElementById('view-list');
+    const mapBtn = document.getElementById('view-map');
+    const rulesToggle = document.getElementById('rules-toggle');
+    const rulesPanel = document.getElementById('rules-panel');
+    if (!listView || !mapView) return;
+    if (view === 'map') {
+      listView.style.display = 'none';
+      mapView.style.display = 'block';
+      if (listBtn) listBtn.classList.add('secondary');
+      if (mapBtn) mapBtn.classList.remove('secondary');
+      if (rulesToggle) rulesToggle.style.display = 'none';
+      if (rulesPanel) { rulesPanel.classList.remove('rules-open'); rulesPanel.style.display = 'none'; }
+      if (!map) initMap();
+      updateMapMarkers();
+    } else {
+      listView.style.display = 'block';
+      mapView.style.display = 'none';
+      if (listBtn) listBtn.classList.remove('secondary');
+      if (mapBtn) mapBtn.classList.add('secondary');
+      if (rulesToggle) rulesToggle.style.display = '';
+      if (rulesPanel) rulesPanel.style.display = '';
+    }
+  }
+
+  function initTournamentView() {
+    const listBtn = document.getElementById('view-list');
+    const mapBtn = document.getElementById('view-map');
+    if (listBtn) listBtn.addEventListener('click', () => setTournamentView('list'));
+    if (mapBtn) mapBtn.addEventListener('click', () => setTournamentView('map'));
+  }
+
   function initTabs() {
     document.getElementById('tabs').addEventListener('click', (e) => {
       if (!e.target.classList.contains('tab')) return;
@@ -1851,16 +1868,16 @@ function circuitLabel(c) {
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       e.target.classList.add('active');
       document.getElementById('tab-' + e.target.dataset.tab).classList.add('active');
-      if (e.target.dataset.tab === 'eventsmap' && !map) initMap();
+      if (e.target.dataset.tab === 'tournaments' && mapViewActive()) {
+        if (!map) initMap();
+        updateMapMarkers();
+      }
     });
   }
 
-  function updateMapPrimaryUI() {
-    const value = activeFilters.reg.length ? activeFilters.reg[0] : '全部';
-    document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
-      b.className = 'btn' + (b.dataset.pv === value ? '' : ' secondary');
-    });
-    updateMapPrompt();
+  function mapViewActive() {
+    const mapView = document.getElementById('tournament-map-view');
+    return mapView && mapView.style.display !== 'none';
   }
 
   function initMap() {
@@ -1868,29 +1885,6 @@ function circuitLabel(c) {
     if (!mapEl) return;
     map = L.map(mapEl).setView([CITY_COORDS[currentBase][0], CITY_COORDS[currentBase][1]], 4);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
-
-    function setMapPrimary(value) {
-      activeFilters.reg = value === '全部' ? [] : [value];
-      document.querySelectorAll('#map-primary button[data-pv]').forEach(b => {
-        b.className = 'btn' + (b.dataset.pv === (value || '全部') ? '' : ' secondary');
-      });
-      const regContainer = document.getElementById('reg-filters');
-      if (regContainer) {
-        Array.from(regContainer.children).forEach(b => {
-          b.classList.remove('active');
-          if (b.dataset.value === (value || '全部')) b.classList.add('active');
-        });
-      }
-      currentPage = 1;
-      renderResults();
-      updateMapMarkers();
-    }
-
-    const primaryBtns = document.querySelectorAll('#map-primary button[data-pv]');
-    primaryBtns.forEach(btn => {
-      btn.addEventListener('click', () => setMapPrimary(btn.dataset.pv));
-    });
-    setMapPrimary(activeFilters.reg.length ? activeFilters.reg[0] : '全部');
 
     const colorBtns = document.querySelectorAll('#map-color button[data-dim]');
     colorBtns.forEach(btn => {
@@ -1931,11 +1925,10 @@ function circuitLabel(c) {
 
   function updateMapMarkers() {
     if (!map) return;
-    updateMapPrimaryUI();
     updateMapPrompt();
     updateMapLegend();
     markers.forEach(m => map.removeLayer(m)); markers = [];
-    const visible = TOURNAMENTS.filter(mapMatches);
+    const visible = TOURNAMENTS.filter(matches);
     visible.forEach(t => {
       const color = getMarkerColor(t);
       const marker = L.circleMarker([t.lat, t.lng], { radius: 8, color, fillColor: color, fillOpacity: 0.8 }).addTo(map);
@@ -2633,6 +2626,7 @@ function circuitLabel(c) {
   initServiceWorker();
   initBaseCity();
   initFilters();
+  initTournamentView();
   initTabs();
   initRulesPanel();
   initProfile();
