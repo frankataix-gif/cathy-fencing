@@ -183,9 +183,25 @@ def parse_event_section(section):
 
     date_obj = parse_date(date_str)
 
+    # 提取 event_id，如 https://fencingtracker.com/event/42526/results
+    event_id = ""
+    if event_link and event_link.get("href"):
+        m = re.search(r"/event/(\d+)", event_link.get("href"))
+        if m:
+            event_id = m.group(1)
+
+    # 按轮次分组（Pool / T64 / T32 ...）
+    rounds = {}
+    for b in bouts:
+        rd = b.get("bout") or "Other"
+        if rd not in rounds:
+            rounds[rd] = []
+        rounds[rd].append(b)
+
     return {
         "tournament": title,
         "event": event_name,
+        "event_id": event_id,
         "event_class": event_class,
         "age_group": age_group,
         "date_display": date_str,
@@ -198,6 +214,7 @@ def parse_event_section(section):
         "rating": rating,
         "total": total,
         "bouts": bouts,
+        "rounds": rounds,
         "source_url": "https://fencingtracker.com" + event_link.get("href") if event_link and event_link.get("href") else "",
     }
 

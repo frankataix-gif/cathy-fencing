@@ -340,6 +340,21 @@
     .result-summary-card { background:white; border-radius:10px; padding:12px; text-align:center; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
     .result-summary-card .num { font-size:1.2rem; font-weight:700; color:var(--primary); }
     .result-summary-card .label { font-size:0.75rem; color:var(--gray); margin-top:4px; }
+
+    #reflection-modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 1000; display: none; align-items: center; justify-content: center; }
+    #reflection-modal { background:white; border-radius:12px; width:min(92%, 520px); max-height:85vh; padding:16px; box-shadow:0 10px 40px rgba(0,0,0,0.2); display:flex; flex-direction:column; gap:12px; overflow:hidden; }
+    #reflection-modal-body { overflow-y:auto; flex:1; }
+    .reflection-round { margin-bottom:16px; }
+    .reflection-round h4 { margin:0 0 8px; font-size:0.95rem; }
+    .reflection-field { margin-bottom:10px; }
+    .reflection-field label { display:block; font-size:0.8rem; color:var(--gray); margin-bottom:4px; }
+    .reflection-field textarea { width:100%; padding:8px 12px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box; resize:vertical; min-height:60px; }
+    .reflection-snippet { font-size:0.8rem; color:var(--gray); margin-top:8px; font-style:italic; }
+
+    .trend-chart { width:100%; height:260px; background:white; border-radius:12px; padding:12px; box-sizing:border-box; }
+    .trend-legend { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px; font-size:0.8rem; }
+    .trend-legend span { display:flex; align-items:center; gap:4px; }
+    .trend-dot { width:10px; height:10px; border-radius:50%; }
   </style>
 </head>
 <body>
@@ -473,6 +488,10 @@
     <div id="sub-tab-results" class="fencing-sub-content" style="display:none;">
       <div class="card">
         <h2 style="margin-bottom:12px;">比赛成绩 / Results</h2>
+        <div style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
+          <button class="btn active" id="results-view-list" style="padding:4px 12px; font-size:0.8rem;">列表</button>
+          <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
+        </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
       </div>
     </div>
@@ -1374,6 +1393,9 @@ function circuitLabel(c) {
   let activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], search: '' };
   let currentBase = CATHY.home;
   let currentPage = 1;
+  let reflections = {};
+  let cachedResults = [];
+  let resultsViewMode = 'list';
   const PAGE_SIZE = 1000;
   let mapColorDim = 'region';
   let map = null, markers = [], baseMarker = null;
@@ -1594,6 +1616,90 @@ function circuitLabel(c) {
     try { return localStorage.getItem(key) || def; } catch(e) { return def; }
   }
 
+  function loadReflections() {
+    try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
+  }
+
+  function saveReflection(eventId, round, textObj) {
+    if (!reflections[eventId]) reflections[eventId] = {};
+    reflections[eventId][round] = textObj;
+    saveToLocal('cathy_reflections', JSON.stringify(reflections));
+  }
+
+  function getReflection(eventId, round) {
+    return (reflections[eventId] && reflections[eventId][round]) || { good: '', bad: '', notes: '' };
+  }
+
+  let currentReflectionEventId = '';
+
+  function openReflectionModal(eventId, title, rounds) {
+    currentReflectionEventId = eventId;
+    const overlay = document.getElementById('reflection-modal-overlay');
+    const body = document.getElementById('reflection-modal-body');
+    const titleEl = document.getElementById('reflection-modal-title');
+    if (!overlay || !body) return;
+    if (titleEl) titleEl.textContent = '比赛感言 · ' + title;
+
+    const roundList = Object.keys(rounds || {});
+    if (!roundList.length) roundList.push('全程');
+    roundList.push('overall');
+
+    body.innerHTML = roundList.map(round => {
+      const label = round === 'overall' ? '全场总结' : round;
+      const ref = getReflection(eventId, round);
+      return `
+        <div class="reflection-round" data-round="${round}">
+          <h4>${label}</h4>
+          <div class="reflection-field">
+            <label for="ref-${round}-good">打得好的地方</label>
+            <textarea id="ref-${round}-good" placeholder="如：开局进攻主动，距离控制好...">${ref.good || ''}</textarea>
+          </div>
+          <div class="reflection-field">
+            <label for="ref-${round}-bad">需要改进的地方</label>
+            <textarea id="ref-${round}-bad" placeholder="如：第三剑后节奏乱，被反击...">${ref.bad || ''}</textarea>
+          </div>
+          <div class="reflection-field">
+            <label for="ref-${round}-notes">其他记录</label>
+            <textarea id="ref-${round}-notes" placeholder="如：对手习惯、心理状态、教练提醒...">${ref.notes || ''}</textarea>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    overlay.style.display = 'flex';
+  }
+
+  function closeReflectionModal(e) {
+    if (e && e.target !== e.currentTarget) return;
+    const overlay = document.getElementById('reflection-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+    currentReflectionEventId = '';
+  }
+
+  function saveReflectionFromModal() {
+    const body = document.getElementById('reflection-modal-body');
+    if (!body || !currentReflectionEventId) return;
+    body.querySelectorAll('.reflection-round').forEach(roundEl => {
+      const round = roundEl.dataset.round;
+      const good = roundEl.querySelector('[id$="-good"]').value.trim();
+      const bad = roundEl.querySelector('[id$="-bad"]').value.trim();
+      const notes = roundEl.querySelector('[id$="-notes"]').value.trim();
+      if (good || bad || notes) {
+        saveReflection(currentReflectionEventId, round, { good, bad, notes });
+      }
+    });
+    closeReflectionModal();
+    loadResultsView();
+  }
+
+  function renderReflectionSnippet(eventId) {
+    const ref = reflections[eventId];
+    if (!ref) return '';
+    const rounds = Object.keys(ref).filter(r => ref[r] && (ref[r].good || ref[r].bad || ref[r].notes));
+    if (!rounds.length) return '';
+    return `<div class="reflection-snippet">已记录 ${rounds.length} 个环节感言</div>`;
+  }
+
   async function loadUserDataFromGitHub() {
     try {
       const res = await fetch('cathy_data/user_data.json', { cache: 'no-cache' });
@@ -1617,6 +1723,10 @@ function circuitLabel(c) {
           computeDistances(currentBase);
         }
       }
+      if (data.reflections && typeof data.reflections === 'object') {
+        reflections = data.reflections;
+        saveToLocal('cathy_reflections', JSON.stringify(reflections));
+      }
       renderResults();
       renderSchedule();
     } catch (err) {}
@@ -1634,7 +1744,7 @@ function circuitLabel(c) {
     let schedule = [];
     try { schedule = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { schedule = []; }
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity };
+    const userData = { registrations, schedule, baseCity, reflections };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -2091,6 +2201,10 @@ function circuitLabel(c) {
     return out;
   }
 
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, m => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[m]));
+  }
+
   function renderResultCard(r) {
     const bouts = (r.bouts || []).map(b => {
       const isWin = b.result === 'Victory';
@@ -2109,8 +2223,12 @@ function circuitLabel(c) {
       `;
     }).join('');
 
+    const snippet = renderReflectionSnippet(r.event_id);
+    const roundsAttr = encodeURIComponent(JSON.stringify(r.rounds || {}));
+    const titleAttr = escapeHtml(r.tournament || '');
+
     return `
-      <div class="result-card">
+      <div class="result-card" data-event-id="${r.event_id || ''}" data-title="${titleAttr}" data-rounds="${roundsAttr}">
         <h3>${r.tournament}</h3>
         <div class="meta">${r.date_display || ''} · ${r.event || ''} · ${r.event_class || ''} ${r.age_group || ''}</div>
         <div class="stats">
@@ -2119,7 +2237,11 @@ function circuitLabel(c) {
           <span class="result-stat"><strong>种子</strong> ${r.seed || '-'}</span>
           <span class="result-stat"><strong>评分</strong> ${r.rating || '-'}</span>
         </div>
-        ${r.source_url ? `<div style="margin-bottom:10px;"><a href="${r.source_url}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">FencingTracker 详情</a></div>` : ''}
+        <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px;">
+          ${r.source_url ? `<a href="${r.source_url}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">FencingTracker 详情</a>` : ''}
+          <button class="btn secondary reflection-btn" style="font-size:0.75rem; padding:4px 10px;">记录感言</button>
+        </div>
+        ${snippet}
         <div class="bout-list">${bouts}</div>
       </div>
     `;
@@ -2149,6 +2271,173 @@ function circuitLabel(c) {
     return groups;
   }
 
+  function renderResultsList(results) {
+    const body = document.getElementById('results-view-body');
+    if (!body) return;
+
+    // 整体汇总
+    const totalEvents = results.length;
+    const totalBouts = results.reduce((sum, r) => sum + (r.bouts || []).length, 0);
+    const wins = results.reduce((sum, r) => sum + (r.bouts || []).filter(b => b.result === 'Victory').length, 0);
+    const losses = totalBouts - wins;
+
+    const groupStats = computeGroupStats(results);
+    const groupHtml = Object.entries(groupStats).map(([g, s]) => {
+      const winRate = s.wins + s.losses > 0 ? Math.round(s.wins / (s.wins + s.losses) * 100) + '%' : '-';
+      return `
+        <div class="result-summary-card" style="text-align:left; padding:12px;">
+          <div style="font-size:0.85rem; color:var(--gray); margin-bottom:4px;">年龄组</div>
+          <div style="font-size:1.1rem; font-weight:700;">${g}</div>
+          <div style="display:flex; gap:10px; margin-top:8px; flex-wrap:wrap; font-size:0.75rem; color:var(--gray);">
+            <span>${s.events.length} 场</span>
+            <span>胜率 ${winRate}</span>
+            <span>最佳 ${s.best !== null ? s.best : '-'}</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    const summaryHtml = `
+      <div class="result-summary">
+        <div class="result-summary-card"><div class="num">${totalEvents}</div><div class="label">赛事</div></div>
+        <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
+        <div class="result-summary-card"><div class="num">${wins}</div><div class="label">胜</div></div>
+        <div class="result-summary-card"><div class="num">${losses}</div><div class="label">负</div></div>
+      </div>
+      <div class="result-summary" style="margin-top:12px;">
+        ${groupHtml}
+      </div>
+    `;
+
+    // 按年龄组分组显示
+    const byAge = {};
+    results.forEach(r => { const g = r.age_group || '未分组'; if (!byAge[g]) byAge[g] = []; byAge[g].push(r); });
+    let cardsHtml = '';
+    for (const [g, list] of Object.entries(byAge)) {
+      cardsHtml += `<h3 style="margin:20px 0 10px; font-size:1rem; color:var(--gray);">${g}</h3>`;
+      cardsHtml += list.map(renderResultCard).join('');
+    }
+
+    body.innerHTML = summaryHtml + cardsHtml;
+
+    // 绑定比赛感言按钮
+    body.querySelectorAll('.reflection-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const card = e.target.closest('.result-card');
+        if (!card) return;
+        const eventId = card.dataset.eventId;
+        const title = card.dataset.title || '';
+        let rounds = {};
+        try { rounds = JSON.parse(decodeURIComponent(card.dataset.rounds || '{}')); } catch(err) {}
+        openReflectionModal(eventId, title, rounds);
+      });
+    });
+  }
+
+  function renderTrendChart(results) {
+    const body = document.getElementById('results-view-body');
+    if (!body) return;
+    if (!results.length) {
+      body.innerHTML = '<div class="results-empty">暂无足够数据绘制走势</div>';
+      return;
+    }
+
+    const valid = results.map(r => ({
+      ...r,
+      parsed: parsePlaceNum(r.place),
+      date: r.date_iso ? new Date(r.date_iso) : null
+    })).filter(r => r.parsed.place !== null && r.date);
+    valid.sort((a, b) => a.date - b.date);
+
+    if (!valid.length) {
+      body.innerHTML = '<div class="results-empty">暂无足够数据绘制走势</div>';
+      return;
+    }
+
+    const groups = {};
+    valid.forEach(r => {
+      const g = r.age_group || '未分组';
+      if (!groups[g]) groups[g] = [];
+      groups[g].push(r);
+    });
+
+    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6'];
+    const groupNames = Object.keys(groups);
+    const colorMap = {};
+    groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
+
+    // chart dimensions
+    const W = 600, H = 260, pad = { top: 30, right: 30, bottom: 50, left: 50 };
+    const xMin = valid[0].date.getTime(), xMax = valid[valid.length - 1].date.getTime();
+    const allPlaces = valid.map(r => r.parsed.place);
+    const yMin = Math.max(1, Math.min(...allPlaces) - 2);
+    const yMax = Math.max(...allPlaces) + 2;
+
+    function xScale(t) { return pad.left + (t - xMin) / (xMax - xMin) * (W - pad.left - pad.right); }
+    function yScale(v) { return pad.top + (v - yMin) / (yMax - yMin) * (H - pad.top - pad.bottom); }
+
+    let paths = '';
+    let points = '';
+    let labels = '';
+
+    groupNames.forEach(g => {
+      const list = groups[g];
+      const color = colorMap[g];
+      const d = list.map((r, i) => {
+        const x = xScale(r.date.getTime());
+        const y = yScale(r.parsed.place);
+        return `${i === 0 ? 'M' : 'L'} ${x.toFixed(1)} ${y.toFixed(1)}`;
+      }).join(' ');
+      paths += `<path d="${d}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />`;
+
+      list.forEach(r => {
+        const x = xScale(r.date.getTime());
+        const y = yScale(r.parsed.place);
+        points += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5" />`;
+        labels += `<text x="${x.toFixed(1)}" y="${(y - 10).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${r.parsed.place}</text>`;
+      });
+    });
+
+    // y-axis ticks
+    let yTicks = '';
+    for (let v = yMin; v <= yMax; v++) {
+      if (Math.round(v) !== v) continue;
+      const y = yScale(v);
+      yTicks += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />`;
+      yTicks += `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${Math.round(v)}</text>`;
+    }
+
+    // x-axis labels (date)
+    let xTicks = '';
+    const xSteps = Math.min(valid.length, 5);
+    for (let i = 0; i < xSteps; i++) {
+      const idx = Math.round(i * (valid.length - 1) / (xSteps - 1 || 1));
+      const r = valid[idx];
+      const x = xScale(r.date.getTime());
+      const label = `${r.date.getMonth() + 1}/${r.date.getDate()}`;
+      xTicks += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${label}</text>`;
+      xTicks += `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
+    }
+
+    const legendHtml = groupNames.map(g => `<span><span class="trend-dot" style="background:${colorMap[g]}"></span>${g}</span>`).join('');
+
+    const svg = `
+      <div class="trend-legend">${legendHtml}</div>
+      <div style="font-size:0.75rem; color:var(--gray); margin-bottom:8px;">纵轴：名次（越低越好）</div>
+      <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
+        ${yTicks}
+        ${xTicks}
+        <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+        <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+        ${paths}
+        ${points}
+        ${labels}
+      </svg>
+    `;
+
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">成绩走势（按年龄组）</h3>' + svg;
+  }
+
   async function loadResultsView() {
     const body = document.getElementById('results-view-body');
     if (!body) return;
@@ -2156,59 +2445,29 @@ function circuitLabel(c) {
     try {
       const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
       const data = await res.json();
-      const results = data && data.results ? data.results : [];
-      if (!results.length) {
+      cachedResults = data && data.results ? data.results : [];
+      if (!cachedResults.length) {
         body.innerHTML = '<div class="results-empty">暂无比赛成绩<br>数据会自动从 FencingTracker 更新</div>';
         return;
       }
-
-      // 整体汇总
-      const totalEvents = results.length;
-      const totalBouts = results.reduce((sum, r) => sum + (r.bouts || []).length, 0);
-      const wins = results.reduce((sum, r) => sum + (r.bouts || []).filter(b => b.result === 'Victory').length, 0);
-      const losses = totalBouts - wins;
-
-      // 按年龄组统计
-      const groupStats = computeGroupStats(results);
-      const groupHtml = Object.entries(groupStats).map(([g, s]) => {
-        const winRate = s.wins + s.losses > 0 ? Math.round(s.wins / (s.wins + s.losses) * 100) + '%' : '-';
-        return `
-          <div class="result-summary-card" style="text-align:left; padding:12px;">
-            <div style="font-size:0.85rem; color:var(--gray); margin-bottom:4px;">年龄组</div>
-            <div style="font-size:1.1rem; font-weight:700;">${g}</div>
-            <div style="display:flex; gap:10px; margin-top:8px; flex-wrap:wrap; font-size:0.75rem; color:var(--gray);">
-              <span>${s.events.length} 场</span>
-              <span>胜率 ${winRate}</span>
-              <span>最佳 ${s.best !== null ? s.best : '-'}</span>
-            </div>
-          </div>
-        `;
-      }).join('');
-
-      const summaryHtml = `
-        <div class="result-summary">
-          <div class="result-summary-card"><div class="num">${totalEvents}</div><div class="label">赛事</div></div>
-          <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
-          <div class="result-summary-card"><div class="num">${wins}</div><div class="label">胜</div></div>
-          <div class="result-summary-card"><div class="num">${losses}</div><div class="label">负</div></div>
-        </div>
-        <div class="result-summary" style="margin-top:12px;">
-          ${groupHtml}
-        </div>
-      `;
-
-      // 按年龄组分组显示
-      const byAge = {};
-      results.forEach(r => { const g = r.age_group || '未分组'; if (!byAge[g]) byAge[g] = []; byAge[g].push(r); });
-      let cardsHtml = '';
-      for (const [g, list] of Object.entries(byAge)) {
-        cardsHtml += `<h3 style="margin:20px 0 10px; font-size:1rem; color:var(--gray);">${g}</h3>`;
-        cardsHtml += list.map(renderResultCard).join('');
-      }
-
-      body.innerHTML = summaryHtml + cardsHtml;
+      if (resultsViewMode === 'trend') renderTrendChart(cachedResults);
+      else renderResultsList(cachedResults);
     } catch (e) {
       body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
+    }
+  }
+
+  function switchResultsView(mode) {
+    resultsViewMode = mode;
+    const listBtn = document.getElementById('results-view-list');
+    const trendBtn = document.getElementById('results-view-trend');
+    if (listBtn) { listBtn.classList.toggle('active', mode === 'list'); listBtn.classList.toggle('secondary', mode !== 'list'); }
+    if (trendBtn) { trendBtn.classList.toggle('active', mode === 'trend'); trendBtn.classList.toggle('secondary', mode !== 'trend'); }
+    if (cachedResults.length) {
+      if (mode === 'trend') renderTrendChart(cachedResults);
+      else renderResultsList(cachedResults);
+    } else {
+      loadResultsView();
     }
   }
 
@@ -2237,6 +2496,13 @@ function circuitLabel(c) {
       if (!e.target.dataset || !e.target.dataset.subtab) return;
       setFencingSubTab(e.target.dataset.subtab);
     });
+  }
+
+  function initResultsViewButtons() {
+    const listBtn = document.getElementById('results-view-list');
+    const trendBtn = document.getElementById('results-view-trend');
+    if (listBtn) listBtn.addEventListener('click', () => switchResultsView('list'));
+    if (trendBtn) trendBtn.addEventListener('click', () => switchResultsView('trend'));
   }
 
   function initTabs() {
@@ -3020,6 +3286,7 @@ function circuitLabel(c) {
   initFilters();
   initTournamentView();
   initFencingSubTabs();
+  initResultsViewButtons();
   initTabs();
   initRulesPanel();
   initProfile();
@@ -3029,6 +3296,7 @@ function circuitLabel(c) {
   initImageLightbox();
   initTournamentNav();
   initPullToRefresh();
+  loadReflections();
   loadUserDataFromGitHub();
   renderResults();
   renderDailyQuote();
@@ -3066,6 +3334,20 @@ function circuitLabel(c) {
       <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:4px;">
         <button class="btn secondary" onclick="closeBaseCityModal()" style="padding:6px 14px; font-size:0.8rem;">取消</button>
         <button class="btn" id="base-city-save" onclick="saveBaseCity()" style="padding:6px 14px; font-size:0.8rem;">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="reflection-modal-overlay" onclick="closeReflectionModal(event)">
+    <div id="reflection-modal">
+      <div style="display:flex; justify-content:space-between; align-items:center; font-weight:700;">
+        <span id="reflection-modal-title">比赛感言</span>
+        <button onclick="closeReflectionModal()" style="background:none; border:none; font-size:1.4rem; cursor:pointer; color:var(--gray);">&times;</button>
+      </div>
+      <div id="reflection-modal-body"></div>
+      <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:4px;">
+        <button class="btn secondary" onclick="closeReflectionModal()" style="padding:6px 14px; font-size:0.8rem;">取消</button>
+        <button class="btn" onclick="saveReflectionFromModal()" style="padding:6px 14px; font-size:0.8rem;">保存</button>
       </div>
     </div>
   </div>
