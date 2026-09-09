@@ -331,7 +331,10 @@
       </div>
       <div class="profile-row" style="gap:12px; align-items:center; flex-wrap:wrap;">
         <div class="profile-meta" id="suggested-age"></div>
-        <button class="btn" id="locate-btn" title="定位当前位置" style="padding:3px 10px; font-size:0.75rem; display:inline-flex; align-items:center; gap:4px;">定位</button>
+        <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+          <button class="btn" id="locate-btn" title="定位当前位置" style="padding:3px 10px; font-size:0.75rem;">定位</button>
+          <span id="header-base-city" style="font-size:0.75rem; color:rgba(255,255,255,0.85);"></span>
+        </div>
       </div>
     </div>
   </div>
@@ -353,23 +356,7 @@
       <div class="surprise" id="daily-surprise"></div>
     </div>
 
-    <div class="float-box" id="base-city-box" style="padding:12px 16px;">
-      <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
-        <div>
-          <span class="filter-label" style="margin:0;">出发地 / Base</span>
-          <div id="base-city-display" style="font-size:0.95rem; color:var(--text); margin-top:4px;"></div>
-        </div>
-        <button class="btn secondary" id="base-city-edit" style="padding:4px 12px; font-size:0.75rem; flex-shrink:0;">编辑</button>
-      </div>
-      <div id="base-city-editor" style="display:none; margin-top:12px;">
-        <div class="filter-label">出发城市 / Base City（输入城市名自动计算距离）</div>
-        <div class="base-city" style="margin-top:6px;">
-          <input type="text" id="base-city-input" list="base-city-list" placeholder="如 Vancouver, BC" style="min-width:180px;">
-          <datalist id="base-city-list"></datalist>
-          <span id="base-city-hint" style="font-size:0.8rem;color:var(--gray);"></span>
-        </div>
-      </div>
-    </div>
+
 
     <div class="tournament-body" style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
       <div id="list-panel" style="flex:2; min-width:300px;">
@@ -1416,65 +1403,30 @@ function circuitLabel(c) {
     });
   }
 
+  function updateHeaderBaseCity() {
+    const span = document.getElementById('header-base-city');
+    if (span) span.textContent = currentBase || 'Vancouver, BC';
+  }
+
   function initBaseCity() {
-    const input = document.getElementById('base-city-input');
-    const datalist = document.getElementById('base-city-list');
-    const hint = document.getElementById('base-city-hint');
-    const display = document.getElementById('base-city-display');
-    const editor = document.getElementById('base-city-editor');
-    const editBtn = document.getElementById('base-city-edit');
-
-    Object.keys(CITY_COORDS).forEach(c => {
-      const opt = document.createElement('option');
-      opt.value = c;
-      datalist.appendChild(opt);
-    });
-
-    function updateDisplay() {
-      if (display) display.textContent = currentBase || 'Vancouver, BC';
-      if (input) input.value = currentBase || 'Vancouver, BC';
-      if (hint) {
-        hint.textContent = `已计算 ${currentBase} 到各赛事距离`;
-        hint.style.color = 'var(--success)';
-      }
-    }
-
-    function setBase(v, coords) {
-      const key = v.trim();
-      if (key && !CITY_COORDS[key] && coords) {
+    function setBase(key, coords) {
+      const k = (key || '').trim();
+      if (!k) return;
+      if (!CITY_COORDS[k] && coords) {
         // 对 GPS 定位到的新城市，动态注入坐标
-        CITY_COORDS[key] = coords;
+        CITY_COORDS[k] = coords;
       }
-      if (CITY_COORDS[key]) {
-        currentBase = key;
+      if (CITY_COORDS[k]) {
+        currentBase = k;
         computeDistances(currentBase);
         currentPage = 1;
         renderResults();
         updateMapMarkers();
         saveToLocal('cathy_base_city', currentBase);
-        updateDisplay();
-      } else if (key) {
-        if (hint) {
-          hint.textContent = '未找到该城市坐标，请从提示列表选择或在数据中补充';
-          hint.style.color = 'var(--danger)';
-        }
+        updateHeaderBaseCity();
       }
     }
 
-    if (editBtn && editor) {
-      editBtn.addEventListener('click', () => {
-        const showing = editor.style.display === 'block';
-        editor.style.display = showing ? 'none' : 'block';
-        editBtn.textContent = showing ? '编辑' : '收起';
-      });
-    }
-
-    input.addEventListener('change', () => setBase(input.value));
-    input.addEventListener('input', () => {
-      if (CITY_COORDS[input.value.trim()]) setBase(input.value);
-    });
-
-    // restore saved base city + possible custom coords
     const saved = getLocal('cathy_base_city', currentBase);
     let savedCoords;
     try { savedCoords = JSON.parse(getLocal('cathy_base_coords', '')); } catch(e) {}
@@ -1524,14 +1476,11 @@ function circuitLabel(c) {
           currentPage = 1;
           renderResults();
           updateMapMarkers();
-          const display = document.getElementById('base-city-display');
-          if (display) display.textContent = place.key;
-          const input = document.getElementById('base-city-input');
-          if (input) input.value = place.key;
+          updateHeaderBaseCity();
           if (btn) { btn.textContent = '定位'; btn.disabled = false; }
         } else {
           if (btn) { btn.textContent = '定位'; btn.disabled = false; }
-          alert('无法解析当前城市，请手动输入出发地。');
+          alert('无法解析当前城市，请检查定位或稍后重试。');
         }
       },
       (err) => {
@@ -2162,6 +2111,7 @@ function circuitLabel(c) {
   function initHeaderMeta() {
     const meta = document.getElementById('suggested-age');
     if (meta) meta.textContent = momGreeting();
+    updateHeaderBaseCity();
 
     const refreshBtn = document.getElementById('top-refresh');
     if (refreshBtn) refreshBtn.addEventListener('click', forceRefresh);
