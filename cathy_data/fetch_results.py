@@ -159,7 +159,7 @@ def parse_event_section(section):
         "rating": rating,
         "total": total,
         "bouts": bouts,
-        "source_url": event_link.get("href") if event_link else "",
+        "source_url": "https://fencingtracker.com" + event_link.get("href") if event_link and event_link.get("href") else "",
     }
 
 

@@ -318,6 +318,28 @@
       background: rgba(0,0,0,0.5); z-index: 1000;
       display: none; align-items: center; justify-content: center;
     }
+
+    .result-card { background:white; border-radius:12px; padding:14px; margin-bottom:12px; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
+    .result-card h3 { margin:0 0 6px; font-size:1rem; }
+    .result-card .meta { font-size:0.8rem; color:var(--gray); margin-bottom:10px; }
+    .result-card .stats { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+    .result-stat { background:#f8fafc; border-radius:20px; padding:4px 10px; font-size:0.75rem; color:var(--gray); }
+    .result-stat strong { color:var(--dark); }
+    .bout-list { display:flex; flex-direction:column; gap:8px; }
+    .bout-row { display:flex; align-items:center; gap:8px; flex-wrap:nowrap; font-size:0.85rem; padding:6px 8px; background:#f8fafc; border-radius:8px; }
+    .bout-type { min-width:50px; color:var(--gray); font-size:0.75rem; }
+    .bout-opponent { flex:1; min-width:0; }
+    .bout-opponent-name { font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .bout-opponent-club { font-size:0.7rem; color:var(--gray); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .bout-score { font-weight:700; min-width:50px; text-align:center; }
+    .bout-result { min-width:44px; text-align:right; font-size:0.75rem; padding:2px 6px; border-radius:12px; }
+    .bout-win { background:#dcfce7; color:#166534; }
+    .bout-loss { background:#fee2e2; color:#991b1b; }
+    .results-empty { text-align:center; color:var(--gray); padding:30px 0; }
+    .result-summary { display:grid; grid-template-columns:repeat(auto-fit, minmax(120px, 1fr)); gap:8px; margin-bottom:16px; }
+    .result-summary-card { background:white; border-radius:10px; padding:12px; text-align:center; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
+    .result-summary-card .num { font-size:1.2rem; font-weight:700; color:var(--primary); }
+    .result-summary-card .label { font-size:0.75rem; color:var(--gray); margin-top:4px; }
   </style>
 </head>
 <body>
@@ -2069,14 +2091,69 @@ function circuitLabel(c) {
     return out;
   }
 
+  function renderResultCard(r) {
+    const bouts = (r.bouts || []).map(b => {
+      const isWin = b.result === 'Victory';
+      const resultClass = isWin ? 'bout-win' : 'bout-loss';
+      const resultText = isWin ? '胜' : '负';
+      return `
+        <div class="bout-row">
+          <div class="bout-type">${b.bout}</div>
+          <div class="bout-opponent">
+            <div class="bout-opponent-name">${b.opponent}</div>
+            <div class="bout-opponent-club">${b.opponent_club || ''}</div>
+          </div>
+          <div class="bout-score">${b.score}</div>
+          <div class="bout-result ${resultClass}">${resultText}</div>
+        </div>
+      `;
+    }).join('');
+
+    return `
+      <div class="result-card">
+        <h3>${r.tournament}</h3>
+        <div class="meta">${r.date_display || ''} · ${r.event || ''} · ${r.event_class || ''} ${r.age_group || ''}</div>
+        <div class="stats">
+          <span class="result-stat"><strong>名次</strong> ${r.place || '-'}</span>
+          <span class="result-stat"><strong>参赛</strong> ${r.total || '-'} 人</span>
+          <span class="result-stat"><strong>种子</strong> ${r.seed || '-'}</span>
+          <span class="result-stat"><strong>评分</strong> ${r.rating || '-'}</span>
+        </div>
+        ${r.source_url ? `<div style="margin-bottom:10px;"><a href="${r.source_url}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">FencingTracker 详情</a></div>` : ''}
+        <div class="bout-list">${bouts}</div>
+      </div>
+    `;
+  }
+
   async function loadResultsView() {
     const body = document.getElementById('results-view-body');
     if (!body) return;
     body.innerHTML = '加载中…';
     try {
-      const res = await fetch('cathy_data/results.md?_=' + Date.now(), { cache: 'no-store' });
-      const text = await res.text();
-      body.innerHTML = simpleMarkdownToHtml(text);
+      const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
+      const data = await res.json();
+      const results = data && data.results ? data.results : [];
+      if (!results.length) {
+        body.innerHTML = '<div class="results-empty">暂无比赛成绩<br>数据会自动从 FencingTracker 更新</div>';
+        return;
+      }
+
+      // 汇总统计
+      const totalEvents = results.length;
+      const totalBouts = results.reduce((sum, r) => sum + (r.bouts || []).length, 0);
+      const wins = results.reduce((sum, r) => sum + (r.bouts || []).filter(b => b.result === 'Victory').length, 0);
+      const losses = totalBouts - wins;
+
+      const summaryHtml = `
+        <div class="result-summary">
+          <div class="result-summary-card"><div class="num">${totalEvents}</div><div class="label">赛事</div></div>
+          <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
+          <div class="result-summary-card"><div class="num">${wins}</div><div class="label">胜</div></div>
+          <div class="result-summary-card"><div class="num">${losses}</div><div class="label">负</div></div>
+        </div>
+      `;
+
+      body.innerHTML = summaryHtml + results.map(renderResultCard).join('');
     } catch (e) {
       body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
     }
