@@ -2050,7 +2050,7 @@ function circuitLabel(c) {
   function renderDailyQuote() {
     const x = ENCOURAGEMENTS[Math.floor(Math.random() * ENCOURAGEMENTS.length)];
     const s = SURPRISES[Math.floor(Math.random() * SURPRISES.length)];
-    document.getElementById('daily-greeting').textContent = getGreeting() + ' · Vancouver Time ' + vancouverDate();
+    document.getElementById('daily-greeting').textContent = getGreeting() + ' · ' + vancouverDate();
     document.getElementById('daily-quote-text').textContent = x.text;
     document.getElementById('daily-quote-from').textContent = '—— ' + x.from;
     document.getElementById('daily-surprise').textContent = s;
@@ -2085,7 +2085,7 @@ function circuitLabel(c) {
     else if (vHour >= 12 && vHour < 18) word = '下午好';
     else if (vHour >= 18 && vHour < 22) word = '晚上好';
     else word = '夜深了';
-    return `${word}，妈妈辛苦了 · Vancouver Time ${vancouverDate()}`;
+    return `${word}，妈妈辛苦了 · ${vancouverDate()}`;
   }
 
   async function forceRefresh() {
