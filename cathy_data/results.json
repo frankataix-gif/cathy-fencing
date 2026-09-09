@@ -6,6 +6,13 @@
       "event_class": "C2",
       "age_group": "Y14",
       "date_display": "September 7, 2026",
+      "date_iso": "2026-09-07",
+      "season": "2026-2027",
+      "circuits": [
+        "RJCC",
+        "RYC",
+        "ROC"
+      ],
       "place": "21 of 86",
       "seed": "50",
       "ranked": "Not ranked",

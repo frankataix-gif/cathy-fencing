@@ -87,6 +87,40 @@ def parse_bout_row(row):
     }
 
 
+def infer_season(date_obj):
+    """USA Fencing 赛季：当年 8/1 到次年 7/31 为一个赛季。"""
+    if not date_obj:
+        return ""
+    year = date_obj.year
+    if date_obj.month >= 8:
+        return f"{year}-{year + 1}"
+    return f"{year - 1}-{year}"
+
+
+def infer_circuits(tournament_name):
+    """从赛事名推断赛事级别。"""
+    if not tournament_name:
+        return []
+    name = tournament_name.upper()
+    levels = []
+    for kw in ["NAC", "SJC", "SYC", "RJCC", "RYC", "ROC", "WORLD", "CADET", "JUNIOR", "YOUTH", "LOCAL"]:
+        if kw in name:
+            levels.append(kw)
+    if not levels:
+        levels.append("Local")
+    return levels
+
+
+def parse_date(date_str):
+    """解析 'September 7, 2026' 为 date 对象。"""
+    if not date_str:
+        return None
+    try:
+        return datetime.strptime(date_str.strip(), "%B %d, %Y").date()
+    except ValueError:
+        return None
+
+
 def parse_event_section(section):
     """解析单个比赛（section）。"""
     title = ""
@@ -147,12 +181,17 @@ def parse_event_section(section):
             if bout:
                 bouts.append(bout)
 
+    date_obj = parse_date(date_str)
+
     return {
         "tournament": title,
         "event": event_name,
         "event_class": event_class,
         "age_group": age_group,
         "date_display": date_str,
+        "date_iso": date_obj.isoformat() if date_obj else "",
+        "season": infer_season(date_obj),
+        "circuits": infer_circuits(title),
         "place": place,
         "seed": seed,
         "ranked": ranked,
@@ -194,6 +233,8 @@ def write_markdown(results, path: Path):
     lines.append("")
     for r in results:
         lines.append(f"## {r.get('date_display', '')} · {r.get('tournament', '')}")
+        lines.append(f"- 赛季：{r.get('season', '')}")
+        lines.append(f"- 赛事级别：{', '.join(r.get('circuits', []))}")
         lines.append(f"- 项目：{r.get('event', '')} ({r.get('event_class', '')}, {r.get('age_group', '')})")
         lines.append(f"- 名次：{r.get('place', '')}")
         lines.append(f"- 种子：{r.get('seed', '')}")

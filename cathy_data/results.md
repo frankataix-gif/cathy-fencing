@@ -1,6 +1,6 @@
 # 比赛成绩 / Results
 
-自动从 FencingTracker 抓取，最后更新：2026-09-10 00:23:56
+自动从 FencingTracker 抓取，最后更新：2026-09-10 00:33:08
 
 ## 概览
 
@@ -9,6 +9,8 @@
 | September 7, 2026 | Fortune ROC/RJCC/RYC | Y-14 Women's Foil | 21 of 86 | 86 | 50 | U |
 
 ## September 7, 2026 · Fortune ROC/RJCC/RYC
+- 赛季：2026-2027
+- 赛事级别：RJCC, RYC, ROC
 - 项目：Y-14 Women's Foil (C2, Y14)
 - 名次：21 of 86
 - 种子：50
