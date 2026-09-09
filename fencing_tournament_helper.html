@@ -334,6 +334,8 @@
     .bout-score { font-weight:700; min-width:36px; text-align:center; }
     .bout-result { min-width:36px; text-align:right; font-size:0.75rem; padding:2px 6px; border-radius:12px; }
     .bout-reflect-btn { min-width:26px; height:26px; padding:0; border-radius:50%; font-size:1rem; line-height:1; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .bout-reflect-btn:not(.secondary) { background:var(--primary); color:#fff; border:none; }
+    .bout-reflection { font-size:0.8rem; color:var(--gray); background:#f0f9ff; border-left:3px solid var(--primary); padding:8px 10px; margin:6px 0 0 0; border-radius:0 6px 6px 0; white-space:pre-wrap; word-break:break-word; }
     .opponent-reflect-form { background:white; border:1px solid #e5e7eb; border-radius:8px; padding:10px; margin:6px 0 10px; }
     .opponent-reflect-form .field { margin-bottom:8px; }
     .opponent-reflect-form label { display:block; font-size:0.75rem; color:var(--gray); margin-bottom:3px; }
@@ -2268,8 +2270,10 @@ function circuitLabel(c) {
       const isWin = b.result === 'Victory';
       const resultClass = isWin ? 'bout-win' : 'bout-loss';
       const resultText = isWin ? '胜' : '负';
-      const key = boutReflectKey(b.bout, b.opponent);
-      const hasReflect = (reflections[r.event_id] && reflections[r.event_id].bouts && reflections[r.event_id].bouts[key]) ? true : false;
+      const ref = getBoutReflection(r.event_id, b.bout, b.opponent);
+      const hasReflect = !!ref.summary;
+      const reflectMark = hasReflect ? '✎' : '+';
+      const reflectText = hasReflect ? escapeHtml(ref.summary) : '';
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
           <div class="bout-row">
@@ -2280,8 +2284,9 @@ function circuitLabel(c) {
             </div>
             <div class="bout-score">${b.score}</div>
             <div class="bout-result ${resultClass}">${resultText}</div>
-            <button class="btn secondary bout-reflect-btn" title="记录对 ${b.opponent} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">+</button>
+            <button class="btn ${hasReflect ? '' : 'secondary'} bout-reflect-btn" title="${hasReflect ? '编辑' : '记录'}对 ${b.opponent} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">${reflectMark}</button>
           </div>
+          ${reflectText ? `<div class="bout-reflection">${reflectText}</div>` : ''}
           <div class="opponent-reflect-form" style="display:none;"></div>
         </div>
       `;
