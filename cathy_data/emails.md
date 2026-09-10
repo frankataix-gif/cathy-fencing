@@ -10632,3 +10632,79 @@ Privacy and Confidentiality Notice: This is strictly confidential and intended s
 
 
 ---
+
+## [其他] Your Payoneer account is approved
+
+**发件人:** Payoneer <no-reply@send.payoneer.com>
+**日期:** 2026-09-03T10:04:05+00:00
+**摘要:** Payoneer账户已批准，可开始使用该服务进行业务扩展。
+**待办:** 无
+
+Time to start growing your
+business with Payoneer
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/4XjyxL0P_8w8LGK-aWL-IQ~~/AAQRxRA~/SKvGHVU5qpp2CZWPqvwwn-PG94BATntCb3GK56YNY8p1BH__sxXDvH6joi3eXgRmE_kou_pdujtzfsqD2ESKesuhZiH7nnro8nS4QKfMkH2XXa9JXp-Q5FUEkxDcqXeb style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/lCJj_7iQ80FqlkIcAl5ehQ~~/AAQRxRA~/mzXKP61pSdez2PcfRF1FPh5YmHo73BdIsbbuXajafa9k_VxfHjvNXbHoWrnoRVCGqJRWF_QoGP8EAV8WOUsk_OibTo_9gZiamlQqao_6ptjWfyq5Ecvjo9HcPA1F1Eq5W8wBHjfDY4tkGfzJDy3tyZJXOsRa5qWCm_QmIaz0YjfSonQE-R3bPcGZuLaZ-20s alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+You can now send and receive
+money with Payoneer
+payoneer         
+
+
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;background:#FFFFFF;">
+  <tr>
+    <td style="padding-top:20px;padding-bottom:20px;">
+      <table class="ContentTextArea" align="center" border="0" cellpadding="0" cellspacing="0" style="font-family:'open sans',Arial,Helvetica,sans-serif;font-size:15px;text-align:left;color:#676767;" width="85%">
+        <tr>
+          <td valign="middle" style="padding-top:10px;padding-bottom:10px;"><strong style="font-size:16px;">Hi XIAOJUN,</strong></td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:10px;"><!--Gradient Liner--><!--[if (gte mso 9)|(IE)]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:100px;height:3px;"><v:fill type="gradient" color="#20dc86" color2="#ff4800" colors="30% #0092f4,70% #da54d8," angle="90"/></v:rect><![endif]-->
+            <table border="0" align="left" cellpadding="0" cellspacing="0" width="100" height="3" style="display:inline-table;">
+              <tr>
+                <td style="background:#0092F4;background:-moz-linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);background:-webkit-linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);background:linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);"></td>
+              </tr>
+            </table><!--[if gte mso 9]><![endif]--><!-- End Gradient Liner-->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+Your Payoneer account is all
+set and ready to go! You can now access all the features designed
+to help your business grow without
+borders.
+Here are some of our
+features:            payoneer
+Receive funds from marketplaces
+within the Payone
+
+---
