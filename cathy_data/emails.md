@@ -8514,3 +8514,78 @@ body {
     min-width: au
 
 ---
+
+## [营销] Jingqi, Sports season is back 📣
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-09T15:42:12-07:00
+**摘要:** TELUS推广Optik TV体育赛季优惠套餐，每月65美元包含体育、流媒体和直播电视服务。
+**待办:** 无
+
+Get Optik TV—sports, streaming, and live TV, all for just $65/mo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cb&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQmcDE9JTQwMFllR1lXJTJCams3dkcxUm0lMkJYT1R3eDBTTGNuamtCU1V6aW14NGFKWVh4aU0lM0Q&s=0drfY4Pwoi7QlwDCjitiDCPGUHtUX-3QwwJQwHaCnQI web browser . 	
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cc&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=hIglT55fd8NLA7jb-JDx_eEWEv_cxU537xoGMfXiON4 	
+	
+
+Your ultimate 
+entertainment lineup. 	
+	
+
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cd&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=xJQtUsGb4veHEC62knTYP4QHcNYh1zKpCte_UMW5rm4 	
+	
+
+Build your perfect entertainment lineup with sports, streaming and live TV—all in one place with Optik. 	
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521ce&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=H-aRFsvl0U6dW0HuO7sTeeanGa20dOGSCAN1snFJ8bI 	
+All for just 	
+
+$ 	65 	/mo. ¹ 	
+	
+Regular price $80/mo. 	
+	
+
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cf&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=9_NiHMJcNYrMVTPaJgx3KIXFZCBLzIOxDcIJFuvAcKw 	
+	
+
+Your entertainment, 
+all in one place 	
+	
+Get top sports networks, streaming, and live TV channels together in one easy place—never miss kickoff, puck drop, 
+or tip-off. 2 	
+	
+Build your custom roster of streaming and switch it up every 30 days to follow your teams from regular season 
+to playoffs. 3 	
+	
+Score more, spend less. Combine your entertainment into one powerhouse plan and save more than paying for separate standalone subscriptions. 4 	
+	
+
+	
+	
+
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521d0&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=IrQFfwzg5Haxx-lEnYUQCGgyWqz1oFJ9x0tX7KCK9JU 	 https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521d1&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=Q2TIMrgq0mtuwSfzWBdf-NoZO1U8kpDQHWOjTpI9mqw Learn more 	
+ tel:1-855-778-6054 	 tel:1-855-778-6054 Call 1-855-778-6054 	
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521d2&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=T_YBimeY6uYj1YFirsnEZiUXqPe31Q-a3iLTy2nXwMI 	 https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521d3&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=1G4ZQ4kRJMbxYSIAQef6hRIbgpTJHqlfTZPFlDh4iFo Visit us in store 	
+	
+	
+<!--[if mso]>
+<style type=”text/css”>
+table,tr,td,p,a {
+font-family: Arial, Helvetica, sans-serif !important;
+}
+</style>
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" class="width100">
+  <tr>
+    <td align="left" style="font-size: 1px;"><img src="https://images.ctfassets.net/vob3qda590l9/HKOhdyp5Ohl3uFLZ5zidm/6eb427ee6fd4e78ddc3f0a82d144ba22/SocialFooter_GradientBorder.jpg" width="600" style="display: block;" border="0" class="width100" alt="" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" style="padding: 35px 0;" align="center"><table align="center" width="540" border="0" cellspacing="0" cellpadding="0" class="width90">
+        <tr>
+          <td align="center" style="font-family: 'Roboto', Arial, Helvetica, sans-serif;  font-size: 30px; line-height: 26px; color: #4b286d; text-align: center; padding: 0px 10px 10px 10px;"><strong>Let's make the future friendly<sup style="vertical-align: baseline">&trade;</sup></strong></td>
+        </tr>
+         
+         
+        <tr>
+          <td align="center" style="padding: 15px 0;"><table width="460" align="center" border="0" c
+
+---
