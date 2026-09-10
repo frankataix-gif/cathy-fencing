@@ -53,3 +53,14 @@ https://mail.google.com/mail/uf-%5BANGjdJ9_VvYKnFAVdi6sSTzil56dt78lC-MH3n5AyLuJ7
 
 
 ---
+
+## [学校] Meadowridge Friday Assembly
+
+**发件人:** office@meadowridge.ca
+**日期:** 2026-09-10T19:42:03Z
+**摘要:** 邀请家长参加周五早上9点的集会，地点在体育馆。
+**待办:** 无
+
+Dear parents, please join the Friday morning assembly at 9:00 AM in the gym.
+
+---
