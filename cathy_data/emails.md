@@ -8065,3 +8065,73 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQasgk6qZqY93cKAyUcudqL0-3DDbr5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAO7HzLAcsTXMPAUYzRxTcacugonZ84a0RDEEEaTMS6VJTGgHFupcas6vu-2Bc1S5Gmvy-2FF-2BW6oft3ocTSOKoR-2BkaorBlyjcqiXQJ-2B-2Bdo9zOQjQWpQeRYlPEPUcsG3pSy-2BxMPtn-2B97tSC-2BDTTEU35NBItw7xfvW4tG8Aihng8HuJDVEhXvi-2BoEbWcRCCQYYIQ5B1cIJosNbC3QvWnuvnHsxE-2Bl4m-2BPeXGjZTdPHZhzs0D5dCsjFNTRSwtjboYck66DT2WvAdgFCwsKqrhFwhAozOj-2Fk-2Fo7KwNMEPmh1uy6p27Hcwh4KFiDR40FDMTuwGuVlHs
 
 ---
+
+## [营销] Get more currencies. Reach more markets
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-10T07:03:44+00:00
+**摘要:** 这封邮件介绍了Payoneer多货币账户功能，鼓励用户通过开通更多货币接收账户来扩展业务市场，并提供操作指引。
+**待办:** 无
+
+Your Payoneer account is a
+multi-currency marvel 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/7mwscnfJ0dzSoIv3GZHGJA~~/AAQRxRA~/ReUMgFpnwjMUM4sHxlDzwaoihncQSCXWGkcn_GYNUzezxGPIq0-ePy-y5Dmx5-VVKTvZQnyyz5kdVtsedLRDfOq5HPPRV9WYW-niAfnReELL-NGtLCsmYkt0qDQgQNMr style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/nlv-JMZK6ULeN4_rDYx1fw~~/AAQRxRA~/kM_aFJZq8XNMovavhUBsZK3pNZsbjZYWuYohRBp2sh2Bx-I3RCV-3kRDvcZ8XaFEvk6fMsJ3alullSrkvVGPJQIen2_pdOAh7l5ipteACm2v6ntwxRQNPgKoLWsklh4LZOECHeGMjFfy19VmQsQ1Gdi_XKcw7eIe3BvqKWJFBAw5-yr2F8nHUxqhRr-E9MWi alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+More bang for your buck, pound, yen or euro           payoneer
+Hi XIAOJUN
+When you can have receiving accounts in up to 11 currencies*, why
+limit yourself?
+
+Open your business up to the world by accessing more
+marketplaces and clients than ever before.
+Get local receiving account details in:   USD, EUR, GBP, CAD,
+HKD, JPY, AUD, NZD, SGD, AED*      payoneer
+Get paid fast*:   Your SWIFT (Wire) receiving account for wire
+transfers is perfect for when you need the payment to land fast
+payoneer                                 To open additional
+receiving accounts, go to Get paid > Receiving accounts > Request
+a new receiving account 
+( https://links-send.payoneer.com/f/a/P7ujCjgwOdOTHYRFS651IA~~/AAQRxRA~/CbgYAbsR1UagB2C6Iy5vOeCedwSOfATGrmSuFXXieRNvYj2_h1kXSjSSJlDSz1CeNRcDuAgovRRF0FhiJ9QIfTigw_TQa3mRw9wkAtASwozNIAx2PSaDkO3b9YJeQjLoABBqRWEBEpFC1Wk3Fag_74CTu5XCu08668sCn3Ye80Cxd1WOdWL2WRrwbnI-jjGjNWv0ifFkgITCUOR20xjEj2tCNXdx8TX-liJBo_7EqFxAt92xymV596UQHyKUSF7H92XGIZbtA_OM4mYAOSuoDg~~ )
+ and follow the instructions.                           Once
+you’ve been paid, here's how you can make the most of your funds:
+payoneer      Convert currencies at competitive rates
+payoneer      Pay global suppliers and contractors in 190+
+countries and territories and 70+ currencies
+payoneer      Make batch payments of up to 1,000 transactions at
+a time               payoneer      Pay other Payoneer accounts
+with payments landing in as little as two hours
+payoneer      Pay business expenses and save on fees*
+payoneer      Withdraw locally to your local bank account, in
+190+ countries and territories*
+Get more receiving accounts 
+( https://links-send.payoneer.com/f/a/LjXN-_8Q_aOR6Uh9tTUJBg~~/AAQRxRA~/CbgYAbsR1UagB2C6Iy5vOeCedwSOfATGrmSuFXXieRNvYj2_h1kXSjSSJlDSz1CeNRcDuAgovRRF0FhiJ9QIfTigw_TQa3mRw9wkAtASwozNIAx2PSaDkO3b9YJeQjLoABBqRWEBEpFC1Wk3Fag_74CTu5XCu08668sCn3Ye80C7GB5NnBGrI2slpkJUwQFfAt7YwnxFI66LCPmMfdMA5EfXtYAH9jKKSGbtGDOP_Fsflr6oJOSCUdSsst_BUBOORUI_J6c8IJa3iDMA0o
+
+---
