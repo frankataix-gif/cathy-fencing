@@ -9684,3 +9684,51 @@ You will be sent a link to Thirdfort via text message and instructions via email
 You can complete this in your own time, what I meant by live verification is that you will need to take live phot
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-08T08:36:29+00:00
+**摘要:** 邮件通知 Natalie 将通过短信发送Thirdfort链接，并通过邮件提供上传身份证件的指示，同时需要实时拍摄照片进行身份验证。
+**待办:** 上传身份证件并完成实时验证
+
+Hi Natalie,
+
+All received our end, thank you.
+
+You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+
+You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
+
+I hope this helps, do let me know if you have any questions.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+
+This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful. 
+
+This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any authority to represent, bind or obligate in any way, any other Knight Frank entity. 
+
+We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and their clients are increasingly being targeted by fraudsters, often requesting funds to be transferred to a different bank account or seeking to obtain confidential information. If you receive a suspicious or unexpected email from us, or purporting to have been sent on our behalf, please do not reply to the email, click on any links, open any attachments, or comply with any instructions contained within it without first speaking (in person or by telephone) with your Knight Frank LLP contact to verify the email. Knight Frank LLP cannot take responsibility for any losses arising from your transfer of funds or disclosure of confidential information.
+
+Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not constitute a formal valuation and should not be relied upon for any purpose. Unless specifically stated otherwise, any negotiations, intention to treat, offers, acceptances or consideration contained in this email are not intended to create legal obligations or relations and are all subject to contract.
+​ [[KFLLP]]
+From: natalie <nataliewu100@gmail.com>
+Sent: 07 September 2026 19:07
+To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Subject: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+Hi Lauren,   I have completed the online signing. Please check and confirm recei
+
+---
