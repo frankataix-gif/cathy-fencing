@@ -16130,3 +16130,39 @@ Hello Natalie,
 Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from insi
 
 ---
+
+## [营销] Make a friend a neighbour - $500 referral fee
+
+**发件人:** "Smith & Farrow Rental Team" <rent@boffo.ca>
+**日期:** 2026-08-28T21:33:42+00:00
+**摘要:** Smith & Farrow租赁团队提供500美元推荐奖励，鼓励居民推荐符合条件的朋友成功租住后获得奖金。
+**待办:** 无
+
+ 
+Dear Residents, 
+Do you love living at Smith & Farrow? Know someone who might love calling it home, too? 
+For a limited time, we’re pleased to offer residents a $500 referral fee* when a personal introduction results in a successful tenancy agreement at Smith & Farrow. It’s our way of saying thank you for helping us grow our community by welcoming like-minded people who will make wonderful neighbours. 
+We’re proud of the community we’re building here and we want more people like you! 
+If you know someone who you think would make a great fit, please connect them with our team. 
+Warm regards,​​​​​​​ 
+The Smith & Farrow Rental Teamrent@boffo.ca | 604.317.4060 
+rent@boffo.ca 
+Rental Office708 Farrow Street, CoquitlamOPEN 11am – 6:30pm daily 
+708 Farrow Street, Coquitlam 
+View this email in your browser | 
+Unsubscribe | Preferences 
+#200-4580 Hastings Street 
+Burnaby, British Columbia, Canada 
+* The referred applicant must meet all standard leasing requirements and be approved by the Leasing Team. Referral must result in a tenancy agreement at Smith & Farrow. Referral fee issued after move-in date. 
+
+
+Links: 
+ => [http://sparkmail.boffo.ca/c/eJw0zjFuxCAQBdDTQBdr-MbAFhRpfI1oDEOMZJsVS-LrR4mU_hUvx0BiOGiJxgf_WBAALSfX46PmCAMyweo9JpuMFJuz47K4Gd55txlLtMA9jBNdIwiOAgLMPFtMYBbJi8_YXEo2K0tbK6VNifUR9zGeLzW_K6wKa5drvM46dr5y4d7bPf1bhVX3ePHgo8r9ZYiUpc_f4JTaqUf8g2-p9WfrPER_R_wEAAD__1XWQPo] 
+rent@boffo.ca => [mailto:rent@boffo.ca?subject=I] 
+708 Farrow Street, Coquitlam => [http://sparkmail.boffo.ca/c/eJwczrFKxTAUBuCnSTZL8vekTYcMF6G4CAoObnKanLTF1Fx6o4JPL_oCH18K3ohlryXY0Y-Tgwe0HLyXtz0FWBjrSW-B8rhMznlejKOcJ_QYLDlhji5PLHoPMBiMh4fte0IHZpHkxoRliJGSIrPUnGsXWZewtXa9qf6iMCvMt41P6dZa1yIK8_r68_RQnu1CdFzeX-4f9Rk-uHHZ5fvTGqPIrH_FLtZDt_DP3sV6XuvJTfRXwG8AAAD__9FTQQg] 
+ => [http://sparkmail.boffo.ca/c/eJw0zrFOxDAMgOGnSTYqx3FT3-CBpa-BnMThIvVIVQK8PgLp5v8fvioMFpS9Sdh4u63IiN4e2o-3XgUDQmDyd7FGFq2GSNEap005p5wV-BappZV9FwRMwMgYYiRcUNWsrlvFnEqh6gjyaG0sRf0h9znPTxdfHe4O92dwuPtLPnTq0e3nKwA4gvc_zVLGw0_5H1_KuM5x6TT_LfgbAAD__86kOco] 
+View this email in your browser |  => [http://sparkmail.boffo.ca/c/eJwczkFuwyAQRuHTwC4W84NhvGDRja9RDTA0VpPacmhy_ao5wNP7WmanJGw1U-K0zGDA6l222-fWMgiOONhrLpXarFWQlk4NC_UYCmLvGnzy6u2W4RAdg0HeB0wQUW1zaiix1tBMcGXvfZ-q2Fu-jnE8jP8wWA3WxyHn93Sqwfrc9HV5AwzWhUvwtZTUlR3RUiJV1jk1TynOodgz_8iQ26avX3LOBPf1X051v9uR37tL3c9jP2WofWb8BQAA___o5Ec9] 
+Unsubscribe | Preferences => [http://sparkmail.boffo.ca/c/eJxcjk1OwzAQRk8z3hHZ498svECKcg00tqfUkMaR48L1UbsC1u_Te1-JQbKiIDgqH_xsMSAKvlHd3mqJqFCqYMQ1OpmtccZlVApLoDJrX8iVhDYgWStqRIlOBgyotDY4IRFzsb5gcjmbAkamdrm0KZPY4nWM4wT9CrgCrudB_XPqDLjmdjtor3wCrs_9A9_TmXs9Rm37CXp9_gO97DRoq_x9V1ICWrRGvj_QlNsN0G0t08agF94B3dHbB-cBenlqX3LrR-s0GNDdawG9zCEZnVPyFw5SqTk5lQNbX7TyzpokevxT_FUTI_6ziq-IPwEAAP__tNhr7g]
+ 
+
+---
