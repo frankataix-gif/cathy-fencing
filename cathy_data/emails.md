@@ -10468,3 +10468,27 @@ If you do not wish to receive account statements, you may click on the following
 Please be aware that unsubscribing from statement notifications will not prevent continued use of the spending account at the school. 
 
 ---
+
+## [其他] You Have Added A Passkey
+
+**发件人:** Tesla Account Security <account-security@tesla.com>
+**日期:** 2026-09-04T05:03:15+00:00
+**摘要:** Tesla账户新增了一个Passkey，用于更安全的登录。若未操作，需前往设置移除并重置密码。
+**待办:** 检查是否本人添加Passkey，若非本人操作，需前往设置移除并重置密码。
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DvvDt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3ml5g3Lw7IKsH2u4RXCtTGDLV8pl-2F-2B6Aa60r0gZxjkQ8EuxIp4QuzYf-2FfQthqa1-2FzuSELhe-2B58AWpXQ41VCjqgiOstjyDtXBASYvGGUNrmlEBsennhxfZzvCJveLt28Y99kUxEnd7JCzMLM2LH1gkf0-3D]
+Passkey added
+A new passkey was added to your Tesla account. Enjoy a quicker, more secure way
+to sign in.
+If you did not make this change, go to settings
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXAO3QIVG-2BIF4Va6ymjMOCq56Ev1IgIzKmDL3PAaQl6aXFU156bB23d92i90dgEuawLysT-2BhFWS8Df-2FRnawku4z44vRgtydaHhBPIIYIvFbAX1xNz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3ruPLcx3t91acNhMoyoacU6NlLl8ZXmcxGApo-2BlG8CWdHFMZNJVCyF-2FGlz-2BCa4JaxTXTm-2F-2BSv7rozdU3IxzY3oF744nJrNZFEO5mDJaYnWiGgdgguin0nbl8jap79PE7ZNDyxbmrrBJSAqGL8i8-2BGAs-3D] to
+remove the unrecognized passkey and reset your password to secure your account.
+Questions? Visit Support
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXP7mxmkRB4aI-2FqLNRSYd4cAnMBCH1kP-2BnyRw3EWdxY74TsRekIJZN6BaDrSj15BgpsYmvDgR2FSomwX1XqjPFROB6Rl-2F9Wl-2B4gYt70AmhOp0ffY7_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3uT7UI97aSED3ovuyrdbeNWnrDAT6EmmQSc4UBAz1NAr07FJIwI9JoelkhhqbXLBs7-2FC-2BWVxX3ihc-2F5l1vxue29awjxQZEYkGvcgbBWkQrPcQZYQqSsQma3f-2FX4KYsV0qwidpAlGfLr-2FGwUJZQYjnG0-3D].
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAzXcrWvEyPEVEeANBI8tM492MG-2Fj1UkcZzIKePaML4mg-3DaKvU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3gcEXaHG1-2FLmb0ezNhqPKqtmlCQLuMsNUh7SWGjvZlGvqvL3jfCOixAsi8viFqt3iCBNEY5LqPCtYgTGxkyb5e69QNVvQs0TQzZyTH-2FOkIqgZbihgU3VVUcb3BUmEh3ykwXpo-2BWFEdokA4IsdKZ3ULc-3D]
+2026 Tesla Motors Canada ULC Privacy & Legal
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzULd8hxKn7Gv0LYwYInmq-2BN6PuBgi7FFw-2F6wd1mA4Mn-2Fg-3D-3D0XJt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3r9KBnyu-2FehQLOZ-2FBeBgjdqEthFEUvWBNvrbGM7R9-2FV7KPsCyFOWNf-2FexkP2mPj2ZAxRNilRwnMujqCEI32s6eEReuf-2Ff-2Bh25RpTR8mP2d4c9JcIQ-2BOURybGH4GZ66ePsBE667TVA-2Fj9AzJ-2BVIdVKQU-3D] | Careers
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzUI5dnGayhfMUJyeu8-2F-2B-2FjWIZJc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3qiI0B-2FrZ-2FkmenbQ-2FXCTQTq44yLFa6HRiQ6N3kNaJCrTJts423lhM5LN8rjgU6IqrTUe9Y0YrSBRn08qPAOjSD-2F4QB-2FJx4G5yXVHgy1wLr-2FzjJU9k9XQOV0Uv4V-2F4gVf8HoOXgetEgUEp622WkCYPi8-3D]
+
+---
