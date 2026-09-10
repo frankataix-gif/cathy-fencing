@@ -7461,3 +7461,68 @@ app.            payoneer
 ( https://links-send.payoneer.com/f/a/bquxKjkEEQDc6KSpf9_oQQ~~/AAQRxRA~/iVhuY3yOCrXOP80Csyqw3R9U9UGPOG3XpUwEcgSq5
 
 ---
+
+## [营销] 改用包年方案，费用节省 16%
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-09-05T18:36:28-07:00
+**摘要:** Google One推出包年方案，费用节省16%且会员权益不变。
+**待办:** 无
+
+
+会员权益不变，费用节省 16%
+
+通过短短几秒的简单操作即可改用包年方案。以更少的费用获享同样的存储空间及福 
+利，每年仅需 US$19.99。
+
+改为包年方案 
+<https://c.gle/ACT4xYx4Bw878kOh_RM0pgEDtZglQGSedF1cRBuJsB-QRJl4emXY6HfsNj0I1faEn3oWggHVqSVEfQfTSkZVt4atwwFWU8DKvxhdgdsN32-qO0JAZmT5wX5_o3S8MEckMyNHt8eux44ZI_5Fkf-q-OsXoQ03m86jULrP4k0m7F97KBQT8GzxSoHikP-hI0J6Axp-Ylmx6HZCYW8O9qGgsS-T6iuApH05CAM35oEXlq_SrkqPa8eY-469Q9cW6lmKwajuQQDzJ49DOqo4Jrm5_nEQgLVKKfH9g2B-exCLr9zQ5Gac_bwXJvY>
+
+
+100 GB :  US$1.99/月 US$23.88/年
+
+当前方案 : US$19.99/年
+
+
+
+方案的定价可能因国家/地区而异。
+
+
+获取 Google One 应用
+Play  
+Store<https://c.gle/ACT4xYz95tTz15YKaP-__IuD5NgS-RLUQJ98RzExwAMDx3ARWwC9CJ1SeU9wWIUw8FpFhbM4Bu15uCoxOel8pr7zyB09j2cyu_PqycYdiIXAGsieGtEJFritxrZ8HTo6mI82qXzYrXl9UBT5RonBBvgMq9gM4Fi3naQjvWW1LHethYeoJsq3JYi7xo3w1yvWZYhr-Ol3nGG0-_TYfuXWVODO0FiMSQ>
+iOS  
+Store<https://c.gle/ACT4xYy9eXPS1bnO-_ozJBC1k6-FuypR2M1g17llIvA0bYNWjsUUhsVc-qAJGGXknh2AiWSmwK1zsFyfjgQh2h1AV1ksuf5uHN9jhuv_eYasJDeERwlktJ-rZPQWE0RHPrTdSJD4ZRyhC-5LsbstE17WzkTmzfQk681PsEJ7NLY>
+
+
+
+
+
+
+
+
+
+这封电子邮件对您是否有帮助？
+
+满意 
+<https://c.gle/ACT4xYxTjJNsoT_9DQYmNDA764NB6iLb5yegzoKp8I6oh2uW7MXarsIsivFCHG6xALXSRD-fEwGqEPcwTLkeybi0aKq4HqVdy-sQ0g9dj9klT-jNkEJCAqs8bQbgJ3Tvdoc6Xnbut1PsHtVg0xsvAHbcWzqqYU1-0Wb1ezzMSlw6EkArQ3ZAkZwi8igKdmhjjCt8zhgUVlqwn5G1uvrokTBxWQ>
+
+一般 
+<https://c.gle/ACT4xYzQgUFiiHnNI6S0EUHPNEBaDtfs4r-orYhevo6iSwT0OBOQUdwtmHbXATjYZ3vOM9FWvKDks2jKLjzQ9zpoLXmTPuZ9PFEp-XUF3mvf6T3pCBXfq5htKPAnQ1oVA9gOvXCrLX1lMiLvJLFX0vr_gHQROgYyIa8MM8x2mj3oXn-dJMmSNOQ5JpJkNvg3UgJp7-N-z-sWfiVI_cUiVRULpEV23Zs>
+
+不满意 
+<https://c.gle/ACT4xYwfNlnTLiE2aJLZgJuj_QxZYQOqK16Hu6sRioJ5YYNItmy6xwnnWeCvOaujUVwTA94z-uceGwSgXWpJD7Y5icp6e34VC4joaHvL4mBCY9XrWFxp2mVPCeSf9HUqfJ_K4xjgBLouQI7lrDYCO86acnY0HKBNFy7cl6Rm81yq9mMRlJOjf-zGtJivnxdOhDkde6EcKqq6j51ckc6U>
+
+
+
+
+我们向 nataliewu100@gmail.com 发送此电子邮件是因为您曾表示愿意接收关于  
+Google One 特惠折扣、优惠和其他福利的最新动态。如果您不想再收到此类电子邮 
+件，请在此处 
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYxhS4U_BtqGVFe8TTNXFfycMpx2F3YAolZgQtEhCndwHb5BMRuTdAgySfvvmcut1h9C4S3Ctygl1m_3qX1VvIqjY_yyGubDnA6ELvQ8M8uAerEJb_RXP81v0avguXYPoihVADwy25P537rKyjEjjiGOM-NO7ulIWMsIoK_W2rCgs70Z3_gjigZs-Z_lDlxtzLQ7mPf61n9Y2OUwAiLO2HOcNB1Q_DnNdWkp-h5yLtDkKoGxydhqCoUl-A?utm_source=gm&utm_medium=email&auto=true>退 
+订。
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
