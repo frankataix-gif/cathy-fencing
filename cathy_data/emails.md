@@ -214,3 +214,44 @@ https://myaccount.google.com/notifications
 
 
 ---
+
+## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-10T20:46:05+02:00
+**摘要:** 邮件确认 Yunxi 的击剑比赛注册成功，并提醒携带会员卡和设备检查，同时提供酒店预订链接及截止日期。
+**待办:** 无
+
+---------- 转发信息 ----------
+发件人：USA Fencing <information@usafencing.org>
+日期： Sep 9, 2026, 22:54 +0200
+收件人： frankataix@gmail.com
+主题： Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
+
+> 2026/27 Nick Itkin Cup SYC & Vet ROC
+> Dec 11 - 13, 2026
+> A message from the organizer:
+> Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am each morning for equipment inspection.
+> As a reminder, our withdrawal deadline is November 16th to receive event fee refunds. No refunds will be issued after this date.
+> We have reserved a discounted hotel block at the Renaissance directly connected to the convention center. Book here by November 10th: https://app.marriott.com/resview2?id=1782781327945&key=GRP&app=resvlink
+> Registration details:
+> Created
+> 9/9/2026 1:42pm
+> Competitor
+> he, yunxi
+> Waiver
+> Payment
+> Paid
+> Competition summary:
+> *Dates & times are subject to change.
+> Date
+> Event
+> 12/12
+> Y14WF
+> 12/13
+> Y12WF
+> © 2026 USA Fencing. All rights reserved.
+> 210 USA Cycling Point, Suite 120, Colorado Springs, CO 80919
+
+
+---
