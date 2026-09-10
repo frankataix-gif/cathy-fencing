@@ -2015,13 +2015,35 @@ function circuitLabel(c) {
   function initUsafBookmarklet() {
     const input = document.getElementById('usaf-bookmarklet-input');
     if (!input) return;
-    const code = "javascript:(function(){const data={source:'usaf_dashboard',url:location.href,title:document.title,date:new Date().toISOString(),text:document.body.innerText.slice(0,8000)};const json=JSON.stringify(data,null,2);navigator.clipboard.writeText(json).then(()=>alert('已复制，请粘贴到 App 的 USAF Dashboard 导入框。')).catch(()=>prompt('请复制:',json));})();";
-    input.value = code;
+    const bm = `javascript:(function(){
+      let payload=null;
+      const keys=['__DATA__','__INITIAL_STATE__','__PRELOADED_STATE__','serverState','initialData','user','me','member','profile','appState'];
+      for(const k of keys){ if(window[k]){ payload={source:'usaf_dashboard_window',url:location.href,title:document.title,date:new Date().toISOString(),[k]:window[k]}; break; }}
+      if(!payload){
+        const scripts=[...document.querySelectorAll('script[type="application/json"]')];
+        for(const s of scripts){
+          try{
+            const d=JSON.parse(s.textContent);
+            if(d&&typeof d==='object'&&Object.keys(d).length>0){ payload={source:'usaf_dashboard_json',url:location.href,title:document.title,date:new Date().toISOString(),data:d}; break; }
+          }catch(e){}
+        }
+      }
+      if(!payload){
+        try{
+          const nuxt=window.__NUXT__ || window.$nuxt || (document.querySelector('#__nuxt')?{el:true}:null);
+          if(nuxt){ payload={source:'usaf_dashboard_nuxt',url:location.href,title:document.title,date:new Date().toISOString(),nuxt:nuxt}; }
+        }catch(e){}
+      }
+      if(!payload) payload={source:'usaf_dashboard_text',url:location.href,title:document.title,date:new Date().toISOString(),text:document.body.innerText.slice(0,8000)};
+      const json=JSON.stringify(payload,null,2);
+      navigator.clipboard.writeText(json).then(()=>alert('已复制，请粘贴到 App 的 USAF Dashboard 导入框。来源：'+payload.source)).catch(()=>prompt('请复制:',json));
+    })();`;
+    input.value = bm.replace(/\s+/g, ' ').trim();
     const btn = document.getElementById('usaf-copy-bookmarklet-btn');
     if (btn) {
       btn.addEventListener('click', () => {
         input.select();
-        navigator.clipboard.writeText(code).then(() => {
+        navigator.clipboard.writeText(input.value).then(() => {
           btn.textContent = '已复制';
           setTimeout(() => { btn.textContent = '复制书签'; }, 1500);
         }).catch(() => { input.select(); document.execCommand('copy'); btn.textContent = '已复制'; setTimeout(() => { btn.textContent = '复制书签'; }, 1500); });
