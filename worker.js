@@ -4,12 +4,7 @@ const CORS_HEADERS = {
   'Access-Control-Allow-Headers': 'Content-Type'
 };
 
-// 邮件关键词分类规则：命中关键词即强制归类（不区分大小写）
-// 按优先级排列，前面的规则先匹配
-// 其他分类的关键词可以在这里继续添加
-const CATEGORY_KEYWORDS = [
-  { category: '击剑', keywords: ['@usafencing', 'usafencing.org', 'usafencing'] }
-];
+const RULES_PATH = 'cathy_data/email_rules.json';
 
 export default {
   async fetch(request, env) {
@@ -166,12 +161,25 @@ function parseSuggestions(text) {
     .slice(0, 20);
 }
 
-function keywordClassify(from, subject, text) {
+function keywordClassify(from, subject, text, rules) {
   const combined = (from + ' ' + subject + ' ' + text).toLowerCase();
-  for (const rule of CATEGORY_KEYWORDS) {
-    if (rule.keywords.some(k => combined.includes(k.toLowerCase()))) return rule.category;
+  const entries = rules && typeof rules === 'object' ? Object.entries(rules) : [];
+  for (const [category, keywords] of entries) {
+    if (!Array.isArray(keywords)) continue;
+    if (keywords.some(k => combined.includes(String(k).toLowerCase()))) return category;
   }
   return null;
+}
+
+async function loadEmailRules(env) {
+  try {
+    const existing = await readGitHubFile(env, RULES_PATH);
+    if (existing && existing.content) {
+      const parsed = JSON.parse(existing.content);
+      return parsed.rules || {};
+    }
+  } catch(e) {}
+  return {};
 }
 
 async function classifyEmail(env, email) {
@@ -186,7 +194,8 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
-  const keywordCategory = keywordClassify(email.from, email.subject, email.text);
+  const rules = await loadEmailRules(env);
+  const keywordCategory = keywordClassify(email.from, email.subject, email.text, rules);
 
   let rawText = '';
   try {

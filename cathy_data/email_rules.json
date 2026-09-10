@@ -1,0 +1,7 @@
+{
+  "version": "2026-09-11",
+  "rules": {
+    "击剑": ["@usafencing", "usafencing.org", "usafencing"]
+  },
+  "note": "可在此添加分类关键词。PWA 和我的页里的邮件分类设置会同步读写这个文件。"
+}

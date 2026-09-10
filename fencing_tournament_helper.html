@@ -726,6 +726,29 @@
       <div id="emails-list" style="font-size:0.85rem; line-height:1.7; max-height:300px; overflow-y:auto; border:1px solid #e5e7eb; border-radius:8px; padding:12px; background:#fafafa;">加载中…</div>
     </div>
 
+    <div class="card">
+      <h3 style="margin-bottom:12px;">邮件分类设置</h3>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">设置关键词/发件人邮箱，新邮件会自动归类；保存后也可用于重新分类历史邮件。</p>
+      <div id="email-rules-list" style="margin-bottom:12px;">加载中…</div>
+      <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px;">
+        <select id="email-rule-category" style="padding:6px 8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.85rem;">
+          <option value="">新建分类…</option>
+          <option value="击剑" selected>击剑</option>
+          <option value="学校">学校</option>
+          <option value="营销">营销</option>
+          <option value="待办">待办</option>
+          <option value="其他">其他</option>
+        </select>
+        <input type="text" id="email-rule-keyword" placeholder="关键词或邮箱，如 meadowridge.bc.ca" style="flex:1; min-width:160px; padding:6px 8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.85rem; box-sizing:border-box;">
+        <button class="btn" id="email-rule-add" style="padding:6px 14px; font-size:0.85rem;">添加</button>
+      </div>
+      <div style="display:flex; gap:8px; justify-content:flex-end;">
+        <button class="btn secondary" id="email-rule-reclassify" style="padding:6px 14px; font-size:0.85rem;">重新分类历史邮件</button>
+        <button class="btn cathy" id="email-rule-save" style="padding:6px 14px; font-size:0.85rem;">保存到 GitHub</button>
+      </div>
+      <div id="email-rule-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
+    </div>
+
     <div class="card" style="text-align:center;">
       <h3 style="margin-bottom:12px;">Cathy 数据导出</h3>
       <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">一键读取最新训练、比赛数据，复制或下载后发给其它 AI 分析。</p>
@@ -2004,6 +2027,74 @@ function circuitLabel(c) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
     }
+  }
+
+  let emailRules = {};
+
+  async function loadEmailRules() {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/email_rules.json?_=' + Date.now(), { cache: 'no-cache' });
+      if (!res.ok) return;
+      const data = await res.json();
+      emailRules = data.rules || {};
+    } catch(e) {}
+    renderEmailRules();
+  }
+
+  function renderEmailRules() {
+    const container = document.getElementById('email-rules-list');
+    if (!container) return;
+    if (!Object.keys(emailRules).length) { container.innerHTML = '<div class="empty-state">暂无分类规则</div>'; return; }
+    let html = '';
+    for (const [category, keywords] of Object.entries(emailRules)) {
+      if (!Array.isArray(keywords)) continue;
+      html += `<div style="margin-bottom:10px;"><div style="font-size:0.8rem; font-weight:700; margin-bottom:6px; color:var(--primary);">${escapeHtml(category)}</div><div style="display:flex; gap:6px; flex-wrap:wrap;">`;
+      html += keywords.map(k => `<span style="background:#f1f5f9; border:1px solid #e2e8f0; border-radius:12px; padding:2px 10px; font-size:0.8rem; display:flex; align-items:center; gap:4px;">${escapeHtml(String(k))} <button data-cat="${escapeHtml(category)}" data-kw="${escapeHtml(String(k))}" style="background:none; border:none; color:#9ca3af; cursor:pointer; font-size:1rem; line-height:1;">&times;</button></span>`).join('');
+      html += '</div></div>';
+    }
+    container.innerHTML = html;
+    container.querySelectorAll('button[data-cat]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.cat;
+        const kw = btn.dataset.kw;
+        if (emailRules[cat]) {
+          emailRules[cat] = emailRules[cat].filter(x => String(x) !== kw);
+          if (!emailRules[cat].length) delete emailRules[cat];
+          renderEmailRules();
+        }
+      });
+    });
+  }
+
+  async function saveEmailRules() {
+    const status = document.getElementById('email-rule-status');
+    if (status) status.textContent = '保存中…';
+    try {
+      const workerUrl = CATHY_SYNC_WORKER_URL;
+      const payload = { action: 'save', path: 'cathy_data/email_rules.json', content: JSON.stringify({ version: new Date().toISOString(), rules: emailRules }, null, 2), message: 'Update email rules via PWA' };
+      const res = await fetch(workerUrl, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+      const result = await res.json().catch(() => ({}));
+      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+      if (status) status.textContent = '已保存到 GitHub';
+    } catch(e) {
+      if (status) status.textContent = '保存失败：' + e.message;
+    }
+  }
+
+  function addEmailRule() {
+    const catInput = document.getElementById('email-rule-category');
+    const kwInput = document.getElementById('email-rule-keyword');
+    let category = (catInput.value || '').trim();
+    const keyword = (kwInput.value || '').trim();
+    if (!category) {
+      category = window.prompt('请输入新分类名称（如 学校）：');
+      if (!category) return;
+    }
+    if (!keyword) { alert('请输入关键词或邮箱'); return; }
+    if (!emailRules[category]) emailRules[category] = [];
+    if (!emailRules[category].includes(keyword)) emailRules[category].push(keyword);
+    renderEmailRules();
+    kwInput.value = '';
   }
 
   function isAutoSyncKey(key) {
@@ -3476,7 +3567,18 @@ function circuitLabel(c) {
     document.getElementById('daily-surprise').textContent = s;
   }
 
-  function initProfile() {}
+  function initProfile() {
+    const addBtn = document.getElementById('email-rule-add');
+    const saveBtn = document.getElementById('email-rule-save');
+    const reclassifyBtn = document.getElementById('email-rule-reclassify');
+    if (addBtn) addBtn.addEventListener('click', addEmailRule);
+    if (saveBtn) saveBtn.addEventListener('click', saveEmailRules);
+    if (reclassifyBtn) reclassifyBtn.addEventListener('click', () => {
+      const status = document.getElementById('email-rule-status');
+      if (status) status.innerHTML = '请在电脑端运行：<br><code>python reclassify_emails.py</code><br>即可按新规则重跑历史邮件。';
+    });
+    loadEmailRules();
+  }
 
   function initGDrive() {
     const btn = document.getElementById('gdrive-btn');
@@ -4100,7 +4202,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v18', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v19', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
