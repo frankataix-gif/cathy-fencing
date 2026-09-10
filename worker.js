@@ -10,7 +10,14 @@ export default {
     if (request.method !== 'POST') return new Response('OK', { headers: CORS_HEADERS });
 
     let body;
-    try { body = await request.json(); } catch (e) { return json({ error: 'invalid json' }, 400); }
+    const ctype = request.headers.get('Content-Type') || '';
+    try {
+      if (ctype.includes('application/x-www-form-urlencoded') || ctype.includes('multipart/form-data')) {
+        body = Object.fromEntries((await request.formData()).entries());
+      } else {
+        body = await request.json();
+      }
+    } catch (e) { return json({ error: 'invalid body' }, 400); }
 
     if (body.action === 'ai' || body.action === 'coach') {
       const prompt = body.action === 'ai' ? buildAiPrompt(body) : buildCoachPrompt(body);
