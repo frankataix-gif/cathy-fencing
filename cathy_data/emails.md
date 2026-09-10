@@ -6819,3 +6819,27 @@ Why did we send this?
 We didn't recognize this device or browser. You might receive this email again if you sign in from a new device or browser, you clear your cookies, or you use your browser's private mode.
 
 ---
+
+## [其他] Verify a New Device
+
+**发件人:** Docusign Account <info@account.docusign.net>
+**日期:** 2026-09-07T18:03:30+00:00
+**摘要:** 通知用户有新设备登录，提供验证码并建议修改密码及启用双重验证。
+**待办:** 无
+
+Hello ,
+
+    Your Docusign verification code is:
+    472696
+
+    We noticed a login from a new device or browser. You can verify the device with this code.
+     please change your password immediately to secure your account. For added security, we recommend enabling Two-Step Verification.
+    We didn't recognize this device or browser. You might receive this email again if you sign in from a new device or browser, you clear your cookies, or you use your browser's private mode.
+    No Content
+
+This message was sent to you by  who is using the Docusign Electronic Signature Service. If you would rather not receive email from this sender you may contact the sender with your request.
+
+Do Not Share This Email
+This email contains a secure link to Docusign. Please do not share this email, link, or access code with others.
+
+---
