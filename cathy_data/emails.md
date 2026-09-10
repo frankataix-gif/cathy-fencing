@@ -17139,3 +17139,113 @@ Koodo Mobile, 25, rue York, Toronto, Ontario, M5J 2V5, Canada
 
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T00:34:26+00:00
+**摘要:** 邮件通知用户需要验证政府加拿大登录账户，并提供一次性验证码。
+**待办:** 输入收到的验证码以完成登录验证
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+         
+
+         
+             
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                          
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Verify your login 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Your one-time passcode to log in to your Government of Canada service is: 
+
+                                         
+                                             7Z24LHUN 
+                                         
+
+                                         This email was sent to nataliewu100@gmail.com. 
+                                         You received this email because you signed up for a Government of Canada login account. 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Please do not reply to this email.
+
+---
