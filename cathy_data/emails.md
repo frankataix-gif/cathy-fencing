@@ -4103,3 +4103,171 @@ To provide some context, we have been liaising with Earl Kendrick Surveyors in r
 It is the position of Earl Kendrick that the water damage is most likely caused by a leak to the shower. Our next step is to confirm this position and then to condu
 
 ---
+
+## [其他] 您与“Make”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-09-10T03:25:51-07:00
+**摘要:** 这封邮件通知用户于9月10日使用Google账号登录了“Make”并共享了个人信息，目前无需采取行动，但提供了解除登录的选项。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+<!--[if false]><!-->
+
+
+“Make”收到了以下个人资料信息
+
+
+
+natalie
+
+姓名和个人资料照片
+
+
+
+nataliewu100@gmail.com
+
+邮箱
+
+
+
+
+
+ 
+
+
+这封邮件涵盖您在 9月10日12:25 共享的信息
+
+如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+“Make”收到了以下个人资料信息
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+natalie
+
+姓名和个人资料照片
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+nataliewu100@gmail.com
+
+邮箱
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+ 
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+这封邮件涵盖您在 9月10日12:25 共享的信息
+
+<!--[if false]><!-->
+
+如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
+
+<!--[if false]><!-->
+
+
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
+xmlns:w="urn:schemas-microsoft-com:office:word"  
+href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVGNK6lC-MkV4H1CbxmXLmPvx3jkjhZvuzQvoyAK3jeFqERDABPaK7sBP8MTwxxYTRrLHSfjmhSrjVV-IRFcI5c%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
+style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
+stroke="false" fillcolor="#0b57d0">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+
+<![endif]-->
+<https://c.gle/ACT4xYwKwXPmYj9ncddnqX6tFn_4aDUVCp8H6Z-GpLoVXag61iv3QHUdX3ZFwRBUSN-ywLIJzrNRlzfIrrWJYZLs7eZzlb6cdXjoph9ur3NVZfWp1o5qjYLtqxFaC0aX5lmzccmW2XS1_al-eAw1TdB2yP2jTzxCIqzolfGxVnh8GdELXzuWFeYlQOU_OMlHwel3IUwQP5V6lnHjK_T2H32NKo1taxRFnXhzE25G4MXpbggnE_pOnpmMZ3b0lAxLjhiUklKaCqTxsEtmwNziXwuxbUh-5GfbWJzRWU887HPuHmhHvUnsGkRoSNLegLp0TlEIXiGcsoTZ7z0_PBOOh5t2Ek_GHyYse6bVZIqrrRHhq9F23xTagvTtWG1fXHvaejSG5yWHVWRY5pxoqEVaiLmz-ALYbTjRCE_8jqfiI-zuSKZjy20phtAxs3BFEns8NB-gGqL2syJn6GQTe9wetKd9432aPvJogec>  
+前 
+往您的 Google 账号
+
+
+查看“Make”的《隐私权政策》和《服务条款》，了解“Make”会如何处理及保护您的数 
+据。
+
+如果想删除您已与“Make”共享的数据，请前往“Make”。
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+
+ 
+
+我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
+重要变化。
+
+如果想停止收到此类邮件，您可以 
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYz_tu1yOJgn5NgfY-WSy-WKYMxCbo17VihIfqdIru4xYFnaoH09_xbDaxwZk0ytp_S_jIt9-pM5PgsjdBNHUrF_wRzTxqalej__gTBi2QGTdaYMsPBBtvsjdhRe8Jsl2v0RuDoqTnXUbST-fWJ_6ifbihbHVsFZWkTE1okFF27q5pN8Uheee6n-1hzEp4hrrOdxFkbnOA2CQ9GnjG9KOCgGTytKXQ6n-a_Jt2liVM0xexUmhYaxnnWwinXxBKufGisERCKEjjlzgtoze-gO21YdCgR7IYY8hIpeaMA?utm_source=gm&utm_medium=email&auto=true>退 
+订。
+
+即使退订此类邮件，您仍会继续收到安全提醒。
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
