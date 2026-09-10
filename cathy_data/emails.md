@@ -14786,3 +14786,113 @@ body {
 （无正文）
 
 ---
+
+## [其他] Re: Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+**发件人:** Yee Cheng Leong <ycleong@vivienleeimmigration.com>
+**日期:** 2026-08-31T17:15:29+00:00
+**摘要:** 邮件确认Natalie Wu的移民咨询时间，并要求回复以安排会议，同时列出所需文件和费用。
+**待办:** 确认咨询时间并回复
+
+Hi Natalie,
+
+We have not heard back from you. Just wanted to confirm if you are still ok for the consultation times proposed below or you want to re-schedule to another time?
+Please let me know so that I can arrange for you.
+
+Thanks, Natalie.
+
+
+Yours Truly,
+
+Yee Cheng Leong
+
+Case Administrative Assistant
+
+VIVIEN LEE IMMIGRATION & BUSINESS CORPORATION
+
+Address: Suite 720, 999 West Broadway
+
+Vancouver, British Columbia, V5Z 1K5
+
+Tel: 604-875-9338
+
+www.VivienLeeImmigration.com<http://www.vivienleeimmigration.com/>
+
+This email may contain privileged and/or confidential information and is intended only for the person to whom it is specifically addressed.  If you have received this email in error, please delete it and inform the sender.
+
+________________________________
+From: Yee Cheng Leong <ycleong@vivienleeimmigration.com>
+Sent: Friday, August 28, 2026 3:05 PM
+To: nataliewu100@gmail.com <nataliewu100@gmail.com>
+Cc: Vivien Lee <vlee@vivienleeimmigration.com>
+Subject: Re: Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+Hi Natalie,
+
+This is Yee Cheng, and I will be assisting you to schedule your consultation with Vivien. The fees for this Tier 2 1-hour consultation will be CAD $483 ($460 plus 5% GST) payable at least 2 days prior to consultation date by Interac E-Transfer (for those with Canadian bank accounts – instructions can be found below) or by Credit Card (attached credit card payment form).
+
+Proposed consultation times:- Vivien’s next availabilities are stated below. Given our tight schedule, kindly confirm which of the following time slots works best for you and your husband in Italy at your earliest convenience, so we can reserve your preferred option:
+Available Date
+Time in Vancouver (PST)
+Time in Italy
+September 1 (Tuesday)
+11:00 a.m.
+8:00 p.m.
+September 2 (Wednesday)
+11:00 a.m.
+8:00 p.m.
+NOTE:  Consultation will be held via Zoom. We will send you a Zoom invitation link prior to consultation day.
+
+Documents/Information Needed for Consultation: Please send your documents/information 2 to 3 days prior to the consultation.
+
+  1.
+Passport copy(photo and data information page) and all stamped pages including Canada Visa for your daughter
+  2.
+Your (Natalie) passport copy (photo and data information page) and Canada Visa
+  3.
+School acceptance letter - if already received
+  4.
+School Provincial Attestation Letter (PAL) - if already received
+  5.
+School tuition payment fees - if already received
+  6.
+Please complete the attached questionnaire for your daughter
+  7.
+Signed and dated credit card form (if not paying by e-transfer)
+  8.
+Signed and dated Initial consultation agreement
+
+
+ Interac E-transfers for Clients with Canadian Bank Account:
+
+1. Please use the following Email:
+accounting@vivienleeimmigration.com<mailto:accounting@vivienleeimmigration.com>
+2. Please enter the Amount:
+$483.00
+3. Please enter in Message Section:
+Consultation Natalie Wu
+
+Let us know if you have any questions. Thank you.
+
+Please click here to send me documents securely<https://upload-vivienleeimmigration.titanfile.com/wU5M5v>
+
+
+Yours Truly,
+
+Yee Cheng Leong
+
+Case Administrative Assistant
+
+VIVIEN LEE IMMIGRATION & BUSINESS CORPORATION
+
+Address: Suite 720, 999 West Broadway
+
+Vancouver, British Columbia, V5Z 1K5
+
+Tel: 604-875-9338
+
+www.VivienLeeImmigration.com<http://www.vivienleeimmigration.com/>
+
+This email may contain privileged and/or confidential
+
+---
