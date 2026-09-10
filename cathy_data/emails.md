@@ -10939,3 +10939,76 @@ Hotty Hot Low-Rise Lined Short 2.5"
 
 
 ---
+
+## [其他] How to get paid: Local receiving accounts
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-05T14:39:52+00:00
+**摘要:** 这封邮件介绍了Payoneer的本地收款账户服务，允许用户以多种货币接收付款，无需开设外国银行账户，并提供相关财务功能。
+**待办:** 无
+
+Accept payments in up to 11
+major currencies 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/0lknVY2ZEXlWcSRwGAnJ-w~~/AAQRxRA~/XtaH90ZL57DFnvWZ6vDzPiJUi_MjWhgtydxOin89Di3ZVHSrqa-IaQgqymZ34OH8yR3g91hz_UE4I6V-evYjiVIxO65avjuD4ftW8yGBBOhZiIvWP_Tk9SUWQvbrAHnD style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/Xip4KcRkgUdY4LTuhZUgzg~~/AAQRxRA~/SX6kGpQtSNb-_fCU1p9nvugljovjrYeInAGNmcAC0H6MHxbyZl4XLg7IBGcYXhNw5QUb8chSXCi2ae_Gf63mUJnbnCsqM2H68nTyeyukVn-cNwp0nZMgvolu6TCRMLiiMgSZPKofY7YRpLVdPAXW_djShS7_D6_1niplLWwf79TSXIbSo3u8Wa3TXwzsCMuJ alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Share bank details and receive payments like a local
+payoneer               Hi XIAOJUN
+No foreign bank account, but need to get paid in USD, GBP, EUR,
+or other currencies?
+
+With Payoneer’s local receiving accounts, you can get paid in up
+to 11 major currencies.
+
+You’ll get bank account details in the currencies of your
+choice.
+Simply share those details with clients or marketplaces to get
+paid with a bank transfer, just like a local.
+payoneer      Get bank account details in USD, EUR, GBP, and up
+to eight other major currencies without opening a bank account
+payoneer      Offer clients a straightforward way to pay you with
+no charge from Payoneer                     With your Payoneer
+account balance, you can...         payoneer
+Pay business expenses like subscriptions, ads, and inventory, or
+withdraw cash, with a Payoneer card            payoneer
+Withdraw to your bank account in 190+ countries and territories,
+and 70 currencies            payoneer
+Make international payments to suppliers and contractors and save
+on conversion fees Get started now 
+( https://links-send.payoneer.com/f/a/UopLWb9LoTiVm_iGu78BlQ~~/AAQRxRA~/3vSkcjHhdtr6Xzq9p5wUMrG-ACElhO8l0qbySN6qUKTkI7ilKmogYlBvAhbBZF8f49AiFFlAb7AOy49FpcseSfWq2exJt36dQN5-l7ticu5RHJv0Gp_zbxMVYByxjwEPCW0X1KkT0YaUFJ4Bc3Ms92K06mlvzABZj7yjYX0hXrqzLKCWjggSWVBR9ykQQzJJX4Rqk5JFLohXOi-R28lcmNxmeoEsDp8KnppbbwCdxHq5Oi_AEKHDKSi5Us8w05O1 )
+                                        PRO TIP
+
+Don’t forget to download the Payoneer mobile app so
+you can manage your funds on the go.            payoneer 
+( https://links-send.payoneer.com/f/a/WupRvQUNrOE4a12fk1h-nA~~/AAQRxRA~/3Xl9EkvjvPIfP5guKgJuPzXHjOlyTpfa_cLzOnUanBp1kfyt8mM615HfAxrbOICp4ithhy-fGLlQyzZ23ruYN-1NVVoID4ee_nqWAhbLMTZWWifIkAPDxYS9Jhdb4Uz_xWDia3bCm3prvTCBrHQQGQwAO15_aRxtsiKElFQptVc~ )
+    payoneer 
+( https://links-send.payoneer.com/f/a/p-ZtSMG0KwWp_PWh6EoWxA~~/AAQRxRA~/WjSbp0xx-G9wEiimU4t2f-EuxARyPkMp9oUfKbAsr7E1fKDWW4aYLqkDR2H6UT7XBmPF2xi1FABzmb4rOk3tbGTjbhxr
+
+---
