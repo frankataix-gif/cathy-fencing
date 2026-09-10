@@ -31,32 +31,66 @@ export default {
 
     if (body.action === 'save') {
       const { path, content, message } = body;
-      const token = env.GITHUB_TOKEN;
-      const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
-      const branch = env.GITHUB_BRANCH || 'main';
-      const api = `https://api.github.com/repos/${repo}/contents/${path}`;
+      const result = await writeGitHubFile(env, path, content, message || 'Update via worker');
+      return json(result);
+    }
 
-      const get = await fetch(api + '?ref=' + branch, { headers: { 'Authorization': `Bearer ${token}`, 'User-Agent': 'cathy-worker' } });
-      const existing = get.ok ? await get.json() : null;
-      const payload = {
-        message: message || 'Update via worker',
-        content: btoa(unescape(encodeURIComponent(content))),
-        branch
-      };
-      if (existing && existing.sha) payload.sha = existing.sha;
+    if (body.action === 'email') {
+      const email = body.email || body;
+      const subject = email.subject || '(no subject)';
+      const from = email.from || email.fromEmail || '';
+      const to = email.to || '';
+      const date = email.date || new Date().toISOString();
+      const text = email.body || email.text || email.html || '';
+      const entry = `\n## ${subject}\n\n**From:** ${from}\n**To:** ${to}\n**Date:** ${date}\n\n${text}\n\n---\n`;
+      const existing = await readGitHubFile(env, 'cathy_data/emails.md');
+      const newContent = (existing ? existing.content : '# 收件箱 / Emails\n') + entry;
+      const result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Append email', existing?.sha);
+      return json(result);
+    }
 
-      const res = await fetch(api, {
-        method: 'PUT',
-        headers: { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'cathy-worker' },
-        body: JSON.stringify(payload)
-      });
-      const result = await res.json();
+    if (body.action === 'import') {
+      const source = body.source || 'manual';
+      const content = body.content || '';
+      const ts = new Date().toISOString();
+      const markdown = `---\nimported: ${ts}\nsource: ${source}\n---\n\n${content}`;
+      const result = await writeGitHubFile(env, 'cathy_data/usaf_dashboard.md', markdown, 'Import USAF dashboard');
       return json(result);
     }
 
     return json({ error: 'unknown action' }, 400);
   }
 };
+
+async function readGitHubFile(env, path) {
+  const token = env.GITHUB_TOKEN;
+  const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
+  const branch = env.GITHUB_BRANCH || 'main';
+  const api = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const res = await fetch(api + '?ref=' + branch, { headers: { 'Authorization': `Bearer ${token}`, 'User-Agent': 'cathy-worker' } });
+  if (!res.ok) return null;
+  const data = await res.json();
+  return { sha: data.sha, content: decodeURIComponent(escape(atob(data.content))) };
+}
+
+async function writeGitHubFile(env, path, content, message, sha) {
+  const token = env.GITHUB_TOKEN;
+  const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
+  const branch = env.GITHUB_BRANCH || 'main';
+  const api = `https://api.github.com/repos/${repo}/contents/${path}`;
+  const payload = {
+    message,
+    content: btoa(unescape(encodeURIComponent(content))),
+    branch
+  };
+  if (sha) payload.sha = sha;
+  const res = await fetch(api, {
+    method: 'PUT',
+    headers: { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'cathy-worker' },
+    body: JSON.stringify(payload)
+  });
+  return res.json();
+}
 
 function buildAiPrompt(body) {
   const ctx = body.context || {};

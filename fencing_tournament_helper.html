@@ -506,6 +506,11 @@
         </div>
         <p style="font-size:0.8rem; color:var(--gray); margin-top:8px;">Tap to enlarge / 点击放大</p>
       </div>
+
+      <div class="card">
+        <h3 style="margin-bottom:12px;">USAF Dashboard 最新导入</h3>
+        <div id="usaf-dashboard-display" style="font-size:0.85rem; line-height:1.7; white-space:pre-wrap; max-height:300px; overflow-y:auto; border:1px solid #e5e7eb; border-radius:8px; padding:12px; background:#fafafa;">暂无导入数据</div>
+      </div>
     </div>
 
     <div id="sub-tab-results" class="fencing-sub-content" style="display:none;">
@@ -647,6 +652,20 @@
       <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px; flex-wrap:wrap;">
         <span id="sync-last-status" style="font-size:0.8rem;color:var(--gray);">等待首次同步…</span>
       </div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-bottom:12px;">邮件 / Emails</h3>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">USA Fencing、学校等转发到专用邮箱的邮件会显示在这里。</p>
+      <div id="emails-list" style="font-size:0.85rem; line-height:1.7; max-height:300px; overflow-y:auto; border:1px solid #e5e7eb; border-radius:8px; padding:12px; background:#fafafa;">加载中…</div>
+    </div>
+
+    <div class="card">
+      <h3 style="margin-bottom:12px;">USAF Dashboard 导入</h3>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">在 USAF 会员页点击书签工具复制 JSON，粘贴到这里，点导入即可更新会员/报名数据。</p>
+      <textarea id="usaf-import-text" placeholder="粘贴 bookmarklet 或邮件解析出来的 JSON / 文字…" style="width:100%; min-height:120px; padding:10px; border:1px solid #e5e7eb; border-radius:8px; font-size:0.85rem; box-sizing:border-box; margin-bottom:8px;"></textarea>
+      <button class="btn cathy" id="usaf-import-btn" style="padding:8px 18px;">导入</button>
+      <div id="usaf-import-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
     </div>
 
     <div class="card" style="text-align:center;">
@@ -1954,6 +1973,65 @@ function circuitLabel(c) {
       const statusEl = document.getElementById('sync-last-status');
       if (statusEl) statusEl.textContent = '同步失败：' + err.message;
       if (!auto) alert('同步失败: ' + err.message);
+    }
+  }
+
+  async function loadEmails() {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/emails.md?_=' + Date.now(), { cache: 'no-cache' });
+      const el = document.getElementById('emails-list');
+      if (!el) return;
+      if (!res.ok) { el.innerHTML = '暂无邮件'; return; }
+      const text = await res.text();
+      const parts = text.split(/\n## /).filter(Boolean);
+      const latest = parts.slice(0, 5);
+      if (!latest.length) { el.innerHTML = '暂无邮件'; return; }
+      el.innerHTML = latest.map(p => {
+        const lines = p.split('\n').filter(l => l.trim());
+        const title = lines[0] || '';
+        const body = lines.slice(1, 6).join('\n');
+        return '<div style="margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid #e5e7eb;"><b>' + escapeHtml(title) + '</b><br><small>' + escapeHtml(body) + '</small></div>';
+      }).join('');
+    } catch(e) {}
+  }
+
+  async function loadUsafDashboard() {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/usaf_dashboard.md?_=' + Date.now(), { cache: 'no-cache' });
+      const el = document.getElementById('usaf-dashboard-display');
+      if (!el) return;
+      if (!res.ok) { el.textContent = '暂无导入数据'; return; }
+      const text = await res.text();
+      el.textContent = text.slice(0, 4000);
+    } catch(e) {}
+  }
+
+  async function importUsafDashboard() {
+    const textEl = document.getElementById('usaf-import-text');
+    const statusEl = document.getElementById('usaf-import-status');
+    const btn = document.getElementById('usaf-import-btn');
+    if (!textEl || !statusEl) return;
+    const content = textEl.value.trim();
+    if (!content) { statusEl.textContent = '请粘贴内容'; statusEl.style.color = 'var(--danger)'; return; }
+    if (btn) btn.disabled = true;
+    statusEl.textContent = '导入中…';
+    statusEl.style.color = 'var(--gray)';
+    try {
+      const res = await fetch(CATHY_SYNC_WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'save', path: 'cathy_data/usaf_dashboard.md', content: content, message: 'Import USAF dashboard' })
+      });
+      const result = await res.json().catch(() => ({}));
+      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+      statusEl.textContent = '已导入：' + new Date().toLocaleString();
+      statusEl.style.color = '#16a34a';
+      loadUsafDashboard();
+    } catch(e) {
+      statusEl.textContent = '导入失败：' + e.message;
+      statusEl.style.color = 'var(--danger)';
+    } finally {
+      if (btn) btn.disabled = false;
     }
   }
 
@@ -3911,6 +3989,8 @@ function circuitLabel(c) {
   initPullToRefresh();
   loadReflections();
   loadUserDataFromGitHub();
+  loadEmails();
+  loadUsafDashboard();
   renderResults();
   renderDailyQuote();
 
@@ -3919,11 +3999,17 @@ function circuitLabel(c) {
     if (document.hidden) return;
     if (_autoSyncTimer) { clearTimeout(_autoSyncTimer); _autoSyncTimer = null; await syncAllToGitHub(true); }
     await loadUserDataFromGitHub();
+    await loadEmails();
+    await loadUsafDashboard();
   });
   window.addEventListener('pageshow', async (e) => {
     if (_autoSyncTimer) { clearTimeout(_autoSyncTimer); _autoSyncTimer = null; await syncAllToGitHub(true); }
     await loadUserDataFromGitHub();
+    await loadEmails();
+    await loadUsafDashboard();
   });
+
+  document.getElementById('usaf-import-btn')?.addEventListener('click', importUsafDashboard);
 
 </script>
 
