@@ -44,3 +44,14 @@ Dear Cathy, your registration for the Y14 Women Foil event has been confirmed. P
 各位家长：新学期将于9月14日开始，请确认学生的校车安排和午餐计划。
 
 ---
+
+## [其他] fencing camp reminder
+
+**发件人:** coach@evifencing.com
+**日期:** 2026-09-10T18:51:10Z
+**摘要:** 
+**待办:** 无
+
+Hi, fencing camp this weekend. Bring your gear and water bottle.
+
+---
