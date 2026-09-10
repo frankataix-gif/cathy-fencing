@@ -11193,3 +11193,98 @@ Vous n'aurez besoin que de votre numéro de compte Koodo. Les paiements bancaire
 Vous êtes réellement prêt à mettre fin à votre service? Si vous changez d'avis, prenez rendez-vous à un moment qui vous convi
 
 ---
+
+## [其他] You’ve made some changes to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T16:21:31-07:00
+**摘要:** 这封邮件通知用户已对其TELUS移动账户的计划和附加服务进行了更改，并提及账单调整及最喜欢的号码更新。
+**待办:** 无
+
+You’ve made some changes to your TELUS Mobility account  
+ 
+Hi ,  
+Here’s a summary of changes you made to your TELUS Mobility account on .  
+ 
+ 
+
+Your new Plan and add-ons: 
+ 
+Effective Date:  
+Expiry Date:
+
+Your old plan and add-ons that were removed: 
+ 
+Effective Date: 
+
+Your Favourite Numbers have been updated 
+Updates have been made to your favourite numbers, which allows you to make unlimited calls and texts to your favourite numbers. To view or change your favourite numbers, log in to My TELUS. 
+   
+Partial charge on your next bill  
+As a TELUS customer, you pay one month in advance for your upcoming monthly services. Because you changed your services mid-way through your bill cycle, we will credit you back for your old plan/add-ons for the remaining days in your bill cycle and charge you for your new plan/add-ons for the remaining days in your bill cycle. 
+The difference between these amounts is what forms the one-time partial charge or credit you'll see on your next bill only. After that, your bill will reflect the regular monthly amount you just agreed to 
+Please note: you may only have partial minutes and partial data until your bill cycle resets on  at 11:59pm.  
+  
+My TELUS  
+Download the My TELUS app to view and manage your account anytime, anywhere
+ 
+ 
+  
+Thank you for choosing TELUS.
+ 
+  
+ 
+Have questions about your account? Chat with TELUS Assist.  
+ 
+ 
+If you would like additional information or support, click here  
+ 
+ 
+Privacy   |   telus.com  
+ 
+Find a Store   |   Contact Us  
+ 
+ 
+TELUS, the TELUS logo, the future is friendly and telus.com are trademarks of TELUS Corporation, used under license. All other trademarks are the property of their respective owners. 
+
+© TELUS. All rights reserved.
+ 
+ 
+Ce courriel ne s’affiche pas correctement? Ouvrez-le dans un navigateur web.  
+  
+ 
+Vous avez apporté certains changements à votre compte de services mobiles de TELUS.  
+ 
+Bonjour, 
+Voici un résumé des changements apportés à votre compte de services mobiles de TELUS le .  
+ 
+ 
+Nouveau forfait et nouvelles options : 
+ 
+En vigueur le  
+Expiration le 
+
+Ancien forfait et options retirées : 
+
+En vigueur le 
+  
+Vos numéros préférés ont été mis à jour 
+Des modifications ont été apportées à vos numéros préférés, ce qui vous permet d’effectuer un nombre illimité d’appels et d’envoyer un nombre illimité de messages texte à ces numéros. Pour afficher la liste de vos numéros préférés ou la modifier, connectez-vous à Mon TELUS. 
+  
+Frais partiels ou crédit sur la prochaine facture  
+Les clients de TELUS paient pour les services mensuels un mois à l’avance. Étant donné que vous avez modifié vos services durant le cycle de facturation, nous vous créditerons les frais relatifs à l’ancien forfait ou aux options retirées pour les jours qui restent avant la fin du cycle et vous facturerons le montant du nouveau forfait et des nouvelles options pour la même période. 
+La différence entre ces deux montants constitue les frais partiels ou le crédit qui apparaîtront sur votre prochaine facture uniquement. Par la suite, votre facture recensera les frais mensuels que vous venez d’accepter. 
+Remarque : Votre lot de minutes ou de données pourrait être amputé jusqu’à la fin de votre cycle, le à 23 h 59.  
+  
+Mon TELUS  
+Téléchargez l’application Mon TELUS pour afficher et gérer facilement votre compte partout et en tout temps.
+ 
+ 
+  
+Merci d’avoir choisi TELUS.
+ 
+  
+ 
+Vo
+
+---
