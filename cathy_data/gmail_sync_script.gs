@@ -11,7 +11,8 @@ const CONFIG = {
   //   'from:usfencing.org'
   //   'from:usfencing.org OR from:meadowridge.bc.ca'
   //   'from:usfencing.org OR from:meadowridge.bc.ca OR from:(*.edu)'
-  SEARCH: 'from:usfencing.org',
+  // 主要击剑邮件：USAF + 击剑器材/供应商
+  SEARCH: 'from:usfencing.org OR from:imexsport.ca',
 
   // 用于标记“已同步”的标签名。脚本会自动创建这个标签
   SYNCED_LABEL: 'Cathy/Synced',

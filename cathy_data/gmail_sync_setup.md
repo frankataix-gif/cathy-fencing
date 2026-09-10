@@ -13,18 +13,13 @@
 
 ## 需要确认的发件人域名
 
-脚本顶部 `SEARCH` 字段需要填发件人域名。例子：
+脚本顶部 `SEARCH` 字段已默认设置为：
 
 ```js
-// 只收 USAF 邮件
-SEARCH: 'from:usfencing.org',
-
-// 收 USAF + Meadowridge 学校
-SEARCH: 'from:usfencing.org OR from:meadowridge.bc.ca',
-
-// 收 USAF + 学校 + 某个公司账户
-SEARCH: 'from:usfencing.org OR from:meadowridge.bc.ca OR from:company.com',
+SEARCH: 'from:usfencing.org OR from:imexsport.ca',
 ```
+
+如果需要增加学校或公司邮件，在后面追加 `OR from:domain.com` 即可。
 
 ## 操作步骤
 
@@ -68,7 +63,8 @@ SEARCH: 'from:usfencing.org OR from:meadowridge.bc.ca OR from:company.com',
 修改 `SEARCH` 里的 Gmail 搜索语法，例如：
 
 - 只收 USAF：`from:usfencing.org`
-- 收 USAF + 学校：`from:usfencing.org OR from:meadowridge.bc.ca`
+- 收 USAF + IMEX：`from:usfencing.org OR from:imexsport.ca`
+- 再加学校：`from:usfencing.org OR from:imexsport.ca OR from:meadowridge.bc.ca`
 - 收所有含 "fencing" 或 "registration" 的邮件：`subject:fencing OR subject:registration`
 - 排除已同步的：脚本会自动处理，不用管
 
