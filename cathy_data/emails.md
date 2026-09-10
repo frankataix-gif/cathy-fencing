@@ -9964,3 +9964,62 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5Td74e4en6FHK4lLGjB8gaGLTyBWnZRtuy3wT8kqrd9Nwdm0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFzb0SofsecIotKm7ni11cByqRKoVvQka6hM8N7CdqAcm-2BzhtjWtZqFZ-2F1lO1yhdaT91Dc-2BoZwwQfzdj-2FbKTjVQFNUFIl4VDgJZGHQTZIohrNQOCDYV99Cj3s9m7OuHMUeuUMof-2BdWATkPZxTQ-2Fh7DvRrw3Ffxo1uZEYXK03Oe-2B5aDOj1UEohLOqEjq2ccRa1G7OeOwdjXYBzGmzWCtN3h4dP2Azyy5U182mLblA-2F52EY6zm68CRvFNO7g04dcPSELayaCjV8zkG7M8IObvF2N9jHmOeX-2BPfm0yBbltpmSeYJHUS9UEaNd3s8l08CVqIliDgYW-2B6kNzlu6RwfSKX-2B2TARbQP
 
 ---
+
+## [营销] Your property valuation is complete, now let’s unlock your rewards
+
+**发件人:** Foxtons <mail@mail.foxtons.co.uk>
+**日期:** 2026-09-07T10:02:43+00:00
+**摘要:** Foxtons通知用户房产估值已完成，并介绍通过其卖房可获得20,000 Avios奖励，同时引导用户查看账户中的估值报告和条款。
+**待办:** 无
+
+Discover how selling with Foxtons could earn you 20,000 Avios
+Buy 
+( https://clicks.foxtons.co.uk/f/a/gzymj946ATUhdVDexdD_ig~~/AAAHahA~/ndlT24yPH5uDOScY9oH4KwP4FXCba7pum41HxU59Spw9vrXvJl-E3iUTHWbdvaXbcKKZM4fVDoAAQ4KJmr_A2Gd0ht6CHbKQuM1fTjE6ebJ1HfSnTS-KAGmKbdLMtlVkjs10BTuMK1hN9K8X7YDw9lXfjXZe0n6OXWWTYmamHPI~ )
+| Rent 
+( https://clicks.foxtons.co.uk/f/a/tcuD3kWOF50-TojRGXiDAw~~/AAAHahA~/Mz_SA2t1mW6oxNaJgA-CUn91GK150DeAvNUF3nT2ugsoNwe0Zv6wr4GkCwt4PxrjvWWfsHXw_IXi98XuJXXI8qwFQ6TxPZbinKbyb_BpmpBfHSaUJ_uO-70ry99VOhyp2ZMlBWkKPeZm4ljFlTnef0eaWaXDwhTEkS7aU4MBevA~ ) |
+Landlords ( https://clicks.foxtons.co.uk/f/a/cw5X-8d1p2B8yVKH8DEwfw~~/AAAHahA~/Lsd7iZl7K3NqQKurd0Am8D7LWv4jQ38eXcglU2iLOSOPeHvUyuuoEn16NB_lVBDKSp5LNCCX9QncVm37i31rO9I5MdhkeuSOxTtK2HNhW2v_Sllm_TaPOYNhGr9eqWqRuSAbzv8uCbq0GGj8wqW7tg~~ )
+| Sell ( https://clicks.foxtons.co.uk/f/a/_YxhiCdl9gYG6Gp_1S_S7A~~/AAAHahA~/M9LCmgFfQTQzJRrCK4iE4MMUZfnZ5FNLe9CsQ7820Z5mZK8yVXYcvyX_FsetRC2lfGfi9gQDuBI_E63OXPHsmBYX2CQ0Of9Y1l3jjSZ8v13H39ionXB-DlpY0hKvHIyQQJBPmAV8X049yzdjWIpdTg~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/aKx30tnCmP14BwYE3jE52w~~/AAAHahA~/-e7pPIU9eM0-V7W9cXmE_IiS7MP0S8sg3gb9bJ9H0atlY-g_gR-crbOJnyfwRZWmSdap3ePdVQ60yrT2RGtcHuy5Uy-llp4t_o5oqeD__-qc0g0zK1d9chQpU080c3tIsftXLLZ1KYyvcAM5K01Mqw~~ )          Buy 
+( https://clicks.foxtons.co.uk/f/a/zyrP9kPVfsJe6IKFvP9jww~~/AAAHahA~/ndlT24yPH5uDOScY9oH4KwP4FXCba7pum41HxU59Spw9vrXvJl-E3iUTHWbdvaXb-Tqu8JgvSTtX4caZQLnUROFhQ0Ih5SI_ENVnVVtLNRYtRm6V6y2DoEjUpqSKMcBkDzAy_l-nBLmIpUHoOv3F4BPYSD5Vt4OchRLIJJCwhWI~ )
+| Rent 
+( https://clicks.foxtons.co.uk/f/a/HYfTmgb10kltQIOyCQrALQ~~/AAAHahA~/Mz_SA2t1mW6oxNaJgA-CUn91GK150DeAvNUF3nT2ugsoNwe0Zv6wr4GkCwt4PxrjQJul8U48de_6BLlBsrkb_r0xl6-S6ZCHm321ucrMcywE41MbYTz5HdpF-qByutqn9gd0jF6b0rAnv_VbXt8uuJKXIVkW1NpQcGiFcq94n9I~ )
+| Landlords 
+( https://clicks.foxtons.co.uk/f/a/nA9xVHOqjQLdBFS7N3gatw~~/AAAHahA~/Lsd7iZl7K3NqQKurd0Am8D7LWv4jQ38eXcglU2iLOSOPeHvUyuuoEn16NB_lVBDKja0_ngGkq8Ylpn_z1JJoAYYRcz7FlFq0SFpg0IxaQZBW_vwdHByfGg_hsiNXbIQ8fcTD4yCBUPz_TSaSRtCNYw~~ ) | Sell 
+( https://clicks.foxtons.co.uk/f/a/8Ly9tUEPxAdikknvldE4Sw~~/AAAHahA~/M9LCmgFfQTQzJRrCK4iE4MMUZfnZ5FNLe9CsQ7820Z4ku6QS8zZtTPaBZ5JwDBXKzz1LmFCGoLU-QwA7XhROO1FcpbUfTXavmY0uR58z2ov5sV-nGtrxYsExp9n9YGImD1LGnnjWWaUjgEGKdKQu6A~~ )
+
+Thank you for choosing Foxtons to value your
+property. We hope we answered all your questions and that you
+have now received your valuation report, as well as found our
+Terms & Conditions to sign, in your My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/T7HxFtEO9toXh4gkGQCfuw~~/AAAHahA~/i-xMW7IhyUoI2Nj_euGd4Gaf6QiSysvaVU0zhHD9DyHLLGYY52Uz62twUfrZoR86fAtTPWRfdTd7cDqNEfQ4MuJnWEq7kv3x7PH3KvkwRwg6HRc3-bVTu7dUz9P-sAMVfEZ8ilO5lGdiu6akjek8mg~~ ) account.
+
+When you choose Foxtons to sell your property, not only will
+your home benefit from being listed with London’s largest estate
+agent¹, but you’ll also be eligible to collect 20,000 Avios².
+
+If you have any further questions about your valuation, or would
+like more information about qualifying for the Avios reward,
+please get in touch with your Valuer, who will be happy to help.
+
+********************************
+What could 20,000 Avios get you?
+********************************
+
+********************************
+What could 20,000 Avios get you?
+********************************
+
+Return reward flight from London to Barcelona
+
+Extra leg room for your next flight
+
+Build your balance for your next holiday
+
+Return reward flight from London to Barcelona
+
+Extra leg room for your next flight
+
+Build your bala
+
+---
