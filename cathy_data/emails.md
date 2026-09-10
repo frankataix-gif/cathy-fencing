@@ -10305,3 +10305,46 @@ Your next action item: suiting.
 ­­­
 
 ---
+
+## [营销] Tell us how we did!
+
+**发件人:** lululemon <lululemon@express.medallia.com>
+**日期:** 2026-09-06T16:41:27-07:00
+**摘要:** lululemon邀请客户填写调查问卷，询问对门店体验的评价及推荐可能性，并提供反馈链接和联系方式。
+**待办:** 无
+
+Dear LULULEMON_FIRST_NAME_INVITE_TXT,
+
+Our goal at lululemon UNIT_NAME is to provide an awesome guest experience. Your feedback is important to us, how did we do?
+How likely are you to recommend the lululemon UNIT_NAME location to a friend or family member?
+
+Not likely
+Very likely
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+If you have issues accessing the survey above, you can copy and paste the following URL into your browser: http://example.com
+
+
+With gratitude,
+lululemon
+-------------------------------------------------------------
+
+Ways to contact lululemon Guest Education Center:
+Phone 1.877.263.9300 / 1.604.215.9300 | LIVE Chat | Email | Weekdays 5am-9pm , Weekends 6am-6pm PST
+Powered by Medallia
+Survey Support. Privacy Policy.
+
+This survey invitation will expire on EXPIRATIONDATE_PRETTY.
+If you no longer wish to receive surveys from Medallia please click on Unsubscribe
+
+---
