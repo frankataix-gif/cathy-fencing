@@ -15890,3 +15890,90 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td {border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;padding: 0px;margin: 0px;mso-line-height-rule: exactly !important;}em {font-style: italic;}strong, b {font-weight: bold;}.sup {-webkit-text-size-adjust: none;}div, a, tr, table, body, span, img, strong, td {-webkit-text-size-adjust: none;-ms-text-size-adjust: none;-moz-text-size-adjust: none;text-size-adjust: none;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}a[x-apple-data-detectors] {color: inherit !important;text-decoration: none !important;font-size: inherit !important;font-family: inherit !important;font-weight: inherit !important;line-height: inherit !important;}.x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {border-bottom: 0 !important;cursor: default !important;}.link, .link a {color: inherit !important;text-decoration: inherit !important;}#MessageViewBody a {color: inherit;text-decoration: none;font-size: inherit;font-family: inherit;font-weight: inherit;line-height: inherit;}th {font-weight: normal !important;}@media only screen and (max-width: 480px) {*[class=hide_img], .hide_img {display: none!important;}*[class=hide], .hide {display: none !important;font-size: 0 !important;max-height: 0 !important;line-height: 0 !important;padding: 0 !important;mso-hide: all !important;}*[class=show], .show {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=show], .show {display: block!important;display: table!important;}*[class=appear], .appear {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=tbl], .tbl {width: 100% !important;clear: both!important;float: inherit!important;height: auto !important;min-width: 100% !important;max-width: 100%!important;}*[class=img_full], .img_full {width: 100% !important;height: auto !important;}*[class=break], .break {display: block!important;clear: both!important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=drop], .drop {float: inherit!important;width: 100% !important;display: block !important;}*[class=text_ctr], .text_ctr {text-align: center !important;}*[class=text_lft], .text_lft {text-align: left !important;}*[class=text_right], .text_right {text-align: right !important;}*[class=tbl_cntr], .tbl_cntr {margin: 0 auto !important;}*[class=Pad_hide], .Pad_hide {padding: 0 !important;}*[class=Pad_Thide], .Pad_Thide {padding-top: 0 !important;}*[class=Pad_Bhide], .Pad_Bhide {padding-bottom: 0 !important;}*[class=Pad_Lhide], .Pad_Lhide {padding-left: 0 !important;}*[class=Pad_Rhide], .Pad_Rhide {padding-right: 0 !important;}*[class=Pad_hideLR], .Pad_hideLR {padding-left: 0 !important;padding-right: 0 !important;}*[class=Pad_LR9], .Pad_LR9 {padding-left: 9px
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-29T00:01:21+00:00
+**摘要:** 学校通知Cathy的家长需完成入学前的多项准备工作，并安排与校长沟通延迟入学事宜，同时提醒关注开学相关活动及重要日期。
+**待办:** 完成入学前的准备工作，包括填写居住证明、必要表格、注册校车、参加迎新活动及标记重要日期。
+
+Natalie,
+
+我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+
+昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+
+
+  1.
+Complete one Residency Form<https://www.meadowridge.bc.ca/new-family-portal/residency> for the family. Submit your address in Canada, student's Study Permit & parent's Visitor Record(s).
+  2.
+Complete required forms: Medical Info, Emergency Consent & RUTA. Log in to the Meadowridge Hub and look under "Files and Forms"<https://meadowridge.myschoolapp.com/app/parent#myfiles>.
+  3.
+Review Cafeteria information<https://www.meadowridge.bc.ca/parent/cafeteria>; set up MyKidsSpending account<https://www.mykidsspending.com/Logon> — Instructions here<https://www.meadowridge.bc.ca/fs/resource-manager/view/9a133f60-bf4b-46c0-99a7-6a57c220ab29>.
+  4.
+Check that you have required supplies<https://resources.finalsite.net/images/v1782150994/meadowridge/e19yo3tdgv7fywsd2hwd/Supplies-Novels.pdf>.
+  5.
+[Optional] Register for School Bus<https://www.meadowridge.bc.ca/parent/transportation> (extra cost). This year we have a small number of "Single-way Annual Passes"<https://www.meadowridge.bc.ca/parent/transportation#fs-panel-69716>.
+  6.
+[Optional] Register for Fall 2026 After-school Clubs<https://www.meadowridge.bc.ca/parent/clubs>.
+  7.
+RSVP for events:
+
+     *
+New Student Orientation<https://www.meadowridge.bc.ca/new-family-portal/nfo> (Weds Sept. 2, 10:00am-12:30pm)
+     *
+Parent Socials<https://www.meadowridge.bc.ca/parent/rsvps/parent-socials> (Thurs. Sept. 3 & Sept. 24, 6:30-9:30pm)
+     *
+Welcome Back Picnic<https://www.meadowridge.bc.ca/parent/rsvps/welcome-back-picnic> (Fri. Sept 11, 3:30-6:30pm)
+
+  1.
+Mark other event dates:
+
+     *
+Middle School Meet the Teachers — Thurs. Sept. 10, 6:00-7:30pm
+     *
+Spirit Day (students only; wear House T-shit) — Fri. Sept 11, full day
+     *
+Field trip — Sept. 16-18 at Gibson's Farm<https://resources.finalsite.net/images/v1782167002/meadowridge/oton10pixbxqyi6wqd0j/Grade7-GibsonsFarmPackingList.pdf>
+
+
+请保持联系， 谢谢！
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: August 28, 2026 2:18 PM
+To: Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+Subject: Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+Adrian 您好，
+
+感谢您的反馈。我们也觉得签证速度应该会很快，所以想及时把我们的想法和计划反馈给您。
+
+---
