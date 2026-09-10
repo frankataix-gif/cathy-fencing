@@ -17725,3 +17725,67 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODF9AA
   &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &
 
 ---
+
+## [营销] Ready to buy insurance quote #7181329 from Square One?
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-27T03:57:07+00:00
+**摘要:** 邮件提醒Jingqi尽快购买保险报价#7181329，否则将失效，并介绍Square One保险政策的优势。
+**待办:** 处理保险报价#7181329，考虑是否购买
+
+@media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{display:inline-block!important;width:16.666666%!important}th.small-3{display:inline-block!important;width:25%!important}th.small-4{display:inline-block!important;width:33.333333%!important}th.small-5{display:inline-block!important;width:41.666666%!important}th.small-6{display:inline-block!important;width:50%!important}th.small-8{display:inline-block!important;width:66.666666%!important}th.small-10{display:inline-block!important;width:83.333333%!important}th.small-12{display:inline-block!important;width:100%!important}th.callout-inner{padding:18px!important}}@media only screen and (min-width:735px){.large-6 .callout{width:300px!important}}@media only screen and (min-width:735px){table.container,table.container>tbody{max-width:700px!important;width:700px!important}table.container>tbody>tr{max-width:700px!important;width:700px!important}table.container>tbody>tr>td{max-width:700px!important;width:700px!important}table.container>tbody>tr>td>table{max-width:700px!important;width:700px!important}table.container>tbody>tr>td>table td,table.container>tbody>tr>td>table th{max-width:632px}}@media only screen and (min-width:735px){.header th.columns.first,.header th.columns.last{padding-bottom:10px!important}} 
+ 
+ 
+	 
+		 
+			 
+				 
+					    
+						 Don&#039;t let your quote expire — buy your home insurance policy today 
+												    
+						       
+						             
+						             Your Home Insurance Quote #7181329 
+						             
+						             
+						             103 - 708 Farrow Street 
+						             
+						       
+						    
+												 			 				 					 						 						 						 					 					 						      								     							      					 					 					 					 					 				 			        
+						  &nbsp;  						   
+         
+         Dear Jingqi: 
+         Your quote is ready. 
+
+        
+         
+    Get peace of mind in just 5 minutes with Square One.        But hurry, your quote #7181329 won't last forever. 
+
+            &nbsp;              Still on the fence? 
+
+         That's fair. Signing up with an insurance provider is a commitment that requires trust from both sides. So, let us tell you about a few of the benefits of joining Square One. 
+
+                     
+     
+         
+              
+         
+             Protect all your favorite things.  Our policy provides blanket coverage for your common personal property. You can add coverage for your specialty property.         
+     
+     
+         
+              
+         
+             Only pay for what you need.  Most policies automatically charge you to insure specialty items like bicycles, jewellery, and rare collectibles. With us, you only pay to insure these items if you own them.         
+     
+     
+         
+              
+         
+             Critical protection included.  When the unexpected happens, you don't want to be caught without the right coverage. Our policies protect against major types of losses.         
+     
+     
+     
+
+---
