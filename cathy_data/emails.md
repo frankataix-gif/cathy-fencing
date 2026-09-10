@@ -11671,3 +11671,75 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5e4GnuBM-2BzUO57aSzTHc3TbjeFgj6DXgQKazEgravRIX8E9g_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHAu-2FjU9HEIfuFoPCh8ETxXB6KLU7NtYNGb-2BmO7cdDS38NBDvf8emhoH4XMFoUp6X8JKUwnME9GMIZfWh-2By3zq8D-2BgwzPS83z49DjiviVUelxAc-2BgL8r5vdjsOFBmElyN0L-2Bm5K5iMBphyN6eLXtAsyg6eNeoGSwcOrUayen-2BqEDKmiHnDDXCyd4uqzlcbdTVKUAM1IRLijAGg31DAKUBZqacMK3W1rabqzpV98SKTpvK-2FgK9bemkNR-2F1M0i7hUBpmxDuJDuiQsoCoFeti3s0uI8OYuEjLYxBItDkeo2cTx8QCg-2F0m6Jmukn9YwkkqtjceZ55WAek4MncoNsV1Gc7c8386p2iXYhL1IcSW59-2FIKwyK
 
 ---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-04T06:31:34+00:00
+**摘要:** Payoneer通知用户接收账户已开通，可开始接收国际付款，并提供三步操作指南。
+**待办:** 查看账户详情并复制银行信息给客户
+
+Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/LsZgUZFECRdsopclBzEoaw~~/AAQRxRA~/N1IvU4Mpl_V3EQ-RV8c4DrmnDON9CjkySFhYCnnzgaFsxzaNyAPhLqe40-1wkp93xOgKRcmgiopBlEtJupVLEJm9_oRiyZ84DUUEtXNx_xSpMjem0gaSoq-RCQ4R5g9n style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/wzGWvuKpl2opJPgHVkuwoQ~~/AAQRxRA~/yDZkS8qAYR4XOZeIbsyI2XZ8wWFsEo7E3gwBfgXPZTCCDs45V9yb8CiGF1wn2_nTJNTI6tsuc6ftnmVGiQz7lhxv6ccTy5NNvflf5y_Q0QapvGgnBdsWySGER1V4IvCTr-OfIelmjFvUS0Ld_eFT-5CxaoquIjsV1mNtANKJlxowWmJHsbzxjcQO1DGnp_QY alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Eager to get going?           payoneer               Hi
+XIAOJUN                         You’re
+probably eager to start getting paid—we get it! The good news is,
+working with international clients is about to get so much
+easier.
+
+Let’s recap why it pays to get local receiving accounts:
+payoneer      Accept payments in up to 11 major currencies
+payoneer      Get local bank account details so you can get paid
+like a local               payoneer      Give clients an easy,
+free way to pay               payoneer      Do business almost
+anywhere in the world with SWIFT (Wire)               payoneer
+Hold or convert multiple currencies at competitive rates
+payoneer      Use your funds to pay bills, expenses, contractors,
+or suppliers                              How to get started:
+01                         Get started   Go to Get paid >
+Receiving accounts.            02                         Choose
+an account   Click view details in one of your available
+receiving accounts.            03                         Copy
+details   Copy the bank account details to provide to your
+clients. Get started 
+( https://links-send.payoneer.com/f/a/QM4NoIymp87bRX7OR68VBw~~/AAQRxRA~/N38YuXB8v3qeNk-5O1Kp34Fl_uqpTczGsARIYBjP1KIw8zn65KjBDhrokZ3f7R5Rgx_dGnjjGZjvTxpYaOblEOemhlJRuvC3VAtWc0rs3P4_eBYWJF-W9kd7ngRfb38K2YiM-Oqtp-7bUF42MRd3p-Tf3miVahOBVXrQxzpr47p_542OJ7mx20EAMvgGjioxWMteO34RT9iF9B4cK1TgNbNJLd7Ht6UGtus069XdfOk~ )
+                            PRO TIP
+
+Download the mobile app to view and manage your
+currency balances, send and receive payments, see latest
+transactions, and much more.            payoneer 
+( https://links-send.payoneer.com/f/a/IJzARIXiVSS7_NDRMSLdlw~~/AAQRxRA~/vjJpVqXUTvCFWjh3Md2oB31YxJRTmVnXRQiifVMBSexolkGFtMr523evm8PSNrh8XlTV3T7H5JKKCyd0uOSHMc6DuBGZjfnbR_NTBYx2tX2TJsK1hDcjIYCwxs1_lMKhy9MHMP2jlTW9M3tMArNUi4hAbfAtyUGIfyM5pzajuss~ )
+    payoneer 
+( https://links-send.payoneer.com/f/a/k42TkE6IVD-qK3-RUHCGkg~~/AAQRxRA~/hGFGu72G8l_B2eH23Ypyb_b0i8FU-Nmw9-dWsWzrTAmaEmH7NhkLII
+
+---
