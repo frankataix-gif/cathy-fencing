@@ -4721,3 +4721,83 @@ stroke="false" fillcolor="#0b57d0">
 
 
 ---
+
+## [学校] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-09T19:35:12+00:00
+**摘要:** 学校通知Cathy家庭可以等到签证发放后再完成剩余表格，并需在签证发放后及时告知。
+**待办:** 在签证发放后通知学校
+
+Thank you, Natalie, for the update. I have updated your contact number in our system.
+For the remaining forms, you may wait until you receive your visa before completing them. My director will stay in close contact with you throughout the process.
+Please keep us informed once your visa has been issued. We look forward to hearing from you.
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Wednesday, September 9, 2026 12:30 PM
+To: Vivian Chen <vivian.chen@meadowridge.bc.ca>
+Cc: Frank <frankataix@gmail.com>
+Subject: Re: Outstanding Forms & Phone numbers for Cathy's family
+
+Hi Vivian,
+
+I have completed the online forms. Since we are currently in the U.S. waiting for our Canadian student visa, I have uploaded the travel visa page for now. I will provide the student visa as soon as it is issued.
+
+Regarding the other two forms, I am unsure how to complete them, so I have included the contact information below for your assistance:
+
+  *   Natalie WU Jingqi (Mother): 1-778-255-5899
+  *   Li Wanlin (Custodian): 1-778-316-6086
+
+Thank you for your help.
+
+the best regards
+
+natalie
+在 Sep 9, 2026, 18:38 +0200，Vivian Chen <vivian.chen@meadowridge.bc.ca>，写道：
+Good morning Cathy's family,
+This is Vivian from the Admissions Office, along with Mr. Adrian. I am following up regarding the required school documents for students.
+
+  1.
+I noticed that we are still missing several important forms that are required during the first week of school. Once you log in to the Hub, you should be able to access and complete these forms from your account. Please refer to the information below for the missing documents.
+  2.
+Moreover, we also need your help in completing the Residency Form. Here is the link: https://www.meadowridge.bc.ca/new-family-portal/residency
+  3.
+Can you update your two local contact number for us in the Hub? You can also share them with me. I am happy to update them for you!
+
+We would greatly appreciate it if you could submit the outstanding forms as soon as possible. If you encounter any difficulties accessing or completing the forms, please do not hesitate to reach out. We would be happy to assist you.
+Thank you for your prompt attention to this matter, and we look forward to supporting your family's successful start to the school year!
+
+Yunxi's files and forms
+Acknowledgement/ Permission
+Due: 9/
+
+---
