@@ -7245,3 +7245,90 @@ Google Play 帮助中心。
 
 
 ---
+
+## [学校] Special Welcome from the Parent Guild (Grade 7)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-06T18:51:28+00:00
+**摘要:** 家长联盟欢迎Grade 7家庭，邀请家长参与志愿活动，并介绍即将举行的Welcome Back Picnic和Spirit Day活动。
+**待办:** 需要家长志愿者参与Welcome Back Picnic和Spirit Day活动，具体详情见邮件内容。
+
+Dear Grade 7 families,
+Special Welcome from the Parent Guild...
+All parents are welcome! We believe that parent involvement plays a key role in building a vibrant, strong school community, and we’re always looking for Parent Volunteers to help with various events and initiatives. Whether you can lend a hand for a few hours or a few minutes, your support makes a big impact.
+
+Welcome back! We hope you had a wonderful, restful summer filled with sunshine, laughter, and special moments with your loved ones.
+
+As we begin another exciting school year, the Parent Guild would like to wish all of our students and families the very best for the first week of school. Whether it's your child's first day at Meadowridge or you're returning for another year, we hope this week is filled with new friendships, happy memories, and a great start to the year ahead.
+
+We're looking forward to another fantastic year of bringing our community together through fun events, celebrations, and volunteer opportunities. We can't do it without our amazing Parent Volunteers!
+
+We Need Your Help!
+
+We'd love for you to join us in making our first community events of the year a success.
+
+🍉 Welcome Back Picnic
+
+Help us welcome families back to campus by volunteering with Cotton Candy stand like each year. It's a wonderful way to meet other parents and kick off the school year together.
+
+💙 Spirit Day
+
+Join us in creating an exciting school spirit experience for our students by helping with decorations, activities, and event support.
+
+Whether you have an hour or a few hours to spare, every helping hand makes a difference and helps build the warm, connected Meadowridge community we all love.
+
+Weekly Updates:
+
+
+Topic
+Date
+Summary
+Used Uniform Shop
+Wednesdays, 3:00-4:00 pm
+We will add a Monday schedule as well once we have confirmation. Please join the following community for any group announcements/updates to schedules etc. LINK<https://chat.whatsapp.com/CdI6PuiqkvvGOZgUEg5iWD>
+Parent Guild Meeting
+Sep 9, 8:45 am at school
+Agenda:
+
+  *
+Upcoming events - Spirit Day, Welcome Back Picnic
+  *
+Orange Shirt Day - Choosing Vendor for the shirts
+
+Spirit Day
+Sep 11
+We need volunteers to help set up the tents, decorate, assemble hot dogs (put bun and hot dog together) and hand it to middle and high school kids. Please join the following WhatsApp group if you are interested: https://chat.whatsapp.com/BwVriAM5u3a10cc6Z3e0Fy<https://chat.whatsapp.com/BwVriAM5u3a10cc6Z3e0Fy?s=cl&p=i&mlu=4&ilr=4>
+Welcome Back Picnic
+Sep 11
+Volunteers for Cotton Candy Stand - Please sign up here<https://docs.google.com/document/d/1T_dzIjdqAWDC9aOQ7bfbSfOwS8NvNKgJ/edit?usp=drive_link&ouid=117655433113687551883&rtpof=true&sd=true> and join the following WhatsApp group if you are interested to volunteer: https://chat.whatsapp.com/J6N9yTgc49k8FjvQMcbGyD<https://chat.whatsapp.com/J6N9yTgc49k8FjvQMcbGyD?s=cl&p=i&mlu=4&ilr=4>
+
+Thank you for being part of our Meadowridge family. We can't wait to see you at the Welcome Back Picnic and throughout the year!
+
+Wishing everyone a fantastic first week of school and an amazing year ahead.
+
+Warmly,
+
+Meadowridge Parent Guild
+
+Ishita Snehil
+Guild Chair
+Meadowridge Parent Guild
+
+.
+.
+.
+
+Kindly,
+
+Kirstin Carley
+
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+
+
+Socials:
+Share our Meadowridge Parent Guild pages with you
+
+---
