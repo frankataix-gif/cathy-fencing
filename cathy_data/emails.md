@@ -14600,3 +14600,178 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AA
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABf-VPV--mRf-duqPCuQHiQzO0C6qdEhc-hHz49AtNGL0hV3p-J
 
 ---
+
+## [营销] 新加坡航空低至 75 折！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-01T08:34:40+00:00
+**摘要:** Trip.com 发送的限时优惠邮件，提供新加坡、巴厘岛及澳洲航线的机票低至75折，价格低至2500港元，鼓励立即预订。
+**待办:** 无
+
+限時優惠🔥飛新加坡、峇里島、澳洲低至 HK$2,5XX🧳即刻預訂👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-button {
+  max-width: 201px !important;
+}
+
+.trip-mail-fluid-coupon-wrapper {
+  max-width: 560px !important;
+}
+
+.trip-mail-fluid-coupon-mobile {
+    mso-hide: all;
+    display: none;
+    max-height: 0px;
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 640px) {
+    .trip-mail-header-space {
+        width: 56px !important
+    }
+}
+
+@media only screen and (max-width: 640px) {
+  .trip-mail-fluid-coupon-mobile {
+    mso-hide: none;
+    display: block !important;
+    max-height: none;
+    overflow: unset;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .trip-mail-fluid-coupon-wrapper {
+    max-width: 338px !important;
+  }
+
+  .trip-mail-fluid-coupon {
+  max-width: 169px !important;
+}
+
+  .trip-mail-fluid-coupon-tag {
+    max-width: 115px !important;
+  }
+
+  .trip-mail-fluid-coupon-claim {
+    max-width: 115px !important;
+  }
+
+  .trip-mail-fluid-coupon-button {
+    max-width: 91px !important;
+  }
+
+  .trip-mail-fluid-coupon-desktop {
+    mso-hide: all !important;
+    display: none !important;
+    max-height: 0px !important;
+    overflow: hidden !important;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  .trip-mail-block {
+    display: table;
+  }
+  .trip-mail-line-height {
+    line-height: 1 !important;
+  }
+  .trip-mail-fluid {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    float: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .trip-mail-fluid-half {
+    width: 50% !important;
+    max-width: 50% !important;
+    height: auto !important;
+    box-sizing: border-box;
+    min-width: auto !important;
+  }
+  .trip-mail-three-columns-responsive{
+    display: table !important;
+  }
+  .trip-mail-three-columns-tradition{
+    display: none !important;
+  }
+}
+
+body {
+  margin: 0;
+}
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+  .trip-mail-fluid-mobile {
+    width: 49.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .trip-mail-fluid-mobile-60 {
+    width: 59.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  .trip-mail-fluid-mobile-40 {
+    width: 39.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .trip-mail-fluid-mobile-65 {
+    width: 65.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    
+
+---
