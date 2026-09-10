@@ -16492,3 +16492,113 @@ DoorDash Email     -->
       .black{font-family:'DDNorms-Condensed',system-ui,sans-serif!important;font-weight:900!important;line-height:0.85em;letter-spacing:-0.04em;text-transform
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T17:37:47+00:00
+**摘要:** 提供一次性验证码以登录加拿大政府服务
+**待办:** 输入验证码CS9QLFFN以登录加拿大政府服务
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+         
+
+         
+             
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                          
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Verify your login 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Your one-time passcode to log in to your Government of Canada service is: 
+
+                                         
+                                             CS9QLFFN 
+                                         
+
+                                         This email was sent to nataliewu100@gmail.com. 
+                                         You received this email because you signed up for a Government of Canada login account. 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Please do not reply to this email.
+
+---
