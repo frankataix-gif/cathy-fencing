@@ -11384,3 +11384,61 @@ The Koodo Team
 
 
 ---
+
+## [其他] Cancelled service and your next bill
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T15:13:48-07:00
+**摘要:** 邮件通知取消服务后的账单详情，包括可能的费用和支付方式。
+**待办:** 无
+
+Account number: 
+We’re sorry to see you go.
+You recently scheduled to cancel your wireless service on , for the following phone number(s):
+
+
+What to expect on your next bill:
+
+Prorated recurring monthly charges: recurring charges such as your monthly plan and tab charge will be prorated to reflect only the portion of the month in which your wireless service was still active.
+Tab debit: you’ll see this charge only if you have a remaining Tab balance
+Phone credit charge: you’ll see this charge only if you have a remaining phone credit balance. You may receive an additional bill for this
+Additional usage charges: any extra calls, texts and data charges not included with your monthly plan.
+Roaming: if you’ve recently used your phone outside of Canada, roaming charges may not immediately show up on your bill. You may receive an additional bill if this happens.
+View and pay your bill with Self Serve:
+You’ll receive an email alert when your bill is ready to view with Self Serve. You can continue to view your E-Bill online up to 90 days after your cancellation date.
+Pay easily and quickly with your credit card or Visa Debit card for payment to immediately reflect on your account.
+Paying your bill at your financial institution:
+All you need for this is your Koodo account number. Bank payments typically take 3 days to process through.
+Are you sure you’re ready to cancel? If you change your mind about this, schedule a convenient time for a rep to personally contact you at koodo.com/chat
+
+We appreciate your business and hope to see you again in the future.
+
+All the best,
+The Koodo Team
+Self Serve   |   Help
+Privacy statement   |   koodo.com
+© 2019 Koodo. All rights reserved.
+
+------------------------------------------------
+
+
+
+N° de compte: 
+Nous sommes tristes de vous voir partir.
+Vous avez récemment annulé votre service sans fil, en date du pour le ou les numéros :
+
+
+Que verrez-vous sur votre facture suivante :
+Frais récurrents établis au prorata : comprenant le coût du forfait mensuel et de la Balance mensuelle, le cas échéant, pour la portion du mois pendant laquelle le service état actif.
+Solde de Balance : vous verrez ces frais seulement s'il reste un solde à votre Balance
+Frais pour le crédit sur le téléphone: Vous verrez ces frais seulement si vous avez un solde du crédit sur le téléphone. Il est possible que vous receviez une facture additionnelle en pareil cas
+Frais d'utilisation additionnelle : frais d'appels, de textos et de données qui ne sont pas inclus dans votre forfait mensuel.
+Itinérance : si vous avez utilisé votre téléphone à l'extérieur du Canada, les frais d'itinérance ne sont pas toujours portés à votre compte sur-le-champ. Il est possible que vous receviez une facture additionnelle en pareil cas.
+Visualisez et payez votre facture au Libre-service :
+Vous recevrez une alerte lorsque votre facture sera prête à visualiser au Libre-service. Vous pourrez visualiser votre Cyber Facture au Libre-service jusqu'à 90 jours après la date d'annulation du service.
+Réglez votre facture facilement à l'aide d'une carte de crédit ou Visa Débit. Ce paiement sera enregistré immédiatement dans votre compte.
+Payez votre facture à votre institution financière :
+Vous n'aurez besoin que de votre numéro de compte Koodo. Les paiements bancaires sont généralement traités en 3 jours.
+Vous êtes réellement prêt à mettre fin à votre service? Si vous changez d'avis, prenez rendez-vous à un moment qui vous convi
+
+---
