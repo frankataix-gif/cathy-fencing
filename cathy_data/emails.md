@@ -5427,3 +5427,21 @@ In the light of the current situation, Spencer West LLP is unable to accept serv
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
 
 ---
+
+## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:04:16+00:00
+**摘要:** 发件人要求撤回关于伦敦公寓销售参与的邮件，内容涉及法律或商务事务。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
+
+
+---
