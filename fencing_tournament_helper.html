@@ -406,6 +406,7 @@
     <div class="tabs-inner">
       <button class="tab active" data-tab="tournaments">USA Fencing</button>
       <button class="tab" data-tab="cathydata">日程</button>
+      <button class="tab" data-tab="emails">邮件</button>
       <button class="tab" data-tab="coach">AI 助手</button>
       <button class="tab" data-tab="profile">我的</button>
     </div>
@@ -553,6 +554,14 @@
 
   <!-- 日程 -->
   <div id="tab-cathydata" class="tab-content">
+    <div id="upcoming-card" class="card" style="display:none;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+        <h2 style="margin:0;">近期要做什么</h2>
+        <span style="font-size:0.8rem; color:var(--gray);">未来 7 天</span>
+      </div>
+      <div id="upcoming-list"></div>
+    </div>
+
     <div id="schedule-pinned-card" class="card" style="display:none;">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
         <h2>今日 / 正在进行</h2>
@@ -571,6 +580,14 @@
         <button class="btn" id="schedule-next-month">&gt;</button>
       </div>
       <div class="schedule-calendar" id="schedule-calendar"></div>
+    </div>
+
+    <div class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+        <h3 style="margin:0;">待办清单</h3>
+        <button class="btn" id="task-add-btn" onclick="openTaskEditor(null)">+ 待办</button>
+      </div>
+      <div id="task-list"></div>
     </div>
 
     <div class="card">
@@ -626,6 +643,53 @@
     <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
       <button class="btn secondary" id="schedule-editor-cancel">取消</button>
       <button class="btn cathy" id="schedule-editor-save">保存</button>
+    </div>
+  </div>
+
+  <!-- 待办编辑器 -->
+  <div id="task-editor" style="display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:white; z-index:200; overflow-y:auto; padding:16px;">
+    <div style="position:sticky; top:0; background:white; padding:10px 0; text-align:right; margin-bottom:12px; border-bottom:1px solid #e5e7eb; z-index:1;">
+      <button class="btn secondary" id="task-editor-close">关闭</button>
+    </div>
+    <h3 id="task-editor-title" style="margin-bottom:12px;">添加待办</h3>
+    <input type="hidden" id="task-edit-id">
+    <div class="form-row"><label for="te-title">标题</label><input id="te-title" type="text" placeholder="如：上传疫苗记录"></div>
+    <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
+      <div style="min-width:0;"><label for="te-due">截止日期</label><input id="te-due" type="date"></div>
+      <div style="min-width:0;"><label for="te-category">分类</label>
+        <select id="te-category" style="width:100%; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
+          <option value="待办">待办</option>
+          <option value="击剑">击剑</option>
+          <option value="学校">学校</option>
+          <option value="营销">营销</option>
+          <option value="其他">其他</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-row"><label for="te-notes">备注 / 来源</label><textarea id="te-notes" rows="3" placeholder="来源邮件或补充说明"></textarea></div>
+    <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
+      <button class="btn danger" id="task-editor-delete" style="display:none;">删除</button>
+      <button class="btn secondary" id="task-editor-cancel">取消</button>
+      <button class="btn cathy" id="task-editor-save">保存</button>
+    </div>
+  </div>
+
+  <!-- 邮件 -->
+  <div id="tab-emails" class="tab-content">
+    <div class="card">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+        <h2 style="margin:0;">邮件 / Emails</h2>
+        <span id="emails-count" style="font-size:0.8rem; color:var(--gray);"></span>
+      </div>
+      <div id="email-filters" style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
+        <button class="btn active" data-filter="all" style="padding:4px 12px; font-size:0.8rem;">全部</button>
+        <button class="btn secondary" data-filter="击剑" style="padding:4px 12px; font-size:0.8rem;">击剑</button>
+        <button class="btn secondary" data-filter="学校" style="padding:4px 12px; font-size:0.8rem;">学校</button>
+        <button class="btn secondary" data-filter="营销" style="padding:4px 12px; font-size:0.8rem;">营销</button>
+        <button class="btn secondary" data-filter="待办" style="padding:4px 12px; font-size:0.8rem;">待办</button>
+        <button class="btn secondary" data-filter="其他" style="padding:4px 12px; font-size:0.8rem;">其他</button>
+      </div>
+      <div id="emails-list-full" style="font-size:0.9rem; line-height:1.7;">加载中…</div>
     </div>
   </div>
 
@@ -741,8 +805,11 @@ const SCHEDULE_EVENT_TYPES = {
 // 旧击剑数据保留，但不再展示
 let cathyDataRecords = {};
 let scheduleEvents = [];
+let tasks = [];
+let allEmails = [];
 try { cathyDataRecords = JSON.parse(getLocal('cathy_training_data', '{}') || '{}'); } catch(e) { cathyDataRecords = {}; }
 try { scheduleEvents = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { scheduleEvents = []; }
+try { tasks = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { tasks = []; }
 
 const CITY_COORDS = {
   'Vancouver, BC': [49.28, -123.12],
@@ -1926,10 +1993,16 @@ function circuitLabel(c) {
         reflections = data.reflections;
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
+      if (Array.isArray(data.tasks)) {
+        tasks = data.tasks;
+        saveToLocal('cathy_tasks', JSON.stringify(tasks));
+      }
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
       renderResults();
       renderSchedule();
+      if (typeof renderTasks === 'function') renderTasks();
+      if (typeof renderUpcoming === 'function') renderUpcoming();
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
@@ -1937,7 +2010,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -1960,8 +2033,10 @@ function circuitLabel(c) {
     }
     let schedule = [];
     try { schedule = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { schedule = []; }
+    let taskList = [];
+    try { taskList = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { taskList = []; }
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -1984,22 +2059,19 @@ function circuitLabel(c) {
     try {
       const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/emails.md?_=' + Date.now(), { cache: 'no-cache' });
       const el = document.getElementById('emails-list');
-      if (!el) return;
-      if (!res.ok) { el.innerHTML = '暂无邮件'; return; }
+      if (el) { if (!res.ok) { el.innerHTML = '暂无邮件'; return; } }
+      if (!res.ok) return;
       const text = await res.text();
       const parts = text.split(/\n## /).filter(Boolean);
       // 只显示带分类标签的邮件（AI 自动归档格式：[分类] 标题）
-      const emails = parts.filter(p => p.split('\n')[0].trim().startsWith('['));
-      const latest = emails.slice(-5).reverse();
-      if (!latest.length) { el.innerHTML = '暂无邮件'; return; }
-      el.innerHTML = latest.map(p => {
+      const emailParts = parts.filter(p => p.split('\n')[0].trim().startsWith('['));
+      const catColorMap = { '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '待办': '#ef4444', '其他': '#6b7280' };
+      allEmails = emailParts.map(p => {
         const lines = p.split('\n').filter(l => l.trim());
-        const title = lines[0] || '';
-        // 解析 [分类] 标题
-        const m = title.match(/^\[([^\]]+)\]\s*(.*)/);
+        const titleLine = lines[0] || '';
+        const m = titleLine.match(/^\[([^\]]+)\]\s*(.*)/);
         const category = m ? m[1] : '其他';
-        const subject = m ? m[2] : title;
-        // 提取元数据行
+        const subject = m ? m[2] : titleLine;
         const meta = {};
         let bodyStart = 0;
         for (let i = 1; i < lines.length; i++) {
@@ -2011,16 +2083,26 @@ function circuitLabel(c) {
           else if (!line.startsWith('**') && bodyStart === 0) { bodyStart = i; break; }
           else if (bodyStart > 0 && !line.startsWith('**')) break;
         }
-        const body = lines.slice(bodyStart, bodyStart + 3).join('\n');
-        const catColor = { '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '待办': '#ef4444', '其他': '#6b7280' }[category] || '#6b7280';
-        return '<div style="margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid #e5e7eb;">' +
-          '<span style="background:' + catColor + '; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; margin-right:6px;">' + escapeHtml(category) + '</span>' +
-          '<b>' + escapeHtml(subject) + '</b><br>' +
-          '<small style="color:#6b7280;">' + escapeHtml(meta.from || '') + ' · ' + escapeHtml(meta.date || '') + '</small><br>' +
-          (meta.summary ? '<small>' + escapeHtml(meta.summary) + '</small><br>' : '') +
-          (meta.todo && meta.todo !== '无' ? '<small style="color:#ef4444;">⚠️ ' + escapeHtml(meta.todo) + '</small><br>' : '') +
-          '<small>' + escapeHtml(body) + '</small></div>';
-      }).join('');
+        const body = lines.slice(bodyStart).join('\n').replace(/---$/, '').trim();
+        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', body, color: catColorMap[category] || '#6b7280' };
+      }).reverse();
+      // 我的 Tab 里只显示最新 5 封
+      if (el) {
+        const latest = allEmails.slice(0, 5);
+        if (!latest.length) { el.innerHTML = '暂无邮件'; }
+        else {
+          el.innerHTML = latest.map(e => {
+            return '<div style="margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid #e5e7eb;">' +
+              '<span style="background:' + e.color + '; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; margin-right:6px;">' + escapeHtml(e.category) + '</span>' +
+              '<b>' + escapeHtml(e.subject) + '</b><br>' +
+              '<small style="color:#6b7280;">' + escapeHtml(e.from) + ' · ' + escapeHtml(e.date) + '</small><br>' +
+              (e.summary ? '<small>' + escapeHtml(e.summary) + '</small><br>' : '') +
+              (e.todo && e.todo !== '无' ? '<small style="color:#ef4444;">⚠️ ' + escapeHtml(e.todo) + '</small><br>' : '') +
+              '<small>' + escapeHtml(e.body.slice(0, 200)) + '</small></div>';
+          }).join('');
+        }
+      }
+      if (typeof renderEmailList === 'function') renderEmailList();
     } catch(e) {}
   }
 
@@ -3236,6 +3318,8 @@ function circuitLabel(c) {
         updateMapMarkers();
       }
       if (e.target.dataset.tab === 'coach') loadCoachView();
+      if (e.target.dataset.tab === 'emails' && typeof renderEmailList === 'function') renderEmailList();
+      if (e.target.dataset.tab === 'cathydata') { if (typeof renderTasks === 'function') renderTasks(); if (typeof renderUpcoming === 'function') renderUpcoming(); }
     });
   }
 
@@ -4090,6 +4174,258 @@ function circuitLabel(c) {
       </div>
     </div>
   </div>
+
+<script>
+  // 邮件 Tab / 待办清单扩展
+  let currentEmailFilter = 'all';
+  const taskCategoryColor = { '待办': '#ef4444', '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '其他': '#6b7280' };
+
+  function saveTasks() {
+    saveToLocal('cathy_tasks', JSON.stringify(tasks));
+    if (typeof renderTasks === 'function') renderTasks();
+    if (typeof renderUpcoming === 'function') renderUpcoming();
+    if (typeof renderEmailList === 'function') renderEmailList();
+  }
+
+  function newTaskId() { return 't_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
+  function emailTaskKey(email) { return (email.date || '') + '|' + (email.subject || ''); }
+
+  function taskCategoryFor(emailCategory) {
+    if (['待办','击剑','学校','营销'].includes(emailCategory)) return emailCategory;
+    return '待办';
+  }
+
+  function renderUpcoming() {
+    const container = document.getElementById('upcoming-list');
+    const card = document.getElementById('upcoming-card');
+    if (!container || !card) return;
+    const today = vancouverISO().slice(0,10);
+    const future = new Date();
+    future.setDate(future.getDate() + 7);
+    const futureStr = future.toISOString().slice(0,10);
+    const items = [];
+    (scheduleEvents || []).forEach(e => {
+      if (e.date && e.date >= today && e.date <= futureStr) {
+        items.push({ type: 'event', title: e.title, date: e.date, end: e.end, time: e.time, category: e.type || 'other', color: scheduleTypeDot(e.type) });
+      }
+    });
+    (tasks || []).forEach(t => {
+      if (t.completed) return;
+      const inRange = !t.dueDate || t.dueDate <= futureStr || t.dueDate < today;
+      if (inRange) {
+        items.push({ type: 'task', title: t.title, date: t.dueDate || '未设日期', category: t.category, id: t.id, overdue: t.dueDate && t.dueDate < today, color: '' });
+      }
+    });
+    items.sort((a, b) => {
+      if (a.date === '未设日期') return 1;
+      if (b.date === '未设日期') return -1;
+      return a.date.localeCompare(b.date);
+    });
+    if (!items.length) { card.style.display = 'none'; return; }
+    card.style.display = 'block';
+    container.innerHTML = items.map(item => {
+      const color = item.color || `<span class="schedule-dot" style="background:${taskCategoryColor[item.category] || '#6b7280'};"></span>`;
+      const badge = item.overdue ? '<span style="background:#ef4444;color:#fff;font-size:11px;padding:1px 6px;border-radius:8px;margin-left:6px;">过期</span>' : '';
+      const dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
+      return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
+        <span style="margin-top:2px;">${color}</span>
+        <div style="flex:1; min-width:0;">
+          <div style="font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${escapeHtml(item.title)}${badge}</div>
+          <div style="font-size:0.75rem; color:#6b7280; margin-top:2px;">${escapeHtml(dateText)}</div>
+        </div>
+        ${item.type === 'task' ? `<button class="btn secondary" style="padding:2px 8px; font-size:0.75rem;" data-task-edit="${item.id}">编辑</button>` : ''}
+      </div>`;
+    }).join('');
+    container.querySelectorAll('button[data-task-edit]').forEach(btn => {
+      btn.addEventListener('click', () => openTaskEditor(tasks.find(t => t.id === btn.dataset.taskEdit)));
+    });
+  }
+
+  function renderTasks() {
+    const container = document.getElementById('task-list');
+    if (!container) return;
+    if (!tasks.length) { container.innerHTML = '<div class="empty-state">暂无待办</div>'; return; }
+    const today = vancouverISO().slice(0,10);
+    const futureLimit = new Date();
+    futureLimit.setDate(futureLimit.getDate() + 7);
+    const futureStr = futureLimit.toISOString().slice(0,10);
+    const groups = [
+      { key: 'overdue', label: '已过期', filter: t => !t.completed && t.dueDate && t.dueDate < today },
+      { key: 'today', label: '今天', filter: t => !t.completed && t.dueDate === today },
+      { key: 'upcoming', label: '未来 7 天', filter: t => !t.completed && t.dueDate && t.dueDate > today && t.dueDate <= futureStr },
+      { key: 'later', label: '更晚 / 无日期', filter: t => !t.completed && (!t.dueDate || t.dueDate > futureStr) },
+      { key: 'done', label: '已完成', filter: t => t.completed }
+    ];
+    let html = '';
+    groups.forEach(g => {
+      const list = tasks.filter(g.filter).sort((a,b) => (a.dueDate||'').localeCompare(b.dueDate||''));
+      if (!list.length) return;
+      html += `<div style="margin-bottom:12px;"><div style="font-size:0.75rem; color:#6b7280; margin-bottom:6px; font-weight:600;">${g.label}</div>` + list.map(t => renderTaskItem(t)).join('') + '</div>';
+    });
+    container.innerHTML = html || '<div class="empty-state">暂无待办</div>';
+    container.querySelectorAll('input[type=checkbox][data-task-id]').forEach(cb => {
+      cb.addEventListener('change', () => toggleTask(cb.dataset.taskId, cb.checked));
+    });
+    container.querySelectorAll('button[data-task-edit]').forEach(btn => {
+      btn.addEventListener('click', () => openTaskEditor(tasks.find(t => t.id === btn.dataset.taskEdit)));
+    });
+    container.querySelectorAll('button[data-task-delete]').forEach(btn => {
+      btn.addEventListener('click', () => deleteTask(btn.dataset.taskDelete));
+    });
+  }
+
+  function renderTaskItem(t) {
+    const color = taskCategoryColor[t.category] || '#6b7280';
+    const due = t.dueDate ? `<span style="font-size:0.75rem; color:#6b7280;">${t.dueDate}</span>` : '';
+    const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
+    return `<div class="schedule-list-item" style="border-left-color:${color}; display:flex; align-items:flex-start; gap:10px;">
+      <input type="checkbox" data-task-id="${t.id}" ${t.completed ? 'checked' : ''} style="margin-top:4px; width:18px; height:18px; flex-shrink:0;">
+      <div style="flex:1; min-width:0;">
+        <div style="font-weight:600; ${t.completed ? 'text-decoration:line-through; color:#9ca3af;' : ''}; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${escapeHtml(t.title)}</div>
+        ${due}
+        ${source}
+        ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
+      </div>
+      <div style="display:flex; gap:6px; flex-shrink:0;">
+        <button class="btn secondary" data-task-edit="${t.id}" style="padding:2px 8px; font-size:0.75rem;">编辑</button>
+        <button class="btn danger" data-task-delete="${t.id}" style="padding:2px 8px; font-size:0.75rem;">删除</button>
+      </div>
+    </div>`;
+  }
+
+  function toggleTask(id, completed) {
+    const t = tasks.find(x => x.id === id);
+    if (!t) return;
+    t.completed = completed;
+    saveTasks();
+  }
+
+  function deleteTask(id) {
+    if (!confirm('确认删除这个待办？')) return;
+    tasks = tasks.filter(t => t.id !== id);
+    saveTasks();
+  }
+
+  function openTaskEditor(task) {
+    const isEdit = !!task;
+    document.getElementById('task-edit-id').value = isEdit ? task.id : '';
+    document.getElementById('te-title').value = isEdit ? (task.title || '') : '';
+    document.getElementById('te-due').value = isEdit ? (task.dueDate || '') : '';
+    document.getElementById('te-category').value = isEdit ? (task.category || '待办') : '待办';
+    document.getElementById('te-notes').value = isEdit ? (task.notes || '') : '';
+    document.getElementById('task-editor-title').textContent = isEdit ? '编辑待办' : '添加待办';
+    document.getElementById('task-editor-delete').style.display = isEdit ? 'inline-block' : 'none';
+    document.getElementById('task-editor').style.display = 'block';
+  }
+
+  function closeTaskEditor() { document.getElementById('task-editor').style.display = 'none'; }
+
+  function saveTask() {
+    const id = document.getElementById('task-edit-id').value;
+    const title = document.getElementById('te-title').value.trim();
+    const dueDate = document.getElementById('te-due').value;
+    const category = document.getElementById('te-category').value;
+    const notes = document.getElementById('te-notes').value.trim();
+    if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
+    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, sourceType: 'manual', completed: false, createdAt: new Date().toISOString() };
+    if (id) {
+      const existing = tasks.find(x => x.id === id);
+      if (existing) {
+        t.completed = existing.completed;
+        t.sourceType = existing.sourceType;
+        t.sourceSubject = existing.sourceSubject;
+        t.sourceDate = existing.sourceDate;
+        t.emailKey = existing.emailKey;
+        t.createdAt = existing.createdAt;
+      }
+    }
+    const idx = tasks.findIndex(x => x.id === t.id);
+    if (idx >= 0) tasks[idx] = t; else tasks.push(t);
+    saveTasks();
+    closeTaskEditor();
+  }
+
+  function addTaskFromEmail(email) {
+    const key = emailTaskKey(email);
+    const existing = tasks.find(t => t.emailKey === key);
+    if (existing) { openTaskEditor(existing); return; }
+    const t = {
+      id: newTaskId(),
+      title: email.todo,
+      dueDate: '',
+      category: taskCategoryFor(email.category) || '待办',
+      sourceType: 'email',
+      sourceSubject: email.subject,
+      sourceDate: email.date,
+      emailKey: key,
+      completed: false,
+      notes: '来自邮件：' + email.subject,
+      createdAt: new Date().toISOString()
+    };
+    tasks.push(t);
+    saveTasks();
+  }
+
+  function renderEmailList(filter) {
+    if (filter !== undefined) currentEmailFilter = filter;
+    const container = document.getElementById('emails-list-full');
+    const countEl = document.getElementById('emails-count');
+    if (!container) return;
+    document.querySelectorAll('#email-filters button[data-filter]').forEach(btn => {
+      if (btn.dataset.filter === currentEmailFilter) { btn.classList.add('active'); btn.classList.remove('secondary'); }
+      else { btn.classList.remove('active'); btn.classList.add('secondary'); }
+    });
+    const list = currentEmailFilter === 'all' ? allEmails : allEmails.filter(e => e.category === currentEmailFilter);
+    if (countEl) countEl.textContent = list.length + ' 封';
+    if (!list.length) { container.innerHTML = '<div class="empty-state">没有邮件</div>'; return; }
+    container.innerHTML = list.map((e, idx) => {
+      const key = emailTaskKey(e);
+      const hasTask = tasks.some(t => t.emailKey === key);
+      const taskBtn = (e.todo && e.todo !== '无') ?
+        `<button class="btn ${hasTask ? 'secondary' : 'cathy'}" data-email-idx="${idx}" style="padding:2px 10px; font-size:0.75rem; margin-top:6px;">${hasTask ? '查看待办' : '加入待办'}</button>` : '';
+      return `<div class="card" style="margin-bottom:10px; padding:12px; border-left:4px solid ${e.color};">
+        <div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:6px;">
+          <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
+          <b style="flex:1; min-width:0;">${escapeHtml(e.subject)}</b>
+        </div>
+        <div style="font-size:0.8rem; color:#6b7280; margin-bottom:6px;">${escapeHtml(e.from)} · ${escapeHtml(e.date)}</div>
+        ${e.summary ? `<div style="font-size:0.85rem; margin-bottom:4px; color:#374151;">${escapeHtml(e.summary)}</div>` : ''}
+        ${e.todo && e.todo !== '无' ? `<div style="font-size:0.85rem; color:#ef4444; margin-bottom:4px;">⚠️ 待办：${escapeHtml(e.todo)}</div>` : ''}
+        <details style="font-size:0.85rem; color:#4b5563; margin-top:6px;">
+          <summary style="cursor:pointer; color:var(--primary); font-size:0.8rem;">查看原文</summary>
+          <pre style="white-space:pre-wrap; word-break:break-word; margin-top:8px; font-family:inherit; line-height:1.6;">${escapeHtml(e.body)}</pre>
+        </details>
+        ${taskBtn}
+      </div>`;
+    }).join('');
+    container.querySelectorAll('button[data-email-idx]').forEach(btn => {
+      btn.addEventListener('click', () => addTaskFromEmail(allEmails[btn.dataset.emailIdx]));
+    });
+  }
+
+  function initEmailTasks() {
+    // 邮件筛选按钮
+    document.querySelectorAll('#email-filters button[data-filter]').forEach(btn => {
+      btn.addEventListener('click', () => renderEmailList(btn.dataset.filter));
+    });
+    // 待办编辑器按钮
+    document.getElementById('task-editor-close')?.addEventListener('click', closeTaskEditor);
+    document.getElementById('task-editor-cancel')?.addEventListener('click', closeTaskEditor);
+    document.getElementById('task-editor-save')?.addEventListener('click', saveTask);
+    document.getElementById('task-editor-delete')?.addEventListener('click', () => {
+      const id = document.getElementById('task-edit-id').value;
+      if (id) deleteTask(id);
+      closeTaskEditor();
+    });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeTaskEditor(); });
+    // 初始化一次
+    renderTasks();
+    renderUpcoming();
+    if (allEmails.length) renderEmailList();
+  }
+
+  initEmailTasks();
+</script>
 
 </body>
 </html>
