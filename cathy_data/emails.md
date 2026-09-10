@@ -18670,3 +18670,112 @@ Consultez votre facture et modifiez les détails de votre forfait de services mo
 Gardez un œil sur vos données grâce à des avis, et établissez des limites pour éviter les dép
 
 ---
+
+## [其他] Your order is on its way
+
+**发件人:** noreply@telus.com
+**日期:** 2026-08-26T18:21:26+00:00
+**摘要:** 订单已发货，预计送达提供的地址，并附有物流信息和新SIM卡使用说明。
+**待办:** 无
+
+body {
+	                background-color: white;
+	                font-family: Arial, Helvetica, sans-serif;
+	                font-size: 1em;
+	                }
+	
+	                .p {
+	                font-size: 1em;
+	                color: black;
+	                font-weight: bold;
+	                }
+	
+	                .telus-heading {
+	                font-size: 2em;
+	                font-family: Arial, sans-serif;
+	                color: #49166D;
+	                }
+	
+	                .koodo-heading {
+	                font-size: 2em;
+	                font-family: Arial, sans-serif;
+	                color: #00a1db;
+	                }
+	
+	                .light-green {
+	                color: green;
+	                }
+	
+	                .email-text {
+	                font-family: Arial, Helvetica, sans-serif;
+	                font-size: 1em;
+	                color: black;
+	                }
+	
+	                table, th, td {
+	                border-collapse: collapse;
+	                }
+	             
+     
+         
+             
+                  
+                     Thank you for choosing TELUS 
+                  
+                     
+                         
+                     
+                 
+             
+         
+         Date:
+	                    Aug 26, 2026 
+         Dear&nbsp;JINGQI WU,
+	                 
+        We&rsquo;re happy to let you know that your order is on its way and will be delivered to the shipping address you&rsquo;ve provided.  If the tracking number field shows &ldquo;Not Provided&rdquo;, the order will be delivered via regular mail with no tracking available.
+         Tracking Details 
+         
+             
+                 Order Number  20422835132 
+             
+             
+                 Courier  LETTERMAIL 
+             
+             
+                 Tracking Number  Not Applicable / Ne s'applique pas 
+             
+             
+                 Shipping Address  Unit 103 708 FARROW ST &lt;br&gt;COQUITLAM BC V3J0P2 &lt;br&gt;CAN&lt;/br&gt;&lt;/br&gt; 
+             
+             
+                 Number of Items  1 
+             
+         
+         What&rsquo;s in the box: 
+         
+             
+                 Order Item Number  Subscriber Name  Subscriber Number  Details  SIM 
+             
+             
+                 ES2341325129  Jing Wu  (778) 873-4731  TELUS 5G SA TRISIM2 (TTRISIM5G2)  8912230102352666840 
+             
+         
+         To use a New SIM card in your new device: 
+         
+             Go to telus.com/simswap and follow the instructions or call 1-866-558-2273 to transfer your service to the new SIM. 
+         
+         To use a New eSIM voucher (QR Code) in your new device: 
+         
+             Go to telus.com/simswap and follow the instructions or call 1-866-558-2273 to transfer your service to the new eSIM. 
+             Ensure you connect to a WI-FI network to complete the setup. 
+             Turn on the new device. 
+             Follow the on screen instructions and select SIM-free setup. 
+             Scan QR code on TELUS eSIM voucher with camera. 
+         
+        * For help visit https://www.telus.com/support/article/esim-voucher.
+         To use your Existing SIM card in your new device: 
+         
+             Locate the SIM card slot on your current device (refer to the manufacturers' guide for more details) and remove the existing SIM card. 
+   
+
+---
