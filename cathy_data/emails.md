@@ -2817,3 +2817,125 @@ stroke="false" fillcolor="#0b57d0">
 
 
 ---
+
+## [营销] Your property is now live on Foxtons
+
+**发件人:** Freya.Wan@foxtons.co.uk
+**日期:** 2026-09-10T11:04:30+01:00
+**摘要:** 您的房产已上线至Foxtons网站，请检查详情是否准确。
+**待办:** 检查房产信息并报告错误
+
+a.button:active,
+				a.button:visited{
+					color:#fff !important;
+					color:#fff;
+				}
+				@media only screen and (max-width:624px) {
+					.foxtons_email_holder{
+						width:100%;
+						max-width:624px;
+					}
+					.foxtons_email_holder_inner{
+						padding:12px 0 !important;
+					}
+				}
+				 
+			   
+     
+    		
+
+		
+			
+			 
+				 
+					 					
+						 
+							 
+								 
+														
+	Please check your property's details online	
+				
+							 
+						 
+						 
+							 
+								 
+									 
+										 
+
+											 
+												 
+													     
+												 
+											 
+										 
+											 
+											
+											 
+												 
+													    
+
+					
+	  Dear Miss wu,   
+            I am delighted to inform you that as part of our comprehensive marketing package your property is now live on Foxtons.co.uk.
+               
+				View your property
+			       
+          If this link does not load immediately, then please retry as some properties can take up to two hours to be live on our website.
+          
+            Under the Consumer Protection Regulations 2008 both yourself and Foxtons are responsible for ensuring that the information provided in relation to your property is factually correct.
+          
+            Therefore, I would be grateful if you could check the details carefully and advise me of any inaccuracies, particularly of any information which could influence a buyer's transactional decision regarding your property.
+          Kind regards,   Freya Wan   
+      T: 020 7893 6010 
+      M: 07875 80 2146 
+      E:  Freya.Wan@foxtons.co.uk  
+    W:  Foxtons.co.uk  
+			
+				
+														 
+													 
+												                                             
+											 
+										 
+									 
+																							
+
+						
+				
+	
+									
+			
+			 
+				 
+					  &copy; Foxtons 
+				 
+				 
+					 Foxtons Limited, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN 
+							Company Reg No: 1680058                                                                                                                    
+					 
+				 
+			                                                                         
+				
+				
+				 
+			 
+		 
+
+		 
+		 
+				
+				 
+			 
+		 
+	
+
+							
+	
+
+     
+     
+    
+      Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
+
+---
