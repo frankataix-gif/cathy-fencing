@@ -4837,3 +4837,75 @@ Natalie
 
 
 ---
+
+## [其他] Re: Package Delivery Assistance – TH103
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-09T18:26:11+00:00
+**摘要:** Natalie请求协助处理包裹，Anastasia回复已收到包裹并将送达其住所。
+**待办:** 无
+
+Hi Natalie,
+Received one box , I will please it to your home
+Thank you
+
+Anastasia
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, 08 September 2026 13:39:42
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Re: Package Delivery Assistance – TH103
+
+Thanks！！
+
+Natalie
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca<mailto:residentcare@boffo.ca>>于2026年9月8日 周二13:19写道：
+Hi Natalie,
+
+I just checked, nothing yet, but I can check at the end of the day.
+
+Thanks
+
+Anastasia
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:ii_1a082bea21dea654a7f1]
+
+
+
+708 Farrow Street <https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g> |<https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g> Coquitlam BC <https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g> |<https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g> V3J 1P7<https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g> | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful. Please consider the environment before printing this email.
+
+
+
+________________________________
+From: natalie <nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>>
+Sent: Tuesday, September 8, 2026 12:53 PM
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca<mailto:residentcare@boffo.ca>>
+Subject: Package Delivery Assistance – TH103
+
+Hi Anastasia,
+
+I have several packages that are expected to arrive over the next few
+days. Could you please check how many packages have arrived for me
+today?
+
+If possible, could you also please help place them inside my unit,
+TH103? If this is not possible, please let me know where they are
+being stored.
+
+Thank you very much for your help.
+
+Best regards,
+Natalie
+
+
+---
