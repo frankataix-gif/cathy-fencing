@@ -6439,3 +6439,108 @@ Natalie
 Hello Jingqi Wu,  &nbsp;  Going forward, you will receive all messages and alerts through this application,  along with your child's new route details . You will also be able to see the  live location of your respective school bus along with your bus stop . If you have any problems, please contact at prameet@lynchbuslines.com or 604.439.0842.   We are only sending this email to ONE email address per family  (the first guardian we have on file). Therefore, in  order to give permission to another adult  to view your child's bus schedule please click on the three dots in the top right hand corner of your child's schedule, and then click ' Share Schedule '.   &nbsp;    Please note : This app will only be used for  one-way communication , which is for the office to contact the parents, in a case you want to reach us, please email (prameet@lynchbuslines.com) or call at 604-439-0842.  &nbsp;     Please follow the following Steps to activate your account:        &nbsp;       Step 1:    Follow this link to activate your subscription : https://app.stopfinder.com/activation?guid=b0d07cd1-d735-42a7-a019-1bf3f27a0880&email=nataliewu100%40gmail.com  &nbsp;    Step 2:    Download   the Stopfinder app .           &nbsp;  Thank you, and have a great rest of the year!  Sincerely,    LYNCH BUS LINES
 
 ---
+
+## [营销] Your Foxtons photography appointment
+
+**发件人:** Foxtons <mail@info.foxtons.co.uk>
+**日期:** 2026-09-08T14:19:56+00:00
+**摘要:** 确认Flat 120的房产摄影预约时间为2026年9月9日上午9点，并附有拍摄前的准备清单。
+**待办:** 根据提供的清单准备房产，确保拍摄当天环境整洁有序。
+
+Your photography appointment for
+Flat 120, 1 Emery Way, E1W 2AS is confirmed    My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/dtqFVBEEndiQABPIoF6L9w~~/AAAHahA~/C8hhsJGI9waTBP5WMW3fgfAxmw1WCflk3vV4Cx4RIDWodx-yeqJuJjmw5druc3VGpCWsA_xjLrkPz-eUJT8BRPbtFTIAY83DsY9pg99JAPVPXVmUBO4MpNSusrYPGPeDAbK8qAbJFEKSJPx--Fojxw~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/SK5Mxi5v7QsM315uYMMLYQ~~/AAAHahA~/x1rvWQlutuwhXHvE5D4yLERDaiakzGgG0O6h-cp6cNgAAjaYgOuWa4psd5O1zWRDE2gfub_fKOViyNjBwLUE5SNTBuIeM3kitE2OmzmgOTdWsy8JmitHMM8KxD1MeTcKbXFwr55CibAzTdBabkBy4A~~ )
+Dear Miss wu,
+
+Your photography appointment for
+Flat 120, 1 Emery Way, E1W 2AS is confirmed:
+
+Wednesday, 09 September 2026
+
+09:00 AM
+
+Wednesday, 09 September 2026
+
+09:00 AM
+
+      Meet
+your photographer:
+
+Gantcho Beltchev
+
+Foxtons Specialist Photography
+
+07875 80 0535
+
+A London based photographer and floor planer since 2015 Gantcho
+has an extensive experience in the real estate field. He loves to
+spend time with his family and playing tennis. He likes to travel
+and explore the diversity in the world.
+
+      Checklist: preparing your
+property
+
+Buyers will make a split-second decision on the value of a
+property from the images on the advert, so we make that first
+impression count. In order for our experienced in-house
+photography team to do their best work to maximise the possible
+return for your property, please complete this pre-appointment
+checklist:
+
+✔ Tidy away clutter
+
+✔ Clean rooms and wipe down surfaces
+
+✔ Make beds and plump cushions
+
+✔ Put away clothes
+
+✔ Open curtains and blinds
+
+✔ Put away bathroom towels, cleaning products and toiletries
+
+✔ Clear driveway, stow bins and park cars out of view
+
+✔ Mow lawns and tidy gardens
+
+Checklist: preparing your property
+
+This appointment may take anywhere from twenty minutes to an
+hour, or longer, depending on the size of the property and
+requirements of the shoot. We will shoot high quality photography
+and take measurements for the floorplan.
+
+Although our photographers can share their expertise on
+anything that might need to be moved, they will spend more of
+their time getting the best pictures of your property if it is
+prepared in advance.
+
+If you currently do not live at the property, then please be
+assured we have contacted your tenants and arranged access with
+them. This is just a courtesy email.
+
+Putting the best property ad forward
+
+Foxtons know how to reach serious homebuyers. This
+appointment will enable us to present your property to them in
+its best light and achieve the right sale for you.
+
+Kind regards,
+
+Foxtons
+
+Foxtons is committed to providing a safe and respectful
+environment for both our customers and staff. We do not tolerate
+abusive, threatening, aggressive or discriminatory behaviour
+towards our employees under any circumstances.
+
+Facebook 
+( https://clicks.foxtons.co.uk/f/a/Hit5WMRpPSiD_2uTrAGh9w~~/AAAHahA~/Pt8xlg3EhypLaJCvchFV4JY4hfLmvVV_z9I4ZPKJLZZOrCKelTZjEh9U6MSt8kk6wZWuc1Y4lAW1mebGY0FdwB6MgbrUPVN7QWOiFpJXv9BDxydolMpOfS7iZr5XqtQsSzhljduV379hZY0tUfD_j1GPTUiflab8xmDbDAmosGc~ )
+Instagram 
+( https://clicks.foxtons.co.uk/f/a/LiH_M-6M1KcYMPauy7m6xQ~~/AAAHahA~/nXbgfpvnHa3h0OYsMjdvxLXjSCAROCf8Gs1Qr611PycoO8N5_4S-cle58EdpZJVQgXCFduwhk2SoVDIJrkkCJvJtpZx7nsNq1_7tas5cBZM2toHhtrgrEBiydze-q-vHF2sytt-tVu5tBRdAwJxkGqn8__F5Z2tNoLB4Hq2YGTA~ )
+TikTok 
+( https://clicks.foxtons.co.uk/f/a/wyyHV3TWdI8o6d4a3CclMA~~/AAAHahA~/Pt8xlg3EhypLaJCvchFV4BUCoL-zsjYPz6T4AsdtSAjJFVQHdycLuPLZLlUcDeOOQOvvAQnSC90usGi2O1_xUNGtJNOcJSHoVnveT2km0ij6za1zIxth8S_hG2li2l
+
+---
