@@ -150,38 +150,36 @@ function parseSuggestions(text) {
 }
 
 async function classifyEmail(env, email) {
-  const prompt = `你是 Cathy 家庭的邮件助理。请阅读以下邮件，用中文输出三个字段：
+  const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
+{"分类":"...","摘要":"...","待办":"..."}
 
-分类：只能从以下选择一个（击剑 / 学校 / 营销 / 待办 / 其他）
-摘要：用 1-2 句中文总结这封邮件的核心内容
-待办：这封邮件需要做什么？如需要行动，写清楚；不需要写"无"
+分类只能从这五个中选一个：击剑 / 学校 / 营销 / 待办 / 其他
+摘要用 1-2 句中文总结邮件核心
+待办：这封邮件需要做什么？不需要行动写"无"
 
-邮件：
 发件人：${email.from}
 主题：${email.subject}
-正文：
-${email.text.slice(0, 3000)}`;
+正文：${email.text.slice(0, 3000)}`;
 
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
       messages: [
-        { role: 'system', content: '你是邮件分类助理，输出格式严格为：分类: X\n摘要: ...\n待办: ...' },
+        { role: 'system', content: '你只能输出 JSON，不允许解释。' },
         { role: 'user', content: prompt }
       ]
     });
     const text = res && res.response ? res.response : '';
-    const lines = text.split('\n');
-    const categoryLine = lines.find(l => /分类|类别|category/i.test(l)) || '';
-    const summaryLine = lines.find(l => /摘要|summary/i.test(l)) || '';
-    const todoLine = lines.find(l => /待办|todo|action/i.test(l)) || '';
-    return {
-      category: categoryLine.split(/[:：]/)[1]?.trim() || '其他',
-      summary: summaryLine.split(/[:：]/)[1]?.trim() || '',
-      todo: todoLine.split(/[:：]/)[1]?.trim() || '无'
-    };
-  } catch(e) {
-    return { category: '其他', summary: '', todo: '无' };
-  }
+    const m = text.match(/\{[\s\S]*?\}/);
+    if (m) {
+      const obj = JSON.parse(m[0]);
+      return {
+        category: obj['分类'] || obj.category || '其他',
+        summary: obj['摘要'] || obj.summary || '',
+        todo: obj['待办'] || obj.todo || '无'
+      };
+    }
+  } catch(e) {}
+  return { category: '其他', summary: '', todo: '无' };
 }
 
 function json(obj, status = 200) {
