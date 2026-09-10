@@ -13737,3 +13737,42 @@ Natalie wu
 
 
 ---
+
+## [其他] RE: Call regarding 9 Arrival Square, E1W 2AA
+
+**发件人:** Akshitsinh Rathod <Akshitsinh.Rathod@foxtons.co.uk>
+**日期:** 2026-09-02T09:16:01+00:00
+**摘要:** Akshitsinh提供了9 Arrival Square的通话时间安排，并请求确认。Natalie提到已通过WhatsApp留言，并询问下一步进展。
+**待办:** 无
+
+Hi Frank,
+
+Pleasure speaking with you earlier. Please see our availability below:
+
+Today at 6 pm
+Tomorrow between 12-2 pm, 4 and 6 pm
+
+Let me know if that is alright.
+
+Thank you,
+AK
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 25 August 2026 11:30
+To: Akshitsinh Rathod <Akshitsinh.Rathod@foxtons.co.uk>; Frank <frankataix@gmail.com>
+Subject: Re: Call regarding 9 Arrival Square, E1W 2AA
+
+EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments before opening or responding. IMPORTANT: You will never be asked to enter your credentials via email
+
+Hi Akshitsinh,
+
+I have already left a message for you on WhatsApp.
+
+In the meantime, please let us know what the next steps are from your side to move forward with the process.
+
+Looking forward to hearing from you.
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system. The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer. Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building One, Chiswick Park, 566 Chiswick High Road, London, W4 5BE.
+
+
+---
