@@ -3230,3 +3230,49 @@ London,
 W8 4
 
 ---
+
+## [营销] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-10T16:21:48+00:00
+**摘要:** Apple发布了全新iPhone系列及Apple Watch等产品，包括iPhone Duo、iPhone 18 Pro、Apple Watch Series 12、Ultra 4和AirPods 5，并提供预购信息。
+**待办:** 无
+
+Apple Event logo with a glowing neon effect in blue and pink hues, a bright white flare at its center, on a gradient background
+
+Introducing iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
+
+Watch the event Watch the event
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugNmeI%2B7v2wQaygoH8RrX%2B6I%3D
+
+Watch in ASL (American Sign Language) Watch in ASL
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugGebNUpPb5CkuF6FyFDt2fI%3D
+
+iPhone Duo
+
+The largest iPhone display ever. Foldable, posable, standable. Featuring unique iOS experiences for ultimate versatility.
+
+Pre‑order starting at 5:00 a.m. PT on 10.16.
+
+Available starting 10.23.
+
+Learn more, iPhone Duo Learn more
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugHkVgg0TVFu3y3DSAQDABQE%3D
+
+View pricing, iPhone Duo View pricing
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugJfbMdNmbM4f2SxG2qStWSo%3D
+
+Two hands hold an open iPhone Duo, left screen displays a photo of a woman, right screen shows a home screen with various app icons, including Messages, Photos, Camera, and App Store
+
+iPhone 18 Pro
+
+The longest battery life in an iPhone.(1) New 48MP Fusion Main camera with variable aperture for more creative control. Four gorgeous colours, two great sizes, one durable design.
+
+Pre‑order starting at 5:00 a.m. PT on 9.12.
+
+Available starting 9.18.
+
+Learn more, iPhone 18 Pro Learn more
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
+
+---
