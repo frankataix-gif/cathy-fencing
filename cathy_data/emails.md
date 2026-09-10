@@ -12677,3 +12677,192 @@ font-family: Arial, Helvetica, sans-serif !important;
       border-color: #8e
 
 ---
+
+## [其他] 请确认您的电子邮箱
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:55:16+00:00
+**摘要:** 需要确认电子邮箱地址，可能涉及点击链接或输入验证码。
+**待办:** 无
+
+#outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }
+
+   
+   
+     
+     
+     
+       
+       96 
+     
+     
+     
+     
+   
+     
+      .mj-outlook-group-fix { width:100% !important; }
+     
+     
+    
+   
+   
+    @import url(https://wise.com/public-resources/assets/notification-service/fonts/inter-latin.css);
+
+   
+   
+   
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }
+
+   
+   
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+
+   
+   
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }
+
+   
+   
+    body,
+    html {
+      font-family: Inter, Averta, Helvetica, Arial !important;
+      font-weight: 400;
+      font-size: 14px !important;
+      color: #454745;
+    }
+
+    a {
+      color: #163300 !important;
+      font-weight: 600;
+    }
+
+    a.text-slimmer {
+      font-weight: 400;
+    }
+
+    a:hover,
+    a:focus {
+      color: #0d1f00;
+    }
+
+    a:active {
+      color: #0e0f0c;
+    }
+
+    span.text-underline {
+      text-decoration: underline;
+      font-weight: 600;
+    }
+
+    span.text-body-bold {
+      font-size: 16px !important;
+      line-height: 24px !important;
+      color: #454745 !important;
+      font-weight: 600;
+    }
+
+    .btn-primary:hover {
+      background-color: #80e142 !important;
+      border-color: #80e142 !important;
+      color: #0d1f00 !important;
+    }
+
+    .btn-primary:focus {
+      background-color: #80e142 !important;
+      border-color: #80e142 !important;
+      color: #0d1f00 !important;
+    }
+
+    .btn-primary:active {
+      background-color: #65cf21 !important;
+      border-color: #65cf21 !important;
+      color: #0e0f0c !important;
+    }
+
+    .btn-accent:hover {
+      background-color: #80e142 !important;
+      color: #0d1f00 !important;
+    }
+
+    .btn-accent:focus {
+      background-color: #80e142 !important;
+      border-color: #80e142 !important;
+      color: #0d1f00 !important;
+    }
+
+    .btn-accent:active {
+      background-color: #65cf21 !important;
+      border-color: #9fe870 !important;
+      color: #0e0f0c !important;
+    }
+
+    .btn-negative {
+      background-color: #a8200d !important;
+      border-color: #a8200d !important;
+      color: #fff !important;
+      transition: all .15s ease-in-out;
+    }
+
+    .btn-negative:active {
+      background-color: #761709 !important;
+      border-color: #761709 !important;
+      color: #fff !important;
+    }
+
+    .btn-negative:focus {
+      background-color: #8e1b0b !important;
+      border-color: #8e1b0b !important;
+      color: #fff !important;
+    }
+
+    .btn-negative:hover {
+      background-color: #8e1b0b !important;
+      border-color: #8e
+
+---
