@@ -50,10 +50,12 @@ export default {
       const from = email.from || email.fromEmail || '';
       const to = email.to || '';
       const date = email.date || new Date().toISOString();
-      const text = email.body || email.text || email.html || '';
+      const rawText = email.body || email.text || email.html || '';
+      const classifyText = rawText.slice(0, 1200);
+      const storeText = rawText.slice(0, 500);
 
-      const meta = await classifyEmail(env, { subject, from, text });
-      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n\n${text}\n\n---\n`;
+      const meta = await classifyEmail(env, { subject, from, text: classifyText });
+      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n\n${storeText}\n\n---\n`;
       const existing = await readGitHubFile(env, 'cathy_data/emails.md');
       const newContent = (existing ? existing.content : '# 收件箱 / Emails\n') + entry;
       const result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Append email', existing?.sha);
