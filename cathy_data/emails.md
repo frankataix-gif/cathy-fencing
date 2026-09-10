@@ -12020,3 +12020,83 @@ sup {
                       
 
 ---
+
+## [其他] Your My TELUS password is updated
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:38+00:00
+**摘要:** 此邮件通知用户已成功更新My TELUS密码，若未操作请联络TELUS。
+**待办:** 无
+
+.ReadMsgBody {
+width: 100%;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+body {
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+}
+img {
+-ms-interpolation-mode: bicubic;
+}
+body {
+margin: 0; padding: 0;
+}
+img {
+border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+height: 100% !important; margin: 0; padding: 0; width: 100% !important;
+}
+body {
+background-color: #FFF;
+}
+.headerContent a:visited {
+color: #606060; font-weight: normal; text-decoration: underline;
+}
+.bodyContent a:visited {
+color: #606060; font-weight: normal; text-decoration: underline;
+}
+.footerContent a:visited {
+color: #C8C8C8 !important; font-weight: normal !important; text-decoration: none !important;
+}
+
+ 
+			 
+					   
+											 
+											   
+																	 
+																		   
+																							   
+																							  
+																				    
+														      
+
+ 
+   
+					  Hi TELUS, 
+					 
+					You have successfully updated your My TELUS password. 
+					  
+					If you did not update your password, please   contact us  .
+					  
+					Thanks,
+					 
+					The TELUS Team
+					    We would like to hear from you. If you would like to contact us, please click the 'Contact us' link below. We respect your privacy and will not provide your personal information to other parties without your consent. 
+						 
+				 
+		    
+   
+
+																	 
+																		   
+																							 Privacy statement      Contact us      Why TELUS?  
+																							 © TELUS Communications Inc.
+
+---
