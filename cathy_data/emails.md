@@ -5257,3 +5257,21 @@ This email has been scanned for viruses and malware, and may have been automatic
 
 
 ---
+
+## [其他] Recall: Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:08:39+00:00
+**摘要:** Michael Cheng 撤回关于伦敦房产出售的邮件，具体事务未明确说明。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
+
+
+---
