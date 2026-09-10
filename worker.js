@@ -174,9 +174,14 @@ async function classifyEmail(env, email) {
       ]
     });
     rawText = res && res.response ? res.response : '';
-    const m = rawText.match(/\{[\s\S]*?\}/);
-    if (m) {
-      const obj = JSON.parse(m[0]);
+    let obj = null;
+    if (typeof rawText === 'object' && rawText !== null) {
+      obj = rawText;
+    } else if (typeof rawText === 'string') {
+      const m = rawText.match(/\{[\s\S]*?\}/);
+      if (m) obj = JSON.parse(m[0]);
+    }
+    if (obj) {
       return {
         category: obj['分类'] || obj.category || '其他',
         summary: obj['摘要'] || obj.summary || '',
