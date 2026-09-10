@@ -39,7 +39,8 @@ export default {
 
     if (body.action === 'save') {
       const { path, content, message } = body;
-      const result = await writeGitHubFile(env, path, content, message || 'Update via worker');
+      const existing = await readGitHubFile(env, path);
+      const result = await writeGitHubFile(env, path, content, message || 'Update via worker', existing?.sha);
       return json(result);
     }
 
@@ -64,7 +65,8 @@ export default {
       const content = body.content || '';
       const ts = new Date().toISOString();
       const markdown = `---\nimported: ${ts}\nsource: ${source}\n---\n\n${content}`;
-      const result = await writeGitHubFile(env, 'cathy_data/usaf_dashboard.md', markdown, 'Import USAF dashboard');
+      const existing = await readGitHubFile(env, 'cathy_data/usaf_dashboard.md');
+      const result = await writeGitHubFile(env, 'cathy_data/usaf_dashboard.md', markdown, 'Import USAF dashboard', existing?.sha);
       return json(result);
     }
 
