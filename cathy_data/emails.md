@@ -6921,3 +6921,77 @@ We have tried to ensure this email does not contain any viruses, but please chec
 Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not constitute a formal valuation and should not be relied upon for any purpose. Unless specifically stated otherwise, any negotiations, intention to treat, offers, acceptances or consideration contained in this email are not intended to create legal obligations or rel
 
 ---
+
+## [营销] Bill your clients, get paid on time
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-07T14:51:17+00:00
+**摘要:** 这封邮件介绍了Payoneer的全球支付服务，帮助用户高效管理客户付款，支持多种支付方式并提供自动提醒功能。
+**待办:** 无
+
+table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/SLzSRdToIwMyi-icuAs6PA~~/AAQRxRA~/EwTU0dW0fpBuKBVMzAUdOChkd6Eqe3F6M_y7EKSV6G9veRzbIDzmaYBXx3WFoTvPSK9wsLVqofy3jE16FJstoAFIjU0hxSpmLb3sK1SpzKwti602fgkN_EOGUgeEOTER style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/RBx7DF9Kbo3lWL8rbVSXgA~~/AAQRxRA~/9fkZmycy0IfHQeNhuROqlCCr-lnE4lbFa1ms83W8TblOeT-k81vxALKFuPlnUEQlVsclpLjV4Bwq0s-vgsA8yCstDrW4tzVSYQLJVKAFPowpa6ZTbuRcgI0rPrLc1TyZ0nwbd4WyepbD4qPtQ9aEZcrWja6dSQ-e-7LmlKbNs-pYFTTbyvya08bb5iv8x9Oq alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Give clients more ways to pay           payoneer               Hi
+XIAOJUN                         Time
+to get paid?
+
+With Payoneer, you can bill clients in 190+ countries and
+territories by requesting a payment.
+
+All you need to do is specify an amount, activity description,
+and due date.
+
+Your client will receive an email with a link to pay via their
+preferred method.               Why should I bill clients through
+Payoneer?             payoneer      Get peace of mind with fully
+trackable payments               payoneer      Late payment?:
+We’ll remind clients for you with automated payment reminders
+payoneer      It’s fast and easy for clients to pay with their
+preferred payment method—credit card, bank transfer, Stripe, ACH
+bank debit (US only), or direct bank payment (UK only)
+payoneer      Save time: bill up to 200 global clients at once
+Voilà! The funds will land directly in your Payoneer account.
+With funds in your Payoneer account, you can:
+payoneer      Pay business expenses like subscriptions, ads, and
+inventory, or withdraw cash, with a Payoneer card
+payoneer      Transfer funds to your bank account in 190+
+countries and territories, and 70 currencies
+payoneer      Make payments to suppliers and contractors
+OK, sounds good! How can I get started?
+
+Simply sign in to your account and click on Get paid > Request a
+payment. Request a payment 
+( https://links-send.payoneer.com/f/a/aW91HeyTcV4yjpaYHtoZ9g~~/AAQRxRA~/FuD3clblpZDl88OQqjYYwPu8PGToS2K-OLy32lZSpOJ4Z6FkZbQcCzisO75DUa6g9b3b90XC7eKw5OxZbwh6qdn8FwAbt278aOYk9F0bPxB1n9j7d-t0AAJLKqxj5vGabQU2-PL5Jeo96jKqTzLOsvLtdQAJSHAmQL_P_MKaQAiucHmIZORlPpJvGECEDNu5ogkDUjSDzzMJuZaH2qGW4Vgj17r4qVzV1_xEyjX6E7nohk5q4YoSQQtbRK56oxdP )
+                            PRO TIP
+
+Don’t forget to download the Payoneer mobile app so
+you can bill clients and manage your funds on the go.
+payoneer 
+( https://links-send.payoneer.com/f/a/eqlPcV4i50a5ZpheoyAaNA~~/AAQRxRA~/j_dyb1OeZySieyAC3zO-of7eFKYVmQxk569_F888d4tYi0r8fzk_qViPS1Lsf9I-Yof_ATghYhNfcNM2igOJDD_peIVWz2Mzt-rSEEDOy
+
+---
