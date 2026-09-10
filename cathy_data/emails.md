@@ -19,4454 +19,7 @@
 
 ## 已归档
 
-- 日期： 发件人： 主题： 备注：
-
-
-## [学校] 测试：学校疫苗记录提醒
-
-**发件人:** school@meadowridge.com
-**日期:** 2026-09-10T18:42:21.074Z
-**摘要:** 提醒家长在9月30日前上传孩子的疫苗记录，以确保顺利入学。
-**待办:** 上传孩子的疫苗记录
-
-请在9月30日前上传孩子的疫苗记录，以免影响入学。
-
----
-
-## [其他] 测试
-
-**发件人:** a@b.com
-**日期:** 2026-09-10T18:42:30.259Z
-**摘要:** 这是一封测试邮件，内容为'test'。
-**待办:** 无
-
-test
-
----
-
-## [学校] 测试：学校疫苗记录提醒
-
-**发件人:** school@meadowridge.com
-**日期:** 2026-09-10T18:43:37.002Z
-**摘要:** 学校提醒需在9月30日前上传孩子疫苗记录，以确保顺利入学。
-**待办:** 上传孩子的疫苗记录
-
-请在9月30日前上传孩子的疫苗记录，以免影响入学。
-
----
-
-## [其他] 测试
-
-**发件人:** a@b.com
-**日期:** 2026-09-10T18:43:42.672Z
-**摘要:** 测试邮件
-**待办:** 无
-
-test
-
----
-
-## [待办] 测试历史导入
-
-**发件人:** test@example.com
-**日期:** 2026-09-10T18:56:27.690Z
-**摘要:** 要求在9月30日前上传疫苗记录。
-**待办:** 上传疫苗记录
-
-请在9月30日前上传疫苗记录
-
----
-
-## [学校] Meadowridge Password
-
-**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
-**日期:** 2026-09-10T19:07:55+00:00
-**摘要:** 邮件提供了Cathy的学校账户密码，并提醒密码区分大小写，将于次日早上重置。
-**待办:** 无
-
-Hi Cathy and Ms Wu,
-
-Please see the email below, it was sent to you earlier in the week with Cathy's login information.
-
-The password is case sensitive - MR is capitalized. Cathy's password is MRstudent27.9222
-
-Let me know if you have questions!
-
-Mrs Reis
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Monday, September 7, 2026 8:00 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
-Subject: Re: Meadowridge Student Website
-
-Hi Cathy!
-
-As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
-
-If you have any questions, please feel free to reach out to myself or Ms. Hook.
-
-Kindly,
-Mrs Reis
-
-[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
-
-
-Christina Reis M.Ed (she/her)
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Wednesday, September 2, 2026 12:34 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>
-Subject: Meadowridge Student Website
-
-Hi Cathy,
-
-Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
-
-Mrs Reis
-
-
-Christina Reis, M.Ed.
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-
-
-MEADOWRIDGE SCHOOL
-
-12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
-
-T: 604-467-4444
-
-www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
-
-
-Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
-
-
----
-
-## [其他] 您的 Google 数据已可供下载
-
-**发件人:** "Google 导出" <noreply@google.com>
-**日期:** 2026-09-10T18:57:09+00:00
-**摘要:** 您于2026年9月10日请求的Google数据副本已生成，可在9月17日前下载。邮件包含数据详情及下载链接。
-**待办:** 需要在2026年9月17日前下载Google数据副本
-
-您的账号和数据全由您做主。
-您于 2026年9月10日请求的 Google 数据副本已创建完毕。您可以在 2026年9月17日之 
-前下载文件。
-您的下载文件将包含以下服务中的数据：
-邮件
-管理“Google 导出”请求  
-(https://accounts.google.com/AccountChooser?continue=https://takeout.google.com/manage/archive/a728449a-3b10-448c-9b09-7b289955ad33&amp;Email=nataliewu100@gmail.com)
-您之所以会收到这封邮件，是因为您近期使用过 Google 导出。 了解详情  
-(https://support.google.com/accounts/answer/3024190)如何查找、访问和分享您的 
-数据。
-  隐私权政策 (https://www.google.com/privacy/privacy-policy.html) | 服务条款  
-(https://www.google.com/accounts/TOS)
-
-
-
----
-
-## [其他] 收到创建 Google 数据归档的请求
-
-**发件人:** Google Takeout <no-reply@accounts.google.com>
-**日期:** 2026-09-10T18:54:06+00:00
-**摘要:** 收到Google数据归档请求，提醒检查账号安全
-**待办:** 无
-
-[image: Google]
-我们收到了为以下账号创建 Google 数据归档的请求
-
-
-nataliewu100@gmail.com
-
-给您发送这封电子邮件，是因为我们收到了为您的 Google 数据创建归档的请求。
-
-如果您并未提出此请求，则表明其他人可能在试图访问您的 Google 账号。请检查您账 
-号中的近期活动，并采取措施确保账号安全。
-查看活动
-<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789066446339?rfn%3D140%26rfnc%3D1%26eid%3D5617569472955397113%26et%3D0>
-您也可以访问以下网址查看安全性活动：
-https://myaccount.google.com/notifications
-我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
-化。
-© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-
----
-
-## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-**发件人:** Frank <frankataix@gmail.com>
-**日期:** 2026-09-10T20:46:05+02:00
-**摘要:** 邮件确认 Yunxi 的击剑比赛注册成功，并提醒携带会员卡和设备检查，同时提供酒店预订链接及截止日期。
-**待办:** 无
-
----------- 转发信息 ----------
-发件人：USA Fencing <information@usafencing.org>
-日期： Sep 9, 2026, 22:54 +0200
-收件人： frankataix@gmail.com
-主题： Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-> 2026/27 Nick Itkin Cup SYC & Vet ROC
-> Dec 11 - 13, 2026
-> A message from the organizer:
-> Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am each morning for equipment inspection.
-> As a reminder, our withdrawal deadline is November 16th to receive event fee refunds. No refunds will be issued after this date.
-> We have reserved a discounted hotel block at the Renaissance directly connected to the convention center. Book here by November 10th: https://app.marriott.com/resview2?id=1782781327945&key=GRP&app=resvlink
-> Registration details:
-> Created
-> 9/9/2026 1:42pm
-> Competitor
-> he, yunxi
-> Waiver
-> Payment
-> Paid
-> Competition summary:
-> *Dates & times are subject to change.
-> Date
-> Event
-> 12/12
-> Y14WF
-> 12/13
-> Y12WF
-> © 2026 USA Fencing. All rights reserved.
-> 210 USA Cycling Point, Suite 120, Colorado Springs, CO 80919
-
-
----
-
-## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
-**日期:** 2026-09-10T16:47:37+00:00
-**摘要:** Natalie请求重新发送链接，因输入错误地址，Lauren回复将重新发送。
-**待办:** 无
-
-Hi Natalie,
-
-I will request for our CDD team to issue a new link.
-
-Kind Regards,
-Lauren
-
-
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:  +44 2089392806
- M:+44 7811771417
-knightfrank.com
-52-56 Kensington Church Street,London,W8 4DB,United Kingdom
-
-From: natalie <nataliewu100@gmail.com>
-Sent: 10 September 2026 16:52
-To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
-Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-Hello Lauren I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.   Thanks 在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouz
-<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.BM4F3y0TT8ZlrRuKTUr9cz4wn1MRpJYN9NdPaup0eaiCQMGXLzhBGVlQIx9bqXg7jlZLrtjtZWaEo0KUCUG0hrk9Ay1H6RIxombp6MsFVyMuhZ-Kf3uGV-zZwMzSbjAMU6L1pKoPBCbRRbbKWv_QiptPHBJsOB-FcaYNU8N4xH66fYJlG8szKVggXcN2BkpCPKVUXUTlpdNdS3cGl2_ArBhRHKrSMUyE0OvOsPh5BuwV_apyQWqGV8CPivCGyBkDjZRrJ25rF2xhkT3_xLGmd_HX5-JHFSpbRSrq6-6kkWv5r7Yj2sz7eNGnpMCBW4Xhjy5CIbZNvnt2oCSw8OEg-Q.nCVWAWNPMtH_OYF9.tID4xS3VA-6zNgCYqB_LJIu5cQlj89YvhI-EqNg23Jg-11sZTTuRI2b7O3cgQydHzGANNDtAEG0nglrvCSwEKO9fXgV_paU_MN0rYH3DmK6lJdmJQaCtrrcYRd82ZAfoc2KpegCtiOzxTQNotrMweyNuVjtesmcWGzkbT_OUPMSRsUebxAhz-E9EZztc4Y9rFsxqQB3ib29LWqyzMBbtT-Dw2Js5kxx8GQCIpDpHce5q46y_dIBac_kdagSPv-xHWrVuW9VUbnKwU-VIf7UL38dCbWFLhrnMQ5rGgWmNn3S_lUd2MqyITSvks5Avga08m0uHkTTSEFUQWRM8KUiKxOPIFitunG5FfbLNiv2KxRwAD8dFapSStmBkNKapVFnnFSRU9huWFLGEAbREyhcHbOB1gxjR1RDSx_CxOeZbFUBGQJ8IIGcWLPl32r8ylMPqnlMiQNdEkpFSg0EE2uUPp6nlkmu2-dM3sQmvcRixgZbEXfNFhJTzipRuvaQ_2H3kUNtqIvGoCGBEl6hxR30zPAZmWP9QyEz3S4Nod7LdraICsy9QL_bJZJGxP3A6XRSpk3GQydgf6U11mYVy1Io5lwXwC0yBdo-snMXh2qbfpJT4NCtGHJtLGOzfPoSddTmwvGkaGeatc3X1oSktZxRJRwhE1uhcVqjaiO6RnCOFX6ij9A5oOwfBceARDBKP6XapAqe0BXLSbeVs_EMrviJaP-IwMuYkAsSm5470Er7IC_xPqmaoPsaClFNIQEb3KTFlaRXgDaf5dZS4ngzZrM4n1EpMcvYS1No4zxEXPQDDQs3sBRuGEdNUwxiAQCZnnKnYjWzI6wdhrK8eVcIqIivL93v7kmGtc8TvThi-9gwfsg.vF5lVf_GtR9iPhJHN-lEMQ%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
-CGBANNERINDICATOR
-Hello Lauren
-I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
-
-Thanks
-在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>，写道：
-
-Hi Natalie,
-
-All received our end, thank you.
-
-You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
-
-You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
-
-I hope this helps, do let me know if you have any questions.
-
-Kind Regards,
-Lauren
-
-[cid:image001.png@01DD414C.7642C470]
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:
-  +44 2089392806<tel:+44%202089392806>
- M:
-+44 7811771417<tel:+44%207811771417>
-knightfrank.com<http://www.knightfrank.com/>
-52‑56 Kensington Church Street,
-London,
-W8 4
-
----
-
-## [营销] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-**发件人:** Apple <News@insideapple.apple.com>
-**日期:** 2026-09-10T16:21:48+00:00
-**摘要:** Apple发布全新iPhone系列、Apple Watch及AirPods 5，包含产品特点与预购信息。
-**待办:** 无
-
-Apple Event logo with a glowing neon effect in blue and pink hues, a bright white flare at its center, on a gradient background
-
-Introducing iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-Watch the event Watch the event
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugNmeI%2B7v2wQaygoH8RrX%2B6I%3D
-
-Watch in ASL (American Sign Language) Watch in ASL
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugGebNUpPb5CkuF6FyFDt2fI%3D
-
-iPhone Duo
-
-The largest iPhone display ever. Foldable, posable, standable. Featuring unique iOS experiences for ultimate versatility.
-
-Pre‑order starting at 5:00 a.m. PT on 10.16.
-
-Available starting 10.23.
-
-Learn more, iPhone Duo Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugHkVgg0TVFu3y3DSAQDABQE%3D
-
-View pricing, iPhone Duo View pricing
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugJfbMdNmbM4f2SxG2qStWSo%3D
-
-Two hands hold an open iPhone Duo, left screen displays a photo of a woman, right screen shows a home screen with various app icons, including Messages, Photos, Camera, and App Store
-
-iPhone 18 Pro
-
-The longest battery life in an iPhone.(1) New 48MP Fusion Main camera with variable aperture for more creative control. Four gorgeous colours, two great sizes, one durable design.
-
-Pre‑order starting at 5:00 a.m. PT on 9.12.
-
-Available starting 9.18.
-
-Learn more, iPhone 18 Pro Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
-
----
-
-## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
-
-**发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
-**日期:** 2026-09-10T15:07:39+00:00
-**摘要:** 通知2027-2028学年申请和校园参观注册开放，并提醒重要截止日期。
-**待办:** 注册信息讲座和校园参观
-
-<p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li aria-level="1">Applications for Grades 2 to 12 are due on or before <b>November 5, 2026.&#160;</b></li></ul><div>We are currently accepting applications from Junior Kindergarten through Grade 12 for children born in 2023 or earlier. Submitting your application prior to this due date will ensure a timely process as you move through the application cycle.&#160;&#160;<br /><br /></div><div><b>Join Us for a Tour &amp; Information Session</b></div><div>We invite you to register for our upcoming information session and tour. This will be an excellent opportunity to explore our campus, meet our dedicated faculty, and learn more about what makes WPGA such a wonderful community.&#160;<br /><br /></div><div>While families with children born in 2024 or later are welcome to visit, tour availability is prioritized for those in their active admissions year. Because our application and assessment processes evolve annually, we strongly encourage scheduling your tour in the fall of your child's application year for the most up-to-date information.&#160;<br /><br /></div><div>Please <b>click</b><a href="https://www.wpga.ca/admissions/discover-wpga"><b> </b><b>here</b></a><b> to register for an information session and tour</b>. We have limited spots available, so we recommend securing your place at the earliest convenience.<br /><br /></div><div>If you need assistance creating or accessing your account please contact <a href="mailto:onlinesupport@wpga.ca" target="_blank" rel="noopener">onlinesupport@wpga.ca</a>.&#160;<br /><br /></div><div>Thank you once again for considering West Point Grey Academy for your child's educational journey. We look forward to getting to know you and your family.</div><div><br />Warm regards,</div><div>WPGA Enrolment Team</div></div></div></div></div></div></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
----
-
-## [学校] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T13:55:53+01:00
-**摘要:** Jingqi Wu的公寓120钥匙1已按安排归还，创建时间为2026年9月10日，创建者为Jingq。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been returned under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:12:12+01:00
-**摘要:** 公寓120号钥匙已按安排释放，创建日期为2026年9月10日，创建人Jingqi Wu。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been released under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] New Arrangement
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:09:58+01:00
-**摘要:** Jingqi Wu的钥匙保管安排已成功创建，授权签字人已设置。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Your key holding arrangement has been successfully created.
-The individuals authorised to sign the keys out are: Kelly
-This is a One-Off Collection arrangement.
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-      
- 
-
----
-
-## [其他] Pool Area Remedial Works Commencing 17 September
-
-**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
-**日期:** 2026-09-10T11:46:44+01:00
-**摘要:** 通知游泳池区域维修工作将于9月17日开始
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Mr&nbsp;Jingqi Wu,
-
-We are writing to keep you informed of upcoming maintenance works within the pool area of The Club.
-
-To provide some context, we have been liaising with Earl Kendrick Surveyors in respect of water damage to the pool area and an adjacent service corridor. Earl Kendrick were instructed to attend and provide their professional opinion on the matter, by way of visual inspection and with reference to provided building plans.
-
-It is the position of Earl Kendrick that the water damage is most likely caused by a leak to the shower. Our next step is to confirm this position and then to condu
-
----
-
-## [其他] 您与“Make”共享了一些 Google 账号数据
-
-**发件人:** Google <noreply-accounts@google.com>
-**日期:** 2026-09-10T03:25:51-07:00
-**摘要:** 这封邮件通知用户曾使用Google账号登录‘Make’并共享了个人信息，但目前无需采取行动。
-**待办:** 无
-
-掌控您的 Google 账号数据
-
-
-
-nataliewu100@gmail.com
-
- 
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-<!--[if false]><!-->
-
-
-“Make”收到了以下个人资料信息
-
-
-
-natalie
-
-姓名和个人资料照片
-
-
-
-nataliewu100@gmail.com
-
-邮箱
-
-
-
-
-
- 
-
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-“Make”收到了以下个人资料信息
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-natalie
-
-姓名和个人资料照片
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-nataliewu100@gmail.com
-
-邮箱
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
- 
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-<!--[if false]><!-->
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-<!--[if false]><!-->
-
-
-<!--[if mso]>
-<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
-xmlns:w="urn:schemas-microsoft-com:office:word"  
-href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVGNK6lC-MkV4H1CbxmXLmPvx3jkjhZvuzQvoyAK3jeFqERDABPaK7sBP8MTwxxYTRrLHSfjmhSrjVV-IRFcI5c%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
-style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
-stroke="false" fillcolor="#0b57d0">
-<w:anchorlock/>
-<v:textbox inset="0px,0px,0px,0px">
-
-<![endif]-->
-<https://c.gle/ACT4xYwKwXPmYj9ncddnqX6tFn_4aDUVCp8H6Z-GpLoVXag61iv3QHUdX3ZFwRBUSN-ywLIJzrNRlzfIrrWJYZLs7eZzlb6cdXjoph9ur3NVZfWp1o5qjYLtqxFaC0aX5lmzccmW2XS1_al-eAw1TdB2yP2jTzxCIqzolfGxVnh8GdELXzuWFeYlQOU_OMlHwel3IUwQP5V6lnHjK_T2H32NKo1taxRFnXhzE25G4MXpbggnE_pOnpmMZ3b0lAxLjhiUklKaCqTxsEtmwNziXwuxbUh-5GfbWJzRWU887HPuHmhHvUnsGkRoSNLegLp0TlEIXiGcsoTZ7z0_PBOOh5t2Ek_GHyYse6bVZIqrrRHhq9F23xTagvTtWG1fXHvaejSG5yWHVWRY5pxoqEVaiLmz-ALYbTjRCE_8jqfiI-zuSKZjy20phtAxs3BFEns8NB-gGqL2syJn6GQTe9wetKd9432aPvJogec>  
-前 
-往您的 Google 账号
-
-
-查看“Make”的《隐私权政策》和《服务条款》，了解“Make”会如何处理及保护您的数 
-据。
-
-如果想删除您已与“Make”共享的数据，请前往“Make”。
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-
- 
-
-我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
-重要变化。
-
-如果想停止收到此类邮件，您可以 
-<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYz_tu1yOJgn5NgfY-WSy-WKYMxCbo17VihIfqdIru4xYFnaoH09_xbDaxwZk0ytp_S_jIt9-pM5PgsjdBNHUrF_wRzTxqalej__gTBi2QGTdaYMsPBBtvsjdhRe8Jsl2v0RuDoqTnXUbST-fWJ_6ifbihbHVsFZWkTE1okFF27q5pN8Uheee6n-1hzEp4hrrOdxFkbnOA2CQ9GnjG9KOCgGTytKXQ6n-a_Jt2liVM0xexUmhYaxnnWwinXxBKufGisERCKEjjlzgtoze-gO21YdCgR7IYY8hIpeaMA?utm_source=gm&utm_medium=email&auto=true>退 
-订。
-
-即使退订此类邮件，您仍会继续收到安全提醒。
-
-© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
----
-
-## [营销] Your property is now live on Foxtons
-
-**发件人:** Freya.Wan@foxtons.co.uk
-**日期:** 2026-09-10T11:04:30+01:00
-**摘要:** 通知房产已上线Foxtons网站，并提醒检查信息准确性。
-**待办:** 检查房产详情是否准确，确认无误或修正错误信息。
-
-a.button:active,
-				a.button:visited{
-					color:#fff !important;
-					color:#fff;
-				}
-				@media only screen and (max-width:624px) {
-					.foxtons_email_holder{
-						width:100%;
-						max-width:624px;
-					}
-					.foxtons_email_holder_inner{
-						padding:12px 0 !important;
-					}
-				}
-				 
-			   
-     
-    		
-
-		
-			
-			 
-				 
-					 					
-						 
-							 
-								 
-														
-	Please check your property's details online	
-				
-							 
-						 
-						 
-							 
-								 
-									 
-										 
-
-											 
-												 
-													     
-												 
-											 
-										 
-											 
-											
-											 
-												 
-													    
-
-					
-	  Dear Miss wu,   
-            I am delighted to inform you that as part of our comprehensive marketing package your property is now live on Foxtons.co.uk.
-               
-				View your property
-			       
-          If this link does not load immediately, then please retry as some properties can take up to two hours to be live on our website.
-          
-            Under the Consumer Protection Regulations 2008 both yourself and Foxtons are responsible for ensuring that the information provided in relation to your property is factually correct.
-          
-            Therefore, I would be grateful if you could check the details carefully and advise me of any inaccuracies, particularly of any information which could influence a buyer's transactional decision regarding your property.
-          Kind regards,   Freya Wan   
-      T: 020 7893 6010 
-      M: 07875 80 2146 
-      E:  Freya.Wan@foxtons.co.uk  
-    W:  Foxtons.co.uk  
-			
-				
-														 
-													 
-												                                             
-											 
-										 
-									 
-																							
-
-						
-				
-	
-									
-			
-			 
-				 
-					  &copy; Foxtons 
-				 
-				 
-					 Foxtons Limited, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN 
-							Company Reg No: 1680058                                                                                                                    
-					 
-				 
-			                                                                         
-				
-				
-				 
-			 
-		 
-
-		 
-		 
-				
-				 
-			 
-		 
-	
-
-							
-	
-
-     
-     
-    
-      Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
----
-
-## [待办] You have been invited to do a Thirdfort check
-
-**发件人:** Thirdfort App <no-reply@thirdfort.io>
-**日期:** 2026-09-10T09:53:43+00:00
-**摘要:** 邮件邀请Jingqi通过Thirdfort应用完成Knight Frank的验证检查，需下载应用并等待短信后登录。
-**待办:** 下载Thirdfort应用并按照指引完成验证检查。
-
-Download Thirdfort now.
-
-Hi Jingqi,
-
-Knight Frank has set up a verification check for you on Thirdfort app.
-
-*Download the Thirdfort app to your smartphone or NFC-enabled tablet* *here* ( https://www.thirdfort.com/support/ ) *.* You can also find it by searching "Thirdfort" in the App Store or Google Play Store. Personal computers are not supported at this time.
-
-*Before you log in, please wait for a text message from Thirdfort.* This text will be sent to the mobile number Knight Frank provided to us when setting up your check. You'll need this number to sign in.
-
-*Haven't received a text or seeing 'No transaction found'?* This can happen if the mobile number entered when your check was set up wasn't quite right. Please contact Knight Frank and ask them to check the mobile number they have on file for you.
-Once you've received your text, open the app and log in using the mobile number the text was sent to.
-
-Please don't uninstall the app or swap devices while completing your tasks.
-
-If you have questions or need assistance concerning the app journey, Thirdfort’s dedicated customer support team can be contacted via:
-
-* *Live chat:* accessed from the app menu, or on help centre linked below
-* *Email* ( help@thirdfort.com?subject=&body= )
-* *Phone* ( tel:0161 768 0083 ) *:* 0161 768 0083 (option 1)
-* Help Centre ( https://help.thirdfort.com/hc/en-gb )
-
-Kind regards,
-Thirdfort
-
-Thirdfort Limited is registered in England with Company No. 10757456 and VAT registered. VAT No. 281589466.
-Registered office: Belle House Platform 1 Victoria Station, London, SW1V 1JT. Click here ( https://thirdfort.com/terms/email-disclaimer ) to view email disclaimer
-
-Thirdfort Limited is authorised and regulated by the Financial Conduct Authority under the Payment Services Regulations 2017 to provide payment services (firm reference number 806236 ( https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000049LhAPQA0 ) ). Thirdfort Limited is registered with the Information Commissioner’s Office under registration number A8225019 for the purposes of the protection of data.
-
-( https://www.facebook.com/thirdfort-177767396215187/ ) ( https://www.linkedin.com/company/27455280/admin/ )
-
-Thirdfort Limited
-Belle House, Platform 1 Victoria Station, London, SW1V 1JT
-To unsubscribe to these emails contact support@thirdfort.com
-
----
-
-## [学校] Meadowridge Password
-
-**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
-**日期:** 2026-09-10T19:07:55+00:00
-**摘要:** 邮件提供了Cathy的学校账户密码，并通知密码将在次日早上重置。
-**待办:** 无
-
-Hi Cathy and Ms Wu,
-
-Please see the email below, it was sent to you earlier in the week with Cathy's login information.
-
-The password is case sensitive - MR is capitalized. Cathy's password is MRstudent27.9222
-
-Let me know if you have questions!
-
-Mrs Reis
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Monday, September 7, 2026 8:00 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
-Subject: Re: Meadowridge Student Website
-
-Hi Cathy!
-
-As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
-
-If you have any questions, please feel free to reach out to myself or Ms. Hook.
-
-Kindly,
-Mrs Reis
-
-[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
-
-
-Christina Reis M.Ed (she/her)
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Wednesday, September 2, 2026 12:34 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>
-Subject: Meadowridge Student Website
-
-Hi Cathy,
-
-Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
-
-Mrs Reis
-
-
-Christina Reis, M.Ed.
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-
-
-MEADOWRIDGE SCHOOL
-
-12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
-
-T: 604-467-4444
-
-www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
-
-
-Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
-
-
----
-
-## [待办] 您的 Google 数据已可供下载
-
-**发件人:** "Google 导出" <noreply@google.com>
-**日期:** 2026-09-10T18:57:09+00:00
-**摘要:** 用户请求的Google数据副本已生成，可在9月17日前下载，包含邮件等数据。
-**待办:** 下载Google数据副本
-
-您的账号和数据全由您做主。
-您于 2026年9月10日请求的 Google 数据副本已创建完毕。您可以在 2026年9月17日之 
-前下载文件。
-您的下载文件将包含以下服务中的数据：
-邮件
-管理“Google 导出”请求  
-(https://accounts.google.com/AccountChooser?continue=https://takeout.google.com/manage/archive/a728449a-3b10-448c-9b09-7b289955ad33&amp;Email=nataliewu100@gmail.com)
-您之所以会收到这封邮件，是因为您近期使用过 Google 导出。 了解详情  
-(https://support.google.com/accounts/answer/3024190)如何查找、访问和分享您的 
-数据。
-  隐私权政策 (https://www.google.com/privacy/privacy-policy.html) | 服务条款  
-(https://www.google.com/accounts/TOS)
-
-
-
----
-
-## [其他] 收到创建 Google 数据归档的请求
-
-**发件人:** Google Takeout <no-reply@accounts.google.com>
-**日期:** 2026-09-10T18:54:06+00:00
-**摘要:** 收到Google数据归档创建请求通知，提示检查账号安全。
-**待办:** 检查Google账号安全活动并确认是否为本人操作
-
-[image: Google]
-我们收到了为以下账号创建 Google 数据归档的请求
-
-
-nataliewu100@gmail.com
-
-给您发送这封电子邮件，是因为我们收到了为您的 Google 数据创建归档的请求。
-
-如果您并未提出此请求，则表明其他人可能在试图访问您的 Google 账号。请检查您账 
-号中的近期活动，并采取措施确保账号安全。
-查看活动
-<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789066446339?rfn%3D140%26rfnc%3D1%26eid%3D5617569472955397113%26et%3D0>
-您也可以访问以下网址查看安全性活动：
-https://myaccount.google.com/notifications
-我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
-化。
-© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-
----
-
-## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-**发件人:** Frank <frankataix@gmail.com>
-**日期:** 2026-09-10T20:46:05+02:00
-**摘要:** 确认yunxi参加2026年Nick Itkin Cup SYC & Vet ROC比赛，需携带会员卡并提醒退费截止日期为11月16日。
-**待办:** 无
-
----------- 转发信息 ----------
-发件人：USA Fencing <information@usafencing.org>
-日期： Sep 9, 2026, 22:54 +0200
-收件人： frankataix@gmail.com
-主题： Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-> 2026/27 Nick Itkin Cup SYC & Vet ROC
-> Dec 11 - 13, 2026
-> A message from the organizer:
-> Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am each morning for equipment inspection.
-> As a reminder, our withdrawal deadline is November 16th to receive event fee refunds. No refunds will be issued after this date.
-> We have reserved a discounted hotel block at the Renaissance directly connected to the convention center. Book here by November 10th: https://app.marriott.com/resview2?id=1782781327945&key=GRP&app=resvlink
-> Registration details:
-> Created
-> 9/9/2026 1:42pm
-> Competitor
-> he, yunxi
-> Waiver
-> Payment
-> Paid
-> Competition summary:
-> *Dates & times are subject to change.
-> Date
-> Event
-> 12/12
-> Y14WF
-> 12/13
-> Y12WF
-> © 2026 USA Fencing. All rights reserved.
-> 210 USA Cycling Point, Suite 120, Colorado Springs, CO 80919
-
-
----
-
-## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
-**日期:** 2026-09-10T16:47:37+00:00
-**摘要:** Natalie因输入错误地址需重新获取链接，Lauren回应将安排CDD团队发送新链接。
-**待办:** 无
-
-Hi Natalie,
-
-I will request for our CDD team to issue a new link.
-
-Kind Regards,
-Lauren
-
-
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:  +44 2089392806
- M:+44 7811771417
-knightfrank.com
-52-56 Kensington Church Street,London,W8 4DB,United Kingdom
-
-From: natalie <nataliewu100@gmail.com>
-Sent: 10 September 2026 16:52
-To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
-Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-Hello Lauren I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.   Thanks 在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouz
-<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.BM4F3y0TT8ZlrRuKTUr9cz4wn1MRpJYN9NdPaup0eaiCQMGXLzhBGVlQIx9bqXg7jlZLrtjtZWaEo0KUCUG0hrk9Ay1H6RIxombp6MsFVyMuhZ-Kf3uGV-zZwMzSbjAMU6L1pKoPBCbRRbbKWv_QiptPHBJsOB-FcaYNU8N4xH66fYJlG8szKVggXcN2BkpCPKVUXUTlpdNdS3cGl2_ArBhRHKrSMUyE0OvOsPh5BuwV_apyQWqGV8CPivCGyBkDjZRrJ25rF2xhkT3_xLGmd_HX5-JHFSpbRSrq6-6kkWv5r7Yj2sz7eNGnpMCBW4Xhjy5CIbZNvnt2oCSw8OEg-Q.nCVWAWNPMtH_OYF9.tID4xS3VA-6zNgCYqB_LJIu5cQlj89YvhI-EqNg23Jg-11sZTTuRI2b7O3cgQydHzGANNDtAEG0nglrvCSwEKO9fXgV_paU_MN0rYH3DmK6lJdmJQaCtrrcYRd82ZAfoc2KpegCtiOzxTQNotrMweyNuVjtesmcWGzkbT_OUPMSRsUebxAhz-E9EZztc4Y9rFsxqQB3ib29LWqyzMBbtT-Dw2Js5kxx8GQCIpDpHce5q46y_dIBac_kdagSPv-xHWrVuW9VUbnKwU-VIf7UL38dCbWFLhrnMQ5rGgWmNn3S_lUd2MqyITSvks5Avga08m0uHkTTSEFUQWRM8KUiKxOPIFitunG5FfbLNiv2KxRwAD8dFapSStmBkNKapVFnnFSRU9huWFLGEAbREyhcHbOB1gxjR1RDSx_CxOeZbFUBGQJ8IIGcWLPl32r8ylMPqnlMiQNdEkpFSg0EE2uUPp6nlkmu2-dM3sQmvcRixgZbEXfNFhJTzipRuvaQ_2H3kUNtqIvGoCGBEl6hxR30zPAZmWP9QyEz3S4Nod7LdraICsy9QL_bJZJGxP3A6XRSpk3GQydgf6U11mYVy1Io5lwXwC0yBdo-snMXh2qbfpJT4NCtGHJtLGOzfPoSddTmwvGkaGeatc3X1oSktZxRJRwhE1uhcVqjaiO6RnCOFX6ij9A5oOwfBceARDBKP6XapAqe0BXLSbeVs_EMrviJaP-IwMuYkAsSm5470Er7IC_xPqmaoPsaClFNIQEb3KTFlaRXgDaf5dZS4ngzZrM4n1EpMcvYS1No4zxEXPQDDQs3sBRuGEdNUwxiAQCZnnKnYjWzI6wdhrK8eVcIqIivL93v7kmGtc8TvThi-9gwfsg.vF5lVf_GtR9iPhJHN-lEMQ%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
-CGBANNERINDICATOR
-Hello Lauren
-I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
-
-Thanks
-在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>，写道：
-
-Hi Natalie,
-
-All received our end, thank you.
-
-You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
-
-You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
-
-I hope this helps, do let me know if you have any questions.
-
-Kind Regards,
-Lauren
-
-[cid:image001.png@01DD414C.7642C470]
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:
-  +44 2089392806<tel:+44%202089392806>
- M:
-+44 7811771417<tel:+44%207811771417>
-knightfrank.com<http://www.knightfrank.com/>
-52‑56 Kensington Church Street,
-London,
-W8 4
-
----
-
-## [营销] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-**发件人:** Apple <News@insideapple.apple.com>
-**日期:** 2026-09-10T16:21:48+00:00
-**摘要:** Apple发布了全新iPhone Duo、iPhone 18 Pro及新款Apple Watch和AirPods，包含产品特点和预购信息。
-**待办:** 无
-
-Apple Event logo with a glowing neon effect in blue and pink hues, a bright white flare at its center, on a gradient background
-
-Introducing iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-Watch the event Watch the event
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugNmeI%2B7v2wQaygoH8RrX%2B6I%3D
-
-Watch in ASL (American Sign Language) Watch in ASL
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugGebNUpPb5CkuF6FyFDt2fI%3D
-
-iPhone Duo
-
-The largest iPhone display ever. Foldable, posable, standable. Featuring unique iOS experiences for ultimate versatility.
-
-Pre‑order starting at 5:00 a.m. PT on 10.16.
-
-Available starting 10.23.
-
-Learn more, iPhone Duo Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugHkVgg0TVFu3y3DSAQDABQE%3D
-
-View pricing, iPhone Duo View pricing
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugJfbMdNmbM4f2SxG2qStWSo%3D
-
-Two hands hold an open iPhone Duo, left screen displays a photo of a woman, right screen shows a home screen with various app icons, including Messages, Photos, Camera, and App Store
-
-iPhone 18 Pro
-
-The longest battery life in an iPhone.(1) New 48MP Fusion Main camera with variable aperture for more creative control. Four gorgeous colours, two great sizes, one durable design.
-
-Pre‑order starting at 5:00 a.m. PT on 9.12.
-
-Available starting 9.18.
-
-Learn more, iPhone 18 Pro Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
-
----
-
-## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
-
-**发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
-**日期:** 2026-09-10T15:07:39+00:00
-**摘要:** West Point Grey Academy 2027-2028学年申请及参观注册已开放，JK-Grade 1申请截止至2026年10月29日，Grades 2-12截止至11月5日，需注册信息会议和校园参观。
-**待办:** 注册信息会议和参观
-
-<p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li aria-level="1">Applications for Grades 2 to 12 are due on or before <b>November 5, 2026.&#160;</b></li></ul><div>We are currently accepting applications from Junior Kindergarten through Grade 12 for children born in 2023 or earlier. Submitting your application prior to this due date will ensure a timely process as you move through the application cycle.&#160;&#160;<br /><br /></div><div><b>Join Us for a Tour &amp; Information Session</b></div><div>We invite you to register for our upcoming information session and tour. This will be an excellent opportunity to explore our campus, meet our dedicated faculty, and learn more about what makes WPGA such a wonderful community.&#160;<br /><br /></div><div>While families with children born in 2024 or later are welcome to visit, tour availability is prioritized for those in their active admissions year. Because our application and assessment processes evolve annually, we strongly encourage scheduling your tour in the fall of your child's application year for the most up-to-date information.&#160;<br /><br /></div><div>Please <b>click</b><a href="https://www.wpga.ca/admissions/discover-wpga"><b> </b><b>here</b></a><b> to register for an information session and tour</b>. We have limited spots available, so we recommend securing your place at the earliest convenience.<br /><br /></div><div>If you need assistance creating or accessing your account please contact <a href="mailto:onlinesupport@wpga.ca" target="_blank" rel="noopener">onlinesupport@wpga.ca</a>.&#160;<br /><br /></div><div>Thank you once again for considering West Point Grey Academy for your child's educational journey. We look forward to getting to know you and your family.</div><div><br />Warm regards,</div><div>WPGA Enrolment Team</div></div></div></div></div></div></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
----
-
-## [其他] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T13:55:53+01:00
-**摘要:** 通知Jingqi Wu的公寓120号钥匙1已按安排归还，创建时间为2026年9月10日。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been returned under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:12:12+01:00
-**摘要:** 公寓120号钥匙已按安排释放，创建日期为2026年9月10日，创建者为Jingqi Wu。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been released under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] New Arrangement
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:09:58+01:00
-**摘要:** 邮件通知Jingqi Wu的钥匙保管安排已成功创建，并列出授权签名的人员。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Your key holding arrangement has been successfully created.
-The individuals authorised to sign the keys out are: Kelly
-This is a One-Off Collection arrangement.
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-      
- 
-
----
-
-## [其他] Pool Area Remedial Works Commencing 17 September
-
-**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
-**日期:** 2026-09-10T11:46:44+01:00
-**摘要:** 通知伦敦码头游泳池区域将于9月17日开始进行维护工作。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Mr&nbsp;Jingqi Wu,
-
-We are writing to keep you informed of upcoming maintenance works within the pool area of The Club.
-
-To provide some context, we have been liaising with Earl Kendrick Surveyors in respect of water damage to the pool area and an adjacent service corridor. Earl Kendrick were instructed to attend and provide their professional opinion on the matter, by way of visual inspection and with reference to provided building plans.
-
-It is the position of Earl Kendrick that the water damage is most likely caused by a leak to the shower. Our next step is to confirm this position and then to condu
-
----
-
-## [其他] 您与“Make”共享了一些 Google 账号数据
-
-**发件人:** Google <noreply-accounts@google.com>
-**日期:** 2026-09-10T03:25:51-07:00
-**摘要:** 这封邮件通知用户于9月10日通过Google账号登录了'Make'并共享了个人信息，但目前无需采取任何措施。
-**待办:** 无
-
-掌控您的 Google 账号数据
-
-
-
-nataliewu100@gmail.com
-
- 
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-<!--[if false]><!-->
-
-
-“Make”收到了以下个人资料信息
-
-
-
-natalie
-
-姓名和个人资料照片
-
-
-
-nataliewu100@gmail.com
-
-邮箱
-
-
-
-
-
- 
-
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-“Make”收到了以下个人资料信息
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-natalie
-
-姓名和个人资料照片
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-nataliewu100@gmail.com
-
-邮箱
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
- 
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-<!--[if false]><!-->
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-<!--[if false]><!-->
-
-
-<!--[if mso]>
-<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
-xmlns:w="urn:schemas-microsoft-com:office:word"  
-href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVGNK6lC-MkV4H1CbxmXLmPvx3jkjhZvuzQvoyAK3jeFqERDABPaK7sBP8MTwxxYTRrLHSfjmhSrjVV-IRFcI5c%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
-style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
-stroke="false" fillcolor="#0b57d0">
-<w:anchorlock/>
-<v:textbox inset="0px,0px,0px,0px">
-
-<![endif]-->
-<https://c.gle/ACT4xYwKwXPmYj9ncddnqX6tFn_4aDUVCp8H6Z-GpLoVXag61iv3QHUdX3ZFwRBUSN-ywLIJzrNRlzfIrrWJYZLs7eZzlb6cdXjoph9ur3NVZfWp1o5qjYLtqxFaC0aX5lmzccmW2XS1_al-eAw1TdB2yP2jTzxCIqzolfGxVnh8GdELXzuWFeYlQOU_OMlHwel3IUwQP5V6lnHjK_T2H32NKo1taxRFnXhzE25G4MXpbggnE_pOnpmMZ3b0lAxLjhiUklKaCqTxsEtmwNziXwuxbUh-5GfbWJzRWU887HPuHmhHvUnsGkRoSNLegLp0TlEIXiGcsoTZ7z0_PBOOh5t2Ek_GHyYse6bVZIqrrRHhq9F23xTagvTtWG1fXHvaejSG5yWHVWRY5pxoqEVaiLmz-ALYbTjRCE_8jqfiI-zuSKZjy20phtAxs3BFEns8NB-gGqL2syJn6GQTe9wetKd9432aPvJogec>  
-前 
-往您的 Google 账号
-
-
-查看“Make”的《隐私权政策》和《服务条款》，了解“Make”会如何处理及保护您的数 
-据。
-
-如果想删除您已与“Make”共享的数据，请前往“Make”。
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-
- 
-
-我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
-重要变化。
-
-如果想停止收到此类邮件，您可以 
-<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYz_tu1yOJgn5NgfY-WSy-WKYMxCbo17VihIfqdIru4xYFnaoH09_xbDaxwZk0ytp_S_jIt9-pM5PgsjdBNHUrF_wRzTxqalej__gTBi2QGTdaYMsPBBtvsjdhRe8Jsl2v0RuDoqTnXUbST-fWJ_6ifbihbHVsFZWkTE1okFF27q5pN8Uheee6n-1hzEp4hrrOdxFkbnOA2CQ9GnjG9KOCgGTytKXQ6n-a_Jt2liVM0xexUmhYaxnnWwinXxBKufGisERCKEjjlzgtoze-gO21YdCgR7IYY8hIpeaMA?utm_source=gm&utm_medium=email&auto=true>退 
-订。
-
-即使退订此类邮件，您仍会继续收到安全提醒。
-
-© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
----
-
-## [营销] Your property is now live on Foxtons
-
-**发件人:** Freya.Wan@foxtons.co.uk
-**日期:** 2026-09-10T11:04:30+01:00
-**摘要:** 您的房产已上线至Foxtons网站，请检查详情是否准确。
-**待办:** 检查房产信息并报告错误
-
-a.button:active,
-				a.button:visited{
-					color:#fff !important;
-					color:#fff;
-				}
-				@media only screen and (max-width:624px) {
-					.foxtons_email_holder{
-						width:100%;
-						max-width:624px;
-					}
-					.foxtons_email_holder_inner{
-						padding:12px 0 !important;
-					}
-				}
-				 
-			   
-     
-    		
-
-		
-			
-			 
-				 
-					 					
-						 
-							 
-								 
-														
-	Please check your property's details online	
-				
-							 
-						 
-						 
-							 
-								 
-									 
-										 
-
-											 
-												 
-													     
-												 
-											 
-										 
-											 
-											
-											 
-												 
-													    
-
-					
-	  Dear Miss wu,   
-            I am delighted to inform you that as part of our comprehensive marketing package your property is now live on Foxtons.co.uk.
-               
-				View your property
-			       
-          If this link does not load immediately, then please retry as some properties can take up to two hours to be live on our website.
-          
-            Under the Consumer Protection Regulations 2008 both yourself and Foxtons are responsible for ensuring that the information provided in relation to your property is factually correct.
-          
-            Therefore, I would be grateful if you could check the details carefully and advise me of any inaccuracies, particularly of any information which could influence a buyer's transactional decision regarding your property.
-          Kind regards,   Freya Wan   
-      T: 020 7893 6010 
-      M: 07875 80 2146 
-      E:  Freya.Wan@foxtons.co.uk  
-    W:  Foxtons.co.uk  
-			
-				
-														 
-													 
-												                                             
-											 
-										 
-									 
-																							
-
-						
-				
-	
-									
-			
-			 
-				 
-					  &copy; Foxtons 
-				 
-				 
-					 Foxtons Limited, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN 
-							Company Reg No: 1680058                                                                                                                    
-					 
-				 
-			                                                                         
-				
-				
-				 
-			 
-		 
-
-		 
-		 
-				
-				 
-			 
-		 
-	
-
-							
-	
-
-     
-     
-    
-      Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
----
-
-## [待办] You have been invited to do a Thirdfort check
-
-**发件人:** Thirdfort App <no-reply@thirdfort.io>
-**日期:** 2026-09-10T09:53:43+00:00
-**摘要:** Knight Frank 设置了 Thirdfort 验证检查，需下载应用并等待短信以完成登录。
-**待办:** 下载 Thirdfort 应用并按照指示完成验证检查
-
-Download Thirdfort now.
-
-Hi Jingqi,
-
-Knight Frank has set up a verification check for you on Thirdfort app.
-
-*Download the Thirdfort app to your smartphone or NFC-enabled tablet* *here* ( https://www.thirdfort.com/support/ ) *.* You can also find it by searching "Thirdfort" in the App Store or Google Play Store. Personal computers are not supported at this time.
-
-*Before you log in, please wait for a text message from Thirdfort.* This text will be sent to the mobile number Knight Frank provided to us when setting up your check. You'll need this number to sign in.
-
-*Haven't received a text or seeing 'No transaction found'?* This can happen if the mobile number entered when your check was set up wasn't quite right. Please contact Knight Frank and ask them to check the mobile number they have on file for you.
-Once you've received your text, open the app and log in using the mobile number the text was sent to.
-
-Please don't uninstall the app or swap devices while completing your tasks.
-
-If you have questions or need assistance concerning the app journey, Thirdfort’s dedicated customer support team can be contacted via:
-
-* *Live chat:* accessed from the app menu, or on help centre linked below
-* *Email* ( help@thirdfort.com?subject=&body= )
-* *Phone* ( tel:0161 768 0083 ) *:* 0161 768 0083 (option 1)
-* Help Centre ( https://help.thirdfort.com/hc/en-gb )
-
-Kind regards,
-Thirdfort
-
-Thirdfort Limited is registered in England with Company No. 10757456 and VAT registered. VAT No. 281589466.
-Registered office: Belle House Platform 1 Victoria Station, London, SW1V 1JT. Click here ( https://thirdfort.com/terms/email-disclaimer ) to view email disclaimer
-
-Thirdfort Limited is authorised and regulated by the Financial Conduct Authority under the Payment Services Regulations 2017 to provide payment services (firm reference number 806236 ( https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000049LhAPQA0 ) ). Thirdfort Limited is registered with the Information Commissioner’s Office under registration number A8225019 for the purposes of the protection of data.
-
-( https://www.facebook.com/thirdfort-177767396215187/ ) ( https://www.linkedin.com/company/27455280/admin/ )
-
-Thirdfort Limited
-Belle House, Platform 1 Victoria Station, London, SW1V 1JT
-To unsubscribe to these emails contact support@thirdfort.com
-
----
-
-## [学校] Meadowridge Password
-
-**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
-**日期:** 2026-09-10T19:07:55+00:00
-**摘要:** 提供Cathy的学校账户密码并通知即将重置。
-**待办:** 无
-
-Hi Cathy and Ms Wu,
-
-Please see the email below, it was sent to you earlier in the week with Cathy's login information.
-
-The password is case sensitive - MR is capitalized. Cathy's password is MRstudent27.9222
-
-Let me know if you have questions!
-
-Mrs Reis
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Monday, September 7, 2026 8:00 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
-Subject: Re: Meadowridge Student Website
-
-Hi Cathy!
-
-As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
-
-If you have any questions, please feel free to reach out to myself or Ms. Hook.
-
-Kindly,
-Mrs Reis
-
-[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
-
-
-Christina Reis M.Ed (she/her)
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-________________________________
-From: Christina Reis <christina.reis@Meadowridge.bc.ca>
-Sent: Wednesday, September 2, 2026 12:34 PM
-To: Cathy He <cathy.he@meadowridge.bc.ca>
-Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>
-Subject: Meadowridge Student Website
-
-Hi Cathy,
-
-Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
-
-Mrs Reis
-
-
-Christina Reis, M.Ed.
-
-Coordinator of Educational Technology
-
-Meadowridge School
-
-T: 604-467-4444 (Ext 209)
-
-E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
-
-
-
-MEADOWRIDGE SCHOOL
-
-12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
-
-T: 604-467-4444
-
-www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
-
-
-Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
-
-
----
-
-## [其他] 您的 Google 数据已可供下载
-
-**发件人:** "Google 导出" <noreply@google.com>
-**日期:** 2026-09-10T18:57:09+00:00
-**摘要:** Google通知用户已准备好数据下载，包含邮件等服务数据，需在指定日期前下载。
-**待办:** 无
-
-您的账号和数据全由您做主。
-您于 2026年9月10日请求的 Google 数据副本已创建完毕。您可以在 2026年9月17日之 
-前下载文件。
-您的下载文件将包含以下服务中的数据：
-邮件
-管理“Google 导出”请求  
-(https://accounts.google.com/AccountChooser?continue=https://takeout.google.com/manage/archive/a728449a-3b10-448c-9b09-7b289955ad33&amp;Email=nataliewu100@gmail.com)
-您之所以会收到这封邮件，是因为您近期使用过 Google 导出。 了解详情  
-(https://support.google.com/accounts/answer/3024190)如何查找、访问和分享您的 
-数据。
-  隐私权政策 (https://www.google.com/privacy/privacy-policy.html) | 服务条款  
-(https://www.google.com/accounts/TOS)
-
-
-
----
-
-## [其他] 收到创建 Google 数据归档的请求
-
-**发件人:** Google Takeout <no-reply@accounts.google.com>
-**日期:** 2026-09-10T18:54:06+00:00
-**摘要:** 收到创建Google数据归档的请求，提醒检查账号安全
-**待办:** 检查账号安全并确认是否为本人请求
-
-[image: Google]
-我们收到了为以下账号创建 Google 数据归档的请求
-
-
-nataliewu100@gmail.com
-
-给您发送这封电子邮件，是因为我们收到了为您的 Google 数据创建归档的请求。
-
-如果您并未提出此请求，则表明其他人可能在试图访问您的 Google 账号。请检查您账 
-号中的近期活动，并采取措施确保账号安全。
-查看活动
-<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789066446339?rfn%3D140%26rfnc%3D1%26eid%3D5617569472955397113%26et%3D0>
-您也可以访问以下网址查看安全性活动：
-https://myaccount.google.com/notifications
-我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
-化。
-© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-
----
-
-## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-**发件人:** Frank <frankataix@gmail.com>
-**日期:** 2026-09-10T20:46:05+02:00
-**摘要:** 确认yunxi参加2026年Nick Itkin Cup SYC & Vet ROC比赛，需携带会员卡签到，并提供酒店预订链接及退款截止日期。
-**待办:** 无
-
----------- 转发信息 ----------
-发件人：USA Fencing <information@usafencing.org>
-日期： Sep 9, 2026, 22:54 +0200
-收件人： frankataix@gmail.com
-主题： Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
-> 2026/27 Nick Itkin Cup SYC & Vet ROC
-> Dec 11 - 13, 2026
-> A message from the organizer:
-> Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am each morning for equipment inspection.
-> As a reminder, our withdrawal deadline is November 16th to receive event fee refunds. No refunds will be issued after this date.
-> We have reserved a discounted hotel block at the Renaissance directly connected to the convention center. Book here by November 10th: https://app.marriott.com/resview2?id=1782781327945&key=GRP&app=resvlink
-> Registration details:
-> Created
-> 9/9/2026 1:42pm
-> Competitor
-> he, yunxi
-> Waiver
-> Payment
-> Paid
-> Competition summary:
-> *Dates & times are subject to change.
-> Date
-> Event
-> 12/12
-> Y14WF
-> 12/13
-> Y12WF
-> © 2026 USA Fencing. All rights reserved.
-> 210 USA Cycling Point, Suite 120, Colorado Springs, CO 80919
-
-
----
-
-## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
-**日期:** 2026-09-10T16:47:37+00:00
-**摘要:** Natalie因输入错误地址请求重新发送链接，Lauren回复将要求团队发出新链接。
-**待办:** 请求CDD团队重新发送链接
-
-Hi Natalie,
-
-I will request for our CDD team to issue a new link.
-
-Kind Regards,
-Lauren
-
-
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:  +44 2089392806
- M:+44 7811771417
-knightfrank.com
-52-56 Kensington Church Street,London,W8 4DB,United Kingdom
-
-From: natalie <nataliewu100@gmail.com>
-Sent: 10 September 2026 16:52
-To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
-Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
-Hello Lauren I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.   Thanks 在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouz
-<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.BM4F3y0TT8ZlrRuKTUr9cz4wn1MRpJYN9NdPaup0eaiCQMGXLzhBGVlQIx9bqXg7jlZLrtjtZWaEo0KUCUG0hrk9Ay1H6RIxombp6MsFVyMuhZ-Kf3uGV-zZwMzSbjAMU6L1pKoPBCbRRbbKWv_QiptPHBJsOB-FcaYNU8N4xH66fYJlG8szKVggXcN2BkpCPKVUXUTlpdNdS3cGl2_ArBhRHKrSMUyE0OvOsPh5BuwV_apyQWqGV8CPivCGyBkDjZRrJ25rF2xhkT3_xLGmd_HX5-JHFSpbRSrq6-6kkWv5r7Yj2sz7eNGnpMCBW4Xhjy5CIbZNvnt2oCSw8OEg-Q.nCVWAWNPMtH_OYF9.tID4xS3VA-6zNgCYqB_LJIu5cQlj89YvhI-EqNg23Jg-11sZTTuRI2b7O3cgQydHzGANNDtAEG0nglrvCSwEKO9fXgV_paU_MN0rYH3DmK6lJdmJQaCtrrcYRd82ZAfoc2KpegCtiOzxTQNotrMweyNuVjtesmcWGzkbT_OUPMSRsUebxAhz-E9EZztc4Y9rFsxqQB3ib29LWqyzMBbtT-Dw2Js5kxx8GQCIpDpHce5q46y_dIBac_kdagSPv-xHWrVuW9VUbnKwU-VIf7UL38dCbWFLhrnMQ5rGgWmNn3S_lUd2MqyITSvks5Avga08m0uHkTTSEFUQWRM8KUiKxOPIFitunG5FfbLNiv2KxRwAD8dFapSStmBkNKapVFnnFSRU9huWFLGEAbREyhcHbOB1gxjR1RDSx_CxOeZbFUBGQJ8IIGcWLPl32r8ylMPqnlMiQNdEkpFSg0EE2uUPp6nlkmu2-dM3sQmvcRixgZbEXfNFhJTzipRuvaQ_2H3kUNtqIvGoCGBEl6hxR30zPAZmWP9QyEz3S4Nod7LdraICsy9QL_bJZJGxP3A6XRSpk3GQydgf6U11mYVy1Io5lwXwC0yBdo-snMXh2qbfpJT4NCtGHJtLGOzfPoSddTmwvGkaGeatc3X1oSktZxRJRwhE1uhcVqjaiO6RnCOFX6ij9A5oOwfBceARDBKP6XapAqe0BXLSbeVs_EMrviJaP-IwMuYkAsSm5470Er7IC_xPqmaoPsaClFNIQEb3KTFlaRXgDaf5dZS4ngzZrM4n1EpMcvYS1No4zxEXPQDDQs3sBRuGEdNUwxiAQCZnnKnYjWzI6wdhrK8eVcIqIivL93v7kmGtc8TvThi-9gwfsg.vF5lVf_GtR9iPhJHN-lEMQ%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
-CGBANNERINDICATOR
-Hello Lauren
-I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
-
-Thanks
-在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>，写道：
-
-Hi Natalie,
-
-All received our end, thank you.
-
-You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
-
-You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
-
-I hope this helps, do let me know if you have any questions.
-
-Kind Regards,
-Lauren
-
-[cid:image001.png@01DD414C.7642C470]
-Lauren D'Souza
-Senior Operations Coordinator
-London Sales Operations
-______
-D:
-  +44 2089392806<tel:+44%202089392806>
- M:
-+44 7811771417<tel:+44%207811771417>
-knightfrank.com<http://www.knightfrank.com/>
-52‑56 Kensington Church Street,
-London,
-W8 4
-
----
-
-## [营销] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-**发件人:** Apple <News@insideapple.apple.com>
-**日期:** 2026-09-10T16:21:48+00:00
-**摘要:** Apple发布了全新iPhone系列及Apple Watch等产品，包括iPhone Duo、iPhone 18 Pro、Apple Watch Series 12、Ultra 4和AirPods 5，并提供预购信息。
-**待办:** 无
-
-Apple Event logo with a glowing neon effect in blue and pink hues, a bright white flare at its center, on a gradient background
-
-Introducing iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
-Watch the event Watch the event
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugNmeI%2B7v2wQaygoH8RrX%2B6I%3D
-
-Watch in ASL (American Sign Language) Watch in ASL
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugGebNUpPb5CkuF6FyFDt2fI%3D
-
-iPhone Duo
-
-The largest iPhone display ever. Foldable, posable, standable. Featuring unique iOS experiences for ultimate versatility.
-
-Pre‑order starting at 5:00 a.m. PT on 10.16.
-
-Available starting 10.23.
-
-Learn more, iPhone Duo Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugHkVgg0TVFu3y3DSAQDABQE%3D
-
-View pricing, iPhone Duo View pricing
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQU73FS%2B5NulHfz1h83FL9xOXSQgKNqjMIb1l6ugJfbMdNmbM4f2SxG2qStWSo%3D
-
-Two hands hold an open iPhone Duo, left screen displays a photo of a woman, right screen shows a home screen with various app icons, including Messages, Photos, Camera, and App Store
-
-iPhone 18 Pro
-
-The longest battery life in an iPhone.(1) New 48MP Fusion Main camera with variable aperture for more creative control. Four gorgeous colours, two great sizes, one durable design.
-
-Pre‑order starting at 5:00 a.m. PT on 9.12.
-
-Available starting 9.18.
-
-Learn more, iPhone 18 Pro Learn more
-https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
-
----
-
-## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
-
-**发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
-**日期:** 2026-09-10T15:07:39+00:00
-**摘要:** 通知2027-2028学年申请和参观注册开放，并提醒重要截止日期。
-**待办:** 无
-
-<p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li aria-level="1">Applications for Grades 2 to 12 are due on or before <b>November 5, 2026.&#160;</b></li></ul><div>We are currently accepting applications from Junior Kindergarten through Grade 12 for children born in 2023 or earlier. Submitting your application prior to this due date will ensure a timely process as you move through the application cycle.&#160;&#160;<br /><br /></div><div><b>Join Us for a Tour &amp; Information Session</b></div><div>We invite you to register for our upcoming information session and tour. This will be an excellent opportunity to explore our campus, meet our dedicated faculty, and learn more about what makes WPGA such a wonderful community.&#160;<br /><br /></div><div>While families with children born in 2024 or later are welcome to visit, tour availability is prioritized for those in their active admissions year. Because our application and assessment processes evolve annually, we strongly encourage scheduling your tour in the fall of your child's application year for the most up-to-date information.&#160;<br /><br /></div><div>Please <b>click</b><a href="https://www.wpga.ca/admissions/discover-wpga"><b> </b><b>here</b></a><b> to register for an information session and tour</b>. We have limited spots available, so we recommend securing your place at the earliest convenience.<br /><br /></div><div>If you need assistance creating or accessing your account please contact <a href="mailto:onlinesupport@wpga.ca" target="_blank" rel="noopener">onlinesupport@wpga.ca</a>.&#160;<br /><br /></div><div>Thank you once again for considering West Point Grey Academy for your child's educational journey. We look forward to getting to know you and your family.</div><div><br />Warm regards,</div><div>WPGA Enrolment Team</div></div></div></div></div></div></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
----
-
-## [其他] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T13:55:53+01:00
-**摘要:** 公寓120号钥匙已按安排归还，创建于2026年9月10日，由Jingqi Wu处理。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been returned under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] Key Activity
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:12:12+01:00
-**摘要:** 通知Jingqi Wu公寓120钥匙1已按安排释放，创建于2026年9月10日，由Jingq创建。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Apartment 120 Key 1 has been released under the arrangement:
-Created On: 10/09/2026
-Created By: Jingqi Wu
-Block: Emery Wharf 
-Property: 120
-Visitor Name: Kelly
-Collection Type: One-Off Collection
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
----
-
-## [其他] New Arrangement
-
-**发件人:** Estate Team <no_replies@estateteam.co.uk>
-**日期:** 2026-09-10T12:09:58+01:00
-**摘要:** 邮件通知Jingqi Wu的钥匙保管安排已成功创建，并提及授权签字人信息。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Jingqi Wu,
-Your key holding arrangement has been successfully created.
-The individuals authorised to sign the keys out are: Kelly
-This is a One-Off Collection arrangement.
-Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-      
- 
-
----
-
-## [其他] Pool Area Remedial Works Commencing 17 September
-
-**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
-**日期:** 2026-09-10T11:46:44+01:00
-**摘要:** 通知泳池区域维修工作将于9月17日开始。
-**待办:** 无
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
-      padding: 0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-    }
-
-    table,
-    td {
-      border-collapse: collapse;
-      mso-table-lspace: 0pt;
-      mso-table-rspace: 0pt;
-    }
-
-    img {
-      border: 0;
-      height: auto;
-      line-height: 100%;
-      outline: none;
-      text-decoration: none;
-      -ms-interpolation-mode: bicubic;
-    }
-
-    p {
-      display: block;
-      margin: 13px 0;
-    }
-  
-  
-  
-  
-    @media only screen and (min-width:480px) {
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-    }
-  
-  
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
-    }
-  
-  
-    @media only screen and (max-width:479px) {
-      table.mj-full-width-mobile {
-        width: 100% !important;
-      }
-
-      td.mj-full-width-mobile {
-        width: auto !important;
-      }
-    }
-  
-  
-    @media only screen and (max-width:480px) {
-      .details-list-table table {
-        width: 100% !important;
-      }
-
-      .details-list-table table td:first-child {
-        width: 40% !important;
-      }
-
-      .summary-icons-table {
-        padding: 10px 5px !important;
-      }
-
-      .summary-icons-table table td:first-child {
-        width: 10% !important;
-        padding-right: 8px !important;
-      }
-    }
-
-    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
-           the markup's margins can be tuned without affecting the rest of the email. */
-    .wysiwyg-content p {
-      margin: 0 0 12px;
-    }
-
-    .wysiwyg-content p:last-child {
-      margin-bottom: 0;
-    }
-
-    .wysiwyg-content ul,
-    .wysiwyg-content ol {
-      margin: 0 0 12px;
-      padding-left: 24px;
-    }
-
-    .wysiwyg-content li {
-      margin: 0 0 4px;
-    }
-  
-
-
-
-  
-    
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                
-                              
-                            
-                          
-                        
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-      
-    
-      
-        
-          
-            
-              
-              
-                
-                  
-                    
-                      
-                        Dear Mr&nbsp;Jingqi Wu,
-
-We are writing to keep you informed of upcoming maintenance works within the pool area of The Club.
-
-To provide some context, we have been liaising with Earl Kendrick Surveyors in respect of water damage to the pool area and an adjacent service corridor. Earl Kendrick were instructed to attend and provide their professional opinion on the matter, by way of visual inspection and with reference to provided building plans.
-
-It is the position of Earl Kendrick that the water damage is most likely caused by a leak to the shower. Our next step is to confirm this position and then to condu
-
----
-
-## [其他] 您与“Make”共享了一些 Google 账号数据
-
-**发件人:** Google <noreply-accounts@google.com>
-**日期:** 2026-09-10T03:25:51-07:00
-**摘要:** 这封邮件通知用户于9月10日使用Google账号登录了“Make”并共享了个人信息，目前无需采取行动，但提供了解除登录的选项。
-**待办:** 无
-
-掌控您的 Google 账号数据
-
-
-
-nataliewu100@gmail.com
-
- 
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
-“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
-
-这封邮件总结了您共享的信息。目前，您无需采取任何措施。
-
-<!--[if false]><!-->
-
-
-“Make”收到了以下个人资料信息
-
-
-
-natalie
-
-姓名和个人资料照片
-
-
-
-nataliewu100@gmail.com
-
-邮箱
-
-
-
-
-
- 
-
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-“Make”收到了以下个人资料信息
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-natalie
-
-姓名和个人资料照片
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-nataliewu100@gmail.com
-
-邮箱
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
- 
-
-<!--[if false]><!-->
-
-<!--[if false]><!-->
-
-这封邮件涵盖您在 9月10日12:25 共享的信息
-
-<!--[if false]><!-->
-
-如果想停止使用 Google 账号登录“Make”，请前往您的 Google 账号。
-
-<!--[if false]><!-->
-
-
-<!--[if mso]>
-<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
-xmlns:w="urn:schemas-microsoft-com:office:word"  
-href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVGNK6lC-MkV4H1CbxmXLmPvx3jkjhZvuzQvoyAK3jeFqERDABPaK7sBP8MTwxxYTRrLHSfjmhSrjVV-IRFcI5c%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
-style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
-stroke="false" fillcolor="#0b57d0">
-<w:anchorlock/>
-<v:textbox inset="0px,0px,0px,0px">
-
-<![endif]-->
-<https://c.gle/ACT4xYwKwXPmYj9ncddnqX6tFn_4aDUVCp8H6Z-GpLoVXag61iv3QHUdX3ZFwRBUSN-ywLIJzrNRlzfIrrWJYZLs7eZzlb6cdXjoph9ur3NVZfWp1o5qjYLtqxFaC0aX5lmzccmW2XS1_al-eAw1TdB2yP2jTzxCIqzolfGxVnh8GdELXzuWFeYlQOU_OMlHwel3IUwQP5V6lnHjK_T2H32NKo1taxRFnXhzE25G4MXpbggnE_pOnpmMZ3b0lAxLjhiUklKaCqTxsEtmwNziXwuxbUh-5GfbWJzRWU887HPuHmhHvUnsGkRoSNLegLp0TlEIXiGcsoTZ7z0_PBOOh5t2Ek_GHyYse6bVZIqrrRHhq9F23xTagvTtWG1fXHvaejSG5yWHVWRY5pxoqEVaiLmz-ALYbTjRCE_8jqfiI-zuSKZjy20phtAxs3BFEns8NB-gGqL2syJn6GQTe9wetKd9432aPvJogec>  
-前 
-往您的 Google 账号
-
-
-查看“Make”的《隐私权政策》和《服务条款》，了解“Make”会如何处理及保护您的数 
-据。
-
-如果想删除您已与“Make”共享的数据，请前往“Make”。
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-<!--[if !mso]><!-->
-
-<!--[if false]><!-->
-
-使用 Google，安全加倍
-
-为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
-
-
- 
-
-我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
-重要变化。
-
-如果想停止收到此类邮件，您可以 
-<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYz_tu1yOJgn5NgfY-WSy-WKYMxCbo17VihIfqdIru4xYFnaoH09_xbDaxwZk0ytp_S_jIt9-pM5PgsjdBNHUrF_wRzTxqalej__gTBi2QGTdaYMsPBBtvsjdhRe8Jsl2v0RuDoqTnXUbST-fWJ_6ifbihbHVsFZWkTE1okFF27q5pN8Uheee6n-1hzEp4hrrOdxFkbnOA2CQ9GnjG9KOCgGTytKXQ6n-a_Jt2liVM0xexUmhYaxnnWwinXxBKufGisERCKEjjlzgtoze-gO21YdCgR7IYY8hIpeaMA?utm_source=gm&utm_medium=email&auto=true>退 
-订。
-
-即使退订此类邮件，您仍会继续收到安全提醒。
-
-© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
----
-
-## [营销] Your property is now live on Foxtons
-
-**发件人:** Freya.Wan@foxtons.co.uk
-**日期:** 2026-09-10T11:04:30+01:00
-**摘要:** 通知您的房产已上线Foxtons网站，请检查信息准确性。
-**待办:** 检查房产信息是否准确，并反馈错误
-
-a.button:active,
-				a.button:visited{
-					color:#fff !important;
-					color:#fff;
-				}
-				@media only screen and (max-width:624px) {
-					.foxtons_email_holder{
-						width:100%;
-						max-width:624px;
-					}
-					.foxtons_email_holder_inner{
-						padding:12px 0 !important;
-					}
-				}
-				 
-			   
-     
-    		
-
-		
-			
-			 
-				 
-					 					
-						 
-							 
-								 
-														
-	Please check your property's details online	
-				
-							 
-						 
-						 
-							 
-								 
-									 
-										 
-
-											 
-												 
-													     
-												 
-											 
-										 
-											 
-											
-											 
-												 
-													    
-
-					
-	  Dear Miss wu,   
-            I am delighted to inform you that as part of our comprehensive marketing package your property is now live on Foxtons.co.uk.
-               
-				View your property
-			       
-          If this link does not load immediately, then please retry as some properties can take up to two hours to be live on our website.
-          
-            Under the Consumer Protection Regulations 2008 both yourself and Foxtons are responsible for ensuring that the information provided in relation to your property is factually correct.
-          
-            Therefore, I would be grateful if you could check the details carefully and advise me of any inaccuracies, particularly of any information which could influence a buyer's transactional decision regarding your property.
-          Kind regards,   Freya Wan   
-      T: 020 7893 6010 
-      M: 07875 80 2146 
-      E:  Freya.Wan@foxtons.co.uk  
-    W:  Foxtons.co.uk  
-			
-				
-														 
-													 
-												                                             
-											 
-										 
-									 
-																							
-
-						
-				
-	
-									
-			
-			 
-				 
-					  &copy; Foxtons 
-				 
-				 
-					 Foxtons Limited, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN 
-							Company Reg No: 1680058                                                                                                                    
-					 
-				 
-			                                                                         
-				
-				
-				 
-			 
-		 
-
-		 
-		 
-				
-				 
-			 
-		 
-	
-
-							
-	
-
-     
-     
-    
-      Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
----
-
-## [其他] You have been invited to do a Thirdfort check
-
-**发件人:** Thirdfort App <no-reply@thirdfort.io>
-**日期:** 2026-09-10T09:53:43+00:00
-**摘要:** Knight Frank 通过 Thirdfort 应用安排了验证检查，需下载应用并等待短信以完成登录。
-**待办:** 下载 Thirdfort 应用并按照指示完成验证。
-
-Download Thirdfort now.
-
-Hi Jingqi,
-
-Knight Frank has set up a verification check for you on Thirdfort app.
-
-*Download the Thirdfort app to your smartphone or NFC-enabled tablet* *here* ( https://www.thirdfort.com/support/ ) *.* You can also find it by searching "Thirdfort" in the App Store or Google Play Store. Personal computers are not supported at this time.
-
-*Before you log in, please wait for a text message from Thirdfort.* This text will be sent to the mobile number Knight Frank provided to us when setting up your check. You'll need this number to sign in.
-
-*Haven't received a text or seeing 'No transaction found'?* This can happen if the mobile number entered when your check was set up wasn't quite right. Please contact Knight Frank and ask them to check the mobile number they have on file for you.
-Once you've received your text, open the app and log in using the mobile number the text was sent to.
-
-Please don't uninstall the app or swap devices while completing your tasks.
-
-If you have questions or need assistance concerning the app journey, Thirdfort’s dedicated customer support team can be contacted via:
-
-* *Live chat:* accessed from the app menu, or on help centre linked below
-* *Email* ( help@thirdfort.com?subject=&body= )
-* *Phone* ( tel:0161 768 0083 ) *:* 0161 768 0083 (option 1)
-* Help Centre ( https://help.thirdfort.com/hc/en-gb )
-
-Kind regards,
-Thirdfort
-
-Thirdfort Limited is registered in England with Company No. 10757456 and VAT registered. VAT No. 281589466.
-Registered office: Belle House Platform 1 Victoria Station, London, SW1V 1JT. Click here ( https://thirdfort.com/terms/email-disclaimer ) to view email disclaimer
-
-Thirdfort Limited is authorised and regulated by the Financial Conduct Authority under the Payment Services Regulations 2017 to provide payment services (firm reference number 806236 ( https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000049LhAPQA0 ) ). Thirdfort Limited is registered with the Information Commissioner’s Office under registration number A8225019 for the purposes of the protection of data.
-
-( https://www.facebook.com/thirdfort-177767396215187/ ) ( https://www.linkedin.com/company/27455280/admin/ )
-
-Thirdfort Limited
-Belle House, Platform 1 Victoria Station, London, SW1V 1JT
-To unsubscribe to these emails contact support@thirdfort.com
-
----
-
-## [其他] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
-
-**发件人:** Google <no-reply@google.com>
-**日期:** 2026-09-09T15:28:41-07:00
-**摘要:** Google提醒Natalie在Apple iPhone上完成账户设置
-**待办:** 无
-
-Natalie，您即将在Apple iPhone上完成 Google设置
-
-
-请花点时间在新设备上设置Google 应用和相关配置吧
-
-完成设置  
-<https://c.gle/ACT4xYzdWbQ2DF3a8iGHjtGzj-26zxZdTXz1UyBA6xeR5Sn4IGI9uVzDusQo42UDyJwTJ8NbMPxrBFoeShVqCsZZytvd65lyiCrjuArfEzI8CKoZ8s6xrP_txqDkRIRyLTtiM_DQjqWm1oJIzAAXjPqFHHx8SMYzOmRPM2sAFyHi8q5QM59I6i9s6-YIbW9Ajb2PFJTmuI52pNcpB-gMxo9_f05Vnlbiy1w7eO-Ql8FzRq7KpRk_mddKcQxb3ByZd677y2buXNvRcKtFLJqViAwlm5kcYCpYk7wQf8MIMiLILPPqkK76m1hnKA?sAs=1>
-
-我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
-件，是因为您最近在Apple iPhone设备上登录了 Google 帐号。当您首次在一台设备上 
-登录自己的 Google 帐号时，我们会向您发送一封电子邮件，帮助您在该设备上进行设 
-置；如果您不想再收到此类电子邮件，请退订  
-<https://c.gle/ACT4xYz1kV9Aqc_ksvbCB0rg3FhqGRJ62iM9vz7V2-TKSFk0OxRvLT_LeF4FinL29NN97jcrMMwiHbAEQ6kdBWRWXG8WMBK4k8PAtrDo4Ux3AjjBhsbb0nS1Y9_TzqYeuANB5RHs1vnpoh-6vXj6RuctmYLYaHUsrGbUKOHnGHpvIi-HxPHYCx9m4CY2ie8Y2h6VXK4BYOU1YT63oZ2NlT3nFWqzB6V2UdAtfatRGlUULC6PeKWbjCojfxmufCuvFIDb-KRZ44elb7vLztPv6WsBsJqcp5W1-tQHWb7ZafOCWB4YoqJwE_kUqBximodL-6m6QcMY9OE2MVW5_QmLLf3mYersKiGG1hT_82axNU5g4iJWe1-msb88Bqlloe0hqOLrEbQQB4Q6i9fzLOStCVidZIlPx3TxxWWLQ43FsmFYWJWuhyp2XHvKGWmbW5sLxKN_YxIu2hLdSsDbnqt-Z5F5C_83KgkgLa97L5Qi1uN3tRb4DShMipxvtgCgXMrgvTVL2md6P8Vzw_dEjYyXuucweoK51GwlbibOE6Qn-_YuCkJqtFqiJmK64wt07_fni4yC>。
-
-© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
----
-
-## [其他] 安全提醒
-
+- 日期： 发件人： 主题： 备注：## [其他] 安全提醒
 **发件人:** Google <no-reply@accounts.google.com>
 **日期:** 2026-09-09T22:27:38+00:00
 **摘要:** 通知用户其Google账号在Apple iPhone设备上有新的登录活动，提醒确认是否本人操作。
@@ -4487,12 +40,8 @@ https://myaccount.google.com/notifications
 我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
 化。
 © 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-
 ---
-
 ## [其他] Your Koodo e.Bill is ready. An overdue balance requires your attention, please review.
-
 **发件人:** Koodo <koodobilling@mailing.koodomobile.com>
 **日期:** 2026-09-09T14:02:37-07:00
 **摘要:** Koodo通知用户三月电子账单已准备好，有逾期余额需及时处理以避免滞纳金。
@@ -4525,12 +74,8 @@ Login to Self Serve
 Please do not reply to this message. Replies to this email address are not monitored by Koodo. 
 
 Privacy Statement | Support | koodomobile.com
-
-
 ---
-
 ## [其他] Verify your email
-
 **发件人:** Link <notifications@link.com>
 **日期:** 2026-09-09T20:54:40+00:00
 **摘要:** 要求用户验证邮箱以确认身份
@@ -4551,11 +96,8 @@ One Wilton Park, Wilton Place, Dublin 2 D02 FX04, Ireland
 Terms (https://link.com/terms)
 Privacy (https://link.com/privacy)
 Support (https://support.link.com)
-
 ---
-
 ## [其他] 您与“blackbaud.com”共享了一些 Google 账号数据
-
 **发件人:** Google <noreply-accounts@google.com>
 **日期:** 2026-09-09T13:28:52-07:00
 **摘要:** 这封邮件通知用户曾使用Google账号登录blackbaud.com，并共享了姓名、照片和邮箱信息，但目前无需采取行动。
@@ -4718,12 +260,8 @@ stroke="false" fillcolor="#0b57d0">
 即使退订此类邮件，您仍会继续收到安全提醒。
 
 © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
 ---
-
 ## [学校] Re: Outstanding Forms & Phone numbers for Cathy's family
-
 **发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
 **日期:** 2026-09-09T19:35:12+00:00
 **摘要:** 学校通知Cathy家庭可以等到签证发放后再完成剩余表格，并需在签证发放后及时告知。
@@ -4799,11 +337,8 @@ Thank you for your prompt attention to this matter, and we look forward to suppo
 Yunxi's files and forms
 Acknowledgement/ Permission
 Due: 9/
-
 ---
-
 ## [学校] Re:
-
 **发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
 **日期:** 2026-09-09T18:32:00+00:00
 **摘要:** Natalie（Cathy母亲）请求Cathy的学校账户新密码，Darcie提供了当前登录信息并询问是否有效。
@@ -4833,13 +368,8 @@ p.s. You can contact me with this email.
 
 Thanks,
 Natalie
-
-
-
 ---
-
 ## [其他] Re: Package Delivery Assistance – TH103
-
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-09T18:26:11+00:00
 **摘要:** Natalie请求协助处理包裹，Anastasia回复已收到包裹并将送达其住所。
@@ -4906,12 +436,8 @@ Thank you very much for your help.
 
 Best regards,
 Natalie
-
-
 ---
-
 ## [学校] Outstanding Forms & Phone numbers for Cathy's family
-
 **发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
 **日期:** 2026-09-09T16:37:47+00:00
 **摘要:** 邮件提醒Cathy家庭提交未完成的学校文件，包括表格和紧急联系人信息，并附上相关链接和联系方式。
@@ -4940,30 +466,14 @@ Due: 9/4/2026
 Medical
 Due: 9/4/2026
 2026/27 Student Medical Info
-
-
-
 ---
-
 ## [其他] Works Pennington Street steps - 10/09/26
-
 **发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
 **日期:** 2026-09-09T14:59:21+01:00
 **摘要:** 通知在Pennington Street楼梯底部进行地面工程，可能影响周边区域。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -5123,31 +633,8 @@ Thank you for your understanding during these essential works.
 
 Kind Regards,
 London Dock Management Team
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-       
-
 ---
-
 ## [其他] Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:15:14+00:00
 **摘要:** 邮件提醒注意房地产交易中的诈骗，强调核实银行信息并避免向未知账户转账。同时通知因疫情政策调整，正式文件需通过电子邮件发送。
@@ -5190,11 +677,8 @@ We shall be keeping this policy under review as the situation develops, and apol
 This e-mail and any attachments are strictly confidential.  If you are not the intended recipient: a) Spencer West LLP apologises but asks that you please immediately notify the sender and delete the e-mail from all computers on your system; and b) you must not copy or forward this e-mail or any attachments or disclose the contents to anyone, nor rely on information contained within the message.
 
 Spencer West LLP is a limited liability partnership registered in England and Wales at the above address at which service of documents will be effective.  Registered no. OC360298.  Authorised and regulated by the Solicitors Regulation Authority: SRA No. 555456.  A list of members of Spencer West LLP is available for inspection at the registered office.  The term ‘partner’ in relation to Spencer W
-
 ---
-
 ## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:14:54+00:00
 **摘要:** 邮件通知此前的基金请求无需执行，因买家尚未确认，并提醒客户注意防范房产交易中的诈骗风险，强调转账前需核实银行信息。
@@ -5237,11 +721,8 @@ We shall be keeping this policy under review as the situation develops, and apol
 This e-mail and any attachments are strictly confidential.  If you are not the intended recipient: a) Spencer West LLP apologises but asks that you please immediately notify the sender and delete the e-mail from all computers on your system; and b) you must not copy or forward this e-mail or any attachments or disclose the contents to anyone, nor rely on information contained within the message.
 
 Spencer West LLP is a limited liability partnership registered in England and Wales at the above address at which service of documents will be effective.  Registered no. OC360298.  Authorised and regulated by the Solicitors Regulation Authority: SRA No. 555456.  A list of members of Spencer West LLP is available for inspection at the registered office.  The term ‘partner’ in relation to Spencer W
-
 ---
-
 ## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:08:46+00:00
 **摘要:** 该邮件通知用户需要召回之前关于伦敦公寓出售的沟通记录。
@@ -5254,12 +735,8 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
 
 This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
-
-
 ---
-
 ## [其他] Recall: Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:08:39+00:00
 **摘要:** Michael Cheng 撤回关于伦敦房产出售的邮件，具体事务未明确说明。
@@ -5272,12 +749,8 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
 
 This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
-
-
 ---
-
 ## [其他] Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:06:31+00:00
 **摘要:** 邮件要求支付1500英镑预付款以启动房产交易法律工作，并提供银行账户信息及防诈骗提醒。
@@ -5349,11 +822,8 @@ Please be vigilant in all dealings in your transaction.  Fraudsters target real 
 In the light of the current situation, Spencer West LLP is unable to accept service of proceedings, notices and other formal documents at our London office, given the need to prioritise the well-being of our and our facilities' staff.
 
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
-
 ---
-
 ## [待办] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:04:40+00:00
 **摘要:** 邮件要求支付1500英镑预付款以启动法律工作，并附上银行账户信息和注意事项。
@@ -5425,11 +895,8 @@ Please be vigilant in all dealings in your transaction.  Fraudsters target real 
 In the light of the current situation, Spencer West LLP is unable to accept service of proceedings, notices and other formal documents at our London office, given the need to prioritise the well-being of our and our facilities' staff.
 
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
-
 ---
-
 ## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:04:16+00:00
 **摘要:** 发件人要求撤回关于伦敦公寓销售参与的邮件，内容涉及法律或商务事务。
@@ -5442,12 +909,8 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
 
 This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
-
-
 ---
-
 ## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
 **日期:** 2026-09-09T11:04:03+00:00
 **摘要:** 请求支付1500英镑预付款以启动法律工作，并提供银行账户信息。
@@ -5519,11 +982,8 @@ Please be vigilant in all dealings in your transaction.  Fraudsters target real 
 In the light of the current situation, Spencer West LLP is unable to accept service of proceedings, notices and other formal documents at our London office, given the need to prioritise the well-being of our and our facilities' staff.
 
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
-
 ---
-
 ## [营销] Your guide to selling a home
-
 **发件人:** Foxtons <mail@info.foxtons.co.uk>
 **日期:** 2026-09-09T11:01:35+00:00
 **摘要:** Foxtons提供了一份出售房屋的分步指南，涵盖准备步骤、必要文件和专业联系人等信息。
@@ -5583,11 +1043,8 @@ LinkedIn
 ( https://clicks.foxtons.co.uk/f/a/w3JjDgI-PLpOHvpR6u0h1A~~/AAAHahA~/0AJ9mzZHdXe71T_a1QCjj8amdg6Z5XgvdekqE0JCknXf4zcclsNF8qMO59AUDGPjEhgARrUDFhG62mbhDuswVEM_N4aOHQxWDhTsNOxGAlO3WVv3JYeSDF-lMDcuo9i23xhOU9FJOT7aG9QI19oji81MQMSalP1xkpLQLHN63AE~ )
 YouTube 
 ( https://clicks.foxtons.co.uk/f/a/x7cYUa5utSCtGCI6fnZTzA~~/AAAHahA~/j2GRHvyYGrLjvYaNCGyXVsSnSZy7HlV7bQyeHFnFkMLnl3z
-
 ---
-
 ## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
-
 **发件人:** London Dock Concierge <concierge@mylondondock.net>
 **日期:** 2026-09-09T09:43:43+00:00
 **摘要:** 回复确认将按要求释放钥匙，并指导未来可通过门户自行创建钥匙安排。
@@ -5662,12 +1119,8 @@ Good morning
 The Foxton Freya team will visit tomorrow morning to take videos and photographs. Please assist Freya with collecting the keys.
 
 If you have any questions, please let me know.
-
-
 ---
-
 ## [待办] Apartment 120, Emery Wharf – Leaseholder portal registration
-
 **发件人:** London Dock Concierge <concierge@mylondondock.net>
 **日期:** 2026-09-09T09:23:23+00:00
 **摘要:** 通知用户注册伦敦码头居民门户，提供服务详情及登录信息，并附有欢迎包。
@@ -5751,12 +1204,9 @@ Telephone:
 0345 491 8899
 [A blue and white logo    Description automatically generated]<https://www.tpi.org.uk/>
 
-72 â€“ 74 
-
+72 â€“ 74
 ---
-
 ## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
 **日期:** 2026-09-09T08:57:30+00:00
 **摘要:** 业主通知Lancer Square管理处已正式委托KnightFrank为公寓1的销售代理，澄清了中介公司的授权情况。
@@ -5847,12 +1297,9 @@ This email and any attachments may contain confidential information intended onl
 ​immediately.
 Whilst reasonable precautions have been taken to ensure this email is free from viruses, James
 ​Andrew Residential Limited accepts no liability for any loss or damage arising from its use.
-James Andrew Residential Limited is 
-
+James Andrew Residential Limited is
 ---
-
 ## [待办] RE:  Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
-
 **发件人:** London Dock Concierge <concierge@mylondondock.net>
 **日期:** 2026-09-09T08:29:35+00:00
 **摘要:** 邮件询问Foxtons是否在钥匙豁免名单上以安排看房。
@@ -5946,11 +1393,8 @@ Sender:London Dock Concierge<concierge@mylondondock.net<mailto:concierge@mylondo
 Date:2026/09/02 17:40:09
 Recipient:natalie<nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>>
 Cc:Akshitsinh.Rathod@foxtons.co.uk<Aksh
-
 ---
-
 ## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
-
 **发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
 **日期:** 2026-09-09T08:22:44+00:00
 **摘要:** Freya请求将Foxtons添加到钥匙豁免列表，因为Foxtons是Natalie和Frank指定的销售代理，且有摄影师需要查看房产。
@@ -6050,11 +1494,8 @@ SK10 1AT
 Registered in England and Wales Registered No: 3607568
 
 This email and any attachments to it are strictly confidential and intended solely for the addressee. It and they may contain information which is covered by legal, professional, or other privilege. If you are not the intended addressee, you must not disclose, forward, copy or take any action in reliance of this email or its attachments. If you have received this email in error, please notify the sender at Premier Estates on 0345 491 8899 as soon as possible and delete this email immediately and destroy any hard copies of it. Neither Premier Estates nor the sender accepts any responsibility for any virus that may be carried by this email, and it is the recipient's responsibility to scan the email and any attachments before opening them. If this email is a personal communication, the views expressed in it and in any attachments are personal, and unles
-
 ---
-
 ## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** natalie <nataliewu100@gmail.com>
 **日期:** 2026-09-09T10:07:16+02:00
 **摘要:** 业主确认KnightFrank为公寓1的销售代理，Glenco为租赁代理，并澄清了相关授权情况。
@@ -6158,11 +1599,8 @@ On 9 Sep 2026 at 9:58 AM +0200, Lancer Square General Manager <LancerSquareGM@
 > <image003.jpg>
 >
 > This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or oth
-
 ---
-
 ## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
 **日期:** 2026-09-09T07:58:21+00:00
 **摘要:** Lancer Square经理询问Knight Frank是否负责Apartment 1/2，但记录显示Jordanna并非指定代理，需确认相关信息。
@@ -6251,11 +1689,8 @@ United Kingdom
 [Knight Frank]<https://www.linkedin.com/company/knight-frank?utm_medium=emailsig&utm_source=LinkedIn&utm_campaign=socialicons>
 [Facebook]<http://www.facebook.com/knightfrankllp?utm_medium=emailsig&utm_source=Facebook&utm_campaign=socialicons>
 [Knight Frank]<https://www.i
-
 ---
-
 ## [其他] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Jo Monk <jmonk@jaresidential.com>
 **日期:** 2026-09-09T07:50:24+00:00
 **摘要:** Jo Monk回复Jordanna，表示Josh可以协助处理公寓相关事宜，并提供联系方式。
@@ -6322,11 +1757,8 @@ United Kingdom
 This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful.
 
 This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any a
-
 ---
-
 ## [其他] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
 **日期:** 2026-09-09T07:35:10+00:00
 **摘要:** 请求提供公寓相关所需信息
@@ -6372,11 +1804,8 @@ I have been informed that you are the managing agents for the property, and we h
 Under trading standards, we are required to request and share any relevant fire safety information when marketing a property within a building of 7 storeys or higher.
 
 P
-
 ---
-
 ## [其他] Re: Package Delivery Assistance – TH103
-
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-08T20:19:10+00:00
 **摘要:** Natalie询问包裹是否到达并请求协助检查和存放。
@@ -6425,23 +1854,16 @@ Thank you very much for your help.
 
 Best regards,
 Natalie
-
-
 ---
-
 ## [学校] Lynch Bus Lines : Stopfinder App
-
 **发件人:** Stopfinder <no-reply@stopfinder.com>
 **日期:** 2026-09-08T16:15:10+00:00
 **摘要:** 通知家长关于孩子的校车路线信息，需通过Stopfinder应用激活账户并下载应用。
 **待办:** 激活Stopfinder账户并下载应用
 
 Hello Jingqi Wu,  &nbsp;  Going forward, you will receive all messages and alerts through this application,  along with your child's new route details . You will also be able to see the  live location of your respective school bus along with your bus stop . If you have any problems, please contact at prameet@lynchbuslines.com or 604.439.0842.   We are only sending this email to ONE email address per family  (the first guardian we have on file). Therefore, in  order to give permission to another adult  to view your child's bus schedule please click on the three dots in the top right hand corner of your child's schedule, and then click ' Share Schedule '.   &nbsp;    Please note : This app will only be used for  one-way communication , which is for the office to contact the parents, in a case you want to reach us, please email (prameet@lynchbuslines.com) or call at 604-439-0842.  &nbsp;     Please follow the following Steps to activate your account:        &nbsp;       Step 1:    Follow this link to activate your subscription : https://app.stopfinder.com/activation?guid=b0d07cd1-d735-42a7-a019-1bf3f27a0880&email=nataliewu100%40gmail.com  &nbsp;    Step 2:    Download   the Stopfinder app .           &nbsp;  Thank you, and have a great rest of the year!  Sincerely,    LYNCH BUS LINES
-
 ---
-
 ## [营销] Your Foxtons photography appointment
-
 **发件人:** Foxtons <mail@info.foxtons.co.uk>
 **日期:** 2026-09-08T14:19:56+00:00
 **摘要:** 确认Flat 120的房产摄影预约时间为2026年9月9日上午9点，并附有拍摄前的准备清单。
@@ -6542,11 +1964,8 @@ Instagram
 ( https://clicks.foxtons.co.uk/f/a/LiH_M-6M1KcYMPauy7m6xQ~~/AAAHahA~/nXbgfpvnHa3h0OYsMjdvxLXjSCAROCf8Gs1Qr611PycoO8N5_4S-cle58EdpZJVQgXCFduwhk2SoVDIJrkkCJvJtpZx7nsNq1_7tas5cBZM2toHhtrgrEBiydze-q-vHF2sytt-tVu5tBRdAwJxkGqn8__F5Z2tNoLB4Hq2YGTA~ )
 TikTok 
 ( https://clicks.foxtons.co.uk/f/a/wyyHV3TWdI8o6d4a3CclMA~~/AAAHahA~/Pt8xlg3EhypLaJCvchFV4BUCoL-zsjYPz6T4AsdtSAjJFVQHdycLuPLZLlUcDeOOQOvvAQnSC90usGi2O1_xUNGtJNOcJSHoVnveT2km0ij6za1zIxth8S_hG2li2l
-
 ---
-
 ## [其他] Start receiving payments today
-
 **发件人:** Payoneer <noreply@send.payoneer.com>
 **日期:** 2026-09-08T06:53:06+00:00
 **摘要:** Payoneer提醒用户已验证账户但尚未收到付款，需分享账户信息给客户和市场平台以开始收款，并介绍账户管理优势。
@@ -6610,11 +2029,8 @@ convert to other currencies, keep hold of them, or withdraw to
 your bank. The choice is yours. Go
 to your receiving account(s) 
 ( https://links-send.payoneer.com/f/a/f0g4woqlZVbAOzR6CGYG6Q~~/AAQRxRA~/iFJ-EGJ07CPKqp9G2R1SX_5dvo7Lj7aTd66Eg-X_5BL9yWgH8OSpq2mc69H0I2P0yP1KysZ5vVH9F7l2QbOWOW_488d2lITCIi4wEhjYMLq96XlAr219MvLPLQeM6dafhNp4pEJSOQr1yESMeBKyfV8j6W6YDunv
-
 ---
-
 ## [学校] Re: Meadowridge Student Website
-
 **发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
 **日期:** 2026-09-08T03:00:32+00:00
 **摘要:** 发送新的2026-27学年学生网站密码，并提醒将在9月8日早上重置。附有学生技术网页链接。
@@ -6678,12 +2094,8 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 
 
 Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
-
-
 ---
-
 ## [营销] Re: Natalie, your opinion matters — 1 minute on your Browns visit
-
 **发件人:** Browns Shoes <support@info.brownsshoes.com>
 **日期:** 2026-09-07T21:07:22+00:00
 **摘要:** Browns Shoes邀请Natalie提供反馈以赢取500美元礼物卡，并询问推荐可能性。
@@ -6694,12 +2106,8 @@ Hi Natalie,
 Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
 
 How likely are you to recommend Browns to a friend or family member?
-
-
 ---
-
 ## [其他] Please remember to confirm your email
-
 **发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
 **日期:** 2026-09-07T12:52:38-07:00
 **摘要:** 提醒确认邮箱地址
@@ -6801,11 +2209,8 @@ Please remember to confirm your email
 
       a,
       a:visited {
-
 ---
-
 ## [其他] New Device Login
-
 **发件人:** Docusign Account <info@account.docusign.net>
 **日期:** 2026-09-07T18:04:02+00:00
 **摘要:** Docusign通知用户有新设备登录，提醒检查是否为本人操作，若非本人需立即修改密码并建议启用双重验证。
@@ -6817,11 +2222,8 @@ If this was you, you can safely disregard this email.
 If this wasn't you, please change your password immediately to secure your account. For added security, we recommend enabling Two-Step Verification.
 Why did we send this?
 We didn't recognize this device or browser. You might receive this email again if you sign in from a new device or browser, you clear your cookies, or you use your browser's private mode.
-
 ---
-
 ## [其他] Verify a New Device
-
 **发件人:** Docusign Account <info@account.docusign.net>
 **日期:** 2026-09-07T18:03:30+00:00
 **摘要:** 通知用户有新设备登录，提供验证码并建议修改密码及启用双重验证。
@@ -6841,11 +2243,8 @@ This message was sent to you by  who is using the Docusign Electronic Signature 
 
 Do Not Share This Email
 This email contains a secure link to Docusign. Please do not share this email, link, or access code with others.
-
 ---
-
 ## [其他] 完成时间：Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza 通过 Docusign" <dse@eumail.docusign.net>
 **日期:** 2026-09-07T18:03:09+00:00
 **摘要:** 通知所有参与方已签署文档，并提供查看链接。
@@ -6876,16 +2275,12 @@ https://eu.docusign.net/Signing/EmailStart.aspx?a=5d80cd05-0b9e-85f0-830c-57b0d5
 
 如果您在签名时遇到问题，请访问我们的Docusign 支持中心上的“如何签署文档”。
 https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US&#38;utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&#38;utm_medium=product&#38;utm_source=postsend
-
 ---
-
 ## [营销] Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
 **日期:** 2026-09-07T16:30:30+00:00
 **摘要:** 请求提供公寓的EWS1表格或火灾风险评估以进行合规性审查。
 **待办:** 需要提供EWS1表格或最新火灾风险评估给Jordanna
-
 
 Good afternoon Julia
 
@@ -6919,11 +2314,8 @@ This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnersh
 We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and their clients are increasingly being targeted by fraudsters, often requesting funds to be transferred to a different bank account or seeking to obtain confidential information. If you receive a suspicious or unexpected email from us, or purporting to have been sent on our behalf, please do not reply to the email, click on any links, open any attachments, or comply with any instructions contained within it without first speaking (in person or by telephone) with your Knight Frank LLP contact to verify the email. Knight Frank LLP cannot take responsibility for any losses arising from your transfer of funds or disclosure of confidential information.
 
 Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not constitute a formal valuation and should not be relied upon for any purpose. Unless specifically stated otherwise, any negotiations, intention to treat, offers, acceptances or consideration contained in this email are not intended to create legal obligations or rel
-
 ---
-
 ## [营销] Bill your clients, get paid on time
-
 **发件人:** Payoneer <noreply@send.payoneer.com>
 **日期:** 2026-09-07T14:51:17+00:00
 **摘要:** 这封邮件介绍了Payoneer的全球支付服务，帮助用户高效管理客户付款，支持多种支付方式并提供自动提醒功能。
@@ -6993,11 +2385,8 @@ Don’t forget to download the Payoneer mobile app so
 you can bill clients and manage your funds on the go.
 payoneer 
 ( https://links-send.payoneer.com/f/a/eqlPcV4i50a5ZpheoyAaNA~~/AAQRxRA~/j_dyb1OeZySieyAC3zO-of7eFKYVmQxk569_F888d4tYi0r8fzk_qViPS1Lsf9I-Yof_ATghYhNfcNM2igOJDD_peIVWz2Mzt-rSEEDOy
-
 ---
-
 ## [其他] Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza via Docusign" <dse@eumail.docusign.net>
 **日期:** 2026-09-07T04:36:17-07:00
 **摘要:** 这封邮件通知收件人有来自Lauren D'Souza的DocuSign文档需要查看和签名，提供了相关链接。
@@ -7049,11 +2438,8 @@ Managing notifications
 
 If you are having trouble signing the document, please visit the Help with Signing page on our Support Center.
 https://support.docusign.com/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing
-
 ---
-
 ## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Frank <frankataix@gmail.com>
 **日期:** 2026-09-07T11:43:07+02:00
 **摘要:** Frank未收到Thirdfort链接，请求重新发送或指导访问方式。上一封邮件中Lauren提到会发送链接供妻子上传身份文件。
@@ -7108,11 +2494,8 @@ frank
 > We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and their clients are increasingly being targeted by fraudsters, often requesting funds to be transferred to a different bank account or seeking to obtain confidential information. If you receive a suspicious or unexpected email from us, or purporting to have been sent on our behalf, please do not reply to the email, click on any links, open any attachments, or comply with any instructions contained within it without first speaking (in person or by telephone) with your Knight Frank LLP contact to verify the email. Knight Frank LLP cannot take responsibility for any losses arising from your transfer of funds or disclosure of confidential information.
 >
 > Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not con
-
 ---
-
 ## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** Frank <frankataix@gmail.com>
 **日期:** 2026-09-07T11:36:24+02:00
 **摘要:** Frank回复关于房产文件处理的邮件，要求审核已完成的信息表、修改代理协议类型，并明确后续需要提供的信息和步骤。
@@ -7173,11 +2556,8 @@ frank
 > This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any authority to represent, bind or obligate in any way, any other Knight Frank entity.
 >
 > We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and t
-
 ---
-
 ## [其他] 您的Google Play订单收据(2026年9月7日)
-
 **发件人:** Google Play <googleplay-noreply@google.com>
 **日期:** 2026-09-07T02:20:38-07:00
 **摘要:** 通知用户通过Google Play的订阅已成功续订并完成扣款。
@@ -7240,14 +2620,8 @@ Google Commerce Limited, Gordon House, Barrow Street, Dublin 4, 爱尔兰
 
 请勿回复本电子邮件，因为我们无法通过此电子邮件地址回复您。如需支持，请访问  
 Google Play 帮助中心。
-
-
-
-
 ---
-
 ## [学校] Special Welcome from the Parent Guild (Grade 7)
-
 **发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
 **日期:** 2026-09-06T18:51:28+00:00
 **摘要:** 家长联盟欢迎Grade 7家庭，邀请家长参与志愿活动，并介绍即将举行的Welcome Back Picnic和Spirit Day活动。
@@ -7330,11 +2704,8 @@ Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
 
 Socials:
 Share our Meadowridge Parent Guild pages with you
-
 ---
-
 ## [其他] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
-
 **发件人:** natalie <nataliewu100@gmail.com>
 **日期:** 2026-09-06T17:39:06+02:00
 **摘要:** 邮件要求签署销售条款并提供业主身份证明，同时提及房产定价及佣金条款。
@@ -7388,18 +2759,14 @@ Best regards,
 > Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.
 > The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.
 > Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
-
 ---
-
 ## [其他] Your receiving account is open for business
-
 **发件人:** Payoneer <noreply@send.payoneer.com>
 **日期:** 2026-09-06T06:42:33+00:00
 **摘要:** Payoneer通知用户接收账户已开通，需按照指引开始使用。
 **待办:** 查看账户详情并分享给客户和市场平台
 
- Here’s how to get started!
+Here’s how to get started!
 
 
 
@@ -7459,76 +2826,8 @@ receiving account(s)
 You can do all this and more with the Payoneer mobile
 app.            payoneer 
 ( https://links-send.payoneer.com/f/a/bquxKjkEEQDc6KSpf9_oQQ~~/AAQRxRA~/iVhuY3yOCrXOP80Csyqw3R9U9UGPOG3XpUwEcgSq5
-
 ---
-
-## [营销] 改用包年方案，费用节省 16%
-
-**发件人:** Google One <googleone-noreply@google.com>
-**日期:** 2026-09-05T18:36:28-07:00
-**摘要:** Google One推出包年方案，费用节省16%且会员权益不变。
-**待办:** 无
-
-
-会员权益不变，费用节省 16%
-
-通过短短几秒的简单操作即可改用包年方案。以更少的费用获享同样的存储空间及福 
-利，每年仅需 US$19.99。
-
-改为包年方案 
-<https://c.gle/ACT4xYx4Bw878kOh_RM0pgEDtZglQGSedF1cRBuJsB-QRJl4emXY6HfsNj0I1faEn3oWggHVqSVEfQfTSkZVt4atwwFWU8DKvxhdgdsN32-qO0JAZmT5wX5_o3S8MEckMyNHt8eux44ZI_5Fkf-q-OsXoQ03m86jULrP4k0m7F97KBQT8GzxSoHikP-hI0J6Axp-Ylmx6HZCYW8O9qGgsS-T6iuApH05CAM35oEXlq_SrkqPa8eY-469Q9cW6lmKwajuQQDzJ49DOqo4Jrm5_nEQgLVKKfH9g2B-exCLr9zQ5Gac_bwXJvY>
-
-
-100 GB :  US$1.99/月 US$23.88/年
-
-当前方案 : US$19.99/年
-
-
-
-方案的定价可能因国家/地区而异。
-
-
-获取 Google One 应用
-Play  
-Store<https://c.gle/ACT4xYz95tTz15YKaP-__IuD5NgS-RLUQJ98RzExwAMDx3ARWwC9CJ1SeU9wWIUw8FpFhbM4Bu15uCoxOel8pr7zyB09j2cyu_PqycYdiIXAGsieGtEJFritxrZ8HTo6mI82qXzYrXl9UBT5RonBBvgMq9gM4Fi3naQjvWW1LHethYeoJsq3JYi7xo3w1yvWZYhr-Ol3nGG0-_TYfuXWVODO0FiMSQ>
-iOS  
-Store<https://c.gle/ACT4xYy9eXPS1bnO-_ozJBC1k6-FuypR2M1g17llIvA0bYNWjsUUhsVc-qAJGGXknh2AiWSmwK1zsFyfjgQh2h1AV1ksuf5uHN9jhuv_eYasJDeERwlktJ-rZPQWE0RHPrTdSJD4ZRyhC-5LsbstE17WzkTmzfQk681PsEJ7NLY>
-
-
-
-
-
-
-
-
-
-这封电子邮件对您是否有帮助？
-
-满意 
-<https://c.gle/ACT4xYxTjJNsoT_9DQYmNDA764NB6iLb5yegzoKp8I6oh2uW7MXarsIsivFCHG6xALXSRD-fEwGqEPcwTLkeybi0aKq4HqVdy-sQ0g9dj9klT-jNkEJCAqs8bQbgJ3Tvdoc6Xnbut1PsHtVg0xsvAHbcWzqqYU1-0Wb1ezzMSlw6EkArQ3ZAkZwi8igKdmhjjCt8zhgUVlqwn5G1uvrokTBxWQ>
-
-一般 
-<https://c.gle/ACT4xYzQgUFiiHnNI6S0EUHPNEBaDtfs4r-orYhevo6iSwT0OBOQUdwtmHbXATjYZ3vOM9FWvKDks2jKLjzQ9zpoLXmTPuZ9PFEp-XUF3mvf6T3pCBXfq5htKPAnQ1oVA9gOvXCrLX1lMiLvJLFX0vr_gHQROgYyIa8MM8x2mj3oXn-dJMmSNOQ5JpJkNvg3UgJp7-N-z-sWfiVI_cUiVRULpEV23Zs>
-
-不满意 
-<https://c.gle/ACT4xYwfNlnTLiE2aJLZgJuj_QxZYQOqK16Hu6sRioJ5YYNItmy6xwnnWeCvOaujUVwTA94z-uceGwSgXWpJD7Y5icp6e34VC4joaHvL4mBCY9XrWFxp2mVPCeSf9HUqfJ_K4xjgBLouQI7lrDYCO86acnY0HKBNFy7cl6Rm81yq9mMRlJOjf-zGtJivnxdOhDkde6EcKqq6j51ckc6U>
-
-
-
-
-我们向 nataliewu100@gmail.com 发送此电子邮件是因为您曾表示愿意接收关于  
-Google One 特惠折扣、优惠和其他福利的最新动态。如果您不想再收到此类电子邮 
-件，请在此处 
-<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYxhS4U_BtqGVFe8TTNXFfycMpx2F3YAolZgQtEhCndwHb5BMRuTdAgySfvvmcut1h9C4S3Ctygl1m_3qX1VvIqjY_yyGubDnA6ELvQ8M8uAerEJb_RXP81v0avguXYPoihVADwy25P537rKyjEjjiGOM-NO7ulIWMsIoK_W2rCgs70Z3_gjigZs-Z_lDlxtzLQ7mPf61n9Y2OUwAiLO2HOcNB1Q_DnNdWkp-h5yLtDkKoGxydhqCoUl-A?utm_source=gm&utm_medium=email&auto=true>退 
-订。
-
-© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
----
-
 ## [学校] Meadowridge Password
-
 **发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
 **日期:** 2026-09-10T19:07:55+00:00
 **摘要:** 邮件通知Cathy的Meadowridge学校密码已设置为MRstudent27.9222，并提醒密码区分大小写。发件人提供进一步联系信息。
@@ -7609,12 +2908,8 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 
 
 Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
-
-
 ---
-
 ## [其他] 您的 Google 数据已可供下载
-
 **发件人:** "Google 导出" <noreply@google.com>
 **日期:** 2026-09-10T18:57:09+00:00
 **摘要:** 您的Google数据已准备好下载，包含邮件等服务，可在2026年9月17日前下载。
@@ -7632,13 +2927,8 @@ Meadowridge School is located on the ancestral and unceded territories of the Ka
 数据。
   隐私权政策 (https://www.google.com/privacy/privacy-policy.html) | 服务条款  
 (https://www.google.com/accounts/TOS)
-
-
-
 ---
-
 ## [其他] 收到创建 Google 数据归档的请求
-
 **发件人:** Google Takeout <no-reply@accounts.google.com>
 **日期:** 2026-09-10T18:54:06+00:00
 **摘要:** 收到Google数据归档创建请求的通知，提醒检查账户安全。
@@ -7661,12 +2951,8 @@ https://myaccount.google.com/notifications
 我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
 化。
 © 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-
 ---
-
 ## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
-
 **发件人:** Frank <frankataix@gmail.com>
 **日期:** 2026-09-10T20:46:05+02:00
 **摘要:** Yunxi 已注册参加2026年12月11日至13日的Nick Itkin Cup SYC & Vet ROC比赛，需准备会员卡并在11月16日前办理退款，酒店预订优惠截止到11月10日。
@@ -7702,12 +2988,8 @@ https://myaccount.google.com/notifications
 > Y12WF
 > © 2026 USA Fencing. All rights reserved.
 > 210 USA Cycling Point, Suite 120, Colorado Springs, CO 80919
-
-
 ---
-
 ## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
 **日期:** 2026-09-10T16:47:37+00:00
 **摘要:** Natalie因输入错误地址请求重新发送链接，Lauren将要求团队处理。
@@ -7770,11 +3052,8 @@ knightfrank.com<http://www.knightfrank.com/>
 52‑56 Kensington Church Street,
 London,
 W8 4
-
 ---
-
 ## [其他] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
-
 **发件人:** Apple <News@insideapple.apple.com>
 **日期:** 2026-09-10T16:21:48+00:00
 **摘要:** Apple发布了新款iPhone Duo、iPhone 18 Pro、Apple Watch Series 12、Ultra 4和AirPods 5，包含产品特点和预购信息。
@@ -7816,11 +3095,8 @@ Available starting 9.18.
 
 Learn more, iPhone 18 Pro Learn more
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
-
 ---
-
 ## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
-
 **发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
 **日期:** 2026-09-10T15:07:39+00:00
 **摘要:** 这封邮件通知West Point Grey Academy 2027-2028学年的申请和参观注册已开放，并附有重要截止日期。
@@ -7829,28 +3105,14 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2
 <p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li aria-level="1">Applications for Grades 2 to 12 are due on or before <b>November 5, 2026.&#160;</b></li></ul><div>We are currently accepting applications from Junior Kindergarten through Grade 12 for children born in 2023 or earlier. Submitting your application prior to this due date will ensure a timely process as you move through the application cycle.&#160;&#160;<br /><br /></div><div><b>Join Us for a Tour &amp; Information Session</b></div><div>We invite you to register for our upcoming information session and tour. This will be an excellent opportunity to explore our campus, meet our dedicated faculty, and learn more about what makes WPGA such a wonderful community.&#160;<br /><br /></div><div>While families with children born in 2024 or later are welcome to visit, tour availability is prioritized for those in their active admissions year. Because our application and assessment processes evolve annually, we strongly encourage scheduling your tour in the fall of your child's application year for the most up-to-date information.&#160;<br /><br /></div><div>Please <b>click</b><a href="https://www.wpga.ca/admissions/discover-wpga"><b> </b><b>here</b></a><b> to register for an information session and tour</b>. We have limited spots available, so we recommend securing your place at the earliest convenience.<br /><br /></div><div>If you need assistance creating or accessing your account please contact <a href="mailto:onlinesupport@wpga.ca" target="_blank" rel="noopener">onlinesupport@wpga.ca</a>.&#160;<br /><br /></div><div>Thank you once again for considering West Point Grey Academy for your child's educational journey. We look forward to getting to know you and your family.</div><div><br />Warm regards,</div><div>WPGA Enrolment Team</div></div></div></div></div></div></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
 ---
-
 ## [其他] Key Activity
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-10T13:55:53+01:00
 **摘要:** Jingqi Wu归还了120号公寓的钥匙，创建时间为2026年9月10日。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -8008,61 +3270,14 @@ Property: 120
 Visitor Name: Kelly
 Collection Type: One-Off Collection
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
 ---
-
 ## [其他] Key Activity
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-10T12:12:12+01:00
 **摘要:** Apartment 120的钥匙1已根据安排释放，创建时间为2026年9月10日，创建人为Jingqi Wu。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -8220,61 +3435,14 @@ Property: 120
 Visitor Name: Kelly
 Collection Type: One-Off Collection
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-      
-
 ---
-
 ## [其他] New Arrangement
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-10T12:09:58+01:00
 **摘要:** 钥匙保管安排已成功创建，授权人员可进行签字。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -8428,66 +3596,14 @@ Your key holding arrangement has been successfully created.
 The individuals authorised to sign the keys out are: Kelly
 This is a One-Off Collection arrangement.
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-      
- 
-
 ---
-
 ## [学校] Pool Area Remedial Works Commencing 17 September
-
 **发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
 **日期:** 2026-09-10T11:46:44+01:00
 **摘要:** 通知泳池区域维修工作将于9月17日开始
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -8643,11 +3759,8 @@ We are writing to keep you informed of upcoming maintenance works within the poo
 To provide some context, we have been liaising with Earl Kendrick Surveyors in respect of water damage to the pool area and an adjacent service corridor. Earl Kendrick were instructed to attend and provide their professional opinion on the matter, by way of visual inspection and with reference to provided building plans.
 
 It is the position of Earl Kendrick that the water damage is most likely caused by a leak to the shower. Our next step is to confirm this position and then to condu
-
 ---
-
 ## [其他] 您与“Make”共享了一些 Google 账号数据
-
 **发件人:** Google <noreply-accounts@google.com>
 **日期:** 2026-09-10T03:25:51-07:00
 **摘要:** 邮件通知用户通过Google账号登录了“Make”应用，并共享了姓名、照片和邮箱信息，但目前无需采取任何措施。
@@ -8810,12 +3923,8 @@ stroke="false" fillcolor="#0b57d0">
 即使退订此类邮件，您仍会继续收到安全提醒。
 
 © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
 ---
-
 ## [营销] Your property is now live on Foxtons
-
 **发件人:** Freya.Wan@foxtons.co.uk
 **日期:** 2026-09-10T11:04:30+01:00
 **摘要:** 通知房产已上线Foxtons平台，并提醒检查信息准确性。
@@ -8933,11 +4042,8 @@ a.button:active,
      
     
       Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
 ---
-
 ## [其他] You have been invited to do a Thirdfort check
-
 **发件人:** Thirdfort App <no-reply@thirdfort.io>
 **日期:** 2026-09-10T09:53:43+00:00
 **摘要:** Knight Frank 为 Jingqi 在 Thirdfort 应用上设置了验证检查，需下载应用并等待短信以完成登录。
@@ -8978,11 +4084,8 @@ Thirdfort Limited is authorised and regulated by the Financial Conduct Authority
 Thirdfort Limited
 Belle House, Platform 1 Victoria Station, London, SW1V 1JT
 To unsubscribe to these emails contact support@thirdfort.com
-
 ---
-
 ## [其他] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
-
 **发件人:** Google <no-reply@google.com>
 **日期:** 2026-09-09T15:28:41-07:00
 **摘要:** Google提醒Natalie在Apple iPhone上完成Google账号设置，并提供相关链接。
@@ -9003,29 +4106,14 @@ Natalie，您即将在Apple iPhone上完成 Google设置
 <https://c.gle/ACT4xYz1kV9Aqc_ksvbCB0rg3FhqGRJ62iM9vz7V2-TKSFk0OxRvLT_LeF4FinL29NN97jcrMMwiHbAEQ6kdBWRWXG8WMBK4k8PAtrDo4Ux3AjjBhsbb0nS1Y9_TzqYeuANB5RHs1vnpoh-6vXj6RuctmYLYaHUsrGbUKOHnGHpvIi-HxPHYCx9m4CY2ie8Y2h6VXK4BYOU1YT63oZ2NlT3nFWqzB6V2UdAtfatRGlUULC6PeKWbjCojfxmufCuvFIDb-KRZ44elb7vLztPv6WsBsJqcp5W1-tQHWb7ZafOCWB4YoqJwE_kUqBximodL-6m6QcMY9OE2MVW5_QmLLf3mYersKiGG1hT_82axNU5g4iJWe1-msb88Bqlloe0hqOLrEbQQB4Q6i9fzLOStCVidZIlPx3TxxWWLQ43FsmFYWJWuhyp2XHvKGWmbW5sLxKN_YxIu2hLdSsDbnqt-Z5F5C_83KgkgLa97L5Qi1uN3tRb4DShMipxvtgCgXMrgvTVL2md6P8Vzw_dEjYyXuucweoK51GwlbibOE6Qn-_YuCkJqtFqiJmK64wt07_fni4yC>。
 
 © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
 ---
-
 ## [其他] Key Activity
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-09T09:56:56+01:00
 **摘要:** 公寓120号钥匙1已按安排归还，创建时间为2026年9月9日，创建人为Paul。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -9183,59 +4271,14 @@ Property: 120
 Visitor Name: Foxtons (Managing Agent)
 Collection Type: Regular Collection
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-
 ---
-
 ## [其他] Key Activity
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-09T09:26:47+01:00
 **摘要:** 通知Jingqi Wu，Apartment 120 Key 1已按照安排释放，创建日期为2026年9月9日，由Paul创建。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -9393,59 +4436,14 @@ Property: 120
 Visitor Name: Foxtons (Managing Agent)
 Collection Type: Regular Collection
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-
 ---
-
 ## [其他] New Arrangement
-
 **发件人:** Estate Team <no_replies@estateteam.co.uk>
 **日期:** 2026-09-09T09:25:51+01:00
 **摘要:** 钥匙保管安排已成功创建，授权签字人可进行相关操作。
 **待办:** 无
 
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    #outlook a {
+#outlook a {
       padding: 0;
     }
 
@@ -9599,46 +4597,8 @@ Your key holding arrangement has been successfully created.
 The individuals authorised to sign the keys out are: Foxtons (Managing Agent)
 This is a Regular Collection arrangement.
 Kind regards
-
-                      
-                    
-                  
-                
-              
-              
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-      
-    
-    
-    
-      
-        
-          
-            
-                
-            
-          
-        
-    
-
 ---
-
 ## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
 **日期:** 2026-09-08T09:02:55+00:00
 **摘要:** Lauren确认收到 Natalie 的信息，并表示将尽快发送链接。Natalie 也确认了联系方式。
@@ -9682,11 +4642,8 @@ All received our end, thank you.
 You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
 
 You can complete this in your own time, what I meant by live verification is that you will need to take live phot
-
 ---
-
 ## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
 **日期:** 2026-09-08T08:36:29+00:00
 **摘要:** 邮件通知 Natalie 将通过短信发送Thirdfort链接，并通过邮件提供上传身份证件的指示，同时需要实时拍摄照片进行身份验证。
@@ -9730,11 +4687,8 @@ To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
 Subject: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
 
 Hi Lauren,   I have completed the online signing. Please check and confirm recei
-
 ---
-
 ## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
-
 **发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
 **日期:** 2026-09-07T11:33:17+00:00
 **摘要:** 邮件涉及房产相关文件签署和信息确认，Lauren通知Frank妻子将通过Docusign签署协议，并请求确认物业信息表内容。
@@ -9775,16 +4729,12 @@ CGBANNERINDICATOR
 Hello Lauren,
 
 I am prepa
-
 ---
-
 ## [营销] 改用包年方案，费用节省 16%
-
 **发件人:** Google One <googleone-noreply@google.com>
 **日期:** 2026-09-05T18:36:28-07:00
 **摘要:** Google One提供包年方案，费用节省16%且会员权益不变。
 **待办:** 无
-
 
 会员权益不变，费用节省 16%
 
@@ -9839,12 +4789,8 @@ Google One 特惠折扣、优惠和其他福利的最新动态。如果您不想
 订。
 
 © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
-
-
 ---
-
 ## [学校] Welcome to Meadowridge – Your Grade Liaison Is Here for You!
-
 **发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
 **日期:** 2026-09-05T22:07:51+00:00
 **摘要:** 这封邮件是欢迎七年级学生返校，介绍年级联络员的职责，并通知开学初的活动安排及加入家长群组的邀请。
@@ -9911,13 +4857,8 @@ https://mabelslabels.ca
 Gryphons Emporium:
 Our Used Uniform Shop is open during the school year thanks to our parent and student volunteers.  To reach us or to book an appointment please e-mail
 gryphons.emporium@meadowridge.bc.ca<mailto:gryphons.emporium@meadowridge.bc.ca>
-
-
-
 ---
-
 ## [其他] Your lululemon receipt
-
 **发件人:** lululemon <receipts@e.lululemon.com>
 **日期:** 2026-09-05T14:34:31-06:00
 **摘要:** 这封邮件是lululemon发送的购物收据，包含订单详情和总金额。
@@ -10195,11 +5136,8 @@ Fashion Island (#10120)
 
 
  https://click.
-
 ---
-
 ## [其他] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
-
 **发件人:** Frank <frankataix@gmail.com>
 **日期:** 2026-09-05T22:32:13+02:00
 **摘要:** 邮件讨论销售条款修改为多重代理协议，并要求提供身份证明和问卷材料。
@@ -10257,12 +5195,8 @@ Best regards,
 > Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.
 > The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.
 > Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
-
 ---
-
 ## [待办] Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
-
 **发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
 **日期:** 2026-09-04T18:04:28+00:00
 **摘要:** 邮件要求签署销售条款和条件，提交卖家问卷及业主身份证明文件，并提供在线或线下提交方式。
@@ -10304,12 +5238,8 @@ W: https://www.foxtons.co.uk
 [Foxtons Loves Landlords]
 
 Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system. The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer. Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building One, Chiswick Park, 566 Chiswick High Road, London, W4 5BE.
-
-
 ---
-
 ## [营销] Foxtons Sales Valuation - Flat 120, 1 Emery Way, LONDON, E1W 2AS
-
 **发件人:** Freya.Wan@foxtons.co.uk
 **日期:** 2026-09-04T18:58:23+01:00
 **摘要:** 邀请评估房产并附上估值信，说明营销策略和最佳售价方案。
@@ -10426,18 +5356,12 @@ a.button:active,
      
     
       Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
-
 ---
-
 ## [学校] SAGE Dining Account Statement Yunxi He
-
 **发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
 **日期:** 2026-09-04T17:00:54+00:00
 **摘要:** 邮件通知Yunxi He的SAGE餐饮账户余额为0，自动充值已关闭，并提供账户管理链接和联系方式。
 **待办:** 无
-
-
-
 
 Dear JingQi Wu, 
 
@@ -10465,12 +5389,9 @@ Use it to check your student's current balance or fund from your device using th
 
 If you do not wish to receive account statements, you may click on the following link to turn them off for this account: Unsubscribe 
 
-Please be aware that unsubscribing from statement notifications will not prevent continued use of the spending account at the school. 
-
+Please be aware that unsubscribing from statement notifications will not prevent continued use of the spending account at the school.
 ---
-
 ## [其他] You Have Added A Passkey
-
 **发件人:** Tesla Account Security <account-security@tesla.com>
 **日期:** 2026-09-04T05:03:15+00:00
 **摘要:** Tesla账户新增了一个Passkey，用于更安全的登录。若未操作，需前往设置移除并重置密码。
@@ -10490,11 +5411,8 @@ Questions? Visit Support
 2026 Tesla Motors Canada ULC Privacy & Legal
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzULd8hxKn7Gv0LYwYInmq-2BN6PuBgi7FFw-2F6wd1mA4Mn-2Fg-3D-3D0XJt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3r9KBnyu-2FehQLOZ-2FBeBgjdqEthFEUvWBNvrbGM7R9-2FV7KPsCyFOWNf-2FexkP2mPj2ZAxRNilRwnMujqCEI32s6eEReuf-2Ff-2Bh25RpTR8mP2d4c9JcIQ-2BOURybGH4GZ66ePsBE667TVA-2Fj9AzJ-2BVIdVKQU-3D] | Careers
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzUI5dnGayhfMUJyeu8-2F-2B-2FjWIZJc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3qiI0B-2FrZ-2FkmenbQ-2FXCTQTq44yLFa6HRiQ6N3kNaJCrTJts423lhM5LN8rjgU6IqrTUe9Y0YrSBRn08qPAOjSD-2F4QB-2FJx4G5yXVHgy1wLr-2FzjJU9k9XQOV0Uv4V-2F4gVf8HoOXgetEgUEp622WkCYPi8-3D]
-
 ---
-
 ## [其他] 您已提交更改 Tesla 账户登录密码的申请
-
 **发件人:** Tesla <account-security@tesla.com>
 **日期:** 2026-09-04T05:02:58+00:00
 **摘要:** 通知用户其Tesla账户密码已成功更改，并提供支持链接。
@@ -10510,11 +5428,8 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAzXcrWvEyPEVEeANBI8tM492MG-2Fj1UkcZzIKePaML4mg-3D5-gr_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvswgIN97xBBWdzra0oDh-2BCivcjKIiJVWwjyEOXQll8tXU2CCNHPcsUBBmXfGppfP6dTK13rFuzEhj8OKB59QZrQ74zyFN5ghmxcI-2BqctfNuMwmOm14S9n6yvsR4H9sfL-2FHgdlXwcW-2F6trTmMRd-2Fo1SrhYi4bTcdiGO1ud7fwwYCgM-3D]2026
 Tesla隐私和法律 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXD4rvgDdy4Ks1Eb116-2F604prA-2BR-2F0TI3PlcuiOiy9kaTHQMNHrlxkClkW2jQYjVyhg-3D-3DNuOF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvswgIN97xBBWdzra0oDh-2BCilt-2Bsu8Ed1tZT3SSKiaHFuJEhSzCEJm-2FjchuP84LnMoL2BqmHfVij0d7MD9Oi0B21YbSL3um8Wqg6GKEGJbx4T0pb7UKQ3eUPIT2eaVfdVMcMZz0Q1DQqscmrtQcCkTxgemZQ6LVXfxL7YzByQLqSbM-3D] | 工作机会
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXArjw6qNpNOn3EeAPwJS8ArvZ74yeYsBPSOpNuaFKrQ-2FXKwc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvswgIN97xBBWdzra0oDh-2BCimQDpXbFK05FEvp-2F22ffbjstqKTfLuvlGDSXqqoGyGaOPeuwkdBXKXGVa2IhYtlBiP-2B-2FgPCffdETCdwPHrTQjHVzI3rM2SyY7FdDwc3m37efXVWtbHdTufVakLJU9dC2AjUzjJpkKHvrVVqAkTTBQAc-3D]联系我们: 400-910-0707
-
 ---
-
 ## [其他] Tesla 验证码：929475
-
 **发件人:** Tesla <noreply@tesla.com>
 **日期:** 2026-09-04T05:02:21+00:00
 **摘要:** 提醒用户有关账户恢复请求，提供验证码并警告不要泄露。
@@ -10530,11 +5445,8 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAzXcrWvEyPEVEeANBI8tM492MG-2Fj1UkcZzIKePaML4mg-3DzSgo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsGu0aWrCjqURS9PXkEkjBw7Gja-2FngTbMn1hMaKx0lzV4bOoFuxJ-2F6mt1QHMo-2BbSSq-2BYvXCZEtF4zzSEi44oGWWTPOeaPwQW0-2BzsXAMzEe0LVsNPS0lN3x1YoiASJ04a-2FnXm-2FEQVMHRKwgljUvlm4Xwmy9GOD7K7fE13zkG9tBT6U-3D]2026
 Tesla隐私和法律 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXD4rvgDdy4Ks1Eb116-2F604prA-2BR-2F0TI3PlcuiOiy9kaTHQMNHrlxkClkW2jQYjVyhg-3D-3DV_RA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsGu0aWrCjqURS9PXkEkjBwxHjVzGeE4EgPcmtd9x7UkQ9jrIq80QQrXY4Zo1iJxvJimUU-2FYVAhp3orOLPYYVEWfvkAtoL1XJ0TsTzNnKvIcP9Zm1moQsboLLM0IafatMzjZljbRAvqr1ve58dzLTc0TK-2Bk-2B-2FZkXQl-2BaEMlqhO1Do-3D] | 工作机会
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXArjw6qNpNOn3EeAPwJS8ArvZ74yeYsBPSOpNuaFKrQ-2Fujg1_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsGu0aWrCjqURS9PXkEkjBw2PIqS-2B5QpRZwS7KKO1Y5hkFBsrDUcSFPaTkoPc98RHfFcNuLm5-2FR2PUvXiJlgW1jTvwoX5IJogq7FHKfC6Nqw-2BLArHJShlf7EHB2af3JbbZr-2FAmohn6OmKFL48ffAJ7vz3UQjOBQXQmLp26d5UdyG8-3D]联系我们: 400-910-0707
-
 ---
-
 ## [其他] Roaming Update for your account
-
 **发件人:** TELUS <telusservice@telus.com>
 **日期:** 2026-09-03T19:36:30-04:00
 **摘要:** TELUS通知某号码在美国连接漫游网络，并说明相关费用及获取详细信息的方式。
@@ -10587,24 +5499,16 @@ body{margin:auto; border:2px solid white; padding:0px; width:70%; font-family:Ar
    &#169;2026 TELUS. All rights reserved. 
     
    TNE-8090-00
-
 ---
-
 ## [学校] Get ready for your first week of school
-
 **发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
 **日期:** 2026-09-03T23:00:10+00:00
 **摘要:** 提醒准备开学第一周的事项
 **待办:** 无
 
 <!--placeholder-->
-
-
-
 ---
-
 ## [其他] Sales instruction - Flat 120, 1 Emery Way, LONDON, E1W 2AS
-
 **发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
 **日期:** 2026-09-03T12:00:48+00:00
 **摘要:** Freya请求安排在今天下午1:30前查看位于伦敦的房产，因为她在该区域。
@@ -10629,12 +5533,8 @@ W: https://www.foxtons.co.uk
 [Foxtons Loves Landlords]
 
 Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system. The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer. Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building One, Chiswick Park, 566 Chiswick High Road, London, W4 5BE.
-
-
 ---
-
 ## [其他] Your Payoneer account is approved
-
 **发件人:** Payoneer <no-reply@send.payoneer.com>
 **日期:** 2026-09-03T10:04:05+00:00
 **摘要:** Payoneer账户已批准，可开始使用该服务进行业务扩展。
@@ -10706,11 +5606,8 @@ Here are some of our
 features:            payoneer
 Receive funds from marketplaces
 within the Payone
-
 ---
-
 ## [其他] We need additional information to proceed
-
 **发件人:** Payoneer <NoReply@payoneer.com>
 **日期:** 2026-09-03T06:02:15-04:00
 **摘要:** 需要提供更多信息以继续处理Payoneer相关事务
@@ -10865,11 +5762,8 @@ within the Payone
         .ExternalClass .ecxpe-text p, .ExternalClass .ecxpe-id-details p {
             display: inline;
             line-height
-
 ---
-
 ## [其他] Your Payoneer account was connected successfully, XIAOJUN!
-
 **发件人:** Payoneer <NoReply@payoneer.com>
 **日期:** 2026-09-03T06:00:12-04:00
 **摘要:** Payoneer账户已成功连接，可开始接收付款，未来可能需提供更多信息。
@@ -10975,11 +5869,8 @@ Hi XIAOJUN,
                                                     © 2005-2026 Payoneer, All Rights Reserved
                                                      
                                                     Pay
-
 ---
-
 ## [其他] You’ve made some changes to your TELUS Mobility account
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T16:48:20-07:00
 **摘要:** 用户修改了TELUS移动账户的计划和附加服务，更新了首选号码，并通知账单将有部分费用变动。
@@ -11070,11 +5961,8 @@ Merci d’avoir choisi TELUS.
   
  
 Vo
-
 ---
-
 ## [其他] TELUS Easy Roam has been successfully removed
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T16:48:10-07:00
 **摘要:** 邮件通知用户已成功添加TELUS Easy Roam服务，覆盖美国及190+国际目的地，并提醒相关费用激活条件和设置要求。
@@ -11133,11 +6021,8 @@ Merci d'avoir choisi TELUS.
 
 Consultez telus.com/voyage pour connaître les modalités et les prix propres à chaque destination.
 Vi
-
 ---
-
 ## [其他] Cancelled service and your next bill
-
 **发件人:** Koodo <koodoservice@mail.koodomobile.com>
 **日期:** 2026-09-02T16:46:55-07:00
 **摘要:** 用户取消服务后，邮件说明了下期账单的费用构成及支付方式。
@@ -11191,11 +6076,8 @@ Réglez votre facture facilement à l'aide d'une carte de crédit ou Visa Débit
 Payez votre facture à votre institution financière :
 Vous n'aurez besoin que de votre numéro de compte Koodo. Les paiements bancaires sont généralement traités en 3 jours.
 Vous êtes réellement prêt à mettre fin à votre service? Si vous changez d'avis, prenez rendez-vous à un moment qui vous convi
-
 ---
-
 ## [其他] You’ve made some changes to your TELUS Mobility account
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T16:21:31-07:00
 **摘要:** 这封邮件通知用户已对其TELUS移动账户的计划和附加服务进行了更改，并提及账单调整及最喜欢的号码更新。
@@ -11286,11 +6168,8 @@ Merci d’avoir choisi TELUS.
   
  
 Vo
-
 ---
-
 ## [其他] TELUS Easy Roam has been successfully removed
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T16:21:32-07:00
 **摘要:** 邮件通知用户已成功添加TELUS的Easy Roam服务，覆盖美国及190+国际目的地，并提醒相关使用注意事项。
@@ -11349,11 +6228,8 @@ Merci d'avoir choisi TELUS.
 
 Consultez telus.com/voyage pour connaître les modalités et les prix propres à chaque destination.
 Vi
-
 ---
-
 ## [其他] Account Update Confirmation
-
 **发件人:** Koodo <koodoservice@mail.koodomobile.com>
 **日期:** 2026-09-02T15:13:58-07:00
 **摘要:** 邮件确认用户于8月16日更改了Koodo服务计划，下一账单将包含常规费用、额外使用费及部分费用调整，并提醒9月13日前可能受限于部分分钟和数据。
@@ -11381,12 +6257,8 @@ Koodo Choice NTSMS
 
 All the best,
 The Koodo Team
-
-
 ---
-
 ## [其他] Cancelled service and your next bill
-
 **发件人:** Koodo <koodoservice@mail.koodomobile.com>
 **日期:** 2026-09-02T15:13:48-07:00
 **摘要:** 邮件通知取消服务后的账单详情，包括可能的费用和支付方式。
@@ -11440,11 +6312,8 @@ Réglez votre facture facilement à l'aide d'une carte de crédit ou Visa Débit
 Payez votre facture à votre institution financière :
 Vous n'aurez besoin que de votre numéro de compte Koodo. Les paiements bancaires sont généralement traités en 3 jours.
 Vous êtes réellement prêt à mettre fin à votre service? Si vous changez d'avis, prenez rendez-vous à un moment qui vous convi
-
 ---
-
 ## [其他] Verify your identity with My TELUS
-
 **发件人:** donotreply@external.telus.com
 **日期:** 2026-09-02T22:07:34+00:00
 **摘要:** 邮件包含用于验证My TELUS账户的验证码588200，该代码将在30分钟后过期。
@@ -11628,19 +6497,8 @@ sup {
                
                  
                    Stay safe : We will never call or text you to ask for this code.
-                 
-               
-             
-
-             
-             
-               
-   
-
 ---
-
 ## [待办] Verify your identity with My TELUS
-
 **发件人:** donotreply@external.telus.com
 **日期:** 2026-09-02T21:56:42+00:00
 **摘要:** 邮件包含用于验证My TELUS账户的验证码901078，该验证码30分钟后失效。
@@ -11824,19 +6682,8 @@ sup {
                
                  
                    Stay safe : We will never call or text you to ask for this code.
-                 
-               
-             
-
-             
-             
-               
-   
-
 ---
-
 ## [待办] Finish logging into My TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:55:36-07:00
 **摘要:** 需要登录My TELUS，链接已过期
@@ -12006,23 +6853,8 @@ sup {
            
                  
            -->
-         
-
-  
-     
-      
-         
-           
-              
-                 
-                   
-                      
-                      
-
 ---
-
 ## [其他] Your My TELUS password is updated
-
 **发件人:** My TELUS <donotreply@telus.com>
 **日期:** 2026-09-02T21:54:38+00:00
 **摘要:** 此邮件通知用户已成功更新My TELUS密码，若未操作请联络TELUS。
@@ -12098,11 +6930,8 @@ color: #C8C8C8 !important; font-weight: normal !important; text-decoration: none
 																		   
 																							 Privacy statement      Contact us      Why TELUS?  
 																							 © TELUS Communications Inc.
-
 ---
-
 ## [待办] Activate your phone and transfer your phone number to TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:53:34-07:00
 **摘要:** TELUS通知用户新设备已准备好，需按步骤转移电话号码。
@@ -12283,12 +7112,9 @@ color: #C8C8C8 !important; font-weight: normal !important; text-decoration: none
            
              
        
-      We're 
-
+      We're
 ---
-
 ## [其他] Finish logging into My TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:52:30-07:00
 **摘要:** 提醒用户完成My TELUS登录，链接15分钟后过期。
@@ -12458,23 +7284,8 @@ sup {
            
                  
            -->
-         
-
-  
-     
-      
-         
-           
-              
-                 
-                   
-                      
-                      
-
 ---
-
 ## [其他] Welcome to PayPal
-
 **发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
 **日期:** 2026-09-02T14:52:08-07:00
 **摘要:** 这是一封来自PayPal的欢迎邮件，包含网站使用的CSS字体样式表代码。
@@ -12577,11 +7388,8 @@ Welcome to PayPal
       a,
       a:visited {
         color: #007
-
 ---
-
 ## [待办] Finish logging into My TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:51:23-07:00
 **摘要:** 提醒用户使用提供的链接登录My TELUS账户，链接15分钟后失效。
@@ -12751,23 +7559,8 @@ sup {
            
                  
            -->
-         
-
-  
-     
-      
-         
-           
-              
-                 
-                   
-                      
-                      
-
 ---
-
 ## [待办] Finish logging into My TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:51:43-07:00
 **摘要:** 提醒用户完成My TELUS登录
@@ -12937,23 +7730,8 @@ sup {
            
                  
            -->
-         
-
-  
-     
-      
-         
-           
-              
-                 
-                   
-                      
-                      
-
 ---
-
 ## [其他] Finish logging into My TELUS
-
 **发件人:** TELUS <telusservice@i.telus.com>
 **日期:** 2026-09-02T14:49:31-07:00
 **摘要:** 提醒用户使用提供的链接登录My TELUS账户
@@ -13123,17 +7901,4 @@ sup {
            
                  
            -->
-         
-
-  
-     
-      
-         
-           
-              
-                 
-                   
-                      
-                      
-
 ---
