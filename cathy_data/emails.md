@@ -13130,3 +13130,43 @@ Please confirm your email address
    
 
 ---
+
+## [学校] Meadowridge Student Website
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-02T19:34:19+00:00
+**摘要:** Christina Reis发送了Meadowridge学校学生技术网页的链接，供学生和家长访问相关资源。
+**待办:** 无
+
+Hi Cathy,
+
+Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
+
+Mrs Reis
+
+
+Christina Reis, M.Ed.
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+
+
+MEADOWRIDGE SCHOOL
+
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+
+T: 604-467-4444
+
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+
+---
