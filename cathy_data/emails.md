@@ -17348,3 +17348,49 @@ https://www.apple.com/legal/privacy
 Copyright (c) 2026 Apple Canada 120 Bremner Blvd., suite 1600, Toronto, ON M5J 0A8 All rights reserved.
 
 ---
+
+## [其他] You've successfully signed up for pre-authorized payments.
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-27T12:24:26-07:00
+**摘要:** 用户已成功注册TELUS月度账单的预授权支付，后续账单将自动扣款，但当前账单需手动支付以避免滞纳金。
+**待办:** 无
+
+Ce courriel ne s’affiche pas correctement? Ouvrez-le dans un navigateur web.
+
+Vous avez opté pour la commodité des paiements préautorisés.
+Bonjour,
+Le, vous avez choisi les paiements préautorisés pour votre facture mensuelle de services mobiles TELUS. Votre prochaine facture et les factures subséquentes seront donc payées automatiquement chaque mois au moyen de votre carte de crédit dont le numéro se termine par .
+Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode de paiement entre en vigueur.
+Puisque les paiements préautorisés ne commenceront qu’avec la prochaine facture, vous devrez faire un paiement unique avant la présente échéance, à défaut de quoi des frais de retard vous seront facturés. À l’avenir, le solde à payer de votre facture sera porté à votre carte de crédit 15 jours après la date de facturation.
+N’oubliez pas que vous pouvez consulter ou modifier vos paiements préautorisés en accédant à Mon TELUS. Vous pouvez aussi gérer votre compte facilement en tout temps et où que vous soyez avec la nouvelle application Mon TELUS améliorée.
+ 
+Merci d’avoir choisi TELUS.
+
+Vie privée   |   Nous joindre
+Trouver une boutique   |   telus.com
+TELUS, le logo TELUS, le futur est simple et telus.com sont des marques de commerce utilisées avec l’autorisation de TELUS Corporation. Les autres marques de commerce appartiennent à leurs propriétaires respectifs.
+
+©2019 TELUS. Tous droits réservés.
+
+-----------------------------------
+
+Trouble viewing this email? View in web browser.
+
+Welcome to the convenience of pre-authorized payments.
+Hi ,
+On , you signed up for pre-authorized payments for your monthly TELUS mobility bill. Starting with your next bill, your bill will be paid automatically every month, using your credit card ending in .
+It may take up to one full bill cycle for this new payment method to be in effect.
+Since your pre-authorized payment won’t take effect until your next bill, you’ll need to make a one-time payment by the due date to avoid late payment charges. Moving forward, the total due on your bill will be charged to your credit card, 15 days from your bill date.
+Remember, you can view and/or change your pre-authorized payment details by logging in to My TELUS. You can also easily manage your account from anywhere, at any time with our new and improved My TELUS app.
+ 
+Thank you for choosing TELUS.
+
+Privacy   |   Contact Us
+Find a Store   |   telus.com
+TELUS, and the TELUS logo, the future is friendly and telus.com are trademarks of TELUS Corporation, used under license. All other trademarks are the property of their respective owners.
+
+©2019 TELUS. All rights reserved.
+
+
+---
