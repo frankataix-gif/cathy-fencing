@@ -9842,3 +9842,76 @@ Google One 特惠折扣、优惠和其他福利的最新动态。如果您不想
 
 
 ---
+
+## [学校] Welcome to Meadowridge – Your Grade Liaison Is Here for You!
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-05T22:07:51+00:00
+**摘要:** 这封邮件是欢迎七年级学生返校，介绍年级联络员的职责，并通知开学初的活动安排及加入家长群组的邀请。
+**待办:** 无
+
+Good day, Grade 7 families,
+
+Welcome to Meadowridge or welcome back, Grade 7 Class of 2032! Looking forward to reconnecting with our returning families and getting to know our new families. There are 6 new students with a total of 71 students. I hope your family is excited about the upcoming 2026-27 school year!
+
+I’m your volunteer Grade Liaison for our grade. My parent volunteer role is to help you navigate the school year and keep you in the loop about all things Meadowridge. I will send a weekly email typically on Saturdays. Please add this email address to your contacts. I will also help to co-organize family-funded grade-level student events with the support of our Advisory Teachers and Parent Volunteers. You may see me around the school and at the Parent Guild meetings.
+
+Whether you have questions, concerns, or just want chat about school-related matters, feel free to reach out. I’m here to help facilitate an enjoyable Meadowridge family experience.
+
+WhatsApp:
+There is a Grade 7 Parent WhatsApp group chat for school-related discussions. With many parents in our grade, this is an excellent resource to get quick answers and connect with others. Join the conversation and let’s make this school year memorable for our children.
+CLICK HERE to Join our Grade 7 WhatsApp chat group!<https://chat.whatsapp.com/LErccN6cLqRF5YXVzGHhLs>
+WeChat:
+There is also a Grade 7 Parent WeChat group. If you would also like to join this group chat, please respond to this email and I will send you the QR code.
+Vidigami:
+Please upload school event and student photos to Meadowridge’s Vidigami website and app:
+https://app.vidigami.com/meadowridge
+Events This Week
+Please check your inbox for Meadowridge's "Get ready for your first week of school" email, as it will contain everything you need to know for the first week or two back to school.
+
+
+Tuesday, Sep 8
+First day back to school!
+Students wear #1 uniform with tie and blazer, black shoes.
+Friday, Sep 11
+Spirit Day!
+Students wear house shirts, PHE bottoms, runners.
+Students may also wear house-coloured accessories.
+Welcome Back Picnic!
+Pack a towel and change of clothes for later.
+Bring lawn chairs and/or picnic blanket, hats, water bottle, etc.
+
+Upcoming Events
+
+Please stay tuned for next week's email.
+
+Looking forward to another memorable year ahead!
+
+
+Kindly,
+
+Kirstin Carley
+
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+
+
+
+Socials:
+Share our Meadowridge Parent Guild pages with your community!
+https://www.facebook.com/pages/MeadowridgeParentGuild
+https://www.instagram.com/MeadowridgeParentGuild
+
+Mabel's Labels:
+Support our Meadowridge Parent Guild while keeping everyone organized!
+https://mabelslabels.ca
+
+Gryphons Emporium:
+Our Used Uniform Shop is open during the school year thanks to our parent and student volunteers.  To reach us or to book an appointment please e-mail
+gryphons.emporium@meadowridge.bc.ca<mailto:gryphons.emporium@meadowridge.bc.ca>
+
+
+
+---
