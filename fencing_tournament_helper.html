@@ -336,6 +336,10 @@
     .bout-reflect-btn { min-width:26px; height:26px; padding:0; border-radius:50%; font-size:1rem; line-height:1; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
     .bout-reflect-btn:not(.secondary) { background:var(--primary); color:#fff; border:none; }
     .bout-reflection { font-size:0.8rem; color:var(--gray); background:#f0f9ff; border-left:3px solid var(--primary); padding:8px 10px; margin:6px 0 0 0; border-radius:0 6px 6px 0; white-space:pre-wrap; word-break:break-word; }
+    .auto-analysis { background:#eef2ff; border:1px solid #e0e7ff; border-radius:10px; padding:10px 12px; margin-bottom:12px; }
+    .auto-analysis .title { font-size:0.8rem; font-weight:600; color:var(--primary); margin-bottom:6px; }
+    .auto-analysis ul { margin:0; padding-left:1.2em; }
+    .auto-analysis li { font-size:0.8rem; color:var(--dark); margin-bottom:3px; line-height:1.5; }
     .opponent-reflect-form { background:white; border:1px solid #e5e7eb; border-radius:8px; padding:10px; margin:6px 0 10px; }
     .opponent-reflect-form .field { margin-bottom:8px; }
     .opponent-reflect-form label { display:block; font-size:0.75rem; color:var(--gray); margin-bottom:3px; }
@@ -2299,6 +2303,83 @@ function circuitLabel(c) {
     return round + ' / ' + opponent;
   }
 
+  function parseScore(score) {
+    const m = String(score || '').match(/(\d+)\s*[:：]\s*(\d+)/);
+    if (!m) return { a: null, b: null, diff: null };
+    const a = parseInt(m[1], 10);
+    const b = parseInt(m[2], 10);
+    return { a, b, diff: Math.abs(a - b) };
+  }
+
+  function generateMatchInsights(r) {
+    const insights = [];
+    const bouts = r.bouts || [];
+    if (!bouts.length) return insights;
+
+    const pools = bouts.filter(b => b.bout === 'Pool');
+    const des = bouts.filter(b => b.bout !== 'Pool');
+    const poolWins = pools.filter(b => b.result === 'Victory').length;
+    const poolLosses = pools.length - poolWins;
+    const deRounds = [...new Set(des.map(b => b.bout))];
+
+    if (pools.length) {
+      insights.push(`Pool：${poolWins} 胜 ${poolLosses} 负`);
+    }
+    if (deRounds.length) {
+      const lastRound = deRounds[deRounds.length - 1];
+      insights.push(`DE：进入 ${lastRound}`);
+    }
+
+    // 同一对手在 Pool 和 DE 都出现
+    const seen = {};
+    bouts.forEach(b => {
+      const key = b.opponent;
+      if (!seen[key]) seen[key] = [];
+      seen[key].push(b);
+    });
+    Object.entries(seen).forEach(([opp, list]) => {
+      if (list.length < 2) return;
+      const poolB = list.find(b => b.bout === 'Pool');
+      const deB = list.find(b => b.bout !== 'Pool');
+      if (poolB && deB) {
+        const poolTxt = poolB.result === 'Victory' ? `Pool ${poolB.score} 胜` : `Pool ${poolB.score} 负`;
+        const deTxt = deB.result === 'Victory' ? `${deB.bout} ${deB.score} 胜` : `${deB.bout} ${deB.score} 负`;
+        insights.push(`关键对手：${poolTxt} ${opp}，${deTxt}`);
+      }
+    });
+
+    // 比分接近（差 2 分以内）
+    const close = bouts.filter(b => { const s = parseScore(b.score); return s.diff !== null && s.diff <= 2; });
+    if (close.length) {
+      const texts = close.map(b => `${b.bout} ${b.score} ${b.result === 'Victory' ? '胜' : '负'} ${b.opponent}`);
+      insights.push(`接近：${texts.join('、')}`);
+    }
+
+    // 最大分差失利
+    const losses = bouts.filter(b => b.result === 'Defeat');
+    if (losses.length) {
+      const worst = losses.reduce((w, b) => {
+        const s = parseScore(b.score);
+        return (s.diff !== null && s.diff > (parseScore(w.score).diff || -1)) ? b : w;
+      });
+      if (worst) {
+        insights.push(`最大失利：${worst.bout} ${worst.score} 负 ${worst.opponent}`);
+      }
+    }
+
+    // 种子 vs 名次
+    const parsedPlace = parsePlaceNum(r.place);
+    if (parsedPlace.place !== null && r.seed) {
+      const seed = parseInt(r.seed, 10);
+      if (!isNaN(seed)) {
+        if (parsedPlace.place < seed) insights.push(`种子 ${seed} → 名次 ${parsedPlace.place}，超种子发挥`);
+        else if (parsedPlace.place > seed) insights.push(`种子 ${seed} → 名次 ${parsedPlace.place}，低于种子`);
+      }
+    }
+
+    return insights;
+  }
+
   function renderResultCard(r) {
     const bouts = (r.bouts || []).map((b, idx) => {
       const isWin = b.result === 'Victory';
@@ -2329,6 +2410,13 @@ function circuitLabel(c) {
     const snippet = renderReflectionSnippet(r.event_id);
     const roundsAttr = encodeURIComponent(JSON.stringify(r.rounds || {}));
     const titleAttr = escapeHtml(r.tournament || '');
+    const insights = generateMatchInsights(r);
+    const insightHtml = insights.length ? `
+      <div class="auto-analysis">
+        <div class="title">数据观察</div>
+        <ul>${insights.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul>
+      </div>
+    ` : '';
 
     return `
       <div class="result-card" data-event-id="${r.event_id || ''}" data-title="${titleAttr}" data-rounds="${roundsAttr}">
@@ -2344,6 +2432,7 @@ function circuitLabel(c) {
           ${r.source_url ? `<a href="${r.source_url}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">FencingTracker 详情</a>` : ''}
         </div>
         ${snippet}
+        ${insightHtml}
         <div class="bout-list">${bouts}</div>
       </div>
     `;
