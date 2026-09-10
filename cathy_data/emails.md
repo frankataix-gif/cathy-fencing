@@ -11815,3 +11815,127 @@ https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhT4rc
 https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhU0GpmM2loWw6dh5le3j2aBUUTBzYtHdYUR8VxRI8psd-op_-gIwMIkCwbX9wYRw9oJ5GN6gRJHq4YsdxAWqI
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-04T03:06:25+00:00
+**摘要:** 询问收件人对新装备的使用体验和感受
+**待办:** 无
+
+How’s your new gear? 
+    
+     
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    .......................................................
+    isn't that special? -->
+
+
+
+     
+        .stars>a:hover,
+        .stars>a:hover~a {
+            box-shadow: inset 0 0 0 200px #000 !important;
+        }
+
+        .boldText {
+            font-weight: 600;
+        }
+
+        @media only screen and (min-width: 768px) {
+            .stack-column {
+                display: table-cell !important;
+            }
+
+            .imageContainer {
+                width: 235px !important;
+            }
+
+            .productImage {
+                text-align: left;
+                width: 45% !important;
+            }
+
+            .ratingArea {
+                text-align: left;
+            }
+
+            .logoImage {
+                margin-bottom: 82px !important;
+            }
+
+            .textBlock {
+                font-size: 24px !important;
+                margin-bottom: 80px !important;
+            }
+
+            .productName {
+                font-size: 32px !important;
+                margin-bottom: 19px !important;
+            }
+
+            .banner {
+                padding: 32px 20px 32px 20px !important;
+            }
+
+            .bannerText {
+                margin: 0;
+                font-size: 40px !important;
+                line-height: 48px;
+            }
+
+            .footer {
+                margin-top: 80px !important;
+            }
+        }
+     
+     
+        @font-face {
+            font-family: 'Saans';
+            src: url('https://globalstaticassets.lululemon.com/fonts/Saans-Regular.woff') format('woff');
+            font-weight: 400;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Saans';
+            src: url('https://globalstaticassets.lululemon.com/fonts/Saans-SemiBold.woff') format('woff');
+            font-weight: 600;
+            font-style: normal;
+        }
+     
+     
+       
+    
+     
+         
+               
+         
+         
+             
+                Hi 
+                Natalie Wu!
+
+                   
+                Are you loving your new  lululemon Align No Line™ High-Rise Short 6&quot; ?
+                   
+                We’d love to know what you think of your new gear. Reviews that  include
+                    photos  help others pick the
+                right size and fit. Don’t hesitate to show u
+
+---
