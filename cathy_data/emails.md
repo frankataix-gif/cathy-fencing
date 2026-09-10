@@ -18074,3 +18074,41 @@ body {
                                          Please do not reply to this email.
 
 ---
+
+## [其他] Confirming your Model Y update
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T23:35:57+00:00
+**摘要:** Tesla发送订单确认邮件，包含Model Y的配置详情及订阅服务信息。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dsch6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkfax98SmP2TnEoDpk9N44rzoFw-2BOOszKvmKeX-2F-2FjFuWY2dRCKhrkZw9oFzYgEFZWFUdhps7wIdJGXhutU3wzxSUttL9WPWtTx55c17Lps7dEy-2FDckxjvmPLpDVOI8J7nBxIjw-2BN8fxvyXRq7QwM04yw-3D-3D]
+Updated Order Details
+This email contains your current configuration and Order Agreement
+Tesla [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXCwDquQzUkZmpmW9a1hiKAoa8FPGb0tg2pdRaBIO-2BO9NdC17ECU1PVlv8tkshiMNR8Ueb8lq-2F7YFzphG5b5gdKMyj9NhgIaumG95CVJNZtvM5qlmGRYddnZsi-2BnUYlb1NkI8Lr-2BbWCpK7iL6R5LJyZ-2FG5WYhSPibvEj4jwnNN4hG-2FOwvDGk3JF3TgyfGlFLB0YQwkYaMVqKSZETU7AceUWGrmapvCnb-2BVqJBv3dAHOkag8sf_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkZMX8J0CwEvEIC5181KW5ZsoD4UQ-2B0ChyGB7e8mCXVcXdhkStR3WuCSfTb00hFxcF4hMrHzalksbC2sFxiA-2B-2Fw3HJmrT-2FRbfIOzaIEV5t9woXq4cWIY8b8oYUH9xczaHO1WGEgmrvcyS6PYj0VCpi5w-3D-3D]
+Your Order
+
+Model Y Premium All-Wheel Drive
+Pearl White Paint
+19’’ Crossflow Wheels
+All Black Premium Interior
+Five Seat Interior
+Traffic-Aware Cruise Control
+Subscription
+FSD (Supervised) Subscription $99/mo
+Subscription starts after trial. Price shown excludes tax and is billed
+separately each month until cancelled in your Tesla App.
+Order Number
+RN129252558
+
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.mynaZA5Nv8WCKyeXEg5oDkRagnDB6-2BqiKljBh-2BtjxtOubMCXeTXV6gYPazArGofEWFxu9WeggbqaYpHhudcdtCsFljDDKRMQsASF51gOxb7jPxa-2BRqVHEXCtE0CbMCgCfckU1R5Dr5fljBx-2B1vlZpQ-3D-3DYHOw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkOYuX9HdUM8inrgtpyHDTEaPvqy4VozuyLXTXW7PSkZPPIdIkaHdl4q5su0WGydOn-2Fava1lp6xUwEOe0VdTJcrN7OOFkC2X0xpSPQrHegKWEriF9-2F3YHjTG0PeQonQXQOfZHuFBrP51oZHa7ao3ew1A-3D-3D]
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXISR4lSWsqZ37lMwpx8sNqRRrLPbmKe4keZipv8TQIixxF6cyooTGN44YSky4yh-2BlLMCPH7i2C-2BRpikHjRXaxI3gAF-2Fg9g46KgqYDva5mFxoVeJQ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkwjdrBj-2FOz-2BhLrCjsdOyaKw7wzw2QIbIAxyxGsiIjH5qI4ReIxrYlkcdzchLrr0-2F4UK-2F2ild6Z63cs9mwNDBK2btffVStsgEg-2BukYiK-2B6DX-2B6Iw3t5d7IP13n4PmDHPHyoMrEbQO9IE-2FdyOnXVB1HnQ-3D-3D]
+
+
+Learn more, visit our FAQs
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXP7mxmkRB4aI-2FqLNRSYd4cDDlbriWEeP4ooco8FFZRyEhV0N8-2BnAeOfpMmg3VUx07qtRPtx-2BohqqSaKU2b-2BMxaY-3DnBDI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc
+
+---
