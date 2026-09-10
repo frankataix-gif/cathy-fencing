@@ -6544,3 +6544,71 @@ TikTok
 ( https://clicks.foxtons.co.uk/f/a/wyyHV3TWdI8o6d4a3CclMA~~/AAAHahA~/Pt8xlg3EhypLaJCvchFV4BUCoL-zsjYPz6T4AsdtSAjJFVQHdycLuPLZLlUcDeOOQOvvAQnSC90usGi2O1_xUNGtJNOcJSHoVnveT2km0ij6za1zIxth8S_hG2li2l
 
 ---
+
+## [其他] Start receiving payments today
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-08T06:53:06+00:00
+**摘要:** Payoneer提醒用户已验证账户但尚未收到付款，需分享账户信息给客户和市场平台以开始收款，并介绍账户管理优势。
+**待办:** 确认账户信息并分享给客户和市场平台以接收付款
+
+Your documents
+are already verified 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/9pj0kcY6YPHo2suO47FvcQ~~/AAQRxRA~/18dRc5lqC-KFC3a8eQj9jD8k1OoUL7cki7WTORtpMjlpca2QSPyIXxREsAQFEsIICNNROuS0oTW3w0K1h_E8e71x1kXgcQalTz9_Y6WF5_OHsA9tG1euDpGts6yfIU9D style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/avOXsSZlX84nOVjkVT_uig~~/AAQRxRA~/3-CmlhKpwFcN3G6Bt91lemhUiOyF3Z3JEmwMuO-ajpehm07sJ8rQFRN40OwWX-9W5v8Gss2370l7OaI9d2E4E6Bx0i8lU-W-pkujdFQ_oJQVenlBeThuWdGRV7wYS4GvoKWMZ136KEbqcB51EHcVcmfXCkAVkHpR2QI5SlZmKzvYaMyiDS8AylxuAmYg3wIL alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+            You’re all set
+payoneer               Hi XIAOJUN
+We couldn’t help but notice you haven’t received a payment yet.
+If you haven’t already, share your account details with clients
+and marketplaces so that they can pay you. Here’s how:
+payoneer      Go to Get paid > Receiving accounts 
+( https://links-send.payoneer.com/f/a/vpH4Cjp2a2qU-bNUDOiA3A~~/AAQRxRA~/iFJ-EGJ07CPKqp9G2R1SX_5dvo7Lj7aTd66Eg-X_5BL9yWgH8OSpq2mc69H0I2P0yP1KysZ5vVH9F7l2QbOWOW_488d2lITCIi4wEhjYMLq96XlAr219MvLPLQeM6dafhNp4pEJSOQr1yESMeBKyfV8j6W6YDunvx_5DG8plWrnILw35aA9Lr8KP9vWku19D4K9Y2bji3GYnyfyLTtViyUcFMJ3jdtP2kemvlQ4gsgJeGBhPtaofgHD4x18_y8NM9bAkfjCvavxZvPDUgt2jIA~~ )
+ and copy the details of your account(s). Share the details with
+clients and marketplaces.               payoneer      When you
+receive a payment, you’ll be notified when it lands via email,
+SMS and push (if you have the mobile app).               payoneer
+You can view your balance(s) and latest transactions from your
+account homepage.                               Here’s a reminder
+of the benefits of Payoneer receiving accounts:
+payoneer      Get bank account details in 11 major currencies and
+SWIFT (Wire)               payoneer      Avoid challenging and
+lengthy application processes for multiple bank accounts
+payoneer      Improve your efficiency and get better control of
+cashflow by having all global accounts in one place
+payoneer      Expand your client base with a global business
+account                              Once you’ve been paid, you
+can use funds to make low-cost international payments to
+suppliers and contractors, pay expenses with a Payoneer card,
+convert to other currencies, keep hold of them, or withdraw to
+your bank. The choice is yours. Go
+to your receiving account(s) 
+( https://links-send.payoneer.com/f/a/f0g4woqlZVbAOzR6CGYG6Q~~/AAQRxRA~/iFJ-EGJ07CPKqp9G2R1SX_5dvo7Lj7aTd66Eg-X_5BL9yWgH8OSpq2mc69H0I2P0yP1KysZ5vVH9F7l2QbOWOW_488d2lITCIi4wEhjYMLq96XlAr219MvLPLQeM6dafhNp4pEJSOQr1yESMeBKyfV8j6W6YDunv
+
+---
