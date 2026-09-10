@@ -8589,3 +8589,75 @@ font-family: Arial, Helvetica, sans-serif !important;
           <td align="center" style="padding: 15px 0;"><table width="460" align="center" border="0" c
 
 ---
+
+## [营销] XIAOJUN, get paid like a local
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-09T18:03:42+00:00
+**摘要:** Payoneer提醒XIAOJUN开设接收账户，支持多货币收款，方便本地转账及管理资金。
+**待办:** 无
+
+Open receiving accounts in the
+world’s major currencies 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/Nbg3nxgG6B-9DLtIjqOaTw~~/AAQRxRA~/yllNYSEAOHPGtHMR5vP5SHvOc5taKHr5oV7Y8UavzkTiJLdMmz-_xesuoc0maraemsr2LjqCaTZGMrxJcwdWMC5pLl09wTVRkzs42C-_9jM4cgsRQR-ZViHF_Guw-S_v style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/fJ9ncu53BEWCqZupKPRHhQ~~/AAQRxRA~/K4yorCVT1pbyS9OG_eQ1f98ZIs63gLWB3Mvo9WXgBGXvGSkSqjhZcYutRbD25095txyUqH0gou2E8Xg7vmRaCSLtvwsO_zFvZb549hVH_BMznqxltNEdIenPw_BEWHPnwwO3Svnq-QmxcMnDeOeIddTOKu0Sse_FteOA5rY1Ay3jCNXfJFmvrAgKDmPPB0_F alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+What are you waiting for?           payoneer               Hi
+XIAOJUN                         We
+noticed you haven’t got started with a receiving account yet.
+Here’s a quick reminder of the benefits:
+
+Receive payments like a local   Get bank account details in
+multiple currencies* allowing you to get paid with a bank
+transfer—just like a local—from clients and marketplaces.
+payoneer      Receive payments in up to up to 11 major
+currencies, including EUR, GBP, and USD               payoneer
+Give your clients a local payment experience with no additional
+cost to them               payoneer      Hold multiple currencies
+in one account Start using a receiving
+account 
+( https://links-send.payoneer.com/f/a/sT1C1gYxKIMbY0lwXRhTnA~~/AAQRxRA~/oXQjrZxiqmkbyALV8cO3YnSO7BkuexT-Bng3sIjEmmOvevLQE3CNKuSQxjzvFBt1GS8laetIb_w0wOcYKlcWSXW6mCNUNxhQu3z67p9G3MUI6uFyfTeZPCOCx5g_IdBIvsL3uYXsb_SaGoiYJL_JVkd0R6xTL3xd5ix--5G_JfS7e3MlEsM7CQs4BcaagYHBFrMaoMtl5lIQwzZdyciDeKSqE0_hyebpaF4ZI9LfLQrq6xu3SOk_E4rlToNyox0u )
+                             With your Payoneer account balance,
+you can...             payoneer      Pay business expenses like
+subscriptions, ads, and inventory, or withdraw cash at ATMs with
+the Payoneer card                      payoneer      Withdraw to
+your bank account in 190+ countries and territories and 70
+currencies                      payoneer      Make payments to
+suppliers and contractors Start using a
+receiving account 
+( https://links-send.payoneer.com/f/a/Y7vPQGvgtfoKfhysLKz90A~~/AAQRxRA~/oXQjrZxiqmkbyALV8cO3YnSO7BkuexT-Bng3sIjEmmOvevLQE3CNKuSQxjzvFBt1GS8laetIb_w0wOcYKlcWSXW6mCNUNxhQu3z67p9G3MUI6uFyfTeZPCOCx5g_IdBIvsL3uYXsb_SaGoiYJL_JVkd0R6xTL3xd5ix--5G_JfS61HyEpCgFhOL7ixiilhm91uq0BZkh3YJSffKX80MpJ32pRPqeMOihXJL1rKh7mzZpHXY4RyTuV30lx51qh4W3 )
+                            PRO TIP
+
+You can get started via the mobile app. Follow the
+instructions to open a new receiving account.            payoneer
+
+( https://links-send.payoneer.com/f/a/-
+
+---
