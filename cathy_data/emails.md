@@ -75,3 +75,14 @@ Dear parents, please join the Friday morning assembly at 9:00 AM in the gym.
 Cathy He is eligible to register for the RJCC Y14 Women Foil event in Seattle on Oct 15.
 
 ---
+
+## [营销] Limited time offer - 50% off sports gear
+
+**发件人:** deals@nike.com
+**日期:** 2026-09-10T19:42:22Z
+**摘要:** Nike推出限时促销，部分运动装备50%折扣
+**待办:** 无
+
+Shop now and save 50% on selected items. Sale ends tonight.
+
+---
