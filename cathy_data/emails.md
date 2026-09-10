@@ -17964,3 +17964,113 @@ body {
    
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-26T23:43:19+00:00
+**摘要:** 收到加拿大政府服务的登录验证码，验证码为ES7H5ZKA。
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+         
+
+         
+             
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                          
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Verify your login 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Your one-time passcode to log in to your Government of Canada service is: 
+
+                                         
+                                             ES7H5ZKA 
+                                         
+
+                                         This email was sent to nataliewu100@gmail.com. 
+                                         You received this email because you signed up for a Government of Canada login account. 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Please do not reply to this email.
+
+---
