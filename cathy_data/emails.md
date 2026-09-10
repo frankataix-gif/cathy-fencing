@@ -14390,3 +14390,86 @@ You’re ready for a change of scenery.
 ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 
 ---
+
+## [营销] 🍎 Apple Labour Day Sale: Let the deals do the work.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-01T06:07:50-06:00
+**摘要:** BestBuy推出Apple劳工节促销，提供产品折扣及Mac订阅优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4C8xNpbzo1RFeWX124Sjvvy4hHlpJgyqIXUxMc7vrwSROH4Scqvz79apAwbzB-YIpHLJdqjx1cMOtVuQlIzUuF3ktJio7Y4hod-qgM 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4C9biVBuXZk8Z3RiIDJMXl3a-ELywVU4tPwqWNI3IGbr-qILWo0gTwWqNsi6L3o5psnqnwsUA-3MSd-29QLTxuG-E920BHcgg 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DSHqbtKmZ5GpawcLhfm2nFsAGbnXaOKY6WgUpF8SWXJ79EVJ00FtPhgTBidKt3anJTJ2w5LarXtM1bXXJmt8zY0_sRmCXs-yjzI2k 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DTKmNYPEZkopoKE5Dk_cjRq_R3rNw6w5TWIRgD491mWBAAxgYreipoeqc-_0Ni7HwgxkVsNooh6GNhFJLp2BNuqvS_nqVnaivdQNo 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DUW3qtAETEKmXtZv4tUB_KD_TcvVZwW3CNYu5pssyc0TLz04tgwEj6zJat7RW5FSV28LaIc_t7SR2u77hQ0Vlz3j8Qi07B_FKKfTY 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DYfixmn2Q98A5RWf3AAqol_5k8nS9B42PGtLL5N1HnVMhHYoI_PV0oirFTnfIzHz5_YTU1FSkEltgJWpZPbDlJmva5IfKnLdzAW7U 
+
+The right Mac now.
+
+The right Mac always. 
+
+Get a new Mac every 3 years with Monthly Subscription^1.
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DZP_ctcAla4y3oMGuAaiklQN3-oh1t5Wi3LDPa5L9tNOSIo47vaRnRnLMcefcle7u17Kex-nSFos3isdRMnm3kSZdhNFfbS8ia2Ic 
+Learn More 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4Da5j2hsp6oH_e3grIvo4Cvbrc2W9FPmThKpHT8AwMnB-5ATS5nJ4Ye9LEHu_b95XjF-nXVW2ZXh6VtGNtXyX9bGbH-9sNW9tGHu3o 
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DboGe69O0iGLoMBRyBmE9gpnp7xPB7cdkYZk4euxBXVhrX5xcdwxe0wyjW9hfXYJ_lUD09rXny_hVvxHxGVDhLVytbL15CXrIEt9c 
+Get up to $200 gift card 
+
+with select carrier activations.^2
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4Dcv4ffUoVokc-8bVbN6SYesbMwLVE9RRWAlA79_B4V0oDU7I-Gk60n68deqhRFdsKiw3Ox201P-V6-bszDIiB6OTvpeFWeg2SZJdM 
+Explore Deals 
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODZ9AAcAAAAABgGGj4DdkrTJVLPVrLzOrELLAGVdRCp
+
+---
