@@ -11408,3 +11408,79 @@ font-family: Arial, Helvetica, sans-serif !important;
                 <td align="center" style="padding-right: 10px; "><a href="https://www.telus.com/en/social-impact?cmp=em_bm_globfooter_purpose" target="_blank
 
 ---
+
+## [营销] ⏰ Long weekend, big deals.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-04T12:09:25-06:00
+**摘要:** BestBuy.ca 发送的长周末促销邮件，提示有专属优惠并需要设置密码激活账户。
+**待办:** 设置密码以激活账户
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYX8zwdCshxhTQxpQ87qVrM30kRe46Yj3BTe4g5zpeVDSUvuCRp5YTVlMUTacEawq-DT6qXY50OrG5pjeiHvlh6sIJUSfD9WeIuC3Ys&CMP=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2488059&l=37_HTML&mid=7210119&jb=3133&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b&utm_id=2488059&sfmc_id=49472970 
+
+Exclusive deals are waiting. Set a password to activate your account.
+
+Set your password ›
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYX91nqrIqWZEWsWReIw6TTkNHZ28qbwHV1lWniX_sxFPqCtaCAM2NBTw0SoM_veaG6Kg9-wWiJAuGxeU-k-LhHljHbwA_ojFpWCprs&CMP=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2488059&l=37_HTML&mid=7210119&jb=3133&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b&utm_id=2488059&sfmc_id=49472970 
+
+
+
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYOpmwCxB_NKnvZEVyXSpXSUlCEovaQnmzOVx8TXfKcGl6rKkuygkp54xAVjXj5gR8-iUuXURBkbpcIjkJGoeYIVQCh2DD47pEajAg 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYPrBTMsJS74qqQFLPzielSVUDv2vhf0J21SEPJ4YHwBkfzmTNn6P8uW_JpKpxcsQJL39Spq_Phzag6bQF5DHkvCfZaIKkRzg 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYl88A2_zrZqVFmG8y6G-VToYu5GbE-aA9E1k9vp5gStuH3I3BlJ2fgA3B3aNdbRCHZWwvSvhRzNEhv4hP4bghtXvCejtvQNrCbtdA 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYmrs95kABOkf912hQdD25Y2FqcxwJphrIXo8el9cuP7OECu9NI1PaO1G3u08hiGwI8I55YyvXvM43A-kue9Eo3NZRSQUajLlwHSPs 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYn6pVJ9KGS4XvgUAsUnFnq-YKpBVPb-EMtY8fuzlWmPOhG_XP9b0HA35Ih30vaz-SpE0DqrMYAdLDYf8ev8RebzxCfgs1t9VQcFWY 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYrM_cFBjCWkTvDW-0xNcseL1jXCiOuP5nKKxZDtrfa2h
+
+---
