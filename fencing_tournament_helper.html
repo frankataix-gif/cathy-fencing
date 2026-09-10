@@ -662,7 +662,12 @@
 
     <div class="card">
       <h3 style="margin-bottom:12px;">USAF Dashboard 导入</h3>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">在 USAF 会员页点击书签工具复制 JSON，粘贴到这里，点导入即可更新会员/报名数据。</p>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">在 USAF 会员页点击书签工具，复制 JSON/文字，粘贴到这里点导入即可更新会员/报名数据。</p>
+      <div style="background:#f1f5f9; border:1px solid #e5e7eb; border-radius:8px; padding:10px; margin-bottom:12px; position:relative;">
+        <label style="font-size:0.75rem; color:var(--gray); display:block; margin-bottom:4px;">书签工具（拖到浏览器书签栏）</label>
+        <input id="usaf-bookmarklet-input" type="text" readonly value="" style="width:100%; font-size:0.75rem; padding:6px; border:1px solid #e5e7eb; border-radius:6px; box-sizing:border-box; background:white; color:var(--dark);">
+        <button class="btn cathy" id="usaf-copy-bookmarklet-btn" style="margin-top:8px; padding:6px 12px; font-size:0.75rem;">复制书签</button>
+      </div>
       <textarea id="usaf-import-text" placeholder="粘贴 bookmarklet 或邮件解析出来的 JSON / 文字…" style="width:100%; min-height:120px; padding:10px; border:1px solid #e5e7eb; border-radius:8px; font-size:0.85rem; box-sizing:border-box; margin-bottom:8px;"></textarea>
       <button class="btn cathy" id="usaf-import-btn" style="padding:8px 18px;">导入</button>
       <div id="usaf-import-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
@@ -1984,7 +1989,8 @@ function circuitLabel(c) {
       if (!res.ok) { el.innerHTML = '暂无邮件'; return; }
       const text = await res.text();
       const parts = text.split(/\n## /).filter(Boolean);
-      const latest = parts.slice(0, 5);
+      // 取最近 5 封（最后 5 段），按新到旧显示
+      const latest = parts.slice(-5).reverse();
       if (!latest.length) { el.innerHTML = '暂无邮件'; return; }
       el.innerHTML = latest.map(p => {
         const lines = p.split('\n').filter(l => l.trim());
@@ -2004,6 +2010,23 @@ function circuitLabel(c) {
       const text = await res.text();
       el.textContent = text.slice(0, 4000);
     } catch(e) {}
+  }
+
+  function initUsafBookmarklet() {
+    const input = document.getElementById('usaf-bookmarklet-input');
+    if (!input) return;
+    const code = "javascript:(function(){const data={source:'usaf_dashboard',url:location.href,title:document.title,date:new Date().toISOString(),text:document.body.innerText.slice(0,8000)};const json=JSON.stringify(data,null,2);navigator.clipboard.writeText(json).then(()=>alert('已复制，请粘贴到 App 的 USAF Dashboard 导入框。')).catch(()=>prompt('请复制:',json));})();";
+    input.value = code;
+    const btn = document.getElementById('usaf-copy-bookmarklet-btn');
+    if (btn) {
+      btn.addEventListener('click', () => {
+        input.select();
+        navigator.clipboard.writeText(code).then(() => {
+          btn.textContent = '已复制';
+          setTimeout(() => { btn.textContent = '复制书签'; }, 1500);
+        }).catch(() => { input.select(); document.execCommand('copy'); btn.textContent = '已复制'; setTimeout(() => { btn.textContent = '复制书签'; }, 1500); });
+      });
+    }
   }
 
   async function importUsafDashboard() {
@@ -3991,6 +4014,7 @@ function circuitLabel(c) {
   loadUserDataFromGitHub();
   loadEmails();
   loadUsafDashboard();
+  initUsafBookmarklet();
   renderResults();
   renderDailyQuote();
 
