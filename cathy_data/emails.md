@@ -16723,3 +16723,45 @@ Application number : S307997826  A message about your application is waiting for
                                          Please do not reply to this email.
 
 ---
+
+## [营销] Natalie, 5 school conversions from £250k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-28T16:20:33+00:00
+**摘要:** Rightmove现在有5个从25万英镑起的学校改造住宅出售，提供美丽的Converted schoolhouse homes。
+**待办:** 无
+
+Beautiful converted schoolhouse homes for sale on Rightmove now
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/gYSuOl4AssoFYGv91XwurQ~~/AAAHahA~/-4IK5UtAePt4P4sVwqKuu6HvdI8Wy_of3VAzrpmPakNZLzFwYl4ZoDDQe1mKXA8_ujgwAc-g_faEdewKJv8dOq2AS2ZTkg-PgIDmcQl_J-kwt1LlAdiIabL3rzNISuhVUoByW1ITI4wi_2gbzoQIlTy8LYuXW4jHS8BG-3QrJGk~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/7lRBswTKlVpuzkdTKJLTyQ~~/AAAHahA~/LasR-J7uncVQpdtJdd64c3Cx_3_zD4mMff5-BDk0iNTNk7wbVrQEiOsAKwqscA0lwZtDkIYxqEBrvW_CzzUk9BCrQPlkhgrJfzVvTRpcZD51RUmNxTuoqT9ikVK0jVnOaGZN14Lp3zU-V_tESVkHDix0pBxYk-B1pRkGPILDDu1jW3ItRD2RXSJNzNxYebxe )
+   
+Natalie's
+ Rightmove 
+( https://clicks.rightmove.co.uk/f/a/RrypoolosD6KqfFQjt-rlg~~/AAAHahA~/OMN4MikxN9KO6eEKjgyQa4218P6MJl-HMJMhZ2sodgm7DY74w9iXkfzWIQWcxEFBHjtIjW-xvveChEu_yQ9FD_u7jyomuMPtDTDnJbUWeu4lVO79F-T-6vhDOZSVWQSbgb9DRfHbEnOHnxcQLxxoyIYoa0BUzfSkDW83JqLJT6rYNNUaDweq-S0yWkrpt9oi )
+            Buy 
+( https://clicks.rightmove.co.uk/f/a/zJW4lDU5HbF6VA2sHaKtmA~~/AAAHahA~/O45rX__8sCRGSMqL-x2kRVsWLYwIO2C1KIhJm_UYQU8S6DM17VXYs0KGg-WaiKDrSswOAWG3rJazEFLtaB_KteKZpnki2GfA36TegJJcKwnr0pqXVaj2y_vEXU_FHNc1CVk62gepzN3IKTOc86iyJNsVcWH3vdOQY5I2tiWIOurkIPcGvLr6QrhsHECKAiwa )
+ Rent 
+( https://clicks.rightmove.co.uk/f/a/gN3ZeKNGs0VkezCHY8o3PQ~~/AAAHahA~/O45rX__8sCRGSMqL-x2kRVsWLYwIO2C1KIhJm_UYQU-lM9CgtH7RbGscyaVVfzniLhHYdvvg2vtcvLy8pzkugmljKTaNGA47KR-WvtP9P6OfmBXG6664Uz1iwq1mT9rUrtk3DL7vwSCJAN7-DlKJQhhmgN4TYuGx0MhLUbfSMFvKnyyRQHTSIhgFXhg0O9T9 )
+ Sell 
+( https://clicks.rightmove.co.uk/f/a/BB5p5GSvv8e9M3FvsthVEQ~~/AAAHahA~/h5blxJBMEQg8a4sI5zGeNB7J0_Qev-hyoqgzKNCF_b85GYsP_e_HRpRY9vC1_jZ9FnosNZN52cA-AbXjB6w9LNieU_Es7cb8BhCJdaabkyfBfg2EKteFxl5cjQaRHMT_G3Hm_EVXDPeDYrUKXbF4GxCu_zdx5GN74DOLtgP3s_07ejpBlauSEBh1q2YxMuRg )
+      Living room space with sofa 
+( https://clicks.rightmove.co.uk/f/a/79GGlAOi2b-1I-iad0CwWg~~/AAAHahA~/jYSC7j-6KBXId3ejl6TJBJJ-BsBqKSyuLgsDzBTLrB3gmKasS-q5KQbo5EKbiz6hQFItjKp1zrrJBN78flswV_Ob_ORQJrq04Sc_xLQTtNI_xngSCnzjXao-Lg4Ki48VRJF2Ek8y5zKSvO_1xR7xIS4GNl80XTzvYpiv5iOG7yBOrblCr24BBPxMJArVerbghd3i6T2PHmzW0UOs_uk5e3UZANiMY1n8JNiXJA6bjrS2p6hX9Om5cUEAUs56rlA2 )
+      5 stunning school conversions from £250k
+
+Beautiful converted schoolhouse homes for sale on Rightmove now.
+
+
+( https://clicks.rightmove.co.uk/f/a/gDnqoGLqNyODqId6vPhMTA~~/AAAHahA~/jYSC7j-6KBXId3ejl6TJBJJ-BsBqKSyuLgsDzBTLrB3gmKasS-q5KQbo5EKbiz6hQFItjKp1zrrJBN78flswV_Ob_ORQJrq04Sc_xLQTtNI_xngSCnzjXao-Lg4Ki48VRJF2Ek8y5zKSvO_1xR7xIdA7FaqxFhdsY360HCyj3qFNhVgO6H8dile82lOu9_kIkLIJMMd6k_sgQuIPxGlA-VrmiOyVUTyjEHPVD7duauCDMlwTxzdVfYbZmCs728Ip )
+ See inside 
+( https://clicks.rightmove.co.uk/f/a/HQ4nS_Z9CmIb3NcjGjTE8A~~/AAAHahA~/jYSC7j-6KBXId3ejl6TJBJJ-BsBqKSyuLgsDzBTLrB3gmKasS-q5KQbo5EKbiz6hQFItjKp1zrrJBN78flswV_Ob_ORQJrq04Sc_xLQTtNI_xngSCnzjXao-Lg4Ki48VRJF2Ek8y5zKSvO_1xR7xIcpaeIycGCN25wE8T5QGmv2oPou3iev4QoJhen_Lo7zjP-nsFFimqy3vT9tC4Mu5q9_hx4lchPk2SDbEZwXaoNMeKJM3hQTonskrKvh31YL1 )
+          Your home-moving toolkit
+
+( https://clicks.rightmove.co.uk/f/a/zovW5cwrLCfvfHKfYBZV5A~~/AAAHahA~/2j3OkTwkzMrMHq7v3pG5qM4ct_qpH5sQkq81p9bpLcze9fxO_ULi3WBJ1sf9hAifzFIJJn4kPm8HlGOpU2qZiQk3bpVdSJj7b0J6VhNg5B5QGWwrAUZJhNbX8j8apoE7It5iSTggd3gp03DR7dwrhw~~ )
+Mortgages Mortgages 
+( https://clicks.rightmove.co.uk/f/a/JmXM42J9b5-rSuG1ETjSAg~~/AAAHahA~/FNRQiJ_V_zc5Le3h036bhITA9by2NTOW6CeDzg0lqaoD0hqbHVK5NmAYgzvy43d6KE5m0SDtUSem0VSk2emRFLDTOCWINC7oTRTlcp9GtpWYrpSdzNMvHtQ39GI_b6yuViIaW1-NefDpkeeU2xs_vvJHYgJeogYHViwiiFFmr6u0RHh4Mae50CgeFKariCetAj1gQUG3EQJz5KCkHsW9SA~~ )
+                      Sold Prices Sold Prices 
+
+
+---
