@@ -18338,3 +18338,169 @@ Privacy & Legal
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzULd8hxKn7Gv0LYwYInmq-2BNzXY1rNVzTsnBFslGXyh4p3tFUQzaBoes22pz5out6rQ-3DdgrH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZjxA14QAQ-2Fy1k2cjVILqmwTxOV2CfLOe0exCi117TarNB5bhXXOI-2BX9IG1r2C1v-2Bn-2BX90DxMx-2BOESMwAssFqU8-2BC3qz0PnqVpIEu8tPwZlA6jNATApdm-2Fb1Gq99atMR4Ji4ryxrBWQbLh3ov8mDlPfc-3D]
 
 ---
+
+## [其他] Hi Jing, let's get you started with TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-26T11:22:09-07:00
+**摘要:** TELUS欢迎新用户并提供账户管理、账单设置和设备使用的指导链接。
+**待办:** 无
+
+Trouble viewing this email? View in web browser. 
+ 
+  
+ 
+ 
+Welcome to TELUS. 
+Green Leaf 
+ 
+Account Details  
+Account Details: 
+Account number:   
+Phone number(s):   
+Next Bill Cycle Begins:   
+ 
+ 
+
+To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more. To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more.  
+ 
+My TELUS makes managing your plan easy.  
+ 
+ 
+ Manage your plan.
+View and/or change your billing and mobility plan details.  
+ 
+ 
+ 
+ 
+ 
+ View your usage.
+Keep track of data with notifications and overage blocks.  
+ 
+ 
+ 
+ 
+ 
+ Edit your profile.
+Confirm your contact and security info, and set preferences.  
+ 
+ 
+ 
+ 
+ 
+ Check out your offers.
+View any new, exclusive deals or upgrades you qualify for.  
+ 
+ 
+ 
+Log in now  
+ 
+  
+ 
+Get the My TELUS app.  
+My Telus 
+ 
+Manage your account from anywhere, at any
+time. Download the My TELUS app below.  
+Download on the App Store       Download on the Google Play Store  
+ 
+  
+ 
+Simplify your billing.  
+ 
+ 
+ Customize your e.Bill notifications.
+Choose to be notified by email and/or text message when your bill is ready.  
+ 
+ 
+ 
+Log in now  
+ 
+ 
+ Set up pre-authorized payments through your bank.
+Leave the worrying to us – we'll process your monthly payment automatically.  
+ 
+ 
+ 
+Sign up for PAP  
+ 
+  
+ 
+Learn how to set up and use your new device.  
+New Device 
+ 
+The TELUS Device Checkup app will answer all of your device questions and help you get started. You can learn how to:
+ 
+•  Set up your email and import contacts  
+ 
+•  Discover device features and troubleshoot issues  
+ 
+•  Look up warranty and trade-in value info  
+ 
+Click below to download the app.
+ 
+Download on the App Store       Download on the Google Play Store  
+Or, you can visit our device setup page.  
+ 
+  
+ 
+More questions?
+Find your answers here:  
+My Telus 
+ 
+Chat with TELUS Assist, our 24/7 virtual
+assistant who answers your questions in
+an instant.  
+ 
+Or, visit TELUS Support to find
+information online.  
+ 
+ 
+Community  Facebook  Twitter  
+ 
+ 
+Privacy   |    Contact Us
+Find a Store    |    telus.com  
+ 
+TELUS, telus.com, the TELUS logo and the future is friendly are trademarks of TELUS Corporation, used under license. All other trademarks are property of their respective owners. 
+
+We would like to hear from you. If you would like to contact us, please click the 'Contact Us' link above.
+
+© TELUS. All rights reserved. 
+ 
+ 
+
+Vous avez de la difficulté à lire ce courriel?
+Ouvrez-le dans un navigateur. 
+ 
+  
+ 
+ 
+Bienvenue
+chez TELUS. 
+Green Leaf 
+ 
+Account Details  
+Renseignements sur le compte : 
+Numéro de compte :   
+Numéro(s) :   
+Début du prochain cycle de facturation :   
+ 
+ 
+
+Pour bien vous accueillir à TELUS, voici quelques conseils pour vous aider à gérer votre compte, à configurer votre téléphone et plus encore. Pour bien vous accueillir à TELUS, voici quelques conseils pour vous aider à gérer votre compte, à configurer votre téléphone et plus encore.  
+ 
+L’appli Mon TELUS facilite la gestion de forfait.  
+ 
+ 
+ Gérez votre forfait.
+Consultez votre facture et modifiez les détails de votre forfait de services mobiles.  
+ 
+ 
+ 
+ 
+ 
+ Surveillez votre utilisation.
+Gardez un œil sur vos données grâce à des avis, et établissez des limites pour éviter les dép
+
+---
