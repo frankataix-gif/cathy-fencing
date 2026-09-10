@@ -16402,3 +16402,43 @@ This message is for the sole use of the intended recipient(s) and may contain co
 
 
 ---
+
+## [其他] Immigration Advie for Study Permit inside Canada
+
+**发件人:** Vivien Lee <vlee@vivienleeimmigration.com>
+**日期:** 2026-08-28T19:45:10+00:00
+**摘要:** 邮件是关于为Natalie Wu的女儿申请加拿大境内学习许可的移民咨询，并建议预约咨询会议。
+**待办:** 预约移民咨询会议
+
+Name: Natalie Wu (Mandarin speaking)
+Phone: 778-255-5899
+
+Hello Natalie,
+Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daughter to study Grade 7. If you are holding a visitor visa, you cannot apply using the In Canada option for application. However, we have successfully assisted clients in making the Study Permit application while they are still in Canada, and provided advice on what they must do during the time of Visa issuance after their Study Visa is approved.
+
+We begin all our cases with a Consultation and Advice session. With ongoing changes to Canada's immigration law, getting proper advice to your particular needs will be very important. At our firm, we provide personalized, client-focused representation. We take the time to understand each client's unique background, goals, and challenges so that we can develop a practical immigration strategy and present the strongest possible application.
+
+We begin every case with a comprehensive consultation. This in-depth strategy session allows us to thoroughly assess your profile and provide advice that is specific, actionable, and tailored to your circumstances.
+During the consultation, we will:
+
+  *   Assess Your Profile: Review your case background, and previous immigration application thoroughly.
+  *   Identify Your Best Options: Evaluate potential pathways to your Study Permit application while you are visiting Canada to determine the most suitable strategy for your situation.
+  *   Develop a Plan: Advice on how to make the application.
+  *   Answer Your Questions: Provide clarity on the immigration process and address any concerns you may have.
+The attached document provides additional information about our consultation services, including simple instructions on how to book your appointment.
+We encourage you to contact us to schedule your consultation and begin planning your immigration journey.
+We look forward to connecting with you.
+Vivien Lee, RCIC
+Senior Advisor (Member of CICC & CAPIC)
+Vivien Lee Immigration & Business Corporation
+Address:  Suite 720, 999 West Broadway
+Vancouver, BC, Canada V5Z 1K5
+Tel: 604-875-9338
+www.VivienLeeImmigration.com<http://www.vivienleeimmigration.com/>
+[cid:image001.png@01DD36E9.B3872000]<http://www.linkedin.com/in/vivien-lee-rcic-ba206411>
+
+This email may contain privileged and/or confidential information and is intended only for the person to whom it is specifically addressed.  If you have received this email in error, please delete it and inform the sender.
+
+
+
+---
