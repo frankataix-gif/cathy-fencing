@@ -12951,3 +12951,189 @@ sup {
                       
 
 ---
+
+## [其他] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T14:49:31-07:00
+**摘要:** 提醒用户使用提供的链接登录My TELUS账户
+**待办:** 点击链接登录My TELUS
+
+96 
+  
+    
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {a
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Force Hotmail to display emails at full width */
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding issue. */
+table {
+  border-spacing: 0;
+}
+/* Resolves the Outlook 2007, 2010, and Gmail td padding issue. */
+table td {
+  border-collapse: collapse;
+  mso-table-lspace:0pt; 
+  mso-table-rspace:0pt;
+}
+/* Yahoo auto-sensing link color and border */
+.yshortcuts a {
+  border-bottom: none !important;
+}
+a.white, a.white:visited {
+  color: #ffffff;
+}
+a {
+  color: inherit;
+}
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+sup {
+  font-size: 66%;
+  line-height: 1;
+  vertical-align: top;
+  mso-text-raise: 30%;
+}
+
+@media only screen and (max-width: 599px) {
+/* Constrain email width for small screens */
+.email-container {
+  width: 100% !important;
+  min-width: 320px !important;
+}
+    .noBorder {
+        border: none !important;
+    }
+    .width90 {
+        width: 90% !important;
+    }
+    .width100 {
+        width: 100% !important;
+    }
+    .mainimage {
+        width: 100% !important;
+        display: block !important;
+        height: auto !important;
+    }
+   .hide {
+        display: none !important;
+    }
+}
+ 
+ 
+
+ 
+   
+   
+    Your login link is ready to use. Log into My TELUS now.
+   
+     
+ 
+    
+    
+   
+    
+      
+  
+       
+   
+      
+      
+   
+     
+       Trouble viewing this email? View in  web&nbsp;browser . 
+     
+      
+           
+     
+   
+ 
+ 
+   
+       
+        
+         
+           
+             Hi TELUS, here’s your link to log into My TELUS. 
+           
+          
+           
+                 
+                  Sign into your My TELUS account using the button below.
+                 
+             
+       
+                           
+                             
+                               
+                               
+                                 
+                               
+                               
+                               Log in now 
+                               
+                             
+                           
+                           
+                         
+                       
+                     
+         
+        
+   
+      
+                 
+                  This link can only be used once and will expire after 15 minutes.   Get a new login link  . 
+             
+
+ 
+                  Note:  Since this link provides immediate access to your My TELUS account, we recommend you do not forward this email to anyone else.
+               
+             
+ 
+                 Thanks, 
+             
+   
+                 The TELUS team  
+             
+             
+          
+           
+                 
+           -->
+         
+
+  
+     
+      
+         
+           
+              
+                 
+                   
+                      
+                      
+
+---
