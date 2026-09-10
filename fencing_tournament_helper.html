@@ -641,14 +641,11 @@
     </div>
 
     <div class="card">
-      <h3 style="margin-bottom:12px;">GitHub 数据同步</h3>
-      <div class="form-row">
-        <label for="sync-worker-url">Worker URL</label>
-        <input type="text" id="sync-worker-url" placeholder="https://your-worker.your-subdomain.workers.dev/save" value="">
-      </div>
-      <div style="display:flex; gap:8px; justify-content:space-between; align-items:center; margin-top:12px; flex-wrap:wrap;">
-        <span id="sync-last-status" style="font-size:0.8rem;color:var(--gray);">上次同步：从未</span>
-        <button class="btn cathy" id="sync-to-github" onclick="syncAllToGitHub()">同步到 GitHub</button>
+      <h3 style="margin-bottom:12px;">数据同步</h3>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">已开启自动同步。报名、关注、日程、出发城市、赛后留言会在修改后自动上传到 GitHub，另一台设备打开或回到页面时会自动拉取最新数据。</p>
+      <input type="hidden" id="sync-worker-url" value="">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px; flex-wrap:wrap;">
+        <span id="sync-last-status" style="font-size:0.8rem;color:var(--gray);">等待首次同步…</span>
       </div>
     </div>
 
@@ -663,6 +660,10 @@
 <script>
 const DATA_UPDATED = '2026-09-10T06:05:03Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
+
+let _autoSyncEnabled = false;
+let _isLoadingGitHubData = false;
+let _autoSyncTimer = null;
 
 // 打开或回到前台时检测服务器是否有新版本，有则清缓存并刷新
 async function checkForUpdate() {
@@ -1676,6 +1677,7 @@ function circuitLabel(c) {
 
   function saveToLocal(key, value) {
     try { localStorage.setItem(key, value); } catch(e) {}
+    queueAutoSync(key);
   }
 
   function getLocal(key, def) {
@@ -1873,9 +1875,12 @@ function circuitLabel(c) {
 
   async function loadUserDataFromGitHub() {
     try {
-      const res = await fetch('cathy_data/user_data.json', { cache: 'no-cache' });
-      if (!res.ok) return;
+      _isLoadingGitHubData = true;
+      const res = await fetch('cathy_data/user_data.json?_=' + Date.now(), { cache: 'no-cache' });
+      _isLoadingGitHubData = false;
+      if (!res.ok) { _autoSyncEnabled = true; return; }
       const data = await res.json();
+      _isLoadingGitHubData = true;
       if (data.registrations && typeof data.registrations === 'object') {
         Object.entries(data.registrations).forEach(([id, status]) => {
           saveToLocal('reg_' + id, status);
@@ -1898,15 +1903,32 @@ function circuitLabel(c) {
         reflections = data.reflections;
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
+      _isLoadingGitHubData = false;
+      _autoSyncEnabled = true;
       renderResults();
       renderSchedule();
-    } catch (err) {}
+    } catch (err) {
+      _isLoadingGitHubData = false;
+      _autoSyncEnabled = true;
+    }
   }
 
-  async function syncAllToGitHub() {
+  function isAutoSyncKey(key) {
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || (key && key.startsWith('reg_'));
+  }
+
+  function queueAutoSync(key) {
+    if (!_autoSyncEnabled || _isLoadingGitHubData) return;
+    if (key && !isAutoSyncKey(key)) return;
+    if (_autoSyncTimer) clearTimeout(_autoSyncTimer);
+    _autoSyncTimer = setTimeout(() => { syncAllToGitHub(true); }, 2500);
+  }
+
+  async function syncAllToGitHub(auto) {
     const input = document.getElementById('sync-worker-url');
     const workerUrl = (input && input.value.trim()) || CATHY_SYNC_WORKER_URL;
-    if (!workerUrl) { alert('请先设置 Worker URL'); return; }
+    if (!workerUrl) { if (!auto) alert('请先设置 Worker URL'); return; }
+    if (_isLoadingGitHubData) return;
     const registrations = {};
     for (let i = 0; i < localStorage.length; i++) {
       const key = localStorage.key(i);
@@ -1925,10 +1947,12 @@ function circuitLabel(c) {
       const result = await res.json().catch(() => ({}));
       if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
       const statusEl = document.getElementById('sync-last-status');
-      if (statusEl) statusEl.textContent = '上次同步：' + new Date().toLocaleString();
-      alert('同步成功');
+      if (statusEl) statusEl.textContent = '已自动同步：' + new Date().toLocaleString();
+      if (!auto) alert('同步成功');
     } catch(err) {
-      alert('同步失败: ' + err.message);
+      const statusEl = document.getElementById('sync-last-status');
+      if (statusEl) statusEl.textContent = '同步失败：' + err.message;
+      if (!auto) alert('同步失败: ' + err.message);
     }
   }
 
@@ -3888,6 +3912,17 @@ function circuitLabel(c) {
   loadUserDataFromGitHub();
   renderResults();
   renderDailyQuote();
+
+  // 回到前台或页面重新显示时，先推送本地未同步的改动，再拉取 GitHub 最新数据
+  document.addEventListener('visibilitychange', async () => {
+    if (document.hidden) return;
+    if (_autoSyncTimer) { clearTimeout(_autoSyncTimer); _autoSyncTimer = null; await syncAllToGitHub(true); }
+    await loadUserDataFromGitHub();
+  });
+  window.addEventListener('pageshow', async (e) => {
+    if (_autoSyncTimer) { clearTimeout(_autoSyncTimer); _autoSyncTimer = null; await syncAllToGitHub(true); }
+    await loadUserDataFromGitHub();
+  });
 
 </script>
 
