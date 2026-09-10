@@ -11484,3 +11484,112 @@ Latest and Greatest Tech &rsaquo;
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYYrM_cFBjCWkTvDW-0xNcseL1jXCiOuP5nKKxZDtrfa2h
 
 ---
+
+## [营销] Gear so comfortable, it has superfans
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-04T10:53:11-06:00
+**摘要:** 这封邮件是lululemon的宣传邮件，强调其产品舒适且拥有大量忠实客户，可能包含促销或新品信息。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847;
+ &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847;
+ &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847;
+ 
+ 
+
+
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3Izv-9bbqdXpWopqxcZGlnJkQPGlvAAqqFoOpqRLuLVgZQJMT8NzwfbLvWXx1uB6pj32D6CtLlqDCdQK6pXJU4Cp7I40SUzqDUESrCwLZrks 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3Izv_H0nv73PR32HN3GK_lf1aQtdx19-rV0ygP_rhEaw8gvksrOk01aCMASDFdHxha_9L3cBPZHL6iK1zVkknag4M9iCSTN5T0jj0MxflHnc 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ New to lululemon?
+ 
+
+ Defined by innovative fabrics, flexible fits, and quality that never quits, our gear is made to unlock your full potential.
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3IzwAp1q0kd0YlZdJiOvx77l3wnGT805DkcbeRnQEZgzvAh9RP8CjSyix1WHCoRVhhxaVtTx-82H3YV0lH14wcPL2SrtXVJVf9ba6lVvcPCA 
+Learn more
+ 
+ 
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3IzwBCEy6yZk6_MDEQxYH-qZOViJIfjw93-aOO2BGY6OiQeCq3fb_WXjQKMb6I3AH5-KojtxMOW341Hbsy_xGBnxBJDZ33SUE0yMKRjnOeG8 
+Shop Bestsellers
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ Meet our all-stars.
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3IzwC1L_2D8HQEqYBgDtTZx3jbYQzSq9Af7cHT_mdOX-ng_k8HPJDSe3bv-3Xe82GjGSg3TJMVOLd1IdF7fNdZNF
+
+---
