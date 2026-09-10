@@ -9227,3 +9227,54 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td {border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;padding: 0px;margin: 0px;mso-line-height-rule: exactly !important;}em {font-style: italic;}strong, b {font-weight: bold;}.sup {-webkit-text-size-adjust: none;}div, a, tr, table, body, span, img, strong, td {-webkit-text-size-adjust: none;-ms-text-size-adjust: none;-moz-text-size-adjust: none;text-size-adjust: none;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}a[x-apple-data-detectors] {color: inherit !important;text-decoration: none !important;font-size: inherit !important;font-family: inherit !important;font-weight: inherit !important;line-height: inherit !important;}.x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {border-bottom: 0 !important;cursor: default !important;}.link, .link a {color: inherit !important;text-decoration: inherit !important;}#MessageViewBody a {color: inherit;text-decoration: none;font-size: inherit;font-family: inherit;font-weight: inherit;line-height: inherit;}th {font-weight: normal !important;}@media only screen and (max-width: 480px) {*[class=hide_img], .hide_img {display: none!important;}*[class=hide], .hide {display: none !important;font-size: 0 !important;max-height: 0 !important;line-height: 0 !important;padding: 0 !important;mso-hide: all !important;}*[class=show], .show {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=show], .show {display: block!important;display: table!important;}*[class=appear], .appear {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=tbl], .tbl {width: 100% !important;clear: both!important;float: inherit!important;height: auto !important;min-width: 100% !important;max-width: 100%!important;}*[class=img_full], .img_full {width: 100% !important;height: auto !important;}*[class=break], .break {display: block!important;clear: both!important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=drop], .drop {float: inherit!important;width: 100% !important;display: block !important;}*[class=text_ctr], .text_ctr {text-align: center !important;}*[class=text_lft], .text_lft {text-align: left !important;}*[class=text_right], .text_right {text-align: right !important;}*[class=tbl_cntr], .tbl_cntr {margin: 0 auto !important;}*[class=Pad_hide], .Pad_hide {padding: 0 !important;}*[class=Pad_Thide], .Pad_Thide {padding-top: 0 !important;}*[class=Pad_Bhide], .Pad_Bhide {padding-bottom: 0 !important;}*[class=Pad_Lhide], .Pad_Lhide {padding-left: 0 !important;}*[class=Pad_Rhide], .Pad_Rhide {padding-right: 0 !important;}*[class=Pad_hideLR], .Pad_hideLR {padding-left: 0 !important;padding-right: 0 !important;}*[class=Pad_LR9], .Pad_LR9 {padding-left: 9px
 
 ---
+
+## [其他] Book tables with DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-08T16:17:06+00:00
+**摘要:** DoorDash 提供预订桌子的服务
+**待办:** 无
+
+DoorDash     -->
+   
+      @font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-DemiBold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:500;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Medium.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:450;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Normal.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:400;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Regular.woff2')format('woff2');}
+         
+   a[href^="tel"],a[href^="sms"]{color:inherit;cursor:default;font-weight:inherit;text-decoration:none}body{-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;mso-line-height-rule:exactly;}html,body{width:100%;margin:0;padding:0}img{border:0;display:block;height:auto;line-height:100%;outline:none;text-decoration:none}table{border:0 !important;padding:0 !important; border-collapse:collapse !important;mso-table-lspace:0pt;mso-table-rspace:0pt;}u + .body #MainTable img + div{display:none!important;}u + .body{width:100%;}.body a[x-apple-data-detectors=true]{color:inherit!important;text-decoration:inherit!important}span.MsoHyperlink{color:inherit !important;mso-style-priority:99 !important}span.MsoHyperlinkFollowed{color:inherit !important;mso-style-priority:99 !important}
+       
+   
+      body,#MainTable{background-color:#F4F4F4;}
+      #DeliveryRed600{background-color:#FF3008;background-image:linear-gradient(#FF3008,#FF3008);}
+      #MotorOil050{background-color:#FFDBB5;}
+      #ResGradient{background-color:#4C0C3A;background-image:linear-gradient(135deg,#31002C 0%,#4C123f 30%,#7B4650 70%,#A97375 100%);}
+       
+   
+      #Berry{background-color:#5A2441;background-image:linear-gradient(#5A2441,#5A2441);}
+      #Foam{background-color:#EFE8FF;}
+      #Mint{background-color:#94FDE3;}
+      #MintDark{background-color:#00D9CE;}
+      #Oat{background-color:#FFFDF9;}
+      #Plum{background-color:#622EEA;background-image:linear-gradient(#622EEA,#622EEA);}
+      #PlumDark{background-color:#170740;background-image:linear-gradient(#170740,#170740);}
+      #Taro{background-color:#D5C4FF;}
+       
+   
+      h1,h2,h3,h4,h5,h6,p.h8{font-family:'TTNorms',system-ui,sans-serif;font-weight:600;margin:0 0 24px 0;line-height:1em;letter-spacing:-0.02em;}
+      p,li{font-family:'TTNorms',system-ui,sans-serif;font-weight:450;margin:0 0 24px 0;line-height:1.3em;}
+      .black{font-family:'TTNorms-Condensed',system-ui,sans-serif!important;font-weight:900!important;line-height:0.85em;letter-spacing:-0.04em;text-transform:uppercase;font-stretch:condensed;}
+      ul,ol{padding:0 0 0 20px;margin:0 0 24px 0;}
+      li{margin:0 0 8px 0;}
+      h1{font-size:5.5em;}
+      h2{font-size:4.5em;}
+      h3{font-size:3.5em;}
+      h4{font-size:3em;}
+      h5{font-size:2.5em;}
+      h6{font-size:2em;}
+      p.h8{font-size:1.25em;}
+      p.p1,li{f
+
+---
