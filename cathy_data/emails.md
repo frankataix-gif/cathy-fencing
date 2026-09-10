@@ -6253,3 +6253,74 @@ United Kingdom
 [Knight Frank]<https://www.i
 
 ---
+
+## [其他] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Jo Monk <jmonk@jaresidential.com>
+**日期:** 2026-09-09T07:50:24+00:00
+**摘要:** Jo Monk回复Jordanna，表示Josh可以协助处理公寓相关事宜，并提供联系方式。
+**待办:** 无
+
+Dear Jordanna,
+
+The general manager Josh can assist
+
+@Lancer Square General Manager<mailto:LancerSquareGM@jaresidential.com>
+
+Thank you
+
+JO MONK
+Senior Property Manager
+M: 07729 096 524 
+D: +44 (0) 20 4591 4784
+T: +44 (0) 20 7509 1970 
+jmonk@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3764 5568​
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please notify the sender and delete it
+​immediately.
+Whilst reasonable precautions have been taken to ensure this email is free from viruses, James
+​Andrew Residential Limited accepts no liability for any loss or damage arising from its use.
+James Andrew Residential Limited is a company registered in England and Wales.
+​Company Number: 7980906.  Registered Office: 20 Bedford Square, London WC1B 3HH.
+________________________________
+From: Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
+Sent: 09 September 2026 08:35
+To: Jo Monk <jmonk@jaresidential.com>
+Cc: frankataix@gmail.com <frankataix@gmail.com>; nataliewu100@gmail.com <nataliewu100@gmail.com>; Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Subject: Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+You don't often get email from jordanna.mancina@knightfrank.com. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+Good morning Julia
+
+I just wanted to follow up on this and see if you can provide the required information?
+
+I look forward to hearing from you.
+
+Kind regards
+
+[cid:image074896.png@BF15B5A4.CD6B37FB]
+Jordanna Mancina
+Associate, Sales Manager
+Kensington
+______
+D:
+  +44 2038923573<tel:+44%202038923573>
+ M:
++44 7929828794<tel:+44%207929828794>
+knightfrank.com<http://www.knightfrank.com/>
+52‑56 Kensington Church Street,
+London,
+W8 4DB,
+United Kingdom
+[Knight Frank]<https://www.linkedin.com/company/knight-frank?utm_medium=emailsig&utm_source=LinkedIn&utm_campaign=socialicons>
+[Facebook]<http://www.facebook.com/knightfrankllp?utm_medium=emailsig&utm_source=Facebook&utm_campaign=socialicons>
+[Knight Frank]<https://www.instagram.com/knightfrank?utm_medium=emailsig&utm_source=Instagram&utm_campaign=socialicons>
+[Knight Frank]<https://www.youtube.com/KnightFrank?utm_medium=emailsig&utm_source=YouTube&utm_campaign=socialicons>
+[Safe Hands]<https://www.knightfrank.co.uk/safehands?utm_source=kf_signatures&utm_medium=email&utm_campaign=bpip24&utm_content=launch%20ongoing%20united%20kingdom>
+This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful.
+
+This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any a
+
+---
