@@ -15340,3 +15340,171 @@ Peloton on Facebook (
 https://clicks.onepeloton.com/f/a/DMZHyU3v-DWCI0jVdRlYaQ~~/AAQRxRA~/51tIc87OHmus1UR6XsBc4AdD0t9q0Z-5iH_vSaj_XS3KJ9aLFrHlsTuqXORgaVIAFK5MH
 
 ---
+
+## [其他] 您与“onepeloton.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-30T12:51:28-07:00
+**摘要:** 这封邮件通知用户其Google账号于8月30日登录了onepeloton.com并共享了个人信息，但目前无需采取任何措施。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月30日12:51 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYwveVy8XlKlFkR5mKJMjQSJnH7VLIh26SKkqZ-2I7eBaRTP6G-KB2q0II02k-5rpApE2R1CDUA9DE5JTvLwYOAaRb3gjhO5ihcrGNqC7ugLO8k>onepeloton.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月30日12:51 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYwveVy8XlKlFkR5mKJMjQSJnH7VLIh26SKkqZ-2I7eBaRTP6G-KB2q0II02k-5rpApE2R1CDUA9DE5JTvLwYOAaRb3gjhO5ihcrGNqC7ugLO8k>onepeloton.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+<!--[if false]><!-->
+
+
+“onepeloton.com”收到了以下个人资料信息
+
+
+
+natalie
+
+姓名和个人资料照片
+
+
+
+nataliewu100@gmail.com
+
+邮箱
+
+
+
+
+
+ 
+
+
+这封邮件涵盖您在 8月30日12:51 共享的信息
+
+如果想停止使用 Google 账号登录“onepeloton.com”，请前往您的 Google 账号。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+“onepeloton.com”收到了以下个人资料信息
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+natalie
+
+姓名和个人资料照片
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+nataliewu100@gmail.com
+
+邮箱
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+ 
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+这封邮件涵盖您在 8月30日12:51 共享的信息
+
+<!--[if false]><!-->
+
+如果想停止使用 Google 账号登录“onepeloton.com”，请前往您的 Google 账号。
+
+<!--[if false]><!-->
+
+
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
+xmlns:w="urn:schemas-microsoft-com:office:word"  
+href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVHlTskfp2AnRo8C2qt9uWLZyDfeU8OTEcmvsbhU1-s00SpJWLZ6VbnXtaJzWeKKYTerEbF7mBGSCWv8KNc27JU%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
+style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
+stroke="false" fillcolor="#0b57d0">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+
+<![endif]-->
+<https://c.gle/ACT4xYy6dS6Y_zPInqXWavsQWWQD-Flae5Q6OWF_A6vXoQb8rjLACRTZRzyJ93x-KiS5gBtnSvx_fz99YRytZFaFGdIXI3f-comwy-v68ngRNd3NDmw8TVVODz-5G1Q7CGET4t16DgY_Qba962jYvq1RROQ_CFeRTm7GbHXH6rRFvg2__bTkMXlcy0zmtqi6euJth-hP7-l94KnL6k8EowXw-hTpyjGaugQVBCU2hM33cGDJMkKfPy5ayHVF3EnBUY2PTTpZdHaqEuHAxAuiZf4mKUoG34hYzr0feXXD71AkIeZM_h7fHxzV5uJiCh4gX68410P3K8z7TnviH-UmsH-ug_FMZQeb0nse-UCGh_L8JAR0CqxTrYaMc1DwzeY-gWVueLFtoCd8oiLv0MPX7PAvD9KI1vUCtUuLiyi-3zTNnaXBwoe51dbBmaND3huA2-e3RjGQhfx249Oyoos409a_5Z9EXadZ5TM>  
+前 
+往您的 Google 账号
+
+
+查看“onepeloton.com”的《隐私权政策》和《服务条款》，了解“onepeloton.com”会如 
+何处理及保护您的数据。
+
+如果想删除您已与“onepeloton.com”共享的数据，请前往“onepeloton.com”。
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+
+ 
+
+我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
+重要变化。
+
+如果想停止收到此类邮件，您可以 
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYzkuuTYPfCPiP9aghg9yX6Uy1v7s6Bg6JYl1nHhjW8pT-P5JzVPhWEzMm7-3AancQPdLN6js3sHi9BhJvmRvASeC29hkCve8R-PYssBugpZtekXr27uIqPdbeVkRAlOZfmnb1IpWbrEPv7vOjQutvgaDG8GUSZBkwR2Emdj6lPWILM5hKgEBsS-HL8UdA5ep7RffxPdTITtRroIKe-QytymJWPBQcyThbHro173YaALbaX64nY8hl66mmowarh0kFYWMneuoBso-UmHSibS1ZP8sC-1KTm9Ez75KCU?utm_source=gm&utm_medium=email&auto=true>退 
+订。
+
+即使退订此类邮件，您仍会继续收到安全提醒。
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
