@@ -16938,3 +16938,79 @@ Sephora
       a { text-decoration:none; } .keep-white { mso-style-textfill-type:gradient; mso-style-textfill-fill-gradientfill-stoplist:"0 #FFFFFF 0 100000,100000 #FFFFFF 0 100000"; color:#000000 !imp
 
 ---
+
+## [营销] ✅ Labour Day savings on TVs, laptops, appliances and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-28T04:07:30-06:00
+**摘要:** BestBuy.ca 发送的劳工节促销邮件，提供电视、笔记本电脑、家电等产品的优惠折扣，并提示设置密码以激活账户。
+**待办:** 需要设置密码以激活账户
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WJBoce8umGBaQHX-Qw5mFuGDCzUlYFGGSUoy0xY3eH9lTo2EY8IiiUBspVpzikHcCL9Fdrc2pM02Vem7EQF-YvMa-Xdh0K8IeQbA&CMP=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2479573&l=37_HTML&mid=7210119&jb=993&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a&utm_id=2479573&sfmc_id=49472970 
+
+Exclusive deals are waiting. Set a password to activate your account.
+
+Set your password ›
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WKJWMPohc0nuppON6KVP_32IxlMl2BhdaHTsInhNAg0ZdTI8BHEMdBuMHZvvRmLtCtYfEixuxxCt4ty6ZUDOA6DPH_J3rEitKOOA&CMP=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2479573&l=37_HTML&mid=7210119&jb=993&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a&utm_id=2479573&sfmc_id=49472970 
+
+
+
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WbWT0CWHQ2L9Djp8GdUEM2_UYO7Tkanz-SfnCc2-tWE57CpgczS-nIzmzkR1SbEHZKz_WI7dfzqx6HjHnM43VnFwTB4_IDdvsq1Q 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WcuR1dSVv5UiL-wbQyI9UVcUEAKE9pBE35e3yc5lBk30HbhxzOynZ5-6gtoSWaGLW-MbLJ-Zq19ifVW9eJhRSng_hIfzqh 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7Wxnoxi8quA61L01mDdCXrw6gZZCGllpttoJ5TDq47psqoFapHA25eolTRr_DXONGxQwzpxceyU5ltVD0nxEDN78tuGGDOVNxHn8A 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7Wyy08qAqrZi3r1U8n0L-eSfEj1RQ3Hvvz78WChJYbF45vQ0H_d_n4QaBfVvZg5x0MYaY7NMj642d0ffQ7SinO8h_pwswQtq_4xDg 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WzSmS9J0geZSTaUutCFjiHEHQMN4n07kvbGImro2m27rdTOF6-_I_MOabi2q6MK7G4OnBZJZthBM01rDWBKSa6MDHqNKC8WBRupg 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7W3t2gK5abfO1D1s544u9kO-SUK2GkzikO7zbaiQm8khrYbBjM4cr7b
+
+---
