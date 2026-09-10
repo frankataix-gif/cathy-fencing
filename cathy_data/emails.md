@@ -4944,3 +4944,204 @@ Due: 9/4/2026
 
 
 ---
+
+## [其他] Works Pennington Street steps - 10/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-09T14:59:21+01:00
+**摘要:** 通知在Pennington Street楼梯底部进行地面工程，可能影响周边区域。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }
+  
+  
+  
+  
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }
+  
+  
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+  
+  
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }
+  
+  
+    @media only screen and (max-width:480px) {
+      .details-list-table table {
+        width: 100% !important;
+      }
+
+      .details-list-table table td:first-child {
+        width: 40% !important;
+      }
+
+      .summary-icons-table {
+        padding: 10px 5px !important;
+      }
+
+      .summary-icons-table table td:first-child {
+        width: 10% !important;
+        padding-right: 8px !important;
+      }
+    }
+
+    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
+           the markup's margins can be tuned without affecting the rest of the email. */
+    .wysiwyg-content p {
+      margin: 0 0 12px;
+    }
+
+    .wysiwyg-content p:last-child {
+      margin-bottom: 0;
+    }
+
+    .wysiwyg-content ul,
+    .wysiwyg-content ol {
+      margin: 0 0 12px;
+      padding-left: 24px;
+    }
+
+    .wysiwyg-content li {
+      margin: 0 0 4px;
+    }
+  
+
+
+
+  
+    
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                                
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+      
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    
+                      
+                        Dear Mr&nbsp;Jingqi Wu,
+
+We have ground works scheduled for the area at the foot of the stairs leading to Pennington Street &amp; Virginia Street from Gauging Square.
+
+This will narrow the access to the steps but a route will be maintained throughout.
+
+Thank you for your understanding during these essential works.
+
+
+Kind Regards,
+London Dock Management Team
+
+                      
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    
+    
+      
+        
+          
+            
+                
+       
+
+---
