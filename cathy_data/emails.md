@@ -8980,3 +8980,29 @@ Belle House, Platform 1 Victoria Station, London, SW1V 1JT
 To unsubscribe to these emails contact support@thirdfort.com
 
 ---
+
+## [其他] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-09-09T15:28:41-07:00
+**摘要:** Google提醒Natalie在Apple iPhone上完成Google账号设置，并提供相关链接。
+**待办:** 点击链接完成Google设置
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/ACT4xYzdWbQ2DF3a8iGHjtGzj-26zxZdTXz1UyBA6xeR5Sn4IGI9uVzDusQo42UDyJwTJ8NbMPxrBFoeShVqCsZZytvd65lyiCrjuArfEzI8CKoZ8s6xrP_txqDkRIRyLTtiM_DQjqWm1oJIzAAXjPqFHHx8SMYzOmRPM2sAFyHi8q5QM59I6i9s6-YIbW9Ajb2PFJTmuI52pNcpB-gMxo9_f05Vnlbiy1w7eO-Ql8FzRq7KpRk_mddKcQxb3ByZd677y2buXNvRcKtFLJqViAwlm5kcYCpYk7wQf8MIMiLILPPqkK76m1hnKA?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple iPhone设备上登录了 Google 帐号。当您首次在一台设备上 
+登录自己的 Google 帐号时，我们会向您发送一封电子邮件，帮助您在该设备上进行设 
+置；如果您不想再收到此类电子邮件，请退订  
+<https://c.gle/ACT4xYz1kV9Aqc_ksvbCB0rg3FhqGRJ62iM9vz7V2-TKSFk0OxRvLT_LeF4FinL29NN97jcrMMwiHbAEQ6kdBWRWXG8WMBK4k8PAtrDo4Ux3AjjBhsbb0nS1Y9_TzqYeuANB5RHs1vnpoh-6vXj6RuctmYLYaHUsrGbUKOHnGHpvIi-HxPHYCx9m4CY2ie8Y2h6VXK4BYOU1YT63oZ2NlT3nFWqzB6V2UdAtfatRGlUULC6PeKWbjCojfxmufCuvFIDb-KRZ44elb7vLztPv6WsBsJqcp5W1-tQHWb7ZafOCWB4YoqJwE_kUqBximodL-6m6QcMY9OE2MVW5_QmLLf3mYersKiGG1hT_82axNU5g4iJWe1-msb88Bqlloe0hqOLrEbQQB4Q6i9fzLOStCVidZIlPx3TxxWWLQ43FsmFYWJWuhyp2XHvKGWmbW5sLxKN_YxIu2hLdSsDbnqt-Z5F5C_83KgkgLa97L5Qi1uN3tRb4DShMipxvtgCgXMrgvTVL2md6P8Vzw_dEjYyXuucweoK51GwlbibOE6Qn-_YuCkJqtFqiJmK64wt07_fni4yC>。
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
