@@ -6843,3 +6843,38 @@ Do Not Share This Email
 This email contains a secure link to Docusign. Please do not share this email, link, or access code with others.
 
 ---
+
+## [其他] 完成时间：Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza 通过 Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T18:03:09+00:00
+**摘要:** 通知所有参与方已签署文档，并提供查看链接。
+**待办:** 无
+
+您好 Jingqi Wu，    
+
+所有参与方均已签署信封 'Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX'。
+    
+    
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=5d80cd05-0b9e-85f0-830c-57b0d577b1a1&etti=52&r=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+如果单击链接不起作用，您可以突出显示并复制上面的一整行，然后将其粘贴到浏览器中以开始。
+
+此消息是由 Lauren D'Souza 使用 Docusign 电子签名服务发送给您的。如果您不想收到来自该发件人的电子邮件，您可以联系发件人，提出您的请求。
+
+不要共享此电子邮件
+该电子邮件内包含指向 Docusign 的安全链接。请勿与他人分享此电子邮件、链接或访问代码。
+
+对文档有疑问？
+如果需要修改文档或者对文档中的细节存在疑问，请联系发件人。您可以直接向他们发送电子邮件。
+
+停止接收此电子邮件
+举报此电子邮件 https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi103LnZ3UlMK4jmbtjNNlazoPUtq2Ur8G2E9MFm8xdOkm0s_qdztq7rpXNh-UJGf533YARLc2EKyl_62UCznR0rBuhEoqUhm0qD_i4eB2_eEDPJujk12VN6ngMzevWmmHCJ8Tb1ADMzpnj83n3WqcR9uhSfRsaACys5SF0QN0XEVyyRqgUJ6eWqriRfKsfkDYQJYbdVB0U6Tet76PCSAiZXqz3gRbSDA9K4qBgQhZY15lrmdeETz0VIBqRXBGv_ABiR6IAEX1OLasotFHQMwPscsExfcskSodLn7a0mL0Y1uaTbfy4bLER_3cXDHBS8ljUu_V0xXb1aGs43pVh3IlhhljkVWOAOTrdew88D4XbUenKbYXlClmFkGXB28ykQye_wFNLnQkFm3dJVbeliwm_8jn5H8sR0fQlsGL031LLsbUVxmnVfrTWtAIbwSH9YcreY&lang=zh-CN
+拒绝签名 
+管理通知 
+
+如果您在签名时遇到问题，请访问我们的Docusign 支持中心上的“如何签署文档”。
+https://support.docusign.com/s/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing?language=en_US&#38;utm_campaign=GBL_XX_DBU_UPS_2211_SignNotificationEmailFooter&#38;utm_medium=product&#38;utm_source=postsend
+
+---
