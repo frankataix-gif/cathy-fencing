@@ -6324,3 +6324,53 @@ This email (including any attachments) is confidential. If it is not addressed t
 This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any a
 
 ---
+
+## [其他] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
+**日期:** 2026-09-09T07:35:10+00:00
+**摘要:** 请求提供公寓相关所需信息
+**待办:** 无
+
+Good morning Julia
+
+I just wanted to follow up on this and see if you can provide the required information?
+
+I look forward to hearing from you.
+
+Kind regards
+
+
+Jordanna Mancina
+Associate, Sales Manager
+Kensington
+______
+D:  +44 2038923573
+ M:+44 7929828794
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+
+This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful. 
+
+This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any authority to represent, bind or obligate in any way, any other Knight Frank entity. 
+
+We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and their clients are increasingly being targeted by fraudsters, often requesting funds to be transferred to a different bank account or seeking to obtain confidential information. If you receive a suspicious or unexpected email from us, or purporting to have been sent on our behalf, please do not reply to the email, click on any links, open any attachments, or comply with any instructions contained within it without first speaking (in person or by telephone) with your Knight Frank LLP contact to verify the email. Knight Frank LLP cannot take responsibility for any losses arising from your transfer of funds or disclosure of confidential information.
+
+Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not constitute a formal valuation and should not be relied upon for any purpose. Unless specifically stated otherwise, any negotiations, intention to treat, offers, acceptances or consideration contained in this email are not intended to create legal obligations or relations and are all subject to contract.
+​ [[KFLLP]]
+On 7 Sep 2026, at 17:30, Jordanna Mancina <Jordanna.Mancina@knightfrank.com> wrote:
+
+﻿
+
+Good afternoon Julia
+
+I am reaching out on behalf of our client, Mrs Wu, who has appointed us to market 1, 2 Lancer Square.
+
+I have been informed that you are the managing agents for the property, and we have been provided with your contact details to make some requests regarding our compliance:
+
+Under trading standards, we are required to request and share any relevant fire safety information when marketing a property within a building of 7 storeys or higher.
+
+P
+
+---
