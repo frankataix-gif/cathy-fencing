@@ -4,6 +4,13 @@ const CORS_HEADERS = {
   'Access-Control-Allow-Headers': 'Content-Type'
 };
 
+// 邮件关键词分类规则：命中关键词即强制归类（不区分大小写）
+// 按优先级排列，前面的规则先匹配
+// 其他分类的关键词可以在这里继续添加
+const CATEGORY_KEYWORDS = [
+  { category: '击剑', keywords: ['@usafencing', 'usafencing.org', 'usafencing'] }
+];
+
 export default {
   async fetch(request, env) {
     try {
@@ -159,6 +166,14 @@ function parseSuggestions(text) {
     .slice(0, 20);
 }
 
+function keywordClassify(from, subject, text) {
+  const combined = (from + ' ' + subject + ' ' + text).toLowerCase();
+  for (const rule of CATEGORY_KEYWORDS) {
+    if (rule.keywords.some(k => combined.includes(k.toLowerCase()))) return rule.category;
+  }
+  return null;
+}
+
 async function classifyEmail(env, email) {
   const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
 {"分类":"...","摘要":"...","待办":"..."}
@@ -171,8 +186,7 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
-  const combined = (email.from + ' ' + email.subject + ' ' + email.text).toLowerCase();
-  const forceFencing = combined.includes('usafencing');
+  const keywordCategory = keywordClassify(email.from, email.subject, email.text);
 
   let rawText = '';
   try {
@@ -192,14 +206,14 @@ async function classifyEmail(env, email) {
     }
     if (obj) {
       return {
-        category: forceFencing ? '击剑' : (obj['分类'] || obj.category || '其他'),
+        category: keywordCategory || obj['分类'] || obj.category || '其他',
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
         raw: rawText
       };
     }
   } catch(e) {}
-  return { category: forceFencing ? '击剑' : '其他', summary: '', todo: '无', raw: rawText };
+  return { category: keywordCategory || '其他', summary: '', todo: '无', raw: rawText };
 }
 
 function json(obj, status = 200) {
