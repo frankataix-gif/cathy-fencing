@@ -4528,3 +4528,28 @@ Privacy Statement | Support | koodomobile.com
 
 
 ---
+
+## [其他] Verify your email
+
+**发件人:** Link <notifications@link.com>
+**日期:** 2026-09-09T20:54:40+00:00
+**摘要:** 要求用户验证邮箱以确认身份
+**待办:** 点击链接验证邮箱
+
+Confirm it’s you
+Thanks for using Link at Nick Itkin LLC. To confirm it’s you, please verify your email address.
+Verify your email : https://support.link.com/confirm-email/confirm?t=csmrect_61VNGTFZh7iH9TeYs419ybpLVgGn77rc_NjI1Y2EyNDktMDM1MS00NWU1LTg3MWMtNDMzYzUzYzVmODFj&ref=link_verification_signup&redirect=link_app&email_id=em_8nhjfwkoeexohmdewfjzazy9rdyimr&eid=em_8nhjfwkoeexohmdewfjzazy9rdyimr
+
+What’s Link?
+
+A safe way to pay faster at Nick Itkin LLC and everywhere Link is accepted. Learn more (https://link.com)
+Need support?
+For questions or concerns about your purchase, contact Nick Itkin LLC.
+
+One Wilton Park, Wilton Place, Dublin 2 D02 FX04, Ireland
+
+Terms (https://link.com/terms)
+Privacy (https://link.com/privacy)
+Support (https://support.link.com)
+
+---
