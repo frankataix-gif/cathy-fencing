@@ -15757,3 +15757,113 @@ Sephora
 ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-29T17:38:15+00:00
+**摘要:** 邮件包含用于登录加拿大政府服务的一次性验证码，并提醒不要回复。
+**待办:** 使用提供的验证码登录加拿大政府服务
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+         
+
+         
+             
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                          
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Verify your login 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Your one-time passcode to log in to your Government of Canada service is: 
+
+                                         
+                                             TGGXYTHQ 
+                                         
+
+                                         This email was sent to nataliewu100@gmail.com. 
+                                         You received this email because you signed up for a Government of Canada login account. 
+                                     
+                                 
+                             
+                         
+                     
+
+                     
+                         
+                             
+                                 
+                                     
+                                        
+                                         Please do not reply to this email.
+
+---
