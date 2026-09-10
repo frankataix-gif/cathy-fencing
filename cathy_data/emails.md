@@ -6681,3 +6681,19 @@ Meadowridge School is located on the ancestral and unceded territories of the Ka
 
 
 ---
+
+## [营销] Re: Natalie, your opinion matters — 1 minute on your Browns visit
+
+**发件人:** Browns Shoes <support@info.brownsshoes.com>
+**日期:** 2026-09-07T21:07:22+00:00
+**摘要:** Browns Shoes邀请Natalie提供反馈以赢取500美元礼物卡，并询问推荐可能性。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
+
+How likely are you to recommend Browns to a friend or family member?
+
+
+---
