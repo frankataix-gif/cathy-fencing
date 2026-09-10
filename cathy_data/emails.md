@@ -10307,3 +10307,124 @@ Privacy and Confidentiality Notice: This is strictly confidential and intended s
 
 
 ---
+
+## [营销] Foxtons Sales Valuation - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya.Wan@foxtons.co.uk
+**日期:** 2026-09-04T18:58:23+01:00
+**摘要:** 邀请评估房产并附上估值信，说明营销策略和最佳售价方案。
+**待办:** 无
+
+a.button:active,
+		a.button:visited {
+			color: #fff !important;
+			color: #fff;
+		}
+
+		@media only screen and (max-width:624px) {
+			.foxtons_email_holder {
+				width: 100%;
+				max-width: 624px;
+			}
+
+			.foxtons_email_holder_inner {
+				padding: 12px 0 !important;
+			}
+		}
+	 
+   
+     
+    
+	 
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+									 
+										 
+											 
+												     
+											 
+										 
+										 
+										 
+											 
+												 
+													 
+     
+         
+             
+                 Dear Jingqi, 
+             
+             
+                Thank you for inviting us to value your property today.
+                 
+             
+             
+                     
+                        Please find attached our valuation letter, outlining our marketing strategy and
+                        some of the ways that help us achieve the best price, in the quickest possible
+                        time.
+                     
+                 
+             
+             
+                If you have any further queries, please do not hesitate to contact me.
+             
+            Kind regards,
+             
+             
+                 Freya Wan 
+                 
+                     T:  
+020 7893 6010                     
+                     M:  
+07875 802 146                     
+                     E:  
+                     Freya.Wan@foxtons.co.uk 
+                     
+                 W:  
+                 Foxtons.co.uk 
+             
+         
+     
+ 
+												 
+											 
+										 
+									 
+								 
+							 
+							 
+								 
+									 &#169; Foxtons 
+								 
+								 
+									 
+										Foxtons Limited, Building 12, Chiswick Park, 566 Chiswick High Road, London W4 5AN 
+										Company Reg No: 1680058
+									 
+								 
+							 
+						 
+					 
+				 
+
+				 
+				 
+
+			 
+		 
+	 
+
+
+
+     
+     
+    
+      Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
+
+---
