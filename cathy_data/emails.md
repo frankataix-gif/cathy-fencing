@@ -13521,3 +13521,130 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td {border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;padding: 0px;margin: 0px;mso-line-height-rule: exactly !important;}em {font-style: italic;}strong, b {font-weight: bold;}.sup {-webkit-text-size-adjust: none;}div, a, tr, table, body, span, img, strong, td {-webkit-text-size-adjust: none;-ms-text-size-adjust: none;-moz-text-size-adjust: none;text-size-adjust: none;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}a[x-apple-data-detectors] {color: inherit !important;text-decoration: none !important;font-size: inherit !important;font-family: inherit !important;font-weight: inherit !important;line-height: inherit !important;}.x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {border-bottom: 0 !important;cursor: default !important;}.link, .link a {color: inherit !important;text-decoration: inherit !important;}#MessageViewBody a {color: inherit;text-decoration: none;font-size: inherit;font-family: inherit;font-weight: inherit;line-height: inherit;}th {font-weight: normal !important;}@media only screen and (max-width: 480px) {*[class=hide_img], .hide_img {display: none!important;}*[class=hide], .hide {display: none !important;font-size: 0 !important;max-height: 0 !important;line-height: 0 !important;padding: 0 !important;mso-hide: all !important;}*[class=show], .show {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=show], .show {display: block!important;display: table!important;}*[class=appear], .appear {display: block !important;width: 100% !important;overflow: visible !important;float: none !important;max-height: inherit !important;line-height: inherit !important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=tbl], .tbl {width: 100% !important;clear: both!important;float: inherit!important;height: auto !important;min-width: 100% !important;max-width: 100%!important;}*[class=img_full], .img_full {width: 100% !important;height: auto !important;}*[class=break], .break {display: block!important;clear: both!important;}*[class=appear], .appear {display: block!important;display: table!important;}*[class=drop], .drop {float: inherit!important;width: 100% !important;display: block !important;}*[class=text_ctr], .text_ctr {text-align: center !important;}*[class=text_lft], .text_lft {text-align: left !important;}*[class=text_right], .text_right {text-align: right !important;}*[class=tbl_cntr], .tbl_cntr {margin: 0 auto !important;}*[class=Pad_hide], .Pad_hide {padding: 0 !important;}*[class=Pad_Thide], .Pad_Thide {padding-top: 0 !important;}*[class=Pad_Bhide], .Pad_Bhide {padding-bottom: 0 !important;}*[class=Pad_Lhide], .Pad_Lhide {padding-left: 0 !important;}*[class=Pad_Rhide], .Pad_Rhide {padding-right: 0 !important;}*[class=Pad_hideLR], .Pad_hideLR {padding-left: 0 !important;padding-right: 0 !important;}*[class=Pad_LR9], .Pad_LR9 {padding-left: 9px
 
 ---
+
+## [营销] 🍎 Save $650 on today’s Deal of the Day.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-02T06:03:05-06:00
+**摘要:** BestBuy.ca 发送的促销邮件，宣传今日特惠活动，可节省650美元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZs_qMzI3Eqdyw5-rd8Dn8CxUCvlbqruUH4LgSRXB8FP4KSkgacJurQP02osV8QuEKrjuPW04lFKqONSD47Z5nzg8o5gnnl3QBZWJkY 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtAoWkjFnjYmhg7Ux9P8I3b9yvq07Q9MJxnXebFo323QCncS5oWpW9Gtn9grhvyd6zxGaLMDxELCyf_CoE-r3ddH7qYVC5acg 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtVUeYbhB-msYJPEOaw0KwU7XyDhJceeUWwu8VSu9fYNIQnwAKYqpM17SgVe0NSgXh0dvXhlA6tqEgQsXXPgrLum4JWXOLxQgz_i7U 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtW8hXfBN2bpNLkdNEPt9Hfo_gcqS9RpQZ4maQmCwysiRq95PcZSON2tEhoo0eCqPJ79dZxZD6-xZjdIwzw1mS2Egxa-i7NiNXQU8M 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtXu0rpnQShn8xPTAzrr-qSdBQXKOcFxN-6vUsYiaVv0BlAee5ZBCT_si1nnmi8B6o2C8CZJVOXxsg3Hx_F_DGYdFsUD1IsaQ7fRHw 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtbqsoQJdIhMst0mtoJ8nyGhTpejJ79lC9SBSVDHFofAC1xVZR3Blzk8dD5TxIclzugGgurfGajpWgT_tKp_pVIxMMcTLqG-zIz19Q 
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtcm710FutVFHVrJkYc_Ts6S6lqTzqxbdtffP2XELsve6Lf0OXaMZEnceUUQQXRi6NKCcF_7e-F_4uS7hPwnUTwCUCbqAuvpPXAWIs 
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtdze9oxcsMmV7wLG4KrvBxTiKKc9x-4WiujP_6rsp34qmgTsiRhbIxPHPZy4sN7lqiGfpDENy97kAJTyFt51qccnCA0qh3Ow 
+
+
+ Today's bonus deals
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZteJMcqmz6xmLkPRz5OJybsCwTBzsSWbVBAezjBrgg8sMkQHdAOytTJVOfCjr7Z1gKNBdFaZF8GVpOak0-TRDu4VESZh197cuEZHCo 
+
+
+ 
+ 
+Refurbished Excellen...
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ SAVE $260
+
+ 
+
+ 
+ 
+ $489.99
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtfcBQLrv6OuXDxbS1__6Ro-RcAOjk2OwQ3OGh7tyapnpNtvEzjSNIIcVlfjjJFTafs2dBiNlzBhwN4tVbyDQZY4evV8dA2pTIBJ_Y 
+
+ Shop Now
+
+
+
+
+
+
+
+
+
+
+ 
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtgioYrrQYeOoEMrSdyZ0d1QusSl4wWi1H
+
+---
