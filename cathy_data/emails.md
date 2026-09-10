@@ -11638,3 +11638,199 @@ sup {
    
 
 ---
+
+## [待办] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-09-02T21:56:42+00:00
+**摘要:** 邮件包含用于验证My TELUS账户的验证码901078，该验证码30分钟后失效。
+**待办:** 输入验证码901078以验证My TELUS账户
+
+96 
+  
+  
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {
+  width: 100%;
+  background-color: #eeeeee;
+}
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding issue. */
+table {
+  border-spacing: 0;
+}
+/* Resolves the Outlook 2007, 2010, and Gmail td padding issue. */
+table td {
+  border-collapse: collapse;
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+/* Yahoo auto-sensing link color and border */
+.yshortcuts a {
+  border-bottom: none !important;
+}
+a.white,
+a.white:visited {
+  color: #ffffff;
+}
+a {
+  color: inherit;
+}
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+sup {
+  font-size: 66%;
+  line-height: 1;
+  vertical-align: top;
+  mso-text-raise: 30%;
+}
+
+@media only screen and (max-width: 599px) {
+  .email-container {
+    width: 100% !important;
+    min-width: 320px !important;
+  }
+  .noBorder {
+    border: none !important;
+  }
+  .width90 {
+    width: 90% !important;
+  }
+  .width100 {
+    width: 100% !important;
+  }
+  .mainimage {
+    width: 100% !important;
+    display: block !important;
+    height: auto !important;
+  }
+  .hide {
+    display: none !important;
+  }
+}
+ 
+ 
+
+ 
+ 
+  Here's your verification code to validate your identity.
+ 
+ 
+
+ 
+
+   
+     
+       
+         
+           
+
+             
+             
+               
+                 
+                   
+                     
+                       
+                         
+                           
+                         
+                       
+                     
+                   
+                 
+               
+             
+
+             
+             
+               
+                 
+                   
+                     
+                       
+                        Your My TELUS verification code
+                       
+                     
+                     
+                       
+                        Hi TELUS,
+                       
+                     
+                   
+                 
+               
+             
+
+             
+             
+               
+                Your one-time verification code to log into your My TELUS account nataliewu100@gmail.com is:
+               
+             
+
+             
+             
+               
+                 
+                  901078
+
+                 
+               
+             
+
+             
+             
+               
+                This code expires in 30 minutes.
+               
+             
+
+             
+             
+               
+                 
+                  If you did not try to sign in, please  change your password  immediately to protect your account.
+                 
+               
+             
+
+             
+             
+               
+                 
+                   Stay safe : We will never call or text you to ask for this code.
+                 
+               
+             
+
+             
+             
+               
+   
+
+---
