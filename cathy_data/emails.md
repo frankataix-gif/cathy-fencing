@@ -11351,3 +11351,36 @@ Consultez telus.com/voyage pour connaître les modalités et les prix propres à
 Vi
 
 ---
+
+## [其他] Account Update Confirmation
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T15:13:58-07:00
+**摘要:** 邮件确认用户于8月16日更改了Koodo服务计划，下一账单将包含常规费用、额外使用费及部分费用调整，并提醒9月13日前可能受限于部分分钟和数据。
+**待办:** 无
+
+Hey there,
+On August 16, 2022, you changed the following services. After making changes to your plan or add-ons, your next bill will include the following charges: your regular monthly service, additional usage, a one-time partial/prorated charge and/or credit from August 16, 2022 to the end of your bill cycle on September 13, 2022. Please note: you may only have partial minutes and partial data until your bill cycle resets on September 13, 2022 at 11:59pm.
+Got a question? Use Koodo Assist, our digital assistant to get answers instantly to just about any question you have. Go to koodo.com/chat.
+Added*
+Koodo Choice - Speed Boost
+ Price per month: $10.00
+ Service effective on: August 16, 2022
+Koodo Choice - Rollover Data
+ Price per month: $0.00
+ Service effective on: August 16, 2022
+*Taxes where applicable
+Removed
+Koodo Choice VM
+ Price per month: $20.00
+ Service effective on: August 16, 2022
+Koodo Choice NTSMS
+ Price per month: $5.00
+ Service effective on: August 16, 2022
+
+
+All the best,
+The Koodo Team
+
+
+---
