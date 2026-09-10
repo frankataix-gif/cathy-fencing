@@ -143,3 +143,14 @@ Dear parents, please review the schedule for September and confirm your attendan
 Dear parents, please review the schedule for September and confirm your attendance for the parent meeting on Friday.
 
 ---
+
+## [学校] Meadowridge School schedule
+
+**发件人:** office@meadowridge.ca
+**日期:** 2026-09-10T19:11:14Z
+**摘要:** 提醒家长查看九月校历并确认参加周五的家长会。
+**待办:** 确认参加周五的家长会
+
+Dear parents, please review the schedule for September and confirm your attendance for the parent meeting on Friday.
+
+---
