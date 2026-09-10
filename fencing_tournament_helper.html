@@ -558,57 +558,56 @@
 
   <!-- 日程 -->
   <div id="tab-cathydata" class="tab-content">
-    <div id="upcoming-card" class="card" style="display:none;">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h2 style="margin:0;">近期要做什么</h2>
-        <span style="font-size:0.8rem; color:var(--gray);">未来 7 天</span>
-      </div>
-      <div id="upcoming-list"></div>
+    <div id="cathydata-sub-tabs" class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
+      <button class="btn active" data-cathy-subtab="calendar" style="padding:4px 12px; font-size:0.8rem;">日历</button>
+      <button class="btn secondary" data-cathy-subtab="tasks" style="padding:4px 12px; font-size:0.8rem;">待办事项</button>
     </div>
 
-    <div id="schedule-pinned-card" class="card" style="display:none;">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h2>今日 / 正在进行</h2>
-        <button class="btn cathy" id="schedule-add">+ 添加事件</button>
+    <div id="cathydata-sub-calendar" class="cathydata-sub-content" style="display:block;">
+      <div id="upcoming-card" class="card" style="display:none;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <h2 style="margin:0;">近期要做什么</h2>
+          <span style="font-size:0.8rem; color:var(--gray);">未来 7 天</span>
+        </div>
+        <div id="upcoming-list"></div>
       </div>
-      <div id="schedule-pinned"></div>
+
+      <div id="schedule-pinned-card" class="card" style="display:none;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <h2>今日 / 正在进行</h2>
+          <button class="btn cathy" id="schedule-add">+ 添加事件</button>
+        </div>
+        <div id="schedule-pinned"></div>
+      </div>
+
+      <div id="schedule-calendar-card" class="card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <h2>Cathy 日程</h2>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <button class="btn" id="schedule-prev">&lt;</button>
+          <h3 id="schedule-month" style="margin:0;"></h3>
+          <button class="btn" id="schedule-next-month">&gt;</button>
+        </div>
+        <div class="schedule-calendar" id="schedule-calendar"></div>
+      </div>
+
+      <div class="card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+          <h3 style="margin:0;">事件列表</h3>
+          <button class="btn" id="schedule-add-btn" onclick="openScheduleEditor()">+ 日程</button>
+        </div>
+        <div id="schedule-list"></div>
+      </div>
     </div>
 
-    <div id="schedule-calendar-card" class="card">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h2>Cathy 日程</h2>
-      </div>
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <button class="btn" id="schedule-prev">&lt;</button>
-        <h3 id="schedule-month" style="margin:0;"></h3>
-        <button class="btn" id="schedule-next-month">&gt;</button>
-      </div>
-      <div class="schedule-calendar" id="schedule-calendar"></div>
-    </div>
-
-    <div class="card">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
-        <h3 style="margin:0;">待办清单</h3>
-        <button class="btn" id="task-add-btn" onclick="openTaskEditor(null)">+ 待办</button>
-      </div>
-      <div id="task-list"></div>
-    </div>
-
-    <div class="card">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
-        <h3 style="margin:0;">事件列表</h3>
-        <button class="btn" id="schedule-add-btn" onclick="openScheduleEditor()">+ 日程</button>
-      </div>
-      <div id="schedule-list"></div>
-    </div>
-
-    <div class="card" style="display:none;">
-      <h3 style="margin-bottom:8px;">日程同步 / GitHub</h3>
-      <p style="font-size:0.8rem;color:var(--gray);margin-bottom:8px;">复制本地 JSON 到 GitHub 文件 cathy_data/schedule.json，或在另一台设备导入。</p>
-      <textarea id="schedule-io" rows="4" style="width:100%; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;" placeholder="粘贴 schedule.json..."></textarea>
-      <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:8px;">
-        <button class="btn secondary" id="schedule-export">导出 JSON</button>
-        <button class="btn cathy" id="schedule-import">导入 JSON</button>
+    <div id="cathydata-sub-tasks" class="cathydata-sub-content" style="display:none;">
+      <div class="card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+          <h3 style="margin:0;">待办清单</h3>
+          <button class="btn" id="task-add-btn" onclick="openTaskEditor(null)">+ 待办</button>
+        </div>
+        <div id="task-list"></div>
       </div>
     </div>
   </div>
@@ -3230,7 +3229,7 @@ function circuitLabel(c) {
     const subs = ['tournaments', 'membership', 'results', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
-      const btn = document.querySelector(`.sub-tabs button[data-subtab="${s}"]`);
+      const btn = document.querySelector('#tab-tournaments .sub-tabs button[data-subtab="${s}"]');
       if (el) el.style.display = s === tab ? 'block' : 'none';
       if (btn) {
         if (s === tab) { btn.classList.remove('secondary'); btn.classList.add('active'); }
@@ -3246,11 +3245,37 @@ function circuitLabel(c) {
   }
 
   function initFencingSubTabs() {
-    const bar = document.querySelector('.sub-tabs');
+    const bar = document.querySelector('#tab-tournaments .sub-tabs');
     if (!bar) return;
     bar.addEventListener('click', (e) => {
       if (!e.target.dataset || !e.target.dataset.subtab) return;
       setFencingSubTab(e.target.dataset.subtab);
+    });
+  }
+
+  let currentCathySubTab = 'calendar';
+  function setCathydataSubTab(tab) {
+    currentCathySubTab = tab;
+    const subs = ['calendar', 'tasks'];
+    subs.forEach(s => {
+      const el = document.getElementById('cathydata-sub-' + s);
+      const btn = document.querySelector('#cathydata-sub-tabs button[data-cathy-subtab="${s}"]');
+      if (el) el.style.display = s === tab ? 'block' : 'none';
+      if (btn) {
+        if (s === tab) { btn.classList.remove('secondary'); btn.classList.add('active'); }
+        else { btn.classList.add('secondary'); btn.classList.remove('active'); }
+      }
+    });
+    if (tab === 'calendar') { renderSchedule(); if (typeof renderUpcoming === 'function') renderUpcoming(); }
+    if (tab === 'tasks' && typeof renderTasks === 'function') renderTasks();
+  }
+
+  function initCathydataSubTabs() {
+    const bar = document.getElementById('cathydata-sub-tabs');
+    if (!bar) return;
+    bar.addEventListener('click', (e) => {
+      if (!e.target.dataset || !e.target.dataset.cathySubtab) return;
+      setCathydataSubTab(e.target.dataset.cathySubtab);
     });
   }
 
@@ -3273,7 +3298,7 @@ function circuitLabel(c) {
         updateMapMarkers();
       }
       if (e.target.dataset.tab === 'emails') loadEmails();
-      if (e.target.dataset.tab === 'cathydata') { if (typeof renderTasks === 'function') renderTasks(); if (typeof renderUpcoming === 'function') renderUpcoming(); }
+      if (e.target.dataset.tab === 'cathydata') setCathydataSubTab(currentCathySubTab);
     });
   }
 
@@ -4012,7 +4037,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v9', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v10', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4045,6 +4070,7 @@ function circuitLabel(c) {
   initFilters();
   initTournamentView();
   initFencingSubTabs();
+  initCathydataSubTabs();
   initResultsViewButtons();
   initTabs();
   initRulesPanel();
