@@ -10579,3 +10579,96 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5aQv2-2BoZ95-2B2UIIFLvNaAo5MFXVXgNhvDhNoFhd9NBNBZsNq_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH9SG18bIee2SpoJM6-2BbbaL-2BD7H6YOj0MvxaJpCTO5DrcKpiMEkKbsq-2Bl24X-2FKNtjFwNzcBMbzhdNchF7BYVoGlXBXmngoy3sVmqFQ8hECqy6Sl2l0-2B-2B-2BM1XBque9gyXp5andcDhGr4mJFBisw5WVQzhjNQG8vU4k9QT74a3y58YkIO7LwYDp8OSTHaCyw-2BK8JJ-2FXIIKfu14M1K2XRSqLzDnm-2FsWfk5gC9loZWELKuZBQE3K0F2NWa3-2F7z1ZmcgpevxsrqWOQ7LA7TVaO5tz8A1Y25EnjXORlAwp0Qq-2B3T1dsK6z1c4s-2BOKLj-2F-2B88lMalhVGYqFBqhT4GhKsZO70XkK4kZJ0
 
 ---
+
+## [营销] Labour Day deals on the tech you want.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-06T04:05:10-06:00
+**摘要:** BestBuy.ca 发送劳动节促销邮件，推荐科技产品和家电优惠，包含多个购物链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJGj0Z_NSa1wKJEEdNdegIrhXkBYADOJFFWhvjOhwZCZiV8O4WnKe8XQNi5G0_cB9krV_XSyhUSVsaSMR80RjkIGBSj1xRKSXiBMQ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJHPNCl5rQoz0mFGk3MfIdcgfAmwmdUBs2wlBzTm3lSMsh6RA9MxbI5AnjLcpO-Hd_cHbfSSgoANdusA5IfR1KVjjmknzZM 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJcmdvI6FftQq2wKNo2oFDzPduk0prJSMz1a1bBlcze3L2KyFS08UObXGRQcBqlEU58TlO0c638Ml4tHm1AnMH-giVozoR5jQqfmA 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJdcpi-jHHf-fB30bShIhMiIL5lgPNOGEgbgXwhfApnMdfwYRp7Ypmp9QbSXNRRQ9-Xyo7k0GSoWgQe6bze6js1CyOiG6MqMKivvw 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJeiPO014a-Dmj8D_gF4jpLO0EQH08YH42mvHR_12PXXzXX5GGIGb7RAs276eRvKDPb4pBgDxb3vzp2IlDkYtrQgSSoEGJFxswmHg 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJi8-ZTfUbZtFGY9C8vsirjr2ioVGqtPkT9ykH1pPupaurIS9CI2SrUTcisifhqc_cVaAuae2UUXdPJDhUtOMxXW8Q9WFBoRmm5rg 
+
+Just for you
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJjjvlk0s5kFUiBjswU-M7oxsw49PuEreLAAka-XKyLi1x1Z3362lZbuSpXXMhrHs8cg8EgYp6PboA-6rbpWenCzYEdxhFngfvuaA 
+
+
+ 
+ 
+Save up to 40%
+on our hottest major appliances.
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJksxH7dCt8_yb35jLHz41PHp__2UuK6bp9Czdj--hx1yYSH3XoA6y6tjIf5WR5r-DHbjy0TLaSJYyboh_9BLvFCIB7g8_6_Jm1EA 
+
+ Shop Now
+  
+
+
+
+ Shop by category
+ 
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJl_uvwrjHRCMmdOPrJhcKB10ZerV8k-AFYCKMdiI3Dhr0nazwXUIYlWKtKT1nT_ECgA3OtyV2a3VapyI_ARWUqj3PYbpYpRkzzCQ 
+
+
+ Computers and Tablets
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJm7tVxpBQQ4r0YJd2yHwEzqD-L_oxWVpy6uSizx0TOgZWGz2tsBp79kPgcpfofagi5PREl8jTsbX-pfwwcMKHFvwR8qH4pHOYPoA 
+
+Cell Phones and Accessories
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJnrwoRXp00HAl5HSDYPEcZpKMLHg_R3aHAyEcQt_Q-n5V-sC__rjctuv
+
+---
