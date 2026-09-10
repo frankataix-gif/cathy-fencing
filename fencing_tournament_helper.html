@@ -1775,12 +1775,60 @@ function circuitLabel(c) {
     saveToLocal('cathy_reflections', JSON.stringify(reflections));
   }
 
-  function toggleAiInterpret(el) {
+  async function aiOnlineInterpret(summary, context) {
+    const action = summary === 'coach' ? 'coach' : 'ai';
+    const payload = { action, context };
+    if (action === 'ai') payload.summary = summary;
+    const res = await fetch(CATHY_SYNC_WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  }
+
+  async function toggleAiInterpret(el) {
     const wrap = el.closest('.bout-wrap');
     if (!wrap) return;
     const box = wrap.querySelector('.ai-interpretation');
     if (!box) return;
-    box.style.display = box.style.display === 'none' ? 'block' : 'none';
+    const card = wrap.closest('.result-card');
+    const eventId = card ? card.dataset.eventId : '';
+    const round = wrap.dataset.round;
+    const opponent = wrap.dataset.opponent;
+    const ref = getBoutReflection(eventId, round, opponent);
+    if (!ref.summary) return;
+
+    if (box.style.display === 'none') {
+      box.style.display = 'block';
+      if (!box.dataset.loaded) {
+        box.innerHTML = '<div class="ai-title">AI 解读中…</div>';
+        try {
+          const ctx = {
+            eventId,
+            round,
+            opponent,
+            tournament: card ? card.dataset.title : '',
+            event: card ? card.querySelector('.meta')?.textContent : ''
+          };
+          const ai = await aiOnlineInterpret(ref.summary, ctx);
+          if (ai && ai.suggestions && ai.suggestions.length) {
+            box.innerHTML = '<div class="ai-title">AI 深度解读（在线）</div><ul>' + ai.suggestions.map(s => `<li>${escapeHtml(s)}</li>`).join('') + '</ul>';
+          } else if (ai && ai.analysis) {
+            box.innerHTML = '<div class="ai-title">AI 深度解读（在线）</div><p>' + escapeHtml(ai.analysis) + '</p>';
+          } else {
+            throw new Error('empty');
+          }
+        } catch(e) {
+          const local = analyzeReflection(ref.summary);
+          box.innerHTML = '<div class="ai-title">本地 AI 想法</div><ul>' + local.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
+        }
+        box.dataset.loaded = '1';
+      }
+    } else {
+      box.style.display = 'none';
+    }
   }
 
   function toggleOpponentReflectForm(btn) {
@@ -2470,6 +2518,35 @@ function circuitLabel(c) {
     return data;
   }
 
+  async function aiOnlineCoachPlan(btn) {
+    const out = document.getElementById('coach-ai-plan');
+    if (!out) return;
+    out.style.display = 'block';
+    out.innerHTML = '<div class="ai-title">在线 AI 生成计划中…</div>';
+    try {
+      const data = computeCoachData(cachedResults);
+      const totalBouts = data.totalBouts;
+      const winRate = totalBouts > 0 ? Math.round(data.wins / totalBouts * 100) + '%' : '-';
+      const poolRate = (data.poolWins + data.poolLosses) > 0 ? Math.round(data.poolWins / (data.poolWins + data.poolLosses) * 100) + '%' : '-';
+      const context = {
+        stats: { totalEvents: data.totalEvents, totalBouts, winRate, poolRate, avgPlace: data.avgPlace !== null ? Math.round(data.avgPlace) : '-' },
+        themes: data.themes,
+        recentReflections: data.reflections.slice(-5).reverse(),
+        upcoming: data.upcoming.map(e => ({ title: e.title, date: e.date, type: e.type }))
+      };
+      const ai = await aiOnlineInterpret('coach', context);
+      if (ai && ai.suggestions && ai.suggestions.length) {
+        out.innerHTML = '<div class="ai-title">在线 AI 训练计划</div><ul>' + ai.suggestions.map(s => `<li>${escapeHtml(s)}</li>`).join('') + '</ul>';
+      } else if (ai && ai.analysis) {
+        out.innerHTML = '<div class="ai-title">在线 AI 训练计划</div><p>' + escapeHtml(ai.analysis) + '</p>';
+      } else {
+        throw new Error('empty');
+      }
+    } catch(e) {
+      out.innerHTML = '<div class="ai-title">在线 AI 暂不可用</div><p style="font-size:0.8rem; color:var(--gray);">Worker 未配置或网络错误，已用本地分析代替。</p>';
+    }
+  }
+
   function renderCoachView() {
     const body = document.getElementById('coach-body');
     if (!body) return;
@@ -2561,6 +2638,13 @@ function circuitLabel(c) {
     const recentRefs = data.reflections.slice(-5).reverse().map(r => `<li><strong>${r.key}：</strong>${escapeHtml(r.summary.slice(0, 120))}${r.summary.length > 120 ? '...' : ''}</li>`).join('');
 
     body.innerHTML = `
+      <div class="coach-section">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+          <h3 style="margin:0;">在线 AI 训练计划</h3>
+          <button class="btn" onclick="aiOnlineCoachPlan(this)" style="padding:4px 12px; font-size:0.8rem;">生成</button>
+        </div>
+        <div id="coach-ai-plan" style="display:none;"></div>
+      </div>
       <div class="coach-section">
         <h3>训练重点</h3>
         ${focusHtml}
@@ -2693,12 +2777,8 @@ function circuitLabel(c) {
       const hasReflect = !!ref.summary;
       const reflectMark = hasReflect ? '✎' : '+';
       const reflectText = hasReflect ? escapeHtml(ref.summary) : '';
-      const aiIdeas = hasReflect ? analyzeReflection(ref.summary) : [];
-      const aiHtml = aiIdeas.length ? `<div class="bout-ai-toggle" onclick="toggleAiInterpret(this)">💡 AI 解读</div>
-        <div class="ai-interpretation" style="display:none;">
-          <div class="ai-title">AI 想法</div>
-          <ul>${aiIdeas.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul>
-        </div>` : '';
+      const aiHtml = hasReflect ? `<div class="bout-ai-toggle" onclick="toggleAiInterpret(this)">💡 AI 解读</div>
+        <div class="ai-interpretation" style="display:none;"></div>` : '';
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
           <div class="bout-row">
