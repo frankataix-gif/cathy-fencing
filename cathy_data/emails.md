@@ -4490,3 +4490,41 @@ https://myaccount.google.com/notifications
 
 
 ---
+
+## [其他] Your Koodo e.Bill is ready. An overdue balance requires your attention, please review.
+
+**发件人:** Koodo <koodobilling@mailing.koodomobile.com>
+**日期:** 2026-09-09T14:02:37-07:00
+**摘要:** Koodo通知用户三月电子账单已准备好，有逾期余额需及时处理以避免滞纳金。
+**待办:** 无
+
+Trouble viewing this email? View in web browser 
+
+   
+Hello , 
+Your E-Bill for March is ready and can be viewed on Self Serve.
+
+
+Avoid late payment charges by signing up for pre-authorized payments. It’s a convenient and hassle free option for paying your monthly bill. 
+
+Learn more about your bill:
+
+Partial charges explained 
+
+
+Account #: 
+
+Total amount due: 
+ 
+Recent payments may not be reflected on this bill.
+
+If received by: 
+
+Login to Self Serve 
+
+Please do not reply to this message. Replies to this email address are not monitored by Koodo. 
+
+Privacy Statement | Support | koodomobile.com
+
+
+---
