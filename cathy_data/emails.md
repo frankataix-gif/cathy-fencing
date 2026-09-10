@@ -10672,3 +10672,177 @@ Cell Phones and Accessories
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAcAAAAABjec0hJnrwoRXp00HAl5HSDYPEcZpKMLHg_R3aHAyEcQt_Q-n5V-sC__rjctuv
 
 ---
+
+## [营销] 9.9狂賞｜大派高達HK$4,890優惠券🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-06T00:50:11+00:00
+**摘要:** Trip.com 发起9.9促销活动，提供高达HK$4,890的优惠券和15% Trip Coins回赠。
+**待办:** 无
+
+即睇Mastercard優惠券、商務艙優惠券、15% Trip Coins回贈等👉🏼          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-button {
+  max-width: 201px !important;
+}
+
+.trip-mail-fluid-coupon-wrapper {
+  max-width: 560px !important;
+}
+
+.trip-mail-fluid-coupon-mobile {
+    mso-hide: all;
+    display: none;
+    max-height: 0px;
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 640px) {
+    .trip-mail-header-space {
+        width: 56px !important
+    }
+}
+
+@media only screen and (max-width: 640px) {
+  .trip-mail-fluid-coupon-mobile {
+    mso-hide: none;
+    display: block !important;
+    max-height: none;
+    overflow: unset;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .trip-mail-fluid-coupon-wrapper {
+    max-width: 338px !important;
+  }
+
+  .trip-mail-fluid-coupon {
+  max-width: 169px !important;
+}
+
+  .trip-mail-fluid-coupon-tag {
+    max-width: 115px !important;
+  }
+
+  .trip-mail-fluid-coupon-claim {
+    max-width: 115px !important;
+  }
+
+  .trip-mail-fluid-coupon-button {
+    max-width: 91px !important;
+  }
+
+  .trip-mail-fluid-coupon-desktop {
+    mso-hide: all !important;
+    display: none !important;
+    max-height: 0px !important;
+    overflow: hidden !important;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  .trip-mail-block {
+    display: table;
+  }
+  .trip-mail-line-height {
+    line-height: 1 !important;
+  }
+  .trip-mail-fluid {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    float: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .trip-mail-fluid-half {
+    width: 50% !important;
+    max-width: 50% !important;
+    height: auto !important;
+    box-sizing: border-box;
+    min-width: auto !important;
+  }
+  .trip-mail-three-columns-responsive{
+    display: table !important;
+  }
+  .trip-mail-three-columns-tradition{
+    display: none !important;
+  }
+}
+
+body {
+  margin: 0;
+}
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+  .trip-mail-fluid-mobile {
+    width: 49.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .trip-mail-fluid-mobile-60 {
+    width: 59.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  .trip-mail-fluid-mobile-40 {
+    width: 39.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !important;
+    box-sizing: border-box;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .trip-mail-fluid-mobile-65 {
+    width: 65.5% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    min-width: auto !importa
+
+---
