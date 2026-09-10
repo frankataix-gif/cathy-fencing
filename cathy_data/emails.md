@@ -20,3 +20,13 @@
 ## 已归档
 
 - 日期： 发件人： 主题： 备注：
+
+## USA Fencing Registration Confirmation
+
+**From:** usfencing@example.com
+**To:** 
+**Date:** 2026-09-10T10:00:00Z
+
+You are registered for October NAC (Y14 Women's Foil).
+
+---
