@@ -11072,3 +11072,66 @@ Merci d’avoir choisi TELUS.
 Vo
 
 ---
+
+## [其他] TELUS Easy Roam has been successfully removed
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T16:48:10-07:00
+**摘要:** 邮件通知用户已成功添加TELUS Easy Roam服务，覆盖美国及190+国际目的地，并提醒相关费用激活条件和设置要求。
+**待办:** 检查设备数据漫游设置并确认所有设备已添加Easy Roam服务。
+
+Trouble viewing this email? View in web browser.
+
+You've made some changes to your TELUS Mobility account
+Hi ,
+You have just added Easy Roam to this mobile phone: . You are now covered for your next trip and all future trips to the US and 190+ international destinations.
+ 
+Here are a few things to keep in mind:
+The Easy Roam fee will only activate when you use data, make or answer a call or send a text while in the US or one of the 190+ international destinations that are covered.
+To ensure Easy Roam activates when you arrive at your destination, simply turn on data roaming in your mobile device settings.
+Incoming text messages (excluding any data used to receive pictures or videos, if applicable) are always free when roaming and will not activate the Easy Roam fee.
+If you are roaming with other mobile phones, make sure you also add Easy Roam to those phones as well.
+ 
+My TELUS
+Log in to the My TELUS app or telus.com/mytelus to manage your data usage like you do at home or view details about what's included and not included with Easy Roam.
+
+Note: Viewing any of our support articles on telus.com or accessing your account using My TELUS will not use your monthly data.
+ 
+Thank you for choosing TELUS.
+
+  Visit  to learn more about how Easy Roam works
+
+See telus.com/travel for the specific rates that apply to your travel destinations, including the full terms and conditions.
+Privacy   |   Contact Us
+Find a Store   |   telus.com
+TELUS, the TELUS logo, the future is friendly and telus.com are trademarks of TELUS Corporation, used under license. All other trademarks are the property of their respective owners.
+
+©2019 TELUS. All rights reserved.
+
+--------------------------------------------------
+
+Ce courriel ne s'affiche pas correctement? Ouvrez-le dans un navigateur web.
+
+Vous avez apporté certains changements à votre compte de services mobiles de TELUS.
+Bonjour,
+Vous venez d'ajouter l'option Voyagez connecté au téléphone mobile: . Vous avez tout ce qu'il vous faut pour votre prochain voyage et tous vos futurs séjours aux États-Unis et dans plus de 190 pays.
+ 
+Voici quelques points à retenir :
+Les frais associés à l'option Voyagez connecté seront automatiquement facturés si vous utilisez des données, envoyez un texto, ou faites ou recevez un appel aux États-Unis ou dans l'une des quelque 190 destinations couvertes à l'international.
+Afin de vous assurer que l'option Voyagez connecté est activée à destination, il suffit de configurer votre téléphone pour qu'il transmette les données en itinérance.
+Les messages texte entrants (à l'exception de ceux contenant des données photo et vidéo s'il y a lieu) sont toujours gratuits en itinérance. Les frais pour l'option Voyagez connecté ne s'y rattachent pas.
+Si vous voyagez avec d'autres téléphones mobiles, assurez-vous également d'activer l'option sur ces appareils.
+ 
+Mon TELUS
+Lancez l'application Mon TELUS ou allez à telus.com/montelus pour gérer votre utilisation de données ou pour afficher les fonctions comprises dans l'option Voyagez connecté, comme vous le feriez à la maison.
+
+Remarque: L'affichage d'articles de soutien sur telus.com ou l'accès à votre compte depuis l'application Mon TELUS ne consomment pas vos données mensuelles.
+ 
+Merci d'avoir choisi TELUS.
+
+  Visitez telus.com/soutien pour en apprendre davantage sur l'option Voyagez connecté.
+
+Consultez telus.com/voyage pour connaître les modalités et les prix propres à chaque destination.
+Vi
+
+---
