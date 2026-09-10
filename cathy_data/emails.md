@@ -22,3 +22,14 @@
 - 日期： 发件人： 主题： 备注：
 
 
+
+## [其他] USAF Registration Confirmation
+
+**发件人:** info@usfencing.org
+**日期:** 2026-09-10T18:41:17Z
+**摘要:** 
+**待办:** 无
+
+Dear Cathy, your registration for the Y14 Women Foil event has been confirmed. Please arrive 30 minutes early for check-in.
+
+---
