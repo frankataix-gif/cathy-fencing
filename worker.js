@@ -70,7 +70,7 @@ export default {
 
     return json({ error: 'unknown action' }, 400);
     } catch (e) {
-      return json({ error: e.message, stack: e.stack }, 500);
+      return json({ error: e.message || 'internal error' }, 500);
     }
   }
 };
