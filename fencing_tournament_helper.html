@@ -407,7 +407,6 @@
       <button class="tab active" data-tab="tournaments">USA Fencing</button>
       <button class="tab" data-tab="cathydata">日程</button>
       <button class="tab" data-tab="emails">邮件</button>
-      <button class="tab" data-tab="coach">AI 助手</button>
       <button class="tab" data-tab="profile">我的</button>
     </div>
   </div>
@@ -424,6 +423,7 @@
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
       <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">比赛成绩</button>
+      <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">AI 助手</button>
       <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员信息</button>
     </div>
 
@@ -522,6 +522,14 @@
           <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
         </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
+      </div>
+    </div>
+
+    <div id="sub-tab-coach" class="fencing-sub-content" style="display:none;">
+      <div class="card">
+        <h2 style="margin-bottom:12px;">Cathy 训练助手 / AI Coach</h2>
+        <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">整合比赛、反思、日程，给出训练和赛前建议。</p>
+        <div id="coach-body" style="font-size:0.9rem; color:var(--dark);">加载中…</div>
       </div>
     </div>
   </div>
@@ -690,15 +698,6 @@
         <button class="btn secondary" data-filter="其他" style="padding:4px 12px; font-size:0.8rem;">其他</button>
       </div>
       <div id="emails-list-full" style="font-size:0.9rem; line-height:1.7;">加载中…</div>
-    </div>
-  </div>
-
-  <!-- AI 训练助手 -->
-  <div id="tab-coach" class="tab-content">
-    <div class="card">
-      <h2 style="margin-bottom:12px;">Cathy 训练助手 / AI Coach</h2>
-      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">整合比赛、反思、日程，给出训练和赛前建议。</p>
-      <div id="coach-body" style="font-size:0.9rem; color:var(--dark);">加载中…</div>
     </div>
   </div>
 
@@ -3280,7 +3279,7 @@ function circuitLabel(c) {
   }
 
   function setFencingSubTab(tab) {
-    const subs = ['tournaments', 'membership', 'results'];
+    const subs = ['tournaments', 'membership', 'results', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
       const btn = document.querySelector(`.sub-tabs button[data-subtab="${s}"]`);
@@ -3295,6 +3294,7 @@ function circuitLabel(c) {
       updateMapMarkers();
     }
     if (tab === 'results') loadResultsView();
+    if (tab === 'coach') loadCoachView();
   }
 
   function initFencingSubTabs() {
@@ -3324,7 +3324,6 @@ function circuitLabel(c) {
         if (!map) initMap();
         updateMapMarkers();
       }
-      if (e.target.dataset.tab === 'coach') loadCoachView();
       if (e.target.dataset.tab === 'emails') loadEmails();
       if (e.target.dataset.tab === 'cathydata') { if (typeof renderTasks === 'function') renderTasks(); if (typeof renderUpcoming === 'function') renderUpcoming(); }
     });
@@ -3961,6 +3960,7 @@ function circuitLabel(c) {
       const homeTab = document.querySelector('.tab[data-tab="tournaments"]');
       if (homeTab) homeTab.classList.add('active');
       tournamentTab.classList.add('active');
+      setFencingSubTab('tournaments');
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     topBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
@@ -4064,7 +4064,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v7', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v8', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
