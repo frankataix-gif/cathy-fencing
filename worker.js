@@ -165,6 +165,7 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
+  let rawText = '';
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
       messages: [
@@ -172,19 +173,19 @@ async function classifyEmail(env, email) {
         { role: 'user', content: prompt }
       ]
     });
-    const text = res && res.response ? res.response : '';
-    const m = text.match(/\{[\s\S]*?\}/);
+    rawText = res && res.response ? res.response : '';
+    const m = rawText.match(/\{[\s\S]*?\}/);
     if (m) {
       const obj = JSON.parse(m[0]);
       return {
         category: obj['分类'] || obj.category || '其他',
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
-        raw: text
+        raw: rawText
       };
     }
   } catch(e) {}
-  return { category: '其他', summary: '', todo: '无', raw: text };
+  return { category: '其他', summary: '', todo: '无', raw: rawText };
 }
 
 function json(obj, status = 200) {
