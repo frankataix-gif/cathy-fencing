@@ -17014,3 +17014,75 @@ Latest and Greatest Tech &rsaquo;
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7W3t2gK5abfO1D1s544u9kO-SUK2GkzikO7zbaiQm8khrYbBjM4cr7b
 
 ---
+
+## [营销] Traveller 夹克
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-28T03:23:45-06:00
+**摘要:** 这封邮件是Loro Piana推出的Traveller夹克产品宣传邮件。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+献给行旅人生的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODJ9ADIAAAAAAZ_squgonwSZ_V8fFPMZM8BPKh2v8BKjNkuHm1DCInI5SRO2Lj4Z7y7gqXGTd3goed5YbdlQZ-HLu2yj91hUQeQmGhbANa-6L0OidNGmBPk 
+View the web version 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODJ9ADIAAAAAAZ_squgp-BNi9O7K70jSpzqL27cvMt8stUaVmQt1mhL462atY3l6bT9HL06YPj6rI2LjnpY3peQHiXT6DxqcIWy8GsKfrp3xQFeOl1txV59pZwiu 
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODJ9ADIAAAAAAZ_squgqv3Jqo7ZDf55eputi3_xa2r7UzbHBPxuR2ZVGW21LZYhN2oOWsYQchOYnMxMAwDiXbKrw52R5is0BEv-dg-dnoBxkUjj-H9u9VLpF1NoZ 
+女士 
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODJ9ADIAAAAAAZ_squgrcWbdTWSDKDK-tZ3Ti8ySL9GEMtbz8HilWwAEAmBQ5FxzBNq2knYBxQQMZ9-Mrp4-jXhKZU5r2fgjOA39ke3M89VN3cCqmY9gZ1PIh9Aa 
+男士 
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODJ9ADIAAAAAAZ_squgs_pGiBMW2NOKpiOG1mf2EdRsTG5kVWFBF9zRomxyPq6KPNBUFyFqiMQKzMsFirQ8u9NKs
+
+---
