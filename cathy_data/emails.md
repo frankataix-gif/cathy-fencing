@@ -4553,3 +4553,171 @@ Privacy (https://link.com/privacy)
 Support (https://support.link.com)
 
 ---
+
+## [其他] 您与“blackbaud.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-09-09T13:28:52-07:00
+**摘要:** 这封邮件通知用户曾使用Google账号登录blackbaud.com，并共享了姓名、照片和邮箱信息，但目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 9月9日13:28 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyWgmQIpYSct8kqLWsSDqDdk6XXSMWoCd0ASPhQ6hPsBhUFXrTUQABe8v8RVxDyPLHFVGC7zyUCxX7oYy80iKR3ZiN1n4G2vW95BnmirmPLUpIYjdi3>blackbaud.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 9月9日13:28 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyWgmQIpYSct8kqLWsSDqDdk6XXSMWoCd0ASPhQ6hPsBhUFXrTUQABe8v8RVxDyPLHFVGC7zyUCxX7oYy80iKR3ZiN1n4G2vW95BnmirmPLUpIYjdi3>blackbaud.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+<!--[if false]><!-->
+
+
+“blackbaud.com”收到了以下个人资料信息
+
+
+
+natalie
+
+姓名和个人资料照片
+
+
+
+nataliewu100@gmail.com
+
+邮箱
+
+
+
+
+
+ 
+
+
+这封邮件涵盖您在 9月9日13:28 共享的信息
+
+如果想停止使用 Google 账号登录“blackbaud.com”，请前往您的 Google 账号。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+“blackbaud.com”收到了以下个人资料信息
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+natalie
+
+姓名和个人资料照片
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+nataliewu100@gmail.com
+
+邮箱
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+ 
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+这封邮件涵盖您在 9月9日13:28 共享的信息
+
+<!--[if false]><!-->
+
+如果想停止使用 Google 账号登录“blackbaud.com”，请前往您的 Google 账号。
+
+<!--[if false]><!-->
+
+
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"  
+xmlns:w="urn:schemas-microsoft-com:office:word"  
+href="https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https%3A%2F%2Fmyaccount.google.com%2Flinkedapps%2Foverview%2FAY6rrVHsDn6Lr4oKhhbHRPXeyUq1QqLA_eGvwmu1AraR4FwbX6ZKf390qju-knz8-RSSGSUv1gNNuTj1cOnuYJYYZEc%2Futm_source%3De_notification%26utm_medium%3Demail_notification"  
+style="height:48px;width:268px;v-text-anchor:middle;" arcsize="125%"  
+stroke="false" fillcolor="#0b57d0">
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+
+<![endif]-->
+<https://c.gle/ACT4xYwm6_FiSRU1ukU-GNr3JMaZmQN2LgJysZ6r5qxcu-UKJFkNDhCxL_WGHkT_mla66mbPeHAUHpAmvvJQnPKRYtJnjNhcF_ILKR891P3XufJqHRKbPSvMlm7zznK-noBYWozCbkpFL9nfF1GhPqd5Pldy2Su3CxcCeoXWLOuFJ6rz7elsn6SkvAdwckdvToorG_Zh6Let5ArXDIP6pY5Aj16tCPBPu1Af61H-4Vp4ef1rm4QE8MojVWkd9ddFFhGj6UoWC8KZh7dEjzc9XFPA84xuU3ZTvRSfPdA6LBkzZV5gdNkGyxUNdIab1nN7aPrwvk0ZPP_f2Hcipb3uXfJgZE6T1Y0QAa2uRbMFmh7BPEfr-mW2t90QyOEYyl5M0nEWKmQTgx6RhuyIQ4Q4u_OoYq7t2H3zOPtN756KjS4dDaS_eazsLHYWU92D1df3VDeJUvlpFOLoSFkMWQfHzfEqAATaLM5aEig>  
+前 
+往您的 Google 账号
+
+
+查看“blackbaud.com”的《隐私权政策》和《服务条款》，了解“blackbaud.com”会如何 
+处理及保护您的数据。
+
+如果想删除您已与“blackbaud.com”共享的数据，请前往“blackbaud.com”。
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+使用 Google，安全加倍
+
+为了确保您的数据安全，Google 账号采用了先进的安全技术来保护您的隐私
+
+
+ 
+
+我们向您发送这封邮件，目的是让您了解关于您的 Google 账号和所用 Google 服务的 
+重要变化。
+
+如果想停止收到此类邮件，您可以 
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/ACT4xYx3XNJHPNPe9j4bJwBJaFeXCph0ZY4tWkoc5-gm6NiH3eCW-99DFjX36scPQqYegAkldqLVsxIvgZf_y1OQaNshhU1udruVr9PBTuXwNPBp-X3hItMJ7xSNgWSe7cIp49B5Gr774nlgTEvsQ9KjqEp9I3MW5pUW_7tozxJtRxoTTEqvJl9ZnBDyZerl6ZIGcG_uk-zv-aczDK5Tl7FcmPccPtfv98gJdyWXsnjFQtspYFUjAfXh9Etip8FLUqxzhjfMWx3JZS7PBjGCiKLcsHORJud08d3WkgkRg90?utm_source=gm&utm_medium=email&auto=true>退 
+订。
+
+即使退订此类邮件，您仍会继续收到安全提醒。
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
