@@ -175,11 +175,12 @@ async function classifyEmail(env, email) {
       return {
         category: obj['分类'] || obj.category || '其他',
         summary: obj['摘要'] || obj.summary || '',
-        todo: obj['待办'] || obj.todo || '无'
+        todo: obj['待办'] || obj.todo || '无',
+        raw: text
       };
     }
   } catch(e) {}
-  return { category: '其他', summary: '', todo: '无' };
+  return { category: '其他', summary: '', todo: '无', raw: text };
 }
 
 function json(obj, status = 200) {
