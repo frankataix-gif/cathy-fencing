@@ -9216,3 +9216,213 @@ Kind regards
                 
 
 ---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-09T09:26:47+01:00
+**摘要:** 通知Jingqi Wu，Apartment 120 Key 1已按照安排释放，创建日期为2026年9月9日，由Paul创建。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }
+  
+  
+  
+  
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }
+  
+  
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+  
+  
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }
+  
+  
+    @media only screen and (max-width:480px) {
+      .details-list-table table {
+        width: 100% !important;
+      }
+
+      .details-list-table table td:first-child {
+        width: 40% !important;
+      }
+
+      .summary-icons-table {
+        padding: 10px 5px !important;
+      }
+
+      .summary-icons-table table td:first-child {
+        width: 10% !important;
+        padding-right: 8px !important;
+      }
+    }
+
+    /* WYSIWYG-authored content (e.g. event "About" description) — scoped so
+           the markup's margins can be tuned without affecting the rest of the email. */
+    .wysiwyg-content p {
+      margin: 0 0 12px;
+    }
+
+    .wysiwyg-content p:last-child {
+      margin-bottom: 0;
+    }
+
+    .wysiwyg-content ul,
+    .wysiwyg-content ol {
+      margin: 0 0 12px;
+      padding-left: 24px;
+    }
+
+    .wysiwyg-content li {
+      margin: 0 0 4px;
+    }
+  
+
+
+
+  
+    
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                                
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+      
+    
+      
+        
+          
+            
+              
+              
+                
+                  
+                    
+                      
+                        Dear Jingqi Wu,
+Apartment 120 Key 1 has been released under the arrangement:
+Created On: 09/09/2026
+Created By: Paul Boakye
+Block: Emery Wharf 
+Property: 120
+Visitor Name: Foxtons (Managing Agent)
+Collection Type: Regular Collection
+Kind regards
+
+                      
+                    
+                  
+                
+              
+              
+            
+          
+        
+      
+    
+    
+    
+      
+        
+          
+            
+                
+            
+          
+        
+      
+    
+    
+    
+      
+        
+          
+            
+                
+
+---
