@@ -6428,3 +6428,14 @@ Natalie
 
 
 ---
+
+## [学校] Lynch Bus Lines : Stopfinder App
+
+**发件人:** Stopfinder <no-reply@stopfinder.com>
+**日期:** 2026-09-08T16:15:10+00:00
+**摘要:** 通知家长关于孩子的校车路线信息，需通过Stopfinder应用激活账户并下载应用。
+**待办:** 激活Stopfinder账户并下载应用
+
+Hello Jingqi Wu,  &nbsp;  Going forward, you will receive all messages and alerts through this application,  along with your child's new route details . You will also be able to see the  live location of your respective school bus along with your bus stop . If you have any problems, please contact at prameet@lynchbuslines.com or 604.439.0842.   We are only sending this email to ONE email address per family  (the first guardian we have on file). Therefore, in  order to give permission to another adult  to view your child's bus schedule please click on the three dots in the top right hand corner of your child's schedule, and then click ' Share Schedule '.   &nbsp;    Please note : This app will only be used for  one-way communication , which is for the office to contact the parents, in a case you want to reach us, please email (prameet@lynchbuslines.com) or call at 604-439-0842.  &nbsp;     Please follow the following Steps to activate your account:        &nbsp;       Step 1:    Follow this link to activate your subscription : https://app.stopfinder.com/activation?guid=b0d07cd1-d735-42a7-a019-1bf3f27a0880&email=nataliewu100%40gmail.com  &nbsp;    Step 2:    Download   the Stopfinder app .           &nbsp;  Thank you, and have a great rest of the year!  Sincerely,    LYNCH BUS LINES
+
+---
