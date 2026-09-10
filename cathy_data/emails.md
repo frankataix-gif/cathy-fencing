@@ -6995,3 +6995,59 @@ payoneer
 ( https://links-send.payoneer.com/f/a/eqlPcV4i50a5ZpheoyAaNA~~/AAQRxRA~/j_dyb1OeZySieyAC3zO-of7eFKYVmQxk569_F888d4tYi0r8fzk_qViPS1Lsf9I-Yof_ATghYhNfcNM2igOJDD_peIVWz2Mzt-rSEEDOy
 
 ---
+
+## [其他] Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza via Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T04:36:17-07:00
+**摘要:** 这封邮件通知收件人有来自Lauren D'Souza的DocuSign文档需要查看和签名，提供了相关链接。
+**待办:** 查看并签署Lauren D'Souza发送的DocuSign文档
+
+Hello Jingqi Wu,
+
+Lauren D'Souza has sent you a new DocuSign document to view and sign. Please click on the link below to begin signing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+REVIEW DOCUMENT
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81f2b356&etti=33&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get started.
+
+This message was sent to you by Lauren D'Souza who is using the DocuSign Electronic Signature Service. If you would rather not receive email from this sender you may contact the sender with your request.
+
+Do Not Share This Email
+This email contains a secure link to DocuSign. Please do not share this email, link, or access code with others.
+
+
+Questions about the Document?
+If you need to modify the document or have questions about the details in the document, please reach out to the sender by emailing them directly.
+
+Stop receiving this email
+Report this email https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi1011snYnf5MFqiCOkT66QwJ-7HrexJoCf-0PjgiMAQNoEq2UbZSuxlIKmfcwB6f3w6RAoouBqzmWEM9N9de54weGhYYPcakHrGkGqzlDErqYyme_YnyYQ_pz8Ay6yOKFdfbY4itLA7QqkX3gAwR4voV1R64oqjIpHtKlx7J4b4V2_aa5aqXccvi6njE_Ze9DIJFy0356rGVJBxM-KEgq2i94ymxPI-Q3TA2U-l0jDaffnQh3x1xtSwQT72hApQ5Yp0Pbn8XaB9mG1p1w7IlGpJxR26w3mKYPhAa9b6z8vf92dn0aTGjXBiPlrdItR3DLJ0w0CD4DhfGPEthBdMJ38kh41OqnBljkqBZg8P23LxJNJtQOSC2WZTMPmUiq46OTIklbCahWt9JiL-ePAiC3fx9bJyu0LPaB1OFkw0Gk7kOwLjL6i3MppgakvOnlJxUB4o&lang=en
+Declining to sign 
+Managing notifications 
+
+If you are having trouble signing the document, please visit the Help with Signing page on our Support Center.
+https://support.docusign.com/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing
+
+---
