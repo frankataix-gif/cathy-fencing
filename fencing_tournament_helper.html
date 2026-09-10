@@ -338,6 +338,12 @@
     .bout-reflection { font-size:0.8rem; color:var(--gray); background:#f0f9ff; border-left:3px solid var(--primary); padding:8px 10px; margin:6px 0 0 0; border-radius:0 6px 6px 0; white-space:pre-wrap; word-break:break-word; }
     .bout-ai-toggle { font-size:0.75rem; color:var(--primary); margin-top:4px; cursor:pointer; display:inline-flex; align-items:center; gap:4px; }
     .ai-interpretation { background:#fdf4ff; border:1px solid #f0d5ff; border-radius:8px; padding:8px 10px; margin:6px 0 10px; font-size:0.8rem; }
+    .coach-section { background:white; border-radius:12px; padding:12px; margin-bottom:12px; box-shadow:0 1px 3px rgba(0,0,0,0.06); }
+    .coach-section h3 { margin:0 0 10px; font-size:1rem; color:var(--primary); }
+    .coach-section ul { margin:0; padding-left:1.2em; }
+    .coach-section li { font-size:0.85rem; margin-bottom:6px; line-height:1.5; }
+    .coach-pill { display:inline-block; background:#f1f5f9; border-radius:20px; padding:3px 10px; font-size:0.75rem; margin:3px 3px 3px 0; }
+    .coach-pill span { color:var(--primary); font-weight:700; }
     .ai-interpretation .ai-title { font-weight:600; color:#7e22ce; margin-bottom:4px; }
     .ai-interpretation ul { margin:0; padding-left:1.2em; }
     .ai-interpretation li { margin-bottom:4px; line-height:1.5; }
@@ -400,6 +406,7 @@
     <div class="tabs-inner">
       <button class="tab active" data-tab="tournaments">USA Fencing</button>
       <button class="tab" data-tab="cathydata">日程</button>
+      <button class="tab" data-tab="coach">AI 助手</button>
       <button class="tab" data-tab="profile">我的</button>
     </div>
   </div>
@@ -614,6 +621,15 @@
     <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
       <button class="btn secondary" id="schedule-editor-cancel">取消</button>
       <button class="btn cathy" id="schedule-editor-save">保存</button>
+    </div>
+  </div>
+
+  <!-- AI 训练助手 -->
+  <div id="tab-coach" class="tab-content">
+    <div class="card">
+      <h2 style="margin-bottom:12px;">Cathy 训练助手 / AI Coach</h2>
+      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">整合比赛、反思、日程，给出训练和赛前建议。</p>
+      <div id="coach-body" style="font-size:0.9rem; color:var(--dark);">加载中…</div>
     </div>
   </div>
 
@@ -2316,6 +2332,23 @@ function circuitLabel(c) {
     return round + ' / ' + opponent;
   }
 
+  function categorizeReflection(summary) {
+    if (!summary) return [];
+    const s = summary.toLowerCase();
+    const cats = [];
+    const has = (kw) => s.includes(kw.toLowerCase());
+    if (has('装备') || has('剑条') || has('检查') || has('压力') || has('罚分')) cats.push('装备');
+    if (has('累') || has('不想打') || has('社交') || has('说话')) cats.push('心理/赛前');
+    if (has('节奏') || has('跟着') || has('被动') || has('主动') || has('创造')) cats.push('节奏');
+    if (has('退') || has('自信') || has('吓') || has('怕') || has('犹豫')) cats.push('自信');
+    if (has('距离') || has('远') || has('逼') || has('近')) cats.push('距离');
+    if (has('反攻') || has('盲目') || has('一个地方') || has('同一个') || has('找点')) cats.push('战术/目标');
+    if (has('裁判') || has('不判') || has('转换')) cats.push('裁判');
+    if (has('防守') || has('守')) cats.push('防守');
+    if (has('进攻') || has('攻')) cats.push('进攻');
+    return cats;
+  }
+
   function analyzeReflection(summary) {
     if (!summary) return [];
     const s = summary.toLowerCase();
@@ -2353,6 +2386,224 @@ function circuitLabel(c) {
 
     if (!ideas.length) ideas.push('复盘很具体，下次比赛前再看一遍这条总结，把它作为赛前提醒。');
     return ideas;
+  }
+
+  function flattenReflections() {
+    const all = [];
+    Object.entries(reflections || {}).forEach(([eventId, eventData]) => {
+      if (!eventData) return;
+      // rounds
+      Object.entries(eventData).forEach(([key, value]) => {
+        if (key === 'bouts') return;
+        if (value && value.summary) {
+          all.push({ eventId, type: 'round', key, summary: value.summary });
+        }
+      });
+      if (eventData.bouts && typeof eventData.bouts === 'object') {
+        Object.entries(eventData.bouts).forEach(([key, value]) => {
+          if (value && value.summary) {
+            all.push({ eventId, type: 'bout', key, summary: value.summary });
+          }
+        });
+      }
+    });
+    return all;
+  }
+
+  function computeCoachData(results) {
+    const data = {
+      totalEvents: results.length,
+      totalBouts: 0,
+      wins: 0,
+      losses: 0,
+      poolWins: 0,
+      poolLosses: 0,
+      deRounds: [],
+      avgPlace: null,
+      reflections: flattenReflections(),
+      themes: {},
+      opponents: {},
+      upcoming: []
+    };
+
+    results.forEach(r => {
+      const bouts = r.bouts || [];
+      data.totalBouts += bouts.length;
+      const wins = bouts.filter(b => b.result === 'Victory').length;
+      const losses = bouts.length - wins;
+      data.wins += wins;
+      data.losses += losses;
+      data.poolWins += bouts.filter(b => b.bout === 'Pool' && b.result === 'Victory').length;
+      data.poolLosses += bouts.filter(b => b.bout === 'Pool' && b.result === 'Defeat').length;
+      const deRounds = [...new Set(bouts.filter(b => b.bout !== 'Pool').map(b => b.bout))];
+      data.deRounds.push(...deRounds);
+      const parsed = parsePlaceNum(r.place);
+      if (parsed.place !== null) {
+        if (data.avgPlace === null) data.avgPlace = parsed.place;
+        else data.avgPlace = (data.avgPlace + parsed.place) / 2;
+      }
+
+      // opponents
+      bouts.forEach(b => {
+        const key = b.opponent;
+        if (!data.opponents[key]) data.opponents[key] = { name: key, club: b.opponent_club || '', bouts: [] };
+        data.opponents[key].bouts.push(b);
+      });
+    });
+
+    // recurring themes
+    data.reflections.forEach(ref => {
+      const cats = categorizeReflection(ref.summary);
+      cats.forEach(c => { data.themes[c] = (data.themes[c] || 0) + 1; });
+    });
+
+    // upcoming events
+    const today = vancouverISO();
+    const upcoming = scheduleEvents
+      .filter(e => e.type === 'competition' || e.type === 'camp' || e.type === 'club')
+      .filter(e => e.date >= today)
+      .sort((a, b) => a.date.localeCompare(b.date))
+      .slice(0, 5);
+    data.upcoming = upcoming;
+
+    return data;
+  }
+
+  function renderCoachView() {
+    const body = document.getElementById('coach-body');
+    if (!body) return;
+
+    const data = computeCoachData(cachedResults);
+    const themeEntries = Object.entries(data.themes).sort((a, b) => b[1] - a[1]);
+
+    // 训练重点
+    let focusHtml = '';
+    if (themeEntries.length) {
+      const top = themeEntries.slice(0, 3);
+      const focusMap = {
+        '装备': '检查装备、剑条压力、备用武器。',
+        '心理/赛前': '赛前 15 分钟安静、少社交，做深呼吸和自我暗示。',
+        '节奏': '多练"先动"，不要跟着对手节奏走。',
+        '自信': '进攻或被压时不要退，练习 counter-time 和 parry-riposte。',
+        '距离': '练习小步逼近，到合适距离再出手。',
+        '战术/目标': '多练 feint 和变线，不要连续打同一个落点。',
+        '裁判': '前 2 剑观察裁判尺度，及时调整战术。',
+        '防守': '防守时用 blade work 破坏节奏，寻找反击时机。',
+        '进攻': '保持进攻主动性，确认距离和时机再出手。'
+      };
+      focusHtml = `<ul>${top.map(([t, n]) => `<li><strong>${t}</strong>（出现 ${n} 次）— ${focusMap[t] || '注意训练。'}</li>`).join('')}</ul>`;
+    } else {
+      focusHtml = '<div style="color:var(--gray);">暂无反思数据，先写赛后总结。</div>';
+    }
+
+    // 下一场
+    let upcomingHtml = '';
+    if (data.upcoming.length) {
+      upcomingHtml = data.upcoming.map(e => {
+        const cd = scheduleCountdown(e);
+        const cls = cd.class;
+        return `<div style="margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+            <strong>${e.title}</strong>
+            <span class="schedule-countdown ${cls}">${cd.text}</span>
+          </div>
+          <div style="font-size:0.8rem; color:var(--gray); margin-top:4px;">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''} · ${scheduleTypeLabel(e.type)}</div>
+          ${e.description ? `<div style="font-size:0.8rem; color:var(--gray); margin-top:2px;">${e.description}</div>` : ''}
+        </div>`;
+      }).join('');
+      if (!data.upcoming.length) upcomingHtml = '<div style="color:var(--gray);">暂无日程。</div>';
+    } else {
+      upcomingHtml = '<div style="color:var(--gray);">日程里暂无下一场比赛。</div>';
+    }
+
+    // 整体数据
+    const totalBouts = data.totalBouts;
+    const winRate = totalBouts > 0 ? Math.round(data.wins / totalBouts * 100) + '%' : '-';
+    const poolRate = (data.poolWins + data.poolLosses) > 0 ? Math.round(data.poolWins / (data.poolWins + data.poolLosses) * 100) + '%' : '-';
+    const deRounds = [...new Set(data.deRounds)];
+    const deDepth = deRounds.length ? deRounds[deRounds.length - 1] : '-';
+
+    const statsHtml = `
+      <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:8px;">
+        <div class="result-summary-card"><div class="num">${data.totalEvents}</div><div class="label">赛事</div></div>
+        <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
+        <div class="result-summary-card"><div class="num">${winRate}</div><div class="label">总胜率</div></div>
+        <div class="result-summary-card"><div class="num">${poolRate}</div><div class="label">Pool 胜率</div></div>
+        <div class="result-summary-card"><div class="num">${deDepth}</div><div class="label">DE 深度</div></div>
+        <div class="result-summary-card"><div class="num">${data.avgPlace !== null ? Math.round(data.avgPlace) : '-'}</div><div class="label">平均名次</div></div>
+      </div>
+    `;
+
+    // 反复出现的对手
+    const opponentEntries = Object.values(data.opponents)
+      .filter(o => o.bouts.length > 1)
+      .map(o => {
+        const wins = o.bouts.filter(b => b.result === 'Victory').length;
+        const losses = o.bouts.length - wins;
+        return { ...o, wins, losses };
+      });
+    const opponentsHtml = opponentEntries.length ? opponentEntries.map(o => {
+      const key = `${o.name}`;
+      const winText = `${o.wins}胜 ${o.losses}负`;
+      const ref = data.reflections.find(r => r.key === `T32 / ${o.name}` || r.key === `Pool / ${o.name}`);
+      return `<div style="margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
+        <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+          <strong>${o.name}</strong>
+          <span style="font-size:0.75rem; color:var(--gray);">${winText}</span>
+        </div>
+        <div style="font-size:0.75rem; color:var(--gray); margin-top:2px;">${o.club}</div>
+        ${ref ? `<div class="bout-reflection" style="margin-top:6px; font-size:0.75rem;">${escapeHtml(ref.summary)}</div>` : ''}
+      </div>`;
+    }).join('') : '<div style="color:var(--gray);">暂无重复对手记录。</div>';
+
+    // 最近反思
+    const recentRefs = data.reflections.slice(-5).reverse().map(r => `<li><strong>${r.key}：</strong>${escapeHtml(r.summary.slice(0, 120))}${r.summary.length > 120 ? '...' : ''}</li>`).join('');
+
+    body.innerHTML = `
+      <div class="coach-section">
+        <h3>训练重点</h3>
+        ${focusHtml}
+      </div>
+      <div class="coach-section">
+        <h3>下一场 / 日程</h3>
+        ${upcomingHtml}
+      </div>
+      <div class="coach-section">
+        <h3>弱点趋势</h3>
+        <div style="display:flex; flex-wrap:wrap; gap:6px;">
+          ${themeEntries.map(([t, n]) => `<span class="coach-pill">${t} <span>${n}</span></span>`).join('')}
+        </div>
+      </div>
+      <div class="coach-section">
+        <h3>整体数据</h3>
+        ${statsHtml}
+      </div>
+      <div class="coach-section">
+        <h3>对手档案</h3>
+        ${opponentsHtml}
+      </div>
+      <div class="coach-section">
+        <h3>最近反思</h3>
+        <ul>${recentRefs || '<li>暂无</li>'}</ul>
+      </div>
+    `;
+  }
+
+  async function loadCoachView() {
+    const body = document.getElementById('coach-body');
+    if (!body) return;
+    if (!cachedResults.length) {
+      body.innerHTML = '加载中…';
+      try {
+        const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
+        const data = await res.json();
+        cachedResults = data && data.results ? data.results : [];
+      } catch (e) {
+        body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
+        return;
+      }
+    }
+    renderCoachView();
   }
 
   function parseScore(score) {
@@ -2771,6 +3022,7 @@ function circuitLabel(c) {
         if (!map) initMap();
         updateMapMarkers();
       }
+      if (e.target.dataset.tab === 'coach') loadCoachView();
     });
   }
 
