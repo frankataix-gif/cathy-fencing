@@ -11743,3 +11743,75 @@ transactions, and much more.            payoneer
 ( https://links-send.payoneer.com/f/a/k42TkE6IVD-qK3-RUHCGkg~~/AAQRxRA~/hGFGu72G8l_B2eH23Ypyb_b0i8FU-Nmw9-dWsWzrTAmaEmH7NhkLII
 
 ---
+
+## [营销] Baby Cashmere 呈献考究针织精品
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-03T22:05:29-06:00
+**摘要:** Loro Piana推广其Baby Cashmere针织系列，强调精致工艺和日常造型的焕新。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+焕新日常廓形
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhQo6rl29Epk9HkyXAX4WzXOG9RB2mXA-JLCFXf5mnr1wrqD171Xp1d1_yEJQmGIoSLk166fMaQHllpylzV7oB0V1TZq1dJqI4yig 
+View the web version 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhRmcmwfLntlWllSCfwWPwSw2seWdjuWcgiFYlAQNvWErZQLqDhFtHEtc5cyfppyQZm6L9ar1P_XovN2sG0CZExC9DMvSGI07NUJfYEocM 
+
+
+
+
+
+
+
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhSQVpsBRYhHBnQi6LALW2vWufeF_1KsdsZW69ej4SfD6HwThRrlCeePcIdfOH5favShqXybymgvITnTKI0U2V8W7F3tPDnIe-b8rMPGK4 
+女士 
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhT4rcaKism62KXXHd7IuHveb7drXuvFs-Lppp_HnorKxUf8AM6zBRIRpeu21vtkaXLLnxVKystPasVF5TjKRDCI4pQ-9WS-lT2BC_E78E 
+男士 
+https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9ADIAAAAAAbSUnAhU0GpmM2loWw6dh5le3j2aBUUTBzYtHdYUR8VxRI8psd-op_-gIwMIkCwbX9wYRw9oJ5GN6gRJHq4YsdxAWqI
+
+---
