@@ -6612,3 +6612,72 @@ to your receiving account(s)
 ( https://links-send.payoneer.com/f/a/f0g4woqlZVbAOzR6CGYG6Q~~/AAQRxRA~/iFJ-EGJ07CPKqp9G2R1SX_5dvo7Lj7aTd66Eg-X_5BL9yWgH8OSpq2mc69H0I2P0yP1KysZ5vVH9F7l2QbOWOW_488d2lITCIi4wEhjYMLq96XlAr219MvLPLQeM6dafhNp4pEJSOQr1yESMeBKyfV8j6W6YDunv
 
 ---
+
+## [学校] Re: Meadowridge Student Website
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-08T03:00:32+00:00
+**摘要:** 发送新的2026-27学年学生网站密码，并提醒将在9月8日早上重置。附有学生技术网页链接。
+**待办:** 无
+
+Hi Cathy!
+
+As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
+
+If you have any questions, please feel free to reach out to myself or Ms. Hook.
+
+Kindly,
+Mrs Reis
+
+[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
+
+
+Christina Reis M.Ed (she/her)
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+________________________________
+From: Christina Reis <christina.reis@Meadowridge.bc.ca>
+Sent: Wednesday, September 2, 2026 12:34 PM
+To: Cathy He <cathy.he@meadowridge.bc.ca>
+Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>
+Subject: Meadowridge Student Website
+
+Hi Cathy,
+
+Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
+
+Mrs Reis
+
+
+Christina Reis, M.Ed.
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+
+
+MEADOWRIDGE SCHOOL
+
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+
+T: 604-467-4444
+
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+
+---
