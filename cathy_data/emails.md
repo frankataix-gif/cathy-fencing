@@ -7051,3 +7051,62 @@ If you are having trouble signing the document, please visit the Help with Signi
 https://support.docusign.com/articles/How-do-I-sign-a-DocuSign-document-Basic-Signing
 
 ---
+
+## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-07T11:43:07+02:00
+**摘要:** Frank未收到Thirdfort链接，请求重新发送或指导访问方式。上一封邮件中Lauren提到会发送链接供妻子上传身份文件。
+**待办:** 请求重新发送Thirdfort链接或获取访问方式
+
+Hello Lauren
+
+Regarding Thirdfort Link: I have not received the Thirdfort link yet. Please resend it or advise me on how to access it.
+
+I look forward to your reply.
+
+frank
+在 Aug 20, 2026, 11:31 +0200，Lauren D'Souza <Lauren.DSouza@knightfrank.com>，写道：
+> Good Morning Frank,
+>
+> I hope you are well.
+>
+> Please find attached a Confirmation of Instruction letter and our Terms of Business for your wife’s review.
+>
+> Please see below for next steps:
+>
+>
+> • Our Client Due Diligence team will send a Thirdfort link to your wife, where she can upload copies of her ID documents to be remotely verified;
+> • I have attached a Property Information Form for your wife to complete and sign;
+> • We will arrange for photographs to be taken in due course;
+> • The team will start calling through their registered buyers once the above has been completed and is in place.
+>
+>
+> Should you have any questions, please do not hesitate to reach out.
+>
+> Kind Regards,
+> Lauren
+>
+>
+> Lauren D'Souza
+> Senior Operations Coordinator
+> London Sales Operations
+> ______
+> D:
+>   +44 2089392806
+>  M:
+> +44 7811771417
+> knightfrank.com
+> 52‑56 Kensington Church Street,
+> London,
+> W8 4DB,
+> United Kingdom
+> This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful.
+>
+> This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any authority to represent, bind or obligate in any way, any other Knight Frank entity.
+>
+> We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and their clients are increasingly being targeted by fraudsters, often requesting funds to be transferred to a different bank account or seeking to obtain confidential information. If you receive a suspicious or unexpected email from us, or purporting to have been sent on our behalf, please do not reply to the email, click on any links, open any attachments, or comply with any instructions contained within it without first speaking (in person or by telephone) with your Knight Frank LLP contact to verify the email. Knight Frank LLP cannot take responsibility for any losses arising from your transfer of funds or disclosure of confidential information.
+>
+> Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not con
+
+---
