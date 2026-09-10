@@ -17284,3 +17284,16 @@ Take Survey [https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUMOD
 [https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUKY-2BqhnSpGo4MooDsVG4j-2BZKfygbEuL570TdOhkfMjyUI0Nj_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpGIidZADQA9cB2eDEgZUOZLS8ufdIwh-2Fvh7oV0vPm-2By4GGcP0Q6dRYrsqTFglUfa7eFHmdT2AR7J7T-2B7YfbbutEsJvK8fhraCfVM1VrJNNy5G78IEuPnQ88Qn8myQJpUMRDX2CkrNntL7RLrEEvM9CTHaVAPkcVcpdYE-2BOTCy849A-3D-3D]
 
 ---
+
+## [学校] Get Set for September! Back-to-school portal now available
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-27T22:40:06+00:00
+**摘要:** 邮件通知秋季开学门户已开放，提醒家长和学生做好准备。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
