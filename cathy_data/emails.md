@@ -5239,3 +5239,21 @@ This e-mail and any attachments are strictly confidential.  If you are not the i
 Spencer West LLP is a limited liability partnership registered in England and Wales at the above address at which service of documents will be effective.  Registered no. OC360298.  Authorised and regulated by the Solicitors Regulation Authority: SRA No. 555456.  A list of members of Spencer West LLP is available for inspection at the registered office.  The term ‘partner’ in relation to Spencer W
 
 ---
+
+## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:08:46+00:00
+**摘要:** 该邮件通知用户需要召回之前关于伦敦公寓出售的沟通记录。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
+
+
+---
