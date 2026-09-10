@@ -12100,3 +12100,189 @@ color: #C8C8C8 !important; font-weight: normal !important; text-decoration: none
 																							 © TELUS Communications Inc.
 
 ---
+
+## [待办] Activate your phone and transfer your phone number to TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T14:53:34-07:00
+**摘要:** TELUS通知用户新设备已准备好，需按步骤转移电话号码。
+**待办:** 转移电话号码到TELUS
+
+96 
+       
+     
+   
+   
+   
+   
+   
+    Telus
+   
+   
+    
+            /* Email specific styles */
+.container {
+  width: 600px;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 600px) {
+  /* Global Template Desktop and Tablet CSS */
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 100%;
+  }
+}
+        
+   
+ 
+
+ 
+ 
+ 
+    
+   
+  
+     
+
+       
+      
+       
+         
+           
+             
+               
+                  
+              Trouble viewing this email? View in  web browser 
+             
+                 
+                 
+                     
+                   
+                 
+               
+             
+           
+         
+         
+      
+       
+      
+       
+           
+            
+             
+               
+                 
+                    
+                   
+                 
+               
+             
+           
+         
+       
+  
+  
+            
+                 
+   
+     
+       
+         
+            
+             
+            Welcome to the TELUS family – we're excited to have you with us!
+             
+           
+          
+       
+     
+   
+ 
+
+
+
+
+
+
+
+
+
+ 
+   
+
+     
+        
+      Your new device is ready to go with your TELUS phone number: xxx-xxx- 4907 . Below you'll find everything you need to get started.
+       
+     
+
+     
+       
+      Bring your existing number
+       
+     
+
+     
+       Bring your number from your previous provider with these steps: Before you start:
+       
+           Keep your old SIM card active (or eSIM) until the transfer is complete 
+           Have your account number from your previous provider handy 
+           Watch our quick  setup video  or follow the steps below 
+       
+      Transfer your number:
+       
+           
+            Log in to My TELUS at telus.com/mytelus (or register if you're new)
+             
+                 You'll need your TELUS account number: xxxx 091  
+                 And your billing postal code:  V3J0P2  
+             
+           
+           Go to "Plans &amp; Devices" and select your phone number (xxx-xxx- 4907 ) 
+           Select "Manage your phone number" then "Transfer your number" 
+           Enter your details:
+             
+                 The phone number you want to transfer 
+                 Your account number from your previous provider (or your old device's IMEI number) 
+             
+           
+           Your old provider will text you within 90 minutes – follow their instructions to authorize the transfer 
+           The transfer takes up to 2.5 hours 
+           Once complete, insert your new TELUS SIM card (or activate your eSIM) and turn on your device 
+       
+      Your temporary TELUS number stays active until the transfer is complete. 
+      Get help: visit  telus.com/transfernumbersupport  or call us at 1-888-811-2323.
+       
+     
+
+     
+       
+      Start fresh with your new TELUS number
+       
+     
+
+     
+       
+      Your device comes ready to use with your new number: xxx-xxx- 4907 . 
+      Activate your device:
+       
+           Insert your SIM card into your device 
+           Turn on your device – you're all set 
+       
+      For eSIM: follow our  detailed setup instructions 
+       
+     
+
+       
+       
+           
+         
+           
+             
+       
+      We're 
+
+---
