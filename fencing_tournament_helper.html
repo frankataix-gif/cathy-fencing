@@ -559,11 +559,21 @@
   <!-- 日程 -->
   <div id="tab-cathydata" class="tab-content">
     <div id="cathydata-sub-tabs" class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
-      <button class="btn active" data-cathy-subtab="calendar" style="padding:4px 12px; font-size:0.8rem;">日历</button>
-      <button class="btn secondary" data-cathy-subtab="tasks" style="padding:4px 12px; font-size:0.8rem;">待办事项</button>
+      <button class="btn active" data-cathy-subtab="tasks" style="padding:4px 12px; font-size:0.8rem;">待办事项</button>
+      <button class="btn secondary" data-cathy-subtab="calendar" style="padding:4px 12px; font-size:0.8rem;">日历</button>
     </div>
 
-    <div id="cathydata-sub-calendar" class="cathydata-sub-content" style="display:block;">
+    <div id="cathydata-sub-tasks" class="cathydata-sub-content" style="display:block;">
+      <div class="card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
+          <h3 style="margin:0;">待办清单</h3>
+          <button class="btn" id="task-add-btn" onclick="openTaskEditor(null)">+ 待办</button>
+        </div>
+        <div id="task-list"></div>
+      </div>
+    </div>
+
+    <div id="cathydata-sub-calendar" class="cathydata-sub-content" style="display:none;">
       <div id="upcoming-card" class="card" style="display:none;">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
           <h2 style="margin:0;">近期要做什么</h2>
@@ -598,16 +608,6 @@
           <button class="btn" id="schedule-add-btn" onclick="openScheduleEditor()">+ 日程</button>
         </div>
         <div id="schedule-list"></div>
-      </div>
-    </div>
-
-    <div id="cathydata-sub-tasks" class="cathydata-sub-content" style="display:none;">
-      <div class="card">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
-          <h3 style="margin:0;">待办清单</h3>
-          <button class="btn" id="task-add-btn" onclick="openTaskEditor(null)">+ 待办</button>
-        </div>
-        <div id="task-list"></div>
       </div>
     </div>
   </div>
@@ -3253,7 +3253,7 @@ function circuitLabel(c) {
     });
   }
 
-  let currentCathySubTab = 'calendar';
+  let currentCathySubTab = 'tasks';
   function setCathydataSubTab(tab) {
     currentCathySubTab = tab;
     const subs = ['calendar', 'tasks'];
@@ -4037,7 +4037,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v10', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v11', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
