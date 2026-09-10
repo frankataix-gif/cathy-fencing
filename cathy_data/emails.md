@@ -9636,3 +9636,51 @@ Kind regards
     
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-08T09:02:55+00:00
+**摘要:** Lauren确认收到 Natalie 的信息，并表示将尽快发送链接。Natalie 也确认了联系方式。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for confirming, I will request for the link to be issued asap.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 08 September 2026 09:40
+To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+hi Lauren Thank u for ur message and  just double confirm my number +1 (778) 255-5899   Thanks On 8 Sep 2026 at 10:36AM +0200, Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>, wrote: Hi Natalie,   All received our end, thank you.   You will be sent a link to Thirdfort via te
+[https://image-processing-service.uk-1.mimecastcybergraph.com/v2/banners?e=xcOlffOPik5vX87P2jIHjix_EMtBfSOivZh2UnmlJWF69ufvRS5poYOPt2bNiO-lbDQz2DfwX-GBaxTvyLReWFiys9vRGFTAStMvQSmzWe4T6OVV2Pv109dh5_TACXdn_B-Gf_cG10P0wol4QBqtMZ1vqjF57D5bl_-EYkoL1salLX2X90VPccjkh80v3P3Y7dXrLG4oQ_XdZPCq41V3AsDBwBQQWdoEBge1ZuUKRAVOweEYzupwBtZtwd7nMPc-wUZBK1eB5tzwmja-g4n9TgyxWvPj80bv3x8RoRXJY1j92gvgWWhg4hqwMTqJGLrneG-gM30LvLlVDam8V0s3jUa9lFxYVtsn6XBm1pra1vbMG8NUGdOVMISH7xUkNeDFukB70UnKhW96O1yVSQXa1rHdkDP5yDJTC5CrvIl5oA7m_r-nuciM4YFef7L2jbXW-1pSfjHmPytw]<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.mLXufMb8UHtCC-oPRDdqSk9PCKFTpvqzp9W86SOk4-LzvA7XeoDovLxWOUrFnjtyQf1EcyAzagni5uzLctujJeaw44wl0SMiR_cVPwQUSHzkbqx6QSR3r7fJf2SBqGiFZOIP98hrTGbxGHamqsx8xodD3rqc__2MGTpjs8RFzsxa927AYGG_4ceExNgNOSBFJc-1mLg3AVgStyEbTaKxi5kh03Om5gi7BQc7Ma_igBpgcs04G6l6ibZKNm2sDo_L2p00mgGWzH7s6Ux29IAnLuo2QbJ4-q0dHY14-I734Y8Dl6xyPn74fVdpxmvBB-5A87EpHBpWi-GqINrp9_vCFw.VDmohlX0pQg5bH95.cO-aL6VHDX9qqh3U5kHjv0CqqebpUviyduV_PV6dv-6VzuD9o1y5WMTlvvHjIIH1-ZwbUaGmsccV3q18tDgBden2AwUnT6N4JYVN_EZlBaYEetq0G9xoQS29ya2_8HiXuEdzhbqwTafdCPs3HSqxLx5Xzu_NiHy-38WY-2aO2EQbSagoMFcu5LVhdvONk7YC13wyrGX86OO4Sy87BkmTXOiKjKdZr8WrCGg-s_562r6Vd8e7jZwJwiBXx8DqOWwXhs-eD4ISt97hLOOb5G9lY9-25iWgmwjjoMJ07ZeER1QXcFD_32RrcYNQhZdNzTCW5AcneucYMEBsghjxnHGBsP88iMevcnBQ5qKMaGCywj7xww4E3f8iSsa6-AlkGtLwvthfaAl9dhXLcVpjfNW9tg-pTtrh0sXz9lKo8PwBquiMIaSiALoO-KRGmPj69XYyxSllzOSpmyQgveiipiEVX1UyD1FIujuIgacDImhGVIXwRIO_JckU03kZjTASgal_CYBhTIlGQhkTnIsfdW_0k9SmDfCzP4QgwxxpqPUQwCwQkKqRP3azeM60HgGBi06_Sbty6zZG7J8j5On8xYxDq9UuuHsqgcjs1auxoZdUr3hCFhorzdbIeOocWhk-5jbEkP4Eo10iQh7_YZzkyGmkgR9CC4weBCi3RTnq3cMlmMnu5vixrlQr0cPwqivYN4lZ-UJycIffROtVXUJcyyLMZCvtjGu10Hp4wRjOBYspt7NmRK0808vlIb-d3bLSFCNsyvgIebJgtiffN3xe-R4Q8tjwf1zWgaYFqOnaiGgu8036ym5jEt8nR0psDWilOlbFxdCFmcnZpLxB68O_6YkmSXnR_irC2UFTyUcTHN6Xcg.VbapUS4Dg3FRtz4ub-yTFg%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
+CGBANNERINDICATOR
+hi Lauren
+Thank u for ur message and  just double confirm my number +1 (778) 255-5899
+
+Thanks
+On 8 Sep 2026 at 10:36 AM +0200, Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>, wrote:
+
+Hi Natalie,
+
+All received our end, thank you.
+
+You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+
+You can complete this in your own time, what I meant by live verification is that you will need to take live phot
+
+---
