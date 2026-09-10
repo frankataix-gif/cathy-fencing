@@ -19211,3 +19211,59 @@ body {
     box
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-25T21:42:19+00:00
+**摘要:** Natalie申请电动车充电站，对方回复称有可用停车位并说明费用，需确认是否继续
+**待办:** 确认是否接受EV停车位条款并回复
+
+Hi Natalie,
+Thank you for reaching out.
+We currently have one EV parking stall available, located on P4 – Stall #116.
+The EV parking stall is an additional $25 per month on top of your regular parking fee.
+If you would like to proceed with the EV parking stall, please let us know and we can proceed with updating your documents accordingly.
+Thank you, and we look forward to hearing from you!
+Best regards,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:ef21be04-018b-442f-9492-d13810f7356a]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful. Please consider the environment before printing this email.
+
+
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, August 25, 2026 10:45 AM
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Request for an EV Charging Station
+
+Hi,
+
+I am considering switching to an electric vehicle and would like to
+apply for an EV charging station for my parking space.
+
+Could you please let me know the application process and approximately
+how long it would take for the charging station to be approved and
+installed? Please also let me know if you need any vehicle information
+or if there are any related fees.
+
+I would appreciate a reply as soon as possible.
+
+Thank you,
+Natalie
+
+
+---
