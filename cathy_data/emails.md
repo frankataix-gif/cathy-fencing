@@ -13170,3 +13170,80 @@ Meadowridge School is located on the ancestral and unceded territories of the Ka
 
 
 ---
+
+## [其他] Thanks for registering to Payoneer
+
+**发件人:** Payoneer <no-reply@alerts.payoneer.com>
+**日期:** 2026-09-02T19:29:23+00:00
+**摘要:** 用户注册了Payoneer账户，收到感谢和欢迎邮件
+**待办:** 无
+
+Let us help you get started
+
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-alerts.payoneer.com/f/a/eE0drdqqDgngUnNgFBvXvA~~/AAQRxRA~/NRnfGrFhpyoaGmN9pi1dGTbCVdshvSZI9UZI3oIsoffoEaZtox-7EmKiY4I30xfiWiwqfKMz9qopfD0sHDlCwDxNUWE3ZizPXSYhT3NhY05QTyPdWvT_WFpo8yHkba09 style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-alerts.payoneer.com/f/a/dsLjBCo2xt6JDyW9N30Dzg~~/AAQRxRA~/ALH4sbsytpjsIaJRLNyn0PC0kLBI0COyOAOcKeG782MsRVRr1xJT3aZWQIAorbQuJF1Mjdg0Iyc1SDdU8RGJzxTIqAD88MLtCG83dVn-svdirM-FRJU2OlqiWRhGVCxmErm9Uw1q2maOeCPV-OPMe3laerBlvkCQ83rWmru5PFZPeczwLfMomy4T4WtxBIuZ alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+Welcome to
+Payoneer
+payoneer         
+
+
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;background:#FFFFFF;">
+  <tr>
+    <td style="padding-top:20px;padding-bottom:20px;">
+      <table class="ContentTextArea" align="center" border="0" cellpadding="0" cellspacing="0" style="font-family:'open sans',Arial,Helvetica,sans-serif;font-size:15px;text-align:left;color:#676767;" width="85%">
+        <tr>
+          <td valign="middle" style="padding-top:10px;padding-bottom:10px;"><strong style="font-size:16px;">Hi xiaojun,</strong></td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:10px;"><!--Gradient Liner--><!--[if (gte mso 9)|(IE)]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:100px;height:3px;"><v:fill type="gradient" color="#20dc86" color2="#ff4800" colors="30% #0092f4,70% #da54d8," angle="90"/></v:rect><![endif]-->
+            <table border="0" align="left" cellpadding="0" cellspacing="0" width="100" height="3" style="display:inline-table;">
+              <tr>
+                <td style="background:#0092F4;background:-moz-linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);background:-webkit-linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);background:linear-gradient(90deg,rgba(255,72,0,1) 0%,rgba(218,84,216,1) 30%,rgba(0,146,244,1) 70%,rgba(32,220,134,1) 100%);"></td>
+              </tr>
+            </table><!--[if gte mso 9]><![endif]--><!-- End Gradient Liner-->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+Thank you for registering to
+Payoneer. We’re thrilled you’ve chosen to work with us to grow
+your business.
+What happens
+next?
+To move forward, you’ll need to
+provide some information and supporting documents so we can
+verify your identity and business details. It'll also help us
+under
+
+---
