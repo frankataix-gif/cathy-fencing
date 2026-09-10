@@ -10867,3 +10867,113 @@ within the Payone
             line-height
 
 ---
+
+## [其他] Your Payoneer account was connected successfully, XIAOJUN!
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T06:00:12-04:00
+**摘要:** Payoneer账户已成功连接，可开始接收付款，未来可能需提供更多信息。
+**待办:** 无
+
+Hi XIAOJUN,  
+	 
+ 
+                     
+ 
+	 
+		  Thank you for your cooperation. We’re happy to let you know that your Payoneer account is ready to start receiving Payoneer payments. You may receive this email multiple times if you requested multiple Payoneer account connections.   
+	 
+ 
+                     
+ 
+	 
+		  Once you start receiving your Payoneer payments, they’ll be deposited into your corresponding Payoneer balance, and from there you’ll be able to withdraw funds to your bank account, pay your suppliers, and more.   
+	 
+ 
+                     
+ 
+	 
+		  Please note that we may ask you for additional information in the future as part of our ongoing efforts to keep our payment ecosystem safe and secure.   
+	 
+ 
+                     
+ 
+	 
+		  We can’t wait to help you grow your global business.   
+	 
+ 
+    
+                      If you have any questions,   contact us  . Your Customer ID is 106526374.           
+                                         
+                             
+                                 
+                                     
+                                        
+                                         
+                                             
+                                                 
+                                                    Thank you,
+                                                     
+                                                    The Payoneer Team
+                                                 
+                                             
+                                         
+                                        
+                                     
+                                 
+                              
+                                         
+ 
+     
+         
+            
+             
+                 
+                     
+                         
+                             
+                         
+                     
+                     
+                         
+                             
+                         
+                     
+                     
+                         
+                             
+                         
+                     
+                     
+                         
+                             
+                         
+                     
+                    
+                 
+             
+            
+         
+     
+  
+                                    
+                                     
+
+                                 
+                             
+                         
+                     
+                     
+                         
+                             
+                                 
+                                    
+                                     
+                                        
+                                                    To unsubscribe from getting emails from Payoneer, you must request to close your account. To close your account please  contact our Customer Care Department  via email, telephone, or live chat. For more information please visit us at  www.payoneer.com  
+                                                      
+                                                    © 2005-2026 Payoneer, All Rights Reserved
+                                                     
+                                                    Pay
+
+---
