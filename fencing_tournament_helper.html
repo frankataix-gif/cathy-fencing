@@ -2082,7 +2082,11 @@ function circuitLabel(c) {
         }
         const body = lines.slice(bodyStart).join('\n').replace(/---$/, '').trim();
         return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', body, color: catColorMap[category] || '#6b7280' };
-      }).reverse();
+      }).sort((a, b) => {
+        const da = a.date ? new Date(a.date) : 0;
+        const db = b.date ? new Date(b.date) : 0;
+        return db - da;
+      });
       // 我的 Tab 里只显示最新 5 封
       if (el) {
         const latest = allEmails.slice(0, 5);
@@ -4096,7 +4100,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v16', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v17', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
