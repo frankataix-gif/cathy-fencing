@@ -104,7 +104,9 @@ async function writeGitHubFile(env, path, content, message, sha) {
     headers: { 'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'cathy-worker' },
     body: JSON.stringify(payload)
   });
-  return res.json();
+  const data = await res.json();
+  if (!res.ok) return { error: data.message || `GitHub ${res.status}` };
+  return data;
 }
 
 function buildAiPrompt(body) {
