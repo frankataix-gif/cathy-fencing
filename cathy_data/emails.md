@@ -86,3 +86,14 @@ Cathy He is eligible to register for the RJCC Y14 Women Foil event in Seattle on
 Shop now and save 50% on selected items. Sale ends tonight.
 
 ---
+
+## [学校] Action required: vaccination record update
+
+**发件人:** nurse@meadowridge.ca
+**日期:** 2026-09-10T19:42:27Z
+**摘要:** 需要在9月30日前上传孩子的疫苗记录
+**待办:** 上传孩子疫苗记录
+
+Please upload your child's vaccination record before Sep 30.
+
+---
