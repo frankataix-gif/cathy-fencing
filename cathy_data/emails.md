@@ -3094,3 +3094,31 @@ Meadowridge School is located on the ancestral and unceded territories of the Ka
 
 
 ---
+
+## [其他] 收到创建 Google 数据归档的请求
+
+**发件人:** Google Takeout <no-reply@accounts.google.com>
+**日期:** 2026-09-10T18:54:06+00:00
+**摘要:** 收到创建Google数据归档的请求，提醒检查账号安全
+**待办:** 检查账号安全并确认是否为本人请求
+
+[image: Google]
+我们收到了为以下账号创建 Google 数据归档的请求
+
+
+nataliewu100@gmail.com
+
+给您发送这封电子邮件，是因为我们收到了为您的 Google 数据创建归档的请求。
+
+如果您并未提出此请求，则表明其他人可能在试图访问您的 Google 账号。请检查您账 
+号中的近期活动，并采取措施确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789066446339?rfn%3D140%26rfnc%3D1%26eid%3D5617569472955397113%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+
+---
