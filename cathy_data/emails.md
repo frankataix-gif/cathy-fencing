@@ -13648,3 +13648,92 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AA
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAcAAAAABg2LMZtgioYrrQYeOoEMrSdyZ0d1QusSl4wWi1H
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-02T09:40:09+00:00
+**摘要:** Natalie请求授权查看Flat 120，对方确认将释放钥匙。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for your email.
+
+We will release the key as requested.
+
+Kind regards,
+ Sean
+Concierge
+
+[cid:image001.png@01DD3AC7.A929BA50]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
+
+
+
+[A green and black logo    Description automatically generated]
+Registered Office
+Contact
+[A white background with black dots    Description automatically generated]
+
+Chiltern House
+Telephone:
+0345 491 8899
+[A blue and white logo    Description automatically generated]<https://www.tpi.org.uk/>
+
+72 â€“ 74 King Edward Street
+Accounts:
+0345 491 8898
+[A close-up of a logo    Description automatically generated]<https://www.arhm.org/>
+MACCLESFIELD
+info@premierestates.co.uk<mailto:info@premierestates.co.uk>
+Cheshire
+www.premierestates.co.uk<http://www.premierestates.co.uk/>
+SK10 1AT
+
+
+
+Registered in England and Wales Registered No: 3607568
+
+This email and any attachments to it are strictly confidential and intended solely for the addressee. It and they may contain information which is covered by legal, professional, or other privilege. If you are not the intended addressee, you must not disclose, forward, copy or take any action in reliance of this email or its attachments. If you have received this email in error, please notify the sender at Premier Estates on 0345 491 8899 as soon as possible and delete this email immediately and destroy any hard copies of it. Neither Premier Estates nor the sender accepts any responsibility for any virus that may be carried by this email, and it is the recipient's responsibility to scan the email and any attachments before opening them. If this email is a personal communication, the views expressed in it and in any attachments are personal, and unless otherwise explicitly stated do not represent the views of Premier Estates.
+
+Premier Estates Limited is an Appointed Representative of Lockton Companies LLP (in respect of its insurance mediation activities only) which is authorized and regulated by the Financial Conduct Authority.  Registered Office: The St Botolph Building, 138 Houndsditch, London, EC3A 7AG.  Registered in England and Wales. Company Number: OC353198.
+
+You can find our Privacy Policy here: https://www.premierestateslimited.com/privacy-policy/
+
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 02 September 2026 10:36
+To: London Dock Concierge <concierge@mylondondock.net>
+Cc: Akshitsinh.Rathod@foxtons.co.uk; Frank <frankataix@gmail.com>; Natalie - Wu JingQi <natalie@circledin.net>
+Subject: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+You don't often get email from nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+
+EXTERNAL
+Dear London Dock Concierge,
+
+I hope this email finds you well.
+
+I would like to authorize the following agent from Foxtons to access the property for a viewing:
+
+Agent Name: Akshitsinh Rathod (AK)
+Email: Akshitsinh.Rathod@foxtons.co.uk<mailto:Akshitsinh.Rathod@foxtons.co.uk>
+
+He has proposed the following viewing times:
+
+  *   Wednesday, 2 September: 18:00
+  *   Thursday, 3 September: 12:00 – 14:00, 16:00, or 18:00
+Could you please confirm if these times are acceptable and ensure the keys are available for him?
+
+Best regards,
+
+Natalie wu
+
+
+---
