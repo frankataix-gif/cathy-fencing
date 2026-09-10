@@ -10602,3 +10602,33 @@ body{margin:auto; border:2px solid white; padding:0px; width:70%; font-family:Ar
 
 
 ---
+
+## [其他] Sales instruction - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-03T12:00:48+00:00
+**摘要:** Freya请求安排在今天下午1:30前查看位于伦敦的房产，因为她在该区域。
+**待办:** 回复确认安排看房时间
+
+Hi Frank,
+Please can I arrange access to see this unit, because I am in the area today before 1:30pm.
+
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T: 020 7893 6010
+M: 07875 80 2146
+E: Freya.Wan@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system. The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer. Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building One, Chiswick Park, 566 Chiswick High Road, London, W4 5BE.
+
+
+---
