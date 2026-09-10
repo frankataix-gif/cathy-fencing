@@ -5754,3 +5754,99 @@ Telephone:
 72 â€“ 74 
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-09-09T08:57:30+00:00
+**摘要:** 业主通知Lancer Square管理处已正式委托KnightFrank为公寓1的销售代理，澄清了中介公司的授权情况。
+**待办:** 无
+
+Good morning, Natalie,
+
+Thank you for the email and for updating me on the situation at Apartment 1.
+
+I attached the current EWS1 in place for 2 Lancer Square.
+
+For anything else, please do not hesitate to ask.
+
+Kind regards,
+Joshua Smith
+General Manager
+Lancer Square
+London, W8 4AX
+LL: +44 (0)20 3897 0655
+M: +44 (0)7730562417
+Email: lancersquaregm@jaresidential.com
+www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?domain=lancersquare.co.uk/>
+
+[cid:image001.png@01DD4041.99F1B770]
+
+
+LANCER SQUARE GENERAL MANAGER
+Lancer Square General Manager
+T: +44 (0) 20 7509 1970 
+LancerSquareGM@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3764 5568​
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please notify the sender and delete it
+​immediately.
+Whilst reasonable precautions have been taken to ensure this email is free from viruses, James
+​Andrew Residential Limited accepts no liability for any loss or damage arising from its use.
+James Andrew Residential Limited is a company registered in England and Wales.
+​Company Number: 7980906.  Registered Office: 20 Bedford Square, London WC1B 3HH.
+From: natalie <nataliewu100@gmail.com>
+Sent: 09 September 2026 09:07
+To: Lancer Square General Manager <LancerSquareGM@jaresidential.com>; Jo Monk <jmonk@jaresidential.com>; Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
+Cc: nataliewu100@gmail.com; Lauren D'Souza <Lauren.DSouza@knightfrank.com>; Concierge - Lancer Square <concierge@lsw8.co.uk>
+Subject: RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+Hi Josh
+
+
+This is Wu Jingqi. I am owner for Apt 1
+
+I would like to clarify that I have officially appointed KnightFrank as my sales agent for the property at Apartment 1, 2 Lancer Square as I am preparing to sell this property!
+
+Please note that Glenco is only authorized as the letting agent for the property.
+
+I hope this clears up any confusion regarding Knight Frank’s engagement. Thank you for your assistance.
+
+Please let me know if u need any further request!
+
+Thank u
+On 9 Sep 2026 at 9:58 AM +0200, Lancer Square General Manager <LancerSquareGM@jaresidential.com>, wrote:
+
+Good morning Jordanna,
+
+Please can I ask how Knight frank are engaged with Apartment 1 / 2 lancer.  According to my records you are not the listed agent for the property.
+
+Kind regards,
+Joshua Smith
+General Manager
+Lancer Square
+London, W8 4AX
+LL: +44 (0)20 3897 0655
+M: +44 (0)7730562417
+Email: lancersquaregm@jaresidential.com
+www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?domain=lancersquare.co.uk/>
+
+<image001.png>
+
+LANCER SQUARE GENERAL MANAGER
+​​​​
+Lancer Square General Manager
+T: <tel:> +44 (0) 20 7509 1970<tel:> <tel:>
+LancerSquareGM@jaresidential.com<mailto:LancerSquareGM@jaresidential.com>
+jaresidential.com<https://jaresidential.com/>
+Out‑of‑hours emergency number: 020 3764 5568​
+<image301558.png>
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please notify the sender and delete it
+​immediately.
+Whilst reasonable precautions have been taken to ensure this email is free from viruses, James
+​Andrew Residential Limited accepts no liability for any loss or damage arising from its use.
+James Andrew Residential Limited is 
+
+---
