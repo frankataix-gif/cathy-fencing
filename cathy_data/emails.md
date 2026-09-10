@@ -7175,3 +7175,73 @@ frank
 > We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and t
 
 ---
+
+## [其他] 您的Google Play订单收据(2026年9月7日)
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-09-07T02:20:38-07:00
+**摘要:** 通知用户通过Google Play的订阅已成功续订并完成扣款。
+**待办:** 无
+
+Google Play
+
+
+非常感谢！
+
+
+您通过 Google Play 向“Google Commerce Limited”订阅的内容已续订，系统已向您收 
+费。 管理订阅
+
+
+订单号： SOP.3385-7778-6968-49841..1
+订购时间： 2026年9月7日 GMT+2 11:20:33
+您的账号： nataliewu100@gmail.com
+
+
+商品 价格
+
+
+100 GB (Google One) （开发者：Google LLC） US$1.99/月
+
+自动续订的订阅
+
+
+
+税额: US$0.32
+
+总计: US$2.31/月
+
+
+付款方式：
+
+Mastercard-2249
+
+
+
+订阅即表示您授权我们通过您提供的付款方式，自动向您收取订阅费用（如上所述 
+），直至您取消订阅。了解如何取消订阅。请保留好此回执，以便日后查看。
+
+如有问题，请访问Google Commerce Limited的网站。
+
+
+Google Play
+
+您喜爱的娱乐，无处不在。了解详情 ›
+
+
+
+查看您的 Google Play 订单记录。
+
+查看 Google Play 退款政策和服务条款。
+
+
+© 2026 Google | 保留所有权利。
+Google Commerce Limited, Gordon House, Barrow Street, Dublin 4, 爱尔兰
+
+请勿回复本电子邮件，因为我们无法通过此电子邮件地址回复您。如需支持，请访问  
+Google Play 帮助中心。
+
+
+
+
+---
