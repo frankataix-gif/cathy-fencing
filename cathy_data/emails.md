@@ -10348,3 +10348,109 @@ This survey invitation will expire on EXPIRATIONDATE_PRETTY.
 If you no longer wish to receive surveys from Medallia please click on Unsubscribe
 
 ---
+
+## [营销] Soft new Polartec® fleece is here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-06T12:44:27-06:00
+**摘要:** lululemon推出新款轻便Polartec®保暖夹克，适合寒冷天气使用。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847;
+ &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847;
+ &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847;
+ 
+ 
+
+
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAsAAAAABJpUVilbPNuHq1jH_evSZ9b0nHid5EMnNe8ymRx3li-6G5pfVj56UKSaemYKYK1eT9DDZuNWm8CKka4FeRwFjZUt9zfZjn0C3XuRd6KCf7HOGTD-Zw 
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAsAAAAABJpUVileGU-Ax_LASYpBtgwJY-PUysqwwPDux0yVkrVAnlbqiEmFaVpWho14uO1GJeI_gLxWlqhkGX3aad4ZQ63YtYDf4Iovn_TqgtxLeZ46FVtKMg 
+
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+ New fleece, incoming.
+ 
+
+ Lightweight, naturally breathable Polartec® 200 Series jackets are an easy solve for brisk mornings and cold starts.
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAsAAAAABJpUVilfjiUePQKnssHduiTPY13n7Wp8qgaacYic0xUIcrs2zec3IsQPwdVolXUUBNkwm3nqGHIl3DD-Uu7Y3DkYrz4-JLdl4xI_-WVZN4x7NhV6jQ 
+Shop Fleece
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAsAAAAABJpUVilghLyLTXX5zLUhO_wN2Y0P3Gf19RqKwsKdHKrLnnslhZjab8XICCW97yetWAaMf-WgbTJbavuW2JMFLS6yEUp0-DVsraGU1uktvha8v4ecYQ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTF9AAsAAAAABJpUVilhbtq-eQHQiKixDgWvPvSWW6OhJuSUPW_-dy4UpOsnpfwg_X8aOB1mf6P4LSLbGYVu7M6AgKtPyIEiyvdlXbBwb4RScfwFJomE1qc59a40uA 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+---
