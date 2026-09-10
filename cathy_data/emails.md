@@ -11326,3 +11326,28 @@ body {
     min-width: auto !impo
 
 ---
+
+## [营销] Welcome to the World of Ralph Lauren
+
+**发件人:** Polo Outlet Stores <news@mail.ralphlauren.com>
+**日期:** 2026-09-05T01:12:41
+**摘要:** 主题为欢迎加入Ralph Lauren，提供10%折扣优惠，但可能因邮件格式问题需点击链接查看。
+**待办:** 无
+
+Subject Line: Welcome to the World of Ralph Lauren
+Preheader: Enjoy 10% Off Your Purchase
+
+It looks like your email client might not support HTML formatted email.
+
+Try opening this email in another email client.
+
+Or, open the following link to view this email in a browser:
+https://e.mail.ralphlauren.com/click?ZdJJRb5swFIX5LUjp07raBoxTKdKApSltAyWQleQFGdtQR5gwoJBu2n-f6NotL5P8YvvY597z3WVNe1pJMb5AAL6UispqMtS8n7qSXL_WoU2IZQMbA0IMiwrEiWFQQIH-SWe9fq231WVNL4nBGLehKQwAEZtTWgjKeIEJRTacW_xy0rfTh3899F_a9qP5QYrx89tFS6vmuaIvragn0ZUSXUdL0V39t5Crlo5avL_NVFupLAgSJwBzYCGAMEMIG5gA7UG1laF9P09NTHbniTxuwrcto6qhsqyng22cJRt_lflBstwETuKHgfOQeds4CdfLTRb7q2D7-OfVse5F3S-a9li2VP0DMIrqImeSL3J1A3ZPp2afcrhOnDFa8X73VHUPKhjyaGZ8nRZwLroh6wahugUuIAZWTiyDUAMywCHKc8wZywtozjGABZoThE1TmAXlVs4YxKZJbFIQywKQTYhfOtFmki_27g_CQnlYB-Mw7FCczpBrR2qG3JTYwE-J2kr8fMDHjVOejgc_JSdRrN17x1v70Qy5Jze6LXAja4eGin0b82GFhhTH94VjsptwvwxmyHXsQ94a6HTbeK_PuVTquAufZujG88fwDjekQGH6-j545zjnWkmbvpORdvdBznsn93sAere9bd7dba
+
+-------------------------------------------------------------------------------
+
+We respect your privacy, if this e-mail has been sent to you by error or you no longer wish to receive email, open the following link in a browser to unsubscribe:
+https://e.mail.ralphlauren.com/click?ZhJNfb6M4FMXzWZCSp21rGzBOJbRL_pa0mJKQNvCCjDEEhAkLSaBd7XcfMdPO9GU0kl9sXfv6nPO7y4qdWZmL7gIB-CeTLC-HhqP5f4rME-VegQYhugEMDAhRdSZQQlSVAQaUvxR-Vu6Vpryp2A1ROU8MqAkVQMSnjKWC8STFhCEDTvXkZqhvhgd_9lD-H-0_xdeNSEUjKi7a2_Ntw8r6WLJLI6qh8K5id5eqvcSjXfgQyaaUEaW-RcEU6AggzBHCKiZg9CSbUh39-7eoeHwxqQx6WlgwKDLovB-PzvuqcNZe78hNTuW2CNBGOr6n08Lqw8LW3YWN6GJb0nV4DBcveYCcnhYecBdcC4sMUt_qg840J8M3zViuQPDa1-EhgY5vdd46OQevZfsk6TX2THMiRduyTESXPDF_a-LXdMRgzNeInrfu9y1nsmZ5Vg0H-13kb-11ZFN_uaWWb7vUeorm-53vOstttLPXdP_849apOovqbNbNKWuY_EVEJ8pJzPPkDxLG6mJYwJq016i9CtmaOIUY6DHRVcJUyEECURzjhPM4hdoUA5iiKUFY04SWskSPOYdY04hBUqLrAPKBuUsrmihPzHD2TribFw7trtcA7Q5jNDM8OUazAzGAfSByn-NjgU9bK-tPhX0gvUid2aM1d2xvjGb9zHtIcZ1XFnMlf-ni6xpdD3j3mFoaX7nhko7RzDKKuFFR_1DP345xLuUpcF_HaDW3O3eDa5Ii9_D2MQlfM5qOMlaf29wbbT4hm39A9m0A2p559602dd
+
+
+---
