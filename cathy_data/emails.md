@@ -5351,3 +5351,79 @@ In the light of the current situation, Spencer West LLP is unable to accept serv
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
 
 ---
+
+## [待办] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:04:40+00:00
+**摘要:** 邮件要求支付1500英镑预付款以启动法律工作，并附上银行账户信息和注意事项。
+**待办:** 安排支付1500英镑的预付款至指定账户
+
+Dear Jingqi Wu,
+
+
+
+Following our last email, we have now successfully opened a file for you. We kindly request an upfront payment of our full legal fee to initiate the legal work.
+
+Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully reconciled and refunded to you upon the completion of the matter.
+
+
+
+Our firm’s client account details are as below:
+
+
+
+Bank: Coutts & Co A/C
+
+Name: Spencer West LLP
+
+Sort Code: 18-00-02
+
+Account number: 04193210
+
+
+
+I also attach a PDF document with the same details within for your reference.
+
+
+
+Please ensure to include the reference "SWHQ77912" when making the transfer, so that we can promptly track and reconcile the payment.
+
+
+
+Please note: Our firm’s client account details will not change. If you receive any notification requesting a change to the receiving account, please be sure to verify with us first.
+
+
+
+Should you have any questions, please do not hesitate to contact us.
+
+
+
+kind regards,
+
+Michael Cheng
+Paralegal
+Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an email from Spencer West amending our bank details, please check the email address carefully and speak to your lawyer to clarify urgently.
+
+
+
+Real Estate: Please be aware that if you are purchasing a property, fraudsters may target you to transfer funds to them rather than us, by using an email address that is similar and has the lawyer’s details, so that it appears to be a genuine email from us. Please speak to us before transferring any money.
+
+
+T +44 (0)20 7925 8080
+
+F +44 (0)20 7681 2600
+spencer-west.com<http://www.spencer-west.com/>
+Asia Desk Team: 85 Gresham Street, London EC2V 7NQ
+
+Main Office: Longbow House, 20 Chiswell Street, London EC1Y 4TW
+
+
+Please be vigilant in all dealings in your transaction.  Fraudsters target real estate transactions in order to get buyers to send money to them instead of the legitimate party.  Fraudsters use domain names similar to the actual domain name and will email you from that account.  The email from the fraudster will look and feel like a real Spencer West email and include the name of the solicitor. Check the spellings of emails to ensure that you are dealing with a legitimate party and not a fraudster.  Do not transfer any funds until you have called the office on the official website number and confirm all the bank details with the office.
+
+
+In the light of the current situation, Spencer West LLP is unable to accept service of proceedings, notices and other formal documents at our London office, given the need to prioritise the well-being of our and our facilities' staff.
+
+Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
+
+---
