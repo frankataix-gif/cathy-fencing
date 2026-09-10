@@ -7332,3 +7332,62 @@ Socials:
 Share our Meadowridge Parent Guild pages with you
 
 ---
+
+## [其他] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-06T17:39:06+02:00
+**摘要:** 邮件要求签署销售条款并提供业主身份证明，同时提及房产定价及佣金条款。
+**待办:** 签署并返回销售条款和卖家问卷，提供所有业主的身份证件和地址证明。
+
+Dear Freya,
+
+I have uploaded the required materials as requested. Please check if everything is in order or if there is anything else needed.
+
+Best regards,
+在 Sep 4, 2026, 20:07 +0200，Freya Wan <Freya.Wan@foxtons.co.uk>，写道：
+>
+>
+> Dear Natalie and Frank
+>
+> Please see attached terms.
+>
+> The current price should be £475k- £525k.  We will list the property for £495,000 for start and attract more interests.
+>
+> Our standard sole agency fee is £2.5% plus vat, see attached T&C. We recognise that market conditions can sometimes require a change in strategy.
+>
+> Next steps:
+>
+> 1. Please sign and return the Sales T&Cs , and seller’s questionnaire (including details about service charge, ground rent etc)
+>
+>
+> 2. Please provide all owners’ Proof of Identity and Proof of Address (see attached guideline)
+>
+>
+> I have sent you the reset email for My Foxtons Portal. You can simply reset your password
+> Log In to My Foxtons | Access Your Property Dashboard Then you can sign the terms online and provide your proof of IDs and proof of address on the portal.
+>
+> Alternatively, please complete & sign, and send it back with documents: proof of IDs and proof of address. I can upload for you.
+>
+> Kind regards
+> Freya
+>
+> ------------------------------------
+> Freya Wan
+> Operations Director/Head of Asia-Pacific Sales
+> Asia-Pacific Sales, Foxtons
+> T: 020 7893 6010
+> M: 07875 80 2146
+> E: Freya.Wan@foxtons.co.uk
+> W: https://www.foxtons.co.uk
+> <image001.gif>
+>
+>
+>
+>
+> Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.
+> The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.
+> Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
+
+
+---
