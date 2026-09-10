@@ -4096,7 +4096,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v15', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v16', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4416,14 +4416,22 @@ function circuitLabel(c) {
     saveTasks();
   }
 
+  function emailDateLocal(dateStr) {
+    if (!dateStr) return '';
+    try { return new Date(dateStr).toLocaleDateString('en-CA', { timeZone: HOME_TZ }); } catch(e) { return dateStr.slice(0, 10); }
+  }
+
   function renderHomeEmails() {
     const card = document.getElementById('home-emails-card');
     const container = document.getElementById('home-emails-list');
     if (!card || !container) return;
     if (!allEmails.length) { card.style.display = 'none'; return; }
     card.style.display = 'block';
-    const latest = allEmails.slice(0, 5);
-    container.innerHTML = latest.map(e => {
+    const todayStr = vancouverISO();
+    const todayEmails = allEmails.filter(e => emailDateLocal(e.date) === todayStr);
+    const otherEmails = allEmails.filter(e => emailDateLocal(e.date) !== todayStr);
+
+    function emailRow(e) {
       const taskHint = e.todo && e.todo !== '无' ? `<div style="font-size:0.75rem; color:#ef4444; margin-top:2px;">待办：${escapeHtml(e.todo)}</div>` : '';
       const summary = e.summary ? `<div style="font-size:0.75rem; color:#4b5563; margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${escapeHtml(e.summary)}</div>` : '';
       return `<div style="margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #e5e7eb; display:flex; align-items:flex-start; gap:8px;">
@@ -4434,7 +4442,19 @@ function circuitLabel(c) {
           ${summary}${taskHint}
         </div>
       </div>`;
-    }).join('');
+    }
+
+    let html = '';
+    if (todayEmails.length) {
+      html += `<div style="font-size:0.8rem; color:#ef4444; font-weight:700; margin-bottom:8px;">今日邮件 · ${todayEmails.length}</div>`;
+      html += todayEmails.map(emailRow).join('');
+    }
+    const latest = otherEmails.slice(0, 5);
+    if (latest.length) {
+      html += `<div style="font-size:0.8rem; color:#6b7280; font-weight:700; margin:12px 0 8px;">${todayEmails.length ? '其他最新邮件' : '最新邮件'}</div>`;
+      html += latest.map(emailRow).join('');
+    }
+    container.innerHTML = html;
     const viewBtn = document.getElementById('home-emails-viewall');
     if (viewBtn && !viewBtn.dataset.inited) {
       viewBtn.dataset.inited = '1';
