@@ -12027,3 +12027,73 @@ Pre-Order Now
 https://click.communications.be
 
 ---
+
+## [营销] XIAOJUN, Ready to simplify your global business payments?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-03T14:29:37+00:00
+**摘要:** 这封邮件是Payoneer邀请XIAOJUN使用其服务以简化全球业务支付，介绍其便捷的支付和收款功能。
+**待办:** 无
+
+Get started
+with Payoneer now 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/kZLYoUDq5YZlcCRCkMzVvA~~/AAQRxRA~/r2tAyLGO2cA2ndYxWRMZgX1INnmPVUsqhzXKSMI2sFVW5et-f5wOPtrW_dc4mCqs9xYjYu9fV17FqUYsscVONIl1b7Q08Q--jIRGc1OI4ukx1UKWA_go_tHAnNArLcPy style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/pKZ0mMrDLcxb_JjVHakhDA~~/AAQRxRA~/XPGXHEADudUUXkRWfLGdCF7IlpjhuVhDAOE_srtu_aOtAoK0q-EVeiUQmGtOI-p90ApznqIn6TBlfe6hk0C8R1Pvk01aZdh3PXHnOAkJBMd0bhtLTadQvOB1zd22DfGDgmlubF5FNCzSHrWqp0O5WBV_BL0ETUD5iUdop86iGTOTnyk83Eu3sM-0opSxDxy9 alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Let’s get you paid           payoneer               Hi
+XIAOJUN
+Welcome to an easier, faster, more reliable way to get paid. With
+global coverage and competitive fees, you can do business almost
+anywhere in the world effortlessly with Payoneer.
+
+There are a couple of ways to get paid:               Receive
+payments like a local     Get bank account details in multiple
+currencies, allowing you to get paid with a bank transfer—just
+like a local—from clients and marketplaces.             payoneer
+Receive payments in up to 11 major currencies, including EUR and
+USD               payoneer      Give your clients a local payment
+experience with no additional cost to them               payoneer
+Hold multiple currencies in one account
+Start using a receiving account 
+( https://links-send.payoneer.com/f/a/j_8z403Q8Yv8K48wFyaUKQ~~/AAQRxRA~/G_SU5qmx5RXSkVKFsJ37yxikjoK4Wiu4TjqKK42e4RohEdhX4qqhjWEbR1A-NSIfJP0SA0XWjDgCrP8b5XH2hwNLQFpHySyZD_bIToKkkDUf_BYmjlXQ07jtXL9TuqR1VptF5glW0epfzfQGc8durybGJ09bm_b1ThYyUK65ghqxJ7rBf8xOQ-fHNpoAx10mvwlXj36QoBAnlJ_gKdADN_QFoclVqS9i6IslO-ZSAlA4mWSYkRSq72uzz_QNXLPi )
+                 Bill clients around the world     Request
+payments from your global clients and track them from your
+Payoneer account.             payoneer      Get paid fast in 190+
+countries and territories               payoneer      Offer
+clients flexible payment options with a premium billing
+experience               payoneer      Get cashflow clarity by
+tracking payments               payoneer      Enjoy global
+coverage with competitive fees Request a
+payment 
+( https://links-send.payoneer.com/f/a/2c-sjp5n7bMsUkNV2Q8AYw~~/AAQRxRA~/c1Ur7XR1fM2nuT7CBMPywXM4qZzbGOftaok5hI5FDpnVwB8ZAY7wXc4Y027tBthNqlUxqoVsVznWH80jMC1WsNc_4jQddGZu6_91H-pEA5VU67S4PyB0DM7qVrN6QgFBW2R_RBGsqR539AhDx_WGGDj-ShzDOo-vYr9E2pg-Jsvqhb6rdAiL3H-_mTst2uxoPQRsVUNbzBpMY4v8N4vHQrLhqy9LzYflgv2ioXbTDQaD2FOr_mOFVUqonMypGEI5 )
+                 With your Payoneer account balance, you can...
+payoneer      Pay business ex
+
+---
