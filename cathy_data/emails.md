@@ -12431,3 +12431,60 @@ January    January
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Pj0DQq0K79qbec4Ps1CRQJU0l9Lng1DL-2FIOgDNSGjbbHnZF0PcGbC1FDIELIrB4BDoG0NsPcEH7pY3n3ipJySpFKxX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADlgGOALOgtrXe-2BJ4bfI6yqLDxnvA15x7ZDTU3LThLhXfz670KudSc6q8xCH1t1yT9zE1nfCHEXVYNO-2BbeUjSVln-2BAMuaVLavIH5mCvnnzyPdgmpJFrzHVhPOLHSMXnsp
 
 ---
+
+## [营销] 500 bonus TELUS Rewards points waiting for you 🎁 | 500 points bonis  TELUS Privilèges vous attendent 🎁
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-09-02T15:34:32-07:00
+**摘要:** 提醒用户激活TELUS Rewards账户以获取超过500美元的年度福利和专属优惠。
+**待办:** 激活TELUS Rewards账户以获取奖励
+
+Activate your account and get $500+ in annual perks | Activez votre compte et obtenez plus de 500 $ en avantages annuels
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b6&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9JTQwYmd3ZGp1UlJnQmdKciUyQllkbGxqU096U3Q3THNYY0xDOU5sdlpnJTJCa2QwMW8lM0Q&s=gxHTrwFKs7DxU2Rbn9qLcN3LD0iNqEYsHaxHVHb4GUw web browser . 	
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b7&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9JTQwYmd3ZGp1UlJnQmdKciUyQllkbGxqU096U3Q3THNYY0xDOU5sdlpnJTJCa2QwMW8lM0Q&s=YHjXLH8OyD87lAIvZAYanO9JoViFwnKDY2t48y78ifs EN  |  https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b8&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9JTQwYmd3ZGp1UlJnQmdKciUyQllkbGxqU096U3Q3THNYY0xDOU5sdlpnJTJCa2QwMW8lM0Q&s=_-UE4WCuU7VDeMqy0mQoYUD7NA-BQzp10A-gUDvz2Fc FR 	
+
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b9&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDc&s=xzFa2uf68LuoMzazoxCvXz3quxAcO2G8PfdaBe481Nw 	
+	
+
+	
+	
+
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194ba&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9cndwdHBwbjE&s=o9v4_bXMDwluSdd7scmXTHJHWlOUx1SbOjOJbWVXTLA 	
+	
+
+  Jingqi, did you know as a TELUS customer, you're already eligible for TELUS Rewards Gold status, with access to over $500 per year in value across perks, contests and exclusive offers? It's our way to thank you for choosing us.   	
+And for a limited time, activate your 
+TELUS Rewards account and receive 	
+	
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194bb&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9cndwdHBwbjI&s=MwzjGSCT0m-siqf1tz76cHBJBzd6FTKOwvH2vzowAss Activate now 	
+	
+
+	
+Here's what's waiting for you 	
+  TELUS Rewards members enjoy exclusive perks including complimentary virtual wellness and pet vet consultations, roaming passes, Skip+ membership, Turo car rental credits, seat selection vouchers for WestJet flights, and so much more.   	
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194bc&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9cndwdHBwbjM&s=66Td16_Zc1oX3BLCnJV6Ah2oOWBNxo-5QegIYPLRhIw Access my rewards 	
+	
+<!--[if mso]>
+<style type=”text/css”>
+table,tr,td,p,a {
+font-family: Arial, Helvetica, sans-serif !important;
+}
+</style>
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" class="width100">
+  <tr>
+    <td align="left" style="font-size: 1px;"><img src="https://images.ctfassets.net/vob3qda590l9/HKOhdyp5Ohl3uFLZ5zidm/6eb427ee6fd4e78ddc3f0a82d144ba22/SocialFooter_GradientBorder.jpg" width="600" style="display: block;" border="0" class="width100" alt="" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" style="padding: 35px 0;" align="center"><table align="center" width="540" border="0" cellspacing="0" cellpadding="0" class="width90">
+        <tr>
+          <td align="center" style="font-family: 'Roboto', Arial, Helvetica, sans-serif;  font-size: 30px; line-height: 26px; color: #4b286d; text-align: center; padding: 0px 10px 10px 10px;"><strong>Let's make the future friendly<sup style="vertical-align: baseline">&trade;</sup></strong></td>
+        </tr>
+         
+         
+        <tr>
+          <td align="center" style="padding: 15px 0;"><table width="460" align="center" border="0" cellpadding="0" cellspacing="0" class="width100">
+              <tr>
+                <td align="center" style="padding-right: 10px; "><a href="https://www.telus.com/en/social-impact?cmp=em_bm_gl
+
+---
