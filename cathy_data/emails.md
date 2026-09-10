@@ -16272,3 +16272,90 @@ ________________________________
 From: Audrey Zh
 
 ---
+
+## [学校] Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T20:33:28+00:00
+**摘要:** 邮件确认已附上录取通知书（LOA）并询问学签申请是否已提交，同时表示会继续跟进处理进度。
+**待办:** 无
+
+Natalie 您好，
+
+附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+
+请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+
+我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+
+________________________________
+
+________________________________
+From: Audrey Zhang <audrey.zhang@Meadowridge.bc.ca>
+Sent: 12 May 2026 4:17 PM
+To: Frank <frankataix@gmail.com>
+Subject: Re: Payment for He,Yunxi- Letter of Acceptance
+
+Hi Frank,
+
+Please find the attached Letter of Acceptance (LOA) for Yunxi (Cathy) He.
+Kindly let me know if any adjustments are required.
+Thank you.
+Audrey
+
+
+________________________________
+From: Frank <frankataix@gmail.com>
+Sent: Saturday, May 09, 2026 2:19 PM
+To: Natalie Blomly <Natalie.Blomly@Meadowridge.bc.ca>; Audrey Zhang <audrey.zhang@Meadowridge.bc.ca>
+Subject: Payment for He Yunxi
+
+
+Dear Audrey and Natalie
+
+I hope this email finds you well.
+
+I am writing to inform you that we have just completed the tuition payment for He Yunxi (Cathy), via Flywire today. attachment are the payment details;
+
+I would like to take this opportunity to thank you sincerely for your patient guidance and support throughout this application process.
+
+Could you please notify us once the school confirms the receipt of the funds next week?
+
+Additionally, we would appreciate it if you could prepare a formal Admission Letter for Cathy after you received the found. We need this official document to initiate her student visa application process.
+
+Thank you once again for your assistance. We look forward to hearing from you.
+
+Best regards,
+
+Frank He
+
+
+
+---
