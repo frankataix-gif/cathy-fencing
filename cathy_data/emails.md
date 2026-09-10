@@ -255,3 +255,70 @@ https://myaccount.google.com/notifications
 
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-10T16:47:37+00:00
+**摘要:** Natalie请求重新发送链接，因输入错误地址，Lauren回复将重新发送。
+**待办:** 无
+
+Hi Natalie,
+
+I will request for our CDD team to issue a new link.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 10 September 2026 16:52
+To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+Hello Lauren I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.   Thanks 在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouz
+<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.BM4F3y0TT8ZlrRuKTUr9cz4wn1MRpJYN9NdPaup0eaiCQMGXLzhBGVlQIx9bqXg7jlZLrtjtZWaEo0KUCUG0hrk9Ay1H6RIxombp6MsFVyMuhZ-Kf3uGV-zZwMzSbjAMU6L1pKoPBCbRRbbKWv_QiptPHBJsOB-FcaYNU8N4xH66fYJlG8szKVggXcN2BkpCPKVUXUTlpdNdS3cGl2_ArBhRHKrSMUyE0OvOsPh5BuwV_apyQWqGV8CPivCGyBkDjZRrJ25rF2xhkT3_xLGmd_HX5-JHFSpbRSrq6-6kkWv5r7Yj2sz7eNGnpMCBW4Xhjy5CIbZNvnt2oCSw8OEg-Q.nCVWAWNPMtH_OYF9.tID4xS3VA-6zNgCYqB_LJIu5cQlj89YvhI-EqNg23Jg-11sZTTuRI2b7O3cgQydHzGANNDtAEG0nglrvCSwEKO9fXgV_paU_MN0rYH3DmK6lJdmJQaCtrrcYRd82ZAfoc2KpegCtiOzxTQNotrMweyNuVjtesmcWGzkbT_OUPMSRsUebxAhz-E9EZztc4Y9rFsxqQB3ib29LWqyzMBbtT-Dw2Js5kxx8GQCIpDpHce5q46y_dIBac_kdagSPv-xHWrVuW9VUbnKwU-VIf7UL38dCbWFLhrnMQ5rGgWmNn3S_lUd2MqyITSvks5Avga08m0uHkTTSEFUQWRM8KUiKxOPIFitunG5FfbLNiv2KxRwAD8dFapSStmBkNKapVFnnFSRU9huWFLGEAbREyhcHbOB1gxjR1RDSx_CxOeZbFUBGQJ8IIGcWLPl32r8ylMPqnlMiQNdEkpFSg0EE2uUPp6nlkmu2-dM3sQmvcRixgZbEXfNFhJTzipRuvaQ_2H3kUNtqIvGoCGBEl6hxR30zPAZmWP9QyEz3S4Nod7LdraICsy9QL_bJZJGxP3A6XRSpk3GQydgf6U11mYVy1Io5lwXwC0yBdo-snMXh2qbfpJT4NCtGHJtLGOzfPoSddTmwvGkaGeatc3X1oSktZxRJRwhE1uhcVqjaiO6RnCOFX6ij9A5oOwfBceARDBKP6XapAqe0BXLSbeVs_EMrviJaP-IwMuYkAsSm5470Er7IC_xPqmaoPsaClFNIQEb3KTFlaRXgDaf5dZS4ngzZrM4n1EpMcvYS1No4zxEXPQDDQs3sBRuGEdNUwxiAQCZnnKnYjWzI6wdhrK8eVcIqIivL93v7kmGtc8TvThi-9gwfsg.vF5lVf_GtR9iPhJHN-lEMQ%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
+CGBANNERINDICATOR
+Hello Lauren
+I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
+
+Thanks
+在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com<mailto:lauren.dsouza@knightfrank.com>>，写道：
+
+Hi Natalie,
+
+All received our end, thank you.
+
+You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+
+You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
+
+I hope this helps, do let me know if you have any questions.
+
+Kind Regards,
+Lauren
+
+[cid:image001.png@01DD414C.7642C470]
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:
+  +44 2089392806<tel:+44%202089392806>
+ M:
++44 7811771417<tel:+44%207811771417>
+knightfrank.com<http://www.knightfrank.com/>
+52‑56 Kensington Church Street,
+London,
+W8 4
+
+---
