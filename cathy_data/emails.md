@@ -10428,3 +10428,43 @@ a.button:active,
       Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
 
 ---
+
+## [学校] SAGE Dining Account Statement Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-09-04T17:00:54+00:00
+**摘要:** 邮件通知Yunxi He的SAGE餐饮账户余额为0，自动充值已关闭，并提供账户管理链接和联系方式。
+**待办:** 无
+
+
+
+
+Dear JingQi Wu, 
+
+Welcome to MyKidsSpending with SAGE Dining at Meadowridge School. 
+
+Attached is your dining account statement for Yunxi He. 
+
+  Your current balance is $0.00. 
+  At this time, autofunding is currently off for this account. 
+
+To view and manage your account, please click on the following link: Home Page 
+
+Questions about purchased items may be directed to the Cafeteria Manager by email at sage@meadowridge.bc.ca. 
+
+For questions about MyKidsSpending, please send an e-mail to Support@MyKidsSpending.com, or you may also call us at (855) 302-0070, option 4 on the phone menu, from 9:00 a.m. to 5:00 p.m. Eastern. Please use (617) 868-0060 if you're calling from abroad. 
+
+Refund Policy: Returning student balances are rolled over to the following year. Outgoing student balances may be refunded or transferred to a sibling's account by contacting the Cafeteria Manager. 
+
+Want to view your students' accounts on the go? The MyKidsSpending app is now available to manage your account on iOS and Android devices. 
+
+  The iOS app is available for free from Apple's App Store and features Apple Pay funding: Get the iOS App 
+  The Android app is available for free on the Google Play Store: Get the Android App 
+
+Use it to check your student's current balance or fund from your device using the checking account on file. 
+
+If you do not wish to receive account statements, you may click on the following link to turn them off for this account: Unsubscribe 
+
+Please be aware that unsubscribing from statement notifications will not prevent continued use of the spending account at the school. 
+
+---
