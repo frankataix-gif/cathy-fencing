@@ -16166,3 +16166,109 @@ Unsubscribe | Preferences => [http://sparkmail.boffo.ca/c/eJxcjk1OwzAQRk8z3hHZ49
  
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T21:11:08+00:00
+**摘要:** 邮件主要讨论Cathy的学签申请问题，建议尽快重新提交申请并避免使用移民顾问，同时提醒关注学校安排的Field Trip。
+**待办:** 重新办理Cathy的学签申请
+
+Natalie，
+
+谢谢您的回复。
+
+以我们今年的经验，在境外申请学签的家庭，尽管父母未持有任何签证，只要所需文件都符合要求，一般很快会收到审批结果的。这个暑假有家庭8月中旬提交申请，几天前已经收到签证了。（当然，IRCC近年的效率也很难预测。）
+
+目前找移民顾问反而可能耽误你们的申请，所以我们不建议。学校这边也很久没有跟这类顾问联系了。
+
+现在的重点应该是尽快办理学签，如果期间必须身在境外的话，我会建议您缺席New Student Orientation，先办好签证，让Cathy能尽快开始上课。留意我们9月16-18日有一次三天两夜的 Field Trip<https://resources.finalsite.net/images/v1782167002/meadowridge/oton10pixbxqyi6wqd0j/Grade7-GibsonsFarmPackingList.pdf>, 希望 Cathy 到时能出席。迎新方面的安排，我们待签证办好了才补上也没大碍。
+
+以上建议，您觉得如何？
+
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: August 28, 2026 1:41 PM
+To: Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+Subject: Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+Adrian 您好，
+
+感谢您的跟进。关于 Cathy 的学签申请，目前情况这样，想和您沟通并寻求建议。
+
+我们在收到录取通知后就开始准备签证，但由于我们的疏忽，误以为可以先入境加拿大后再申请学签。目前加拿大移民局要求我们重新递交申请，且申请人必须在加拿大境外完成递交。
+
+我们认为申请材料本身应该没有问题，只是递交时的人员所在地选择有误。我们正准备按照要求重新办理，想和学校商量一下下一步的计划。
+
+另外，请问学校是否有推荐的专业移民公司或顾问，可以协助我们处理这次的学签申请？
+
+期待您的回复，谢谢。
+在 Aug 28, 2026, 22:33 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+Natalie 您好，
+
+附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+
+请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+
+我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+
+________________________________
+
+________________________________
+From: Audrey Zh
+
+---
