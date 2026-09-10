@@ -5665,3 +5665,92 @@ If you have any questions, please let me know.
 
 
 ---
+
+## [待办] Apartment 120, Emery Wharf – Leaseholder portal registration
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-09T09:23:23+00:00
+**摘要:** 通知用户注册伦敦码头居民门户，提供服务详情及登录信息，并附有欢迎包。
+**待办:** 注册居民门户并设置密码，根据需要安排钥匙领取。
+
+Dear Jingqi Wu,
+
+Welcome to London Dock!
+
+My name is Nancy, and I’m part of the Concierge Team here at London Dock. I’m reaching out to introduce you to our Resident Portal, a convenient platform designed to keep you informed and help us manage your needs efficiently.
+
+Benefits of the Portal: The portal provides a range of services, including:
+
+  *   Timely updates and communications related to London Dock
+  *   Efficient parcel registration (please ensure all deliveries are addressed to your full name)
+  *   Seamless key arrangements for guests, family members, or service providers
+  *   Full access to on-site amenities (please note that an induction is required before use)
+
+Family Member Registration: With your key authorisation, we can register a family member on your behalf to ensure they enjoy the same level of service. Please let us know if you would like us to proceed with this.
+
+Portal Access Details: To begin using the portal, please visit: https://www.mylondondock.com/
+
+Username: nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>
+Password: Jingqi.Wu123!
+
+To ensure a secure and smooth experience, please note:
+
+  *   Passwords are case-sensitive.
+  *   For security, we recommend changing your password after your first login under Account Settings.
+  *   The new password must include a mix of lowercase and uppercase letters, numbers, and at least one special character.
+
+Key Arrangements: To arrange key collection for a guest or service provider:
+
+  1.  Log in to www.mylondondock.com<http://www.mylondondock.com>
+  2.  Go to "My Property" > "Key Management" > "Create Arrangements"
+  3.  Fill in the Collector’s details (name, company name, phone number, type of collection, relationship, and add general notes)
+*Type of collection: Regular collection / One-off collection
+
+  *   Regular collection: The collector can collect keys multiple times.
+  *   One-off collection: The collector can only collect once. After the key is returned, the arrangement will automatically be cancelled.
+
+  1.  Use the Additional Options to set an expiry date for the key arrangement. Regardless of the collection type, the arrangement will be automatically disposed of once expired.
+  2.  Select your property and choose your name under the Authorised by section.
+  3.  Click CONFIRM to complete the process
+
+You can also follow the on-screen tutorial for further guidance.
+
+[A screenshot of a computer  AI-generated content may be incorrect.]
+
+Welcome Pack: Attached to this email is your Welcome Pack, which includes:
+
+  *   Local amenities and services
+  *   Quick transport links
+  *   Building fire safety guidelines
+
+If you have any questions or need assistance, please don’t hesitate to reach out. We’re here to help and ensure you feel at home.
+
+Once again, welcome to London Dock – we look forward to supporting you!
+
+Kind regards,
+Nancy
+Concierge
+
+[cid:image002.png@01DD4044.9810BB10]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
+
+
+
+[A green and black logo    Description automatically generated]
+Registered Office
+Contact
+[A white background with black dots    Description automatically generated]
+
+Chiltern House
+Telephone:
+0345 491 8899
+[A blue and white logo    Description automatically generated]<https://www.tpi.org.uk/>
+
+72 â€“ 74 
+
+---
