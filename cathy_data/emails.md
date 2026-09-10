@@ -13975,3 +13975,115 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5Up4DNVbFEHMScVxiF-2FpQYL0gVQdvudr2aUdUCBOlRRHa9XW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANeTWvU0ZChTJ8HbiMvwFBnI16THdkc8mXsr2PWrG9tzdT0Obd-2BkTnOJh3cBIpjyE1zfWMocp6ET6s3SbOwFHTEWNt-2BoybF9SM5-2FMlGUP7YjEByI5Gdvk5WAUbcmCcVuW2n
 
 ---
+
+## [营销] You're in. Now for the good stuff.
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-01T18:08:11-06:00
+**摘要:** 这封邮件是lululemon的欢迎邮件，宣布用户已加入并预告新产品发布、独家合作和活动等信息。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847;
+ &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847;
+ &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847;
+ 
+ 
+
+
+
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAsAAAAABG9_-DxCSiTz9idRg3J9hWceouKn7n2rvyEO6-D2F6mKDImC0J6qGqMlHdrutj-VQsrVAZNQt3nScRUdGOMctNJa3ZY3Ie3PCCabWT6u4AH1ncjq 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ Welcome to lululemon.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAsAAAAABG9_-DxDalgLXF9KCqG3Jztd4Wtv0vRlimqlXk8zHj3RAcM0uRDJ_--K-_WlzjYbU8ipSBrDU2WQcEgJ5sYxXcOLh9mcB-303sap5rUYpXsNBEIN 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ Get ready for new product drops, delivered to your inbox weekly. Plus, exclusive collabs, can't-miss events, and more.
+
+ 
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAsAAAAABG9_-DxEzhGi9NhztZZgZLXEX_ZSrR-43fPyTthgTjD7naiBa9lsa3mQlYXs52aky-3gaIkg807WcYPxWHeLftfVHGWhysmXxR27qmKzXYMSa1Sw 
+Shop What's New
+ 
+ 
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAsAAAAABG9_-DxFHOwb6xWIWZ0fHWppqpUaVuBN_C4NRk_SSLwaeQncle18VNG8afhjBr1NHN7kLTX9B6pekkjeMfizIOHVJ4riMLG4TbJDztQGL6EyjZOt 
+Explore Our Bestsellers
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODd9AAsAAAAABG9_-DxGi0KhxAlDYvz-eAZeaWleuCxCq3b-oKeUb4gMQGdfNzLBsggUTV_eW8hKLfzyttkynq7cj1rqqGEZX5I1
+
+---
