@@ -5948,3 +5948,107 @@ Recipient:natalie<nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>>
 Cc:Akshitsinh.Rathod@foxtons.co.uk<Aksh
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-09T08:22:44+00:00
+**摘要:** Freya请求将Foxtons添加到钥匙豁免列表，因为Foxtons是Natalie和Frank指定的销售代理，且有摄影师需要查看房产。
+**待办:** 将Foxtons添加到钥匙豁免列表
+
+Dear Concierge,
+
+Gantcho is our Foxtons photographer. Natalie and Frank have instructed Foxtons as their sales agent. See attached sales terms.
+
+Please can you add Foxtons on key waiver list.
+
+Many thanks
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T : 020 7893 6010
+M : 07875 80 2146
+E : Freya.Wan@foxtons.co.uk<mailto:Freya.Wan@foxtons.co.uk>
+W : http://www.foxtons.co.uk
+[Your property flies with Foxtons]<https://www.foxtons.co.uk/avios?utm_source=staff_email&utm_medium=email&utm_campaign=email_footer>
+
+
+
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 03 September 2026 13:26
+To: London Dock Concierge <concierge@mylondondock.net>
+Cc: Frank <frankataix@gmail.com>; Natalie - Wu JingQi <natalie@circledin.net>; Pandora Chau <Pandora.Chau@foxtons.co.uk>; Freya Wan <Freya.Wan@foxtons.co.uk>
+Subject: RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments before opening or responding. IMPORTANT: You will never be asked to enter your credentials via email
+
+Hi Sean
+
+I hope this email finds you well.
+
+i have another agency from Foxtons and they would like to view the house, please help them for the viewing:
+
+Agent name: Freya Wan
+Email: <Freya.Wan@foxtons.co.uk<mailto:Freya.Wan@foxtons.co.uk>>,
+
+they will come this afternoon around 1-2 pm, thank you!
+
+The best regards
+
+Natalie
+
+在 Sep 2, 2026, 11:40 +0200，London Dock Concierge <concierge@mylondondock.net<mailto:concierge@mylondondock.net>>，写道：
+
+Hi Natalie,
+
+Thank you for your email.
+
+We will release the key as requested.
+
+Kind regards,
+ Sean
+Concierge
+
+<image001.png>
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk>
+
+
+
+[A green and black logo Description automatically generated]
+Registered Office
+Contact
+[A white background with black dots Description automatically generated]
+
+Chiltern House
+Telephone:
+0345 491 8899
+[A blue and white logo Description automatically generated]<https://www.tpi.org.uk>
+
+72 â€“ 74 King Edward Street
+Accounts:
+0345 491 8898
+[A close-up of a logo Description automatically generated]<https://www.arhm.org>
+MACCLESFIELD
+info@premierestates.co.uk<mailto:info@premierestates.co.uk>
+Cheshire
+www.premierestates.co.uk<http://www.premierestates.co.uk/>
+SK10 1AT
+
+
+
+Registered in England and Wales Registered No: 3607568
+
+This email and any attachments to it are strictly confidential and intended solely for the addressee. It and they may contain information which is covered by legal, professional, or other privilege. If you are not the intended addressee, you must not disclose, forward, copy or take any action in reliance of this email or its attachments. If you have received this email in error, please notify the sender at Premier Estates on 0345 491 8899 as soon as possible and delete this email immediately and destroy any hard copies of it. Neither Premier Estates nor the sender accepts any responsibility for any virus that may be carried by this email, and it is the recipient's responsibility to scan the email and any attachments before opening them. If this email is a personal communication, the views expressed in it and in any attachments are personal, and unles
+
+---
