@@ -8681,3 +8681,73 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQRd78M7CTrVypcB1J3lg3rw-3DxdQ-_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKYPNL4tGl5cca2sGOZJsjEaZXdZxjRT0K4seuez3-2FpqMyM5bQoMoDO3UcrRm1VTQq0Y3VFWtMKTUj7i8J9kqXNvK-2FKIMnE6Tk7p2y-2BRIY9F9OTUHzFzWQ-2FKq33NV4EwMJBmJ1jzgH35IXdae8ZQgdqnkOoHa9gW5A-2FXUfK6vapPyCt6n-2Bicc-2FX7CZHvmQUKI1T-2FWgf6XnRj8uJQwTF0jKwzop0HNrEk4FO4if1BqvUna1z-2BMnJmigyG3CWUhImaqmMbeOwQ7SVNtGj-2F7EI4727m8fpleRNkAx5sX-2BzDH0XUwoz1yVe16bly-2BPBNjkzgwtpbFsgpqUqnaNmJsw7WwgJGL4r2d7JQ18usc1SuO1jhsfDWscJS6
 
 ---
+
+## [营销] XIAOJUN, Ready to simplify your global business payments?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-09T15:02:48+00:00
+**摘要:** 这封邮件是Payoneer邀请XIAOJUN使用其全球支付服务，简化业务付款流程，并提供多种货币接收和付款选项。
+**待办:** 无
+
+Get started
+with Payoneer now 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/bOfZ4Bb8DBvT6CN_zYtQJg~~/AAQRxRA~/9VB7GDqTGLunvp65MmUHlYdox578fvTpr7OXiYczCdiebViDJAKSIsiciYjXN2X1bkGnklkb5QsqhdgYPxjAlL02rUjqnyLNCwaXcBiQjYXlEtcp28FDkOYEyTX_GggT style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/3pQC82QcECsWTPj48hCHQA~~/AAQRxRA~/H0aEyIJgO3rbELksbdM6OS7NNHqdvevwhTYa6AjrSKZ9Eo4Jf7VfagZEZD9N3ltxFI2KRUAvKr9DgwMTc4z4MBTH1kdb72QenJi4_iV-CBOB1PffOZLD8eAWoerarI3RLbOBOJgGEBuq2LAmsyI1xzji1re2ZOZb5qvfJXrBjnajwyJSsv8Da3C-KMoEDxwp alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Let’s get you paid           payoneer               Hi
+XIAOJUN
+Welcome to an easier, faster, more reliable way to get paid. With
+global coverage and competitive fees, you can do business almost
+anywhere in the world effortlessly with Payoneer.
+
+There are a couple of ways to get paid:               Receive
+payments like a local     Get bank account details in multiple
+currencies, allowing you to get paid with a bank transfer—just
+like a local—from clients and marketplaces.             payoneer
+Receive payments in up to 11 major currencies, including EUR and
+USD               payoneer      Give your clients a local payment
+experience with no additional cost to them               payoneer
+Hold multiple currencies in one account
+Start using a receiving account 
+( https://links-send.payoneer.com/f/a/pFR9oniQI7GRISC-26hI6Q~~/AAQRxRA~/yX8iTIRCyJY505a8kPhbbEYBhXIH-HFj4l44pB_-ed1Va8sU5J3CX3UKyhkcZ5wvIIwks-Ydo5TMytrTzBaJf6UhXM7-XEu9JMu6fKNxxBrcB5lb_--AXgi036A5_JtF-TWHWsvEYLxas6l4bReEogzT5-GrvBBjW6-a5WCQm2V5u2Afwqpkia65SAWDvR11UjtnOckvFFlk0kn3dJYa792XCbFMl-jxWn_7ljSvWiqPHU93AiuWSSESu-6eSli3 )
+                 Bill clients around the world     Request
+payments from your global clients and track them from your
+Payoneer account.             payoneer      Get paid fast in 190+
+countries and territories               payoneer      Offer
+clients flexible payment options with a premium billing
+experience               payoneer      Get cashflow clarity by
+tracking payments               payoneer      Enjoy global
+coverage with competitive fees Request a
+payment 
+( https://links-send.payoneer.com/f/a/zs48mPqD-hNjAhCRVFBYUw~~/AAQRxRA~/fbUvro1_ezPcUPn2eCgrlqlYemH9YxdS8kD43GpONZeHAh6KUnDi18LiZ645HYleB8QXQiSwKrpTDMo08wn21azSQHydEwwsAPMT2e8d6BeI92ZjMokFD_xH7bZIwg4-GP4g43gEf_z-ABULwSaFpCDdlaqcfif9us_JFx1KBLI9iuLFHXJSJHyE4yD9tHwxb83sLAMeXksDnSIJyVQXrwLnyewXJa2iwrgISd3qpOJ-d4w3idS08WH4djHSZ8Yq )
+                 With your Payoneer account balance, you can...
+payoneer      Pay business ex
+
+---
