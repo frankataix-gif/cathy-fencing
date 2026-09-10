@@ -18306,3 +18306,35 @@ x [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXP7mxmkRB4aI-2Fq
 Pay
 
 ---
+
+## [其他] New Payment Method Added to Your Tesla Account
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:40:54+00:00
+**摘要:** Tesla通知用户有一个新的VISA信用卡支付方式添加到账户，但未提及需要立即行动，仅作为通知。
+**待办:** 检查账户安全，确认支付方式是否授权
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dh4KY_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZqeoUJyXqgtOLgeuLngwJbPYSVk4Aj3Wdug1WVmzdvVOBGygkJGIiKiSh0nJ-2FM-2F8c1vF8fbJJw77GeSvEAdBiy6JwkIwOz2Un5K8Nfa42p7nbq2gI6RkhgbWxRrkyDaSe5W-2B-2BlPBQ6qoxE7Rhv-2Fe2dU-3D]
+New Payment Method Added
+Hi Natalie,
+The following payment method was saved to your Tesla Account. It will not
+replace any default payment methods for other Tesla products.
+Payment Type
+Credit card
+ - VISA
+Last 4 Digits
+2813
+If you want to remove this payment method, visit the Tesla App and navigate to
+your Wallet under ‘Account’ to tap the payment method you would like to remove.
+Learn more
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzWCB0dYPYI3jfeeYsY695oP3dGb7-2BI6iGQ3l8A44oVRpFNeCOnxdV6aQC6714hNAatpQMH2CuWyqj4rPBzqJ39uFHg51w8uz3Qf6hz-2F0x5bsg-3D-3DyONg_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZhL5vauxiC88Bfxjx0wV5gyCt1xkPsLIK1c1iv-2FLKaVoiWzmqp74iRD-2BfF3PHHwNxy16FejEH7cRVubBrEhzVEQL8iuYeg1uJEGjXVQBF5YPYbu7ZrdpiV9cPT9IEshowl18L9elhikDQjIDKISdU6k-3D].
+If you do not recognize this payment method, remove it and reset your password
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXG-2FtOGEyKCZc7b8GEHsCxm5wVZE8QDRtvkt4HkUX1fTK772U824NhLUNzuG7efIP0xsQnLcflCh-2BXPfMt3E7n6Rv-2BDeUwcA3-2FygjSxq6-2Ff1RbP91_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZlTHMXJO7LFxbaah-2FGNoZ0dLxeU5Z-2Fy9xUxKK-2FOL8bQriyJH5aY8yD1rKD34dy7ZeRGVJvrnxoooceCGq-2B2ag5TTOgDcBtJfo5yU7yKE422ukgzYVXjI6GhkbbgP76YyeuyrR-2FvnIBoytpVonsufO70-3D] to
+secure your account. Otherwise, ignore this message.
+2026 Tesla, Inc.
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAS-2FFj2hA33WW-2BI4dOxpzYPA-3D-3DUeus_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9Zua6Kb0SG7MlAfEVb0-2FLAGz8bMGVw8yWI2XvtffKMyytB81Dlr7zOVtunHDEvwTnw-2ByDt2TXoLAYC0uW-2BEpSnas4ZD0ysPZ-2FK2R41h5hDb-2BZMpTZ3zY2CphYc51ZsZOzHVlGmT5y5-2BWtnSjJr9QnRgc-3D]
+Privacy & Legal
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXOwmteuoJ6zZcreHJKBuYzULd8hxKn7Gv0LYwYInmq-2BNzXY1rNVzTsnBFslGXyh4p3tFUQzaBoes22pz5out6rQ-3DdgrH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZjxA14QAQ-2Fy1k2cjVILqmwTxOV2CfLOe0exCi117TarNB5bhXXOI-2BX9IG1r2C1v-2Bn-2BX90DxMx-2BOESMwAssFqU8-2BC3qz0PnqVpIEu8tPwZlA6jNATApdm-2Fb1Gq99atMR4Ji4ryxrBWQbLh3ov8mDlPfc-3D]
+
+---
