@@ -11351,3 +11351,60 @@ https://e.mail.ralphlauren.com/click?ZhJNfb6M4FMXzWZCSp21rGzBOJbRL_pa0mJKQNvCCjD
 
 
 ---
+
+## [营销] 🎁 Jingqi, Claim 500 TELUS Rewards points for a limited time | 🎁 Jingqi, 500 points TELUS Privilèges pour une durée limitée
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-09-04T13:26:54-07:00
+**摘要:** TELUS Rewards向黄金会员推广年度福利，包括多项优惠和限时奖励。
+**待办:** 无
+
+As a Gold tier member, learn about the $500+ annual value in perks | En tant que membre de niveau Or, découvrez la valeur de plus de 500 $ en avantages annuels
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d70&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9JTQwMzFpMldDWnk3QnJSeEJMSTFpVDgyNjQzTUdWOHAyaHB5a2FGanl6aEdFVSUzRA&s=S_Mrd5yeawL4LGnh0Mzm9FYFpIFBbf0A7nyiFDXNJJs web browser . 	
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d71&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9JTQwMzFpMldDWnk3QnJSeEJMSTFpVDgyNjQzTUdWOHAyaHB5a2FGanl6aEdFVSUzRA&s=QHndWmTh7hbRZ71ftP70oYVLJx-8bdML2w9Uk0tjrLo EN  |  https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d72&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9JTQwMzFpMldDWnk3QnJSeEJMSTFpVDgyNjQzTUdWOHAyaHB5a2FGanl6aEdFVSUzRA&s=QWvx6YkoF3BpRx8jjNTLnZ82x5ZGzMxsMy1P2ziYelg FR 	
+
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d73&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTc&s=idB-0dU67_0wP7-3ZMyV5Hq4l_qlZhfJcEL_uUp95J4 	
+	
+
+	
+	
+
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d74&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9cndwdHBwbjE&s=OBMnXYJNDyV20gQZPjYFFzAAufz0B3KuhUAB4WwznvU 	
+	
+
+  Jingqi, there’s over $500 a year in value waiting for you as a Gold tier member, including perks, contests and exclusive offers. It's our way to thank you for choosing us.   	
+And for a limited time, activate your 
+TELUS Rewards account and receive 	
+	
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d75&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9cndwdHBwbjI&s=AmYqBtg-iZQyBrntA9ftnYcnxyANEa9w3RKImXcLn2I Activate now 	
+	
+
+	
+Here's what's waiting for you 	
+  TELUS Rewards members enjoy exclusive perks including complimentary virtual wellness and pet vet consultations, roaming passes, Skip+ membership, Turo car rental credits, seat selection vouchers for WestJet flights, and so much more.   	
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d76&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9cndwdHBwbjM&s=11CC2u2B4lln4flhFJMn1njJmI1W2-UOsIId3w1_xa4 Access my rewards 	
+	
+<!--[if mso]>
+<style type=”text/css”>
+table,tr,td,p,a {
+font-family: Arial, Helvetica, sans-serif !important;
+}
+</style>
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" class="width100">
+  <tr>
+    <td align="left" style="font-size: 1px;"><img src="https://images.ctfassets.net/vob3qda590l9/HKOhdyp5Ohl3uFLZ5zidm/6eb427ee6fd4e78ddc3f0a82d144ba22/SocialFooter_GradientBorder.jpg" width="600" style="display: block;" border="0" class="width100" alt="" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" style="padding: 35px 0;" align="center"><table align="center" width="540" border="0" cellspacing="0" cellpadding="0" class="width90">
+        <tr>
+          <td align="center" style="font-family: 'Roboto', Arial, Helvetica, sans-serif;  font-size: 30px; line-height: 26px; color: #4b286d; text-align: center; padding: 0px 10px 10px 10px;"><strong>Let's make the future friendly<sup style="vertical-align: baseline">&trade;</sup></strong></td>
+        </tr>
+         
+         
+        <tr>
+          <td align="center" style="padding: 15px 0;"><table width="460" align="center" border="0" cellpadding="0" cellspacing="0" class="width100">
+              <tr>
+                <td align="center" style="padding-right: 10px; "><a href="https://www.telus.com/en/social-impact?cmp=em_bm_globfooter_purpose" target="_blank
+
+---
