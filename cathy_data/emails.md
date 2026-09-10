@@ -9311,3 +9311,91 @@ Brownsshoes
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5ZfaLYjv7RZ3kqwTNioRaHtoEgyE-2BPXjdz-2FY7aMoTxqu4bDQ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOVKB0tWCZUqWAwjEqSkJSoAlcG6KKLn2GH-2Bw3BaYElGr63gWMAO4aKEySV8XXtUyOWKxtnlL70w5W7zvYPV6pQkmAkf-2F5MbVNS6vPr-2FsnOWTQHRGCJ1hW9GVXRR89dHeNXEpsuIEvsEP8EmWX95sQS2ZqCYHkTvfkFviqQcZaf4V2z2EnRzOlXu-2BN3-2F5sji13QZVQXCr5TmzBe-2BiYNKhB8n5-2BwxFP21i5fM4qgdCuaqwryCHDVucwp-2FcOhw-2F0BsgBwDL3g2VIF4kZW-2B2kWdJZuJ01udGULu6ESkToqsc9UiXZMaVaW3UanJNHA5QOPWbMc67d4t9hddnfuZcrxMbS2nDAQ9aeYPfieYQlsW8OUrBFN
 
 ---
+
+## [学校] Last call for back-to-school gear.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-08T05:07:16-06:00
+**摘要:** Best Buy推出开学季促销活动，提供电子产品折扣及学生专属科技奖励计划。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;  
+ &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; 
+
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VWEYSgHwNv5JeyXNQpl1IxihNdh3LIq05bErk6MI1lC3T0LuEHxXe6H4B0MdAdgJC5tYozKoxPxbh41lrvxMnqyKcL_r5m25ZtPu4 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VXXfEf0P4F4Qk7VMMH54XYdLGt0vV9pH8auZ4Ai614tszBdWWX691TEpyoKWh3I7sSeAY9M3PkcCtKk3tWWg6T8gDPnYQscA 
+
+ 
+ 
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VsUwW0J1jApoZ1xtR98IL_cONRezaO8AtlRMSqT4gX-mQ41QJv-uZ6AIyJp6ulA8XMuzLpMIKte9Hq7xQpmWASORZaTvsZJezndGw 
+Top Deals &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VtR8_sbgoiS7mK1TqJVsxTvkbKQNSycg-vQb-JJSGtuWYKMIdWBUWrljWAshQYtwKHYqRTWQuoh4MZtaUuRsUyfdDxyoRCIGwr2bY 
+Outlet &rsaquo;
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VuV1LZOroZzL7g3J3EAj6_wSgOblWBOLX5MH5myCXACYoBBWmLT4wTdvdReWxhcf7YL1-5dhQGCN4LECGU-31mVF4s6ep_Lge_Tsk 
+Latest and Greatest Tech &rsaquo;
+
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VyhLHRvbcgz6JUBME0nmUDlG16iwGq8K9eVjhyOiuKr0XosMBofKMwDko-Wqhyd7DImI_4hhWgXEmHYY3cvgS4iVyughOIblSyUnI 
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_VzZzY2vBVDcAkdjbEsopJXMHOaQp9HKflMxEXWVtkYq3FstM_jp6ib1b877Pli9IVv5lc60ARQiZYm4jYkLr8aMpnQA3JygpPkGvA 
+Best Buy Tech Rewards for Students.  
+
+Open a new BMO Student Chequing Account and choose a tech reward worth up to $2001 from Best Buy.
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_V0NhroCpxsG1Vs_dps9Z1UI5IjfVthwI1ckw0ESp75OBNRCkLNOc9-PwvggiYs-chbyaXKr7YNaLtiN0nHu2Ctn05Syy0P_D_wwVM 
+Learn More 
+
+Back-to-School: top tech essentials
+
+
+1
+Save up to $500
+
+on select laptops.
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_V1D6L3urIU8rHC4Lm_l1HKPh4CECtZLVdTfO5YX4LB31ML_w29V6CN0oAncrKyk9bHdqSKw0nXzDVyagDVmq-NgWw4rZFbHkV94xU 
+Shop Now 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTN9AAcAAAAABkwnV_V2EsY8T3SBHDyCiqYV13Lg3UwdtfVSKn2yUogKp1a2JGjJAkC4NE9UCdlXyjrqnCXz4U2WwBlBMn5iC4PT9Rh1K2H25IvuERGdXmw 
+
+
+2
+Save up to 43%
+
+on select Sony headphones and portable speakers.
+h
+
+---
