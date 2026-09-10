@@ -99,3 +99,14 @@ Hi, fencing camp this weekend. Bring your gear and water bottle.
 Dear parents, please review the schedule for September and confirm your attendance for the parent meeting on Friday.
 
 ---
+
+## [其他] Meadowridge School schedule
+
+**发件人:** office@meadowridge.ca
+**日期:** 2026-09-10T19:08:27Z
+**摘要:** 
+**待办:** 无
+
+Dear parents, please review the schedule for September and confirm your attendance for the parent meeting on Friday.
+
+---
