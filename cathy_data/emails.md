@@ -15867,3 +15867,14 @@ Sephora
                                          Please do not reply to this email.
 
 ---
+
+## [其他] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-29T17:35:00+00:00
+**摘要:** 申请状态有更新，需登录账户查看具体变化。
+**待办:** 无
+
+Application number : S307997826  Your application status has changes.   To check what's changed with your application's status:   1. Sign in to your account.  2. Click  Check full application status  under  View the applications you submitted .          Sign in to your account                This message is intended for nataliewu100@gmail.com. If this message was sent to you in error and does not pertain to you, please delete it.   This email was sent to you because you opted in to receiving email communication from Immigration, Refugee and Citizenship Canada when you created your online account with us. If you wish to review or change your email address or email communications preferences,  sign in  to your account and click " Account profile " to review and modify your profile.    Immigration, Refugee and Citizenship Canada handles personal information in accordance with the Privacy Act and its regulations, policies and directives. For more information on how we handle your information, please see our  Terms and Conditions , the  Access to Information and Privacy  page, the privacy statement on your account page, the privacy notice on your application form, and our  Personal Information Banks . If you are not satisfied with the manner in which IRCC handles your personal information, you may exercise your right to file a complaint to the  Office of the Privacy Commissioner of Canada .
+
+---
