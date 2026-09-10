@@ -9732,3 +9732,48 @@ Subject: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4A
 Hi Lauren,   I have completed the online signing. Please check and confirm recei
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-07T11:33:17+00:00
+**摘要:** 邮件涉及房产相关文件签署和信息确认，Lauren通知Frank妻子将通过Docusign签署协议，并请求确认物业信息表内容。
+**待办:** 无
+
+Hi Frank,
+
+Please see attached our Multiple Agency Terms of Business – I will send these to your wife via Docusign so she can sign them electronically.
+
+Thank you for also returning the completed Property Information Form.
+
+In regards to Thirdfort, I have requested for a link to be sent directly to your wife (unfortunately you cannot complete this for her as it is a live verification system).
+
+Thank you for the additional documents, we will keep you updated on next steps in due course.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Frank <frankataix@gmail.com>
+Sent: 07 September 2026 10:36
+To: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Cc: Jordanna Mancina <Jordanna.Mancina@knightfrank.com>; Evan Yu <Evan.Yu@knightfrank.com>; natalie <nataliewu100@gmail.com>
+Subject: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+Hello Lauren,   I am preparing the relevant information and have attached the materials currently available. Leasehold Property Information Form: I have been completed. Please review the completed sections and confirm whether they are correct. Change of agency agreement type: Please amend the a
+[https://image-processing-service.uk-1.mimecastcybergraph.com/v2/banners?e=3B_7Dkk5KTtqrWgwh1TPUS-MKVni9rbTD_yDujDhRJVNN_ubEdxYfupro_cY_jYy9VqwnukT-wIEmpvKkuFRFDQVOxjMwyPC1oLJ8Dag22P67OFK-IB0WNzLZAAZSdwhKiqp7pKeNJTVA7fXcCLVhr7ogfMIOQU8biEEalV0z2M8Vu5zQyG9AvHiXjosBMOK0w9fldlDvtqKf84xKvlLLgtmYGV990Ohqg1s6ceN0IoXw6VFq1T0wIljPv9_zmYOJJyfW0CAhe2120x7ldddF5TX-XqBPhBA_iEA8NmfkofG-6FMCkHzTKVEcV9niiXH4w5iGH-rqndFVZQVdUbCr_N2uVcUPKG9Xkixwr4RN3yeUNeNNbMW6KotBUBioLwjxyhASTnQ3DRqBfrLXStJgDoY_eM9vuGK00vP7QlMKYlC4qqVvo-1U58R9HVOioSQwbKwtnvuCRE=]<https://report.mimecastcybergraph.com/?magiclink=https%3A%2F%2Fapi.services.mimecast.com%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Do20nRkVXf7VUVnANkXhoOwGytEwGN0YAlyeDJn7oBTGNl2kN%26state%3DeyJhbGciOiJSU0EtT0FFUC0yNTYiLCJlbmMiOiJBMjU2R0NNIn0.JyzNnC2EMObGVD0iA8egTC88gb5S3tLdu6zz7sdt5ypQmb1SwX6JpOPjQDPLFwtDl_zyZDH0PJXN_7qZUyotEuhyCXra3MCn9rlGJWpaC8DrIaBXb-DFV0KUPRbjnVxhBkS9WAxdVuPCDDjhdz0Jch-TPccncKE0Rv-v9_kGD6tmRX_z0N4TxDcd0iNEBZqZRAn82shyOKsLzJFHUbaNoYdWGKnm3MCJaU041ouZKff3BK82wrffFKb08B5B6Ab35OnpOdrI1vcrUhbzQFe4Rb1klu53mhBsMm9Z9Uw0kHrX4HkA7xOdT_OZD-foE2hL0vHVBf67s-8UwOelojdSng.DtexqY1LtKRcVATv.R6XcuXfLC3BLjBuVD6gIoYj-O2Ckn-uKXet52c0wB1FgmA85fDuJOaL86KsCdhV31OCYlyJtjOC82ja9oth-6h2D6622JN9mYp_Qmz9jg1yk1iGiTWEMKQ_I99gjIvj7ik7O_4cDsSuyLOYkSYSFCUj39-dq1a-cPiCnfIQX5dBW5Fv2jzG1Mpwqb5iVhjK-thaRIprgaEt8DvR_U4zQsmPwXZx4wYrqusWuCByqBrvkI4Cl01lJnydEBY7NNJQw_RzUiOHQ1-EGTh0GICakiuwrOCacxvo7N86egjW8K_23LZf7WZvZlOGmSfJ6OVOXLewCnbwt8N64nAmbjM39Wvp-bA3pALjMarVQ7YhBlTlTUzgiV5pQGEtiUe372nYRnOyLYmTDXM6CAjaIJo9ei-PulDf_JMwlo9egWuOKwcSwPWi23hJgYD0rycVQ6N5fUWdL_V_CNhDxxTlVZMuyN6SQswuZBIe7zxJ-St3pom9ywAgH3G6gcFpEKrxpbHMl8UdpsDyLNVMAaJ0Dx_dZ-po9vsTdejqbpwo2kdzpg4Po3NrKSSRYRdfNrLTXQURuDrcov46hWhdku5CV605-mSQCYqk1IZuD2f2wOACf3U5JV-5TtC3Ltx_yAh8qjVcsNohI5MPOqJR9kRj9q0siI7Psoik0kPsq1u-4crQyh2HLre9UYINB6znZxVY7rOwq4isKfAXxWXhwA7ZSsim96VDGjbkPDpXi-J1D15OGpeJCgliIJ8V5iKH6N_6Jyv7UuLcfXmZZhO4UccKLdSGqARejfMjiRjWrEk3AdpXSpwrdcULnwFzXQQIHjUPtKf8ezYPf80L6ef-wxw.jzdg7ihTjWXccsXb42SKfw%26redirect_uri%3Dhttps%3A%2F%2Freport.mimecastcybergraph.com%2Fcallback>
+CGBANNERINDICATOR
+Hello Lauren,
+
+I am prepa
+
+---
