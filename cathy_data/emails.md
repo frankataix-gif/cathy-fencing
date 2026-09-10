@@ -18197,3 +18197,61 @@ DoorDash     -->
       sup{font-size:0.6em;line-height:0.7em;vertica
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-26T19:45:46+00:00
+**摘要:** 邮件确认电动汽车充电车位预留事宜，表示目前无需立即预订或支付费用，建议在车辆到达前一个月联系确认。
+**待办:** 等待车辆到达前一个月时联系确认充电车位
+
+Hi Natalie,
+No problem at all, and thank you for clarifying.
+At this time, we expect to have another EV charging stall available, most likely on a higher parking level, closer to when your vehicle arrives.
+There is no need to reserve a stall or start paying the additional $25 monthly fee at this time. Please send me an email approximately one month before your Tesla is expected to arrive, and I will be happy to check the available EV charging stalls and reserve one for you.
+Thank you, and we look forward to helping you with this closer to your vehicle delivery date.
+Best regards,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:5376d457-59e2-4c16-a4c8-139e76cca781]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful. Please consider the environment before printing this email.
+
+
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Wednesday, August 26, 2026 12:04 PM
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Re: Request for an EV Charging Station
+
+Hi Anastasia,
+
+I’m sorry for the confusion in my previous email. I meant that my new
+Tesla is expected to be delivered in approximately three to four
+months, likely around November or December—not in March.
+
+I will therefore need the EV parking stall around the time the vehicle
+is delivered, before the end of this year. Could you please confirm
+whether P4 – Stall #116 is the last EV charging stall available? Would
+it be possible to reserve it now and begin paying the additional $25
+monthly fee when I receive the vehicle, or do I need to confirm and
+start paying for the stall immediately in order to secure it?
+
+Thank you for clarifying.
+
+Best regards,
+Natalie
+
+
+---
