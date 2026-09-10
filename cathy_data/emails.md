@@ -7902,3 +7902,61 @@ sup {
                  
            -->
 ---
+
+## [营销] From small steps to big wins 🥳
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-10T16:43:11+00:00
+**摘要:** 这封邮件祝贺Natalie成功运行首个自动化流程，并推荐更多自动化模板和功能以提升工作效率。
+**待办:** 无
+
+Every automation you build helps you deliver your goals.  
+
+( https://www.make.com/en/login?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Great work, natalie 🙌
+
+Congratulations on successfully running your first automation! Every scenario you build, every connection you make, helps you to save time, reduce errors, and scale your work effortlessly.
+
+ 
+
+Experiment with new scenarios, try AI-powered automations or explore pre-built templates below — the possibilities are endless.
+
+Tip: To access all features our builder has to offer, log in to Make using your desktop or laptop. On larger devices, it’s easier to navigate and find all features on the screen without zooming or scrolling.
+
+Create custom responses using OpenAI GPT-3 and Webhooks
+
+Automate custom response creation by integrating OpenAI GPT-3 with Webhooks. Trigger responses via Custom WebHook, generate with GPT-3, and deliver using Webhook Response.
+
+Try this template ➜ ( https://www.make.com/hq/template/13057?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Create engaging social media posts using WordPress and ChatGPT
+
+Automatically generate engaging social media content by watching WordPress posts and using OpenAI GPT-3 to create and post on Facebook Pages.
+
+Try this template ➜ ( https://www.make.com/hq/template/13664?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Create WordPress posts from new Google Sheets rows using ChatGPT completions
+
+This automation creates WordPress posts from new Google Sheets rows using ChatGPT. Streamline content creation by integrating Google Sheets, OpenAI, and WordPress.
+
+Try this template ➜ ( https://www.make.com/hq/template/15302?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Generate ChatGPT Completions from Google Sheets Rows
+
+Effortlessly enhance your content creation process by integrating ChatGPT with Google Sheets. This powerful template allows you to automatically generate relevant completions, ranging from SEO keywords to custom responses, boosting productivity and content quality with ease. [Learn more](https://community.make.com/t/getting-started-with-openai-gpt-3-and-make/7796?utm_source=make&utm_medium=in-app&utm_campaign=template)
+
+Try this template ➜ ( https://www.make.com/hq/template/10570?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Want more options? Explore the full template gallery ( https://www.make.com/en/templates?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io ) and find the perfect workflow for your needs.
+
+The Make Team
+
+Web Site ( https://www.make.com/en?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )Facebook ( https://www.facebook.com/itsMakeHQ/?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )LinkedIn ( https://www.linkedin.com/company/itsmakehq?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+Twitter ( https://twitter.com/make_hq?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )Instagram ( https://instagram.com/itsmakehq/?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )YouTube ( https://www.youtube.com/channel/UC8KWRrf8wqyowmWhXJ9DRjQ?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+  You're receiving this email because you're subscribed to Tips & Tutorials.
+
+Change your preferences 
+
+---
