@@ -13467,3 +13467,45 @@ We Get It Done
 ( https://clicks.foxtons.co.uk/f/a/fHY2Xj0rbyBFnhYsAXjN1g~~/AAAHahA~/b9F0qUydIhX9pD4DV_qMK92tqtaXaXzQuB05aMrQ8RCiz3B5C7CAo_pkjCAcDa6DHtNmAg6EFVPZOcoCAi3FsmTZ51JP76vY8U2pkULp_W-xYNS_TZSyA2HvBTF1GcK_4Kmd6VeMlQKpEn_aZInonQ~
 
 ---
+
+## [其他] << Ref:5604355 >> TELUS Consumer Service Agreement
+
+**发件人:** CART CSA <CARTCSA@telus.com>
+**日期:** 2026-09-02T13:30:58+00:00
+**摘要:** 邮件通知用户可通过My TELUS查看和下载消费者服务协议，并提供操作步骤及客服联系方式。
+**待办:** 无
+
+Hello
+
+
+Please follow the steps below to view your Consumer Service Agreement for your TELUS device. It contains useful information related to your purchase, including the terms of your agreement and the services you've selected. Please read it carefully and save a copy for future reference.
+
+
+You may view and download your Customer Service Agreement from the last four years via My TELUS:
+
+
+1. Login at TELUS.com/mytelus
+
+2. Select the My Profile tab
+
+3. Select View Service Agreement(s)
+
+4. Select Customer Service Agreement for the desired date and phone number
+
+
+If you have any questions related to your Consumer Service Agreement or require a physical copy you may contact our Client Care Team using the following methods below:
+
+
+Hours of operations are 9am – 7pm
+
+
+•Live Chat: <http://www.telus.com/chat> http://www.telus.com/chat
+
+•Telephone: toll free 7 days a week at 1-866-558-2273 or *611 from a TELUS handset
+
+
+
+Please do not reply to this email, as it was sent from an unmonitored account.
+
+
+---
