@@ -15977,3 +15977,40 @@ Adrian 您好，
 感谢您的反馈。我们也觉得签证速度应该会很快，所以想及时把我们的想法和计划反馈给您。
 
 ---
+
+## [其他] Your TELUS home services e.Bill is ready
+
+**发件人:** TELUS <telusbilling@info.telus.com>
+**日期:** 2026-08-28T15:16:51-07:00
+**摘要:** TELUS通知用户电子账单已准备好，并提供在线查看和支付选项。
+**待办:** 无
+
+Your home services e.Bill is ready.  
+ 
+Hi , 
+Here are your bill details at a glance:  
+Bill month: 
+Account number: 
+Total due, if received by : 
+ 
+
+Paying on time is easy - sign-up for pre-authorized payments, it’s easy to do. Simply register your credit card or Visa Debit. It’s fast, convenient and worry-free.  
+Log in  
+ 
+ 
+View and pay your bill online with My TELUS. 
+With My TELUS, you can:  
+View and pay your bill 
+Manage your bill preference 
+Monitor your monthly Internet data usage 
+Manage your products and services 
+ 
+Google Play        
+ 
+ 
+  
+
+Thank you for choosing TELUS.
+
+
+---
