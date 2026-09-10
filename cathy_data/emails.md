@@ -11593,3 +11593,48 @@ Shop Bestsellers
  https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAsAAAAABIP3IzwC1L_2D8HQEqYBgDtTZx3jbYQzSq9Af7cHT_mdOX-ng_k8HPJDSe3bv-3Xe82GjGSg3TJMVOLd1IdF7fNdZNF
 
 ---
+
+## [其他] Your DoorDash Streak starts Saturday
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-04T13:55:25+00:00
+**摘要:** DoorDash通知用户的连续签到活动将于周六开始。
+**待办:** 无
+
+DoorDash     -->
+   
+			@font-face{font-family:'DDNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/asset/0afbb6ac-0237-4a54-9b10-0e69fa4c659c/DD_Norms_Condensed_Black.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:700;src:url('https://assets.doordash.team/asset/19d5c702-7b41-463b-b663-c2c220097a86/DD_Norms_Bold.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:600;src:url('https://assets.doordash.team/asset/46657f9e-c6e9-4401-8001-474f1f7016ec/DD_Norms_DemiBold.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:500;src:url('https://assets.doordash.team/asset/b0344baa-7717-402c-81e4-ecae646df4ef/DD_Norms_Medium.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:450;src:url('https://assets.doordash.team/asset/ac4e2816-c43c-4b6d-8e12-0f20f400dbe1/DD_Norms_Normal.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:400;src:url('https://assets.doordash.team/asset/b0a13254-93fc-4cb2-8c46-7b28f54c3ca0/DD_Norms_Regular.woff2')format('woff2');}
+		     
+   a[href^="tel"],a[href^="sms"]{color:inherit;cursor:default;font-weight:inherit;text-decoration:none}body{-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;mso-line-height-rule:exactly;}html,body{width:100%;margin:0;padding:0}img{border:0;display:block;height:auto;line-height:100%;outline:none;text-decoration:none}table{border:0 !important;padding:0 !important; border-collapse:collapse !important;mso-table-lspace:0pt;mso-table-rspace:0pt;}u + .body #MainTable img + div{display:none!important;}u + .body{width:100%;}.body a[x-apple-data-detectors=true]{color:inherit!important;text-decoration:inherit!important}span.MsoHyperlink{color:inherit !important;mso-style-priority:99 !important}span.MsoHyperlinkFollowed{color:inherit !important;mso-style-priority:99 !important}
+		   
+   
+			body,#MainTable{background-color:#F4F4F4;}
+			#Basic000{background-color:#FEFFFF;}
+			#Basic100{background-color:#F7F7F7;}
+			#Basic200{background-color:#E7E7E7;}
+			#Basic500{background-color:#191919;background-image:linear-gradient(#191919,#191919);}
+			#DeliveryRed600{background-color:#FF3008;background-image:linear-gradient(#FF3008,#FF3008);}
+			#DeliveryRed800{background-color:#E31E00;background-image:linear-gradient(#E31E00,#E31E00);}
+			#DeliveryRed900{background-color:#C00000;background-image:linear-gradient(#C00000,#C00000);}
+			#MotorOil800{background-color:#681109;background-image:linear-gradient(#681109,#681109);}
+			#MotorOil900{background-color:#570000;background-image:linear-gradient(#570000,#570000);}
+		   
+   
+			#Foam{background-color:#EFE8FF;}
+			#Plum{background-color:#622EEA;background-image:linear-gradient(#622EEA,#622EEA);}
+			#Taro{background-color:#D5C4FF;}
+		     
+   
+			h1,h2,h3,h4,h5,h6,p.h7,p.h8{font-family:'DDNorms',system-ui,sans-serif;font-weight:600;margin:0 0 24px 0;line-height:1em;letter-spacing:-0.02em;}
+			p,li{font-family:'DDNorms',system-ui,sans-serif;font-weight:450;margin:0 0 24px 0;line-height:1.3em;}
+			.black{font-family:'DDNorms-Condensed',system-ui,sans-serif!important;font-weight:900!important;line-height:0.85em;letter-spacing:-0.04em;text-transform:uppercase;font-stretch:condensed;}
+			ul,ol{padding:0 0 0 20px;margin:0 0 24px 0;}
+			li{margin:0 0 8px 0;}
+			h1{fo
+
+---
