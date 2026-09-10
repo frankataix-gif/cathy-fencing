@@ -13341,3 +13341,20 @@ How likely are you to recommend Browns to a friend or family member?
 
 
 ---
+
+## [学校] New Student Orientation RSVP Confirmed
+
+**发件人:** "admissions@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-02T16:33:31+00:00
+**摘要:** 这封邮件确认了新生入学导向活动的回复，包含相关安排信息。
+**待办:** 无
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
+<![endif]--><!--[if !mso]><!--><link href="https://email.meadowridge.myenotice.com/c/eJwczEtuwyAQANDT4KU1DGSABYtKlXc9BJ-xgwQmMrRRbl8l-6eXvbwxWrewl8ZaRWQlLnefHZFRKUatd5UJQN6ysZRy1G7PmpbiEZDAAUpSSsk1kTaYIkCSxkWKQkPjkPvzKvngtb347LMkXlNvS_X3OR9DqC-Bm8Bt7-cc69H7UTk8yngjgVsaQ6htD63Ul1DfP2_F1xXmcvkzzFALP38lgNBwtFDq5_7z-B8AAP__p3xB5Q" rel="stylesheet" type="text/css"><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:670px){.mobile_hide{display:none}.row-content{width:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></head><body class="body" style="background-color:#fff;margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none"><table border="0" cellpadding="0" cellspacing="0" class="nl-container" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff" width="100%"><tbody><tr><td><table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-1" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0" width="100%"><tbody><tr><td><table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;color:#000;width:650px;margin:0 auto" width="650"><tbody><tr><td class="column column-1" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-top:20px;vertical-align:top" width="100%"><table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0" width="100%"><tbody><tr><td class="pad" style="padding-bottom:15px;padding-left:15px;padding-right:15px;width:100%"><div align="center" class="alignment"><div style="max-width:292.5px"><img alt="Image" height="auto" src="https://email.meadowridge.myenotice.com/c/eJxMzr-OrCAUgPGnwdIcDopQUNzchG6bfQHCnzNKVsVBHDNvv8lmi-2-7vslw0dCpTsyfFJKSKk4dosBGiOMIGl6JKG8DpPiSIQpBO9R8y4bBJSgAbkUQvA-ymHCGAAin3SQgQ2wkU_lrjnN1G9v2kvLkfpYtm41S2vHycQ_hpahrXSWq0Y6-0fe_XrmRv1OjaHNm5_pZGgfzl-tMPz__A374qNSXGsUA0P7Z8bQPr-o3HdYDn2v15T2FI7M0H58urXMxbX3QW4p1R01b76-XZ2DEwCO98c-d9Xsvvk1031xADbAvPm8_shfBr8DAAD__zRKYv0" style="display:block;height:auto;border:0;width:100%" title="Image" width="292.5"></div></div></td></tr></tbody></table><div class="spacer_block block-2" style="height:5px;line
+
+---
