@@ -4057,7 +4057,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v5', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v6', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4382,7 +4382,7 @@ function circuitLabel(c) {
       const key = emailTaskKey(e);
       const hasTask = tasks.some(t => t.emailKey === key);
       const taskBtn = (e.todo && e.todo !== '无') ?
-        `<button class="btn ${hasTask ? 'secondary' : 'cathy'}" data-email-idx="${idx}" style="padding:2px 10px; font-size:0.75rem; margin-top:6px;">${hasTask ? '查看待办' : '加入待办'}</button>` : '';
+        `<button class="btn ${hasTask ? 'secondary' : 'cathy'}" data-email-key="${escapeHtml(key)}" style="padding:2px 10px; font-size:0.75rem; margin-top:6px;">${hasTask ? '查看待办' : '加入待办'}</button>` : '';
       return `<div class="card" style="margin-bottom:10px; padding:12px; border-left:4px solid ${e.color};">
         <div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:6px;">
           <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
@@ -4398,8 +4398,8 @@ function circuitLabel(c) {
         ${taskBtn}
       </div>`;
     }).join('');
-    container.querySelectorAll('button[data-email-idx]').forEach(btn => {
-      btn.addEventListener('click', () => addTaskFromEmail(allEmails[btn.dataset.emailIdx]));
+    container.querySelectorAll('button[data-email-key]').forEach(btn => {
+      btn.addEventListener('click', () => addTaskFromEmail(allEmails.find(e => emailTaskKey(e) === btn.dataset.emailKey)));
     });
   }
 
