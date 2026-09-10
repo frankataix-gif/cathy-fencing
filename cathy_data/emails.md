@@ -7391,3 +7391,73 @@ Best regards,
 
 
 ---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-06T06:42:33+00:00
+**摘要:** Payoneer通知用户接收账户已开通，需按照指引开始使用。
+**待办:** 查看账户详情并分享给客户和市场平台
+
+ Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+  <tr>
+    <td style="padding-top: 25px; padding-bottom: 25px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center">
+            <a href="https://links-send.payoneer.com/f/a/snza4cbYBOqMUxSpV1yihw~~/AAQRxRA~/4AolztzSA1RuQfb6Y1XdbrQ-QPxaN7QqKuagG3jHN62FGI1IgHby_hE2d2nUJqwU8ghz2yjW4pNonSsQfShKwmuuQsV5sNFFntcrWllpSGm9V_tgkF4nBlYGlX8bUUMK style="color:#0092F4;" target="_blank" name="Logo">
+              <img class="Logo" src="https://links-send.payoneer.com/f/a/DYxYS0GqzuZet_pbAOZ3cQ~~/AAQRxRA~/oSWLh9YZxlVxC1IUhPUv4sYunMLd1FDmko344RzvadJQSGnBEzUIfqhu1X3S1A-bbrZjuhMS9gki8RYeG0yjG6dseKVKF_pIx1Necg1WD5omIPw-uvjZbhjVf2zPpoh25twY2utdDsGjr1dewhaSOxq05u87PR7IfcIH2cFWM1z_P8G5yi6QOHbmGhNChoNa alt="payoneer" title="payoneer" border="0" width="180" style="display:block; max-width: 180px; width: 100%;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Say hello to your new account details           payoneer
+Hi XIAOJUN
+You’re all set to share your new account details with clients and
+marketplaces.
+
+Your new receiving account(s) give you the freedom to get paid
+via bank transfer—just like a local—from international clients
+and marketplaces.               Here’s how to use your new
+receiving account(s):             payoneer      Go to Get paid >
+Receiving accounts 
+( https://links-send.payoneer.com/f/a/YVbmakeqSVF7yAnzOYMXwA~~/AAQRxRA~/-0qiiboQ0hRLO_Lf-xOQD6kUlzcFkhXqB0Rp4BcYvKiZYRLUNPF0TFGFvN6Uc1XiScagpsY_lXNMUO1xBQwRHYCIu90yoF81lH4qeqC1JvPZw3zVf6DQ_HBX16dQ9Mu1VarEPkMvTU838RT9ws1z4jbEJxRvcvGMYfztEuxgLDiAyySwY-sVT0Cph0sVO02Abb98FHLVczW6NRkUFOr1lCOeteuZ8AiOCHSQ95EFjsqINg1ioLg64vE4fI6hUi9xfXFRFBRa3awCmvHFrlQnqA~~ )
+ and copy the details of your account(s). Share the details with
+clients and marketplaces               payoneer      When you
+receive a payment, you’ll be notified when it lands via email,
+SMS and push (if you have the mobile app)               payoneer
+You can view your balance(s) and latest transactions from your
+account homepage                              Once you’ve been
+paid, you can use funds to make low-cost international payments
+to suppliers and contractors, pay expenses with a Payoneer card*,
+convert to other currencies, keep hold of them, or withdraw to
+your bank. The choice is yours. View your
+receiving account(s) 
+( https://links-send.payoneer.com/f/a/z90XSWjr5-TDi5tKsEWEag~~/AAQRxRA~/-0qiiboQ0hRLO_Lf-xOQD6kUlzcFkhXqB0Rp4BcYvKiZYRLUNPF0TFGFvN6Uc1XiScagpsY_lXNMUO1xBQwRHYCIu90yoF81lH4qeqC1JvPZw3zVf6DQ_HBX16dQ9Mu1VarEPkMvTU838RT9ws1z4jbEJxRvcvGMYfztEuxgLDgWHQVFUvsac323_QRb7f0d9x8RlaPwOJUrmwGbxFdUDyGj5fVGrEjarVn5LGgYOq4juQuWoCWRSvg4IOPW8z8CjxJ_fiz5a6IkqLU7lw9szA~~ )
+                            PRO TIP
+
+You can do all this and more with the Payoneer mobile
+app.            payoneer 
+( https://links-send.payoneer.com/f/a/bquxKjkEEQDc6KSpf9_oQQ~~/AAQRxRA~/iVhuY3yOCrXOP80Csyqw3R9U9UGPOG3XpUwEcgSq5
+
+---
