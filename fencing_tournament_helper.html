@@ -1760,6 +1760,9 @@ function circuitLabel(c) {
     try { return localStorage.getItem(key) || def; } catch(e) { return def; }
   }
 
+  function saveUIToLocal(key, value) { try { localStorage.setItem(key, value); } catch(e) {} }
+  function getUIFromLocal(key, def) { try { return localStorage.getItem(key) || def; } catch(e) { return def; } }
+
   function loadReflections() {
     try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
   }
@@ -3225,7 +3228,22 @@ function circuitLabel(c) {
     }
   }
 
+  function initFencingSubTabs() {
+    const bar = document.querySelector('#tab-tournaments .sub-tabs');
+    if (!bar) return;
+    bar.addEventListener('click', (e) => {
+      if (!e.target.dataset || !e.target.dataset.subtab) return;
+      setFencingSubTab(e.target.dataset.subtab);
+    });
+  }
+
+  let currentTab = 'tournaments';
+  let currentFencingSubTab = 'tournaments';
+  let currentCathySubTab = 'tasks';
+
   function setFencingSubTab(tab) {
+    currentFencingSubTab = tab;
+    saveUIToLocal('cathy_fencing_subtab', tab);
     const subs = ['tournaments', 'membership', 'results', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
@@ -3244,18 +3262,9 @@ function circuitLabel(c) {
     if (tab === 'coach') loadCoachView();
   }
 
-  function initFencingSubTabs() {
-    const bar = document.querySelector('#tab-tournaments .sub-tabs');
-    if (!bar) return;
-    bar.addEventListener('click', (e) => {
-      if (!e.target.dataset || !e.target.dataset.subtab) return;
-      setFencingSubTab(e.target.dataset.subtab);
-    });
-  }
-
-  let currentCathySubTab = 'tasks';
   function setCathydataSubTab(tab) {
     currentCathySubTab = tab;
+    saveUIToLocal('cathy_cathydata_subtab', tab);
     const subs = ['calendar', 'tasks'];
     subs.forEach(s => {
       const el = document.getElementById('cathydata-sub-' + s);
@@ -3289,17 +3298,31 @@ function circuitLabel(c) {
   function initTabs() {
     document.getElementById('tabs').addEventListener('click', (e) => {
       if (!e.target.classList.contains('tab')) return;
+      currentTab = e.target.dataset.tab;
+      saveUIToLocal('cathy_active_tab', currentTab);
       document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       e.target.classList.add('active');
-      document.getElementById('tab-' + e.target.dataset.tab).classList.add('active');
-      if (e.target.dataset.tab === 'tournaments' && mapViewActive()) {
-        if (!map) initMap();
-        updateMapMarkers();
-      }
-      if (e.target.dataset.tab === 'emails') loadEmails();
-      if (e.target.dataset.tab === 'cathydata') setCathydataSubTab(currentCathySubTab);
+      document.getElementById('tab-' + currentTab).classList.add('active');
+      if (currentTab === 'tournaments') setFencingSubTab(currentFencingSubTab);
+      if (currentTab === 'emails') loadEmails();
+      if (currentTab === 'cathydata') setCathydataSubTab(currentCathySubTab);
     });
+  }
+
+  function restoreLastTab() {
+    currentTab = getUIFromLocal('cathy_active_tab', 'tournaments');
+    currentFencingSubTab = getUIFromLocal('cathy_fencing_subtab', 'tournaments');
+    currentCathySubTab = getUIFromLocal('cathy_cathydata_subtab', 'tasks');
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    const activeTabBtn = document.querySelector('.tab[data-tab="' + currentTab + '"]');
+    const activeTabContent = document.getElementById('tab-' + currentTab);
+    if (activeTabBtn) activeTabBtn.classList.add('active');
+    if (activeTabContent) activeTabContent.classList.add('active');
+    if (currentTab === 'tournaments') setFencingSubTab(currentFencingSubTab);
+    else if (currentTab === 'cathydata') setCathydataSubTab(currentCathySubTab);
+    else if (currentTab === 'emails') loadEmails();
   }
 
   function mapViewActive() {
@@ -3928,6 +3951,9 @@ function circuitLabel(c) {
     }
     window.addEventListener('scroll', update, { passive: true });
     homeBtn.addEventListener('click', () => {
+      currentTab = 'tournaments';
+      saveUIToLocal('cathy_active_tab', 'tournaments');
+      currentFencingSubTab = 'tournaments';
       document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
       const homeTab = document.querySelector('.tab[data-tab="tournaments"]');
@@ -4037,7 +4063,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v12', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v13', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4086,6 +4112,7 @@ function circuitLabel(c) {
   loadEmails();
   renderResults();
   renderDailyQuote();
+  restoreLastTab();
 
   // 回到前台或页面重新显示时，先推送本地未同步的改动，再拉取 GitHub 最新数据
   document.addEventListener('visibilitychange', async () => {
