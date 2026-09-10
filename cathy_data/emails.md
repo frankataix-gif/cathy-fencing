@@ -33,3 +33,14 @@
 Dear Cathy, your registration for the Y14 Women Foil event has been confirmed. Please arrive 30 minutes early for check-in.
 
 ---
+
+## [其他] Meadowridge School 新学期通知
+
+**发件人:** office@meadowridge.ca
+**日期:** 2026-09-10T18:50:23Z
+**摘要:** 
+**待办:** 无
+
+各位家长：新学期将于9月14日开始，请确认学生的校车安排和午餐计划。
+
+---
