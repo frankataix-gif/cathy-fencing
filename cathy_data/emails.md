@@ -4801,3 +4801,39 @@ Acknowledgement/ Permission
 Due: 9/
 
 ---
+
+## [学校] Re:
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-09T18:32:00+00:00
+**摘要:** Natalie（Cathy母亲）请求Cathy的学校账户新密码，Darcie提供了当前登录信息并询问是否有效。
+**待办:** 无
+
+Hi,
+Here is all the info I have for her:
+User name: cathy.he
+Password: Mrstudent27.9222
+
+Login info
+Office 365: cathy.he@meadowridge.bc.ca
+Google: cathy.he@meadowridge.ca
+
+Let me know if that doesn't work.
+Ms. Hook
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, September 8, 2026 9:46 PM
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject:
+
+Hi Ms.Hook,
+
+I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today but the password was incorrect. Can you please send me the new password?
+p.s. You can contact me with this email.
+
+Thanks,
+Natalie
+
+
+
+---
