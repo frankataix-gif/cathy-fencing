@@ -64,3 +64,14 @@ https://mail.google.com/mail/uf-%5BANGjdJ9_VvYKnFAVdi6sSTzil56dt78lC-MH3n5AyLuJ7
 Dear parents, please join the Friday morning assembly at 9:00 AM in the gym.
 
 ---
+
+## [击剑] RJCC Y14 Women Foil Registration Open
+
+**发件人:** events@usfencing.org
+**日期:** 2026-09-10T19:42:16Z
+**摘要:** Cathy有资格报名参加10月15日西雅图的RJCC Y14 Women Foil赛事。
+**待办:** 无
+
+Cathy He is eligible to register for the RJCC Y14 Women Foil event in Seattle on Oct 15.
+
+---
