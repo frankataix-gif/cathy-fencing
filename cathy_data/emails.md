@@ -8207,3 +8207,136 @@ https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9ADIAAAAAAcabgpSV218
 https://click.news.loropiana.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9ADIAAAAAAcabgpSWDKZ2a3FsDARLCi4I5Hxt1_VgittyVKLq2c-zz_GFBpfbcAAZksCwbz8oYo-xWYLMPVWJJrOV26utix6ZY
 
 ---
+
+## [营销] What’s new: Spacer Tracksuit for post-workout bliss
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-09T19:47:25-06:00
+**摘要:** lululemon推出新款Spacer Tracksuit，强调运动后的舒适与奢华体验。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847;
+ &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847;
+ &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847;
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9AAsAAAAABLX09hWQhRKN9qTt4I7Ars8FJ0zVApRS-m7pcKzGoYw6MEVhiE92eFrqKOgjwZwyRONWJ8Fyg4efenQ7i-Kfa8QCLNX_YGCYGsAZy1On0KYWDa9Y 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ The rest, is comfort.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9AAsAAAAABLX09hWRA6ZtLsEsmojbpZLDfhEd8qTSRA4kRgfgvvYqGdL6cOBhHtunXOMxOR4xNXCCJaB0gbYMyEc5vPnnuzfex-0iILz6on8TwMMqkM93jGlH 
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ New Spacer Tracksuits make every cooldown a touch more luxe.
+ 
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9AAsAAAAABLX09hWSD9Pvah3Mm8DyPach-Q87ezHQO7qSv_RvPhOl9f1At3tcENF_UbNLVc1Qb4hdCVRa6cwnasMx5fm1HK5B6belArxRPHwrpPpjO4r_kTni 
+Shop What’s New
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9AAsAAAAABLX09hWTz1qaWdMsPfvFDRf7bTDMDZxCONdvuyXJ1KaqrNsljLXOqhxphNZ7h0o1TzROdPehsJ9mLps44wLB5TTIR5zZEMjncK6NzowajCPDFI_3 
+
+ 
+ 
+ https://click.e.lululemon.com/?qs=ABB7InYiOjEsImQiOjQ5OTV9AAsAAAAABLX09hWUb34FSlcZN-KPp205WAzFprv-GJwSYgkAqIq_lrWc8teWp1sCkiKlPcZBBGnS3SVi21rSXZc2It_VG-oGizdJf_jaX_AWi6yH7uh7RTzi 
+Shop Spacer
+
+---
