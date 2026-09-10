@@ -13275,3 +13275,53 @@ The Payoneer Team
 ( https://www.facebook.com/Payoneer ) ( https://twitter.com/Payoneer ) ( https://www.linkedin.com/company/payoneer ) ( https://www.youtube.com/user/MyPayoneer )
 
 ---
+
+## [学校] Welcome to Grade 7 Advisory at Meadowridge School
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-02T17:12:41+00:00
+**摘要:** Darcie Hook老师欢迎七年级家长，介绍其作为导师和科学老师的职责，并强调导师项目的五大原则，同时邀请家长参加学校活动。
+**待办:** 无
+
+Dear Grade 7 Families,
+Welcome to a new school year at Meadowridge School! My name is Darcie Hook, and I am excited to be your child's Grade 7 Advisor and Science teacher this year. I look forward to getting to know your children and partnering with you to support their growth, learning, and well-being throughout the year.
+As an advisor, my goal is to help students make a successful transition into Grade 7 while fostering a strong sense of belonging and responsibility within our community. A significant focus of our advisory program will be the development and reinforcement of the Big 5, which guide our expectations and help create a positive learning environment for everyone:
+
+  1.  We respect each other.
+  2.  We use appropriate language.
+  3.  We take responsibility for our learning.
+  4.  We wear our uniforms with pride.
+  5.  We use technology responsibly.
+
+Throughout the year, students will have opportunities to reflect on these principles, set goals, and develop the habits that support both academic success and personal growth.
+Strong communication between home and school is very important to me. Email is the best way to contact me throughout the school year, and I encourage you to reach out whenever you have questions, concerns, or information you'd like to share about your child. My email address is darcie.hook@meadowridge.bc.ca.
+I am planning to call each family over the next week to introduce myself and begin building our partnership. However, if email is easier or your preferred method of communication, please feel free to let me know.
+I would also like to invite you to several upcoming opportunities to connect with our school community:
+
+  *   Parent Information Night: Thursday, September 10, from 6:00-8:00 p.m.
+  *   Parent Social: September 3 or September 24
+  *   Parent-Teacher Conferences: October 6
+
+These events are wonderful opportunities to learn more about the year ahead, meet other families, and connect with teachers and staff.
+I am looking forward to an exciting and rewarding year with this group of students. Thank you in advance for your support and partnership. Together, we can help make this a successful and memorable year for your child.
+Warm regards,
+Darcie Hook
+
+
+Darcie Hook, (she/her)
+MYP teacher, Science
+darcie.hook@meadowridge.bc.ca<mailto:darcie.hook@meadowridge.bc.ca>
+
+MEADOWRIDGE SCHOOL
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t: 604.467.4444 (ext. 144)
+meadowridge.bc.ca
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+
+
+
+---
