@@ -1822,3 +1822,16 @@ Learn more, iPhone 18 Pro Learn more
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsorS%2BERUmnpwl3OUAczxPdKgFFgT9jl5eqdztWgdcTUMFwxNap3elSC2PEFF8yzaLgV%2Fk5k6TEQzgsVRn%2B%2FLzreStda4SGiFOrtyAbwAjddKFtbVsddw%2BNYTL1nmEzO6U0mFA0ulGtDthHdzCx84i%2BpTiNhv5QKGtldaqsDB7vsI4WfQ
 
 ---
+
+## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
+
+**发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
+**日期:** 2026-09-10T15:07:39+00:00
+**摘要:** West Point Grey Academy 2027-2028学年申请及参观注册已开放，JK-Grade 1申请截止至2026年10月29日，Grades 2-12截止至11月5日，需注册信息会议和校园参观。
+**待办:** 注册信息会议和参观
+
+<p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li aria-level="1">Applications for Grades 2 to 12 are due on or before <b>November 5, 2026.&#160;</b></li></ul><div>We are currently accepting applications from Junior Kindergarten through Grade 12 for children born in 2023 or earlier. Submitting your application prior to this due date will ensure a timely process as you move through the application cycle.&#160;&#160;<br /><br /></div><div><b>Join Us for a Tour &amp; Information Session</b></div><div>We invite you to register for our upcoming information session and tour. This will be an excellent opportunity to explore our campus, meet our dedicated faculty, and learn more about what makes WPGA such a wonderful community.&#160;<br /><br /></div><div>While families with children born in 2024 or later are welcome to visit, tour availability is prioritized for those in their active admissions year. Because our application and assessment processes evolve annually, we strongly encourage scheduling your tour in the fall of your child's application year for the most up-to-date information.&#160;<br /><br /></div><div>Please <b>click</b><a href="https://www.wpga.ca/admissions/discover-wpga"><b> </b><b>here</b></a><b> to register for an information session and tour</b>. We have limited spots available, so we recommend securing your place at the earliest convenience.<br /><br /></div><div>If you need assistance creating or accessing your account please contact <a href="mailto:onlinesupport@wpga.ca" target="_blank" rel="noopener">onlinesupport@wpga.ca</a>.&#160;<br /><br /></div><div>Thank you once again for considering West Point Grey Academy for your child's educational journey. We look forward to getting to know you and your family.</div><div><br />Warm regards,</div><div>WPGA Enrolment Team</div></div></div></div></div></div></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---
