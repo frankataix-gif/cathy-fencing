@@ -12917,3 +12917,109 @@ DoorDash     -->
       sup{font-size:0.6em;line-height:0.7em;vertica
 
 ---
+
+## [其他]  We’ve paused some of your account features
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T12:51:41-07:00
+**摘要:** 账户部分功能被暂停，可能需要处理。
+**待办:** 无
+
+We’ve paused some of your account features 
+     
+      /**
+ * SupremeLL Fonts
+ */
+      /* Body text - font-weight:450 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 450;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff') format('woff');
+        /* Modern Browsers */
+        /* Fallback font for - MS Outlook older versions (2007,13, 16)*/
+        mso-font-alt: 'Calibri';
+      }
+
+      /* Subheadline font-weight:500 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 500;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Medium.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Medium.woff') format('woff');
+        /* Modern Browsers */
+        /* Fallback font for - MS Outlook older versions (2007,13, 16)*/
+        mso-font-alt: 'Calibri';
+      }
+
+      /* Button font-weight:700 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 700;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Bold.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Bold.woff') format('woff');
+        /* Modern Browsers */
+        /* Fallback font for - MS Outlook older versions (2007,13, 16)*/
+        mso-font-alt: 'Calibri';
+      }
+
+      /* Headline font-weight:900 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 900;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Black.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Black.woff') format('woff');
+        /* Modern Browsers */
+        /* Fallback font for - MS Outlook older versions (2007,13, 16)*/
+        mso-font-alt: 'Calibri';
+      }
+
+      /* End - SupremeLL Fonts */
+
+      /**
+   * Import only the styles required for Email templates.
+   */
+      @charset "UTF-8";
+
+      html {
+        box-sizing: border-box;
+        background: #F5F7FA;
+        color: #000000;
+        font-size: 14px;
+        line-height: 1.4286;
+        height: 100%;
+      }
+
+      *,
+      *:before,
+      *:after {
+        box-sizing: inherit;
+      }
+
+      body {
+        font-size: 14px !important;
+        font-weight: 450;
+        line-height: 1.4286;
+        font-family: SupremeLLTest, 'Avant Garde', Helvetica, Arial;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-smoothing: antialiased;
+        background: #F5F7FA;
+        color: #000000;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      a,
+      a:visi
+
+---
