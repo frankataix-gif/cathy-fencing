@@ -662,13 +662,8 @@
 
     <div class="card">
       <h3 style="margin-bottom:12px;">USAF Dashboard 导入</h3>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">在 USAF 会员页点击书签工具，复制 JSON/文字，粘贴到这里点导入即可更新会员/报名数据。</p>
-      <div style="background:#f1f5f9; border:1px solid #e5e7eb; border-radius:8px; padding:10px; margin-bottom:12px; position:relative;">
-        <label style="font-size:0.75rem; color:var(--gray); display:block; margin-bottom:4px;">书签工具（拖到浏览器书签栏）</label>
-        <input id="usaf-bookmarklet-input" type="text" readonly value="" style="width:100%; font-size:0.75rem; padding:6px; border:1px solid #e5e7eb; border-radius:6px; box-sizing:border-box; background:white; color:var(--dark);">
-        <button class="btn cathy" id="usaf-copy-bookmarklet-btn" style="margin-top:8px; padding:6px 12px; font-size:0.75rem;">复制书签</button>
-      </div>
-      <textarea id="usaf-import-text" placeholder="粘贴 bookmarklet 或邮件解析出来的 JSON / 文字…" style="width:100%; min-height:120px; padding:10px; border:1px solid #e5e7eb; border-radius:8px; font-size:0.85rem; box-sizing:border-box; margin-bottom:8px;"></textarea>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">在 USAF 会员页按 Ctrl+A 全选、Ctrl+C 复制，回来粘贴到这里点导入即可。</p>
+      <textarea id="usaf-import-text" placeholder="粘贴 USAF 仪表盘页面内容…" style="width:100%; min-height:120px; padding:10px; border:1px solid #e5e7eb; border-radius:8px; font-size:0.85rem; box-sizing:border-box; margin-bottom:8px;"></textarea>
       <button class="btn cathy" id="usaf-import-btn" style="padding:8px 18px;">导入</button>
       <div id="usaf-import-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
     </div>
@@ -682,7 +677,7 @@
 
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
-const DATA_UPDATED = '2026-09-10T10:30:00Z';
+const DATA_UPDATED = '2026-09-10T12:00:00Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 
 let _autoSyncEnabled = false;
@@ -2010,45 +2005,6 @@ function circuitLabel(c) {
       const text = await res.text();
       el.textContent = text.slice(0, 4000);
     } catch(e) {}
-  }
-
-  function initUsafBookmarklet() {
-    const input = document.getElementById('usaf-bookmarklet-input');
-    if (!input) return;
-    const bm = `javascript:(function(){
-      let payload=null;
-      const keys=['__DATA__','__INITIAL_STATE__','__PRELOADED_STATE__','serverState','initialData','user','me','member','profile','appState'];
-      for(const k of keys){ if(window[k]){ payload={source:'usaf_dashboard_window',url:location.href,title:document.title,date:new Date().toISOString(),[k]:window[k]}; break; }}
-      if(!payload){
-        const scripts=[...document.querySelectorAll('script[type="application/json"]')];
-        for(const s of scripts){
-          try{
-            const d=JSON.parse(s.textContent);
-            if(d&&typeof d==='object'&&Object.keys(d).length>0){ payload={source:'usaf_dashboard_json',url:location.href,title:document.title,date:new Date().toISOString(),data:d}; break; }
-          }catch(e){}
-        }
-      }
-      if(!payload){
-        try{
-          const nuxt=window.__NUXT__ || window.$nuxt || (document.querySelector('#__nuxt')?{el:true}:null);
-          if(nuxt){ payload={source:'usaf_dashboard_nuxt',url:location.href,title:document.title,date:new Date().toISOString(),nuxt:nuxt}; }
-        }catch(e){}
-      }
-      if(!payload) payload={source:'usaf_dashboard_text',url:location.href,title:document.title,date:new Date().toISOString(),text:document.body.innerText.slice(0,8000)};
-      const json=JSON.stringify(payload,null,2);
-      navigator.clipboard.writeText(json).then(()=>alert('已复制，请粘贴到 App 的 USAF Dashboard 导入框。来源：'+payload.source)).catch(()=>prompt('请复制:',json));
-    })();`;
-    input.value = bm.replace(/\s+/g, ' ').trim();
-    const btn = document.getElementById('usaf-copy-bookmarklet-btn');
-    if (btn) {
-      btn.addEventListener('click', () => {
-        input.select();
-        navigator.clipboard.writeText(input.value).then(() => {
-          btn.textContent = '已复制';
-          setTimeout(() => { btn.textContent = '复制书签'; }, 1500);
-        }).catch(() => { input.select(); document.execCommand('copy'); btn.textContent = '已复制'; setTimeout(() => { btn.textContent = '复制书签'; }, 1500); });
-      });
-    }
   }
 
   async function importUsafDashboard() {
@@ -4036,7 +3992,6 @@ function circuitLabel(c) {
   loadUserDataFromGitHub();
   loadEmails();
   loadUsafDashboard();
-  initUsafBookmarklet();
   renderResults();
   renderDailyQuote();
 
