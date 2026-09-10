@@ -7110,3 +7110,68 @@ frank
 > Except where specifically stated otherwise, any information about price or value contained in this email is provided purely as guidance. It does not con
 
 ---
+
+## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-07T11:36:24+02:00
+**摘要:** Frank回复关于房产文件处理的邮件，要求审核已完成的信息表、修改代理协议类型，并明确后续需要提供的信息和步骤。
+**待办:** 审核已完成的租赁物业信息表，修改代理协议类型为多重代理，并确认后续需要完成的步骤
+
+Hello Lauren,
+
+I am preparing the relevant information and have attached the materials currently available.
+
+1. Leasehold Property Information Form: I have been completed. Please review the completed sections and confirm whether they are correct.
+2. Change of agency agreement type: Please amend the agreement type to Multiple Agency. As I have already entered into an agency agreement with another estate agent, please apply the corresponding Multiple Agency fee rate.
+3. I have also attached the most relevant documents from me for ur reference.
+4. In accordance with the Confirmation of Instruction, please clearly advise what information and actions are currently required from me, including the specific steps I need to complete.
+5. by the way, i think i have register my account at ur official website, but not sure it's correct steps for further!
+6. the propoerty is under my wife's name, and her email: nataliewu100@gmail.com
+
+
+I look forward to your response.
+
+frank
+在 Aug 20, 2026, 11:31 +0200，Lauren D'Souza <Lauren.DSouza@knightfrank.com>，写道：
+> Good Morning Frank,
+>
+> I hope you are well.
+>
+> Please find attached a Confirmation of Instruction letter and our Terms of Business for your wife’s review.
+>
+> Please see below for next steps:
+>
+>
+> • Our Client Due Diligence team will send a Thirdfort link to your wife, where she can upload copies of her ID documents to be remotely verified;
+> • I have attached a Property Information Form for your wife to complete and sign;
+> • We will arrange for photographs to be taken in due course;
+> • The team will start calling through their registered buyers once the above has been completed and is in place.
+>
+>
+> Should you have any questions, please do not hesitate to reach out.
+>
+> Kind Regards,
+> Lauren
+>
+>
+> Lauren D'Souza
+> Senior Operations Coordinator
+> London Sales Operations
+> ______
+> D:
+>   +44 2089392806
+>  M:
+> +44 7811771417
+> knightfrank.com
+> 52‑56 Kensington Church Street,
+> London,
+> W8 4DB,
+> United Kingdom
+> This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or other use of this email (and any attachments) by anyone other than the intended recipient is prohibited and may be unlawful.
+>
+> This e-mail is sent on behalf of Knight Frank LLP, a limited liability partnership registered in England (registered number OC305934). Our registered office is at 55 Baker Street, London W1U 8AN where you may look at a list of members' names (this can also be found at http://www.knightfrank.co.uk/about-us). If we use the term ‘Partner’ when referring to one of our representatives, that person will either be a Member or an employee of Knight Frank LLP. Each entity or practice in the Knight Frank global network is a distinct and separate legal entity. No Knight Frank entity acts as agent for, or has any authority to represent, bind or obligate in any way, any other Knight Frank entity.
+>
+> We have tried to ensure this email does not contain any viruses, but please check this before opening any attachments, as we cannot accept any responsibility for damage caused by a virus. Further information concerning our website, information technology and our monitoring, processing and use of personal data can be found at http://www.knightfrank.com/legals. Firms such as Knight Frank LLP and t
+
+---
