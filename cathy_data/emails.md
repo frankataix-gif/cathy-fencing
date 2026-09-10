@@ -5521,3 +5521,67 @@ In the light of the current situation, Spencer West LLP is unable to accept serv
 Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so th
 
 ---
+
+## [营销] Your guide to selling a home
+
+**发件人:** Foxtons <mail@info.foxtons.co.uk>
+**日期:** 2026-09-09T11:01:35+00:00
+**摘要:** Foxtons提供了一份出售房屋的分步指南，涵盖准备步骤、必要文件和专业联系人等信息。
+**待办:** 无
+
+Step-by-step guidance for a smooth sale    My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/lqtXJpG0psoMAkDj4t1Vcw~~/AAAHahA~/YNMsLlykrc08kKPEeKDlhPdDovjrWBS9bM3QYQFXNa5pZxpi4Wyx6tQEbuZR-hbALMqJi0BpXYc52D4D_MRXnWPly_3yvCiGCy4L5XklY7nXoc_fkzLii277tDJNFVmO3C7Ddv8bCF63ZdrKa9fO8w~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/yTsXXl3S8rpp_5MfVvdigA~~/AAAHahA~/mwlAF1ACiSJEHSW0LRp44bKobBQGZbfTg8zfGqi_GR822lVD5C4Y9aSdbpPD0Ns4qT9OAIZmPaMtx7hjTgahJmZaFIn44H795IrydPbnX0RXTRZcTlHcTJKNtM_G059_-1RGg6d26nmyJLOXgFq_Qw~~ )
+
+( https://clicks.foxtons.co.uk/f/a/W37igGDEofxdEP2Rn5wITg~~/AAAHahA~/aXnKtw2sWb-v-WWst-3Dleqq8LJjZZl9lhQRCAnTQTDVU95wNvrW_ATWtjScg4eG9Tz7QvbYDQpHfXOyrsRrZdLRyerQSYOvmQo6z1LI8lPnLas8_E4HlNJIVoZdX2hh73YrGudtPIPB_bvuFDBYZtyNbK_HasiZYzCFBusVB0QM081VEWEt9CAfNJ3_xZM0 )
+
+
+**************************
+We're working hard to find
+**************************
+
+*******************************
+the perfect buyer for your home
+*******************************
+
+In the meantime, we have produced a guide to help you
+prepare for a smoother selling journey and navigate what to do,
+once you've accepted an offer.
+
+Follow along, and we'll tell you exactly what to expect and
+when, as we get it done for you.
+
+See the guide 
+( https://clicks.foxtons.co.uk/f/a/IsB4Quy9dtaKX18gWvGzlA~~/AAAHahA~/aXnKtw2sWb-v-WWst-3Dleqq8LJjZZl9lhQRCAnTQTDVU95wNvrW_ATWtjScg4eG9Tz7QvbYDQpHfXOyrsRrZQnGOoiQrrUulLUKZBaod_IGk0ZtwtjspITQoKVN-b8b4EWAhr71MWhUDSKJFvCqk6qBOgOFuXB90vqKWi2fImAYc1BxE0e28q7rYAbmNR4I )
+
+
+****************
+What's included?
+****************
+
+* Step-by-step selling guide: A clear path from your property
+hitting the market to dropping off your keys once your property
+is sold
+* Essential paperwork: A simple breakdown of the documents you'll
+need and when to gather them
+* Expert contacts: From solicitors to mortgage advisors, we’ve
+got you covered with the professionals who will help
+* Key conveyancing terms: Definitions of the terms you'll
+encounter along the way
+* Foxtons support & resources: Discover helpful links and
+informative blogs to guide you through the process
+Learn more 
+( https://clicks.foxtons.co.uk/f/a/qXYb4md3qNCSynTISfL0eA~~/AAAHahA~/aXnKtw2sWb-v-WWst-3Dleqq8LJjZZl9lhQRCAnTQTDVU95wNvrW_ATWtjScg4eG9Tz7QvbYDQpHfXOyrsRrZf9GlXcAhtSP3aQzpvcAgV8Sol3HlolrDQyq5Ev2KCtAiUOVrofWpJpqcSbnhP6jkMY07oekj5jn3t-wxAkilvhBWjDBH4ld1w4CVRW7fo0y )
+             Facebook 
+( https://clicks.foxtons.co.uk/f/a/UOFmvt7wwLS1Tzdcv-9eTg~~/AAAHahA~/7ZNWivK-U-3sdyMhPChrWZMahf9RE3Y-DhR-yWMhT_9Srxsd_lEuX-J9sI6K-8SfhplV0w7P9XIT3T3YSg7kHL1GUF8yVQOW-txdGRuSy4oQzcmph0Y-eVjNYT_Pwv4x5zkvJIi2ELG5gvO99JbJEq3p5Ah-3FQUqN5mVq2Jc5o~ )
+Instagram 
+( https://clicks.foxtons.co.uk/f/a/WTBouJoGfL4DDUkHtSvILQ~~/AAAHahA~/jZ1uyV5g1u9DcoNuIQz3azTeUWPhW79T85tQveUqZ1n-UEyZDl9chSpt9rN6B3xiWfgTbrLs-sncFKTsmi8VESkN4IJOUnTsrd5eXsNfRFD1kPz654mDrBbRYOvyfC3ZDVHCQyT7TupEd7C2ZNa2NIdwCeo8kbDKqIBHzP5xqEU~ )
+TikTok 
+( https://clicks.foxtons.co.uk/f/a/SsKS4XbvIaDRfWXek1eKCQ~~/AAAHahA~/7ZNWivK-U-3sdyMhPChrWcVkCWN5YnVg4c0CuwJgBqede-hex212RHIOobaR6jTjqBB6PuoMn88EZGmyy4Op5ca7LiTq0FDwJp7ahtHSUfXWCHob7F4j4NuUpt_dx6xfcQkzU7UZp7BNlqYIqFV4aYWAWaM4HhYtBcddi7rTz2U~ )
+LinkedIn 
+( https://clicks.foxtons.co.uk/f/a/w3JjDgI-PLpOHvpR6u0h1A~~/AAAHahA~/0AJ9mzZHdXe71T_a1QCjj8amdg6Z5XgvdekqE0JCknXf4zcclsNF8qMO59AUDGPjEhgARrUDFhG62mbhDuswVEM_N4aOHQxWDhTsNOxGAlO3WVv3JYeSDF-lMDcuo9i23xhOU9FJOT7aG9QI19oji81MQMSalP1xkpLQLHN63AE~ )
+YouTube 
+( https://clicks.foxtons.co.uk/f/a/x7cYUa5utSCtGCI6fnZTzA~~/AAAHahA~/j2GRHvyYGrLjvYaNCGyXVsSnSZy7HlV7bQyeHFnFkMLnl3z
+
+---
