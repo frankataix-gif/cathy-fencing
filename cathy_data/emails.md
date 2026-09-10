@@ -10197,3 +10197,66 @@ Fashion Island (#10120)
  https://click.
 
 ---
+
+## [其他] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-05T22:32:13+02:00
+**摘要:** 邮件讨论销售条款修改为多重代理协议，并要求提供身份证明和问卷材料。
+**待办:** 修改销售条款为多重代理安排并发送更新版本；准备并提交身份证明、地址证明及卖家问卷。
+
+Dear Freya,
+
+Thank you for sending over the terms.
+
+Regarding the agency agreement, I am currently only able to accept a Multiple Agency agreement as I am already in the process of signing with other agents. Could you please revise the Sales T&Cs to reflect a multiple agency arrangement and send the updated version to me?
+
+I am currently gathering the required documents and information for the questionnaire and AML checks, and I will forward everything to you as soon as they are ready.
+
+Best regards,
+在 Sep 4, 2026, 20:07 +0200，Freya Wan <Freya.Wan@foxtons.co.uk>，写道：
+>
+>
+> Dear Natalie and Frank
+>
+> Please see attached terms.
+>
+> The current price should be £475k- £525k.  We will list the property for £495,000 for start and attract more interests.
+>
+> Our standard sole agency fee is £2.5% plus vat, see attached T&C. We recognise that market conditions can sometimes require a change in strategy.
+>
+> Next steps:
+>
+> 1. Please sign and return the Sales T&Cs , and seller’s questionnaire (including details about service charge, ground rent etc)
+>
+>
+> 2. Please provide all owners’ Proof of Identity and Proof of Address (see attached guideline)
+>
+>
+> I have sent you the reset email for My Foxtons Portal. You can simply reset your password
+> Log In to My Foxtons | Access Your Property Dashboard Then you can sign the terms online and provide your proof of IDs and proof of address on the portal.
+>
+> Alternatively, please complete & sign, and send it back with documents: proof of IDs and proof of address. I can upload for you.
+>
+> Kind regards
+> Freya
+>
+> ------------------------------------
+> Freya Wan
+> Operations Director/Head of Asia-Pacific Sales
+> Asia-Pacific Sales, Foxtons
+> T: 020 7893 6010
+> M: 07875 80 2146
+> E: Freya.Wan@foxtons.co.uk
+> W: https://www.foxtons.co.uk
+> <image001.gif>
+>
+>
+>
+>
+> Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.
+> The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.
+> Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
+
+
+---
