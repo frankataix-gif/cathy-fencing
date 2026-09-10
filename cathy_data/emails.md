@@ -10708,3 +10708,162 @@ Receive funds from marketplaces
 within the Payone
 
 ---
+
+## [其他] We need additional information to proceed
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T06:02:15-04:00
+**摘要:** 需要提供更多信息以继续处理Payoneer相关事务
+**待办:** 需要回复邮件提供所需信息
+
+#outlook a {
+            padding: 0;
+        }
+
+        body {
+            width: 100% !important;
+            background-color: #ffffff;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        ol li, ol li p {
+            margin: 0;
+            padding: 0;
+        }
+
+        .pe-ol {
+            margin-left: 20px !important;
+        }
+
+        img {
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        #backgroundTable {
+            height: 100% !important;
+            margin: 0;
+            padding: 0px;
+            width: 100% !important;
+        }
+
+        p {
+            margin: 0 0;
+        }
+
+        .aolReplacedBody p {
+            margin: 0 !important;
+        }
+
+        .pe-bullets p, .pe-sub-bullets p {
+            margin: 0 0;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #333333 !important;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 100% !important;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        .yshortcuts, .yshortcuts a, .yshortcuts a:link, .yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+            color: black;
+            text-decoration: none !important;
+            border-bottom: none !important;
+            background: none !important;
+        }
+
+        .im {
+            color: black;
+        }
+
+        div[id="tablewrap"] {
+            width: 100%;
+            max-width: 740px !important;
+        }
+
+        div[id="tablewrap"] {
+            width: 100%;
+            max-width: 740px !important;
+        }
+
+        table[class="fulltable"], td[class="fulltd"] {
+            max-width: 100% !important;
+            width: 100% !important;
+            height: auto !important;
+        }
+
+        .ExternalClass * {
+            line-height: 100%;
+        }
+
+        .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {
+            line-height: 100%;
+        }
+
+        .ecxoutlookcom {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .ecxoutlookcomsocial {
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+
+        .ecxwidthfix {
+            width: 100% !important;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .ecxdisc-bg {
+            background: #ffffff !important;
+        }
+
+        .ecxlogo-marg {
+            padding-top: 15px;
+            padding-bottom: 10px;
+        }
+
+        .ecxpe-headline p {
+            padding-top: 10px !important;
+        }
+
+        .ecxpe-btn {
+            height: 70px !important;
+        }
+
+        .ecxpe-ol {
+            Padding-left: 20px !important;
+            padding-bottom: 0px !important;
+            margin: 0 !important;
+        }
+
+        .ExternalClass .ecxpe-across-image {
+            padding-bottom: 20px !important;
+        }
+
+        .ExternalClass .ecxpe-text p, .ExternalClass .ecxpe-id-details p {
+            display: inline;
+            line-height
+
+---
