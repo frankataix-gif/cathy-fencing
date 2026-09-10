@@ -1530,3 +1530,89 @@ Belle House, Platform 1 Victoria Station, London, SW1V 1JT
 To unsubscribe to these emails contact support@thirdfort.com
 
 ---
+
+## [学校] Meadowridge Password
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-10T19:07:55+00:00
+**摘要:** 邮件提供了Cathy的学校账户密码，并通知密码将在次日早上重置。
+**待办:** 无
+
+Hi Cathy and Ms Wu,
+
+Please see the email below, it was sent to you earlier in the week with Cathy's login information.
+
+The password is case sensitive - MR is capitalized. Cathy's password is MRstudent27.9222
+
+Let me know if you have questions!
+
+Mrs Reis
+
+________________________________
+From: Christina Reis <christina.reis@Meadowridge.bc.ca>
+Sent: Monday, September 7, 2026 8:00 PM
+To: Cathy He <cathy.he@meadowridge.bc.ca>
+Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Re: Meadowridge Student Website
+
+Hi Cathy!
+
+As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
+
+If you have any questions, please feel free to reach out to myself or Ms. Hook.
+
+Kindly,
+Mrs Reis
+
+[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
+
+
+Christina Reis M.Ed (she/her)
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+________________________________
+From: Christina Reis <christina.reis@Meadowridge.bc.ca>
+Sent: Wednesday, September 2, 2026 12:34 PM
+To: Cathy He <cathy.he@meadowridge.bc.ca>
+Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>
+Subject: Meadowridge Student Website
+
+Hi Cathy,
+
+Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
+
+Mrs Reis
+
+
+Christina Reis, M.Ed.
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+
+
+MEADOWRIDGE SCHOOL
+
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+
+T: 604-467-4444
+
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral and unceded territories of the Katzie, Kwantlen, and Coast Salish Peoples. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+
+---
