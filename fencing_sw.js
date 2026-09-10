@@ -1,5 +1,5 @@
 // Service Worker for Cathy Fencing PWA
-const CACHE_NAME = 'cathy-fencing-v14';
+const CACHE_NAME = 'cathy-fencing-v15';
 const ASSETS = [
   './cathy_avatar.jpg',
   './manifest.json'
