@@ -6160,3 +6160,96 @@ On 9 Sep 2026 at 9:58 AM +0200, Lancer Square General Manager <LancerSquareGM@
 > This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immediately and delete it. Any copying, disclosure, distribution or oth
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-09-09T07:58:21+00:00
+**摘要:** Lancer Square经理询问Knight Frank是否负责Apartment 1/2，但记录显示Jordanna并非指定代理，需确认相关信息。
+**待办:** 无
+
+Good morning Jordanna,
+
+Please can I ask how Knight frank are engaged with Apartment 1 / 2 lancer.  According to my records you are not the listed agent for the property.
+
+Kind regards,
+Joshua Smith
+General Manager
+Lancer Square
+London, W8 4AX
+LL: +44 (0)20 3897 0655
+M: +44 (0)7730562417
+Email: lancersquaregm@jaresidential.com
+www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?domain=lancersquare.co.uk/>
+
+[cid:image001.png@01DD4039.4BFF50C0]
+
+
+LANCER SQUARE GENERAL MANAGER
+Lancer Square General Manager
+T: +44 (0) 20 7509 1970 
+LancerSquareGM@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3764 5568​
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please notify the sender and delete it
+​immediately.
+Whilst reasonable precautions have been taken to ensure this email is free from viruses, James
+​Andrew Residential Limited accepts no liability for any loss or damage arising from its use.
+James Andrew Residential Limited is a company registered in England and Wales.
+​Company Number: 7980906.  Registered Office: 20 Bedford Square, London WC1B 3HH.
+From: Jo Monk <jmonk@jaresidential.com>
+Sent: 09 September 2026 08:50
+To: Jordanna Mancina <Jordanna.Mancina@knightfrank.com>; Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+Cc: frankataix@gmail.com; nataliewu100@gmail.com; Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Subject: Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+Dear Jordanna,
+
+The general manager Josh can assist
+
+@Lancer Square General Manager<mailto:LancerSquareGM@jaresidential.com>
+
+Thank you
+​​​​
+JO MONK
+SENIOR PROPERTY MANAGER
+
+DDI: +44 (0) 20 4591 4784<tel:+44%20(0)%2020%204591%204784>
+Mob: 07729 096 524 <tel:07729%20096%20524>
+Main: <tel:+44%20(0)%2020%204591%204784> 020 7509 1970<tel:+44%20(0)%2020%204591%204784>
+________________________________
+From: Jordanna Mancina <Jordanna.Mancina@knightfrank.com<mailto:Jordanna.Mancina@knightfrank.com>>
+Sent: 09 September 2026 08:35
+To: Jo Monk <jmonk@jaresidential.com<mailto:jmonk@jaresidential.com>>
+Cc: frankataix@gmail.com<mailto:frankataix@gmail.com> <frankataix@gmail.com<mailto:frankataix@gmail.com>>; nataliewu100@gmail.com<mailto:nataliewu100@gmail.com> <nataliewu100@gmail.com<mailto:nataliewu100@gmail.com>>; Lauren D'Souza <Lauren.DSouza@knightfrank.com<mailto:Lauren.DSouza@knightfrank.com>>
+Subject: Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+You don't often get email from jordanna.mancina@knightfrank.com<mailto:jordanna.mancina@knightfrank.com>. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+Good morning Julia
+
+I just wanted to follow up on this and see if you can provide the required information?
+
+I look forward to hearing from you.
+
+Kind regards
+
+[cid:image002.png@01DD4039.4BFF50C0]
+Jordanna Mancina
+Associate, Sales Manager
+Kensington
+______
+D:
+  +44 2038923573<tel:+44%202038923573>
+ M:
++44 7929828794<tel:+44%207929828794>
+knightfrank.com<http://www.knightfrank.com/>
+52‑56 Kensington Church Street,
+London,
+W8 4DB,
+United Kingdom
+[Knight Frank]<https://www.linkedin.com/company/knight-frank?utm_medium=emailsig&utm_source=LinkedIn&utm_campaign=socialicons>
+[Facebook]<http://www.facebook.com/knightfrankllp?utm_medium=emailsig&utm_source=Facebook&utm_campaign=socialicons>
+[Knight Frank]<https://www.i
+
+---
