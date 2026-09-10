@@ -20,3 +20,14 @@
 ## 已归档
 
 - 日期： 发件人： 主题： 备注：
+
+## [击剑] USA Fencing Regional Tournament
+
+**发件人:** events@usfencing.org
+**日期:** 2026-09-10T19:13:19Z
+**摘要:** 通知Cathy He关于RJCC击剑比赛的注册开放及她的参赛资格。
+**待办:** 无
+
+Registration is now open for the RJCC in Seattle on October 15. Cathy He is eligible for Y14 Women Foil.
+
+---
