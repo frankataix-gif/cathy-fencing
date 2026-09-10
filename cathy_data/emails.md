@@ -55,3 +55,14 @@ Dear Cathy, your registration for the Y14 Women Foil event has been confirmed. P
 Hi, fencing camp this weekend. Bring your gear and water bottle.
 
 ---
+
+## [其他] fencing camp reminder
+
+**发件人:** coach@evifencing.com
+**日期:** 2026-09-10T18:56:53Z
+**摘要:** 
+**待办:** 无
+
+Hi, fencing camp this weekend. Bring your gear and water bottle.
+
+---
