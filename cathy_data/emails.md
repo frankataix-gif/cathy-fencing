@@ -19373,3 +19373,165 @@ New colours. Fresh styles. Overprepare yourself.
 ­­­­­­­­­­­­­­­­­­­­­­­­­­
 
 ---
+
+## [其他] Summer fades. Markets don't
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-25T09:02:16+00:00
+**摘要:** 邮件包含用于响应式邮件设计的CSS代码，主题暗示夏季结束与市场动态。
+**待办:** 无
+
+96       
+   Summer fades. Markets don't 
+   
+   
+   
+   
+   
+    /* Client resets for WebView-based clients (Samsung Email, Yandex Mail app) */
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+    a:hover        { text-decoration: underline !important; }
+    a.btn:hover    { text-decoration: none !important; }
+
+@media only screen and (max-width:500px) {
+
+  .img-flex img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .tflex {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .ac {
+    text-align: center !important;
+  }
+
+  .plr-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .plr-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .plr-20 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .pt-24 {
+    padding-top: 24px !important;
+  }
+
+  .pb-20 {
+    padding-bottom: 20px !important;
+  }
+  .pb-24 {
+    padding-bottom: 24px !important;
+  }
+
+  .fs-16 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+  .fs-18 {
+    font-size: 18px !important;
+    line-height: 28px !important;
+  }
+  .fs-60 {
+    font-size: 60px !important;
+    line-height: 100% !important;
+  }
+
+  .al {
+    text-align: left !important;
+  }
+
+  .h-24 {
+    line-height: 24px !important;
+    height: 24px !important;
+  }
+  .h-32 {
+    line-height: 32px !important;
+    height: 32px !important;
+  }
+  .h-40 {
+    line-height: 40px !important;
+    height: 40px !important;
+  }
+
+  .img-desktop {
+    display: none!important;
+    width: 0!important;
+    height: 0!important;
+    padding: 0!important;
+    font-size: 0!important;
+    line-height: 0!important;
+  }
+
+  .img-mob {
+    display: block!important;
+    width: auto!important;
+    overflow: visible!important;
+    float: none!important;
+    max-height: inherit!important;
+    max-width: inherit!important;
+    margin-top: 0px!important;
+    visibility: visible !important;
+  }
+
+  u+.iph-gmail-dk .gmail-blend-exclusion-blk {
+    background-color: #000;
+    mix-blend-mode: screen;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+
+  u+.iph-gmail-dk .gmail-blend-difference-blk {
+    background-color: #000;
+    mix-blend-mode: difference;
+    color: #ffffff;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+  .hero {
+    height: 300px !important;
+    background-image: url('https://mpics.tradingview.com/pics/sale/summer-end-mob.png') !important;
+    background-size: 110% !important;
+    background-position: 50% 45% !important;
+  }
+
+  h1 {
+    line-height: 100% !important;
+  }
+
+}
+@media only screen and (max-width:374px) {
+
+  .hero {
+    background-size: 120% !important;
+    background-position: 50% 40% !important;
+  }
+
+  h1 {
+    padding: 0 2px !important;
+  }
+    
+  
+}
+
+ 
+      a { text-decoration:none; } .keep-white { mso-style-textfill-type:gradient; mso-style-textfill-fill-gradientfill-stoplist:"0 #FFFFFF 0 100000,100000 #FFFFFF 0 100000"; color:#000000 !importa
+
+---
