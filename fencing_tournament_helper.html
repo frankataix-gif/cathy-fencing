@@ -3229,7 +3229,7 @@ function circuitLabel(c) {
     const subs = ['tournaments', 'membership', 'results', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
-      const btn = document.querySelector('#tab-tournaments .sub-tabs button[data-subtab="${s}"]');
+      const btn = document.querySelector('#tab-tournaments .sub-tabs button[data-subtab="' + s + '"]');
       if (el) el.style.display = s === tab ? 'block' : 'none';
       if (btn) {
         if (s === tab) { btn.classList.remove('secondary'); btn.classList.add('active'); }
@@ -3259,7 +3259,7 @@ function circuitLabel(c) {
     const subs = ['calendar', 'tasks'];
     subs.forEach(s => {
       const el = document.getElementById('cathydata-sub-' + s);
-      const btn = document.querySelector('#cathydata-sub-tabs button[data-cathy-subtab="${s}"]');
+      const btn = document.querySelector('#cathydata-sub-tabs button[data-cathy-subtab="' + s + '"]');
       if (el) el.style.display = s === tab ? 'block' : 'none';
       if (btn) {
         if (s === tab) { btn.classList.remove('secondary'); btn.classList.add('active'); }
@@ -4037,7 +4037,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v11', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v12', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
