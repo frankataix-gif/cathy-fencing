@@ -171,6 +171,9 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
+  const combined = (email.from + ' ' + email.subject + ' ' + email.text).toLowerCase();
+  const forceFencing = combined.includes('usafencing');
+
   let rawText = '';
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
@@ -189,14 +192,14 @@ async function classifyEmail(env, email) {
     }
     if (obj) {
       return {
-        category: obj['分类'] || obj.category || '其他',
+        category: forceFencing ? '击剑' : (obj['分类'] || obj.category || '其他'),
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
         raw: rawText
       };
     }
   } catch(e) {}
-  return { category: '其他', summary: '', todo: '无', raw: rawText };
+  return { category: forceFencing ? '击剑' : '其他', summary: '', todo: '无', raw: rawText };
 }
 
 function json(obj, status = 200) {
