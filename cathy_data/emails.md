@@ -18779,3 +18779,167 @@ body {
    
 
 ---
+
+## [其他] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-26T07:15:26-07:00
+**摘要:** 您的最近支付被拒绝，请检查账户信息。
+**待办:** 处理支付被拒问题
+
+TELUS 
+ 
+ 
+ 
+ 
+        table a {
+            color: #0000EE
+        }
+
+        body {
+            background-color: #ededee !important;
+        }
+
+        a.in-paragraph-link {
+            color: #4b286d
+        }
+
+        .mirror-link a {
+            color: #666666 !important
+        }
+        /* Force Hotmail to display emails at full width */
+
+        .ReadMsgBody {
+            width: 100%;
+            background-color: #eeeeee;
+        }
+        /* Force Hotmail to display emails at full width */
+
+        .ExternalClass {
+            width: 100%;
+            background-color: #eeeeee;
+        }
+        /* Forces Hotmail to display normal line spacing. */
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        /* Resolves webkit padding issue. */
+
+        table {
+            border-collapse: collapse !important;
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        /* Resolves the Outlook 2007, 2010, and Gmail td padding issue. */
+
+        table td {
+            border-collapse: collapse;
+        }
+        /* Yahoo auto-sensing link color and border */
+
+        .yshortcuts a {
+            border-bottom: none !important;
+        }
+
+        a.white,
+        a.white:visited {
+            color: #ffffff;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        .footer-link a {
+            color: white;
+        }
+
+        @media only screen and (max-width: 630px) {
+            /* Constrain email width for small screens */
+            .email-container {
+                width: 98% !important;
+                min-width: 240px !important;
+            }
+
+            .cardSize {
+                width: 100% !important;
+            }
+
+            .centered {
+                text-align: center !important;
+            }
+
+            .responsive-image {
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            .full-width {
+                width: 100% !important;
+            }
+
+            .less-padding {
+                padding-right: 20px !important;
+                padding-left: 20px !important;
+            }
+
+            .small-font {
+                font-size: 12px !important;
+            }
+
+            .extra-margin {
+                margin: 0px 20px !important;
+            }
+
+            .noPadding {
+                padding: 0px 0px 20px 0px !important;
+                margin: auto !important;
+            }
+        }
+     
+
+ 
+   
+   
+     
+       
+         
+         
+           
+             
+          
+           
+             
+               
+                 
+                   
+                      
+                     
+                      
+                     
+                   
+                 
+               
+             
+           
+
+---
