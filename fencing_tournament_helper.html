@@ -1985,14 +1985,38 @@ function circuitLabel(c) {
       if (!res.ok) { el.innerHTML = '暂无邮件'; return; }
       const text = await res.text();
       const parts = text.split(/\n## /).filter(Boolean);
-      // 取最近 5 封（最后 5 段），按新到旧显示
-      const latest = parts.slice(-5).reverse();
+      // 只显示带分类标签的邮件（AI 自动归档格式：[分类] 标题）
+      const emails = parts.filter(p => p.split('\n')[0].trim().startsWith('['));
+      const latest = emails.slice(-5).reverse();
       if (!latest.length) { el.innerHTML = '暂无邮件'; return; }
       el.innerHTML = latest.map(p => {
         const lines = p.split('\n').filter(l => l.trim());
         const title = lines[0] || '';
-        const body = lines.slice(1, 6).join('\n');
-        return '<div style="margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid #e5e7eb;"><b>' + escapeHtml(title) + '</b><br><small>' + escapeHtml(body) + '</small></div>';
+        // 解析 [分类] 标题
+        const m = title.match(/^\[([^\]]+)\]\s*(.*)/);
+        const category = m ? m[1] : '其他';
+        const subject = m ? m[2] : title;
+        // 提取元数据行
+        const meta = {};
+        let bodyStart = 0;
+        for (let i = 1; i < lines.length; i++) {
+          const line = lines[i];
+          if (line.startsWith('**发件人:**')) { meta.from = line.replace(/^\*\*发件人:\*\*\s*/, ''); bodyStart = i + 1; }
+          else if (line.startsWith('**日期:**')) { meta.date = line.replace(/^\*\*日期:\*\*\s*/, ''); bodyStart = i + 1; }
+          else if (line.startsWith('**摘要:**')) { meta.summary = line.replace(/^\*\*摘要:\*\*\s*/, ''); bodyStart = i + 1; }
+          else if (line.startsWith('**待办:**')) { meta.todo = line.replace(/^\*\*待办:\*\*\s*/, ''); bodyStart = i + 1; }
+          else if (!line.startsWith('**') && bodyStart === 0) { bodyStart = i; break; }
+          else if (bodyStart > 0 && !line.startsWith('**')) break;
+        }
+        const body = lines.slice(bodyStart, bodyStart + 3).join('\n');
+        const catColor = { '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '待办': '#ef4444', '其他': '#6b7280' }[category] || '#6b7280';
+        return '<div style="margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid #e5e7eb;">' +
+          '<span style="background:' + catColor + '; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; margin-right:6px;">' + escapeHtml(category) + '</span>' +
+          '<b>' + escapeHtml(subject) + '</b><br>' +
+          '<small style="color:#6b7280;">' + escapeHtml(meta.from || '') + ' · ' + escapeHtml(meta.date || '') + '</small><br>' +
+          (meta.summary ? '<small>' + escapeHtml(meta.summary) + '</small><br>' : '') +
+          (meta.todo && meta.todo !== '无' ? '<small style="color:#ef4444;">⚠️ ' + escapeHtml(meta.todo) + '</small><br>' : '') +
+          '<small>' + escapeHtml(body) + '</small></div>';
       }).join('');
     } catch(e) {}
   }
