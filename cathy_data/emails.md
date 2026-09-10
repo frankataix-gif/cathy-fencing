@@ -10532,3 +10532,60 @@ Tesla隐私和法律 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPC
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXArjw6qNpNOn3EeAPwJS8ArvZ74yeYsBPSOpNuaFKrQ-2Fujg1_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsGu0aWrCjqURS9PXkEkjBw2PIqS-2B5QpRZwS7KKO1Y5hkFBsrDUcSFPaTkoPc98RHfFcNuLm5-2FR2PUvXiJlgW1jTvwoX5IJogq7FHKfC6Nqw-2BLArHJShlf7EHB2af3JbbZr-2FAmohn6OmKFL48ffAJ7vz3UQjOBQXQmLp26d5UdyG8-3D]联系我们: 400-910-0707
 
 ---
+
+## [其他] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-03T19:36:30-04:00
+**摘要:** TELUS通知某号码在美国连接漫游网络，并说明相关费用及获取详细信息的方式。
+**待办:** 无
+
+TELUS 
+ 
+body{margin:auto; border:2px solid white; padding:0px; width:70%; font-family:Arial, Times, serif;}
+ 
+ 
+ 
+  
+ 
+   
+ 
+  
+  
+ 
+   Hello, 
+    
+   Looks like ***-***-5899 has connected to a roaming network in USA. 
+    
+   Just so you know, if they have a roaming package that covers this destination, their usage will be billed at the rates of that package. Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts $0.75/MSG (1 message = 160 characters) (max. 160 characters each). All incoming texts are free. 
+    
+   ***-***-5899 will also receive a text message outlining their active roaming package pricing and details. Please refer to this text for any questions or visit telus.com/mytelus.  
+    
+   For more info on travel options, visit   telus.com/travel  
+    
+   The TELUS team 
+ 
+  
+ 
+    Privacy  
+    Contact us  
+    Find a store  
+    telus.com  
+ 
+  
+ 
+   
+ 
+  
+ 
+   Please do not reply to this email.  This address does not accept incoming messages. 
+    
+   We respect your privacy and will not provide your personal information to other parties without your consent. 
+    
+   TELUS,  telus.com  and the TELUS logo are trademarks of TELUS Corporation used under license. All other trademarks are the property of their respective owners. 
+    
+   &#169;2026 TELUS. All rights reserved. 
+    
+   TNE-8090-00
+
+---
