@@ -16359,3 +16359,46 @@ Frank He
 
 
 ---
+
+## [学校] Ms. Natalie Blomly
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T19:48:47+00:00
+**摘要:** Adrian Kwong要求Natalie向Ms. Blomly发送邮件说明情况，并提供了她的邮箱地址。
+**待办:** 无
+
+Hi Natalie,
+
+Please email Ms. Blomly and explain your situation:
+Natalie.blomly@meadowridge.bc.ca
+
+
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, and share educational experiences on this traditional land. Meadowridge School is committed to building strong meaningful relationships and positive partnerships with all the traditional keepers and stewards of this land.
+
+This message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+
+---
