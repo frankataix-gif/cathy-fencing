@@ -4909,3 +4909,38 @@ Natalie
 
 
 ---
+
+## [学校] Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-09T16:37:47+00:00
+**摘要:** 邮件提醒Cathy家庭提交未完成的学校文件，包括表格和紧急联系人信息，并附上相关链接和联系方式。
+**待办:** 提交缺失的学校表格、完成居住证明并更新本地联系方式
+
+Good morning Cathy's family,
+This is Vivian from the Admissions Office, along with Mr. Adrian. I am following up regarding the required school documents for students.
+
+  1.
+I noticed that we are still missing several important forms that are required during the first week of school. Once you log in to the Hub, you should be able to access and complete these forms from your account. Please refer to the information below for the missing documents.
+  2.
+Moreover, we also need your help in completing the Residency Form. Here is the link: https://www.meadowridge.bc.ca/new-family-portal/residency
+  3.
+Can you update your two local contact number for us in the Hub? You can also share them with me. I am happy to update them for you!
+
+We would greatly appreciate it if you could submit the outstanding forms as soon as possible. If you encounter any difficulties accessing or completing the forms, please do not hesitate to reach out. We would be happy to assist you.
+Thank you for your prompt attention to this matter, and we look forward to supporting your family's successful start to the school year!
+
+Yunxi's files and forms
+Acknowledgement/ Permission
+Due: 9/4/2026
+2026/27 RUTA Parent Consent (6-8)
+Emergency Contacts
+Due: 9/4/2026
+2026/27 Emergency Contacts Update
+Medical
+Due: 9/4/2026
+2026/27 Student Medical Info
+
+
+
+---
