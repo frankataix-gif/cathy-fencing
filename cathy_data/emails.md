@@ -16602,3 +16602,14 @@ DoorDash Email     -->
                                          Please do not reply to this email.
 
 ---
+
+## [其他] We sent you a message about your application (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-28T17:35:03+00:00
+**摘要:** IRCC通知用户有关申请（S307997826）的消息，需登录账户查看。若非本人申请，请删除邮件。
+**待办:** 查看申请状态消息
+
+Application number : S307997826  A message about your application is waiting for you.   We sent you a message about your application to your account.   To read your message:  1. Sign in to your account. 2. Click  Check full application status  under  View the applications you submitted . 3. Scroll down to the  Messages about your application  section. 4. Click on the  Subject  of the new message to read it.            Sign in to your account          We send messages to your account if we need something from you. When we do that, we will also send you an email to this address: nataliewu100@gmail.com.          This message is intended for nataliewu100@gmail.com. If this message was sent to you in error and does not pertain to you, please delete it.   This email was sent to you because you opted in to receiving email communication from Immigration, Refugee and Citizenship Canada when you created your online account with us. If you wish to review or change your email address or email communications preferences,  sign in  to your account and click " Account profile " to review and modify your profile.    Immigration, Refugee and Citizenship Canada handles personal information in accordance with the Privacy Act and its regulations, policies and directives. For more information on how we handle your information, please see our  Terms and Conditions , the  Access to Information and Privacy  page, the privacy statement on your account page, the privacy notice on your application form, and our  Personal Information Banks . If you are not satisfied with the manner in which IRCC handles your personal information, you may exercise your right to file a complaint to the  Office of the Privacy Commissioner of Canada .
+
+---
