@@ -5192,3 +5192,50 @@ This e-mail and any attachments are strictly confidential.  If you are not the i
 Spencer West LLP is a limited liability partnership registered in England and Wales at the above address at which service of documents will be effective.  Registered no. OC360298.  Authorised and regulated by the Solicitors Regulation Authority: SRA No. 555456.  A list of members of Spencer West LLP is available for inspection at the registered office.  The term ‘partner’ in relation to Spencer W
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:14:54+00:00
+**摘要:** 邮件通知此前的基金请求无需执行，因买家尚未确认，并提醒客户注意防范房产交易中的诈骗风险，强调转账前需核实银行信息。
+**待办:** 无
+
+Dear Jingqi Wu,
+
+Please kindly disregard the fund request email. As the purchaser is not confirmed. We won't request for fund.
+
+
+kind regards,
+
+Michael Cheng
+Paralegal
+Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an email from Spencer West amending our bank details, please check the email address carefully and speak to your lawyer to clarify urgently.
+
+
+
+Real Estate: Please be aware that if you are purchasing a property, fraudsters may target you to transfer funds to them rather than us, by using an email address that is similar and has the lawyer’s details, so that it appears to be a genuine email from us. Please speak to us before transferring any money.
+
+
+T +44 (0)20 7925 8080
+
+F +44 (0)20 7681 2600
+spencer-west.com<http://www.spencer-west.com/>
+Asia Desk Team: 85 Gresham Street, London EC2V 7NQ
+
+Main Office: Longbow House, 20 Chiswell Street, London EC1Y 4TW
+
+
+Please be vigilant in all dealings in your transaction.  Fraudsters target real estate transactions in order to get buyers to send money to them instead of the legitimate party.  Fraudsters use domain names similar to the actual domain name and will email you from that account.  The email from the fraudster will look and feel like a real Spencer West email and include the name of the solicitor. Check the spellings of emails to ensure that you are dealing with a legitimate party and not a fraudster.  Do not transfer any funds until you have called the office on the official website number and confirm all the bank details with the office.
+
+
+In the light of the current situation, Spencer West LLP is unable to accept service of proceedings, notices and other formal documents at our London office, given the need to prioritise the well-being of our and our facilities' staff.
+
+Accordingly, any documents that would ordinarily fall to be delivered to our offices by way of service or formal notice should instead be e-mailed to info@spencer-west.com<mailto:info@spencer-west.com> (or to the specific individual with carriage of the matter if known, with a copy sent to info@spencer-west.com<mailto:info@spencer-west.com>) so that we can make arrangements on a case by case basis for any alternative service. Please note that this does not constitute acceptance of service by e-mail.
+
+We shall be keeping this policy under review as the situation develops, and apologise for any inconvenience in the meantime.
+
+This e-mail and any attachments are strictly confidential.  If you are not the intended recipient: a) Spencer West LLP apologises but asks that you please immediately notify the sender and delete the e-mail from all computers on your system; and b) you must not copy or forward this e-mail or any attachments or disclose the contents to anyone, nor rely on information contained within the message.
+
+Spencer West LLP is a limited liability partnership registered in England and Wales at the above address at which service of documents will be effective.  Registered no. OC360298.  Authorised and regulated by the Solicitors Regulation Authority: SRA No. 555456.  A list of members of Spencer West LLP is available for inspection at the registered office.  The term ‘partner’ in relation to Spencer W
+
+---
