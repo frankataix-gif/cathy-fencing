@@ -2939,3 +2939,48 @@ a.button:active,
       Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is addressed. It may contain privileged and confidential information and if you are not an intended recipient, you must not copy, distribute or take any action in reliance on it. If you have received this message in error, please notify us as soon as possible and delete it and any attached files from your system.  The views and opinions expressed in this email message are the author's own and may not reflect the views and opinions of the author's employer.  Foxtons Limited is registered in England and Wales (registered number 01680058). Our registered office is at Building 12, Chiswick Park, 566 Chiswick High Road, London, W4 5AN.
 
 ---
+
+## [待办] You have been invited to do a Thirdfort check
+
+**发件人:** Thirdfort App <no-reply@thirdfort.io>
+**日期:** 2026-09-10T09:53:43+00:00
+**摘要:** Knight Frank 设置了 Thirdfort 验证检查，需下载应用并等待短信以完成登录。
+**待办:** 下载 Thirdfort 应用并按照指示完成验证检查
+
+Download Thirdfort now.
+
+Hi Jingqi,
+
+Knight Frank has set up a verification check for you on Thirdfort app.
+
+*Download the Thirdfort app to your smartphone or NFC-enabled tablet* *here* ( https://www.thirdfort.com/support/ ) *.* You can also find it by searching "Thirdfort" in the App Store or Google Play Store. Personal computers are not supported at this time.
+
+*Before you log in, please wait for a text message from Thirdfort.* This text will be sent to the mobile number Knight Frank provided to us when setting up your check. You'll need this number to sign in.
+
+*Haven't received a text or seeing 'No transaction found'?* This can happen if the mobile number entered when your check was set up wasn't quite right. Please contact Knight Frank and ask them to check the mobile number they have on file for you.
+Once you've received your text, open the app and log in using the mobile number the text was sent to.
+
+Please don't uninstall the app or swap devices while completing your tasks.
+
+If you have questions or need assistance concerning the app journey, Thirdfort’s dedicated customer support team can be contacted via:
+
+* *Live chat:* accessed from the app menu, or on help centre linked below
+* *Email* ( help@thirdfort.com?subject=&body= )
+* *Phone* ( tel:0161 768 0083 ) *:* 0161 768 0083 (option 1)
+* Help Centre ( https://help.thirdfort.com/hc/en-gb )
+
+Kind regards,
+Thirdfort
+
+Thirdfort Limited is registered in England with Company No. 10757456 and VAT registered. VAT No. 281589466.
+Registered office: Belle House Platform 1 Victoria Station, London, SW1V 1JT. Click here ( https://thirdfort.com/terms/email-disclaimer ) to view email disclaimer
+
+Thirdfort Limited is authorised and regulated by the Financial Conduct Authority under the Payment Services Regulations 2017 to provide payment services (firm reference number 806236 ( https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000049LhAPQA0 ) ). Thirdfort Limited is registered with the Information Commissioner’s Office under registration number A8225019 for the purposes of the protection of data.
+
+( https://www.facebook.com/thirdfort-177767396215187/ ) ( https://www.linkedin.com/company/27455280/admin/ )
+
+Thirdfort Limited
+Belle House, Platform 1 Victoria Station, London, SW1V 1JT
+To unsubscribe to these emails contact support@thirdfort.com
+
+---
