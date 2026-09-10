@@ -336,6 +336,11 @@
     .bout-reflect-btn { min-width:26px; height:26px; padding:0; border-radius:50%; font-size:1rem; line-height:1; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
     .bout-reflect-btn:not(.secondary) { background:var(--primary); color:#fff; border:none; }
     .bout-reflection { font-size:0.8rem; color:var(--gray); background:#f0f9ff; border-left:3px solid var(--primary); padding:8px 10px; margin:6px 0 0 0; border-radius:0 6px 6px 0; white-space:pre-wrap; word-break:break-word; }
+    .bout-ai-toggle { font-size:0.75rem; color:var(--primary); margin-top:4px; cursor:pointer; display:inline-flex; align-items:center; gap:4px; }
+    .ai-interpretation { background:#fdf4ff; border:1px solid #f0d5ff; border-radius:8px; padding:8px 10px; margin:6px 0 10px; font-size:0.8rem; }
+    .ai-interpretation .ai-title { font-weight:600; color:#7e22ce; margin-bottom:4px; }
+    .ai-interpretation ul { margin:0; padding-left:1.2em; }
+    .ai-interpretation li { margin-bottom:4px; line-height:1.5; }
     .auto-analysis { background:#eef2ff; border:1px solid #e0e7ff; border-radius:10px; padding:10px 12px; margin-bottom:12px; }
     .auto-analysis .title { font-size:0.8rem; font-weight:600; color:var(--primary); margin-bottom:6px; }
     .auto-analysis ul { margin:0; padding-left:1.2em; }
@@ -1754,6 +1759,14 @@ function circuitLabel(c) {
     saveToLocal('cathy_reflections', JSON.stringify(reflections));
   }
 
+  function toggleAiInterpret(el) {
+    const wrap = el.closest('.bout-wrap');
+    if (!wrap) return;
+    const box = wrap.querySelector('.ai-interpretation');
+    if (!box) return;
+    box.style.display = box.style.display === 'none' ? 'block' : 'none';
+  }
+
   function toggleOpponentReflectForm(btn) {
     const wrap = btn.closest('.bout-wrap');
     if (!wrap) return;
@@ -2303,6 +2316,45 @@ function circuitLabel(c) {
     return round + ' / ' + opponent;
   }
 
+  function analyzeReflection(summary) {
+    if (!summary) return [];
+    const s = summary.toLowerCase();
+    const ideas = [];
+
+    const has = (kw) => s.includes(kw.toLowerCase());
+
+    if (has('装备') || has('剑条') || has('检查') || has('压力') || has('罚分')) {
+      ideas.push('做赛前装备 checklist，重点检查剑条压力和备用武器。');
+    }
+    if (has('累') || has('不想打') || has('社交') || has('说话')) {
+      ideas.push('赛前 15 分钟减少社交，做深呼吸和自我暗示，把"累"换成"专注下一剑"。');
+    }
+    if (has('节奏') || has('跟着') || has('被动') || has('主动') || has('创造')) {
+      ideas.push('训练时多练"先动": 教练给出信号后必须你第一剑出手，不能等对手先动。');
+    }
+    if (has('退') || has('自信') || has('吓') || has('怕') || has('犹豫')) {
+      ideas.push('进攻或被压时练习不退，用向前 counter-time 或 parry-riposte 来建立自信。');
+    }
+    if (has('距离') || has('远') || has('逼') || has('近')) {
+      ideas.push('练习"小步逼近"到合适距离再出手，不要从远处发起进攻。');
+    }
+    if (has('反攻') || has('盲目') || has('一个地方') || has('同一个') || has('找点')) {
+      ideas.push('多练 feint（假动作）和变线，不要连续打同一个目标；等对手动作出现再出手。');
+    }
+    if (has('裁判') || has('不判') || has('转换')) {
+      ideas.push('前 2 剑观察裁判尺度，如果不判 parry-riposte，就改用 clean attack 争取单灯。');
+    }
+    if (has('防守') || has('守')) {
+      ideas.push('防守时不要只后退，尝试用 blade work 破坏对方节奏，寻找反击时机。');
+    }
+    if (has('进攻') || has('攻')) {
+      ideas.push('保持进攻主动性，但进攻前先确认距离和时机，避免盲目出手。');
+    }
+
+    if (!ideas.length) ideas.push('复盘很具体，下次比赛前再看一遍这条总结，把它作为赛前提醒。');
+    return ideas;
+  }
+
   function parseScore(score) {
     const m = String(score || '').match(/(\d+)\s*[:：]\s*(\d+)/);
     if (!m) return { a: null, b: null, diff: null };
@@ -2389,6 +2441,12 @@ function circuitLabel(c) {
       const hasReflect = !!ref.summary;
       const reflectMark = hasReflect ? '✎' : '+';
       const reflectText = hasReflect ? escapeHtml(ref.summary) : '';
+      const aiIdeas = hasReflect ? analyzeReflection(ref.summary) : [];
+      const aiHtml = aiIdeas.length ? `<div class="bout-ai-toggle" onclick="toggleAiInterpret(this)">💡 AI 解读</div>
+        <div class="ai-interpretation" style="display:none;">
+          <div class="ai-title">AI 想法</div>
+          <ul>${aiIdeas.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul>
+        </div>` : '';
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
           <div class="bout-row">
@@ -2402,6 +2460,7 @@ function circuitLabel(c) {
             <button class="btn ${hasReflect ? '' : 'secondary'} bout-reflect-btn" title="${hasReflect ? '编辑' : '记录'}对 ${b.opponent} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">${reflectMark}</button>
           </div>
           ${reflectText ? `<div class="bout-reflection">${reflectText}</div>` : ''}
+          ${aiHtml}
           <div class="opponent-reflect-form" style="display:none;"></div>
         </div>
       `;
