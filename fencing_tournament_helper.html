@@ -3240,6 +3240,8 @@ function circuitLabel(c) {
   let currentTab = 'tournaments';
   let currentFencingSubTab = 'tournaments';
   let currentCathySubTab = 'tasks';
+  let showCompletedTasks = getUIFromLocal('cathy_show_completed_tasks', 'false') === 'true';
+  let showPastSchedule = getUIFromLocal('cathy_show_past_schedule', 'false') === 'true';
 
   function setFencingSubTab(tab) {
     currentFencingSubTab = tab;
@@ -3803,7 +3805,23 @@ function circuitLabel(c) {
       const bd = b.date + 'T' + (b.time || '00:00:00');
       return new Date(ad) - new Date(bd);
     });
-    list.innerHTML = sorted.map(renderScheduleEventItem).join('');
+
+    const isPast = e => {
+      const end = new Date((e.end || e.date) + 'T' + (e.endTime ? e.endTime + ':00' : '23:59:59'));
+      return end < now;
+    };
+    const pastList = sorted.filter(isPast);
+    const activeList = sorted.filter(e => !isPast(e));
+
+    let html = activeList.map(renderScheduleEventItem).join('');
+    if (pastList.length) {
+      html += `<div style="margin-top:12px; margin-bottom:12px;"><button class="btn secondary" id="schedule-toggle-past" style="padding:4px 12px; font-size:0.8rem;">${showPastSchedule ? '隐藏' : '显示'}已结束 (${pastList.length})</button></div>`;
+      if (showPastSchedule) {
+        html += `<div style="margin-top:12px;"><div style="font-size:0.75rem; color:#6b7280; margin-bottom:6px; font-weight:600;">已结束</div>` + pastList.map(renderScheduleEventItem).join('') + '</div>';
+      }
+    }
+    if (!html) html = '<div class="empty-state">暂无事件</div>';
+    list.innerHTML = html;
     const tab = document.getElementById('tab-cathydata');
     if (!tab) return;
     tab.querySelectorAll('button[data-edit]').forEach(btn => {
@@ -3811,6 +3829,12 @@ function circuitLabel(c) {
     });
     tab.querySelectorAll('button[data-delete]').forEach(btn => {
       btn.addEventListener('click', () => deleteSchedule(btn.dataset.delete));
+    });
+    const toggleBtn = document.getElementById('schedule-toggle-past');
+    if (toggleBtn) toggleBtn.addEventListener('click', () => {
+      showPastSchedule = !showPastSchedule;
+      saveUIToLocal('cathy_show_past_schedule', showPastSchedule);
+      renderScheduleList();
     });
   }
 
@@ -4063,7 +4087,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v13', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v14', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4256,8 +4280,7 @@ function circuitLabel(c) {
       { key: 'overdue', label: '已过期', filter: t => !t.completed && t.dueDate && t.dueDate < today },
       { key: 'today', label: '今天', filter: t => !t.completed && t.dueDate === today },
       { key: 'upcoming', label: '未来 7 天', filter: t => !t.completed && t.dueDate && t.dueDate > today && t.dueDate <= futureStr },
-      { key: 'later', label: '更晚 / 无日期', filter: t => !t.completed && (!t.dueDate || t.dueDate > futureStr) },
-      { key: 'done', label: '已完成', filter: t => t.completed }
+      { key: 'later', label: '更晚 / 无日期', filter: t => !t.completed && (!t.dueDate || t.dueDate > futureStr) }
     ];
     let html = '';
     groups.forEach(g => {
@@ -4265,6 +4288,15 @@ function circuitLabel(c) {
       if (!list.length) return;
       html += `<div style="margin-bottom:12px;"><div style="font-size:0.75rem; color:#6b7280; margin-bottom:6px; font-weight:600;">${g.label}</div>` + list.map(t => renderTaskItem(t)).join('') + '</div>';
     });
+
+    const doneList = tasks.filter(t => t.completed).sort((a,b) => (a.dueDate||'').localeCompare(b.dueDate||''));
+    if (doneList.length) {
+      html += `<div style="margin-bottom:12px;"><button class="btn secondary" id="task-toggle-done" style="padding:4px 12px; font-size:0.8rem;">${showCompletedTasks ? '隐藏' : '显示'}已完成 (${doneList.length})</button></div>`;
+      if (showCompletedTasks) {
+        html += `<div style="margin-bottom:12px;"><div style="font-size:0.75rem; color:#6b7280; margin-bottom:6px; font-weight:600;">已完成</div>` + doneList.map(t => renderTaskItem(t)).join('') + '</div>';
+      }
+    }
+
     container.innerHTML = html || '<div class="empty-state">暂无待办</div>';
     container.querySelectorAll('input[type=checkbox][data-task-id]').forEach(cb => {
       cb.addEventListener('change', () => toggleTask(cb.dataset.taskId, cb.checked));
@@ -4274,6 +4306,12 @@ function circuitLabel(c) {
     });
     container.querySelectorAll('button[data-task-delete]').forEach(btn => {
       btn.addEventListener('click', () => deleteTask(btn.dataset.taskDelete));
+    });
+    const toggleBtn = document.getElementById('task-toggle-done');
+    if (toggleBtn) toggleBtn.addEventListener('click', () => {
+      showCompletedTasks = !showCompletedTasks;
+      saveUIToLocal('cathy_show_completed_tasks', showCompletedTasks);
+      renderTasks();
     });
   }
 
