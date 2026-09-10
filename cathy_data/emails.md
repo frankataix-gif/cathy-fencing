@@ -6374,3 +6374,57 @@ Under trading standards, we are required to request and share any relevant fire 
 P
 
 ---
+
+## [其他] Re: Package Delivery Assistance – TH103
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-08T20:19:10+00:00
+**摘要:** Natalie询问包裹是否到达并请求协助检查和存放。
+**待办:** 检查包裹是否到达并协助存放
+
+Hi Natalie,
+
+I just checked, nothing yet, but I can check at the end of the day.
+
+Thanks
+
+Anastasia
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:1eefaaa8-fb67-463c-aa62-8edde8a057af]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful. Please consider the environment before printing this email.
+
+
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, September 8, 2026 12:53 PM
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Package Delivery Assistance – TH103
+
+Hi Anastasia,
+
+I have several packages that are expected to arrive over the next few
+days. Could you please check how many packages have arrived for me
+today?
+
+If possible, could you also please help place them inside my unit,
+TH103? If this is not possible, please let me know where they are
+being stored.
+
+Thank you very much for your help.
+
+Best regards,
+Natalie
+
+
+---
