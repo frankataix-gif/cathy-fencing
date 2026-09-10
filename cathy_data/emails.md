@@ -17580,3 +17580,148 @@ Shop Now
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODF9AAcAAAAABc0vPrV7k3fxbmTxxh4CO-nrHlAui3xzBBY9fmUcU-6BxK7Ev-0x
 
 ---
+
+## [营销] Take the markets with you
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-27T06:16:24
+**摘要:** 这封邮件来自TradingView，主题为‘Take the markets with you’，可能在推广其市场分析工具或移动应用。
+**待办:** 无
+
+96       
+   Take the markets with you 
+   
+   
+   
+   
+   
+    /* Client resets for WebView-based clients (Samsung Email, Yandex Mail app) */
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+    a:hover        { text-decoration: underline !important; }
+    a.btn:hover    { text-decoration: none !important; }
+
+@media only screen and (max-width:500px) {
+  .flexible {
+    width: 100% !important;
+  }
+
+  .img-flex img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .tflex {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .ac {
+    text-align: center !important;
+  }
+
+  .plr-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .plr-20 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .plr-30 {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+
+  .pb-20 {
+    padding-bottom: 20px !important;
+  }
+  .pb-24 {
+    padding-bottom: 24px !important;
+  }
+
+  .fs-18 {
+    font-size: 18px !important;
+    line-height: 28px !important;
+  }
+  .fs-20 {
+    font-size: 20px !important;
+    line-height: 24px !important;
+  }
+
+  .al {
+    text-align: left !important;
+  }
+
+  .h-24 {
+    line-height: 24px !important;
+    height: 24px !important;
+  }
+  .h-32 {
+    line-height: 32px !important;
+    height: 32px !important;
+  }
+
+  .img-desktop {
+    display: none!important;
+    width: 0!important;
+    height: 0!important;
+    padding: 0!important;
+    font-size: 0!important;
+    line-height: 0!important;
+  }
+
+  .img-mob {
+    display: block!important;
+    width: auto!important;
+    overflow: visible!important;
+    float: none!important;
+    max-height: inherit!important;
+    max-width: inherit!important;
+    visibility: visible !important;
+  }
+
+  h1 {
+    font-size: 18px !important;
+    line-height: 24px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+    line-height: 24px !important;
+  }
+
+  u+.iph-gmail-dk .gmail-blend-exclusion-blk {
+    background-color: #000;
+    mix-blend-mode: screen;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+
+  u+.iph-gmail-dk .gmail-blend-difference-blk {
+    background-color: #000;
+    mix-blend-mode: difference;
+    color: #ffffff;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+}
+ 
+      a { text-decoration:none; } .keep-white { mso-style-textfill-type:gradient; mso-style-textfill-fill-gradientfill-stoplist:"0 #FFFFFF 0 100000,100000 #FFFFFF 0 100000"; color:#000000 !important; }    
+ 
+
+ 
+   
+    Mobile and desktop apps &#8212; the full TradingView experience, wherever you are.
+   
+   
+  &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173;
+  &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &#173; &#847; &#8204; &#160; &#8199; &
+
+---
