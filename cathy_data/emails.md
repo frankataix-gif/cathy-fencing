@@ -18591,3 +18591,29 @@ Ti basteranno 2 minuti
 ͏‌  ͏‌ 
 
 ---
+
+## [其他] Your receipt is here! #941 40 9599 07182026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-18T23:29:28.000Z
+**摘要:** 用户收到Best Buy的电子收据，用于退换货或服务。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 40 9599 07182026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 40 9599 07182026 
+Date 2026-07-18 04:29 PM 
+Type Exchange 
+Associate Name Andy 
+Transaction Summary
+Breville The Soft Top Pure Electric Kettle - 1.7L - Silver 
+Item #: 10574189 
+Original 
+
+---
