@@ -19387,3 +19387,15 @@ Summer Fridays with the sweetest summer drop.
 <https://app.sephora.com/T/v610000019f60b85df0972762f4bbe5c898/bd6152ca9efc432e0000021ef3a0bcc2/bd61
 
 ---
+
+## [营销] Saldi di fine stagione negli outlet
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-14T10:01:15.000Z
+**摘要:** Calvin Klein在Outlet进行季节末清仓促销。
+**待办:** 无
+
+
+
+
+---
