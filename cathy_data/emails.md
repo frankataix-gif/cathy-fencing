@@ -13887,3 +13887,28 @@ If you don't recognize this activity, please review your account security
 <http://url3243.email.openai.com/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMvWmnkLomVjgxFpxUVYEkxqorI8ICh1R9g
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-13T18:59:16.000Z
+**摘要:** Google账号在Mac OS设备上有新的登录活动，提醒用户确认是否本人操作。
+**待办:** 无
+
+[image: Google]
+在 Mac OS 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Mac OS
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1786647556816?rfn%3D325%26rfnc%3D1%26eid%3D164910056102121929%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amphith
+
+---
