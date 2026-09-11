@@ -3215,3 +3215,19 @@ category instead of U13.
 Please allow her to compete in the *U15 category*. Thank you for your h
 
 ---
+
+## [击剑] Register Foil U13 Woman
+
+**发件人:** Natalie Wu <nataliewu100@gmail.com>
+**日期:** 2026-03-14T18:32:22.000Z
+**摘要:** 注册Foil U13女子项目，附有表格
+**待办:** 无
+
+Hi
+
+We would like to register Foil U13 Woman. I have attached the form. 
+Thank you.
+
+
+
+---
