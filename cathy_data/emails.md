@@ -26306,3 +26306,17 @@ Newsletter 15 maggio 2026 — idealista/news     | Lunedì 11 Maggio 2026
 Che succede 15/05/2026 — idealista/news                    Con tre circolari lInps delinea il quadro applicativo dei nuovi esoneri contributivi introdotti dal decreto lavoro, volti a incentivare la stabilizzazione professionale di giovani, donne e lavoratori nelle aree svantaggiate del Paese attraverso lo strumento dello sgravio totale. In particolare, la circolare numero 55 fornisce le prime indicazioni operative sul "Bonus Giovani 2026", che prevede un esonero del 100 per cento dei contributi 
 
 ---
+
+## [营销] House Members, this sale’s for you.
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-15T06:39:31.000Z
+**摘要:** Hollister向House Members提供在线购物20%折扣的促销活动。
+**待办:** 无
+
+Hollister Co. 
+  
+20% off everything online (House Members only)!* 
+<https://e.em.hollisterco.com/c2/1979:6a031629f3434d66bb0c7bbf:ot:69e6429a87fa4e894f0fac35:1/fec58264?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzg4MjcxNzEsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNmEwMzFkY2UxNWEwYzU5NmQ0MDJhNDMxIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE
+
+---
