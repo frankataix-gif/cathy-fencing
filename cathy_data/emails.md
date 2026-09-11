@@ -25065,3 +25065,861 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
 
 
 ---
+
+## [营销] Il mare ti aspetta: scopri case in vendita e in affitto per ogni esigenza.
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-01T14:02:17.000Z
+**摘要:** 推荐20套海景房，邀请用户开始寻找理想的房子
+**待办:** 无
+
+20 case vista mare — idealista/news    Inizia ora a cercare la tua casa ideale e trasforma il mare in una presenza quotidiana, non solo estiva.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Your Rental Agreement 9611047694
+
+**发件人:** SIXT <booking@sixt.com>
+**日期:** 2026-06-01T11:28:08.000Z
+**摘要:** 这封邮件是SIXT提供的租车协议确认，包含租车详情和相关链接。
+**待办:** 查看并管理租车信息
+
+
+SIXT
+  
+ 
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAoAAAAAAVZCEGJ9XiVMlDZnhrjuZHSWwJEWy8yE5xu2tqeUJMSY_yFwZ5t9cz2UccCS9N9gNEKWofHgpW_6ML51iiFgtvB-5aVfEQUXxVKXC1cCVE-feMKrVg 
+
+Rental 9611047694
+
+|   
+
+ 
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAoAAAAAAVZCEGJ-XAKCif0b5sN9jKtEJEujcQZWH_x9l-iJnlOdraSyXTu5mIRwStQD43ILhVfOygEU1vRtC7pGrzhFmwt1eZnMJ9RZANETkgNVWO1nAuOHgg 
+
+Modify
+ 
+
+ 
+
+
+
+
+Enjoy your BMW SERIES 1! 
+
+
+Parking 
+Park-R-L-6  
+
+
+
+
+
+
+
+---
+
+## [其他] Che succede 01/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-01T07:57:06.000Z
+**摘要:** 无具体内容
+**待办:** 无
+
+Che succede 01/06/2026 — idealista/news
+****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [营销] T-shirt e bermuda | La combo perfetta per la tua estate
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-01T07:44:59.000Z
+**摘要:** 这封邮件推广Oltre的夏季服装组合，包括T恤、短裤、裤子和衬衫，并强调免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAAAAAAJf9jLogSFcB8xMo_uae7UolWN8Uu4c579T5nERkPAX6VUTSq6znw5lCUOixrGHjLMsUURKBShL0LkaozkgtWo8XLe1FXkXMXr2_lhPB 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAAAAAAJf9jLohFGSTmyI_i8T4g2r9UXSL95WmTqEcfeMsciQJY2S5ky4vYUfHW2qpE051KfQVCS-RRx1wFRcoBpXBik4BjKXjLumJeHL6Aei5 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAA
+
+---
+
+## [营销] 商務艙低至 HK$2,XXX ⁉️兩招嘆「星」級體驗🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-01T00:25:04.000Z
+**摘要:** Trip.com 发送商务舱和五星酒店优惠信息，预订可享高额Trip Coins奖励。
+**待办:** 无
+
+【6.6 狂賞預告】商務/頭等艙及五星酒店 HK$2,666 優惠券⚜️預訂賺高達 3,200 Trip Coins💰優質旅程💫由此出發▶️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154117249-1780273503678.220%26ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsa
+
+---
+
+## [其他] 您的境外租车订单已确认，请打印电子提车凭证！- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T22:03:21.000Z
+**摘要:** 您的境外租车订单已确认，需打印电子提车凭证。
+**待办:** 打印电子提车凭证
+
+ 订单确认邮件 
+<http://w.zuzuche.com> 3000万人都在用的出境租车APP 
+订单已确认！ 
+尊敬的武晶琦，您的境外租车订单已确认！ 
+租租车订单号：1008974800 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL29yZGVyLnBocD9vcmRlcl9pZD0xMDA4OTc0ODAwJmhhc2g9NWZkNWM2M2Y0M2UzNWNmNTQ3ZmRkNmIxYThjYjA0ZGMwOTk%3D&token=999aab3a54c7e753536e46e57d985bc3&channel=email_confirm&key=order> 
+提车确认号：1203050507 
+
+打印/下载提车单 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL3ZvdWNoZXIucGhwP29yZGVyX2lkPTEwMDg5NzQ4MDAmaGFzaD01ZmQ1YzYzZjQzZTM1Y2Y1ND
+
+---
+
+## [待办] 意大利租车驾照提醒- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T22:03:19.000Z
+**摘要:** 租租车提醒用户需准备特定证件组合以符合意大利租车要求。
+**待办:** 确认驾照类型并准备国际驾照认证件或外交部附加证明书。
+
+ 3000万人都在用的全球自驾游平台 
+尊敬的武***先生/女士，您好！
+
+感谢您使用租租车国际租车预订服务。
+
+关于您的意大利租车订单1008974800，我们留意到您下单时填写的驾照类型为：*中国内地驾照*。
+
+根据您所预订的租车公司Europcar要求，您需要持有以下任一证件组合取车：
+
+驾照翻译件类型 说明 
+中国内地驾照原件+国际驾照认证件 国际驾照认证件是9国语言的国际驾照翻译认证，可在线办理。持有中国驾照和国际驾照认证件，可租车通行近200个国家。 
+中国内地驾照原件+中国外交部附加证明书 
+获得当地语言驾照公证件后，到中国外交部领事司申请办理附加证明书，完成后文件可直接在对应国家被承认。参考中国领事服务网：http://cs.mfa.gov.cn/zggmcg/fjzms/ 
+驾照原件+国际驾照(IDP)原件 
+国际驾照是联合国《道路交通公约》缔约国家及地区签发的官方翻译件，须配合签发国驾照一同出示，如日本驾照+日本签发的国际驾照。因我国内地未加入联合《道路交通公约》，中国内地驾照无法办理。 
+
+*上表仅为支持的证件类型，请务必自行核对您手里的驾照原件与翻译件在整个用车
+
+---
+
+## [其他] 您的境外租车订单已确认，请打印电子提车凭证！- 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T07:23:25.000Z
+**摘要:** 租车订单已确认，包含提车凭证下载链接和取车信息。
+**待办:** 打印电子提车凭证
+
+ 订单确认邮件 
+<http://w.zuzuche.com> 3000万人都在用的出境租车APP 
+订单已确认！ 
+尊敬的武晶琦，您的境外租车订单已确认！ 
+租租车订单号：1008982021 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL29yZGVyLnBocD9vcmRlcl9pZD0xMDA4OTgyMDIxJmhhc2g9Y2Y3OWJhNzFiOTY4ZmI5NzY3NmQ2ZjBlOTBhZDhkYjAwMzc%3D&token=1fa6558ba61122c1dad1082728235ee1&channel=email_confirm&key=order> 
+提车确认号：9734741081 
+
+打印/下载提车单 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL3ZvdWNoZXIucGhwP29yZGVyX2lkPTEwMDg5ODIwMjEmaGFzaD1jZjc5YmE3MWI5NjhmYjk3Nj
+
+---
+
+## [待办] 意大利租车驾照提醒- 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T07:23:06.000Z
+**摘要:** 租租车提醒用户关于意大利租车订单需要准备特定的驾照组合，以避免取车时被拒。
+**待办:** 检查并准备符合要求的驾照组合，如公证件或国际驾照，确保有效期内。
+
+ 3000万人都在用的全球自驾游平台 
+尊敬的武***先生/女士，您好！
+
+感谢您使用租租车国际租车预订服务。
+
+关于您的意大利租车订单1008982021，我们留意到您下单时填写的驾照类型为：*中国内地驾照*。
+
+根据您所预订的租车公司SIXT要求，您需要持有以下任一证件组合取车：
+
+驾照翻译件类型 说明 
+中国内地驾照原件+当地语言公证件(意大利文) 在公证处办理的主要驾驶员当地语言公证件（通常需要身份证、驾照、户口本原件和复印件）。 
+中国内地驾照原件+中国外交部附加证明书 
+获得当地语言驾照公证件后，到中国外交部领事司申请办理附加证明书，完成后文件可直接在对应国家被承认。参考中国领事服务网：http://cs.mfa.gov.cn/zggmcg/fjzms/ 
+驾照原件+国际驾照(IDP)原件 
+国际驾照是联合国《道路交通公约》缔约国家及地区签发的官方翻译件，须配合签发国驾照一同出示，如日本驾照+日本签发的国际驾照。因我国内地未加入联合《道路交通公约》，中国内地驾照无法办理。 
+
+*上表仅为支持的证件类型，请务必自行核对您手里的驾照原件与翻译件在整个用车期间均在有效期内，且版本
+
+---
+
+## [其他] Bilocali con vista da 26.000 euro? Sì, esistono davvero
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-30T23:46:55.000Z
+**摘要:** 这封邮件提到26,000欧元的双居室公寓确实存在，可能涉及房地产信息。
+**待办:** 无
+
+Bilocali con vista da 26.000 euro? Sì, esistono davvero — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [营销] 5G iliad + tantissimi giga = solo 2€ in più al mese
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-05-30T16:27:26.000Z
+**摘要:** 邮件宣传5G套餐，提供大量流量且每月仅需多2欧元。
+**待办:** 无
+
+ 5G iliad + tantissimi giga = solo 2€ in più 
+                           
+Passa a TOP 300 PLUS
+  
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+
+---
+
+## [其他] Cosa fare a giugno 2026 in Italia?
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-30T11:00:23.000Z
+**摘要:** 询问2026年6月在意大利的活动建议
+**待办:** 无
+
+Cosa fare a giugno 2026 in Italia — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [营销] AMBER CAPSULE | Eleganza contemporanea
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-30T07:20:36.000Z
+**摘要:** 这封邮件介绍了Oltre的AMBER CAPSULE系列，强调现代优雅风格，并提及免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTJ9ADIAAAAAAJRF6kRcoQm1oEBRsDNcZyyDfs1A2pGSFwAglTvi7dPPVBkFK8ty-0QuUcZclZGY_dx8EaAH5oH5MM4KIV1OMv8tW8CLStr64NeoYF3G 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTJ9ADIAAAAAAJRF6kReIlt_dVeIR66xbJOHCrACn8vFsDJzSNiN2K1qK4Kfqp7SYh_Yhx0pF2V81FF0TqtAqE-f9p4bzX
+
+---
+
+## [其他] 您本月的 Google One 使用情况
+
+**发件人:** Google One <googleone-updates-noreply@google.com>
+**日期:** 2026-05-29T23:08:01.000Z
+**摘要:** 这封邮件提醒用户本月的Google One存储使用情况，显示已使用23%，并介绍会员可享的存储空间和备份功能。
+**待办:** 无
+
+充分利用您的会员资格
+Google One 提供更多存储空间和设备备份等功能，帮助您保护文件、呵护珍贵的回 
+忆。请继续阅读，了解会员可享有的福利，看看还有哪些功能。
+存储空间
+您的存储空间已使用 23%
+您的存储空间非常充足，您可将更多回忆和重要文件安全地备份到云端硬盘、Gmail  
+和 Google Photos。
+24 GB已使用: 100 GB
+- Google Drive: 23.89 GB
+Google  
+Drive<https://c.gle/AOExmq1poGDaDXUn-euW1GqTJZzaAE9127CMcOxXNQYsbB_ZQjcD4Dikp03WogCYExZwyW5qNLPxVY8teany5h1o9O5e7Ymwsx4z3TkQjCu_Q0Rf-Eo5F7vRdj5TKpBppLRWzs8FCOMkw0vytekFOhmO5fs1yhmxsDZku_F4qFZgpXYq8H_qdkhbNXZB64w94NbkfE7EyrnaGVitNYuuOVnq5JoyAQsrM8gPXOQClrbKReF3XSqxzrWkMI0iSIAmn
+
+---
+
+## [其他] Top 10 seaside house price hotspots
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-05-29T16:30:17.000Z
+**摘要:** 邮件介绍了今年房价增长最快的沿海城镇列表，并附有Rightmove的链接。
+**待办:** 无
+
+Take a look at the coastal towns where house prices have
+increased the most since last year              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/y2cJwkM6Cc1SOCfrb1BjsA~~/AAAHahA~/ty1dxwX_g_kGvXexg9FnzDKN4ExXhnBl41Vo5-rBDie4ctC5TCeD2XVUF358r6dzHjyVkxQc8x1TNWkc8LvCwI0HbJs5btXazMv6dIBWQCEMS-PohbS8j-KmvmH9C986iLmMV2DyEJn0P1a3ZEVFr-q-FPAmwLPR0KvsZi-EAxU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/przKi-UNDH9GePZi0YGXpw~~/AAAHahA~/90d-myDmKzm-yRQpokx7sA6vOAkg1BNvcibfDxV2_tnEwnaw
+
+---
+
+## [其他] Un progetto immobiliare di ultra-lusso a Casal Palocco (Roma)
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-05-29T11:01:02.000Z
+**摘要:** 这封邮件介绍了一个位于罗马Casal Palocco的超豪华房地产项目，属于理想之家的新闻通讯内容。
+**待办:** 无
+
+Newsletter 29/05/2026 — idealista/news     | Mercoledì 27 Maggio 2026
+**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [营销] Che succede 29/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-29T07:21:15.000Z
+**摘要:** 邮件提及订阅服务每月费用为3-4美元，提供额外功能如个性化聊天设置和资料优化。
+**待办:** 无
+
+Che succede 29 maggio — idealista/news                  Con una spesa che va dai tre ai quattro dollari al mese chi si abbona potrà avere funzionalità extra rispetto agli utenti gratis. Ad esempio, sul proprio profilo e nelle storie, sulle prime due piattaforme. Sulla chat invece è prevista più personalizzazione con adesivi, suonerie e temi.
+
+***********************************************************************************************************************************************************
+
+---
+
+## [营销] 🎉29/5 任務：用最平嘅錢玩到盡
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-29T00:38:32.000Z
+**摘要:** Trip.com推送5月29日促销活动，包含香港迪士尼乐园门票半价、机场快线优惠及长隆酒店特惠，并提醒下载App抢购。
+**待办:** 无
+
+🎡香港迪士尼樂園門票半價🔥約會慳錢靠呢鋪💋🚆機場快線 HK$9.9📱eSIM HK$1 平過買纸袋！🐼長隆飛船酒店 3日2夜＋門票 
+HK$1,099👉快啲打開 App 搶‼️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542970-1780015111495.741%26ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26trip_in_sid%3D1121&bizD
+
+---
+
+## [营销] 訂完機票👉🏻🔓成功解鎖75折酒店優惠🎁
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-28T13:10:26.000Z
+**摘要:** 机票客户专享洛杉矶酒店75折优惠，预订可获Trip Coins回赠。
+**待办:** 无
+
+機票客戶專享❕洛杉磯酒店低至75折💰預訂再賺 Trip Coins 回贈💰立即解鎖🔓👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10152210130-1779973821277.625%26ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0x
+
+---
+
+## [其他] Cosa fare a giugno 2026 in Italia?
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-28T11:00:38.000Z
+**摘要:** 这封邮件提供了2026年6月在意大利度假的12个活动建议。
+**待办:** 无
+
+12 idee per le vacanze in Italia a giugno  — idealista/news
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [营销] CONTINUANO I SUNNY DAYS | Fino al -50% ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-28T07:07:16.000Z
+**摘要:** 邮件内容为Oltre的促销通知，包含多款商品的折扣信息，如服装和新品到货，并提供免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAAAAAAIxL4UIiPEVHm1MblOMbgVKRKmbj5CLHL3UhN8thDIu0jDQoIht2njS8F7c1r8M3Ki2r3cCRhAxx1XvFbq6tALm3iA7IlEhcXmX_0Rsp 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAAAAAAIxL4UIjaWTzrHWy-wxC0cIi8-Nfzdrqn2Z1V2KSdzkFNs8IrySBjXvVWkeilN6yRNlwI9CDmnAHrB-QiKHNmyc1JQ7OKqeeZkITzIie 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAA
+
+---
+
+## [其他] Che succede 28/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-28T07:23:02.000Z
+**摘要:** 意大利因工会和巴勒斯坦组织罢工导致交通中断，同时欧洲央行警告能源措施需临时且精准以避免通胀。
+**待办:** 无
+
+Che succede 28/05/2026 — idealista/news                 Cortei in tutta Italia in occasione dello sciopero generale indetto per venerdì 29 maggio dai sindacati di base Cub; Sgb; Adl Varese; Si Cobas; Usi; Usi Cit e dalle organizzazioni palestinesi in Italia Api e Gpi-Giovani Palestinesi Italiani. Contestualmente, per quanto riguarda i trasporti, è stato proclamato da alcune sigle sindacali autonome uno sciopero nazionale, in adesione a uno sciopero generale, che interesserà il personale del grup
+
+---
+
+## [其他] Trip.com服務更新：WhatsApp通知
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-27T13:43:52.000Z
+**摘要:** Trip.com通知关于WhatsApp通知的服务更新。
+**待办:** 无
+
+
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015222812-1779889431666.218%26ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1MjIyODEyLTE3Nzk4ODk0MzE2NjYuMjE4IiwidGl0bGUiOiJoZWFkZXItbG9nbyIsInR5cGUi
+
+---
+
+## [其他] 機票訂單確認郵件： 米蘭 - 里斯本，里斯本 - 洛杉磯
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-05-27T13:13:20.000Z
+**摘要:** 机票订单确认成功，包含米兰至里斯本及里斯本至洛杉矶的航班信息，订单号为1359045740211663。
+**待办:** 无
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+機票訂單確認郵件： 米蘭 - 里斯本，里斯本 - 洛杉磯
+機票訂單確認郵件
+您好，WU JING QI：
+感謝您選用 Trip.com。您的航班已成功預訂！隨件附上您的行程及電子收據，敬請查收。
+您的12%機場接送優惠券已發放至您的帳戶，立即預訂 
+<https://hk.trip.com/airport-transfers/index?locale=zh-HK&channelid=238449>！
+您可以點擊下方按鈕以查看更多詳細資訊及管理您的訂單。
+    管理我的訂單     
+<https://hk.trip.com/flightsorder/vieworder?orderid=1359045740211663&accesstoken=X7B70AE71E9C540C8E86AEA405A0EFE62096747D4854DA4F48A252EB5ABE349F&from=email&template=TRIP_BOOKING_CONFIRMED&lo
+
+---
+
+## [其他] 付款成功
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-05-27T13:10:21.000Z
+**摘要:** 付款成功，机票将在2026年5月27日前出票，并会收到确认邮件。
+**待办:** 无
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+付款成功
+付款成功
+您好，WU JING QI：
+我們已收到您的付款。*我們正在處理您的機票*，最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+出票後，我們將向您發送附有您的行程和電子收據的*確認電郵*。
+[image: icon]   Trip.com 保證出票
+米蘭 - 里斯本｜6月12日
+最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+里斯本 - 洛杉磯｜6月12日
+最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+HE (姓) YUN XI (名)
+WU (姓) JING QI (名)
+您可以隨時透過*「管理我的訂單」*查看訂單詳情或機票狀態。
+    管理我的訂單     
+<https://hk.trip.com/flightsorder/vieworder?orderid=1359045740211663&accesstoken=X7B70AE71E9C540C8E
+
+---
+
+## [营销] Hai due minuti per noi?
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-05-27T12:04:04.000Z
+**摘要:** 邮件邀请Jingqi参与iliad的问卷调查，以收集对服务的反馈。
+**待办:** 参与问卷调查并提供反馈
+
+ Hai due minuti per noi? 
+                           
+Raccontaci la tua opinione
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+---
+
+## [其他] Aggiornamento dell’Informativa Privacy e dei Termini e Condizioni
+
+**发件人:** idealista <notifiche@accounts.idealista.it>
+**日期:** 2026-05-27T11:01:23.000Z
+**摘要:** 通知隐私政策和条款的更新
+**待办:** 无
+
+Aggiornamento dell’Informativa sulla Privacy e dei Termini e Condizioni Generali di idealista
+
+96
+
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:620px){.row-con
+
+---
+
+## [其他] Che succede 27/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-27T07:31:26.000Z
+**摘要:** 邮件内容涉及Consap在公共住房政策中的战略作用，以及Messina海峡大桥建设进度说明，包括2026年审批完成和2033年竣工的时间表。
+**待办:** 无
+
+Che succede 27/05/2026 — idealista/news                          “Il ruolo di Consap nel piano casa è fondamentale: rende realmente accessibile il diritto all’abitare”. È quanto ha dichiarato Sestino Giacomoni, presidente di Consap, nel corso del suo intervento al convegno “Edilizia Residenziale Pubblica e Innovazione: Proposte, progetti e risultati concreti per un risparmio energetico intelligente”, organizzato da Federcasa. Giacomoni ha sottolineato come la concessionaria del servizio assicura
+
+---
+
+## [营销] 每月一次嘅會員折扣嚟啦💞
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-27T00:26:03.000Z
+**摘要:** Trip.com 发送会员专属折扣信息，预订酒店、机票等可享5% Trip Coins回赠，今日限时优惠。
+**待办:** 无
+
+🎯訂酒店/機票/火車可享 5% Trip Coins回贈🎁🏆尊享會員TripPlus酒店⏰把握今日限時優惠👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147138221-1779841562317.775%26ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0d
+
+---
+
+## [其他] Your Trip.com account password has been updated
+
+**发件人:** "Trip.com" <en_noreply@trip.com>
+**日期:** 2026-05-26T12:58:00.000Z
+**摘要:** 您的Trip.com账户密码已更新，请确认是否本人操作。若非本人操作，请联系客服进一步处理。
+**待办:** 无
+
+ 
+<https://www.trip.com?locale=en-XX> 
+
+Your Trip.com account password has been updated 
+Important notes: 
+If this wasn't you, please contact us for further assistance. 
+Get help on the go
+Use the Trip.com app to contact us if anything comes up
+Free Internet calls
+Download Now 
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Ftripcom.go.link%3Fadj_t%3D15j9m0tk_15jds8ml%26deep_link%3Dctripglobal%253A%252F%252Fmytrip%252Fhome%26adj_label%3Dplatform%253Demail%2526l
+
+---
+
+## [其他] 611537 is your sign-in verification code
+
+**发件人:** "Trip.com" <en_noreply@trip.com>
+**日期:** 2026-05-26T12:57:30.000Z
+**摘要:** 邮件提供了用于登录账户的验证码611537，并提醒注意账户安全。
+**待办:** 无
+
+ 
+<https://www.trip.com?locale=en-XX> 
+
+611537 
+Use this code to sign in to your account 
+Once sent, this verification code is valid for 30 minutes 
+Important Notes: 
+To protect your account security, please do not disclose this verification 
+code to anyone. If you didn't request this verification code, please ignore 
+this email. 
+Get help on the go
+Use the Trip.com app to contact us if anything comes up
+Free Internet calls
+Download Now 
+<https://triplink.trip.com/forward/middlepages/channel/edm
+
+---
+
+## [营销] 歡迎加入 Trip.com！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-26T12:41:17.000Z
+**摘要:** 欢迎加入Trip.com，鼓励用户预订首趟旅程以享受专属礼遇。
+**待办:** 无
+
+立即預訂您的首趟旅程並享受專享禮遇
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015441200-1779799276824.309%26ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xM
+
+---
+
+## [待办] 驗證您的 Trip.com 帳戶
+
+**发件人:** "Trip.com" <hk_noreply@trip.com>
+**日期:** 2026-05-26T12:40:25.000Z
+**摘要:** 用户注册成功，需在7天内验证邮箱以完成账户设置，否则链接失效。
+**待办:** 验证邮箱账户
+
+ 
+<https://hk.trip.com?locale=zh-HK> 
+
+註冊成功 
+感謝您成為 Trip.com 會員！請於7日內驗證您的電郵，以完成帳戶設定。 
+驗證我的電郵 <http://t.ctrip.cn/AxpfCvy> 
+尚未註冊？ 
+無需擔心 - 可能是其他用戶不小心輸入了您的電郵地址。您可以取消電郵與此帳戶的連結。請注意，此連結將於7日後失效。 
+取消連結我的電郵 <http://t.ctrip.cn/zlUGbfd> 
+隨時隨地取得支援
+如有任何問題，可使用 Trip.com App 聯絡我們
+免費網絡通話
+立即下載 
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Ftripcom.go.link%3Fadj_t%3D15j9m0tk_15jds8ml%26deep_link%3Dctripglobal%253A%252F%252Fmytrip%252Fhome%26adj_label%3Dplatform%253Demail%2526loca
+
+---
+
+## [其他] 20 case ristrutturate in vendita (tutte sotto i 300.000 €)
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-26T11:00:19.000Z
+**摘要:** 20套翻新房屋出售，价格均低于30万欧元。
+**待办:** 无
+
+20 case ristrutturate — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [营销] Raccontaci la tua esperienza
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-05-26T10:50:43.000Z
+**摘要:** 邀请用户填写问卷，分享使用体验以帮助改进服务。
+**待办:** 无
+
+ Raccontaci la tua esperienza 
+                           
+Ti basteranno 2 minuti
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Che succede 26/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-26T07:18:42.000Z
+**摘要:** 这封邮件来自idealista/news，主题为'Che succede 26/05/2026'，内容为测试文本。
+**待办:** 无
+
+Che succede 26/05/2026 — idealista/news
+****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [其他] Aggiornamenti alla nostra Informativa sulla privacy
+
+**发件人:** Spotify <no-reply@legal.spotify.com>
+**日期:** 2026-05-25T19:30:58.000Z
+**摘要:** Spotify 更新了隐私政策，增加透明度和用户数据控制权，包括位置数据的可选使用说明。
+**待办:** 无
+
+
+Ci auguriamo che Premium ti piaccia. Abbiamo aggiornato la nostra Informativa sulla privacy per fornire un linguaggio più chiaro e un maggiore controllo sul modo in cui i tuoi dati alimentano la tua esperienza Spotify. 
+
+
+Novità:
+
+
+ <ul>
+   <li>Gli aggiornamenti aumentano la leggibilità e la trasparenza della nostra Informativa sulla privacy.</li>
+   <li>A tal fine, abbiamo aggiunto ulteriori informazioni su come raccogliamo e utilizziamo i dati per fornire nuovi prodotti o funzionalit
+
+---
+
+## [其他] Your Trenitalia Ticket
+
+**发件人:** Trenitalia <webmaster@trenitalia.it>
+**日期:** 2026-05-25T18:09:54.000Z
+**摘要:** 这封邮件是Trenitalia发送的火车票购买确认，包含两个车次的详细信息，涉及两位乘客的行程和票价。
+**待办:** 无
+
+
+[image: Logo Trenitalia] Purchase confirmation Conferma ordine Trenitalia 
+*Regionale Trenord 2232 of 31/05/2026* 
+*Bergamo (15:02) - Milano Centrale (15:50) * 
+Passenger *Yun Xi He* 
+------------------------------
+Offer/Comfort ORDINARIA/2ª CLASSE 
+Pick up procedure Regional Digital Ticket 
+Amount Eur 3.10 
+Ticket Code 2843604657 
+Buyer Jing Qi Wu Conferma ordine Trenitalia 
+*Regionale Trenord 2232 of 31/05/2026* 
+*Bergamo (15:02) - Milano Centrale (15:50) * 
+Passenger *Jing Qi Wu* 
+----------
+
+---
+
+## [待办] Trenitalia.com registration Activation
+
+**发件人:** Trenitalia <webmaster@trenitalia.it>
+**日期:** 2026-05-25T17:58:28.000Z
+**摘要:** 需要点击链接完成Trenitalia账户注册激活
+**待办:** 点击链接完成注册激活
+
+ Not Fidelity User 
+[image: .]
+
+Dear JING QI WU, 
+
+to confirm the registration click here 
+<https://www.lefrecce.it/Channels.Website.WEB/#/registration-confirm?activationCode=PICO8545b5c5-2d25-424f-a9fb-f010b208a135&lang=en> 
+or copy the following url into a new browser window 
+
+https://www.lefrecce.it/Channels.Website.WEB/#/registration-confirm?activationCode=PICO8545b5c5-2d25-424f-a9fb-f010b208a135&lang=en 
+
+The link will be active until *28/05/2026*, after which it will be 
+necessary to regis
+
+---
+
+## [其他] Benvenuto in iliad 🚀
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-05-25T15:31:24.000Z
+**摘要:** 欢迎加入iliad，介绍公司服务理念及家庭网络优惠价格。
+**待办:** 无
+
+ Benvenuto in iliad 🚀 
+                           
+Siamo felici di averti con noi!
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Che succede 25/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-25T07:42:20.000Z
+**摘要:** 邮件内容涉及欧洲央行利率决策及柴油税减免政策调整，提及央行行长拉加德对利率前景的不确定性表态，以及柴油价格可能上涨的影响。
+**待办:** 无
+
+Che succede 25/05/2026 — idealista/news                  Se la Bce alzerà i tassi alla prossima riunione di politica monetaria "lo saprete l11 giugno". Lo ha detto la presidente della Bce, Christine Lagarde, a Che tempo che fa. A richiesta di una indicazione sullorientamento di politica monetaria, Lagarde ha risposto "no, perché la situazione attuale è di massima incertezza". Lagarde non ha quindi ripetuto quanto detto a fine aprile, quando aveva affermato "ho chiara la direzione" dei tassi dint
+
+---
+
+## [营销] Esclusiva online | Abiti per la tua estate
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-25T07:18:28.000Z
+**摘要:** 这封邮件是Oltre的夏季服装促销广告，包含免费店内取货和免费退货服务，以及新到货品的链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAAAAAAIFc6wkoGTaKZ13VJWXrpvkzBR6_b60ZVXXSaOt8qkVowQjU6xdOxpqILxQ5jRWavI03vW0bd6TsTSgVze0h_avir3CAVIfSl5De6Fa0 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAAAAAAIFc6wkpxFo4J9jnrAaoh3O_IM6FF_Tm0qAi41aaOzC4Wkl3ispF4HS8jAx1HdI8Q5cQ5Y2rX8Dhvqy5-w_3cwa4fT_rngtft2OIvEDc 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAA
+
+---
+
+## [其他] 是否加入he的家人群组？
+
+**发件人:** Google <families-noreply@google.com>
+**日期:** 2026-05-24T21:00:40.000Z
+**摘要:** 这封邮件是邀请加入he的家人群组，以便与家人共享应用、服务和联系。
+**待办:** 接受家人群组邀请
+
+家人群组邀请
+he frank希望您加入他的家人群组
+
+nataliewu100@gmail.com <#>
+
+natalie，您好！
+
+您可以加入he的 (frankataix@gmail.com <#>) 家人群组，通过 Google 与您的家人联 
+系并分享适合全家人的应用和服务。
+
+加入家人群组的任何人都可以查看当前群组成员的姓名、电子邮件地址和个人资料照 
+片。
+接受邀请  
+<https://accounts.google.com/AccountChooser?continue=https://families.google.com/join/promo/CE7OceFpPr_fijN6ePcw1uqkelbvyA?utm_medium%3Demail&Email=nataliewu100@gmail.com>
+让家人齐聚 Google
+为儿童设置数字设备基本使用规则
+
+使用 Family Link 的家长控制功能帮助指导儿童和青少年的上网活动
+让每个人都有条不紊地做事
+
+使用共享家庭日历，让工作和家务保持井然有序
+分享娱乐内容
+
+
+---
+
+## [其他] Gas nel condizionatore: come capire se è finito
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-23T11:00:58.000Z
+**摘要:** 这封邮件提供了一个关于如何判断空调制冷剂是否耗尽的指南文章。
+**待办:** 无
+
+Come capire se manca il gas nel condizionatore — idealista/news
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Bank Holiday Ready
+
+**发件人:** Hall And Woodhouse <HallAndWoodhouse@updates.hall-woodhouse.co.uk>
+**日期:** 2026-05-22T19:23:33.000Z
+**摘要:** 关于本周末银行假日的活动通知，包含餐饮信息。
+**待办:** 无
+
+ Email 
+What's on this weekend 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+
+---
+
+## [其他] Should you get a 2 or 5-year fixed rate mortgage?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-05-22T13:08:40.000Z
+**摘要:** Rightmove提供关于选择2年或5年固定利率抵押贷款的最新见解，帮助用户做出决策。
+**待办:** 无
+
+Get the latest insights on fixed mortgages to help you decide
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/jv31SXl5-jrWQL0QzCZoKA~~/AAAHahA~/76xomrqaePM2_2IhxYJjRfHS9Fra-B_pq-nPUdMs8ygHwrDuef3ImYYxBu2AX2uvt5vCZ6apzc93MTMYKZWUyKpa97zoG5b7S3Up_bkyqWqIm_N-ScWZW2q-Fo0ZYs-5UhYAgG9Q_BY5ApKrVycRnH3MtT_wr030jqZFp6bB2OU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/oMnrqc37pKl7TBFIk26PSw~~/AAAHahA~/erxwW_C1hTlk3g-pHOZf2_OJmFUahzhxK6_TyNbdF1D9F4l9h7N1hKZA6FvSytCc56oZhDBQoup56S7Y34wht5YP80J
+
+---
