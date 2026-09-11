@@ -23927,3 +23927,28 @@ My Rightmove
 Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, mist
 
 ---
+
+## [其他] 您有一份意大利租车订单的补偿单待领取- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-12T10:02:36.000Z
+**摘要:** 
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+感谢您使用租租车国际租车预定服务。
+关于您意大利订单：1008974800，有一个补偿单待领取，您可以通过以下方式领取补偿。
+
+方式1:下载APP后，在APP订单详情页点击【点击领取补偿】。
+方式2:下载APP后，手机打开下方链接领取补偿。
+
+领取补偿 <https://l.zuzuche.com/WPwLCC>
+
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
