@@ -2714,3 +2714,15 @@ Questo non te l’avevamo ancora detto 👀
 *{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0}#converted-body .list_block ol,#converted-body .list_block ul,.body [class~=x_list_block
 
 ---
+
+## [其他] 15 attici economici in vendita: terrazzo e vista panoramica a prezzi sorprendenti
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-03-17T16:02:44.000Z
+**摘要:** 这封邮件介绍了15个经济型顶层公寓的出售信息，配有露台和全景视野，价格具有吸引力。
+**待办:** 无
+
+15 attici economici in vendita — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
