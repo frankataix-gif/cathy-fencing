@@ -18716,3 +18716,31 @@ We review requests:
 Usually, we w
 
 ---
+
+## [待办] Verify your email address for your BC Services Card Account
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T18:20:51.000Z
+**摘要:** 需要验证BC Services Card账户的邮箱地址，提供验证码332410
+**待办:** 打开BC Services Card应用并输入验证码332410进行验证
+
+ 
+[image: BC Services Card] <https://id.gov.bc.ca> 
+Use this verification code to confirm your email address: 
+  
+332410 
+  
+What you need to do next 
+
+   1. Open the BC Services Card app <ca.bc.gov.id.servicescard://> on your 
+   mobile device 
+   2. Enter the verification code above in the app 
+
+  
+Need Help? 
+See the step-by-step guide on how to verify an email address 
+<https://id.gov.bc.ca/static/help/email.html>, and find contact 
+information. 
+BC Services Card Login Service <https://id.go
+
+---
