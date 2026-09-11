@@ -18034,3 +18034,18 @@ Farrow Rental Resident Care -...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFPhPq-2BmB-2BAXQry-2BVeJapVhNftVQ8qUx-2BmSw-2FNiKu-2B1AO24L-2FW7U0Uxcdfr1tZrvTxW2Sy67XnAaVK9WqOfXjQQ65iiJfZ2U4dnuaW0NuEk29cTaGHEC3RtZI-2FXaKMhaGmCyfbK2OLDWfCfI4cU5be-2BnN-2FG
 
 ---
+
+## [待办] [Task Update] Email Monitor: Review your TELUS email and rental followup
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T05:00:22.000Z
+**摘要:** 邮件提醒需处理TELUS未读邮件和租金跟进事项，当前无新重要邮件。
+**待办:** 回复TELUS邮件确认网络服务转移事宜并跟进租金相关邮件
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），没有发现新的重要邮件需要你立即处理。 目前仍值得关注的是： 1. TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 状态： 未读，重要 - 需要处理： 如果你打算办理网络，建议回复。 - 重点内容： 
+- 可以将 TELUS 服务转移到你的新地址。 - 如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 2. Smith 
+Farrow Rental R... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHs-2BkhMIQXFgoiawEhHdhaq-2B-2B0CTmTw82LM7b5qzaL43dJY4iVHBW7dRZpJrntFIaAcjLn1Z3e-2Bmuby-2F2-2BTgYQBC0hXub8UwIG3wyTFIWzsEgYe1YGJ8L4myNAX8OeIykJF1pYBD-2FFLn5-2FjS-2BVN2IcPr7IAWj
+
+---
