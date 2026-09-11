@@ -18468,3 +18468,17 @@ Please do not reply to this email.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152160179-1784506557120.868%26ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
 
 ---
+
+## [其他] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-19T18:02:16.000Z
+**摘要:** 发件人收到包裹后发现一个抽屉无法正常使用，并附上视频说明。
+**待办:** 无
+
+Hello,
+I just received my packages and I found that a drawer is not working, the
+video is below:
+
+
+---
