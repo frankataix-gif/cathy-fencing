@@ -26422,3 +26422,20 @@ Che succede 13/05/2026 — idealista/news               La Cascata Sajont, con i
 **************************************
 
 ---
+
+## [学校] Ask for leave
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-05-13T08:19:30.000Z
+**摘要:** Cathy 本周剩余时间请假，需老师注意。
+**待办:** 无
+
+Dear teacher,
+
+Cathy He will be off for the rest of the week, please note it!
+
+Kind Regards,
+Cathy’s mom
+
+
+---
