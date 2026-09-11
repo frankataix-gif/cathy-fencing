@@ -541,3 +541,32 @@ EVERYTHING’S ON SALE! 👀
 <https://e.em.hollisterco.com/c2/1979:69e11c11c082677a9b017ed7:ot:69e6429a87fa4e894f0fac35:1/acd562aa?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzcwMTMxODEsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllMTFmODlkYjNkNzg4MTg2MGZkNjI1IiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1
 
 ---
+
+## [其他] Il tuo sconto sta per scadere! ⏳
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-24T05:31:42.000Z
+**摘要:** 邮件提醒用户的折扣即将到期，并包含多个商品链接和促销信息。
+**待办:** 无
+
+
+  
+ 
+
+ 
+
+
+https://view.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTZ9ADIAAAAAACU6WV0s73E6KlXWQZgrpHvuv50mfJAMYLYVsmbvl20ZR2LIBUqxXGQLX0oDexhPEhTafWoTBpe_dSWu2aCbBtyE8tmO-nFC3xe9rLdzT5umlRStb6SY0kXcTpwKQ6s7 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+Fidelity card 2939333454571
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTZ9ADIAAAAAACU6WV0tmx24uHr5CCckSHVDHr-0E4Ka6gqm0C4eoxxAtSwQ375_5GKnIGl0V_TM5eyaCGR1mwaM2S6eCz9P9QEN4r-9uuSe12Qq3jM 
+
+
+https:
+
+---
