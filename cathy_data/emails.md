@@ -23916,3 +23916,14 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/oMm25Wwz5bFSsNfdByab4Q~~/AAAHahA~/LVwrAm5tc0P70jX0XsywdXdpa4yCIYxkoKikXjlsqnVcODned1ui23sG6eOH3Trbj6pgnBroXripqz0GVN7MxfOIX4IWQYH
 
 ---
+
+## [其他] La BCE aumenta i tassi, cosa succede ai mutui
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-12T14:00:25.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, mist
+
+---
