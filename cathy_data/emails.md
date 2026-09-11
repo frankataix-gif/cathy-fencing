@@ -8522,3 +8522,16 @@ hiahdaisdasdasdasd
 
 
 ---
+
+## [营销] Fall, the UGG Way
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-08T12:48:46.000Z
+**摘要:** Browns Shoes 发送的邮件宣布 UGG Evelina 鞋款重新补货，并强调其作为加拿大自1940年以来的传承。
+**待办:** 无
+
+RESTOCKED! The UGG Evelina is back—but not for long 🤎   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqln0iK36aAcNhLkYoCpLOnw-3D-3DMSvq_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOVKB0tWCZUqWAwjEqSkJSoAlcG6KKLn2GH-2Bw3BaYElGr63gWMAO4aKEySV8XXtUyOWKxtnlL70w5W7zvYPV6pQkmAkf-2F5MbVNS6vPr-2FsnOWTQHRGCJ1hW9GVXRR89dHeNXEpsuIEvsEP8EmWX95sQS2ZqCYHkTv
+
+---
