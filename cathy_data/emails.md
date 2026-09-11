@@ -17163,3 +17163,26 @@ Payment）。 - 附件： Transa...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEwVQ6J2qCKyaIomVMvCfge-2B9JUeDO37YIq65mqmiUZmYhfuHU1UeeB1cOs7hXiD5-2FpzYcbODWoAzb-2BQpPSX-2FEIylzGvos7VCJzBIWyetkiEoyXHh-2FSPPV4EXAh0eKtS6-2FGBOCcaI6SXiFzNR3NvWkPgeHWVLNV
 
 ---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-24T04:10:25.000Z
+**摘要:** 银行通知对方客户请求提供付款证明的附件。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
