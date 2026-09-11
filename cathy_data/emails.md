@@ -11395,3 +11395,18 @@ Please do not reply to this email.
 
 
 ---
+
+## [营销] Natalie, 5 school conversions from £250k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-28T16:20:33.000Z
+**摘要:** Rightmove上有5套价格从25万英镑起的学校转换住宅出售，附有购买和租赁链接。
+**待办:** 无
+
+Beautiful converted schoolhouse homes for sale on Rightmove now
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/gYSuOl4AssoFYGv91XwurQ~~/AAAHahA~/-4IK5UtAePt4P4sVwqKuu6HvdI8Wy_of3VAzrpmPakNZLzFwYl4ZoDDQe1mKXA8_ujgwAc-g_faEdewKJv8dOq2AS2ZTkg-PgIDmcQl_J-kwt1LlAdiIabL3rzNISuhVUoByW1ITI4wi_2gbzoQIlTy8LYuXW4jHS8BG-3QrJGk~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/7lRBswTKlVpuzkdTKJLTyQ~~/AAAHahA~/LasR-J7uncVQpdtJdd64c3Cx_3_zD4mMff5-BDk0iNTNk7wbVrQEiOsAKwqscA0lwZtDkIYxqEBrvW_CzzUk9BCrQ
+
+---
