@@ -23835,3 +23835,20 @@ Natalie, thanks for shopping at Sephora. Your e-receipt is enclosed.
 <https://beauty.sephora.com/T/v610000019ec240f74b9d420a434b5c4360/84ba567bf3cd
 
 ---
+
+## [其他] A little Sephora shopping intel 💡 🛍️
+
+**发件人:** Sephora Beauty Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-13T18:25:34.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+We’re happy you’re here! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019ec23b61fbb4bcec434b5c3ae8/1eca82f945ab44fa0000021ef3a0bcc2/1eca82f9-45ab-44fa-b72c-8
+
+---
