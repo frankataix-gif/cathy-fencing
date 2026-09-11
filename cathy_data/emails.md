@@ -16569,3 +16569,24 @@ Beauty Insider Cash. Exclusions apply.
 <https://app.sephora.com/T/v6100000
 
 ---
+
+## [其他] Payment Method Update
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-25T19:37:50.000Z
+**摘要:** Natalie在My TELUS应用中完成注册后，发现需要将自动支付方式从信用卡改为银行账户，并表示会稍后更新并通知。
+**待办:** 无
+
+Hi Naeim,
+
+I have downloaded the My TELUS app and completed my registration. However, I just realized that I need to change my automatic payment method from a credit card to a bank account.
+
+I will update it later and let you know once it is done.
+
+Thank you.
+
+Best regards,
+Natalie
+
+
+---
