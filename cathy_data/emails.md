@@ -1751,3 +1751,27 @@ Cordiali saluti
 
 
 ---
+
+## [其他] Spedizione in arrivo - apri per personalizzare la consegna
+
+**发件人:** GLS Sede di Pavia <noreply@gls-italy.com>
+**日期:** 2026-04-03T14:46:34.000Z
+**摘要:** 快递即将到达，预计4月26日送达，可选择自取或送货上门。
+**待办:** 确认或更改快递自取点
+
+ La tua spedizione è in viaggio 
+[image: La tua spedizione è in viaggio] 
+
+*Ciao Natalie Wu*, 
+
+La tua spedizione *M7 661762562* inviata da *SPORT 3000 PAVIA SRL* è quasi 
+arrivata! 
+
+*Consegna prevista per il 07/04/26. Il nostro autista potra' raggiungere 
+l'indirizzo di destinazione indicativamente dalle ore 08:30 alle ore 12:30, 
+fatti salvi imprevisti che non dipendono dalla nostra volonta'.* 
+*Non sarai a casa quel giorno? Nessun problema!* 
+
+Puoi *ritirare la spedizione* presso uno dei nos
+
+---
