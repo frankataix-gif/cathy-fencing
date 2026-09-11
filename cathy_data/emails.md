@@ -21144,3 +21144,15 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw374wvj3h
 
 
 ---
+
+## [其他] 暑假狂賞倒數🥳即睇6大必搶優惠👉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-05T23:25:02.000Z
+**摘要:** 
+**待办:** 无
+
+激搶 HK$799 來回機票＋大量半價起優惠碼/旅行團/門票💥先參加2大回贈賺 HK$148💰
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015411192-1783293901482.419%26ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
