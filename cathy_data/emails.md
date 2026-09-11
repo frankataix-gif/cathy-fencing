@@ -24043,3 +24043,22 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h27NzHB9N
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015498178-1781224338270.629%26ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
 
 ---
+
+## [其他] 您的航班快將出發 — 追蹤您的航班狀態
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-06-11T23:51:10.000Z
+**摘要:** 提醒用户航班即将起飞，需点击链接查看航班状态。
+**待办:** 查看航班状态
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+您的航班快將出發 — 追蹤您的航班狀態
+您的航班快將出發 — 追蹤您的航班狀態
+您好，WU JING QI：
+您的航班將於4小時後起飛。請點擊下方按鈕以查看您航班的最新資訊和詳情。
+  查看航班狀態   
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Fwww.trip.com%2Fwebapp%2Fflight%2Fschedule%2Fdetail.html%3FisHideNavBar%3DYES%26origin%3D239%26useCTHybrid%3D1%26flightNo%3DTP829%26dcode%3DMXP%26acode%3DLIS%26queryDate%3D2026-06-12%26queryTime%3D05%3A50%3A00%26locale%3Dzh-HK%26channel%3Demail%26subC
+
+---
