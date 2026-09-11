@@ -25474,3 +25474,15 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAA
 Che succede 28/05/2026 — idealista/news                 Cortei in tutta Italia in occasione dello sciopero generale indetto per venerdì 29 maggio dai sindacati di base Cub; Sgb; Adl Varese; Si Cobas; Usi; Usi Cit e dalle organizzazioni palestinesi in Italia Api e Gpi-Giovani Palestinesi Italiani. Contestualmente, per quanto riguarda i trasporti, è stato proclamato da alcune sigle sindacali autonome uno sciopero nazionale, in adesione a uno sciopero generale, che interesserà il personale del grup
 
 ---
+
+## [其他] Trip.com服務更新：WhatsApp通知
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-27T13:43:52.000Z
+**摘要:** Trip.com通知关于WhatsApp通知的服务更新。
+**待办:** 无
+
+
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015222812-1779889431666.218%26ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1MjIyODEyLTE3Nzk4ODk0MzE2NjYuMjE4IiwidGl0bGUiOiJoZWFkZXItbG9nbyIsInR5cGUi
+
+---
