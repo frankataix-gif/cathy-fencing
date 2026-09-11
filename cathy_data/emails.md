@@ -23427,3 +23427,31 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTJ9ADIAAAAAANKxI5B1BaTuqA
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTJ9ADIAA
 
 ---
+
+## [其他] Il rinnovo dell'offerta non è andato a buon fine
+
+**发件人:** iliad <noreply@iliad.it>
+**日期:** 2026-06-19T05:17:39.000Z
+**摘要:** 
+**待办:** 无
+
+La tua offerta non si è rinnovata
+[image: iliad]
+
+Ciao JINGQI, 
+
+la tua offerta iliad per la linea *3520301513* non è stata rinnovata perché 
+la carta di pagamento utilizzata non accetta l’addebito mensile automatico.
+
+Aggiorna qui 
+<https://www.iliad.it/account/dati-personali/status-dei-pagamenti> il 
+metodo di pagamento e scegli l’addebito su carta di credito o IBAN per 
+riattivare il servizio a partire dal prossimo mese ed evitare che la tua 
+offerta non venga rinnovata.
+
+Grazie,
+Team iliad
+
+
+
+---
