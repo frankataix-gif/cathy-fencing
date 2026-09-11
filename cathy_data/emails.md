@@ -9496,3 +9496,25 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t245783d,409
  https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d71&e=Y2lkPXR
 
 ---
+
+## [营销] ⏰ Long weekend, big deals.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-04T18:09:25.000Z
+**摘要:** BestBuy.ca 发送周末大促销信息，并提示用户设置密码以激活账户。
+**待办:** 设置密码以激活账户
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYX8zwdCshxhTQxpQ87qVrM30kRe46Yj3BTe4g5zpeVDSUvuCRp5YTVlMUTacEawq-DT6qXY50OrG5pjeiHvlh6sIJUSfD9WeIuC3Ys&CMP=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2488059&l=37_HTML&mid=7210119&jb=3133&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-
+
+---
