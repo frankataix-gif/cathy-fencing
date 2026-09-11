@@ -1721,3 +1721,33 @@ For any queries please contact Hertz Customer Service at www.hertz.co.uk/FAQ
 We look 
 
 ---
+
+## [其他] GLS Italy - Spedizione [M7661762562] partita
+
+**发件人:** "noreply@gls-italy.com" <ticket.sellsend2@gls-italy.com>
+**日期:** 2026-04-03T15:50:14.000Z
+**摘要:** 订单000004364已发货，提供跟踪链接和收货地址信息。
+**待办:** 无
+
+
+
+
+
+Gentile Natalie Wu,
+ti informiamo che il tuo ordine SPORT 3000 PAVIA SRL numero 000004364 è 
+partito.
+
+Puoi seguire lo stato d’avanzamento della spedizione direttamente dal sito 
+GLS al seguente indirizzo:
+Tracking 
+<https://tracking.sellsend2.gls-italy.com/794b59632f3611f18a5142010a58b012>
+
+Qui di seguito trovi i dettagli dell’indirizzo di spedizione comunicato:
+Natalie Wu
+
+Residenza Pacchi, 8 20079 Basiglio MI
+
+Cordiali saluti
+
+
+---
