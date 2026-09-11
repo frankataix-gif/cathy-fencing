@@ -21283,3 +21283,196 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9AAcAAAAAA5ZGjQyxb7TtdVh
 h
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-04T20:12:00.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+B4NHSAVS
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] Government of Canada - Please Verify Your GCKey Email
+
+**发件人:** nepasrepondre-donotreply@clegc-gckey.gc.ca
+**日期:** 2026-07-04T20:10:24.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Canada] 
+Hello HeYunXiStudyPV 
+
+Please verify your email address using the following confirmation code. 
+This code will expire after 12 hours. If you did not make this change or 
+believe your account has been accessed by an unauthorized person, please 
+contact 1-855-438-1102.
+99SXWQNC 
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] Enjoy $7 off your next two orders of $10 or more!
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-04T16:06:09.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash Delivery, just how you like it. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+
+---
+
+## [其他] Ends tomorrow: Up to 50% off everything
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-04T14:07:29.000Z
+**摘要:** 
+**待办:** 无
+
+It’s already almost over.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌ 
+
+---
+
+## [其他] Come coltivare la citronella anti-zanzare in casa
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-07-04T13:00:36.000Z
+**摘要:** 
+**待办:** 无
+
+Coltivare pianta della citronella — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Le offerte estive in outlet iniziano ora
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-04T08:01:11.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+
+---
+
+## [其他] Sono iniziati i saldi fino al -50% 🎉
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-04T06:20:15.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAAAAAAQFRzqxuydDdk11GCAkuN_xLdUNSevCzueg9Fye2WzUEd96TabzxMx88-W2fbI_y-nHp0JbDxV29CNwhWH7lJRyq0IgwcmJ4545iJQy- 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAAAAAAQFRzqxvRyTLtkPv4WETUvjdehcxoSqdrgv04bNTaRFEDMaytYVgVTN1U-6nrASFk9_GI2hOFp0BgsGppuCTmLUQTUkmqZb51HLz5fh6 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAA
+
+---
+
+## [其他] 狂賞預熱‼️激推多人出遊半價優惠🥳
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-04T00:23:43.000Z
+**摘要:** 
+**待办:** 无
+
+半價旅行團最啱一家大細、一班老友去旅行💥93折優惠券折上折+10%回贈💰即睇👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101541960-1783124594721.592%26ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE
+
+---
+
+## [其他] ⚠️ 您的 Gmail 存储空间已使用 91%
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-07-03T21:50:08.000Z
+**摘要:** 
+**待办:** 无
+
+请获取更多存储空间或清理空间
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+
+
+
+您的 Gmail 存储空间已使用 91‍%
+
+
+
+已用 13.65 GB 15 GB
+
+
+
+您的 Google 云端硬盘、Gmail 和 Google 相册共用 15 GB Google 账号存储空间，您 
+已使用 13.65 GB。存储空间用尽后，您将无法：
+
+
+
+使用 Gmail 收发电子邮件
+
+
+
+
+将新的照片和视频备份到 Google 相册
+
+
+
+
+将新的文件上传到 Google 云端硬盘
+
+---
