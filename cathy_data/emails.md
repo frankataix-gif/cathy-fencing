@@ -20103,3 +20103,15 @@ Regards,
 
 
 ---
+
+## [营销] 最後機會‼️9PM 搶盡內地優惠
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-10T04:48:07.000Z
+**摘要:** Trip.com推送上海机票和酒店优惠，包含高铁券及六折酒店套餐。
+**待办:** 无
+
+HK$799 上海機票✈️HK$1 入手高鐵＋酒店券包，仲有內地專家推介必住酒店集團 6折起🌟
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154806-1783658809783.549%26ouid%3D454666.HK-20260710-eDM-77mega.2026-07-10_8_0.20260710.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D454666.HK-20260710-eDM-77mega.2026-07-10_8_0.20260710.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMD
+
+---
