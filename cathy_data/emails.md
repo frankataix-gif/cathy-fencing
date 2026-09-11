@@ -15258,3 +15258,20 @@ Smart Inbox
 您可任选您想看到的通知，优先提醒来自重要发
 
 ---
+
+## [其他] Jingqi, welcome to TELUS Rewards
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-08-04T19:52:31.000Z
+**摘要:** Jingqi被欢迎加入TELUS Rewards，成为Purple等级会员，享有多种年度福利和优惠。
+**待办:** 无
+
+Discover all the benefits that come with being a member.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdcfdefa,4088f1ca,2ae1d116&e=Y2lkPXRlbERNMjI1MTA4OSZiaWQ9LTM2NzA4NjE0JnAxPSU0MHVNdmQwNG9UREROTGVYSEdYYUl4Tm5RNE11YiUyQkhZWWZoMHA5TFRialFPWSUzRA&s=sBdRANMk6sdR0oQGBbK-vGrRAGwEBJddwj7k4Mm5bbY web browser . 	
+ https://t.info.telus.com/r/?id=tfdcfdefa,4088f1ca,2ae1d117&e=Y2lkPXRlbERNMjI1MTA4OSZiaWQ9LTM2NzA4NjE0&s=VTRIXFpIEhUsX6fKm3m8WeonbDg8tKSqiY5NMbFZ_0k 	
+	
+
+TELUS 
+
+---
