@@ -3231,3 +3231,22 @@ Thank you.
 
 
 ---
+
+## [其他] Your Code - 710313
+
+**发件人:** Telegram <noreply@telegram.org>
+**日期:** 2026-03-13T21:46:53.000Z
+**摘要:** 邮件包含验证码710313，用于登录时的邮箱验证。
+**待办:** 输入验证码710313以验证邮箱并登录。
+
+Hello
+
+Your code is: 710313. Use it to verify your email for Login.
+
+If you didn't request this, simply ignore this message.
+
+Yours,
+The Telegram Team
+
+
+---
