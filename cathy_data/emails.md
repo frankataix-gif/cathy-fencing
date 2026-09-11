@@ -3819,3 +3819,23 @@ Natalie，你好！
    https://zh.ai
 
 ---
+
+## [待办] 请在 iPhone 上完成新 Google 账号设置
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-01-30T13:42:37.000Z
+**摘要:** Google 发来邮件提醒在 iPhone 上完成新账号设置，并附有相关链接。
+**待办:** 在 iPhone 上完成 Google 账号设置
+
+您好！
+
+开始在 iPhone 设备上设置新 Google 账号
+
+请花一点时间在设备上设置 Google
+
+开始设置 
+<https://c.gle/AHvOEDnuEoohWznrHlB-1dR2h_kvElbfskN-uGcS01m4BmAF2AdimcKbaSqfx6Fl00vQXiB-tZowbpwL4UrqftPxNPBQlbsXgu7hwhm9UsY4-Ll2rwsFdQG9cue3obAlpGdA95y9FEU2d4Lcv7RMAxAnT4JydVxQcR9SbrFMjQX-eDepmyzMwxm_XH7Mc0YH3ODLoWuQihuvDTY3yCklBQrXl-yLBaH7RE5kySRxa4Mbi0VGRZ7yAEZ_8KM80By4zjbrwiVGAWefS-sX9YE9DTQsQqcYTTEgpt_U9POXWUtLu5GKpHw6hXbBOQ9xcnSFArsgw1_WHKuawkaVMo0JY5zM2Q?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com<nataliewu100@gmail.com> 发送这封电子
+
+---
