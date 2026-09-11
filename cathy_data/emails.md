@@ -12525,3 +12525,21 @@ Your Home Insurance Quote #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WbAZc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ48LJZo-2FoXRPuQcM7BSR54EiXHs0-2BShQ4t5v8vnonSdRgb9XyJe-2BIwiUWgjRcFpSpw6eJYbpMds-2FhI1jH4fiJpMNC2sa0hKywDnzkee1VBHCocMUiamTJjCLFzfNp6up3Gp9H3pLlof
 
 ---
+
+## [其他] Your insurance quote has been saved.
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-21T21:45:56.000Z
+**摘要:** 邮件提醒Jingqi其保险报价已保存，并提供链接继续处理，同时列出在线账户的多项功能。
+**待办:** 无
+
+ 
+Link enclosed to retrieve and continue your insurance quote with Square One. 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WRLGl_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQog6BOyVLKlEjI14UEihaZfuxEJoqS7QQo6m0tdAJsmKZT2hRbSxJSzsXSureP6vuP5v0dcrG9qrcQVBlV1B7RzEtDhASaq4NYfrnnAjoYbonLAm7-2FkRMRvpSzD5Y
+
+---
