@@ -10036,3 +10036,16 @@ GO TO VERIFICATION CENTER
 <https://link.payoneer.com/Token?t=5A4E6854878A4EC7B71B66D8
 
 ---
+
+## [其他] Your Payoneer account was connected successfully, XIAOJUN!
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T10:00:12.000Z
+**摘要:** Payoneer账户已成功连接，可开始接收付款，未来可能需提供更多信息以确保安全。
+**待办:** 无
+
+ 
+[image: payoneer] 
+<https://notificationeventsservice.payoneer.com/api/v2/LinkEvents/Redirect?tk=v1.GnfAQzHBU1D3uB7fcHH0F97X8QnCHIm%2B2cSwGdluWBID%2FKoY2%2FjLkgmCgGt5x%2FLV9UNQjz1DNaRbPQhj7ijIBBJYpoVDHbs%2FLrdhUpoE%2BHWoSaZOHbS8631a5kwuGhPjLzzBy%2BYIwAIGolcLcX7WG4LFI%2BDQLFwn5DCvQnYeYq7lfosMxV0biusySpcsS4%2BSt7byUQ%2ByuuQcOWh%2By1KBcacLbUUSIEPJtI9w3AuRk6W0fT6WmD1FXv8ZB45Uf7C8efP9dfXpwsZmgOW3RNPYro3Hge9KFRcR%2FSLl9rUriTMmVpN3xaAE8Ybtbzn1sYd75x0BOCUNze6g5rjAqC20LA%3D%3D&URL=https%3A%2F%2Fwww.pay
+
+---
