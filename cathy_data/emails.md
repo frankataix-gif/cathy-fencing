@@ -13764,3 +13764,34 @@ Care for spots on the go.
 <https://app.sephora.com/T/v61000001a0006d84f8883db2f4bbcfb920/75f139b22813430d0000021ef3a0bcc2/75f139b2-2813-430d-8610-
 
 ---
+
+## [营销] RE: FW: Benhams - Flat 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** "Maciej Skalski (Benham and Reeves)" <Maciej.Skalski@benhams.com>
+**日期:** 2026-08-14T10:59:42.000Z
+**摘要:** 邮件讨论了伦敦码头房产的销售定价策略，建议以47.5万英镑上市，并分析了当前市场供需情况及竞争环境。
+**待办:** 无
+
+Dear Frank
+
+
+
+I hope you’re well. It’s nice to speak with you again. Jenny originally
+introduced me to your flat back in January.
+
+
+
+Thank you very much for requesting a sales valuation of your unit at London
+Dock.
+
+
+
+I can see that the property is currently being marketed with Glencoe
+Property at £490,000. We currently have a Manhattan-style apartment in
+Emery Way, which is a fantastic size, marketed at £475,000. We have
+received offers in the region of £430,000–£450,000.
+
+
+
+
+---
