@@ -8634,3 +8634,27 @@ Verdana, Arial, sans-serif !important; }     96
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154150140-1788842200034.520%26ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE1MDE0
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-08T03:26:02.000Z
+**摘要:** Lululemon邀请用户分享新产品的使用体验，特别是通过带照片的评论来帮助其他顾客和改进产品。
+**待办:** 无
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new Hotty Hot High-Rise Lined Short 2.5"? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Hotty Hot High-Rise Lined Short 2.5"] 
+Hotty Hot High-R
+
+---
