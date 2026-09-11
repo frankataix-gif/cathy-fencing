@@ -26547,3 +26547,17 @@ Our exclusive, limited-edition collab just dropped.
 <https://e.em.hollisterco.com/c2/1979:69fc921a783ca505420a3734:ot:69e6429a87fa4e894f0fac35:1/d8fb9409?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzg0ODQzNTgsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmYzliOGJmMzQ4YmM2YmQwMDkwZjI2IiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJj
 
 ---
+
+## [营销] Our favourite tees & tanks.
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-09T06:44:12.000Z
+**摘要:** Hollister推荐夏季必备的T恤和背心，鼓励客户为夏季购物。
+**待办:** 无
+
+Hollister Co. 
+  
+Stock up for the summer. 
+<https://e.em.hollisterco.com/c2/1979:69fa262231dfec2c4d009274:ot:69e6429a87fa4e894f0fac35:1/918e6a03?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzgzMDkwNTIsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmYTI5MzlkNGIyYTU1NmQ4MGQ0OGQwIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1
+
+---
