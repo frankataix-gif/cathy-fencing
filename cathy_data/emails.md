@@ -2198,3 +2198,27 @@ Newsletter 27/03/2026 — idealista/news     | Lunedì 23 Marzo 2026 | Giovedì 
 Che succede 27/03/2026 — idealista/news                Con la guerra in Iran "siamo davanti a un vero shock, che probabilmente va oltre quello che immaginiamo al momento": E i mercati finanziari "forse sono troppo ottimisti e determinati a restare ottimisti, nella speranza che si verifichi uno scenario positivo e si torni alla normalità in un tempo relativamente breve". Lo ha detto la presidente della Bce, Christine Lagarde, intervistata dallEconomist spiegando, in merito ai tempi di un ritorno 
 
 ---
+
+## [学校] Re: Meadowridge: Zoom Assessment - Thurs. March 26, 9:30am PT
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-03-26T18:47:45.000Z
+**摘要:** Frank回复Adrian，确认Cathy将尽快参加SSAT，并期待家长面试安排。
+**待办:** 安排Cathy参加SSAT
+
+Dear Adrian,
+
+
+Thank you very much for your time today. Cathy truly enjoyed her 
+interview and found the conversation very engaging. We also sincerely 
+appreciate your thoughtful suggestions regarding the living areas in 
+Vancouver; that information is incredibly helpful as we plan our 
+family's transition.
+
+Regarding the next steps, I will have Cathy take the SSAT as soon as 
+possible.
+
+Our family is very excited about the possibility of joining the 
+Meadowridge school. We look for
+
+---
