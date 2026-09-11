@@ -19499,3 +19499,24 @@ If you were not trying to log in to ChatGPT, please reset your password
 <https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0v2VhH5-2BE0zo7ACY99-2FinDaFd7n4QXFQ88vaAvg4Yh-2FvnUDCf4-2BAFFfzo-2Fq7TrRncfLPouhbxwQ5rhmu-2BvEVX60wboc_
 
 ---
+
+## [其他] A new security key or passkey was added to your account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-07-12T18:08:19.000Z
+**摘要:** 通知用户有新的安全密钥或密码添加到账户，建议检查账户安全。
+**待办:** 检查账户安全，确认是否为本人操作，必要时按照指南采取安全措施。
+
+ A new security key or passkey was added to your account 
+A new security key or passkey was recently added to your account 
+
+New security key or passkey added 
+
+Hi there, 
+
+A new security key or passkey was added to your account. 
+
+If this was not you, visit our Account Security Guide 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0t1xY3nTB7xF59g56Y9vaQn6tm1QOZqUDgslSYL1QogarBvVytiVgVbGDZp9aVzvoDGNxiYj-2BzMsYqDGS6s6b8PsGMx_-2F-2FN5zRB8Vr4d3tj4Q
+
+---
