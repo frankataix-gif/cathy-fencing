@@ -20003,3 +20003,18 @@ to the following property:
 <http
 
 ---
+
+## [营销] Dream homes with pools for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-10T16:09:09.000Z
+**摘要:** 这封邮件是Rightmove推送的当前正在出售的带泳池的梦幻房产列表。
+**待办:** 无
+
+We're dreaming of a cool dip in one of these pools right now
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/WbXMZd9M4-Uy5U19WwwK2Q~~/AAAHahA~/4hCFEV3HFjua94q75BnNZekn-bHmbWDg4SgYaFLqXdE4KwaqXRpYPDlIXQNiFpJ_IYGwUCHtuYpNtF2k-7D4XV7Ot86G7K2iWMzB2tLy4L713uFY4EStNJsKGh82lwaO6-E9zi9k2Lg827xtn8drrdoyJHtTdV0v-4Feqj-Kx-8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/cNKhRxFbHsRzdAVJz-IsCg~~/AAAHahA~/7rrTte3iDb4-M2gMRBOYh46umLnRxhr9-1eVl9sBf78X5RwVrnxlv_WiKCcNbnTiWZV9vzaK3G8L7RrbwKTcPLJu4UUC
+
+---
