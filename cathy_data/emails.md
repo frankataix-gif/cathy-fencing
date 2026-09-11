@@ -1919,3 +1919,18 @@ decline this offer, please log into the Application Portal
 <https://track.pstmrk.it/3s/meadowridge.fsenrollment.ca%2F
 
 ---
+
+## [其他] Warehouse and loft apartments from £525k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-04-02T16:24:49.000Z
+**摘要:** Rightmove推出价格从52.5万英镑起的仓库和阁楼公寓，主打工业风格和宽敞空间。
+**待办:** 无
+
+Spacious loft-style homes with industrial heritage.
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/lq9xRZt1iDJhWcT3vXUitw~~/AAAHahA~/SymTU7T9VuaVkhkMgPf0u1_rSQVYXdawiYvKmMM-M8cKtHcY7FglULC3Vf7AxVmJGUUotrlyUCWWG3VUiYxwOZU3BqQLq-KMvLxNcdH95kZM_cUZFfD4gADAml_hkC-s68jVGiaZ_q4XFVL03UYcsVOliOtmUvC7OtoJtJeOt9I~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/J99brCOrnFOh_3Ym5ClxBA~~/AAAHahA~/dJCGAGe0f6YVMXQmkFfjqIjLUIJjVdNm0NNEXL3jkiRJThIlTVH3hVm2TizaVNOxEvx200RPsRqVGBSEe8HHYAxgTSf8uQ9bP7r3U
+
+---
