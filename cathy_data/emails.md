@@ -26017,3 +26017,16 @@ natalie，您好！
 La mappa delle case a 1 in vendita in Italia nel 2026 — idealista/news    La lista dei caratteristici borghi nei quali si vendono le case a 1 euro in Italia è in continua evoluzione. Dalla Sicilia alla Basilicata, passando per Calabria, Molise, Liguria e Toscana. Che si tratti di immobili nei pressi del mare o in montagna, lelenco dei Comuni con immobili in vetrina è davvero ampio. idealista/news ha preparato una mappa per scoprire tutti i bandi di case a 1 euro nel 2026 e una guida per sapere c
 
 ---
+
+## [其他] Che succede 21/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-21T07:22:27.000Z
+**摘要:** 这封邮件似乎是一个测试或模板，内容为空白且没有实际信息。
+**待办:** 无
+
+Che succede 21/05/2016 &mdash; idealista/news
+
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
