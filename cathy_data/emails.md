@@ -10727,3 +10727,17 @@ Best regards,
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154252159-1788310126277.828%26ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDI1MjE1O
 
 ---
+
+## [营销] Welcome to Browns!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-02T00:15:29.000Z
+**摘要:** 这封邮件是Browns Shoes的欢迎邮件，宣传其时尚、舒适和高质量的鞋子，并提供快速配送和立即购物的链接。
+**待办:** 无
+
+Enter a world of style, comfort and quality.
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1mZgd3pphdc24Uaa8Xf8zEuB8gyV73K778TWzkzgfTF4-3DSwye_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANeTWvU0ZChTJ8HbiMvwFBnI16THdkc8mXsr2PWrG9tzdT0Obd-2BkTnOJh3cBIpjyE1zfWMocp6ET6s3SbOwFHTEWNt-2BoybF9SM5-2FMlGUP7YjEByI5Gdvk5WAUbcmCcVuW2nC4tirq8Noayzhn
+
+---
