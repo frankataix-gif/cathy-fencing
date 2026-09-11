@@ -17923,3 +17923,18 @@ TELUS（Naeim Asady） - 主题： Re: 708 Farrow st - 状态： 仍未处理 - 
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEAVdHYDjGHR1dVlsxhf8Pd26ZkN6DDldj8wYPzGCiE4IYBqyIEZlGaUyGYwxF87ZVTlg2YTO8UlmNVrm7QTpnf5IkjGaS-2FYiJ6L4Fe5hQ5kpEtYGfr6POzitvKwiPgJKq4fCMSvGZR-2FmQxNBTpKL7Fw71PAr-2BtfcROGs
 
 ---
+
+## [待办] [Task Update] Email Monitor: TELUS邮件仍待你尽快回复
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T15:01:19.000Z
+**摘要:** 需回复TELUS邮件确认服务转移事宜，提前终止合约需支付每月20加元解约费。
+**待办:** 回复TELUS邮件，确认服务转移及解约费用事宜
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的需要你立即处理的重要邮件。 仍然值得关注的是： - 
+TELUS（Naeim Asady） - 主题： Re: 708 Farrow st - 时间： 昨天晚上 7:03 PM（温哥华时间） - 
+重要程度： 高 - 内容摘要： - 可以将你的 TELUS 服务转移到新地址。 - 如果提前终止合约，需要支付每剩余一个月 20 加元的提前解约费用。 
+- 对方表示如果你有任何问题，可以直接回复邮件。 我... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVH-2BUrp-2FvI1mVugN7GQtavpV8gaNkOu-2B4QI7zAuBDCQNZUJZ74SlFExFRlCU0OCSFztNxF4D1dLG-2B3QoU8HeyCla8XH8ATYjScOeyqxGO3IUx1UoHa3wdi99tH27luXLrjI6GU7S6i8oTUaxDuCcJGNUEwD-2BMnDdHb
+
+---
