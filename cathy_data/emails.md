@@ -1056,3 +1056,32 @@ Che succede 16/04/2026 — idealista/news                   Le piattaforme digit
 
 
 ---
+
+## [营销] Il tuo sconto ti sta aspettando ❤️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-16T05:31:37.000Z
+**摘要:** 这封邮件是Oltre的促销通知，包含折扣信息、免费取货和退换货服务，以及新品到货提醒。
+**待办:** 无
+
+
+  
+ 
+
+ 
+
+
+https://view.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDh9ADIAAAAAAArfumITkb8tyjGW-LiCQa5_xWNjzkRV59VfAzWQl5X8AlczEr90knB9r1bnGsiZBOcXEKire3ICCxFMs0FlGTnpJYxl89WLoyzK81kTCZZpY-MzqGCgACB6OPZeM8YT 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+Fidelity card 2939333454571
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDh9ADIAAAAAAArfumIUxIZ0ZZwXZ2-4kuDKgI0zeR5AOYz8YPGaOC-aD4lAtgRUW8WEibKnCbeezaEPYGbd6mg-mMtSWRr7yaGxHQm9X6_EsNMwsFE 
+
+
+https:
+
+---
