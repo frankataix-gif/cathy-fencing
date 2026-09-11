@@ -13291,3 +13291,20 @@ Loro Piana Royal Lightness® 与 The Gift of Kings® 
                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 ---
+
+## [学校] Important Information for September
+
+**发件人:** Natalie Blomly <Natalie.Blomly@meadowridge.bc.ca>
+**日期:** 2026-08-17T23:00:20.000Z
+**摘要:** 提醒家长完成秋季学期准备清单，并介绍新家庭门户和新增校车站点信息。
+**待办:** 无
+
+Hello everyone,
+
+I hope you're all having a fantastic summer and finding some time to relax and enjoy the sunshine!
+
+I just wanted to send a friendly reminder to continue working through the items on the attached checklist as you prepare for the upcoming school year. For those of you just completing registration, please see attached checklist to help guide you through the many steps. Completing these tasks over the summer will help make for a smooth start in September.
+
+If you haven't alre
+
+---
