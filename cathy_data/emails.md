@@ -2475,3 +2475,28 @@ Il tuo ordine #000004364
 Effettuato il
 
 ---
+
+## [营销] Benvenuto a Sport Industries
+
+**发件人:** Sport Industries <info@sportindustries.store>
+**日期:** 2026-03-21T13:06:45.000Z
+**摘要:** Sport Industries向Natalie Wu发送欢迎邮件，提供账户登录信息和功能说明
+**待办:** 无
+
+ 
+[image: Sport Industries] <https://www.sportindustries.store/> 
+
+Natalie Wu,
+
+Benvenuto su Sport Industries.
+
+Per accedere al nostro sito, è necessario utilizzare queste credenziali 
+durante il checkout o sulla pagina Mio Account 
+<https://www.sportindustries.store/customer/account/>: 
+Email: nataliewu100@gmail.com 
+Password: *Password impostata durante la creazione account* 
+
+Hai dimenticato la password dell'account? Clicca qui 
+<https://www.sportindustries.store/customer/account/createPasswo
+
+---
