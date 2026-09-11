@@ -13464,3 +13464,15 @@ Shop the app for exclusive drops and new deals every day.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
 
 ---
+
+## [营销] 你嘅台北專屬優惠到啦😍🔔
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-17T00:37:05.000Z
+**摘要:** Trip.com推送台北酒店3折优惠及机票信息
+**待办:** 无
+
+天閣酒店低至3折🤑收工即刻出發🏃快閃台北👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015232161-1786926858707.742%26ouid%3D480405.HK-20260817-edm-brandspotlight.2026-08-17_8_0.20260817.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D480405.HK-20260817-edm-brandspotlight.2026-08-17_8_0.20260817.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1MjMy
+
+---
