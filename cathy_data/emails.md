@@ -7362,3 +7362,26 @@ Congratulations on successfully running your first automation! Every scenario yo
 Experiment with new scenarios, try AI-powered automations or explore pre-built templates below — the possibi
 
 ---
+
+## [其他] 🛑 Encountered 2 errors in Integration Webhooks scenario
+
+**发件人:** Make <noreply@us2.make.com>
+**日期:** 2026-09-10T16:33:15.000Z
+**摘要:** 邮件通知用户Integration Webhooks场景出现2个错误，需关注日志中的'Bad Request'和'unknown action'问题。
+**待办:** 无
+
+Make [https://cdn.make.com/img/make/make-logo-150x48@2x.png]
+Make [https://cdn.make.com/img/make/make-logo-dark-150x48@2x.png]
+
+
+ENCOUNTERED 2 ERRORS IN INTEGRATION WEBHOOKS SCENARIO
+
+Your scenario Integration Webhooks has encountered 2 errors in last 5 minutes.
+
+The scenario has not been paused and continues to run according to your
+settings. Nevertheless, you should pay attention to the issue.
+
+ * Scenario: Integration Webhooks
+   [https://us2.make.com/2922292/scenarios/6224881/log
+
+---
