@@ -21927,3 +21927,25 @@ Enjoy 30% off ALL Sephora Collection and 2X points on all products.
 <https://app.sephora.com/T/v610000019f1de8101da3f7ae6e96c660f0/9ebef1740abc4da
 
 ---
+
+## [其他] Don't miss your first E-Bill! Complete Self Serve Registration.
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-07-01T09:03:57.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Complete your Koodo Self Serve registration today, so you can view your 
+bill details, select your Add Ons, and do so much more!
+
+Got a question? Get answers fast with Koodo Assist at koodo.com/help 
+
+Register now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew
+
+---
