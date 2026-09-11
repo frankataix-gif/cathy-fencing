@@ -46,6 +46,23 @@ export default {
       return json(result);
     }
 
+    if (body.action === 'email_summary') {
+      const prompt = buildEmailSummaryPrompt(body);
+      try {
+        const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
+          messages: [
+            { role: 'system', content: '你只能输出 JSON，不允许解释。' },
+            { role: 'user', content: prompt }
+          ]
+        });
+        const text = (res && res.response) ? res.response : '';
+        const parsed = extractJson(text);
+        return json(parsed || { error: 'parse failed', raw: text });
+      } catch (e) {
+        return json({ error: e.message || 'ai failed' }, 500);
+      }
+    }
+
     if (body.action === 'email') {
       const email = body.email || body;
       const subject = email.subject || '(no subject)';
@@ -223,6 +240,49 @@ async function classifyEmail(env, email) {
     }
   } catch(e) {}
   return { category: keywordCategory || '其他', summary: '', todo: '无', raw: rawText };
+}
+
+function buildEmailSummaryPrompt(body) {
+  const date = body.date || new Date().toISOString().slice(0, 10);
+  const previous = body.previousSummary || null;
+  const emails = body.newEmails || [];
+  const emailLines = emails.slice(0, 30).map(e =>
+    `- 分类：${e.category || '其他'}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 120)}，待办：${(e.todo || '无').slice(0, 80)}`
+  ).join('\n');
+  const previousText = previous ? `之前已有今日邮件总结，现在新增 ${emails.length} 封邮件，请更新总结。
+
+之前总结：
+- 总邮件数：${previous.total || 0}
+- 分类统计：${JSON.stringify(previous.categories || {})}
+- 之前需要做的事：${(previous.actions || []).map(a => a.title).join('；') || '无'}
+- 之前优先级建议：${previous.priority || ''}
+- 之前一句话总结：${previous.summary || ''}
+
+新增邮件：` : `请基于以下今日邮件，整理一份总结。
+
+今日邮件：`;
+  return `你是 Cathy 家庭的邮件助理。${previousText}
+${emailLines}
+
+请用中文，按以下 JSON 格式输出，不要任何额外文字：
+{
+  "date": "${date}",
+  "total": 总邮件数,
+  "categories": {"击剑": 数字, "学校": 数字, "营销": 数字, "待办": 数字, "其他": 数字},
+  "actions": [{"title": "行动标题（15字以内）", "source": "来源邮件主题", "priority": "高/中/低", "category": "分类"}],
+  "priority": "今日最需要注意的一句话建议",
+  "summary": "一句话总结今天邮件重点"
+}`;
+}
+
+function extractJson(text) {
+  if (!text) return null;
+  if (typeof text === 'object' && text !== null) return text;
+  if (typeof text !== 'string') return null;
+  const m = text.match(/\{[\s\S]*\}/);
+  if (!m) return null;
+  try { return JSON.parse(m[0]); } catch(e) {}
+  return null;
 }
 
 function json(obj, status = 200) {

@@ -679,6 +679,17 @@
 
   <!-- 邮件 -->
   <div id="tab-emails" class="tab-content">
+    <div id="email-ai-card" class="card" style="display:none;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:8px;">
+        <h3 style="margin:0;">邮件 AI 助手</h3>
+        <span id="email-ai-date" style="font-size:0.75rem; color:var(--gray);"></span>
+      </div>
+      <div id="email-ai-summary" style="font-size:0.85rem; line-height:1.6;"></div>
+      <div id="email-ai-actions" style="margin-top:10px;"></div>
+      <div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap;">
+        <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析</button>
+      </div>
+    </div>
     <div class="card">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
         <h2 style="margin:0;">邮件 / Emails</h2>
@@ -2194,6 +2205,7 @@ function circuitLabel(c) {
       requestEmailNotifications();
       showEmailNotification();
       updateEmailBadge();
+      updateEmailAISummary(false);
     } catch(e) {}
   }
 
@@ -2266,6 +2278,124 @@ function circuitLabel(c) {
     if (!allEmails) return;
     localStorage.setItem('cathy_last_seen_email_count', String(allEmails.length));
     updateEmailBadge();
+  }
+
+  function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
+
+  function getEmailAIState() {
+    try {
+      return JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
+    } catch(e) { return {}; }
+  }
+  function setEmailAIState(state) {
+    localStorage.setItem('cathy_email_ai_state', JSON.stringify(state));
+  }
+
+  function countEmailsByCategory(list) {
+    const map = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
+    list.forEach(e => { map[e.category || '其他'] = (map[e.category || '其他'] || 0) + 1; });
+    return map;
+  }
+
+  function renderEmailAISummary(summary) {
+    const card = document.getElementById('email-ai-card');
+    const body = document.getElementById('email-ai-summary');
+    const actions = document.getElementById('email-ai-actions');
+    const dateEl = document.getElementById('email-ai-date');
+    if (!card || !body) return;
+    if (!summary) { card.style.display = 'none'; return; }
+    card.style.display = 'block';
+    dateEl.textContent = summary.date ? `${summary.date}` : '';
+    const cats = summary.categories || {};
+    const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
+      `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
+    ).join('');
+    let html = '';
+    html += `<div style="margin-bottom:10px;">${catTags}</div>`;
+    html += `<div style="font-weight:600; margin-bottom:6px;">今日重点</div>`;
+    html += `<div style="margin-bottom:10px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>`;
+    if (summary.priority) {
+      html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
+    }
+    body.innerHTML = html;
+    if (summary.actions && summary.actions.length) {
+      actions.innerHTML = summary.actions.map((a, i) =>
+        `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
+          <span style="flex:1; min-width:0;">
+            <span style="background:${taskCategoryColor[a.category] || '#6b7280'}; color:#fff; font-size:10px; padding:1px 6px; border-radius:8px; margin-right:6px;">${escapeHtml(a.category || '待办')}</span>
+            <span style="font-weight:500;">${escapeHtml(a.title || '')}</span>
+            <span style="color:#6b7280; font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span>
+          </span>
+          <button class="btn secondary add-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button>
+        </div>`
+      ).join('');
+      actions.querySelectorAll('.add-ai-task').forEach(btn => {
+        btn.addEventListener('click', () => addAiTask(summary.actions[parseInt(btn.dataset.aiTaskIndex)]));
+      });
+    } else {
+      actions.innerHTML = '';
+    }
+  }
+
+  function addAiTask(action) {
+    if (!action || !action.title) return;
+    const title = action.title;
+    const exists = tasks.some(t => t.title === title && t.category === (action.category || '待办'));
+    if (exists) { alert('该待办已存在'); return; }
+    if (!confirm(`将「${title}」加入待办清单？`)) return;
+    const today = vancouverISO().slice(0, 10);
+    tasks.push({
+      id: newTaskId(),
+      title: title,
+      category: action.category || '待办',
+      notes: action.source ? `来源：${action.source}` : '',
+      dueDate: today,
+      completed: false,
+      createdAt: new Date().toISOString()
+    });
+    saveTasks();
+  }
+
+  async function updateEmailAISummary(force) {
+    if (!allEmails || allEmails.length === 0) return;
+    const today = getTodayInVancouver();
+    let state = getEmailAIState();
+    if (state.date !== today) {
+      state = { date: today, summary: null, analyzedCount: 0 };
+    }
+    const todayEmails = allEmails.filter(e => (e.date || '').slice(0, 10) === today);
+    const analyzed = state.analyzedCount || 0;
+    const isUpToDate = analyzed >= todayEmails.length;
+    if (state.summary && isUpToDate && !force) {
+      renderEmailAISummary(state.summary);
+      return;
+    }
+    if (todayEmails.length === 0) {
+      document.getElementById('email-ai-card').style.display = 'none';
+      return;
+    }
+    const toAnalyze = force || !state.summary ? todayEmails.slice(0, 30) : todayEmails.slice(0, todayEmails.length - analyzed).slice(0, 30);
+    const previousSummary = force ? null : (state.summary || null);
+    const payload = { action: 'email_summary', date: today, previousSummary: previousSummary, newEmails: toAnalyze };
+    try {
+      document.getElementById('email-ai-summary').innerHTML = '<span style="color:#6b7280;">AI 正在分析邮件…</span>';
+      document.getElementById('email-ai-card').style.display = 'block';
+      const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+      const data = await res.json();
+      if (data && data.actions) {
+        const categories = data.categories || countEmailsByCategory(todayEmails);
+        const total = data.total || todayEmails.length;
+        const merged = { ...data, date: today, total: total, categories: categories };
+        state.summary = merged;
+        state.analyzedCount = todayEmails.length;
+        setEmailAIState(state);
+        renderEmailAISummary(merged);
+      } else {
+        renderEmailAISummary(state.summary);
+      }
+    } catch(e) {
+      renderEmailAISummary(state.summary);
+    }
   }
 
   function createChips(container, options, type, labelKey = 'label') {
@@ -4264,7 +4394,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v22', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v23', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4631,6 +4761,7 @@ function circuitLabel(c) {
     document.querySelectorAll('#email-filters button[data-filter]').forEach(btn => {
       btn.addEventListener('click', () => renderEmailList(btn.dataset.filter));
     });
+    document.getElementById('email-ai-refresh')?.addEventListener('click', () => updateEmailAISummary(true));
     // 待办编辑器按钮
     document.getElementById('task-editor-close')?.addEventListener('click', closeTaskEditor);
     document.getElementById('task-editor-cancel')?.addEventListener('click', closeTaskEditor);
