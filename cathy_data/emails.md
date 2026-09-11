@@ -19672,3 +19672,31 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.g
 
 ---
+
+## [营销] 改用包年方案，费用节省 16%
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-07-11T20:34:18.000Z
+**摘要:** 邮件通知改用包年方案可节省16%费用，每年仅需19.99美元，会员权益不变。
+**待办:** 无
+
+
+会员权益不变，费用节省 16%
+
+通过短短几秒的简单操作即可改用包年方案。以更少的费用获享同样的存储空间及福 
+利，每年仅需 US$19.99。
+
+改为包年方案 
+<https://c.gle/AKMee0c6H0K6X61WwJ_N3VMUWtfPBvcY5_yZUWabXBzqC29PYt122Kg-LFR9METE4f4skHXOomNZr6qqGkXRYdJewo5Sh79djQt9UINFVHY5_GgvCP25BXyevTUPa_mF8FNRVDDGZpYrSs1Hdrts03tNaO4gc0p3XKfslxyCiHDIQ4eAHLFJoof8Ji3lDi2FZn03avRUz7tBhfUwQAbnp6k-csJ2ekXZLuO_LWDbB9ubsIcpSDtynLVnVbr2F6fthXmUc80kmUxr0WgVhc65DxtGiSgn2q-Mbb_V23kGl6lzknZX5moJBNQ>
+
+
+100 GB :  US$1.99/月 US$23.88/年
+
+当前方案 : US$19.99/年
+
+
+
+方案的定价可能因国家/地区而异。
+
+
+---
