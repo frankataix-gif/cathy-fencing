@@ -2653,3 +2653,16 @@ idee per Pasqua 2026 in Italia — idealista/news
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 18/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-18T10:04:08.000Z
+**摘要:** 邮件内容涉及意大利新能源汽车补贴政策启动及国际油价波动情况。
+**待办:** 无
+
+Che succede 18/03/2026 — idealista/news         Maurizio Cinà
+
+Al via da oggi le prenotazioni per lecobonus. A partire dalle 12.00, ricorda il Ministero delle Imprese e del Made in Italy in una nota, i concessionari potranno prenotare, tramite il portale dedicato, lincentivo rivolto a chi acquista un nuovo veicolo elettrico o ibrido. Per il bonus la legge di bilancio 2021 aveva previsto uno stanziamento complessivo di 150 milioni di euro: 20 milioni annui dal 2021 al 2023 e 30 milioni annui dal 
+
+---
