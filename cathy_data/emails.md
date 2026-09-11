@@ -12086,3 +12086,26 @@ Get up to 80% off in our End of Summer sale.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­
 
 ---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-08-25T08:50:25.000Z
+**摘要:** 银行通知收件人，有支付证明的附件可供查看。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
