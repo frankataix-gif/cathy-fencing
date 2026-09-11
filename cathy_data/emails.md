@@ -3839,3 +3839,38 @@ Natalie，你好！
 我们之所以向 nataliewu100@gmail.com<nataliewu100@gmail.com> 发送这封电子
 
 ---
+
+## [营销] Welcome to Canada Post
+
+**发件人:** Canada Post  <donotreply-nepasrepondre@notifications.canadapost-postescanada.ca>
+**日期:** 2026-09-11T17:37:41-04:00
+**摘要:** 欢迎Jingqi创建加拿大邮政账户，并介绍自动跟踪和邮件通知等免费功能。
+**待办:** 无
+
+Sign in and see what you can do! 
+
+View in browserCanada Post  https://t.notifications.canadapost-postescanada.ca/info2/r/?id=teba96bf,ae644d8,48ae4b9
+
+  	
+
+Welcome to Canada Post 
+
+  	
+
+Hi  Jingqi, 
+
+  	
+
+Thank you for creating a Canada Post account. We’re glad you’re here! 
+
+  	
+
+Get the most out of your experience by trying any of our free and convenient features and services designed to make your life easier. 
+
+  	
+
+Welcome to your new Canada Post account 
+
+ https://t
+
+---
