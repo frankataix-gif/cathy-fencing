@@ -3650,3 +3650,31 @@ Gemini 活动记录以及你拥有的选择
  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
 
 ---
+
+## [其他] 协助我们增强您 Google 账号的安全性
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-02-09T21:27:42.000Z
+**摘要:** 邮件提醒用户添加辅助邮箱以增强Google账号安全性，并提供安全检查链接。
+**待办:** 添加辅助邮箱并进行安全检查
+
+[image: Google]
+
+
+
+添加辅助邮箱
+
+
+nataliewu100@gmail.com
+
+
+
+在您无法访问自己的账号或者我们发现可疑活动时，Google 可以使用您的辅助邮箱确 
+认是您本人。
+添加辅助邮箱，并在安全检查
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/security-checkup?utm_source%3Dgoogle%26utm_medium%3Demail%26utm_campaign%3Dsap%26aneid%3D-9164626223166825356%26sea%3D15%26rfn%3D1770672462493%26anexp%3Dsaprfsm-const--sapef-a13>
+中查看其他个性化安全建议。
+采取行动
+<https://accounts.google.com/AccountChooser?Email=natali
+
+---
