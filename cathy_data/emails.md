@@ -23243,3 +23243,22 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9ADIAAAAAANkNz0Wcp0yIoe
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9A
 
 ---
+
+## [其他] PERK ALERT! Your points balance is inside
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-06-22T06:32:17.000Z
+**摘要:** 
+**待办:** 无
+
+ COG - Net Promoter Score 
+Plus, we'd love your feedback - tell us how we're doing.
+Click here to view online. 
+<https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9AAcAAAAAAwJXfkdRc7naBShUuRItPqizHoqS6p891XHmPE1Ta99E9iCKODifvcqHhXRh7OSTiRp8cvEE1HBHBqihvqc_E5mK1ImrDLznlo6XLg> 
+[image: Cotton On & CO. perks.] 
+<https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9AAcAAAAAAwJXfkdSGZF68kdQVJPevnyPM-h9s6LVL1mG_mjbDKMa7ebPFJzONQq_hiq9er7nCFBdWoZAocXDNnHqKLqxbBfQT26ADRXc2tq43HW-u6E> 
+ 
+
+Membe
+
+---
