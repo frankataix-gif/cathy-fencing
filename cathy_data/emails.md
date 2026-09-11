@@ -3012,3 +3012,17 @@ https://keep.google.com/share?note=1U9PABik6DXy7p1RJXCR1Q_hSjsmiXEfOfAporp9pabuu
 
 
 ---
+
+## [学校] 与您分享的记事：“ASM上学事项”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-15T10:06:41.000Z
+**摘要:** Frank通过Google Keep共享了关于ASM上学事项的记事，包含相关链接。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1Hu7IMghzI6vAc6gyN46TQ7sNm0TXn2mw9c7xWDtP79z0OfzSVjln0LlzlaTGciU&email=nataliewu100@gmail.com&tid=true
+
+
+---
