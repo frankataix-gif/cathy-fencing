@@ -17258,3 +17258,28 @@ GCKey（Government of Canada）登录验证码 - 主题： GCKey Sign-In - 时�
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFgRmfcX6D-2B97QGKt5UG-2BjHmr49NIHVAv3-2BbiqK-2B6hMF61LBCzuj6Fcl3Io9kp-2BTV38t5NjHxioY4bpVcLCCeHNNew873pRdkaGA1ut5Vs3kmHQ0hLkHLPoQ9YSTxZ9poagxXml2LHmDOE6buM7yY3YsAyWj6ru
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-24T02:45:50.000Z
+**摘要:** 邮件包含用于登录加拿大政府服务的一次性验证码
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+7A22RREN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
