@@ -9464,3 +9464,22 @@ HK$99 一口價機票、Mastercard減高達 HK$999、15%回贈等震撼優惠❗
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152122223-1788571156508.305%26ouid%3D497401.HK-20260905-edm-99mega.2026-09-05_8_0.20260905.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D497401.HK-20260905-edm-99mega.2026-09-05_8_0.20260905.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMD
 
 ---
+
+## [营销] Welcome to the World of Ralph Lauren
+
+**发件人:** Polo Outlet Stores <news@mail.ralphlauren.com>
+**日期:** 2026-09-05T01:12:41.000Z
+**摘要:** 这封邮件是Ralph Lauren的促销信息，提供10%折扣，但可能因HTML格式问题无法正常显示，需点击链接查看。
+**待办:** 无
+
+Subject Line: Welcome to the World of Ralph Lauren
+Preheader: Enjoy 10% Off Your Purchase
+
+It looks like your email client might not support HTML formatted email.
+
+Try opening this email in another email client.
+
+Or, open the following link to view this email in a browser:
+https://e.mail.ralphlauren.com/click?ZdJJRb5swFIX5LUjp07raBoxTKdKApSltAyWQleQFGdtQR5gwoJBu2n-f6NotL5P8YvvY597z3WVNe1pJMb5AAL6UispqMtS8n7qSXL_WoU2IZQMbA0IMiwrEiWFQQIH-SWe9fq231WVNL4nBGLehKQwAEZtTWgjKeIEJRTacW_xy0rfTh389
+
+---
