@@ -9789,3 +9789,27 @@ Tesla
                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-04T03:06:25.000Z
+**摘要:** 邮件询问客户对Lululemon新产品的使用体验，并邀请提交包含照片的评论，以帮助其他顾客和产品改进。
+**待办:** 无
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new lululemon Align No Line™ High-Rise Short 6"? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: lululemon Align No Line™ High-Rise Short 6"] 
+lu
+
+---
