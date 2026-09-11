@@ -17078,3 +17078,25 @@ Transaction Detail.pdf - 内容摘要： 银行通知你有一...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFeiuSXrdER4rNADnuy9WnHJUVKArYbjj3VG8Zj6T7YtritkRxtTiNeGm4gOlCpXasTT0dTa4roVDqV-2BlQzpVg-2BUKIIjzKa1-2BD9dEgwm38gwMbt2EXPMuSJjgZYoAHi4jDHpoEwO-2FGNfWb-2FJbxZwKDQpWQ-2BXft
 
 ---
+
+## [营销] Deal Alert: Up to 30% off select small kitchen appliances
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-24T10:07:15.000Z
+**摘要:** BestBuy.ca推出小家电促销活动，部分商品最高折扣30%。同时提醒用户需设置账户密码。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NDd9AAcAAAAABGIseQSAlGE5XR5gAZrM_9g7JPoVuN5ePiiwvOShsVe1bd8nMfdIBq_HNO_8XZGvbAvm-SAFldCrYP1bAAt1C3pqbXwg5g1kyviNRTs6nQ&CMP=eml-bby-pr-tar-2026-07-24-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2439025&l=52_HTML&mid=7210119&jb=999&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-07-24-c_cal-csgsc_glu-gcat
+
+---
