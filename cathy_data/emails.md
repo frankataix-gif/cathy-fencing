@@ -25159,3 +25159,15 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAAAAAAJf9jLohFGSTmy
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAA
 
 ---
+
+## [营销] 商務艙低至 HK$2,XXX ⁉️兩招嘆「星」級體驗🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-01T00:25:04.000Z
+**摘要:** Trip.com 发送商务舱和五星酒店优惠信息，预订可享高额Trip Coins奖励。
+**待办:** 无
+
+【6.6 狂賞預告】商務/頭等艙及五星酒店 HK$2,666 優惠券⚜️預訂賺高達 3,200 Trip Coins💰優質旅程💫由此出發▶️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154117249-1780273503678.220%26ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsa
+
+---
