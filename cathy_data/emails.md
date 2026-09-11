@@ -1934,3 +1934,14 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/J99brCOrnFOh_3Ym5ClxBA~~/AAAHahA~/dJCGAGe0f6YVMXQmkFfjqIjLUIJjVdNm0NNEXL3jkiRJThIlTVH3hVm2TizaVNOxEvx200RPsRqVGBSEe8HHYAxgTSf8uQ9bP7r3U
 
 ---
+
+## [其他] Condominio: dalle novità sulla riforma a come comportarsi in assemblea
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-02T13:00:52.000Z
+**摘要:** 该邮件介绍了关于公寓管理改革的新规定及如何在业主大会上应对的指南。
+**待办:** 无
+
+Condominio: dalle novità sulla riforma a come comportarsi in assemblea — idealista/news    Dalla riforma del condominio alle assemblee. Per cercare di capire meglio quali sono le novità volte a riordinare la disciplina del condominio, modernizzare la categoria degli amministratori condominiali e colmare le lacune della Legge n. 220/2012, ma anche per approfondire alcuni aspetti legati proprio alle assemblee condominiali, idealista/news ha preparato questa breve guida. Una sorta di vademecum per 
+
+---
