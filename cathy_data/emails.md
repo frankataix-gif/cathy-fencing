@@ -2187,3 +2187,14 @@ Cosa fare ad aprile 2026 in Italia? — idealista/news
 Newsletter 27/03/2026 — idealista/news     | Lunedì 23 Marzo 2026 | Giovedì 26 Marzo 2026 Larchitetta Teresa Sapey nata a Torino, ma da oltre trentanni in Spagna, un"italiana di Madrid" come lei stessa ama definirsi, accoglie idealista/news, con la spontaneità e il calore che trasmette anche nei suoi lavori, in un appartamento in una zona centrale della capitale spagnola,con una vista privilegiata sul parco del Retiro. In questa intervista racconta della sua poliedrica carriera e dei tanti proge
 
 ---
+
+## [其他] Che succede 27/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-27T10:31:18.000Z
+**摘要:** Kryalos以7400万欧元出售罗马市中心14.7万平方米的商业地产给瑞士和西班牙的公司，该物业目前租给Ivass至2029年。
+**待办:** 无
+
+Che succede 27/03/2026 — idealista/news                Con la guerra in Iran "siamo davanti a un vero shock, che probabilmente va oltre quello che immaginiamo al momento": E i mercati finanziari "forse sono troppo ottimisti e determinati a restare ottimisti, nella speranza che si verifichi uno scenario positivo e si torni alla normalità in un tempo relativamente breve". Lo ha detto la presidente della Bce, Christine Lagarde, intervistata dallEconomist spiegando, in merito ai tempi di un ritorno 
+
+---
