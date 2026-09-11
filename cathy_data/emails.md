@@ -11237,3 +11237,40 @@ thank you!
 > Th
 
 ---
+
+## [学校] Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T20:33:28.000Z
+**摘要:** 邮件询问是否在学签申请中附上录取通知（LOA），并提及有LOA的案件处理时间较短。
+**待办:** 无
+
+Natalie 您好，
+
+附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+
+请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+
+我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with
+
+---
