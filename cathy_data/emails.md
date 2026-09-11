@@ -2539,3 +2539,32 @@ Newsletter 20 marzo — idealista/news     | Mercoledì 18 Marzo 2026
 *************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [学校] Fwd: Materials for Upcoming Science Project
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-03-20T10:41:41.000Z
+**摘要:** 老师通知家长协助孩子准备科学项目所需的回收或家庭材料，并要求学生在3月30日前带齐。
+**待办:** 无
+
+
+
+
+-------- 转发的消息 --------
+主题: 	Materials for Upcoming Science Project
+日期: 	Fri, 20 Mar 2026 11:16:26 +0100
+发件人: 	Joel Powley <jpowley@asmilan.org>
+
+
+
+Dear Parents,
+
+In 6th grade science we are starting an engineering project in class 
+where students will design and build a product using only recycled or 
+household materials.
+
+The students have already made a rough list of what they will need. I am 
+asking for your support in helping your child bring in these materials 
+from ho
+
+---
