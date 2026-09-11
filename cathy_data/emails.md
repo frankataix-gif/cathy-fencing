@@ -1863,3 +1863,28 @@ Your registration process involves the following steps *to be **completed **with
    account*. (You may receive an automate
 
 ---
+
+## [学校] Re: Meadowridge: Offer of Enrolment
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-04-02T23:33:19.000Z
+**摘要:** Frank确认接受Cathy的入学录取，并已完成相关表格提交。
+**待办:** 无
+
+Dear Natalie
+
+Thank you very much for your email and the formal offer for Cathy to 
+join Grade 7 at Meadowridge School.
+We are absolutely thrilled and I have just completed the Decision Form 
+in the Application portal. We look forward to fulfilling the remaining 
+enrolment steps and fee requirements as requested.
+
+We are excited for Cathy to start her journey at Meadowridge this 
+September. Thank you once again for your warm welcome and support.
+
+Best regards,
+Frank & Mom
+
+在 2026/4
+
+---
