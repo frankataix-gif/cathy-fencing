@@ -10263,3 +10263,25 @@ Reset your password here: (optional)
 If yo
 
 ---
+
+## [待办] Activate your phone and transfer your phone number to TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T21:53:34.000Z
+**摘要:** TELUS通知用户新设备已准备好，需按照步骤激活并转移电话号码。
+**待办:** 按照邮件中的步骤激活手机并转移电话号码
+
+ Telus 
+Trouble viewing this email? View in web browser 
+<https://m.i.telus.com/nl/jsp/m.jsp?c=%400de3ftyi290zbNilRvCaxJEOt3iX7CzczRx93THAf1w%3D> 
+Welcome to the TELUS family – we're excited to have you with us! 
+
+Your new device is ready to go with your TELUS phone number: xxx-xxx-4907. 
+Below you'll find everything you need to get started. 
+Bring your existing number 
+Bring your number from your previous provider with these steps:
+Before you start: 
+   
+   - Keep your old SIM card active (or e
+
+---
