@@ -25438,3 +25438,28 @@ HK$1,099👉快啲打開 App 搶‼️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] CONTINUANO I SUNNY DAYS | Fino al -50% ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-28T07:07:16.000Z
+**摘要:** 邮件内容为Oltre的促销通知，包含多款商品的折扣信息，如服装和新品到货，并提供免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAAAAAAIxL4UIiPEVHm1MblOMbgVKRKmbj5CLHL3UhN8thDIu0jDQoIht2njS8F7c1r8M3Ki2r3cCRhAxx1XvFbq6tALm3iA7IlEhcXmX_0Rsp 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAAAAAAIxL4UIjaWTzrHWy-wxC0cIi8-Nfzdrqn2Z1V2KSdzkFNs8IrySBjXvVWkeilN6yRNlwI9CDmnAHrB-QiKHNmyc1JQ7OKqeeZkITzIie 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAA
+
+---
