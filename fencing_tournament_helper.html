@@ -420,14 +420,6 @@
       <div class="surprise" id="daily-surprise"></div>
     </div>
 
-    <div id="home-emails-card" class="card" style="display:none;">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
-        <h3 style="margin:0;">最新邮件</h3>
-        <button class="btn secondary" id="home-emails-viewall" style="padding:4px 10px; font-size:0.75rem;">查看全部</button>
-      </div>
-      <div id="home-emails-list" style="font-size:0.85rem; line-height:1.7;">加载中…</div>
-    </div>
-
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
       <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">比赛成绩</button>
@@ -2195,7 +2187,6 @@ function circuitLabel(c) {
         }
       }
       if (typeof renderEmailList === 'function') renderEmailList();
-      if (typeof renderHomeEmails === 'function') renderHomeEmails();
     } catch(e) {}
   }
 
@@ -4202,7 +4193,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v19', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v20', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4527,50 +4518,6 @@ function circuitLabel(c) {
     try { return new Date(dateStr).toLocaleDateString('en-CA', { timeZone: HOME_TZ }); } catch(e) { return dateStr.slice(0, 10); }
   }
 
-  function renderHomeEmails() {
-    const card = document.getElementById('home-emails-card');
-    const container = document.getElementById('home-emails-list');
-    if (!card || !container) return;
-    if (!allEmails.length) { card.style.display = 'none'; return; }
-    card.style.display = 'block';
-    const todayStr = vancouverISO();
-    const todayEmails = allEmails.filter(e => emailDateLocal(e.date) === todayStr);
-    const otherEmails = allEmails.filter(e => emailDateLocal(e.date) !== todayStr);
-
-    function emailRow(e) {
-      const taskHint = e.todo && e.todo !== '无' ? `<div style="font-size:0.75rem; color:#ef4444; margin-top:2px;">待办：${escapeHtml(e.todo)}</div>` : '';
-      const summary = e.summary ? `<div style="font-size:0.75rem; color:#4b5563; margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${escapeHtml(e.summary)}</div>` : '';
-      return `<div style="margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #e5e7eb; display:flex; align-items:flex-start; gap:8px;">
-        <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
-        <div style="flex:1; min-width:0;">
-          <div style="font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${escapeHtml(e.subject)}</div>
-          <div style="font-size:0.75rem; color:#6b7280; margin-top:2px;">${escapeHtml(e.from)} · ${escapeHtml(e.date)}</div>
-          ${summary}${taskHint}
-        </div>
-      </div>`;
-    }
-
-    let html = '';
-    if (todayEmails.length) {
-      html += `<div style="font-size:0.8rem; color:#ef4444; font-weight:700; margin-bottom:8px;">今日邮件 · ${todayEmails.length}</div>`;
-      html += todayEmails.map(emailRow).join('');
-    }
-    const latest = otherEmails.slice(0, 5);
-    if (latest.length) {
-      html += `<div style="font-size:0.8rem; color:#6b7280; font-weight:700; margin:12px 0 8px;">${todayEmails.length ? '其他最新邮件' : '最新邮件'}</div>`;
-      html += latest.map(emailRow).join('');
-    }
-    container.innerHTML = html;
-    const viewBtn = document.getElementById('home-emails-viewall');
-    if (viewBtn && !viewBtn.dataset.inited) {
-      viewBtn.dataset.inited = '1';
-      viewBtn.addEventListener('click', () => {
-        const emailTab = document.querySelector('.tab[data-tab="emails"]');
-        if (emailTab) emailTab.click();
-      });
-    }
-  }
-
   function renderEmailList(filter) {
     if (filter !== undefined) currentEmailFilter = filter;
     const container = document.getElementById('emails-list-full');
@@ -4627,7 +4574,6 @@ function circuitLabel(c) {
     renderTasks();
     renderUpcoming();
     if (allEmails.length) renderEmailList();
-    if (allEmails.length) renderHomeEmails();
   }
 
   initEmailTasks();
