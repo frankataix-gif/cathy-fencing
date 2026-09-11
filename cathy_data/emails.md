@@ -301,3 +301,14 @@ I have attached the information from our zoom call a few weeks ago for those who
 Our Finance Department will be posting tuition and programme fees tomorrow to your billing management accounts only if registration is complete. If you have just accept
 
 ---
+
+## [其他] Che succede 29/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-29T10:00:50.000Z
+**摘要:** 意大利政府考虑调整燃油税减免政策，可能对柴油影响更大；2026年税务申报季节启动，预填表格信息已开放查询。
+**待办:** 无
+
+Che succede 29/04/2026 — idealista/news                    Il governo sta valutando "unulteriore proroga del taglio delle accise", che potrebbe essere "più breve delle precedenti e non più in maniera orizzontale: il gasolio ha avuto un aumento più significativo della benzina" e quindi il taglio potrebbe impattare più sul gasolio che sulla benzina, per avere un impatto meglio distribuito. Così la presidente del Consiglio Giorgia Meloni in conferenza stampa. "Seguiamo il tavolo negoziale - ha spie
+
+---
