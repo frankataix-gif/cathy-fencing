@@ -633,3 +633,14 @@ Case vacanze sulle spiagge italiane più sorprendenti — idealista/news
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 22/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-22T15:01:24.000Z
+**摘要:** 意大利竞争和市场管理局对Booking.com展开调查，指控其存在不正当商业行为；欧洲央行决定停止发行500欧元纸币。
+**待办:** 无
+
+Che succede 22/04/2026 — idealista/news                      L’Autorità Garante della Concorrenza e del Mercato ha avviato un’istruttoria nei confronti di Booking.com B.V., Booking.com International B.V. e Booking.com (Italia) S.r.l. per pratiche commerciali scorrette. In particolare, Booking.com attribuirebbe alle strutture ricettive aderenti al programma Partner Preferiti (e alla sua estensione Preferiti Plus) un migliore posizionamento nei risultati di ricerca all’interno della piattaforma, e
+
+---
