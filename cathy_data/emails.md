@@ -15211,3 +15211,20 @@ Please do not reply to this email.
 
 
 ---
+
+## [营销] Less worry, more security. 🏠🔐
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-08-04T20:47:14.000Z
+**摘要:** TELUS推送安全解决方案营销邮件，宣传家庭和在线安全保护服务。
+**待办:** 无
+
+Stress less about threats with TELUS security solutions. 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdfaf14d,4088f9c3,2ae1e51b&e=Y2lkPXRlbERNMjI1MTI1OSZiaWQ9LTMzODg1ODc1JnAxPSU0MEJ2RlRDZVpMMzIlMkJEJTJGS2djNjlxY1RiQVJxciUyRnRTd1NueWdSTExyU3NWYnclM0Q&s=y2S8kukJ2VRrH3dxEStyoX3SB03yDqj0B-DFA1DVdLo web browser . 	
+ https://t.info.telus.com/r/?id=tfdfaf14d,4088f9c3,2ae1e51c&e=Y2lkPXRlbERNMjI1MTI1OSZiaWQ9LTMzODg1ODc1&s=8aMP_aNkvM2ul0RQ1BTseQ-mEG81-_bcohnVif9fa3g 	
+	
+
+S
+
+---
