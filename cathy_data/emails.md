@@ -19807,3 +19807,15 @@ Ai Mine:
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] 速報🌟澳洲機票最佳入手期
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-11T00:20:45.000Z
+**摘要:** Trip.com 发送澳洲机票促销邮件，提及新加坡航空往返墨尔本、悉尼等城市的优惠票价及行李额度。
+**待办:** 无
+
+新加坡航空來回墨爾本、悉尼等熱門城市連稅每位低至 HK$5,XXX 🐨包埋 25kg 行李 + 免費 WiFi 🧳😍
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147193136-1783729243702.369%26ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
