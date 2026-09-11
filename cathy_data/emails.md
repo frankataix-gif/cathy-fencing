@@ -9452,3 +9452,15 @@ DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5WbETbh9pkl-2B3s4m4Vng-2Fko9A40DbBxzBSz3-2BfMBU35HAoHj_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPWOmFfT7n8LQAU6200z2-2Bq782Fl3EysKR4r-2B-2FUei80WKIJ0fKxffkqqWO36RzlNbTZXPzfOBrmEhGmpSF3mYSKGkGUoPCL0j8NDCr9TWIYk7KuhYqVJgW
 
 ---
+
+## [营销] 搶先睇9.9狂賞優惠！倒數4日🤩
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-05T01:39:20.000Z
+**摘要:** Trip.com推出9.9狂赏优惠，包括HK$99机票、Mastercard最高减HK$999及15%回赠，倒数4天。
+**待办:** 无
+
+HK$99 一口價機票、Mastercard減高達 HK$999、15%回贈等震撼優惠❗️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152122223-1788571156508.305%26ouid%3D497401.HK-20260905-edm-99mega.2026-09-05_8_0.20260905.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D497401.HK-20260905-edm-99mega.2026-09-05_8_0.20260905.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMD
+
+---
