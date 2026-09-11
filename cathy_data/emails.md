@@ -19537,3 +19537,34 @@ Shop what’s hot right now.
 <https://app.sephora.com/T/v610000019f5683ebb8c42ada6e96c660f0/73c254292b344e640000021ef3a0bcc2/73c25429-2b34-4e64-89cf
 
 ---
+
+## [其他] New sign-in to your OpenAI account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-07-12T12:46:56.000Z
+**摘要:** 这封邮件通知用户有一个新的OpenAI账户登录，地点为卢萨卡，设备为Firefox浏览器，提醒用户确认是否本人操作。
+**待办:** 无
+
+ New sign-in to your OpenAI account 
+New sign-in details for your OpenAI account. 
+
+Hello,
+
+We noticed a new sign-in to your OpenAI account. 
+
+*App*: ChatGPT Web
+
+*Time*: July 12, 2026 at 2:46 PM (CAT)
+
+*Approximate location*: Lusaka, ZM
+
+*Device*: Firefox on Windows
+
+ 
+
+If this was you, no action is needed. 
+
+If you don't recognize this activity, please review your account security 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMvWmnkLomVjgxFpxUVYEkxqorI8ICh1R9gUvwG
+
+---
