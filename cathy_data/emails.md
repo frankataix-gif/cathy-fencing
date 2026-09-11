@@ -17298,3 +17298,15 @@ Email Monitor 更新通知，它们只是之前邮件检查结果的汇总，不
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFLrFqxVix2bHzDu5ZaeIyOHAgR8yIc3zVz192XTB-2BD-2B-2F0-2B1WOY-2BRxaoOh5nXF2hHR-2FwWNGts6cIaxjD-2FIB-2FvnX2U4aNLS-2F157shJfdmDeI2iSyp2yALwXpl5VmnTMryaNfg5SSLOWYLHiv1r2qgnkpFA3GyKUd6n8A8b5sPTS
 
 ---
+
+## [营销] 星期五優惠大合集🎉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-24T00:32:51.000Z
+**摘要:** Trip.com推送周五优惠活动，包括珠海酒店折扣、主题乐园门票和麦当劳现金券。
+**待办:** 无
+
+10AM搶⏰珠海酒店減 HK$300 + 券包🏨加碼半價搶主題樂園門票🎫/麥當勞現金券🍔👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015516185-1784853166958.423%26ouid%3D464732.HK-20260724-edm-gochinatraintravel.2026-07-24_8_0.20260724.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D464732.HK-20260724-edm-gochinatraintravel.2026-07-24_8_0.20260724.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V
+
+---
