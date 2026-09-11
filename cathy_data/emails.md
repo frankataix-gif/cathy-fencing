@@ -7820,3 +7820,20 @@ lululemon
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015486224-1789001419362.113%26ouid%3D501293.HK-20260910-edm-99mega.2026-09-10_8_0.20260910.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D501293.HK-20260910-edm-99mega.2026-09-10_8_0.20260910.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zM
 
 ---
+
+## [营销] Jingqi, Sports season is back 📣
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-09T22:42:12.000Z
+**摘要:** TELUS推出体育季节促销，提供Optik TV服务，价格为每月65美元，比原价便宜。
+**待办:** 无
+
+Get Optik TV—sports, streaming, and live TV, all for just $65/mo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cb&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQmcDE9JTQwMFllR1lXJTJCams3dkcxUm0lMkJYT1R3eDBTTGNuamtCU1V6aW14NGFKWVh4aU0lM0Q&s=0drfY4Pwoi7QlwDCjitiDCPGUHtUX-3QwwJQwHaCnQI web browser . 	
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cc&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=hIglT55fd8NLA7jb-JDx_eEWEv_cxU537xoGMfXiON4 	
+	
+
+
+
+---
