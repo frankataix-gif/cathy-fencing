@@ -25744,3 +25744,28 @@ Novità:
    <li>A tal fine, abbiamo aggiunto ulteriori informazioni su come raccogliamo e utilizziamo i dati per fornire nuovi prodotti o funzionalit
 
 ---
+
+## [其他] Your Trenitalia Ticket
+
+**发件人:** Trenitalia <webmaster@trenitalia.it>
+**日期:** 2026-05-25T18:09:54.000Z
+**摘要:** 这封邮件是Trenitalia发送的火车票购买确认，包含两个车次的详细信息，涉及两位乘客的行程和票价。
+**待办:** 无
+
+
+[image: Logo Trenitalia] Purchase confirmation Conferma ordine Trenitalia 
+*Regionale Trenord 2232 of 31/05/2026* 
+*Bergamo (15:02) - Milano Centrale (15:50) * 
+Passenger *Yun Xi He* 
+------------------------------
+Offer/Comfort ORDINARIA/2ª CLASSE 
+Pick up procedure Regional Digital Ticket 
+Amount Eur 3.10 
+Ticket Code 2843604657 
+Buyer Jing Qi Wu Conferma ordine Trenitalia 
+*Regionale Trenord 2232 of 31/05/2026* 
+*Bergamo (15:02) - Milano Centrale (15:50) * 
+Passenger *Jing Qi Wu* 
+----------
+
+---
