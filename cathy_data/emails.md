@@ -15378,3 +15378,21 @@ Trouble viewing this email? View in web browser
 Let's explore 
 
 ---
+
+## [其他] Your recent purchase with your Apple Account.
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-03T21:31:31.000Z
+**摘要:** Apple账户在加拿大进行了新设备的购买，提示用户检查是否本人操作，若未授权请更改密码。
+**待办:** 无
+
+Apple Recent Purchase
+-----------------------------------------------------------
+
+Your Apple Account, nataliewu100@gmail.com, was just used to make a purchase in Spark Mail: AI Email Assistant on a computer or device that has not previously been used. You may also be receiving this email if you reset your password since your last purchase.
+
+This purchase was initiated from Canada.
+
+If you made this purchase, or have reset your Apple Account password since your last purchase, you may disr
+
+---
