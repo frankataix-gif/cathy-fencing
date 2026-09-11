@@ -16680,3 +16680,15 @@ you need any further infor...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGsmvIAnHIeWkXmlD19I83Yzc7BgtMKVYv3sgAv-2FmQ8o3-2FNglNsvjMWyzRkPAfRHPovE5x8cNaLgnwUIoBmof1qbHgVc82jscK1t28enx9P3k5WyiRlFLJZLav4CkuEnmQzfXtkQ0oBi3ubYz4mOxQrR2obnG2mCig-2Bmi
 
 ---
+
+## [其他] Your scheduled task couldn’t be completed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T09:50:34.000Z
+**摘要:** 邮件通知用户的计划任务无法完成，可能需要检查相关设置或联系支持
+**待办:** 无
+
+ Your scheduled task couldn't be completed 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEYbn81nsfRh-2BsR2-2FifMMLN8AWA4c3Qbh3Q-2BwMxYgzxsnBIBpxQBDQoD2L2zinWFtcCNz7SZbllt4JryIbLPihNOmhgM0RSKegjsI-2FUaFhh-2B4PsiknMMi5bjE5sbnNiFtfosk6-2FBdRHdMcL-2FnBQQ1rmDRsIhV6EYnS6z6SzNHLK8fPe9LcXM-2BpT1LpIk7UyOsWGkzttiKAMzPcSTpTnBePITa5TxAFX-2FVZFK3EW1NSMTADuUpeYVRELWaaRAjsglgbX7lgnIllhHpMO-2FGMMUEC2fNrLb-2BHddIKHztXnkrQy5soJ4XypKGgwwpfjuwyblMTNeDbkb1bgVqgkpYYnkBIlRbV6_-2F
+
+---
