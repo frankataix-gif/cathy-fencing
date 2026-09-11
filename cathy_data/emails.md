@@ -20312,3 +20312,28 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp49PAsG7b_
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154138127-1783552112479.801%26ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia
 
 ---
+
+## [其他] Your receipt is here! #941 12 5511 07082026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-08T21:54:23.000Z
+**摘要:** 用户收到Best Buy的购物小票，包含购买详情和支付信息，可用于退货或换货。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 12 5511 07082026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 12 5511 07082026 
+Date 2026-07-08 02:54 PM 
+Type Sale 
+Associate Name Jeffrey 
+Transaction Summary
+Dyson Supersonic Nural Ionic Quiet Hair Dryer 1600W with Diffuser & 
+Concentrator 4 Heat
+
+---
