@@ -8186,3 +8186,23 @@ Step-by-step guidance for a smooth sale    My Foxtons
 Foxtons ( https://clicks.foxtons.co.uk/f/a/yTsXXl3S8rpp_5MfVvdigA~~/AAAHahA~/mwlAF1ACiSJEHSW0LRp44bKobBQGZbfTg8zfGqi_GR822lVD5C4Y9aSdbpPD0Ns4qT9OAIZmPaMtx7hjTgahJmZaFIn44H795IrydPbnX0RXTRZcTlHcTJKNtM_G059_-1RGg6d26nmyJLO
 
 ---
+
+## [其他] Apartment 120, Emery Wharf – Leaseholder portal registration
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-09T09:23:23.000Z
+**摘要:** 邮件通知用户关于伦敦码头公寓居民门户的注册信息，包括使用 portal 的好处及访问详情，并提供用户名和密码。
+**待办:** 无
+
+Dear Jingqi Wu,
+
+Welcome to London Dock!
+
+My name is Nancy, and I’m part of the Concierge Team here at London Dock. I’m reaching out to introduce you to our Resident Portal, a convenient platform designed to keep you informed and help us manage your needs efficiently.
+
+Benefits of the Portal: The portal provides a range of services, including:
+
+  *   Timely updates and communications related to London Dock
+  *   Efficient parcel registration (please ensure all deliveries are addressed t
+
+---
