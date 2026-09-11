@@ -1119,3 +1119,31 @@ Thank you again for considering HTS and
 Che succede 15/04/2026 — idealista/news                 Il Fondo monetario internazionale taglia al 3,1% le stime della crescita globale per il 2026, come risultato di uneconomia alle prese con le turbolenze generate dal Medio Oriente. Uno 0,2% in meno rispetto alle stime di gennaio, accompagnato da uninflazione in rialzo al 4,4% sulle pressioni dei prezzi dellenergia. Nessuno, o quasi, si salva dalla tempesta: lItalia sconta una limatura dello 0,2%, allo 0,5%, in unEurozona che frena all1,1%, d
 
 ---
+
+## [营销] Colour Stories by Alessia Mancini: la nuova capsule è arrivata 🌸​
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-15T08:04:27.000Z
+**摘要:** Oltre Newsletter宣布Alessia Mancini新胶囊系列上架，提供免费店内取货和退换货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDd9ADIAAAAAAAjk17CWLx1rG29doxgt8FD72xHeClOg8P6UclOTdkVreS_tUORmnYGTleHiOHRhIBDccTpccx7sm5vocWyvrUQJtoii_4CLG0SeeQk 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDd9ADIAAAAAAAjk17CXQUZmCBA_gjFluoaKnGxXHuL0_QYyjG5jXIUhpskVBX_mhOwMzsoh5KxO7d__93tq2STH4kISEc
+
+---
