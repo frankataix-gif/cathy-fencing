@@ -9030,3 +9030,20 @@ I am preparing the relevant information and have attached the materials currentl
 3. I have also attached 
 
 ---
+
+## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-07T09:36:24.000Z
+**摘要:** Frank发送了租约物业信息表和相关文件，请求审核并修改代理协议类型，同时询问账户注册是否正确及需补充的信息。
+**待办:** 审核已填写的租约物业信息表，将代理协议类型更改为多重代理，确认账户注册步骤是否正确，提供所需补充信息
+
+Hello Lauren,
+
+I am preparing the relevant information and have attached the materials currently available.
+
+1. Leasehold Property Information Form: I have been completed. Please review the completed sections and confirm whether they are correct.
+2. Change of agency agreement type: Please amend the agreement type to Multiple Agency. As I have already entered into an agency agreement with another estate agent, please apply the corresponding Multiple Agency fee rate.
+3. I have also attached 
+
+---
