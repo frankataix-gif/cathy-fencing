@@ -25014,3 +25014,28 @@ Che succede 03/06/2026 — idealista/news
 ****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] Sunny Days: ULTIME ORE ⏰
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-03T07:23:06.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提醒客户有免费取货和退换服务，以及新品上架，并强调限时优惠。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAAAAAAJ8IM1VvNm8J4XVplDuzJa_ge0nfXPCY-8eFrTYsY14fts7BLSU4NpTAjvUAK7dDCbEEm-GH1aYhq7Eh3ohfPjIWshu1DJvEczxWJHd2 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAAAAAAJ8IM1VwnQ6WfUkfT2BPjG3bxAQaltBrBY7uKoGFPkLU361jmBxNdFSVD4PFjZuDVChYuoUQZ2uly_V7ULNKC2Epc7y7Ng7ME49Fw0OC 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
+
+---
