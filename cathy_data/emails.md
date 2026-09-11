@@ -21476,3 +21476,3480 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAA
 将新的文件上传到 Google 云端硬盘
 
 ---
+
+## [其他] ✨ I SALDI SONO INIZIATI ✨
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-03T18:37:20.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9ADIAAAAAAQCvuEAyaODdamaw0FT1RCd84vM0mItpMleIS1arnMHsDBdEPftAnPFOp3x_Aw8t8_r-UvjfWKFoIdGrdd54kvQesZTPWVD07PfES6LbGQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9ADIAAAAAAQCvuEAzmnEfLiBId2mD8t-Qjkhk0_Nacqf-ALJkKzW5Sv6oqMnwupf_FmH0T0itx0hHfx3jWGUceSK6hjZ8Ao9hfq1kGsi8gafLNKLD1w 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9A
+
+---
+
+## [其他] Psst, new Sincerely Yours just dropped
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-07-03T18:12:00.000Z
+**摘要:** 
+**待办:** 无
+
+ Psst, new Sincerely Yours just dropped 
+And it’s sooo 
+good. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Breakfast Republic only delivers on DoorDash
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-03T18:08:45.000Z
+**摘要:** 
+**待办:** 无
+
+Try this local favorite and get a taste of something new.
+
+dashpass-merchant-partner-logo (
+ )
+doordash-merchant-partner-logo (
+ )
+
+
+----------------------------------
+
+----------------------------------
+
+
+
+
+
+       Order now (
+ )
+INTRODUCING A FEW OF OUR FRIENDS
+
+Prime 
+( https://trackbz.doordash.com/f/a/75SUu4TvVfxPyQ1sM2KINA~~/AAQRxRA~/yzrQWs5VfMhFYidwx7PZYLwWrTiBegdf0XlkyKo3_UzonMbNEvEFXUYPztm-VWuBd1xJzUDj8PY7lpiwIoGMT8LBPipKiQxUA8_mew15zhKjDQnlCnmpwXCpD_LcnXlrzwh9fde83f2YI9i3z1mlnMCqQAbix9f
+
+---
+
+## [其他] What the average asking price buys across Great Britain
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-03T16:16:47.000Z
+**摘要:** 
+**待办:** 无
+
+We look at the kinds of homes £378,000 will buy you across the
+country              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/yL1jcR-vn_mIL40ij59bUQ~~/AAAHahA~/Hl2lVXecpkyHehkZRLgxERW7ze0odyDlCqYaOqerPJINjVcoV7Rtvac9mAI7iWRGGw5N25vWMLhVqD3ELHCwV5KRhr9_0MNnWmJWsC-Mj5nx2uUU4qlY7OuX976-x5lVYC_F2wiQxM67oJ76GXNra51vDNq60FQtFH3B7SKpuP8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/elbqeO1MSORUa54YvfafyA~~/AAAHahA~/0aONJezVFJCKEBALUdhse0-R5Vs_PWMDlQtIrfuDPdEcdCUW2QBovv3-HxNrt_DfXAw_f
+
+---
+
+## [其他] La top ten dei comuni più prestigiosi dove comprare casa
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-07-03T13:01:03.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 03/07/2026 — idealista/news     | Lunedì 29 Giugno 2026  | Lunedì 29 Giugno 2026 | Mercoledì 01 Luglio 2026  | Giovedì 02 Luglio 2026I prezzi delle abitazioni usate in Italia continuano a salire. Nel secondo trimestre del 2026, secondo lultimo report di idealista, portale immobiliare N.1 in Italia [ed editore di questa newsletter], i valori sono cresciuti dello 0,6% rispetto al trimestre precedente, portando la media nazionale a 1.903 euro al metro quadro. Su base mensile i prezzi si 
+
+---
+
+## [其他] Che succede 03/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-03T07:48:34.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 03/07/2026 — idealista/news              Molto prima dei telescopi, dei satelliti o dei planetari digitali, lumanità ha sempre sentito il bisogno di comprendere i cieli. Per secoli, le stelle sono servite come strumenti di navigazione, per misurare il tempo, prevedere le stagioni, interpretare i presagi e collocare gli dèi in una dimensione superiore. Il planisfero di Dunhuang contiene più di 1.300 stelle e, al momento della sua scoperta, conteneva circa 40.000 documenti
+
+Christine L
+
+---
+
+## [其他] André 衬衫
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-03T04:07:24.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+诠释品牌标志性闲雅格调的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+---
+
+## [其他] 30% off bikinis (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-03T01:08:51.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Long weekend treat for you.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKR_jgeEwKStr9muI7ZGKhHEyMM3s9zNY3PQZxkfnsGP4UfMmGIwQLTcVLiZhByzqE8F5KHJ9nxCWsmlkEeI0PEgcAvHy9cYnSLycQ 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKSBeMVST19TNJ2fO-WCuIWcT35azkb_HBt72eW4gDhpU95sL5NGG5eMUbJhhCKw80-amO94bBMTNVmu4425l-9a1V0O7nlT2oLgtQqioag 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+---
+
+## [其他] 今日開搶高鐵+酒店券包‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-03T00:24:13.000Z
+**摘要:** 
+**待办:** 无
+
+10AM 起用 HK$1買4張 HK$175 優惠券🔥珠海格力集團度假酒店7折起😍
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015264217-1783038252365.73%26ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4
+
+---
+
+## [其他] Registration request
+
+**发件人:** bmoalerts@bmo.com
+**日期:** 2026-07-02T21:15:25.000Z
+**摘要:** 
+**待办:** 无
+
+ Registration request 
+  
+
+<http://www.bmo.com/main/personal> 
+[image: BMO - We’re here to help.] <http://www.bmo.com/main/personal> 
+Registration request 
+
+*Hi JINGQI,* 
+You have requested to register your card ending in *4218*. 
+Your Registration code is *r3AJVNHZwf* 
+It is valid for *59 minutes*. 
+When prompted, enter this temporary code to complete your registration for 
+BMO online banking. There are two ways to access BMO online banking 
+registration: 
+   
+   - Go to bmo.com and select the 
+
+---
+
+## [其他] C’est un plaisir de vous rencontrer de manière électronique / Nice to e-meet you!
+
+**发件人:** CASL-noreply@bmo.com
+**日期:** 2026-07-02T20:43:04.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: BMO] <http://www.bmo.com/principal/particuliers> 
+[image: BMO Banque de Montréal] <http://www.bmo.com/principal/particuliers> 
+C’est un plaisir de vous rencontrer de manière électronique! Restons 
+en contact. 
+Merci de nous avoir donné votre adresse courriel. Si vous le souhaitez, 
+nous pouvons vous envoyer des courriels de temps à autre. 
+*Ne ratez pas l’occasion! Abonnez-vous pour recevoir des courriels de BMO 
+Groupe financier. * 
+En cliquant sur « J’accepte », vous donnez votre con
+
+---
+
+## [其他] Here’s $7 off your next two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-02T16:05:55.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash ‘Cause we like your style. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+
+---
+
+## [其他] Hey Jingqi let's get you started with Koodo
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-07-02T16:02:43.000Z
+**摘要:** 
+**待办:** 无
+
+Get an extra $5/mo. off today! 
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tf977ec2c,4075139e,2acfe309&e=Y2lkPXRlbERNMjIwNDgwNCZiaWQ9LTEwOTU4MTI2OCZwMT0lNDBRUFlKSnFxZFdZMkRzJTJGbW1FeWJTM1E4TVpCNXd0OCUyRlVrdHZ2ODZ1ZnlOdyUzRA&s=zKWc2jxigV9L4_Zq_Gebxi6P5V1ePrVoFJS_fOFPw_4 web browser . 	
+ https://t.email.koodomobile.com/r/?id=tf977ec2c,4075139e,2acfe30a&e=Y2lkPXRlbERNMjIwNDgwNCZiaWQ9LTEwOTU4MTI2OA&s=LBNqEPgVFDi2nhQxhQ6p1oqjT0m9iv9nvwKa9LPo334 	
+
+ https://t.email.
+
+---
+
+## [其他] natalie, your feedback is important to us. Will you help us by rating your recent purchase?
+
+**发件人:** Cotton On Customer Team <reviews@cottonon.com>
+**日期:** 2026-07-02T15:00:12.000Z
+**摘要:** 
+**待办:** 无
+
+ natalie, your feedback is important to us. Will you help us by rating your 
+recent purchase? 
+[image: Cotton On Customer Team logo] <www.cottonon.com> 
+How are you finding the product? 
+
+Hi natalie,
+ 
+Thank you for shopping with us! We hope you'll write about your Offside 
+Windbreaker while it's still fresh on your mind. Click the stars to get 
+started: 
+Offside Windbreaker 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/49KKtdgU3v1Md5pC?&rating=1&location=td-star> 
+☆★ 
+<https://network-eu.bazaarvoi
+
+---
+
+## [其他] Up to 50% off everything. Time to check out.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-02T14:18:16.000Z
+**摘要:** 
+**待办:** 无
+
++ Colour Drop: Cherry Bomb Red — on sale, too.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌
+
+---
+
+## [其他] 12AM 搶新一輪 Mastercard 優惠🤩
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-02T14:18:45.000Z
+**摘要:** 
+**待办:** 无
+
+每週五凌晨機票、酒店減高達 HK$200！趁減燃油附加費 book 好暑假行程👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154224232-1783001924970.725%26ouid%3D446427.HK-20260702-eDM-mastercard.2026-07-02_8_0.20260702.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D446427.HK-20260702-eDM-mastercard.2026-07-02_8_0.20260702.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS
+
+---
+
+## [其他] Il mercato delle aste immobiliari in Italia nella prima metà del 2026
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-07-02T13:00:29.000Z
+**摘要:** 
+**待办:** 无
+
+Il mercato delle aste immobiliari in Italia nella prima metà del 2026 — idealista/news    Il mercato delle aste immobiliari in Italia vede la prima metà del 2026 allinsegna di un calo delle nuove procedure giudiziarie. La capacità di gestione dei tribunali si mostra in netto miglioramento, anche grazie allaumento delle soluzioni stragiudiziali che alleggeriscono il carico delle pratiche. Rallenta anche il valore degli asset allasta. Le analisi dei principali player in questa guida sulle aste di 
+
+---
+
+## [其他] Che succede 02/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-02T07:50:22.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 2 luglio — idealista/news                 Il Ministero delle Infrastrutture e dei Trasporti comunica che a giugno 2026 sono state immatricolate 146.423 autovetture a fronte delle 132.402 iscrizioni registrate nello stesso mese dellanno precedente, pari ad un aumento del 10,59%. I trasferimenti di proprietà sono stati 481.205 a fronte di 439.475 passaggi registrati a giugno 2025, con un aumento del 9,50%. Il volume globale delle vendite mensili, pari a 627.628, ha interessato per il 2
+
+---
+
+## [其他] Hey, students! Get 20% off
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-02T01:37:37.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Unlock your discount now
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjV9AAcAAAAAA3RTlcHKgslfnx6l1NRrqGhb9r-aS3MZMJAfOwVh_1C6QOlIFhy8F4puq2RstHk_xI0cfIJCIqWPtceUyxzO22Qgc8_PvykHr7BREZo 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjV9AAcAAAAAA3RTlcHLXB_miMl8FHuBaiv-XjPyNuDmEWjFEPZckKFKXqTU9o_sIgWnW0GalTf1biy3FIu8m5TT_lX0O6p5EeFuZbkuNhlTLQ0ZQfO37iIz 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+http
+
+---
+
+## [其他] 🔮 Savings are in your future
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-01T19:05:11.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash Looks like 30% off. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌
+
+---
+
+## [其他] Hey Jingqi let's get you started with Koodo
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-07-01T16:02:44.000Z
+**摘要:** 
+**待办:** 无
+
+Get an extra $5/mo. off today! 
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tf96440da,4074c5b0,2acf6a73&e=Y2lkPXRlbERNMjIwMzU1MyZiaWQ9LTExMDg3MDMxMCZwMT0lNDBiQWNWR2FsU2xWc1h4YzNUSkVHZyUyQk4yNm8wZGJCbjA4VCUyRlVqWHY5dUozcyUzRA&s=xbguIDevWAQC6uUFJo93dydxFTwYbu2q4T_v3RopI-U web browser . 	
+ https://t.email.koodomobile.com/r/?id=tf96440da,4074c5b0,2acf6a74&e=Y2lkPXRlbERNMjIwMzU1MyZiaWQ9LTExMDg3MDMxMA&s=GkVm252BzCIpy1BQCNT5r-2X3SH4p2_TeVB0bfxgPek 	
+
+ https://t.email.
+
+---
+
+## [其他] ⭐️ STACKING WEEKEND IS HERE ⭐️
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-01T13:39:35.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+Enjoy 30% off ALL Sephora Collection and 2X points on all products. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f1de8101da3f7ae6e96c660f0/9ebef1740abc4da
+
+---
+
+## [其他] Don't miss your first E-Bill! Complete Self Serve Registration.
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-07-01T09:03:57.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Complete your Koodo Self Serve registration today, so you can view your 
+bill details, select your Add Ons, and do so much more!
+
+Got a question? Get answers fast with Koodo Assist at koodo.com/help 
+
+Register now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew
+
+---
+
+## [其他] Che succede 01/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-01T08:00:57.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 01/07/2026 — idealista/news     [ed editore di questa newsletter], da quando monitora il mercato nel 2012. La crescita è del 5,5% su base annua e del 2,4% sul mese precedente
+
+Da oggi sarà ufficialmente soppressa la storica franchigia doganale e introdotto il dazio previsto dall’Unione europea di 3 euro sui mini-pacchi - ovvero contenenti articoli per un valore inferiore a 150 euro - del commercio elettronico che provengono da Paesi terzi in Unione europea. Si tratta di una misura fo
+
+---
+
+## [其他] Il pantalone perfetto fino al -50%!
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-01T07:25:03.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjR9ADIAAAAAAPadX6V5v2e0GEx3YZgpP5jVwwBM4zpj2GC97CjBcox5tmOYjgKVUqwxV_9cYAYAb36LE_uWRlQWSW_d20y848B8ydxFpjpXZmw4FjvNBQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjR9ADIAAAAAAPadX6V6wPsTvw_0bHYB_nr3PkV1JaDDqakFW6IU2TuhYtZn5n66vIqolp2p3JH7vfZUQ-YvH3gGyRHI
+
+---
+
+## [其他] Up to 50% off light layers & staples
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-01T02:03:00.000Z
+**摘要:** 
+**待办:** 无
+
+And everything else. It’s a good time to be you.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+
+---
+
+## [其他] Account Update Confirmation
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-06-30T21:10:42.000Z
+**摘要:** 
+**待办:** 无
+
+Hey there,
+On August 16, 2022, you changed the following services. After making changes to your plan or add-ons, your next bill will include the following charges: your regular monthly service, additional usage, a one-time partial/prorated charge and/or credit from August 16, 2022 to the end of your bill cycle on September 13, 2022. Please note: you may only have partial minutes and partial data until your bill cycle resets on September 13, 2022 at 11:59pm.
+Got a question? Use Koodo Assist, ou
+
+---
+
+## [其他] Cancelled service and your next bill
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-06-30T21:10:46.000Z
+**摘要:** 
+**待办:** 无
+
+Account number: 
+We’re sorry to see you go.
+You recently scheduled to cancel your wireless service on , for the following phone number(s):
+
+
+What to expect on your next bill:
+
+Prorated recurring monthly charges: recurring charges such as your monthly plan and tab charge will be prorated to reflect only the portion of the month in which your wireless service was still active.
+Tab debit: you’ll see this charge only if you have a remaining Tab balance
+Phone credit charge: you’ll see this c
+
+---
+
+## [其他] This week’s shopping deals are here
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-06-30T20:01:44.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash Save on home, beauty, and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+
+---
+
+## [其他] 15 case con piscina e vista panoramica da scoprire
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-30T13:01:12.000Z
+**摘要:** 
+**待办:** 无
+
+15 case con piscina e vista panoramica — idealista/news
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Che succede 30/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-30T08:00:09.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 30/06/2026 — idealista/news       Un giardino di lusso è uno spazio esterno progettato con materiali di alta qualità, un design coordinato e una grandissima attenzione ai dettagli. Qui ogni elemento — verde, arredo, illuminazione e superfici — dovrebbe dialogare in armonia con l’architettura della casa
+
+Quando si decide di alienare un immobile occupato, si aprono due percorsi ben definiti. Il primo prevede la cessione alla prima scadenza contrattuale, momento in cui il locatario gode
+
+---
+
+## [其他] These jeans and shorts? BOGO 50% off
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-30T01:07:12.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Low and baggy. Loose and micro.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjN9AAcAAAAAA1wJ3APkdmgpiH47vgD2rlDcw5q2XEe7NBgSBAXddbv80Mu-_l201uVYQCLfRmzAommHvUZVfFXym5eLH7ovLkY3usdqapQvF118 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjN9AAcAAAAAA1wJ3APmtI93nBOtzObVXUIn6R3imyr-vp3YQqhFqzpGF1Oj1H3j15MmuJYMYhb4MwWoEjVGzKi5di_Qg2bcBpDCdoyFQvwSXoM-6j5E5Q 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+---
+
+## [其他] Receipt for order #1893898
+
+**发件人:** Studs <heystud@studs.com>
+**日期:** 2026-06-29T22:12:44.000Z
+**摘要:** 
+**待办:** 无
+
+Thank you for your purchase!
+
+Studs
+
+Order #1893898
+
+----------------------------
+Thank you for your purchase!
+----------------------------
+
+Visit our store 
+( https://studs.com?syclid=0f3fa4d1-303b-4847-9dc2-b92797ba1323 )
+
+Order summary
+-------------
+
+TWO PIERCINGS × 2
+
+Lobe
+
+$55.00
+
+Titanium Star × 2
+
+Silver
+
+$76.00
+
+Subtotal
+
+$131.00
+
+Shipping
+
+$0.00
+
+CA STATE TAX - CALIFORNIA
+
+$4.56
+
+CA COUNTY TAX - LOS ANGELES
+
+$0.19
+
+CA SPECIAL TAX - LOS ANGELES
+
+---
+
+## [其他] Receipt for order 27894658
+
+**发件人:** Vuori Clothing <support@vuori.com>
+**日期:** 2026-06-29T22:10:38.000Z
+**摘要:** 
+**待办:** 无
+
+Thank you for your purchase!
+
+Free ground shipping over $75 | Free returns on
+eligible items
+
+Men 
+( https://checkout.vuoriclothing.com/collections/new?syclid=d7c1af93-c5a2-4e21-b840-47e6121a6b3f )
+
+
+Vuori Clothing 
+( https://checkout.vuoriclothing.com?syclid=faa06358-29fa-41b8-a7dc-d6c0176e5a2f )
+
+
+Women 
+( https://checkout.vuoriclothing.com/collections/womens-new?syclid=806fa0d0-1665-4994-90ee-c872e1f80209 )
+
+
+Thank You For Shopping At The Century City
+
+Thank you for shoppin
+
+---
+
+## [其他] Your receipt from Aritzia
+
+**发件人:** yourpurchase@aritzia.com
+**日期:** 2026-06-29T21:30:06.000Z
+**摘要:** 
+**待办:** 无
+
+ Aritzia 
+[image: ARITZIA] 
+<https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsliNS_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NaBKddFnmEvKWtPemd-2FmA1Zhxea-2BVP7MWbAZQDjs-2Bhd4-2FE3PUsPbhb0hbPXaBK-2BDrXdFsJBzzjAi3yqPRJKHrbEGkTUSdjTIdhPtt2S-2BHVB2qgPBQdfpAF2jfx1xSkitR32G4JWNt7BpHXtDXNgn
+
+---
+
+## [其他] ClassIn Verification Code
+
+**发件人:** ClassIn <noreply@account.classin.com>
+**日期:** 2026-06-29T19:28:33.000Z
+**摘要:** 
+**待办:** 无
+
+Welcome to use ClassIn, the verification code is 6688, valid within 30 minutes.
+
+---
+
+## [其他] 30% off flour, flowers, and falafel
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-06-29T19:04:09.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash And anything else you want. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [其他] 最後機會解鎖 HK$3,XXX 商務艙🔑
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-29T10:55:06.000Z
+**摘要:** 
+**待办:** 无
+
+而家訂商務艙享1️⃣免費機場接送 2️⃣Trip Coins回贈 3️⃣航司里數💳唔好錯過🛫
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015293242-1782730505321.706%26ouid%3D443431.HK-20260629-EDM-premium-NEW.2026-06-29_8_0.20260629.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D443431.HK-20260629-EDM-premium-NEW.2026-06-29_8_0.20260629.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS
+
+---
+
+## [其他] Che succede 29/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-29T08:24:37.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 29/06/2026 — idealista/news             Il ministro delle Imprese e del Made in Italy Adolfo Urso, ha convocato per martedì 30 giugno, alle ore 17.30, a Palazzo Piacentini, i rappresentanti delle principali compagnie petrolifere attive in Italia: Api-Ip, Eni, Q8 e Tamoil. La riunione, spiega il ministero, "avrà la finalità di fare il punto sullandamento dei prezzi dei prodotti petroliferi e dei carburanti a seguito del Memorandum dintesa tra Stati Uniti e Iran e del conseguente riavv
+
+---
+
+## [其他] Il look perfetto per i tuoi eventi speciali 💙
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-29T07:05:07.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjJ9ADIAAAAAAO5NOUIIMUhgoABVrbaDyExi3Y7cxIeKq5eGv0DOxHBcBnAAGMWh_OvyqKOv9kQYF1iVp0vr1T5CWjwLaQUcrbbp7-LptxHV6DJQrrhx 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjJ9ADIAAAAAAO5NOUIJlH3XYjoB0deP-6a6KjlcfLSc7SwFDNPtY8i0a7hWh_dQ-FOvzFEKPDATSoi0pPR4bL3eQBxVEe8
+
+---
+
+## [其他] Final hours for extra 20% off (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-28T23:18:11.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Don't leave your favorites behind
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjF9AAcAAAAAA1Ir4mtiHliebLgrEzvExkW3cTk9HTTzc1l0o_aM1rK2sk62l6NV_kiC9HRCxZ0xqK3gDD7k4k_h3ZCUeTyTCr8_C3_L0rxEsY2vuP5L 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjF9AAcAAAAAA1Ir4mtjNOUfQ-gf32kgYC-sdPfDefYWoLosiwZ-g6Kdpia-BdnRkIyR2j7TmYeRUY8AihRu8GjVdo35DLYg4Lq79D277G5BA6bpoDrSRZABJA 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+---
+
+## [其他] Natalie, see handpicked deals for you.
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-06-28T16:41:09.000Z
+**摘要:** 
+**待办:** 无
+
+Limited-time savings you’ll love—shop while they last.Summer of
+DashPass is here! Through ‌7/22‌, enjoy exclusive deals, rewards
+that help fuel your soccer fandom, and more!
+
+Summer of DashPass ( 
+) Explore more → (  )
+Start your 30-day free trial and unlock exclusive deals, rewards
+that help fuel your soccer fandom, and more! Terms apply.
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/9br09cgEai7GsSVJ-adXYg~~/AAQRxRA~/YvW1wD6GW62FRNKJGYT6dzDDOxBrrqYCeo3OYMDjIBPmO7d4qMJE0_qt-3RxwS1ASViX
+
+---
+
+## [其他] We'd love to know what you think
+
+**发件人:** "St Stephen's Tavern" <StStephensTavern@updates.hall-woodhouse.co.uk>
+**日期:** 2026-06-28T15:33:50.000Z
+**摘要:** 
+**待办:** 无
+
+ Email 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Pick your FREE SPF: Summer Fridays or Glow Recipe 😎
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-28T13:02:01.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+Choose a trial size with min. spend. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f0e529540b1eeb1f4bbcfb920/8c2c4acd0a6e44c10000021ef3a0bcc2/8c2c4acd-0a6e
+
+---
+
+## [其他] Up to 50% off everything
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-06-28T02:13:15.000Z
+**摘要:** 
+**待办:** 无
+
++ Back in: Lemonade. It’s also on sale.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏
+
+---
+
+## [其他] Natalie, unlock Perks bonus points 🤑
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-06-27T21:29:04.000Z
+**摘要:** 
+**待办:** 无
+
+Cotton On and Co. Perks
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
+
+---
+
+## [其他] 夏日Pop Culture之旅🎈
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-27T20:23:23.000Z
+**摘要:** 
+**待办:** 无
+
+齊集Pokemon機場、迪士尼x動漫電玩節等，展開你嘅夏日旅程>>
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147192177-1782591803408.263%26ouid%3D442171.trippulse_edm_0627_hk.2026-06-27_-8_0.20260628.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D442171.trippulse_edm_0627_hk.2026-06-27_-8_0.20260628.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE0NzE5MjE3Ny
+
+---
+
+## [其他] ICYMI: You get 30% off for 30 days
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-06-27T19:03:16.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash 🎁 Open for your bonus offer. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
+
+## [其他] I migliori eventi di luglio 2026 in Italia
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-27T13:00:15.000Z
+**摘要:** 
+**待办:** 无
+
+Cosa fare a luglio 2026 in Italia — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Pop-Culture Pilgrimage: Unlock Your Wonderful Summer Journey🎈
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-27T10:29:52.000Z
+**摘要:** 
+**待办:** 无
+
+Dive into Disney magic, immersive anime fests, and Pokemon airports this 
+summer>>
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fwww.trip.com%2Findex%3Flocale%3Den_xx%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015416220-1782556191094.545%26ouid%3D442192.trippulse_edm_0627_xx.2026-06-27_2_0.20260627.en_XX.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D442192.trippulse_edm_0627_xx.2026-06-27_2_0.20260627.en_XX.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWN
+
+---
+
+## [其他] 详细了解更新后的《服务条款》
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-06-27T09:04:33.000Z
+**摘要:** 
+**待办:** 无
+
+nataliewu100@gmail.com
+
+我们每隔几年就会更新一次《服务条款》。在此提前通知您，下次更新时间为 2026  
+年 7 月 30 日。
+
+这些变更不会影响您如何使用 Google  
+<https://c.gle/AOPyDKRf01DIlu0_UgN3LBAOElAyV--ePhXTcceVtrTin3kdas9UqfRU46f2xfKMwou2YfIFg-sudPKxn0S1zAGc6A_tYBGRkE-vmL_GmhnHaKjFYHDKOiGq4ziCaFOp2ZpTYB-4oEGI3GvSYrsx2gP3disk9dwrX1xQJcKqdYx-ij-taiOdDFREM60c-dEXSI7-mOBhoA98IkknGV7k1gAANS3mrCV08ckhPYuYhqWm8mmI1_qo0Wy5xJO3zmvIOek8YuA9bPQzMYkS-DtQcg9G8L4>服 
+务，但应该会有助于您更轻松地了解在您使用 Google 服务时，您和 Google 可对彼此 
+有哪些预期。
+
+您可以 
+<https://c.gle/AOPyDKTc1
+
+---
+
+## [其他] 💙 La palette dell'estate 🤍
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-27T07:13:48.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjB9ADIAAAAAAOtDXuJH4PMR5FJd_JBjiU1LON49krrHbKglbqv66TiAHhvnEd1SVCYo-4aKEPX-3WiKsOWe3SSxZKGMDU8PnzKedEzb86cvjOBFeXrKaQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjB9ADIAAAAAAOtDXuJIRpYrWSv2sRhxhoi7YVE-x57aNDeV2ML1bO61jjCC_S8xs7lRUXFWUdn1OIf7u0sFC03WOfwq
+
+---
+
+## [其他] Yatri: U.S. DoS Visa Application Confirmation (Action Required)
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-06-26T23:14:48.000Z
+**摘要:** 
+**待办:** 无
+
+You have successfully scheduled an appointment for your U.S.
+Nonimmigrant Visa application.
+
+Please verify your appointment details, shown below.
+
+We Value Your Opinion!
+Please complete a short survey and let us know how we are doing:
+
+Take Customer Satisfaction Survey 
+( https://www.research.net/r/GSSApplicantSurvey )
+
+Thank you for your feedback!
+
+*****************************************************
+GDIT/United States DoS Nonimmigrant Visa Instructions
+*************************
+
+---
+
+## [其他] Meadowridge New Family Summer Info Pack
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-06-26T22:00:01.000Z
+**摘要:** 
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [其他] La mappa degli immobili confiscati alla mafia all'asta
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-26T13:03:41.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 26 giugno — idealista/news     | Mercoledì 24 Giugno 2026
+***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [其他] Che succede 26/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-26T08:13:22.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 26/06/2026 — idealista/news         Per portare le spese di ristrutturazione di un immobile in detrazione nella dichiarazione dei redditi è necessario compilare il Quadro E - Oneri e Spese, collocato allinterno della Sezione III (righi da E41 a E53). I vari incentivi vengono recuperati tramite quote annuali di pari importo: le tempistiche previste per il Superbonus nel 730 variano in base allanno in cui sono stati effettuati i bonifici parlanti. Lagevolazione si ripartisce normalment
+
+---
+
+## [其他] Your receipt from Aritzia
+
+**发件人:** yourpurchase@aritzia.com
+**日期:** 2026-06-26T02:58:33.000Z
+**摘要:** 
+**待办:** 无
+
+ Aritzia 
+[image: ARITZIA] 
+<https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsC9Jp_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Pf-2FIpb1dKOS1PZp1Ig79rK234fr8oUCO70jo645nNvhs2Xyd-2BHAFnwEoNeogpMltRLfAr-2FALBQCxJF6dzcT2jUSChDPPm6Y4uZPnO1secfq2vhgnUv1aCxpG7upVpvmzxPPNziMaJVJjssY9bwWNYB4tej
+
+---
+
+## [其他] Your extra 20% off sale reminder (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-26T01:10:06.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ The styles you've been eyeing are on sale
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTl9AAcAAAAAAzM58ZzWCggfzQvLF77Q7SFBX3B20weOBek5Sm9SfhbCbv75ywNlrEmh4YYteWk84j00NZVKDUyptp9vGjTANoF39AqrBiAiPsy-RtA 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTl9AAcAAAAAAzM58ZzXjbng8M56P-dRptkMHQehehCoZfvJeismTduSVlgJ2pGJt638BLiHUNt2e8hKvZx4OvOtMRIT-W8N10hPA5nK65L_AYgXeA307vAz 
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+---
+
+## [其他] Details of your no-contact delivery from McDonald's
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-06-25T18:52:54.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  DoorDash  
+    
+   
+   
+   
+   
+   
+  
+     
+ 
+ 
+  
+   
+    ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ 
+   
+   
+    
+     
+      
+
+---
+
+## [其他] Order Confirmation for Natalie from McDonald's
+
+**发件人:** DoorDash Order <no-reply@doordash.com>
+**日期:** 2026-06-25T18:34:03.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  DoorDash Order Confirmation  
+    
+   
+   
+   
+   
+   
+   
+   
+  
+    
+ 
+ 
+  
+   
+     ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏ 
+
+---
+
+## [其他] Il mercato dei mutui in Italia dopo l'aumento dei tassi Bce
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-25T13:00:30.000Z
+**摘要:** 
+**待办:** 无
+
+Il mercato dei mutui in Italia dopo laumento dei tassi Bce — idealista/news    La Bce ha aumentato i tassi di interesse di un quarto di punto e l’offerta dei mutui in Italia si modifica di conseguenza. Oggi il mutuo a tasso variabile conviene rispetto al fisso, con uno scarto di oltre cento euro mensili. idealista/news offre una panoramica del mercato attuale dei mutui in Italia, con un occhio ad alcuni casi particolari.
+
+--------------------------------------------------------------------------
+
+---
+
+## [其他] Che succede 25/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-25T08:26:46.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 25 giugno — idealista/news                Sospeso sulle acque del Lago Maggiore, per l’esattezza su Isola Bella, Palazzo è uno dei capolavori del barocco italiano. Una dimora principesca che occupa quasi per intero lisola, circondata da un giardino a dieci terrazze tra i più celebri al mondo. Uno dei punti più noti è il Salone Nuovo (o Salone Grande), lo spazio più alto e scenografico, che si sviluppa per oltre tre piani sotto una cupola. Altri ambienti celebri sono la Sala di Napole
+
+---
+
+## [其他] VANTAGGI ESCLUSIVI PER TE | Approfittane ora 🧡
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-25T07:31:30.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTh9ADIAAAAAAOMiZ4_JkvFemAr-UkogfSPLRHQwdHPAh62d8j8nIXpa0WWKAlWLOzXfMiBXph0nONOVfuea317Dxkz4TTmRt3BVoHyoEv_KixAePpQL3w 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTh9ADIAAAAAAOMiZ4_K05QvX4YQcMAznA83UH6jpbI5-VKpYrdjl9jXb6VtETbqUIMLXhBmmV57ZLuZEHy_K1fwNsKWG7NzYkEOJtmTpEpEbrFqtpNkJw 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTh9A
+
+---
+
+## [其他] ⚠️ natalie，您的 Gmail 存储空间已用尽
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-06-25T04:03:25.000Z
+**摘要:** 
+**待办:** 无
+
+您的 Gmail 将于 22 天后停止运行
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+
+
+
+您的 Gmail 将于 22 天后停止运行
+
+
+
+您已经用完了 Google 账号附带的全部 15 GB 存储空间。这意味着 Google 相册、 
+Google 云端硬盘和设备备份已停止运行。您的 Gmail 也将在 22 天后停止运行。
+
+您需要订阅 Google One 会员方案 ‡ 来获取更多存储空间获取更多存储空间，或者清 
+理存储空间清理存储空间，将总存储空间用量降至 15 GB 以下。
+
+
+
+
+---
+
+## [其他] 静候您亲临门店探索个性化体验
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-06-25T03:13:25.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+在 Loro Piana 精品店内，由品牌专业团队为您精心呈现的非凡个性化体验静候您的莅临。
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+---
+
+## [其他] Welcome to T-Mobile!
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-06-25T00:09:24.000Z
+**摘要:** 
+**待办:** 无
+
+ Welcome to T‑Mobile 
+Welcome to T‑Mobile
+[image: T-Mobile] 
+Welcome to T‑Mobile 
+Hi  ,
+
+Your phone number 3107095128 has been successfully set up.
+
+If you have questions, please visit us at https://my.t-mobile.com/home for 
+more information.
+
+Very best,
+Your T‑Mobile Team 
+Your Account Info 
+New 
+line 3107095128 
+Thanks for being a T‑Mobile customer! 
+[image: The T-Mobile logo in magenta color] 
+[image: The T-Mobile logo in magenta color] 
+
+THIS IS AN AUTOMATED EMAIL. PLEASE DO NOT REPLY.
+
+T‑Mo
+
+---
+
+## [其他] Order Confirmation for Natalie from Shake Shack
+
+**发件人:** DoorDash Order <no-reply@doordash.com>
+**日期:** 2026-06-24T18:38:33.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  DoorDash Order Confirmation  
+    
+   
+   
+   
+   
+   
+   
+   
+  
+    
+ 
+ 
+  
+   
+     ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏ 
+
+---
+
+## [其他] Will new homebuying rules shorten moving timelines?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-24T16:18:31.000Z
+**摘要:** 
+**待办:** 无
+
+Government reforms aim to simplify and speed up the process of
+buying a home              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/PUSBUFfui_U5MDl5L6cPRg~~/AAAHahA~/GQWXJaw4yPYBE1BvW0I8urFrHcOKmJlFpinu3Hq-BU2hY_Cgx6JcQ-TDGh1-hSIo7VSKOv6CnhWGNPsPEFVq1xPWWrYZAYfvsYOwFpDKifGnNVBXFL-tbkQ9zWfhuKQYkjHDx00PbiYGASJyR2x0KkAmoyhO3L5TwyoyCGirMAI~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/DogGkzkiSudr6KtahNuT5Q~~/AAAHahA~/TwRvjfxlSdMq_GzOiWoSWDUJp7XE6lpxjy_29SClVxTVcbncWFPuuIE9w-cqqpi
+
+---
+
+## [其他] natalie，还等什么，赶快重新加入 Google One
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-06-24T16:14:13.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+
+
+
+您仍可重新加入 Google One
+
+希望能再给我们一个机会，帮助您更充分地利用 Google。续订 Google One 会员资 
+格，您即可享有额外的云端存储空间来保存重要照片和文件，还能享用其他福利。此 
+外，您还可以与最多 5 人共享您的存储空间和福利。
+
+续订会员资格 
+<https://c.gle/AOPyDKTHRkzFKD2clGlrl0qyoMhsVhlVcaLypyZIN6mLG035MjdU77vAdVWRWtE57fX1p06Rxx0svDRyshtw8S6d1R6YKiP_ymsRCTu46UrK14QK0ku6KBC67NVRifhHMX9RCdt_BaDhcmcC5l4xP4schxUCzftNXN4VTlYh0apsHGoRy1mUI9qdp8OsgHj3Cd3xJm3ojrlqnQ4DfWga-RLNjh3P687BxIx3G5yq-h60SXBQIrVX9b9dBDdAUxyT3SVT6tU22Lz4xTe8dxgVWdZqzSlYfq2FXT9b4q33GUliozYY-tOZN1Ty2TXJMxjpxquo8F
+
+---
+
+## [其他] Pro tips for your recent purchase inside, Natalie ➡️
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-06-24T15:09:00.000Z
+**摘要:** 
+**待办:** 无
+
+ Pro tips for your recent purchase inside, Natalie ➡️ 
+Plus, more ways to get helpful 
+tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Extra 20% off sale starts now
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-24T14:19:30.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Open to improve your day
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTd9AAcAAAAAAyEBAvg8rl-18fxyKx9dKb7KrfxKb6uIfWkiI0EkXxZ8O8Cnkk8UiemWM5F_nIMHSH8T-VkezdmZliMaT7lsPpk0dCiPnaX6tTJuHMY 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTd9AAcAAAAAAyEBAvg_EHSy711brlbUVxg-pv1W4qTViaK51yQ_bDjm2XvyeGbg1tssVsvZodyU50aV23TyevcxIqnFsIR22QWt3DNrDLfzWV_3Y1Cf8XGi 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+http
+
+---
+
+## [其他] Don't miss important account information! Complete your Self Serve Registration.
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-06-24T09:01:46.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Just dropping by to remind you to register for Koodo Self Serve
+
+Once it's done, you can log in with your email address and password for 
+24/7 access to your usage, bill details and more!
+
+Register now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew_Reg_Assiste
+
+---
+
+## [其他] Raccontaci la tua esperienza
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-06-24T08:38:13.000Z
+**摘要:** 
+**待办:** 无
+
+ Raccontaci la tua esperienza 
+                           
+Ti basteranno 2 minuti
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Che succede 24/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-24T08:02:56.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 24/06/2026 — idealista/news      Da Berlino a Londra, da Barcellona a Helsinki, dal Ruanda allIndia settentrionale, esistono alcuni esempi di progetti architettonici concepiti per il benessere e la cura del pianeta che indicano la strada maestra per le costruzioni del futuro
+
+Caorle si distingue immediatamente per il suo centro storico di case color pastello affacciate sul mare, un campanile cilindrico unico in Italia e un lungomare trasformato in galleria darte a cielo aperto. Chi h
+
+---
+
+## [其他] Raccontaci qualcosa su di te
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-06-23T13:09:17.000Z
+**摘要:** 
+**待办:** 无
+
+Calvin Klein
+  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zw
+
+---
+
+## [其他] 15 immobili in vendita con prezzo trattabile da scoprire ora
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-23T13:01:01.000Z
+**摘要:** 
+**待办:** 无
+
+15 case con prezzo negoziabile — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Your promo code will expire soon - don't miss this chance!
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-23T08:48:07.000Z
+**摘要:** 
+**待办:** 无
+
+Don't let these deals slip through your fingers. Use a promo code now!
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fwww.trip.com%2Findex%3Flocale%3Den_xx%26allianceid%3D324048%26edm_id%3DSGP-ALI-20621-10152192184-1782204486471.877%26ouid%3D17925.Promocode-expire-reminder-EDM.0.20260623.en_XX.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D17925.Promocode-expire-reminder-EDM.0.20260623.en_XX.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS
+
+---
+
+## [其他] Che succede 23/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-23T07:38:35.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 23/06/2026 — idealista/news             Si pensa di conoscere il mare del Lazio, poi si arriva al Circeo e il colore dellacqua cambia a ogni curva. Verde intenso al porto, blu profondo sotto le falesie, trasparenze da maschera e boccaglio nelle calette. A due ore da Roma, il promontorio della Maga Circe alterna spiagge attrezzate, scogli per tuffi e grotte raggiungibili solo via mare. Da Punta Rossa alla Spiaggia del Prigioniero, passando per Torre Vittoria e Torre Paola, è una zona 
+
+---
+
+## [其他] Hey, you made it 🥂 Here’s 40% off
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-06-23T06:00:06.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash First-order feels. 
+͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4rq/37G4AoO5TTeXOcPqIrQMFw/h0/h001.HKIPK5u0yQzbPaA55-ZWumsDkYs04U8IZiREcS32adE> 
+
+RESTAURANTS 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4rq/37G4AoO5TTeXOcPqIrQMFw/h1/h001.CRxaRB4B5_i5mPK8CGiibbTP3rcV0WfsBG7n_KM3Q78>
+
+|
+
+GROCERY 
+<https://tracksg.doordas
+
+---
+
+## [其他] Open for: new summer active
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-23T01:05:28.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Hot girl walk approved
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTZ9AAcAAAAAAw6b9cXPJnPXPbsjHKIYNnO3MWNla_swA6yLe7Qau3vhwGPa2TyY4mXUCIwMkI0JywsyCTGnJX9nqDm9LAOIT_sdh6A7vZgjOvCgSOI 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTZ9AAcAAAAAAw6b9cXQ9cwe1RoTLKzV_0sORxliAFrRuLX3ftrnKtT22FNrnBv5HHbmP5jGr-Lm__orXqQt9QZxQDtyt1YmIgQtBzg7VX8JeZSFFQNnryGP 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ht
+
+---
+
+## [其他] 搜索服务及 Google Play 的新隐私设置
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-06-22T22:43:30.000Z
+**摘要:** 
+**待办:** 无
+
+Google 徽标
+ 
+
+nataliewu100@gmail.com
+ 
+
+natalie，您好！
+
+我们正在更新一些设置，让您可以更好地掌控各项 Google 搜索服务和 Google Play  
+中的历史记录保存和个性化推荐。搜索服务包括：Google 搜索、地图、购物、酒店、 
+机票、翻译和新闻。未来几天，您就会在 Google 账号中看到具体变化。
+
+有何变化
+
+以前，历史记录保存和个性化设置都是通过“网络与应用活动记录”进行管理。今后，您 
+可使用新的“搜索服务记录”和“个性化推荐”设置，更好地量身定制您的搜索服务体验。 
+这些设置可助您回顾执行过的搜索以及决定是否要获享个性化体验。随着人们越来越多 
+地采用新的搜索方式（例如使用智能镜头搜索照片），搜索服务记录现在会包含您互动 
+时产生的媒体内容，您可随时停止保存此类内容。对于 Google Play，即便您从未用过 
+这项服务，也会获得新的“Google Play 历史记录”和“Google Play 个性化功能”设置。 
+您可随时开启或关闭这些设置。
+
+这对您的账号有何影响
+
+---
+
+## [其他] Che succede 22/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-22T08:28:46.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 22/06/2026 — idealista/news              Le banche centrali continuano a rafforzare lesposizione alloro in un contesto di crescente incertezza geopolitica ed economica. È quanto emerge dal Central Bank Gold Reserves Survey 2026 del World Gold Council (WGC), secondo cui l89% degli istituti intervistati ritiene che le riserve auree globali aumenteranno nei prossimi 12 mesi. "Le banche centrali continuano a nutrire aspettative favorevoli sulloro", sottolinea il report, evidenziando che 
+
+---
+
+## [其他] La color combo perfetta, con Giulia Romanelli 💙​🤎
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-22T07:21:39.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9ADIAAAAAANkNz0Wajd6iAebyuZw128azKBd40vpRtyQR7HxJLtNkdqlRaIhxuDYaiNq5uJgmp2xct9ZRERvo3aNOB4CbWt-Xc16BjHq1ne82Aov5DQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9ADIAAAAAANkNz0Wcp0yIoedWc8Pv1eTxPWIMwbKWNmGp7B0ndV28QQGGFCyBP2trH2mmWmEvD2U4JA7tL5HG3ZubxrFe7dlxmyOYPJa7quOdzMkZ7w 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9A
+
+---
+
+## [其他] PERK ALERT! Your points balance is inside
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-06-22T06:32:17.000Z
+**摘要:** 
+**待办:** 无
+
+ COG - Net Promoter Score 
+Plus, we'd love your feedback - tell us how we're doing.
+Click here to view online. 
+<https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9AAcAAAAAAwJXfkdRc7naBShUuRItPqizHoqS6p891XHmPE1Ta99E9iCKODifvcqHhXRh7OSTiRp8cvEE1HBHBqihvqc_E5mK1ImrDLznlo6XLg> 
+[image: Cotton On & CO. perks.] 
+<https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9AAcAAAAAAwJXfkdSGZF68kdQVJPevnyPM-h9s6LVL1mG_mjbDKMa7ebPFJzONQq_hiq9er7nCFBdWoZAocXDNnHqKLqxbBfQT26ADRXc2tq43HW-u6E> 
+ 
+
+Membe
+
+---
+
+## [其他] Almost there! Complete your Koodo Self Serve registration now
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-06-21T18:19:44.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+We're almost ready to set up your Koodo Self Serve account - it's the only 
+way to view your bill details, track your usage, and select your Add Ons. 
+
+Complete your registration now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew_Reg_Assisted_MOB_Em> 
+
+All the
+
+---
+
+## [其他] It's payday Natalie! You've earned a $5 reward.
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-06-20T21:33:08.000Z
+**摘要:** 
+**待办:** 无
+
+Cotton On and Co. Perks
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
+
+---
+
+## [其他] Welcome to Perks 👋 Your 1st reward inside!
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-06-20T21:28:56.000Z
+**摘要:** 
+**待办:** 无
+
+Cotton On and Co. Perks
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
+
+---
+
+## [其他] Box doccia rovinato dal calcare: come pulirlo?
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-20T13:00:28.000Z
+**摘要:** 
+**待办:** 无
+
+Box doccia rovinato dal calcare — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Approfitta dei vantaggi esclusivi a te riservati 🧡
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-20T06:36:47.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTN9ADIAAAAAANUHQyGx951IlFpqoGItreJJlI-X21zCGJm26ly-MJgBaDOopiD414WclDTQXvYzKvcTwwfiGDsrRMIcnYCo_4mYv1ocl6Ck6nM18PVL 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTN9ADIAAAAAANUHQyGyml9bDrP31d3XAWNHYwbPyYVXhLVh3f9qTdXV4sujaqHvcs5idEycyDXfuzVL7gJC8QyLq16LLykn2uWEEF-i-vADtrfnvjQ0 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTN9ADIAA
+
+---
+
+## [其他] If you try anything from Sephora, make it these…
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-19T16:40:34.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+It’s all so good
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019ee0c164f99c631bf4bbe5c898/a95dd3c8f43a4f230000021ef3a0bcc2/a95dd3c8-f43a-4f23-871b-386d49caf9
+
+---
+
+## [其他] Alla scoperta di Burano, tra merletti e case colorate
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-19T13:01:05.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 19/06/2026 — idealista/news     | Mercoledì 17 Giugno 2026  | Martedì 16 Giugno 2026 | Lunedì 15 Giugno 2026  | Giovedì 18 Giugno 2026 | Venerdì 19 Giugno 2026  | Giovedì 18 Giugno 2026[ed editore di questa newsletter]. Un segnale di cambiamento un contesto di offerta in crescita, dove i proprietari si mostrano sempre più reattivi, rivedendo le proprie richieste per restare competitivi e accelerare i tempi di locazione
+
+| Venerdì 19 Giugno 2026
+****************************************
+
+---
+
+## [其他] Most popular UK commuter towns for buyers
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-19T10:15:59.000Z
+**摘要:** 
+**待办:** 无
+
+Commuter towns generating the most demand around major UK cities
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/NgQ4WQFMZt3boS1Q8-OhvQ~~/AAAHahA~/5_guAl4_0Rwbx0XSHN1mSx2iE0cuDGVuJpiV5qiPSWy_2KR0gq_FE7iQBNp_SjrYBjrrlojucSL9Nyg1mgS_aBr6gobPGftffb7bcGiv9OmrIET09iBZRze1MbUk26dr7_er3Uu6weBXK7TKyGUtoZIeb1N-OPs3kEqdMwkRcsA~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/J0ECO_Mk-7T8QdUZ2ERXKQ~~/AAAHahA~/RsGgKIXe4JSoD9mnmoLJ1Z9nghYtbCbOzhSkHZlPCKjnAaR05DMvdCAVbLqjw0CvGglMVQzmeV1TyNi1mdGiPZcm
+
+---
+
+## [其他] Che succede 19/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-19T08:46:17.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 19/06/2026 — idealista/news       L’idea di avviare un cantiere nella propria abitazione evoca immediatamente immagini di polvere, rumore, stanze sottosopra e operai che camminano nei corridoi all’alba. Di fronte a questo scenario, la domanda sorge spontanea: si può ristrutturare casa vivendoci dentro con i mobili o si tratta di un’utopia che si trasforma inevitabilmente in un incubo? La risposta non è un semplice sì o no, ma risiede nella qualità della pianificazione. Scegliere di r
+
+---
+
+## [其他] Approfitta dei vantaggi esclusivi a te riservati 🧡
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-19T08:28:09.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTJ9ADIAAAAAANKxI5B06s2OW7I0r4dZcCUZGMAikw59UKssG4VpJZhYG_10U21LNgQBE-bM74OKG0EDh_tnjczsapYil40jWy_u-eYWqDDeZ3-C4ZBO 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTJ9ADIAAAAAANKxI5B1BaTuqA7St3L7bali3s9QtCzop_Qh2F1KJJIXbdwSfev98rIDtjsyPVc3oENk2Gy-mHFe_D1eUxEuTx5QT5WqdzerfklSyD74 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTJ9ADIAA
+
+---
+
+## [其他] Il rinnovo dell'offerta non è andato a buon fine
+
+**发件人:** iliad <noreply@iliad.it>
+**日期:** 2026-06-19T05:17:39.000Z
+**摘要:** 
+**待办:** 无
+
+La tua offerta non si è rinnovata
+[image: iliad]
+
+Ciao JINGQI, 
+
+la tua offerta iliad per la linea *3520301513* non è stata rinnovata perché 
+la carta di pagamento utilizzata non accetta l’addebito mensile automatico.
+
+Aggiorna qui 
+<https://www.iliad.it/account/dati-personali/status-dei-pagamenti> il 
+metodo di pagamento e scegli l’addebito su carta di credito o IBAN per 
+riattivare il servizio a partire dal prossimo mese ed evitare che la tua 
+offerta non venga rinnovata.
+
+Grazie,
+Team iliad
+
+
+
+---
+
+## [其他] ⚠️ natalie，您的 Google 账号存储空间已用尽
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-06-18T20:13:03.000Z
+**摘要:** 
+**待办:** 无
+
+您的 Gmail 将于 28 天后停止运行
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+
+
+
+您的 Gmail 将于 28 天后停止运行
+
+
+
+您已经用完了 Google 账号附带的全部 15 GB 存储空间。这意味着 Google 相册、 
+Google 云端硬盘和设备备份已停止运行。您的 Gmail 也将在 28 天后停止运行。
+
+您需要订阅 Google One 会员方案 ‡ 来获取更多存储空间获取更多存储空间，或者清 
+理存储空间清理存储空间，将总存储空间用量降至 15 GB 以下。
+
+
+
+
+---
+
+## [其他] Psst, new Sincerely Yours just dropped
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-06-18T18:17:56.000Z
+**摘要:** 
+**待办:** 无
+
+ Psst, new Sincerely Yours just dropped 
+And it’s sooo 
+good. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] Dove andare in vacanza a luglio? 12 mete tra mare, montagna e campeggio
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-18T13:00:29.000Z
+**摘要:** 
+**待办:** 无
+
+12 idee per le vacanze di luglio in Italia — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Che succede 18/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-18T08:15:07.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 18 giugno — idealista/news       Quando il sole del Sud colpisce i muri imbiancati a calce, interi borghi sembrano sospesi tra cielo e terra, con un candore che ricorda le isole greche più che la penisola. Le città bianche in Italia non sono costruite per il turismo, ma il risultato di scelte pratiche, igieniche e perfino difensive maturate nei secoli. Si concentrano soprattutto nel Mezzogiorno, dove il bianco aiutava a riflettere il caldo e a illuminare vicoli stretti e bui
+
+Il lito
+
+---
+
+## [其他] ⚠️您的 基本版 100 GB 方案已到期
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-06-17T16:14:13.000Z
+**摘要:** 
+**待办:** 无
+
+您的存储空间已用尽，29 天后将无法再接收邮件
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+
+您的存储空间已用尽，这将导致您在使用 Gmail、Google 相册和云端硬盘时会遇到问 
+题
+
+
+
+您的 Google One 会员资格已到期
+
+您的 Google One 基本版 100 GB 方案已到期，因此您无法再使用共享存储空间在  
+Google 相册、云端硬盘和 Gmail 中保存照片、视频、设备备份及重要文件。
+
+您目前使用了 23.97 GB 的存储空间，已超出 Google 账号附带的 15 
+
+---
+
+## [其他] Che succede 17/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-17T08:01:11.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 17/06/2026 — idealista/news         Lufficio anagrafe effettua sempre una verifica preliminare per accertarsi che limmobile sia idoneo a essere utilizzato come dimora stabile e duratura. In questa fase vengono esaminati i requisiti abitativi per residenza, i quali dipendono dalla regolarità urbanistica e catastale del fabbricato. Per superare il controllo documentale, lunità deve appartenere al gruppo catastale delle civili abitazioni (da A/1 a A/9 e A/11): sono esclusi, quindi, gli 
+
+---
+
+## [其他] VANTAGGI ESCLUSIVI PER TE 💝
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-17T07:37:56.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTB9ADIAAAAAAMnbR3Bt3w8HyoeSk-QYxHGeKceFSicQIoowX-ea1yLFPphbjLIpkBJVganTISUbIKStx_WAW7dYNOzvQfe-5Xj_UKSVZZ9Y7_tomNQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTB9ADIAAAAAAMnbR3Bur5tPyS4Sibg72nh0qeM_DojS__wHQ2IrAKNcaZCCeM6T7qo4mnwnLW43cT7dHiqKInmE279Kmrhjz9YrE2NsbcMlDzbw9tE 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTB9ADIAAAA
+
+---
+
+## [其他] Reminder: The New Parent Welcome & Information Night is on Thursday, June 18
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-06-17T04:40:17.000Z
+**摘要:** 
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [其他] This email is good for your budget 💰
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-16T16:31:34.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+We’ve got a few suggestions inside.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019ed14613339690ce369fea4b34/b5b4cbe92b014ece0000021ef3a0bcc2/b5b4cbe9-2b01-4
+
+---
+
+## [其他] Villette al mare sotto i 180.000 €: ecco dove
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-16T13:00:30.000Z
+**摘要:** 
+**待办:** 无
+
+Le 10 villette al mare più economiche dItalia — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] 租车垫付已办理-订单号1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-16T10:08:22.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+3000万人都在用的全球自驾游平台 
+
+尊敬的客户，您好！
+
+感谢您使用租租车国际租车预定服务。
+
+我们已经办理垫付款至您指定的账户，请查看您的支付宝。
+
+到账时间参考：
+若通过支付宝、微信余额付款，款项通常在1-2个工作日到账；
+若通过大陆借记卡付款（包括通过第三方），款项通常在1-3个工作日到账；
+若通过信用卡消费人民币（包括通过第三方），款项通常在3-5个工作日到账；
+若通过信用卡消费外币，款项通常在7-15个工作日到账；
+
+给您造成的不便，我们再次深表歉意。
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国内地拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] Che succede 16/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-16T09:26:29.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 16/06/2026 — idealista/news                 Petrolio ancora in calo dopo laccordo raggiunto sulla tregua fra Usa e Iran che sarà siglata in Svizzera venerdì insieme alla riapertura del canale di Hormuz. Il Brent cede lo 0,5% a 82,8 dollari, il Wti lo 0,4% a 80,4 dollari. Gli analisti di Citi intanto hanno tagliato le stime sul Brent. La banca vede una probabilità del 60% di normalizzazione dei flussi nello Stretto di Hormuz entro metà/fine luglio e stima un Brent a 65 dollari nel 202
+
+---
+
+## [其他] Il tuo buono da 50€ scade oggi! ⏰​
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-16T05:04:18.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDl9ADIAAAAAAMaX91xUMwpF1Ap6Rv99_dUX_7Drhx1WUyjJIX5mWTQvd28_q8Clx-WQM_hu2YmPJTHn49xLYnHQUVV3C2u7gSi_PuwjmtqCl7rIW5Y 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDl9ADIAAAAAAMaX91xV_7l_uIDxMCRiDOeE820pbknRO8b-qJMJGMRl5n3X8vbUSTXK5FUCwbGUc-f2VPrxaZLeQBMlAflP
+
+---
+
+## [其他] 请对您在罗马的租车订单的售后服务进行评价- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-16T03:22:03.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+<http://www.zuzuche.com/> 租车时间：2026-06-01 - 2026-06-06
+服务单号：1854967221
+订单号：1008974800 
+您对罗马租车售后服务的体验如何？来点评一下吧！ 
+您的意见将有助于我们改善服务水平，为您打造一个更好的租租车。 
+不满意 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=1854967221&act=get&source=EMAIL> 
+一般，还可以 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=1854967221&act=get&source=EMAIL> 
+非常满意 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=
+
+---
+
+## [其他] Trip Coins Balance Changed
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-15T18:00:06.000Z
+**摘要:** 
+**待办:** 无
+
+You've got new Trip Coins!
+
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2
+
+---
+
+## [其他] U.S. DoS - CEAC Confirmation (AA00FLWVNL)
+
+**发件人:** <DO-NOT-REPLY@state.gov>
+**日期:** 2026-06-15T17:19:17.000Z
+**摘要:** 
+**待办:** 无
+
+Dear Applicant,
+
+Thank you for being a valued U.S. Consular Electronic Application Center (CEAC) customer. Your electronic Visa application has been submitted.  
+
+ 
+
+   Name Provided:    GUAN, SHIFEN
+   Country/Region of Origin (Nationality):      CHINA
+   Passport Number:  EM9941920
+   Completed On:     15 JUNE 2026 13:16:56 EST
+
+   Confirmation #:   AA00FLWVNL
+
+YOUR CONFIRMATION PAGE IS ATTACHED TO THIS EMAIL IN A PDF FILE!
+
+You must follow the instructions on the confirmation p
+
+---
+
+## [其他]   最后提醒：请在 2026年6月17日前更新支付信息
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-06-15T16:14:11.000Z
+**摘要:** 
+**待办:** 无
+
+   在浏览器中查看  
+<https://notifications.google.com/g/vib/AOPyDKS0VQlx9mc6FKeZtdk4T7kzOd3q7BOEQ3P1k4_H1W4ZkCVHxaW2T86hhOcN3WmGteUULyZKx_TlLRiwClzqeJC_AvJnAmJq74OCxhiEojnx4I5y0g5KT1HuUWRuKKUK45U>
+(c) 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
+
+## [其他] Che succede 15/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-15T07:44:06.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 15/06/2026 — idealista/news             Vendere un immobile con irregolarità, sia che presenti una difformità urbanistica o una catastale, è unoperazione possibile ma che richiede procedure specifiche. Spesso la vendita di una casa non conforme può essere perfezionata sanando labuso prima del rogito (qualora lintervento sia regolarizzabile a livello urbanistico), oppure dichiarando apertamente lirregolarità allinterno dellatto con il pieno consenso dellacquirente. Fanno eccezione sol
+
+---
+
+## [其他] 您的补偿单已经超过24小时还没领取，请点击领取- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-14T09:20:07.000Z
+**摘要:** 
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+感谢您使用租租车国际租车预定服务。
+您的意大利 租车订单已超过24小时还没领取，可通过以下方法进行领取
+
+方法1:请下载租租车APP进入订单详情页，点击领取补偿即可领取。
+方法2:手机下载了APP后，手机打开下方链接领取补偿。
+
+6天后失效 点击此处立即领取 <https://l.zuzuche.com/gjHhJr> 
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] Your receipt from Sephora
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-06-13T18:31:39.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+Natalie, thanks for shopping at Sephora. Your e-receipt is enclosed.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://beauty.sephora.com/T/v610000019ec240f74b9d420a434b5c4360/84ba567bf3cd
+
+---
+
+## [其他] A little Sephora shopping intel 💡 🛍️
+
+**发件人:** Sephora Beauty Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-13T18:25:34.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+We’re happy you’re here! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019ec23b61fbb4bcec434b5c3ae8/1eca82f945ab44fa0000021ef3a0bcc2/1eca82f9-45ab-44fa-b72c-8
+
+---
+
+## [其他] Scopri la pianta del ghiaccio, fiorisce tutta l'estate
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-13T14:00:50.000Z
+**摘要:** 
+**待办:** 无
+
+La pianta del ghiaccio che fiorisce tutta lestate — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] 唔好等到溫哥華機票貴咗再買! 😤
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-13T09:29:44.000Z
+**摘要:** 
+**待办:** 无
+
+即刻預訂！機票價格隨時會上升😱
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10154197228-1781342978264.519%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1781341200000.20260613.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1781341200000.20260613.zh_HK.%26trip_in_sid%3D1117&bizData
+
+---
+
+## [其他] TREND ALERT | I look per l'estate di Giulia Arena
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-13T07:25:56.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDZ9ADIAAAAAAMCIeFp9DRnqHT3vnOOxWGC28J3UtG0-nZym_YomryiKhtejpTS7dKJq3VI0cJH9a5JkCaiQoLUpg9WOXcGagD_wNDvC07picZK8gFvY 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDZ9ADIAAAAAAMCIeFp--yV1sQ37MNZY3DGw_dkQu7LFVwlEfACZ8HfE3wL9VSrigv1DAWPMpYQgvA866ECrQyvJdP79aIL7j2Jd1AXaru2LWRG5Ya1S 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDZ9ADIAA
+
+---
+
+## [其他] 6 vibrant homes with maximalist interiors
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-12T16:08:27.000Z
+**摘要:** 
+**待办:** 无
+
+Full-colour homes rejecting minimalism for maximum impact
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/PWAQTu_YDC3FmVo87A7-ZA~~/AAAHahA~/sY29SgT441e3weVkaD0atr2C-lds6o_obrSnbVgTz7u_ZqE0V2vZb-dj7WOByyHICp7rPSaf7CpCDXjz0JfDMpiu0dExW7r7Y6tZZfvSWcorcV-BqrWlXyjEZU2SvUQP-JF-gnojnKUQA3ZWlaiUYOGUj8wJdPjxFJv7fd-KDoE~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/oMm25Wwz5bFSsNfdByab4Q~~/AAAHahA~/LVwrAm5tc0P70jX0XsywdXdpa4yCIYxkoKikXjlsqnVcODned1ui23sG6eOH3Trbj6pgnBroXripqz0GVN7MxfOIX4IWQYH
+
+---
+
+## [其他] La BCE aumenta i tassi, cosa succede ai mutui
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-12T14:00:25.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, mist
+
+---
+
+## [其他] 您有一份意大利租车订单的补偿单待领取- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-12T10:02:36.000Z
+**摘要:** 
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+感谢您使用租租车国际租车预定服务。
+关于您意大利订单：1008974800，有一个补偿单待领取，您可以通过以下方式领取补偿。
+
+方式1:下载APP后，在APP订单详情页点击【点击领取补偿】。
+方式2:下载APP后，手机打开下方链接领取补偿。
+
+领取补偿 <https://l.zuzuche.com/WPwLCC>
+
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] 关于您的意大利租车售后服务 - 订单号：1008974800 回复反馈
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-12T09:58:28.000Z
+**摘要:** 租租车确认已处理退款，费用将在5-7个工作日内到账，并对之前的不便表示歉意。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武晶琦，您好！
+
+感谢您使用租租车国际租车预定服务。
+
+非常感谢您的耐心等待，
+关于您反馈未使用车辆事宜，经过我们和车行核实确认，车行已经告知同意将预付的费用给您，目前已经操作退款。费用会在5-7个工作日内完成并到账，请您届时留意查收相关的退款信息。
+关于此次问题给您造成的诸多不便，我们再次深表歉意，我们也会继续努力，与车行共同推动门店服务，为我们的国人自驾游带来更好的服务体验。
+再次感谢您的理解与支持，祝您生活愉快，每一段旅程都别致精彩！
+
+感谢您百忙之中抽空与我们沟通，关于您此前提出的售后问题，先前已解答，为了节省您的宝贵时间，如我们在1-2个工作日内还没收到您的最新反馈，本售后工单将会先行结案。
+如果您有需要，请再联系我们，我们期待再次为您服务。
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快！
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-60
+
+---
+
+## [其他] 您已成為金級會員！
+
+**发件人:** "Trip.com Rewards" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-12T08:56:05.000Z
+**摘要:** 您已升级为金级会员，享受火车票退款手续费豁免及其他奖励。
+**待办:** 无
+
+享受火車票退款手續費豁免及其他全新升級獎賞！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-20621-101526105-1781254563425.997%26ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0yMDY
+
+---
+
+## [其他] Che succede 12/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-12T07:30:30.000Z
+**摘要:** 欧洲央行加息25个基点以抑制通胀，可能增加可变利率贷款用户的还款压力；同时提及物业管理中业主欠费问题及法律应对措施。
+**待办:** 无
+
+Che succede 12/06/2026 — idealista/news     Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, misto o che sono in procinto
+
+---
+
+## [营销] Il tuo buono da 50€ ti sta aspettando ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-12T07:05:05.000Z
+**摘要:** 邮件通知用户有一张50欧元的优惠券，可在线上或线下使用，并附有各类商品的链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h253PRfInu-9R0PevDinON5uOSRYbHLVCll1nd27YFprPCYR6E1QrWfhDRz4oLwHewoALqFTnNdPGsc582lboTDP5EgMe2P1HU 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h27NzHB9N-ZRROV2wJXFAafGp27nF3oFkb-yfLQ3Dfgn80Sq9T8-mkhm9KLLA9AM1pVBXwHParsp6fH
+
+---
+
+## [营销] 🔥優惠券大放送！幫你慳高達 HK$1,260💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-12T00:32:19.000Z
+**摘要:** Trip.com 发送优惠券促销邮件，针对恒生/中银Visa用户提供机票、酒店及套票折扣，并附限时高铁优惠信息。
+**待办:** 无
+
+恒生/中銀Visa 額外優惠💳中銀Visa：機票減$200✈️ 酒店減$250🏨套票減$250🧳【限時加碼】6.13-14 預訂 Italo 
+高鐵 9 折🚄
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015498178-1781224338270.629%26ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
+
+---
+
+## [其他] 您的航班快將出發 — 追蹤您的航班狀態
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-06-11T23:51:10.000Z
+**摘要:** 提醒用户航班即将起飞，需点击链接查看航班状态。
+**待办:** 查看航班状态
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+您的航班快將出發 — 追蹤您的航班狀態
+您的航班快將出發 — 追蹤您的航班狀態
+您好，WU JING QI：
+您的航班將於4小時後起飛。請點擊下方按鈕以查看您航班的最新資訊和詳情。
+  查看航班狀態   
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Fwww.trip.com%2Fwebapp%2Fflight%2Fschedule%2Fdetail.html%3FisHideNavBar%3DYES%26origin%3D239%26useCTHybrid%3D1%26flightNo%3DTP829%26dcode%3DMXP%26acode%3DLIS%26queryDate%3D2026-06-12%26queryTime%3D05%3A50%3A00%26locale%3Dzh-HK%26channel%3Demail%26subC
+
+---
+
+## [营销] Road trip e viaggi in famiglia: dove andare nell’estate 2026 tra Italia ed Europa
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-11T14:00:33.000Z
+**摘要:** 这封邮件提供了2026年夏季意大利及欧洲家庭旅行的路线和目的地建议。
+**待办:** 无
+
+Road trip e itinerari italiani in famiglia — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [营销] 訂完機票⚠️記住用埋75折酒店優惠‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-11T13:10:24.000Z
+**摘要:** 提醒用户预订机票后使用75折酒店优惠并赚取Trip Coins。
+**待办:** 无
+
+機票客戶專享❕洛杉磯酒店低至75折💰預訂再賺 Trip Coins 回贈💰立即預訂👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015423650-1781183420827.678%26ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1NDIzNjUwLTE3ODExODM0MjA4MjcuNjc4IiwidGl0bGU
+
+---
+
+## [其他] 关于您的意大利租车售后服务 - 订单号：1008974800 回复反馈
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-11T10:42:19.000Z
+**摘要:** 租租车通知用户意大利租车售后订单正在处理中，车行仍在核实信息，暂未收到回复，并承诺持续跟进。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武晶琦，您好！
+
+感谢您使用租租车国际租车预定服务。
+
+关于您的售后订单反馈事宜，我们已联系车行积极处理跟进中，车行售后中心仍在与门店核实沟通中，暂未收到相关回复。
+
+我们会持续跟进并催促车行优先跟进您的案件，如有任何进展，定会第一时间告知您。
+
+请您耐心等候，感谢您的理解。
+
+如有其它问题需要协助，欢迎随时联系我们，祝您生活愉快！
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] Che succede 11/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-11T07:51:24.000Z
+**摘要:** 邮件内容涉及搬新家时燃气等服务的处理流程，以及欧洲央行加息和油价下跌的新闻资讯。
+**待办:** 无
+
+Che succede 11/06/2026 — idealista/news          Quando ci si trasferisce in una nuova casa, uno dei primi passi fondamentali riguarda la gestione delle utenze e la riattivazione del contatore del gas per rimettere in funzione limpianto. Se il dispositivo è stato chiuso regolarmente dal precedente inquilino, basta contattare un fornitore e richiedere un subentro, unoperazione che costa mediamente 50 euro e richiede circa 10-12 giorni lavorativi per lintervento del tecnico
+
+La Banca Centrale Euro
+
+---
+
+## [营销] OLTRE X IEO-MONZINO | Capitolo 1
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-11T07:25:05.000Z
+**摘要:** 这封邮件宣传Oltre新品上架，包括裤子和上衣，并提供免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAAAAAALmhWTBBHptmPwflIOp-6aHZsYF5Dw2mT-LAGATYpyzEfLiCFRBOZzeBTGSRpE9YtnCRLnopzpj39RVG2gphZlto3spael7N-F4VJkaP 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAAAAAALmhWTBC2g0OBEB1ONeqlTW8tTIXhD_yRn5u0X-WRnPXGgM_RbL6UFn-A6227TGgEbRIfn5mZ_bthXOlS9a-l9R4eZlNGfl-swbZsU_3 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAA
+
+---
+
+## [其他] 关于您的意大利租车售后服务 - 订单号：1008982021 回复反馈
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-11T08:13:38.000Z
+**摘要:** 询问订单是否未使用，并提及另一个订单的售后进展
+**待办:** 确认订单是否未使用并回复
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武晶琦，您好！
+
+感谢您使用租租车国际租车预订服务。
+
+
+抱歉给您添麻烦了，查看您此单订单号1008982021，是一个由SIXT租车公司提供的订单，而且是到店支付的订单，您下单时没有支付费用。请问您是这个订单没有使用吗？
+
+另外看到您还有另外一个Europcar公司提供的，订单号1008974800的订单，有其他的售后同事在跟进中，请您先耐心等待，有任何新的进展同事会联系您的。
+
+如有其它问题需要协助，欢迎随时联系我们！
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] [罗马]订单售后服务申请创建成功 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-11T08:02:50.000Z
+**摘要:** 租租车通知用户售后申请已创建，需配合提供材料以加快处理，并说明处理时间。
+**待办:** 提供材料以协助处理售后问题
+
+ 3000万人都在用的全球自驾游平台 
+
+
+亲爱的武**，您好！
+
+我们已为您创建售后申请记录，售后服务专员会在1-2个工作日处理并尽快为您核实和跟进此案件。请您稍作等待。
+
+*（此邮件为创建工单自动发送邮件，旨在尽快收集单据更有效的跟进案件，如您此前已提交请忽略）*
+
+ 为了加快解决问题的进程，若售后问题涉及租车相关费用，在您有保留的情况下，我们希望您能配合提供以下材料：
+
+ 1、在您取车的时候，车行提供给您签字的租车合同
+
+2、在您还车的时候，车行提供给您的最终结算单据
+
+3、您被扣费相应的信用卡扣费记录（包括扣费商户、扣费金额和扣费时间）
+
+若售后问题不涉及租车费用，请您提供与案情相关的凭证。
+
+完整的信息提供有助于我们尽快了解清楚情况。我们将尽最大的努力促成车行在10-20个工作日内解决您反馈的绝大多数问题，一旦车行有回复我们会立即同步您售后的处理进度。若案件涉及第三方，处理所需时间可能较久，还望您能谅解和耐心等待。
+
+如有任何疑问，您可以回复邮件咨询我们。
+
+-------------------------------------------------------
+若您有
+
+---
+
+## [营销] Loro Piana 造型标志性服装
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-06-11T03:13:50.000Z
+**摘要:** 介绍Loro Piana最新系列服装，强调其优雅设计和品牌特色。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+品牌廓形精心雕琢，每款服装尽显从容优雅之姿。
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+---
+
+## [营销] Le più belle case vacanze con piscina e vista mare per un’estate da sogno
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-10T14:00:40.000Z
+**摘要:** 这封邮件介绍了Idealista平台上的带泳池和海景的度假房屋推荐，旨在吸引用户浏览其房产信息。
+**待办:** 无
+
+Case con piscina e vista mare — idealista/news
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Che succede 10/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-10T07:36:12.000Z
+**摘要:** 邮件内容涉及意大利腐败风险与法律修改的新闻，以及欧盟要求Meta恢复第三方AI助手访问的声明。
+**待办:** 无
+
+Che succede 10/06/2026 — idealista/news                "Per unopera così costosa i rischi di corruzione e infiltrazione mafiosa sono elevatissimi: ma anziché rendere più trasparente liter e aumentare i controlli, i diversi decreti sul Ponte, uniti ad alcune scelte normative generali, a partire dallabolizione del reato di abuso dufficio e dal ridimensionamento del traffico di influenze, hanno indebolito le difese della pubblica amministrazione, cioè dello Stato e dei cittadini". Lo afferma il pre
+
+---
+
+## [营销] 注意‼️BTS 世界巡演預售😍
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-10T00:22:12.000Z
+**摘要:** BTS世界巡演即将在港举行，需注意预售时间抢票。
+**待办:** 无
+
+【10AM 搶】暌違8年再次來港🔥一連三場，約定你下年啟德主場館見，見證傳奇回歸
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015220365-1781050912917.449%26ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
+
+## [营销] La tua ricevuta elettronica
+
+**发件人:** Calvin Klein <store@mailing.calvinklein.com>
+**日期:** 2026-06-09T14:38:01.000Z
+**摘要:** 这封邮件是Calvin Klein的购物确认邮件，包含购买感谢和相关产品链接。
+**待办:** 无
+
+ Calvin Klein 
+Grazie per l’acquisto.
+Se hai problemi a visualizzare le immagini, fail clic qui 
+<https://view.mailing.calvinklein.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9AAYAAAAAAduicVLACbJ-ySjNAPAd5ohI3L6DL69hqO9A_bfGYO6o5tYJiErzhN1BvXB4iAjTIhHbmqNioTZFzwjtlGwoE1YU3rkQY9LiZ9t0XgtgWfg-skYjV5R2CkxPH_sAdzQ8056WgPtDh3Nw>. 
+
+[image: Calvin Klein] 
+<https://click.mailing.calvinklein.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9AAYAAAAAAduicVLBWRZFCkq9LNrmFGOFXFu9zwcmd39R7M1WlJBnw7GO431lq55veysIf0LbPIKwCO9Kk5AZ8EvL_rS_r1
+
+---
+
+## [营销] 10% di sconto per darti il benvenuto
+
+**发件人:** Calvin Klein <store@mailing.calvinklein.com>
+**日期:** 2026-06-09T14:37:03.000Z
+**摘要:** 提供10%的折扣欢迎新客户
+**待办:** 无
+
+Calvin Klein
+ 
+
+
+   &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &
+
+---
+
+## [营销] Ville di lusso con piscina: vivi un’estate da sogno
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-09T14:01:03.000Z
+**摘要:** 介绍20座配备游泳池的豪华别墅，适合度假居住。
+**待办:** 无
+
+20 ville da sogno con piscina — idealista/news
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Che succede 09/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-09T08:53:22.000Z
+**摘要:** 邮件总结了意大利房地产市场数据及部分旅游景点推荐。
+**待办:** 无
+
+Che succede 09/06/2026 — idealista/news     Il mercato immobiliare italiano nel suo complesso mostra meno sconti: nel primo trimestre 2026 l8% degli annunci di case in vendita ha registrato un ribasso di prezzo, contro il 9% dello stesso periodo del 2025. È quanto emerge dallultima analisi pubblicata da idealista, portale immobiliare N.1 in Italia [ed editore di questa newsletter], sui dati del proprio database. Ma il dato nazionale rischia di nascondere una dinamica più interessante, che emerge
+
+---
+
+## [营销] Indossa i colori della terra 🤎
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-09T07:09:12.000Z
+**摘要:** 这封邮件是Oltre品牌的促销通知，包含免费取货、免费退换货服务以及新品上架信息。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9ADIAAAAAALH3s6P4I6PNTpD5Xw4NaAmedQnZeC7eQbEE-RJVexSy4TYcpos5sl6ns6UCv2swFVBA_8kJHlksHxHJbgTd6sTJXV2XncSL83YumUIk 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9ADIAAAAAALH3s6P5KEwODK-Y6DhA06cTlLOTzGIpHdlWGO-wgb5fIhrP5Scu94bMGmnwiL0hRvvzaebQF-nLy956CffHV0ONdqwFcYBgYTEIFEmi 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9ADIAA
+
+---
+
+## [其他] EVUS Status Change
+
+**发件人:** no-reply@cbp.dhs.gov
+**日期:** 2026-06-08T21:06:40.000Z
+**摘要:** EVUS状态有更新，需前往指定网站查看。
+**待办:** 检查EVUS状态并更新信息
+
+ EVUS Status Change There has been an update to your EVUS Enrollment Status 
+submitted on June, 8 2026. Please visit https://www.evus.gov to check your 
+enrollment. 
+
+For assistance, please call the EVUS Call Center at 00-1-202-325-0180. The 
+Call Center is available 24 hours per day, 7 days per week, to assist you 
+with your EVUS enrollment. 
+
+EVUS Program Office 
+
+https://www.evus.gov
+www.cbp.gov/evus
+
+*E-mail Security:* If you are concerned about clicking the above link, EVUS 
+can be accessed
+
+---
+
+## [待办]  解决支付问题，以保留 Google One 会员资格
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-06-08T16:14:11.000Z
+**摘要:** 邮件提醒解决支付问题以保留Google One会员资格。
+**待办:** 查看链接并解决支付问题以保留会员资格
+
+   在浏览器中查看  
+<https://notifications.google.com/g/vib/AOPyDKRXh8KlhWoClc3qB_2SflEbgUkp2GXrl5rjnoZWMT_H1CD-1X-39gyrRhWA1BuNHUNuCuCAb-2zn7qoICeTk3R3AVZ9Yt8NN55Q4WWAQgf9xgwNFqWnZbFGlooYwSGkna8>
+(c) 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
+
+## [其他] Che succede 08/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-08T07:45:08.000Z
+**摘要:** 邮件解释了不锈钢餐具在洗碗机中可能生锈的原因，并提及意大利银行间的并购动态。
+**待办:** 无
+
+Che succede 8 giugno — idealista/news          L’acciaio inox è considerato resistente alla corrosione, eppure può capitare di trovare macchie di ruggine sulle posate appena lavate. Questo fenomeno sorprende molti consumatori, perché l’idea comune è che l’inox sia “inossidabile”. In realtà, nessun acciaio è completamente immune alla corrosione: è solo più resistente rispetto al ferro tradizionale. Ma allora perché le posate fanno la ruggine in lavastoviglie? La ruggine sulle posate in lavastovig
+
+---
+
+## [营销] 🏔️制霸日本全攻略🥷🏻
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-08T01:34:07.000Z
+**摘要:** Trip.com推送日本旅游攻略，包含酒店、机票和玩乐体验的优惠信息，以及行程路线指南。
+**待办:** 无
+
+【低至半價】酒店/機票/玩樂體驗優惠🈹一站集合優惠 + 行程路線指南🎏即睇點先最抵玩👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154242164-1780881718458.204%26ouid%3D427317.HK-20260608-EDM-GoJP-AB-zh.2026-06-08_8_0.20260608.zh_HK.427310%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D427317.HK-20260608-EDM-GoJP-AB-zh.2026-06-08_8_0.20260608.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUF
+
+---
+
+## [学校] You're Invited: New Parent Welcome & Information Night
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-06-07T14:26:58.000Z
+**摘要:** 邀请新家长参加欢迎会和信息之夜，了解学校详情。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [其他] We value your opinion: your recent SIXT rental
+
+**发件人:** Sixt <feedback@experience.sixt.com>
+**日期:** 2026-06-07T02:08:06.000Z
+**摘要:** Sixt邀请用户参与租车体验反馈调查，以改进服务。
+**待办:** 填写租车体验反馈调查
+
+  
+[image: Sixt Logo] 
+
+Rental Agreement: *9611047694*
+[image: Pen Icon] 
+We value your opinion   
+
+Dear JINGQI WU,
+
+Thank you for renting with SIXT.
+
+We greatly appreciate your opinion and feedback.
+
+In an effort to continuously improve your experience, we ask you to take a 
+brief moment to participate in a short survey.
+
+------------------------------
+
+
+How was your overall rental experience from 2026-06-01 to 2026-06-06 with 
+vehicle pick-up at Rome Termini Station?
+  [image: Not satisfied at
+
+---
+
+## [其他] Festival musicali estivi in Italia: ecco quali
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-06T14:01:02.000Z
+**摘要:** 介绍意大利2026年夏季音乐节的相关信息。
+**待办:** 无
+
+Festival musicali estate 2026 — idealista/news
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] Your invoice 3004914892 for rental 9611047694
+
+**发件人:** donotreply@sixt.com
+**日期:** 2026-06-06T11:59:06.000Z
+**摘要:** 这封邮件是发送租车发票的附件，说明金额已从支付方式扣除，并提及退款处理时间。
+**待办:** 无
+
+ SIXT 
+[image: Sixt] 
+
+Rental agreement number: 9611047694 
+[image: -] 
+
+Invoice 
+
+This is the invoice for your records. This is not a payment request. The 
+final amount will be debited to the payment method we have on record for 
+you.
+
+Please find your invoice attached.
+[image: -] 
+Document number: 3004914892 
+Payable invoice amount: 615.90 EUR 
+Total amount debited: 615.90 EUR 
+Payment method(s): 
+
+VISA •••• •••• •••• •813 
+Outstanding amount: 0.00 EUR 
+
+*Your refundable deposit*
+If your renta
+
+---
+
+## [其他] Your return receipt
+
+**发件人:** "noreply@sixt.com" <no-reply@sixt.com>
+**日期:** 2026-06-06T09:01:29.000Z
+**摘要:** 邮件包含租车返回收据，详细列明了费用明细和退款信息。
+**待办:** 无
+
+
+ 
+
+
+
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9AAoAAAAAAXgYQnI-RIXuvmwE9GAQKYM_BPZk1TISqq8YPCU-JxnPv_wOoCSZyulshH55pFC_8C6hX4O1OUpArs8GIWwHvuCmpksnYP14n-BXeGllCUjNxaX2CsU 
+Rental:&zwnj;9611047694&zwnj;
+
+
+ Hope you had a great trip, JINGQI!
+ 
+
+ Your return receipt
+ 
+
+
+
+BMW SERIES 1 
+ HC371DX
+
+  
+ 
+ Pickup 
+ 
+ Return 
+ 
+ Difference 
+ 
+
+ 
+
+
+ Fuel 
+ 
+ 8/8
+ 
+ 8/8
+ 
+ 0/8
+ 
+
+ 
+
+
+ Mileage 
+ 
+ 10746
+ 
+ 11063
+ 
+ 317 kilometers
+ 
+
+ 
+
+
+
+
+---
+
+## [营销] CONSIGLI DI STILE | La valigia per l'estate di Gretchen ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-06T07:14:01.000Z
+**摘要:** 这封邮件推送了Gretchen的夏季穿搭建议及新品信息，包含服装链接和促销活动。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSk2bcQHnJ-eMS4Wi-JfDCn7qcq06uBGNxU4PpAqwC721WdCHbySGt3V2mb1NESb03PH3uDT4h6wTignRglaEcjOYyH0mWwslLl 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSlc21r9YJ4oY5QWgefl6nAFswZaD-TLIo7wy_Ukq5OEWTesHiMs8_uNkn-i2VpWkD2jvKiSCz7qZ
+
+---
+
+## [营销] 意大利罗马 自驾评价邀请- 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-06T06:32:02.000Z
+**摘要:** 用户被邀请填写意大利罗马自驾行程的评价，以获取600元租车优惠券。
+**待办:** 填写租车评价
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+您的罗马自驾行程已完成，本次租车体验如何？
+期待分享您的租车感受，现在评价还可获得¥600租车优惠券
+
+填写租车评价 <https://w.zuzuche.com/survey.php?ref_fr=email&order_id=1008982021>
+
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] Most-viewed homes under £400k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-05T16:13:13.000Z
+**摘要:** 这封邮件展示了本月最受关注的低价房源信息。
+**待办:** 无
+
+Homes under £400k that are attracting the most attention this
+month              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/1pYeq4M9c6Me6wSY2vK9Qw~~/AAAHahA~/LFHmNX_PVZ2uL6R2g_pc8fVWaQBEEXUDquPWp_Vs7r0bJoPkzR-wXaNDQXrR8iQStagT4reiB1CcAxKDXU332B_TTk8y2CuL-opzWeUrHlsWV2fJgtNsfonOa-9-Ito-epi5PYGI5u2V20cdLQwB1CN3Zz4Ie-dW9KsrptHFtao~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/StSfVjVEDtjMp8vmgtWFvw~~/AAAHahA~/QjY_3ZasqK1wwd3PIKBsCAB66Oui_z27jJ623Koj6FwtE0LgI1SBXreL_cxK-ag2HdBur36f
+
+---
+
+## [待办] SIXT CAR RETURN ROMA TERMINI - English version below
+
+**发件人:** Sixt rent a car - Roma Stazione Centr <dt43686@sixt.com>
+**日期:** 2026-06-05T15:46:51.000Z
+**摘要:** 邮件通知客户关于还车的详细步骤和地点，包括停车位置、流程及注意事项。
+**待办:** 按照邮件指示完成还车流程，包括前往指定停车场和遵循相关步骤。
+
+
+
+English version below
+
+Gentile Cliente,
+
+Grazie per aver noleggiato con noi!
+
+Ecco qualche piccola indicazione per la riconsegna dell'auto.
+
+La preghiamo di restituire il veicolo da Lei noleggiato presso:
+
+Parcheggio Roma Termini, situato in Via Marsala n. 53,  00185 Roma, primo piano.
+
+Alla sbarra, comunichi all'operatore che sta guidando un veicolo Sixt e la relativa targa.
+
+Salga al primo piano e segua la segnaletica.
+
+Se non trova nessuno in parcheggio, LASCI LA CHIAVI NE
+
+---
+
+## [其他] Get ready for your return at Rome Termini Station
+
+**发件人:** SIXT <booking@sixt.com>
+**日期:** 2026-06-05T15:00:50.000Z
+**摘要:** 提醒确认租车返回时间及油量要求，避免超时费用和额外收费。
+**待办:** 确认返回时间是否需要调整，确保还车时油量充足。
+
+
+SIXT
+  
+ 
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9AAoAAAAAAXRYzuUqUAV1C-QY0r47kPZ323jMXrcvUJGDMtsUYFS3ztA0xoEfdi7fEiG9iU8uI4_A2nndQ9CrB29VBPrlwJ10CPJdPT3prn2LV0bq9w-qBVE 
+
+Rental 9611047694
+
+|   
+
+ 
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9AAoAAAAAAXRYzuUreuzNW1ZhUDCvr0z8Mqgq2fCVj3oLwCnPEwxug9vMLvBtHEwwpQJ3ywTGQl0wYjA1r6XwBb3DWLVeMKsF-JQfkvVYW3l6anzfopFF5tE 
+
+Modify
+ 
+
+ 
+
+
+
+  
+ 
+
+ Get ready for your return 
+
+
+ We hope you've had a pleasant 
+
+---
+
+## [其他] Nuove costruzioni, ecco dove trovarle in Italia
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-05T13:04:12.000Z
+**摘要:** 这封邮件提供了意大利新建筑项目的相关信息。
+**待办:** 无
+
+Newsletter 5 giugno 2026 — idealista/news     | Giovedì 28 Maggio 2026
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [其他] Che succede 05/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-05T07:37:09.000Z
+**摘要:** 邮件内容涉及伊比沙岛典型房屋建筑的特点、意大利议会通过核能法案以及数字支付增长的数据。
+**待办:** 无
+
+Che succede 05/06/2026 — idealista/news                  Le case tipiche di Ibiza rappresentano una delle espressioni architettoniche più riconoscibili del Mediterraneo. Linee pure, superfici bianche abbaglianti e volumi geometrici essenziali definiscono abitazioni che uniscono funzionalità, tradizione e armonia con il paesaggio. Le case tipiche di Ibiza, quindi, sono un vero e proprio simbolo culturale che racconta l’identità rurale e l’evoluzione sociale dell’isola. Ancora oggi, queste case so
+
+---
+
+## [营销] 6.6狂賞🐲端午優惠加碼 HK$510
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-05T07:16:16.000Z
+**摘要:** Trip.com推送端午节促销活动，今晚9点有酒店和机票的限时折扣及返现优惠。
+**待办:** 无
+
+留港定出走都得🔥今晚 9PM 2大必搶 1️⃣酒店即訂即減 HK$2602️⃣訂 1 單機票或酒店共賺 HK$250 Trip 
+Coins💰回贈直接落袋🎯👉睇更多
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154199140-1780643775070.801%26ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
+
+---
+
+## [营销] Per te un buono da 50€ ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-05T07:13:58.000Z
+**摘要:** 这封邮件提供了50欧元的优惠券，并提到免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9ADIAAAAAAKW_QhwvH5_2P9IxOn1kxU3-yfj3uJq5CwyNr7dHHG0W7zWj0c8A6ZMRP1oFtIk9yltf3uIAZJmpDjujWWZzMtHAHgGIWFx_kBq0tEE 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9ADIAAAAAAKW_Qhww22xy3aP1_vIEpVWSzgKQlSfVjnCBojh_oBYzlNkMdtFnc672YRlIN4gA-t3Y3sf2xIMIUZ_b7-lJ
+
+---
+
+## [营销] 欢迎步入 Loro Piana 匠心天地
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-06-05T05:12:09.000Z
+**摘要:** 这封邮件是Loro Piana品牌向用户发送的欢迎信息，介绍其产品设计理念和品牌风格。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+我们满怀欣喜，诚挚欢迎您步入 Loro Piana 的匠心天地。隽永优雅、经典廓形与独特触感浑然相融，伴您开启别具品牌风范的非凡之旅。
+
+                                                                                                                                                                                                                                                                                                                                                                                              
+
+---
+
+## [其他] La guida alla scadenza della prima rata Imu 2026
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-04T14:00:35.000Z
+**摘要:** 这封邮件提供了2026年第一期IMU税截止日期的指南链接。
+**待办:** 无
+
+La guida alla scadenza della prima rata Imu 2026 — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## [其他] 关于您的意大利租车售后服务 - 订单号：1008974800 回复反馈
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-04T10:19:58.000Z
+**摘要:** 租租车通知关于意大利租车订单的售后服务，说明因证件或行程问题导致无法提车的费用不退，并可能在还车后核实是否退款。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武晶琦，您好！
+
+感谢您使用租租车国际租车预定服务。
+非常抱歉您的旅程未如预期。
+
+根据租车公司条款，如客户因未能出示驾驶员本人的有效驾照、国际信用卡、护照等证件导致无法提车，或因自身行程安排不当等原因而未能按照预定时间到达租车门店取车用车时，租车公司将不会退还任何已付的费用。
+
+租租车理解客人在出行中会有各种的不确定情况存在，请理解我们会尽全力协助您向车行提出特殊申请。由于条款规定，我们需要在您原订单还车时间结束后才能向租车公司确认此订单的使用情况。
+
+如核实您的确未使用这张订单，车行会根据实际情况确认是否能够特殊安排退款。
+
+如有其它问题需要协助，欢迎随时联系我们！
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] Che succede 04/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-04T08:09:08.000Z
+**摘要:** 这封邮件来自idealista的新闻板块，标题为‘4日发生了什么’，但内容不完整或格式有问题。
+**待办:** 无
+
+Che succede 4 giugno — idealista/news
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [其他] 租车订金退款办理成功！ - 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-04T06:08:06.000Z
+**摘要:** 通知用户意大利租车订单退款已办理，款项将退至支付宝，具体到账时间根据支付方式不同而有所差异。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武***先生/女士，您好！
+您的意大利租车订单已成功办理退款，订单号为：1008974800 
+款项将退回您的支付宝，请注意查收。 
+感谢您使用租租车国际租车预订服务。
+到账时间参考： 
+若通过支付宝、微信余额付款，款项通常在1-2个工作日到账； 
+若通过大陆借记卡付款（包括通过第三方），款项通常在1-3个工作日到账； 
+若通过信用卡消费人民币（包括通过第三方），款项通常在3-5个工作日到账； 
+若通过信用卡消费外币，款项通常在7-15个工作日到账； 
+感谢您的关注与支持，租租车期待再次为您服务！
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国内地拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
+
+## [其他] [罗马]订单售后服务申请创建成功 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-04T06:01:04.000Z
+**摘要:** 租租车确认收到罗马订单的售后申请，并请求提供租车合同、结算单据和扣费记录以加快处理。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+
+
+亲爱的武**，您好！
+
+我们已为您创建售后申请记录，售后服务专员会在1-2个工作日处理并尽快为您核实和跟进此案件。请您稍作等待。
+
+*（此邮件为创建工单自动发送邮件，旨在尽快收集单据更有效的跟进案件，如您此前已提交请忽略）*
+
+ 为了加快解决问题的进程，若售后问题涉及租车相关费用，在您有保留的情况下，我们希望您能配合提供以下材料：
+
+ 1、在您取车的时候，车行提供给您签字的租车合同
+
+2、在您还车的时候，车行提供给您的最终结算单据
+
+3、您被扣费相应的信用卡扣费记录（包括扣费商户、扣费金额和扣费时间）
+
+若售后问题不涉及租车费用，请您提供与案情相关的凭证。
+
+完整的信息提供有助于我们尽快了解清楚情况。我们将尽最大的努力促成车行在10-20个工作日内解决您反馈的绝大多数问题，一旦车行有回复我们会立即同步您售后的处理进度。若案件涉及第三方，处理所需时间可能较久，还望您能谅解和耐心等待。
+
+如有任何疑问，您可以回复邮件咨询我们。
+
+-------------------------------------------------------
+若您有
+
+---
+
+## [其他] 关于您的罗马租车- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-04T05:59:43.000Z
+**摘要:** 租租车通知用户关于未用车退款事宜，称车行要求扣费95EUR，但平台将先行退款剩余部分，并尝试申诉扣费。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+尊敬的武***先生/女士，您好！
+感谢您选择租租车提供的境外租车预订服务！
+
+由于现在时间稍早，故通过此处与您联络。
+关于您咨询的未用车退款一事，截止到现在我们多次催促但均为收到车行的同意全额退款的回复。基于您当前的这个情况，车行强制要求扣费95EUR，我们租租车会先行退款余下的部分给到您。扣费的95EUR会通过售后尝试申诉，您注意查收退款。
+
+
+如有其它问题需要协助，欢迎随时联系我们！
+
+Able
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国内地拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
