@@ -9834,3 +9834,16 @@ incoming texts are free.
 roaming package
 
 ---
+
+## [学校] Get ready for your first week of school
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-03T23:00:10.000Z
+**摘要:** 这封邮件是关于提醒学生准备开学第一周的通知。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
