@@ -219,3 +219,17 @@ Pulire il piano a induzione rovinato — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] TODAY ONLY: This sale.
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-01T06:53:00.000Z
+**摘要:** 宣传今日销售及Hollister x Kappa联名款活动。
+**待办:** 无
+
+Hollister Co. 
+  
+Plus, our exclusive Hollister x Kappa collab. 
+<https://e.em.hollisterco.com/c2/1979:69ef78bd4036650eb30f8368:ot:69e6429a87fa4e894f0fac35:1/86bb4c29?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc2MTgzODAsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllZjdjYTNmNDFlY2IyNzgxMGRjNGJkIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2ND
+
+---
