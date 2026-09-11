@@ -18617,3 +18617,30 @@ Item #: 10574189
 Original 
 
 ---
+
+## [待办] Your order is ready for pick up #1030191408
+
+**发件人:** Best Buy Canada <noreply@bestbuy.ca>
+**日期:** 2026-07-18T22:50:21.000Z
+**摘要:** Jing Qi的订单已到达指定门店，需携带身份证和邮件复印件在7天内领取。
+**待办:** 去门店领取订单物品
+
+ BestBuy.ca 
+
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+Your purchase has arrived at the store!
+Hello Jing Qi
+
+Great news! Your order has arrived at the store you selected. Please pick 
+up your item(s) at the store listed below. 
+
+To claim your order, you will need to bring the following items with you to 
+the store:
+
+   - A copy of this email (printed or on your mobile device) 
+   - One piece of government-issued photo ID 
+
+Your order will
+
+---
