@@ -1195,3 +1195,16 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 Amp
 
 ---
+
+## [其他] Che succede 13/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-13T10:02:57.000Z
+**摘要:** 邮件内容涉及意大利住房补贴政策更新、第二套住房安全解决方案及霍尔木兹海峡航运中断的新闻摘要。
+**待办:** 无
+
+Che succede 13/04/2026 — idealista/news    Il panorama degli incentivi per la casa ha ricevuto una conferma fondamentale con lultima Legge di Bilancio, che ha scelto di mantenere stabili le agevolazioni più attese. Per chi pianifica interventi questanno, è fondamentale consultare i nuovi documenti ufficiali: a questo proposito, è stata recentemente pubblicata la versione aggiornata della ristrutturazioni edilizie guida Agenzia delle Entrate 2026
+
+La sicurezza della seconda casa consiste nelladoz
+
+---
