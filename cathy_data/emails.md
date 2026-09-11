@@ -22092,3 +22092,46 @@ Che succede 30/06/2026 — idealista/news       Un giardino di lusso è uno spaz
 Quando si decide di alienare un immobile occupato, si aprono due percorsi ben definiti. Il primo prevede la cessione alla prima scadenza contrattuale, momento in cui il locatario gode
 
 ---
+
+## [其他] These jeans and shorts? BOGO 50% off
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-30T01:07:12.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Low and baggy. Loose and micro.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjN9AAcAAAAAA1wJ3APkdmgpiH47vgD2rlDcw5q2XEe7NBgSBAXddbv80Mu-_l201uVYQCLfRmzAommHvUZVfFXym5eLH7ovLkY3usdqapQvF118 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjN9AAcAAAAAA1wJ3APmtI93nBOtzObVXUIn6R3imyr-vp3YQqhFqzpGF1Oj1H3j15MmuJYMYhb4MwWoEjVGzKi5di_Qg2bcBpDCdoyFQvwSXoM-6j5E5Q 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+---
