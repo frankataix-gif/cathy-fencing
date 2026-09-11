@@ -11325,3 +11325,22 @@ Hello Natalie,
 Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daughter to study Grade 7. If you are holding a visitor visa, you cannot apply using the In Canada option for application. However, we have successfully assisted clients in making the Study Permit application while they are still in Canada, and provided a
 
 ---
+
+## [营销] Discover more with DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-28T18:34:08.000Z
+**摘要:** DoorDash推广其预订服务，提供预订餐厅后获得最多10美元优惠券的活动。
+**待办:** 无
+
+ DoorDash Email From hard-to-get tables to added perks, there’s more to 
+explore. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4tk/W8zu_Z3GQsi5v-dVaovKHA/h0/h001.9DX-EkZ3pxmXVpMOIg8Yd63ed3SzUbcT0-0S534ThCY> 
+
+A TA
+
+---
