@@ -20503,3 +20503,29 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADIAAAAAAQvrdo7HYFjZsQ
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9A
 
 ---
+
+## [营销] Going on vacation? You should read this.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-08T02:04:06.000Z
+**摘要:** Aritzia推送夏季度假穿搭建议，提供适合夏季的造型搭配方案。
+**待办:** 无
+
+Curated outfits to pack for a picturesque summer.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
