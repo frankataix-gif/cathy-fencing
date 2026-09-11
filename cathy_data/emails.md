@@ -2100,3 +2100,15 @@ Che succede 31/03/2026 — idealista/news     Tra tutte le categorie, però, ne 
 Caro energia e possibili misure coordinate a livello Ue per la situazione che si è creata a seguito della crisi in Medioriente e della guerra in Iran domani al centro di una riunione informale dei ministri dellEnergia europei, in videoconferenza. Secondo quanto riporta un comunicato del consiglio
 
 ---
+
+## [其他] 132 mq a 35.995€: ecco perché tutti ne parlano
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-03-31T12:31:41.000Z
+**摘要:** Idealista发布一则房产信息，称132平米房屋以35,995欧元出售引发热议。
+**待办:** 无
+
+132 mq a 35.995 €: ecco perché tutti ne parlano — idealista/news
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
