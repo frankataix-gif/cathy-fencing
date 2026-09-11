@@ -886,3 +886,15 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTJ9ADIAAAAAABiDRGEyCOZABC_GZ9ZE0VtZ3SMuhkzALVQbPtXdIh9S6qPRBF6fIzxGurWt6URNvv9CjNLTN7-boZj4W
 
 ---
+
+## [其他] Le mete per il ponte del 1° Maggio in Italia
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-18T19:00:19.000Z
+**摘要:** 推荐意大利五一劳动节假期旅游目的地。
+**待办:** 无
+
+Dove andare per il ponte del 1 Maggio in Italia — idealista/news
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
