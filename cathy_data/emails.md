@@ -965,3 +965,18 @@ https://click.em.heathrow.com/?qs=ABB7InYiOjEsImQiOjQ4NDl9ADIAAAAAABG3wMYUT8DAFI
 https://click.em.heathrow.com/?qs=ABB7InYiOjEsImQiOjQ4NDl
 
 ---
+
+## [营销] 5 quirky homes for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-04-17T11:16:11.000Z
+**摘要:** Rightmove推送当前出售的5个奇特房屋列表，吸引潜在买家注意。
+**待办:** 无
+
+While there’s no such thing as a ‘normal’ home, some listings
+stop us in our tracks              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/2mtTB65hG7R6NGbB-QP3oA~~/AAAHahA~/FwaOKxNugX5Y_9O_BK6_UXnZ9CIoyHpPfQVY_w8JuH9Qa6E10a56oAHH_ltidGo5R6PpKvRAzOA8bt-MRK8HlwgWNIrFUWov-N87m9J0otDcoFH_LYBRJ5RATBTLdHUxilFisko2I17HmqfZhIrNMxp69XePSalZdg2u7Qm7u9o~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Li9FW7-OTDAWBTpP5RewOQ~~/AAAHahA~/sC_X5rSMZpGh6qbaVD4_OQI9V7Sfr9F0H74ZukMv-gXmUoy7QvOy0_rx
+
+---
