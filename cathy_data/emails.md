@@ -19306,3 +19306,25 @@ If you don’t recognize this activity, please reset your password.
 https://launchpad.37signals.com/password/edit?token=BAhbB0kiLWNjNjU3MGMxOGJlMmI5NTllZDVkNGEzYjVhYjkzOTUyNDg0Y2FhZDEGOgZFVEl1OglUaW1lDdeZH8ACsd04CT
 
 ---
+
+## [待办] Reset your password
+
+**发件人:** Basecamp 5 Support <support@basecamp.com>
+**日期:** 2026-07-14T20:13:02.000Z
+**摘要:** 提醒Natalie重置密码
+**待办:** 点击链接重置密码
+
+Hi Natalie,
+
+Can't remember your password? No worries! Just click the link below to set a new one.
+
+↪ https://launchpad.37signals.com/password/edit?token=BAhbB0kiLTY4YzU2ZTU0ZDFlN2U5NzM3ZWRlYjlkNDgxZTczZTkxOWZmNWIwMjkGOgZFVEl1OglUaW1lDdeZH8CtqSM0CToNbmFub19udW1pAds6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgchkDoJem9uZUkiCFVUQwY7AEY%3D--633415a4c2271cde21ed66b5373793a389768c0c
+
+
+---
+Have questions or need help?
+
+Contact our support team at https://basecamp.com/support and
+we'll get back to you in 
+
+---
