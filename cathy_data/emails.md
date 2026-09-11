@@ -16424,3 +16424,20 @@ Please do not reply to this email.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
 
 ---
+
+## [其他] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-07-26T16:22:45.000Z
+**摘要:** 收到TELUS账户验证码362879，需在30分钟内使用，否则失效。提醒如未操作需立即修改密码以保障安全。
+**待办:** 无
+
+ TELUS 
+Here's your verification code to validate your identity. 
+[image: TELUS] 
+<https://u27333001.ct.sendgrid.net/ls/click?upn=u001.SCElYa292QU0eUJVHWJNp8d2rCV-2B35zzM25WPhV0c0A-3DN-l6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3OH3KO0ksUeYj3k-2F4owdGhxTdCasq4lwgHsFmQ1VJfN4Rk8w3W8Szits8gs8eLLeI9Y6EzY3SZHyBVFnXH-2BqC8I8MyOHsiWFxGnWNs5nqNgZWDdn9hPuM6TNHNvgjHWAlZOrErQhiwo8Mqi9sWSuujlQG4nKnGQLWyDaBvIpr3w3w-3D-3D> 
+Your My TELUS verification code 
+Hi TELUS, 
+Your one-time verification code t
+
+---
