@@ -20798,3 +20798,40 @@ Mastercard-2249
 如有问题，请访问Go
 
 ---
+
+## [其他] 您与“OpenAI”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-07T09:02:11.000Z
+**摘要:** 
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月7日02:02 使用 Google 账号登录了 
+“<https://c.gle/AOPyDKR_un41BJfnXNzIoSN3FVJ8tiWNRVOVsj777DSNtMiyGwzCV01Vv4vsSRQWWG0qDJSRI9mfmWP07z4M3Vwc1KHlvf-3Uvz3DzabD_ATeXLaAg0fbC4xwdJ0tikRJeA>OpenAI”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月7日02:02 使用 Google 账号登录了 
+“<https://c.gle/AOPyDKR_un41BJfnXNzIoSN3FV
+
+---
