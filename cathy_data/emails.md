@@ -12695,3 +12695,15 @@ disrega
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AAcAAAAABY0YncPkoHJPqy_GkXurEiNqnO7x-eiBCEihKX3HvEj0lcNYIuYTFwnEmpeW-RLL4dfB1iDGg0rSyjypRppGBIFWWTTQp1NsSiUnVCKtnKY&CMP=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2471424&l=52_HTML&mid=7210119&jb=2091&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-
 
 ---
+
+## [营销] Selezione estiva: polo e top
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-08-21T06:48:36.000Z
+**摘要:** 关于夏季polo和上衣的精选产品信息。
+**待办:** 无
+
+
+
+
+---
