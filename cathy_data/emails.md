@@ -25596,3 +25596,24 @@ Che succede 27/05/2026 — idealista/news                          “Il ruolo d
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147138221-1779841562317.775%26ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0d
 
 ---
+
+## [其他] Your Trip.com account password has been updated
+
+**发件人:** "Trip.com" <en_noreply@trip.com>
+**日期:** 2026-05-26T12:58:00.000Z
+**摘要:** 您的Trip.com账户密码已更新，请确认是否本人操作。若非本人操作，请联系客服进一步处理。
+**待办:** 无
+
+ 
+<https://www.trip.com?locale=en-XX> 
+
+Your Trip.com account password has been updated 
+Important notes: 
+If this wasn't you, please contact us for further assistance. 
+Get help on the go
+Use the Trip.com app to contact us if anything comes up
+Free Internet calls
+Download Now 
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Ftripcom.go.link%3Fadj_t%3D15j9m0tk_15jds8ml%26deep_link%3Dctripglobal%253A%252F%252Fmytrip%252Fhome%26adj_label%3Dplatform%253Demail%2526l
+
+---
