@@ -10741,3 +10741,15 @@ FASTEST SHIPPING, ALWAYS | SHOP NOW
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1mZgd3pphdc24Uaa8Xf8zEuB8gyV73K778TWzkzgfTF4-3DSwye_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANeTWvU0ZChTJ8HbiMvwFBnI16THdkc8mXsr2PWrG9tzdT0Obd-2BkTnOJh3cBIpjyE1zfWMocp6ET6s3SbOwFHTEWNt-2BoybF9SM5-2FMlGUP7YjEByI5Gdvk5WAUbcmCcVuW2nC4tirq8Noayzhn
 
 ---
+
+## [营销] You're in. Now for the good stuff.
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-02T00:08:11.000Z
+**摘要:** 这封邮件可能是来自lululemon的营销邮件，内容可能涉及促销或活动邀请。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
