@@ -15021,3 +15021,23 @@ Spark 自动分类重要邮件，收件箱置顶显示，通知智能提醒。
 探索 S
 
 ---
+
+## [其他] Welcome to Family Sharing
+
+**发件人:** Apple <noreply@email.apple.com>
+**日期:** 2026-08-05T18:33:31.000Z
+**摘要:** Apple向Natalie发送家庭共享欢迎邮件，介绍如何邀请家庭成员共享服务及功能概述。
+**待办:** 无
+
+Welcome to Family Sharing, Natalie!
+
+As the family organiser, you can invite up to five other family members and give them access to the services you want to share. Just go to Family Sharing in Settings on your iOS device or System Preferences on your Mac.
+Learn more
+Here is a quick overview of what you can share with your family.
+
+# Apple Music Family Subscription
+
+- Get unlimited music for the entire family.
+- Each family member gets their own account, music library, hand-selected pla
+
+---
