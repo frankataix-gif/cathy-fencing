@@ -1423,3 +1423,16 @@ Traccia la tua spedizione
 <https://www.gls-italy.com/tracktraceuser/M7/661762562?utm_source=notifiche&utm_medium=email&utm_campaign=flex_delivery&utm_id=contronotifica&ut
 
 ---
+
+## [其他] Case da ristrutturare in vendita: scopri le opportunità
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-06T23:00:12.000Z
+**摘要:** 理想家出售意大利15套待翻新房屋，提供更具性价比的选择和个性化改造空间。
+**待办:** 无
+
+15 case da ristrutturare in Italia — idealista/news    L’acquisto di una casa da ristrutturare può rappresentare un’alternativa conveniente rispetto a un immobile nuovo, soprattutto in un mercato dai prezzi elevati. Costi iniziali più bassi e maggiore libertà di personalizzazione rendono questa scelta sempre più diffusa. Dai un’occhiata alla selezione di idealista e trova la casa da ristrutturare che fa per te.
+
+------------------------------------------------------------------------------------
+
+---
