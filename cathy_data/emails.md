@@ -1033,3 +1033,14 @@ Cordiali saluti
 La guida alle nuove regole per gli affitti brevi 2026 — idealista/news    Il mercato delle locazioni turistiche ha subito una profonda trasformazione. Gestire un appartamento oggi non significa più solo consegnare le chiavi, ma navigare in un sistema normativo integrato. Se ti stai chiedendo come muoverti tra le novità introdotte dalla finanziaria 2026 sugli affitti brevi (e non solo) questa guida ti aiuta a fare chiarezza tra le nuove regole per la cedolare secca, lobbligo di Cin e la redditivi
 
 ---
+
+## [其他] Che succede 16/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-16T10:32:52.000Z
+**摘要:** 欧盟要求在线平台使用年龄验证应用以保护未成年人，同时提及意大利2026年财政赤字及债务预测。
+**待办:** 无
+
+Che succede 16/04/2026 — idealista/news                   Le piattaforme digitali online "non hanno più scuse": dora in poi potranno "facilmente fare affidamento sulla nostra app di verifica delletà" degli utenti, per controllare che i bambini e i minori non vengano esposti a contenuti inappropriati, illegali e dannosi, così come si evita di vendere loro alcol o sigarette. Lo ha affermato la presidente della Commissione, Ursula von der Leyen, in una dichiarazione alla stampa oggi a Bruxelles per
+
+---
