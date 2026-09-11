@@ -11370,3 +11370,28 @@ Sign in to your account
 <https://
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T16:23:29.000Z
+**摘要:** 收到加拿大政府服务的一次性验证码，用于登录。
+**待办:** 输入验证码PTTADZTA以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+PTTADZTA
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
