@@ -78,3 +78,25 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njd9ADIAAAAAAEVyGErQexjy-f0K-7Z87pNWswHxABmKAAHcDdmeCTbYYlsII7Q86kbkGfihr6HBFjAWDmoSnGS_QGWaAr
 
 ---
+
+## [其他] 来自 Google One 的存储空间提示
+
+**发件人:** Google One <googleone-updates-noreply@google.com>
+**日期:** 2026-05-04T17:23:45.000Z
+**摘要:** Google One 提供100GB存储空间，可用于备份照片、视频、联系人等数据，确保安全。
+**待办:** 无
+
+
+充分利用您的存储空间
+
+您的 Google One 方案附赠 100 GB 的存储空间。这样一来，您即可在云端存储重要文 
+件，确保其安全无虞。您还可以管理自己的存储空间、备份手机，以及享用专属福利。
+
+
+
+保护您手机上的重要数据
+
+您可以直接通过  
+Android<https://c.gle/AOExmq1kwrwgCwE7MiNmtsa6at5mkWvaaNJsLavYuKZv0dcI0BjAXyrbABIpdBhiOhxi8n2LhHQFRfaCm-J2yQlIsIhI6O3KkJ4j70sntBXNoO-zdJLfFNim88OvqHzNr-OkQ2iCOIHY75m2bfXkbrd5fBXfvIGFneoY6LVo2bbWzmpeEbSMtocPpi3j4cNE5bZmxJ7hCoFK6B741lc28_ngortz7kTWL9Us8cIpj-pFSvNhCvcCCr9mMlEZYOiiLFCFN1YmQ6a7Xo45mcGw6CVfzPjRnkrOCEAEpkqgwj_z3pgdwI691-h8w_dJDZRuLPuX_OcYMDOcXI9O1ov
+
+---
