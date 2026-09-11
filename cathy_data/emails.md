@@ -12450,3 +12450,15 @@ Your Home Insurance Quote #7181329
 ͏‌  ͏
 
 ---
+
+## [营销] Get Ready for Your Model 3 Demo Drive
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-22T22:40:50.000Z
+**摘要:** 这封邮件是Tesla发送的Model 3试驾邀请，包含预约链接。
+**待办:** 预约Model 3试驾
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3D3nUA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvBIBopv-2BCySdNZbVtXJzaFNSabSTyrIGIXw3-2FMwvErVzXYBAba38UbUfAbb-2Fng-2FPErsJ90L-2FY4jJCwOZJkRvNa5h2kFzAaEW5R57aWvXVN
+
+---
