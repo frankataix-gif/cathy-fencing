@@ -1945,3 +1945,16 @@ My Rightmove
 Condominio: dalle novità sulla riforma a come comportarsi in assemblea — idealista/news    Dalla riforma del condominio alle assemblee. Per cercare di capire meglio quali sono le novità volte a riordinare la disciplina del condominio, modernizzare la categoria degli amministratori condominiali e colmare le lacune della Legge n. 220/2012, ma anche per approfondire alcuni aspetti legati proprio alle assemblee condominiali, idealista/news ha preparato questa breve guida. Una sorta di vademecum per 
 
 ---
+
+## [其他] Che succede 02/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-02T13:00:45.000Z
+**摘要:** 意大利房地产价格在冬季上涨1.5%，政府增加数字化转型基金至15亿欧元，同时欧元区失业率微升至6.2%。
+**待办:** 无
+
+Che succede 02/04/2026 — idealista/news     [ed editore di questa newsletter], i prezzi delle case usate registrano un aumento dell’1,5% nel trimestre invernale rispetto al periodo precedente. Il valore medio nazionale si attesta così a 1.891 euro al metro quadrato, con una crescita del 5% su base annua e dell’1,3% su base mensile
+
+Il governo ripristina integralmente le risorse per Transizione 5.0 e aggiunge altri 200 milioni, portando a 1,5 miliardi i fondi destinati alle imprese che hanno inve
+
+---
