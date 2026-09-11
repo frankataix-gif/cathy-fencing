@@ -24362,3 +24362,28 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9ADIAAAAAALH3s6P5KEwODK
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9ADIAA
 
 ---
+
+## [其他] EVUS Status Change
+
+**发件人:** no-reply@cbp.dhs.gov
+**日期:** 2026-06-08T21:06:40.000Z
+**摘要:** EVUS状态有更新，需前往指定网站查看。
+**待办:** 检查EVUS状态并更新信息
+
+ EVUS Status Change There has been an update to your EVUS Enrollment Status 
+submitted on June, 8 2026. Please visit https://www.evus.gov to check your 
+enrollment. 
+
+For assistance, please call the EVUS Call Center at 00-1-202-325-0180. The 
+Call Center is available 24 hours per day, 7 days per week, to assist you 
+with your EVUS enrollment. 
+
+EVUS Program Office 
+
+https://www.evus.gov
+www.cbp.gov/evus
+
+*E-mail Security:* If you are concerned about clicking the above link, EVUS 
+can be accessed
+
+---
