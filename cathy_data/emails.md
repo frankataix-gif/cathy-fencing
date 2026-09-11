@@ -2764,3 +2764,17 @@ Cathy’s mom
 Che succede 17 marzo 2026 — idealista/news                  In lievissimo rialzo questa mattina le medie nazionali dei prezzi praticati alla pompa di benzina e gasolio. Già domani, tuttavia, i valori dovrebbero ricominciare a salire con una certa decisione, sulla spinta dei nuovi rialzi che si registrano questa mattina sui prezzi consigliati dei maggiori marchi. Corrono le quotazioni dei prodotti raffinati, mentre il petrolio, pur in calo, permane sopra i cento dollari. Stando alla consueta rile
 
 ---
+
+## [其他] 与您分享的记事：“Milano 3 / Milano 3.0 (Basiglio)”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-16T11:29:25.000Z
+**摘要:** Frank通过Google Keep分享了一条关于Milano 3的记事，并附有链接。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1YVwYAS3HJnMa1GxJWtJ06xSl8XyL0iDFGpqTMaJaP4cLoHoxf01AO6yoKC5k7cA&email=nataliewu100@gmail.com&tid=true
+
+
+---
