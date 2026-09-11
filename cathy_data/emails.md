@@ -284,3 +284,20 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjJ9ADIAAAAAADbQ3rz7zKVgqCZ_UrkwjNTgxYsPqzI-GApVpOHrb7X8e-Fq-JTgxSMVH9jolYQN5pCQKuFjtDOoe0D7pC
 
 ---
+
+## [学校] Next Steps and Billing Management
+
+**发件人:** Natalie Blomly <Natalie.Blomly@meadowridge.bc.ca>
+**日期:** 2026-04-30T04:08:40.000Z
+**摘要:** 提醒完成注册步骤并提交合同及费用，财务部门将发布学费和项目费用，并提供缴费选项。
+**待办:** 确认注册完成并提交合同及费用
+
+Hello all,
+
+As we approach the end of April, I want to remind everyone to be sure that they have followed all the registration steps accordingly. Contracts must be submitted along with fees accordingly.
+
+I have attached the information from our zoom call a few weeks ago for those who may not have participated that evening.
+
+Our Finance Department will be posting tuition and programme fees tomorrow to your billing management accounts only if registration is complete. If you have just accept
+
+---
