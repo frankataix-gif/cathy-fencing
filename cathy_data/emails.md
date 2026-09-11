@@ -15998,3 +15998,23 @@ There also appears to be an existing light switch or electrical connection on th
 I would appreciate your approval, as I would like to have the light instal
 
 ---
+
+## [待办] Jingqi, let's get you set up, now that your install is complete ✅
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-07-29T23:01:39.000Z
+**摘要:** TELUS通知用户安装完成，并提供账户注册、Wi-Fi优化和设备连接的指导。
+**待办:** 注册账户、优化Wi-Fi设置、连接设备
+
+Trouble viewing this email? View in web browser.
+TELUS
+Let's dive right in.
+
+Here's everything you need to know about your new services on the TELUS PureFibre network.
+ 
+Order— Installation— Set-Up— Explore
+Welcome Jake the Dog,
+We’re excited that you’ve chosen the TELUS PureFibre™ network: the #1 internet technology for speed and reliability.* Now that your blazing-fast connection is set up, it’s time to get you settled in with a few useful tips.
+Access and manage all your services wit
+
+---
