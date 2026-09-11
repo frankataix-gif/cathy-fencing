@@ -11820,3 +11820,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DaBto_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2FshWjThRacAd0ZRsCFFiyMcAh6-2BcJrA0ZeUEyJjA8gi7inN1nunAPmkG7BOCjA9Fv0n8yEN0q75R
 
 ---
+
+## [营销] Your Model Y Awaits
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:40:58.000Z
+**摘要:** 特斯拉提醒用户开始处理Model Y的订单
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dbcru_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHqoGsyjOGb38N-2FIHxs-2FCDgHnpMK2UL9HnclIHxPgC00KUXBkspEduxjcqYiTcLY9TpHRCnLLEtwdVPM2w7i6oSl3VuX2yjcTXBG27qWspVhBftQixv8-2FZSZU2ohBVGYy5Bqn4oK1F
+
+---
