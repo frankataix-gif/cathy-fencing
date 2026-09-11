@@ -14961,3 +14961,15 @@ Account number: *****652
 Your recent payment 
 
 ---
+
+## [营销] Risparmi extra sui saldi
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-08-06T08:01:38.000Z
+**摘要:** 这封邮件提到清仓促销的额外节省。
+**待办:** 无
+
+
+
+
+---
