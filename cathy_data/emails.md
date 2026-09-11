@@ -7499,3 +7499,16 @@ Ready to get rid of your manual tasks?
 You don’t need to learn everything upfront. Just open the builder, describe what you want, and our AI co-worker Maia wil
 
 ---
+
+## [营销] The Shoe Capsule: Everyday Styles, Endless Possibilities
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-10T13:10:42.000Z
+**摘要:** Browns Shoes 发起鞋类促销活动，提供多种日常鞋款如运动鞋、乐福鞋和靴子，支持两小时后自提。
+**待办:** 无
+
+Sneakers, loafers, boots and more—your everyday essentials start
+here   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrJoSWR788uMQtEfa5DxmDOdLAJ2yQUF7yW8u2FJQYtf0-3D_61G_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAO7HzLAcsTXMPAUYzRxTcacugonZ84a0RDEEEaTMS6VJTGgHFupcas6vu-2Bc1S5Gmvy-2FF-2BW6oft3ocTSOKoR-2BkaorBlyjcqiXQJ-2B-2Bdo9zOQjQWpQeRYlPEPUcsG
+
+---
