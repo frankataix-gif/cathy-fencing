@@ -24584,3 +24584,31 @@ BMW SERIES 1
 
 
 ---
+
+## [营销] CONSIGLI DI STILE | La valigia per l'estate di Gretchen ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-06T07:14:01.000Z
+**摘要:** 这封邮件推送了Gretchen的夏季穿搭建议及新品信息，包含服装链接和促销活动。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSk2bcQHnJ-eMS4Wi-JfDCn7qcq06uBGNxU4PpAqwC721WdCHbySGt3V2mb1NESb03PH3uDT4h6wTignRglaEcjOYyH0mWwslLl 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSlc21r9YJ4oY5QWgefl6nAFswZaD-TLIo7wy_Ukq5OEWTesHiMs8_uNkn-i2VpWkD2jvKiSCz7qZ
+
+---
