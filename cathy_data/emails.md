@@ -11935,3 +11935,21 @@ Shipping Address Unit 103 708 FARROW ST <br>COQUITLAM BC V3J0P2
 
 
 ---
+
+## [待办] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-26T14:15:26.000Z
+**摘要:** 用户的最近支付被拒绝，需尽快支付以避免滞纳金，并提供了解决方法的链接。
+**待办:** 需要查看支付被拒原因并及时处理，避免滞纳金
+
+ TELUS 
+
+Trouble viewing this email? View in web browser 
+<https://t.mailing.koodomobile.com/r/?id=hf7e28d,4080a983,2ada1394&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9MTYyNDUzODkmcDE9JTQwNWZjdUNCYVhMTG1RaCUyRkwlMkI0NkJBZld1eWx5czdkendxZFE1RjhFYVFibFElM0Q&s=TD6HsuvOV62JS6Dl4Nht7j_AeDuNFUAYKaoxgjfIEiQ>. 
+
+<https://t.mailing.koodomobile.com/r/?id=hf7e28d,4080a983,2ada1395&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9MTYyNDUzODk&s=NW51AiXEkdTZ0Plven6bjUrZ4P1iIxaXMkyccT9wcIg> 
+Account number: *****652 
+Your recent payment was 
+
+---
