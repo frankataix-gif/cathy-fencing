@@ -16278,3 +16278,22 @@ You will NOT need a full hour, please book only 1 appointment even if you have m
 Note: If you are going to be late 15 minutes or more for you appo
 
 ---
+
+## [学校] Reminder
+
+**发件人:** Meadowridge Uniform Shop <uniforms@meadowridge.bc.ca>
+**日期:** 2026-07-27T20:34:30.000Z
+**摘要:** 提醒家长为孩子预约制服试穿时间，时间为7月6日至8月21日，需通过提供的链接预约。
+**待办:** 预约孩子制服试穿时间
+
+Good afternoon,
+
+
+Just a reminder to please book an appointment for your child. Appointment dates are July 6th to August 21st, Monday to Friday, 8:15am - 4:00pm. There are 1hr time slots available to schedule for your child or children. If you have more than 1 child, please make 2 appointments.
+
+This is the link for the appointment website, or you can visit the Uniform Shop website as well.
+https://calendly.com/uniformshop/appointment
+
+Please make an appointment soon as the time slots do
+
+---
