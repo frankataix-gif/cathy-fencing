@@ -111,3 +111,17 @@ Android<https://c.gle/AOExmq1kwrwgCwE7MiNmtsa6at5mkWvaaNJsLavYuKZv0dcI0BjAXyrbAB
 Che succede 04/05/2026 — idealista/news     Il mercato degli affitti in Italia prosegue la fase di crescita anche ad aprile. Secondo l’ultimo report dell’Ufficio Studi di idealista, portale immobiliare N.1 in Italia [ed editore di questa newsletter], i canoni di locazione sono aumentati dell’1,4% su base mensile, portando il valore medio nazionale a 15 euro al metro quadro, nuovo massimo storico dall’inizio delle rilevazioni di idealista. Su base trimestrale l’incremento si attesta al 4,4%, ment
 
 ---
+
+## [营销] Our bestselling skirts + shorts.
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-04T06:42:06.000Z
+**摘要:** Hollister推荐其畅销的短裙和短裤，提醒尽快购买。
+**待办:** 无
+
+Hollister Co. 
+  
+Stock up before they’re gone. 
+<https://e.em.hollisterco.com/c2/1979:69f0f02d114059a81a07c0d2:ot:69e6429a87fa4e894f0fac35:1/f5674f7e?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc4NzY5MjYsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmMGYyOGQ4MmNiZmU3OTcyMDQwYzBjIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJm
+
+---
