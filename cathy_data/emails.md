@@ -12543,3 +12543,21 @@ Your Home Insurance Quote #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WRLGl_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQog6BOyVLKlEjI14UEihaZfuxEJoqS7QQo6m0tdAJsmKZT2hRbSxJSzsXSureP6vuP5v0dcrG9qrcQVBlV1B7RzEtDhASaq4NYfrnnAjoYbonLAm7-2FkRMRvpSzD5Y
 
 ---
+
+## [其他] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-21T21:01:30.000Z
+**摘要:** 房东要求提供更新的租客保险证明以符合租约条款，否则可能构成违约。
+**待办:** 需要提交更新的租客保险证明文件
+
+
+Dear resident,
+To date, we have not received your current documentation.
+This is an urgent request to provide your updated insurance declaration page to ensure your file remains compliant with your lease obligations.
+As outlined in Section 36 of your signed Residential Tenancy Agreement:
+Liability and Insurance.
+
+  1.  The Tenant agrees to carry sufficient insurance to cover their property against loss or damage from any cause and for third party liability, with a minimum of $2,000,000 l
+
+---
