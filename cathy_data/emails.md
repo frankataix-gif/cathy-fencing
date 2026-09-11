@@ -18848,3 +18848,15 @@ Now that you’ve moved in, here are a few friendly reminders:
 Please contact BC Hydro to set up your utilities account. Kindly provide them with your tenancy start date, as you will be responsible for the account from that date onward. https://app.bchydro.com/sso/UI/Login?goto=https%3A%2F%2Fapp.bchydro.com%3A443%2Fagent-customer-portal-web%2Fpost-authn-redirect%3Fnonce%3DWAHBvTEVC82DR53
 
 ---
+
+## [营销] Natalie, your $5 reward is waiting 👉
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-07-17T21:34:05.000Z
+**摘要:** Natalie有5美元奖励待领取，并提到当前有10美元奖励积分及41点可兑换下一次5美元奖励。
+**待办:** 无
+
+Cotton On and Co. Perks
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
+
+---
