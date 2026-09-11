@@ -53,7 +53,8 @@ export default {
           messages: [
             { role: 'system', content: '你只能输出 JSON，不允许解释。' },
             { role: 'user', content: prompt }
-          ]
+          ],
+          max_tokens: 1024
         });
         const text = (res && res.response) ? res.response : '';
         const parsed = extractJson(text);
@@ -249,18 +250,18 @@ function buildEmailSummaryPrompt(body) {
   const emailLines = emails.slice(0, 30).map(e =>
     `- 分类：${e.category || '其他'}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 120)}，待办：${(e.todo || '无').slice(0, 80)}`
   ).join('\n');
-  const previousText = previous ? `之前已有今日邮件总结，现在新增 ${emails.length} 封邮件，请更新总结。
+  const previousText = previous ? `之前已有过去7天的总结，现在新增 ${emails.length} 封邮件，请合并更新总结。
 
-之前总结：
+之前总结（${date} 起往前7天）：
 - 总邮件数：${previous.total || 0}
 - 分类统计：${JSON.stringify(previous.categories || {})}
 - 之前需要做的事：${(previous.actions || []).map(a => a.title).join('；') || '无'}
 - 之前优先级建议：${previous.priority || ''}
 - 之前一句话总结：${previous.summary || ''}
 
-新增邮件：` : `请基于以下今日邮件，整理一份总结。
+新增邮件：` : `请基于以下 ${date} 起往前7天（含）的邮件，整理一份总结。
 
-今日邮件：`;
+邮件列表：`;
   return `你是 Cathy 家庭的邮件助理。${previousText}
 ${emailLines}
 
@@ -270,8 +271,8 @@ ${emailLines}
   "total": 总邮件数,
   "categories": {"击剑": 数字, "学校": 数字, "营销": 数字, "待办": 数字, "其他": 数字},
   "actions": [{"title": "行动标题（15字以内）", "source": "来源邮件主题", "priority": "高/中/低", "category": "分类"}],
-  "priority": "今日最需要注意的一句话建议",
-  "summary": "一句话总结今天邮件重点"
+  "priority": "过去7天最需要注意的一句话建议",
+  "summary": "一句话总结过去7天邮件重点"
 }`;
 }
 

@@ -2313,30 +2313,38 @@ function circuitLabel(c) {
     if (state.date !== today) {
       state = { date: today, summary: null, analyzedCount: 0 };
     }
-    const todayEmails = allEmails.filter(e => emailDateLocal(e.date) === today);
-    const analyzed = state.analyzedCount || 0;
-    const isUpToDate = analyzed >= todayEmails.length;
-    if ((state.summary && isUpToDate && !force) || todayEmails.length === 0) {
+    const cutoff = getWindowCutoffDate(today);
+    const windowEmails = allEmails.filter(e => {
+      const d = emailDateLocal(e.date);
+      return d >= cutoff && d <= today;
+    });
+    let analyzed = state.analyzedCount || 0;
+    const isUpToDate = analyzed >= windowEmails.length;
+    if ((state.summary && isUpToDate && !force) || windowEmails.length === 0) {
       setEmailAIState(state);
       if (typeof renderEmailList === 'function') renderEmailList();
       return;
     }
-    const toAnalyze = force || !state.summary ? todayEmails.slice(0, 30) : todayEmails.slice(0, todayEmails.length - analyzed).slice(0, 30);
-    const previousSummary = force ? null : (state.summary || null);
-    const payload = { action: 'email_summary', date: today, previousSummary: previousSummary, newEmails: toAnalyze };
     window._emailAIAnalyzing = true;
     if (typeof renderEmailList === 'function') renderEmailList();
+    let currentSummary = force ? null : (state.summary || null);
     try {
-      const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
-      const data = await res.json();
-      if (data && data.actions) {
-        const categories = data.categories || countEmailsByCategory(todayEmails);
-        const total = data.total || todayEmails.length;
-        state.summary = { ...data, date: today, total: total, categories: categories };
-        state.analyzedCount = todayEmails.length;
+      while (analyzed < windowEmails.length) {
+        const chunk = windowEmails.slice(analyzed, analyzed + 30);
+        const payload = { action: 'email_summary', date: today, previousSummary: currentSummary, newEmails: chunk };
+        const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+        const data = await res.json();
+        if (data && data.actions) {
+          currentSummary = { ...data, date: today, total: windowEmails.length, categories: countEmailsByCategory(windowEmails) };
+          analyzed += chunk.length;
+        } else {
+          break;
+        }
       }
     } catch(e) {}
     window._emailAIAnalyzing = false;
+    state.summary = currentSummary;
+    state.analyzedCount = windowEmails.length;
     setEmailAIState(state);
     if (typeof renderEmailList === 'function') renderEmailList();
   }
@@ -4337,7 +4345,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v25', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v26', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4662,20 +4670,28 @@ function circuitLabel(c) {
     try { return new Date(dateStr).toLocaleDateString('en-CA', { timeZone: HOME_TZ }); } catch(e) { return dateStr.slice(0, 10); }
   }
 
+  function getWindowCutoffDate(summaryDateStr) {
+    const [y, m, d] = summaryDateStr.split('-').map(Number);
+    const dt = new Date(Date.UTC(y, m - 1, d, 23, 0, 0));
+    dt.setUTCDate(dt.getUTCDate() - 6);
+    return emailDateLocal(dt.toISOString());
+  }
+
   function buildEmailAISummaryHTML() {
     const state = getEmailAIState();
     const summary = state.summary;
     if (!summary || !summary.actions) {
       if (window._emailAIAnalyzing) return '<div style="padding:20px; text-align:center; color:#6b7280;">AI 正在分析邮件…</div>';
-      return '<div class="empty-state">暂无今日邮件分析</div>';
+      return '<div class="empty-state">暂无近7天邮件分析</div>';
     }
     const cats = summary.categories || {};
     const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
       `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
     ).join('');
     let html = '';
+    html += `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${summary.date ? escapeHtml(summary.date) : ''} · 过去7天 · 共 ${summary.total || 0} 封</div>`;
     html += `<div style="margin-bottom:10px;">${catTags}</div>`;
-    html += `<div style="font-weight:600; margin-bottom:6px;">今日重点</div>`;
+    html += `<div style="font-weight:600; margin-bottom:6px;">过去7天重点</div>`;
     html += `<div style="margin-bottom:10px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>`;
     if (summary.priority) {
       html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
