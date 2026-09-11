@@ -10346,3 +10346,24 @@ Confirm that we’ve got the right email address for you. This makes sure
 you’ll receive important emails about your account.
 
 ---
+
+## [待办] 请确认您的电子邮箱
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:55:16.000Z
+**摘要:** Wise要求确认电子邮箱以确保接收账户重要通知。
+**待办:** 点击链接确认电子邮箱
+
+ Wise，您的国际账户 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: Wise logo] 
+
+您好， 
+若要继续开立账户，请确认您的电子邮箱
+请核实我们记录的电子邮箱是否正确，以确保您及时收到关于账户的重要电子邮件。
+
+确认电邮 
+<https://wise.com/link?urn=urn%3Awise%3Aauthentication%3Achallenges%3Aemail-checkpoint%3F%3Daction%3Dverify%26secret%3Dlnwd8ucIZKyq6PPvhM8FRVvpd71tCISX0j
+
+---
