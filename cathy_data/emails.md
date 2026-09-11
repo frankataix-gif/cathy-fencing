@@ -621,3 +621,15 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTV9ADIAAAAAACG3R9dmbd8S53WKqq8JtYldYBxNwBP3k4T0GdrviPDwK-TbtBdoKIBLkeaihcdOZj6dU38bQdMQYBDgos
 
 ---
+
+## [其他] Le 6 spiagge più strane e particolari d’Italia da scoprire quest’estate
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-22T17:00:52.000Z
+**摘要:** 介绍意大利最独特和奇怪的海滩度假别墅，推荐今年夏天探索。
+**待办:** 无
+
+Case vacanze sulle spiagge italiane più sorprendenti — idealista/news
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
