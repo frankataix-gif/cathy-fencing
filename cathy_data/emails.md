@@ -11427,3 +11427,21 @@ New deals drop daily.
 <https://app.sephora.com/T/v61000001a0488635adc01a5d6e96c660f0/bee7c2b882dc4aca0000021ef3a0bcc2/bee7c2b8-82dc-4aca-8d93-18a3
 
 ---
+
+## [其他] Your up to 80% off deal is fading
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-28T10:49:04.000Z
+**摘要:** 邮件提醒用户之前的80%折扣优惠即将结束，建议尽快使用。
+**待办:** 无
+
+ Your up to 80% off deal is fading 
+All good things come to an end but there’s still time to grab it. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ 
+
+---
