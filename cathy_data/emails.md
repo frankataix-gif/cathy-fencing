@@ -12201,3 +12201,25 @@ nataliewu100@gmail.com
 
 
 ---
+
+## [其他] Your My TELUS account: additional account registration
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-24T22:21:00.000Z
+**摘要:** 邮件提醒用户将两个TELUS账户关联到同一邮箱，并建议下载My TELUS应用。
+**待办:** 无
+
+   
+ 
+Bonjour,
+
+Nous avons remarqué que, lorsque vous avez mis en service votre téléphone TELUS, vous avez fourni la même adresse électronique que vous utilisez pour accéder à votre autre compte. Saviez-vous que vous pouvez associer vos deux comptes à la même adresse électronique?
+
+
+Obtenez plus de détails en ouvrant une session dans votre compte.
+
+Grâce à ce profil, vous pourrez accéder à votre compte en ligne et le gérer.
+
+Vous n’avez pas l’application Mon TELUS? Cliquez ci-dessous 
+
+---
