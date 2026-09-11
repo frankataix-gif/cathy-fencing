@@ -23004,3 +23004,25 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTd9AAcAAAAAAyEBAvg_EHSy711
 http
 
 ---
+
+## [其他] Don't miss important account information! Complete your Self Serve Registration.
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-06-24T09:01:46.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Just dropping by to remind you to register for Koodo Self Serve
+
+Once it's done, you can log in with your email address and password for 
+24/7 access to your usage, bill details and more!
+
+Register now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew_Reg_Assiste
+
+---
