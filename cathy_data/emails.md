@@ -17495,3 +17495,30 @@ T-Mobile USA - 主题： Your T-Mobile account needs to be refilled. - 状态：
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGELNZvawNwCGIrv6EjFi1km219a4-2BLBfnEX-2BgPZvf8h67FIYqOoALBr-2FyGnNu-2B-2BeUhKOpcznOyb1S2OyTZ6SpLyEvAWEeSQIVuVWspldxBBlP-2BKxJavFCcTFHS6eXzcnKJ4I6Z234qkgTAOan4NYstyk-2FxzP
 
 ---
+
+## [营销] Who said summer’s over?
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-23T14:08:14.000Z
+**摘要:** 邮件内容为Aritzia的夏季促销活动，部分商品享受50-70%折扣。
+**待办:** 无
+
+Sale's going fast — 50–70% off select styles.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌ 
+
+---
