@@ -11561,3 +11561,15 @@ Keep your routine on track.
 <https://app.sephora.com/T/v61000001a0459372529f8979f4bbcf6cc0/daa08b2c751c40740000021ef3a0bcc2/daa08b2c-751c-4074-850
 
 ---
+
+## [其他] Your recent Tesla order cancellation
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-27T23:16:18.000Z
+**摘要:** 客户取消了Tesla订单，并请求提供取消的原因。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DlqKy_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpGIidZADQA9cB2eDEgZUOZLS8ufdIwh-2Fvh7oV0vPm-2By4F0zoQ2tvCIwscyUCgGaN2XiHnuwGlVh7WVCUGras-2FCvsKqOcs-2F2WZxN0-2FMF9zAKtmTVZa7HFW-2BaBgw-2BfmaMuKA6y-2Fr6JTgIe5JNk2
+
+---
