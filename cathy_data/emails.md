@@ -8670,3 +8670,25 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Please remember to confirm your email
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-07T19:52:38.000Z
+**摘要:** 这封邮件提醒xiaojun需要确认PayPal邮箱地址以完成账户设置。
+**待办:** 确认邮箱地址
+
+ Please remember to confirm your email xiaojun, please complete your PayPal 
+account setup. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Don't forget to confirm your email
+
+Remember, with PayPal, you can shop securely, donate to charity and do so 
+much more. You're almost there. By confirming your email address, you let 
+us know you’re the rightful owner of this account.
+Confirm Email Address 
+<https://www.paypal.com/cgp/welcome-back?userIntent=profile_complete&expId=confirmEmail&cust_id=M5629AVJ2R5JA&
+
+---
