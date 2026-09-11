@@ -25825,3 +25825,28 @@ Siamo felici di averti con noi!
 Che succede 25/05/2026 — idealista/news                  Se la Bce alzerà i tassi alla prossima riunione di politica monetaria "lo saprete l11 giugno". Lo ha detto la presidente della Bce, Christine Lagarde, a Che tempo che fa. A richiesta di una indicazione sullorientamento di politica monetaria, Lagarde ha risposto "no, perché la situazione attuale è di massima incertezza". Lagarde non ha quindi ripetuto quanto detto a fine aprile, quando aveva affermato "ho chiara la direzione" dei tassi dint
 
 ---
+
+## [营销] Esclusiva online | Abiti per la tua estate
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-25T07:18:28.000Z
+**摘要:** 这封邮件是Oltre的夏季服装促销广告，包含免费店内取货和免费退货服务，以及新到货品的链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAAAAAAIFc6wkoGTaKZ13VJWXrpvkzBR6_b60ZVXXSaOt8qkVowQjU6xdOxpqILxQ5jRWavI03vW0bd6TsTSgVze0h_avir3CAVIfSl5De6Fa0 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAAAAAAIFc6wkpxFo4J9jnrAaoh3O_IM6FF_Tm0qAi41aaOzC4Wkl3ispF4HS8jAx1HdI8Q5cQ5Y2rX8Dhvqy5-w_3cwa4fT_rngtft2OIvEDc 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODd9ADIAA
+
+---
