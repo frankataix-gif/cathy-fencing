@@ -2134,3 +2134,16 @@ RITIRO IN NEGOZIO GRATUITO
 R
 
 ---
+
+## [其他] Che succede 30/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-30T13:01:02.000Z
+**摘要:** 提醒及时处理租金拖欠问题，并指导如何撰写催款信，包括滞纳金、附加费用及合同条款等必要信息。
+**待办:** 无
+
+Che succede 30/03/2026 — idealista/news      Quando un canone di locazione non viene versato, agire tempestivamente è fondamentale. Per gestire la situazione con professionalità, bisogna sapere come scrivere una lettera di sollecito per mancato pagamento allinquilino moroso, assicurandosi di includere tutti i riferimenti necessari: dalle mensilità arretrate agli oneri accessori, fino ai termini di scadenza previsti dal contratto
+
+******************************************************************
+
+---
