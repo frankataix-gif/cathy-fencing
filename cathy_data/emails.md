@@ -25908,3 +25908,18 @@ What's on this weekend
  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
 
 ---
+
+## [其他] Should you get a 2 or 5-year fixed rate mortgage?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-05-22T13:08:40.000Z
+**摘要:** Rightmove提供关于选择2年或5年固定利率抵押贷款的最新见解，帮助用户做出决策。
+**待办:** 无
+
+Get the latest insights on fixed mortgages to help you decide
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/jv31SXl5-jrWQL0QzCZoKA~~/AAAHahA~/76xomrqaePM2_2IhxYJjRfHS9Fra-B_pq-nPUdMs8ygHwrDuef3ImYYxBu2AX2uvt5vCZ6apzc93MTMYKZWUyKpa97zoG5b7S3Up_bkyqWqIm_N-ScWZW2q-Fo0ZYs-5UhYAgG9Q_BY5ApKrVycRnH3MtT_wr030jqZFp6bB2OU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/oMnrqc37pKl7TBFIk26PSw~~/AAAHahA~/erxwW_C1hTlk3g-pHOZf2_OJmFUahzhxK6_TyNbdF1D9F4l9h7N1hKZA6FvSytCc56oZhDBQoup56S7Y34wht5YP80J
+
+---
