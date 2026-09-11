@@ -24126,3 +24126,28 @@ Che succede 11/06/2026 — idealista/news          Quando ci si trasferisce in u
 La Banca Centrale Euro
 
 ---
+
+## [营销] OLTRE X IEO-MONZINO | Capitolo 1
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-11T07:25:05.000Z
+**摘要:** 这封邮件宣传Oltre新品上架，包括裤子和上衣，并提供免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAAAAAALmhWTBBHptmPwflIOp-6aHZsYF5Dw2mT-LAGATYpyzEfLiCFRBOZzeBTGSRpE9YtnCRLnopzpj39RVG2gphZlto3spael7N-F4VJkaP 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAAAAAALmhWTBC2g0OBEB1ONeqlTW8tTIXhD_yRn5u0X-WRnPXGgM_RbL6UFn-A6227TGgEbRIfn5mZ_bthXOlS9a-l9R4eZlNGfl-swbZsU_3 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDR9ADIAA
+
+---
