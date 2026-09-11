@@ -23864,3 +23864,15 @@ La pianta del ghiaccio che fiorisce tutta lestate — idealista/news
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] 唔好等到溫哥華機票貴咗再買! 😤
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-13T09:29:44.000Z
+**摘要:** 
+**待办:** 无
+
+即刻預訂！機票價格隨時會上升😱
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10154197228-1781342978264.519%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1781341200000.20260613.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1781341200000.20260613.zh_HK.%26trip_in_sid%3D1117&bizData
+
+---
