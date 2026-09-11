@@ -1498,3 +1498,18 @@ RESO SEMPRE GRATUITO
 Fidelity c
 
 ---
+
+## [其他] Non hai ancora deciso cosa fare con questi immobili in Basiglio?
+
+**发件人:** idealista <nonrispondere@idealista.it>
+**日期:** 2026-04-06T07:17:32.000Z
+**摘要:** 邮件推荐了Basiglio的一些房产广告，可能对用户有兴趣。
+**待办:** 无
+
+ Ti inviamo gli annunci che potrebbero interessarti di più in Basiglio, nel 
+caso tu voglia contattare l'inserzionista. 
+<https://www.idealista.it/?utm_medium=email&utm_campaign=remarketingNotifier&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-04-06T090126&utm_link=logo&utm_recipient_id=GM3pTArvwhAKFgC8rAmADtLkov60P2lQJ2E3HBozuXU=&utm_notification_id=e6c400f9-982f-41ae-87a4-c8183eae204f>
+Ciao natalie,
+Ti inviamo gli annunci che potrebbero interessa
+
+---
