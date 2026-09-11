@@ -14306,3 +14306,17 @@ Once you complete the survey, you will be entered into a prize-draw for a *
   ­ ͏ 
 
 ---
+
+## [营销] Natalie, do you love where you live?
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-08-11T15:27:21.000Z
+**摘要:** 这封邮件询问Natalie是否喜欢她目前的居住地，并邀请她参与一个有机会赢取250英镑的活动。
+**待办:** 无
+
+Your chance to win £250              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/gwH82iGD2lpkJKwmT4h1hg~~/AAAHahA~/FicIQYee1HZtuFDCChMDE1SMsydVx14jpQhPcRSKekt_qagt2UowQGP-sRsgi554LRQTdGg7T0ZyFN5fwHY7yLNzD4LlmNkOCnZBge5fKYql-7Az0oWY2nywAaVB7TaZCPWh1NpknK9bCps75NUfwQtTXz2g8tpQ-O7HNFpTwVg~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/e-_IBReRqJNRZCtu-sigCg~~/AAAHahA~/XWUK0JKEGeQOVdFtx0sHJAspoWxCFRW_qZLXqSVtw13zm1PrnhDWkyuOhVoIXC5H8FLozHQSUqMWLSd3Jg_8nws_oGICAX6rGP2wr0i9nsX3janwxSMp
+
+---
