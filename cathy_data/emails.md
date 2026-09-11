@@ -11908,3 +11908,30 @@ My TELUS makes managing your plan easy.
 
 
 ---
+
+## [其他] Your order is on its way
+
+**发件人:** noreply@telus.com
+**日期:** 2026-08-26T18:21:26.000Z
+**摘要:** 邮件通知订单正在配送，可能通过普通邮件送达且无追踪信息，并附有新SIM卡使用指南。
+**待办:** 无
+
+ 
+Thank you for choosing TELUS 
+
+Date: Aug 26, 2026
+
+Dear JINGQI WU, 
+We’re happy to let you know that your order is on its way and will be 
+delivered to the shipping address you’ve provided. If the tracking number 
+field shows “Not Provided”, the order will be delivered via regular mail 
+with no tracking available. 
+
+Tracking Details
+Order Number 20422833107 
+Courier LETTERMAIL 
+Tracking Number Not Applicable / Ne s'applique pas 
+Shipping Address Unit 103 708 FARROW ST <br>COQUITLAM BC V3J0P2 
+
+
+---
