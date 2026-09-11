@@ -17852,3 +17852,18 @@ Asady） - 主题： Re: 708 Farrow st - 状态： 仍待处理。 - 重点内�
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHwcrrD3XqEHDV-2FWtQwKGZjghjDqDJRcOu4odo9VI6mF-2B95-2BgGSlDxjgCoaY-2FIYV-2FBBOJnFy-2FeuAQcRyIzkpDQa2HIHX-2B2q9-2BeecLu6xRxiPF-2BGz7zkPMbudyhEs8kuydszDaCS40X-2FrM4qT-2FXF-2
 
 ---
+
+## [其他] Create Shared Lists in the app
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-07-22T16:38:51.000Z
+**摘要:** 提醒用户在Rightmove应用中创建共享列表，方便共同寻找房源。
+**待办:** 无
+
+Find homes together, wherever you are              Rightmove
+Logo 
+( https://clicks.rightmove.co.uk/f/a/bHC2_ZgXad39aX_N2EP_6Q~~/AAAHahA~/cPeF9rVKE0WlPjf5lzzAhDZwBa1MZk9nBX1P2F6EfI-v5dZBZygi3srERGYgNZIUNNJY32TCJs-7wsUIGJV8fMCy6lF5jW9ohjM9RsxMPtRv3vzpMLVMHCchDPJGs269jZGEmrNoSzLgsklh1tJ8BmrPi7RiYdryqRbcL_GWoFQ~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/a08Bm6UZPTGjjMNl6qnSGg~~/AAAHahA~/bbggEG0z6fTRaMW0K8tTSzs0nELDyqi7OitXJFDfVp8eY6fTljSCwTu_j3meaUEWnhuq5_VSuj62ppZXf-7rzVrr5nwbULkal15GXc
+
+---
