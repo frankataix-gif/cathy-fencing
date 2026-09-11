@@ -15900,3 +15900,15 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NTR9AA
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152813-1785457721363.81%26ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5Ij
 
 ---
+
+## [营销] New: Lower GPT-5.6 pricing and Fast mode for Sol
+
+**发件人:** OpenAI <noreply@email.openai.com>
+**日期:** 2026-07-31T00:02:07.000Z
+**摘要:** OpenAI宣布降低GPT-5.6的价格并推出更快的模式。
+**待办:** 无
+
+Today,﻿ we’re making GPT-5﻿.6 more affordable and faster﻿.
+‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ 
+
+---
