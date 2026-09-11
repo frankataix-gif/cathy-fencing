@@ -11009,3 +11009,27 @@ nataliewu100@gmail.com
 “<https://c.gle/ACT4xYwveVy8XlKlFkR5mKJMjQSJnH7V
 
 ---
+
+## [其他] << Ref:5604354 >> TELUS Consumer Service Agreement
+
+**发件人:** CART CSA <CARTCSA@telus.com>
+**日期:** 2026-08-30T16:09:43.000Z
+**摘要:** 邮件提醒用户查看并下载TELUS设备的消费者服务协议，包含购买条款和所选服务信息，需保存副本。
+**待办:** 查看并下载消费者服务协议
+
+Hello
+
+
+Please follow the steps below to view your Consumer Service Agreement for your TELUS device. It contains useful information related to your purchase, including the terms of your agreement and the services you've selected. Please read it carefully and save a copy for future reference.
+
+
+You may view and download your Customer Service Agreement from the last four years via My TELUS:
+
+
+1. Login at TELUS.com/mytelus
+
+2. Select the My Profile tab
+
+3. Select View Service Agreement
+
+---
