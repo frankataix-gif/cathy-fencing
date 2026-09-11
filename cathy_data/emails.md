@@ -20387,3 +20387,31 @@ Natalie
 
 
 ---
+
+## [其他] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-07-08T15:01:23.000Z
+**摘要:** 申请状态有更新，需登录账户查看详细信息。
+**待办:** 无
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+Your application status has changes.
+To check what's changed with your application's status:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+
+
+Sign in to your account 
+<https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html>
+
+
+
+------------------------------
+
+This message is intended for nataliewu100@gmail
+
+---
