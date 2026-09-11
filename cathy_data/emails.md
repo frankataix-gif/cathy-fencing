@@ -26195,3 +26195,29 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODB9ADIAAAAAAGpfoazjAvfMbr
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODB9ADIAA
 
 ---
+
+## [营销] 🛜 20% off everything online, House Members* 🛜
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-17T06:50:15.000Z
+**摘要:** Hollister推出20%折扣促销，仅限会员，最后一天有效。
+**待办:** 无
+
+Hollister Co. 
+  
+LAST DAY to shop! 
+<https://e.em.hollisterco.com/c2/1979:6a05d917173e46dbd30aa4f2:ot:69e6429a87fa4e894f0fac35:1/fdd727c4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzkwMDA2MTUsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNmEwNjI4NDZlODY1MWI2NTY1MDY5YTY1IiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL3VrP3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1FTU06U1
+
+---
+
+## [其他] Usare l'alloro in lavatrice: tutti i vantaggi
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-16T11:00:38.000Z
+**摘要:** 介绍如何在洗衣机中使用月桂叶及其好处
+**待办:** 无
+
+Come usare lalloro in lavatrice — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
