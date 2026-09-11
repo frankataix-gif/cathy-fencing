@@ -17201,3 +17201,33 @@ GCKey（Government of Canada） - 主题： GCKey Sign-In - 发件人： GC@auth
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFBTQmjuyTAfANI1W7noJcLFX8UP3gPoURpNu9dkL33fW0ZWQIdMW-2Bm28dbDAaIVI1mZvlbWDV-2BjhJ-2BuFeynlZBeQO0hqNDiPvAp6ya-2BAgBlZ432l5bunpxq5UudXfOVmMYmntWN7HUiJmSvBdUTgVFN7b-2Bm8lP
 
 ---
+
+## [营销] Fast Walk
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-24T04:06:26.000Z
+**摘要:** Loro Piana推出全新运动鞋，倡导闲雅风尚。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+全新运动鞋演绎闲雅风尚
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+---
