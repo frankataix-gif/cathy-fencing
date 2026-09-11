@@ -19906,3 +19906,21 @@ We respect your privacy and will not provide your personal information to
 others without your consent. Please do not reply to this message
 
 ---
+
+## [其他] Required Notice of Public Hearings
+
+**发件人:** T-Mobile <donotreply@system.t-mobile.com>
+**日期:** 2026-07-10T22:13:01.000Z
+**摘要:** 关于移动语音服务质量的公开听证会通知，邀请公众参与讨论服务故障和恢复问题。
+**待办:** 无
+
+ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: T-Mobile] 
+[image: T-Mobile]
+Required Notice of Public Hearings
+Virtual public hearings for Rulemaking 26.02.017, Mobile Voice Service 
+Quality, are scheduled to receive your co
+
+---
