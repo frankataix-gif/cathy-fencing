@@ -233,3 +233,15 @@ Plus, our exclusive Hollister x Kappa collab.
 <https://e.em.hollisterco.com/c2/1979:69ef78bd4036650eb30f8368:ot:69e6429a87fa4e894f0fac35:1/86bb4c29?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc2MTgzODAsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllZjdjYTNmNDFlY2IyNzgxMGRjNGJkIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2ND
 
 ---
+
+## [其他] Casa green, in attesa del Piano Nazionale
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-04-30T11:00:41.000Z
+**摘要:** 关于绿色房屋的新闻简报，提及等待国家计划的发布。
+**待办:** 无
+
+Newsletter 30/04/2026 — idealista/news     | Lunedì 27 Aprile 2026
+*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
