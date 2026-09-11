@@ -2087,3 +2087,16 @@ Meadowridge School
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 31/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-31T13:01:42.000Z
+**摘要:** 邮件内容涉及欧盟能源部长会议讨论中东危机和伊朗战争的影响，以及2026年第二季度电费上涨信息，同时提到房地产分类的缺失。
+**待办:** 无
+
+Che succede 31/03/2026 — idealista/news     Tra tutte le categorie, però, ne manca una: l’immobiliare. Marco Tilesi, imprenditore ed esperto nel settore immobiliare, ci offre la sua analisi al riguardo
+
+Caro energia e possibili misure coordinate a livello Ue per la situazione che si è creata a seguito della crisi in Medioriente e della guerra in Iran domani al centro di una riunione informale dei ministri dellEnergia europei, in videoconferenza. Secondo quanto riporta un comunicato del consiglio
+
+---
