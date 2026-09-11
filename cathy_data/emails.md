@@ -18685,3 +18685,34 @@ When you must do this by:
 The details will only be available 
 
 ---
+
+## [其他] Your request to verify your identity was received
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T18:24:41.000Z
+**摘要:** 这封邮件通知用户提交的身份验证请求已收到，并说明后续需等待BC Services Card审核，通常在2个工作日内完成。
+**待办:** 无
+
+ 
+[image: BC Services Card] 
+<https://www2.gov.bc.ca/gov/content?id=1AEB073331D547448009E506D6DAC395> 
+Hello, 
+
+Your request to verify your identity was received. 
+  
+What you need to do next 
+
+   - Wait until Service BC reviews your request 
+   - After it's reviewed, you will receive an email 
+   - You can also check the status in the BC Services Card app 
+
+  
+How long it will take: 
+We review requests: 
+   
+   - Monday to Friday, 9 am to 5 pm 
+   - In the order they're received 
+
+Usually, we w
+
+---
