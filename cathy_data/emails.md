@@ -14525,3 +14525,27 @@ appointment to ensure you me
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154139167-1786320432868.773%26ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNs
 
 ---
+
+## [学校] Inquiry regarding School Bus Application Payment - Yunxi (Cathy) He
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-09T20:42:25.000Z
+**摘要:** Frank已提交Yunxi（Cathy）的校车申请，但不确定如何支付费用，需询问支付方式或链接。
+**待办:** 联系学校确认支付方式
+
+Dear Natalie,
+
+I hope this email finds you well.
+
+I have successfully submitted the online school bus application for Yunxi (Cathy) He. However, I am unsure where to proceed with the payment for the bus service.
+
+Could you please advise on the payment method or provide a link where I can complete the transaction?
+
+Thank you for your kind assistance.
+
+Best regards,
+
+Frank
+
+
+---
