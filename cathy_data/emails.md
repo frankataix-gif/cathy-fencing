@@ -20615,3 +20615,20 @@ Check out the latest drops inside!
 <https://app.sephora.com/T/v610000019f3d57166ac4f7a8f4bbcf6cc0/c4a8fefa5cb841510000021ef3a0bcc2/c4a8fefa-5cb8-4
 
 ---
+
+## [营销] Natalie, your $7 off is waiting. Order now.
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-07T16:08:19.000Z
+**摘要:** Natalie收到一封来自DoorDash的促销邮件，提供7美元折扣，可用于下次两个订单。
+**待办:** 无
+
+ DoorDash You could be saving big on your next two orders. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌  
+
+---
