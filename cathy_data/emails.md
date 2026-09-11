@@ -8478,3 +8478,18 @@ guardian we have on file). Therefore, in* order to give permission to
 anoth
 
 ---
+
+## [其他] Your Foxtons photography appointment
+
+**发件人:** Foxtons <mail@info.foxtons.co.uk>
+**日期:** 2026-09-08T14:19:56.000Z
+**摘要:** 确认Cathy在Flat 120, 1 Emery Way, E1W 2AS的房产摄影预约时间，定于2026年9月9日上午9点，摄影师为Gantcho Beltchev。
+**待办:** 无
+
+Your photography appointment for
+Flat 120, 1 Emery Way, E1W 2AS is confirmed    My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/dtqFVBEEndiQABPIoF6L9w~~/AAAHahA~/C8hhsJGI9waTBP5WMW3fgfAxmw1WCflk3vV4Cx4RIDWodx-yeqJuJjmw5druc3VGpCWsA_xjLrkPz-eUJT8BRPbtFTIAY83DsY9pg99JAPVPXVmUBO4MpNSusrYPGPeDAbK8qAbJFEKSJPx--Fojxw~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/SK5Mxi5v7QsM315uYMMLYQ~~/AAAHahA~/x1rvWQlutuwhXHvE5D4yLERDaiakzGgG0O6h-cp6cNgAAjaYgOuWa4psd5O1zWRDE2gfub_fKOViyNjBwLUE5SNTBuIeM3kitE2OmzmgOT
+
+---
