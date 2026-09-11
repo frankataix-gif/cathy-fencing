@@ -2020,3 +2020,25 @@ I send you a invoice for the company
 
 
 ---
+
+## [营销] 🎉 Auguri da Oltre! 15% di sconto per te
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-01T07:39:29.000Z
+**摘要:** 邮件为Oltre的促销活动，提供15%的折扣优惠。
+**待办:** 无
+
+
+  
+ 
+
+ 
+
+
+https://view.email.oltre.com/?qs=eyJkZWtJZCI6ImNiMTc2ZWY0LTljODEtNDlmYS1hN2M0LTAyZjhhZDUxMTIwMSIsImRla1ZlcnNpb24iOjEsIml2IjoiZ0JNUHgvS20wbzJSZmxrQTZmZmVBQT09IiwiY2lwaGVyVGV4dCI6InpBb2FDM0FHelBaZ1FWTXBQcmZMSUk1S3JjbTZ3TnZ1NmwxVUdKazE5ZUE0Qk1JaHYwMWU2VjY1RG9rZUQ3Q1BOdXMwV0VWRG1TeUNxRENJY0FVellOalBRbUo5L0F5TkZhOThnYTdaTTNsYm9ubmxvektlajRUb3dZQVREOGZ5cHRLTmtYNVpBT24zM2dBPSIsImF1dGhUYWciOiJnYTdaTTNsYm9ubmxvektlajRUb3dRPT0ifQ%3D%3D 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+R
+
+---
