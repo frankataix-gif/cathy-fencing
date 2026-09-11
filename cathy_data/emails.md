@@ -19020,3 +19020,29 @@ My Rightmove
                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ---
+
+## [其他] Your receipt is here! #941 35 6798 07162026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T03:14:37.000Z
+**摘要:** Best Buy发送的电子收据，包含购买物品和交易详情。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 35 6798 07162026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 35 6798 07162026 
+Date 2026-07-16 08:14 PM 
+Type Sale 
+Associate Name Michael 
+Transaction Summary
+Breville The Soft Top Pure Electric Kettle - 1.7L - Silver 
+Item #: 10574189 
+Shipping M
+
+---
