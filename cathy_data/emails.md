@@ -21156,3 +21156,24 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw374wvj3h
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015411192-1783293901482.419%26ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
 
 ---
+
+## [其他] Natalie, see handpicked deals for you.
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-05T16:48:44.000Z
+**摘要:** 
+**待办:** 无
+
+Limited-time savings you’ll love—shop while they last.Summer of
+DashPass is here! Through ‌7/22‌, enjoy exclusive deals, rewards
+that help fuel your soccer fandom, and more!
+
+Summer of DashPass ( 
+) Explore more → (  )
+Start your 30-day free trial and unlock exclusive deals, rewards
+that help fuel your soccer fandom, and more! Terms apply.
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/Dh3d2Gl63_WjL1T6E6niwg~~/AAQRxRA~/___IYnIJjxSqgitN2TgNVExn8Ux6kmWbnP-eB1h20CSl8pVJqokvkAVW4FJJVfa5J-gj
+
+---
