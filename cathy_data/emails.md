@@ -19819,3 +19819,34 @@ Ai Mine:
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147193136-1783729243702.369%26ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
 
 ---
+
+## [其他] Hooray! You're now registered for Koodo Self Serve
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-07-10T23:14:38.000Z
+**摘要:** 这封邮件通知JINGQI已成功注册Koodo Self Serve账户，可在线管理账单、添加服务和更新账户信息。
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Thanks for registering for Koodo Self Serve! Give yourself a pat on the 
+back.
+
+Now you can view and pay your bills, manage your add-ons, and update your 
+account online.
+
+Just so you know, your Koodo Self Serve account username is 
+nataliewu100@gmail.com.
+
+Log in now <https://www.koodomobile.com/my-account> 
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent
+
+---
