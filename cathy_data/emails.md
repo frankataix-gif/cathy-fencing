@@ -780,3 +780,17 @@ Natalie Cathy’s mom
 
 
 ---
+
+## [营销] ✨ Spring dress refresh ✨
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-04-21T06:50:46.000Z
+**摘要:** Hollister推出春季连衣裙系列，提供多种场合穿搭选择。
+**待办:** 无
+
+Hollister Co. 
+  
+A dress for every dress occasion. 
+<https://e.em.hollisterco.com/c2/1979:69df8dc094cc1e0bdb0c7092:ot:69e6429a87fa4e894f0fac35:1/6848fc8f?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzY3NTQyNDYsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlkZjk0OGI4OTc4ZWZlNWUzMDE5YTJhIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MD
+
+---
