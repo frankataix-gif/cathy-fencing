@@ -2191,6 +2191,8 @@ function circuitLabel(c) {
         }
       }
       if (typeof renderEmailList === 'function') renderEmailList();
+      requestEmailNotifications();
+      showEmailNotification();
     } catch(e) {}
   }
 
@@ -2200,6 +2202,38 @@ function circuitLabel(c) {
     const emailTab = document.querySelector('.tab[data-tab="emails"]');
     if (emailTab && emailTab.classList.contains('active')) loadEmails();
   }, 30000);
+
+  function requestEmailNotifications() {
+    if (!('Notification' in window)) return;
+    if (Notification.permission === 'default' && !localStorage.getItem('cathy_notif_requested')) {
+      localStorage.setItem('cathy_notif_requested', '1');
+      Notification.requestPermission().then(permission => {
+        if (permission === 'granted' && allEmails.length) {
+          localStorage.setItem('cathy_last_email_count', String(allEmails.length));
+        }
+      });
+    }
+  }
+
+  function showEmailNotification() {
+    if (!('Notification' in window) || Notification.permission !== 'granted' || !allEmails.length) return;
+    const last = parseInt(localStorage.getItem('cathy_last_email_count') || '0', 10);
+    const now = allEmails.length;
+    if (last === 0) {
+      localStorage.setItem('cathy_last_email_count', String(now));
+      return;
+    }
+    if (now > last) {
+      const diff = now - last;
+      const latest = allEmails[0];
+      const title = diff === 1 ? 'Cathy：收到一封新邮件' : `Cathy：收到 ${diff} 封新邮件`;
+      const body = latest.subject + (diff > 1 ? ` 等 ${diff} 封` : '');
+      try {
+        new Notification(title, { body, icon: 'icon-180.jpg', badge: 'icon-180.jpg', tag: 'cathy-email' });
+      } catch(e) {}
+    }
+    localStorage.setItem('cathy_last_email_count', String(now));
+  }
 
   function createChips(container, options, type, labelKey = 'label') {
     container.innerHTML = '';
@@ -4197,7 +4231,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v20', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v21', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
