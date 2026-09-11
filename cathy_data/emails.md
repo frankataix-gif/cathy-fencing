@@ -926,3 +926,15 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTB9ADIAAAAAABLKaGGs150ZdECnSWYXu4pktSHdYnCfY3yNhI_Em0OgEUe0RhxVqMzVapguNBsKt5v4-m3v1ARKelYgNy
 
 ---
+
+## [其他] Le case a 1 euro italiane conquistano anche il Brasile
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-04-17T19:01:31.000Z
+**摘要:** 意大利的1欧元房屋销售策略在巴西受到关注，成为当地媒体报道的热点。
+**待办:** 无
+
+newsletter 17 aprile — idealista/news     | Mercoledì 15 Aprile 2026
+***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
