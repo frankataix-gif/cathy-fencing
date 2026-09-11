@@ -3932,3 +3932,27 @@ hiahdaisdasdasdasd
 
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-11T20:56:09+00:00
+**摘要:** Google提醒您‘未命名项目’已访问您的账号数据，可能存在安全风险，建议查看账号活动记录并确保安全。
+**待办:** 检查账号安全并查看活动记录
+
+[image: Google]
+您已授权“未命名项目”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“未命名项目”访问您的某些 Google 账号数据，则意味着有人可能在试 
+图访问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789160169000?rfn%3D127%26rfnc%3D1%26eid%3D5851822936436329577%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goog
+
+---
