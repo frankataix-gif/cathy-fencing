@@ -25463,3 +25463,14 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAAAAAAIxL4UIjaWTzrH
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTB9ADIAA
 
 ---
+
+## [其他] Che succede 28/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-28T07:23:02.000Z
+**摘要:** 意大利因工会和巴勒斯坦组织罢工导致交通中断，同时欧洲央行警告能源措施需临时且精准以避免通胀。
+**待办:** 无
+
+Che succede 28/05/2026 — idealista/news                 Cortei in tutta Italia in occasione dello sciopero generale indetto per venerdì 29 maggio dai sindacati di base Cub; Sgb; Adl Varese; Si Cobas; Usi; Usi Cit e dalle organizzazioni palestinesi in Italia Api e Gpi-Giovani Palestinesi Italiani. Contestualmente, per quanto riguarda i trasporti, è stato proclamato da alcune sigle sindacali autonome uno sciopero nazionale, in adesione a uno sciopero generale, che interesserà il personale del grup
+
+---
