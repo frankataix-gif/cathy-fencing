@@ -19593,3 +19593,32 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 Amp
 
 ---
+
+## [待办] Your temporary ChatGPT verification code
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-12T12:17:31.000Z
+**摘要:** 邮件提供了临时ChatGPT验证码593206，用于账户创建或验证
+**待办:** 输入验证码593206
+
+ Your temporary ChatGPT verification code 
+
+[image: OpenAI] 
+
+Enter this temporary verification code to continue: 
+
+593206 
+
+Please ignore this email if this wasn’t you trying to create a ChatGPT 
+account. 
+
+
+Best,
+The ChatGPT team 
+
+[image: OpenAI] 
+
+ChatGPT 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMtxuwNyiH8tHYK-2BH0HuuCVk-3DMXFx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3OimteYeep-2BBC-2F9S5WFoS-2FI-2BoJ-2BG6Gn5fxf3knEfh3-2BjuPlu1Z3ZWtccwzSFWXRdWoC-2B
+
+---
