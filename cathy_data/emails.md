@@ -18121,3 +18121,18 @@ Care - 主题： Re: Smith Farrow - Blinds Repair - 需要处理：是 - 摘要�
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154209113-1784679609334.481%26ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5I
 
 ---
+
+## [待办] [Task Update] Email Monitor: DocuSign needs your signature now
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T00:16:29.000Z
+**摘要:** 邮件提示需要处理DocuSign签名，并提及网络安装的确认信息。
+**待办:** 前往DocuSign签名
+
+ 我查看了最近一天的新邮件（已排除垃圾邮件和促销邮件），有几封值得你关注： 1. Smith Farrow Rental Resident Care 
+- 主题： Re: Smith Farrow - Blinds Repair - 需要关注：是 - 内容摘要： 对方回复你，确认TELUS 和 
+Rogers 都可以在你的公寓安装网络，你可以自行选择运营商并联系开通服务。如果还有其他问题，可以继续联系他们。 - 建议： 
+如果你准备安装网络，现在可以直接联系 T... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE3O0eOmUBIIZtpCYsSVz5HFTEY-2FqZqt-2Bfarfo7gqSOE8Jlewcwj28sSyBUErd5-2BrBs-2F4oPAhS-2FMJmV2RlFl01NPl119pGjbEsy9NZoI4Pma1uND7pyTSC92QzymgnVcQR13EBXFTGKyrgyPa7GK2x4hC0qcg0tuEoZPMte9j
+
+---
