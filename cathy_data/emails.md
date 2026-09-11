@@ -23262,3 +23262,25 @@ Click here to view online.
 Membe
 
 ---
+
+## [其他] Almost there! Complete your Koodo Self Serve registration now
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-06-21T18:19:44.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+We're almost ready to set up your Koodo Self Serve account - it's the only 
+way to view your bill details, track your usage, and select your Add Ons. 
+
+Complete your registration now 
+<https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew_Reg_Assisted_MOB_Em> 
+
+All the
+
+---
