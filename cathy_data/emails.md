@@ -8330,3 +8330,22 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/9ynseU51Gz9kOnzwC4u1Yg~~/AAAHahA~/-7nhlZ4WiAkHw7nHcYMglypgXnapc6ag0RRi9rJSQzWSU1IZxvjRNrUafW6neB-spCJHIm501ucIT4t8UeuWkXbAYmm26NmpFS1Z4LP25
 
 ---
+
+## [学校] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-09T04:46:43.000Z
+**摘要:** Cathy无法登录学校账户，需要获取新密码。
+**待办:** 请发送新密码
+
+Hi Ms.Hook,
+
+I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today
+but the password was incorrect. Can you please send me the new password?
+p.s. You can contact me with this email.
+
+Thanks,
+Natalie
+
+
+---
