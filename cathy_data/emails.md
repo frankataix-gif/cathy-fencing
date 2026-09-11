@@ -3404,3 +3404,17 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/E49_grh2m2mFZzbJAQLxxQ~~/AAAHahA~/PDKsXEGcxD7ih8bugVc2ElJouqYblc52F7qvTF6Qx0BuhabNXXOWzI1V8jB05fv-HcbvlJ17
 
 ---
+
+## [其他] Natalie, welcome to My Rightmove
+
+**发件人:** Rightmove <myrightmove@mail.rightmove.co.uk>
+**日期:** 2026-03-11T12:08:35.000Z
+**摘要:** 这封邮件是Rightmove的欢迎邮件，介绍My Rightmove服务并引导用户开始使用。
+**待办:** 无
+
+Your next move starts here              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/tErHjWCfyJysvcYswru5qw~~/AAAHahA~/5sENgnUc2bGj_kIIlZjNrANU5Jb-Qz8nNkPC3ZR5-gJ3SmeCOqbeTs2roMqYruBTTOivLz94z3ysaoQyfplbXKac8ZARwojEUc_VlWLSZSyPuiAmn9yZtBTXb7KzKCp__4_oORmsnuzVJIc9sdK22_Dwz2uh9JZF6LoneReoxho~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/hHbezouSdUyRPSbVlG0IFg~~/AAAHahA~/AjJ6JAVGIcjZUxwHbbdMZEDjLKhnINmr3tr09jSlERACC48wqSfGQGCFebT6QkOI9DObu6iCYvdwkLRE1hgxDIU2WaGUdtwsLBuHVBRgtqpBZHMuN
+
+---
