@@ -10367,3 +10367,21 @@ you’ll receive important emails about your account.
 <https://wise.com/link?urn=urn%3Awise%3Aauthentication%3Achallenges%3Aemail-checkpoint%3F%3Daction%3Dverify%26secret%3Dlnwd8ucIZKyq6PPvhM8FRVvpd71tCISX0j
 
 ---
+
+## [营销] Make today taste a little different
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-02T20:30:03.000Z
+**摘要:** DoorDash推送新体验，鼓励用户尝试不同的用餐选择。
+**待办:** 无
+
+ DoorDash A little change never tasted so good 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash
+
+---
