@@ -23673,3 +23673,31 @@ Le 10 villette al mare più economiche dItalia — idealista/news
 Che succede 16/06/2026 — idealista/news                 Petrolio ancora in calo dopo laccordo raggiunto sulla tregua fra Usa e Iran che sarà siglata in Svizzera venerdì insieme alla riapertura del canale di Hormuz. Il Brent cede lo 0,5% a 82,8 dollari, il Wti lo 0,4% a 80,4 dollari. Gli analisti di Citi intanto hanno tagliato le stime sul Brent. La banca vede una probabilità del 60% di normalizzazione dei flussi nello Stretto di Hormuz entro metà/fine luglio e stima un Brent a 65 dollari nel 202
 
 ---
+
+## [其他] Il tuo buono da 50€ scade oggi! ⏰​
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-16T05:04:18.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDl9ADIAAAAAAMaX91xUMwpF1Ap6Rv99_dUX_7Drhx1WUyjJIX5mWTQvd28_q8Clx-WQM_hu2YmPJTHn49xLYnHQUVV3C2u7gSi_PuwjmtqCl7rIW5Y 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDl9ADIAAAAAAMaX91xV_7l_uIDxMCRiDOeE820pbknRO8b-qJMJGMRl5n3X8vbUSTXK5FUCwbGUc-f2VPrxaZLeQBMlAflP
+
+---
