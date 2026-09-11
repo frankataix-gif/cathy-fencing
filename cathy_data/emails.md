@@ -16382,3 +16382,28 @@ https://www.apple.com/legal/privacy
 Copyright (c) 2026 One Apple Park Way, 
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-26T18:56:28.000Z
+**摘要:** 邮件提供一次性验证码用于政府账户登录验证
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+UR76XYJE
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
