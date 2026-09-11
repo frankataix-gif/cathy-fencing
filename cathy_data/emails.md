@@ -23061,3 +23061,15 @@ Che succede 24/06/2026 — idealista/news      Da Berlino a Londra, da Barcellon
 Caorle si distingue immediatamente per il suo centro storico di case color pastello affacciate sul mare, un campanile cilindrico unico in Italia e un lungomare trasformato in galleria darte a cielo aperto. Chi h
 
 ---
+
+## [其他] Raccontaci qualcosa su di te
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-06-23T13:09:17.000Z
+**摘要:** 
+**待办:** 无
+
+Calvin Klein
+  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zw
+
+---
