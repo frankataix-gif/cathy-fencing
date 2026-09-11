@@ -26117,3 +26117,14 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODJ9ADIAA
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 19/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-19T08:03:49.000Z
+**摘要:** 邮件介绍了意大利巴里一家专注于诗歌的书店Millelibri，以及黄金价格下跌和Enel收购美国光伏电站的消息。
+**待办:** 无
+
+Che succede 19/05/2026 — idealista/news     Non lontano dal centro di Bari, nel rione San Pasquale, sorge un angolo di paradiso per gli appassionati della scrittura in versi. Si tratta di Millelibri-Poesia e Altri Mondi, lunica libreria in Italia dedicata interamente alla poesia. Il progetto di una libreria dedicata a una forma di scrittura spesso estranea ai circuti commerciali è nata dalla passione e dal coraggio della sua fondatrice, Serena di Lecce, convinta - come spiega a idealista/news - 
+
+---
