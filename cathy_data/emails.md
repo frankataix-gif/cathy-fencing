@@ -23218,3 +23218,28 @@ natalie，您好！
 Che succede 22/06/2026 — idealista/news              Le banche centrali continuano a rafforzare lesposizione alloro in un contesto di crescente incertezza geopolitica ed economica. È quanto emerge dal Central Bank Gold Reserves Survey 2026 del World Gold Council (WGC), secondo cui l89% degli istituti intervistati ritiene che le riserve auree globali aumenteranno nei prossimi 12 mesi. "Le banche centrali continuano a nutrire aspettative favorevoli sulloro", sottolinea il report, evidenziando che 
 
 ---
+
+## [其他] La color combo perfetta, con Giulia Romanelli 💙​🤎
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-22T07:21:39.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9ADIAAAAAANkNz0Wajd6iAebyuZw128azKBd40vpRtyQR7HxJLtNkdqlRaIhxuDYaiNq5uJgmp2xct9ZRERvo3aNOB4CbWt-Xc16BjHq1ne82Aov5DQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9ADIAAAAAANkNz0Wcp0yIoedWc8Pv1eTxPWIMwbKWNmGp7B0ndV28QQGGFCyBP2trH2mmWmEvD2U4JA7tL5HG3ZubxrFe7dlxmyOYPJa7quOdzMkZ7w 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTV9A
+
+---
