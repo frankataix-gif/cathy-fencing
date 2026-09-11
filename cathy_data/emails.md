@@ -326,3 +326,15 @@ Answer with these.
 <https://e.em.hollisterco.com/c2/1979:69ea392165570f98700cf7ca:ot:69e6429a87fa4e894f0fac35:1/0aa6828e?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc0NDQ3NzgsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllYTNhZDMxOTFjM2QxNjdkMDcyMGExIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1FTU06U
 
 ---
+
+## [其他] 15 case all’asta vendesi: occasioni da cogliere subito
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-28T10:41:15.000Z
+**摘要:** 邮件提到有15套房产正在拍卖，提供出售机会。
+**待办:** 无
+
+15 case allasta — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
