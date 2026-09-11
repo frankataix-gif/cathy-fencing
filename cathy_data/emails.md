@@ -12333,3 +12333,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DQuzs_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRyt5KX7NJ5hK3KMOXV-2F-2FMShUma2eQSkXvtS2kb-2Fof-2FOR7R8zW09QTkaCF24ZaGypnE7DCfEg88oH-2BFlQjJl0SH6-2BAHt-2FMXNfw-2BjgNCnCVMw-2Bkr4Ueu4mb2X0X4JYmnOy84FB9BpJayU0Qr7QE4D
 
 ---
+
+## [待办] Finish setting up your Tesla Account
+
+**发件人:** Tesla Account Security <no-reply@tesla.com>
+**日期:** 2026-08-23T17:10:52.000Z
+**摘要:** 提醒用户完成Tesla账户设置，创建密码以充分利用账户功能。
+**待办:** 点击链接创建Tesla账户密码
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DbB7W_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsh1yRmsAa80uMTMGl9bbeoZq50xJ9v6NbWuVBI8HwwZRHmboIxL8NlzYPuqWkg8zIvhLdA0GHSMAoopmN4Cg3hbT-2F85xu8ZV0NFz7OuIYYSP38BhoKF7Sn6YJ1LSGQYLH-2F2kkdinj
+
+---
