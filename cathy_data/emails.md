@@ -3352,3 +3352,25 @@ You usually get a decision within 3 working days (Monday to Friday). You may get
 Occasionally, your decision
 
 ---
+
+## [其他] Your ETA security code
+
+**发件人:** UK Visas and Immigration Home Office <uk.visas.and.immigration.home.office@notifications.service.gov.uk>
+**日期:** 2026-03-13T14:59:11.000Z
+**摘要:** 您收到一个用于ETA的安全码，代码为912827，需在10分钟内使用且仅限一次。
+**待办:** 无
+
+You requested a security code.
+
+912827 is your security code 
+
+Your code expires in 10 minutes. You can only use it once.
+
+UK Visas and Immigration
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Do not reply to this email. This is an automated message.
+
+
+---
