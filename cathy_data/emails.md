@@ -21029,3 +21029,43 @@ Simply log in to
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
 
 ---
+
+## [其他] OMG, 30% off bikinis (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-06T14:11:57.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Don&rsquo;t wait. Shop now.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeC44OhbzbgzVe6BERyECzLCQr321EdqPPUIi0uiFx0T57Qr3CnPy7lVpV_jcCY58486fUwpfZ-SlnP3O3HbsLoW7VeAJRIhLYWKg 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeDUxLMacK25s0NbFvmGUzt75jEnkjpZ-N335IGr4J14PLCO0F0jg4A9n-YGcNjglkx-Jgv4aGdcl9fdDvKaJGqJt2lxahmAiwpdiZ5bKs 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+---
