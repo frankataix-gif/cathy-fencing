@@ -15444,3 +15444,32 @@ We need 15 students who have an individual camping mattress to volunteer to brin
 ALL ACKNOWLEDGEMENT OF RISK FORMS AND PERMISSIONS FORMS ARE DUE. Please ensure the initials are clearly done in each box and e
 
 ---
+
+## [其他] Your Apple Account was used to sign in to iCloud on an iPhone 16
+
+**发件人:** Apple <noreply@email.apple.com>
+**日期:** 2026-08-03T21:19:45.000Z
+**摘要:** 通知Natalie Wu的Apple账户在2026年8月3日晚上9:19使用了iCloud登录，提醒检查是否为本人操作，否则请更改密码。
+**待办:** 无
+
+Dear Natalie Wu,
+
+Your Apple Account (nataliewu100@gmail.com) was used to sign in to iCloud on an iPhone 16.
+
+Date and Time: 3 August 2026, 9:19 pm UTC
+
+
+If the information above looks familiar, you can ignore this message.
+
+If you have not recently signed in to an iPhone 16 with your Apple Account and believe someone may have accessed your account, go to https://account.apple.com and change your password as soon as possible.
+
+Sincerely,
+
+Apple Support
+
+
+---
+
+Apple Account:   h
+
+---
