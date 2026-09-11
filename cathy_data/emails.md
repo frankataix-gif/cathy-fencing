@@ -1787,3 +1787,16 @@ Newsletter 03/04/2024 — idealista/news     | Martedì 31 Marzo 2026
 *************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 03/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-03T08:24:33.000Z
+**摘要:** 邮件内容涉及房地产土地登记的重要性、燃气价格因中东冲突上涨以及航空公司因燃油成本调整夏季计划。
+**待办:** 无
+
+Che succede 03/04/2026 — idealista/news     All’interno delle operazioni immobiliari, la dichiarazione di conformità catastale rappresenta un passaggio cruciale: resa all’interno dell’atto notarile, conferma l’effettiva corrispondenza tra lo stato dell’immobile e i relativi dati catastali registrati. In altre parole, serve a convalidare che l’immobile in questione non presenta difformità rispetto alle informazioni disponibili al Catasto
+
+È aumentato del 19,2% il prezzo del gas a marzo per gli ut
+
+---
