@@ -20136,3 +20136,45 @@ HK$799 上海機票✈️HK$1 入手高鐵＋酒店券包，仲有內地專家�
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] All your fave denim shorts and skirts
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-10T01:07:56.000Z
+**摘要:** Cotton On推出牛仔短裤和裙子的BOGO 50%折扣活动，并提及积分奖励。
+**待办:** 无
+
+
+ 
+ 
+ All BOGO 50% off.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9AAcAAAAAA8tdfNP0s_FxLu42CgVqfgavZv_vQOsePCH6G0xw1SAUBDVW0k1NOxKizrpiwhRcw_MT9IaP0hpbrk5_uOM-5WlXctlLE4EAaHF3Efpr 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9AAcAAAAAA8tdfNP1fPzgC4-HFeZHXD5YBBw1KwZIoe0vDK8V1Le1_LUBv-ufpIKyzDuBA7ES8bMuctlkQPRLkSLsc2S1AhtqWMQ8nBgx2QCrgfJrqYhn8A 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+https://
+
+---
