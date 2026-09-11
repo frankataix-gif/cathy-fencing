@@ -25923,3 +25923,15 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/oMnrqc37pKl7TBFIk26PSw~~/AAAHahA~/erxwW_C1hTlk3g-pHOZf2_OJmFUahzhxK6_TyNbdF1D9F4l9h7N1hKZA6FvSytCc56oZhDBQoup56S7Y34wht5YP80J
 
 ---
+
+## [其他] Inflazione, quanto aumenta il canone nella tua città
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-05-22T11:01:12.000Z
+**摘要:** 关于通货膨胀导致租金上涨的新闻，包含不同日期的通讯内容。
+**待办:** 无
+
+Newsletter 22/05/2026 — idealista/news     | Venerdì 15 Maggio 2026 | Mercoledì 20 Maggio 2026  | Giovedì 21 Maggio 2026 | Martedì 19 Maggio 2026  | Martedì 19 Maggio 2026 | Giovedì 21 Maggio 2026  | Venerdì 22 Maggio 2026
+*************************************************************************************************************************************************************************************************************************************************************************************
+
+---
