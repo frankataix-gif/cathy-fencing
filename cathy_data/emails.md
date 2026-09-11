@@ -24259,3 +24259,14 @@ Case con piscina e vista mare — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 10/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-10T07:36:12.000Z
+**摘要:** 邮件内容涉及意大利腐败风险与法律修改的新闻，以及欧盟要求Meta恢复第三方AI助手访问的声明。
+**待办:** 无
+
+Che succede 10/06/2026 — idealista/news                "Per unopera così costosa i rischi di corruzione e infiltrazione mafiosa sono elevatissimi: ma anziché rendere più trasparente liter e aumentare i controlli, i diversi decreti sul Ponte, uniti ad alcune scelte normative generali, a partire dallabolizione del reato di abuso dufficio e dal ridimensionamento del traffico di influenze, hanno indebolito le difese della pubblica amministrazione, cioè dello Stato e dei cittadini". Lo afferma il pre
+
+---
