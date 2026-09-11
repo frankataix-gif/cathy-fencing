@@ -2568,3 +2568,14 @@ asking for your support in helping your child bring in these materials
 from ho
 
 ---
+
+## [其他] Che succede 20/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-20T10:17:23.000Z
+**摘要:** 意大利燃油价格折扣法令实施后，部分加油站未及时降价，监管机构已开始检查并可能对违规者处以罚款或法律行动。同时，战争可能影响经济复苏。
+**待办:** 无
+
+Che succede 20/03/2026 — idealista/news               Il decreto legge contro il caro carburanti, approvato dal Consiglio dei ministri, è entrato in vigore con la pubblicazione in Gazzetta Ufficiale. Ma non tutti i distributori hanno applicato subito lo sconto di 25 centesimi al litro, previsto dal provvedimento per 20 giorni. Mister Prezzi, ovvero Benedetto Mineo, il Garante presso il ministero delle Imprese, ha avviato subito i controlli. Nel pomeriggio ha riunito al ministero la Commissione A
+
+---
