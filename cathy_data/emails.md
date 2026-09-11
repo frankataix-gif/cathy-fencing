@@ -11123,3 +11123,31 @@ Please do not reply to this email.
 
 
 ---
+
+## [待办] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-29T17:35:00.000Z
+**摘要:** 邮件通知应用状态已更新，需用户登录账户查看具体变化。
+**待办:** 查看申请状态更新
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+Your application status has changes.
+To check what's changed with your application's status:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+
+
+Sign in to your account 
+<https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html>
+
+
+
+------------------------------
+
+This message is intended for nataliewu100@gmail
+
+---
