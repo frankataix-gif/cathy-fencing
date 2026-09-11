@@ -21588,3 +21588,33 @@ Che succede 03/07/2026 — idealista/news              Molto prima dei telescopi
 Christine L
 
 ---
+
+## [其他] André 衬衫
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-03T04:07:24.000Z
+**摘要:** 
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+诠释品牌标志性闲雅格调的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+---
