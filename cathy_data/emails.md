@@ -26142,3 +26142,20 @@ Bikinis that look as good as summer feels 🏖️
 <https://e.em.hollisterco.com/c2/1979:6a06e9f5f3213662970f43d0:ot:69e6429a87fa4e894f0fac35:1/9ca30165?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzkxNzM0MTAsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNmEwNzAyMDJkNDBhZjJlYTI3MDM3OGIyIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2ND
 
 ---
+
+## [学校] One day off
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-05-19T06:40:03.000Z
+**摘要:** Cathy因发烧和喉咙痛今天生病了，家长请求老师记录请假。
+**待办:** 记录Cathy的请假情况
+
+Dear teacher,
+
+Cathy is sick today, she got a sore throat and fever. Please note it down,
+
+thank you
+Cathy’s mom
+
+
+---
