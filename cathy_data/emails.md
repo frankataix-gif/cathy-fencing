@@ -25558,3 +25558,18 @@ Raccontaci la tua opinione
  ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
 
 ---
+
+## [其他] Aggiornamento dell’Informativa Privacy e dei Termini e Condizioni
+
+**发件人:** idealista <notifiche@accounts.idealista.it>
+**日期:** 2026-05-27T11:01:23.000Z
+**摘要:** 通知隐私政策和条款的更新
+**待办:** 无
+
+Aggiornamento dell’Informativa sulla Privacy e dei Termini e Condizioni Generali di idealista
+
+96
+
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:620px){.row-con
+
+---
