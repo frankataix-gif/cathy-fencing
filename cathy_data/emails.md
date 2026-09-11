@@ -23345,3 +23345,20 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTN9ADIAAAAAANUHQyGyml9bDr
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTN9ADIAA
 
 ---
+
+## [其他] If you try anything from Sephora, make it these…
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-06-19T16:40:34.000Z
+**摘要:** 
+**待办:** 无
+
+ Sephora 
+
+It’s all so good
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019ee0c164f99c631bf4bbe5c898/a95dd3c8f43a4f230000021ef3a0bcc2/a95dd3c8-f43a-4f23-871b-386d49caf9
+
+---
