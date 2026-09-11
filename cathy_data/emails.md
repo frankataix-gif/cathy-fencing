@@ -22946,3 +22946,19 @@ My Rightmove
 <https://c.gle/AOPyDKTHRkzFKD2clGlrl0qyoMhsVhlVcaLypyZIN6mLG035MjdU77vAdVWRWtE57fX1p06Rxx0svDRyshtw8S6d1R6YKiP_ymsRCTu46UrK14QK0ku6KBC67NVRifhHMX9RCdt_BaDhcmcC5l4xP4schxUCzftNXN4VTlYh0apsHGoRy1mUI9qdp8OsgHj3Cd3xJm3ojrlqnQ4DfWga-RLNjh3P687BxIx3G5yq-h60SXBQIrVX9b9dBDdAUxyT3SVT6tU22Lz4xTe8dxgVWdZqzSlYfq2FXT9b4q33GUliozYY-tOZN1Ty2TXJMxjpxquo8F
 
 ---
+
+## [其他] Pro tips for your recent purchase inside, Natalie ➡️
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-06-24T15:09:00.000Z
+**摘要:** 
+**待办:** 无
+
+ Pro tips for your recent purchase inside, Natalie ➡️ 
+Plus, more ways to get helpful 
+tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
