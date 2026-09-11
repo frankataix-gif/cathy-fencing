@@ -21423,3 +21423,15 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAAAAAAQFRzqxvRyTLtk
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAA
 
 ---
+
+## [其他] 狂賞預熱‼️激推多人出遊半價優惠🥳
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-04T00:23:43.000Z
+**摘要:** 
+**待办:** 无
+
+半價旅行團最啱一家大細、一班老友去旅行💥93折優惠券折上折+10%回贈💰即睇👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101541960-1783124594721.592%26ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE
+
+---
