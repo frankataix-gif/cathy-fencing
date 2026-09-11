@@ -18079,3 +18079,18 @@ Re: 708 Farrow st（未读，重要） - 对方确认你可以把网络服务转
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEMFplUQFUPqi4KyVCx0cYIuE-2BpHm8rh22nZIIcFcP4zl7nEMv2B1WmHT2g9rftVjmrwK9lNKJroKcbUxGHoaFgv4h-2BM7w63qsBTET9XmjW8Q61Pc05kw5KegHPJcCh9u9-2FRbHFu-2BuHApgIyiPeBisKGcdfvMdnR9hI
 
 ---
+
+## [待办] [Task Update] Email Monitor: Important TELUS email needs your reply
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T02:05:24.000Z
+**摘要:** 收到TELUS关于网络服务转移的重要邮件，需处理合约相关事宜。
+**待办:** 回复TELUS邮件处理网络转移事宜
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前有一封新的重要邮件需要你关注： — 📧 Re: 708 Farrow st 发件人： 
+Naeim Asady（TELUS） 时间： 今天 7:03 PM（温哥华时间） 状态： 未读，需要回复（如果你要办理网络） 内容摘要： - 
+可以把你的 TELUS 网络服务转移到新地址。 - 如果你签了 2 年合约，约 1 年后搬家，可以继续使用剩余合约。 - 
+如果你选择提前取消合约，则需要支付 每剩余一个月 20 加元的提前... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFlm1gcHujBvE7T3i9bAiuqgZoF2oXAoDeshxI7p-2F9Um2YLmN-2BllGyXuriVGsyshnoXe98hE-2Fho5aM2l1eo0XueXLS7y3akbq7HW8-2FdmAzR-2Fsm965pkj6zIJf7FxkdU-2BGV9O1vsjus6-2BD3TvQABQhX8xWgzj
+
+---
