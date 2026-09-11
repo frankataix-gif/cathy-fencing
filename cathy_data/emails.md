@@ -21204,3 +21204,15 @@ Make the most of it.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [其他] 搶 HK$799 一口價機票🤩🎉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-05T10:37:57.000Z
+**摘要:** 
+**待办:** 无
+
+香港國際機場 T2 開幕 + 生日優惠大放送❤️‍🔥香港航空熱門航線低至 88 折✈️立即體驗全新客運大樓🥳👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1014717156-1783247877066.633%26ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
