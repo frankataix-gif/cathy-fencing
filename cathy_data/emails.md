@@ -25573,3 +25573,14 @@ Aggiornamento dell’Informativa sulla Privacy e dei Termini e Condizioni Genera
 *{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:620px){.row-con
 
 ---
+
+## [其他] Che succede 27/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-27T07:31:26.000Z
+**摘要:** 邮件内容涉及Consap在公共住房政策中的战略作用，以及Messina海峡大桥建设进度说明，包括2026年审批完成和2033年竣工的时间表。
+**待办:** 无
+
+Che succede 27/05/2026 — idealista/news                          “Il ruolo di Consap nel piano casa è fondamentale: rende realmente accessibile il diritto all’abitare”. È quanto ha dichiarato Sestino Giacomoni, presidente di Consap, nel corso del suo intervento al convegno “Edilizia Residenziale Pubblica e Innovazione: Proposte, progetti e risultati concreti per un risparmio energetico intelligente”, organizzato da Federcasa. Giacomoni ha sottolineato come la concessionaria del servizio assicura
+
+---
