@@ -10863,3 +10863,15 @@ You’re ready for a change of scenery.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 新加坡航空低至 75 折！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-01T08:34:40.000Z
+**摘要:** Trip.com 发送的新加坡航空限时优惠信息，飞往新加坡、巴厘岛、澳洲的机票低至 HK$2,500。
+**待办:** 无
+
+限時優惠🔥飛新加坡、峇里島、澳洲低至 HK$2,5XX🧳即刻預訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154252194-1788250648305.748%26ouid%3D493691.HK-20260901-edm-hkairlinesq.2026-09-01_8_0.20260901.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D493691.HK-20260901-edm-hkairlinesq.2026-09-01_8_0.20260901.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xM
+
+---
