@@ -25425,3 +25425,16 @@ HK$1,099👉快啲打開 App 搶‼️
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10152210130-1779973821277.625%26ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0x
 
 ---
+
+## [其他] Cosa fare a giugno 2026 in Italia?
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-28T11:00:38.000Z
+**摘要:** 这封邮件提供了2026年6月在意大利度假的12个活动建议。
+**待办:** 无
+
+12 idee per le vacanze in Italia a giugno  — idealista/news
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
