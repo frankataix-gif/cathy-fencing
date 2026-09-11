@@ -24740,3 +24740,16 @@ Newsletter 5 giugno 2026 — idealista/news     | Giovedì 28 Maggio 2026
 Che succede 05/06/2026 — idealista/news                  Le case tipiche di Ibiza rappresentano una delle espressioni architettoniche più riconoscibili del Mediterraneo. Linee pure, superfici bianche abbaglianti e volumi geometrici essenziali definiscono abitazioni che uniscono funzionalità, tradizione e armonia con il paesaggio. Le case tipiche di Ibiza, quindi, sono un vero e proprio simbolo culturale che racconta l’identità rurale e l’evoluzione sociale dell’isola. Ancora oggi, queste case so
 
 ---
+
+## [营销] 6.6狂賞🐲端午優惠加碼 HK$510
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-05T07:16:16.000Z
+**摘要:** Trip.com推送端午节促销活动，今晚9点有酒店和机票的限时折扣及返现优惠。
+**待办:** 无
+
+留港定出走都得🔥今晚 9PM 2大必搶 1️⃣酒店即訂即減 HK$2602️⃣訂 1 單機票或酒店共賺 HK$250 Trip 
+Coins💰回贈直接落袋🎯👉睇更多
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154199140-1780643775070.801%26ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
+
+---
