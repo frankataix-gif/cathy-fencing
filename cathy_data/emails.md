@@ -26283,3 +26283,15 @@ My Rightmove
 Your opinion is very important to us. ● La tua opinione conta molto per noi\r\nHelp us improve our services by answering our one question survey. ● Aiutaci a migliorare rispondendo al nostro sondaggio di una sola domanda.\r\n&nbsp;\r\nhttps://u3881377.ct.sendgrid.net/ls/click?upn=u001.J8V0Ovw53mVLnMZTXa-2BAh-2FjmHW-2BoRb-2BPp2fXjKUr52SLzNOhfUgcSJ8h-2FGbYNcvNX01hXwWRb8pS2iB6gtkBM1hL1eNuTJJuG05GYMHh3SE-3Dhiu8_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NJoGGj7oTKepr5jk3-2B8wSnb1RasB-2BucN1-2
 
 ---
+
+## [其他] Gli immobili degli Enti Morali all'asta
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-05-15T11:01:15.000Z
+**摘要:** 关于道德机构房产拍卖的新闻简报，发布于2026年5月15日。
+**待办:** 无
+
+Newsletter 15 maggio 2026 — idealista/news     | Lunedì 11 Maggio 2026
+*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
