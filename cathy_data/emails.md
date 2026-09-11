@@ -10414,3 +10414,24 @@ paused:
 Here’s wha
 
 ---
+
+## [待办] Please confirm your email address
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T19:51:35.000Z
+**摘要:** 这封邮件要求确认邮箱地址以完成PayPal账户设置。
+**待办:** 确认邮箱地址并完成账户设置
+
+ Please confirm your email address xiaojun, please complete your PayPal 
+account setup. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Confirm your email.
+
+You've just created a new PayPal account. Please confirm your email address 
+to let us know you're the rightful owner of this account.
+Confirm My Email Address 
+<https://www.paypal.com/cgp/welcome-back?userIntent=profile_complete&expId=confirmEmail&cust_id=M5629AVJ2R5JA&cc=02985650514686332969&em=XcbP_EjwihhDJzif8J2HmqEFlhOgxKEkCsYED_l7ChXpx4khfqoTI-x
+
+---
