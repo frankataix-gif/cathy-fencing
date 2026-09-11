@@ -21895,3 +21895,18 @@ http
   ­ ͏ ‌
 
 ---
+
+## [其他] Hey Jingqi let's get you started with Koodo
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-07-01T16:02:44.000Z
+**摘要:** 
+**待办:** 无
+
+Get an extra $5/mo. off today! 
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tf96440da,4074c5b0,2acf6a73&e=Y2lkPXRlbERNMjIwMzU1MyZiaWQ9LTExMDg3MDMxMCZwMT0lNDBiQWNWR2FsU2xWc1h4YzNUSkVHZyUyQk4yNm8wZGJCbjA4VCUyRlVqWHY5dUozcyUzRA&s=xbguIDevWAQC6uUFJo93dydxFTwYbu2q4T_v3RopI-U web browser . 	
+ https://t.email.koodomobile.com/r/?id=tf96440da,4074c5b0,2acf6a74&e=Y2lkPXRlbERNMjIwMzU1MyZiaWQ9LTExMDg3MDMxMA&s=GkVm252BzCIpy1BQCNT5r-2X3SH4p2_TeVB0bfxgPek 	
+
+ https://t.email.
+
+---
