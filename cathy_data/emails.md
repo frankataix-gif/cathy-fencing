@@ -12738,3 +12738,24 @@ decisions.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101543441-1787272789920.362%26ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5
 
 ---
+
+## [营销] 👀 First look: Labour Day Sale.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-20T20:11:32.000Z
+**摘要:** BestBuy.ca 发送的劳动节促销活动预告，包含优惠信息和促销链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
