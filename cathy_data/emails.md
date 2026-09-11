@@ -13649,3 +13649,36 @@ Apple
 For help with subscriptions and p
 
 ---
+
+## [其他] Yatri: U.S. DoS Visa Application - Appointment Reminder
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-15T05:14:55.000Z
+**摘要:** 提醒Xiaojun He和Shifen Guan的美国非移民签证面试预约，时间为2026年8月17日7:30卢萨卡当地时间，地点在卢萨卡美国大使馆。需查看并打印预约说明以确保符合安全要求。
+**待办:** 查看并打印签证面试预约说明，确保符合安全要求
+
+Appointment Reminder: GDIT/United States DoS Nonimmigrant Visa
+Appointment
+
+This is a reminder that there is an upcoming appointment for a
+nonimmigrant visa application interview for:
+
+xiaojun he
+
+shifen guan
+
+Consular Section Interview Date and Time:
+
+17 August, 2026, 07:30 Lusaka local time
+
+Consular Section Location:
+
+U.S. Embassy Lusaka
+Eastern end of Kabulonga Road
+Ibex Hill
+Lusaka
+
+Review the appointment instructions before you attend your
+appointment to ensure you me
+
+---
