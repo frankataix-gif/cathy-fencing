@@ -22312,3 +22312,41 @@ Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjJ9ADIAAAAAAO5NOUIJlH3XYjoB0deP-6a6KjlcfLSc7SwFDNPtY8i0a7hWh_dQ-FOvzFEKPDATSoi0pPR4bL3eQBxVEe8
 
 ---
+
+## [其他] Final hours for extra 20% off (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-28T23:18:11.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Don't leave your favorites behind
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjF9AAcAAAAAA1Ir4mtiHliebLgrEzvExkW3cTk9HTTzc1l0o_aM1rK2sk62l6NV_kiC9HRCxZ0xqK3gDD7k4k_h3ZCUeTyTCr8_C3_L0rxEsY2vuP5L 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjF9AAcAAAAAA1Ir4mtjNOUfQ-gf32kgYC-sdPfDefYWoLosiwZ-g6Kdpia-BdnRkIyR2j7TmYeRUY8AihRu8GjVdo35DLYg4Lq79D277G5BA6bpoDrSRZABJA 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+---
