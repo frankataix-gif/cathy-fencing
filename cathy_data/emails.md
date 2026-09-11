@@ -26409,3 +26409,16 @@ Explore a little more - on us
 Your opinion is very important to us. ● La tua opinione conta molto per noi\r\nHelp us improve our services by answering our one question survey. ● Aiutaci a migliorare rispondendo al nostro sondaggio di una sola domanda.\r\n&nbsp;\r\nhttps://u3881377.ct.sendgrid.net/ls/click?upn=u001.J8V0Ovw53mVLnMZTXa-2BAh-2FjmHW-2BoRb-2BPp2fXjKUr52SLzNOhfUgcSJ8h-2FGbYNcvNX01hXwWRb8pS2iB6gtkBM1hL1eNuTJJuG05GYMHh3SE-3DX8MW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NWtNMSykgTrohTj3QzlxlTbet0I97VyZfoT8XW9
 
 ---
+
+## [其他] Che succede 13/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-13T07:38:01.000Z
+**摘要:** 这封邮件介绍了如何规划一次前往Cascata Sajont瀑布的徒步旅行，包括位置、环形路线及周边活动。
+**待办:** 无
+
+Che succede 13/05/2026 — idealista/news               La Cascata Sajont, con il suo getto d’acqua che si tuffa direttamente nel Lago di Antrona, è uno di quei luoghi molto difficili da dimenticare. Da qui si può iniziare un facile ma suggestivo percorso ad anello che passa dietro il velo d’acqua. Ecco, allora, come organizzare al meglio un’escursione alla Cascata Sajont: dove si trova, come arrivare, come funziona il giro ad anello e cosa fare nei dintorni
+
+**************************************
+
+---
