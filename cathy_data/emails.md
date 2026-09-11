@@ -1260,3 +1260,16 @@ My Rightmove
 Newsletter 10/04/2026 — idealista/news     | Martedì 07 Aprile 2026 L’interior designer Raffaella Fossati ci apre le porte della sua casa a Monza: un’abitazione nata ristrutturando il capannone di una storica falegnameria e concepita per essere grande e molto accogliente. Nella sua abitazione regnano spazio e luce e dove una volta c’erano macchinari per la produzione, oggi un grande ambiente elegante accoglie gli amici, ma permette anche di vivere in intimità, alternando contesti diversi e ripor
 
 ---
+
+## [其他] Che succede 10/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-10T09:45:36.000Z
+**摘要:** 无具体内容
+**待办:** 无
+
+Che succede 10/04/2026 — idealista/news
+
+***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
