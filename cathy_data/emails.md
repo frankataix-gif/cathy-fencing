@@ -19476,3 +19476,26 @@ Treat yourself to more fragrance.
 <https://app.sephora.com/T/v610000019f58682cf9a2590bf4bbe5be68/21e7b12dfc784e6a0000021ef3a0bcc2/21e7b12d-fc78-4e6
 
 ---
+
+## [其他] Your temporary ChatGPT login code
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-12T18:08:42.000Z
+**摘要:** 邮件提醒用户有可疑登录尝试，并提供验证码以确认身份，若非本人操作建议重置密码。
+**待办:** 无
+
+ Your temporary ChatGPT login code 
+Enter this temporary verification code to continue: 508581. 
+
+ChatGPT Log-in Code 
+
+Hi there, 
+
+We noticed a suspicious log-in on your account. If that was you, enter this 
+code: 
+508581 
+
+If you were not trying to log in to ChatGPT, please reset your password 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0v2VhH5-2BE0zo7ACY99-2FinDaFd7n4QXFQ88vaAvg4Yh-2FvnUDCf4-2BAFFfzo-2Fq7TrRncfLPouhbxwQ5rhmu-2BvEVX60wboc_
+
+---
