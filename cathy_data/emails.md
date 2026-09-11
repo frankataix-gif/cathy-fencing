@@ -13967,3 +13967,28 @@ London Dock:
 This property is ready for sale, and viewings can be a
 
 ---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T16:16:03.000Z
+**摘要:** 邮件提醒用户之前未完成击剑用品的购买，并提供继续下单的链接。
+**待办:** 完成未完成的击剑装备购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
