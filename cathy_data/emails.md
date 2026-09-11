@@ -14073,3 +14073,20 @@ jingqi natalie，您好：
 [image: DoorDash
 
 ---
+
+## [营销] RE: FW: Benhams - Enquiry for Philip (Direct)
+
+**发件人:** frankataix@gmail.com
+**日期:** 2026-08-12T19:10:16.000Z
+**摘要:** 邮件涉及房产销售安排及沟通需求，包括两个房产的定价和看房安排，并请求分配中文销售代表。
+**待办:** 安排看房时间并联系销售代表处理沟通
+
+Dear Philip,
+
+Thank you for your message. I have received the contract and will forward it to my lawyer for review. In the meantime, please note that we will continue to adopt the **multiple agents** option.
+
+Regarding the properties:
+
+• Lancer Square: I noted it is currently listed by another of my agents but with an incorrect price. I have instructed them to take it down tomorrow. I will assess the latest market price shortly and will certainly seek your opinion to ensure a unified askin
+
+---
