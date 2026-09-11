@@ -763,3 +763,20 @@ Please find my personal details below for your records:
 
 
 ---
+
+## [其他] take off the class
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-04-21T10:06:11.000Z
+**摘要:** 
+**待办:** 无
+
+Hello,
+Yunxi He Cathy needs to attend fencing training plus competition so she
+will be missing 2 weeks of school.Please note it down,thanks for
+understanding.
+Regards,
+Natalie Cathy’s mom
+
+
+---
