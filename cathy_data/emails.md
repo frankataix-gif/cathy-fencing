@@ -3526,3 +3526,20 @@ https://drive.google.com/drive/folders/1PlkBS_WXhacn3i9e2liVutOQDRJXNnrH?usp=sha
 
 
 ---
+
+## [其他] 有人与您共享了“VIDEO-2026-02-28-11-44-20.mp4”
+
+**发件人:** "he frank（通过Google 云端硬盘发送）" <drive-shares-dm-noreply@google.com>
+**日期:** 2026-02-28T18:27:06.000Z
+**摘要:** 有人通过Google云端硬盘共享了视频文件VIDEO-2026-02-28-11-44-20.mp4，需点击链接查看。
+**待办:** 无
+
+我与您共享了：
+
+VIDEO-2026-02-28-11-44-20.mp4
+https://drive.google.com/file/d/1xZvCX2N4SxSwDNSlAHNBwOkWsUD09Q1A/view?usp=sharing&ts=69a3337a
+
+这项内容并非附件，而是在线存储的文档。点击上面的链接即可将其打开。
+
+
+---
