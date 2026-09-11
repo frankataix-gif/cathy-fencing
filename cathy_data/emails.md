@@ -21575,3 +21575,16 @@ My Rightmove
 Newsletter 03/07/2026 — idealista/news     | Lunedì 29 Giugno 2026  | Lunedì 29 Giugno 2026 | Mercoledì 01 Luglio 2026  | Giovedì 02 Luglio 2026I prezzi delle abitazioni usate in Italia continuano a salire. Nel secondo trimestre del 2026, secondo lultimo report di idealista, portale immobiliare N.1 in Italia [ed editore di questa newsletter], i valori sono cresciuti dello 0,6% rispetto al trimestre precedente, portando la media nazionale a 1.903 euro al metro quadro. Su base mensile i prezzi si 
 
 ---
+
+## [其他] Che succede 03/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-03T07:48:34.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 03/07/2026 — idealista/news              Molto prima dei telescopi, dei satelliti o dei planetari digitali, lumanità ha sempre sentito il bisogno di comprendere i cieli. Per secoli, le stelle sono servite come strumenti di navigazione, per misurare il tempo, prevedere le stagioni, interpretare i presagi e collocare gli dèi in una dimensione superiore. Il planisfero di Dunhuang contiene più di 1.300 stelle e, al momento della sua scoperta, conteneva circa 40.000 documenti
+
+Christine L
+
+---
