@@ -15493,3 +15493,25 @@ Apple requires verification whenever an email address is selected for an Apple A
 If you did not make this request, please disregard this email. No Apple Account wil
 
 ---
+
+## [营销] 欢迎使用 Spark
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-03T20:45:44.000Z
+**摘要:** 欢迎使用Spark邮件服务，介绍其智能、聚焦功能以帮助用户管理邮件并提升效率。
+**待办:** 无
+
+智能、聚焦、邮件。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        欢迎使用 Spark
+智能、聚焦、邮件。
+
+在未来几天，我们将向您介绍一些功能，帮您解决信息过载问题，助您聚焦重点。现在我们进行入门指南。
+
+设置邮箱 
+( https://clicks.sparkmailapp.com/f/a/DmtQ2ahWnPDQiG7cImZ95w~~/AAAHahA~/x54kbGrR
+
+---
