@@ -11168,3 +11168,31 @@ Today only!
 <https://app.sephora.com/T/v61000001a04db0146282b4ecf4bbcfb648/53b6b9ea767c47080000021ef3a0bcc2/53b6b9ea-767c-4708-93c8-751c41e07107?_
 
 ---
+
+## [其他] Your TELUS home services e.Bill is ready
+
+**发件人:** TELUS <telusbilling@info.telus.com>
+**日期:** 2026-08-28T22:16:51.000Z
+**摘要:** TELUS通知用户电子账单已准备好，可在线查看和支付，并推荐使用预授权支付服务。
+**待办:** 无
+
+Your home services e.Bill is ready.  
+ 
+Hi , 
+Here are your bill details at a glance:  
+Bill month: 
+Account number: 
+Total due, if received by : 
+ 
+
+Paying on time is easy - sign-up for pre-authorized payments, it’s easy to do. Simply register your credit card or Visa Debit. It’s fast, convenient and worry-free.  
+Log in  
+ 
+ 
+View and pay your bill online with My TELUS. 
+With My TELUS, you can:  
+View and pay your bill 
+Manage your bill preference 
+Monitor your monthly Interne
+
+---
