@@ -15539,3 +15539,27 @@ Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland
 
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-03T20:45:06.000Z
+**摘要:** Google提醒用户注意账号安全，可能有人未经授权访问账号数据，建议查看活动记录。
+**待办:** 检查Google账号活动记录并确保安全。
+
+[image: Google]
+您已授权“Spark”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“Spark”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1785789906000?rfn%3D127%26rfnc%3D1%26eid%3D1566217727076413070%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goog
+
+---
