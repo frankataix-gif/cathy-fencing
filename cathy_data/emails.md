@@ -1044,3 +1044,15 @@ La guida alle nuove regole per gli affitti brevi 2026 — idealista/news    Il m
 Che succede 16/04/2026 — idealista/news                   Le piattaforme digitali online "non hanno più scuse": dora in poi potranno "facilmente fare affidamento sulla nostra app di verifica delletà" degli utenti, per controllare che i bambini e i minori non vengano esposti a contenuti inappropriati, illegali e dannosi, così come si evita di vendere loro alcol o sigarette. Lo ha affermato la presidente della Commissione, Ursula von der Leyen, in una dichiarazione alla stampa oggi a Bruxelles per
 
 ---
+
+## [其他] 福字9981号信托利益支付通知书-200万-20260416
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-04-16T08:36:34.000Z
+**摘要:** 关于福字9981号信托的200万利益支付通知，日期为2026年4月16日。
+**待办:** 无
+
+
+
+
+---
