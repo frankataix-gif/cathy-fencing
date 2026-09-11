@@ -13697,3 +13697,28 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/0K8p6mNV92yNAKbdeNM57Q~~/AAAHahA~/IUHupsJfZcfhKBH-0OFDt6sOu4bCnkdf8KwYJ9wXzVqAtY2dWnaiVuXyDB7gvlaSPbpT0CyUuPi8l-MFGsK3bR1u
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-14T15:30:14.000Z
+**摘要:** 这封邮件包含用于登录加拿大政府服务的一次性验证码，验证码为KV8K5LRU。邮件提醒用户不要回复。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+KV8K5LRU
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
