@@ -14320,3 +14320,35 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/e-_IBReRqJNRZCtu-sigCg~~/AAAHahA~/XWUK0JKEGeQOVdFtx0sHJAspoWxCFRW_qZLXqSVtw13zm1PrnhDWkyuOhVoIXC5H8FLozHQSUqMWLSd3Jg_8nws_oGICAX6rGP2wr0i9nsX3janwxSMp
 
 ---
+
+## [待办] Your Subscription is Confirmed
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-11T14:21:49.000Z
+**摘要:** 确认订阅Cleanup Pro 1周，费用为12.99美元/周，需在续订日前取消以避免收费。
+**待办:** 检查订阅并取消，避免被收费
+
+ 
+
+[image: Apple] Subscription Confirmed 
+ 
+  
+  
+[image: Cleanup Pro 1 Week] [image: Cleanup Pro 1 Week] 
+Cleanup Pro   
+  
+  
+Dear Natalie, 
+  
+You have accepted the following offer: 
+  
+*App* Cleanup: Clean Storage Space 
+<https://apps.apple.com/zm/app/id1510944943> 
+*Subscription* Cleanup Pro 1 Week 
+*Content Provider* DEEP FLOW SOFTWARE SERVICES - FZCO 
+*Date Accepted * 11 August 2026 
+*Trial* Free for 1 week, starting 11 August 2026 
+*Renewal Price* US$12.99/week, starting 18 August 2026 
+
+
+---
