@@ -19974,3 +19974,32 @@ To view or edit your online application account, click the link below and
 se
 
 ---
+
+## [其他] User Registration Confirmation
+
+**发件人:** "Smith & Farrow Rental Homes" <no-reply@rentcafe.com>
+**日期:** 2026-07-10T19:42:59.000Z
+**摘要:** 用户成功注册在线租赁平台，信息已转发至Smith & Farrow Rental Homes并提供联系方式。
+**待办:** 无
+
+ RENTCafe Email Template 009 
+
+  
+[image: smith-farrow-rental] 
+<https://www.rentcafe.com/t/el?ref=Njk1MjcwNzE3Nw%3d%3d-N3FnGsrFAts%3d,aHR0cDovL3JlbnRzbWl0aGFuZGZhcnJvdy5ib2Zmby5jYQ%3d%3d-mq%2b%2fi0AqpLg%3d> 
+  
+
+Dear jingqi,
+
+Thank you for registering on Online Lease Execution! Your account has been 
+successfully created.
+
+Username: nataliewu100@gmail.com
+
+To better help you find a place to live, we’ve forwarded your information 
+to the following property:
+
+*  Smith & Farrow Rental Homes 
+<http
+
+---
