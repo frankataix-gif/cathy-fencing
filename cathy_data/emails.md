@@ -20448,3 +20448,33 @@ Basecamp emails this report every morning. Click below to stop getting it:
 https://app.basecamp.com/6186671/email/form_submission?method=BAg6
 
 ---
+
+## [营销] 2026-2027 秋冬系列宣传大片
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-08T11:22:15.000Z
+**摘要:** Loro Piana发布2026-2027秋冬系列宣传大片，开启品牌文化探索之旅。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+品牌文化探索之旅开启新篇  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+---
