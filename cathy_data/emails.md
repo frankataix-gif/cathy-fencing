@@ -24074,3 +24074,15 @@ Road trip e itinerari italiani in famiglia — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] 訂完機票⚠️記住用埋75折酒店優惠‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-11T13:10:24.000Z
+**摘要:** 提醒用户预订机票后使用75折酒店优惠并赚取Trip Coins。
+**待办:** 无
+
+機票客戶專享❕洛杉磯酒店低至75折💰預訂再賺 Trip Coins 回贈💰立即預訂👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015423650-1781183420827.678%26ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1NDIzNjUwLTE3ODExODM0MjA4MjcuNjc4IiwidGl0bGU
+
+---
