@@ -26295,3 +26295,14 @@ Newsletter 15 maggio 2026 — idealista/news     | Lunedì 11 Maggio 2026
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 15/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-15T07:48:10.000Z
+**摘要:** 意大利社会保障局发布2026年青年就业免税政策及债务重组新规，涵盖社保免税、税务债务分期等措施。
+**待办:** 无
+
+Che succede 15/05/2026 — idealista/news                    Con tre circolari lInps delinea il quadro applicativo dei nuovi esoneri contributivi introdotti dal decreto lavoro, volti a incentivare la stabilizzazione professionale di giovani, donne e lavoratori nelle aree svantaggiate del Paese attraverso lo strumento dello sgravio totale. In particolare, la circolare numero 55 fornisce le prime indicazioni operative sul "Bonus Giovani 2026", che prevede un esonero del 100 per cento dei contributi 
+
+---
