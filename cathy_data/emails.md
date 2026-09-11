@@ -20263,3 +20263,40 @@ Buy 2, get both 50% off. Limited time only.
 <https://app.sephora.com/T/v610000019f46fe0d44ad26b36e96c660c0/5ee319f29b1d4cad0000021ef3a0bcc2/5ee319
 
 ---
+
+## [营销] Most wanted: Raglan tees
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-09T01:05:57.000Z
+**摘要:** Cotton On 发送促销邮件，宣传Raglan T恤两件30美元的优惠活动，并附有相关链接和奖励积分信息。
+**待办:** 无
+
+
+ 
+ 
+ 
+2 for $30 tees never looked so good.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp48pwdZG7WDQ-7p_dWuzoj0psJAWXbrUBV3kEpKMP_6WyWR4rztdlKBVv3zFuoXYrjnQsRIrrSEGiqwm1jrDbxd-0RHAosB47n2Qw 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp49PAsG7b_v7wmC-H2V9ulk1JI0mbmru32WL5rlSNuxvjHjPHwO9h9OPrJ997JSFMbbuss0TXeCL5WDYXTBDHd4rTmLaWfaiM0YKf1_ShY 
+
+
+ 
+ 
+
+ 
+
+
+---
