@@ -1159,3 +1159,14 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDd9ADIAAAAAAAjk17CXQUZmCB
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 14/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-14T09:30:38.000Z
+**摘要:** 全球股市因中东局势缓和预期而上涨，米兰可能推出特殊法案以增加自治权。
+**待办:** 无
+
+Che succede 14/04/2026 — idealista/news                Cè ottimismo sui mercati azionari, le aspettative di un accordo che allenterebbe le tensioni in Medio Oriente spingono le Borse in Asia e i future su quelle europee sono in rialzo. Lindice MSCI All Country World è salito dello 0,4%, avviandosi verso lottavo giorno consecutivo di guadagni. LAsia si è mossa in scia a Wall Street, trainata dalle società tecnologiche, con lindice regionale in rialzo dell1,5% grazie allottimismo sul fatto che lal
+
+---
