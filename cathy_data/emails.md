@@ -10528,3 +10528,16 @@ The Payoneer Team
 ( https://www.facebook.com/Payoneer ) ( https://twit
 
 ---
+
+## [学校] Welcome to Grade 7 Advisory at Meadowridge School
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-02T17:12:41.000Z
+**摘要:** 邮件是Meadowridge学校七年级导师Darcie Hook致家长的欢迎信，介绍导师职责并强调五大核心价值观，同时强调家校沟通的重要性。
+**待办:** 无
+
+Dear Grade 7 Families,
+Welcome to a new school year at Meadowridge School! My name is Darcie Hook, and I am excited to be your child's Grade 7 Advisor and Science teacher this year. I look forward to getting to know your children and partnering with you to support their growth, learning, and well-being throughout the year.
+As an advisor, my goal is to help students make a successful transition into Grade 7 while fostering a strong sense of belonging and responsibility within our community. A s
+
+---
