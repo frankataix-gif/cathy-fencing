@@ -20478,3 +20478,28 @@ https://app.basecamp.com/6186671/email/form_submission?method=BAg6
                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 ---
+
+## [营销] LAST CALL ⏰  Ultime ore EXTRA -20%!
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-08T07:20:06.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提供最后机会享受20%折扣，并提及免费取货和退货服务，以及新到商品和服装链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADIAAAAAAQvrdo7GSbZPu3gQMXluPUEh56TirEtVFHHjaraSyj53h-mptSYDIls0zI5VW3QRlg1ZQAKDtRWAy4Er0u1SxuYN3W1qlEGnSDELr_NmBw 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADIAAAAAAQvrdo7HYFjZsQgTNtJe3603ETLBuLm9kXuFbdl536Nt7v_HZwS1VgdtY3MM6LyQootQMx4oX4CzvAJMFjGgQmT7lzAQkTSkmPrvFc_D8g 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9A
+
+---
