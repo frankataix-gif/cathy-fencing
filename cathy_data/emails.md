@@ -19850,3 +19850,31 @@ We respect your privacy and will not provide your personal information to
 others without your consent
 
 ---
+
+## [待办] Koodo verification code: 193544
+
+**发件人:** noreply@koodomobile.com
+**日期:** 2026-07-10T23:13:16.000Z
+**摘要:** 收到Koodo验证码193544，需在30分钟内使用以链接服务。
+**待办:** 输入验证码193544以链接Koodo服务到Self Serve档案。
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hello,
+
+Your verification code is: *193544*
+
+Use the above code to link your Koodo service to your Self Serve profile. 
+This code will expire in 30 minutes.
+
+If you didn’t request this code, please contact us at www.koodo.com/chat 
+<https://www.koodomobile.com/en/help?autobots=rollout>
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent. Please do not reply to this message
+
+---
