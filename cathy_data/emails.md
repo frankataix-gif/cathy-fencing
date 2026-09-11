@@ -23901,3 +23901,18 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDZ9ADIAAAAAAMCIeFp--yV1sQ
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDZ9ADIAA
 
 ---
+
+## [其他] 6 vibrant homes with maximalist interiors
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-12T16:08:27.000Z
+**摘要:** 
+**待办:** 无
+
+Full-colour homes rejecting minimalism for maximum impact
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/PWAQTu_YDC3FmVo87A7-ZA~~/AAAHahA~/sY29SgT441e3weVkaD0atr2C-lds6o_obrSnbVgTz7u_ZqE0V2vZb-dj7WOByyHICp7rPSaf7CpCDXjz0JfDMpiu0dExW7r7Y6tZZfvSWcorcV-BqrWlXyjEZU2SvUQP-JF-gnojnKUQA3ZWlaiUYOGUj8wJdPjxFJv7fd-KDoE~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/oMm25Wwz5bFSsNfdByab4Q~~/AAAHahA~/LVwrAm5tc0P70jX0XsywdXdpa4yCIYxkoKikXjlsqnVcODned1ui23sG6eOH3Trbj6pgnBroXripqz0GVN7MxfOIX4IWQYH
+
+---
