@@ -25400,3 +25400,16 @@ Che succede 29 maggio — idealista/news                  Con una spesa che va d
 ***********************************************************************************************************************************************************
 
 ---
+
+## [营销] 🎉29/5 任務：用最平嘅錢玩到盡
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-29T00:38:32.000Z
+**摘要:** Trip.com推送5月29日促销活动，包含香港迪士尼乐园门票半价、机场快线优惠及长隆酒店特惠，并提醒下载App抢购。
+**待办:** 无
+
+🎡香港迪士尼樂園門票半價🔥約會慳錢靠呢鋪💋🚆機場快線 HK$9.9📱eSIM HK$1 平過買纸袋！🐼長隆飛船酒店 3日2夜＋門票 
+HK$1,099👉快啲打開 App 搶‼️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542970-1780015111495.741%26ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26trip_in_sid%3D1121&bizD
+
+---
