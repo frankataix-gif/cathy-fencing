@@ -24953,3 +24953,37 @@ Able
 
 
 ---
+
+## [学校] Admissions Update for September 2026
+
+**发件人:** HTS Admissions Office <info+hts@fsenrollment.com>
+**日期:** 2026-06-03T15:34:42.000Z
+**摘要:** 通知Yunxi未能获得2026-2027学年七年级的入学资格，因学校已满员，并提及2027-2028年的申请机会及夏季营地活动。
+**待办:** 无
+
+ 
+
+Good morning Frank and Natalie,
+
+Thank you for your continued interest in HTS. On behalf of the Admissions 
+Committee, I am writing to inform you that we are unable to consider Yunxi 
+for Grade 7 for the 2026-2027 school year as we remain at full capacity. 
+While we recognize that this update may not be what you or your daughter 
+were hoping for, we wanted to inform you soon enough so that you can make 
+alternate arrangements for September 2026.
+
+In early August, we will launch our applicatio
+
+---
+
+## [营销] 5 primi piatti iconici e 5 destinazioni italiane da scoprire con il palato.
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-03T14:00:10.000Z
+**摘要:** 推荐5个经典的意大利前菜和5个适合美食探索的意大利目的地
+**待办:** 无
+
+Viaggio nellItalia gastronomica — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
