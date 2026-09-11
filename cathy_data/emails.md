@@ -26576,3 +26576,16 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/BBXuwOB16NVO4FyN6nwNyg~~/AAAHahA~/5hJmms84nNWfp_CpGOeDaCyKwcyp7v_WVRkndp2xhYQcJZ0srHM7f0rqXEMoCI9fJZ7UYG
 
 ---
+
+## [其他] Piano Casa 2026 al via, tutte le misure
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-05-08T11:51:38.000Z
+**摘要:** 意大利租金市场持续增长，4月租金环比上涨1.4%，季度增长4.4%，年度增长3%，平均租金达15欧元/平方米的历史新高。
+**待办:** 无
+
+Newsletter 08/05/2026 — idealista/news     | Venerdì 08 Maggio 2026 | Martedì 05 Maggio 2026 [ed editore di questa newsletter]. Su base annuale l’aumento è pari al 5%, mentre su base trimestrale la crescita si attesta al 2,7%
+
+| Giovedì 30 Aprile 2026 | Mercoledì 06 Maggio 2026  | Venerdì 08 Maggio 2026 | Giovedì 07 Maggio 2026  | Lunedì 04 Maggio 2026Il mercato degli affitti in Italia prosegue la fase di crescita anche ad aprile. Secondo l’ultimo report dell’Ufficio Studi di idealista, portale 
+
+---
