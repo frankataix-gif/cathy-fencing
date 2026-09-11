@@ -26589,3 +26589,16 @@ Newsletter 08/05/2026 — idealista/news     | Venerdì 08 Maggio 2026 | Marted�
 | Giovedì 30 Aprile 2026 | Mercoledì 06 Maggio 2026  | Venerdì 08 Maggio 2026 | Giovedì 07 Maggio 2026  | Lunedì 04 Maggio 2026Il mercato degli affitti in Italia prosegue la fase di crescita anche ad aprile. Secondo l’ultimo report dell’Ufficio Studi di idealista, portale 
 
 ---
+
+## [其他] Che succede 08/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-08T08:40:28.000Z
+**摘要:** 这封邮件似乎是一份名为《Che succede 08/05/2026》的新闻摘要，内容未显示具体信息。
+**待办:** 无
+
+Che succede 08/05/2026 — idealista/news
+
+***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
