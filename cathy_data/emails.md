@@ -22728,3 +22728,16 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTl9AAcAAAAAAzM58ZzXjbng8M5
      ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏ 
 
 ---
+
+## [其他] Il mercato dei mutui in Italia dopo l'aumento dei tassi Bce
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-25T13:00:30.000Z
+**摘要:** 
+**待办:** 无
+
+Il mercato dei mutui in Italia dopo laumento dei tassi Bce — idealista/news    La Bce ha aumentato i tassi di interesse di un quarto di punto e l’offerta dei mutui in Italia si modifica di conseguenza. Oggi il mutuo a tasso variabile conviene rispetto al fisso, con uno scarto di oltre cento euro mensili. idealista/news offre una panoramica del mercato attuale dei mutui in Italia, con un occhio ad alcuni casi particolari.
+
+--------------------------------------------------------------------------
+
+---
