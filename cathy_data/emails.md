@@ -14703,3 +14703,19 @@ Please do not reply to this email.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 5 renovations sellers think will add value but often won't
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-07T16:25:16.000Z
+**摘要:** Rightmove发布文章指出，卖家常进行的五种装修改进可能不会提升房屋价值。
+**待办:** 无
+
+Agents reveal the home improvements sellers might mistakenly
+make to try to boost their home's value              Rightmove
+Logo 
+( https://clicks.rightmove.co.uk/f/a/4Actcd3eEVgMew0LjIa_uw~~/AAAHahA~/TC46keD-HzS36cFxufdOBpTDqtOPE45e34MoMEg-3Z7dXmUDhfJqPnrpQu9045JyBICTHiRyqL4U_LmzVNuuqJGbpqAStpyLTQ0eYq52kCHQnOiLEdoCupLp0kBpZMhXRsEuyN6FEqkR6EkFvvz61MR8m9oUuUXOYuTVdEvds6g~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Xm3dWD0DQU4APVIoB750_Q~~/AAAHahA~/havGvEKtVhrg2LvvkVutDfvSGPr1NLMBOxWVPIJ
+
+---
