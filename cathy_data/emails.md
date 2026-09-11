@@ -1630,3 +1630,26 @@ We hope you're enjoying your experience with FIE Fencing TV!
 As always, feel free to reach out to us. W
 
 ---
+
+## [其他] Welcome to Heathrow
+
+**发件人:** Heathrow Airport <airportwifi@wifi.heathrow.com>
+**日期:** 2026-04-04T17:34:41.000Z
+**摘要:** 用户已成功连接至希思罗机场WiFi，邮件为欢迎信息并附有相关链接。
+**待办:** 无
+
+
+ 
+ 
+ 
+ 
+ 
+Email not displaying properly? 
+https://click.em.heathrow.com/?qs=eyJkZWtJZCI6IjBiZmI3ZTMwLWM5OTctNDk1Ni05OTU2LWRlNmRlZWRiZTk1NCIsImRla1ZlcnNpb24iOjEsIml2IjoidTNuanE4MmdYUjZ3Um42Uzd6MG05dz09IiwiY2lwaGVyVGV4dCI6IjkwZW9tY2xna3FmOXlqc0VkRHhmdzlaa0FjOFFVbERsdkE5YnRQQTBwbjBId1hpK05RbnZFdVpLb2FVMm9IdDBvN0RDb3lhNkZoN3pQNUU1YkUxSElMT2JmYVJyc0hKNU5MdDU0NnZOb0YwZXNFWitrdTg5SnZjPSIsImF1dGhUYWciOiJQNUU1YkUxSElMT2JmYVJyc0hKNU5BPT0ifQ%3D%3D 
+View online .
+ 
+
+
+Welcome to Heathrow - You a
+
+---
