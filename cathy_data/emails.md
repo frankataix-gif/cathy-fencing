@@ -18656,3 +18656,32 @@ Your order will
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542011-1784406085226.843%26ouid%3D460126.trippulse_edm_0718_hk.2026-07-18_-8_0.20260719.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D460126.trippulse_edm_0718_hk.2026-07-18_-8_0.20260719.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDIwMTEtMTc4NDQw
 
 ---
+
+## [其他] Request reviewed
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T19:37:53.000Z
+**摘要:** 您提交的BC服务卡身份验证未通过，需在应用中查看详情并处理。
+**待办:** 打开BC Services Card应用查看详情并处理。
+
+ 
+[image: BC Services Card] <https://id.gov.bc.ca> 
+Hello, 
+
+You sent a video to Service BC to verify your identity from the BC Services 
+Card app on your mobile device. 
+  
+Your request was reviewed and unfortunately your identity was not able to 
+be verified. 
+  
+What you need to do next 
+
+   1. Open the BC Services Card app <ca.bc.gov.id.servicescard://> on your 
+   mobile device 
+   2. Read the details provided by Service BC 
+
+  
+When you must do this by: 
+The details will only be available 
+
+---
