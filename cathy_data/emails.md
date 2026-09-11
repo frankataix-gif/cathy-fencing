@@ -2373,3 +2373,15 @@ Che succede 24/03/2026 — idealista/news            [ed editore di questa newsl
 A febbraio, le nuove immatricolazioni di auto nellUe sono diminuite dell1,2% rispetto allo stesso periodo dellanno precedente, attenuando le difficoltà iniziali registrate a gennaio. Lo rileva Acea, lassociazione della case automobilistiche europee. In controtendenza lItalia che ha fatto registrare un aumento delle immatri
 
 ---
+
+## [其他] Sogni una casa con giardino? Ecco 15 proposte
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-03-24T08:29:43.000Z
+**摘要:** 邮件介绍了15套带花园的待售房屋，供用户参考。
+**待办:** 无
+
+15 case in vendita con giardino — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
