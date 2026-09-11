@@ -11711,3 +11711,21 @@ are.
 ͏ ‌     
 
 ---
+
+## [其他] Ready to buy insurance quote #7181329 from Square One?
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-27T03:57:07.000Z
+**摘要:** 邮件提醒Jingqi购买保险报价，否则将过期，并介绍保险的优势。
+**待办:** 无
+
+ 
+Don't let your quote expire — buy your home insurance policy today 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wue4U_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ0eMTK2EU0WJwEu5jmWKZJLdfRSjSlM9XRWh9rf1QPTpuEMhEzya1NAzAQibJmrTjcYPAHW0PnVQvBRsbMeiGOiTyEam1W0na7XFRZtjnG-2F9qbZvCt4XLCdTDUHo80WIP7gMMiK
+
+---
