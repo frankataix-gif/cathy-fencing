@@ -18928,3 +18928,28 @@ If clicking the link does not work, you can highlight and copy the entire line a
 This message was sent to you by Anastasia Makarevska | S&F Rental Homes who is using the Do
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-17T19:58:42.000Z
+**摘要:** 收到加拿大政府发送的GCKey登录验证码，用于身份验证。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+8RWT4GLH
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
