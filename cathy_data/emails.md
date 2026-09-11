@@ -25814,3 +25814,14 @@ Siamo felici di averti con noi!
  ‌ ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [其他] Che succede 25/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-25T07:42:20.000Z
+**摘要:** 邮件内容涉及欧洲央行利率决策及柴油税减免政策调整，提及央行行长拉加德对利率前景的不确定性表态，以及柴油价格可能上涨的影响。
+**待办:** 无
+
+Che succede 25/05/2026 — idealista/news                  Se la Bce alzerà i tassi alla prossima riunione di politica monetaria "lo saprete l11 giugno". Lo ha detto la presidente della Bce, Christine Lagarde, a Che tempo che fa. A richiesta di una indicazione sullorientamento di politica monetaria, Lagarde ha risposto "no, perché la situazione attuale è di massima incertezza". Lagarde non ha quindi ripetuto quanto detto a fine aprile, quando aveva affermato "ho chiara la direzione" dei tassi dint
+
+---
