@@ -2319,7 +2319,8 @@ function circuitLabel(c) {
       return d >= cutoff && d <= today;
     });
     let analyzed = state.analyzedCount || 0;
-    const isUpToDate = analyzed >= windowEmails.length;
+    const actionsCount = state.summary && Array.isArray(state.summary.actions) ? state.summary.actions.length : 0;
+    const isUpToDate = analyzed >= windowEmails.length && actionsCount >= windowEmails.length;
     if ((state.summary && isUpToDate && !force) || windowEmails.length === 0) {
       setEmailAIState(state);
       if (typeof renderEmailList === 'function') renderEmailList();
@@ -4345,7 +4346,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v27', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v28', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
