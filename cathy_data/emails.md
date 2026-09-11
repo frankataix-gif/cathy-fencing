@@ -9229,3 +9229,15 @@ Your beauty wins are the moment.
 <https://app.sephora.com/T/v61000001a076fee62aac5979f4bbc782e8/d94265cd89a043040000021ef3a0bcc2/d94265cd-89a0-430
 
 ---
+
+## [营销] The season’s richest texture: Suede
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-06T13:11:59.000Z
+**摘要:** 这封邮件介绍了Browns Shoes推出的季节性 suede 鞋款，强调其时尚纹理和趋势。
+**待办:** 无
+
+The texture of the season is here   YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqXOskWouZ5pDq5fCHtXNJKg-3D-3DvQkI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH9SG18bIee2SpoJM6-2BbbaL-2BD7H6YOj0MvxaJpCTO5DrcKpiMEkKbsq-2Bl24X-2FKNtjFwNzcBMbzhdNchF7BYVoGlXBXmngoy3sVmqFQ8hECqy6Sl2l0-2B-2B-2BM1XBque9gyXp5andcDhGr4mJFBisw5WVQzhjNQG8vU4k9QT74a3y58YkIO7
+
+---
