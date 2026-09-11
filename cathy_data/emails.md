@@ -715,3 +715,25 @@ Che succede 21/04/2026 — idealista/news      ha spiegato che il Piano Casa si 
 Nel quarto trimestre del 2025 il prezzo medio della garanzia rc auto si attesta a 432 euro,
 
 ---
+
+## [其他] Automatic reply: Appointment Request: Submission of Application Materials - wu jingqi and He yunxi - April 22nd
+
+**发件人:** <romepasscit@international.gc.ca>
+**日期:** 2026-04-21T10:24:20.000Z
+**摘要:** 此邮件为加拿大驻罗马使馆关于护照申请的自动回复，说明该邮箱仅处理加拿大公民的护照和国籍申请，并提供相关链接和注意事项。
+**待办:** 无
+
+
+La version française de ce message se trouve plus bas.
+
+Good day,
+
+Thank you for your email.
+
+This mailbox assists Canadian citizens requesting information on passport and citizenship applications only.
+
+Please note if the answer to your question can be found below, you will not receive a separate reply.
+
+NON-CANADIANS: The Consular Section of the Embassy of Canada in Rome CANNOT respond to questions on Electronic Travel Authorization (eTA), or visa/immigration matters. For informati
+
+---
