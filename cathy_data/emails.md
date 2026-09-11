@@ -377,3 +377,14 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjB9ADIAAAAAADBXxHMLGwKsoDISH6245JKdi0yGkmguUVBwaBEbvGxrp2U82ZR-u590jukxPKHocDTK7BHjw6E8Ui36B
 
 ---
+
+## [其他] Che succede 27/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-27T10:00:34.000Z
+**摘要:** 意大利政府计划推出至少10万套低价住房，并涉及相关财政预算和资金分配。
+**待办:** 无
+
+Che succede 27/04/2026 — idealista/news                          Il governo punta a realizzare almeno 100.000 alloggi a prezzi accessibili per le categorie più deboli. A questo punta il piano casa italiano che in settimana (si ipotizza giovedì), dopo diversi rinvii, approderà sul tavolo del governo con una dotazione iniziale di poco meno di un miliardo. La cifra è blindata (970 milioni per iniziare, a cui potrebbero aggiungersi fino ad 1,1 miliardi attingendo ai fondi di coesione fino al 2030) e
+
+---
