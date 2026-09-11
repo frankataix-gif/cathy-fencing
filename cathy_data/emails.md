@@ -18552,3 +18552,15 @@ Ti basteranno 2 minuti
  ‌ ‌ ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [营销] 低至5折｜7月玩樂精選🎶🍽️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-19T06:33:50.000Z
+**摘要:** Trip.com推送7月促销信息，包括音乐节、自助餐和机票优惠。
+**待办:** 无
+
+叱吒903音樂會、自助餐及更多優惠
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015448116-1784442829252.116%26ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.460168%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
+
+---
