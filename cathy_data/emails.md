@@ -17723,3 +17723,26 @@ Payment），并附上了交易详情 PDF。 建议： 请尽快...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHhaEWWOIgWsc76bTSAEDh6WV1DD9-2F4vepAa2RnP5Q3P6IxJ5jP7TLtCjteymrKB21PZnogc65v4M5orwzNujDQvz4J7Xr3MMyyiqPpQLHNWx8tmWk4xABv-2FlGggMHBuZBiXaGlYa-2BUjDrWDMJQar1JORFUk-2BzZJxFz
 
 ---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-22T22:00:25.000Z
+**摘要:** 银行通知支付确认附件，需注意查收。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
