@@ -20954,3 +20954,34 @@ Hey  ,
 			
 
 ---
+
+## [其他] 25% off a gift card — just for DashPass members
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-06T20:52:34.000Z
+**摘要:** 
+**待办:** 无
+
+Sign up before this deal
+drops.         Summer of
+DashPass (  )
+
+-------------------------------------
+DashPass GETS YOU 25% OFF a GIFT CARD
+-------------------------------------
+
+
+
+THIS WEEK’S DEAL | COMING ‌7/‌8
+
+25% off a DoorDash eGift Card
+
+ (
+ )             Offer
+auto-applied at checkout. Redemption limitations and terms
+apply.1
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/d1H9BWZ4a9vgzqD8uUfzgA~~/AAQRxRA~/YDhGj8RkQ8J0oALg8IqFdPzMiLOtYzi4fdMPvSo1XLubT0wIF59ucOR3iGGeYmDYH0LXN5QAR
+
+---
