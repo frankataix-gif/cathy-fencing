@@ -14855,3 +14855,15 @@ Google Play
 ͏‌  ͏‌  
 
 ---
+
+## [营销] 心郁郁想訂 拉斯維加斯 機票✈️？
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-06T23:00:19.000Z
+**摘要:** 提醒用户预订拉斯维加斯机票可赚取Trip Coins回赠，促进机票销售。
+**待办:** 无
+
+即訂拉斯維加斯機票再賺 Trip Coins 回贈✈️！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015437210-1786057098703.688%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26trip_in_sid%3D1
+
+---
