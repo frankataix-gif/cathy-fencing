@@ -20229,3 +20229,20 @@ Please do not reply to this email.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] Crunch time: 2 more weeks to save
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-09T16:05:26.000Z
+**摘要:** DoorDash提醒用户还有两周时间可以节省费用，可能涉及促销活动。
+**待办:** 无
+
+ DoorDash 🏋️ This is what you trained for 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
