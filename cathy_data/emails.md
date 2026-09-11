@@ -19700,3 +19700,15 @@ nataliewu100@gmail.com
 
 
 ---
+
+## [营销] 全球夏日夜遊盛事🎇
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-11T20:06:07.000Z
+**摘要:** Trip.com 推广全球夏季夜游活动，包括海洋公园夜间派对和日本七夕天灯节等浪漫景点。
+**待办:** 无
+
+由海洋公園夜間派對到日本七夕天燈節，全情投入今夏最浪漫夜遊熱點！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015212179-1783800366067.996%26ouid%3D454925.trippulse_edm_0711_hk.2026-07-11_-8_0.20260712.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D454925.trippulse_edm_0711_hk.2026-07-11_-8_0.20260712.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1MjEyMTc5LTE3
+
+---
