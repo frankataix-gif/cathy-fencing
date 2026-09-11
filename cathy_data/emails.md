@@ -1513,3 +1513,26 @@ Ciao natalie,
 Ti inviamo gli annunci che potrebbero interessa
 
 ---
+
+## [营销] -25% solo ONLINE 🐣
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-05T07:36:46.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提供在线订单-25%的折扣，并提到免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=eyJkZWtJZCI6IjM4MjM2YmZiLWM5MjYtNDkwOS1iNzZlLTU3ZTU1MzI1YTcxZSIsImRla1ZlcnNpb24iOjEsIml2IjoiVlE2SmUyb1lkSno5U2xaYTl0Z2FMUT09IiwiY2lwaGVyVGV4dCI6Im1QYlJJZG51QndWZlZoTEhJUURTaHRLWms5aEVzTHFtei83WERqSWVYaDRIRTZLNDM1NVRHMmc0VzNmR0ZjbTBSUmFWbGdISldmYitEaTNESGdOMVkrK2k0eVNlUmdNN1ZRNkplMm9ZZEp6OVNsWmE5dGdhTFE9PSIsImF1dGhUYWciOiIvZzR0d3g0RGRXUHZvdU1rbmtZRE93PT0ifQ%3D%3D 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity c
+
+---
