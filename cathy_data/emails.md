@@ -16252,3 +16252,29 @@ Allll your fave brands are here.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199;
 
 ---
+
+## [学校] Natalie and Meadowridge Uniform Shop
+
+**发件人:** Meadowridge Uniform Shop <uniforms@meadowridge.bc.ca>
+**日期:** 2026-07-27T22:22:13.000Z
+**摘要:** 通知新家庭和 returning 家庭校服试穿预约的注意事项及取消政策。
+**待办:** 确认预约信息并遵守取消政策
+
+Event Name
+Uniform Shop Appointment
+
+For New families:
+
+
+If you have two or more children for a fitting please book two appointments maximum. The last 15 minutes of the appointment will be to meet community relations and development staff. Come to the Uniform Shop located beside the school.
+
+
+For Returning families:
+
+
+You will NOT need a full hour, please book only 1 appointment even if you have multiple children.
+
+
+Note: If you are going to be late 15 minutes or more for you appo
+
+---
