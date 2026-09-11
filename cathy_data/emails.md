@@ -12462,3 +12462,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3D3nUA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvBIBopv-2BCySdNZbVtXJzaFNSabSTyrIGIXw3-2FMwvErVzXYBAba38UbUfAbb-2Fng-2FPErsJ90L-2FY4jJCwOZJkRvNa5h2kFzAaEW5R57aWvXVN
 
 ---
+
+## [营销] Confirmation — Your Model Y Test Drive
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-22T22:02:48.000Z
+**摘要:** 确认用户预约了Model Y的试驾，包含相关链接。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DGcp7_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvFbNCGcs1W6C0PC0JdZMle06jl6yZi-2Fv0MqbfKa4k1U0SGgg8PTuD-2BNhO6a0DCSoXauj5Pka8DQywPnfItTTo-2FZeZZVb0W-2F8B1WCZompcaz8
+
+---
