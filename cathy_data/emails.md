@@ -12918,3 +12918,38 @@ Please do not reply to this email.
 
 
 ---
+
+## [待办] Billing Problem
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-19T13:10:08.000Z
+**摘要:** Apple提醒Natalie更新支付信息或充值，以免服务中断。
+**待办:** 更新支付信息或添加资金以避免服务中断。
+
+ 
+
+[image: Apple] Billing Problem 
+ 
+  
+  
+[image: Spark Pro Annual] [image: Spark Pro Annual] 
+Spark Mail: AI Email Assistant 
+Advanced Email Productivity 
+Spark Pro Annual (1 year) 
+US$229.00/year 
+
+Billing Problem   
+  
+  
+Dear Natalie, 
+To avoid interruption to your service, please update your payment 
+information or add funds to your account. 
+Update Payment Information 
+<https://apps.apple.com/account/billing?mt=8&mtPageRef=BE-EML> 
+  
+Sincerely,
+Apple 
+  
+For help with subscriptions and p
+
+---
