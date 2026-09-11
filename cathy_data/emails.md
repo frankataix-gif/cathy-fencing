@@ -8417,3 +8417,23 @@ Don’t wait! Stock up, Natalie.
 <https://app.sephora.com/T/v61000001a082e05ed18c468af4bbcfb648/0e1b8a69ec574e810000021ef3a0bcc2/0e1b8a69-ec57-4e81-
 
 ---
+
+## [待办] Package Delivery Assistance – TH103
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-08T19:53:58.000Z
+**摘要:** Natalie有多个包裹即将到达，请求帮忙检查并协助放置在TH103单元。
+**待办:** 检查包裹是否到达并协助放置
+
+Hi Anastasia,
+
+I have several packages that are expected to arrive over the next few days. Could you please check how many packages have arrived for me today?
+
+If possible, could you also please help place them inside my unit, TH103? If this is not possible, please let me know where they are being stored.
+
+Thank you very much for your help.
+
+Best regards,
+Natalie
+
+---
