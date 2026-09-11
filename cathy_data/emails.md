@@ -11098,3 +11098,28 @@ Today’s beauty deals are calling.
 ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-29T17:38:15.000Z
+**摘要:** 邮件提供了用于登录加拿大政府服务的一次性验证码，并说明因注册了账户而收到此邮件。
+**待办:** 输入验证码TGGXYTHQ以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+TGGXYTHQ
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
