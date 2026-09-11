@@ -25973,3 +25973,47 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODR9ADIAAAAAAHmRAro052h5AL
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODR9ADIAAAA
 
 ---
+
+## [其他] 是否加入he的家人群组？
+
+**发件人:** Google <families-noreply@google.com>
+**日期:** 2026-05-21T21:00:41.000Z
+**摘要:** Google邀请加入家人群组，以分享家庭应用和服务。
+**待办:** 无
+
+家人群组邀请
+he frank希望您加入他的家人群组
+
+nataliewu100@gmail.com <#>
+
+natalie，您好！
+
+您可以加入he的 (frankataix@gmail.com <#>) 家人群组，通过 Google 与您的家人联 
+系并分享适合全家人的应用和服务。
+
+加入家人群组的任何人都可以查看当前群组成员的姓名、电子邮件地址和个人资料照 
+片。
+接受邀请  
+<https://accounts.google.com/AccountChooser?continue=https://families.google.com/join/promo/0mNgDKyIkgMsgY7z0g8L4rIYceGu_w?utm_medium%3Demail&Email=nataliewu100@gmail.com>
+让家人齐聚 Google
+为儿童设置数字设备基本使用规则
+
+使用 Family Link 的家长控制功能帮助指导儿童和青少年的上网活动
+让每个人都有条不紊地做事
+
+使用共享家庭日历，让工作和家务保持井然有序
+分享娱乐内容
+
+
+---
+
+## [其他] La mappa delle case a 1 in vendita in Italia nel 2026
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-21T11:00:47.000Z
+**摘要:** idealista发布2026年意大利一欧元售房地图，涵盖多个地区并提供报价指南。
+**待办:** 无
+
+La mappa delle case a 1 in vendita in Italia nel 2026 — idealista/news    La lista dei caratteristici borghi nei quali si vendono le case a 1 euro in Italia è in continua evoluzione. Dalla Sicilia alla Basilicata, passando per Calabria, Molise, Liguria e Toscana. Che si tratti di immobili nei pressi del mare o in montagna, lelenco dei Comuni con immobili in vetrina è davvero ampio. idealista/news ha preparato una mappa per scoprire tutti i bandi di case a 1 euro nel 2026 e una guida per sapere c
+
+---
