@@ -8493,3 +8493,20 @@ Flat 120, 1 Emery Way, E1W 2AS is confirmed    My Foxtons
 Foxtons ( https://clicks.foxtons.co.uk/f/a/SK5Mxi5v7QsM315uYMMLYQ~~/AAAHahA~/x1rvWQlutuwhXHvE5D4yLERDaiakzGgG0O6h-cp6cNgAAjaYgOuWa4psd5O1zWRDE2gfub_fKOViyNjBwLUE5SNTBuIeM3kitE2OmzmgOT
 
 ---
+
+## [营销] ⚠️ It’s your LAST CHANCE to get 50% off select beauty ⚠️
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-09-08T14:10:06.000Z
+**摘要:** Sephora提醒Natalie这是最后机会购买精选美容产品享受50%折扣，并附有相关链接和会员积分信息。
+**待办:** 无
+
+ Sephora 
+
+Hurry, Natalie! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0815ac8b7c8f1c96e96c569c8/84edc405ecc745870000021ef3a0bcc2/84edc405-ecc7-4587-be14-ea9e69c978
+
+---
