@@ -858,3 +858,31 @@ SCOPRI WONDER CLUB
 Continua c
 
 ---
+
+## [营销] LAST CALL | Spring party fino al -50%🌸
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-20T13:22:10.000Z
+**摘要:** 春季促销活动，部分商品最高折扣50%，并提供免费取货和退换服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTJ9ADIAAAAAABiDRGExyYgDqD1jStBChWdk3YMT-uHMz4ZGbLKSw3AGNXwTfPET1xMkIDGh49ThK4oFRgwRN-jggbIanmEGeV7qJaECXrKaeW-nBH1c 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTJ9ADIAAAAAABiDRGEyCOZABC_GZ9ZE0VtZ3SMuhkzALVQbPtXdIh9S6qPRBF6fIzxGurWt6URNvv9CjNLTN7-boZj4W
+
+---
