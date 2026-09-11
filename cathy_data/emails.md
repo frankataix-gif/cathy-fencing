@@ -13722,3 +13722,28 @@ Please do not reply to this email.
 
 
 ---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-14T15:16:03.000Z
+**摘要:** 提醒用户完成之前未完成的击剑用品订单，并附上商品链接。
+**待办:** 点击链接完成购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
