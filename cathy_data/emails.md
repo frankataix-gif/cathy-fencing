@@ -3304,3 +3304,30 @@ https://www.apple.com/legal/privacy
 Copyright (c) 2026 One Apple Park Way, 
 
 ---
+
+## [其他] ETA application approved
+
+**发件人:** UK Visas and Immigration Home Office <uk.visas.and.immigration.home.office@notifications.service.gov.uk>
+**日期:** 2026-03-13T15:07:10.000Z
+**摘要:** ETA申请已批准，可多次前往英国，有效期至2028年3月13日，无需打印邮件，只需护照。
+**待办:** 无
+
+ETA reference number: 2020-0000-4640-7617
+
+Dear JINGQI WU,
+
+Your ETA application has been approved. You can now travel to the UK.
+
+Your ETA is valid until: 13 MARCH 2028.
+
+You can travel to the UK as many times as you want until your ETA expires.
+
+Do not worry if your full name is not included on this email. It only needs to match your name in the first line of the machine-readable zone (MRZ) on your passport.
+
+Your approval may have been automated.
+
+
+When you travel to the UK
+==
+
+---
