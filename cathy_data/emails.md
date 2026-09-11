@@ -12876,3 +12876,20 @@ Featuring Aritzia Muse, Lara Worthington.
 ͏‌  ͏‌ 
 
 ---
+
+## [营销] Sephora x OLIVE YOUNG = the ultimate collab
+
+**发件人:** Sephora X OLIVE YOUNG <shop@beauty.sephora.com>
+**日期:** 2026-08-20T13:44:36.000Z
+**摘要:** Sephora与OLIVE YOUNG推出联名合作，介绍K-beauty热门产品及促销信息。
+**待办:** 无
+
+ Sephora 
+
+Your K-beauty faves are all here. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a01f6a9c6aa10f84f4bbe5c898/148b7a34174b47740000021ef3a0bcc2/148b7a34-174b-47
+
+---
