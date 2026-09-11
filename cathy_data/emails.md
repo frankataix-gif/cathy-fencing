@@ -24270,3 +24270,15 @@ Case con piscina e vista mare — idealista/news
 Che succede 10/06/2026 — idealista/news                "Per unopera così costosa i rischi di corruzione e infiltrazione mafiosa sono elevatissimi: ma anziché rendere più trasparente liter e aumentare i controlli, i diversi decreti sul Ponte, uniti ad alcune scelte normative generali, a partire dallabolizione del reato di abuso dufficio e dal ridimensionamento del traffico di influenze, hanno indebolito le difese della pubblica amministrazione, cioè dello Stato e dei cittadini". Lo afferma il pre
 
 ---
+
+## [营销] 注意‼️BTS 世界巡演預售😍
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-10T00:22:12.000Z
+**摘要:** BTS世界巡演即将在港举行，需注意预售时间抢票。
+**待办:** 无
+
+【10AM 搶】暌違8年再次來港🔥一連三場，約定你下年啟德主場館見，見證傳奇回歸
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015220365-1781050912917.449%26ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
