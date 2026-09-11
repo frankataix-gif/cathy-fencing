@@ -18824,3 +18824,27 @@ Some updates, some intel, some fun.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [待办] TH-103  move-in inspection
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-07-17T23:38:44.000Z
+**摘要:** 邮件附上搬入检查报告，并提醒设置水电账户、购买租客保险及提供Enterphone使用说明。
+**待办:** 联系BC Hydro设置水电账户，购买租客保险并发送文件。
+
+Hello,
+
+
+
+Please find attached the completed move-in inspection report for your records.
+
+
+
+Now that you’ve moved in, here are a few friendly reminders:
+
+
+
+  *
+Please contact BC Hydro to set up your utilities account. Kindly provide them with your tenancy start date, as you will be responsible for the account from that date onward. https://app.bchydro.com/sso/UI/Login?goto=https%3A%2F%2Fapp.bchydro.com%3A443%2Fagent-customer-portal-web%2Fpost-authn-redirect%3Fnonce%3DWAHBvTEVC82DR53
+
+---
