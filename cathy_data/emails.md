@@ -10061,3 +10061,17 @@ GO TO VERIFICATION CENTER
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10147164169-1788413165103.978%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26trip_in_sid%3D11
 
 ---
+
+## [营销] Tell us your birthday month! 🎂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T00:15:34.000Z
+**摘要:** 邮件邀请分享生日月份以获取惊喜，并提供购物链接。
+**待办:** 无
+
+And get a surprise 🤫
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1-2Fv5jBpcQTSnaj837Uvm-2FReRng0UfC6o3U2DHrUViwTI-3DToJx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADlgGOALOgtrXe-2BJ4bfI6yqLDxnvA15x7ZDTU3LThLhXfz670KudSc6q8xCH1t1yT9zE1nfCHEXVYNO-2BbeUjSVln-2BAMuaVLavIH5mCvnnzyPdgmpJFrzHVhPOLHSMXnsp2gbuf-2Fs3z1RwYJb6VWg66eTpxNlf5l3y-
+
+---
