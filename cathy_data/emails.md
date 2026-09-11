@@ -2666,3 +2666,36 @@ Che succede 18/03/2026 — idealista/news         Maurizio Cinà
 Al via da oggi le prenotazioni per lecobonus. A partire dalle 12.00, ricorda il Ministero delle Imprese e del Made in Italy in una nota, i concessionari potranno prenotare, tramite il portale dedicato, lincentivo rivolto a chi acquista un nuovo veicolo elettrico o ibrido. Per il bonus la legge di bilancio 2021 aveva previsto uno stanziamento complessivo di 150 milioni di euro: 20 milioni annui dal 2021 al 2023 e 30 milioni annui dal 
 
 ---
+
+## [其他] 是否加入he的家人群组？
+
+**发件人:** Google <families-noreply@google.com>
+**日期:** 2026-03-18T09:55:16.000Z
+**摘要:** 邀请加入家人群组，以便与家人联系和分享服务。
+**待办:** 接受家人群组邀请
+
+家人群组邀请
+he frank希望您加入他的家人群组
+
+nataliewu100@gmail.com <#>
+
+natalie，您好！
+
+您可以加入he的 (frankataix@gmail.com <#>) 家人群组，通过 Google 与您的家人联 
+系并分享适合全家人的应用和服务。
+
+加入家人群组的任何人都可以查看当前群组成员的姓名、电子邮件地址和个人资料照 
+片。
+接受邀请  
+<https://accounts.google.com/AccountChooser?continue=https://families.google.com/join/promo/Gud8jh7NQMR_a9y3I-ktmjIDwFxVqw?utm_medium%3Demail&Email=nataliewu100@gmail.com>
+让家人齐聚 Google
+为儿童设置数字设备基本使用规则
+
+使用 Family Link 的家长控制功能帮助指导儿童和青少年的上网活动
+让每个人都有条不紊地做事
+
+使用共享家庭日历，让工作和家务保持井然有序
+分享娱乐内容
+
+
+---
