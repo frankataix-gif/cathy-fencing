@@ -14657,3 +14657,28 @@ Crisp days call for crisp tailoring.
   ­ ͏ ‌  
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-07T21:33:09.000Z
+**摘要:** 这封邮件提供了用于登录加拿大政府服务的一次性验证码R2Y8SCD7，并说明这是由于用户注册了政府登录账户而收到的。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+R2Y8SCD7
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
