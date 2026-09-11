@@ -823,3 +823,38 @@ Che succede 20/04/2026 — idealista/news      [ed editore di questa newsletter]
 Durante la Design Week 2026, Milano si conferma uno degli epicentri mondiali del design, ma anche una delle mete più costose per chi cerca un alloggio. Secondo un’analisi condotta da Maiora Solutions, società specializzata nello studio dei prezzi attraverso sistemi di intelligenza artificiale, il costo medio degli hotel in città ha registrato un aumento senza precedenti, segnando il picco più alto degli ultimi tre an
 
 ---
+
+## [营销] Calliope ti apre un mondo
+
+**发件人:** Calliope Wonder <info@news.calliope.style>
+**日期:** 2026-04-20T14:56:45.000Z
+**摘要:** 这封邮件是Welcome Club的欢迎信息，介绍每周的更新、积分和优惠活动，并附上个人卡片号码。
+**待办:** 无
+
+
+
+Gentile cliente,
+benvenut* in Calliope
+Wonder Club
+
+Benvenutə dove tutto è meraviglia.
+Ogni settimana riceverai aggiornamenti su
+nuove collezioni, eventi e promozioni esclusive.
+Accumula punti e ottieni vantaggi,
+offerte e sconti personalizzati.
+Questo è il numero della tua Wonder Card personale
+
+20004000000004052100
+
+CONTROLLA I TUOI DATI
+
+Rimani sempre aggiornat*
+sui tuoi vantaggi consultando
+il tuo profilo cliente
+SCARICA LA NOSTRA APP
+
+SCOPRI WONDER CLUB
+
+Continua c
+
+---
