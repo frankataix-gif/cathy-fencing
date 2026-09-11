@@ -25134,3 +25134,28 @@ Che succede 01/06/2026 — idealista/news
 ****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] T-shirt e bermuda | La combo perfetta per la tua estate
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-01T07:44:59.000Z
+**摘要:** 这封邮件推广Oltre的夏季服装组合，包括T恤、短裤、裤子和衬衫，并强调免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAAAAAAJf9jLogSFcB8xMo_uae7UolWN8Uu4c579T5nERkPAX6VUTSq6znw5lCUOixrGHjLMsUURKBShL0LkaozkgtWo8XLe1FXkXMXr2_lhPB 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAAAAAAJf9jLohFGSTmyI_i8T4g2r9UXSL95WmTqEcfeMsciQJY2S5ky4vYUfHW2qpE051KfQVCS-RRx1wFRcoBpXBik4BjKXjLumJeHL6Aei5 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAA
+
+---
