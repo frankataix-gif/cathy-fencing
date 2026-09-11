@@ -26030,3 +26030,42 @@ Che succede 21/05/2016 &mdash; idealista/news
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Conferma della sottoscrizione
+
+**发件人:** iliad <noreply@iliad.it>
+**日期:** 2026-05-20T12:31:02.000Z
+**摘要:** 确认订阅信息，说明需完成身份验证以激活SIM卡，并提及号码转移和信用转移的后续步骤。
+**待办:** 无
+
+Iliad 
+JINGQI WU
+NUMERO *3520301513*
+CODICE ID *58293864*
+Area Personale > <https://www.iliad.it/account/>
+
+Ciao JINGQI
+*Benvenuto in iliad 🚀*
+Ecco un riepilogo dei prossimi passi:
+
+   - Non ti preoccupare, *in questo momento non è richiesta alcuna azione 
+   da parte tua!*
+   - Non appena avremo completato la verifica della tua identità, la tua 
+   SIM sarà attiva
+   - Se hai scelto di portare in iliad il tuo numero, riceverai a breve un 
+   SMS di conferma con la data del passaggio
+   - Se ha
+
+---
+
+## [其他] 4 Parchi Nazionali da visitare in Italia questa primavera
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-20T11:01:12.000Z
+**摘要:** 这封邮件介绍了意大利今年春天值得参观的四个国家公园。
+**待办:** 无
+
+4 Parchi Nazionali da visitare in Italia — idealista/news
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
