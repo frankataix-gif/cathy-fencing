@@ -17325,3 +17325,32 @@ AutoPay，这封邮件通常可以不用回复，也无需充值。 - Best Buy C
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFgSJj8U5CB0385pJKlCXVjc4QP82r5R66jVCnmubW2AwxPegUsfuIcAWGQs5uYsVbV8z5mnfPOqFot2AWXfj5GoRxzbR9uIh-2FVUg2R4EaL68CixU7siY2SFLHTHAtNU6sXV7Za2FQuqn-2Fdwu1yma5wmksTU8WTk4g8j6fV
 
 ---
+
+## [待办] Verify your email to activate your Canada Post account
+
+**发件人:** Canada Post <donotreply-nepasrepondre@notifications.canadapost-postescanada.ca>
+**日期:** 2026-09-11T21:37:02.000Z
+**摘要:** 需要验证Canada Post邮箱以激活账户，链接48小时内有效。
+**待办:** 验证邮箱以激活Canada Post账户
+
+
+
+  	
+	
+
+	
+	
+
+Verify your email 
+
+Verify your email address for your new Canada Post online account. This link will expire in 48 hours. 
+
+	
+
+ https://www.canadapost-postescanada.ca/pfe2-pap2/en/registration/email-verification?id=30755449b5aa46399d6977cff0b432bd&targetUrl=https%3A%2F%2Fwww.canadapost-postescanada.ca%2Fcpc%2Fen%2Fhome.page%3FforceVouchFor%3Dtrue Verify now 	
+	
+
+Or copy and paste the URL below into your browser. 
+https://www.canadapost-postescanada.ca/pfe2-pap2/en
+
+---
