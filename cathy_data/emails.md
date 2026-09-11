@@ -19754,3 +19754,34 @@ Offside Windbreaker
 <ht
 
 ---
+
+## [待办] Basecamp (Ai Mine): Here’s the latest activity
+
+**发件人:** "Basecamp (Ai Mine)" <notifications@app.basecamp.com>
+**日期:** 2026-07-11T14:03:17.000Z
+**摘要:** 报告自7月10日早上7点以来的活动，Frank添加并完成了多个与温哥华公寓查找相关的待办事项。
+**待办:** 无
+
+Ai Mine:
+
+  Here’s the latest activity since  7am on Friday, July 10
+
+1 person was active: Frank
+
+
+
+
+## 老何Family ##
+----------------------------------
+- Frank added 1 to-do and completed 10 to-dos
+  - pier west 边上 值得打电话 · 温哥华公寓找房子
+  - 【Pier West】  周一下午3点 · 温哥华公寓找房子
+  - 505 Nelson St · 温哥华公寓找房子
+  - The City of Lougheed - Tower 4 · 温哥华公寓找房子
+  - the Park Metrotown  · 温哥华公寓找房子
+  - The City of Lougheed · 温哥华公寓找房子
+  - Meridian · 温哥华公寓找房子
+  - 958 RIDGEWAY · 温哥华公寓找房子
+  - 430 WESTVIEW STREET apartment  ·
+
+---
