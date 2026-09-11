@@ -26666,3 +26666,19 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njl9ADIAAAAAAEv0DlkEACnwOm
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njl9ADIAAAAAA
 
 ---
+
+## [营销] natalie，您可以共享自己的存储空间啦 🎉
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-05-06T22:22:48.000Z
+**摘要:** Google One通知natalie可以共享存储空间，并提供查看链接。
+**待办:** 无
+
+在浏览器中查看  
+<https://notifications.google.com/g/vib/AOExmq0wdlWFuQw63qOTjUysFNTSXXF9YMgXSfVF7xgY_vWfzfjo_xjkPgg3WLDfTAiN_PmO64toj2m6MGSjZG9LMn5PJRGhaszER7JpnCWKpv4jM5VRMGTAv4jLxvhonj64TOc>
+我们向 nataliewu100@gmail.com 发送此电子邮件是因为您曾表示愿意接收 Google  
+One 的最新动态和功能相关信息。如果您不想再收到此类邮件，
+请在此处退订  
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/AOExmq2FHcwTSi79RagqKZWOzhMV1xcOqQ3cSCwLmc7tM2_Zqrd-K2CdQK5esZe8Ky1loxbYaYjZN1NTYPKgo8vr4QKjeRk09jwpZ4XYuTZTnMB5u1ZiWRBDkqOs41thYeMbxSAd9SIrK6
+
+---
