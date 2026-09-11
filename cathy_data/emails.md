@@ -11410,3 +11410,20 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/7lRBswTKlVpuzkdTKJLTyQ~~/AAAHahA~/LasR-J7uncVQpdtJdd64c3Cx_3_zD4mMff5-BDk0iNTNk7wbVrQEiOsAKwqscA0lwZtDkIYxqEBrvW_CzzUk9BCrQ
 
 ---
+
+## [营销] 50% off select beauty starts today 💋
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-08-28T13:19:23.000Z
+**摘要:** Sephora推出每日美妆折扣，部分商品50% off，并提及积分和配送优惠。
+**待办:** 无
+
+ Sephora 
+
+New deals drop daily. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0488635adc01a5d6e96c660f0/bee7c2b882dc4aca0000021ef3a0bcc2/bee7c2b8-82dc-4aca-8d93-18a3
+
+---
