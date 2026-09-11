@@ -19282,3 +19282,27 @@ Total Deposit Due: $2,140
 The Lease Agreement documents will b
 
 ---
+
+## [其他] New sign in for Basecamp 5 from Basecamp for iOS
+
+**发件人:** Basecamp 5 Support <support@basecamp.com>
+**日期:** 2026-07-14T20:14:13.000Z
+**摘要:** 邮件提醒Natalie的Basecamp 5账户从新设备登录，建议重置密码并开启双重验证以确保安全。
+**待办:** 无
+
+Hi Natalie,
+
+Your Basecamp 5 account was just signed into from a new device.
+
+Basecamp for iOS
+IP address: 173.180.104.152
+Tuesday, July 14th, 2026 at 01:14pm PDT
+
+If this was you, carry on. We won’t notify you about logins from this device again.
+
+If you don’t recognize this activity, please reset your password.
+
+↪ reset my password now:
+https://launchpad.37signals.com/password/edit?token=BAhbB0kiLWNjNjU3MGMxOGJlMmI5NTllZDVkNGEzYjVhYjkzOTUyNDg0Y2FhZDEGOgZFVEl1OglUaW1lDdeZH8ACsd04CT
+
+---
