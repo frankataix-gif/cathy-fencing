@@ -22908,3 +22908,18 @@ T‑Mo
      ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏ 
 
 ---
+
+## [其他] Will new homebuying rules shorten moving timelines?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-24T16:18:31.000Z
+**摘要:** 
+**待办:** 无
+
+Government reforms aim to simplify and speed up the process of
+buying a home              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/PUSBUFfui_U5MDl5L6cPRg~~/AAAHahA~/GQWXJaw4yPYBE1BvW0I8urFrHcOKmJlFpinu3Hq-BU2hY_Cgx6JcQ-TDGh1-hSIo7VSKOv6CnhWGNPsPEFVq1xPWWrYZAYfvsYOwFpDKifGnNVBXFL-tbkQ9zWfhuKQYkjHDx00PbiYGASJyR2x0KkAmoyhO3L5TwyoyCGirMAI~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/DogGkzkiSudr6KtahNuT5Q~~/AAAHahA~/TwRvjfxlSdMq_GzOiWoSWDUJp7XE6lpxjy_29SClVxTVcbncWFPuuIE9w-cqqpi
+
+---
