@@ -3269,3 +3269,38 @@ The Telegram Team
 
 
 ---
+
+## [其他] 验证你的电子邮件地址
+
+**发件人:** Apple <noreply@apple.com>
+**日期:** 2026-03-13T20:02:32.000Z
+**摘要:** Apple要求验证新增的电子邮件地址，并提供验证码010930。
+**待办:** 验证电子邮件地址
+
+你最近已添加 nataliewu100@gmail.com 作为你 Apple 账户的额外电子邮件地址。为验证此电子邮件地址属于你，请在你的电子邮件验证页面输入下方验证码：
+
+010930
+
+你收到此电子邮件的原因：
+每当你为 Apple 账户选择一个电子邮件地址时，Apple 会提出验证要求。你的电子邮件在验证后才能使用。
+
+
+如果你未做过此更改，或者认为有人未经授权访问了你的账户，你需尽快前往你的 Apple 账户页面 https://account.apple.com 更改你的密码。
+
+此致
+Apple 支持
+
+-------------------------------------------------------------
+
+Apple 账户
+https://account.apple.com
+
+支持
+https://www.apple.com/support
+
+隐私政策
+https://www.apple.com/legal/privacy
+
+Copyright (c) 2026 One Apple Park Way, 
+
+---
