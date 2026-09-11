@@ -14867,3 +14867,33 @@ Google Play
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015437210-1786057098703.688%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26trip_in_sid%3D1
 
 ---
+
+## [营销] Spark 助您培养良好习惯
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-06T20:45:55.000Z
+**摘要:** 这封邮件介绍了Spark的三项核心功能：标记完成、暂时搁置和指令中心，旨在帮助用户优化工作流程并培养良好习惯。
+**待办:** 无
+
+尽在已完成标记、暂时搁置、指令中心。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        培养良好习惯
+
+完善您的工作流程，借助专业工具，让工作流程方便管理且可优化。
+
+标记为完成
+
+完成处理邮件后，将其标记为“已完成”，助您养成清理收件箱的习惯。
+
+暂时搁置
+
+暂时搁置次紧急任务，方便稍后查看，以便适时处理邮件。
+
+指令中心
+
+Spark 指令中心 ，提速弹出，助您快速访问最需要的
+
+---
