@@ -17968,3 +17968,24 @@ Asady（TELUS） - 主题： Re: 708 Farrow st - 摘要： - 可以将你的 TEL
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHMI3KnFv-2Fj6VeWp0aJREwOd73eKbZzSjywhyLsrTtBjhlgOvazrXYL1YFATQB-2F0DQkS6rHZIV9bF-2FI4b8gwhfmppeDtpsQrRMzVX8PnA3wQieaVpSK6CLeePfNCzjtSvMMzBFXTMCTtO77m2-2Fv8KZZFyKE-2BuDnJs
 
 ---
+
+## [营销] ⏰ 3-Day Sale ends in a few hours.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-22T12:11:34.000Z
+**摘要:** BestBuy.ca的3天促销活动即将结束，提醒用户尽快购买。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
