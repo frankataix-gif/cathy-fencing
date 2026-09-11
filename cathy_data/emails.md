@@ -19046,3 +19046,30 @@ Item #: 10574189
 Shipping M
 
 ---
+
+## [待办] Almost there! Activate your account.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T02:55:04.000Z
+**摘要:** 邮件提醒用户激活账户，以完成注册流程。
+**待办:** 激活账户
+
+
+ 
+ 
+
+ 
+
+  
+ Almost there! Activate your account.
+ 
+ Thanks for your recent store visit.
+ 
+
+
+ 
+
+  
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &
+
+---
