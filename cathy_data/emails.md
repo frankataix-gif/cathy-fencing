@@ -3418,3 +3418,20 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/hHbezouSdUyRPSbVlG0IFg~~/AAAHahA~/AjJ6JAVGIcjZUxwHbbdMZEDjLKhnINmr3tr09jSlERACC48wqSfGQGCFebT6QkOI9DObu6iCYvdwkLRE1hgxDIU2WaGUdtwsLBuHVBRgtqpBZHMuN
 
 ---
+
+## [待办] Verify your email address
+
+**发件人:** autoresponder@rightmove.com
+**日期:** 2026-03-11T11:48:27.000Z
+**摘要:** 需要验证邮箱地址，请在10分钟内输入验证码完成注册。
+**待办:** 验证邮箱地址
+
+Verify your email
+Enter or copy this code on the email verification page to complete your signup. This code will expire in 10 minutes.
+If you are not creating or verifying an account on Rightmove using this email, please ignore this message.
+042323
+More from Rightmove:
+Moving Stories  |  Energy Efficiency  |  Property News  |  Property Guides  |  Commercial Property
+                This service based email was sent to you by Rightmove Group Limited because you are required to verify your e
+
+---
