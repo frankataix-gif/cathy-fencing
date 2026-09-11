@@ -8622,3 +8622,15 @@ Verdana, Arial, sans-serif !important; }     96
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154150140-1788842200034.520%26ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE1MDE0
 
 ---
+
+## [营销] 聽日開搶！9.9 狂賞倒數🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-08T04:39:04.000Z
+**摘要:** 提醒用户在指定时间抢购旅行优惠。
+**待办:** 无
+
+係時候book定下個trip！Mark實 9AM/12PM/6PM/9PM 準時搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154150140-1788842200034.520%26ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D499081.HK-20260908-edm-99.2026-09-08_8_0.20260908.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE1MDE0
+
+---
