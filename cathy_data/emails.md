@@ -3903,3 +3903,20 @@ Or copy and paste the URL below into your browser.
 https://www.canadapost-postescanada.ca/pfe2-pap2/en
 
 ---
+
+## [学校] WWOW TRIP
+
+**发件人:** Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca>
+**日期:** 2026-09-11T21:27:03+00:00
+**摘要:** 学校通知学生和家长关于WWOW旅行的准备工作，包括携带物品、表格提交、午餐和零食要求等。
+**待办:** 回复邮件确认是否带露营垫，确保所有表格填写完整，准备Tupperware和午餐，行李标签，允许带零食但禁止垃圾食品。
+
+Hello Parents! Thank you to all who attended the Information Night yesterday. If you were not able to attend, here are a few reminders as we prepare for the WWOW trip next week.
+
+
+  1.
+We need 15 students who have an individual camping mattress to volunteer to bring theirs on the trip. Please let me know by responding to this email if your child can bring one.
+  2.
+ALL ACKNOWLEDGEMENT OF RISK FORMS AND PERMISSIONS FORMS ARE DUE. Please ensure the initials are clearly done in each box and e
+
+---
