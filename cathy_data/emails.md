@@ -20541,3 +20541,31 @@ Curated outfits to pack for a picturesque summer.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154115225-1783466195401.618%26ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk
 
 ---
+
+## [学校] Meadowridge 入学准备
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-07-07T22:30:12.000Z
+**摘要:** 邮件通知Cathy入学前的准备工作，包括校服测量、校车报名、饭堂资讯及郊游安排等事项。
+**待办:** 无
+
+Natalie 您好，
+
+谢谢您跟Cathy今天到访Meadowridge!
+
+房产方面，欢迎您联络 Ms. Sherry Chen (邮箱 sherrychenhomes@gmail.com )。
+
+至于其他入学前准备，请详细参考新生家庭网页<https://www.meadowridge.bc.ca/new-family-portal>。当中请留意：
+
+  *
+Cathy 爸爸已预约的校服测量/定制时间
+  *
+校车报名<https://www.meadowridge.bc.ca/parent/transportation>（8月15日截止)
+  *
+饭堂资讯<https://www.meadowridge.bc.ca/parent/cafeteria>
+  *
+饭堂账户注册<https://www.meadowridge.bc.ca/fs/resource-manager/view/9a133f60-bf4b-46c0-99a7-6a57c220ab29>
+  *
+9月16-18日郊游地点是Gibsons Farm, BC。相关资料已显示在网页上
+
+---
