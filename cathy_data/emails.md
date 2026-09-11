@@ -25413,3 +25413,15 @@ HK$1,099👉快啲打開 App 搶‼️
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542970-1780015111495.741%26ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D421010.HK-20260529-edm-HappyFriday.2026-05-29_8_0.20260529.zh_HK.%26trip_in_sid%3D1121&bizD
 
 ---
+
+## [营销] 訂完機票👉🏻🔓成功解鎖75折酒店優惠🎁
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-28T13:10:26.000Z
+**摘要:** 机票客户专享洛杉矶酒店75折优惠，预订可获Trip Coins回赠。
+**待办:** 无
+
+機票客戶專享❕洛杉磯酒店低至75折💰預訂再賺 Trip Coins 回贈💰立即解鎖🔓👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10152210130-1779973821277.625%26ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D342141.Xsell-T1-Touchpoint-edm-new-coupon-test..20260528.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0x
+
+---
