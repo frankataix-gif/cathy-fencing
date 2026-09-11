@@ -125,3 +125,17 @@ Stock up before they’re gone.
 <https://e.em.hollisterco.com/c2/1979:69f0f02d114059a81a07c0d2:ot:69e6429a87fa4e894f0fac35:1/f5674f7e?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc4NzY5MjYsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmMGYyOGQ4MmNiZmU3OTcyMDQwYzBjIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJm
 
 ---
+
+## [营销] Hollister House Rewards Member, your May account summary is here!
+
+**发件人:** Hollister <hollisterco@em.hollisterco.com>
+**日期:** 2026-05-03T18:12:24.000Z
+**摘要:** Hollister向会员发送5月账户摘要，并附有推荐商品链接。
+**待办:** 无
+
+Hollister Co. 
+  
+Plus, some things we picked out for you. 
+<https://e.em.hollisterco.com/c2/1979:67903f202ba7492ae32482bf:rm202605031700:69e6429a87fa4e894f0fac35:1/fa7ad007?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc4MzE5NDMsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmNzgyNzA3NjI3NzU2ODU2MGJkMjBlIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL3VzP3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJ
+
+---
