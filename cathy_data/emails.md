@@ -10715,3 +10715,15 @@ Could you please confirm if these times are acceptable and ensure the keys are a
 Best regards,
 
 ---
+
+## [营销] 日本賞楓必去之旅🍁最新演唱會
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-02T00:48:47.000Z
+**摘要:** Trip.com 推出日本赏枫之旅促销，包含燃油费下调和温泉酒店低至3折的优惠，邀请用户立即预订。
+**待办:** 无
+
+燃油費下調 + 精選溫泉酒店低至 3 折💰立即預訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154252159-1788310126277.828%26ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDI1MjE1O
+
+---
