@@ -13202,3 +13202,62 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/SkRICixvx8GDTn9lwNnqZQ~~/AAAHahA~/jtGBJavf8qeA71i8gFQ3lehlSiSSv_KLrQtxOd0CheFFnvYLvxzZzZTk5by7wo5SJL2pf-wIZYUhspaetlOVbx4ljsoc2ce5w1FmHh5mCa4mXA4rY6hmNo
 
 ---
+
+## [其他] Your receipt from Apple.
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-18T11:12:17.000Z
+**摘要:** 这封邮件是Apple发送的收据，显示用户购买了Cleanup Pro 1周订阅服务，金额为12.99美元，并提到订阅将在25日续订。
+**待办:** 无
+
+[image: Apple]
+Tax Invoice
+
+17 August 2026
+
+Order ID:
+
+MLVX1XJ68F
+
+Document:
+
+666177587029
+
+Apple Account:
+
+nataliewu100@gmail.com
+
+Cleanup: Clean Storage Space
+
+Cleanup Pro 1 Week (7 Days)
+
+Renews 25 August 2026
+
+US$12.99
+Billing and Payment
+
+Natalie Wu
+
+Palm Clash
+
+10101 Lusaka
+
+Zambia
+
+Subtotal 
+
+US$11.20 
+
+VAT charged at 16% 
+
+US$1.79 
+------------------------------
+
+MasterCard •••• 2249
+
+US$12.99
+
+You can view your receipts in App Store settings › Purchase History, or 
+turn on renewal recei
+
+---
