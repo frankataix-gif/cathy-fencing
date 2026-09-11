@@ -13365,3 +13365,22 @@ nataliewu100@gmail.com
 “<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR
 
 ---
+
+## [其他] Welcome to the TradingView family
+
+**发件人:** TradingView <noreply@tradingview.com>
+**日期:** 2026-08-17T22:24:58.000Z
+**摘要:** 欢迎用户加入TradingView，并引导访问入门页面了解工具。
+**待办:** 无
+
+ 
+  
+[image: TradingView] 
+<https://snowplow-pixel.tradingview.com/com.tradingview/redirect?u=https%3A%2F%2Fwww.tradingview.com&e=ue&ue_px=eyJzY2hlbWEiOiAiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvdW5zdHJ1Y3RfZXZlbnQvanNvbnNjaGVtYS8xLTAtMCIsICJkYXRhIjogeyJzY2hlbWEiOiAiaWdsdTpjb20udHJhZGluZ3ZpZXcvZW1haWxfY2xpY2svanNvbnNjaGVtYS8xLTAtMCIsICJkYXRhIjogeyJtaWQiOiAiPDE3ODcwMDU0OTg3Ni40NDM3OS43NjY3MjQ0OTQ4NzM4MTk2NTk0QHBtdGEtaW50LW5sYi54dG9vbHMudHY%2BIn19fQ%3D%3D> 
+
+  
+  
+  Hey there, trader.
+  We
+
+---
