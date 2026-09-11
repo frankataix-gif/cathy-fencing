@@ -388,3 +388,17 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjB9ADIAAAAAADBXxHMLGwKsoD
 Che succede 27/04/2026 — idealista/news                          Il governo punta a realizzare almeno 100.000 alloggi a prezzi accessibili per le categorie più deboli. A questo punta il piano casa italiano che in settimana (si ipotizza giovedì), dopo diversi rinvii, approderà sul tavolo del governo con una dotazione iniziale di poco meno di un miliardo. La cifra è blindata (970 milioni per iniziare, a cui potrebbero aggiungersi fino ad 1,1 miliardi attingendo ai fondi di coesione fino al 2030) e
 
 ---
+
+## [营销] LAST DAY: EVERYTHING’S 👏 ON 👏 SALE 👏
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-04-27T06:41:17.000Z
+**摘要:** Hollister宣布所有商品最后一天促销，并推荐了本周最受欢迎的款式。
+**待办:** 无
+
+Hollister Co. 
+  
+Plus, this week’s top-rated styles. 
+<https://e.em.hollisterco.com/c2/1979:69e90837ef7267f29705b4e0:ot:69e6429a87fa4e894f0fac35:1/5f8a96b9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzcyNzIwNzcsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllOTBjYTBiODEzZGQ5MTFmMDVkMjdlIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1
+
+---
