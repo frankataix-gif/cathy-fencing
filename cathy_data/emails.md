@@ -22493,3 +22493,25 @@ summer>>
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fwww.trip.com%2Findex%3Flocale%3Den_xx%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015416220-1782556191094.545%26ouid%3D442192.trippulse_edm_0627_xx.2026-06-27_2_0.20260627.en_XX.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D442192.trippulse_edm_0627_xx.2026-06-27_2_0.20260627.en_XX.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWN
 
 ---
+
+## [其他] 详细了解更新后的《服务条款》
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-06-27T09:04:33.000Z
+**摘要:** 
+**待办:** 无
+
+nataliewu100@gmail.com
+
+我们每隔几年就会更新一次《服务条款》。在此提前通知您，下次更新时间为 2026  
+年 7 月 30 日。
+
+这些变更不会影响您如何使用 Google  
+<https://c.gle/AOPyDKRf01DIlu0_UgN3LBAOElAyV--ePhXTcceVtrTin3kdas9UqfRU46f2xfKMwou2YfIFg-sudPKxn0S1zAGc6A_tYBGRkE-vmL_GmhnHaKjFYHDKOiGq4ziCaFOp2ZpTYB-4oEGI3GvSYrsx2gP3disk9dwrX1xQJcKqdYx-ij-taiOdDFREM60c-dEXSI7-mOBhoA98IkknGV7k1gAANS3mrCV08ckhPYuYhqWm8mmI1_qo0Wy5xJO3zmvIOek8YuA9bPQzMYkS-DtQcg9G8L4>服 
+务，但应该会有助于您更轻松地了解在您使用 Google 服务时，您和 Google 可对彼此 
+有哪些预期。
+
+您可以 
+<https://c.gle/AOPyDKTc1
+
+---
