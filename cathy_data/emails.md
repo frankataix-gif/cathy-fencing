@@ -15515,3 +15515,27 @@ Spark                        欢迎使用 Spark
 ( https://clicks.sparkmailapp.com/f/a/DmtQ2ahWnPDQiG7cImZ95w~~/AAAHahA~/x54kbGrR
 
 ---
+
+## [其他] New email account login in Spark
+
+**发件人:** Spark <spark@readdle.com>
+**日期:** 2026-08-03T20:45:30.000Z
+**摘要:** Spark邮箱通知某邮箱地址登录了新账户，显示设备和位置信息。
+**待办:** 无
+
+ Spark Mail 
+Your email address - *nataliewu100@gmail.com* - was used to login in Spark. 
+------------------------------
+
+*iPhone 16, iOS 26.50* 
+Canada 108.180.160.132 
+
+Smart. Focused. Email
+
+Got a question? Write to support@sparkmailapp.com < 
+support@sparkmailapp.com> 
+© 2026 Spark Mail Limited, Glandore Business Centre, Grand Canal House, 1 
+Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland 
+
+
+---
