@@ -12223,3 +12223,20 @@ Grâce à ce profil, vous pourrez accéder à votre compte en ligne et le gérer
 Vous n’avez pas l’application Mon TELUS? Cliquez ci-dessous 
 
 ---
+
+## [营销] ✨ Sephora App Fest ✨
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-24T13:15:07.000Z
+**摘要:** Sephora 推出应用专属折扣和活动，包含限时商品和优惠。
+**待办:** 无
+
+ Sephora 
+
+Don’t miss out on app-exclusive drops and deals. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a033e90d68c230326e96c660f0/19bda47c219344e70000021ef3a0bcc2/1
+
+---
