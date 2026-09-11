@@ -1390,3 +1390,14 @@ Case vacanze con vasca idromassaggio — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 07/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-07T11:01:03.000Z
+**摘要:** 迪拜房地产市场因中东冲突持续和投资者谨慎而进入放缓阶段，高端房产可能面临短期回落。
+**待办:** 无
+
+Che succede 07/04/2026 — idealista/news     Secondo la società di ricerca S&amp;P Global Ratings, il mercato immobiliare residenziale di Dubai, con il protrarsi del conflitto in Medio Oriente, sarebbe già entrato in una fase di rallentamento. La cautela degli investitori avrebbe di fatto interrotto un ciclo di crescita sostenuta rendendo il comparto degli immobili di pregio esposti a ricadute di breve termine. idealista/news ha chiesto a Fabio Bardelli, Head of Sales di Gabetti Middle East come 
+
+---
