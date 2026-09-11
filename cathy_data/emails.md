@@ -1249,3 +1249,14 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/E6EOqzMGh7YvNgjJcxZ5ag~~/AAAHahA~/jLUX6QVEJ_sHBS2cIv2nUL5Pwy4WPnGY4cirrzy7lkmqzwk-45VGzMeJU8pbsLe3DqZTptV_11pW8rf1ODZ5ifOP49_SH0NVHj
 
 ---
+
+## [其他] Alla scoperta della casa di un interior designer
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-04-10T16:01:34.000Z
+**摘要:** 介绍室内设计师Raffaella Fossati的住宅，以及米兰房地产市场租金上涨的报告。
+**待办:** 无
+
+Newsletter 10/04/2026 — idealista/news     | Martedì 07 Aprile 2026 L’interior designer Raffaella Fossati ci apre le porte della sua casa a Monza: un’abitazione nata ristrutturando il capannone di una storica falegnameria e concepita per essere grande e molto accogliente. Nella sua abitazione regnano spazio e luce e dove una volta c’erano macchinari per la produzione, oggi un grande ambiente elegante accoglie gli amici, ma permette anche di vivere in intimità, alternando contesti diversi e ripor
+
+---
