@@ -23793,3 +23793,28 @@ You must follow the instructions on the confirmation p
 Che succede 15/06/2026 — idealista/news             Vendere un immobile con irregolarità, sia che presenti una difformità urbanistica o una catastale, è unoperazione possibile ma che richiede procedure specifiche. Spesso la vendita di una casa non conforme può essere perfezionata sanando labuso prima del rogito (qualora lintervento sia regolarizzabile a livello urbanistico), oppure dichiarando apertamente lirregolarità allinterno dellatto con il pieno consenso dellacquirente. Fanno eccezione sol
 
 ---
+
+## [其他] 您的补偿单已经超过24小时还没领取，请点击领取- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-14T09:20:07.000Z
+**摘要:** 
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+感谢您使用租租车国际租车预定服务。
+您的意大利 租车订单已超过24小时还没领取，可通过以下方法进行领取
+
+方法1:请下载租租车APP进入订单详情页，点击领取补偿即可领取。
+方法2:手机下载了APP后，手机打开下方链接领取补偿。
+
+6天后失效 点击此处立即领取 <https://l.zuzuche.com/gjHhJr> 
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
