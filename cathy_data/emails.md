@@ -20569,3 +20569,20 @@ Cathy 爸爸已预约的校服测量/定制时间
 9月16-18日郊游地点是Gibsons Farm, BC。相关资料已显示在网页上
 
 ---
+
+## [营销] LAST DAY to save big, earn bonus points, AND get FREE Same-Day Delivery 🛍️
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-07T21:49:39.000Z
+**摘要:** Sephora促销活动今日结束，可享受折扣、积分和免费当日配送。
+**待办:** 无
+
+ Sephora 
+
+Stacking Weekend ends today, Insider. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f3e8ed1899afeb8969125ccc4/f65eee7587df43e10000021ef3a0bcc2/f65eee75-87d
+
+---
