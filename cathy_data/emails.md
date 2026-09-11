@@ -12367,3 +12367,20 @@ online at
 my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
 
 ---
+
+## [营销] Foundation skeptics, this base is for you 😍
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-23T13:18:33.000Z
+**摘要:** Sephora 推广 Tower 28 Beauty 新款非致痘粉底产品，吸引对粉底持怀疑态度的消费者。
+**待办:** 无
+
+ Sephora 
+
+Don’t miss Tower 28 Beauty’s NEW non-acnegenic formula. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a02ec5d9aac4b17e369ff04b84/d55d24b7e22f48440000021ef3a
+
+---
