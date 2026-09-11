@@ -22873,3 +22873,38 @@ THIS IS AN AUTOMATED EMAIL. PLEASE DO NOT REPLY.
 T‑Mo
 
 ---
+
+## [其他] Order Confirmation for Natalie from Shake Shack
+
+**发件人:** DoorDash Order <no-reply@doordash.com>
+**日期:** 2026-06-24T18:38:33.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  DoorDash Order Confirmation  
+    
+   
+   
+   
+   
+   
+   
+   
+  
+    
+ 
+ 
+  
+   
+     ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏  ­͏ 
+
+---
