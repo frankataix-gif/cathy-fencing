@@ -24515,3 +24515,72 @@ Outstanding amount: 0.00 EUR
 If your renta
 
 ---
+
+## [其他] Your return receipt
+
+**发件人:** "noreply@sixt.com" <no-reply@sixt.com>
+**日期:** 2026-06-06T09:01:29.000Z
+**摘要:** 邮件包含租车返回收据，详细列明了费用明细和退款信息。
+**待办:** 无
+
+
+ 
+
+
+
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9AAoAAAAAAXgYQnI-RIXuvmwE9GAQKYM_BPZk1TISqq8YPCU-JxnPv_wOoCSZyulshH55pFC_8C6hX4O1OUpArs8GIWwHvuCmpksnYP14n-BXeGllCUjNxaX2CsU 
+Rental:&zwnj;9611047694&zwnj;
+
+
+ Hope you had a great trip, JINGQI!
+ 
+
+ Your return receipt
+ 
+
+
+
+BMW SERIES 1 
+ HC371DX
+
+  
+ 
+ Pickup 
+ 
+ Return 
+ 
+ Difference 
+ 
+
+ 
+
+
+ Fuel 
+ 
+ 8/8
+ 
+ 8/8
+ 
+ 0/8
+ 
+
+ 
+
+
+ Mileage 
+ 
+ 10746
+ 
+ 11063
+ 
+ 317 kilometers
+ 
+
+ 
+
+
+
+
+---
