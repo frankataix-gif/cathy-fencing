@@ -18564,3 +18564,30 @@ Ti basteranno 2 minuti
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015448116-1784442829252.116%26ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.460168%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
 
 ---
+
+## [营销] 40–60% off must-haves
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-19T02:08:32.000Z
+**摘要:** Aritzia发送的促销邮件，提供40-60%的折扣优惠，暗示可以借此机会购买所需物品。
+**待办:** 无
+
++ Your excuse to book that pilates class.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
