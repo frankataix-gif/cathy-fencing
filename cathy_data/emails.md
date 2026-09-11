@@ -338,3 +338,14 @@ Answer with these.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 28/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-28T10:01:08.000Z
+**摘要:** 邮件讨论意大利住宿行业客人入住登记的法律义务及技术变革带来的影响，并提及中东战争可能引发的能源危机对经济的潜在冲击。
+**待办:** 无
+
+Che succede 28/04/2026 — idealista/news     Nel settore Hospitality, identificare gli ospiti che entrano in albergo è un obbligo penale introdotto già nel 1931 dall’art. 109 TULPS. Oggi, però, l’evoluzione tecnologica – tra self check-in, riconoscimento facciale e sistemi automatizzati – sta modificando il mercato, che deve venire a termini con questo obbligo, aprendo nuovi interrogativi giuridici. Ne abbiamo parlato con Donatella Marino, fondatrice di Hospitality Law Lab, il noto Think Tank di 
+
+---
