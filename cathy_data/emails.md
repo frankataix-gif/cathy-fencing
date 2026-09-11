@@ -1458,3 +1458,20 @@ Regards,
 Natalie Blomly
 
 ---
+
+## [击剑] 有人与您共享了地图“击剑俱乐部”
+
+**发件人:** "he frank（通过Google 我的地图发送）" <drive-shares-dm-noreply@google.com>
+**日期:** 2026-04-06T12:15:31.000Z
+**摘要:** 有人与您共享了名为‘击剑俱乐部’的地图，可通过提供的链接在线查看。
+**待办:** 查看共享的击剑俱乐部地图
+
+我与您共享了：
+
+击剑俱乐部
+http://drive.google.com/open?id=18bxNCVT0otomHdbbAK8Exb4-7OS_BY8&usp=sharing
+
+这项内容并非附件，而是在线存储的文档。点击上面的链接即可将其打开。
+
+
+---
