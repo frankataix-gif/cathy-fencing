@@ -8983,3 +8983,18 @@ https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81
 If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
 
 ---
+
+## [营销] Your property valuation is complete, now let’s unlock your rewards
+
+**发件人:** Foxtons <mail@mail.foxtons.co.uk>
+**日期:** 2026-09-07T10:02:43.000Z
+**摘要:** 邮件通知用户房产估值已完成，并介绍通过Foxtons出售房产可能获得的20,000 Avios奖励。
+**待办:** 无
+
+Discover how selling with Foxtons could earn you 20,000 Avios
+Buy 
+( https://clicks.foxtons.co.uk/f/a/gzymj946ATUhdVDexdD_ig~~/AAAHahA~/ndlT24yPH5uDOScY9oH4KwP4FXCba7pum41HxU59Spw9vrXvJl-E3iUTHWbdvaXbcKKZM4fVDoAAQ4KJmr_A2Gd0ht6CHbKQuM1fTjE6ebJ1HfSnTS-KAGmKbdLMtlVkjs10BTuMK1hN9K8X7YDw9lXfjXZe0n6OXWWTYmamHPI~ )
+| Rent 
+( https://clicks.foxtons.co.uk/f/a/tcuD3kWOF50-TojRGXiDAw~~/AAAHahA~/Mz_SA2t1mW6oxNaJgA-CUn91GK150DeAvNUF3nT2ugsoNwe0Zv6wr4GkCwt4PxrjvWWfsHXw_IXi98XuJXXI8qwFQ6TxPZbinKbyb_BpmpBfHSaU
+
+---
