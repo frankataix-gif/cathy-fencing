@@ -24299,3 +24299,18 @@ Se hai problemi a visualizzare le immagini, fail clic qui
 <https://click.mailing.calvinklein.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9AAYAAAAAAduicVLBWRZFCkq9LNrmFGOFXFu9zwcmd39R7M1WlJBnw7GO431lq55veysIf0LbPIKwCO9Kk5AZ8EvL_rS_r1
 
 ---
+
+## [营销] 10% di sconto per darti il benvenuto
+
+**发件人:** Calvin Klein <store@mailing.calvinklein.com>
+**日期:** 2026-06-09T14:37:03.000Z
+**摘要:** 提供10%的折扣欢迎新客户
+**待办:** 无
+
+Calvin Klein
+ 
+
+
+   &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &zwnj; &#847; &#8199;    &
+
+---
