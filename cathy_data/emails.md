@@ -898,3 +898,31 @@ Dove andare per il ponte del 1 Maggio in Italia — idealista/news
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] Il tuo buono shopping da 40€ ti aspetta🌷
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-18T07:46:02.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提供40欧元购物优惠券，用户可在线购物使用。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTB9ADIAAAAAABLKaGGrljsT7BLpvO4onK2cwGB5BuBG3VSZ-50i2nX5emefLYx_iJRQ_ANK-0QrECKAtwLC2v-Itu7Jx8eLE0rEHElUhHgLPdktsKw 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTB9ADIAAAAAABLKaGGs150ZdECnSWYXu4pktSHdYnCfY3yNhI_Em0OgEUe0RhxVqMzVapguNBsKt5v4-m3v1ARKelYgNy
+
+---
