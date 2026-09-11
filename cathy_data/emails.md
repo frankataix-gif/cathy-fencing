@@ -9951,3 +9951,32 @@ My City, My People   BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NG78c20knzW-2FHy4b91I5RIItI4CWOMo-2FLsxdnnE3agdA-3D-3DSuAB_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFgbqXnU-2BCooZUn-2BeoviB0k1oKRDu4fxP16RteHVLsoVf-2FJXLjMoSetVuOnIq0NFlRbey-2FPpaFCugkeWwjHga9CAVngs0NpJTaxPig-2BUVu70puyfKLjekQdrb8rHxBkyEp-2Bxpn7wCcwRcz9OS4EnjmtpLo2hwTgbThPRlYb9qM5YpX6h8zKLgobpLRavt1
 
 ---
+
+## [其他] Sales instruction - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-03T12:00:48.000Z
+**摘要:** Freya请求安排查看Flat 120, 1 Emery Way, LONDON, E1W 2AS，因为她今天下午1:30前在该区域。
+**待办:** 安排查看Flat 120, 1 Emery Way, LONDON, E1W 2AS的房产，需在今天下午1:30前进行。
+
+Hi Frank,
+Please can I arrange access to see this unit, because I am in the area today before 1:30pm.
+
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T: 020 7893 6010
+M: 07875 80 2146
+E: Freya.Wan@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is
+
+---
