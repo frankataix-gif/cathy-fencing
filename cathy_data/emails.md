@@ -9939,3 +9939,15 @@ Own your beauty from every angle. Only at Sephora.
 <https://app.sephora.com/T/v61000001a0677a6a5ea83790369ff1d668/d67f38a6888f42970000021ef3a0bcc2
 
 ---
+
+## [营销] Step into the creative universe of Colin Meredith and Hoka
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T13:12:15.000Z
+**摘要:** 推广Colin Meredith与Hoka的联名系列，提供快速购买和自提服务。
+**待办:** 无
+
+My City, My People   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NG78c20knzW-2FHy4b91I5RIItI4CWOMo-2FLsxdnnE3agdA-3D-3DSuAB_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFgbqXnU-2BCooZUn-2BeoviB0k1oKRDu4fxP16RteHVLsoVf-2FJXLjMoSetVuOnIq0NFlRbey-2FPpaFCugkeWwjHga9CAVngs0NpJTaxPig-2BUVu70puyfKLjekQdrb8rHxBkyEp-2Bxpn7wCcwRcz9OS4EnjmtpLo2hwTgbThPRlYb9qM5YpX6h8zKLgobpLRavt1
+
+---
