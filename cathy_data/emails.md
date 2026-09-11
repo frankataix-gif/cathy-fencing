@@ -2449,3 +2449,29 @@ Confirm email ( https://www.spotify.com/email-verification/?t=MTo2NmY0NTcyYy1mMT
 Visit this link to verify your account and start surfing:
 
 ---
+
+## [学校] Conferma del tuo ordine su Sport Industries
+
+**发件人:** Sport Industries <ordine@sportindustries.store>
+**日期:** 2026-03-21T13:24:55.000Z
+**摘要:** Sport Industries确认Natalie Wu的订单，订单号#000004364，提及发货时间及定制商品不可退换，并指出客户属于American School of Milan。
+**待办:** 无
+
+ 
+[image: Sport Industries] <https://www.sportindustries.store/> 
+
+Natalie Wu,
+
+Grazie per il tuo ordine da Sport Industries. Una volta che il pacco sarà 
+spedito, ti invieremo il numero di tracciamento. 
+Trattandosi di materiale personalizzato non sarà possibile sostituirlo. 
+I tempi di evasione sono di 15 giorni lavorativi salvo disponibilità nei 
+magazzini centrali. 
+
+Se hai domande sul tuo ordine, puoi inviare una email a 
+info@sportindustries.store. 
+Il tuo ordine #000004364 
+
+Effettuato il
+
+---
