@@ -24678,3 +24678,42 @@ Salga al primo piano e segua la segnaletica.
 Se non trova nessuno in parcheggio, LASCI LA CHIAVI NE
 
 ---
+
+## [其他] Get ready for your return at Rome Termini Station
+
+**发件人:** SIXT <booking@sixt.com>
+**日期:** 2026-06-05T15:00:50.000Z
+**摘要:** 提醒确认租车返回时间及油量要求，避免超时费用和额外收费。
+**待办:** 确认返回时间是否需要调整，确保还车时油量充足。
+
+
+SIXT
+  
+ 
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9AAoAAAAAAXRYzuUqUAV1C-QY0r47kPZ323jMXrcvUJGDMtsUYFS3ztA0xoEfdi7fEiG9iU8uI4_A2nndQ9CrB29VBPrlwJ10CPJdPT3prn2LV0bq9w-qBVE 
+
+Rental 9611047694
+
+|   
+
+ 
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9AAoAAAAAAXRYzuUreuzNW1ZhUDCvr0z8Mqgq2fCVj3oLwCnPEwxug9vMLvBtHEwwpQJ3ywTGQl0wYjA1r6XwBb3DWLVeMKsF-JQfkvVYW3l6anzfopFF5tE 
+
+Modify
+ 
+
+ 
+
+
+
+  
+ 
+
+ Get ready for your return 
+
+
+ We hope you've had a pleasant 
+
+---
