@@ -21670,3 +21670,29 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKSBeMVST19
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015264217-1783038252365.73%26ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4
 
 ---
+
+## [其他] Registration request
+
+**发件人:** bmoalerts@bmo.com
+**日期:** 2026-07-02T21:15:25.000Z
+**摘要:** 
+**待办:** 无
+
+ Registration request 
+  
+
+<http://www.bmo.com/main/personal> 
+[image: BMO - We’re here to help.] <http://www.bmo.com/main/personal> 
+Registration request 
+
+*Hi JINGQI,* 
+You have requested to register your card ending in *4218*. 
+Your Registration code is *r3AJVNHZwf* 
+It is valid for *59 minutes*. 
+When prompted, enter this temporary code to complete your registration for 
+BMO online banking. There are two ways to access BMO online banking 
+registration: 
+   
+   - Go to bmo.com and select the 
+
+---
