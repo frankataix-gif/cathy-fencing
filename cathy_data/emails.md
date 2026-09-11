@@ -12673,3 +12673,25 @@ You can pay online at my.t-mobile.com. <https://my.t-mobile.com> Please
 disrega
 
 ---
+
+## [营销] 🎧 Labour Day Sale: Let the deals do the work.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-21T11:08:15.000Z
+**摘要:** BestBuy.ca 发起劳动节促销活动，提供独家优惠，并提示用户设置密码以激活账户。
+**待办:** 设置密码以激活账户
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AAcAAAAABY0YncPkoHJPqy_GkXurEiNqnO7x-eiBCEihKX3HvEj0lcNYIuYTFwnEmpeW-RLL4dfB1iDGg0rSyjypRppGBIFWWTTQp1NsSiUnVCKtnKY&CMP=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2471424&l=52_HTML&mid=7210119&jb=2091&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-
+
+---
