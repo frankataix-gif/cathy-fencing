@@ -2420,3 +2420,21 @@ Ecco la password temporanea per accedere al servizio: MEGA08233639 (dovrà
 essere cambiata al primo accesso)
 
 ---
+
+## [待办] Last step – confirm your email
+
+**发件人:** Spotify <no-reply@hello.spotify.com>
+**日期:** 2026-03-22T17:06:09.000Z
+**摘要:** 提醒用户确认邮箱以激活Spotify账户，并提供确认链接。
+**待办:** 点击链接确认邮箱以激活Spotify账户
+
+Spotify https://www.spotify.com/email-verification/?t=MTo2NmY0NTcyYy1mMTRjLTNjNDktYTZlZS01NTM2OWJiNWFmMGI6YWFmNWNmODktNzQwZC0zZGJlLTkyNTYtZWJlZmZmMTdhZTVh&r=https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M
+Nearly there
+
+
+Thanks for signing up to Spotify. Confirm your email now to activate your account, and you’ll be all set.
+
+
+Confirm email ( https://www.spotify.com/email-verification/?t=MTo2NmY0NTcyYy1mMTRjLTNjNDktYTZlZS01NTM2OWJiNWFmMGI6YWFmNWNmODktNzQwZC0zZGJlLTkyNTYtZWJlZmZmMT
+
+---
