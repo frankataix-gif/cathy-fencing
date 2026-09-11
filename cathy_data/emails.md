@@ -7766,3 +7766,33 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0
 
 ---
+
+## [营销] 早秋甄选胶囊系列
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-10T04:05:48.000Z
+**摘要:** 介绍早秋季节的服装胶囊系列
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+悉心呈献换季衣橱
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+---
