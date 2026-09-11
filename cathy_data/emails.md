@@ -2303,3 +2303,32 @@ Ecco un riepilogo dei prossimi passi:
    - Non ti preoccupare, *in questo momento non è richi
 
 ---
+
+## [其他] Fwd: Informazioni da iliad
+
+**发件人:** Leonardo Marelli <leonardomarelli@icloud.com>
+**日期:** 2026-03-25T10:46:43.000Z
+**摘要:** iliad通知用户可以访问个人账户，提供了登录凭证。
+**待办:** 无
+
+
+Leonardo Marelli +39 340 3019392
+
+Inizio messaggio inoltrato:
+
+> Da: iliad <noreply@iliad.it>
+> Data: 25 marzo 2026 alle ore 10:47:07 CET
+> A: Leonardo Mario Marelli <leonardomarelli@icloud.com>
+> Oggetto: Informazioni da iliad
+> 
+> ﻿Buongiorno Sig. Marelli Leonardo Mario,
+> 
+> Puoi ora accedere alla tua area personale su https://www.iliad.it/account utilizzando le tue credenziali:
+> 
+> ID utente: 59693276
+> Password: wQabo66BR6
+> 
+> Grazie per aver scelto iliad,
+> Team iliad
+
+---
