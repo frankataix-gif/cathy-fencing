@@ -21308,3 +21308,25 @@ Please do not reply to this email.
 
 
 ---
+
+## [其他] Government of Canada - Please Verify Your GCKey Email
+
+**发件人:** nepasrepondre-donotreply@clegc-gckey.gc.ca
+**日期:** 2026-07-04T20:10:24.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Canada] 
+Hello HeYunXiStudyPV 
+
+Please verify your email address using the following confirmation code. 
+This code will expire after 12 hours. If you did not make this change or 
+believe your account has been accessed by an unauthorized person, please 
+contact 1-855-438-1102.
+99SXWQNC 
+
+Please do not reply to this email.
+
+
+---
