@@ -3509,3 +3509,20 @@ Podaci u vezi sa tvojom porudžbinom su prilogu imejla. Ako imate druga
 pitanja, molimo kontaktirajte podršku 
 
 ---
+
+## [其他] 有人与您共享了文件夹“重要文件”
+
+**发件人:** "he frank（通过Google 云端硬盘发送）" <drive-shares-dm-noreply@google.com>
+**日期:** 2026-02-28T18:28:13.000Z
+**摘要:** 有人与您共享了名为“重要文件”的文件夹，可通过链接访问。
+**待办:** 无
+
+我与您共享了：
+
+重要文件
+https://drive.google.com/drive/folders/1PlkBS_WXhacn3i9e2liVutOQDRJXNnrH?usp=sharing&ts=69a333bd
+
+这项内容并非附件，而是在线存储的文档。点击上面的链接即可将其打开。
+
+
+---
