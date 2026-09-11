@@ -23991,3 +23991,14 @@ Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riu
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-20621-101526105-1781254563425.997%26ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0yMDY
 
 ---
+
+## [其他] Che succede 12/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-12T07:30:30.000Z
+**摘要:** 欧洲央行加息25个基点以抑制通胀，可能增加可变利率贷款用户的还款压力；同时提及物业管理中业主欠费问题及法律应对措施。
+**待办:** 无
+
+Che succede 12/06/2026 — idealista/news     Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, misto o che sono in procinto
+
+---
