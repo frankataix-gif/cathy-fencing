@@ -516,3 +516,14 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/Mo--q8JaJ7ibHWNyGi_0Hw~~/AAAHahA~/nr9L1wgQiuSfR4cPjl31nzyVLHJa07Jm56kis1ZF-y6j9fV0WlP-9
 
 ---
+
+## [其他] Che succede 24/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-24T15:01:56.000Z
+**摘要:** 邮件内容涉及2025年意大利税务数据变化及燃油价格波动情况，包括收入增长、地区差异和油价调整等信息。
+**待办:** 无
+
+Che succede 24/04/2026 — idealista/news                       Crescono i redditi dichiarati lanno scorso: sempre in testa gli autonomi (il cui reddito però è in calo), crescono i contribuenti con imposta zero e quelli in regime forfetario. Lombardia al top, Calabria fanalino di coda. È quanto emerge dagli ultimi dati del dipartimento delle Finanze anticipati da alcuni media, tra cui Repubblica e il Sole 24 Ore. Il reddito complessivo totale dichiarato nel 2025 ammonta a oltre 1.076,3 miliardi di
+
+---
