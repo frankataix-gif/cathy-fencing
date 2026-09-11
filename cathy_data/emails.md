@@ -9439,3 +9439,16 @@ From Supergoop!, Rare Beauty by Selena Gomez, and more.
 <https://app.sephora.com/T/v61000001a071b55599a9f7f7369ff1d668/720b9511c7e44e300000021ef3a
 
 ---
+
+## [营销] The adidas sneakers to know now
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-05T13:14:18.000Z
+**摘要:** 这封邮件是关于adidas运动鞋的促销活动，提供额外20%的折扣和48小时快速配送服务。
+**待办:** 无
+
+PLUS, GET AN EXTRA 20% OFF SELECT FALL STYLES   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5WbETbh9pkl-2B3s4m4Vng-2Fko9A40DbBxzBSz3-2BfMBU35HAoHj_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPWOmFfT7n8LQAU6200z2-2Bq782Fl3EysKR4r-2B-2FUei80WKIJ0fKxffkqqWO36RzlNbTZXPzfOBrmEhGmpSF3mYSKGkGUoPCL0j8NDCr9TWIYk7KuhYqVJgW
+
+---
