@@ -2176,3 +2176,14 @@ Cosa fare ad aprile 2026 in Italia? — idealista/news
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] La top ten dei quartieri più cari dove affittare casa
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-03-27T15:30:29.000Z
+**摘要:** 邮件介绍了房地产专家Teresa Sapey的采访，并提及Volpes Case公司支持罗马儿童医院新急诊室的公益活动。
+**待办:** 无
+
+Newsletter 27/03/2026 — idealista/news     | Lunedì 23 Marzo 2026 | Giovedì 26 Marzo 2026 Larchitetta Teresa Sapey nata a Torino, ma da oltre trentanni in Spagna, un"italiana di Madrid" come lei stessa ama definirsi, accoglie idealista/news, con la spontaneità e il calore che trasmette anche nei suoi lavori, in un appartamento in una zona centrale della capitale spagnola,con una vista privilegiata sul parco del Retiro. In questa intervista racconta della sua poliedrica carriera e dei tanti proge
+
+---
