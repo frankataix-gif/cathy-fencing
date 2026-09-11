@@ -24030,3 +24030,16 @@ Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h27NzHB9N-ZRROV2wJXFAafGp27nF3oFkb-yfLQ3Dfgn80Sq9T8-mkhm9KLLA9AM1pVBXwHParsp6fH
 
 ---
+
+## [营销] 🔥優惠券大放送！幫你慳高達 HK$1,260💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-12T00:32:19.000Z
+**摘要:** Trip.com 发送优惠券促销邮件，针对恒生/中银Visa用户提供机票、酒店及套票折扣，并附限时高铁优惠信息。
+**待办:** 无
+
+恒生/中銀Visa 額外優惠💳中銀Visa：機票減$200✈️ 酒店減$250🏨套票減$250🧳【限時加碼】6.13-14 預訂 Italo 
+高鐵 9 折🚄
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015498178-1781224338270.629%26ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D431916.HK-20260612-edm-couponhub.2026-06-12_8_0.20260612.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
+
+---
