@@ -13589,3 +13589,28 @@ Beauty by numbers.
 <https://app.sephora.com/T/v61000001a006298ae58c6379969125ccc4/ea47b4c52f7541810000021ef3a0bcc2/ea47b4c5-2f75-4181-bac9-7f14aed
 
 ---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-15T15:16:01.000Z
+**摘要:** 提醒您完成在The Fencing Post的未完成订单，包含剑刃和刀带等商品。
+**待办:** 完成购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
