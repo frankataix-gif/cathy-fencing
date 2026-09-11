@@ -810,3 +810,16 @@ Welcome to Hollister House Rewards.
 <https://e.em.hollisterco.com/
 
 ---
+
+## [其他] Che succede 20/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-20T15:00:50.000Z
+**摘要:** 米兰Design Week期间酒店价格创三年新高，燃油价格上涨导致多种食品价格显著上涨。
+**待办:** 无
+
+Che succede 20/04/2026 — idealista/news      [ed editore di questa newsletter]
+
+Durante la Design Week 2026, Milano si conferma uno degli epicentri mondiali del design, ma anche una delle mete più costose per chi cerca un alloggio. Secondo un’analisi condotta da Maiora Solutions, società specializzata nello studio dei prezzi attraverso sistemi di intelligenza artificiale, il costo medio degli hotel in città ha registrato un aumento senza precedenti, segnando il picco più alto degli ultimi tre an
+
+---
