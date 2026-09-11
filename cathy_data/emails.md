@@ -22594,3 +22594,14 @@ Newsletter 26 giugno — idealista/news     | Mercoledì 24 Giugno 2026
 ***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 26/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-26T08:13:22.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 26/06/2026 — idealista/news         Per portare le spese di ristrutturazione di un immobile in detrazione nella dichiarazione dei redditi è necessario compilare il Quadro E - Oneri e Spese, collocato allinterno della Sezione III (righi da E41 a E53). I vari incentivi vengono recuperati tramite quote annuali di pari importo: le tempistiche previste per il Superbonus nel 730 variano in base allanno in cui sono stati effettuati i bonifici parlanti. Lagevolazione si ripartisce normalment
+
+---
