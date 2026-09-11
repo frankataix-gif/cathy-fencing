@@ -18907,3 +18907,24 @@ the Order Status page.
 Item
 
 ---
+
+## [其他] Completed: Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-17T20:22:23.000Z
+**摘要:** 所有方已完成2026年7月9日规则和条例附加文件的签署，附上相关链接。
+**待办:** 无
+
+Hello Jingqi Wu,    
+
+All parties have completed Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf.
+    
+    
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=1cad109b-a57f-858d-8075-e14175a3db39&etti=44&r=8b64a624-c612-85ed-8087-a6229150b461
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get started.
+
+This message was sent to you by Anastasia Makarevska | S&F Rental Homes who is using the Do
+
+---
