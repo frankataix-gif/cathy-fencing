@@ -10135,3 +10135,16 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t1de98bb,409
  https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b7&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmc
 
 ---
+
+## [其他] Account Update Confirmation
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T22:13:58.000Z
+**摘要:** 此邮件为Koodo账户更新确认，通知用户8月16日服务变更后的账单调整及服务生效情况。
+**待办:** 无
+
+Hey there,
+On August 16, 2022, you changed the following services. After making changes to your plan or add-ons, your next bill will include the following charges: your regular monthly service, additional usage, a one-time partial/prorated charge and/or credit from August 16, 2022 to the end of your bill cycle on September 13, 2022. Please note: you may only have partial minutes and partial data until your bill cycle resets on September 13, 2022 at 11:59pm.
+Got a question? Use Koodo Assist, ou
+
+---
