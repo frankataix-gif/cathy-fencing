@@ -21080,3 +21080,28 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeDUxLMacK
 Che succede 06/07/2026 — idealista/news     Crescono i prezzi delle case nel mercato immobiliare residenziale europeo. Secondo quanto rilevato dall’Eurostat, l’ufficio statistico dell’Unione europea, nel primo trimestre del 2026, i valori sono aumentati del 4,7% nell’area dell’euro e del 5,1% nell’Ue rispetto allo stesso trimestre dell’anno precedente. Nel quarto trimestre del 2025, sono aumentati del 5,1% nell’area dell’euro e del 5,4% nell’Ue. Rispetto al quarto trimestre del 2025, nel primo t
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-06T07:27:05.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+VE9DRCHQ
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
