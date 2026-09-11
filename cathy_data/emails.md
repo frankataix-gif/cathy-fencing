@@ -18109,3 +18109,15 @@ Care - 主题： Re: Smith Farrow - Blinds Repair - 需要处理：是 - 摘要�
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVF3g6Kg42aA3PId0d1BpJMSpzb4Ob5nqhz6azztf-2BGlLpffowA2FWdGI6U0rcPOOBlWNHj5wncXnuf5dfIpyLx1VKBsGCtIucmuUAUJBTGhY1y-2FqZUY8Ii-2BPUhGiUew0Pb-2BwdTVMsMS1XgclgKxwNFo1j9iXwVCql2rSSAb7DaxWwhB
 
 ---
+
+## [营销] 學生必睇🎒加拿大航空限時優惠 💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-22T00:20:10.000Z
+**摘要:** Trip.com 发送加拿大航空限时优惠信息，提供香港往返洛杉矶低价机票及23kg行李额度，同时提及Aeroplan会员免费短信服务。
+**待办:** 无
+
+香港來回洛杉磯低至 HK$4,XXX 😍包埋 23kg 行李 + 成為Aeroplan 會員可享有免費文字簡訊服務✈️🫵🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154209113-1784679609334.481%26ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5I
+
+---
