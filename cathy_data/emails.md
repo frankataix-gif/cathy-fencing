@@ -11212,3 +11212,28 @@ We’re proud of the community we’re building here and we want more people lik
 If 
 
 ---
+
+## [其他] Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-28T20:37:15.000Z
+**摘要:** Natalie请求安排在线会议，讨论因签证申请要求变化需从国外申请学习许可的事项。
+**待办:** 安排在线会议讨论签证申请
+
+Hi Vivien,
+
+This is Natalie, we just spoke on the phone.
+
+I would like to schedule an online meeting with you, and we are available this afternoon，or u can advise ur time!
+
+Since we previously thought we could apply from within Canada, we just received a requirement to apply for the visa from outside the country.
+
+thank you!
+在 Aug 28, 2026, 21:45 +0200，Vivien Lee <vlee@vivienleeimmigration.com>，写道：
+> Name: Natalie Wu (Mandarin speaking)
+> Phone: 778-255-5899
+>
+> Hello Natalie,
+> Th
+
+---
