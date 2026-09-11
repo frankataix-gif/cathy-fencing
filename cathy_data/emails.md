@@ -18295,3 +18295,30 @@ up and running smoothly.
 To complete your 
 
 ---
+
+## [其他] Smith & Farrow - Blinds Repair
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-07-21T19:55:18.000Z
+**摘要:** 关于百叶窗维修的请求已提交，等待回复安排日期。
+**待办:** 无
+
+Hi Natalie,
+We hope you're doing well. We wanted to let you know that we have submitted a request to Bright Blinds to have your blinds repaired. Once we hear back from them, we'll let you know the date of their arrival.
+Thank you for your patience.
+Kind regards,
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:94ad8f32-8ced-4584-b015-c54615cf7e9a]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the emai
+
+---
