@@ -7247,3 +7247,28 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [学校] Meadowridge Password
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-10T19:07:55.000Z
+**摘要:** 邮件通知Cathy新的学校网站密码即将重置，并提供密码信息。密码区分大小写，正确格式为MRstudent27.9222。
+**待办:** 无
+
+Hi Cathy and Ms Wu,
+
+Please see the email below, it was sent to you earlier in the week with Cathy's login information.
+
+The password is case sensitive - MR is capitalized. Cathy's password is MRstudent27.9222
+
+Let me know if you have questions!
+
+Mrs Reis
+
+________________________________
+From: Christina Reis <christina.reis@Meadowridge.bc.ca>
+Sent: Monday, September 7, 2026 8:00 PM
+To: Cathy He <cathy.he@meadowridge.bc.ca>
+Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darci
+
+---
