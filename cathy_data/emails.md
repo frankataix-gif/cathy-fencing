@@ -2753,3 +2753,14 @@ Cathy’s mom
 
 
 ---
+
+## [其他] Che succede 17/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-17T11:33:03.000Z
+**摘要:** 邮件通报了意大利汽油柴油价格小幅上涨及Airbnb2025年为意大利房东缴纳1.1亿欧元住宿税的信息。
+**待办:** 无
+
+Che succede 17 marzo 2026 — idealista/news                  In lievissimo rialzo questa mattina le medie nazionali dei prezzi praticati alla pompa di benzina e gasolio. Già domani, tuttavia, i valori dovrebbero ricominciare a salire con una certa decisione, sulla spinta dei nuovi rialzi che si registrano questa mattina sui prezzi consigliati dei maggiori marchi. Corrono le quotazioni dei prodotti raffinati, mentre il petrolio, pur in calo, permane sopra i cento dollari. Stando alla consueta rile
+
+---
