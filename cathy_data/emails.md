@@ -23587,3 +23587,16 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTB9ADIAAAAAAMnbR3Bur5tPyS
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MTB9ADIAAAA
 
 ---
+
+## [其他] Reminder: The New Parent Welcome & Information Night is on Thursday, June 18
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-06-17T04:40:17.000Z
+**摘要:** 
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
