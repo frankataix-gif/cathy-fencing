@@ -1401,3 +1401,25 @@ Case vacanze con vasca idromassaggio — idealista/news
 Che succede 07/04/2026 — idealista/news     Secondo la società di ricerca S&amp;P Global Ratings, il mercato immobiliare residenziale di Dubai, con il protrarsi del conflitto in Medio Oriente, sarebbe già entrato in una fase di rallentamento. La cautela degli investitori avrebbe di fatto interrotto un ciclo di crescita sostenuta rendendo il comparto degli immobili di pregio esposti a ricadute di breve termine. idealista/news ha chiesto a Fabio Bardelli, Head of Sales di Gabetti Middle East come 
 
 ---
+
+## [其他] GLS Italy - Rettifica notifica spedizione M7 661762562
+
+**发件人:** GLS Sede di Pieve Emanuele <noreply@gls-italy.com>
+**日期:** 2026-04-07T05:54:05.000Z
+**摘要:** 包裹配送延迟，GLS通知将发送新的配送通知，并提供追踪链接。
+**待办:** 无
+
+ La tua spedizione non potrà essere consegnata 
+[image: La tua spedizione è in viaggio] 
+
+*Ciao Natalie Wu*, 
+
+Purtroppo la tua spedizione da parte di *SPORT 3000 PAVIA SRL* è in 
+ritardo. Ci scusiamo per il disagio arrecato.
+Provvederemo ad inviarti una nuova notifica per farti sapere quando la 
+spedizione sarà in consegna. 
+
+Traccia la tua spedizione 
+<https://www.gls-italy.com/tracktraceuser/M7/661762562?utm_source=notifiche&utm_medium=email&utm_campaign=flex_delivery&utm_id=contronotifica&ut
+
+---
