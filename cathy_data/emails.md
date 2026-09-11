@@ -582,3 +582,14 @@ https:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 23/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-23T15:00:50.000Z
+**摘要:** 邮件包含欧洲西部2026年3月汽车注册数据及意大利电动滑板车强制保险截止日期延期至7月16日的通知。
+**待办:** 无
+
+Che succede 23/04/2026 — idealista/news                       "In marzo sono state immatricolate in Europa Occidentale (UE+EFTA+UK) 1.581.169 autovetture con un incremento dell11,1% sullo spesso mese dello scorso anno. Il consuntivo del primo trimestre sale così a 3.521.110 autovetture immatricolate con un incremento sullo stesso periodo del 2025 del 4,1%, ma con un calo del 15,1% sui livelli ante-crisi, cioè sul 2019. Il bilancio del primo trimestre di questanno mostra andamenti differenziati n
+
+---
