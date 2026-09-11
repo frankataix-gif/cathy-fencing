@@ -1695,3 +1695,29 @@ to others?
 
 
 ---
+
+## [其他] Receipt for your recent Hertz Rental
+
+**发件人:** noreply@hertz.com
+**日期:** 2026-04-03T16:12:01.000Z
+**摘要:** 这封邮件是Hertz租车公司发送的费用收据，通知客户已附上费用明细，并提供查看电子发票和电动车充电详情的链接。
+**待办:** 无
+
+
+
+Dear Customer,
+
+Thank you for renting from Hertz, we trust your recent rental experience 
+has been satisfactory. Attached please find your Statement of Charges.
+
+To obtain a copy of your final invoice, please visit www.hertz.co.uk/receipt
+
+If you have rented an Electric Vehicle (EV) and charged the EV during your 
+rental, you will find the itemised details of each battery recharge online 
+on the link above.
+
+For any queries please contact Hertz Customer Service at www.hertz.co.uk/FAQ
+
+We look 
+
+---
