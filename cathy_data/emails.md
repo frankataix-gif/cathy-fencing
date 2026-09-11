@@ -17445,3 +17445,23 @@ T-Mobile USA - 主题： Your T-Mobile account needs to be refilled. - 状态：
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHw7YbaEhL5WDKuQ6-2BFdnzLetneXcHnEF8AXcbMykc709N1meCCNaL8ok-2FvKUqUEDjnP2PCmH6tLCDmk5k0bCdADm2SacjfAjJh4s4xn9F0d2mBsbqUNZ1muDT25Q-2BtymIfEkaZc-2F2IshTZdbZeCzFbs1bhyKtHyZWE
 
 ---
+
+## [营销] Last chance 🚨 50% off two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-23T16:08:13.000Z
+**摘要:** DoorDash发送的促销邮件，提供50%折扣优惠。
+**待办:** 无
+
+ DoorDash Promo FOMO is real. 
+‌  ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌ 
+  ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ ‌   ͏ 
+‌   ‌   ͏ ‌   ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ 
+‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   
+‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   
+[image: 50-off-banner] 
+[image: 50-off-banner] 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXpt
+
+---
