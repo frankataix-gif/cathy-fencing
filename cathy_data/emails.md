@@ -11991,3 +11991,15 @@ Shop Clean at Sephora inside.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 香港精選酒店 低至5折🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-26T04:51:07.000Z
+**摘要:** Trip.com 发送香港精选酒店促销信息，提供低至5折的住宿预售券，支持灵活入住和全额退款。
+**待办:** 无
+
+全新住宿預售券！超彈性入住，未兌換可自動全額退款，無憂囤貨🤩
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152200116-1787718974136.255%26ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
+
+---
