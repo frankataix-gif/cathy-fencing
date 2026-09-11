@@ -19140,3 +19140,24 @@ Tenant changed tenancy date
 举报此电子邮件 https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi12-dMvPb1Ta
 
 ---
+
+## [待办] Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-15T23:21:26.000Z
+**摘要:** Anastasia Makarevska 发送了需要签署的2026年7月9日规则和条例附加文件。
+**待办:** 点击链接签署2026.07.09 Rules and Regulations Addendum.pdf
+
+Hello Jingqi Wu,
+
+Anastasia Makarevska | S&F Rental Homes has sent you a new Docusign document to view and sign. Please click on the link below to begin signing.
+
+    
+
+Review Documents
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=62dadb0e-4de4-8493-8085-bab48a3f5b14&etti=25&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=8b64a624-c612-85ed-8087-a6229150b461
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get st
+
+---
