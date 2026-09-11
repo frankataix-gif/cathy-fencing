@@ -25051,3 +25051,17 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015420940-1780450224555.990%26ouid%3D424734.HK-20260603-edm-6%252F6.2026-06-03_8_0.20260603.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D424734.HK-20260603-edm-6%252F6.2026-06-03_8_0.20260603.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5Ijo
 
 ---
+
+## [待办]  请采取行动：更新支付方式，以保留 Google One 会员资格
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-06-01T16:14:11.000Z
+**摘要:** 提醒用户更新支付方式以保留Google One会员资格，否则可能导致服务中断。
+**待办:** 更新支付方式以保留Google One会员资格
+
+   在浏览器中查看  
+<https://notifications.google.com/g/vib/AOExmq34ca2HwQZZ2hhep3Mr7LRKXMcpB3Dpooc4m4CWljfXnhaN-WHQTNlqzmFz5XOHRgN2FcBckDO5JYGiwNAo_tlQfkO4nbyR-12QIp2VanOqceAAClNYRTEmd94_9b7_-Rc>
+(c) 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+
+---
