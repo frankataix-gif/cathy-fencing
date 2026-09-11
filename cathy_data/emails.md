@@ -26159,3 +26159,14 @@ Cathy’s mom
 
 
 ---
+
+## [其他] Che succede 18/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-18T08:48:06.000Z
+**摘要:** 政府重新引入承认合同到期工人欠薪的法规，劳动部次长提出修正案恢复原规定。
+**待办:** 无
+
+Che succede 18/05/2026 — idealista/news                      Il governo ci ripensa e reintroduce la norma che riconosce gli arretrati ai lavoratori con contratti scaduti. Nella fase di conversione del decreto sul giusto salario alla Camera, verrà infatti presentato un emendamento che ristabilisce la prima versione del testo, poi modificato prima della promulgazione del decreto. L’iniziativa è stata presa dal sottosegretario al Lavoro Claudio Durigon che già aveva puntato a quella disposizione in
+
+---
