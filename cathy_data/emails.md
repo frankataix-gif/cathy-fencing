@@ -15473,3 +15473,23 @@ Apple Support
 Apple Account:   h
 
 ---
+
+## [待办] Verify your Apple Account email address
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-03T21:19:04.000Z
+**摘要:** 需要验证Apple账户邮箱地址，提供验证码447219。若未申请请忽略，否则需在3小时内完成验证以使用账户。
+**待办:** 验证Apple账户邮箱，输入验证码447219
+
+You have chosen this email address for your Apple Account. To verify this email address belongs to you, please enter the code below on the email verification page:
+
+447219
+
+This code will expire three hours after this email was sent.
+
+Why you received this email.
+Apple requires verification whenever an email address is selected for an Apple Account. Your Apple Account cannot be used until you verify it.
+
+If you did not make this request, please disregard this email. No Apple Account wil
+
+---
