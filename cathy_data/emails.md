@@ -50,3 +50,31 @@ Che succede 05/05/2026 — idealista/news     [ed editore di questa newsletter].
 I dati pmi di aprile hanno segnalato una forte crescita della produzione nel settore manifatturiero italiano. LS&amp;P Global Pmi settore manufatturiero in Italia sale a 52,1 punti dai 51,3 di marzo. Si tratta del valore più alto di quattro anni. "Il conflitto in Medio Oriente è rimasto il fattore chiave dietro lennesimo
 
 ---
+
+## [营销] Il tuo buono da 40€ scade domani 6/05! ⌛
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-05T08:17:52.000Z
+**摘要:** 提醒用户其40欧元优惠券将于明天到期，并附有购物链接
+**待办:** 使用优惠券或确认是否需要使用
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njd9ADIAAAAAAEVyGErPnqDnGc-1dQctdVwgD7AmgF3Gs9UD1dKNWedHSll44qSlncR0691BkXBRQixPZQ1RVGjR_wu-uf0o5tOvUuMuH7W2peGFZF0 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njd9ADIAAAAAAEVyGErQexjy-f0K-7Z87pNWswHxABmKAAHcDdmeCTbYYlsII7Q86kbkGfihr6HBFjAWDmoSnGS_QGWaAr
+
+---
