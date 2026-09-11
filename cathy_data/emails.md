@@ -9541,3 +9541,29 @@ Next steps:
   1.  Please provide al
 
 ---
+
+## [营销] Foxtons Sales Valuation - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya.Wan@foxtons.co.uk
+**日期:** 2026-09-04T17:58:23.000Z
+**摘要:** 邮件来自Foxtons房地产经纪，感谢邀请估价，并附上估值信，详细说明了营销策略和出售计划。
+**待办:** 无
+
+ 
+
+[image: Foxtons Estate Agent] 
+<https://www.foxtons.co.uk/?utm_medium=email&utm_source=bos&utm_campaign=offer_accepted_tenant&tbp=913B46BFA6C18A64983061DFE1453180> 
+
+*Dear Jingqi,* 
+
+Thank you for inviting us to value your property today. 
+
+Please find attached our valuation letter, outlining our marketing strategy 
+and some of the ways that help us achieve the best price, in the quickest 
+possible time. 
+
+If you have any further queries, please do not hesitate to contact me. 
+Kind regards, 
+
+
+---
