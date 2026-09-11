@@ -2899,3 +2899,28 @@ https://keep.google.com/share?note=1BA3vq8WblnEyyc0i64zmVprLr-jg_zeoa9mh2O4TY0cy
 
 
 ---
+
+## [其他] 您的租车订单已确认（订单号：1128145900588247）
+
+**发件人:** "携程租车" <car8263@trip.com>
+**日期:** 2026-03-15T16:25:20.000Z
+**摘要:** 您的境外租车订单已确认，请打印提车凭证并携带前往取车。
+**待办:** 打印附件中的提车凭证并在取车时出示
+
+ 
+
+Title 
+国内：1010-6666（境内免长话费）  国际：+86-21-3406-4888 
+
+尊敬的 JINGQI WU 先生/女士，您好！
+附件是您本次境外租车订单的电子提车凭证，请查收。
+为保障您的用车顺利，避免在取车时产生额外收费，请打印附件中的提车凭证，并在取车时向柜台工作人员出示。
+<https://m.ctrip.com/webapp/carhire/xsd/xsdlistpage?isHideNavBar=YES> 
+<https://m.ctrip.com/webapp/carhire/xsd/xsdnewinterlicensePage?isHideNavBar=YES> 
+
+温馨提醒：您可能在用车期间/用车结束后收到供应商发来的系统邮件，无需回复，您可以了解查看，如有问题可随时联系携程客服寻求帮助,感谢您使用携程租车，祝您旅途愉快！ 
+
+2026-03-16 
+
+
+---
