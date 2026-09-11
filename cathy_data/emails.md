@@ -12003,3 +12003,23 @@ Shop Clean at Sephora inside.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152200116-1787718974136.255%26ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
 
 ---
+
+## [其他] Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-25T17:45:36.000Z
+**摘要:** Natalie询问申请电动车充电站的流程、所需时间和相关费用。
+**待办:** 回复 Natalie 关于 EV 充电站申请的流程和相关信息
+
+Hi,
+
+I am considering switching to an electric vehicle and would like to apply for an EV charging station for my parking space.
+
+Could you please let me know the application process and approximately how long it would take for the charging station to be approved and installed? Please also let me know if you need any vehicle information or if there are any related fees.
+
+I would appreciate a reply as soon as possible.
+
+Thank you,
+Natalie
+
+---
