@@ -22962,3 +22962,45 @@ tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
  ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [其他] Extra 20% off sale starts now
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-24T14:19:30.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Open to improve your day
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTd9AAcAAAAAAyEBAvg8rl-18fxyKx9dKb7KrfxKb6uIfWkiI0EkXxZ8O8Cnkk8UiemWM5F_nIMHSH8T-VkezdmZliMaT7lsPpk0dCiPnaX6tTJuHMY 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTd9AAcAAAAAAyEBAvg_EHSy711brlbUVxg-pv1W4qTViaK51yQ_bDjm2XvyeGbg1tssVsvZodyU50aV23TyevcxIqnFsIR22QWt3DNrDLfzWV_3Y1Cf8XGi 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+http
+
+---
