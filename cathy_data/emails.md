@@ -26707,3 +26707,14 @@ Vacanze al mare con i bimbi — idealista/news
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 06/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-06T08:54:13.000Z
+**摘要:** 邮件汇总了2026年1-3月意大利税收数据及Leonardo公司财务表现，显示税收收入同比微增0.7%，其中间接税增长2.4%，Leonardo订单和收入均显著增长。
+**待办:** 无
+
+Che succede 06/05/2026 — idealista/news                   Nel periodo gennaio-marzo 2026, le entrate tributarie erariali accertate in base al criterio della competenza giuridica ammontano a 131.413 milioni di euro, con un aumento di 891 milioni di euro rispetto allo stesso periodo dellanno precedente (+0,7%). Lo si legge nel Bollettino pubblicato sul sito del Dipartimento Finanze del Mef. In particolare, le imposte dirette si attestano a 76.308 milioni di euro (-426 milioni di euro, pari a -0,6%
+
+---
