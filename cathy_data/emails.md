@@ -37,3 +37,16 @@ Questo è il numero della tua Wonder Card personale
 
 
 ---
+
+## [其他] Che succede 05/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-05T09:29:47.000Z
+**摘要:** 意大利制造业PMI数据上涨，Stellantis在意大利汽车市场持续增长。
+**待办:** 无
+
+Che succede 05/05/2026 — idealista/news     [ed editore di questa newsletter]. Su base annuale l’aumento è pari al 5%, mentre su base trimestrale la crescita si attesta al 2,7%
+
+I dati pmi di aprile hanno segnalato una forte crescita della produzione nel settore manifatturiero italiano. LS&amp;P Global Pmi settore manufatturiero in Italia sale a 52,1 punti dai 51,3 di marzo. Si tratta del valore più alto di quattro anni. "Il conflitto in Medio Oriente è rimasto il fattore chiave dietro lennesimo
+
+---
