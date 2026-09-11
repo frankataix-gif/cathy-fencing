@@ -24401,3 +24401,14 @@ can be accessed
 
 
 ---
+
+## [其他] Che succede 08/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-08T07:45:08.000Z
+**摘要:** 邮件解释了不锈钢餐具在洗碗机中可能生锈的原因，并提及意大利银行间的并购动态。
+**待办:** 无
+
+Che succede 8 giugno — idealista/news          L’acciaio inox è considerato resistente alla corrosione, eppure può capitare di trovare macchie di ruggine sulle posate appena lavate. Questo fenomeno sorprende molti consumatori, perché l’idea comune è che l’inox sia “inossidabile”. In realtà, nessun acciaio è completamente immune alla corrosione: è solo più resistente rispetto al ferro tradizionale. Ma allora perché le posate fanno la ruggine in lavastoviglie? La ruggine sulle posate in lavastovig
+
+---
