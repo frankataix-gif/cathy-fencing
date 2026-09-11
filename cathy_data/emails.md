@@ -13261,3 +13261,33 @@ You can view your receipts in App Store settings › Purchase History, or
 turn on renewal recei
 
 ---
+
+## [营销] 卓越之作
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-18T04:09:38.000Z
+**摘要:** 这封邮件是Loro Piana品牌发布的广告宣传，介绍其Royal Lightness®和The Gift of Kings®产品系列。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loro Piana Royal Lightness® 与 The Gift of Kings® 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+---
