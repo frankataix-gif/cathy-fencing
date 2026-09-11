@@ -19255,3 +19255,30 @@ https://ca.account.docusign.com/managed_token/v1/redeem?mtid=82887ac8-a0de-4198-
 If clicking the link does not work, you can highlight and copy the entire line above and paste it into yo
 
 ---
+
+## [其他] TH-103 application has been approved! 🎉
+
+**发件人:** Boffo Rental Team <rent@boffo.ca>
+**日期:** 2026-07-14T20:34:45.000Z
+**摘要:** 申请获批，需准备押金和支票，并安排搬入检查和电梯时间。
+**待办:** 确认搬入检查和电梯时间
+
+Hello ,
+We are happy to confirm that your application has been approved! 🎉
+Please prepare a money order or bank draft payable to Bassano Properties Inc. for the required deposits. We will also need a void cheque to set up your monthly rent withdrawal — please email it to residentcare@boffo.ca<mailto:residentcare@boffo.ca>.
+Deposit Details:
+
+  *
+Unit: TH-103
+  *
+Monthly Rent: $4,280
+  *
+Security Deposit: $2,140
+
+
+  *
+Total Deposit Due: $2,140
+
+The Lease Agreement documents will b
+
+---
