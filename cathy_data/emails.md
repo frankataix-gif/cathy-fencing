@@ -15563,3 +15563,28 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goog
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-03T20:21:09.000Z
+**摘要:** 邮件要求验证登录并提供一次性验证码
+**待办:** 验证登录
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+H7S2XGQ9
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
