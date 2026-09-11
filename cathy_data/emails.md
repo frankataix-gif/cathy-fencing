@@ -21835,3 +21835,45 @@ Il mercato delle aste immobiliari in Italia nella prima metà del 2026 — ideal
 Che succede 2 luglio — idealista/news                 Il Ministero delle Infrastrutture e dei Trasporti comunica che a giugno 2026 sono state immatricolate 146.423 autovetture a fronte delle 132.402 iscrizioni registrate nello stesso mese dellanno precedente, pari ad un aumento del 10,59%. I trasferimenti di proprietà sono stati 481.205 a fronte di 439.475 passaggi registrati a giugno 2025, con un aumento del 9,50%. Il volume globale delle vendite mensili, pari a 627.628, ha interessato per il 2
 
 ---
+
+## [其他] Hey, students! Get 20% off
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-02T01:37:37.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Unlock your discount now
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjV9AAcAAAAAA3RTlcHKgslfnx6l1NRrqGhb9r-aS3MZMJAfOwVh_1C6QOlIFhy8F4puq2RstHk_xI0cfIJCIqWPtceUyxzO22Qgc8_PvykHr7BREZo 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjV9AAcAAAAAA3RTlcHLXB_miMl8FHuBaiv-XjPyNuDmEWjFEPZckKFKXqTU9o_sIgWnW0GalTf1biy3FIu8m5TT_lX0O6p5EeFuZbkuNhlTLQ0ZQfO37iIz 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+http
+
+---
