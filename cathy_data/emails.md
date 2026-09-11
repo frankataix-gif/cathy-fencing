@@ -10306,3 +10306,24 @@ Log in now
 <https://auth-gateway.telus
 
 ---
+
+## [待办] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T21:49:31.000Z
+**摘要:** TELUS发送登录链接，需在15分钟内完成登录。
+**待办:** 点击链接完成登录操作
+
+ TELUS 
+Your login link is ready to use. Log into My TELUS now. 
+Trouble viewing this email? View in web browser 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c5&e=cDE9JTQwMnFJUW14SEpDOFdYck1GeVNPbnhmWmRrQSUyQjRsU2NUS3dObmZzbDB5b0pRJTNE&s=J7gAN01akIYU0Sn5BbxsttH1-kv1xwXO5LrK4W3wA9s>
+. 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c6> 
+Hi TELUS, here’s your link to log into My TELUS. 
+Sign into your My TELUS account using the button below. 
+
+Log in now 
+<https://auth-gateway.telus
+
+---
