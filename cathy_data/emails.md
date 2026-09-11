@@ -24649,3 +24649,32 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/StSfVjVEDtjMp8vmgtWFvw~~/AAAHahA~/QjY_3ZasqK1wwd3PIKBsCAB66Oui_z27jJ623Koj6FwtE0LgI1SBXreL_cxK-ag2HdBur36f
 
 ---
+
+## [待办] SIXT CAR RETURN ROMA TERMINI - English version below
+
+**发件人:** Sixt rent a car - Roma Stazione Centr <dt43686@sixt.com>
+**日期:** 2026-06-05T15:46:51.000Z
+**摘要:** 邮件通知客户关于还车的详细步骤和地点，包括停车位置、流程及注意事项。
+**待办:** 按照邮件指示完成还车流程，包括前往指定停车场和遵循相关步骤。
+
+
+
+English version below
+
+Gentile Cliente,
+
+Grazie per aver noleggiato con noi!
+
+Ecco qualche piccola indicazione per la riconsegna dell'auto.
+
+La preghiamo di restituire il veicolo da Lei noleggiato presso:
+
+Parcheggio Roma Termini, situato in Via Marsala n. 53,  00185 Roma, primo piano.
+
+Alla sbarra, comunichi all'operatore che sta guidando un veicolo Sixt e la relativa targa.
+
+Salga al primo piano e segua la segnaletica.
+
+Se non trova nessuno in parcheggio, LASCI LA CHIAVI NE
+
+---
