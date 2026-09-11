@@ -26347,3 +26347,28 @@ I luoghi più instagrammabili del momento — idealista/news
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] Sapore d'estate con gli abiti di Francesca Chillemi ✨
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-14T07:36:45.000Z
+**摘要:** 这封邮件是Oltre Newsletter的夏日服装推广，介绍Francesca Chillemi的夏季服饰系列，并提及免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzZ9ADIAAAAAAGEoxwUR2F9qjpnppjkk6WCi3BoSBEdUL4hR16l13sJ0w92ynoyQBkyqS7AicKphP5P2z1dtM0aIwl3l19P34dorwAuAVmAAy0DaOHNH 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzZ9ADIAAAAAAGEoxwUSiSvW1IHaUAZOROlR_1NgiswdhjG24g6ixlRKQJo54MRTcyQdYIrNai9yybn5w6Z0FJHovFnIyhAeQ_5IA3zJvjfwrR0lO1lj 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzZ9ADIAA
+
+---
