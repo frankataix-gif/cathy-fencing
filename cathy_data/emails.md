@@ -2042,3 +2042,36 @@ RITIRO IN NEGOZIO GRATUITO
 R
 
 ---
+
+## [学校] Meadowridge: Parent Interview - Thurs Apr 2, 10am PT
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-03-31T21:22:43.000Z
+**摘要:** Meadowridge学校邀请Frank和Natalie参加周四上午10点（PT）的Zoom家长面试，需确认可用性。
+**待办:** 确认是否参加面试并回复
+
+Dear Frank,
+
+Thank you for your update, and my apologies for the delayed reply.
+
+We are happy to invite you and/or Natalie to a 30-minute parent interview on Zoom this Thursday Apr 2 at 10am (PT).
+
+Please confirm if you are available, and I will follow up with details.
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ri
+
+---
