@@ -24481,3 +24481,37 @@ Festival musicali estate 2026 — idealista/news
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Your invoice 3004914892 for rental 9611047694
+
+**发件人:** donotreply@sixt.com
+**日期:** 2026-06-06T11:59:06.000Z
+**摘要:** 这封邮件是发送租车发票的附件，说明金额已从支付方式扣除，并提及退款处理时间。
+**待办:** 无
+
+ SIXT 
+[image: Sixt] 
+
+Rental agreement number: 9611047694 
+[image: -] 
+
+Invoice 
+
+This is the invoice for your records. This is not a payment request. The 
+final amount will be debited to the payment method we have on record for 
+you.
+
+Please find your invoice attached.
+[image: -] 
+Document number: 3004914892 
+Payable invoice amount: 615.90 EUR 
+Total amount debited: 615.90 EUR 
+Payment method(s): 
+
+VISA •••• •••• •••• •813 
+Outstanding amount: 0.00 EUR 
+
+*Your refundable deposit*
+If your renta
+
+---
