@@ -18064,3 +18064,18 @@ Rental Reside...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHCZSqzov16iTr5aLeNKikD3wDEWzRbQAqxc99K5nQfPTqgi2DcnCDlDa-2B3Isk9fA1u8qs9QVD5IfX-2FiFWty3iCODm0XlMH-2FAyZwCfOWbmXSip1GR-2F368UH0zQpzNglUTZTV6GdAy4jHsQF2PCBZPrHv8OtLRWLvUthrSo2
 
 ---
+
+## [待办] [Task Update] Email Monitor: No urgent new emails one TELUS reply needed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T02:57:55.000Z
+**摘要:** 邮件显示无紧急新邮件，但需关注TELUS的未读邮件，涉及网络服务转移及提前解约费用说明。
+**待办:** 回复TELUS邮件确认网络服务转移或预约安装，注意提前解约费用条款。
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前没有发现比之前更新、更需要立即处理的新邮件。 目前仍然值得关注的是： - TELUS – 
+Re: 708 Farrow st（未读，重要） - 对方确认你可以把网络服务转移到新地址。 - 如果提前终止两年合约，需要按剩余每个月 20 
+加元支付提前解约费用。 - 如果你准备办理网络，建议回复这封邮件或继续预约安装。 其他未读邮件主要是： - ChatGPT 
+邮件监控任务发送给你的通知（无需处理）。 - Google... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEMFplUQFUPqi4KyVCx0cYIuE-2BpHm8rh22nZIIcFcP4zl7nEMv2B1WmHT2g9rftVjmrwK9lNKJroKcbUxGHoaFgv4h-2BM7w63qsBTET9XmjW8Q61Pc05kw5KegHPJcCh9u9-2FRbHFu-2BuHApgIyiPeBisKGcdfvMdnR9hI
+
+---
