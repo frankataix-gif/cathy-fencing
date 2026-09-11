@@ -15427,3 +15427,20 @@ You have accepted the following offer:
 *Renewal Price* US$229.00/year, starting 10 August 
 
 ---
+
+## [学校] WWOW TRIP
+
+**发件人:** Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca>
+**日期:** 2026-09-11T21:27:03.000Z
+**摘要:** 提醒家长和学生准备WWOW旅行的必备物品和文件，包括携带床垫、提交风险确认表、准备Tupperware及午餐等。
+**待办:** 确认是否让子女携带个人野营垫，确保所有风险确认表和许可表填写完整，准备带名字的Tupperware，检查行李是否符合要求，准备Wednesday的午餐及符合规定的零食。
+
+Hello Parents! Thank you to all who attended the Information Night yesterday. If you were not able to attend, here are a few reminders as we prepare for the WWOW trip next week.
+
+
+  1.
+We need 15 students who have an individual camping mattress to volunteer to bring theirs on the trip. Please let me know by responding to this email if your child can bring one.
+  2.
+ALL ACKNOWLEDGEMENT OF RISK FORMS AND PERMISSIONS FORMS ARE DUE. Please ensure the initials are clearly done in each box and e
+
+---
