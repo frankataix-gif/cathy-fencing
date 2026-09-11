@@ -980,3 +980,16 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/Li9FW7-OTDAWBTpP5RewOQ~~/AAAHahA~/sC_X5rSMZpGh6qbaVD4_OQI9V7Sfr9F0H74ZukMv-gXmUoy7QvOy0_rx
 
 ---
+
+## [其他] Che succede 17/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-17T09:17:09.000Z
+**摘要:** 邮件讨论了米兰和罗马房地产市场的增长差异，以及欧洲经济面临的通胀和能源冲击问题。
+**待办:** 无
+
+Che succede 17/04/2026 — idealista/news     [ed editore di questa newsletter], infatti, mentre nella Capitale si registra unaccelerazione nella crescita dei valori immobiliari - +1,9% nel I trimestre e +7,8% in un anno - il capoluogo meneghino registra un ritmo più contenuto: +0,2% nel I trimestre e +4,1% a livello annuale
+
+LUe potrebbe "sfiorare la recessione, con linflazione in avvicinamento alla soglia del 5%. Nessun Paese europeo ne è immune". Lo scrive il capo del Dipartimento europeo del F
+
+---
