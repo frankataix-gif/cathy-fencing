@@ -7082,3 +7082,25 @@ You’ve seen how our AI co-worker Maia can build for you, but sometimes the fas
 Start with one o
 
 ---
+
+## [营销] Check out this week’s Top Deals.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-11T12:16:40.000Z
+**摘要:** 提醒用户完成账户设置以解锁独家优惠
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTZ9AAcAAAAABm5WrrfJXoLsVdEU1Eq0KOMwxqcyzxK5X_h88xMBEQfjLUAT3b9-S7IXJZlE1hP3Gg1JWbec0wL4GcZ1bG2QPI83WcdCWhvOef9Tr_lkxMo&CMP=eml-bby-pr-asu-2026-09-11-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2495873&l=52_HTML&mid=7210119&jb=6253&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-09-11-c_cal-csgsc_glu
+
+---
