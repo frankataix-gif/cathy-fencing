@@ -7615,3 +7615,49 @@ here   BUY NOW, PICK UP IN 2 HOURS
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] Pool Area Remedial Works Commencing 17 September
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-10T10:46:44.000Z
+**摘要:** 通知泳池区域修复工作将于9月17日开始
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
