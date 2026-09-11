@@ -21824,3 +21824,14 @@ Offside Windbreaker
 Il mercato delle aste immobiliari in Italia nella prima metà del 2026 — idealista/news    Il mercato delle aste immobiliari in Italia vede la prima metà del 2026 allinsegna di un calo delle nuove procedure giudiziarie. La capacità di gestione dei tribunali si mostra in netto miglioramento, anche grazie allaumento delle soluzioni stragiudiziali che alleggeriscono il carico delle pratiche. Rallenta anche il valore degli asset allasta. Le analisi dei principali player in questa guida sulle aste di 
 
 ---
+
+## [其他] Che succede 02/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-02T07:50:22.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 2 luglio — idealista/news                 Il Ministero delle Infrastrutture e dei Trasporti comunica che a giugno 2026 sono state immatricolate 146.423 autovetture a fronte delle 132.402 iscrizioni registrate nello stesso mese dellanno precedente, pari ad un aumento del 10,59%. I trasferimenti di proprietà sono stati 481.205 a fronte di 439.475 passaggi registrati a giugno 2025, con un aumento del 9,50%. Il volume globale delle vendite mensili, pari a 627.628, ha interessato per il 2
+
+---
