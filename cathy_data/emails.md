@@ -7661,3 +7661,40 @@ here   BUY NOW, PICK UP IN 2 HOURS
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] 您与“Make”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-09-10T10:25:51.000Z
+**摘要:** 这封邮件通知用户于9月10日使用Google账号登录‘Make’并共享了个人信息，目前无需采取任何措施。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3YfyjkvvlVoSw9trZQzhX9MD_v4Eb6CZ4sKpUSqykd1RMlSvnG4QjCejLXxHTYtrV1GYA-i>Make”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 9月10日12:25 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3Yfy
+
+---
