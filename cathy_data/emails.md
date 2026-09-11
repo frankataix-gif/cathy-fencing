@@ -24612,3 +24612,25 @@ Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSlc21r9YJ4oY5QWgefl6nAFswZaD-TLIo7wy_Ukq5OEWTesHiMs8_uNkn-i2VpWkD2jvKiSCz7qZ
 
 ---
+
+## [营销] 意大利罗马 自驾评价邀请- 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-06T06:32:02.000Z
+**摘要:** 用户被邀请填写意大利罗马自驾行程的评价，以获取600元租车优惠券。
+**待办:** 填写租车评价
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武**，您好！
+您的罗马自驾行程已完成，本次租车体验如何？
+期待分享您的租车感受，现在评价还可获得¥600租车优惠券
+
+填写租车评价 <https://w.zuzuche.com/survey.php?ref_fr=email&order_id=1008982021>
+
+希望您以后有用车需求时仍然会首选租租车，祝您生活愉快，谢谢。
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
