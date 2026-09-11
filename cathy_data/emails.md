@@ -15079,3 +15079,16 @@ Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tfe14
  https://t.email.koodomo
 
 ---
+
+## [学校] JingQi, you're invited to the Meadowridge Parent Social
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-05T18:15:06.000Z
+**摘要:** 邀请JingQi参加Meadowridge家长社交活动
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
