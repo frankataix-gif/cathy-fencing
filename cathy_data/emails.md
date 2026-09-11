@@ -10327,3 +10327,22 @@ Log in now
 <https://auth-gateway.telus
 
 ---
+
+## [其他] Please confirm your email address
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:57:38.000Z
+**摘要:** 需要确认邮箱地址以确保账户安全
+**待办:** 确认邮箱地址
+
+ Wise. Your account for the world's money 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: Wise logo] 
+
+Hello, 
+To continue opening your account, confirm your email address
+Confirm that we’ve got the right email address for you. This makes sure 
+you’ll receive important emails about your account.
+
+---
