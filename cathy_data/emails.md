@@ -25642,3 +25642,15 @@ Download Now
 <https://triplink.trip.com/forward/middlepages/channel/edm
 
 ---
+
+## [营销] 歡迎加入 Trip.com！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-26T12:41:17.000Z
+**摘要:** 欢迎加入Trip.com，鼓励用户预订首趟旅程以享受专属礼遇。
+**待办:** 无
+
+立即預訂您的首趟旅程並享受專享禮遇
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015441200-1779799276824.309%26ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xM
+
+---
