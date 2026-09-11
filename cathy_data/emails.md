@@ -3250,3 +3250,22 @@ The Telegram Team
 
 
 ---
+
+## [其他] Your Code - 491757
+
+**发件人:** Telegram <noreply@telegram.org>
+**日期:** 2026-03-13T21:45:07.000Z
+**摘要:** 您收到验证码491757，用于登录时的邮箱验证。
+**待办:** 无
+
+Hello
+
+Your code is: 491757. Use it to verify your email for Login.
+
+If you didn't request this, simply ignore this message.
+
+Yours,
+The Telegram Team
+
+
+---
