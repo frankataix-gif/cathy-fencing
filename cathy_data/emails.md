@@ -21105,3 +21105,42 @@ Please do not reply to this email.
 
 
 ---
+
+## [其他] All denim BOGO 50% off + ur voucher
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-06T00:07:45.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ We made these jeans for you.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw2w6oS6tr32XgtI1dyl6ZTs4ai7tPXJu27CYKqSP8esuJ-fFTsmvtrXmniizPY6eZUmJj38N6jBrp9817RvLWX4Q3UBwPc8z1hKw 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw374wvj3h8HX2bC231dsYAm5snXaBeHeSEbGkEcbwqj8pB8aw74kLtsj8Ja5cVQrn4lViBYCDG9XN6YMRl9-BvhAiqnjVlTE7I1IcodhU 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+---
