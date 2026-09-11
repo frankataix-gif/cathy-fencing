@@ -13043,3 +13043,15 @@ New and expertly tailored for you.
 ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] 🔔亞航全線開搶！東南亞機票82折起🌞
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-19T00:46:21.000Z
+**摘要:** Trip.com 发送的亚航机票促销邮件，提供东南亚航线82折起及精选酒店优惠。
+**待办:** 无
+
+馬來西亞/峇里島熱門航線激減‼️加行李/選位享85折😍精選酒店低至 HK$1XX 起💰話飛就飛👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154253205-1787100381158.978%26ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
