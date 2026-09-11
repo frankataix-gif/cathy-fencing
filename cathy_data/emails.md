@@ -2360,3 +2360,16 @@ https://keep.google.com/share?note=1eXNGAWHmn1I8rjhSWqK7yKlahv8e5MpGGFYp_-lFF8Hk
 
 
 ---
+
+## [其他] Che succede 24/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-24T09:52:33.000Z
+**摘要:** 邮件内容涉及意大利汽车销量数据及教育委员会提交的新课程方案。
+**待办:** 无
+
+Che succede 24/03/2026 — idealista/news            [ed editore di questa newsletter], che conferma il proprio impegno nel valorizzare le migliori professionalità del comparto
+
+A febbraio, le nuove immatricolazioni di auto nellUe sono diminuite dell1,2% rispetto allo stesso periodo dellanno precedente, attenuando le difficoltà iniziali registrate a gennaio. Lo rileva Acea, lassociazione della case automobilistiche europee. In controtendenza lItalia che ha fatto registrare un aumento delle immatri
+
+---
