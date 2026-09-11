@@ -14263,3 +14263,28 @@ Please do not reply to this email.
 
 
 ---
+
+## [营销] Reminder: Your experience with Koodo
+
+**发件人:** Koodo Team <koodo-team@opinion.panalyticsgroup.com>
+**日期:** 2026-08-11T16:23:22.000Z
+**摘要:** 邮件邀请用户参与Koodo的体验调查，完成可参与抽奖赢取500美元礼品卡。
+**待办:** 填写调查问卷以提供反馈
+
+ 
+
+
+Dear Valued Customer, 
+
+At Koodo, we rely on surveys to help us understand your needs and 
+preferences. We strive to provide a best-in-class experience to our 
+customers, and your feedback is critical to guiding future improvements to 
+our products and services. 
+
+To help us better support you along your journey with Koodo, please 
+complete this 10-minute survey to provide your feedback on your *Koodo* 
+experience. 
+
+Once you complete the survey, you will be entered into a prize-draw for a *
+
+---
