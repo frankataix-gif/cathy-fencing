@@ -8535,3 +8535,24 @@ CANADIAN LEGACY SINCE 1940
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqln0iK36aAcNhLkYoCpLOnw-3D-3DMSvq_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOVKB0tWCZUqWAwjEqSkJSoAlcG6KKLn2GH-2Bw3BaYElGr63gWMAO4aKEySV8XXtUyOWKxtnlL70w5W7zvYPV6pQkmAkf-2F5MbVNS6vPr-2FsnOWTQHRGCJ1hW9GVXRR89dHeNXEpsuIEvsEP8EmWX95sQS2ZqCYHkTv
 
 ---
+
+## [营销] Last call for back-to-school gear.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-08T11:07:16.000Z
+**摘要:** BestBuy.ca 发送开学季装备促销邮件，提醒用户最后机会购买。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
