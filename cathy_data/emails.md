@@ -2949,3 +2949,28 @@ Title
 
 
 ---
+
+## [其他] Your Hertz Reservation L5272940708#1128145897493612#$292073622$
+
+**发件人:** Dollar <car.50mcjhwrjfd31jl@carservice.trip.com>
+**日期:** 2026-03-15T15:46:23.000Z
+**摘要:** 关于Hertz租车预订的确认信息，包含多个链接供查看和处理。
+**待办:** 无
+
+
+
+
+
+
+
+Your Hertz Reservation 
+ Trouble Viewing?
+  
+https://click.emails.hertz.com/?qs=eyJkZWtJZCI6ImFmMDVlM2NmLWUzY2QtNGYzOC04Y2UyLTJmZWNhNjQxMTY5NiIsImRla1ZlcnNpb24iOjEsIml2IjoidWJZa1I2Tzh5S1FmUTFhWEpzN2dQUT09IiwiY2lwaGVyVGV4dCI6Inp6SGYwRm4rNUFsL0RLS1RrRmFjTm9lbEw3dFJoSlBKUkpDaW5ZQjFyZG0xTm4zMUZMbEpiUHM2WVU3aEh5NFJVT2t3OGQ3UU9lREt0SkoyZGora09xcUIweTJBVkFVdkIwQmRNYm0ySkVlanZNaWtIME5XbHliTzREMD0iLCJhdXRoVGFnIjoiZGora09xcUIweTJBVkFVdkIwQmRNUT09In0%3D 
+
+ View in Browser
+  
+
+https://cl
+
+---
