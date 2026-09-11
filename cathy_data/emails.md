@@ -17415,3 +17415,18 @@ them. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ �
  ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [待办] [Task Update] Email Monitor: T-Mobile account needs urgent refill
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T18:06:41.000Z
+**摘要:** T-Mobile提醒用户预付费账户需要充值，否则移动服务可能中断。
+**待办:** 及时充值以避免服务中断
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件、促销邮件，以及 ChatGPT 自动发送的监控通知。 目前有 1 封需要你关注的重要邮件： 📱 
+T-Mobile USA - 主题： Your T-Mobile account needs to be refilled. - 状态： 
+未读，Gmail 标记为重要。 - 摘要： 你的 T-Mobile 
+预付费账户需要充值，邮件提醒你的月度套餐即将续费。如果未及时付款，移动服务可能会中断。 - 建议： 如果这是你正在使用的... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHBEjqlzSX8OqC9qIW5T37-2FOTX32mCMNPmDyt-2FQXDcXNcYQsg1eNhmC0Jqn5McrZYciFqiCyeN6cxWi436rs-2BKBTIXFZ5FgNjDbd3xha4R07Cr3c1V0O8RXYhXbks9DXCgsp7CHChZAuH33-2FVbGsnzgj7cy-2FzI-2
+
+---
