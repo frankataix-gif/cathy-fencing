@@ -20586,3 +20586,15 @@ Stacking Weekend ends today, Insider.
 <https://app.sephora.com/T/v610000019f3e8ed1899afeb8969125ccc4/f65eee7587df43e10000021ef3a0bcc2/f65eee75-87d
 
 ---
+
+## [营销] Acquista con sconti fino al 50% in negozio.
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-07T18:01:08.000Z
+**摘要:** Calvin Klein提供店内最高50%的折扣优惠。
+**待办:** 无
+
+
+
+
+---
