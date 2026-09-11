@@ -19520,3 +19520,20 @@ If this was not you, visit our Account Security Guide
 <https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0t1xY3nTB7xF59g56Y9vaQn6tm1QOZqUDgslSYL1QogarBvVytiVgVbGDZp9aVzvoDGNxiYj-2BzMsYqDGS6s6b8PsGMx_-2F-2FN5zRB8Vr4d3tj4Q
 
 ---
+
+## [营销] Obsessed? Same.
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-12T13:28:34.000Z
+**摘要:** Sephora 推荐当前热门商品，并提及积分和配送信息。
+**待办:** 无
+
+ Sephora 
+
+Shop what’s hot right now. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f5683ebb8c42ada6e96c660f0/73c254292b344e640000021ef3a0bcc2/73c25429-2b34-4e64-89cf
+
+---
