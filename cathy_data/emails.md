@@ -2806,3 +2806,17 @@ https://keep.google.com/share?note=1WdHtYt8cBY--guHLO_8zGlZrHPuN-l44zWj_GFKha_08
 
 
 ---
+
+## [学校] 与您分享的记事：“美国学校ASM迎新日”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-16T08:14:27.000Z
+**摘要:** Frank分享了关于美国学校ASM迎新日的记事
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1ykuQC7xNNliux7N0PH7BRuWhF-NHdbYe6lM1Q0dOLyFfg8JpwFu_aWgGKZpJs0w&email=nataliewu100@gmail.com&tid=true
+
+
+---
