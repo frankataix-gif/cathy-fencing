@@ -16871,3 +16871,40 @@ Smart TV
    1200 Waterfront Centre, 20
 
 ---
+
+## [其他] 您与“iQIYI”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-24T20:03:28.000Z
+**摘要:** 这封邮件通知用户因使用Google账号登录iQIYI，共享了姓名、照片和邮箱信息，目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月24日13:03 使用 Google 账号登录了 
+“<https://c.gle/AKMee0ensrs8aTQLqTlBLH6UoZCdIRa7b1wtgIR32gD65zckkeNfFK4V9zElPYarD7PWIOnuGmK9giGtVw86Zc77SRLYdz2ttZ13ZVMTdp0NAg>iQIYI”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月24日13:03 使用 Google 账号登录了 
+“<https://c.gle/AKMee0ensrs8aTQLqTlBLH6UoZCdIRa7b1wtgIR32gD65z
+
+---
