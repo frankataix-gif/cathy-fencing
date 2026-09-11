@@ -1436,3 +1436,25 @@ Traccia la tua spedizione
 ------------------------------------------------------------------------------------
 
 ---
+
+## [学校] 2026  2027 Information
+
+**发件人:** Natalie Blomly <Natalie.Blomly@meadowridge.bc.ca>
+**日期:** 2026-04-06T16:49:46.000Z
+**摘要:** 提供Meadowridge学校2026-2027学年的相关信息和文档，包括学校日历和Zoom会议记录链接。
+**待办:** 无
+
+Hi everyone,
+
+Please see attached document regarding all things Meadowridge as discussed during the April 1st evening zoom call. I have also attached the school year calendar to assist you with planning.
+
+Zoom recording in the below link.
+https://ca01web.zoom.us/rec/share/WQhFu4PbdIRYCwm8waGoS-mhu2f8fIhxypoNTnE01cyFrTELeKGWCRRet5jVL-aL.Rb0HJswx1dEgEIB-
+
+Please contact me should you have any questions. And I hope you all are having a wonderful Easter weekend!
+
+Regards,
+
+Natalie Blomly
+
+---
