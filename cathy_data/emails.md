@@ -12780,3 +12780,72 @@ decisions.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [学校] Meadowridge School Bus Invoice
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-08-20T14:48:48.000Z
+**摘要:** 这封邮件是关于Meadowridge学校校车费用的发票，金额为4163.25加元，需在收到后及时支付。
+**待办:** 需要确认支付校车费用，确保在截止日期前完成支付以避免延误。
+
+ 
+
+  _____  
+
+Jingqi Wu
+
+Unit TH-103 708 Farrow St
+
+Coquitlam, BC, V3J 1P7
+
+ 
+
+  _____  
+
+ 
+
+Invoice #: MR-27-001
+
+ 
+
+                                                
+
+
+Student's Name
+
+Bus Stop
+
+Total ($)
+
+
+He Yunxi
+
+101; Ioco Rec Center Parking Lot,
+
+$3965.00
+
+
+GST
+
+ 
+
+GST
+
+$198.25
+
+
+Total Due
+
+ 
+
+$4163.25
+
+ 
+
+Payment Due: Upon Receipt
+
+Payment methods accepted: Cheque, Visa, Mastercard or Amex.  
+
+Please ensure payment is completed by t
+
+---
