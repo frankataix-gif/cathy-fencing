@@ -23662,3 +23662,14 @@ Le 10 villette al mare più economiche dItalia — idealista/news
 
 
 ---
+
+## [其他] Che succede 16/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-16T09:26:29.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 16/06/2026 — idealista/news                 Petrolio ancora in calo dopo laccordo raggiunto sulla tregua fra Usa e Iran che sarà siglata in Svizzera venerdì insieme alla riapertura del canale di Hormuz. Il Brent cede lo 0,5% a 82,8 dollari, il Wti lo 0,4% a 80,4 dollari. Gli analisti di Citi intanto hanno tagliato le stime sul Brent. La banca vede una probabilità del 60% di normalizzazione dei flussi nello Stretto di Hormuz entro metà/fine luglio e stima un Brent a 65 dollari nel 202
+
+---
