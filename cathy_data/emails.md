@@ -2272,3 +2272,34 @@ Che succede 26/03/2026 — idealista/news     Larchitetta Teresa Sapey nata a To
 Che succede 25/03/2026 — idealista/news                   Circa 580 milioni di dollari sono stati scommessi lunedì sul mercato del petrolio, soltanto 15 minuti prima del post pubblicato dal presidente americano Donald Trump su Truth sui colloqui in corso con lIran per porre fine alla guerra: un annuncio sufficiente a far crollare i prezzi del greggio grazie al rinvio del minacciato attacco americano contro le infrastrutture energetiche di Teheran. Una ricostruzione del Financial Times, in base a
 
 ---
+
+## [其他] Fwd: Conferma della sottoscrizione
+
+**发件人:** Leonardo Marelli <leonardomarelli@icloud.com>
+**日期:** 2026-03-25T10:46:29.000Z
+**摘要:** 这封邮件是关于用户加入iliad服务的欢迎通知，说明当前无需操作，等待身份验证完成后SIM卡将激活，并提及后续的号码转移和信用转移流程。
+**待办:** 无
+
+
+Leonardo Marelli +39 340 3019392
+
+Inizio messaggio inoltrato:
+
+*Da:* iliad <noreply@iliad.it>
+*Data:* 25 marzo 2026 alle ore 10:48:24 CET
+*A:* Leonardo Mario Marelli <leonardomarelli@icloud.com>
+*Oggetto:* *Conferma della sottoscrizione*
+
+﻿Iliad 
+LEONARDO MARIO MARELLI
+NUMERO *3520593281*
+CODICE ID *59693276*
+Area Personale > <https://www.iliad.it/account/>
+
+Ciao LEONARDO MARIO
+*Benvenuto in iliad 🚀*
+Ecco un riepilogo dei prossimi passi:
+
+   - Non ti preoccupare, *in questo momento non è richi
+
+---
