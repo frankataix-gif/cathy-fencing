@@ -9317,3 +9317,15 @@ Verdana, Arial, sans-serif !important; }     96
 
 
 ---
+
+## [营销] 9.9狂賞｜大派高達HK$4,890優惠券🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-06T00:50:11.000Z
+**摘要:** Trip.com推出9.9促销活动，提供高达HK$4,890的优惠券，包括Mastercard优惠、商务舱优惠及15% Trip Coins回赠。
+**待办:** 无
+
+即睇Mastercard優惠券、商務艙優惠券、15% Trip Coins回贈等👉🏼
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154250224-1788655803912.694%26ouid%3D497695.HK-20260906-edm-99megacoupons.2026-09-06_8_0.20260906.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D497695.HK-20260906-edm-99megacoupons.2026-09-06_8_0.20260906.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
+
+---
