@@ -2512,3 +2512,18 @@ Dove andare in Europa in primavera 2026? — idealista/news
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Natalie, 5 picturesque windmill homes
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-03-20T17:04:46.000Z
+**摘要:** Rightmove向Natalie推荐5处风景如画的历史房产，可能用于购买或租赁。
+**待办:** 无
+
+Escape the grind with these historic properties
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/EdiGfH63P9rthTJNsJrPDg~~/AAAHahA~/BHSlBAt62kVrlPeIXpxBoLi5zsPoduNmcGhyk3gRisa-h1CXVc0Wdo3sfaSoLh4WX-T0irXLZfrHnfu4VU_s10Z2BUy31J5dfBLWrMt2Y7UAREDKY8kgYOhUxUoxGQDjWGTkZKB6jvaVBqkp2dkyXSmuHsh6lE7Ij_Xm_9Dnswo~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/4QmD3x6hSynLuzuQ7IMzlw~~/AAAHahA~/EcRcRRBmYwolkA8jPUrk69-Vdekaozy3MGaefcsHec4eUCi3hfnj90WcsEOw8P-wjbq195cXgfyqEV5QLZfsmmS-KuUZiZ6-MK0wazRPs
+
+---
