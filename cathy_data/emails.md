@@ -24086,3 +24086,30 @@ Road trip e itinerari italiani in famiglia — idealista/news
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015423650-1781183420827.678%26ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D101305.Xsell-T15-EDM..20260611.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1NDIzNjUwLTE3ODExODM0MjA4MjcuNjc4IiwidGl0bGU
 
 ---
+
+## [其他] 关于您的意大利租车售后服务 - 订单号：1008974800 回复反馈
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-11T10:42:19.000Z
+**摘要:** 租租车通知用户意大利租车售后订单正在处理中，车行仍在核实信息，暂未收到回复，并承诺持续跟进。
+**待办:** 无
+
+ 3000万人都在用的全球自驾游平台 
+亲爱的武晶琦，您好！
+
+感谢您使用租租车国际租车预定服务。
+
+关于您的售后订单反馈事宜，我们已联系车行积极处理跟进中，车行售后中心仍在与门店核实沟通中，暂未收到相关回复。
+
+我们会持续跟进并催促车行优先跟进您的案件，如有任何进展，定会第一时间告知您。
+
+请您耐心等候，感谢您的理解。
+
+如有其它问题需要协助，欢迎随时联系我们，祝您生活愉快！
+
+若您有任何疑问，可联系在线或电话客服获取帮助！
+联系在线客服 (7x24小时) <http://l.zuzuche.com/LnrgGf> 中国大陆拨打：1010-1020 <1010101020> 
+其他地区拨打：+86-10-6064-1387 <+861060641387> 
+
+
+---
