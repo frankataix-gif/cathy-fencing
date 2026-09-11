@@ -7341,3 +7341,24 @@ https://myaccount.google.com/notifications
 > Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am eac
 
 ---
+
+## [营销] From small steps to big wins 🥳
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-10T16:43:11.000Z
+**摘要:** 庆祝Natalie成功运行首个自动化流程，并鼓励探索更多自动化场景和模板。
+**待办:** 无
+
+Every automation you build helps you deliver your goals.  
+
+( https://www.make.com/en/login?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Great work, natalie 🙌
+
+Congratulations on successfully running your first automation! Every scenario you build, every connection you make, helps you to save time, reduce errors, and scale your work effortlessly.
+
+ 
+
+Experiment with new scenarios, try AI-powered automations or explore pre-built templates below — the possibi
+
+---
