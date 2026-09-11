@@ -22515,3 +22515,31 @@ nataliewu100@gmail.com
 <https://c.gle/AOPyDKTc1
 
 ---
+
+## [其他] 💙 La palette dell'estate 🤍
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-27T07:13:48.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjB9ADIAAAAAAOtDXuJH4PMR5FJd_JBjiU1LON49krrHbKglbqv66TiAHhvnEd1SVCYo-4aKEPX-3WiKsOWe3SSxZKGMDU8PnzKedEzb86cvjOBFeXrKaQ 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjB9ADIAAAAAAOtDXuJIRpYrWSv2sRhxhoi7YVE-x57aNDeV2ML1bO61jjCC_S8xs7lRUXFWUdn1OIf7u0sFC03WOfwq
+
+---
