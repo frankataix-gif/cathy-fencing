@@ -13055,3 +13055,27 @@ New and expertly tailored for you.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154253205-1787100381158.978%26ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
 
 ---
+
+## [营销]  花几分钟时间评价 Spark。 
+
+**发件人:** Spark Team <team@connect.sparkmailapp.com>
+**日期:** 2026-08-18T20:55:06.000Z
+**摘要:** 请求用户评价Spark应用，以帮助社区发展。
+**待办:** 无
+
+Spark iOS
+Leave a Review zh        p {font-family: sans-serif !important;}
+96       告诉我们您的感受，帮助社区发展。  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌              Spark
+您有时间吗？
+
+作为我们 Spark
+社区的重要成员，我们希望您分享对我们应用程序的评价。我们知道潜在用户信任像下方的用户评价，我们希望听取尽可能多用户的意见。
+
+即刻评价 
+( https://clicks.sparkmailapp.com/f/a/heA
+
+---
