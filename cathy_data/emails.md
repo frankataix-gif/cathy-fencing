@@ -11168,3 +11168,179 @@ Today only!
 <https://app.sephora.com/T/v61000001a04db0146282b4ecf4bbcfb648/53b6b9ea767c47080000021ef3a0bcc2/53b6b9ea-767c-4708-93c8-751c41e07107?_
 
 ---
+
+## [其他] Your TELUS home services e.Bill is ready
+
+**发件人:** TELUS <telusbilling@info.telus.com>
+**日期:** 2026-08-28T22:16:51.000Z
+**摘要:** TELUS通知用户电子账单已准备好，可在线查看和支付，并推荐使用预授权支付服务。
+**待办:** 无
+
+Your home services e.Bill is ready.  
+ 
+Hi , 
+Here are your bill details at a glance:  
+Bill month: 
+Account number: 
+Total due, if received by : 
+ 
+
+Paying on time is easy - sign-up for pre-authorized payments, it’s easy to do. Simply register your credit card or Visa Debit. It’s fast, convenient and worry-free.  
+Log in  
+ 
+ 
+View and pay your bill online with My TELUS. 
+With My TELUS, you can:  
+View and pay your bill 
+Manage your bill preference 
+Monitor your monthly Interne
+
+---
+
+## [营销] Make a friend a neighbour - $500 referral fee
+
+**发件人:** "Smith & Farrow Rental Team" <rent@boffo.ca>
+**日期:** 2026-08-28T21:33:42.000Z
+**摘要:** 邮件通知居民推荐朋友成功入住可获得500美元奖励，以促进社区扩展。
+**待办:** 无
+
+ 
+Dear Residents, 
+Do you love living at Smith & Farrow? Know someone who might love calling it home, too? 
+For a limited time, we’re pleased to offer residents a $500 referral fee* when a personal introduction results in a successful tenancy agreement at Smith & Farrow. It’s our way of saying thank you for helping us grow our community by welcoming like-minded people who will make wonderful neighbours. 
+We’re proud of the community we’re building here and we want more people like you! 
+If 
+
+---
+
+## [其他] Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-28T20:37:15.000Z
+**摘要:** Natalie请求安排在线会议，讨论因签证申请要求变化需从国外申请学习许可的事项。
+**待办:** 安排在线会议讨论签证申请
+
+Hi Vivien,
+
+This is Natalie, we just spoke on the phone.
+
+I would like to schedule an online meeting with you, and we are available this afternoon，or u can advise ur time!
+
+Since we previously thought we could apply from within Canada, we just received a requirement to apply for the visa from outside the country.
+
+thank you!
+在 Aug 28, 2026, 21:45 +0200，Vivien Lee <vlee@vivienleeimmigration.com>，写道：
+> Name: Natalie Wu (Mandarin speaking)
+> Phone: 778-255-5899
+>
+> Hello Natalie,
+> Th
+
+---
+
+## [学校] Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T20:33:28.000Z
+**摘要:** 邮件询问是否在学签申请中附上录取通知（LOA），并提及有LOA的案件处理时间较短。
+**待办:** 无
+
+Natalie 您好，
+
+附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+
+请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+
+我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with
+
+---
+
+## [学校] Ms. Natalie Blomly
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T19:48:47.000Z
+**摘要:** Adrian指示Natalie联系Ms. Blomly并解释情况
+**待办:** 联系Ms. Blomly并解释情况
+
+Hi Natalie,
+
+Please email Ms. Blomly and explain your situation:
+Natalie.blomly@meadowridge.bc.ca
+
+
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+---
+
+## [其他] Immigration Advie for Study Permit inside Canada
+
+**发件人:** Vivien Lee <vlee@vivienleeimmigration.com>
+**日期:** 2026-08-28T19:45:10.000Z
+**摘要:** 邮件内容为加拿大移民律师Vivien Lee向Natalie Wu提供关于在加拿大境内申请学习许可的法律咨询建议。
+**待办:** 联系Vivien Lee进行移民咨询
+
+Name: Natalie Wu (Mandarin speaking)
+Phone: 778-255-5899
+
+Hello Natalie,
+Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daughter to study Grade 7. If you are holding a visitor visa, you cannot apply using the In Canada option for application. However, we have successfully assisted clients in making the Study Permit application while they are still in Canada, and provided a
+
+---
+
+## [营销] Discover more with DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-28T18:34:08.000Z
+**摘要:** DoorDash推广其预订服务，提供预订餐厅后获得最多10美元优惠券的活动。
+**待办:** 无
+
+ DoorDash Email From hard-to-get tables to added perks, there’s more to 
+explore. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4tk/W8zu_Z3GQsi5v-dVaovKHA/h0/h001.9DX-EkZ3pxmXVpMOIg8Yd63ed3SzUbcT0-0S534ThCY> 
+
+A TA
+
+---
