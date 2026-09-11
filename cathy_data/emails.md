@@ -22451,3 +22451,20 @@ Cotton On and Co. Perks
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147192177-1782591803408.263%26ouid%3D442171.trippulse_edm_0627_hk.2026-06-27_-8_0.20260628.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D442171.trippulse_edm_0627_hk.2026-06-27_-8_0.20260628.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE0NzE5MjE3Ny
 
 ---
+
+## [其他] ICYMI: You get 30% off for 30 days
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-06-27T19:03:16.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash 🎁 Open for your bonus offer. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
