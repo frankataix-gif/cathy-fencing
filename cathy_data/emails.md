@@ -21658,3 +21658,15 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKSBeMVST19
  
 
 ---
+
+## [其他] 今日開搶高鐵+酒店券包‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-03T00:24:13.000Z
+**摘要:** 
+**待办:** 无
+
+10AM 起用 HK$1買4張 HK$175 優惠券🔥珠海格力集團度假酒店7折起😍
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015264217-1783038252365.73%26ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D446889.HK-20260703-EDM-Traintravel.2026-07-03_8_0.20260703.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4
+
+---
