@@ -12285,3 +12285,15 @@ You’ll need an extra five.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] Thank You for Your Order
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-24T01:11:03.000Z
+**摘要:** 特斯拉确认了您的订单，订单已处理。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DVnEi_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2f3aR-2BGKNWkI7EGToXjeEBuzlhUMMi0zXiNkGkEBamRxPbYEMJhzUZP5S3iCMA76Tr2N-2BQMz0BUMfWntEXbweMFWrIpPRLl-
+
+---
