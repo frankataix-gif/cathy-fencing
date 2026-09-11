@@ -2237,3 +2237,16 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/zXXvu4Ks1xaZltlJfzCy1g~~/AAAHahA~/1trl5IBk35ZIMVD8XCua1NLEMaoh58yFZQTIanwPnltAR8SJFhYzRL2JaDByq243zwBEa2lTTgQODiAyFmHxwwiI-ZBusIe1
 
 ---
+
+## [其他] Dolci di Pasqua 2026: i 10 dolci tradizionali italiani da scoprire
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-03-26T12:30:48.000Z
+**摘要:** 介绍意大利各地区2026年复活节传统甜点，如米兰的 colomba 和那不勒斯的 pastiera。
+**待办:** 无
+
+10 dolci di Pasqua 2026: i migliori regione per regione — idealista/news    La Pasqua in Italia è un viaggio tra tradizioni e dolci simbolici che raccontano storie di famiglia, territorio e rinascita. Dalla colomba milanese alla pastiera napoletana, dalla cassata siciliana alle scarcelle pugliesi, ogni regione porta in tavola una specialità unica. Scopri i migliori dolci pasquali italiani, tra grandi classici e tesori tutti da gustare.
+
+-----------------------------------------------------------
+
+---
