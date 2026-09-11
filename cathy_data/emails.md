@@ -10009,3 +10009,30 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpaddin
 
 ---
+
+## [其他] We need additional information to proceed
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T10:02:15.000Z
+**摘要:** Payoneer需要额外信息以完成银行账户验证，避免付款延迟。
+**待办:** 提交银行账户验证所需资料
+
+ 
+<https://www.payoneer.com> 
+
+Dear XIAOJUN HE,
+
+To ensure smooth payments to your receiving accounts without delays, we 
+need some additional details to finish verifying your bank account.
+
+Please submit the required information via Verification Center 
+<https://link.payoneer.com/Token?t=5A4E6854878A4EC7B71B66D82773D384>. 
+
+Verification Center is Payoneer's secure and personalized document upload 
+system.
+  
+
+GO TO VERIFICATION CENTER 
+<https://link.payoneer.com/Token?t=5A4E6854878A4EC7B71B66D8
+
+---
