@@ -7385,3 +7385,27 @@ settings. Nevertheless, you should pay attention to the issue.
    [https://us2.make.com/2922292/scenarios/6224881/log
 
 ---
+
+## [其他] 🛑 Encountered error in Integration Webhooks scenario
+
+**发件人:** Make <noreply@us2.make.com>
+**日期:** 2026-09-10T16:28:13.000Z
+**摘要:** 邮件指出Integration Webhooks场景遇到错误，提示‘unknown action’，建议用户查看日志并联系支持。
+**待办:** 无
+
+Make [https://cdn.make.com/img/make/make-logo-150x48@2x.png]
+Make [https://cdn.make.com/img/make/make-logo-dark-150x48@2x.png]
+
+
+ENCOUNTERED ERROR IN INTEGRATION WEBHOOKS SCENARIO
+
+Your scenario Integration Webhooks has encountered an error.
+
+The scenario has not been paused and continues to run according to your
+settings. Nevertheless, you should pay attention to the issue.
+
+ * Scenario: Integration Webhooks
+   [https://us2.make.com/2922292/scenarios/6224881/logs]
+ * Organization: 
+
+---
