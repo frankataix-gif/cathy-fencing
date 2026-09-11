@@ -15588,3 +15588,30 @@ Please do not reply to this email.
 
 
 ---
+
+## [其他] Welcome to pre-authorized payments.
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-08-03T20:08:59.000Z
+**摘要:** 此邮件通知用户已开通预授权支付服务，每月账单将自动从指定信用卡或银行账户扣费，并提示可通过Self Serve平台修改支付信息。
+**待办:** 无
+
+
+
+Trouble viewing this email? View in web browser.  
+  
+Account number:  
+ 
+The convenience of pre-authorized payments.  
+On , you signed up for pre-authorized payments. Your monthly bill will be automatically charged to credit cardbank account ending in .
+
+Log in to Self Serve when you need to change or update your payment information, like updating your credit card number or expiry date.
+
+All the best,
+The Koodo Team
+ 
+ 
+Self Serve   |   Help  
+Privacy statement   |   koodo.com
+
+---
