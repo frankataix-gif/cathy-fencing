@@ -19112,3 +19112,31 @@ Shipping M
 ͏‌  ͏
 
 ---
+
+## [其他] 已清空：Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes 通过 Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-15T23:21:59.000Z
+**摘要:** 通知关于2026年7月9日规则和规章附加文件已清空，原因为租客更改租期日期。
+**待办:** 无
+
+您好 Jingqi Wu，
+
+Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf 已清空，原因如下： 
+Tenant changed tenancy date
+
+信封 ID
+943b5e46-151e-896e-8340-9cb4faf70f08
+
+此消息是由 Anastasia Makarevska | S&F Rental Homes 使用 Docusign 电子签名服务发送给您的。如果您不想收到来自该发件人的电子邮件，您可以联系发件人，提出您的请求。
+
+不要共享此电子邮件
+该电子邮件内包含指向 Docusign 的安全链接。请勿与他人分享此电子邮件、链接或访问代码。
+
+对文档有疑问？
+如果需要修改文档或者对文档中的细节存在疑问，请联系发件人。您可以直接向他们发送电子邮件。
+
+停止接收此电子邮件
+举报此电子邮件 https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi12-dMvPb1Ta
+
+---
