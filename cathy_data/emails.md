@@ -9620,3 +9620,1551 @@ Questions about purchased items may be directed to the Cafeteria Manager by emai
 For questions about MyKidsSpending, please sen
 
 ---
+
+## [营销] Gear so comfortable, it has superfans
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-04T16:53:11.000Z
+**摘要:** lululemon推广其舒适的产品，声称有超级粉丝。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] Your DoorDash Streak starts Saturday
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-04T13:55:25.000Z
+**摘要:** DoorDash发起活动，用户需完成4个订单以有机会赢取新车。
+**待办:** 无
+
+ DoorDash Place 4 qualifying orders for your chance to win a new car! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
+
+## [营销] Your DoorDash Streak starts Saturday
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-04T13:55:25.000Z
+**摘要:** DoorDash推出活动，用户需下4个符合条件的订单以赢取新车，活动将于周六开始。
+**待办:** 无
+
+ DoorDash Place 4 qualifying orders for your chance to win a new car! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
+
+## [营销] Get up to 50% on select beauty and get 500 bonus points with $75 spend ❣️
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-09-04T13:13:36.000Z
+**摘要:** Sephora推出促销活动，满75美元赠送500积分，并有部分商品5折优惠。
+**待办:** 无
+
+ Sephora 
+
+Did you know 500 points = $10 off a future purchase? 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a06c8da290abe1e4f4bbe5be68/9243ffb87fe343810000021ef3a0bc
+
+---
+
+## [营销] New Wishbone, Worth the Double Take
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-04T13:09:03.000Z
+**摘要:** Browns Shoes正在促销UGG款式，邀请客户购买。
+**待办:** 无
+
++Select UGG styles, now on sale. Don’t miss your pair.   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq4WYfT44jsMmEtrpAh0Zf0Q-3D-3DegPI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHAu-2FjU9HEIfuFoPCh8ETxXB6KLU7NtYNGb-2BmO7cdDS38NBDvf8emhoH4XMFoUp6X8JKUwnME9GMIZfWh-2By3zq8D-2BgwzPS83z49DjiviVUelxAc-2BgL8r5vdjsOFBmElyN0L-2Bm5K5iMBphyN6eLXtAsyg6e
+
+---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-04T06:31:34.000Z
+**摘要:** 通知用户收款账户已开通，需开始使用并进行相关设置。
+**待办:** 无
+
+Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" widt
+
+---
+
+## [其他] You Have Added A Passkey
+
+**发件人:** Tesla Account Security <account-security@tesla.com>
+**日期:** 2026-09-04T05:03:15.000Z
+**摘要:** 特斯拉账户新增了passkey，用于更快速安全的登录。若非本人操作，建议检查账户安全。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DvvDt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3ml5g3Lw7IKsH2u4RXCtTGDLV8pl-2F-2B6Aa60r0gZxjkQ8EuxIp4QuzYf-2FfQthqa1-2FzuSELhe-2B58AWpXQ41VCjqgiOstjyDtXBASYvGGUNrmlEBs
+
+---
+
+## [其他] 您已提交更改 Tesla 账户登录密码的申请
+
+**发件人:** Tesla <account-security@tesla.com>
+**日期:** 2026-09-04T05:02:58.000Z
+**摘要:** Tesla通知用户已成功更改账户密码，账户为nataliewu100@gmail.com。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DZlRX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvswgIN97xBBWdzra0oDh-2BCipYi-2FJEYtfGHCNGf5IgNjW4MgAzdvTQL63Ds0CKZmd5TjMAi92g-2FeCHqKVvOd2rpJBejYASEzOGPpKmQ2DYr1ah7lNoaOynIqsIJu7hnWf9i72PwQP
+
+---
+
+## [其他] Tesla 验证码：929475
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-09-04T05:02:21.000Z
+**摘要:** Tesla发送验证码929475用于账户恢复，提醒勿泄露并注意时效性。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dwk83_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsGu0aWrCjqURS9PXkEkjBw6BudUxE5XZBndgn4S3hWL6Xd-2Ff3E12SnHnxDGgyufg7e5tzbJcWvEH1m2F1CW-2FDTSRlD3UQYwvR9teypHLc7FhZl1vroVPw3cfZv3bT95GqnHVujeGD
+
+---
+
+## [营销] Baby Cashmere 呈献考究针织精品
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-04T04:05:29.000Z
+**摘要:** Loro Piana 邮件介绍 Baby Cashmere 系列的考究针织精品。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+焕新日常廓形
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-04T03:06:25.000Z
+**摘要:** 邮件询问客户对Lululemon新产品的使用体验，并邀请提交包含照片的评论，以帮助其他顾客和产品改进。
+**待办:** 无
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new lululemon Align No Line™ High-Rise Short 6"? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: lululemon Align No Line™ High-Rise Short 6"] 
+lu
+
+---
+
+## [其他] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-03T23:36:30.000Z
+**摘要:** TELUS通知用户号码***-***-5899已连接至美国漫游网络，提醒注意漫游费用或查看短信获取套餐详情。
+**待办:** 无
+
+ TELUS 
+[image: TELUS Logo] 
+Hello,
+Looks like ***-***-5899 has connected to a roaming network in USA.
+Just so you know, if they have a roaming package that covers this 
+destination, their usage will be billed at the rates of that package. 
+Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts 
+$0.75/MSG (1 message = 160 characters) (max. 160 characters each). All 
+incoming texts are free.
+***-***-5899 will also receive a text message outlining their active 
+roaming package
+
+---
+
+## [学校] Get ready for your first week of school
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-03T23:00:10.000Z
+**摘要:** 这封邮件是关于提醒学生准备开学第一周的通知。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [其他] The Latest and Greatest Tech is here, and it may cause upgrade urges.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-03T18:09:32.000Z
+**摘要:** 邮件主题提到最新科技产品，但正文内容包含乱码且无有效信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] XIAOJUN, Ready to simplify your global business payments?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-03T14:29:37.000Z
+**摘要:** 这封邮件是Payoneer向XIAOJUN推广其全球业务支付服务的广告邮件。
+**待办:** 无
+
+Get started
+with Payoneer now 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" w
+
+---
+
+## [营销] Colour Drop: Soft Tones
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-03T14:10:04.000Z
+**摘要:** Aritzia推出秋季柔和色调新品，适合喜欢温柔风格的客户。
+**待办:** 无
+
+New softies for your tender-hearted fall.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
+
+## [营销] Just dropped: point of view.
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-03T13:34:31.000Z
+**摘要:** Sephora推出新促销活动，强调多角度展现美丽，并提供积分和当日送达服务。
+**待办:** 无
+
+ Sephora 
+
+Own your beauty from every angle. Only at Sephora. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0677a6a5ea83790369ff1d668/d67f38a6888f42970000021ef3a0bcc2
+
+---
+
+## [营销] Step into the creative universe of Colin Meredith and Hoka
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T13:12:15.000Z
+**摘要:** 推广Colin Meredith与Hoka的联名系列，提供快速购买和自提服务。
+**待办:** 无
+
+My City, My People   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NG78c20knzW-2FHy4b91I5RIItI4CWOMo-2FLsxdnnE3agdA-3D-3DSuAB_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFgbqXnU-2BCooZUn-2BeoviB0k1oKRDu4fxP16RteHVLsoVf-2FJXLjMoSetVuOnIq0NFlRbey-2FPpaFCugkeWwjHga9CAVngs0NpJTaxPig-2BUVu70puyfKLjekQdrb8rHxBkyEp-2Bxpn7wCcwRcz9OS4EnjmtpLo2hwTgbThPRlYb9qM5YpX6h8zKLgobpLRavt1
+
+---
+
+## [其他] Sales instruction - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-03T12:00:48.000Z
+**摘要:** Freya请求安排查看Flat 120, 1 Emery Way, LONDON, E1W 2AS，因为她今天下午1:30前在该区域。
+**待办:** 安排查看Flat 120, 1 Emery Way, LONDON, E1W 2AS的房产，需在今天下午1:30前进行。
+
+Hi Frank,
+Please can I arrange access to see this unit, because I am in the area today before 1:30pm.
+
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T: 020 7893 6010
+M: 07875 80 2146
+E: Freya.Wan@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is
+
+---
+
+## [其他] Your Payoneer account is approved
+
+**发件人:** Payoneer <no-reply@send.payoneer.com>
+**日期:** 2026-09-03T10:04:05.000Z
+**摘要:** Payoneer通知用户账户已批准，鼓励开始使用该服务来发展业务。
+**待办:** 无
+
+Time to start growing your
+business with Payoneer
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpaddin
+
+---
+
+## [其他] We need additional information to proceed
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T10:02:15.000Z
+**摘要:** Payoneer需要额外信息以完成银行账户验证，避免付款延迟。
+**待办:** 提交银行账户验证所需资料
+
+ 
+<https://www.payoneer.com> 
+
+Dear XIAOJUN HE,
+
+To ensure smooth payments to your receiving accounts without delays, we 
+need some additional details to finish verifying your bank account.
+
+Please submit the required information via Verification Center 
+<https://link.payoneer.com/Token?t=5A4E6854878A4EC7B71B66D82773D384>. 
+
+Verification Center is Payoneer's secure and personalized document upload 
+system.
+  
+
+GO TO VERIFICATION CENTER 
+<https://link.payoneer.com/Token?t=5A4E6854878A4EC7B71B66D8
+
+---
+
+## [其他] Your Payoneer account was connected successfully, XIAOJUN!
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T10:00:12.000Z
+**摘要:** Payoneer账户已成功连接，可开始接收付款，未来可能需提供更多信息以确保安全。
+**待办:** 无
+
+ 
+[image: payoneer] 
+<https://notificationeventsservice.payoneer.com/api/v2/LinkEvents/Redirect?tk=v1.GnfAQzHBU1D3uB7fcHH0F97X8QnCHIm%2B2cSwGdluWBID%2FKoY2%2FjLkgmCgGt5x%2FLV9UNQjz1DNaRbPQhj7ijIBBJYpoVDHbs%2FLrdhUpoE%2BHWoSaZOHbS8631a5kwuGhPjLzzBy%2BYIwAIGolcLcX7WG4LFI%2BDQLFwn5DCvQnYeYq7lfosMxV0biusySpcsS4%2BSt7byUQ%2ByuuQcOWh%2By1KBcacLbUUSIEPJtI9w3AuRk6W0fT6WmD1FXv8ZB45Uf7C8efP9dfXpwsZmgOW3RNPYro3Hge9KFRcR%2FSLl9rUriTMmVpN3xaAE8Ybtbzn1sYd75x0BOCUNze6g5rjAqC20LA%3D%3D&URL=https%3A%2F%2Fwww.pay
+
+---
+
+## [营销] 唔好諗啦，即訂 洛杉磯機票優惠✈️！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-03T05:26:11.000Z
+**摘要:** Trip.com推送洛杉矶机票优惠，预订可获Trip Coins回贈。
+**待办:** 无
+
+即訂洛杉磯機票再賺 Trip Coins 回贈✈️！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10147164169-1788413165103.978%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26trip_in_sid%3D11
+
+---
+
+## [营销] Tell us your birthday month! 🎂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T00:15:34.000Z
+**摘要:** 邮件邀请分享生日月份以获取惊喜，并提供购物链接。
+**待办:** 无
+
+And get a surprise 🤫
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1-2Fv5jBpcQTSnaj837Uvm-2FReRng0UfC6o3U2DHrUViwTI-3DToJx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADlgGOALOgtrXe-2BJ4bfI6yqLDxnvA15x7ZDTU3LThLhXfz670KudSc6q8xCH1t1yT9zE1nfCHEXVYNO-2BbeUjSVln-2BAMuaVLavIH5mCvnnzyPdgmpJFrzHVhPOLHSMXnsp2gbuf-2Fs3z1RwYJb6VWg66eTpxNlf5l3y-
+
+---
+
+## [其他] You’ve made some changes to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T23:21:31.000Z
+**摘要:** 这封邮件通知用户关于TELUS移动账户的计划更改、优惠号码更新以及账单部分费用变动的信息。
+**待办:** 无
+
+You’ve made some changes to your TELUS Mobility account  
+ 
+Hi ,  
+Here’s a summary of changes you made to your TELUS Mobility account on .  
+ 
+ 
+
+Your new Plan and add-ons: 
+ 
+Effective Date:  
+Expiry Date:
+
+Your old plan and add-ons that were removed: 
+ 
+Effective Date: 
+
+Your Favourite Numbers have been updated 
+Updates have been made to your favourite numbers, which allows you to make unlimited calls and texts to your favourite numbers. To view or change your favourite numbe
+
+---
+
+## [其他] TELUS Easy Roam has been successfully removed
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T23:21:32.000Z
+**摘要:** TELUS Easy Roam服务已成功移除，并附有相关使用注意事项。
+**待办:** 无
+
+Trouble viewing this email? View in web browser.
+
+You've made some changes to your TELUS Mobility account
+Hi ,
+You have just added Easy Roam to this mobile phone: . You are now covered for your next trip and all future trips to the US and 190+ international destinations.
+ 
+Here are a few things to keep in mind:
+The Easy Roam fee will only activate when you use data, make or answer a call or send a text while in the US or one of the 190+ international destinations that are covered.
+To ens
+
+---
+
+## [营销] 500 bonus TELUS Rewards points waiting for you 🎁 | 500 points bonis  TELUS Privilèges vous attendent 🎁
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-09-02T22:34:32.000Z
+**摘要:** TELUS Rewards邀请您激活账户，以获取500点奖励及年度福利。
+**待办:** 无
+
+Activate your account and get $500+ in annual perks | Activez votre compte et obtenez plus de 500 $ en avantages annuels
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b6&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9JTQwYmd3ZGp1UlJnQmdKciUyQllkbGxqU096U3Q3THNYY0xDOU5sdlpnJTJCa2QwMW8lM0Q&s=gxHTrwFKs7DxU2Rbn9qLcN3LD0iNqEYsHaxHVHb4GUw web browser . 	
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b7&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmc
+
+---
+
+## [其他] Account Update Confirmation
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T22:13:58.000Z
+**摘要:** 此邮件为Koodo账户更新确认，通知用户8月16日服务变更后的账单调整及服务生效情况。
+**待办:** 无
+
+Hey there,
+On August 16, 2022, you changed the following services. After making changes to your plan or add-ons, your next bill will include the following charges: your regular monthly service, additional usage, a one-time partial/prorated charge and/or credit from August 16, 2022 to the end of your bill cycle on September 13, 2022. Please note: you may only have partial minutes and partial data until your bill cycle resets on September 13, 2022 at 11:59pm.
+Got a question? Use Koodo Assist, ou
+
+---
+
+## [其他] Cancelled service and your next bill
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T22:13:48.000Z
+**摘要:** 邮件通知用户无线服务已取消，下期账单将包含按比例计算的月费、账户余额及可能的额外费用，并提醒可能产生后续账单。
+**待办:** 无
+
+Account number: 
+We’re sorry to see you go.
+You recently scheduled to cancel your wireless service on , for the following phone number(s):
+
+
+What to expect on your next bill:
+
+Prorated recurring monthly charges: recurring charges such as your monthly plan and tab charge will be prorated to reflect only the portion of the month in which your wireless service was still active.
+Tab debit: you’ll see this charge only if you have a remaining Tab balance
+Phone credit charge: you’ll see this c
+
+---
+
+## [其他] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-09-02T21:56:42.000Z
+**摘要:** 收到TELUS的验证码，用于登录账户，并提醒若未操作需修改密码以保障安全。
+**待办:** 无
+
+ TELUS 
+Here's your verification code to validate your identity. 
+[image: TELUS] 
+<https://u27333001.ct.sendgrid.net/ls/click?upn=u001.SCElYa292QU0eUJVHWJNp8d2rCV-2B35zzM25WPhV0c0A-3DDUej_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NaItnZsmfFQbimkP3EJkLEZltI3qQCNs1LHVEbSmXsnYEjLA7msoJv-2BjZppfnMjNR8CW2kGdUdWNo6Vo1uq8NFm2DMsjUAiHfEdG7BmeNhJEqyyT9XWLtY4jVW-2Bj4dZBZYZIQ0PJbm5avjUS2RTdObijcqpewh1Whc-2Bq0ooIE-2BQg-3D-3D> 
+Your My TELUS verification code 
+Hi TELUS, 
+Your one-time verification co
+
+---
+
+## [其他] Your My TELUS password is updated
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:38.000Z
+**摘要:** 您的My TELUS密码已成功更新，若非本人操作请立即联系客服。
+**待办:** 无
+
+ 
+[image: TELUS] <http://www.telus.com> 
+
+Hi TELUS, 
+You have successfully updated your My TELUS password. 
+
+If you did not update your password, please *contact us* 
+<http://www.telus.com/get-help/contact-us/index.jsp?INTCMP=EmlBtnChgEmlConf>. 
+
+
+Thanks, 
+The TELUS Team 
+
+------------------------------
+
+We would like to hear from you. If you would like to contact us, please 
+click the 'Contact us' link below. We respect your privacy and will not 
+provide your personal information to other parti
+
+---
+
+## [待办] Reset your My TELUS password
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:16.000Z
+**摘要:** 提醒用户重置My TELUS账户密码，并提供重置链接和联系方式。
+**待办:** 重置My TELUS账户密码
+
+ 
+[image: TELUS] <http://www.telus.com> 
+
+Hi TELUS, 
+Let's get you back in your My TELUS account. 
+
+Here's the email/username you’ll need to log in: 
+nataliewu100@gmail.com 
+
+Reset your password here: (optional) 
+
+[image: Reset my password] 
+<https://identity.telus.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=telus&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=2fe7c7c8-575f-44de-9858-69ead141a9aceb0777c3-bef7-4d41-928d-a569c7e5fa40&CMP=EmlBtnFgPwReset> 
+
+If yo
+
+---
+
+## [待办] Reset your My TELUS password
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:16.000Z
+**摘要:** 这封邮件提醒用户需要重置My TELUS账户密码，并提供重置链接。若未请求重置，请联系TELUS。
+**待办:** 点击链接重置My TELUS账户密码
+
+ 
+[image: TELUS] <http://www.telus.com> 
+
+Hi TELUS, 
+Let's get you back in your My TELUS account. 
+
+Here's the email/username you’ll need to log in: 
+nataliewu100@gmail.com 
+
+Reset your password here: (optional) 
+
+[image: Reset my password] 
+<https://identity.telus.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=telus&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=2fe7c7c8-575f-44de-9858-69ead141a9aceb0777c3-bef7-4d41-928d-a569c7e5fa40&CMP=EmlBtnFgPwReset> 
+
+If yo
+
+---
+
+## [待办] Activate your phone and transfer your phone number to TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T21:53:34.000Z
+**摘要:** TELUS通知用户新设备已准备好，需按照步骤激活并转移电话号码。
+**待办:** 按照邮件中的步骤激活手机并转移电话号码
+
+ Telus 
+Trouble viewing this email? View in web browser 
+<https://m.i.telus.com/nl/jsp/m.jsp?c=%400de3ftyi290zbNilRvCaxJEOt3iX7CzczRx93THAf1w%3D> 
+Welcome to the TELUS family – we're excited to have you with us! 
+
+Your new device is ready to go with your TELUS phone number: xxx-xxx-4907. 
+Below you'll find everything you need to get started. 
+Bring your existing number 
+Bring your number from your previous provider with these steps:
+Before you start: 
+   
+   - Keep your old SIM card active (or e
+
+---
+
+## [其他] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T21:49:31.000Z
+**摘要:** 提醒用户登录My TELUS账户，提供一次性登录链接。
+**待办:** 无
+
+ TELUS 
+Your login link is ready to use. Log into My TELUS now. 
+Trouble viewing this email? View in web browser 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c5&e=cDE9JTQwMnFJUW14SEpDOFdYck1GeVNPbnhmWmRrQSUyQjRsU2NUS3dObmZzbDB5b0pRJTNE&s=J7gAN01akIYU0Sn5BbxsttH1-kv1xwXO5LrK4W3wA9s>
+. 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c6> 
+Hi TELUS, here’s your link to log into My TELUS. 
+Sign into your My TELUS account using the button below. 
+
+Log in now 
+<https://auth-gateway.telus
+
+---
+
+## [待办] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T21:49:31.000Z
+**摘要:** TELUS发送登录链接，需在15分钟内完成登录。
+**待办:** 点击链接完成登录操作
+
+ TELUS 
+Your login link is ready to use. Log into My TELUS now. 
+Trouble viewing this email? View in web browser 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c5&e=cDE9JTQwMnFJUW14SEpDOFdYck1GeVNPbnhmWmRrQSUyQjRsU2NUS3dObmZzbDB5b0pRJTNE&s=J7gAN01akIYU0Sn5BbxsttH1-kv1xwXO5LrK4W3wA9s>
+. 
+<https://t.i.telus.com/r/?id=h16f6befc,15a81f05,59c50c6> 
+Hi TELUS, here’s your link to log into My TELUS. 
+Sign into your My TELUS account using the button below. 
+
+Log in now 
+<https://auth-gateway.telus
+
+---
+
+## [其他] Please confirm your email address
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:57:38.000Z
+**摘要:** 需要确认邮箱地址以确保账户安全
+**待办:** 确认邮箱地址
+
+ Wise. Your account for the world's money 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: Wise logo] 
+
+Hello, 
+To continue opening your account, confirm your email address
+Confirm that we’ve got the right email address for you. This makes sure 
+you’ll receive important emails about your account.
+
+---
+
+## [待办] 请确认您的电子邮箱
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:55:16.000Z
+**摘要:** Wise要求确认电子邮箱以确保接收账户重要通知。
+**待办:** 点击链接确认电子邮箱
+
+ Wise，您的国际账户 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: Wise logo] 
+
+您好， 
+若要继续开立账户，请确认您的电子邮箱
+请核实我们记录的电子邮箱是否正确，以确保您及时收到关于账户的重要电子邮件。
+
+确认电邮 
+<https://wise.com/link?urn=urn%3Awise%3Aauthentication%3Achallenges%3Aemail-checkpoint%3F%3Daction%3Dverify%26secret%3Dlnwd8ucIZKyq6PPvhM8FRVvpd71tCISX0j
+
+---
+
+## [营销] Make today taste a little different
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-02T20:30:03.000Z
+**摘要:** DoorDash推送新体验，鼓励用户尝试不同的用餐选择。
+**待办:** 无
+
+ DoorDash A little change never tasted so good 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash
+
+---
+
+## [待办]  We’ve paused some of your account features
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T19:51:41.000Z
+**摘要:** PayPal账户部分功能被暂停，需用户登录并提交信息以恢复。
+**待办:** 登录PayPal账户，进入通知页面并按照指示提交所需信息以恢复账户功能。
+
+ We’ve paused some of your account features xiaojun he, here’s how to 
+restore them. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Your account features are paused
+
+There’s a new PayPal account that’s been created using your name. We wanted 
+to make sure your account is owned by you and no one else.
+
+To keep your account and money safe, the following features are temporarily 
+paused:
+
+   - Send money or pay using PayPal 
+   - Withdraw money 
+   - Receive money 
+   - And a few other features 
+
+Here’s wha
+
+---
+
+## [待办] Please confirm your email address
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T19:51:35.000Z
+**摘要:** 这封邮件要求确认邮箱地址以完成PayPal账户设置。
+**待办:** 确认邮箱地址并完成账户设置
+
+ Please confirm your email address xiaojun, please complete your PayPal 
+account setup. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Confirm your email.
+
+You've just created a new PayPal account. Please confirm your email address 
+to let us know you're the rightful owner of this account.
+Confirm My Email Address 
+<https://www.paypal.com/cgp/welcome-back?userIntent=profile_complete&expId=confirmEmail&cust_id=M5629AVJ2R5JA&cc=02985650514686332969&em=XcbP_EjwihhDJzif8J2HmqEFlhOgxKEkCsYED_l7ChXpx4khfqoTI-x
+
+---
+
+## [学校] Meadowridge Student Website
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-02T19:34:19.000Z
+**摘要:** Christina Reis 发送了 Meadowridge 学校学生技术网页的链接，供学生使用。
+**待办:** 无
+
+Hi Cathy,
+
+Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
+
+Mrs Reis
+
+
+Christina Reis, M.Ed.
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+
+
+MEADOWRIDGE SCHOOL
+
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+
+T: 604-467-4444
+
+www.meadowridge.bc.ca<http://www.meadowridge.bc.
+
+---
+
+## [其他] Thanks for registering to Payoneer
+
+**发件人:** Payoneer <no-reply@alerts.payoneer.com>
+**日期:** 2026-09-02T19:29:23.000Z
+**摘要:** 这是一封Payoneer注册确认邮件，内容显示用户已成功注册并获得账户帮助支持。
+**待办:** 无
+
+Let us help you get started
+
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
+
+## [待办] Please verify your email address
+
+**发件人:** Payoneer Auth <noreply@verify.payoneer.com>
+**日期:** 2026-09-02T19:22:11.000Z
+**摘要:** 需要验证Payoneer邮箱地址，提供6位数字代码203183，有效10分钟。
+**待办:** 验证Payoneer邮箱地址，使用提供的6位数字代码203183。
+
+( https://www.payoneer.com/ )
+
+Please verify your email address
+
+Hi there,
+
+Please use the 6-digit code below to verify your email address for Payoneer.
+
+203183
+
+This code is valid for the next 10 minutes. After that, you’ll have to request a new one.
+
+If it wasn’t you who initiated this email verification, contact us ( https://payoneer.custhelp.com/app/Contact_us ) , or simply ignore this email.
+
+Thank you,
+The Payoneer Team
+
+( https://www.facebook.com/Payoneer ) ( https://twit
+
+---
+
+## [学校] Welcome to Grade 7 Advisory at Meadowridge School
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-02T17:12:41.000Z
+**摘要:** 邮件是Meadowridge学校七年级导师Darcie Hook致家长的欢迎信，介绍导师职责并强调五大核心价值观，同时强调家校沟通的重要性。
+**待办:** 无
+
+Dear Grade 7 Families,
+Welcome to a new school year at Meadowridge School! My name is Darcie Hook, and I am excited to be your child's Grade 7 Advisor and Science teacher this year. I look forward to getting to know your children and partnering with you to support their growth, learning, and well-being throughout the year.
+As an advisor, my goal is to help students make a successful transition into Grade 7 while fostering a strong sense of belonging and responsibility within our community. A s
+
+---
+
+## [营销] Natalie, your opinion matters — 1 minute on your Browns visit
+
+**发件人:** Browns Shoes <support@info.brownsshoes.com>
+**日期:** 2026-09-02T17:05:27.000Z
+**摘要:** 邮件邀请Natalie分享对Browns商店的反馈，以有机会赢取500美元礼品卡。
+**待办:** 提供反馈
+
+Hi Natalie,
+
+Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
+
+How likely are you to recommend Browns to a friend or family member?
+
+
+---
+
+## [学校] New Student Orientation RSVP Confirmed
+
+**发件人:** "admissions@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-02T16:33:31.000Z
+**摘要:** 确认新生入学导向的RSVP已成功提交
+**待办:** 无
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/><
+
+---
+
+## [营销] Natalie, your opinion matters — 1 minute on your Browns visit
+
+**发件人:** Browns Shoes <support@info.brownsshoes.com>
+**日期:** 2026-09-02T17:05:27.000Z
+**摘要:** Browns Shoes邀请Natalie提供反馈以赢取500美元礼品卡，并询问推荐意愿。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
+
+How likely are you to recommend Browns to a friend or family member?
+
+
+---
+
+## [营销] Natalie, remote scenic homes for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-09-02T16:26:34.000Z
+**摘要:** Rightmove推荐远程风景优美的房产，供购买或租赁，可能针对Natalie。
+**待办:** 无
+
+Peaceful homes offering seclusion and views for miles
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/4_c7Mg1iSyRnXxi56uZHRQ~~/AAAHahA~/0ixkMQHnzQXGkkP895_6g_knsIwuhni5iNYm71WxwwRXAKFprBaPUCGVsFIGUK5UqSQSQaJxl9nbM2KoNa8gUEF69NpzLeTBIBkdJ-YsSti6wmVPhsE3MYCAmJqR0alZS4VVvn1TbvLY1B2aiKHaOtbRYTzvsU2OMGylaqW7eyk~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/4qGRNAoPp7YrmRmQ7Zo6Yw~~/AAAHahA~/O2TBGLNEhAz5at_HSbpar7s-I8fr4NSM6ntxlFqTNVswfqEbHg5-z-R0z0O3zxV17Jp6eX_QjLPsPLGzZGUc-VRkVPq-DyRAMRz
+
+---
+
+## [营销] A guide to pricing your property
+
+**发件人:** Foxtons <mail@mail.foxtons.co.uk>
+**日期:** 2026-09-02T16:04:38.000Z
+**摘要:** 这封邮件提供了关于如何根据市场条件和销售目标设定房产合理价格的指南。
+**待办:** 无
+
+Discover the key factors that can influence your property's
+value       Foxtons ( https://clicks.foxtons.co.uk/f/a/KQ0i_j6QsvnV7Mlha2-LNw~~/AAAHahA~/OgzAa1HTXhx02fyigt_cTUgsPudWLuw4KWfjpoiG8FlcEovvTmjfFnn-O7GOA-me4lGo_v_RnC4GpNMbLCvKvh5BVKIBlR0fqtMH2PR6wEYyNSttT4YocZq95pBxen-3oxsNZyaaQxYN-XXy77CCVw~~ )              Foxtons 
+( https://clicks.foxtons.co.uk/f/a/E5nBoiHVx3MuvARqLP74TQ~~/AAAHahA~/OgzAa1HTXhx02fyigt_cTUgsPudWLuw4KWfjpoiG8FmYMJKP7PnLlIvBzcCaYQXV-c7nMqhKx7_5F5vPykBnCdkiKTpDwn6JyU1vbT5OX
+
+---
+
+## [其他] << Ref:5604355 >> TELUS Consumer Service Agreement
+
+**发件人:** CART CSA <CARTCSA@telus.com>
+**日期:** 2026-09-02T13:30:58.000Z
+**摘要:** 邮件通知用户可通过My TELUS查看和下载消费者服务协议，并提供操作步骤和联系方式。
+**待办:** 无
+
+Hello
+
+
+Please follow the steps below to view your Consumer Service Agreement for your TELUS device. It contains useful information related to your purchase, including the terms of your agreement and the services you've selected. Please read it carefully and save a copy for future reference.
+
+
+You may view and download your Customer Service Agreement from the last four years via My TELUS:
+
+
+1. Login at TELUS.com/mytelus
+
+2. Select the My Profile tab
+
+3. Select View Service Agreement
+
+---
+
+## [营销] 50% off select beauty ✨
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-02T13:04:39.000Z
+**摘要:** Sephora推出50%折扣促销，涵盖多个品牌，包括Farmacy和DERMAFLASH，今日有效。同时提及用户拥有638积分及Same-Day Delivery服务。
+**待办:** 无
+
+ Sephora 
+
+From Farmacy, DERMAFLASH, and more—today only. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a06238a217bbaffdf4bbe5cfc0/134e48d53ebe45be0000021ef3a0bcc2/134
+
+---
+
+## [营销] 🍎 Save $650 on today’s Deal of the Day.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-02T12:03:05.000Z
+**摘要:** 宣传今日特惠，提供650美元折扣
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] RE: view appointment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-02T11:15:04.000Z
+**摘要:** 关于查看预约的邮件
+**待办:** 无
+
+ 
+
+---
+
+## [其他] Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-02T09:36:16.000Z
+**摘要:** Natalie授权Foxtons代理查看公寓，并请求确认指定时间及钥匙安排。
+**待办:** 确认查看时间并确保钥匙可用
+
+Dear London Dock Concierge,
+
+I hope this email finds you well.
+
+I would like to authorize the following agent from Foxtons to access the property for a viewing:
+
+Agent Name: Akshitsinh Rathod (AK)
+Email: Akshitsinh.Rathod@foxtons.co.uk
+
+He has proposed the following viewing times:
+
+• Wednesday, 2 September: 18:00
+• Thursday, 3 September: 12:00 – 14:00, 16:00, or 18:00
+
+Could you please confirm if these times are acceptable and ensure the keys are available for him?
+
+Best regards,
+
+---
+
+## [营销] 日本賞楓必去之旅🍁最新演唱會
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-02T00:48:47.000Z
+**摘要:** Trip.com 推出日本赏枫之旅促销，包含燃油费下调和温泉酒店低至3折的优惠，邀请用户立即预订。
+**待办:** 无
+
+燃油費下調 + 精選溫泉酒店低至 3 折💰立即預訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154252159-1788310126277.828%26ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D493838.HK-20260902-edm-travelhub.2026-09-02_8_0.20260902.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDI1MjE1O
+
+---
+
+## [营销] Welcome to Browns!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-02T00:15:29.000Z
+**摘要:** 这封邮件是Browns Shoes的欢迎邮件，宣传其时尚、舒适和高质量的鞋子，并提供快速配送和立即购物的链接。
+**待办:** 无
+
+Enter a world of style, comfort and quality.
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1mZgd3pphdc24Uaa8Xf8zEuB8gyV73K778TWzkzgfTF4-3DSwye_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANeTWvU0ZChTJ8HbiMvwFBnI16THdkc8mXsr2PWrG9tzdT0Obd-2BkTnOJh3cBIpjyE1zfWMocp6ET6s3SbOwFHTEWNt-2BoybF9SM5-2FMlGUP7YjEByI5Gdvk5WAUbcmCcVuW2nC4tirq8Noayzhn
+
+---
+
+## [营销] You're in. Now for the good stuff.
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-02T00:08:11.000Z
+**摘要:** 这封邮件可能是来自lululemon的营销邮件，内容可能涉及促销或活动邀请。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [待办] Finish setting up your account
+
+**发件人:** lululemon <mail@e.lululemon.com>
+**日期:** 2026-09-01T23:57:48.000Z
+**摘要:** 提醒完成账户设置
+**待办:** 完成账户设置
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] Thank You for Ordering a Tesla!
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-09-01T21:26:19.000Z
+**摘要:** 特斯拉感谢订单并邀请填写调查问卷。
+**待办:** 填写调查问卷
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3Dbdbo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHQgJALsi1IsXZcsgLfh8DUOGL1F2OEN9LOb6zrOFxRKn6aiX-2FfB1EcvRPfsrT2-2F6X4zfzPGHn4HqR85iIguPJLOaLDxS3xr58zilon44WiV9uGPUSqbZpHK0LWlrsusQPis9KSlF13E6lSe8BsonDU1MTpga
+
+---
+
+## [营销] You’re gonna love these rewards from Korean skincare faves
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-01T16:19:01.000Z
+**摘要:** Sephora Insider推送韩国护肤品牌奖励信息，提及积分兑换及快速发货优惠。
+**待办:** 无
+
+ Sephora 
+
+Don’t wait, they go fast! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a05dc44b7f9ae7eef4bbe5c7c0/9477abf0cc1849ba0000021ef3a0bcc2/9477abf0-cc18-49ba-a884-
+
+---
+
+## [营销] Just launched — The New Fall Collection
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-01T14:06:11.000Z
+**摘要:** Aritzia推出了新的秋季系列，邀请客户体验新款式。
+**待办:** 无
+
+You’re ready for a change of scenery.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌ 
+
+---
+
+## [营销] 🍎 Apple Labour Day Sale: Let the deals do the work.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-01T12:07:50.000Z
+**摘要:** 这封邮件是BestBuy.ca发送的Apple劳动节促销信息，宣传相关折扣活动。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Save $550 on Anker backup power. Today only. ⚡
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-01T10:02:33.000Z
+**摘要:** BestBuy.ca推送Anker备用电源今日特惠，立省550美元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 新加坡航空低至 75 折！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-01T08:34:40.000Z
+**摘要:** Trip.com 发送的新加坡航空限时优惠信息，飞往新加坡、巴厘岛、澳洲的机票低至 HK$2,500。
+**待办:** 无
+
+限時優惠🔥飛新加坡、峇里島、澳洲低至 HK$2,5XX🧳即刻預訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154252194-1788250648305.748%26ouid%3D493691.HK-20260901-edm-hkairlinesq.2026-09-01_8_0.20260901.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D493691.HK-20260901-edm-hkairlinesq.2026-09-01_8_0.20260901.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xM
+
+---
+
+## [其他] 扫描件
+
+**发件人:** "金枫叶 64877945" <859295687@qq.com>
+**日期:** 2026-09-01T06:57:01.000Z
+**摘要:** 邮件主题为扫描件，但正文中没有具体内容。
+**待办:** 无
+
+
+
+
+---
+
+## [营销] Today’s deal: Save $800 on an ASUS laptop. 💻
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-31T11:03:08.000Z
+**摘要:** BestBuy.ca 发布了今日特惠，ASUS笔记本电脑降价800加元。链接提供更多信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Never trade alone
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-31T07:05:32.000Z
+**摘要:** 邀请加入TradingView社区，分享交易想法和见解，共同成长。
+**待办:** 无
+
+ Never trade alone 
+Discover ideas, share insights, and grow with the TradingView community. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
+
+## [其他] 招商银行交易流水
+
+**发件人:** 95555@message.cmbchina.com
+**日期:** 2026-08-31T02:32:02.000Z
+**摘要:** 招商银行发送了加密的2026年8月31日电子交易流水附件，并提示通过App查询解压码。
+**待办:** 无
+
+
+
+尊敬的武晶琦：
+
+您好！附件是您2026年08月31日10:31:41通过招商银行App申请的电子版交易流水，请查收。
+
+基于安全考虑，附件已加密，*解压码请通过“招商银行App-流水打印-申请记录“查询*，如您存在多条申请记录，请使用与本条记录申请时间对应的解压码解压。
+
+温馨提示：您下载的是压缩文件，建议从电脑端解压查阅。
+
+本邮件内容是根据招商银行客户提供的个人邮箱发送给其本人的电子邮件，如您并非抬头标明的收件人，请您即刻删除本邮件，勿以任何形式使用及传播本邮件内容，谢谢！
+
+招商银行
+
+2026年08月31日
+
+
+---
+
+## [其他] Create a Peloton password
+
+**发件人:** Peloton <peloton@mail.my.onepeloton.com>
+**日期:** 2026-08-30T19:51:40.000Z
+**摘要:** 邮件主题为创建Peloton密码，但内容中包含大量格式代码，可能存在问题。
+**待办:** 无
+
+96        Create a Peloton password
+table{ border-collapse: collapse; } span.MsoHyperlink {
+mso-style-priority:99; color:inherit; } span.MsoHyperlinkFollowed
+{ mso-style-priority:99; color:inherit; } ol li, ul li
+{margin-top:0px !important;margin-bottom:0px !important;}
+.st-mso-full-width{ width: 100%; }     .st-mso-full-width{ width:
+100%; }        
+  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏
+
+---
+
+## [其他] 您与“onepeloton.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-30T19:51:28.000Z
+**摘要:** 邮件通知用户于8月30日使用Google账号登录了onepeloton.com，并共享了姓名、照片和邮箱信息，目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月30日12:51 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYwveVy8XlKlFkR5mKJMjQSJnH7VLIh26SKkqZ-2I7eBaRTP6G-KB2q0II02k-5rpApE2R1CDUA9DE5JTvLwYOAaRb3gjhO5ihcrGNqC7ugLO8k>onepeloton.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月30日12:51 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYwveVy8XlKlFkR5mKJMjQSJnH7V
+
+---
+
+## [其他] << Ref:5604354 >> TELUS Consumer Service Agreement
+
+**发件人:** CART CSA <CARTCSA@telus.com>
+**日期:** 2026-08-30T16:09:43.000Z
+**摘要:** 邮件提醒用户查看并下载TELUS设备的消费者服务协议，包含购买条款和所选服务信息，需保存副本。
+**待办:** 查看并下载消费者服务协议
+
+Hello
+
+
+Please follow the steps below to view your Consumer Service Agreement for your TELUS device. It contains useful information related to your purchase, including the terms of your agreement and the services you've selected. Please read it carefully and save a copy for future reference.
+
+
+You may view and download your Customer Service Agreement from the last four years via My TELUS:
+
+
+1. Login at TELUS.com/mytelus
+
+2. Select the My Profile tab
+
+3. Select View Service Agreement
+
+---
+
+## [营销] 💻 Score Labour Day deals on computing powerhouses.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-30T15:12:41.000Z
+**摘要:** BestBuy.ca 发布劳工节促销，提供电脑产品的折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Oooh, 50% off select brands 😀
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-08-30T13:21:31.000Z
+**摘要:** Sephora推出今日美丽折扣，部分品牌商品50%优惠，并提及积分和配送信息。
+**待办:** 无
+
+ Sephora 
+
+Today’s beauty deals are calling. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a052d5130a92faa9f4bbcfd118/451c27c2b3e8469a0000021ef3a0bcc2/451c27c2-b3e8-46
+
+---
+
+## [营销] You need a jacket
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-30T02:09:56.000Z
+**摘要:** Aritzia推送新款夹克，可能有促销或新品发布。
+**待办:** 无
+
++ Fresh denim you've been waiting for.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-29T17:38:15.000Z
+**摘要:** 邮件提供了用于登录加拿大政府服务的一次性验证码，并说明因注册了账户而收到此邮件。
+**待办:** 输入验证码TGGXYTHQ以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+TGGXYTHQ
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [待办] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-29T17:35:00.000Z
+**摘要:** 邮件通知应用状态已更新，需用户登录账户查看具体变化。
+**待办:** 查看申请状态更新
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+Your application status has changes.
+To check what's changed with your application's status:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+
+
+Sign in to your account 
+<https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html>
+
+
+
+------------------------------
+
+This message is intended for nataliewu100@gmail
+
+---
+
+## [营销] Select brands are 50% off 🤑
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-08-29T13:23:00.000Z
+**摘要:** Sephora 今日推出部分品牌50%折扣促销活动，包含限时优惠和配送服务信息。
+**待办:** 无
+
+ Sephora 
+
+Today only! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a04db0146282b4ecf4bbcfb648/53b6b9ea767c47080000021ef3a0bcc2/53b6b9ea-767c-4708-93c8-751c41e07107?_
+
+---
