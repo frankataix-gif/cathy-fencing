@@ -2699,3 +2699,18 @@ natalie，您好！
 
 
 ---
+
+## [营销] Questo non te l’avevamo ancora detto 👀
+
+**发件人:** idealista <idealista@promozioni.idealista.it>
+**日期:** 2026-03-18T09:30:48.000Z
+**摘要:** 这是一封来自idealista的营销邮件，可能包含房产或相关服务的推广信息。
+**待办:** 无
+
+Questo non te l’avevamo ancora detto 👀
+
+96
+
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0}#converted-body .list_block ol,#converted-body .list_block ul,.body [class~=x_list_block
+
+---
