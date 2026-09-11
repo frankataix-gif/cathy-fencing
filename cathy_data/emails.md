@@ -14238,3 +14238,28 @@ Your next medium? Layers.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230255-1786494812885.416%26ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0z
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-11T20:31:14.000Z
+**摘要:** 邮件要求验证登录并提供一次性验证码C8MM388S，说明用户注册了加拿大政府服务账户。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+C8MM388S
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
