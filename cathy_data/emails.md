@@ -25617,3 +25617,28 @@ Download Now
 <https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Ftripcom.go.link%3Fadj_t%3D15j9m0tk_15jds8ml%26deep_link%3Dctripglobal%253A%252F%252Fmytrip%252Fhome%26adj_label%3Dplatform%253Demail%2526l
 
 ---
+
+## [其他] 611537 is your sign-in verification code
+
+**发件人:** "Trip.com" <en_noreply@trip.com>
+**日期:** 2026-05-26T12:57:30.000Z
+**摘要:** 邮件提供了用于登录账户的验证码611537，并提醒注意账户安全。
+**待办:** 无
+
+ 
+<https://www.trip.com?locale=en-XX> 
+
+611537 
+Use this code to sign in to your account 
+Once sent, this verification code is valid for 30 minutes 
+Important Notes: 
+To protect your account security, please do not disclose this verification 
+code to anyone. If you didn't request this verification code, please ignore 
+this email. 
+Get help on the go
+Use the Trip.com app to contact us if anything comes up
+Free Internet calls
+Download Now 
+<https://triplink.trip.com/forward/middlepages/channel/edm
+
+---
