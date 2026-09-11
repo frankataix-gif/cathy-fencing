@@ -23130,3 +23130,47 @@ GROCERY
 <https://tracksg.doordas
 
 ---
+
+## [其他] Open for: new summer active
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-23T01:05:28.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Hot girl walk approved
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTZ9AAcAAAAAAw6b9cXPJnPXPbsjHKIYNnO3MWNla_swA6yLe7Qau3vhwGPa2TyY4mXUCIwMkI0JywsyCTGnJX9nqDm9LAOIT_sdh6A7vZgjOvCgSOI 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTZ9AAcAAAAAAw6b9cXQ9cwe1RoTLKzV_0sORxliAFrRuLX3ftrnKtT22FNrnBv5HHbmP5jGr-Lm__orXqQt9QZxQDtyt1YmIgQtBzg7VX8JeZSFFQNnryGP 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ht
+
+---
