@@ -2396,3 +2396,15 @@ A febbraio, le nuove immatricolazioni di auto nellUe sono diminuite dell1,2% ris
 Che succede 23/03/2026 — idealista/news     Il mondo immobiliare può incontrare il sociale? A quanto pare, sì. Ne è un esempio la Volpes Case srl, che ha deciso di promuovere una campagna volta a sostenere la realizzazione del nuovo Pronto Soccorso Pediatrico dell’Ospedale Bambino Gesù sede del Gianicolo a Roma. A idealista/news, Tiziana Volpes, socio della Volpes Case e membro del consiglio di amministrazione, ha sottolineato: “Credo che oggi il legame tra impresa e responsabilità sociale non s
 
 ---
+
+## [其他] 福字9981号信托利益支付通知书-55万-20260323
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-03-23T08:36:28.000Z
+**摘要:** 关于福字9981号信托55万元利益支付的通知
+**待办:** 无
+
+
+
+
+---
