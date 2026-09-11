@@ -10471,3 +10471,32 @@ T: 604-467-4444
 www.meadowridge.bc.ca<http://www.meadowridge.bc.
 
 ---
+
+## [其他] Thanks for registering to Payoneer
+
+**发件人:** Payoneer <no-reply@alerts.payoneer.com>
+**日期:** 2026-09-02T19:29:23.000Z
+**摘要:** 这是一封Payoneer注册确认邮件，内容显示用户已成功注册并获得账户帮助支持。
+**待办:** 无
+
+Let us help you get started
+
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
