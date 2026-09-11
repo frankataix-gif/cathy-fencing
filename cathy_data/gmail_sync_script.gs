@@ -1,18 +1,16 @@
 // Cathy 邮件自动同步脚本（Google Apps Script）
-// 用途：定时把 Gmail 中 USAF / 学校等邮件同步到 Cathy 的 PWA
-// 步骤：1）在 script.google.com 新建项目；2）复制粘贴本文件全部内容；3）按需修改 CONFIG；4）保存并授权；5）设一个触发器（例如每 15 分钟一次）
+// 用途：定时把 Gmail 中的邮件同步到 Cathy 的 PWA
+// 步骤：1）在 script.google.com 新建项目；2）复制粘贴本文件全部内容；3）按需修改 CONFIG；4）保存并授权；5）设一个触发器（例如每 5 分钟一次）
 
 const CONFIG = {
   // Cathy 的 Worker 地址
   WORKER_URL: 'https://cathysync.frankataix.workers.dev/',
 
-  // Gmail 搜索条件：多个发件人用 OR 连接
-  // 常见例子：
-  //   'from:usfencing.org'
-  //   'from:usfencing.org OR from:meadowridge.bc.ca'
-  //   'from:usfencing.org OR from:meadowridge.bc.ca OR from:(*.edu)'
-  // 主要击剑邮件：USAF + 击剑器材/供应商
-  SEARCH: 'from:usfencing.org OR from:imexsport.ca',
+  // Gmail 搜索条件：
+  //  - 空字符串 '' 表示同步所有未同步的邮件。
+  //  - 想限制发件人，可以改成 'from:usafencing.org OR from:meadowridge.bc.ca'。
+  // 注意：usafencing.org 才是 USA Fencing 的真实发件域名（不是 usfencing.org）。
+  SEARCH: '',
 
   // 用于标记“已同步”的标签名。脚本会自动创建这个标签
   SYNCED_LABEL: 'Cathy/Synced',
@@ -32,7 +30,7 @@ function syncCathyEmails() {
   }
 
   // 搜索未同步的邮件：满足 SEARCH 条件，且没有 Cathy/Synced 标签
-  const query = `${CONFIG.SEARCH} -label:${CONFIG.SYNCED_LABEL}`;
+  const query = (CONFIG.SEARCH ? CONFIG.SEARCH + ' ' : '') + '-label:' + CONFIG.SYNCED_LABEL;
   const threads = GmailApp.search(query, 0, 50);
 
   if (!threads || threads.length === 0) {
@@ -64,6 +62,9 @@ function syncCathyEmails() {
           method: 'post',
           contentType: 'application/json',
           payload: JSON.stringify(payload),
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (compatible; Cathy-Gmail-Sync)'
+          },
           muteHttpExceptions: true
         });
 
