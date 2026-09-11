@@ -938,3 +938,30 @@ newsletter 17 aprile — idealista/news     | Mercoledì 15 Aprile 2026
 ***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] Explore more of the world from Heathrow
+
+**发件人:** Heathrow Airport <heathrowwifi@em.heathrow.com>
+**日期:** 2026-04-17T15:17:05.000Z
+**摘要:** 希思罗机场宣传其作为通往全球80多个国家的旅行门户，提供多样化的目的地选择和灵活的航班时间。
+**待办:** 无
+
+Heathrow Update
+
+
+
+Email not displaying properly? 
+https://click.em.heathrow.com/?qs=ABB7InYiOjEsImQiOjQ4NDl9ADIAAAAAABG3wMYTcFMm1cAHCAlqkQ4qLG2v0SBkBkcVDuSCcRIGlBuNYIOoZhDwKXiohZHBcbGMabWhvEsbYVVs7TjG_kUS9Y0X2U1pJULJBOm7yQ 
+View online .
+ 
+
+
+
+https://click.em.heathrow.com/?qs=ABB7InYiOjEsImQiOjQ4NDl9ADIAAAAAABG3wMYUT8DAFI6Pk-f7r8JtxdESDLrXzuu3RAGGI2KbNeIoQ8Se0qT3l3ipcw_-i-TZpciO_U_bODbz4ZWWVx0CFxT5smDMuVrZ9bWgT-Lhy0I 
+
+
+
+
+https://click.em.heathrow.com/?qs=ABB7InYiOjEsImQiOjQ4NDl
+
+---
