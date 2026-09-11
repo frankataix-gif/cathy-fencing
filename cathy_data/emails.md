@@ -8157,3 +8157,18 @@ Please find the necessary documents attached to this email:
 1) Engagement Letter: This document sets out the terms of our engagement with you as well as our firm's terms of business. Please read this carefully to make sure you are happy to proceed with us. If you have any issues, do not hesitate to let us know. Please kindly sign on the 6th page of the attached Engagement Letter. We accept e-signatures
 
 ---
+
+## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:04:16.000Z
+**摘要:** 发件人要求撤回关于伦敦公寓销售沟通的邮件，并提醒信息保密。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibi
+
+---
