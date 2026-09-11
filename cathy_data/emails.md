@@ -17651,3 +17651,15 @@ Payment），并附上了交易详情 PDF。 建...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEEO5X89Vdym1cMLyW3cM2Hme72cJAs2J7tXTCRTC1k-2FNfikDT8IuYyDWQ8GBxndK-2B-2BL-2F2ZXqQm7tmx5Skf97cb2Rl9S7k6u9TkGc0EkcF7JRbcxA9jHzwUT6uIY7fK3T-2FdMuWj-2FDmPgwoyBO4cnb1K2mEi-2B
 
 ---
+
+## [营销] Saldi di fine stagione negli outlet
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-23T09:01:10.000Z
+**摘要:** Calvin Klein在Outlet有季末促销活动。
+**待办:** 无
+
+
+
+
+---
