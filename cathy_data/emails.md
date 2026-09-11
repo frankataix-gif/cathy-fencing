@@ -21734,3 +21734,18 @@ En cliquant sur « J’accepte », vous donnez votre con
 
 
 ---
+
+## [其他] Hey Jingqi let's get you started with Koodo
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-07-02T16:02:43.000Z
+**摘要:** 
+**待办:** 无
+
+Get an extra $5/mo. off today! 
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tf977ec2c,4075139e,2acfe309&e=Y2lkPXRlbERNMjIwNDgwNCZiaWQ9LTEwOTU4MTI2OCZwMT0lNDBRUFlKSnFxZFdZMkRzJTJGbW1FeWJTM1E4TVpCNXd0OCUyRlVrdHZ2ODZ1ZnlOdyUzRA&s=zKWc2jxigV9L4_Zq_Gebxi6P5V1ePrVoFJS_fOFPw_4 web browser . 	
+ https://t.email.koodomobile.com/r/?id=tf977ec2c,4075139e,2acfe30a&e=Y2lkPXRlbERNMjIwNDgwNCZiaWQ9LTEwOTU4MTI2OA&s=LBNqEPgVFDi2nhQxhQ6p1oqjT0m9iv9nvwKa9LPo334 	
+
+ https://t.email.
+
+---
