@@ -20677,3 +20677,20 @@ To view your message, sign in to your account
 
 
 ---
+
+## [营销] 🚨 ENDS TODAY: 30% off ALL Sephora Collection, 2X points on all products, and FREE Same-Day Delivery
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-07T14:19:02.000Z
+**摘要:** Sephora限时促销，今日截止，提供30%折扣、双倍积分及免费当日配送，可叠加使用。
+**待办:** 无
+
+ Sephora 
+
+Stack *all* these offers while you still can, Natalie. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f3cf255b0af222af4bbcfb920/e7352037be394ff00000021ef3a0
+
+---
