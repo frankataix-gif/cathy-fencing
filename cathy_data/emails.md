@@ -24753,3 +24753,31 @@ Coins💰回贈直接落袋🎯👉睇更多
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154199140-1780643775070.801%26ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D426575.HK-20260605-edm-6%252F6.2026-06-05_1_0.20260605.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI
 
 ---
+
+## [营销] Per te un buono da 50€ ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-05T07:13:58.000Z
+**摘要:** 这封邮件提供了50欧元的优惠券，并提到免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9ADIAAAAAAKW_QhwvH5_2P9IxOn1kxU3-yfj3uJq5CwyNr7dHHG0W7zWj0c8A6ZMRP1oFtIk9yltf3uIAZJmpDjujWWZzMtHAHgGIWFx_kBq0tEE 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTh9ADIAAAAAAKW_Qhww22xy3aP1_vIEpVWSzgKQlSfVjnCBojh_oBYzlNkMdtFnc672YRlIN4gA-t3Y3sf2xIMIUZ_b7-lJ
+
+---
