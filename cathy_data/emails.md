@@ -14352,3 +14352,26 @@ You have accepted the following offer:
 
 
 ---
+
+## [待办] Your Apple Account password has been reset
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-11T14:20:16.000Z
+**摘要:** 这封邮件通知用户的Apple账户密码已被重置，并提醒如果未操作过需立即重置密码并检查账户安全设置。
+**待办:** 确认是否本人操作密码重置，若非本人需立即重置密码并检查账户安全设置。
+
+Dear Natalie Wu,
+	
+The password for your Apple Account, nataliewu100@gmail.com, has been successfully reset.
+
+If you did not make this change or you believe an unauthorised person has accessed your account, you should go to iforgot.apple.com to reset your password immediately. Then sign into your Apple Account account page at https://account.apple.com to review and update your security settings.
+
+iForgot
+https://iforgot.apple.com
+
+Apple Account
+https://account.apple.com
+
+If you need 
+
+---
