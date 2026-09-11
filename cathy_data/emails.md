@@ -13992,3 +13992,45 @@ Flexibility : Medium (M)
 [image: Foil Blade - Allstar BF 
 
 ---
+
+## [击剑] 感谢您在“The Fencing Post”注册
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T14:14:15.000Z
+**摘要:** 用户注册了The Fencing Post账户，收到确认邮件并提供账户信息和登录链接。
+**待办:** 无
+
+ 
+  
+[image: The Fencing Post] <https://thefencingpost.com> 
+------------------------------
+[image: Cart image] 
+------------------------------
+  
+感谢您在“The Fencing Post”注册 
+
+jingqi natalie，您好： 
+感谢您在“The Fencing Post”创建帐户。 
+  
+帐户详细信息 
+
+电子邮件地址：
+*nataliewu100@gmail.com* <nataliewu100@gmail.com> 
+
+密码：
+
+*[您指定的密码]* 
+  
+登录帐户 <https://thefencingpost.com> 
+  
+
+如果您对帐户有任何疑问，请在您的电子邮件客户端中单击“回复”，我们将非常乐意提供帮助。
+  
+------------------------------
+[image: Shop image] 
+------------------------------
+  
+
+*The Fencing
+
+---
