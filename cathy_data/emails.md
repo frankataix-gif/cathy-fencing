@@ -10765,3 +10765,15 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Thank You for Ordering a Tesla!
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-09-01T21:26:19.000Z
+**摘要:** 特斯拉感谢订单并邀请填写调查问卷。
+**待办:** 填写调查问卷
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3Dbdbo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHQgJALsi1IsXZcsgLfh8DUOGL1F2OEN9LOb6zrOFxRKn6aiX-2FfB1EcvRPfsrT2-2F6X4zfzPGHn4HqR85iIguPJLOaLDxS3xr58zilon44WiV9uGPUSqbZpHK0LWlrsusQPis9KSlF13E6lSe8BsonDU1MTpga
+
+---
