@@ -3608,3 +3608,29 @@ Do not reply to this email. This is an automated message.
 
 
 ---
+
+## [其他] 你已在 iOS 设备上启用 Gemini
+
+**发件人:** Google Gemini <google-gemini-noreply@google.com>
+**日期:** 2026-02-15T04:35:29.000Z
+**摘要:** 邮件通知用户已在iOS设备上启用Gemini，介绍其功能及数据处理方式，并说明与其它服务的协同作用。
+**待办:** 无
+
+充分利用 iOS 版 Gemini
+
+欢迎使用 Google 的 AI 助理 Gemini，获取创意灵感、提升工作效率。iOS 版  
+Gemini 可以帮你撰写文案、创作内容、学习知识或处理其他事务。详细了解 
+<https://support.google.com/gemini/answer/14554984?hl=zh&co=GENIE.Platform%3DiOS>  
+iOS 版 Gemini 的用途。
+
+Gemini 如何处理数据以及与其他服务配合使用
+
+Gemini 活动记录以及你拥有的选择
+
+你的对话内容、与 Gemini 分享的内容（例如文件、视频、截屏和照片）、录音、转写 
+内容、Gemini Live 互动记录、反馈、通过 Gemini 访问的网站中的信息、产品使用情 
+况以及位置信息<https://g.co/privacypolicy/location>会保存到 Gemini 应用活动 
+记录<https://myactivity.google.com/product/gemini>中（如果你的“保留活动记录 
+”设置处于开启状态
+
+---
