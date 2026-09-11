@@ -26718,3 +26718,18 @@ Vacanze al mare con i bimbi — idealista/news
 Che succede 06/05/2026 — idealista/news                   Nel periodo gennaio-marzo 2026, le entrate tributarie erariali accertate in base al criterio della competenza giuridica ammontano a 131.413 milioni di euro, con un aumento di 891 milioni di euro rispetto allo stesso periodo dellanno precedente (+0,7%). Lo si legge nel Bollettino pubblicato sul sito del Dipartimento Finanze del Mef. In particolare, le imposte dirette si attestano a 76.308 milioni di euro (-426 milioni di euro, pari a -0,6%
 
 ---
+
+## [学校] Billing Management Instructions - tuition and fees
+
+**发件人:** Natalie Blomly <Natalie.Blomly@meadowridge.bc.ca>
+**日期:** 2026-05-05T17:26:21.000Z
+**摘要:** 邮件通知学校新账单管理系统使用说明，并附有步骤指南，提醒需提交文件以显示学费余额及注册状态影响账户建立。
+**待办:** 查看附件步骤指南并完成账单管理相关文件提交
+
+Hello,
+
+I hope everyone is doing well and settling into our new billing management system. I know this change may feel a bit confusing, and I'm sorry that clear instructions weren't shared sooner. Unfortunately, the system didn't send out the original step-by-step notification as expected. Since this is our first year using it, we really appreciate your patience as we work through a few bumps along the way.
+
+I've attached some slides with simple, step-by-step instructions to help guide you t
+
+---
