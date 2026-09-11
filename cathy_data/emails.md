@@ -8944,3 +8944,42 @@ https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81
 If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
 
 ---
+
+## [待办] Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza via Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T11:36:17.000Z
+**摘要:** Lauren D'Souza通过DocuSign发送了一封需要查看和签名的文件，附有相关链接。
+**待办:** 需要查看并签署Lauren D'Souza发送的DocuSign文件
+
+Hello Jingqi Wu,
+
+Lauren D'Souza has sent you a new DocuSign document to view and sign. Please click on the link below to begin signing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+REVIEW DOCUMENT
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81f2b356&etti=33&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
+
+---
