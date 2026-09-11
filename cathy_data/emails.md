@@ -2778,3 +2778,17 @@ https://keep.google.com/share?note=1YVwYAS3HJnMa1GxJWtJ06xSl8XyL0iDFGpqTMaJaP4cL
 
 
 ---
+
+## [其他] 与您分享的记事：“转钱事宜”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-16T10:58:08.000Z
+**摘要:** Frank通过Google Keep分享了一条关于转钱事宜的记事，并附有链接。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1ITB5qQEVWAJ0VKdeV-Obz8JnhbtRl-yUdl1hcrWtFDZ4IMKJXPf6NsFIdmaHhug&email=nataliewu100@gmail.com&tid=true
+
+
+---
