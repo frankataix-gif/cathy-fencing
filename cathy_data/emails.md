@@ -19924,3 +19924,27 @@ Virtual public hearings for Rulemaking 26.02.017, Mobile Voice Service
 Quality, are scheduled to receive your co
 
 ---
+
+## [待办] Authorization to complete a credit check
+
+**发件人:** Boffo Rental Team <rent@boffo.ca>
+**日期:** 2026-07-10T21:45:34.000Z
+**摘要:** 租约团队要求授权进行信用检查，否则无法继续处理申请。
+**待办:** 回复邮件确认授权进行信用检查
+
+Hello ,
+Thank you for your application.
+As part of our standard tenant screening process, we require authorization to complete a credit check. Kindly please confirm by reply email that you authorize us to proceed with your credit check.
+Please note that we are unable to continue processing the application without this authorization.
+Should you have any questions, please let us know.
+Thank you,
+
+
+
+Smith & Farrow Rental Homes Team
+
+Phone 604 317 4060
+
+[cid:0b621b7c-24b9-44e0-acd2-a526
+
+---
