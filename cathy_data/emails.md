@@ -16335,3 +16335,15 @@ Please make an appointment soon as the time slots do
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 💎會員日專屬：享5%額外回贈！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-27T00:29:49.000Z
+**摘要:** Trip.com会员日专属优惠，酒店低至2折并享5%额外回赠，限时今日有效。
+**待办:** 无
+
+⏰只限今日！酒店低至 2 折 + 賺高達 800 Coins✨即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230158-1785112187550.347%26ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS
+
+---
