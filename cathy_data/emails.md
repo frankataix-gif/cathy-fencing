@@ -21618,3 +21618,43 @@ Christine L
                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 ---
+
+## [其他] 30% off bikinis (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-03T01:08:51.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+Long weekend treat for you.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKR_jgeEwKStr9muI7ZGKhHEyMM3s9zNY3PQZxkfnsGP4UfMmGIwQLTcVLiZhByzqE8F5KHJ9nxCWsmlkEeI0PEgcAvHy9cYnSLycQ 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjZ9AAcAAAAAA4EJuKSBeMVST19TNJ2fO-WCuIWcT35azkb_HBt72eW4gDhpU95sL5NGG5eMUbJhhCKw80-amO94bBMTNVmu4425l-9a1V0O7nlT2oLgtQqioag 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+---
