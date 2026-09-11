@@ -1367,3 +1367,14 @@ RESO SEMPRE GRATUITO
 Fidelity c
 
 ---
+
+## [其他] Che succede 08/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-08T09:31:56.000Z
+**摘要:** 介绍室内设计师Raffaella Fossati改造的住宅，以及涉及特朗普与伊朗的新闻
+**待办:** 无
+
+Che succede 08/04/2026 — idealista/news     L’interior designer Raffaella Fossati ci apre le porte della sua casa a Monza: un’abitazione nata ristrutturando il capannone di una storica falegnameria e concepita per essere grande e molto accogliente. Nella sua abitazione regnano spazio e luce e dove una volta c’erano macchinari per la produzione, oggi un grande ambiente elegante accoglie gli amici, ma permette anche di vivere in intimità, alternando contesti diversi e riportando tutto alla bellezz
+
+---
