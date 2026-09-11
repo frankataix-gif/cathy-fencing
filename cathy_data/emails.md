@@ -10049,3 +10049,15 @@ GO TO VERIFICATION CENTER
 <https://notificationeventsservice.payoneer.com/api/v2/LinkEvents/Redirect?tk=v1.GnfAQzHBU1D3uB7fcHH0F97X8QnCHIm%2B2cSwGdluWBID%2FKoY2%2FjLkgmCgGt5x%2FLV9UNQjz1DNaRbPQhj7ijIBBJYpoVDHbs%2FLrdhUpoE%2BHWoSaZOHbS8631a5kwuGhPjLzzBy%2BYIwAIGolcLcX7WG4LFI%2BDQLFwn5DCvQnYeYq7lfosMxV0biusySpcsS4%2BSt7byUQ%2ByuuQcOWh%2By1KBcacLbUUSIEPJtI9w3AuRk6W0fT6WmD1FXv8ZB45Uf7C8efP9dfXpwsZmgOW3RNPYro3Hge9KFRcR%2FSLl9rUriTMmVpN3xaAE8Ybtbzn1sYd75x0BOCUNze6g5rjAqC20LA%3D%3D&URL=https%3A%2F%2Fwww.pay
 
 ---
+
+## [营销] 唔好諗啦，即訂 洛杉磯機票優惠✈️！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-03T05:26:11.000Z
+**摘要:** Trip.com推送洛杉矶机票优惠，预订可获Trip Coins回贈。
+**待办:** 无
+
+即訂洛杉磯機票再賺 Trip Coins 回贈✈️！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-10147164169-1788413165103.978%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1788379200000.20260903.zh_HK.%26trip_in_sid%3D11
+
+---
