@@ -14480,3 +14480,36 @@ We've updated our Terms & Conditions an
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Yatri: U.S. DoS Visa Application - Appointment Reminder
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-10T06:07:40.000Z
+**摘要:** 提醒xiaojun he和shifen guan的美国非移民签证面试预约，时间地点已列出
+**待办:** 无
+
+Appointment Reminder: GDIT/United States DoS Nonimmigrant Visa
+Appointment
+
+This is a reminder that there is an upcoming appointment for a
+nonimmigrant visa application interview for:
+
+xiaojun he
+
+shifen guan
+
+Consular Section Interview Date and Time:
+
+17 August, 2026, 07:30 Lusaka local time
+
+Consular Section Location:
+
+U.S. Embassy Lusaka
+Eastern end of Kabulonga Road
+Ibex Hill
+Lusaka
+
+Review the appointment instructions before you attend your
+appointment to ensure you me
+
+---
