@@ -7272,3 +7272,25 @@ To: Cathy He <cathy.he@meadowridge.bc.ca>
 Cc: nataliewu100@gmail.com <nataliewu100@gmail.com>; Darci
 
 ---
+
+## [其他] 您的 Google 数据已可供下载
+
+**发件人:** "Google 导出" <noreply@google.com>
+**日期:** 2026-09-10T18:57:09.000Z
+**摘要:** Google通知用户数据副本已创建，可在指定日期前下载
+**待办:** 无
+
+您的账号和数据全由您做主。
+您于 2026年9月10日请求的 Google 数据副本已创建完毕。您可以在 2026年9月17日之 
+前下载文件。
+您的下载文件将包含以下服务中的数据：
+邮件
+管理“Google 导出”请求  
+(https://accounts.google.com/AccountChooser?continue=https://takeout.google.com/manage/archive/a728449a-3b10-448c-9b09-7b289955ad33&amp;Email=nataliewu100@gmail.com)
+您之所以会收到这封邮件，是因为您近期使用过 Google 导出。 了解详情  
+(https://support.google.com/accounts/answer/3024190)如何查找、访问和分享您的 
+数据。
+  隐私权政策 (https://www.google.com/privacy/privacy-policy.html) | 服务条款  
+(https://www.google.com/accoun
+
+---
