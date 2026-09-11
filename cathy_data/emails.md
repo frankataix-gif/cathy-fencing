@@ -26439,3 +26439,17 @@ Cathy’s mom
 
 
 ---
+
+## [营销] Multi-way bikinis all summer long 👙
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-13T06:48:59.000Z
+**摘要:** Hollister推出夏季比基尼系列，邀请客户查看最新款式。
+**待办:** 无
+
+Hollister Co. 
+  
+Styles for your summer reel. 
+<https://e.em.hollisterco.com/c2/1979:69fe0b3cde8b7ba8a204bdff:ot:69e6429a87fa4e894f0fac35:1/2e82e7cf?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzg2NTQ5MzksImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmZTBjNDllYjdlY2ZmMzhkMDBkZGYxIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmN
+
+---
