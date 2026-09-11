@@ -22741,3 +22741,14 @@ Il mercato dei mutui in Italia dopo laumento dei tassi Bce — idealista/news   
 --------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 25/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-25T08:26:46.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 25 giugno — idealista/news                Sospeso sulle acque del Lago Maggiore, per l’esattezza su Isola Bella, Palazzo è uno dei capolavori del barocco italiano. Una dimora principesca che occupa quasi per intero lisola, circondata da un giardino a dieci terrazze tra i più celebri al mondo. Uno dei punti più noti è il Salone Nuovo (o Salone Grande), lo spazio più alto e scenografico, che si sviluppa per oltre tre piani sotto una cupola. Altri ambienti celebri sono la Sala di Napole
+
+---
