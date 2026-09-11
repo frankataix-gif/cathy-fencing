@@ -23207,3 +23207,14 @@ natalie，您好！
 这对您的账号有何影响
 
 ---
+
+## [其他] Che succede 22/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-22T08:28:46.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 22/06/2026 — idealista/news              Le banche centrali continuano a rafforzare lesposizione alloro in un contesto di crescente incertezza geopolitica ed economica. È quanto emerge dal Central Bank Gold Reserves Survey 2026 del World Gold Council (WGC), secondo cui l89% degli istituti intervistati ritiene che le riserve auree globali aumenteranno nei prossimi 12 mesi. "Le banche centrali continuano a nutrire aspettative favorevoli sulloro", sottolinea il report, evidenziando che 
+
+---
