@@ -12423,3 +12423,30 @@ Your Home Insurance Quote #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wtl40_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQmudfGZsIqKmw9nUrIm2g9hw1jcxKCUt8-2BNpty86JNJBnFAXEKHWTF38UNEFoQJwIn0eUKazff5An9Xtkz7XOmigjV2abW-2BFmXTUUf12cNSyRjnC0wdWo9RTqON48bV-2F7UdLRptq1D6VIMZgG-2Fj-2
 
 ---
+
+## [营销] The soft focus of the season? These.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-23T02:19:14.000Z
+**摘要:** 这封邮件介绍了Aritzia的新款式，旨在吸引客户购买最新时尚单品。
+**待办:** 无
+
++ More new styles to build out your outfit.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏
+
+---
