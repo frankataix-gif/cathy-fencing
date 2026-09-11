@@ -20917,3 +20917,40 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzB9AAcAAAAAA6oN7QroLoMXkPL
 
 
 ---
+
+## [其他] Review your Vuori purchase
+
+**发件人:** Vuori <no-reply@reviews.io>
+**日期:** 2026-07-06T23:26:13.000Z
+**摘要:** 
+**待办:** 无
+
+Hey  ,
+						
+					
+					
+						
+						Are you loving your new purchase? Let us know your thoughts below. Your feedback will help other customers like you and help us improve your experience.
+						
+					
+					
+						Review Products
+					
+					
+					
+												
+							
+								
+									
+									Vuori AllTheFeels™ Legging - Short | Black 
+								
+							
+						
+												
+							
+								
+									
+									Halo Mini Full Zip Hoodie - Long | Pale Grey Heather 
+			
+
+---
