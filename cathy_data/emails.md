@@ -25360,3 +25360,18 @@ Google
 Drive<https://c.gle/AOExmq1poGDaDXUn-euW1GqTJZzaAE9127CMcOxXNQYsbB_ZQjcD4Dikp03WogCYExZwyW5qNLPxVY8teany5h1o9O5e7Ymwsx4z3TkQjCu_Q0Rf-Eo5F7vRdj5TKpBppLRWzs8FCOMkw0vytekFOhmO5fs1yhmxsDZku_F4qFZgpXYq8H_qdkhbNXZB64w94NbkfE7EyrnaGVitNYuuOVnq5JoyAQsrM8gPXOQClrbKReF3XSqxzrWkMI0iSIAmn
 
 ---
+
+## [其他] Top 10 seaside house price hotspots
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-05-29T16:30:17.000Z
+**摘要:** 邮件介绍了今年房价增长最快的沿海城镇列表，并附有Rightmove的链接。
+**待办:** 无
+
+Take a look at the coastal towns where house prices have
+increased the most since last year              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/y2cJwkM6Cc1SOCfrb1BjsA~~/AAAHahA~/ty1dxwX_g_kGvXexg9FnzDKN4ExXhnBl41Vo5-rBDie4ctC5TCeD2XVUF358r6dzHjyVkxQc8x1TNWkc8LvCwI0HbJs5btXazMv6dIBWQCEMS-PohbS8j-KmvmH9C986iLmMV2DyEJn0P1a3ZEVFr-q-FPAmwLPR0KvsZi-EAxU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/przKi-UNDH9GePZi0YGXpw~~/AAAHahA~/90d-myDmKzm-yRQpokx7sA6vOAkg1BNvcibfDxV2_tnEwnaw
+
+---
