@@ -25218,3 +25218,23 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAA
 *上表仅为支持的证件类型，请务必自行核对您手里的驾照原件与翻译件在整个用车
 
 ---
+
+## [其他] 您的境外租车订单已确认，请打印电子提车凭证！- 订单号：1008982021
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T07:23:25.000Z
+**摘要:** 租车订单已确认，包含提车凭证下载链接和取车信息。
+**待办:** 打印电子提车凭证
+
+ 订单确认邮件 
+<http://w.zuzuche.com> 3000万人都在用的出境租车APP 
+订单已确认！ 
+尊敬的武晶琦，您的境外租车订单已确认！ 
+租租车订单号：1008982021 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL29yZGVyLnBocD9vcmRlcl9pZD0xMDA4OTgyMDIxJmhhc2g9Y2Y3OWJhNzFiOTY4ZmI5NzY3NmQ2ZjBlOTBhZDhkYjAwMzc%3D&token=1fa6558ba61122c1dad1082728235ee1&channel=email_confirm&key=order> 
+提车确认号：9734741081 
+
+打印/下载提车单 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL3ZvdWNoZXIucGhwP29yZGVyX2lkPTEwMDg5ODIwMjEmaGFzaD1jZjc5YmE3MWI5NjhmYjk3Nj
+
+---
