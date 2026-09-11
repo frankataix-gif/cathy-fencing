@@ -24634,3 +24634,18 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTl9ADIAAAAAAKmY_zSlc21r9Y
 
 
 ---
+
+## [其他] Most-viewed homes under £400k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-06-05T16:13:13.000Z
+**摘要:** 这封邮件展示了本月最受关注的低价房源信息。
+**待办:** 无
+
+Homes under £400k that are attracting the most attention this
+month              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/1pYeq4M9c6Me6wSY2vK9Qw~~/AAAHahA~/LFHmNX_PVZ2uL6R2g_pc8fVWaQBEEXUDquPWp_Vs7r0bJoPkzR-wXaNDQXrR8iQStagT4reiB1CcAxKDXU332B_TTk8y2CuL-opzWeUrHlsWV2fJgtNsfonOa-9-Ito-epi5PYGI5u2V20cdLQwB1CN3Zz4Ie-dW9KsrptHFtao~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/StSfVjVEDtjMp8vmgtWFvw~~/AAAHahA~/QjY_3ZasqK1wwd3PIKBsCAB66Oui_z27jJ623Koj6FwtE0LgI1SBXreL_cxK-ag2HdBur36f
+
+---
