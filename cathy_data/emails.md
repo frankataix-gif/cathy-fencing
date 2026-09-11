@@ -24326,3 +24326,14 @@ Calvin Klein
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 09/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-09T08:53:22.000Z
+**摘要:** 邮件总结了意大利房地产市场数据及部分旅游景点推荐。
+**待办:** 无
+
+Che succede 09/06/2026 — idealista/news     Il mercato immobiliare italiano nel suo complesso mostra meno sconti: nel primo trimestre 2026 l8% degli annunci di case in vendita ha registrato un ribasso di prezzo, contro il 9% dello stesso periodo del 2025. È quanto emerge dallultima analisi pubblicata da idealista, portale immobiliare N.1 in Italia [ed editore di questa newsletter], sui dati del proprio database. Ma il dato nazionale rischia di nascondere una dinamica più interessante, che emerge
+
+---
