@@ -13948,3 +13948,22 @@ Her
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Re: Apartment 1, 2 Lancer Square W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T16:42:59.000Z
+**摘要:** 邮件更新了Lancer Square和London Dock的销售情况，并请求安排中文销售代表沟通。
+**待办:** 安排中文销售代表沟通
+
+Dear Augusta,
+
+Thank you for your email. Yes, I do interested, Regarding the properties, please see the updates below:
+
+Lancer Square:
+I noticed it is currently listed by another agent with an incorrect price. I have instructed them to take the listing down tomorrow. I will assess the latest market price shortly and will seek your opinion to ensure we have a unified asking price should we proceed with Benham and Reeves.
+
+London Dock:
+This property is ready for sale, and viewings can be a
+
+---
