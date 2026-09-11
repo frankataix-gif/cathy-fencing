@@ -1108,3 +1108,14 @@ pool. In the event that a seat opens up, we will contact you.
 Thank you again for considering HTS and 
 
 ---
+
+## [其他] Che succede 15/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-15T09:18:57.000Z
+**摘要:** 国际货币基金组织将2026年全球经济增长预期下调至3.1%，同时Stellantis公司2026年第一季度交付量预计增长12%。
+**待办:** 无
+
+Che succede 15/04/2026 — idealista/news                 Il Fondo monetario internazionale taglia al 3,1% le stime della crescita globale per il 2026, come risultato di uneconomia alle prese con le turbolenze generate dal Medio Oriente. Uno 0,2% in meno rispetto alle stime di gennaio, accompagnato da uninflazione in rialzo al 4,4% sulle pressioni dei prezzi dellenergia. Nessuno, o quasi, si salva dalla tempesta: lItalia sconta una limatura dello 0,2%, allo 0,5%, in unEurozona che frena all1,1%, d
+
+---
