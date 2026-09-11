@@ -15752,3 +15752,20 @@ Please do not reply to this email.
   ­ ͏
 
 ---
+
+## [营销] Jingqi, your PureFibre Internet is ready-let's add the entertainment! 🚀
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-08-01T18:01:43.000Z
+**摘要:** TELUS通知Jingqi的PureFibre互联网服务已准备就绪，并推荐添加流媒体或直播电视套餐以节省费用。
+**待办:** 无
+
+Save big on streaming, live TV or both.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfd974aea,408742c7,2ae0383e&e=Y2lkPXRlbERNMjI0NzM1MiZiaWQ9LTQwNDE2NTM0JnAxPSU0MElRSHJzTWNVNXRzYzBKdk54Q0F0JTJGYnJSY0QwSyUyRkVKVnd4VHY3Vm13a3lrJTNE&s=gRvcBoqXkdA7hp5oSNjGyswjoLV1_7xajjGRDf_IvQ4 web browser . 	
+ https://t.info.telus.com/r/?id=tfd974aea,408742c7,2ae0383f&e=Y2lkPXRlbERNMjI0NzM1MiZiaWQ9LTQwNDE2NTM0&s=6vN1DybWsOCnzGCtQ9M7rsseWXjjjRybeeieMFw2qAE 	
+	
+
+Your new Internet plan
+
+---
