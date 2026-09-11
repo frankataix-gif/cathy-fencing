@@ -26246,3 +26246,29 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Nzh9ADIAAAAAAGeah8lFLcbXyg
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Nzh9ADIAA
 
 ---
+
+## [营销] Welcome Survey: Is everything going well? ● Sta andando tutto bene?
+
+**发件人:** AC Hotel by Marriott Pisa <noreply@wifihotel.it>
+**日期:** 2026-05-16T00:39:12.000Z
+**摘要:** 酒店邀请客人参与简短调查，以帮助改进服务。
+**待办:** 无
+
+Your opinion is very important to us. ● La tua opinione conta molto per noi\r\nHelp us improve our services by answering our one question survey. ● Aiutaci a migliorare rispondendo al nostro sondaggio di una sola domanda.\r\n&nbsp;\r\nhttps://u3881377.ct.sendgrid.net/ls/click?upn=u001.J8V0Ovw53mVLnMZTXa-2BAh-2FjmHW-2BoRb-2BPp2fXjKUr52SLzNOhfUgcSJ8h-2FGbYNcvNX01hXwWRb8pS2iB6gtkBM1hL1eNuTJJuG05GYMHh3SE-3D0mlH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3POkyOI7Mzgcw6mJ0g3WyThFjkDlknOQlVj1HRNc
+
+---
+
+## [营销] What’s the current value of your home?
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-05-15T16:07:42.000Z
+**摘要:** 邮件询问房产当前价值，并提供查看估值和资产的链接。
+**待办:** 无
+
+See your valuation and equity in one place
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/HvGZe61vb4XtvblxlCzH5A~~/AAAHahA~/kP8vQUYlsFFzLbAiLwORu8t04cJXSwG_YUc_qn4FpknW6Vwiafp75NxM3EErw7cIkbHuMKa_PCX2kogb3LFcGFEp55LQMEdzlR5ovUJThuxx-dieEw2T4sb3bCdK4aAFwUaYOs5mf3mmy5A93DPvfZ-6IoVeT9LIyUpROq_yDjo~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/0-rTfne_y5bWulAeFx_FFQ~~/AAAHahA~/OUkAGEntc7AtNlKVjmYC7kS_ofcyoqIcMkwQDEkS3rNmcxzmsGSDLn9s6M80XWmBTCjgh1uhdb549dMqSGp3Fph2_AFleXx3BXbbKpLiQWiZYb
+
+---
