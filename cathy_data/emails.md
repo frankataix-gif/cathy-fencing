@@ -8143,3 +8143,17 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited an
 
 ---
+
+## [其他] Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-08-14T14:17:42.000Z
+**摘要:** 邮件要求签署委托书并提供反洗钱所需文件，包括身份证明、地址证明和视频验证。
+**待办:** 签署委托书，提供反洗钱文件（护照复印件、地址证明、视频验证）
+
+Dear Jingqi Wu,
+Thank you again for instructing Spencer West to represent you in your sale.
+Please find the necessary documents attached to this email:
+1) Engagement Letter: This document sets out the terms of our engagement with you as well as our firm's terms of business. Please read this carefully to make sure you are happy to proceed with us. If you have any issues, do not hesitate to let us know. Please kindly sign on the 6th page of the attached Engagement Letter. We accept e-signatures
+
+---
