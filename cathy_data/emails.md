@@ -7162,3 +7162,15 @@ Tailored for work, ready for after.
 ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] 9.9狂賞🔥HK$399 一口價來回上海+杭州
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-11T01:01:48.000Z
+**摘要:** Trip.com 发布9.9促销活动，提供HK$399起的上海+杭州往返机票及酒店优惠，包含限时折扣和回赠活动。
+**待办:** 无
+
+倒數 2 日！9AM 搶半價高鐵，12PM 搶 HK$99 起機票/酒店，9PM 用 Mastercard 減 HK$399！全日賺 9% 回贈👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154113141-1789088227457.751%26ouid%3D502511.HK-20260911-edm-99mega.2026-09-11_8_0.20260911.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D502511.HK-20260911-edm-99mega.2026-09-11_8_0.20260911.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiw
+
+---
