@@ -3748,3 +3748,29 @@ To unsubscribe click: <http://email.mailer.rentsyst.com/u/eJwcykGOgzAMBdDTkCX6cQ
  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­
 
 ---
+
+## [待办] 确认注册TimeTree账号邮件
+
+**发件人:** noreply@mail.timetreeapp.com
+**日期:** 2026-02-06T15:57:52.000Z
+**摘要:** 这封邮件是TimeTree账号注册确认邮件，需要用户点击链接完成注册，链接有效期为24小时。
+**待办:** 点击链接确认注册，完成账号激活
+
+你好。这里是TimeTree支持。
+
+感谢使用TimeTree。这封是自动向注册TimeTree账号的客户发送的邮件。
+
+请点击以下按钮完成注册。
+以下链接仅在 24 小时内有效。
+
+https://timetreeapp.com/confirm_email/MTAzNjc0NTAwMjppOGpWVG5yVw==
+
+
+如果您不认识这封电子邮件,则可能是其他用户输入了错误的电子邮件地址,而它被错误地发送给了您。请删除此电子邮件。
+
+Privacy Policy: https://timetreeapp.com/intl/terms/privacy
+Terms of Service: https://timetreeapp.com/intl/terms/service
+Help using TimeTree: https://support.timetreeapp.com/hc
+
+
+---
