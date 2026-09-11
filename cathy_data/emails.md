@@ -1836,3 +1836,30 @@ Fidelity c
 
 
 ---
+
+## [学校] Meadowridge: Enrolment Next Steps
+
+**发件人:** Meadowridge School <info+meadowridge@fsenrollment.com>
+**日期:** 2026-04-03T00:00:59.000Z
+**摘要:** Meadowridge School 通知家长需在14天内完成 Yunxi 的入学注册步骤，包括账户创建、合同签署及费用支付。
+**待办:** 1. 访问Meadowridge Hub账户并重置密码 2. 完成入学合同 3. 支付物品借用押金（$750） 4. 支付入学费用（$12,000）
+
+ 
+
+
+April 03, 2026 
+
+
+Dear Mr. He and Mrs. Wu,
+
+Thank you for accepting our offer of enrolment for Yunxi to join 
+Meadowridge's Grade 7 program starting Tuesday September 8, 2026.
+
+Your registration process involves the following steps *to be **completed **within 
+14 days*:
+
+   1. *Access your Meadowridge Hub 
+   <https://track.pstmrk.it/3s/meadowridge.myschoolapp.com%2Fapp%23login./ojo/YXDEAQ/AQ/6c3039c6-0c1a-4aea-85e4-be1a01e857d6/1/PV3hUzerhV#login.> 
+   account*. (You may receive an automate
+
+---
