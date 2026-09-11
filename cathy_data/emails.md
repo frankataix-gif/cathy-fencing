@@ -26602,3 +26602,17 @@ Che succede 08/05/2026 — idealista/news
 ***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] 🎬👙 The Summer Reel 👙🎬
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-08T06:43:53.000Z
+**摘要:** Hollister推出夏季促销活动，部分T恤和背心价格低于18欧元。
+**待办:** 无
+
+Hollister Co. 
+  
+Plus, our favourite tees & tanks under €18!* 
+<https://e.em.hollisterco.com/c2/1979:69f36fd297db8779cb06919e:ot:69e6429a87fa4e894f0fac35:1/40817f59?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzgyMjI2MzMsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmMzc1NjQ3YTVjNGVlYzA1MDZmZGQyIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ
+
+---
