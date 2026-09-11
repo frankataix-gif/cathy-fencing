@@ -1536,3 +1536,32 @@ RESO SEMPRE GRATUITO
 Fidelity c
 
 ---
+
+## [营销] How was your Hertz rental experience?
+
+**发件人:** Hertz <feedback@hertzlistens.com>
+**日期:** 2026-04-04T20:11:03.000Z
+**摘要:** Hertz邀请Jingqi反馈租车体验，以改进服务质量。
+**待办:** 无
+
+
+
+Hi Jingqi,
+
+Before you get too far beyond your recent travels with us, we would like to
+know how we did with your recent rental experience. Could you please take three
+minutes and provide your feedback? We’re listening! If you had or are having an
+issue, we want to make it right.
+
+Simply respond to the question below to get started..
+
+Based on your recent rental experience, how likely are you to recommend Hertz
+to others?
+
+0 = Not at all likely
+10 = Extremely likely
+
+0
+<https
+
+---
