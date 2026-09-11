@@ -14973,3 +14973,17 @@ Your recent payment
 
 
 ---
+
+## [学校] Submission Confirmation for Parent Social RSVP | 2026
+
+**发件人:** "communications@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-05T21:39:09.000Z
+**摘要:** 这封邮件是关于2026年家长社交活动报名的确认信息。
+**待办:** 无
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/><
+
+---
