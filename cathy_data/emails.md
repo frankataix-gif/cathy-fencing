@@ -24424,3 +24424,16 @@ Che succede 8 giugno — idealista/news          L’acciaio inox è considerato
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154242164-1780881718458.204%26ouid%3D427317.HK-20260608-EDM-GoJP-AB-zh.2026-06-08_8_0.20260608.zh_HK.427310%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D427317.HK-20260608-EDM-GoJP-AB-zh.2026-06-08_8_0.20260608.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUF
 
 ---
+
+## [学校] You're Invited: New Parent Welcome & Information Night
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-06-07T14:26:58.000Z
+**摘要:** 邀请新家长参加欢迎会和信息之夜，了解学校详情。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
