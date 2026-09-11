@@ -490,3 +490,14 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTd9ADIAAAAAACjpEqQxTfvZED
 ͏&zwnj; ͏&zwnj; ͏&zwnj; ͏&zwnj; ͏&zwnj; ͏&zwn
 
 ---
+
+## [其他] Affitti brevi, la guida di idealista/news
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-04-24T17:01:27.000Z
+**摘要:** 邮件介绍了2026年米兰家具展的行业动态及住房计划的最新进展。
+**待办:** 无
+
+Newsletter 24/04/2026 — idealista/news     | Martedì 21 Aprile 2026 | Giovedì 23 Aprile 2026  | Venerdì 24 Aprile 2026Nonostante le criticità del momento, il Salone del Mobile si conferma il punto di riferimento irrinunciabile per il settore dell’arredo e del design a livello globale. L’edizione 2026, con oltre 1900 espositori da 32 Paesi, affronta diverse tematiche, dal rapporto uomo-ambiente alla valorizzazione dei giovani talenti, all’apertura verso i grandi progetti, oltre il mondo del priva
+
+---
