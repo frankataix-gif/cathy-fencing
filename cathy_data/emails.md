@@ -11729,3 +11729,15 @@ Your Home Insurance Quote #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wue4U_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ0eMTK2EU0WJwEu5jmWKZJLdfRSjSlM9XRWh9rf1QPTpuEMhEzya1NAzAQibJmrTjcYPAHW0PnVQvBRsbMeiGOiTyEam1W0na7XFRZtjnG-2F9qbZvCt4XLCdTDUHo80WIP7gMMiK
 
 ---
+
+## [营销] 【今日會員日😍】狂賺5%額外回贈！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-27T00:38:49.000Z
+**摘要:** Trip.com 发送会员日促销邮件，宣传预订机票和酒店可获得高额回赠及酒店折扣优惠。
+**待办:** 无
+
+訂機票/酒店賺高達 HK$63 回贈📍全球酒店低至 25 折！即訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152131244-1787791127886.275%26ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1M
+
+---
