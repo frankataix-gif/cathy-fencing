@@ -9980,3 +9980,32 @@ W: https://www.foxtons.co.uk
 Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is
 
 ---
+
+## [其他] Your Payoneer account is approved
+
+**发件人:** Payoneer <no-reply@send.payoneer.com>
+**日期:** 2026-09-03T10:04:05.000Z
+**摘要:** Payoneer通知用户账户已批准，鼓励开始使用该服务来发展业务。
+**待办:** 无
+
+Time to start growing your
+business with Payoneer
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpaddin
+
+---
