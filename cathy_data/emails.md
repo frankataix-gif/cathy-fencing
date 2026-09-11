@@ -9683,3 +9683,16 @@ Did you know 500 points = $10 off a future purchase?
 <https://app.sephora.com/T/v61000001a06c8da290abe1e4f4bbe5be68/9243ffb87fe343810000021ef3a0bc
 
 ---
+
+## [营销] New Wishbone, Worth the Double Take
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-04T13:09:03.000Z
+**摘要:** Browns Shoes正在促销UGG款式，邀请客户购买。
+**待办:** 无
+
++Select UGG styles, now on sale. Don’t miss your pair.   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq4WYfT44jsMmEtrpAh0Zf0Q-3D-3DegPI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHAu-2FjU9HEIfuFoPCh8ETxXB6KLU7NtYNGb-2BmO7cdDS38NBDvf8emhoH4XMFoUp6X8JKUwnME9GMIZfWh-2By3zq8D-2BgwzPS83z49DjiviVUelxAc-2BgL8r5vdjsOFBmElyN0L-2Bm5K5iMBphyN6eLXtAsyg6e
+
+---
