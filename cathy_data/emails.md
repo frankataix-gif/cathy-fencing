@@ -16101,3 +16101,25 @@ This insurance supplements the mandatory International Student Health Fee (ISHF)
 Information regarding ISHF can be found on the BC government websi
 
 ---
+
+## [营销] Here’s a little something special for your pet
+
+**发件人:** TELUS <no-reply@e.telus.com>
+**日期:** 2026-07-29T16:46:49.000Z
+**摘要:** TELUS Health MyPet推出跳蚤和蜱虫防护套餐，提供免费虚拟兽医咨询、药品折扣及免费送货服务。
+**待办:** 无
+
+ TELUS 
+Plus, get a free flea and tick prevention consult 
+Trouble viewing this email? View in web browser 
+<http://t.e.telus.com/r/?id=h166edeb9,15577d4b,59bfdae&e=cDE9JTQwSEZBWmo4MHVsc3NSSzhFSzBuUGFmZnRVUU9RMkVEMWgwS0pYQTNLelQlMkYwJTNE&s=fCu2E1Fxs1BBLNvprto_hpnpzRl5NSMA8QkHWDIuJyo>. 
+
+[image: TELUS Health logo] 
+<http://t.e.telus.com/r/?id=h166edeb9,15577d4b,59bfdaf> 
+Protect your pet with our Flea & Tick Bundle. 
+[image: MyPet Dog and Cat] <#> 
+Dear Jingqi, 
+
+Tick populations are expanding ra
+
+---
