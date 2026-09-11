@@ -12507,3 +12507,21 @@ Tesla
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Your home insurance quote #7181329
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-22T01:18:20.000Z
+**摘要:** Jingqi收到Square One的家财险报价，保费为每月31.61美元，有效期至2026年9月20日，附有详细保单信息。
+**待办:** 无
+
+ 
+Review and buy in minutes, all from the comfort of home. 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WbAZc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ48LJZo-2FoXRPuQcM7BSR54EiXHs0-2BShQ4t5v8vnonSdRgb9XyJe-2BIwiUWgjRcFpSpw6eJYbpMds-2FhI1jH4fiJpMNC2sa0hKywDnzkee1VBHCocMUiamTJjCLFzfNp6up3Gp9H3pLlof
+
+---
