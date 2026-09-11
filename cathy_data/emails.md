@@ -2606,3 +2606,16 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/Nva3crhBLfj_r5hqVLsIJA~~/AAAHahA~/BYYc1EGU4QB_WVZ6psExZlOG3Wm6jnE1ACuFMzs5g8IFGPSyA5VWxL9JTEdDWGg8ujYem1rbjTVu7aDCCbcE0FIc9WT5r6qEedcVBsrl4yHR
 
 ---
+
+## [其他] Che succede 19/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-19T10:36:10.000Z
+**摘要:** 欧洲天然气价格因伊朗攻击能源设施而大幅上涨，黄金、白银等金属价格下跌。
+**待办:** 无
+
+Che succede 19/03/2026 — idealista/news                     Il prezzo del gas apre in forte rialzo in Europa. Al TTF i future sul gas naturale hanno registrato unimpennata di oltre il 25%, superando i 68 euro per MWh e raggiungendo i livelli più alti degli ultimi tre anni, dopo che lIran ha sferrato attacchi contro infrastrutture energetiche chiave in tutto il Medio Oriente, intensificando i timori relativi allapprovvigionamento.
+
+Oro in calo del 2,55%, con i futures in scadenza ad aprile pagati
+
+---
