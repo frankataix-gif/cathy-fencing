@@ -3101,3 +3101,20 @@ https://keep.google.com/share?note=1n1X6EfdtJlVvmZIrt716w6sAEuqZ1f4S7ntfSWiFHQ8n
 
 
 ---
+
+## [其他] 有人与您共享了文件夹“Desk Google F”
+
+**发件人:** "he frank（通过Google 云端硬盘发送）" <drive-shares-dm-noreply@google.com>
+**日期:** 2026-03-15T09:34:10.000Z
+**摘要:** Google云端硬盘通知用户有文件夹被共享，提供在线访问链接。
+**待办:** 无
+
+我与您共享了：
+
+Desk Google F
+https://drive.google.com/drive/folders/1J41TgHTbr9d5VeTrhZnNiQ7dejPoGgcm?usp=sharing&ts=69b67d12
+
+这项内容并非附件，而是在线存储的文档。点击上面的链接即可将其打开。
+
+
+---
