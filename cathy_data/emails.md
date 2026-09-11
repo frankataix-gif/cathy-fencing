@@ -23742,3 +23742,29 @@ You've got new Trip Coins!
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2
 
 ---
+
+## [其他] U.S. DoS - CEAC Confirmation (AA00FLWVNL)
+
+**发件人:** <DO-NOT-REPLY@state.gov>
+**日期:** 2026-06-15T17:19:17.000Z
+**摘要:** 
+**待办:** 无
+
+Dear Applicant,
+
+Thank you for being a valued U.S. Consular Electronic Application Center (CEAC) customer. Your electronic Visa application has been submitted.  
+
+ 
+
+   Name Provided:    GUAN, SHIFEN
+   Country/Region of Origin (Nationality):      CHINA
+   Passport Number:  EM9941920
+   Completed On:     15 JUNE 2026 13:16:56 EST
+
+   Confirmation #:   AA00FLWVNL
+
+YOUR CONFIRMATION PAGE IS ATTACHED TO THIS EMAIL IN A PDF FILE!
+
+You must follow the instructions on the confirmation p
+
+---
