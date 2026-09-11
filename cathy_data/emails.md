@@ -2579,3 +2579,16 @@ from ho
 Che succede 20/03/2026 — idealista/news               Il decreto legge contro il caro carburanti, approvato dal Consiglio dei ministri, è entrato in vigore con la pubblicazione in Gazzetta Ufficiale. Ma non tutti i distributori hanno applicato subito lo sconto di 25 centesimi al litro, previsto dal provvedimento per 20 giorni. Mister Prezzi, ovvero Benedetto Mineo, il Garante presso il ministero delle Imprese, ha avviato subito i controlli. Nel pomeriggio ha riunito al ministero la Commissione A
 
 ---
+
+## [其他] Guerra in Iran, le conseguenze su economia e immobliare
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-03-19T14:00:08.000Z
+**摘要:** 伊朗战争引发地缘政治变化，导致能源价格上涨，影响经济和房地产市场。
+**待办:** 无
+
+Guerra in Iran, le conseguenze su economia e immobliare — idealista/news    La guerra tra Iran, Stati Uniti e Israele sta ridefinendogli equilibri geopolitici e provocando un forte incremento dei prezzi energetici, aumentando i costi economici per famiglie e imprese. In attesa di vedere quali saranno le misure messe in atto dal governo e dall’Unione Europea, vediamo quali sono le conseguenze di questo conflitto non solo per il mercato economico, ma anche per il settore immobiliare.
+
+------------
+
+---
