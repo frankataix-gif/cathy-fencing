@@ -15361,3 +15361,20 @@ Decisive styles for an indecisive season.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Jingqi, here's a quick guide to getting the most out of your new services 🔍
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-08-03T23:01:17.000Z
+**摘要:** 这封邮件是TELUS为Jingqi提供的新服务使用指南，介绍如何通过T+应用等工具最大化利用PureFibre服务功能。
+**待办:** 无
+
+ Telus Don't miss out on these helpful tips. 
+Trouble viewing this email? View in web browser 
+<https://t.info.telus.com/r/?id=hfdbae912,40888a6e,2ae167d7&e=Y2lkPXRlbERNMjI0OTg2MSZiaWQ9LTM4MDgyMjg2JnAxPSU0MGVjU0NQT0k1aHZCSDhoSk5nUDk5dDBTVnRpcEhWSWp2SHlzZ0JqME1pdXclM0Q&s=aaCCjUkJnxy7yeTKYzzQIAGb4al6xMXt6DtWByl8H0A>. 
+
+[image: TELUS] 
+<https://t.info.telus.com/r/?id=hfdbae912,40888a6e,2ae167d8&e=Y2lkPXRlbERNMjI0OTg2MSZiaWQ9LTM4MDgyMjg2&s=QSfpwH34xdR2sgKrV6wCB89dZL7nrDcyjHrWDskDUPI> 
+Let's explore 
+
+---
