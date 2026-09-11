@@ -26478,3 +26478,31 @@ Che succede 12/05/2026 — idealista/news         Loperazione, perfezionata tram
 I prezzi del petrolio chiudono a New York con solidi rialzi dopo il mancato accordo tra Usa e Iran sulla proposta di pace elaborata da Washington, che prevedeva la riapertura dello Stretto
 
 ---
+
+## [营销] I colori del mare 🧿​
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-12T07:23:22.000Z
+**摘要:** 推广新品服装及产品链接，包含免费取货和退换服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzR9ADIAAAAAAFpFmMkmr9V3aEZuxsenP-eaImEWQX9NeOgPFHFOcUv28Z1Rr3hofLNA671kawZJRsUxzK8JM-wfBURaQzsnFbH3VrAOgYlMEvS-AKry 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzR9ADIAAAAAAFpFmMknWLPUZiD9OJnwdV8iEzCJp1gZjXjkYU5eYa83Bi6xOVp-u6yVf30sDVARwDitklRROd0b5bAxnt
+
+---
