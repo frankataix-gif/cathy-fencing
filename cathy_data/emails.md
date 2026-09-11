@@ -19948,3 +19948,29 @@ Phone 604 317 4060
 [cid:0b621b7c-24b9-44e0-acd2-a526
 
 ---
+
+## [其他] Your Rental Application
+
+**发件人:** "Smith & Farrow Rental Homes" <no-reply@rentcafe.com>
+**日期:** 2026-07-10T21:41:23.000Z
+**摘要:** 用户提交了Smith & Farrow Rental Homes的租赁申请，房东确认收到并提供查看或编辑申请的链接。
+**待办:** 无
+
+ RENTCafe Email Template 009 
+
+  
+[image: smith-farrow-rental] 
+<https://www.rentcafe.com/t/el?ref=Njk1MzQ5NDc2Mw%3d%3d-E1HVvla9%2bXk%3d,aHR0cDovL3JlbnRzbWl0aGFuZGZhcnJvdy5ib2Zmby5jYQ%3d%3d-mq%2b%2fi0AqpLg%3d> 
+  
+
+Dear jingqi,
+
+Thank you for submitting your application to Smith & Farrow Rental Homes. 
+We are excited that you are interested in joining our community.
+Please save this email for your personal records.
+ 
+ 
+To view or edit your online application account, click the link below and 
+se
+
+---
