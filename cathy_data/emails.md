@@ -1888,3 +1888,34 @@ Frank & Mom
 在 2026/4
 
 ---
+
+## [学校] Meadowridge: Offer of Enrolment
+
+**发件人:** Meadowridge School <info+meadowridge@fsenrollment.com>
+**日期:** 2026-04-02T23:01:26.000Z
+**摘要:** Yunxi He被Meadowridge学校录取，需在7天内提交决定表，并在14天内支付费用。
+**待办:** 提交决定表并支付相关费用
+
+ 
+
+
+April 02, 2026 
+
+The He & Wu Family
+Gubei One Park, 1099 Hongsong East Road
+Room 8-301
+Minhang District, Shanghai  201103
+China
+
+
+*RE: Meadowridge School Application for 2026-2027*
+*Yunxi He – Grade 7*
+
+Dear Mr. He and Mrs. Wu,
+
+Thank you for applying to Meadowridge School. We are pleased to offer Yunxi 
+placement in Grade 7 starting Tuesday, September 8, 2026. To accept or 
+decline this offer, please log into the Application Portal 
+<https://track.pstmrk.it/3s/meadowridge.fsenrollment.ca%2F
+
+---
