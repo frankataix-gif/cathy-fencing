@@ -25508,3 +25508,31 @@ Che succede 28/05/2026 — idealista/news                 Cortei in tutta Italia
 <https://hk.trip.com/flightsorder/vieworder?orderid=1359045740211663&accesstoken=X7B70AE71E9C540C8E86AEA405A0EFE62096747D4854DA4F48A252EB5ABE349F&from=email&template=TRIP_BOOKING_CONFIRMED&lo
 
 ---
+
+## [其他] 付款成功
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-05-27T13:10:21.000Z
+**摘要:** 付款成功，机票将在2026年5月27日前出票，并会收到确认邮件。
+**待办:** 无
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+付款成功
+付款成功
+您好，WU JING QI：
+我們已收到您的付款。*我們正在處理您的機票*，最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+出票後，我們將向您發送附有您的行程和電子收據的*確認電郵*。
+[image: icon]   Trip.com 保證出票
+米蘭 - 里斯本｜6月12日
+最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+里斯本 - 洛杉磯｜6月12日
+最遲將於*2026年5月27日15:55 （米蘭時間，GMT+2）*出票。
+HE (姓) YUN XI (名)
+WU (姓) JING QI (名)
+您可以隨時透過*「管理我的訂單」*查看訂單詳情或機票狀態。
+    管理我的訂單     
+<https://hk.trip.com/flightsorder/vieworder?orderid=1359045740211663&accesstoken=X7B70AE71E9C540C8E
+
+---
