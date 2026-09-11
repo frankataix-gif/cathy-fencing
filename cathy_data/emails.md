@@ -702,3 +702,16 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTR9ADIAAAAAAB7bK-71z-IlMq
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 21/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-21T15:01:57.000Z
+**摘要:** 邮件内容涉及意大利Piano Casa房地产政策及2025年第四季度汽车保险价格数据，提及保险费用上涨趋势和部分地区紧急状态。
+**待办:** 无
+
+Che succede 21/04/2026 — idealista/news      ha spiegato che il Piano Casa si articola in diversi fondamentali tronconi: il recupero del patrimonio di edilizia residenziale pubblica attualmente inutilizzabile, perché in condizioni fatiscenti che ne impediscono l’impiego; l’accordo tra Stato e Regioniper dare vita a un piano che preveda la programmazione dei Fondi di coesione e del Fondo Sviluppo Coesione
+
+Nel quarto trimestre del 2025 il prezzo medio della garanzia rc auto si attesta a 432 euro,
+
+---
