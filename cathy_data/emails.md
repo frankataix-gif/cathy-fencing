@@ -3187,3 +3187,31 @@ Title
 
 
 ---
+
+## [击剑] Category Change Request - Foil U15 Women (Athlete born in 2014)
+
+**发件人:** Natalie Wu <nataliewu100@gmail.com>
+**日期:** 2026-03-14T18:53:55.000Z
+**摘要:** Natalie Wu 请求将运动员He Yunxi从U13改为Foil U15类别，因其成绩和装备符合U15要求。
+**待办:** 处理参赛级别更改请求
+
+*Dear Organizing Committee,*
+
+We would like to register *[He,Yunxi]* (born 2014) for the *Foil U15* 
+category instead of U13.
+
+*Reasons:*
+
+ 1.
+
+    *Performance:* She just won *Silver (U14)* and *Silver (U17)* at the
+    Rapir Cup in Croatia last week. She is ready for the U15 challenge.
+
+ 2.
+
+    *Equipment:* She only uses *Size 5 blades* (adult size), which are
+    required for U15 but not allowed in U13.
+
+Please allow her to compete in the *U15 category*. Thank you for your h
+
+---
