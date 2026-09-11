@@ -2820,3 +2820,26 @@ https://keep.google.com/share?note=1ykuQC7xNNliux7N0PH7BRuWhF-NHdbYe6lM1Q0dOLyFf
 
 
 ---
+
+## [其他] Important information about your recent Hertz rental
+
+**发件人:** noreply@hertz.com
+**日期:** 2026-03-15T20:07:03.000Z
+**摘要:** 提醒用户查看附件中的车辆状况报告
+**待办:** 无
+
+*Dear Customer,*
+
+Thank you for renting Hertz. Please find attached the vehicle condition 
+report for your vehicle.
+
+Yours sincerely
+
+*On behalf of Hertz Italiana Srl*
+*Piazzale Luigi Sturzo 31*
+*00144 Roma*
+*Italia*
+*null*
+*Please do not reply to this email as it is from an automated system.*
+
+---
