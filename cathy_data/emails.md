@@ -8871,3 +8871,20 @@ Verdana, Arial, sans-serif !important; }     96
 ͏‌  ͏‌ 
 
 ---
+
+## [营销] EADEM’s latest Le Chouchou Exfoliating Balm shades are here
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-09-07T13:28:43.000Z
+**摘要:** Sephora通知EADEM最新推出的Le Chouchou Exfoliating Balm两款新色Churro和Coquito已上架，并附有产品链接和促销信息。
+**待办:** 无
+
+ Sephora 
+
+Meet Churro and Coquito. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a07c0e7314cb92ef6e96c660f0/3f41cc71385c41c90000021ef3a0bcc2/3f41cc71-385c-41c9-86d3-5
+
+---
