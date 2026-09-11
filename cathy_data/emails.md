@@ -13844,3 +13844,15 @@ Drama, mystery and new satin inside.
 ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] HK$1 券包快閃廣州中山🚄😌
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-14T00:17:40.000Z
+**摘要:** Trip.com推送高铁票和旅行套餐的限时折扣优惠，包括高鐵券包及滑雪等附加服务。
+**待办:** 无
+
+HK$1 拎走 HK$175 高鐵券包🎁45mins直達🚄農家菜/騎樓飲早茶😋新手滑雪低至 HK$220 起即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101554942-1786666659597.710%26ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26trip_in_sid%3D1121&bizDat
+
+---
