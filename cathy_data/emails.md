@@ -23979,3 +23979,15 @@ Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riu
 其他地区拨打：+86-10-60
 
 ---
+
+## [其他] 您已成為金級會員！
+
+**发件人:** "Trip.com Rewards" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-12T08:56:05.000Z
+**摘要:** 您已升级为金级会员，享受火车票退款手续费豁免及其他奖励。
+**待办:** 无
+
+享受火車票退款手續費豁免及其他全新升級獎賞！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-20621-101526105-1781254563425.997%26ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D55877.new-MemberUpgrade_AutomationEDM_toGold-update-version..20260612.zh_HK.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0yMDY
+
+---
