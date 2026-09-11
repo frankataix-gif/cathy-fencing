@@ -11196,3 +11196,19 @@ Manage your bill preference
 Monitor your monthly Interne
 
 ---
+
+## [营销] Make a friend a neighbour - $500 referral fee
+
+**发件人:** "Smith & Farrow Rental Team" <rent@boffo.ca>
+**日期:** 2026-08-28T21:33:42.000Z
+**摘要:** 邮件通知居民推荐朋友成功入住可获得500美元奖励，以促进社区扩展。
+**待办:** 无
+
+ 
+Dear Residents, 
+Do you love living at Smith & Farrow? Know someone who might love calling it home, too? 
+For a limited time, we’re pleased to offer residents a $500 referral fee* when a personal introduction results in a successful tenancy agreement at Smith & Farrow. It’s our way of saying thank you for helping us grow our community by welcoming like-minded people who will make wonderful neighbours. 
+We’re proud of the community we’re building here and we want more people like you! 
+If 
+
+---
