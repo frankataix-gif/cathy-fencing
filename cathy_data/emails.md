@@ -24062,3 +24062,15 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h27NzHB9N
 <https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Fwww.trip.com%2Fwebapp%2Fflight%2Fschedule%2Fdetail.html%3FisHideNavBar%3DYES%26origin%3D239%26useCTHybrid%3D1%26flightNo%3DTP829%26dcode%3DMXP%26acode%3DLIS%26queryDate%3D2026-06-12%26queryTime%3D05%3A50%3A00%26locale%3Dzh-HK%26channel%3Demail%26subC
 
 ---
+
+## [营销] Road trip e viaggi in famiglia: dove andare nell’estate 2026 tra Italia ed Europa
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-11T14:00:33.000Z
+**摘要:** 这封邮件提供了2026年夏季意大利及欧洲家庭旅行的路线和目的地建议。
+**待办:** 无
+
+Road trip e itinerari italiani in famiglia — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
