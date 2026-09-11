@@ -10777,3 +10777,20 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3Dbdbo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHQgJALsi1IsXZcsgLfh8DUOGL1F2OEN9LOb6zrOFxRKn6aiX-2FfB1EcvRPfsrT2-2F6X4zfzPGHn4HqR85iIguPJLOaLDxS3xr58zilon44WiV9uGPUSqbZpHK0LWlrsusQPis9KSlF13E6lSe8BsonDU1MTpga
 
 ---
+
+## [营销] You’re gonna love these rewards from Korean skincare faves
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-01T16:19:01.000Z
+**摘要:** Sephora Insider推送韩国护肤品牌奖励信息，提及积分兑换及快速发货优惠。
+**待办:** 无
+
+ Sephora 
+
+Don’t wait, they go fast! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a05dc44b7f9ae7eef4bbe5c7c0/9477abf0cc1849ba0000021ef3a0bcc2/9477abf0-cc18-49ba-a884-
+
+---
