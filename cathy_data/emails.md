@@ -18153,3 +18153,2919 @@ https://drive.google.com/drive/folders/1s2_ePSr66ThhZdlF9BAJ2liH34daEW11?usp=sha
 
 
 ---
+
+## [营销] Welcome to Canada Post
+
+**发件人:** Canada Post  <donotreply-nepasrepondre@notifications.canadapost-postescanada.ca>
+**日期:** 2026-09-11T21:37:41.000Z
+**摘要:** 欢迎注册Canada Post账户，邀请登录以使用自动跟踪和MyMail等服务。
+**待办:** 无
+
+Sign in and see what you can do! 
+
+View in browserCanada Post  https://t.notifications.canadapost-postescanada.ca/info2/r/?id=teba96bf,ae644d8,48ae4b9
+
+  	
+
+Welcome to Canada Post 
+
+  	
+
+Hi  Jingqi, 
+
+  	
+
+Thank you for creating a Canada Post account. We’re glad you’re here! 
+
+  	
+
+Get the most out of your experience by trying any of our free and convenient features and services designed to make your life easier. 
+
+  	
+
+Welcome to your new Canada Post account 
+
+ https://t
+
+---
+
+## [其他] [Task Update] Email Monitor: Email access needed to check important messages
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-21T22:58:10.000Z
+**摘要:** 邮件助理无法检查邮箱，因缺少有效的邮箱连接和读取授权，无法确认是否有重要邮件需要关注。
+**待办:** 无
+
+ 我无法完成这次邮件检查，因为当前没有权限访问你的邮箱内容，也没有可用的邮件连接来读取新邮件。 缺少的信息是：与你的邮箱（如 Gmail 或 
+Outlook）的有效连接和读取授权。 因此，我无法判断是否有新的重要邮件需要你关注。 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEo0Z091wxiF3lUQV-2B8E5AQf-2F1DDajKGQ3wFmGPj2LP1m-2FHFhBUOp-2BK2wvqLFajF3faMQGDCbGHB73o1VaP80hjsyeXrT6RJoaY2Ekh4xxmLXgBaSDl4cl36KWDE7sd3rFaP3Z5UzRYLxA0nhlQBaC75nvKuDitYmdWxFGhmdEFUXehNW1LdgNCr7ODMmJd0BJWII0NCILjLYhMBPtOkGb-2FyPZ2rq7KZB-2BHQBiuxU9Xugkraq1bOzSS0xRNPTaNcICJVjUBfVaoAqW8zdO1AevTLHuvDTD4u
+
+---
+
+## [待办] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-07-21T22:17:57.000Z
+**摘要:** Google提醒Natalie在Apple iPhone上完成Google设置，并提供相关链接。
+**待办:** 在Apple iPhone上完成Google设置
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/AKMee0f-cV1nZ9aJcmnJSZfoOduivdPorhFQ9yj5Mg4SsL3RTBmJSc8JjWaUMt5O8PJJzbe8EAENHLx4UOWUrwZHNEUBe_10J3D-MPiAY5lXY6yxO-HOLE2UGoaho4K5oDKHLd9yCusGgoC9EhwUB1JTytUIoEQDMvc5FRex7yJkfSKca-6HdaakCGKeYO_Fw16f7STC49fmoPezRPrbUz9oahNlT04Kc23xcFCC7iaDMbPmLAsvK4G6ngYWtxHTzIHunnN-6HKwenShalYaJpUh4ZH0KD2Sg_k7RjOKM2hpWKwSMSbHbKF3VA?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-21T22:16:53.000Z
+**摘要:** Google 发送安全提醒，通知账号在 Apple iPhone 设备上有新的登录活动，建议查看活动记录或安全页面。
+**待办:** 无
+
+[image: Google]
+在 Apple iPhone 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Apple iPhone
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1784672213000?rfn%3D325%26rfnc%3D1%26eid%3D7246837456225140413%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC,
+
+---
+
+## [待办] Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-21T21:09:55.000Z
+**摘要:** Anastasia Makarevska通过Docusign发送了需要签署的文件，请点击链接完成签署。
+**待办:** 点击链接签署Docusign文档
+
+Hello Jingqi Wu,
+
+Anastasia Makarevska | S&F Rental Homes has sent you a new Docusign document to view and sign. Please click on the link below to begin signing.
+
+    
+
+Review Document
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=40782f6a-4809-8b44-8344-ac9915a20b88&etti=25&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=e9f3c890-6b22-811d-83b4-914ffb9c7e44
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get sta
+
+---
+
+## [营销] 708 Farrow st
+
+**发件人:** Naeim Asady <Naeim.Asady@telus.com>
+**日期:** 2026-07-21T20:47:19.000Z
+**摘要:** 邮件提供了TELUS的互联网和移动服务促销，需回复详细信息以完成注册。
+**待办:** 回复邮件提供所需个人信息以完成注册
+
+Hello! Thank you for calling today.
+
+As discussed, you are eligible for the following promotions:
+
+   -
+
+   *TELUS PureFibre Internet 1.5G:* *$70/month + tax* on a 2-year contract
+   (after setting up pre-authorized bank payments), plus your *first 3
+   months FREE*!
+   -
+
+   *TELUS Mobile Service:* *$35/month for 100GB* of data with *no contract
+   required*.
+
+I am happy to help you set up everything and ensure your services are fully
+up and running smoothly.
+
+To complete your 
+
+---
+
+## [其他] Smith & Farrow - Blinds Repair
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-07-21T19:55:18.000Z
+**摘要:** 关于百叶窗维修的请求已提交，等待回复安排日期。
+**待办:** 无
+
+Hi Natalie,
+We hope you're doing well. We wanted to let you know that we have submitted a request to Bright Blinds to have your blinds repaired. Once we hear back from them, we'll let you know the date of their arrival.
+Thank you for your patience.
+Kind regards,
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:94ad8f32-8ced-4584-b015-c54615cf7e9a]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the emai
+
+---
+
+## [营销] ​This week’s shopping deals are here
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-21T19:35:10.000Z
+**摘要:** DoorDash推出本周购物优惠，涵盖家居、美容等商品，用户可享受折扣。
+**待办:** 无
+
+ DoorDash Save on home, beauty, and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+
+---
+
+## [营销] Aritzia + Juilliard. Artistry meets artistry.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-21T14:07:26.000Z
+**摘要:** Aritzia与Juilliard合作推出促销活动，部分商品享40–60%折扣。
+**待办:** 无
+
++ 40–60% off select styles. Sale’s in session.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-07-21T13:19:06.000Z
+**摘要:** T-Mobile提醒用户需在2026年7月23日前充值账户以避免服务中断。
+**待办:** 支付以续费T-Mobile账户
+
+ Make a payment to continue service. 
+Make a payment to continue service. 
+Make a payment to continue service. 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account now 
+Hi , 
+Your monthly plan is about to renew. You must make a payment to refill your 
+T-Mobile account by *07/23/2026* to continue uninterrupted service. 
+
+You can pay online at my.t-mobile.com. <https://my.t-mobile.com> Please 
+disrega
+
+---
+
+## [营销] 3-Day Sale is ON🛍️
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-21T12:16:04.000Z
+**摘要:** BestBuy.ca 发起为期三天的销售活动，提供折扣优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-20T22:18:32.000Z
+**摘要:** 收到加拿大政府的登录验证码，用于登录政府服务。
+**待办:** 使用验证码U288JH5D登录加拿大政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+U288JH5D
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] 📣 The 3-Day Sale starts now!
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-20T11:09:24.000Z
+**摘要:** BestBuy.ca宣布启动三天促销活动，提供限时折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 一家大細玩盡暑假☀️親子門票半價
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-20T00:18:00.000Z
+**摘要:** Trip.com推送暑假促销活动，长隆酒店直降500港币并提供积分任务。
+**待办:** 查看链接参与暑期促销活动
+
+長隆酒店激減 HK$500🏨⭐️再解鎖2大任務輕鬆賺1,700 Coins💰👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152160179-1784506557120.868%26ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
+
+---
+
+## [其他] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-19T18:02:16.000Z
+**摘要:** 发件人收到包裹后发现一个抽屉无法正常使用，并附上视频说明。
+**待办:** 无
+
+Hello,
+I just received my packages and I found that a drawer is not working, the
+video is below:
+
+
+---
+
+## [营销] Got a craving? It's 50% off
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-19T16:06:06.000Z
+**摘要:** DoorDash提供50%折扣优惠，适用于餐饮和杂货订单。
+**待办:** 无
+
+ DoorDash Email With another 50% leftover. 
+[image: 50-off-2-banner] 
+[image: 50-off-2-banner] 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4sg/J8-E7MIBQYGv0DTXwYTz_Q/h0/h001.8eTklcz7L9GMF5GB-tD3vAZ9PH00rpvueQTYjDTSfuQ> 
+
+Restaurants 
+<https://tracksg.doordash.com/ss/c/u001.SiuUiwMuCr410hIXptmxk7IU2N8V2n5fH3NYgVHBgC4/4sg/J8-E7MIBQYGv0DTXwYTz_Q/h1/h001.6wIKbB7tIYblUIGDEDVSs4R8fhk64bSKf8FOXse_EM0>
+
+|
+
+Groceries 
+<h
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-19T11:54:43.000Z
+**摘要:** 收到加拿大政府服务的登录验证码，验证码为BJPGWUE8。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+BJPGWUE8
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Raccontaci la tua esperienza
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-07-19T08:41:33.000Z
+**摘要:** 这封邮件是Iliad邀请用户分享SIM卡使用体验的调查问卷，旨在收集客户反馈。
+**待办:** 填写调查问卷以分享SIM卡使用体验
+
+ Raccontaci la tua esperienza 
+                           
+Ti basteranno 2 minuti
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [营销] 低至5折｜7月玩樂精選🎶🍽️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-19T06:33:50.000Z
+**摘要:** Trip.com推送7月促销信息，包括音乐节、自助餐和机票优惠。
+**待办:** 无
+
+叱吒903音樂會、自助餐及更多優惠
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015448116-1784442829252.116%26ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.460168%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460182.HK-20260719-edm-reactivationnewsletterzh.2026-07-19_8_0.20260719.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
+
+---
+
+## [营销] 40–60% off must-haves
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-19T02:08:32.000Z
+**摘要:** Aritzia发送的促销邮件，提供40-60%的折扣优惠，暗示可以借此机会购买所需物品。
+**待办:** 无
+
++ Your excuse to book that pilates class.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
+
+## [其他] Your receipt is here! #941 40 9599 07182026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-18T23:29:28.000Z
+**摘要:** 用户收到Best Buy的电子收据，用于退换货或服务。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 40 9599 07182026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 40 9599 07182026 
+Date 2026-07-18 04:29 PM 
+Type Exchange 
+Associate Name Andy 
+Transaction Summary
+Breville The Soft Top Pure Electric Kettle - 1.7L - Silver 
+Item #: 10574189 
+Original 
+
+---
+
+## [待办] Your order is ready for pick up #1030191408
+
+**发件人:** Best Buy Canada <noreply@bestbuy.ca>
+**日期:** 2026-07-18T22:50:21.000Z
+**摘要:** Jing Qi的订单已到达指定门店，需携带身份证和邮件复印件在7天内领取。
+**待办:** 去门店领取订单物品
+
+ BestBuy.ca 
+
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+Your purchase has arrived at the store!
+Hello Jing Qi
+
+Great news! Your order has arrived at the store you selected. Please pick 
+up your item(s) at the store listed below. 
+
+To claim your order, you will need to bring the following items with you to 
+the store:
+
+   - A copy of this email (printed or on your mobile device) 
+   - One piece of government-issued photo ID 
+
+Your order will
+
+---
+
+## [其他] 5大新銳建築推介🗼
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-18T20:21:25.000Z
+**摘要:** 推荐全球五大新锐建筑作为旅游打卡地。
+**待办:** 无
+
+一文睇清各地最新人氣打卡地標，帶你玩轉全球最Hit前衛地標
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542011-1784406085226.843%26ouid%3D460126.trippulse_edm_0718_hk.2026-07-18_-8_0.20260719.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D460126.trippulse_edm_0718_hk.2026-07-18_-8_0.20260719.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDIwMTEtMTc4NDQw
+
+---
+
+## [其他] Request reviewed
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T19:37:53.000Z
+**摘要:** 您提交的BC服务卡身份验证未通过，需在应用中查看详情并处理。
+**待办:** 打开BC Services Card应用查看详情并处理。
+
+ 
+[image: BC Services Card] <https://id.gov.bc.ca> 
+Hello, 
+
+You sent a video to Service BC to verify your identity from the BC Services 
+Card app on your mobile device. 
+  
+Your request was reviewed and unfortunately your identity was not able to 
+be verified. 
+  
+What you need to do next 
+
+   1. Open the BC Services Card app <ca.bc.gov.id.servicescard://> on your 
+   mobile device 
+   2. Read the details provided by Service BC 
+
+  
+When you must do this by: 
+The details will only be available 
+
+---
+
+## [其他] Your request to verify your identity was received
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T18:24:41.000Z
+**摘要:** 这封邮件通知用户提交的身份验证请求已收到，并说明后续需等待BC Services Card审核，通常在2个工作日内完成。
+**待办:** 无
+
+ 
+[image: BC Services Card] 
+<https://www2.gov.bc.ca/gov/content?id=1AEB073331D547448009E506D6DAC395> 
+Hello, 
+
+Your request to verify your identity was received. 
+  
+What you need to do next 
+
+   - Wait until Service BC reviews your request 
+   - After it's reviewed, you will receive an email 
+   - You can also check the status in the BC Services Card app 
+
+  
+How long it will take: 
+We review requests: 
+   
+   - Monday to Friday, 9 am to 5 pm 
+   - In the order they're received 
+
+Usually, we w
+
+---
+
+## [待办] Verify your email address for your BC Services Card Account
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-07-18T18:20:51.000Z
+**摘要:** 需要验证BC Services Card账户的邮箱地址，提供验证码332410
+**待办:** 打开BC Services Card应用并输入验证码332410进行验证
+
+ 
+[image: BC Services Card] <https://id.gov.bc.ca> 
+Use this verification code to confirm your email address: 
+  
+332410 
+  
+What you need to do next 
+
+   1. Open the BC Services Card app <ca.bc.gov.id.servicescard://> on your 
+   mobile device 
+   2. Enter the verification code above in the app 
+
+  
+Need Help? 
+See the step-by-step guide on how to verify an email address 
+<https://id.gov.bc.ca/static/help/email.html>, and find contact 
+information. 
+BC Services Card Login Service <https://id.go
+
+---
+
+## [营销] Into your last purchase, Natalie? Make sure to try this pick too.
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-07-18T17:07:55.000Z
+**摘要:** Sephora推荐新产品给Natalie
+**待办:** 无
+
+ Into your last purchase, Natalie? Make sure to try this pick too. 
+We just found it for 
+you ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+---
+
+## [营销] QUICK BREAK FROM ⚽️ TO TALK ABOUT 💄
+
+**发件人:** "Sephora: The Chat " <shop@beauty.sephora.com>
+**日期:** 2026-07-18T16:19:14.000Z
+**摘要:** Sephora 发送促销信息，包含积分更新和活动链接。
+**待办:** 无
+
+ Sephora 
+
+Some updates, some intel, some fun. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f760628a0a64104f4bbe5be68/193fe150b7b749c50000021ef3a0bcc2/193fe150-b7b7-
+
+---
+
+## [营销] Reminder: set up your My Best Buy password.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-18T12:07:42.000Z
+**摘要:** 提醒设置My Best Buy账户密码以确保账户安全和购物体验。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+  
+ Reminder: set up your My Best Buy password.
+ 
+ Look back on your recent shopping trip.
+ 
+
+
+ 
+
+  
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] The Bell Shopping Event is here!
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-18T10:01:05.000Z
+**摘要:** BestBuy.ca宣布了Bell购物活动的开始，可能包含促销信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [待办] TH-103  move-in inspection
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-07-17T23:38:44.000Z
+**摘要:** 邮件附上搬入检查报告，并提醒设置水电账户、购买租客保险及提供Enterphone使用说明。
+**待办:** 联系BC Hydro设置水电账户，购买租客保险并发送文件。
+
+Hello,
+
+
+
+Please find attached the completed move-in inspection report for your records.
+
+
+
+Now that you’ve moved in, here are a few friendly reminders:
+
+
+
+  *
+Please contact BC Hydro to set up your utilities account. Kindly provide them with your tenancy start date, as you will be responsible for the account from that date onward. https://app.bchydro.com/sso/UI/Login?goto=https%3A%2F%2Fapp.bchydro.com%3A443%2Fagent-customer-portal-web%2Fpost-authn-redirect%3Fnonce%3DWAHBvTEVC82DR53
+
+---
+
+## [营销] Natalie, your $5 reward is waiting 👉
+
+**发件人:** "Perks by CottonOn & Co." <news@e.cottonon.com>
+**日期:** 2026-07-17T21:34:05.000Z
+**摘要:** Natalie有5美元奖励待领取，并提到当前有10美元奖励积分及41点可兑换下一次5美元奖励。
+**待办:** 无
+
+Cotton On and Co. Perks
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
+
+---
+
+## [其他] Good news, your order has shipped #1030191408
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T21:20:50.000Z
+**摘要:** 订单已发货，包含跟踪号码和物流信息。
+**待办:** 无
+
+ Good news, your order has shipped # 
+Hi Jing Qi,
+We have good news! Your order has shipped and is on its way to you.
+Order Date July 17, 2026 at 03:10:34 PT 
+Order Number 1030191408 
+Tracking Number 
+874532113212
+You can track your package online using the button below. Tracking will 
+become available after 24 hours.
+Track My Package 
+<https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NDB9AAcAAAAABB1hCwZ4FXfBcZJmNfPjQc2nehy1NjcODbcjo-LdOMLqkZqj9n4To86lah4pThkMgOe0i0Pfp8Y
+
+---
+
+## [其他] Your receipt is ready #1030191408
+
+**发件人:** Best Buy Canada <noreply@bestbuy.ca>
+**日期:** 2026-07-17T21:19:33.000Z
+**摘要:** Best Buy通知订单已发货，提供物流跟踪信息和订单详情查看链接。
+**待办:** 无
+
+ BestBuy.ca 
+
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+Hello Jing Qi 
+
+Below you will find a list of the item(s) that are now en route to you as 
+well as tracking information.
+
+Please note: Tracking may not be available for up to 24 hours after the 
+item(s) are shipped.
+
+This email is not a receipt. You can print copies of your invoice 
+<https://www-ssl.bestbuy.ca/order/StoreOrderStatus.aspx?lang=en-CA> through 
+the Order Status page.
+Item
+
+---
+
+## [其他] Completed: Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-17T20:22:23.000Z
+**摘要:** 所有方已完成2026年7月9日规则和条例附加文件的签署，附上相关链接。
+**待办:** 无
+
+Hello Jingqi Wu,    
+
+All parties have completed Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf.
+    
+    
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=1cad109b-a57f-858d-8075-e14175a3db39&etti=44&r=8b64a624-c612-85ed-8087-a6229150b461
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get started.
+
+This message was sent to you by Anastasia Makarevska | S&F Rental Homes who is using the Do
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-17T19:58:42.000Z
+**摘要:** 收到加拿大政府发送的GCKey登录验证码，用于身份验证。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+8RWT4GLH
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] 6 homes with amazing gardens for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-17T16:26:22.000Z
+**摘要:** Rightmove推送当前正在出售的6个拥有迷人花园的房产信息，旨在吸引潜在购房者。
+**待办:** 无
+
+Stunning homes with grounds and gardens that inspire
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/paqNESGSHLIl8rASa3ADXg~~/AAAHahA~/HRQySeBJiQf3S-eAWDfbpI7ZQb_JJU7QqehbHQ5grNednebOC3X0YqXQso6qzWgjeN4hGLkIVvFxzK0Vfo3ZeQJP-PIrg-WNrbkN8O5ZpepclaRXkkmRjUePjBrIeiCIfQ8yadnFz2dpiBwLrFaO-gHHkzR1S1QcCFk05iSA3_k~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/rrVvCIhyysbdgqFugq55Jg~~/AAAHahA~/YfiKVby2085iWsrXFI4ahh4S9KlY7r_8YX9hWckLurl_43aTjc27VUkc67WuZWhRMaF57o_kdn1nOgTNhsiqQKx3FauIVIgBb1F5
+
+---
+
+## [营销] 🎓 Top Deals for top marks.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-17T10:19:06.000Z
+**摘要:** BestBuy.ca 发布了针对学术成绩的顶级折扣活动。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] 新季廓形
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-17T04:03:57.000Z
+**摘要:** 邮件介绍了Loro Piana品牌秋冬系列的经典作品。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+探索品牌秋冬系列经典作品
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+---
+
+## [其他] Your receipt is here! #941 35 6798 07162026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T03:14:37.000Z
+**摘要:** Best Buy发送的电子收据，包含购买物品和交易详情。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 35 6798 07162026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 35 6798 07162026 
+Date 2026-07-16 08:14 PM 
+Type Sale 
+Associate Name Michael 
+Transaction Summary
+Breville The Soft Top Pure Electric Kettle - 1.7L - Silver 
+Item #: 10574189 
+Shipping M
+
+---
+
+## [待办] Almost there! Activate your account.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T02:55:04.000Z
+**摘要:** 邮件提醒用户激活账户，以完成注册流程。
+**待办:** 激活账户
+
+
+ 
+ 
+
+ 
+
+  
+ Almost there! Activate your account.
+ 
+ Thanks for your recent store visit.
+ 
+
+
+ 
+
+  
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &
+
+---
+
+## [其他] 星期五北上攻略🚄解鎖全新好玩地圖🏖️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-17T01:12:50.000Z
+**摘要:** Trip.com推送周五北上攻略，提供内地酒店7折优惠。
+**待办:** 无
+
+1個鐘車程‼️內地酒店獨家7折起😍🌟即睇👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152200113-1784250769020.581%26ouid%3D459734.HK-20260717-edm-gochinatraintravel.2026-07-17_8_0.20260717.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D459734.HK-20260717-edm-gochinatraintravel.2026-07-17_8_0.20260717.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
+
+## [营销] 40–60% off styles you’ll love
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-16T14:24:15.000Z
+**摘要:** 促销邮件，提供40-60%的折扣，鼓励尽快购买。
+**待办:** 无
+
++ Summer’s not waiting. Neither should you.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏
+
+---
+
+## [其他] 已清空：Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes 通过 Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-15T23:21:59.000Z
+**摘要:** 通知关于2026年7月9日规则和规章附加文件已清空，原因为租客更改租期日期。
+**待办:** 无
+
+您好 Jingqi Wu，
+
+Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf 已清空，原因如下： 
+Tenant changed tenancy date
+
+信封 ID
+943b5e46-151e-896e-8340-9cb4faf70f08
+
+此消息是由 Anastasia Makarevska | S&F Rental Homes 使用 Docusign 电子签名服务发送给您的。如果您不想收到来自该发件人的电子邮件，您可以联系发件人，提出您的请求。
+
+不要共享此电子邮件
+该电子邮件内包含指向 Docusign 的安全链接。请勿与他人分享此电子邮件、链接或访问代码。
+
+对文档有疑问？
+如果需要修改文档或者对文档中的细节存在疑问，请联系发件人。您可以直接向他们发送电子邮件。
+
+停止接收此电子邮件
+举报此电子邮件 https://protect.docusign.net/report-abuse?e=AUtomjpFak9GlbPL0zFFi12-dMvPb1Ta
+
+---
+
+## [待办] Complete with Docusign: 2026.07.09 Rules and Regulations Addendum.pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-15T23:21:26.000Z
+**摘要:** Anastasia Makarevska 发送了需要签署的2026年7月9日规则和条例附加文件。
+**待办:** 点击链接签署2026.07.09 Rules and Regulations Addendum.pdf
+
+Hello Jingqi Wu,
+
+Anastasia Makarevska | S&F Rental Homes has sent you a new Docusign document to view and sign. Please click on the link below to begin signing.
+
+    
+
+Review Documents
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=62dadb0e-4de4-8493-8085-bab48a3f5b14&etti=25&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=8b64a624-c612-85ed-8087-a6229150b461
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get st
+
+---
+
+## [营销] Rate your recent purchase.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-15T22:48:16.000Z
+**摘要:** Best Buy Canada邀请客户评价最近的购买体验。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199;
+
+---
+
+## [营销] Natalie, we added more stores near you
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-15T19:55:06.000Z
+**摘要:** DoorDash通知Natalie附近新增了更多商店，方便购买日常必需品。
+**待办:** 无
+
+ DoorDash Everyday must-haves — all nearby 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
+
+## [营销] Soak in the sun — summer’s all yours
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-15T02:14:07.000Z
+**摘要:** Aritzia推出夏季促销，部分款式享受30-50%折扣。
+**待办:** 无
+
++ Deeper Markdowns — 30–50% off select styles.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌
+
+---
+
+## [营销] 全新‼️三亞旅行減 HK$500 🏖️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-15T00:44:35.000Z
+**摘要:** Trip.com推送三亚旅行限时优惠，减500港币，包含机票优惠。
+**待办:** 无
+
+內地專家帶你飛🌟即拎限時夏日熱辣辣優惠🔥
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154155169-1784076274552.761%26ouid%3D457235.HK-20260715-EDM-CNFlightTravel.2026-07-15_8_0.20260715.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D457235.HK-20260715-EDM-CNFlightTravel.2026-07-15_8_0.20260715.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE1N
+
+---
+
+## [其他] Get started with your free Docusign Account
+
+**发件人:** Docusign Account <info@account.docusign.net>
+**日期:** 2026-07-14T22:19:24.000Z
+**摘要:** 用户已完成签名，需创建Docusign账户以访问文件和跟踪进度。
+**待办:** 无
+
+Hello nataliewu100,
+
+You have finished signing and your part is done. Once all the parties have reviewed and signed the documents, everyone will receive a copy.
+
+You always have secure access to the most recent copy with a free account.
+
+https://ca.account.docusign.com/managed_token/v1/redeem?mtid=82887ac8-a0de-4198-9a80-fa5d18322442&mtsec=RlWici3ibUO9HTC-UC-XOmUateumBwd1k6YtQh2J4KI
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into yo
+
+---
+
+## [其他] TH-103 application has been approved! 🎉
+
+**发件人:** Boffo Rental Team <rent@boffo.ca>
+**日期:** 2026-07-14T20:34:45.000Z
+**摘要:** 申请获批，需准备押金和支票，并安排搬入检查和电梯时间。
+**待办:** 确认搬入检查和电梯时间
+
+Hello ,
+We are happy to confirm that your application has been approved! 🎉
+Please prepare a money order or bank draft payable to Bassano Properties Inc. for the required deposits. We will also need a void cheque to set up your monthly rent withdrawal — please email it to residentcare@boffo.ca<mailto:residentcare@boffo.ca>.
+Deposit Details:
+
+  *
+Unit: TH-103
+  *
+Monthly Rent: $4,280
+  *
+Security Deposit: $2,140
+
+
+  *
+Total Deposit Due: $2,140
+
+The Lease Agreement documents will b
+
+---
+
+## [其他] New sign in for Basecamp 5 from Basecamp for iOS
+
+**发件人:** Basecamp 5 Support <support@basecamp.com>
+**日期:** 2026-07-14T20:14:13.000Z
+**摘要:** 邮件提醒Natalie的Basecamp 5账户从新设备登录，建议重置密码并开启双重验证以确保安全。
+**待办:** 无
+
+Hi Natalie,
+
+Your Basecamp 5 account was just signed into from a new device.
+
+Basecamp for iOS
+IP address: 173.180.104.152
+Tuesday, July 14th, 2026 at 01:14pm PDT
+
+If this was you, carry on. We won’t notify you about logins from this device again.
+
+If you don’t recognize this activity, please reset your password.
+
+↪ reset my password now:
+https://launchpad.37signals.com/password/edit?token=BAhbB0kiLWNjNjU3MGMxOGJlMmI5NTllZDVkNGEzYjVhYjkzOTUyNDg0Y2FhZDEGOgZFVEl1OglUaW1lDdeZH8ACsd04CT
+
+---
+
+## [待办] Reset your password
+
+**发件人:** Basecamp 5 Support <support@basecamp.com>
+**日期:** 2026-07-14T20:13:02.000Z
+**摘要:** 提醒Natalie重置密码
+**待办:** 点击链接重置密码
+
+Hi Natalie,
+
+Can't remember your password? No worries! Just click the link below to set a new one.
+
+↪ https://launchpad.37signals.com/password/edit?token=BAhbB0kiLTY4YzU2ZTU0ZDFlN2U5NzM3ZWRlYjlkNDgxZTczZTkxOWZmNWIwMjkGOgZFVEl1OglUaW1lDdeZH8CtqSM0CToNbmFub19udW1pAds6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgchkDoJem9uZUkiCFVUQwY7AEY%3D--633415a4c2271cde21ed66b5373793a389768c0c
+
+
+---
+Have questions or need help?
+
+Contact our support team at https://basecamp.com/support and
+we'll get back to you in 
+
+---
+
+## [营销] This week’s shopping deals are here
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-14T19:34:47.000Z
+**摘要:** DoorDash推出本周购物优惠，涵盖家居、美容等商品。
+**待办:** 无
+
+ DoorDash Save on home, beauty, and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-14T17:44:34.000Z
+**摘要:** 邮件要求验证政府加拿大服务的登录，提供一次性验证码PZU5SE3G。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+PZU5SE3G
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Limited edition 🍓🍦Lip Butter Balm!!
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-14T13:02:06.000Z
+**摘要:** Sephora 发布夏季限定款草莓冰淇淋唇部润膏，提供限时优惠和免费配送服务。
+**待办:** 无
+
+ Sephora 
+
+Summer Fridays with the sweetest summer drop. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f60b85df0972762f4bbe5c898/bd6152ca9efc432e0000021ef3a0bcc2/bd61
+
+---
+
+## [营销] Saldi di fine stagione negli outlet
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-14T10:01:15.000Z
+**摘要:** Calvin Klein在Outlet进行季节末清仓促销。
+**待办:** 无
+
+
+
+
+---
+
+## [学校] WPGA Admission Inquiry Received
+
+**发件人:** West Point Grey Academy Enrolment Office  <wpga@myschoolapp.com>
+**日期:** 2026-07-13T16:06:41.000Z
+**摘要:** 邮件确认收到入学咨询，并通知将在9月初提供2027-2028申请流程的详细信息，同时邀请了解学校传统。
+**待办:** 无
+
+<div>
+<div>Thank you for your interest in West Point Grey Academy and for completing our inquiry form.&nbsp;<br /><br /></div>
+<div>In early September, our Enrolment Office will be in touch with comprehensive details regarding the 2027-2028 application process and instructions on how to register for an information session and school tour.<br /><br /></div>
+<div>In the meantime, we encourage you to <a href="https://www.wpga.ca/community"><b>explore some of the school traditions</b> </a>that co
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-13T13:56:38.000Z
+**摘要:** 收到加拿大政府的验证码，用于登录服务。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+VZKUWBQR
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] 😎 Your glimpse of tomorrow is here.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-13T12:04:45.000Z
+**摘要:** BestBuy.ca 发送的促销邮件，包含产品信息和链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Natalie, how’s the Glossier birthday gift set?
+
+**发件人:** Sephora Beauty Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-12T22:17:32.000Z
+**摘要:** 询问Natalie的Glossier生日礼物套装情况，并推广Sephora的会员积分和购物优惠活动。
+**待办:** 无
+
+ Sephora 
+
+Treat yourself to more fragrance.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f58682cf9a2590bf4bbe5be68/21e7b12dfc784e6a0000021ef3a0bcc2/21e7b12d-fc78-4e6
+
+---
+
+## [其他] Your temporary ChatGPT login code
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-12T18:08:42.000Z
+**摘要:** 邮件提醒用户有可疑登录尝试，并提供验证码以确认身份，若非本人操作建议重置密码。
+**待办:** 无
+
+ Your temporary ChatGPT login code 
+Enter this temporary verification code to continue: 508581. 
+
+ChatGPT Log-in Code 
+
+Hi there, 
+
+We noticed a suspicious log-in on your account. If that was you, enter this 
+code: 
+508581 
+
+If you were not trying to log in to ChatGPT, please reset your password 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0v2VhH5-2BE0zo7ACY99-2FinDaFd7n4QXFQ88vaAvg4Yh-2FvnUDCf4-2BAFFfzo-2Fq7TrRncfLPouhbxwQ5rhmu-2BvEVX60wboc_
+
+---
+
+## [其他] A new security key or passkey was added to your account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-07-12T18:08:19.000Z
+**摘要:** 通知用户有新的安全密钥或密码添加到账户，建议检查账户安全。
+**待办:** 检查账户安全，确认是否为本人操作，必要时按照指南采取安全措施。
+
+ A new security key or passkey was added to your account 
+A new security key or passkey was recently added to your account 
+
+New security key or passkey added 
+
+Hi there, 
+
+A new security key or passkey was added to your account. 
+
+If this was not you, visit our Account Security Guide 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMmfwoG2v3nTgHW39-2Fobue0t1xY3nTB7xF59g56Y9vaQn6tm1QOZqUDgslSYL1QogarBvVytiVgVbGDZp9aVzvoDGNxiYj-2BzMsYqDGS6s6b8PsGMx_-2F-2FN5zRB8Vr4d3tj4Q
+
+---
+
+## [营销] Obsessed? Same.
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-12T13:28:34.000Z
+**摘要:** Sephora 推荐当前热门商品，并提及积分和配送信息。
+**待办:** 无
+
+ Sephora 
+
+Shop what’s hot right now. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f5683ebb8c42ada6e96c660f0/73c254292b344e640000021ef3a0bcc2/73c25429-2b34-4e64-89cf
+
+---
+
+## [其他] New sign-in to your OpenAI account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-07-12T12:46:56.000Z
+**摘要:** 这封邮件通知用户有一个新的OpenAI账户登录，地点为卢萨卡，设备为Firefox浏览器，提醒用户确认是否本人操作。
+**待办:** 无
+
+ New sign-in to your OpenAI account 
+New sign-in details for your OpenAI account. 
+
+Hello,
+
+We noticed a new sign-in to your OpenAI account. 
+
+*App*: ChatGPT Web
+
+*Time*: July 12, 2026 at 2:46 PM (CAT)
+
+*Approximate location*: Lusaka, ZM
+
+*Device*: Firefox on Windows
+
+ 
+
+If this was you, no action is needed. 
+
+If you don't recognize this activity, please review your account security 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMvWmnkLomVjgxFpxUVYEkxqorI8ICh1R9gUvwG
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-12T12:46:47.000Z
+**摘要:** Google发送安全提醒，指出账号在Windows设备上有新的登录活动，需确认是否本人操作。
+**待办:** 检查Google账号的登录活动，确认是否本人操作
+
+[image: Google]
+在 Windows 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Windows
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1783860407558?rfn%3D325%26rfnc%3D1%26eid%3D-7030528222359075065%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amp
+
+---
+
+## [待办] Your temporary ChatGPT verification code
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-12T12:17:31.000Z
+**摘要:** 邮件提供了临时ChatGPT验证码593206，用于账户创建或验证
+**待办:** 输入验证码593206
+
+ Your temporary ChatGPT verification code 
+
+[image: OpenAI] 
+
+Enter this temporary verification code to continue: 
+
+593206 
+
+Please ignore this email if this wasn’t you trying to create a ChatGPT 
+account. 
+
+
+Best,
+The ChatGPT team 
+
+[image: OpenAI] 
+
+ChatGPT 
+<https://u20216706.ct.sendgrid.net/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMtxuwNyiH8tHYK-2BH0HuuCVk-3DMXFx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3OimteYeep-2BBC-2F9S5WFoS-2FI-2BoJ-2BG6Gn5fxf3knEfh3-2BjuPlu1Z3ZWtccwzSFWXRdWoC-2B
+
+---
+
+## [营销] You need a cooldown. We’ve got that.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-12T02:06:53.000Z
+**摘要:** 邮件提供部分款式30-50%的折扣优惠。
+**待办:** 无
+
++ 30–50% off select styles. We’ve got those, too.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-11T20:39:44.000Z
+**摘要:** 这封邮件是Google发送的安全提醒，通知用户已授权‘OpenAI’访问部分账号数据，并建议检查账号活动记录以确保安全。
+**待办:** 检查Google账号活动记录，确认是否授权OpenAI访问数据并调整权限
+
+[image: Google]
+您已授权“OpenAI”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“OpenAI”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1783802384000?rfn%3D127%26rfnc%3D1%26eid%3D-5721048708330653814%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.g
+
+---
+
+## [营销] 改用包年方案，费用节省 16%
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-07-11T20:34:18.000Z
+**摘要:** 邮件通知改用包年方案可节省16%费用，每年仅需19.99美元，会员权益不变。
+**待办:** 无
+
+
+会员权益不变，费用节省 16%
+
+通过短短几秒的简单操作即可改用包年方案。以更少的费用获享同样的存储空间及福 
+利，每年仅需 US$19.99。
+
+改为包年方案 
+<https://c.gle/AKMee0c6H0K6X61WwJ_N3VMUWtfPBvcY5_yZUWabXBzqC29PYt122Kg-LFR9METE4f4skHXOomNZr6qqGkXRYdJewo5Sh79djQt9UINFVHY5_GgvCP25BXyevTUPa_mF8FNRVDDGZpYrSs1Hdrts03tNaO4gc0p3XKfslxyCiHDIQ4eAHLFJoof8Ji3lDi2FZn03avRUz7tBhfUwQAbnp6k-csJ2ekXZLuO_LWDbB9ubsIcpSDtynLVnVbr2F6fthXmUc80kmUxr0WgVhc65DxtGiSgn2q-Mbb_V23kGl6lzknZX5moJBNQ>
+
+
+100 GB :  US$1.99/月 US$23.88/年
+
+当前方案 : US$19.99/年
+
+
+
+方案的定价可能因国家/地区而异。
+
+
+---
+
+## [营销] 全球夏日夜遊盛事🎇
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-11T20:06:07.000Z
+**摘要:** Trip.com 推广全球夏季夜游活动，包括海洋公园夜间派对和日本七夕天灯节等浪漫景点。
+**待办:** 无
+
+由海洋公園夜間派對到日本七夕天燈節，全情投入今夏最浪漫夜遊熱點！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015212179-1783800366067.996%26ouid%3D454925.trippulse_edm_0711_hk.2026-07-11_-8_0.20260712.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D454925.trippulse_edm_0711_hk.2026-07-11_-8_0.20260712.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1MjEyMTc5LTE3
+
+---
+
+## [营销] Special offer just for joining us at Koodo.
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-07-11T17:32:42.000Z
+**摘要:** Koodo客户可享受TELUS SmartHome+家庭自动化服务优惠，每月仅需22加元，包含智能设备。
+**待办:** 无
+
+Save on home automation with TELUS SmartHome+.
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tfabc2325,407abefd,2ad4baba&e=Y2lkPXRlbERNMjIxNzQ3MyZiaWQ9LTg4MzMzNTMxJnAxPSU0MFF5OFZiUlppNmZ4NkJJNzBsRXAzdTFFM3NQJTJCdWxrSzdoTDNKWXlHcWNPbyUzRA&s=TJLFtk4Cn6CuunRfPVZaUCyR-JLneIg82ILqIvmEQ5w web browser . 
+	
+
+ https://t.email.koodomobile.com/r/?id=tfabc2325,407abefd,2ad4babb&e=Y2lkPXRlbERNMjIxNzQ3MyZiaWQ9LTg4MzMzNTMx&s=TWR4Sd3YLj3mMokUNd7kTepP7gGLxpaKTsJ8ztjWLuk 	
+ https
+
+---
+
+## [营销] Thanks for your recent purchase
+
+**发件人:** Cotton On Customer Team <reviews@cottonon.com>
+**日期:** 2026-07-11T15:09:24.000Z
+**摘要:** 感谢购买并邀请撰写产品评价，提供评分链接。
+**待办:** 撰写Offside Windbreaker的评价
+
+ Thanks for your recent purchase 
+[image: Cotton On Customer Team logo] <www.cottonon.com> 
+Review your Offside Windbreaker 
+
+Hi natalie,
+ 
+Thank you for shopping with us! We hope you'll write about your Offside 
+Windbreaker while it's still fresh on your mind. Click the stars to get 
+started: 
+Offside Windbreaker 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/g8p0JorIlqQREWjo?&rating=1&location=td-star> 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/g8p0JorIlqQREWjo?&rating=2&location=td-star> 
+☆★ 
+<ht
+
+---
+
+## [待办] Basecamp (Ai Mine): Here’s the latest activity
+
+**发件人:** "Basecamp (Ai Mine)" <notifications@app.basecamp.com>
+**日期:** 2026-07-11T14:03:17.000Z
+**摘要:** 报告自7月10日早上7点以来的活动，Frank添加并完成了多个与温哥华公寓查找相关的待办事项。
+**待办:** 无
+
+Ai Mine:
+
+  Here’s the latest activity since  7am on Friday, July 10
+
+1 person was active: Frank
+
+
+
+
+## 老何Family ##
+----------------------------------
+- Frank added 1 to-do and completed 10 to-dos
+  - pier west 边上 值得打电话 · 温哥华公寓找房子
+  - 【Pier West】  周一下午3点 · 温哥华公寓找房子
+  - 505 Nelson St · 温哥华公寓找房子
+  - The City of Lougheed - Tower 4 · 温哥华公寓找房子
+  - the Park Metrotown  · 温哥华公寓找房子
+  - The City of Lougheed · 温哥华公寓找房子
+  - Meridian · 温哥华公寓找房子
+  - 958 RIDGEWAY · 温哥华公寓找房子
+  - 430 WESTVIEW STREET apartment  ·
+
+---
+
+## [营销] ⏰ Weekend-only deals are live.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-11T10:09:07.000Z
+**摘要:** BestBuy.ca 发送的邮件，通知周末限时优惠活动已上线。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] 速報🌟澳洲機票最佳入手期
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-11T00:20:45.000Z
+**摘要:** Trip.com 发送澳洲机票促销邮件，提及新加坡航空往返墨尔本、悉尼等城市的优惠票价及行李额度。
+**待办:** 无
+
+新加坡航空來回墨爾本、悉尼等熱門城市連稅每位低至 HK$5,XXX 🐨包埋 25kg 行李 + 免費 WiFi 🧳😍
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147193136-1783729243702.369%26ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D455359.HK-20260711-EDM-SQ.2026-07-11_8_0.20260711.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
+
+## [其他] Hooray! You're now registered for Koodo Self Serve
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-07-10T23:14:38.000Z
+**摘要:** 这封邮件通知JINGQI已成功注册Koodo Self Serve账户，可在线管理账单、添加服务和更新账户信息。
+**待办:** 无
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Thanks for registering for Koodo Self Serve! Give yourself a pat on the 
+back.
+
+Now you can view and pay your bills, manage your add-ons, and update your 
+account online.
+
+Just so you know, your Koodo Self Serve account username is 
+nataliewu100@gmail.com.
+
+Log in now <https://www.koodomobile.com/my-account> 
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent
+
+---
+
+## [待办] Koodo verification code: 193544
+
+**发件人:** noreply@koodomobile.com
+**日期:** 2026-07-10T23:13:16.000Z
+**摘要:** 收到Koodo验证码193544，需在30分钟内使用以链接服务。
+**待办:** 输入验证码193544以链接Koodo服务到Self Serve档案。
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hello,
+
+Your verification code is: *193544*
+
+Use the above code to link your Koodo service to your Self Serve profile. 
+This code will expire in 30 minutes.
+
+If you didn’t request this code, please contact us at www.koodo.com/chat 
+<https://www.koodomobile.com/en/help?autobots=rollout>
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent. Please do not reply to this message
+
+---
+
+## [待办] Koodo verification code: 108969
+
+**发件人:** noreply@koodomobile.com
+**日期:** 2026-07-10T23:12:27.000Z
+**摘要:** 收到Koodo验证码108969，需在30分钟内使用以链接服务到自我服务档案。
+**待办:** 输入验证码108969以将Koodo服务链接到自我服务档案。
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hello,
+
+Your verification code is: *108969*
+
+Use the above code to link your Koodo service to your Self Serve profile. 
+This code will expire in 30 minutes.
+
+If you didn’t request this code, please contact us at www.koodo.com/chat 
+<https://www.koodomobile.com/en/help?autobots=rollout>
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent. Please do not reply to this message
+
+---
+
+## [其他] Required Notice of Public Hearings
+
+**发件人:** T-Mobile <donotreply@system.t-mobile.com>
+**日期:** 2026-07-10T22:13:01.000Z
+**摘要:** 关于移动语音服务质量的公开听证会通知，邀请公众参与讨论服务故障和恢复问题。
+**待办:** 无
+
+ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: T-Mobile] 
+[image: T-Mobile]
+Required Notice of Public Hearings
+Virtual public hearings for Rulemaking 26.02.017, Mobile Voice Service 
+Quality, are scheduled to receive your co
+
+---
+
+## [待办] Authorization to complete a credit check
+
+**发件人:** Boffo Rental Team <rent@boffo.ca>
+**日期:** 2026-07-10T21:45:34.000Z
+**摘要:** 租约团队要求授权进行信用检查，否则无法继续处理申请。
+**待办:** 回复邮件确认授权进行信用检查
+
+Hello ,
+Thank you for your application.
+As part of our standard tenant screening process, we require authorization to complete a credit check. Kindly please confirm by reply email that you authorize us to proceed with your credit check.
+Please note that we are unable to continue processing the application without this authorization.
+Should you have any questions, please let us know.
+Thank you,
+
+
+
+Smith & Farrow Rental Homes Team
+
+Phone 604 317 4060
+
+[cid:0b621b7c-24b9-44e0-acd2-a526
+
+---
+
+## [其他] Your Rental Application
+
+**发件人:** "Smith & Farrow Rental Homes" <no-reply@rentcafe.com>
+**日期:** 2026-07-10T21:41:23.000Z
+**摘要:** 用户提交了Smith & Farrow Rental Homes的租赁申请，房东确认收到并提供查看或编辑申请的链接。
+**待办:** 无
+
+ RENTCafe Email Template 009 
+
+  
+[image: smith-farrow-rental] 
+<https://www.rentcafe.com/t/el?ref=Njk1MzQ5NDc2Mw%3d%3d-E1HVvla9%2bXk%3d,aHR0cDovL3JlbnRzbWl0aGFuZGZhcnJvdy5ib2Zmby5jYQ%3d%3d-mq%2b%2fi0AqpLg%3d> 
+  
+
+Dear jingqi,
+
+Thank you for submitting your application to Smith & Farrow Rental Homes. 
+We are excited that you are interested in joining our community.
+Please save this email for your personal records.
+ 
+ 
+To view or edit your online application account, click the link below and 
+se
+
+---
+
+## [其他] User Registration Confirmation
+
+**发件人:** "Smith & Farrow Rental Homes" <no-reply@rentcafe.com>
+**日期:** 2026-07-10T19:42:59.000Z
+**摘要:** 用户成功注册在线租赁平台，信息已转发至Smith & Farrow Rental Homes并提供联系方式。
+**待办:** 无
+
+ RENTCafe Email Template 009 
+
+  
+[image: smith-farrow-rental] 
+<https://www.rentcafe.com/t/el?ref=Njk1MjcwNzE3Nw%3d%3d-N3FnGsrFAts%3d,aHR0cDovL3JlbnRzbWl0aGFuZGZhcnJvdy5ib2Zmby5jYQ%3d%3d-mq%2b%2fi0AqpLg%3d> 
+  
+
+Dear jingqi,
+
+Thank you for registering on Online Lease Execution! Your account has been 
+successfully created.
+
+Username: nataliewu100@gmail.com
+
+To better help you find a place to live, we’ve forwarded your information 
+to the following property:
+
+*  Smith & Farrow Rental Homes 
+<http
+
+---
+
+## [营销] Dream homes with pools for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-10T16:09:09.000Z
+**摘要:** 这封邮件是Rightmove推送的当前正在出售的带泳池的梦幻房产列表。
+**待办:** 无
+
+We're dreaming of a cool dip in one of these pools right now
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/WbXMZd9M4-Uy5U19WwwK2Q~~/AAAHahA~/4hCFEV3HFjua94q75BnNZekn-bHmbWDg4SgYaFLqXdE4KwaqXRpYPDlIXQNiFpJ_IYGwUCHtuYpNtF2k-7D4XV7Ot86G7K2iWMzB2tLy4L713uFY4EStNJsKGh82lwaO6-E9zi9k2Lg827xtn8drrdoyJHtTdV0v-4Feqj-Kx-8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/cNKhRxFbHsRzdAVJz-IsCg~~/AAAHahA~/7rrTte3iDb4-M2gMRBOYh46umLnRxhr9-1eVl9sBf78X5RwVrnxlv_WiKCcNbnTiWZV9vzaK3G8L7RrbwKTcPLJu4UUC
+
+---
+
+## [其他] I comuni più economici per comprare casa
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-07-10T13:02:08.000Z
+**摘要:** 这封邮件提供了关于意大利最经济实惠的购房城市的信息。
+**待办:** 无
+
+Newsletter 10/07/2026 — idealista/news     | Lunedì 06 Luglio 2026
+*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [营销] Don't miss this week's Top Deals.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-10T11:13:56.000Z
+**摘要:** BestBuy.ca 本周顶级优惠促销，提醒用户不要错过。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] Nuovi capi in sconto fino al 50% 🔥
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-10T08:59:31.000Z
+**摘要:** 邮件宣传Oltre新品限时折扣，最高50%优惠，并提供免费取货和退货服务。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADIAAAAAARNCVmSt_s4kvUE7xPFeNv3p91aQS465A4n00hcazmtjx2HqgBzuhOkHTwaODa69QaLHkMOwaRON5xiSWFQQLKncIa4o7l9397sRZvQBNg 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADIAAAAAARNCVmSuSZfyCAF-tJQQkYoDfg-IOuZMba6RcAkatXKWOtSXtwzG2vWBJlcluCulDf9T4Jnx-roNubSp
+
+---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-10T09:11:19.000Z
+**摘要:** 银行通知支付确认请求，附有支付证明。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
+
+## [营销] 最後機會‼️9PM 搶盡內地優惠
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-10T04:48:07.000Z
+**摘要:** Trip.com推送上海机票和酒店优惠，包含高铁券及六折酒店套餐。
+**待办:** 无
+
+HK$799 上海機票✈️HK$1 入手高鐵＋酒店券包，仲有內地專家推介必住酒店集團 6折起🌟
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154806-1783658809783.549%26ouid%3D454666.HK-20260710-eDM-77mega.2026-07-10_8_0.20260710.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D454666.HK-20260710-eDM-77mega.2026-07-10_8_0.20260710.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMD
+
+---
+
+## [营销] One more perk after your purchase.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-10T01:34:06.000Z
+**摘要:** BestBuy.ca 发送了一封促销邮件，提及购买后的额外优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] All your fave denim shorts and skirts
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-10T01:07:56.000Z
+**摘要:** Cotton On推出牛仔短裤和裙子的BOGO 50%折扣活动，并提及积分奖励。
+**待办:** 无
+
+
+ 
+ 
+ All BOGO 50% off.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9AAcAAAAAA8tdfNP0s_FxLu42CgVqfgavZv_vQOsePCH6G0xw1SAUBDVW0k1NOxKizrpiwhRcw_MT9IaP0hpbrk5_uOM-5WlXctlLE4EAaHF3Efpr 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9AAcAAAAAA8tdfNP1fPzgC4-HFeZHXD5YBBw1KwZIoe0vDK8V1Le1_LUBv-ufpIKyzDuBA7ES8bMuctlkQPRLkSLsc2S1AhtqWMQ8nBgx2QCrgfJrqYhn8A 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+https://
+
+---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-09T21:27:10.000Z
+**摘要:** 提供一次性验证码以登录加拿大政府服务
+**待办:** 使用提供的验证码登录加拿大政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+RDTRX2ZN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Deeper markdowns: 30–50% off select styles
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-09T16:51:27.000Z
+**摘要:** Aritzia推出30-50%折扣促销，部分款式有新颜色Panorama Blue。
+**待办:** 无
+
++ New Colour: Panorama Blue. Open for fresh perspective.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
+
+## [营销] Crunch time: 2 more weeks to save
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-09T16:05:26.000Z
+**摘要:** DoorDash提醒用户还有两周时间可以节省费用，可能涉及促销活动。
+**待办:** 无
+
+ DoorDash 🏋️ This is what you trained for 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
+
+## [营销] Natalie, it’s time to save on minis 🍬
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-09T13:08:02.000Z
+**摘要:** Sephora 发起限时促销活动，购买两件商品可享50%折扣，同时提醒用户当前有638积分可用。
+**待办:** 无
+
+ Sephora 
+
+Buy 2, get both 50% off. Limited time only. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f46fe0d44ad26b36e96c660c0/5ee319f29b1d4cad0000021ef3a0bcc2/5ee319
+
+---
+
+## [营销] Most wanted: Raglan tees
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-09T01:05:57.000Z
+**摘要:** Cotton On 发送促销邮件，宣传Raglan T恤两件30美元的优惠活动，并附有相关链接和奖励积分信息。
+**待办:** 无
+
+
+ 
+ 
+ 
+2 for $30 tees never looked so good.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp48pwdZG7WDQ-7p_dWuzoj0psJAWXbrUBV3kEpKMP_6WyWR4rztdlKBVv3zFuoXYrjnQsRIrrSEGiqwm1jrDbxd-0RHAosB47n2Qw 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp49PAsG7b_v7wmC-H2V9ulk1JI0mbmru32WL5rlSNuxvjHjPHwO9h9OPrJ997JSFMbbuss0TXeCL5WDYXTBDHd4rTmLaWfaiM0YKf1_ShY 
+
+
+ 
+ 
+
+ 
+
+
+---
+
+## [营销] 送你 HK$799 一口價機票‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-08T23:09:28.000Z
+**摘要:** Trip.com 发送 HK$799 机票促销信息，包含台湾航班优惠及酒店券奖励。
+**待办:** 无
+
+① 搭香港航空 HK$799 快閃台灣 ②拎 HK$300 台灣機、酒優惠券③訂2單再賺埋 1,000 Trip Coins❤️✈️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154138127-1783552112479.801%26ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia
+
+---
+
+## [其他] Your receipt is here! #941 12 5511 07082026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-08T21:54:23.000Z
+**摘要:** 用户收到Best Buy的购物小票，包含购买详情和支付信息，可用于退货或换货。
+**待办:** 无
+
+ Digital Receipt 
+Your receipt is here!
+#941 12 5511 07082026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 941 12 5511 07082026 
+Date 2026-07-08 02:54 PM 
+Type Sale 
+Associate Name Jeffrey 
+Transaction Summary
+Dyson Supersonic Nural Ionic Quiet Hair Dryer 1600W with Diffuser & 
+Concentrator 4 Heat
+
+---
+
+## [营销] Your usual can wait 👀
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-08T20:04:23.000Z
+**摘要:** DoorDash推送促销信息，提及服务或优惠的更新。
+**待办:** 无
+
+ DoorDash A little change never tasted so good 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash
+
+---
+
+## [营销] We want details! How would you rate your recent purchase, Natalie❓
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-07-08T16:05:56.000Z
+**摘要:** Sephora邀请Natalie评价最近的购买体验，希望获得详细反馈。
+**待办:** 填写购买评价
+
+ We want details! How would you rate your recent purchase, Natalie❓ 
+Don’t hold 
+back. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] 租房
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-08T15:27:23.000Z
+**摘要:** Natalie作为新生家长通过招生老师介绍，询问学校附近枫树岭区域是否有新别墅推荐。
+**待办:** 帮助寻找学校附近枫树岭区域的新别墅房源
+
+Sherry你好
+我们是招生老师介绍的今年入学的新生家长、老师推荐说您这边可以介绍租房子？
+请问在学校附近枫树岭区域、有没有好一点新一点的别墅可以推荐？望回复，谢谢！
+祝好
+Natalie
+
+
+---
+
+## [其他] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-07-08T15:01:23.000Z
+**摘要:** 申请状态有更新，需登录账户查看详细信息。
+**待办:** 无
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+Your application status has changes.
+To check what's changed with your application's status:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+
+
+Sign in to your account 
+<https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html>
+
+
+
+------------------------------
+
+This message is intended for nataliewu100@gmail
+
+---
+
+## [学校] Basecamp (Ai Mine): Here’s the latest activity
+
+**发件人:** "Basecamp (Ai Mine)" <notifications@app.basecamp.com>
+**日期:** 2026-07-08T14:07:05.000Z
+**摘要:** 报告自7月7日上午7点以来的最新活动，包括Frank添加的学校附近别墅区待办事项及评论。
+**待办:** 无
+
+Ai Mine:
+
+  Here’s the latest activity since  7am on Tuesday, July 07
+
+1 person was active: Frank
+
+
+
+
+## 老何Family ##
+----------------------------------
+- Frank added a to-do "20317 91B Avenue house 【推荐】" to "学校附近别墅区"
+
+- 1 comment was posted to: 20317 91B Avenue house 【推荐】
+
+
+
+
+
+---------------------------------------------------------
+
+Basecamp emails this report every morning. Click below to stop getting it:
+https://app.basecamp.com/6186671/email/form_submission?method=BAg6
+
+---
+
+## [营销] 2026-2027 秋冬系列宣传大片
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-08T11:22:15.000Z
+**摘要:** Loro Piana发布2026-2027秋冬系列宣传大片，开启品牌文化探索之旅。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+品牌文化探索之旅开启新篇  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+---
+
+## [营销] LAST CALL ⏰  Ultime ore EXTRA -20%!
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-08T07:20:06.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提供最后机会享受20%折扣，并提及免费取货和退货服务，以及新到商品和服装链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADIAAAAAAQvrdo7GSbZPu3gQMXluPUEh56TirEtVFHHjaraSyj53h-mptSYDIls0zI5VW3QRlg1ZQAKDtRWAy4Er0u1SxuYN3W1qlEGnSDELr_NmBw 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADIAAAAAAQvrdo7HYFjZsQgTNtJe3603ETLBuLm9kXuFbdl536Nt7v_HZwS1VgdtY3MM6LyQootQMx4oX4CzvAJMFjGgQmT7lzAQkTSkmPrvFc_D8g 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzF9A
+
+---
+
+## [营销] Going on vacation? You should read this.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-08T02:04:06.000Z
+**摘要:** Aritzia推送夏季度假穿搭建议，提供适合夏季的造型搭配方案。
+**待办:** 无
+
+Curated outfits to pack for a picturesque summer.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [营销] Miss 咗 10% 回贈？優惠繼續狂賞🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-07T23:16:35.000Z
+**摘要:** Trip.com推送10%回赠优惠，包括首尔机票、酒店套票及旅行团折扣。
+**待办:** 无
+
+9PM 繼續搶 HK$799 首爾機票＋HK$500 券✈️旅行團半價、長隆酒店套票HK$1,199‼️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154115225-1783466195401.618%26ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk
+
+---
+
+## [学校] Meadowridge 入学准备
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-07-07T22:30:12.000Z
+**摘要:** 邮件通知Cathy入学前的准备工作，包括校服测量、校车报名、饭堂资讯及郊游安排等事项。
+**待办:** 无
+
+Natalie 您好，
+
+谢谢您跟Cathy今天到访Meadowridge!
+
+房产方面，欢迎您联络 Ms. Sherry Chen (邮箱 sherrychenhomes@gmail.com )。
+
+至于其他入学前准备，请详细参考新生家庭网页<https://www.meadowridge.bc.ca/new-family-portal>。当中请留意：
+
+  *
+Cathy 爸爸已预约的校服测量/定制时间
+  *
+校车报名<https://www.meadowridge.bc.ca/parent/transportation>（8月15日截止)
+  *
+饭堂资讯<https://www.meadowridge.bc.ca/parent/cafeteria>
+  *
+饭堂账户注册<https://www.meadowridge.bc.ca/fs/resource-manager/view/9a133f60-bf4b-46c0-99a7-6a57c220ab29>
+  *
+9月16-18日郊游地点是Gibsons Farm, BC。相关资料已显示在网页上
+
+---
+
+## [营销] LAST DAY to save big, earn bonus points, AND get FREE Same-Day Delivery 🛍️
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-07T21:49:39.000Z
+**摘要:** Sephora促销活动今日结束，可享受折扣、积分和免费当日配送。
+**待办:** 无
+
+ Sephora 
+
+Stacking Weekend ends today, Insider. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f3e8ed1899afeb8969125ccc4/f65eee7587df43e10000021ef3a0bcc2/f65eee75-87d
+
+---
+
+## [营销] Acquista con sconti fino al 50% in negozio.
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-07T18:01:08.000Z
+**摘要:** Calvin Klein提供店内最高50%的折扣优惠。
+**待办:** 无
+
+
+
+
+---
+
+## [营销] Did you know that points = rewards?
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-07-07T16:09:05.000Z
+**摘要:** Sephora提醒您有638积分可兑换奖励，并推荐最新产品，同时提供当日送达和免费配送服务。
+**待办:** 无
+
+ Sephora 
+
+Check out the latest drops inside! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f3d57166ac4f7a8f4bbcf6cc0/c4a8fefa5cb841510000021ef3a0bcc2/c4a8fefa-5cb8-4
+
+---
+
+## [营销] Natalie, your $7 off is waiting. Order now.
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-07T16:08:19.000Z
+**摘要:** Natalie收到一封来自DoorDash的促销邮件，提供7美元折扣，可用于下次两个订单。
+**待办:** 无
+
+ DoorDash You could be saving big on your next two orders. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌  
+
+---
+
+## [其他] We sent you a message about your application (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-07-07T15:01:45.000Z
+**摘要:** 通知用户有新的消息需要查看，需登录账户确认申请状态。
+**待办:** 查看账户中的消息并按照指示操作
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+A message about your application is waiting for you.
+We sent you a message about your application to your account.
+
+To read your message:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+3. Scroll down to the *Messages about your application* section.
+4. Click on the *Subject* of the new message to read it.
+
+
+Sign in to your account 
+<https://
+
+---
+
+## [其他] You have a new message in your portal account.
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-07-07T15:01:43.000Z
+**摘要:** 通知您有新的消息需要登录账户查看
+**待办:** 无
+
+*E-mail Notification*
+This message is intended for the following e-mail address: 
+nataliewu100@gmail.com.
+If this message does not concern you, discard it.
+ 
+You have a new message(s) in your account.
+To view your message, sign in to your account 
+<https://www.cic.gc.ca/english/e-services/mycic.asp>.
+
+
+---
+
+## [营销] 🚨 ENDS TODAY: 30% off ALL Sephora Collection, 2X points on all products, and FREE Same-Day Delivery
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-07T14:19:02.000Z
+**摘要:** Sephora限时促销，今日截止，提供30%折扣、双倍积分及免费当日配送，可叠加使用。
+**待办:** 无
+
+ Sephora 
+
+Stack *all* these offers while you still can, Natalie. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019f3cf255b0af222af4bbcfb920/e7352037be394ff00000021ef3a0
+
+---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-07T13:52:55.000Z
+**摘要:** 收到政府服务的登录验证码4BC9JAXD
+**待办:** 输入验证码4BC9JAXD以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+4BC9JAXD
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] 测试
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-07T11:07:02.000Z
+**摘要:** 这封邮件是关于测试的内容
+**待办:** 无
+
+测试 7-7
+
+
+---
+
+## [其他] natalie，欢迎再次使用 Google One
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-07-07T09:20:39.000Z
+**摘要:** 欢迎Natalie再次使用Google One服务，并提供存储管理、设备备份及家庭共享功能。
+**待办:** 无
+
+管理存储空间、开始备份设备并与家人共享
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+---
+
+## [其他] 您的Google Play订单收据(2026年7月7日)
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-07-07T09:20:38.000Z
+**摘要:** 此邮件为Google Play订单收据，通知用户订阅将于2026年8月7日自动续订，并提示需添加备用付款方式。
+**待办:** 无
+
+Google Play
+
+
+非常感谢！
+
+
+您在 Google Play 上向Google Commerce Limited购买了订阅。您的订阅将于 2026年 
+8月7日自动续订，除非您在此日期之前取消订阅。您可以随时取消订阅。 管理订阅
+
+为使订阅能够保持有效状态，请添加备用付款方式。
+
+
+添加备用付款方式
+
+
+订单号： SOP.3385-7778-6968-49841
+订购时间： 2026年7月7日 GMT+2 11:20:35
+您的账号： nataliewu100@gmail.com
+
+
+商品 价格
+
+
+100 GB (Google One) （开发者：Google LLC） US$1.99/月
+
+自动续订的订阅
+
+
+
+税额: US$0.32
+
+总计: US$2.31/月
+
+
+付款方式：
+
+Mastercard-2249
+
+
+
+订阅即表示您授权我们通过您提供的付款方式，自动向您收取订阅费用（如上所述 
+），直至您取消订阅。了解如何取消订阅。请保留好此回执，以便日后查看。
+
+如有问题，请访问Go
+
+---
+
+## [其他] 您与“OpenAI”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-07T09:02:11.000Z
+**摘要:** 
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月7日02:02 使用 Google 账号登录了 
+“<https://c.gle/AOPyDKR_un41BJfnXNzIoSN3FVJ8tiWNRVOVsj777DSNtMiyGwzCV01Vv4vsSRQWWG0qDJSRI9mfmWP07z4M3Vwc1KHlvf-3Uvz3DzabD_ATeXLaAg0fbC4xwdJ0tikRJeA>OpenAI”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月7日02:02 使用 Google 账号登录了 
+“<https://c.gle/AOPyDKR_un41BJfnXNzIoSN3FV
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-07T08:35:08.000Z
+**摘要:** 
+**待办:** 无
+
+[image: Google]
+在 Windows 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Windows
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1783413308000?rfn%3D325%26rfnc%3D1%26eid%3D-7739041238955196037%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amp
+
+---
+
+## [其他] Che succede 07/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-07T07:56:28.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 07/07/2026 — idealista/news                Microsoft taglia 4.800 posti, pari al 2,1% della sua forza lavoro. I tagli maggiori riguarderanno Xbox, la cui loccupazione sarà ridotta di 3.200 posti nellanno fiscale 2027. “Il modo in cui la tecnologia viene sviluppata, attuata e utilizzata di sta trasformando rapidamente”, ha detto Amy Coleman, chief people officer di Microsoft. “Riconosco che una ristrutturazione della durata di un anno comporta ulteriori sfide. Purtroppo, non è possibi
+
+---
+
+## [其他] 港人最愛😍搶日本一口價機票✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-07T01:55:21.000Z
+**摘要:** 
+**待办:** 无
+
+一齊搶👉🏻 HK$799 來回東京、大阪機票 + 今日仲有 10% 回贈 + 更多半價優惠券等你搶🫵🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015223365-1783389320911.874%26ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQL
+
+---
+
+## [其他] Soft. Hot. The college uniform.
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-07T01:05:43.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+All set with Ultra Soft Micro Shorts + Cami.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzB9AAcAAAAAA6oN7QrnZ8IVELLyeDrTLj4Ekcbq9BrUeS73oiZhtuqFXbkXrAGBvRa6ZU339C3UKIZ34p_nkmeowseKcqXRt2YtzhmzLNO04G7-Vt17UQ 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzB9AAcAAAAAA6oN7QroLoMXkPLzbVD-1p6ry53JV1Bmng9BIiwX9jdcVQO7le6vQeAt3rfg4p3Piwr1eDfU3OaX82MtWDhPLH1WkBEMuycWcTvS5jN7V20RS8M 
+
+
+ 
+
+
+---
+
+## [其他] Review your Vuori purchase
+
+**发件人:** Vuori <no-reply@reviews.io>
+**日期:** 2026-07-06T23:26:13.000Z
+**摘要:** 
+**待办:** 无
+
+Hey  ,
+						
+					
+					
+						
+						Are you loving your new purchase? Let us know your thoughts below. Your feedback will help other customers like you and help us improve your experience.
+						
+					
+					
+						Review Products
+					
+					
+					
+												
+							
+								
+									
+									Vuori AllTheFeels™ Legging - Short | Black 
+								
+							
+						
+												
+							
+								
+									
+									Halo Mini Full Zip Hoodie - Long | Pale Grey Heather 
+			
+
+---
+
+## [其他] 25% off a gift card — just for DashPass members
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-06T20:52:34.000Z
+**摘要:** 
+**待办:** 无
+
+Sign up before this deal
+drops.         Summer of
+DashPass (  )
+
+-------------------------------------
+DashPass GETS YOU 25% OFF a GIFT CARD
+-------------------------------------
+
+
+
+THIS WEEK’S DEAL | COMING ‌7/‌8
+
+25% off a DoorDash eGift Card
+
+ (
+ )             Offer
+auto-applied at checkout. Redemption limitations and terms
+apply.1
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/d1H9BWZ4a9vgzqD8uUfzgA~~/AAQRxRA~/YDhGj8RkQ8J0oALg8IqFdPzMiLOtYzi4fdMPvSo1XLubT0wIF59ucOR3iGGeYmDYH0LXN5QAR
+
+---
+
+## [其他] Our 2027/2028 Application is Officially Open!
+
+**发件人:** HTS Admissions Office <info+hts@fsenrollment.com>
+**日期:** 2026-07-06T20:10:43.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+
+Dear Xiaojun and Jingqi,
+
+We hope you are enjoying a wonderful summer!
+
+We are thrilled to announce that our application for the 2027-2028 school 
+year is now live. Since Yunxi's application for the 2026–2027 school year 
+could not proceed beyond the initial review, we invite you to reapply for 
+September 2027.
+
+To support you in this process, we are pleased to offer a one-time 
+application fee waiver for families who reapply by *September 1, 2026*.
+
+*Ready to get started?*
+
+Simply log in to 
+
+---
+
+## [其他] Natalie, get $7 off your next two orders.
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-06T16:07:07.000Z
+**摘要:** 
+**待办:** 无
+
+ DoorDash This offer won't last long! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [其他] OMG, 30% off bikinis (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-06T14:11:57.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Don&rsquo;t wait. Shop now.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeC44OhbzbgzVe6BERyECzLCQr321EdqPPUIi0uiFx0T57Qr3CnPy7lVpV_jcCY58486fUwpfZ-SlnP3O3HbsLoW7VeAJRIhLYWKg 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeDUxLMacK25s0NbFvmGUzt75jEnkjpZ-N335IGr4J14PLCO0F0jg4A9n-YGcNjglkx-Jgv4aGdcl9fdDvKaJGqJt2lxahmAiwpdiZ5bKs 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+---
