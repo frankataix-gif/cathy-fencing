@@ -25654,3 +25654,27 @@ Download Now
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015441200-1779799276824.309%26ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D212298.Welcome-letter-new-marketing-touchpoint-old-content..20260526.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xM
 
 ---
+
+## [待办] 驗證您的 Trip.com 帳戶
+
+**发件人:** "Trip.com" <hk_noreply@trip.com>
+**日期:** 2026-05-26T12:40:25.000Z
+**摘要:** 用户注册成功，需在7天内验证邮箱以完成账户设置，否则链接失效。
+**待办:** 验证邮箱账户
+
+ 
+<https://hk.trip.com?locale=zh-HK> 
+
+註冊成功 
+感謝您成為 Trip.com 會員！請於7日內驗證您的電郵，以完成帳戶設定。 
+驗證我的電郵 <http://t.ctrip.cn/AxpfCvy> 
+尚未註冊？ 
+無需擔心 - 可能是其他用戶不小心輸入了您的電郵地址。您可以取消電郵與此帳戶的連結。請注意，此連結將於7日後失效。 
+取消連結我的電郵 <http://t.ctrip.cn/zlUGbfd> 
+隨時隨地取得支援
+如有任何問題，可使用 Trip.com App 聯絡我們
+免費網絡通話
+立即下載 
+<https://triplink.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Ftripcom.go.link%3Fadj_t%3D15j9m0tk_15jds8ml%26deep_link%3Dctripglobal%253A%252F%252Fmytrip%252Fhome%26adj_label%3Dplatform%253Demail%2526loca
+
+---
