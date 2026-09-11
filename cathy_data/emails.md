@@ -245,3 +245,14 @@ Newsletter 30/04/2026 — idealista/news     | Lunedì 27 Aprile 2026
 *************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 30/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-30T09:35:41.000Z
+**摘要:** 石油价格因中东冲突担忧上涨，欧洲股市普遍下跌，意大利股市跌幅较大，部分企业股票显著下滑。
+**待办:** 无
+
+Che succede 30/04/2026 — idealista/news                   Il petrolio balza ai livelli più alti da almeno quattro anni mentre cresce il pessimismo su una rapida fine del conflitto in Medioriente. Il Brent ha toccato nella notte i 126,41 dollari al barile, per poi ripiegare agli attuali 123,81 (+4,9%) mentre il Wti sale del 2,3% a 109,35 dollari. Sui mercati si teme che gli Stati Uniti possano riprendere gli attacchi allIran, scatenando la risposta di Teheran e facendo ripiombare il Medioriente n
+
+---
