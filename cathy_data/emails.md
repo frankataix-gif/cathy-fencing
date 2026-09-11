@@ -1958,3 +1958,34 @@ Che succede 02/04/2026 — idealista/news     [ed editore di questa newsletter],
 Il governo ripristina integralmente le risorse per Transizione 5.0 e aggiunge altri 200 milioni, portando a 1,5 miliardi i fondi destinati alle imprese che hanno inve
 
 ---
+
+## [学校] Action Required: SSAT Test Submitted and Scores Release
+
+**发件人:** The SSAT <emateam@enrollment.org>
+**日期:** 2026-04-02T10:30:15.000Z
+**摘要:** Yunxi已完成SSAT考试，需完成测试体验声明（TES）以释放成绩，后续成绩将在指定时间后发送至家长及指定接收方。
+**待办:** 完成SSAT测试体验声明（TES）
+
+ 
+[image: Image] 
+
+ 
+
+Dear JingQi,
+
+
+yunxi completed their SSAT! The test results are currently being processed. 
+Please read the following update on next steps and scoring.
+
+
+*Next Steps:*
+
+ 
+
+1. Before scores can be released to you or any score recipients, you must 
+respond to the SSAT Testing Experience Statement (TES). Before completing 
+the TES, be sure to talk with your student to understand if there were any 
+difficulties or irregularities that may have impacted testing.
+Complete Testing 
+
+---
