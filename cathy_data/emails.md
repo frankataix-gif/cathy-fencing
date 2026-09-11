@@ -18456,3 +18456,15 @@ Please do not reply to this email.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 一家大細玩盡暑假☀️親子門票半價
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-20T00:18:00.000Z
+**摘要:** Trip.com推送暑假促销活动，长隆酒店直降500港币并提供积分任务。
+**待办:** 查看链接参与暑期促销活动
+
+長隆酒店激減 HK$500🏨⭐️再解鎖2大任務輕鬆賺1,700 Coins💰👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152160179-1784506557120.868%26ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D460315.HK-20260720-edm-SummerCampaign.2026-07-20_8_0.20260720.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMS
+
+---
