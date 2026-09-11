@@ -9013,3 +9013,20 @@ Buy
 ( https://clicks.foxtons.co.uk/f/a/tcuD3kWOF50-TojRGXiDAw~~/AAAHahA~/Mz_SA2t1mW6oxNaJgA-CUn91GK150DeAvNUF3nT2ugsoNwe0Zv6wr4GkCwt4PxrjvWWfsHXw_IXi98XuJXXI8qwFQ6TxPZbinKbyb_BpmpBfHSaU
 
 ---
+
+## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-07T09:36:24.000Z
+**摘要:** Frank跟进Knight Frank公寓相关文件，请求确认信息、修改代理协议类型并明确后续步骤。
+**待办:** 确认信息表、修改代理协议类型并提供后续步骤
+
+Hello Lauren,
+
+I am preparing the relevant information and have attached the materials currently available.
+
+1. Leasehold Property Information Form: I have been completed. Please review the completed sections and confirm whether they are correct.
+2. Change of agency agreement type: Please amend the agreement type to Multiple Agency. As I have already entered into an agency agreement with another estate agent, please apply the corresponding Multiple Agency fee rate.
+3. I have also attached 
+
+---
