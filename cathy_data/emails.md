@@ -3586,3 +3586,25 @@ https://myaccount.google.com/notifications
 我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
 
 ---
+
+## [其他] Your ETA security code
+
+**发件人:** UK Visas and Immigration Home Office <uk.visas.and.immigration.home.office@notifications.service.gov.uk>
+**日期:** 2026-02-24T21:18:54.000Z
+**摘要:** 用户请求了ETA安全码，收到代码921732，该代码在10分钟后过期且仅能使用一次。
+**待办:** 无
+
+You requested a security code.
+
+921732 is your security code 
+
+Your code expires in 10 minutes. You can only use it once.
+
+UK Visas and Immigration
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Do not reply to this email. This is an automated message.
+
+
+---
