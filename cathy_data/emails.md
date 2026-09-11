@@ -1333,3 +1333,14 @@ Borgo dei Borghi 2026 — idealista/news
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 09/04/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-04-09T09:31:51.000Z
+**摘要:** OECD报告指出意大利经济增速面临人口老龄化、低劳动力参与率及技能不足等挑战，并建议加强私营部门投资以促进增长。米兰家具展即将举行，但内容未完整。
+**待办:** 无
+
+Che succede 09/04/2026 — idealista/news                Per lItalia rafforzare i tassi di crescita delleconomia "richiederà navigare con venti contrari di una popolazione in rapido invecchiamento, amplificati da livelli di partecipazione di donne e giovani al mercato del lavoro più bassi che nella maggior parte dei paesi, nonostante i recenti miglioramenti, così come da carenze rilevanti sulle competenze". Lo si legge nella scheda sulla Penisola del primo rapporto su competitività e crescita pubb
+
+---
