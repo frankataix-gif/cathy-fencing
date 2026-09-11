@@ -1022,3 +1022,14 @@ Cordiali saluti
 
 
 ---
+
+## [营销] La guida alle nuove regole per gli affitti brevi 2026
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-16T19:00:34.000Z
+**摘要:** 提供2026年短期租赁新法规的指南，涵盖税务和合规要求。
+**待办:** 无
+
+La guida alle nuove regole per gli affitti brevi 2026 — idealista/news    Il mercato delle locazioni turistiche ha subito una profonda trasformazione. Gestire un appartamento oggi non significa più solo consegnare le chiavi, ma navigare in un sistema normativo integrato. Se ti stai chiedendo come muoverti tra le novità introdotte dalla finanziaria 2026 sugli affitti brevi (e non solo) questa guida ti aiuta a fare chiarezza tra le nuove regole per la cedolare secca, lobbligo di Cin e la redditivi
+
+---
