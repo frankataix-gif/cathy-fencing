@@ -9200,3 +9200,15 @@ All parents are welcome! We believe that parent involvement plays a key role in 
 Welcome back! We hope you had a wonderful, restful summer filled with sunshine, laughter, and special moments with your
 
 ---
+
+## [营销] Run, stretch, sip, and connect at Fuggles Beer
+
+**发件人:** lululemon Richmond Centre <stores@e.lululemon.com>
+**日期:** 2026-09-06T16:02:56.000Z
+**摘要:** lululemon 邀请参加 Fuggles Beer 的跑步、拉伸、品酒和社交活动
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
