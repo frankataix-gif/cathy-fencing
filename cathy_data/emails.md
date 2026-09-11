@@ -9422,3 +9422,20 @@ Forward this to all your favourite guys.
 ͏‌  ͏‌  
 
 ---
+
+## [营销] ‼️ SALE ‼️ 50% off select beauty!
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-09-05T13:15:04.000Z
+**摘要:** Sephora推出50% off促销，涵盖多个品牌，并附有积分和当日送达优惠。
+**待办:** 无
+
+ Sephora 
+
+From Supergoop!, Rare Beauty by Selena Gomez, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a071b55599a9f7f7369ff1d668/720b9511c7e44e300000021ef3a
+
+---
