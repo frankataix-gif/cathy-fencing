@@ -3774,3 +3774,22 @@ Help using TimeTree: https://support.timetreeapp.com/hc
 
 
 ---
+
+## [其他] 爱彼迎欧洲居民服务条款
+
+**发件人:** "爱彼迎" <noreply@airbnb.com>
+**日期:** 2026-02-05T16:38:37.000Z
+**摘要:** 通知用户关于服务条款、支付条款及隐私政策的更新，需查阅相关链接了解详细信息。
+**待办:** 无
+
+%opentrack%
+https://zh.airbnb.com/?c=.pi80.pkdHJ1c3RfcHJpdmFjeS9ldV90b3M%3D&euid=402d3251-b8aa-e7c1-fd0c-3dee878c66eb
+
+natalie，你好！
+
+我们向您发送这封电子邮件，旨在让您能轻松访问我们当前的服务条款
+[https://zh.airbnb.com/terms?c=.pi80.pkdHJ1c3RfcHJpdmFjeS9ldV90b3M%3D&euid=402d3251-b8aa-e7c1-fd0c-3dee878c66eb]、支付服务条款
+[https://zh.airbnb.com/terms/payments_terms?c=.pi80.pkdHJ1c3RfcHJpdmFjeS9ldV90b3M%3D&euid=402d3251-b8aa-e7c1-fd0c-3dee878c66eb]和隐私政策
+[https://zh.airbnb.com/terms/privacy_policy?c=.pi80.pkdHJ1c3RfcHJpdmFjeS9ld
+
+---
