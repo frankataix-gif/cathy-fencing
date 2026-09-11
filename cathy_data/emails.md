@@ -12707,3 +12707,22 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AA
 
 
 ---
+
+## [营销] Smart trades start before the chart
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-21T05:40:48.000Z
+**摘要:** 这封邮件介绍了TradingView的多种工具，如筛选器、热力图和日历，帮助用户做出更明智的交易决策。
+**待办:** 无
+
+ Going beyond the chart 
+Explore screeners, heatmaps, calendars, and more to power informed 
+decisions. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ 
+
+---
