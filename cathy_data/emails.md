@@ -23362,3 +23362,17 @@ It’s all so good
 <https://app.sephora.com/T/v610000019ee0c164f99c631bf4bbe5c898/a95dd3c8f43a4f230000021ef3a0bcc2/a95dd3c8-f43a-4f23-871b-386d49caf9
 
 ---
+
+## [其他] Alla scoperta di Burano, tra merletti e case colorate
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-06-19T13:01:05.000Z
+**摘要:** 
+**待办:** 无
+
+Newsletter 19/06/2026 — idealista/news     | Mercoledì 17 Giugno 2026  | Martedì 16 Giugno 2026 | Lunedì 15 Giugno 2026  | Giovedì 18 Giugno 2026 | Venerdì 19 Giugno 2026  | Giovedì 18 Giugno 2026[ed editore di questa newsletter]. Un segnale di cambiamento un contesto di offerta in crescita, dove i proprietari si mostrano sempre più reattivi, rivedendo le proprie richieste per restare competitivi e accelerare i tempi di locazione
+
+| Venerdì 19 Giugno 2026
+****************************************
+
+---
