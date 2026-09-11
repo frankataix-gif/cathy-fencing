@@ -15275,3 +15275,24 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdcfdefa,40
 TELUS 
 
 ---
+
+## [营销] Fresh produce, pantry staples, and more
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-04T19:28:26.000Z
+**摘要:** DoorDash提供杂货、日用品等配送服务，用户可在线下单，节省购物时间。
+**待办:** 无
+
+ DoorDash Get it all delivered. 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4sw/1UMCRPPsR4u3hQshm5xZGA/h0/h001.vqxzn5yeaR7OoKJqArPZe8EA70YoZ7K5xgU9vCjruYA> 
+
+HOUSEHOLD 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYIgMJ_xZ5g3JVxCsoE_pMkyC7SD39ji99qEqV8R-dnHjWngxWnoXD8ck_kYGjqbrM/4sw/1UMCRPPsR4u3hQshm5xZGA/h1/h001.dvGmrYa_BvEVYxNLfyvc9DxR2zwchkf27y-P7UegkvA>
+
+|
+
+GROCERY 
+<
+
+---
