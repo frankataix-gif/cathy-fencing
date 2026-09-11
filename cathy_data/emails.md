@@ -17384,3 +17384,18 @@ T-Mobile 预付费账户需要充值。...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE51mbi9lRuGPNSHZnOJUJ5fGc2NY3TUAeq7Ach8nNuzel9tFy9WgvFa3KyTQ3Os-2FkP17K1ooNWzygvuiHlIE6nQVzYhoclw5HriA7QsXTAFtX0gmpiCBi-2Fx4ulNxcJtaXV24FQAqeC0EFihrqqrzMbGHvspg5xEk2iefQ
 
 ---
+
+## [待办] [Task Update] Email Monitor: T-Mobile账户需尽快充值
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T20:58:29.000Z
+**摘要:** T-Mobile USA发来邮件提醒账户需尽快充值。
+**待办:** 充值T-Mobile账户
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封新的重要邮件需要你关注： 📱 
+T-Mobile USA（需要操作） - 主题： Your T-Mobile account needs to be refilled. - 发件人： 
+T-Mobile USA <donotreply@notifications.t-mobile.com> - 状态： 未读，Gmail 已标记为重要。 
+- 摘要： 提醒你的... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFTkdXHve6hHpZxcq36Bi6qUEX1UFVK6GCSdEFubXkyh4Ud5vygtb9NbnHuQBGJU-2BTvCnakum8hvYGHY3zuDOySLXFnITEKmO9FAVGcgGDxnZWwsWLTSUQElCQEQ5ZYSRGl33dpPO0KkYdoXHhuVXpnrXYaThYlwT8sfOwPQS
+
+---
