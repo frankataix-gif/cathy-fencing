@@ -2843,3 +2843,17 @@ Yours sincerely
 *Please do not reply to this email as it is from an automated system.*
 
 ---
+
+## [其他] 与您分享的记事：“西班牙签证所需材料”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-15T18:34:54.000Z
+**摘要:** 有人分享了关于西班牙签证所需材料的记事，并附上链接。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1RxnsS3yb3xO_uYxILNcweN9_u-qBjpMW0jJTx8E5W0fC1hkTR-yD2Bj4JQQEveWbpyHstq_w&email=nataliewu100@gmail.com&tid=true
+
+
+---
