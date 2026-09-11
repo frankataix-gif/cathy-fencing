@@ -20658,3 +20658,22 @@ Sign in to your account
 <https://
 
 ---
+
+## [其他] You have a new message in your portal account.
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-07-07T15:01:43.000Z
+**摘要:** 通知您有新的消息需要登录账户查看
+**待办:** 无
+
+*E-mail Notification*
+This message is intended for the following e-mail address: 
+nataliewu100@gmail.com.
+If this message does not concern you, discard it.
+ 
+You have a new message(s) in your account.
+To view your message, sign in to your account 
+<https://www.cic.gc.ca/english/e-services/mycic.asp>.
+
+
+---
