@@ -415,3 +415,32 @@ Salone del Mobile e Fuorisalone: tutto il meglio delledizione 2026 — idealista
 ----------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] BUON COMPLEANNO da Oltre ✨​
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-25T09:06:02.000Z
+**摘要:** 这封邮件是Oltre的生日祝福促销邮件，包含免费取货退货服务和新品信息。
+**待办:** 无
+
+
+  
+ 
+
+ 
+
+
+https://view.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTd9ADIAAAAAAClWdiRM2wWLnabWBqfq8sR99IPpWooTCAY2yHrgQNJd--BGnhD8Aujwf06TZoScaorTXZxUp_aTyVIHHMG8Dm0gOPc5FjHc0xWZYqT5ifyltOihrTHCGA5AfD2h7sbqbA 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+Fidelity card 2939333454571
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTd9ADIAAAAAAClWdiRNOoOSVLrQb07Ydt2IBFpKV7D5FP9fbk4fTckimY0cugA7hQyHFsh6gxPUMdM1AMFQOfEA7CGhnphuL9kPEyiBTu4HzJU6uaYH 
+
+
+htt
+
+---
