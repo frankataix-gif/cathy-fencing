@@ -7698,3 +7698,25 @@ nataliewu100@gmail.com
 “<https://c.gle/ACT4xYweRjWdV8ON-MTpD1iIqEikkvl-UWtBLFrtG3Yfy
 
 ---
+
+## [营销] Your property is now live on Foxtons
+
+**发件人:** Freya.Wan@foxtons.co.uk
+**日期:** 2026-09-10T10:04:30.000Z
+**摘要:** 房产已上线至Foxtons网站，需确认信息准确性和完整性。
+**待办:** 检查房产信息准确性，报告任何错误或需要修改的地方。
+
+ 
+
+Please check your property's details online 
+[image: Foxtons Estate Agent] 
+<https://www.foxtons.co.uk/?utm_medium=email&utm_source=bos&utm_campaign=property_live&tbp=11EFC045EB04FB49BD823B39C41C908A2C5FF97A6B61D43DFE709862691E7BF7> 
+
+*Dear Miss wu,*
+
+I am delighted to inform you that as part of our comprehensive marketing 
+package your property is now live on Foxtons.co.uk. 
+* View your property * 
+<https://www.foxtons.co.uk/ss/chpk4960030?utm_medium=email&amp;utm_source=bos&amp;utm_campaign
+
+---
