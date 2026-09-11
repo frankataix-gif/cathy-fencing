@@ -3026,3 +3026,17 @@ https://keep.google.com/share?note=1Hu7IMghzI6vAc6gyN46TQ7sNm0TXn2mw9c7xWDtP79z0
 
 
 ---
+
+## [其他] 与您分享的记事：“办理意大利税号（Codice Fiscale）”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-15T10:03:00.000Z
+**摘要:** 邮件分享了关于办理意大利税号（Codice Fiscale）的记事内容。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=1asXMXYHkOQWAiUIvzo5Y2mTkeP08XVmWGLZgoQxg_1-hQ5_PWPWiMKaSVxQ1AFg&email=nataliewu100@gmail.com&tid=true
+
+
+---
