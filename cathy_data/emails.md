@@ -25923,3 +25923,53 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/oMnrqc37pKl7TBFIk26PSw~~/AAAHahA~/erxwW_C1hTlk3g-pHOZf2_OJmFUahzhxK6_TyNbdF1D9F4l9h7N1hKZA6FvSytCc56oZhDBQoup56S7Y34wht5YP80J
 
 ---
+
+## [其他] Inflazione, quanto aumenta il canone nella tua città
+
+**发件人:** "idealista/news" <news@settimanale.idealista.it>
+**日期:** 2026-05-22T11:01:12.000Z
+**摘要:** 关于通货膨胀导致租金上涨的新闻，包含不同日期的通讯内容。
+**待办:** 无
+
+Newsletter 22/05/2026 — idealista/news     | Venerdì 15 Maggio 2026 | Mercoledì 20 Maggio 2026  | Giovedì 21 Maggio 2026 | Martedì 19 Maggio 2026  | Martedì 19 Maggio 2026 | Giovedì 21 Maggio 2026  | Venerdì 22 Maggio 2026
+*************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [其他] Che succede 22/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-22T07:45:02.000Z
+**摘要:** 意大利总理梅洛尼成为欧洲Instagram上粉丝最多的领导人，同时意大利核能法案将在5月26日进入众议院审议。
+**待办:** 无
+
+Che succede 22/05/2026 — idealista/news                    Con 6,5 milioni di follower è Giorgia Meloni la leader europea più seguita su Instagram. A dirlo sono i dati dell’Instant Mood di Arcadia, che certificano anche il sorpasso della premier italiana nei confronti del presidente francese Emmanuel Macron. A spingere la popolarità della premier sono stati anche i recenti post virali con il premier indiano Narendra Modi
+
+Il disegno di legge delega sul nucleare arriverà in Aula alla Camera il 26
+
+---
+
+## [营销] WINX x OLTRE | Una capsule collection magica ✨
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-22T07:05:08.000Z
+**摘要:** 这是一封关于WINX与OLTRE联名胶囊系列的营销邮件，包含免费取货退货服务及新品上架信息。
+**待办:** 查看链接并处理订单
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODR9ADIAAAAAAHmRArozGLyOCPYbEJpPZ85Q4DbISHUuviOtEvKBW_toOdudsSzk1NB12uzrcyeJ0EDPkVaUkG7DmJsDE1kU-QuOBz_Qm9LV4yLWnIw 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODR9ADIAAAAAAHmRAro052h5ALe1oJssmvzTTRWWGiQwzoLhhSqUYKcxwdNT6OpD0bM1pub0cdqjrXerp46JHIVfnleFVd4FmGaZRo0_X3KTjH6lB-w 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODR9ADIAAAA
+
+---
