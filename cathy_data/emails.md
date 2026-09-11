@@ -14161,3 +14161,20 @@ Sweatfleece with New Orleans flavour.
 ͏‌  ͏‌  ͏‌ 
 
 ---
+
+## [其他] Property Access and Viewing Arrangements - Flat 120, 1 Emery Way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-12T13:00:13.000Z
+**摘要:** 业主通知租约结束并准备出售房产，将直接安排看房并提供授权代理人信息。
+**待办:** 无
+
+Dear London Dock Concierge,
+
+I hope this email finds you well.
+
+This is my first time reaching out to you. I am Wu Jingqi （natalie）, the owner of Flat 120, 1 Emery Way at London Dock. I have CC’d YiFan Wang from Glencoe (management@glencoe.london) to verify my identity.
+
+I would like to inform you that the long-term lease for my property ended last week. I do not intend to continue with long-term rentals as I am currently preparing to sell the property. I have attached the post-tenancy cle
+
+---
