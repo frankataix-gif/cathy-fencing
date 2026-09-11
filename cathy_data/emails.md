@@ -13092,3 +13092,23 @@ Leave a Review zh        p {font-family: sans-serif !important;}
 
 
 ---
+
+## [待办] 验证你的电子邮件地址
+
+**发件人:** Blackbaud Authentication Services <noreply@notification.blackbaud.com>
+**日期:** 2026-08-18T19:28:14.000Z
+**摘要:** 需要验证电子邮件地址，提供访问码028740，请在10分钟内输入。
+**待办:** 验证电子邮件地址并输入访问码028740
+
+banner image<https://s21pusa01aemov2blkbsa05.blob.core.windows.net/images-send-time/p-n-Jcb9egiES0n6gQaZ7tAQ/OTAofgMUycBIciwGsMWUa2Mpwi4/180.png>
+你好，
+完成此确认步骤，请在10分钟内输入下方访问码。
+028740
+ 
+
+Blackbaud logo<https://s21pusa01aemov2blkbsa05.blob.core.windows.net/images-send-time/p-n-Jcb9egiES0n6gQaZ7tAQ/lQzU0YD3Lx_-OBr5Y2kNVa7RoAQ/50.png>
+
+Terms of Use<https://www.blackbaud.com/company/terms-of-use> and
+Privacy Policy<https://www.blackbaud.com/company/privacy-policy>
+
+---
