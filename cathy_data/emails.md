@@ -15064,3 +15064,18 @@ https://account.apple.com
 If you need 
 
 ---
+
+## [营销] Love savings? Add a line.
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-08-05T18:17:04.000Z
+**摘要:** 这封邮件是Koodo推广添加新线路的优惠活动，使用代码ADD120可享受每月节省5美元，持续24个月，并提供统一账单服务。
+**待办:** 无
+
+Savings made for the family.
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tfe147975,40898a7b,2ae24c35&e=Y2lkPXRlbERNMjI1MjQwMiZiaWQ9LTMyMjEyNjE5JnAxPSU0MGVJJTJGOEFCS1FWVjBxWUZMTWVjeHNyY1RZNjdmOEd6Y3lreUVxTG15JTJGN3FFJTNE&s=TBGE6V0LX-gK4XdjMy3G2rZo6YQh56RsRRRDK83Npxc web browser . 	
+ https://t.email.koodomobile.com/r/?id=tfe147975,40898a7b,2ae24c36&e=Y2lkPXRlbERNMjI1MjQwMiZiaWQ9LTMyMjEyNjE5&s=HIUtvHc3nbVIK36xyYZYO2088nxMds4KaQ8JrYZfNqk 	
+
+ https://t.email.koodomo
+
+---
