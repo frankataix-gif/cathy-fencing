@@ -21549,3 +21549,18 @@ Prime
 ( https://trackbz.doordash.com/f/a/75SUu4TvVfxPyQ1sM2KINA~~/AAQRxRA~/yzrQWs5VfMhFYidwx7PZYLwWrTiBegdf0XlkyKo3_UzonMbNEvEFXUYPztm-VWuBd1xJzUDj8PY7lpiwIoGMT8LBPipKiQxUA8_mew15zhKjDQnlCnmpwXCpD_LcnXlrzwh9fde83f2YI9i3z1mlnMCqQAbix9f
 
 ---
+
+## [其他] What the average asking price buys across Great Britain
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-03T16:16:47.000Z
+**摘要:** 
+**待办:** 无
+
+We look at the kinds of homes £378,000 will buy you across the
+country              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/yL1jcR-vn_mIL40ij59bUQ~~/AAAHahA~/Hl2lVXecpkyHehkZRLgxERW7ze0odyDlCqYaOqerPJINjVcoV7Rtvac9mAI7iWRGGw5N25vWMLhVqD3ELHCwV5KRhr9_0MNnWmJWsC-Mj5nx2uUU4qlY7OuX976-x5lVYC_F2wiQxM67oJ76GXNra51vDNq60FQtFH3B7SKpuP8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/elbqeO1MSORUa54YvfafyA~~/AAAHahA~/0aONJezVFJCKEBALUdhse0-R5Vs_PWMDlQtIrfuDPdEcdCUW2QBovv3-HxNrt_DfXAw_f
+
+---
