@@ -10435,3 +10435,39 @@ Confirm My Email Address
 <https://www.paypal.com/cgp/welcome-back?userIntent=profile_complete&expId=confirmEmail&cust_id=M5629AVJ2R5JA&cc=02985650514686332969&em=XcbP_EjwihhDJzif8J2HmqEFlhOgxKEkCsYED_l7ChXpx4khfqoTI-x
 
 ---
+
+## [学校] Meadowridge Student Website
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-02T19:34:19.000Z
+**摘要:** Christina Reis 发送了 Meadowridge 学校学生技术网页的链接，供学生使用。
+**待办:** 无
+
+Hi Cathy,
+
+Here is the link to our Student Tech webpage. https://sites.google.com/meadowridge.ca/meadowridge-edutech/september-start-up
+
+Mrs Reis
+
+
+Christina Reis, M.Ed.
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@meadowridge.bc.ca>
+
+
+
+MEADOWRIDGE SCHOOL
+
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+
+T: 604-467-4444
+
+www.meadowridge.bc.ca<http://www.meadowridge.bc.
+
+---
