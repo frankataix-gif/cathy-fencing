@@ -14226,3 +14226,15 @@ Your next medium? Layers.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌ 
 
 ---
+
+## [营销] 優惠券大放送💸幫你慳 HK$1,500 ✨
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-12T00:33:34.000Z
+**摘要:** Trip.com发送的优惠券邮件，提供机票、日本乐园和韩国酒店的折扣优惠。
+**待办:** 无
+
+💳信用卡機酒減高達 HK$250!💰日本樂園3折起🎢韓國酒店激減 HK$800 😍即拎👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230255-1786494812885.416%26ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0z
+
+---
