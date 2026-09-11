@@ -1565,3 +1565,37 @@ to others?
 <https
 
 ---
+
+## [其他] Password reset request
+
+**发件人:** Fencing TV <notifications@fencingtv.com>
+**日期:** 2026-04-04T17:56:09.000Z
+**摘要:** 收到FencingTV账户密码重置请求，需点击链接处理或忽略。
+**待办:** 无
+
+Dear Natalie Wu,
+
+ 
+
+We received a request to reset the password for your FencingTV account.
+
+To proceed, click the link below:
+
+Reset my password
+[https://fencingtv.com/auth/password-reset/019d59a3-505b-7953-9c99-642866174793-87057cfc-995a-45d2-8132-c91d25eb9d3a]
+
+If you didn’t request this change, you can safely ignore this message your
+password will remain the same.
+
+ 
+
+Kind regards,
+
+FIE Fencing TV Team
+
+
+
+We hope you're enjoying your experience with FIE Fencing TV!
+As
+
+---
