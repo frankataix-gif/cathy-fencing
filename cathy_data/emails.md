@@ -23701,3 +23701,25 @@ Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDl9ADIAAAAAAMaX91xV_7l_uIDxMCRiDOeE820pbknRO8b-qJMJGMRl5n3X8vbUSTXK5FUCwbGUc-f2VPrxaZLeQBMlAflP
 
 ---
+
+## [其他] 请对您在罗马的租车订单的售后服务进行评价- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-06-16T03:22:03.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+<http://www.zuzuche.com/> 租车时间：2026-06-01 - 2026-06-06
+服务单号：1854967221
+订单号：1008974800 
+您对罗马租车售后服务的体验如何？来点评一下吧！ 
+您的意见将有助于我们改善服务水平，为您打造一个更好的租租车。 
+不满意 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=1854967221&act=get&source=EMAIL> 
+一般，还可以 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=1854967221&act=get&source=EMAIL> 
+非常满意 
+<http://m.zuzuche.com/w/ticketflow/static/pages/appraise.html?survey_id=223689&ticket_sn=
+
+---
