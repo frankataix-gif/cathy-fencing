@@ -25935,3 +25935,16 @@ Newsletter 22/05/2026 — idealista/news     | Venerdì 15 Maggio 2026 | Mercole
 *************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 22/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-22T07:45:02.000Z
+**摘要:** 意大利总理梅洛尼成为欧洲Instagram上粉丝最多的领导人，同时意大利核能法案将在5月26日进入众议院审议。
+**待办:** 无
+
+Che succede 22/05/2026 — idealista/news                    Con 6,5 milioni di follower è Giorgia Meloni la leader europea più seguita su Instagram. A dirlo sono i dati dell’Instant Mood di Arcadia, che certificano anche il sorpasso della premier italiana nei confronti del presidente francese Emmanuel Macron. A spingere la popolarità della premier sono stati anche i recenti post virali con il premier indiano Narendra Modi
+
+Il disegno di legge delega sul nucleare arriverà in Aula alla Camera il 26
+
+---
