@@ -2243,13 +2243,201 @@
     "total": 0
   },
   "air-force-roc--d1a--dv2--vet---2026-09-12-air-force-cadet-field-house-air-force-academy-co": {
-    "fetched_at": "2026-09-07T22:26:08.232949Z",
+    "fetched_at": "2026-09-11T18:03:43.707257Z",
     "counts": {
-      "CDTWF": 27,
       "Y12WF": 0,
-      "Y14WF": 0
+      "Y14WF": 0,
+      "CDTWF": 26
     },
-    "total": 27
+    "names": {
+      "Y12WF": [],
+      "Y14WF": [],
+      "CDTWF": [
+        {
+          "name": "Ahn, Hayley",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100331536",
+          "status": ""
+        },
+        {
+          "name": "Arya, Leela",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100356636",
+          "status": ""
+        },
+        {
+          "name": "Bastunas, Marissa",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "100315068",
+          "status": ""
+        },
+        {
+          "name": "Chan, Ella",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100293397",
+          "status": ""
+        },
+        {
+          "name": "Chan, Mila",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100293398",
+          "status": ""
+        },
+        {
+          "name": "Cho, Karis",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100320149",
+          "status": ""
+        },
+        {
+          "name": "Dillon, Zoe",
+          "club": "Roaring Fork Fencers Club",
+          "division": "Colorado",
+          "member_num": "100324574",
+          "status": ""
+        },
+        {
+          "name": "Fang, Kelervia",
+          "club": "Spartak",
+          "division": "San Diego",
+          "member_num": "100345002",
+          "status": ""
+        },
+        {
+          "name": "Feng, Sophia",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100938724",
+          "status": ""
+        },
+        {
+          "name": "Goodman, Olive",
+          "club": "South Denver Fencing Academy",
+          "division": "Colorado",
+          "member_num": "100810124",
+          "status": ""
+        },
+        {
+          "name": "gowda, Siyona",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100341302",
+          "status": ""
+        },
+        {
+          "name": "Harris, Parker",
+          "club": "Plymouth/Ann Arbor Fencing Academy",
+          "division": "Michigan",
+          "member_num": "100354892",
+          "status": ""
+        },
+        {
+          "name": "Horowitz, Shuli",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100290423",
+          "status": ""
+        },
+        {
+          "name": "Jin, Jada Y",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100711818",
+          "status": ""
+        },
+        {
+          "name": "Li, Alice",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100314546",
+          "status": ""
+        },
+        {
+          "name": "Li, Sophia",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100487021",
+          "status": ""
+        },
+        {
+          "name": "Neumann, Erika",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100328902",
+          "status": ""
+        },
+        {
+          "name": "Pandit, Leela",
+          "club": "Naples Fencing School",
+          "division": "Central Florida",
+          "member_num": "100330753",
+          "status": ""
+        },
+        {
+          "name": "Pedersen, Haley",
+          "club": "United Fencing Academy",
+          "division": "Southern California",
+          "member_num": "100274224",
+          "status": ""
+        },
+        {
+          "name": "Rigby, Ellie",
+          "club": "Valkyrie Fencing Club",
+          "division": "Utah-Southern Idaho",
+          "member_num": "100332463",
+          "status": ""
+        },
+        {
+          "name": "Roush, Rowynn",
+          "club": "South Denver Fencing Academy",
+          "division": "Colorado",
+          "member_num": "100277026",
+          "status": ""
+        },
+        {
+          "name": "Shipman, Danika",
+          "club": "South Denver Fencing Academy",
+          "division": "Colorado",
+          "member_num": "100838549",
+          "status": ""
+        },
+        {
+          "name": "Swope, Farren",
+          "club": "Fencing Center Of Chicago",
+          "division": "Illinois",
+          "member_num": "100211886",
+          "status": ""
+        },
+        {
+          "name": "Thota, Akira",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100330594",
+          "status": ""
+        },
+        {
+          "name": "Vorobiev, Alexandra",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100318124",
+          "status": ""
+        },
+        {
+          "name": "Zhou, Joi",
+          "club": "SoCAL Fencing Center",
+          "division": "Southern California",
+          "member_num": "100309106",
+          "status": ""
+        }
+      ]
+    },
+    "total": 26
   },
   "urnyerey-series--1-registratio-2026-09-18-orlando-fl": {
     "fetched_at": "2026-09-09T18:04:36.055489Z",
@@ -30901,7 +31089,7 @@
     "total": 26
   },
   "fortune-roc-rjcc-ryc-2026": {
-    "fetched_at": "2026-09-11T06:04:01.729330Z",
+    "fetched_at": "2026-09-11T18:03:43.706780Z",
     "counts": {
       "Y12WF": 77,
       "Y14WF": 86,
@@ -32189,7 +32377,7 @@
         },
         {
           "name": "Choi, Jion",
-          "club": "",
+          "club": "Nam Hyun Hee Fencing Academy",
           "division": "Orange Coast",
           "member_num": "100477338",
           "status": ""
