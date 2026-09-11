@@ -22079,3 +22079,16 @@ Phone credit charge: you’ll see this c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 30/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-30T08:00:09.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 30/06/2026 — idealista/news       Un giardino di lusso è uno spazio esterno progettato con materiali di alta qualità, un design coordinato e una grandissima attenzione ai dettagli. Qui ogni elemento — verde, arredo, illuminazione e superfici — dovrebbe dialogare in armonia con l’architettura della casa
+
+Quando si decide di alienare un immobile occupato, si aprono due percorsi ben definiti. Il primo prevede la cessione alla prima scadenza contrattuale, momento in cui il locatario gode
+
+---
