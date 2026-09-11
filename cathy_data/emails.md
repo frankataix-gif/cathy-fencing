@@ -26128,3 +26128,17 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODJ9ADIAA
 Che succede 19/05/2026 — idealista/news     Non lontano dal centro di Bari, nel rione San Pasquale, sorge un angolo di paradiso per gli appassionati della scrittura in versi. Si tratta di Millelibri-Poesia e Altri Mondi, lunica libreria in Italia dedicata interamente alla poesia. Il progetto di una libreria dedicata a una forma di scrittura spesso estranea ai circuti commerciali è nata dalla passione e dal coraggio della sua fondatrice, Serena di Lecce, convinta - come spiega a idealista/news - 
 
 ---
+
+## [营销] You’re about to be swimming in compliments.
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-05-19T06:50:10.000Z
+**摘要:** 这封邮件是Hollister公司推送的夏季比基尼促销信息，强调比基尼的时尚与舒适。
+**待办:** 无
+
+Hollister Co. 
+  
+Bikinis that look as good as summer feels 🏖️ 
+<https://e.em.hollisterco.com/c2/1979:6a06e9f5f3213662970f43d0:ot:69e6429a87fa4e894f0fac35:1/9ca30165?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzkxNzM0MTAsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNmEwNzAyMDJkNDBhZjJlYTI3MDM3OGIyIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2ND
+
+---
