@@ -17812,3 +17812,28 @@ Canada（GCKey） - 发件人： GC@auth.canada.ca - 主题： GCKey Sign-In - �
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHxqYZlrGu6s1xBSp1E5maOG3lulNzKpQY-2Bj-2BUbjIC1-2BB1iTbHNbQGFJe0tu5xaEjzp6DU3o2lFZ1Ab8TYPqpqbxwDVosohLCr5D6FwGDzs6mWrFoTgToFHGDoQxAoeBdxj0CJttt-2B9W9xf-2BiUuZJUU9UVY8wjvTJ
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-22T18:19:56.000Z
+**摘要:** 收到加拿大政府账户的登录验证邮件，包含一次性密码CHGJ8S6Y，并提示此邮件因注册账户而发送。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+CHGJ8S6Y
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
