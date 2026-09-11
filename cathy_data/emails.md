@@ -12109,3 +12109,15 @@ Regards,
 
 
 ---
+
+## [其他] Thank You for Ordering a Tesla!
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-25T03:02:49.000Z
+**摘要:** 感谢订购特斯拉，邀请用户分享体验和期待的功能。
+**待办:** 填写调查问卷分享体验和期待的功能
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DMKFn_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHhEXgZ0TiHKVUd-2BH6MVsErbShg7ZWVf4rsVzJXovir1FcN3hLILQEYV6FdyEPpOLT0l-2FzR8wzX42ff6pUEa2DMpUISa9xeLwCpBIhGw3VRP0V8ZQ3efk9LtI7HlTb-2Bu1l2xoeguDrqT5qUp1H2-2BTUf3d
+
+---
