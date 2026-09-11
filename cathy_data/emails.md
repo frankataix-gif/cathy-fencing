@@ -22273,3 +22273,14 @@ Welcome to use ClassIn, the verification code is 6688, valid within 30 minutes.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015293242-1782730505321.706%26ouid%3D443431.HK-20260629-EDM-premium-NEW.2026-06-29_8_0.20260629.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D443431.HK-20260629-EDM-premium-NEW.2026-06-29_8_0.20260629.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS
 
 ---
+
+## [其他] Che succede 29/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-29T08:24:37.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 29/06/2026 — idealista/news             Il ministro delle Imprese e del Made in Italy Adolfo Urso, ha convocato per martedì 30 giugno, alle ore 17.30, a Palazzo Piacentini, i rappresentanti delle principali compagnie petrolifere attive in Italia: Api-Ip, Eni, Q8 e Tamoil. La riunione, spiega il ministero, "avrà la finalità di fare il punto sullandamento dei prezzi dei prodotti petroliferi e dei carburanti a seguito del Memorandum dintesa tra Stati Uniti e Iran e del conseguente riavv
+
+---
