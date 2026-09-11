@@ -21216,3 +21216,28 @@ Make the most of it.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1014717156-1783247877066.633%26ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
 
 ---
+
+## [其他] Saldi fino al -50% + EXTRA -20% sul terzo capo meno caro 💖
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-05T07:29:39.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9ADIAAAAAAQMuup9ZZhO7wkgC7ZKkI8sWKwVCDEc1GEd9GMb8b0KUdMQo49vXFLbJQWqyYnL8JINAxf_M6mJr8GGHcfp3DvJlqx2zC9EW5l_lf0ko5w 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9ADIAAAAAAQMuup9a3pS-wce5VEkU1gSSFSjHYJnEyrQFFRViS7x1M4MWdP_05cmFx4GWKFw8BckspqmEztd1lSiufWHl_j1YaxFORTzLrLT6Kpd82g 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9A
+
+---
