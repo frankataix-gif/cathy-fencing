@@ -13856,3 +13856,34 @@ HK$1 拎走 HK$175 高鐵券包🎁45mins直達🚄農家菜/騎樓飲早茶😋
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101554942-1786666659597.710%26ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26trip_in_sid%3D1121&bizDat
 
 ---
+
+## [其他] New sign-in to your OpenAI account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-08-13T18:59:20.000Z
+**摘要:** 检测到OpenAI账户有新登录，需确认是否本人操作。
+**待办:** 无
+
+ New sign-in to your OpenAI account 
+New sign-in details for your OpenAI account. 
+
+Hello,
+
+We noticed a new sign-in to your OpenAI account. 
+
+*App*: ChatGPT Web
+
+*Time*: August 13, 2026 at 11:59 AM (PDT)
+
+*Approximate location*: Coquitlam, CA
+
+*Device*: Chrome on Mac OS X
+
+ 
+
+If this was you, no action is needed. 
+
+If you don't recognize this activity, please review your account security 
+<http://url3243.email.openai.com/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMvWmnkLomVjgxFpxUVYEkxqorI8ICh1R9g
+
+---
