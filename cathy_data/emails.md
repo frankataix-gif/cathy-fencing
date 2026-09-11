@@ -11344,3 +11344,6812 @@ explore.
 A TA
 
 ---
+
+## [其他] We sent you a message about your application (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-28T17:35:03.000Z
+**摘要:** 邮件通知用户有关其申请（S307997826）有新消息，需登录账户查看。
+**待办:** 登录账户查看申请状态并处理相关消息
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+A message about your application is waiting for you.
+We sent you a message about your application to your account.
+
+To read your message:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+3. Scroll down to the *Messages about your application* section.
+4. Click on the *Subject* of the new message to read it.
+
+
+Sign in to your account 
+<https://
+
+---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T16:23:29.000Z
+**摘要:** 收到加拿大政府服务的一次性验证码，用于登录。
+**待办:** 输入验证码PTTADZTA以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+PTTADZTA
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Natalie, 5 school conversions from £250k
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-28T16:20:33.000Z
+**摘要:** Rightmove上有5套价格从25万英镑起的学校转换住宅出售，附有购买和租赁链接。
+**待办:** 无
+
+Beautiful converted schoolhouse homes for sale on Rightmove now
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/gYSuOl4AssoFYGv91XwurQ~~/AAAHahA~/-4IK5UtAePt4P4sVwqKuu6HvdI8Wy_of3VAzrpmPakNZLzFwYl4ZoDDQe1mKXA8_ujgwAc-g_faEdewKJv8dOq2AS2ZTkg-PgIDmcQl_J-kwt1LlAdiIabL3rzNISuhVUoByW1ITI4wi_2gbzoQIlTy8LYuXW4jHS8BG-3QrJGk~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/7lRBswTKlVpuzkdTKJLTyQ~~/AAAHahA~/LasR-J7uncVQpdtJdd64c3Cx_3_zD4mMff5-BDk0iNTNk7wbVrQEiOsAKwqscA0lwZtDkIYxqEBrvW_CzzUk9BCrQ
+
+---
+
+## [营销] 50% off select beauty starts today 💋
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-08-28T13:19:23.000Z
+**摘要:** Sephora推出每日美妆折扣，部分商品50% off，并提及积分和配送优惠。
+**待办:** 无
+
+ Sephora 
+
+New deals drop daily. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0488635adc01a5d6e96c660f0/bee7c2b882dc4aca0000021ef3a0bcc2/bee7c2b8-82dc-4aca-8d93-18a3
+
+---
+
+## [其他] Your up to 80% off deal is fading
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-28T10:49:04.000Z
+**摘要:** 邮件提醒用户之前的80%折扣优惠即将结束，建议尽快使用。
+**待办:** 无
+
+ Your up to 80% off deal is fading 
+All good things come to an end but there’s still time to grab it. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ 
+
+---
+
+## [营销] ✅ Labour Day savings on TVs, laptops, appliances and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-28T10:07:30.000Z
+**摘要:** BestBuy.ca 发起劳动节促销活动，提供电视、笔记本电脑、家电等商品的优惠，并提醒用户设置密码以激活账户。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WJBoce8umGBaQHX-Qw5mFuGDCzUlYFGGSUoy0xY3eH9lTo2EY8IiiUBspVpzikHcCL9Fdrc2pM02Vem7EQF-YvMa-Xdh0K8IeQbA&CMP=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2479573&l=37_HTML&mid=7210119&jb=993&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gc
+
+---
+
+## [营销] Traveller 夹克
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-28T09:23:45.000Z
+**摘要:** Loro Piana 推出 Traverler 夹克，致敬行旅人生的经典之作。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+献给行旅人生的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+---
+
+## [其他] You have removed pre-authorized payments
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-08-28T07:04:35.000Z
+**摘要:** 账户的预授权支付功能已被移除，需手动支付账单以避免滞纳金，可登录Self Serve重新启用预授权支付。
+**待办:** 无
+
+
+
+Trouble viewing this email? View in web browser.  
+  
+Account number:  
+ 
+Your account has been updated.  
+On , the pre-authorized payment option was removed from your account. Your monthly bill will no longer be paid automatically using your credit cardbank account ending in .
+
+Avoid late payment charges by paying your bill in full by the due date. Log into Self Serve to pay quickly and easily.
+
+In addition to viewing your usage, bill and amount due, use Self Serve to switch back t
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T00:34:26.000Z
+**摘要:** 收到加拿大政府服务的登录验证码，需验证身份
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+7Z24LHUN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Re-order your moisturizer go-to today 📦 💫
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-08-27T23:34:47.000Z
+**摘要:** Sephora提醒客户重新订购保湿霜，并提及当前积分和配送优惠。
+**待办:** 无
+
+ Sephora 
+
+Keep your routine on track. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0459372529f8979f4bbcf6cc0/daa08b2c751c40740000021ef3a0bcc2/daa08b2c-751c-4074-850
+
+---
+
+## [其他] Your recent Tesla order cancellation
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-27T23:16:18.000Z
+**摘要:** 客户取消了Tesla订单，并请求提供取消的原因。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DlqKy_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpGIidZADQA9cB2eDEgZUOZLS8ufdIwh-2Fvh7oV0vPm-2By4F0zoQ2tvCIwscyUCgGaN2XiHnuwGlVh7WVCUGras-2FCvsKqOcs-2F2WZxN0-2FMF9zAKtmTVZa7HFW-2BaBgw-2BfmaMuKA6y-2Fr6JTgIe5JNk2
+
+---
+
+## [学校] Get Set for September! Back-to-school portal now available
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-27T22:40:06.000Z
+**摘要:** Meadowridge School 通知开学门户已开放，提醒家长和学生做好开学准备。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [其他] Work Anniversary Reminder
+
+**发件人:** Frappe <notifications@ecobox.z.frappe.cloud>
+**日期:** 2026-08-27T22:01:13.000Z
+**摘要:** Xiaojun He和Kun Huang完成在公司一年工作，提醒团队祝贺他们的工作周年。
+**待办:** 无
+
+XH
+
+KH
+
+Today Xiaojun He & Kun Huang completed 1 year at our Company! 🎉
+A friendly reminder of an important date for our team.
+Everyone, let’s congratulate them on their work anniversary!
+
+---
+
+## [其他] Your Apple Account information has been updated
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-27T21:08:42.000Z
+**摘要:** Apple账户信息在2026年8月27日被修改，提醒检查账户安全并更改密码。
+**待办:** 无
+
+The following changes to your Apple Account, nataliewu100@gmail.com, were made on 27 August 2026 at 14:08:41 PDT:
+
+Billing Information
+
+If you did not make these changes, or if you believe an unauthorized person has accessed your account, you should change your password as soon as possible from your Apple Account account page at https://account.apple.com.
+
+Sincerely,
+
+
+Apple Support
+
+-------------------------------------------------------------
+
+Apple Account
+https://account.apple.
+
+---
+
+## [其他] You've successfully signed up for pre-authorized payments.
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-27T19:24:26.000Z
+**摘要:** 用户已成功注册TELUS移动服务的预授权支付，需注意当前账单需手动支付以避免滞纳金，后续账单将自动扣款。
+**待办:** 支付当前账单以避免滞纳金
+
+Ce courriel ne s’affiche pas correctement? Ouvrez-le dans un navigateur web.
+
+Vous avez opté pour la commodité des paiements préautorisés.
+Bonjour,
+Le, vous avez choisi les paiements préautorisés pour votre facture mensuelle de services mobiles TELUS. Votre prochaine facture et les factures subséquentes seront donc payées automatiquement chaque mois au moyen de votre carte de crédit dont le numéro se termine par .
+Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode 
+
+---
+
+## [营销] Just launched — Cashmere Fall 26
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-27T14:15:21.000Z
+**摘要:** Aritzia 发布了 Cashmere Fall 26 系列新品。
+**待办:** 无
+
++ The pairing it deserves.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [学校] Budget-friendly tech for back-to-school readiness.
+
+**发件人:** "BestBuy.ca Outlet" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-27T14:14:42.000Z
+**摘要:** 这封邮件提供了经济实惠的科技产品，帮助用户为新学期做准备。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Take the markets with you
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-27T06:16:24.000Z
+**摘要:** 这封邮件介绍了TradingView的应用程序，让用户可以随时随地访问市场信息。
+**待办:** 无
+
+ Take the markets with you 
+Mobile and desktop apps — the full TradingView experience, wherever you 
+are. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     
+
+---
+
+## [其他] Ready to buy insurance quote #7181329 from Square One?
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-27T03:57:07.000Z
+**摘要:** 邮件提醒Jingqi购买保险报价，否则将过期，并介绍保险的优势。
+**待办:** 无
+
+ 
+Don't let your quote expire — buy your home insurance policy today 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wue4U_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ0eMTK2EU0WJwEu5jmWKZJLdfRSjSlM9XRWh9rf1QPTpuEMhEzya1NAzAQibJmrTjcYPAHW0PnVQvBRsbMeiGOiTyEam1W0na7XFRZtjnG-2F9qbZvCt4XLCdTDUHo80WIP7gMMiK
+
+---
+
+## [营销] 【今日會員日😍】狂賺5%額外回贈！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-27T00:38:49.000Z
+**摘要:** Trip.com 发送会员日促销邮件，宣传预订机票和酒店可获得高额回赠及酒店折扣优惠。
+**待办:** 无
+
+訂機票/酒店賺高達 HK$63 回贈📍全球酒店低至 25 折！即訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152131244-1787791127886.275%26ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1M
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-26T23:43:19.000Z
+**摘要:** 用户收到加拿大政府服务的一次性登录验证码，并收到不回复邮件的提醒。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+ES7H5ZKA
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] Confirming your Model Y update
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T23:35:57.000Z
+**摘要:** Tesla 发送了 Model Y 更新的确认邮件，包含订单配置和协议详情。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dsch6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkfax9
+
+---
+
+## [其他] Confirming your Model 3 update
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T22:21:45.000Z
+**摘要:** 确认Model 3的订单更新详情和配置信息。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DCZ2A_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2f3aR-2BGKNWkI7EGToXjeEBfjgfi7bIdIlueRwYNqpYwQmhWZ-2FIdi6RSU7kjyS9nJgqsGtgfLDC96IhTGO1VjcI5U9ksG892o
+
+---
+
+## [营销] Try trending restaurants near you
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-26T21:20:22.000Z
+**摘要:** DoorDash 推送附近热门餐厅的广告，邀请用户尝试 trending 餐厅。
+**待办:** 无
+
+ DoorDash A little change never tasted so good 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash
+
+---
+
+## [其他] Thank You for Your Order
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:41:03.000Z
+**摘要:** Tesla确认了您的订单，并附带了查看详细信息的链接。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DaBto_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2FshWjThRacAd0ZRsCFFiyMcAh6-2BcJrA0ZeUEyJjA8gi7inN1nunAPmkG7BOCjA9Fv0n8yEN0q75R
+
+---
+
+## [营销] Your Model Y Awaits
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:40:58.000Z
+**摘要:** 特斯拉提醒用户开始处理Model Y的订单
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dbcru_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHqoGsyjOGb38N-2FIHxs-2FCDgHnpMK2UL9HnclIHxPgC00KUXBkspEduxjcqYiTcLY9TpHRCnLLEtwdVPM2w7i6oSl3VuX2yjcTXBG27qWspVhBftQixv8-2FZSZU2ohBVGYy5Bqn4oK1F
+
+---
+
+## [其他] New Payment Method Added to Your Tesla Account
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:40:54.000Z
+**摘要:** Tesla账户新增了一个尾号2813的VISA信用卡支付方式，该支付方式不会替换默认账户，用户可通过Tesla应用移除。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dh4KY_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZqeoUJyXqgtOLgeuLngwJbPYSVk4Aj3Wdug1WVmzdvVOBGygkJGIiKiSh0nJ-2FM-2F8c1vF8fbJJw77GeSvEAdBiy6JwkIwOz2Un5K8Nfa42p7nbq2gI6Rk
+
+---
+
+## [营销] Hi Jing, let's get you started with TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-26T18:22:09.000Z
+**摘要:** 这封邮件是TELUS发送的欢迎邮件，提供账户管理指南和使用提示。
+**待办:** 无
+
+Trouble viewing this email? View in web browser. 
+ 
+  
+ 
+ 
+Welcome to TELUS. 
+Green Leaf 
+ 
+Account Details  
+Account Details: 
+Account number:   
+Phone number(s):   
+Next Bill Cycle Begins:   
+ 
+ 
+
+To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more. To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more.  
+ 
+My TELUS makes managing your plan easy.  
+ 
+ 
+
+
+---
+
+## [其他] Hi Jingqi, let's get you started with TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-26T18:21:45.000Z
+**摘要:** TELUS欢迎新客户，提供账户管理、手机设置和账单管理的指南，并推荐使用My TELUS应用。
+**待办:** 无
+
+Trouble viewing this email? View in web browser. 
+ 
+  
+ 
+ 
+Welcome to TELUS. 
+Green Leaf 
+ 
+Account Details  
+Account Details: 
+Account number:   
+Phone number(s):   
+Next Bill Cycle Begins:   
+ 
+ 
+
+To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more. To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more.  
+ 
+My TELUS makes managing your plan easy.  
+ 
+ 
+
+
+---
+
+## [其他] Your order is on its way
+
+**发件人:** noreply@telus.com
+**日期:** 2026-08-26T18:21:26.000Z
+**摘要:** 邮件通知订单正在配送，可能通过普通邮件送达且无追踪信息，并附有新SIM卡使用指南。
+**待办:** 无
+
+ 
+Thank you for choosing TELUS 
+
+Date: Aug 26, 2026
+
+Dear JINGQI WU, 
+We’re happy to let you know that your order is on its way and will be 
+delivered to the shipping address you’ve provided. If the tracking number 
+field shows “Not Provided”, the order will be delivered via regular mail 
+with no tracking available. 
+
+Tracking Details
+Order Number 20422833107 
+Courier LETTERMAIL 
+Tracking Number Not Applicable / Ne s'applique pas 
+Shipping Address Unit 103 708 FARROW ST <br>COQUITLAM BC V3J0P2 
+
+
+---
+
+## [待办] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-26T14:15:26.000Z
+**摘要:** 用户的最近支付被拒绝，需尽快支付以避免滞纳金，并提供了解决方法的链接。
+**待办:** 需要查看支付被拒原因并及时处理，避免滞纳金
+
+ TELUS 
+
+Trouble viewing this email? View in web browser 
+<https://t.mailing.koodomobile.com/r/?id=hf7e28d,4080a983,2ada1394&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9MTYyNDUzODkmcDE9JTQwNWZjdUNCYVhMTG1RaCUyRkwlMkI0NkJBZld1eWx5czdkendxZFE1RjhFYVFibFElM0Q&s=TD6HsuvOV62JS6Dl4Nht7j_AeDuNFUAYKaoxgjfIEiQ>. 
+
+<https://t.mailing.koodomobile.com/r/?id=hf7e28d,4080a983,2ada1395&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9MTYyNDUzODk&s=NW51AiXEkdTZ0Plven6bjUrZ4P1iIxaXMkyccT9wcIg> 
+Account number: *****652 
+Your recent payment was 
+
+---
+
+## [营销] Makeup that feels as good as it looks 🌱
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-26T13:09:41.000Z
+**摘要:** Sephora 发送了关于清洁美妆产品的促销邮件，提及积分奖励和配送服务。
+**待办:** 无
+
+ Sephora 
+
+Shop Clean at Sephora inside. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a03e30bb979b69f4f4bbe5c7c0/d4413522ea794cf80000021ef3a0bcc2/d4413522-ea79-4cf8-8
+
+---
+
+## [学校] Save on back to school must-haves during our Labour Day Sale.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-26T11:02:59.000Z
+**摘要:** BestBuy.ca 发起劳动节促销活动，提供学校必备品的折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 香港精選酒店 低至5折🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-26T04:51:07.000Z
+**摘要:** Trip.com 发送香港精选酒店促销信息，提供低至5折的住宿预售券，支持灵活入住和全额退款。
+**待办:** 无
+
+全新住宿預售券！超彈性入住，未兌換可自動全額退款，無憂囤貨🤩
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152200116-1787718974136.255%26ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D488371.HK-20260826-edm-hkhotelpresalevoucher.2026-08-26_8_0.20260826.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
+
+---
+
+## [其他] Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-25T17:45:36.000Z
+**摘要:** Natalie询问申请电动车充电站的流程、所需时间和相关费用。
+**待办:** 回复 Natalie 关于 EV 充电站申请的流程和相关信息
+
+Hi,
+
+I am considering switching to an electric vehicle and would like to apply for an EV charging station for my parking space.
+
+Could you please let me know the application process and approximately how long it would take for the charging station to be approved and installed? Please also let me know if you need any vehicle information or if there are any related fees.
+
+I would appreciate a reply as soon as possible.
+
+Thank you,
+Natalie
+
+---
+
+## [其他] The Super Puff™ is back
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-25T14:10:57.000Z
+**摘要:** Aritzia宣布Super Puff™夹克回归，推出新颜色和款式。
+**待办:** 无
+
+New colours. Fresh styles. Overprepare yourself.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+
+---
+
+## [其他] Re: Call regarding 9 Arrival Square, E1W 2AA
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-25T10:30:00.000Z
+**摘要:** Natalie已通过WhatsApp留言，并询问对方下一步行动。
+**待办:** 无
+
+Hi Akshitsinh,
+
+I have already left a message for you on WhatsApp.
+
+In the meantime, please let us know what the next steps are from your side to move forward with the process.
+
+Looking forward to hearing from you.
+
+
+---
+
+## [营销] Summer fades. Markets don't
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-25T09:02:16.000Z
+**摘要:** 这封邮件宣传TradingView的夏季促销活动，提供高达80%的折扣。
+**待办:** 无
+
+ Summer fades. Markets don't 
+Get up to 80% off in our End of Summer sale. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­
+
+---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-08-25T08:50:25.000Z
+**摘要:** 银行通知收件人，有支付证明的附件可供查看。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
+
+## [其他] Thank You for Ordering a Tesla!
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-25T03:02:49.000Z
+**摘要:** 感谢订购特斯拉，邀请用户分享体验和期待的功能。
+**待办:** 填写调查问卷分享体验和期待的功能
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DMKFn_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHhEXgZ0TiHKVUd-2BH6MVsErbShg7ZWVf4rsVzJXovir1FcN3hLILQEYV6FdyEPpOLT0l-2FzR8wzX42ff6pUEa2DMpUISa9xeLwCpBIhGw3VRP0V8ZQ3efk9LtI7HlTb-2Bu1l2xoeguDrqT5qUp1H2-2BTUf3d
+
+---
+
+## [其他] You’ve been given online access to a My TELUS account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-24T23:46:20.000Z
+**摘要:** 您已被授予My TELUS账户的在线访问权限，请使用现有凭证登录。若未申请此变更，请联系TELUS。
+**待办:** 无
+
+Bonjour ,  
+Vous avez maintenant accès au compte Mon TELUS suivant : . Pour accéder à ce compte, utilisez vos authentifiants Mon TELUS actuels.  
+Si vous n’avez pas demandé ce changement, appelez-nous.  
+Cordialement,  
+L’équipe TELUS  
+ 
+Hi ,  
+You’ve been granted access to the following My TELUS account: . To access this account, you can use your current My TELUS log in credentials.  
+If you didn’t intend to get access to this account, please contact us.  
+Sincerely,  
+The TELUS team
+
+---
+
+## [其他] 您与“buntinglabs.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-24T23:42:31.000Z
+**摘要:** 用户使用Google账号登录了buntinglabs.com，分享了姓名和邮箱信息，但无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月24日16:42 使用 Google 账号登录了 
+“buntinglabs.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月24日16:42 使用 Google 账号登录了 
+“buntinglabs.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+<!--[if false]><!-->
+
+
+“buntinglabs.com”收到了以下个人资料信息
+
+
+
+natalie
+
+姓名和个人资料照片
+
+
+
+nataliewu100@gmail.com
+
+邮箱
+
+
+
+
+---
+
+## [其他] Your My TELUS account: additional account registration
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-24T22:21:00.000Z
+**摘要:** 邮件提醒用户将两个TELUS账户关联到同一邮箱，并建议下载My TELUS应用。
+**待办:** 无
+
+   
+ 
+Bonjour,
+
+Nous avons remarqué que, lorsque vous avez mis en service votre téléphone TELUS, vous avez fourni la même adresse électronique que vous utilisez pour accéder à votre autre compte. Saviez-vous que vous pouvez associer vos deux comptes à la même adresse électronique?
+
+
+Obtenez plus de détails en ouvrant une session dans votre compte.
+
+Grâce à ce profil, vous pourrez accéder à votre compte en ligne et le gérer.
+
+Vous n’avez pas l’application Mon TELUS? Cliquez ci-dessous 
+
+---
+
+## [营销] ✨ Sephora App Fest ✨
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-24T13:15:07.000Z
+**摘要:** Sephora 推出应用专属折扣和活动，包含限时商品和优惠。
+**待办:** 无
+
+ Sephora 
+
+Don’t miss out on app-exclusive drops and deals. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a033e90d68c230326e96c660f0/19bda47c219344e70000021ef3a0bcc2/1
+
+---
+
+## [营销] From analysis to execution
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-24T06:07:24.000Z
+**摘要:** 介绍如何利用TradingView设置交易警报、跟踪新闻及实践交易的教程。
+**待办:** 无
+
+ From analysis to execution 
+See how to set alerts, track news, and practice trading. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+
+---
+
+## [营销] For your getting ready routine
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-24T02:09:08.000Z
+**摘要:** 邮件主题提及个人准备流程，但正文内容不明确，仅显示'You'll need an extra five.'且包含大量空行。
+**待办:** 无
+
+You’ll need an extra five.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [其他] Thank You for Your Order
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-24T01:11:03.000Z
+**摘要:** 特斯拉确认了您的订单，订单已处理。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DVnEi_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2f3aR-2BGKNWkI7EGToXjeEBuzlhUMMi0zXiNkGkEBamRxPbYEMJhzUZP5S3iCMA76Tr2N-2BQMz0BUMfWntEXbweMFWrIpPRLl-
+
+---
+
+## [营销] Your Model 3 Awaits
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-24T01:10:58.000Z
+**摘要:** 特斯拉通知用户其Model 3已准备好，邀请用户开始相关流程。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dguda_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHqoGsyjOGb38N-2FIHxs-2FCDgHnpMK2UL9HnclIHxPgC00Ku826JPHP5bSNurhPJYJwhZ9p2o7sjwyFnz0Uwl0-2FmGP6hlXZci-2BdUYDDwnASaXCE7BZdAMm6r5zrIuzDVvI-2F75cRX
+
+---
+
+## [其他] New Payment Method Added to Your Tesla Account
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-24T01:10:55.000Z
+**摘要:** Tesla账户新增了一张尾号4218的万事达信用卡支付方式，该支付方式不会替换其他产品的默认支付方式。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DR6z5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsuCYIFwNxIvJHoVDmhUDBzI-2FUf9WnT315I2QslpmnkJ5F3vCxn9qUXNtDwJ3hSmIZpJHMWSVi0c-2FvCjOQxPg3T0yY8DLK79XYkYu6U6FrLuRTRKiuNTsZMhNl8DsC83m98-2FMrRL
+
+---
+
+## [其他] Your Trade-In Estimate with Tesla
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-23T17:14:02.000Z
+**摘要:** Tesla提供了您的二手车置换估价为37,500美元，并要求您提交更多信息以评估车辆状况。
+**待办:** 提交更多车辆信息以评估状况
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DQuzs_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRyt5KX7NJ5hK3KMOXV-2F-2FMShUma2eQSkXvtS2kb-2Fof-2FOR7R8zW09QTkaCF24ZaGypnE7DCfEg88oH-2BFlQjJl0SH6-2BAHt-2FMXNfw-2BjgNCnCVMw-2Bkr4Ueu4mb2X0X4JYmnOy84FB9BpJayU0Qr7QE4D
+
+---
+
+## [待办] Finish setting up your Tesla Account
+
+**发件人:** Tesla Account Security <no-reply@tesla.com>
+**日期:** 2026-08-23T17:10:52.000Z
+**摘要:** 提醒用户完成Tesla账户设置，创建密码以充分利用账户功能。
+**待办:** 点击链接创建Tesla账户密码
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DbB7W_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsh1yRmsAa80uMTMGl9bbeoZq50xJ9v6NbWuVBI8HwwZRHmboIxL8NlzYPuqWkg8zIvhLdA0GHSMAoopmN4Cg3hbT-2F85xu8ZV0NFz7OuIYYSP38BhoKF7Sn6YJ1LSGQYLH-2F2kkdinj
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-08-23T14:45:57.000Z
+**摘要:** 邮件提醒需在2026年8月22日前充值T-Mobile账户，以避免服务中断。
+**待办:** 需要通过提供的链接充值T-Mobile账户
+
+ Make a payment to continue service 
+Make a payment to continue service 
+Make a payment to continue service 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account by 08/22/2026 
+Hi , 
+Your monthly plan is about to renew. You must make payment by *08/22/2026* 
+to refill your T-Mobile account to continue uninterrupted service—pay 
+online at 
+my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
+
+---
+
+## [营销] Foundation skeptics, this base is for you 😍
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-23T13:18:33.000Z
+**摘要:** Sephora 推广 Tower 28 Beauty 新款非致痘粉底产品，吸引对粉底持怀疑态度的消费者。
+**待办:** 无
+
+ Sephora 
+
+Don’t miss Tower 28 Beauty’s NEW non-acnegenic formula. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a02ec5d9aac4b17e369ff04b84/d55d24b7e22f48440000021ef3a
+
+---
+
+## [其他] Save up to $100 on smart security, cameras, locks & lighting.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-23T11:03:19.000Z
+**摘要:** BestBuy.ca推出促销活动，提供智能安全、摄像头、锁和照明产品的最高100美元折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Your quote #7181329 is now available for purchase
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-23T04:05:56.000Z
+**摘要:** 通知报价已可用，可在线购买家庭保险，价格为每月31.61美元起，并列举了选择该保险公司的理由。
+**待办:** 无
+
+ 
+Buy online and get insured in under 5 minutes. 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wtl40_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQmudfGZsIqKmw9nUrIm2g9hw1jcxKCUt8-2BNpty86JNJBnFAXEKHWTF38UNEFoQJwIn0eUKazff5An9Xtkz7XOmigjV2abW-2BFmXTUUf12cNSyRjnC0wdWo9RTqON48bV-2F7UdLRptq1D6VIMZgG-2Fj-2
+
+---
+
+## [营销] The soft focus of the season? These.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-23T02:19:14.000Z
+**摘要:** 这封邮件介绍了Aritzia的新款式，旨在吸引客户购买最新时尚单品。
+**待办:** 无
+
++ More new styles to build out your outfit.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏
+
+---
+
+## [营销] Get Ready for Your Model 3 Demo Drive
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-22T22:40:50.000Z
+**摘要:** 这封邮件是Tesla发送的Model 3试驾邀请，包含预约链接。
+**待办:** 预约Model 3试驾
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3D3nUA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvBIBopv-2BCySdNZbVtXJzaFNSabSTyrIGIXw3-2FMwvErVzXYBAba38UbUfAbb-2Fng-2FPErsJ90L-2FY4jJCwOZJkRvNa5h2kFzAaEW5R57aWvXVN
+
+---
+
+## [营销] Confirmation — Your Model Y Test Drive
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-22T22:02:48.000Z
+**摘要:** 确认用户预约了Model Y的试驾，包含相关链接。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DGcp7_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvFbNCGcs1W6C0PC0JdZMle06jl6yZi-2Fv0MqbfKa4k1U0SGgg8PTuD-2BNhO6a0DCSoXauj5Pka8DQywPnfItTTo-2FZeZZVb0W-2F8B1WCZompcaz8
+
+---
+
+## [营销] 全新迪士尼樂園擴建計劃🏰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-22T20:20:28.000Z
+**摘要:** Trip.com 发布全球迪士尼乐园扩建计划信息，涵盖香港、上海、巴黎及美国等地的升级项目。
+**待办:** 无
+
+香港、上海、巴黎及美國等全球迪士尼史上最大規模升級，投入極致奇妙狂歡！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1014712942-1787430027274.328%26ouid%3D485508.trippulse_edm_0822_hk.2026-08-22_-8_0.20260823.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D485508.trippulse_edm_0822_hk.2026-08-22_-8_0.20260823.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE0NzEyOTQyL
+
+---
+
+## [营销] All ACs, fans, and dehumidifiers on sale.¹ Excludes Dyson fans.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-22T12:02:22.000Z
+**摘要:** BestBuy.ca正在举行空调、风扇和除湿器的促销活动，但Dyson风扇不在促销范围内。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Your home insurance quote #7181329
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-22T01:18:20.000Z
+**摘要:** Jingqi收到Square One的家财险报价，保费为每月31.61美元，有效期至2026年9月20日，附有详细保单信息。
+**待办:** 无
+
+ 
+Review and buy in minutes, all from the comfort of home. 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WbAZc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ48LJZo-2FoXRPuQcM7BSR54EiXHs0-2BShQ4t5v8vnonSdRgb9XyJe-2BIwiUWgjRcFpSpw6eJYbpMds-2FhI1jH4fiJpMNC2sa0hKywDnzkee1VBHCocMUiamTJjCLFzfNp6up3Gp9H3pLlof
+
+---
+
+## [其他] Your insurance quote has been saved.
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-21T21:45:56.000Z
+**摘要:** 邮件提醒Jingqi其保险报价已保存，并提供链接继续处理，同时列出在线账户的多项功能。
+**待办:** 无
+
+ 
+Link enclosed to retrieve and continue your insurance quote with Square One. 
+
+Your Home Insurance Quote #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WRLGl_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQog6BOyVLKlEjI14UEihaZfuxEJoqS7QQo6m0tdAJsmKZT2hRbSxJSzsXSureP6vuP5v0dcrG9qrcQVBlV1B7RzEtDhASaq4NYfrnnAjoYbonLAm7-2FkRMRvpSzD5Y
+
+---
+
+## [其他] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-21T21:01:30.000Z
+**摘要:** 房东要求提供更新的租客保险证明以符合租约条款，否则可能构成违约。
+**待办:** 需要提交更新的租客保险证明文件
+
+
+Dear resident,
+To date, we have not received your current documentation.
+This is an urgent request to provide your updated insurance declaration page to ensure your file remains compliant with your lease obligations.
+As outlined in Section 36 of your signed Residential Tenancy Agreement:
+Liability and Insurance.
+
+  1.  The Tenant agrees to carry sufficient insurance to cover their property against loss or damage from any cause and for third party liability, with a minimum of $2,000,000 l
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-21T19:49:20.000Z
+**摘要:** 收到政府服务的登录一次性密码，用于验证身份。
+**待办:** 输入一次性密码KNPS4EB4以验证登录政府服务账户。
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+KNPS4EB4
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] 🚨 40% off x2 is almost gone
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-21T17:25:58.000Z
+**摘要:** DoorDash提醒用户40%的折扣活动即将结束，建议尽快使用。
+**待办:** 无
+
+ DoorDash Save before it dips. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ 
+
+---
+
+## [其他] Apartment 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** "Jenny Qian (Benham & Reeves)" <jenny@benhams.cn>
+**日期:** 2026-08-21T16:26:52.000Z
+**摘要:** 邮件包含房产销售协议和问卷，需提供业主护照、地址证明和土地登记文件。
+**待办:** 需提供业主护照、地址证明和土地登记文件
+
+Hi Frank & Natalie,
+
+Please find attached the sales agreement and questionnaire for your review.
+
+Should you be happy to proceed, please could you send us the documents set out below:
+The owner’s passport
+Proof of address
+Land Registry title document
+
+Please feel free to reach out if you have any queries.
+
+Best regards，
+
+Jenny Qian
+Head of Business Development, China
+Benham and Reeves
+
+D +86 187 0172 2292
+Jenny@benhams.cn
+Wechat ID: janie_Q
+Level 20, HKRI Center Tower 2, 288 
+
+---
+
+## [其他] Why have house prices fallen this month?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-21T16:07:10.000Z
+**摘要:** Rightmove报告称8月房价出现高于平均水平的下跌，尽管买家需求略有增加。
+**待办:** 无
+
+Asking prices saw above-average drop in August despite a small
+boost in buyer demand              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/c_-sEBBdXYVhcCW_K97zfQ~~/AAAHahA~/MFX71q-CU6johl-lTru2YpehtpJQH_AbNKZ59pwK9XS9WLWedGrSXHKP9GRlaRCWZHvMcoWpfo-NxxVHuGM325_jz9ohWLSZ1nyjjQaseXP8plbx0v0KAAuU0sA7Zn36x9_PKcIjW1nETDUNQH25cL4xSPdeRk5tjyCeNCHx2dc~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Xqmy13l3TTn-y5BuXem6kw~~/AAAHahA~/rKar_ZU52Pmgdgmj46l8yRD5UB3u1g_ortZ3yG6apxRconWWQX-Ve9b
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-08-21T14:23:35.000Z
+**摘要:** 这封邮件提醒需要充值T-Mobile账户以避免服务中断，并提供支付链接。
+**待办:** 需要充值T-Mobile账户以继续服务
+
+ Make a payment to continue service. 
+Make a payment to continue service. 
+Make a payment to continue service. 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account now 
+Hi , 
+Your monthly plan is about to renew. You must make a payment to refill your 
+T-Mobile account by *08/23/2026* to continue uninterrupted service. 
+
+You can pay online at my.t-mobile.com. <https://my.t-mobile.com> Please 
+disrega
+
+---
+
+## [营销] 🎧 Labour Day Sale: Let the deals do the work.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-21T11:08:15.000Z
+**摘要:** BestBuy.ca 发起劳动节促销活动，提供独家优惠，并提示用户设置密码以激活账户。
+**待办:** 设置密码以激活账户
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AAcAAAAABY0YncPkoHJPqy_GkXurEiNqnO7x-eiBCEihKX3HvEj0lcNYIuYTFwnEmpeW-RLL4dfB1iDGg0rSyjypRppGBIFWWTTQp1NsSiUnVCKtnKY&CMP=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2471424&l=52_HTML&mid=7210119&jb=2091&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-21-c_cal-csgsc_glu-
+
+---
+
+## [营销] Selezione estiva: polo e top
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-08-21T06:48:36.000Z
+**摘要:** 关于夏季polo和上衣的精选产品信息。
+**待办:** 无
+
+
+
+
+---
+
+## [营销] Smart trades start before the chart
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-21T05:40:48.000Z
+**摘要:** 这封邮件介绍了TradingView的多种工具，如筛选器、热力图和日历，帮助用户做出更明智的交易决策。
+**待办:** 无
+
+ Going beyond the chart 
+Explore screeners, heatmaps, calendars, and more to power informed 
+decisions. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ 
+
+---
+
+## [营销] 解鎖內地新玩法🍁搶 HK$1 火車及酒店券包
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-21T00:39:50.000Z
+**摘要:** Trip.com 推出内地旅游优惠，提供低价火车票和精选酒店半价套餐。
+**待办:** 无
+
+直飛內蒙/東北 HK$1,6XX 起，精選酒店半價！直達大自然慢活叉電🔋
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101543441-1787272789920.362%26ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5
+
+---
+
+## [营销] 👀 First look: Labour Day Sale.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-20T20:11:32.000Z
+**摘要:** BestBuy.ca 发送的劳动节促销活动预告，包含优惠信息和促销链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Introducing the new Google Pixel 11 Series. ✨
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-20T16:35:12.000Z
+**摘要:** 邮件介绍了新的Google Pixel 11系列手机。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [学校] Meadowridge School Bus Invoice
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-08-20T14:48:48.000Z
+**摘要:** 这封邮件是关于Meadowridge学校校车费用的发票，金额为4163.25加元，需在收到后及时支付。
+**待办:** 需要确认支付校车费用，确保在截止日期前完成支付以避免延误。
+
+ 
+
+  _____  
+
+Jingqi Wu
+
+Unit TH-103 708 Farrow St
+
+Coquitlam, BC, V3J 1P7
+
+ 
+
+  _____  
+
+ 
+
+Invoice #: MR-27-001
+
+ 
+
+                                                
+
+
+Student's Name
+
+Bus Stop
+
+Total ($)
+
+
+He Yunxi
+
+101; Ioco Rec Center Parking Lot,
+
+$3965.00
+
+
+GST
+
+ 
+
+GST
+
+$198.25
+
+
+Total Due
+
+ 
+
+$4163.25
+
+ 
+
+Payment Due: Upon Receipt
+
+Payment methods accepted: Cheque, Visa, Mastercard or Amex.  
+
+Please ensure payment is completed by t
+
+---
+
+## [其他] New at the office
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-20T13:59:54.000Z
+**摘要:** 邮件主题为'New at the office'，但正文内容不明确
+**待办:** 无
+
+Featuring Aritzia Muse, Lara Worthington.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
+
+## [营销] Sephora x OLIVE YOUNG = the ultimate collab
+
+**发件人:** Sephora X OLIVE YOUNG <shop@beauty.sephora.com>
+**日期:** 2026-08-20T13:44:36.000Z
+**摘要:** Sephora与OLIVE YOUNG推出联名合作，介绍K-beauty热门产品及促销信息。
+**待办:** 无
+
+ Sephora 
+
+Your K-beauty faves are all here. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a01f6a9c6aa10f84f4bbe5c898/148b7a34174b47740000021ef3a0bcc2/148b7a34-174b-47
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-19T15:48:32.000Z
+**摘要:** 这封邮件包含用于登录加拿大政府服务的一次性验证码，并提醒用户不要回复。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+T87K5FH7
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [待办] Billing Problem
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-19T13:10:08.000Z
+**摘要:** Apple提醒Natalie更新支付信息或充值，以免服务中断。
+**待办:** 更新支付信息或添加资金以避免服务中断。
+
+ 
+
+[image: Apple] Billing Problem 
+ 
+  
+  
+[image: Spark Pro Annual] [image: Spark Pro Annual] 
+Spark Mail: AI Email Assistant 
+Advanced Email Productivity 
+Spark Pro Annual (1 year) 
+US$229.00/year 
+
+Billing Problem   
+  
+  
+Dear Natalie, 
+To avoid interruption to your service, please update your payment 
+information or add funds to your account. 
+Update Payment Information 
+<https://apps.apple.com/account/billing?mt=8&mtPageRef=BE-EML> 
+  
+Sincerely,
+Apple 
+  
+For help with subscriptions and p
+
+---
+
+## [营销] Don't miss your chance to win $500.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-19T12:02:14.000Z
+**摘要:** 这封邮件是Best Buy邀请用户参与调查或活动，有机会赢取500美元奖励。
+**待办:** 参与Best Buy的调查或活动以赢取500美元奖励
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-19T09:20:46.000Z
+**摘要:** 邮件分享了公寓出售相关文件夹，并请求确认访问及是否需要额外文件。
+**待办:** 确认是否能访问文件夹并请求额外文件
+
+Dear Michael,
+
+I have shared a folder containing the documents:
+
+https://drive.google.com/drive/folders/1jcbPBvUVjdc9BkUo-aIaycRjP2HIDro5?usp=sharing
+
+Some documents are still being prepared, but most of them have done, I will upload them to the shared folder as soon as they become available.
+
+Please confirm that you can access the folder and let me know if you require any additional documents at this stage.
+
+thanks
+
+Frank and natalie
+在 Aug 14, 2026, 16:07 +0200，Michael Cheng <Micha
+
+---
+
+## [营销] Restock on essentials with 40% off
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-19T08:21:08.000Z
+**摘要:** DoorDash 提供 40% 折扣优惠，用于补货日常用品。
+**待办:** 无
+
+ DoorDash Plus more savings inside 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  
+
+---
+
+## [营销] You’re about to go everywhere in these
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-19T02:08:15.000Z
+**摘要:** 这封邮件是Aritzia推送的新品服装广告，强调服装的剪裁和适用性。
+**待办:** 无
+
+New and expertly tailored for you.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [营销] 🔔亞航全線開搶！東南亞機票82折起🌞
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-19T00:46:21.000Z
+**摘要:** Trip.com 发送的亚航机票促销邮件，提供东南亚航线82折起及精选酒店优惠。
+**待办:** 无
+
+馬來西亞/峇里島熱門航線激減‼️加行李/選位享85折😍精選酒店低至 HK$1XX 起💰話飛就飛👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154253205-1787100381158.978%26ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D482981.HK-20260819-edm-airasia.2026-08-19_8_0.20260819.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
+
+## [营销]  花几分钟时间评价 Spark。 
+
+**发件人:** Spark Team <team@connect.sparkmailapp.com>
+**日期:** 2026-08-18T20:55:06.000Z
+**摘要:** 请求用户评价Spark应用，以帮助社区发展。
+**待办:** 无
+
+Spark iOS
+Leave a Review zh        p {font-family: sans-serif !important;}
+96       告诉我们您的感受，帮助社区发展。  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌              Spark
+您有时间吗？
+
+作为我们 Spark
+社区的重要成员，我们希望您分享对我们应用程序的评价。我们知道潜在用户信任像下方的用户评价，我们希望听取尽可能多用户的意见。
+
+即刻评价 
+( https://clicks.sparkmailapp.com/f/a/heA
+
+---
+
+## [学校] New Student Orientation: September 2 at 10:00am
+
+**发件人:** Meadowridge School Admissions Office <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-18T20:30:01.000Z
+**摘要:** 学校通知新生参加9月2日上午10点的入学典礼
+**待办:** 参加9月2日上午10点的新生入学典礼
+
+<!--placeholder-->
+
+
+
+---
+
+## [待办] 验证你的电子邮件地址
+
+**发件人:** Blackbaud Authentication Services <noreply@notification.blackbaud.com>
+**日期:** 2026-08-18T19:28:14.000Z
+**摘要:** 需要验证电子邮件地址，提供访问码028740，请在10分钟内输入。
+**待办:** 验证电子邮件地址并输入访问码028740
+
+banner image<https://s21pusa01aemov2blkbsa05.blob.core.windows.net/images-send-time/p-n-Jcb9egiES0n6gQaZ7tAQ/OTAofgMUycBIciwGsMWUa2Mpwi4/180.png>
+你好，
+完成此确认步骤，请在10分钟内输入下方访问码。
+028740
+ 
+
+Blackbaud logo<https://s21pusa01aemov2blkbsa05.blob.core.windows.net/images-send-time/p-n-Jcb9egiES0n6gQaZ7tAQ/lQzU0YD3Lx_-OBr5Y2kNVa7RoAQ/50.png>
+
+Terms of Use<https://www.blackbaud.com/company/terms-of-use> and
+Privacy Policy<https://www.blackbaud.com/company/privacy-policy>
+
+---
+
+## [其他] Confirmation — Your Model Y Test Drive
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-18T19:07:12.000Z
+**摘要:** 这封邮件是确认您预约了特斯拉Model Y的试驾，包含相关链接以便查看详情或确认。
+**待办:** 点击链接确认试驾预约
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DFa3e_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvLFA6NT6CeipZGh-2BrjEVrWI1sJIBcSNI4LL-2Fc0eObi-2BqxpYmXnW8aUsWpUKzpgXyv1p3encdARO2iyJWMq7Rcz1KZEyF4XADeC2GWVPpls96pC
+
+---
+
+## [其他] Air Conditioning Control Panel Not Working
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-18T17:17:50.000Z
+**摘要:** Natalie的空调控制面板无法操作，需安排技术人员检查维修。
+**待办:** 安排技术人员检查空调控制面板
+
+Hi,
+
+The air conditioning control panel in my home is not working, and I am unable to operate or turn the air conditioning on and off.
+
+Could you please arrange for a qualified technician to come and inspect the system and help get it working properly?
+
+Please let me know when someone can attend.
+
+Thank you,
+Natalie
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-18T16:30:41.000Z
+**摘要:** 收到政府服务的登录验证码
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+GP9NNJXX
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Jingqi, seriously—one bill for streaming is better. 🍿
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-08-18T16:17:12.000Z
+**摘要:** Koodo推广其互联网服务，提供高达100Mbps的下载速度和无限使用，配备Wi-Fi 6路由器确保稳定连接。
+**待办:** 无
+
+Introducing happier internet from Koodo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec48&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTEmcDE9JTQwVmUlMkZFakQyWXNBek5uRzhQaEJoMFlBNkZVcmRQRjhpVnN1ek1uRkZ1elNBJTNE&s=HVI2wMSa974sL3laMgQxfCU_W2UJ2n4kby6QXqh-MbU web browser . 	
+
+ https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec49&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTE&s=4_HuugdldOC9yMWHdOD4419gY4p5885U4wHLwM7qafM 	
+	
+	
+
+ https://t.info.telus
+
+---
+
+## [营销] Rate your area for a chance to win £250
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-08-18T15:09:59.000Z
+**摘要:** 邀请参与区域评分调查，有机会赢取250英镑奖金。
+**待办:** 无
+
+Take our quick survey              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/B74zjl03GRW740JylPcyxw~~/AAAHahA~/mLk97tySOyrCC0W3u4-GvGETkPXjIjEgneyo5xwE63lRWewgInsrBkioAWNVE-qo8utsMMFWn_rSt4MICZFUXEJ12g3a3VXBUrSlnyu0Jh422R5WXnOXa8ftQ4xx9rd0CRvM9urhtp27kIeFHp4nmFiixOfiIxgU3AfJ5d6tyD8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/SkRICixvx8GDTn9lwNnqZQ~~/AAAHahA~/jtGBJavf8qeA71i8gFQ3lehlSiSSv_KLrQtxOd0CheFFnvYLvxzZzZTk5by7wo5SJL2pf-wIZYUhspaetlOVbx4ljsoc2ce5w1FmHh5mCa4mXA4rY6hmNo
+
+---
+
+## [其他] Your receipt from Apple.
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-18T11:12:17.000Z
+**摘要:** 这封邮件是Apple发送的收据，显示用户购买了Cleanup Pro 1周订阅服务，金额为12.99美元，并提到订阅将在25日续订。
+**待办:** 无
+
+[image: Apple]
+Tax Invoice
+
+17 August 2026
+
+Order ID:
+
+MLVX1XJ68F
+
+Document:
+
+666177587029
+
+Apple Account:
+
+nataliewu100@gmail.com
+
+Cleanup: Clean Storage Space
+
+Cleanup Pro 1 Week (7 Days)
+
+Renews 25 August 2026
+
+US$12.99
+Billing and Payment
+
+Natalie Wu
+
+Palm Clash
+
+10101 Lusaka
+
+Zambia
+
+Subtotal 
+
+US$11.20 
+
+VAT charged at 16% 
+
+US$1.79 
+------------------------------
+
+MasterCard •••• 2249
+
+US$12.99
+
+You can view your receipts in App Store settings › Purchase History, or 
+turn on renewal recei
+
+---
+
+## [营销] 卓越之作
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-18T04:09:38.000Z
+**摘要:** 这封邮件是Loro Piana品牌发布的广告宣传，介绍其Royal Lightness®和The Gift of Kings®产品系列。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loro Piana Royal Lightness® 与 The Gift of Kings® 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+---
+
+## [学校] Important Information for September
+
+**发件人:** Natalie Blomly <Natalie.Blomly@meadowridge.bc.ca>
+**日期:** 2026-08-17T23:00:20.000Z
+**摘要:** 提醒家长完成秋季学期准备清单，并介绍新家庭门户和新增校车站点信息。
+**待办:** 无
+
+Hello everyone,
+
+I hope you're all having a fantastic summer and finding some time to relax and enjoy the sunshine!
+
+I just wanted to send a friendly reminder to continue working through the items on the attached checklist as you prepare for the upcoming school year. For those of you just completing registration, please see attached checklist to help guide you through the many steps. Completing these tasks over the summer will help make for a smooth start in September.
+
+If you haven't alre
+
+---
+
+## [其他] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-08-17T22:25:46.000Z
+**摘要:** Google提醒Natalie在Apple iPhone上完成Google设置，并提供设置链接。
+**待办:** 在Apple iPhone上完成Google设置
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/ACT4xYwEzhXY9-5J4IJqYpmmOlwCDknPiekz2k1HfTN7YUSZJQPrENcizR1EhiNacnMONeCwpX_7vWXqD8DyFNODlDUhHmkTefYWaIlFKuFzSUM_cX95fDeFujfxYOKIIogUOgzknU3smyzRiwedi6u2kHFuqbLsPY2lVytSn0eRMQS9o2eYRuGDpnCnjLj-_Q3l_pgEMzTRTdzDK5TtCsRAquaDKu7E12DxpQDcg9y9hoqSFkB1MwS8Uz_0EDBUto6rVccEVDt1h_QZVTGEzvqVfUmsOuobmO2LmNt77nTJNKMRhgi6UHDk?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple i
+
+---
+
+## [其他] 您与“TradingView”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-17T22:25:03.000Z
+**摘要:** Google通知用户于8月17日通过Google账号登录了TradingView，共享了姓名、头像和邮箱信息，目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月17日15:24 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR3NL9KpSwBgZXqsm9lsGPsxzqq1vSJw1xmo5rzAkVwL1fIq3rGcyCruPP_Dm73c0yTLY0F3-DqfOkoYWuOaltAx_xOShUrg>TradingView”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月17日15:24 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR
+
+---
+
+## [其他] Welcome to the TradingView family
+
+**发件人:** TradingView <noreply@tradingview.com>
+**日期:** 2026-08-17T22:24:58.000Z
+**摘要:** 欢迎用户加入TradingView，并引导访问入门页面了解工具。
+**待办:** 无
+
+ 
+  
+[image: TradingView] 
+<https://snowplow-pixel.tradingview.com/com.tradingview/redirect?u=https%3A%2F%2Fwww.tradingview.com&e=ue&ue_px=eyJzY2hlbWEiOiAiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvdW5zdHJ1Y3RfZXZlbnQvanNvbnNjaGVtYS8xLTAtMCIsICJkYXRhIjogeyJzY2hlbWEiOiAiaWdsdTpjb20udHJhZGluZ3ZpZXcvZW1haWxfY2xpY2svanNvbnNjaGVtYS8xLTAtMCIsICJkYXRhIjogeyJtaWQiOiAiPDE3ODcwMDU0OTg3Ni40NDM3OS43NjY3MjQ0OTQ4NzM4MTk2NTk0QHBtdGEtaW50LW5sYi54dG9vbHMudHY%2BIn19fQ%3D%3D> 
+
+  
+  
+  Hey there, trader.
+  We
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-17T22:24:42.000Z
+**摘要:** Google发送安全提醒，通知账号在Apple iPhone设备上有新的登录活动，需确认是否本人操作。
+**待办:** 检查登录活动并确认是否本人操作
+
+[image: Google]
+在 Apple iPhone 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Apple iPhone
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1787005482100?rfn%3D325%26rfnc%3D1%26eid%3D-1088761735380420930%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC
+
+---
+
+## [营销] 💫 Sephora App Fest starts today 💫
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-17T13:28:08.000Z
+**摘要:** Sephora App Fest今日启动，鼓励用户通过App购物以享受独家折扣和每日优惠，并提及用户有638积分。
+**待办:** 无
+
+ Sephora 
+
+Shop the app for exclusive drops and new deals every day. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a00fe8743ba26577f4bbc782e8/d1b41a46b0df423d0000021ef
+
+---
+
+## [营销] 💻 The Ultimate Laptop sale is on now!
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-17T11:06:27.000Z
+**摘要:** 这封邮件宣传BestBuy.ca的笔记本电脑促销活动正在举行。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Get more than meals delivered 🛒
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-17T08:20:12.000Z
+**摘要:** DoorDash推广其杂货、药品等商品的优惠活动，鼓励用户使用其配送服务。
+**待办:** 无
+
+ DoorDash Savings on groceries, drugstore essentials, and more inside 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
+
+## [营销] 你嘅台北專屬優惠到啦😍🔔
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-17T00:37:05.000Z
+**摘要:** Trip.com推送台北酒店3折优惠及机票信息
+**待办:** 无
+
+天閣酒店低至3折🤑收工即刻出發🏃快閃台北👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015232161-1786926858707.742%26ouid%3D480405.HK-20260817-edm-brandspotlight.2026-08-17_8_0.20260817.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D480405.HK-20260817-edm-brandspotlight.2026-08-17_8_0.20260817.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1MjMy
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-16T21:50:04.000Z
+**摘要:** 这封邮件包含用于登录加拿大政府服务的一次性验证码，发件人为GC@auth.canada.ca。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+MH49E9M8
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] Yatri: U.S. DoS Visa Application Confirmation (Action Required)
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-16T21:06:07.000Z
+**摘要:** 
+**待办:** 无
+
+You have successfully scheduled an appointment for your U.S.
+Nonimmigrant Visa application.
+
+Please verify your appointment details, shown below.
+
+We Value Your Opinion!
+Please complete a short survey and let us know how we are doing:
+
+Take Customer Satisfaction Survey 
+( https://www.research.net/r/GSSApplicantSurvey )
+
+Thank you for your feedback!
+
+*****************************************************
+GDIT/United States DoS Nonimmigrant Visa Instructions
+*************************
+
+---
+
+## [营销] Just launched — Golden Fall 26
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-16T02:17:09.000Z
+**摘要:** Aritzia推出秋季新品Golden Fall 26，展示Aritzia Muses的穿搭。
+**待办:** 无
+
+Featuring Aritzia Muses. Move with them.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  
+
+---
+
+## [营销] Clock’s ticking: 40% off 2 orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-15T17:21:10.000Z
+**摘要:** DoorDash提供40%的折扣优惠，但限时供应，需尽快使用。
+**待办:** 无
+
+ DoorDash These savings won’t last. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
+
+## [营销] 〰️ 🌀 VIBES, AURAS & ERAS 🌀〰️
+
+**发件人:** "Sephora: The Chat " <shop@beauty.sephora.com>
+**日期:** 2026-08-15T16:03:01.000Z
+**摘要:** Sephora 发送的美容促销邮件，提及会员积分和相关活动。
+**待办:** 无
+
+ Sephora 
+
+Beauty by numbers. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a006298ae58c6379969125ccc4/ea47b4c52f7541810000021ef3a0bcc2/ea47b4c5-2f75-4181-bac9-7f14aed
+
+---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-15T15:16:01.000Z
+**摘要:** 提醒您完成在The Fencing Post的未完成订单，包含剑刃和刀带等商品。
+**待办:** 完成购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
+
+## [待办] Billing Problem
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-15T14:22:35.000Z
+**摘要:** Apple通知Natalie其账户存在账单问题，需更新支付信息或添加资金以避免服务中断。
+**待办:** 更新支付信息或添加资金以避免服务中断。
+
+ 
+
+[image: Apple] Billing Problem 
+ 
+  
+  
+[image: Spark Pro Annual] [image: Spark Pro Annual] 
+Spark Mail: AI Email Assistant 
+Advanced Email Productivity 
+Spark Pro Annual (1 year) 
+US$229.00/year 
+
+Billing Problem   
+  
+  
+Dear Natalie, 
+To avoid interruption to your service, please update your payment 
+information or add funds to your account. 
+Update Payment Information 
+<https://apps.apple.com/account/billing?mt=8&mtPageRef=BE-EML> 
+  
+Sincerely,
+Apple 
+  
+For help with subscriptions and p
+
+---
+
+## [其他] Yatri: U.S. DoS Visa Application - Appointment Reminder
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-15T05:14:55.000Z
+**摘要:** 提醒Xiaojun He和Shifen Guan的美国非移民签证面试预约，时间为2026年8月17日7:30卢萨卡当地时间，地点在卢萨卡美国大使馆。需查看并打印预约说明以确保符合安全要求。
+**待办:** 查看并打印签证面试预约说明，确保符合安全要求
+
+Appointment Reminder: GDIT/United States DoS Nonimmigrant Visa
+Appointment
+
+This is a reminder that there is an upcoming appointment for a
+nonimmigrant visa application interview for:
+
+xiaojun he
+
+shifen guan
+
+Consular Section Interview Date and Time:
+
+17 August, 2026, 07:30 Lusaka local time
+
+Consular Section Location:
+
+U.S. Embassy Lusaka
+Eastern end of Kabulonga Road
+Ibex Hill
+Lusaka
+
+Review the appointment instructions before you attend your
+appointment to ensure you me
+
+---
+
+## [其他] Natalie, 7 waterside homes for escaping the heat
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-14T16:06:03.000Z
+**摘要:** Rightmove向Natalie推荐位于水边的房产，强调其凉爽优势，附有相关链接。
+**待办:** 无
+
+Beautiful homes with the cooling benefits of waterside locations
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/At9mEDU-xJi5kVRGxH51GQ~~/AAAHahA~/ASVSzRfdP1xPWdd7zznZAQP-q1ipCpgqmFSmDN2uyVqJaeMmOWrTdyEo4XSMRFIbL5KfdTuGLkv5y7qczbXwtM2pocg6D0rz-6E_TcEFZpbI5kHQNoAdez3eQtFIwams_2YbZMHllfmA_xfVX6HLxhcKZWRp_fcejbqVy0eoCfQ~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/0K8p6mNV92yNAKbdeNM57Q~~/AAAHahA~/IUHupsJfZcfhKBH-0OFDt6sOu4bCnkdf8KwYJ9wXzVqAtY2dWnaiVuXyDB7gvlaSPbpT0CyUuPi8l-MFGsK3bR1u
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-14T15:30:14.000Z
+**摘要:** 这封邮件包含用于登录加拿大政府服务的一次性验证码，验证码为KV8K5LRU。邮件提醒用户不要回复。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+KV8K5LRU
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-14T15:16:03.000Z
+**摘要:** 提醒用户完成之前未完成的击剑用品订单，并附上商品链接。
+**待办:** 点击链接完成购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
+
+## [营销] rhode’s NEW Spotwear has arrived
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-14T13:19:34.000Z
+**摘要:** Sephora通知rhode的新款Spotwear已经到货，可能涉及护肤或美容产品。
+**待办:** 无
+
+ Sephora 
+
+Care for spots on the go. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0006d84f8883db2f4bbcfb920/75f139b22813430d0000021ef3a0bcc2/75f139b2-2813-430d-8610-
+
+---
+
+## [营销] RE: FW: Benhams - Flat 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** "Maciej Skalski (Benham and Reeves)" <Maciej.Skalski@benhams.com>
+**日期:** 2026-08-14T10:59:42.000Z
+**摘要:** 邮件讨论了伦敦码头房产的销售定价策略，建议以47.5万英镑上市，并分析了当前市场供需情况及竞争环境。
+**待办:** 无
+
+Dear Frank
+
+
+
+I hope you’re well. It’s nice to speak with you again. Jenny originally
+introduced me to your flat back in January.
+
+
+
+Thank you very much for requesting a sales valuation of your unit at London
+Dock.
+
+
+
+I can see that the property is currently being marketed with Glencoe
+Property at £490,000. We currently have a Manhattan-style apartment in
+Emery Way, which is a fantastic size, marketed at £475,000. We have
+received offers in the region of £430,000–£450,000.
+
+
+
+
+---
+
+## [待办] Deal Alert: Up to $850 off select robot vacuums
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-14T10:04:01.000Z
+**摘要:** 邮件提醒设置My Best Buy账户密码，并提及机器人吸尘器的折扣促销。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5Njh9AAcAAAAABUN2y5GLFJYGV5N27RoXfNFteM3IsGOsBPccozJ7nGckHpugXRp-_WESXNsph6X2UTejajET9mkQ0mR-80D_vs9TG-vknFWjZ33EIF0J&CMP=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2463284&l=52_HTML&mid=7210119&jb=608&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_n
+
+---
+
+## [其他] Illuminate the night
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-14T02:07:14.000Z
+**摘要:** 邮件主题为'Illuminate the night'，但正文内容仅包含无意义字符和换行符，无实际信息。
+**待办:** 无
+
+Drama, mystery and new satin inside.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  
+
+---
+
+## [营销] HK$1 券包快閃廣州中山🚄😌
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-14T00:17:40.000Z
+**摘要:** Trip.com推送高铁票和旅行套餐的限时折扣优惠，包括高鐵券包及滑雪等附加服务。
+**待办:** 无
+
+HK$1 拎走 HK$175 高鐵券包🎁45mins直達🚄農家菜/騎樓飲早茶😋新手滑雪低至 HK$220 起即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101554942-1786666659597.710%26ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D479558.HK-20260814-edm-gochinatraintravelsegmentv2.2026-08-14_8_0.20260814.zh_HK.%26trip_in_sid%3D1121&bizDat
+
+---
+
+## [其他] New sign-in to your OpenAI account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-08-13T18:59:20.000Z
+**摘要:** 检测到OpenAI账户有新登录，需确认是否本人操作。
+**待办:** 无
+
+ New sign-in to your OpenAI account 
+New sign-in details for your OpenAI account. 
+
+Hello,
+
+We noticed a new sign-in to your OpenAI account. 
+
+*App*: ChatGPT Web
+
+*Time*: August 13, 2026 at 11:59 AM (PDT)
+
+*Approximate location*: Coquitlam, CA
+
+*Device*: Chrome on Mac OS X
+
+ 
+
+If this was you, no action is needed. 
+
+If you don't recognize this activity, please review your account security 
+<http://url3243.email.openai.com/ls/click?upn=u001.IQLfsj4kk-2BK7JhymNusRMvWmnkLomVjgxFpxUVYEkxqorI8ICh1R9g
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-13T18:59:16.000Z
+**摘要:** Google账号在Mac OS设备上有新的登录活动，提醒用户确认是否本人操作。
+**待办:** 无
+
+[image: Google]
+在 Mac OS 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Mac OS
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1786647556816?rfn%3D325%26rfnc%3D1%26eid%3D164910056102121929%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amphith
+
+---
+
+## [击剑] Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T18:24:08.000Z
+**摘要:** 家长Frank询问是否提供一对一击剑训练课程，并希望安排试课以继续女儿Cathy的击剑训练。
+**待办:** 安排试课和确认教练时间
+
+Dear Coach Eli,
+
+I hope this email finds you well. My name is Frank, and I've been following your training videos on YouTube with great admiration for your coaching methodology.
+My daughter, Cathy, is 13 years old and has been competing in foil Fencing since she was 7. She previously trained in Italy and France, and we have recently relocated to Vancouver. We are now looking for an experienced coach to help her continue to progress through targeted bouting and competition-style training.
+Her
+
+---
+
+## [营销] ⏰ Boxing Day in Summer ends tonight.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-13T18:10:56.000Z
+**摘要:** BestBuy.ca 通知夏季 Boxing Day 促销活动今晚结束，提醒用户及时参与。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] Re: Apartment 1, 2 Lancer Square W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T16:42:59.000Z
+**摘要:** 邮件更新了Lancer Square和London Dock的销售情况，并请求安排中文销售代表沟通。
+**待办:** 安排中文销售代表沟通
+
+Dear Augusta,
+
+Thank you for your email. Yes, I do interested, Regarding the properties, please see the updates below:
+
+Lancer Square:
+I noticed it is currently listed by another agent with an incorrect price. I have instructed them to take the listing down tomorrow. I will assess the latest market price shortly and will seek your opinion to ensure we have a unified asking price should we proceed with Benham and Reeves.
+
+London Dock:
+This property is ready for sale, and viewings can be a
+
+---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T16:16:03.000Z
+**摘要:** 邮件提醒用户之前未完成击剑用品的购买，并提供继续下单的链接。
+**待办:** 完成未完成的击剑装备购买
+
+ 
+
+Hi jingqi natalie,
+
+You recently visited our online store and we noticed that you didn't 
+complete your order for the following items:
+
+[image: Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann 
+point] <https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/> 
+
+1 x Foil Blade - Uhlmann BF "Ultra" FIE #5 Wired with Allstar /Uhlmann point 
+<https://thefencingpost.com/foil-blade-uhlmann-bf-ultra-fie-5-wired/>
+
+Flexibility : Medium (M)
+[image: Foil Blade - Allstar BF 
+
+---
+
+## [击剑] 感谢您在“The Fencing Post”注册
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T14:14:15.000Z
+**摘要:** 用户注册了The Fencing Post账户，收到确认邮件并提供账户信息和登录链接。
+**待办:** 无
+
+ 
+  
+[image: The Fencing Post] <https://thefencingpost.com> 
+------------------------------
+[image: Cart image] 
+------------------------------
+  
+感谢您在“The Fencing Post”注册 
+
+jingqi natalie，您好： 
+感谢您在“The Fencing Post”创建帐户。 
+  
+帐户详细信息 
+
+电子邮件地址：
+*nataliewu100@gmail.com* <nataliewu100@gmail.com> 
+
+密码：
+
+*[您指定的密码]* 
+  
+登录帐户 <https://thefencingpost.com> 
+  
+
+如果您对帐户有任何疑问，请在您的电子邮件客户端中单击“回复”，我们将非常乐意提供帮助。
+  
+------------------------------
+[image: Shop image] 
+------------------------------
+  
+
+*The Fencing
+
+---
+
+## [其他] 🛴 Save $520 on a Kukirin electric scooter. Today only.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-13T12:09:31.000Z
+**摘要:** BestBuy.ca推出Kukirin电动滑板车特价活动，今日仅需支付特定价格即可节省520加元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Your usual can wait 👀
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-12T21:22:05.000Z
+**摘要:** DoorDash 发送了一封带有促销信息的邮件，内容涉及服务更新或优惠活动。
+**待办:** 无
+
+ DoorDash A little change never tasted so good 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+[image: DoorDash
+
+---
+
+## [营销] RE: FW: Benhams - Enquiry for Philip (Direct)
+
+**发件人:** frankataix@gmail.com
+**日期:** 2026-08-12T19:10:16.000Z
+**摘要:** 邮件涉及房产销售安排及沟通需求，包括两个房产的定价和看房安排，并请求分配中文销售代表。
+**待办:** 安排看房时间并联系销售代表处理沟通
+
+Dear Philip,
+
+Thank you for your message. I have received the contract and will forward it to my lawyer for review. In the meantime, please note that we will continue to adopt the **multiple agents** option.
+
+Regarding the properties:
+
+• Lancer Square: I noted it is currently listed by another of my agents but with an incorrect price. I have instructed them to take it down tomorrow. I will assess the latest market price shortly and will certainly seek your opinion to ensure a unified askin
+
+---
+
+## [其他] Automatic reply: Foxtons APAC Valuation
+
+**发件人:** Freya Wan <freya.wan@foxtons.co.uk>
+**日期:** 2026-08-12T16:20:37.000Z
+**摘要:** Freya Wan因公外出，将于8月17日返回，目前由其他人处理事务。
+**待办:** 无
+
+
+Thank you for your email. I am currently out of the office and will return on 17th August.
+
+Kind regards,
+
+Freya Wan
+Foxtons - Operations Director/Head of Asia Pacific
++44 7875802146
+WeChat:FreyaWan88
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking a
+
+---
+
+## [营销] Introducing the new Google Pixel 11 Series. ✨
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-12T16:06:24.000Z
+**摘要:** 这封邮件介绍了新推出的Google Pixel 11系列手机。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 24-hour early access: Aritzia x St. Pizza
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-12T14:10:05.000Z
+**摘要:** Aritzia与St. Pizza合作推出限定款服饰，提供24小时早鸟购买机会。
+**待办:** 无
+
+Sweatfleece with New Orleans flavour.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌ 
+
+---
+
+## [其他] Property Access and Viewing Arrangements - Flat 120, 1 Emery Way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-12T13:00:13.000Z
+**摘要:** 业主通知租约结束并准备出售房产，将直接安排看房并提供授权代理人信息。
+**待办:** 无
+
+Dear London Dock Concierge,
+
+I hope this email finds you well.
+
+This is my first time reaching out to you. I am Wu Jingqi （natalie）, the owner of Flat 120, 1 Emery Way at London Dock. I have CC’d YiFan Wang from Glencoe (management@glencoe.london) to verify my identity.
+
+I would like to inform you that the long-term lease for my property ended last week. I do not intend to continue with long-term rentals as I am currently preparing to sell the property. I have attached the post-tenancy cle
+
+---
+
+## [营销] 💻 Save $1,000 on an ASUS laptop. Today only.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-12T10:13:30.000Z
+**摘要:** BestBuy.ca推出限时促销，ASUS笔记本电脑可节省1000加元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] New Pre-Fall: The making of a masterpiece
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-12T02:18:47.000Z
+**摘要:** Aritzia推出新的Pre-Fall系列，主题为‘Layers’，强调层次感的穿搭设计。
+**待办:** 无
+
+Your next medium? Layers.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌ 
+
+---
+
+## [营销] 優惠券大放送💸幫你慳 HK$1,500 ✨
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-12T00:33:34.000Z
+**摘要:** Trip.com发送的优惠券邮件，提供机票、日本乐园和韩国酒店的折扣优惠。
+**待办:** 无
+
+💳信用卡機酒減高達 HK$250!💰日本樂園3折起🎢韓國酒店激減 HK$800 😍即拎👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230255-1786494812885.416%26ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D477752.HK-20260812-edm-couponhub.2026-08-12_8_0.20260812.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0z
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-11T20:31:14.000Z
+**摘要:** 邮件要求验证登录并提供一次性验证码C8MM388S，说明用户注册了加拿大政府服务账户。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+C8MM388S
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Reminder: Your experience with Koodo
+
+**发件人:** Koodo Team <koodo-team@opinion.panalyticsgroup.com>
+**日期:** 2026-08-11T16:23:22.000Z
+**摘要:** 邮件邀请用户参与Koodo的体验调查，完成可参与抽奖赢取500美元礼品卡。
+**待办:** 填写调查问卷以提供反馈
+
+ 
+
+
+Dear Valued Customer, 
+
+At Koodo, we rely on surveys to help us understand your needs and 
+preferences. We strive to provide a best-in-class experience to our 
+customers, and your feedback is critical to guiding future improvements to 
+our products and services. 
+
+To help us better support you along your journey with Koodo, please 
+complete this 10-minute survey to provide your feedback on your *Koodo* 
+experience. 
+
+Once you complete the survey, you will be entered into a prize-draw for a *
+
+---
+
+## [营销] We want you back 👀 40% off x2
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-11T17:20:32.000Z
+**摘要:** DoorDash邀请用户回归，并提供40%的折扣优惠。
+**待办:** 无
+
+ DoorDash This deal’s for you. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ 
+
+---
+
+## [营销] Natalie, do you love where you live?
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-08-11T15:27:21.000Z
+**摘要:** 这封邮件询问Natalie是否喜欢她目前的居住地，并邀请她参与一个有机会赢取250英镑的活动。
+**待办:** 无
+
+Your chance to win £250              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/gwH82iGD2lpkJKwmT4h1hg~~/AAAHahA~/FicIQYee1HZtuFDCChMDE1SMsydVx14jpQhPcRSKekt_qagt2UowQGP-sRsgi554LRQTdGg7T0ZyFN5fwHY7yLNzD4LlmNkOCnZBge5fKYql-7Az0oWY2nywAaVB7TaZCPWh1NpknK9bCps75NUfwQtTXz2g8tpQ-O7HNFpTwVg~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/e-_IBReRqJNRZCtu-sigCg~~/AAAHahA~/XWUK0JKEGeQOVdFtx0sHJAspoWxCFRW_qZLXqSVtw13zm1PrnhDWkyuOhVoIXC5H8FLozHQSUqMWLSd3Jg_8nws_oGICAX6rGP2wr0i9nsX3janwxSMp
+
+---
+
+## [待办] Your Subscription is Confirmed
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-11T14:21:49.000Z
+**摘要:** 确认订阅Cleanup Pro 1周，费用为12.99美元/周，需在续订日前取消以避免收费。
+**待办:** 检查订阅并取消，避免被收费
+
+ 
+
+[image: Apple] Subscription Confirmed 
+ 
+  
+  
+[image: Cleanup Pro 1 Week] [image: Cleanup Pro 1 Week] 
+Cleanup Pro   
+  
+  
+Dear Natalie, 
+  
+You have accepted the following offer: 
+  
+*App* Cleanup: Clean Storage Space 
+<https://apps.apple.com/zm/app/id1510944943> 
+*Subscription* Cleanup Pro 1 Week 
+*Content Provider* DEEP FLOW SOFTWARE SERVICES - FZCO 
+*Date Accepted * 11 August 2026 
+*Trial* Free for 1 week, starting 11 August 2026 
+*Renewal Price* US$12.99/week, starting 18 August 2026 
+
+
+---
+
+## [待办] Your Apple Account password has been reset
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-11T14:20:16.000Z
+**摘要:** 这封邮件通知用户的Apple账户密码已被重置，并提醒如果未操作过需立即重置密码并检查账户安全设置。
+**待办:** 确认是否本人操作密码重置，若非本人需立即重置密码并检查账户安全设置。
+
+Dear Natalie Wu,
+	
+The password for your Apple Account, nataliewu100@gmail.com, has been successfully reset.
+
+If you did not make this change or you believe an unauthorised person has accessed your account, you should go to iforgot.apple.com to reset your password immediately. Then sign into your Apple Account account page at https://account.apple.com to review and update your security settings.
+
+iForgot
+https://iforgot.apple.com
+
+Apple Account
+https://account.apple.com
+
+If you need 
+
+---
+
+## [营销] 🤖 Save $1,200 on a Roborock vacuum & mop. Today only.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-11T10:10:48.000Z
+**摘要:** BestBuy.ca正在促销Roborock吸尘器和拖地机，今日下单可节省1200加元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-10T19:09:54.000Z
+**摘要:** 邮件提供了用于登录加拿大政府服务的一次性验证码
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+3U6A9DH7
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] We’ve updated our Terms & Conditions and Privacy Notices.
+
+**发件人:** T-Mobile <donotreply@system.t-mobile.com>
+**日期:** 2026-08-10T18:35:09.000Z
+**摘要:** T-Mobile更新了服务条款和隐私政策，用户需确认同意以继续使用服务。
+**待办:** 无
+
+We've updated our Terms & Conditions and Privacy Notices. 
+We've updated our Terms & Conditions and Privacy Notices.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: T-Mobile] 
+[image: T-Mobile]
+We've updated our Terms & Conditions an
+
+---
+
+## [营销] Spoiler: you're going to want these.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-10T18:14:57.000Z
+**摘要:** 这封邮件是BestBuy的促销广告，暗示有吸引人的产品推荐。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 🍎 MacBook Air M1 | $539.99. Refurb (Excellent). Today only.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-10T12:09:48.000Z
+**摘要:** BestBuy.ca正在促销苹果MacBook Air M1翻新机，价格为539.99加元，仅限今日。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] Yatri: U.S. DoS Visa Application - Appointment Reminder
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-10T06:07:40.000Z
+**摘要:** 提醒xiaojun he和shifen guan的美国非移民签证面试预约，时间地点已列出
+**待办:** 无
+
+Appointment Reminder: GDIT/United States DoS Nonimmigrant Visa
+Appointment
+
+This is a reminder that there is an upcoming appointment for a
+nonimmigrant visa application interview for:
+
+xiaojun he
+
+shifen guan
+
+Consular Section Interview Date and Time:
+
+17 August, 2026, 07:30 Lusaka local time
+
+Consular Section Location:
+
+U.S. Embassy Lusaka
+Eastern end of Kabulonga Road
+Ibex Hill
+Lusaka
+
+Review the appointment instructions before you attend your
+appointment to ensure you me
+
+---
+
+## [营销] ✨解鎖全新旅行概念 #VibeTravelling
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-10T00:11:55.000Z
+**摘要:** Trip.com 推出全新旅行概念推广，提供全球酒店折扣及各类旅游活动推荐。
+**待办:** 无
+
+🗺️係時候去個啱vibe嘅旅行‼️全球酒店低至半價😍睇花火大會🎆避暑遊🌬️定泰國奢華Resort歎SPA渡假🏊？愛要及時⏰旅行都要！即刻探索👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154139167-1786320432868.773%26ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNs
+
+---
+
+## [学校] Inquiry regarding School Bus Application Payment - Yunxi (Cathy) He
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-09T20:42:25.000Z
+**摘要:** Frank已提交Yunxi（Cathy）的校车申请，但不确定如何支付费用，需询问支付方式或链接。
+**待办:** 联系学校确认支付方式
+
+Dear Natalie,
+
+I hope this email finds you well.
+
+I have successfully submitted the online school bus application for Yunxi (Cathy) He. However, I am unsure where to proceed with the payment for the bus service.
+
+Could you please advise on the payment method or provide a link where I can complete the transaction?
+
+Thank you for your kind assistance.
+
+Best regards,
+
+Frank
+
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-09T20:38:53.000Z
+**摘要:** 收到政府服务登录的验证码，需完成验证。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+HD672W59
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Score Outlet deals on laptops, tablets, appliances & more. Hurry!
+
+**发件人:** "BestBuy.ca Outlet" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-09T10:05:32.000Z
+**摘要:** BestBuy.ca Outlet推出促销活动，提供笔记本电脑、平板、家电等产品的优惠，呼吁尽快购买。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Weekend restock? Skip the fees with DashPass
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-09T05:39:06.000Z
+**摘要:** 推广DashPass服务，鼓励客户注册以节省杂货费用。
+**待办:** 无
+
+ DoorDash Save even more on groceries when you sign up for DashPass 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [营销] Put your best leg forward
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-09T02:12:46.000Z
+**摘要:** Aritzia 推出适合晴朗天气的利落剪裁服装系列，旨在提升穿着者的形象。
+**待办:** 无
+
+Crisp days call for crisp tailoring.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  
+
+---
+
+## [营销] Two orders, 40% easier on your wallet
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-08T17:22:41.000Z
+**摘要:** DoorDash通知用户有两个订单，享受40%的优惠。
+**待办:** 查看订单和优惠信息
+
+ DoorDash Here’s your sign. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌  
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-07T21:33:09.000Z
+**摘要:** 这封邮件提供了用于登录加拿大政府服务的一次性验证码R2Y8SCD7，并说明这是由于用户注册了政府登录账户而收到的。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+R2Y8SCD7
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Shop the new Samsung Galaxy Z8 Series.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-07T18:12:08.000Z
+**摘要:** 这封邮件是BestBuy.ca推送的关于新款三星Galaxy Z8系列的促销信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 5 renovations sellers think will add value but often won't
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-07T16:25:16.000Z
+**摘要:** Rightmove发布文章指出，卖家常进行的五种装修改进可能不会提升房屋价值。
+**待办:** 无
+
+Agents reveal the home improvements sellers might mistakenly
+make to try to boost their home's value              Rightmove
+Logo 
+( https://clicks.rightmove.co.uk/f/a/4Actcd3eEVgMew0LjIa_uw~~/AAAHahA~/TC46keD-HzS36cFxufdOBpTDqtOPE45e34MoMEg-3Z7dXmUDhfJqPnrpQu9045JyBICTHiRyqL4U_LmzVNuuqJGbpqAStpyLTQ0eYq52kCHQnOiLEdoCupLp0kBpZMhXRsEuyN6FEqkR6EkFvvz61MR8m9oUuUXOYuTVdEvds6g~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Xm3dWD0DQU4APVIoB750_Q~~/AAAHahA~/havGvEKtVhrg2LvvkVutDfvSGPr1NLMBOxWVPIJ
+
+---
+
+## [营销] ✨ New Boxing Day in Summer deals are here.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-07T11:15:05.000Z
+**摘要:** BestBuy推出夏季 Boxing Day 促销活动，但需要设置账户密码。
+**待办:** 设置BestBuy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NjF9AAcAAAAABPiII_YXEbXEXxD36UiGtvT2boCazUmUKGfPf0LL-QlOoPmUT0xKTdJsu7mml_Gic9REgO296-5IRFVOIzpkNibn7VnzdlT9bdvphkd5-us&CMP=eml-bby-pr-asu-2026-08-07-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2455117&l=52_HTML&mid=7210119&jb=4190&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-07-c_cal-csgsc_glu-g
+
+---
+
+## [其他] 您的Google Play订单收据(2026年8月7日)
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-08-07T09:20:35.000Z
+**摘要:** 邮件通知用户通过Google Play的订阅已续订，并列出订单详情和费用。
+**待办:** 无
+
+Google Play
+
+
+非常感谢！
+
+
+您通过 Google Play 向“Google Commerce Limited”订阅的内容已续订，系统已向您收 
+费。 管理订阅
+
+
+订单号： SOP.3385-7778-6968-49841..0
+订购时间： 2026年8月7日 GMT+2 11:20:32
+您的账号： nataliewu100@gmail.com
+
+
+商品 价格
+
+
+100 GB (Google One) （开发者：Google LLC） US$1.99/月
+
+自动续订的订阅
+
+
+
+税额: US$0.32
+
+总计: US$2.31/月
+
+
+付款方式：
+
+Mastercard-2249
+
+
+
+订阅即表示您授权我们通过您提供的付款方式，自动向您收取订阅费用（如上所述 
+），直至您取消订阅。了解如何取消订阅。请保留好此回执，以便日后查看。
+
+如有问题，请访问Google Commerce Limited的网站。
+
+
+Google Play
+
+您喜爱的娱乐，无处不在。了解详情 ›
+
+
+
+
+---
+
+## [营销] 叠搭风尚
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-07T04:05:28.000Z
+**摘要:** Loro Piana推广新系列服饰，强调印花设计与亲肤质感的结合。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+印花与亲肤质感注入灵动气息
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+---
+
+## [营销] New required wearing
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-07T02:03:35.000Z
+**摘要:** Aritzia推出新促销活动，部分商品享受50-70%折扣，最后机会。
+**待办:** 无
+
++ 50–70% off select styles. Last chance.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  
+
+---
+
+## [营销] 心郁郁想訂 拉斯維加斯 機票✈️？
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-06T23:00:19.000Z
+**摘要:** 提醒用户预订拉斯维加斯机票可赚取Trip Coins回赠，促进机票销售。
+**待办:** 无
+
+即訂拉斯維加斯機票再賺 Trip Coins 回贈✈️！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015437210-1786057098703.688%26ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D317949.edm-newuser-t7-d1-flight-destination-single-final-B-local-olduser.1786053600000.20260807.zh_HK.%26trip_in_sid%3D1
+
+---
+
+## [营销] Spark 助您培养良好习惯
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-06T20:45:55.000Z
+**摘要:** 这封邮件介绍了Spark的三项核心功能：标记完成、暂时搁置和指令中心，旨在帮助用户优化工作流程并培养良好习惯。
+**待办:** 无
+
+尽在已完成标记、暂时搁置、指令中心。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        培养良好习惯
+
+完善您的工作流程，借助专业工具，让工作流程方便管理且可优化。
+
+标记为完成
+
+完成处理邮件后，将其标记为“已完成”，助您养成清理收件箱的习惯。
+
+暂时搁置
+
+暂时搁置次紧急任务，方便稍后查看，以便适时处理邮件。
+
+指令中心
+
+Spark 指令中心 ，提速弹出，助您快速访问最需要的
+
+---
+
+## [营销] We want to hear from you. Win $500.
+
+**发件人:** Best Buy my Voice <BestBuymyVoice@e.bestbuy.ca>
+**日期:** 2026-08-06T20:10:05.000Z
+**摘要:** Best Buy邀请参与反馈活动，可能获得奖励。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Your experience with Koodo
+
+**发件人:** Koodo Team <koodo-team@opinion.panalyticsgroup.com>
+**日期:** 2026-08-06T17:19:45.000Z
+**摘要:** Koodo邀请用户参与10分钟的调查，以提供反馈并有机会赢取500美元礼品卡。
+**待办:** 填写调查问卷
+
+ 
+
+
+Dear Valued Customer, 
+
+At Koodo, we rely on surveys to help us understand your needs and 
+preferences. We strive to provide a best-in-class experience to our 
+customers, and your feedback is critical to guiding future improvements to 
+our products and services. 
+
+To help us better support you along your journey with Koodo, please 
+complete this 10-minute survey to provide your feedback on your *Koodo* 
+experience. 
+
+Once you complete the survey, you will be entered into a prize-draw for a *
+
+---
+
+## [待办] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-06T14:00:38.000Z
+**摘要:** 用户的支付被拒绝，需尽快支付以避免滞纳金。
+**待办:** 需要登录Self Serve进行支付或更新预授权支付信息。
+
+ TELUS 
+
+Trouble viewing this email? View in web browser 
+<https://t.mailing.koodomobile.com/r/?id=hfe23c766,4080a983,2ada1394&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9LTMxMjA5NjI2JnAxPSU0MFpmTTJITTN6d2glMkJOQkdsa0t2Vzd4dmVndEdwQ09QQUZCaUpSeVQ0SE5JdyUzRA&s=b6rKi_t0i_HHoKkp70Pj2JbaX_eot6v5X8SkPkPuwAI>. 
+
+<https://t.mailing.koodomobile.com/r/?id=hfe23c766,4080a983,2ada1395&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9LTMxMjA5NjI2&s=8KRF0FKZy_0KdxbzxDm1FnZ0o0uJyzNyQDdsBfF5mCg> 
+Account number: *****652 
+Your recent payment 
+
+---
+
+## [营销] Risparmi extra sui saldi
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-08-06T08:01:38.000Z
+**摘要:** 这封邮件提到清仓促销的额外节省。
+**待办:** 无
+
+
+
+
+---
+
+## [学校] Submission Confirmation for Parent Social RSVP | 2026
+
+**发件人:** "communications@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-05T21:39:09.000Z
+**摘要:** 这封邮件是关于2026年家长社交活动报名的确认信息。
+**待办:** 无
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/><
+
+---
+
+## [营销] Spark 助您过滤噪音
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-05T20:45:50.000Z
+**摘要:** Spark 邮件服务推出新功能，包括优先邮件分类、骚扰邮件屏蔽和按发件人分组，以提升用户工作效率。
+**待办:** 无
+
+尽在优先邮件、信使和按发件人分组。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        收件箱优先排序
+
+突出优先联系人功能，助您屏蔽骚扰通知。
+
+优先邮件
+
+Spark 自动分类重要邮件，收件箱置顶显示，通知智能提醒。
+
+信使
+
+首次收到骚扰邮件时，使用筛选和屏蔽功能以绝后患。
+
+按发件人分组
+
+总是收到特定发件人的邮件？设置分组，收件箱整齐聚合。
+
+探索全新工作方式。
+
+探索 S
+
+---
+
+## [其他] Welcome to Family Sharing
+
+**发件人:** Apple <noreply@email.apple.com>
+**日期:** 2026-08-05T18:33:31.000Z
+**摘要:** Apple向Natalie发送家庭共享欢迎邮件，介绍如何邀请家庭成员共享服务及功能概述。
+**待办:** 无
+
+Welcome to Family Sharing, Natalie!
+
+As the family organiser, you can invite up to five other family members and give them access to the services you want to share. Just go to Family Sharing in Settings on your iOS device or System Preferences on your Mac.
+Learn more
+Here is a quick overview of what you can share with your family.
+
+# Apple Music Family Subscription
+
+- Get unlimited music for the entire family.
+- Each family member gets their own account, music library, hand-selected pla
+
+---
+
+## [其他] Your Apple Account password has been reset
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-05T18:32:23.000Z
+**摘要:** Apple账户密码已被重置，提醒用户确认是否本人操作，否则需立即重置密码并检查安全设置。
+**待办:** 需要确认是否本人操作，若非本人需立即重置密码并检查账户安全设置。
+
+Dear Natalie Wu,
+	
+The password for your Apple Account, nataliewu100@gmail.com, has been successfully reset.
+
+If you did not make this change or you believe an unauthorised person has accessed your account, you should go to iforgot.apple.com to reset your password immediately. Then sign into your Apple Account account page at https://account.apple.com to review and update your security settings.
+
+iForgot
+https://iforgot.apple.com
+
+Apple Account
+https://account.apple.com
+
+If you need 
+
+---
+
+## [营销] Love savings? Add a line.
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-08-05T18:17:04.000Z
+**摘要:** 这封邮件是Koodo推广添加新线路的优惠活动，使用代码ADD120可享受每月节省5美元，持续24个月，并提供统一账单服务。
+**待办:** 无
+
+Savings made for the family.
+Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tfe147975,40898a7b,2ae24c35&e=Y2lkPXRlbERNMjI1MjQwMiZiaWQ9LTMyMjEyNjE5JnAxPSU0MGVJJTJGOEFCS1FWVjBxWUZMTWVjeHNyY1RZNjdmOEd6Y3lreUVxTG15JTJGN3FFJTNE&s=TBGE6V0LX-gK4XdjMy3G2rZo6YQh56RsRRRDK83Npxc web browser . 	
+ https://t.email.koodomobile.com/r/?id=tfe147975,40898a7b,2ae24c36&e=Y2lkPXRlbERNMjI1MjQwMiZiaWQ9LTMyMjEyNjE5&s=HIUtvHc3nbVIK36xyYZYO2088nxMds4KaQ8JrYZfNqk 	
+
+ https://t.email.koodomo
+
+---
+
+## [学校] JingQi, you're invited to the Meadowridge Parent Social
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-05T18:15:06.000Z
+**摘要:** 邀请JingQi参加Meadowridge家长社交活动
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] 40% off your next ✌️orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-05T17:18:24.000Z
+**摘要:** DoorDash提供40%折扣优惠，涵盖食品、杂货、礼物等订购服务。
+**待办:** 无
+
+ DoorDash Food, groceries, gifts, and beyond. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+
+---
+
+## [营销] PSA 📣 Get 4X points on go-to foundations & concealers.
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-05T16:17:38.000Z
+**摘要:** Sephora宣布购买指定粉底和遮瑕产品可享4倍积分，用户当前拥有638积分，并提供当日送达和免费配送服务。
+**待办:** 无
+
+ Sephora 
+
+More points now = more rewards later. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019fd2b7522e90772bf4bbe5be50/eedc5424539b43a10000021ef3a0bcc2/eedc5424-539
+
+---
+
+## [营销] Welcome to the App Store
+
+**发件人:** App Store <appstore@insideapple.apple.com>
+**日期:** 2026-08-05T15:00:29.000Z
+**摘要:** 这封邮件是欢迎用户使用App Store，并介绍其发现应用的功能和导航方式。
+**待办:** 无
+
+App Store
+Find it on App Store
+https://link.apple/3D5MJ5djhm
+-----------------------------
+
+A white App Store logo appears to glide through an endless blue tunnel, with portal-like frames creating the illusion of forward motion.
+https://link.apple/C87ybpRmfw
+
+
+Welcome to the App Store
+Whatever you want to do, there’s an app for that. And the App Store is the place to discover just what you’re looking for – whether that’s your next favourite game or getting the most out of the apps you 
+
+---
+
+## [营销] Savings too hot to stop. 💸
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-05T11:06:24.000Z
+**摘要:** BestBuy.ca发送的促销邮件，包含优惠活动链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] This week $500 gift cards up for grabs
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-08-05T09:17:11.000Z
+**摘要:** TELUS Rewards举办夏季抽奖活动，每周提供500美元礼品卡奖品。
+**待办:** 无
+
+Enter the Summer Sweepstakes for another chance to win 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdd3e0da,4088f080,2ae1e06a&e=Y2lkPXRlbERNMjI1MTIwMyZiaWQ9LTM2NDQ1OTkwJnAxPSU0MGpBUG5JeU5Ic3QlMkY3QVVVV2x6YjM0MEYzJTJGOUt2WVBJclllU1dhJTJCbkhPcjglM0Q&s=20DkSZv6rHgYr6jvf5IU34-I4JX59NqU9vU_PIqB9ok web browser . 	
+
+ https://t.info.telus.com/r/?id=tfdd3e0da,4088f080,2ae1e06b&e=Y2lkPXRlbERNMjI1MTIwMyZiaWQ9LTM2NDQ1OTkw&s=19brdEaKJzLcCrL7BWxByH89hPGnYNSSfEp4M_phUwg 	
+	
+	
+
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-04T21:45:27.000Z
+**摘要:** 收到加拿大政府服务的一次性登录验证码，邮件为系统自动发送且无需回复。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+TKDNZVBF
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Less worry, more security. 🏠🔐
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-08-04T20:47:14.000Z
+**摘要:** TELUS推送安全解决方案营销邮件，宣传家庭和在线安全保护服务。
+**待办:** 无
+
+Stress less about threats with TELUS security solutions. 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdfaf14d,4088f9c3,2ae1e51b&e=Y2lkPXRlbERNMjI1MTI1OSZiaWQ9LTMzODg1ODc1JnAxPSU0MEJ2RlRDZVpMMzIlMkJEJTJGS2djNjlxY1RiQVJxciUyRnRTd1NueWdSTExyU3NWYnclM0Q&s=y2S8kukJ2VRrH3dxEStyoX3SB03yDqj0B-DFA1DVdLo web browser . 	
+ https://t.info.telus.com/r/?id=tfdfaf14d,4088f9c3,2ae1e51c&e=Y2lkPXRlbERNMjI1MTI1OSZiaWQ9LTMzODg1ODc1&s=8aMP_aNkvM2ul0RQ1BTseQ-mEG81-_bcohnVif9fa3g 	
+	
+
+S
+
+---
+
+## [营销] Spark 助您聚精会神
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-04T20:45:46.000Z
+**摘要:** 介绍Spark的主屏、Smart Inbox和智能通知功能，帮助用户提高工作效率。
+**待办:** 无
+
+尽在主屏、Smart Inbox、智能通知。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        聚精会神
+
+聚焦重要事项，借助专业功能来消除干扰，让您全身心工作。
+
+主屏
+
+主屏即可一览重点，管理优先邮件无需进入收件箱。
+
+Smart Inbox
+
+探索 Smart Inbox ，私人和优先邮件智能分类，动向和通知不再干扰。
+
+智能通知
+
+您可任选您想看到的通知，优先提醒来自重要发
+
+---
+
+## [其他] Jingqi, welcome to TELUS Rewards
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-08-04T19:52:31.000Z
+**摘要:** Jingqi被欢迎加入TELUS Rewards，成为Purple等级会员，享有多种年度福利和优惠。
+**待办:** 无
+
+Discover all the benefits that come with being a member.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdcfdefa,4088f1ca,2ae1d116&e=Y2lkPXRlbERNMjI1MTA4OSZiaWQ9LTM2NzA4NjE0JnAxPSU0MHVNdmQwNG9UREROTGVYSEdYYUl4Tm5RNE11YiUyQkhZWWZoMHA5TFRialFPWSUzRA&s=sBdRANMk6sdR0oQGBbK-vGrRAGwEBJddwj7k4Mm5bbY web browser . 	
+ https://t.info.telus.com/r/?id=tfdcfdefa,4088f1ca,2ae1d117&e=Y2lkPXRlbERNMjI1MTA4OSZiaWQ9LTM2NzA4NjE0&s=VTRIXFpIEhUsX6fKm3m8WeonbDg8tKSqiY5NMbFZ_0k 	
+	
+
+TELUS 
+
+---
+
+## [营销] Fresh produce, pantry staples, and more
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-04T19:28:26.000Z
+**摘要:** DoorDash提供杂货、日用品等配送服务，用户可在线下单，节省购物时间。
+**待办:** 无
+
+ DoorDash Get it all delivered. 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4sw/1UMCRPPsR4u3hQshm5xZGA/h0/h001.vqxzn5yeaR7OoKJqArPZe8EA70YoZ7K5xgU9vCjruYA> 
+
+HOUSEHOLD 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYIgMJ_xZ5g3JVxCsoE_pMkyC7SD39ji99qEqV8R-dnHjWngxWnoXD8ck_kYGjqbrM/4sw/1UMCRPPsR4u3hQshm5xZGA/h1/h001.dvGmrYa_BvEVYxNLfyvc9DxR2zwchkf27y-P7UegkvA>
+
+|
+
+GROCERY 
+<
+
+---
+
+## [营销] Hot tip: Use your points for these new OUAI rewards
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-04T16:12:34.000Z
+**摘要:** Sephora提醒用户可使用积分兑换OUAI新奖励，并提及积分可能快速耗尽，同时提供当日送达和免费配送服务。
+**待办:** 无
+
+ Sephora 
+
+Don’t wait, they go fast. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019fcd8c55ac8bc618f4bbcfbb48/f86156fe248449340000021ef3a0bcc2/f86156fe-2484-4934-8adb-
+
+---
+
+## [营销] The New Pre-Fall Collection just launched
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-04T14:10:34.000Z
+**摘要:** Aritzia推出了新的Pre-Fall系列，强调当季的果断风格。
+**待办:** 无
+
+Decisive styles for an indecisive season.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
+
+## [营销] 💻 Score computing deals at our Boxing Day in Summer Sale.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-04T11:02:45.000Z
+**摘要:** BestBuy.ca 发布夏季 Boxing Day 销售活动，提供计算设备的优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Jingqi, here's a quick guide to getting the most out of your new services 🔍
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-08-03T23:01:17.000Z
+**摘要:** 这封邮件是TELUS为Jingqi提供的新服务使用指南，介绍如何通过T+应用等工具最大化利用PureFibre服务功能。
+**待办:** 无
+
+ Telus Don't miss out on these helpful tips. 
+Trouble viewing this email? View in web browser 
+<https://t.info.telus.com/r/?id=hfdbae912,40888a6e,2ae167d7&e=Y2lkPXRlbERNMjI0OTg2MSZiaWQ9LTM4MDgyMjg2JnAxPSU0MGVjU0NQT0k1aHZCSDhoSk5nUDk5dDBTVnRpcEhWSWp2SHlzZ0JqME1pdXclM0Q&s=aaCCjUkJnxy7yeTKYzzQIAGb4al6xMXt6DtWByl8H0A>. 
+
+[image: TELUS] 
+<https://t.info.telus.com/r/?id=hfdbae912,40888a6e,2ae167d8&e=Y2lkPXRlbERNMjI0OTg2MSZiaWQ9LTM4MDgyMjg2&s=QSfpwH34xdR2sgKrV6wCB89dZL7nrDcyjHrWDskDUPI> 
+Let's explore 
+
+---
+
+## [其他] Your recent purchase with your Apple Account.
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-03T21:31:31.000Z
+**摘要:** Apple账户在加拿大进行了新设备的购买，提示用户检查是否本人操作，若未授权请更改密码。
+**待办:** 无
+
+Apple Recent Purchase
+-----------------------------------------------------------
+
+Your Apple Account, nataliewu100@gmail.com, was just used to make a purchase in Spark Mail: AI Email Assistant on a computer or device that has not previously been used. You may also be receiving this email if you reset your password since your last purchase.
+
+This purchase was initiated from Canada.
+
+If you made this purchase, or have reset your Apple Account password since your last purchase, you may disr
+
+---
+
+## [其他] Your Subscription is Confirmed
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-03T21:26:32.000Z
+**摘要:** 这封邮件确认Natalie接受了Spark Pro年度订阅，包含AI邮件助手功能，订阅将自动续费且试用期为1周。
+**待办:** 无
+
+ 
+
+[image: Apple] Subscription Confirmed 
+ 
+  
+  
+[image: Spark Pro Annual] [image: Spark Pro Annual] 
+Advanced Email Productivity   
+  
+  
+Dear Natalie, 
+  
+You have accepted the following offer: 
+  
+*App* Spark Mail: AI Email Assistant 
+<https://apps.apple.com/zm/app/id997102246> 
+*Subscription* Spark Pro Annual 
+*Content Provider* Readdle Technologies Limited 
+*Date Accepted * 03 August 2026 
+*Trial* Free for 1 week, starting 03 August 2026 
+*Renewal Price* US$229.00/year, starting 10 August 
+
+---
+
+## [学校] WWOW TRIP
+
+**发件人:** Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca>
+**日期:** 2026-09-11T21:27:03.000Z
+**摘要:** 提醒家长和学生准备WWOW旅行的必备物品和文件，包括携带床垫、提交风险确认表、准备Tupperware及午餐等。
+**待办:** 确认是否让子女携带个人野营垫，确保所有风险确认表和许可表填写完整，准备带名字的Tupperware，检查行李是否符合要求，准备Wednesday的午餐及符合规定的零食。
+
+Hello Parents! Thank you to all who attended the Information Night yesterday. If you were not able to attend, here are a few reminders as we prepare for the WWOW trip next week.
+
+
+  1.
+We need 15 students who have an individual camping mattress to volunteer to bring theirs on the trip. Please let me know by responding to this email if your child can bring one.
+  2.
+ALL ACKNOWLEDGEMENT OF RISK FORMS AND PERMISSIONS FORMS ARE DUE. Please ensure the initials are clearly done in each box and e
+
+---
+
+## [其他] Your Apple Account was used to sign in to iCloud on an iPhone 16
+
+**发件人:** Apple <noreply@email.apple.com>
+**日期:** 2026-08-03T21:19:45.000Z
+**摘要:** 通知Natalie Wu的Apple账户在2026年8月3日晚上9:19使用了iCloud登录，提醒检查是否为本人操作，否则请更改密码。
+**待办:** 无
+
+Dear Natalie Wu,
+
+Your Apple Account (nataliewu100@gmail.com) was used to sign in to iCloud on an iPhone 16.
+
+Date and Time: 3 August 2026, 9:19 pm UTC
+
+
+If the information above looks familiar, you can ignore this message.
+
+If you have not recently signed in to an iPhone 16 with your Apple Account and believe someone may have accessed your account, go to https://account.apple.com and change your password as soon as possible.
+
+Sincerely,
+
+Apple Support
+
+
+---
+
+Apple Account:   h
+
+---
+
+## [待办] Verify your Apple Account email address
+
+**发件人:** Apple <appleid@id.apple.com>
+**日期:** 2026-08-03T21:19:04.000Z
+**摘要:** 需要验证Apple账户邮箱地址，提供验证码447219。若未申请请忽略，否则需在3小时内完成验证以使用账户。
+**待办:** 验证Apple账户邮箱，输入验证码447219
+
+You have chosen this email address for your Apple Account. To verify this email address belongs to you, please enter the code below on the email verification page:
+
+447219
+
+This code will expire three hours after this email was sent.
+
+Why you received this email.
+Apple requires verification whenever an email address is selected for an Apple Account. Your Apple Account cannot be used until you verify it.
+
+If you did not make this request, please disregard this email. No Apple Account wil
+
+---
+
+## [营销] 欢迎使用 Spark
+
+**发件人:** Team Spark <team@connect.sparkmailapp.com>
+**日期:** 2026-08-03T20:45:44.000Z
+**摘要:** 欢迎使用Spark邮件服务，介绍其智能、聚焦功能以帮助用户管理邮件并提升效率。
+**待办:** 无
+
+智能、聚焦、邮件。   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Spark                        欢迎使用 Spark
+智能、聚焦、邮件。
+
+在未来几天，我们将向您介绍一些功能，帮您解决信息过载问题，助您聚焦重点。现在我们进行入门指南。
+
+设置邮箱 
+( https://clicks.sparkmailapp.com/f/a/DmtQ2ahWnPDQiG7cImZ95w~~/AAAHahA~/x54kbGrR
+
+---
+
+## [其他] New email account login in Spark
+
+**发件人:** Spark <spark@readdle.com>
+**日期:** 2026-08-03T20:45:30.000Z
+**摘要:** Spark邮箱通知某邮箱地址登录了新账户，显示设备和位置信息。
+**待办:** 无
+
+ Spark Mail 
+Your email address - *nataliewu100@gmail.com* - was used to login in Spark. 
+------------------------------
+
+*iPhone 16, iOS 26.50* 
+Canada 108.180.160.132 
+
+Smart. Focused. Email
+
+Got a question? Write to support@sparkmailapp.com < 
+support@sparkmailapp.com> 
+© 2026 Spark Mail Limited, Glandore Business Centre, Grand Canal House, 1 
+Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland 
+
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-03T20:45:06.000Z
+**摘要:** Google提醒用户注意账号安全，可能有人未经授权访问账号数据，建议查看活动记录。
+**待办:** 检查Google账号活动记录并确保安全。
+
+[image: Google]
+您已授权“Spark”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“Spark”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1785789906000?rfn%3D127%26rfnc%3D1%26eid%3D1566217727076413070%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goog
+
+---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-03T20:21:09.000Z
+**摘要:** 邮件要求验证登录并提供一次性验证码
+**待办:** 验证登录
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+H7S2XGQ9
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] Welcome to pre-authorized payments.
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-08-03T20:08:59.000Z
+**摘要:** 此邮件通知用户已开通预授权支付服务，每月账单将自动从指定信用卡或银行账户扣费，并提示可通过Self Serve平台修改支付信息。
+**待办:** 无
+
+
+
+Trouble viewing this email? View in web browser.  
+  
+Account number:  
+ 
+The convenience of pre-authorized payments.  
+On , you signed up for pre-authorized payments. Your monthly bill will be automatically charged to credit cardbank account ending in .
+
+Log in to Self Serve when you need to change or update your payment information, like updating your credit card number or expiry date.
+
+All the best,
+The Koodo Team
+ 
+ 
+Self Serve   |   Help  
+Privacy statement   |   koodo.com
+
+---
+
+## [待办] Verify your email address for your BC Services Card Account
+
+**发件人:** <BCServicesCard@gov.bc.ca>
+**日期:** 2026-08-03T17:30:33.000Z
+**摘要:** 需要验证BC Services Card账户的邮箱地址，请输入收到的验证码。
+**待办:** 打开BC Services Card应用，输入验证码425662进行验证。
+
+ 
+[image: BC Services Card] <https://id.gov.bc.ca> 
+Use this verification code to confirm your email address: 
+  
+425662 
+  
+What you need to do next 
+
+   1. Open the BC Services Card app <ca.bc.gov.id.servicescard://> on your 
+   mobile device 
+   2. Enter the verification code above in the app 
+
+  
+Need Help? 
+See the step-by-step guide on how to verify an email address 
+<https://id.gov.bc.ca/static/help/email.html>, and find contact 
+information. 
+BC Services Card Login Service <https://id.go
+
+---
+
+## [营销] Save on Dyson for a limited time.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-02T11:02:00.000Z
+**摘要:** 这封邮件是关于BestBuy.ca上Dyson产品的限时优惠信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Zero fee grocery orders start here.
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-02T05:36:03.000Z
+**摘要:** DoorDash推广DashPass服务，提供杂货订单满60美元免配送费和手续费。
+**待办:** 无
+
+ DoorDash Try DashPass and unlock $0 delivery fees and $0 service fees on 
+grocery orders $60+ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­
+
+---
+
+## [营销] Welcome to the foundation of your closet
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-02T02:09:01.000Z
+**摘要:** Aritzia推出促销活动，部分商品折扣50-70%。
+**待办:** 无
+
+50–70% off select styles. Sale away.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-01T18:57:14.000Z
+**摘要:** 邮件通知用户收到用于登录加拿大政府服务的一次性密码
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+2K7GMV6Y
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] What can’t you get delivered? 🤔
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-01T18:26:26.000Z
+**摘要:** 这封邮件询问用户无法通过DoorDash配送的物品，并推广其配送服务。
+**待办:** 无
+
+ DoorDash Shop beyond the menu. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏
+
+---
+
+## [营销] Jingqi, your PureFibre Internet is ready-let's add the entertainment! 🚀
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-08-01T18:01:43.000Z
+**摘要:** TELUS通知Jingqi的PureFibre互联网服务已准备就绪，并推荐添加流媒体或直播电视套餐以节省费用。
+**待办:** 无
+
+Save big on streaming, live TV or both.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfd974aea,408742c7,2ae0383e&e=Y2lkPXRlbERNMjI0NzM1MiZiaWQ9LTQwNDE2NTM0JnAxPSU0MElRSHJzTWNVNXRzYzBKdk54Q0F0JTJGYnJSY0QwSyUyRkVKVnd4VHY3Vm13a3lrJTNE&s=gRvcBoqXkdA7hp5oSNjGyswjoLV1_7xajjGRDf_IvQ4 web browser . 	
+ https://t.info.telus.com/r/?id=tfd974aea,408742c7,2ae0383f&e=Y2lkPXRlbERNMjI0NzM1MiZiaWQ9LTQwNDE2NTM0&s=6vN1DybWsOCnzGCtQ9M7rsseWXjjjRybeeieMFw2qAE 	
+	
+
+Your new Internet plan
+
+---
+
+## [营销] STARTS TODAY: the Beauty Insider Celebration 🥳
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-01T13:15:34.000Z
+**摘要:** Sephora推出Beauty Insider促销活动，可使用250积分兑换5美元优惠，还有其他专属奖励，具体条款请见邮件。
+**待办:** 无
+
+ Sephora 
+
+Get $5 off using Beauty Insider Cash when you redeem 250 points at 
+checkout, exclusive rewards, and more. Exclusions apply. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.
+
+---
+
+## [营销] The season's hottest deals on laptops, tablets & more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-01T11:07:37.000Z
+**摘要:** BestBuy.ca 发送的促销邮件，介绍笔记本电脑、平板等产品的热门折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-31T20:14:13.000Z
+**摘要:** 邮件包含用于登录加拿大政府服务的一次性验证码7DR6Q3BE，发件人因注册了政府登录账户而收到此邮件。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+7DR6Q3BE
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] 40% off is waiting for you
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-31T17:17:42.000Z
+**摘要:** DoorDash推出40%折扣活动，杂货和其他服务享受双倍优惠。
+**待办:** 无
+
+ DoorDash 2x the savings on groceries and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [其他] Natalie, see the most-viewed homes of 2026 so far
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-07-31T16:07:33.000Z
+**摘要:** Rightmove向Natalie发送了2026年至今最受欢迎的10处房产信息。
+**待办:** 无
+
+The 10 properties attracting the most attention on Rightmove so
+far this year              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/M8GpqtiJm3kfGXU0qxcO8w~~/AAAHahA~/Djws6W9H5fPKL39e94lhorriHBY7xShBmvCd68KVH3uqtp-ktre7o8xl-yUrQDk_uT_fxCtwGBXc5N9Rd66aiV7TglDraKbhrzHTj4XuaEiJDSopedV0lwrTWRUxYuqRv5u-fLHBfsEozQmon90Gqmkwu_5EC3WFC5kXzX_6cNU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/h1x3F9Cy47uieIWcDxUt7A~~/AAAHahA~/7Bii1cNXViVhecGR7-xx1gFMT0HM3m3SF3MfGnDQ_KKvzNkiIXfaj5hptLX0i1
+
+---
+
+## [待办] Boxing Day deals are here early this year.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-31T12:18:15.000Z
+**摘要:** BestBuy.ca 发送邮件通知 Boxing Day 促销提前开始，并提示需要设置 My Best Buy 账户密码。
+**待办:** 设置 My Best Buy 账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NTR9AAcAAAAABK5yw_2euOtSHTegG8moMRTqYnlgnhjzIgaL2d1OYucApejA1NcFdC_01OMNQAWNn6CM2cfsiloFlqACQVP_hQYOvOEOIb0HBt-c0sUm6P4&CMP=eml-bby-pr-asu-2026-07-31-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2447093&l=37_HTML&mid=7210119&jb=6254&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-07-31-c_cal-csgsc_glu-g
+
+---
+
+## [营销] 💆10AM 搶 HK$1 券包快閃深圳！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-31T00:28:42.000Z
+**摘要:** Trip.com推送限时优惠活动，涵盖珠海及深圳酒店、景点和交通的折扣，包括酒店减价、半价及买一送一等促销。
+**待办:** 无
+
+珠海酒店減 HK$300✨深圳酒店/景點半價🎢高鐵減 HK$50💰海洋公園買1送1🐬即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152813-1785457721363.81%26ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5Ij
+
+---
+
+## [营销] New: Lower GPT-5.6 pricing and Fast mode for Sol
+
+**发件人:** OpenAI <noreply@email.openai.com>
+**日期:** 2026-07-31T00:02:07.000Z
+**摘要:** OpenAI宣布降低GPT-5.6的价格并推出更快的模式。
+**待办:** 无
+
+Today,﻿ we’re making GPT-5﻿.6 more affordable and faster﻿.
+‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ 
+
+---
+
+## [营销] Door Crashers are going fast, hurry.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-30T19:07:14.000Z
+**摘要:** BestBuy.ca 发起促销活动，提醒客户尽快购买。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Get lost in new camo
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-30T14:02:40.000Z
+**摘要:** 这封邮件是Aritzia的促销通知，宣布部分商品50–70%折扣优惠。
+**待办:** 无
+
++ Snooze, you lose. 50–70% off select styles.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌ 
+
+---
+
+## [营销] ‼️ IT'S HERE: The VIP Sale's back with Door Crashers and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-30T11:09:45.000Z
+**摘要:** BestBuy.ca宣布VIP促销活动回归，包含限时抢购和其他优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-30T00:10:46.000Z
+**摘要:** Natalie请求在餐厅区域安装类似楼上单位的吊灯，并说明会自行承担费用和安排专业人员安装。
+**待办:** 请求安装餐厅吊灯并获得批准
+
+Hi,
+
+I would like to request permission to install a ceiling light above the dining area in my unit. I noticed that an upstairs unit has a similar light in its dining area, and I would like to install something in a similar style.
+
+There also appears to be an existing light switch or electrical connection on the wall. I will arrange for a qualified professional to complete the installation and will cover the cost myself.
+
+I would appreciate your approval, as I would like to have the light instal
+
+---
+
+## [待办] Jingqi, let's get you set up, now that your install is complete ✅
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-07-29T23:01:39.000Z
+**摘要:** TELUS通知用户安装完成，并提供账户注册、Wi-Fi优化和设备连接的指导。
+**待办:** 注册账户、优化Wi-Fi设置、连接设备
+
+Trouble viewing this email? View in web browser.
+TELUS
+Let's dive right in.
+
+Here's everything you need to know about your new services on the TELUS PureFibre network.
+ 
+Order— Installation— Set-Up— Explore
+Welcome Jake the Dog,
+We’re excited that you’ve chosen the TELUS PureFibre™ network: the #1 internet technology for speed and reliability.* Now that your blazing-fast connection is set up, it’s time to get you settled in with a few useful tips.
+Access and manage all your services wit
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-29T22:38:24.000Z
+**摘要:** 收到加拿大政府的GCKey登录验证邮件，包含一次性密码。
+**待办:** 输入一次性密码进行登录验证。
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+ZXBEHXUN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Your VIP sneak peek is here.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-29T19:09:49.000Z
+**摘要:** BestBuy.ca发送的VIP抢先体验邮件，包含促销链接。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Rare deals 🔥 Everyday items
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-29T17:24:14.000Z
+**摘要:** DoorDash推送日常物品的促销信息，强调送货上门服务。
+**待办:** 无
+
+ DoorDash Get it all delivered. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏
+
+---
+
+## [学校] Meadowridge School - He Student #348801 - 2026-2027 JF insurance student medical documents
+
+**发件人:** Dave Polmanter <dave.polmanter@meadowridge.bc.ca>
+**日期:** 2026-07-29T16:46:56.000Z
+**摘要:** 邮件附件包含Cathy 2026-2027学年 mandatory medical insurance 文件，补充国际学生健康费用，并提供相关链接和联系方式。
+**待办:** 无
+
+Mr. Xiaojun He & Mrs. JingQi Wu,
+
+I hope you and your family are all doing well and excited for the upcoming school year. 
+
+Please find attached your documents regarding Cathy's 2026-2027 mandatory medical insurance through JF insurance as part of the Tuition International Fee.
+
+This insurance supplements the mandatory International Student Health Fee (ISHF) *formerly known as MSP that you should already have in place.  
+
+Information regarding ISHF can be found on the BC government websi
+
+---
+
+## [营销] Here’s a little something special for your pet
+
+**发件人:** TELUS <no-reply@e.telus.com>
+**日期:** 2026-07-29T16:46:49.000Z
+**摘要:** TELUS Health MyPet推出跳蚤和蜱虫防护套餐，提供免费虚拟兽医咨询、药品折扣及免费送货服务。
+**待办:** 无
+
+ TELUS 
+Plus, get a free flea and tick prevention consult 
+Trouble viewing this email? View in web browser 
+<http://t.e.telus.com/r/?id=h166edeb9,15577d4b,59bfdae&e=cDE9JTQwSEZBWmo4MHVsc3NSSzhFSzBuUGFmZnRVUU9RMkVEMWgwS0pYQTNLelQlMkYwJTNE&s=fCu2E1Fxs1BBLNvprto_hpnpzRl5NSMA8QkHWDIuJyo>. 
+
+[image: TELUS Health logo] 
+<http://t.e.telus.com/r/?id=h166edeb9,15577d4b,59bfdaf> 
+Protect your pet with our Flea & Tick Bundle. 
+[image: MyPet Dog and Cat] <#> 
+Dear Jingqi, 
+
+Tick populations are expanding ra
+
+---
+
+## [营销] SALE: up to 50% off this National Lip Day 💄
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-07-29T13:39:06.000Z
+**摘要:** Sephora推出National Lip Day促销活动，部分品牌最高50%折扣，并提及用户拥有638积分及配送信息。
+**待办:** 无
+
+ Sephora 
+
+Allll your fave brands are here. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v610000019fae19a695c2f21a6e965fc958/9ccb2778c4b540570000021ef3a0bcc2/9ccb2778-c4b5-405
+
+---
+
+## [营销] ⏱️ Just hours left to shop these limited-time deals.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-29T12:10:17.000Z
+**摘要:** 这封邮件通知用户有限时间的优惠即将结束，提醒尽快购物。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Your new campus look is here.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-29T02:01:13.000Z
+**摘要:** 邮件主题为‘Your new campus look is here.’，正文提到有50–70% off select styles，主要推广校园风格的服饰折扣。
+**待办:** 无
+
++ 50–70% off select styles. Also here.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌
+
+---
+
+## [营销] 🎉長榮航空開航30週年優惠！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-29T00:25:17.000Z
+**摘要:** 长荣航空30周年优惠，台北/高雄机票低至HK$1,500，美加航线也有特惠。
+**待办:** 无
+
+✈️台北/高雄機票低至HK$1,5XX，美加熱門航線同步特惠👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154116211-1785284714583.786%26ouid%3D467434.HK-20260729-edm-airlinebr.2026-07-29_8_0.20260729.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D467434.HK-20260729-edm-airlinebr.2026-07-29_8_0.20260729.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDExN
+
+---
+
+## [营销] Risparmi extra sui saldi
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-28T18:00:47.000Z
+**摘要:** 关于折扣的额外优惠信息
+**待办:** 无
+
+
+
+
+---
+
+## [营销] 3-Day Sale is on: laptops, tablets & more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-28T12:09:37.000Z
+**摘要:** BestBuy.ca 发起为期3天的促销活动，涵盖笔记本电脑、平板等多种电子产品。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Rate your recent purchase.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-27T22:27:06.000Z
+**摘要:** Best Buy Canada邀请客户评价最近的购买体验
+**待办:** 填写购买评价
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199;
+
+---
+
+## [学校] Natalie and Meadowridge Uniform Shop
+
+**发件人:** Meadowridge Uniform Shop <uniforms@meadowridge.bc.ca>
+**日期:** 2026-07-27T22:22:13.000Z
+**摘要:** 通知新家庭和 returning 家庭校服试穿预约的注意事项及取消政策。
+**待办:** 确认预约信息并遵守取消政策
+
+Event Name
+Uniform Shop Appointment
+
+For New families:
+
+
+If you have two or more children for a fitting please book two appointments maximum. The last 15 minutes of the appointment will be to meet community relations and development staff. Come to the Uniform Shop located beside the school.
+
+
+For Returning families:
+
+
+You will NOT need a full hour, please book only 1 appointment even if you have multiple children.
+
+
+Note: If you are going to be late 15 minutes or more for you appo
+
+---
+
+## [学校] Reminder
+
+**发件人:** Meadowridge Uniform Shop <uniforms@meadowridge.bc.ca>
+**日期:** 2026-07-27T20:34:30.000Z
+**摘要:** 提醒家长为孩子预约制服试穿时间，时间为7月6日至8月21日，需通过提供的链接预约。
+**待办:** 预约孩子制服试穿时间
+
+Good afternoon,
+
+
+Just a reminder to please book an appointment for your child. Appointment dates are July 6th to August 21st, Monday to Friday, 8:15am - 4:00pm. There are 1hr time slots available to schedule for your child or children. If you have more than 1 child, please make 2 appointments.
+
+This is the link for the appointment website, or you can visit the Uniform Shop website as well.
+https://calendly.com/uniformshop/appointment
+
+Please make an appointment soon as the time slots do
+
+---
+
+## [营销] Here’s 40% off two orders, Natalie
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-27T17:16:25.000Z
+**摘要:** DoorDash提供40%折扣优惠，适用于杂货、零售等订单。
+**待办:** 无
+
+ DoorDash Save on grocery, retail, and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­
+
+---
+
+## [营销] The 3-Day Sale your backpack's been waiting for.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-27T11:09:08.000Z
+**摘要:** BestBuy.ca 发起为期三天的促销活动，可能涉及背包和其他商品的折扣。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 💎會員日專屬：享5%額外回贈！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-27T00:29:49.000Z
+**摘要:** Trip.com会员日专属优惠，酒店低至2折并享5%额外回赠，限时今日有效。
+**待办:** 无
+
+⏰只限今日！酒店低至 2 折 + 賺高達 800 Coins✨即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230158-1785112187550.347%26ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS
+
+---
+
+## [待办] 验证你的电子邮件地址
+
+**发件人:** Apple <noreply@apple.com>
+**日期:** 2026-07-26T20:53:34.000Z
+**摘要:** Apple通知您需要验证新增的电子邮件地址nataliewu100@gmail.com，并提供验证码862144。
+**待办:** 前往Apple账户页面验证电子邮件地址并输入验证码
+
+你最近已添加 nataliewu100@gmail.com 作为你 Apple 账户的额外电子邮件地址。为验证此电子邮件地址属于你，请在你的电子邮件验证页面输入下方验证码：
+
+862144
+
+你收到此电子邮件的原因：
+每当你为 Apple 账户选择一个电子邮件地址时，Apple 会提出验证要求。你的电子邮件在验证后才能使用。
+
+
+如果你未做过此更改，或者认为有人未经授权访问了你的账户，你需尽快前往你的 Apple 账户页面 https://account.apple.com 更改你的密码。
+
+此致
+Apple 支持
+
+-------------------------------------------------------------
+
+Apple 账户
+https://account.apple.com
+
+支持
+https://www.apple.com/support
+
+隐私政策
+https://www.apple.com/legal/privacy
+
+Copyright (c) 2026 One Apple Park Way, 
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-26T18:56:28.000Z
+**摘要:** 邮件提供一次性验证码用于政府账户登录验证
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+UR76XYJE
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [营销] Get more than meals delivered
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-26T16:22:58.000Z
+**摘要:** 这封邮件介绍了DoorDash提供的多种服务，包括杂货、酒精和零售等，旨在扩展其配送业务。
+**待办:** 无
+
+ DoorDash Groceries, alcohol, retail, and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [其他] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-07-26T16:22:45.000Z
+**摘要:** 收到TELUS账户验证码362879，需在30分钟内使用，否则失效。提醒如未操作需立即修改密码以保障安全。
+**待办:** 无
+
+ TELUS 
+Here's your verification code to validate your identity. 
+[image: TELUS] 
+<https://u27333001.ct.sendgrid.net/ls/click?upn=u001.SCElYa292QU0eUJVHWJNp8d2rCV-2B35zzM25WPhV0c0A-3DN-l6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3OH3KO0ksUeYj3k-2F4owdGhxTdCasq4lwgHsFmQ1VJfN4Rk8w3W8Szits8gs8eLLeI9Y6EzY3SZHyBVFnXH-2BqC8I8MyOHsiWFxGnWNs5nqNgZWDdn9hPuM6TNHNvgjHWAlZOrErQhiwo8Mqi9sWSuujlQG4nKnGQLWyDaBvIpr3w3w-3D-3D> 
+Your My TELUS verification code 
+Hi TELUS, 
+Your one-time verification code t
+
+---
+
+## [营销] Stay summer-ready with patio furniture, e-scooters and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-26T11:02:13.000Z
+**摘要:** BestBuy.ca 推荐夏季户外家具、电动滑板车等产品，帮助用户做好夏季准备。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [其他] Oh look, another wedding invite
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-26T02:18:28.000Z
+**摘要:** 这封邮件是关于婚礼的邀请，但内容不明确。
+**待办:** 无
+
+Let’s make this an easy decision for you.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-26T00:13:25.000Z
+**摘要:** 这封邮件是Google发送的安全提醒，通知用户已授权‘Spark’访问其账号数据，并建议检查账号活动记录以确保安全。
+**待办:** 检查账号活动记录并确保安全
+
+[image: Google]
+您已授权“Spark”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“Spark”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1785024805000?rfn%3D127%26rfnc%3D1%26eid%3D-7516688192562951421%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
+
+---
+
+## [其他] 您与“Spark”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-26T00:13:09.000Z
+**摘要:** 这封邮件通知用户于7月25日使用Google账号登录了“Spark”并共享了个人信息，但目前无需采取任何措施。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月25日17:13 使用 Google 账号登录了 
+“<https://c.gle/AKMee0c141SuJhBhoAzkddngIsC95qEXIZAVFlwjwIwr9HRA3PDE_zFzplIzzOqexo24OZCqGoZx2IQXfqeAOYyONKw4XJFn9d4h7Oqoq5TDzr-xxmGNag>Spark”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月25日17:13 使用 Google 账号登录了 
+“<https://c.gle/AKMee0c141SuJhBhoAzkddngIsC95qEXIZAVFl
+
+---
+
+## [营销] Save the date: Beauty Insider Celebration starts 8/1 🗓️
+
+**发件人:** Sephora Beauty Insider Celebration <shop@beauty.sephora.com>
+**日期:** 2026-07-25T20:19:12.000Z
+**摘要:** Sephora Beauty Insider庆祝活动将于8月1日开始，提供积分奖励和250积分换5美元优惠。
+**待办:** 无
+
+ Sephora 
+
+Earn more points on fave brands AND redeem 250 points for $5 off using 
+Beauty Insider Cash. Exclusions apply. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v6100000
+
+---
+
+## [其他] Payment Method Update
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-25T19:37:50.000Z
+**摘要:** Natalie在My TELUS应用中完成注册后，发现需要将自动支付方式从信用卡改为银行账户，并表示会稍后更新并通知。
+**待办:** 无
+
+Hi Naeim,
+
+I have downloaded the My TELUS app and completed my registration. However, I just realized that I need to change my automatic payment method from a credit card to a bank account.
+
+I will update it later and let you know once it is done.
+
+Thank you.
+
+Best regards,
+Natalie
+
+
+---
+
+## [营销] NEW Sincerely Yours!!!
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-07-25T18:25:54.000Z
+**摘要:** Sephora 发布新品 Sincerely Yours!!!，可能涉及促销或新活动。
+**待办:** 无
+
+ NEW Sincerely Yours!!! 
+You'll want to see this 
+😍 ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌
+
+---
+
+## [待办] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-25T18:23:24.000Z
+**摘要:** 询问窗帘修理的更新，并请求帮忙打印文件。
+**待办:** 询问窗帘修理的更新并协助打印文件。
+
+Hi,
+Are there any updates about the curtain fixing? Additionally, can you help
+me to print something? The file is below:
+
+
+---
+
+## [其他] How was your recent experience at Best Buy?
+
+**发件人:** "Best Buy Canada Ltd." <noreply@e.bestbuy.ca>
+**日期:** 2026-07-25T13:43:08.000Z
+**摘要:** Best Buy询问用户最近的购物体验，可能涉及客户反馈调查。
+**待办:** 无
+
+
+ 
+  
+ We hope it went well.
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwn
+
+---
+
+## [其他] [Task Update] Email Monitor: No important new emails need action
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T13:03:10.000Z
+**摘要:** 邮件确认当前无需要处理的重要外部邮件，大部分为ChatGPT自动发送的任务通知，TELUS相关回复已处理完毕。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前没有新的重要外部邮件需要你立即处理或回复。 我确认到： 
+- TELUS：你已经成功回复了对方，说明你的护照是中国护照。目前只需等待他们的下一步回复，无需再采取行动。 - 最近的新邮件主要都是 ChatGPT 
+自动发送的任务更新和任务状态通知，不属于需要你处理的外部邮件。 总结： 
+目前没有新的银行、政府、TELUS、租房、宽带、学校或其他需要你立即回复的重要外部邮件。 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE5xrXb-2FoyzCs8Dkx7Nuq4oRSm1dtVE2XZgP2StOqVhzgWINqfeg3rGjBN-2BYlB81p82n6XciFhsHPQ0NGCw3jtR1JF7AOymg-2Fmb8SlbQ5mKYP17gCVdE-2Ft-2FBcME7nN-2F8UVN9S1mtNu-2F285xasHgGH5233lANtQGd3K0IW3m
+
+---
+
+## [其他] [Task Update] Email Monitor: No urgent emails need your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T12:16:50.000Z
+**摘要:** 邮件助理检查后确认当前无需要处理的紧急外部邮件，TELUS的回复已处理完毕，其他均为ChatGPT自动发送的任务通知。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前没有新的重要外部邮件需要你立即处理或回复。 我确认到： 
+- TELUS：你已经成功回复了对方，说明你的护照是中国护照。目前只需等待他们的下一步回复，无需再采取行动。 - 最近的新邮件几乎都是 ChatGPT 
+自动发送的任务更新和任务状态通知（例如 “Email Monitor” 更新和 “Your scheduled task couldn’t be 
+completed”），这些... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHN0hpFTdgoXPWOZhTbjKF-2FlCoUxhbwH9-2BBXamw9pick9tOot5MfuKOu-2B-2FCxXVhcKiwTtLBhIQx0uYyLCr8A9goY5-2FdqcEfRcT9qVccI6vBJa4qzUKjIKDIBLQRUtAqME1duMGUyBe2MCJB4DtIYQLAqj8QgiHwza
+
+---
+
+## [其他] [Task Update] Email Monitor: No important emails need your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T10:06:46.000Z
+**摘要:** 邮件检查结果显示无重要外部邮件需处理，已排除促销和自动通知。同时提及已回复TELUS的邮件。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了促销邮件、垃圾邮件以及 ChatGPT 自动发送的通知。 目前没有新的需要你处理的重要外部邮件。 
+我还注意到一件与你之前事项相关的更新： - 你已经回复了 TELUS。 - 主题：Re: 708 Farrow st - 你发送的内容包括： > 
+Thank you for your email. It is a Chinese passport. Please let me know if 
+you need any further infor... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGsmvIAnHIeWkXmlD19I83Yzc7BgtMKVYv3sgAv-2FmQ8o3-2FNglNsvjMWyzRkPAfRHPovE5x8cNaLgnwUIoBmof1qbHgVc82jscK1t28enx9P3k5WyiRlFLJZLav4CkuEnmQzfXtkQ0oBi3ubYz4mOxQrR2obnG2mCig-2Bmi
+
+---
+
+## [其他] Your scheduled task couldn’t be completed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T09:50:34.000Z
+**摘要:** 邮件通知用户的计划任务无法完成，可能需要检查相关设置或联系支持
+**待办:** 无
+
+ Your scheduled task couldn't be completed 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEYbn81nsfRh-2BsR2-2FifMMLN8AWA4c3Qbh3Q-2BwMxYgzxsnBIBpxQBDQoD2L2zinWFtcCNz7SZbllt4JryIbLPihNOmhgM0RSKegjsI-2FUaFhh-2B4PsiknMMi5bjE5sbnNiFtfosk6-2FBdRHdMcL-2FnBQQ1rmDRsIhV6EYnS6z6SzNHLK8fPe9LcXM-2BpT1LpIk7UyOsWGkzttiKAMzPcSTpTnBePITa5TxAFX-2FVZFK3EW1NSMTADuUpeYVRELWaaRAjsglgbX7lgnIllhHpMO-2FGMMUEC2fNrLb-2BHddIKHztXnkrQy5soJ4XypKGgwwpfjuwyblMTNeDbkb1bgVqgkpYYnkBIlRbV6_-2F
+
+---
+
+## [其他] [Task Update] Email Monitor: Reply to TELUS about your passport
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T06:03:47.000Z
+**摘要:** 需要回复TELUS关于护照的询问。
+**待办:** 回复TELUS关于护照的询问
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前仍有 1 封需要你处理的重要邮件： 📧 TELUS 
+回复了你（建议尽快回复） - 发件人： Naeim Asady (Naeim.Asady@telus.com) - 主题： Re: 708 
+Farrow st - 状态： 未读，Gmail 已标记为重要。 - 内容： > “Thank you very much. Which 
+country passport is this... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVG1GV0GFABXAcqmpz0hDR6dGJd9SBncl7NLTrvKUjn6nFoxic1FnZlkMcuWYc9ILzPG-2F3-2BT-2BNIXzDiwo9ZJPpL1t0JszsKZ1UPCJqMhGp-2Be0LbAPEL0MdVcjB49xrxmQo-2B3bMQskPtTOiIxP8d3Rx10-2FGn-2Bf
+
+---
+
+## [待办] [Task Update] Email Monitor: Reply to TELUS about your passport country
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T05:07:55.000Z
+**摘要:** TELUS回复了关于护照国家的询问，需尽快处理。
+**待办:** 回复TELUS关于护照国家的询问
+
+ 我检查了最近的新邮件，并排除了促销邮件、垃圾邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封真正需要你处理的重要邮件： 📧 
+TELUS 回复了你（建议尽快回复） - 发件人： Naeim Asady (Naeim.Asady@telus.com) - 主题： Re: 708 
+Farrow st - 状态： 未读，Gmail 已标记为重要。 - 内容： > “Thank you very much. Which 
+country passport is thi... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVETlqNQIFi41yw9vT0bad2-2FTdWuft-2F-2BoWxT-2BiRbmPSScQc-2F6UaRM-2FE4iMEPo-2FL51SyDU9ZoyfHhhF4m-2F-2FzveTXgGrWbflzHn1sh3X-2FBUvne5wuozjFCm-2Fwy-2BAhZrl7UCo-2FqlqBrn2ZuToZ19
+
+---
+
+## [待办] [Task Update] Email Monitor: Important TELUS email needs your reply
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T04:00:34.000Z
+**摘要:** 收到TELUS的重要邮件回复，需尽快处理。邮件中询问护照相关国家信息，需用户回复。
+**待办:** 回复TELUS关于护照国家的询问
+
+ 我检查了最近的新邮件，并排除了促销邮件、垃圾邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封真正需要你处理的重要邮件： 📧 
+TELUS 回复了你（建议尽快回复） - 发件人： Naeim Asady (TELUS) - 主题： Re: 708 Farrow st - 状态： 
+未读，Gmail 已标记为重要。 - 内容： > “Thank you very much. Which country passport is 
+this?” > > （“非常感谢。这... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGW1YySitD6ONq1mzjOPyjCCzQFnYQcJiWwKtPYUCd2Y6iCDcOJ9wGfCFBd-2B1Ml54-2FObGfbEjcz2-2BAFm638AyXL-2F8YgeIA38E2Lf20Bth8BM-2Beg3CJTgrFWI1kC5UfGX52tq-2BBESKFn2ZVv7vku4inljMhuX-2
+
+---
+
+## [待办] [Task Update] Email Monitor: Reply to TELUS passport question
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T02:59:13.000Z
+**摘要:** TELUS询问护照相关信息，需要回复确认护照所属国家。
+**待办:** 回复TELUS关于护照的问题
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封真正需要你处理的重要邮件： 📧 
+TELUS 回复了你（建议尽快回复） - 发件人： Naeim Asady（TELUS） - 主题： Re: 708 Farrow st - 状态： 
+未读，Gmail 已标记为重要。 - 内容： > “Thank you very much. Which country passport is 
+this?” > > （“非常感谢。这是... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE1-2BvD9JoJcyujG9HinUFIzvMHWZ9WawC2n993yhI99o0rbxTyl-2B3kX7zjQ5WHNSnRsmZyBbthcfZB1QOB3oldH-2BOgCF4aRCDr9gCzu10cPmXfF1m1OESO0skzo5xepdsSFTfvtAIyJRkFSbnXaip5HwfYqOaTWRWN-2
+
+---
+
+## [待办] [Task Update] Email Monitor: Reply to TELUS passport question now
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T01:55:49.000Z
+**摘要:** 需要回复TELUS关于护照国家的询问，邮件被标记为重要且未读。
+**待办:** 回复TELUS关于护照国家的询问
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封需要你处理的重要邮件： 📧 TELUS 
+回复了你（建议尽快回复） - 发件人： Naeim Asady（TELUS） - 主题： Re: 708 Farrow st - 状态： 
+未读，Gmail 已标记为重要。 - 内容： > “Thank you very much. Which country passport is 
+this?” > > （非常感谢。这是哪一个... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFeXst47m7YzU3U7cE95YjpIBs4W9PdLsXkf-2BZmcRTNHbURRWGdk9g5r0pXM7tGLf8fxjhWXAqpH4LXlA77gaLdXbIz5LX5h0EBbZOSuHio69pVciOYv51QvrtcIYIK2gs61sEBtatDLBIihn-2BsCJH7jHUD-2F8bdMOc8-
+
+---
+
+## [待办] [Task Update] Email Monitor: Reply to the important TELUS email
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-25T01:11:18.000Z
+**摘要:** 提醒处理来自TELUS的未读邮件，需尽快回复关于护照国家的询问。
+**待办:** 回复TELUS的邮件，询问护照国家信息
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前有 1 封真正需要你处理的邮件： 📧 TELUS 
+回复了你（建议尽快回复） - 发件人： Naeim Asady（TELUS） - 主题： Re: 708 Farrow st - 状态： 
+未读，Gmail 已标记为重要。 - 内容： > "Thank you very much. Which country passport is 
+this?" > （非常感谢。这是哪一个国家的护... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFMqJdJjfjDCOga8t-2FtdFVwowTiOhU0K1Ia9p899sVOUk-2FZSitCfT-2F6JaPLPUXCfQ4goFqorPLACdgYw5wCGAFPWQp-2Fx0Cj0g9HShcFyyw-2BTR9y182ss9L3vfsPsDE58TTnhANHiwy83aok3Psz19HG7UNTAnzPn
+
+---
+
+## [待办] [Task Update] Email Monitor: TELUS邮件需要尽快回复
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T23:55:21.000Z
+**摘要:** TELUS回复了关于708 Farrow st的邮件，需要尽快处理。
+**待办:** 回复TELUS的邮件
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的邮件监控通知。 目前有 1 封新的重要邮件需要你关注： 📧 
+TELUS 回复了你的邮件（建议尽快回复） - 发件人： Naeim Asady (TELUS) - 主题： Re: 708 Farrow st - 
+状态： 未读，Gmail 已标记为重要。 - 内容摘要： 对方回复说： > “Thank you very much. Which country 
+passport is this?”... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEGIQMY-2FpC32qbsLFatxuJiktOfMWjqWb1Nbqvs-2Ba3QYFHL-2FZWZRkNNvFlzN3hW3bANfzLojthoCzKkAJMbSqwFWPValEYYxAxMJAKdKxfl5trbtUJDuzw50K6Fqg47thD1NgW1EemRce8w7f8SMQvDh8dD5ZZEuFgvN
+
+---
+
+## [待办] [Task Update] Email Monitor: One important email needs your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T23:07:19.000Z
+**摘要:** 收到Netflix的邮件，提示需要完成账号注册。
+**待办:** 完成Netflix账号注册
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的邮件监控通知。 目前有 1 封需要你留意的重要外部邮件： 🎬 
+Netflix – Finish signing up - 发件人： Netflix (info@account.netflix.com) - 主题： 
+Netflix - Finish signing up - 状态： 今天收到。 - 内容摘要： Netflix 提示你还差几个步骤即可完成账号注册。 
+建议： - 如果这是你本人开始... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGP-2F20abH7Bq-2BX09KxHkGyajD6asiOvxc-2B-2BdFu8LwLkdnwj1LXFIgcvhWnZ6gkNVWMYQ21ut-2FC3zBZ1K-2F3OHO6wFV-2FgY640y1DeleHmfjWZr0clIzUwZHSMGhZgU2-2B4YDE2pT1EyKQpOfYl4REvPKpgzma
+
+---
+
+## [待办] [Task Update] Email Monitor: 发现一封需要你关注的 Netflix 邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T21:59:08.000Z
+**摘要:** Netflix提醒用户需要完成账号注册流程。
+**待办:** 完成Netflix账号注册
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封需要你留意的外部邮件： 🎬 
+Netflix – Finish signing up - 发件人： Netflix (info@account.netflix.com) - 主题： 
+Netflix - Finish signing up - 内容摘要： Netflix 提示你还有几个步骤即可完成账号注册。 建议： - 
+如果这是你本人今天开始注册 Netflix，那么按... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFH-2BvotffBFAD3AGEkix-2FFbh0Xohn9MnxPwuScvD-2FXhniwEGEILeprAFMJ62-2Byb2GtdWU1pRWL4hhFuEUNB8B7pY3G-2FkWaSMCdgL-2BNuN3qOdG7YNzkCiFlSC1sBTt7oNU3DODI7bbv0qiS-2BwtNYTsXnUIeB9
+
+---
+
+## [待办] [Task Update] Email Monitor: Important email needs your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T21:05:49.000Z
+**摘要:** 收到一封Netflix的邮件，提示需完成账号注册，还差几个步骤即可开通。
+**待办:** 确认Netflix账号注册并完成剩余步骤
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封值得你关注的邮件： 🎬 Netflix 
+– Finish signing up（需要你确认是否是本人操作） - 发件人： Netflix (info@account.netflix.com) 
+- 主题： Netflix - Finish signing up - 时间： 今天收到。 - 内容摘要： Netflix 
+提示你完成账号注册，还差几个步骤即可完成开通。 建议... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGFSJwTuDIKGZLe8hWK90fKP6nL7hFEbmFltZYqmtyPQOo36O0EnyZAUUPFInHUCnABD4d3-2FYXQzZTixwubyM7Xif0U-2B9iRMmgA2WMHBRh4yDwzKvH7j4HDvx3HAEdL2fq0SuVtjbl98mE1mxVw-2FE6cTesf3R6ep4S-2
+
+---
+
+## [待办] Netflix - Finish signing up
+
+**发件人:** Netflix <info@account.netflix.com>
+**日期:** 2026-07-24T20:30:31.000Z
+**摘要:** 需要完成Netflix注册的最后三步
+**待办:** 完成注册流程
+
+Three more steps and we'll do the rest.
+
+Three more steps and we'll do the rest.
+
+Finish Signing Up
+[https://netflix.com/tv?code=1678f8c1-a81a-4776-bf4d-7d1e0e40fec8&g=4d3e590e-5807-47b2-b0b5-78603c1de9fe&lkid=URL_SIGNUP&lnktrk=EVO]
+
+Sent from your device:
+
+Smart TV
+
+ 
+ 
+
+   Questions? Visit the Help Center
+   [https://help.netflix.com/help?g=4d3e590e-5807-47b2-b0b5-78603c1de9fe&lkid=URL_HELP_QUESTIONS&lnktrk=EVO]
+   
+   Netflix Services Canada ULC
+   1200 Waterfront Centre, 20
+
+---
+
+## [其他] 您与“iQIYI”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-24T20:03:28.000Z
+**摘要:** 这封邮件通知用户因使用Google账号登录iQIYI，共享了姓名、照片和邮箱信息，目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月24日13:03 使用 Google 账号登录了 
+“<https://c.gle/AKMee0ensrs8aTQLqTlBLH6UoZCdIRa7b1wtgIR32gD65zckkeNfFK4V9zElPYarD7PWIOnuGmK9giGtVw86Zc77SRLYdz2ttZ13ZVMTdp0NAg>iQIYI”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月24日13:03 使用 Google 账号登录了 
+“<https://c.gle/AKMee0ensrs8aTQLqTlBLH6UoZCdIRa7b1wtgIR32gD65z
+
+---
+
+## [其他] [Task Update] Email Monitor: Google security alert needs your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T19:58:28.000Z
+**摘要:** Google 发送安全提醒，检测到账号在TCL G10设备上有新登录活动，需确认是否本人操作。
+**待办:** 检查Google账号的登录活动，确认是否本人操作
+
+ 我检查了最近的新邮件，并排除了促销邮件和 ChatGPT 自动发送的邮件监控通知。 目前有 1 封值得你关注的邮件： 🔒 Google 
+安全提醒（建议查看） - 发件人： Google (no-reply@accounts.google.com) - 主题： 安全提醒 - 时间： 
+今天收到 - 内容摘要： Google 检测到你的账号在一台 TCL G10 设备上出现了新的登录活动。 建议： - 
+如果这是你本人刚刚在这台设备上登录，那么无需采取任何行动。 - 如果不是你... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGqSJr8zmvV-2FKSFuMnQPIaHLtyUNEYrUDg99AlkeJYwLKohuflwaNdVofB6IkO-2BwK6G-2BlaBMX92GIOjvpItAF4nZiEAEAGY6WPLvw7c2KZyDMNSgUi79BWBEmhtfPrO20iqEP-2BfhNLQ9guMsOEogRwcYbSsKx3iHz1
+
+---
+
+## [其他] 您的新 Google Play 隐私设置
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-07-24T19:54:58.000Z
+**摘要:** 通知用户Google Play更新了隐私设置，现在在应用内直接管理个性化功能和活动记录，取代之前的账号设置。
+**待办:** 无
+
+
+natalie，您好！
+
+
+现在您已将账号添加到设备，我们想与您分享更多有关如何在 Google Play 中管理隐 
+私设置的信息。我们更新了 Google Play 中用于管理个性化功能和活动记录的设置。 
+<https://support.google.com/googleplay/answer/13780792>详细了解 Google Play  
+个性化功能和 Google Play 历史记录
+
+这些设置以前由您 Google 账号中的“网络与应用活动记录”设置进行管理，现在则改为 
+直接在 Google Play 中管理。您可以自主决定在 Google 账号的 Google Play 历史记 
+录中保存哪些类型的信息，以及是否在 Google Play 中获得更加个性化的体验。您此 
+前在“网络与应用活动记录”设置中选择了在 Google 服务（包括 Google Play）中获得 
+更加个性化的体验。您的新 Google Play 设置将沿用这一偏好，这意味着您目前在  
+Google Play 中会获得更具个性化的使用体验。您可随时在  
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-07-24T19:54:21.000Z
+**摘要:** Google发送安全提醒，指出TCL G10设备有新登录活动，提示用户确认是否本人操作。
+**待办:** 无
+
+[image: Google]
+在 TCL G10 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 TCL G10
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1784922861000?rfn%3D325%26rfnc%3D1%26eid%3D-3298280459594517944%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amp
+
+---
+
+## [其他] [Task Update] Email Monitor: 暂无需处理的重要新邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T19:00:36.000Z
+**摘要:** 邮件监控系统确认暂无需要处理的重要邮件，但提醒检查First Capital Bank的付款确认附件。
+**待办:** 查看附件，确认付款金额、付款人和用途是否与近期交易一致。
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的邮件监控通知。 目前没有新的重要外部邮件需要你立即处理。 
+仍然建议你关注（如果还没有处理）的是： - 💳 First Capital Bank – Payment Confirmation Alert - 
+附件： Transaction Detail.pdf - 建议： 查看附件，确认付款金额、付款人和付款用途是否与你近期的交易一致。 
+除此之外，我看到的新邮件主要是： - 多封 ChatGP... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFK74bNtd-2FxglKQ1zttxvPr8rn3UPi7RAid6VbN7YAkoT9RwZLzXbkvln2A0KUBhb2YEr2cst41AUYR8xxhZHfXeXP4Fr73nU9LvFUbsfCHUWEwUosth-2FYk9TRVXdOrBF7y7M-2FJGZLDeUIzhVISpoEcVQcpXUS9adG3u
+
+---
+
+## [其他] [Task Update] Email Monitor: No urgent emails found
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T16:55:48.000Z
+**摘要:** 邮件监控显示没有紧急邮件，但建议关注First Capital Bank的付款确认邮件。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前没有新的重要外部邮件需要你立即处理。 
+仍然建议你关注（如果还没查看）的是： - 💳 First Capital Bank – Payment Confirmation Alert - 
+主题： Payment Confirmation Alert - 附件： Transaction Detail.pdf - 原因： 
+这是一封付款确认邮件，建议确认付款金额、付款人和付款用途是否与... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEaLPvmcArBD5rP5URuAx0QzKz175YEN5vVPdJGd9epsj0QjOS1qxo5uWwdVY-2FT0dtm2orOuA-2Bx7ZIlQoxz-2Faa8iOMpiDOZqaX-2BTY1pWluBicNmcqDWvUcT1-2BeFlI-2F2vRoiIIbMzcgP-2BOAmi7WsNH6Q8W7IV
+
+---
+
+## [待办] [Task Update] Email Monitor: No urgent emails found one payment to review
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T15:06:05.000Z
+**摘要:** 邮件监控显示无紧急邮件，但需处理First Capital Bank的支付确认提醒。
+**待办:** 查看附件确认First Capital Bank的支付确认
+
+ 我查看了最近 24 小时的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的邮件监控通知。 
+目前没有新的重要外部邮件需要你立即采取行动。 仍然建议你关注（如果还没处理）的是： - 💳 First Capital Bank – Payment 
+Confirmation Alert - 主题： Payment Confirmation Alert - 附件： Transaction 
+Detail.pdf - 建议： 如果你还没有打开这封邮件，请查看附件，确认... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHrtOVFhNTY2mzXpSulbplFULr-2F-2Bn3uPwJ4gvFE0iuCjQ8CkxjXdN2IwEf9QOfiJ0Dcw7H0lUs0qzFwSU7cKJrUqhzEyQczsBCH59tH6zL16YQRTaWBtTKGi8UEYtmwlsFmUgISajk5-2BLHiav1qlJiIb8rDXx3UwCLa5
+
+---
+
+## [其他] [Task Update] Email Monitor: Review your bank payment confirmation
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T13:56:22.000Z
+**摘要:** 邮件助理通知用户有一封来自First Capital Bank的支付确认邮件需要处理，其他邮件已排除。
+**待办:** 查看并处理First Capital Bank的支付确认邮件
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前没有新的重要外部邮件需要你立即处理。 
+目前仍然值得关注的只有这封： 💳 First Capital Bank – Payment Confirmation Alert - 发件人： 
+First Capital Bank (internetbanking@fmbch.com) - 主题： Payment Confirmation 
+Alert - 附件： Transaction... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVF00hT72cd9TozHWuloBZeRpNqfbJ-2FKDfnENXXR4ZUrE4QmH0TjbSllrLJ1fhsmM88FwkzRIxsD-2FBaHerq92Hex5JM-2BYY-2F4H-2BFUnaT4DCLyjDQYGL64xs2eG9BdQlk-2BJaPs-2B0lXh5cs30Qit3yhqHhXoCcw2b
+
+---
+
+## [待办] [Task Update] Email Monitor: Important bank payment email needs review
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T12:12:37.000Z
+**摘要:** 需要审查First Capital Bank的付款确认邮件，包含附件Transaction Detail.pdf。
+**待办:** 查看并确认银行付款信息
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前没有新的需要你立即回复的重要外部邮件。 
+仍然值得关注的邮件是： 💳 First Capital Bank – Payment Confirmation Alert - 发件人： 
+internetbanking@fmbch.com - 主题： Payment Confirmation Alert - 附件： 
+Transaction Detail.pdf - 内容摘要： 银行通知... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGF3292t82zOKpFRUsX99TstiNL-2BBU-2BY7WCXmPKlRrVSqxg-2F-2B99Il3OaS7m2mk1DlpCfiP-2FrlDMMBjKIkrhn2C2m8IUC1KX-2BGcqKr1EmKdzhmp5uHdsm7mN4yA2Ms50MS-2BATnVBIuFWCTxsYG2vYEJZvamgU
+
+---
+
+## [其他] [Task Update] Email Monitor: Review bank payment confirmation email
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T11:08:15.000Z
+**摘要:** 邮件通知已清理垃圾邮件和自动监控信息，仅需关注First Capital Bank的付款确认邮件，但无需立即回复重要外部邮件。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前没有新的需要你立即回复的重要外部邮件。 
+仍然值得关注的邮件是： 💳 First Capital Bank – Payment Confirmation Alert（建议查看） - 发件人： 
+internetbanking@fmbch.com - 主题： Payment Confirmation Alert - 内容摘要： 
+银行通知你，付款人要求向你提供一份付款证明（Proof... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVF5OFz5xtVkPQrF3sDlbNgWL2NLiFF0N1E0JdUDd7eGWWe44VJDPUmP80-2BO-2BYQrK2Cp-2FxDw3-2FMqRXo97HBBJ0z0mL3-2FAoazDmluOFu7N6JQvduGv2BKW6ZiA2lykv97NAxHZ2-2Bc0dB9-2FK7IUqyi4inKruznJ
+
+---
+
+## [其他] [Task Update] Email Monitor: 发现一封需核实的银行付款邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T10:09:00.000Z
+**摘要:** 邮件来自First Capital Bank，提醒有一笔需确认的银行付款，附件包含交易详情。
+**待办:** 需要核实银行付款信息并确认交易细节。
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前没有新的需要你立即回复的重要邮件。 仍然值得你关注的是： 
+- 💳 First Capital Bank – Payment Confirmation Alert - 发件人： 
+internetbanking@fmbch.com - 主题： Payment Confirmation Alert - 附件： 
+Transaction Detail.pdf - 内容摘要： 银行通知你有一... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFeiuSXrdER4rNADnuy9WnHJUVKArYbjj3VG8Zj6T7YtritkRxtTiNeGm4gOlCpXasTT0dTa4roVDqV-2BlQzpVg-2BUKIIjzKa1-2BD9dEgwm38gwMbt2EXPMuSJjgZYoAHi4jDHpoEwO-2FGNfWb-2FJbxZwKDQpWQ-2BXft
+
+---
+
+## [营销] Deal Alert: Up to 30% off select small kitchen appliances
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-24T10:07:15.000Z
+**摘要:** BestBuy.ca推出小家电促销活动，部分商品最高折扣30%。同时提醒用户需设置账户密码。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NDd9AAcAAAAABGIseQSAlGE5XR5gAZrM_9g7JPoVuN5ePiiwvOShsVe1bd8nMfdIBq_HNO_8XZGvbAvm-SAFldCrYP1bAAt1C3pqbXwg5g1kyviNRTs6nQ&CMP=eml-bby-pr-tar-2026-07-24-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2439025&l=52_HTML&mid=7210119&jb=999&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-07-24-c_cal-csgsc_glu-gcat
+
+---
+
+## [待办] [Task Update] Email Monitor: No urgent emails found review bank payment alert
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T08:57:01.000Z
+**摘要:** 邮件助理检查后表示无紧急外部邮件，但提醒关注First Capital Bank的支付确认警报。
+**待办:** 查看并处理First Capital Bank的支付确认警报
+
+ 我查看了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前没有发现新的重要外部邮件需要你立即回复。 
+仍然值得关注的只有这一封： 💳 First Capital Bank – Payment Confirmation Alert - 发件人： 
+First Capital Bank (internetbanking@fmbch.com) - 主题： Payment Confirmation 
+Alert - 附件： Transaction D... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVESPQDlfzq6YmuyfmLralaVSEUL58ME22Judp4gUtB4wS5-2Fmec5YpBFSkKTg8chL4SnhC0a5gBe6hzGcjuoj4VzyGtDt0wrK4FUZD2MzztcmMKqBZo-2BX0m00oP-2Fs-2BU4Uaa-2BR62Ee2TwX3J1OoayE-2FZdCcV7vl9
+
+---
+
+## [待办] Your scheduled task couldn’t be completed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T07:30:33.000Z
+**摘要:** 邮件通知用户计划中的任务无法完成，需检查原因并处理。
+**待办:** 检查任务失败原因并处理
+
+ Your scheduled task couldn't be completed 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGO4c5lMmYlBJrV82RPEeKOrzWadB4RAReKfrdGTKKfc55tBN3l9ypPN-2BWxz1jlBrAfqulDCLuWE9Q0Q8R4IUCdDmVt8JSY-2FnnsS6oVL0vbRGvh6N75EVjVjwsqQ7lCk7lCFO8xyQf-2FDWSlvsYxK4CLAJrRfNPxOrpSuLPvpfIvIqDcLQRYkDv9SN3fjsaHk9QvVmsjzSKcGk-2FTDfO0bedv07KAjtYkQ1Gt3KMZETg4bDCQMU0kSBL0CpTTe1zyozP-2BAdx-2B9byi0QKaWPufrs4qKEyobXNZSLs8zuVNYIrbZhEHdqDaA1bVFo8p3nmr0GBfVPbM25dsRA-2FF13CBUkuaMRL1_-2F-2FN5zRB
+
+---
+
+## [营销] Promemoria offerta
+
+**发件人:** iliad <noreply@email.iliad.it>
+**日期:** 2026-07-24T07:11:27.000Z
+**摘要:** 这封邮件是Iliad运营商发送的优惠提醒，通知用户其订阅的GIGA 200套餐价格永久固定且包含通话和短信服务。
+**待办:** 无
+
+ Promemoria offerta 
+                           
+ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [其他] [Task Update] Email Monitor: Review two important email alerts
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T05:03:35.000Z
+**摘要:** 邮件助理通知有两封重要邮件需要查看，其中一封来自First Capital Bank的付款确认警报。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 2 封值得你关注的邮件： 1. First 
+Capital Bank – Payment Confirmation Alert（建议优先查看） - 发件人： First Capital Bank 
+- 主题： Payment Confirmation Alert - 内容摘要： 银行通知有客户向你提供了付款证明（Proof of 
+Payment）。 - 附件： Transa... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEwVQ6J2qCKyaIomVMvCfge-2B9JUeDO37YIq65mqmiUZmYhfuHU1UeeB1cOs7hXiD5-2FpzYcbODWoAzb-2BQpPSX-2FEIylzGvos7VCJzBIWyetkiEoyXHh-2FSPPV4EXAh0eKtS6-2FGBOCcaI6SXiFzNR3NvWkPgeHWVLNV
+
+---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-24T04:10:25.000Z
+**摘要:** 银行通知对方客户请求提供付款证明的附件。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
+
+## [其他] [Task Update] Email Monitor: 发现一封需要关注的 GCKey 邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T04:06:43.000Z
+**摘要:** 收到一封来自加拿大政府的GCKey登录验证码邮件，需注意查收并完成验证。
+**待办:** 查看GCKey验证码邮件并完成登录验证
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的通知。 目前有 1 封真正需要你关注的邮件： 🇨🇦 
+GCKey（Government of Canada） - 主题： GCKey Sign-In - 发件人： GC@auth.canada.ca - 
+状态： Gmail 已标记为重要。 - 内容： 这是一封 加拿大政府 GCKey 登录一次性验证码 邮件。 需要采取的行动： - 
+如果是你本人刚刚登录加拿大政府网站（例如移民、税务或其他政府服... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFBTQmjuyTAfANI1W7noJcLFX8UP3gPoURpNu9dkL33fW0ZWQIdMW-2Bm28dbDAaIVI1mZvlbWDV-2BjhJ-2BuFeynlZBeQO0hqNDiPvAp6ya-2BAgBlZ432l5bunpxq5UudXfOVmMYmntWN7HUiJmSvBdUTgVFN7b-2Bm8lP
+
+---
+
+## [营销] Fast Walk
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-07-24T04:06:26.000Z
+**摘要:** Loro Piana推出全新运动鞋，倡导闲雅风尚。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+全新运动鞋演绎闲雅风尚
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+---
+
+## [其他] 获得真正的帮助，而不只是答案
+
+**发件人:** ChatGPT <noreply@email.openai.com>
+**日期:** 2026-07-24T04:06:01.000Z
+**摘要:** 这封邮件旨在鼓励用户与ChatGPT深入互动，以获得更全面的帮助和学习体验。
+**待办:** 无
+
+ 与 ChatGPT 一起学习、探索和成长。 
+<https://r.openai.com/ls/click?upn=u001.I-2FaYIbqhsKngReUOKrmuweHw7Fh75qLKlFhai32cOrvQ1hzC4LhWCmp1VQzJEEG3tMGcW5s7glwXncnIMxuMqKE006rGGeZS0vPrC8U7mrz3EmBodaX8wlhh39e-2Fv4harhK-2Bk1-2FrAJpGO6rn0yWO-2FGD95e5CUAUXdU-2BYsJ1O7XC65p6pLwaWfSe81MbOCvClhMUR8h0M59uyA8NVsywp6l0mLhJ79TXJAmoqBGk3UKjnhO1AJYKxIQ-2BZw1kVw5A8gpVHzImdwAH3iO63ilkKMFi4sMRqJOPTlHw-2FZK6PQQfJ2eusTKUMNL6QlcV1z0coDUWFzZbbj73xdVZrquAMe-2BD4Cghn3pFiI8e7G7GOFqC9o3O04-2FySA5VY-2BhckMuAFBOQbL-2FJ6RsRCXVOYaL154Q-3D-3D
+
+---
+
+## [其他] [Task Update] Email Monitor: Important GCKey login email needs attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T02:59:51.000Z
+**摘要:** 收到一封需要处理的加拿大政府服务登录验证码邮件，需确认是否本人操作。
+**待办:** 确认是否本人近期登录加拿大政府网站，如未操作需联系相关部门处理。
+
+ 我检查了最近的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封需要你注意的邮件： 🇨🇦 
+GCKey（Government of Canada）登录验证码 - 主题： GCKey Sign-In - 时间： 今天收到 - 状态： Gmail 
+已标记为重要。 - 内容： 这是一封一次性登录验证码邮件，用于登录加拿大政府服务（GCKey）。 需要采取的行动： - 
+如果是你本人刚刚登录加拿大政府网站（例如 IRCC、CRA 或其他政府... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFgRmfcX6D-2B97QGKt5UG-2BjHmr49NIHVAv3-2BbiqK-2B6hMF61LBCzuj6Fcl3Io9kp-2BTV38t5NjHxioY4bpVcLCCeHNNew873pRdkaGA1ut5Vs3kmHQ0hLkHLPoQ9YSTxZ9poagxXml2LHmDOE6buM7yY3YsAyWj6ru
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-24T02:45:50.000Z
+**摘要:** 邮件包含用于登录加拿大政府服务的一次性验证码
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+7A22RREN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] [Task Update] Email Monitor: No important emails need your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T01:55:18.000Z
+**摘要:** 邮件监控显示当前无需要处理的重要外部邮件，所有新邮件均为ChatGPT自动发送的更新通知，无需采取行动。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的重要外部邮件需要你处理。 最近收到的新邮件全部都是 ChatGPT 自动发送给你的 
+Email Monitor 更新通知，它们只是之前邮件检查结果的汇总，不需要你采取任何行动。 因此，目前没有发现新的： - 银行或信用卡通知 - 
+租房或物业邮件 - 宽带或网络安装邮件 - 政府或学校邮件 - 其他需要你回复的重要邮件 
+目前收件箱中仍然没有比我们之前讨论过的事项更新的重要外部邮件。 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFLrFqxVix2bHzDu5ZaeIyOHAgR8yIc3zVz192XTB-2BD-2B-2F0-2B1WOY-2BRxaoOh5nXF2hHR-2FwWNGts6cIaxjD-2FIB-2FvnX2U4aNLS-2F157shJfdmDeI2iSyp2yALwXpl5VmnTMryaNfg5SSLOWYLHiv1r2qgnkpFA3GyKUd6n8A8b5sPTS
+
+---
+
+## [营销] 星期五優惠大合集🎉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-24T00:32:51.000Z
+**摘要:** Trip.com推送周五优惠活动，包括珠海酒店折扣、主题乐园门票和麦当劳现金券。
+**待办:** 无
+
+10AM搶⏰珠海酒店減 HK$300 + 券包🏨加碼半價搶主題樂園門票🎫/麥當勞現金券🍔👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015516185-1784853166958.423%26ouid%3D464732.HK-20260724-edm-gochinatraintravel.2026-07-24_8_0.20260724.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D464732.HK-20260724-edm-gochinatraintravel.2026-07-24_8_0.20260724.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V
+
+---
+
+## [其他] [Task Update] Email Monitor: No new action needed in your inbox
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T23:56:40.000Z
+**摘要:** 邮件助理检查了邮箱，确认目前没有需要立即处理的新邮件，但提醒之前需关注的T-Mobile和Best Buy相关事项。
+**待办:** 无
+
+ 我检查了最近的重要邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动通知。 目前没有发现新的需要你立即处理的邮件。之前需要关注的邮件仍包括： 
+- T-Mobile USA：提醒预付费账户充值。根据我们刚才的讨论，如果你已经不用这张美国 SIM 卡，而且没有开启 
+AutoPay，这封邮件通常可以不用回复，也无需充值。 - Best Buy Canada：提醒设置 My Best Buy 
+密码。如果这是你自己的账户且打算继续使用，可以有空完成设置；如果不打算使用，也... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFgSJj8U5CB0385pJKlCXVjc4QP82r5R66jVCnmubW2AwxPegUsfuIcAWGQs5uYsVbV8z5mnfPOqFot2AWXfj5GoRxzbR9uIh-2FVUg2R4EaL68CixU7siY2SFLHTHAtNU6sXV7Za2FQuqn-2Fdwu1yma5wmksTU8WTk4g8j6fV
+
+---
+
+## [待办] Verify your email to activate your Canada Post account
+
+**发件人:** Canada Post <donotreply-nepasrepondre@notifications.canadapost-postescanada.ca>
+**日期:** 2026-09-11T21:37:02.000Z
+**摘要:** 需要验证Canada Post邮箱以激活账户，链接48小时内有效。
+**待办:** 验证邮箱以激活Canada Post账户
+
+
+
+  	
+	
+
+	
+	
+
+Verify your email 
+
+Verify your email address for your new Canada Post online account. This link will expire in 48 hours. 
+
+	
+
+ https://www.canadapost-postescanada.ca/pfe2-pap2/en/registration/email-verification?id=30755449b5aa46399d6977cff0b432bd&targetUrl=https%3A%2F%2Fwww.canadapost-postescanada.ca%2Fcpc%2Fen%2Fhome.page%3FforceVouchFor%3Dtrue Verify now 	
+	
+
+Or copy and paste the URL below into your browser. 
+https://www.canadapost-postescanada.ca/pfe2-pap2/en
+
+---
+
+## [其他] [Task Update] Email Monitor: No important emails need action
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T23:05:07.000Z
+**摘要:** 邮件助理确认当前无需处理的重要外部邮件，仅保留T-Mobile账户充值提醒，但根据讨论无需回复。
+**待办:** 无
+
+ 我检查了最近的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的重要外部邮件需要你处理。 唯一仍然需要注意的是： - T-Mobile USA - 
+主题： Your T-Mobile account needs to be refilled. - 
+这仍然是未读邮件，但根据我们刚才的讨论，如果你已经离开美国、不打算继续使用这张 T-Mobile 预付费 SIM 卡，而且没有开启 
+AutoPay，那么这封邮件通常无需回复，只是系统发送的充值提醒。 除此之外，我看到的新邮件都... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGN7sQAm-2FgZTibaHcvRj97ekYLCBIRU7xtMBa36VhSZ4DumNtgHwHBFm6SsovM-2FiD83RSdT4QFuFiZ-2BUs-2BU5i1JKkcy50eCOS4r-2FhrWrDQPDOgr1pEz55pn33AmgsbT2ALg66OUph3DZtDnSFYSnIi4HRKr9OaHYW
+
+---
+
+## [待办] [Task Update] Email Monitor: T-Mobile账户需要尽快充值
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T21:56:32.000Z
+**摘要:** T-Mobile预付费账户需要充值。
+**待办:** 需要尽快充值T-Mobile账户。
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前只有 1 封新的重要外部邮件需要你关注： 📱 T-Mobile 
+USA（需要操作） - 主题： Your T-Mobile account needs to be refilled. - 发件人： T-Mobile 
+USA <donotreply@notifications.t-mobile.com> - 状态： 未读，Gmail 已标记为重要。 - 摘要： 你的 
+T-Mobile 预付费账户需要充值。... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE51mbi9lRuGPNSHZnOJUJ5fGc2NY3TUAeq7Ach8nNuzel9tFy9WgvFa3KyTQ3Os-2FkP17K1ooNWzygvuiHlIE6nQVzYhoclw5HriA7QsXTAFtX0gmpiCBi-2Fx4ulNxcJtaXV24FQAqeC0EFihrqqrzMbGHvspg5xEk2iefQ
+
+---
+
+## [待办] [Task Update] Email Monitor: T-Mobile账户需尽快充值
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T20:58:29.000Z
+**摘要:** T-Mobile USA发来邮件提醒账户需尽快充值。
+**待办:** 充值T-Mobile账户
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件、促销邮件以及 ChatGPT 自动发送的监控通知。 目前有 1 封新的重要邮件需要你关注： 📱 
+T-Mobile USA（需要操作） - 主题： Your T-Mobile account needs to be refilled. - 发件人： 
+T-Mobile USA <donotreply@notifications.t-mobile.com> - 状态： 未读，Gmail 已标记为重要。 
+- 摘要： 提醒你的... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFTkdXHve6hHpZxcq36Bi6qUEX1UFVK6GCSdEFubXkyh4Ud5vygtb9NbnHuQBGJU-2BTvCnakum8hvYGHY3zuDOySLXFnITEKmO9FAVGcgGDxnZWwsWLTSUQElCQEQ5ZYSRGl33dpPO0KkYdoXHhuVXpnrXYaThYlwT8sfOwPQS
+
+---
+
+## [其他] These skincare products were picked for you
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-07-23T18:21:36.000Z
+**摘要:** Sephora根据您的喜好推荐了护肤产品。
+**待办:** 无
+
+ These skincare products were picked for you 
+We bet you'll like 
+them. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [待办] [Task Update] Email Monitor: T-Mobile account needs urgent refill
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T18:06:41.000Z
+**摘要:** T-Mobile提醒用户预付费账户需要充值，否则移动服务可能中断。
+**待办:** 及时充值以避免服务中断
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件、促销邮件，以及 ChatGPT 自动发送的监控通知。 目前有 1 封需要你关注的重要邮件： 📱 
+T-Mobile USA - 主题： Your T-Mobile account needs to be refilled. - 状态： 
+未读，Gmail 标记为重要。 - 摘要： 你的 T-Mobile 
+预付费账户需要充值，邮件提醒你的月度套餐即将续费。如果未及时付款，移动服务可能会中断。 - 建议： 如果这是你正在使用的... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHBEjqlzSX8OqC9qIW5T37-2FOTX32mCMNPmDyt-2FQXDcXNcYQsg1eNhmC0Jqn5McrZYciFqiCyeN6cxWi436rs-2BKBTIXFZ5FgNjDbd3xha4R07Cr3c1V0O8RXYhXbks9DXCgsp7CHChZAuH33-2FVbGsnzgj7cy-2FzI-2
+
+---
+
+## [其他] [Task Update] Email Monitor
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T17:18:50.000Z
+**摘要:** T-Mobile账户需要充值，否则套餐续费失败可能导致服务中断。
+**待办:** 需要充值T-Mobile账户
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 2 封需要你关注的外部邮件： 1. T-Mobile USA（需要操作） - 
+主题： Your T-Mobile account needs to be refilled. - 状态： 未读，Gmail 标记为重要。 - 摘要： 
+你的 T-Mobile 预付费账户需要充值，否则套餐续费失败后，移动服务可能会中断。 - 建议： 如果这是你正在使用的 T-Mobile 
+号码，请尽快登录账户完成充值。 2... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHw7YbaEhL5WDKuQ6-2BFdnzLetneXcHnEF8AXcbMykc709N1meCCNaL8ok-2FvKUqUEDjnP2PCmH6tLCDmk5k0bCdADm2SacjfAjJh4s4xn9F0d2mBsbqUNZ1muDT25Q-2BtymIfEkaZc-2F2IshTZdbZeCzFbs1bhyKtHyZWE
+
+---
+
+## [营销] Last chance 🚨 50% off two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-23T16:08:13.000Z
+**摘要:** DoorDash发送的促销邮件，提供50%折扣优惠。
+**待办:** 无
+
+ DoorDash Promo FOMO is real. 
+‌  ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌ 
+  ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ ‌   ͏ 
+‌   ‌   ͏ ‌   ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ 
+‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   
+‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   
+[image: 50-off-banner] 
+[image: 50-off-banner] 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXpt
+
+---
+
+## [待办] [Task Update] Email Monitor: 两封重要邮件需要你处理
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T16:07:44.000Z
+**摘要:** 通知用户有两封需要处理的外部邮件，分别是T-Mobile和Best Buy的。
+**待办:** 处理T-Mobile和Best Buy的邮件
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 2 封需要你关注的外部邮件： 1. T-Mobile USA（需要操作） - 
+主题： Your T-Mobile account needs to be refilled. - 状态： 未读，Gmail 标记为重要。 - 摘要： 
+你的 T-Mobile 预付费账户即将续费，需要充值，否则移动服务可能会中断。 - 建议： 如果这是你正在使用的号码，请尽快完成充值，避免服务中断。 
+2. Best Buy... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFnJm6i-2FYf4QX6pbi4gSSMHEzLU6-2BiH-2Fcs-2Bj-2FWgCpTE8AKSuHqAlaydO48U6P-2BUiYQRzgfRO5sCbi6UQk3JmrkBEZctLL9QGbH-2BADPrkOO7lEii1IfrkEqxDT2LdN2pzOpMoyYMep4NZ72o5u5brsA3Vhw7oy
+
+---
+
+## [待办] [Task Update] Email Monitor: 两封重要邮件待处理
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T14:58:16.000Z
+**摘要:** 邮件助理提醒有两封需要处理的外部邮件，其中T-Mobile账户需续费以避免服务中断，Best Buy的邮件需进一步检查。
+**待办:** 处理T-Mobile账户续费和检查Best Buy的邮件
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 2 封需要你关注的外部邮件： 1. T-Mobile USA（需要操作） - 
+主题： Your T-Mobile account needs to be refilled. - 状态： 未读，Gmail 标记为重要。 - 摘要： 
+你的 T-Mobile 预付费账户即将续费，需要充值，否则移动服务可能中断。 - 建议： 如果这是你正在使用的号码，请尽快完成充值，以避免服务中断。 
+2. Best Buy... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGELNZvawNwCGIrv6EjFi1km219a4-2BLBfnEX-2BgPZvf8h67FIYqOoALBr-2FyGnNu-2B-2BeUhKOpcznOyb1S2OyTZ6SpLyEvAWEeSQIVuVWspldxBBlP-2BKxJavFCcTFHS6eXzcnKJ4I6Z234qkgTAOan4NYstyk-2FxzP
+
+---
+
+## [营销] Who said summer’s over?
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-23T14:08:14.000Z
+**摘要:** 邮件内容为Aritzia的夏季促销活动，部分商品享受50-70%折扣。
+**待办:** 无
+
+Sale's going fast — 50–70% off select styles.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌ 
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-07-23T14:04:06.000Z
+**摘要:** 邮件提醒需要充值T-Mobile账户以避免服务中断，截止日期为2026年7月22日。
+**待办:** 支付T-Mobile账户费用
+
+ Make a payment to continue service 
+Make a payment to continue service 
+Make a payment to continue service 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account by 07/22/2026 
+Hi , 
+Your monthly plan is about to renew. You must make payment by *07/22/2026* 
+to refill your T-Mobile account to continue uninterrupted service—pay 
+online at 
+my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
+
+---
+
+## [其他] [Task Update] Email Monitor: One important email needs your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T13:00:39.000Z
+**摘要:** 这封邮件是提醒您完成My Best Buy账户的密码设置，可能与您最近的购物或账户创建有关。
+**待办:** 完成My Best Buy账户的密码设置
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 1 封新的外部邮件值得你关注： - Best Buy Canada - 
+主题： Reminder: set up your My Best Buy password. - 状态： 未读，Gmail 已标记为重要。 - 
+摘要： 这是一封提醒你完成 My Best Buy 账户密码设置的邮件，通常与你最近的购物或账户创建有关。 - 建议： - 
+如果这是你最近注册或购物后收到的邮件，建议完成密码设置，以便... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGUeVi-2FhI44sRCwqifJg9D6Cp9BD1PGTXqf0NyYdwV-2FlAyuuawglNjdugf9nwp6QyQu42NPyofutSUNTJwKvR9JyhUQEuCXnqCvzC9sYbIHZrb1lD1YT4Q6hxXchDmYHKBMw5d1sZ8JsVtU1aYKviftIEsYc2pzwT8-2Fl2
+
+---
+
+## [其他] [Task Update] Email Monitor: Best Buy password email needs attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T12:32:07.000Z
+**摘要:** 提醒设置Best Buy账户密码，可能与近期购物或注册相关。
+**待办:** 按照提醒完成Best Buy账户密码设置
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和垃圾箱）。 目前只有 1 封新的外部邮件值得关注： - Best Buy Canada - 主题： 
+Reminder: set up your My Best Buy password. - 状态： 未读，Gmail 标记为重要。 - 摘要： 
+这是一封提醒你完成 My Best Buy 账户密码设置的邮件，与近期购物或账户创建有关。 - 建议： - 如果你最近在 Best Buy 
+购物或注册了账户，建议完成密码设置，以便查看订单... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFc2UGlCz4uP1aVUbKFnPHZ0f4OJnqKkEu0GlrUaCBT7IrkPpiO1E6qF-2BcqqXgJs383-2FUB2chgcSfRzvXTms70GzNLMkxyWQHKTrGHoGSGrRjnZEjlkJC2tiAuVLVItzjGoy44KPFY5tLLO-2FELUS8zyLE8se-2BDCkzzG
+
+---
+
+## [待办] Reminder: set up your My Best Buy password.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-23T12:13:54.000Z
+**摘要:** 提醒设置My Best Buy账户密码，以确保账户安全和购物体验。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+  
+ Reminder: set up your My Best Buy password.
+ 
+ Look back on your recent shopping trip.
+ 
+
+
+ 
+
+  
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] Be the first to score VIP deals on major appliances.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-23T12:01:27.000Z
+**摘要:** BestBuy.ca发来的邮件通知用户可以优先获取大型家电的VIP优惠。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] [Task Update] Email Monitor: 发现需尽快核实的银行付款邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T11:09:12.000Z
+**摘要:** 收到First Capital Bank的付款确认邮件，需尽快核实并查看附件Transaction Detail.pdf。
+**待办:** 核实银行付款信息并查看附件
+
+ 我检查了你最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 目前真正需要你关注的外部邮件只有一封： 📧 Payment 
+Confirmation Alert - 发件人： First Capital Bank (internetbanking@fmbch.com) - 
+状态： 未读，已标记为重要，包含附件 Transaction Detail.pdf - 摘要： 银行通知称，其客户要求向你提供一份付款证明（Proof 
+of Payment），并附上了交易详情 PD... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGzPxqtsJp-2BUx6i2KEuSPjwrQXGHa5K341pfF1UQNZR1PgM1AW6PHpxq9BU05UZS60JagjO5kT4YGbmVWrTeXJjWo8D5ozXFQLT3JQXpp-2F6pfLqR-2B7rYfB6LpdgZMy0mrAHOJbF5iyUmXefTZoEYV7OmamRYTLCnAJuf
+
+---
+
+## [其他] [Task Update] Email Monitor: One important bank email needs attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T09:57:42.000Z
+**摘要:** 银行通知需要提供付款证明，并附有交易详情PDF。
+**待办:** 无
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前真正需要你关注的外部邮件只有一封： — 📧 Payment 
+Confirmation Alert 发件人： First Capital Bank (internetbanking@fmbch.com) 状态： 
+未读，标记为重要，包含附件 Transaction Detail.pdf 摘要： 银行通知你，他们的客户要求向你提供一份付款证明（Proof of 
+Payment），并附上了交易详情 PDF。 建... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEEO5X89Vdym1cMLyW3cM2Hme72cJAs2J7tXTCRTC1k-2FNfikDT8IuYyDWQ8GBxndK-2B-2BL-2F2ZXqQm7tmx5Skf97cb2Rl9S7k6u9TkGc0EkcF7JRbcxA9jHzwUT6uIY7fK3T-2FdMuWj-2FDmPgwoyBO4cnb1K2mEi-2B
+
+---
+
+## [营销] Saldi di fine stagione negli outlet
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-23T09:01:10.000Z
+**摘要:** Calvin Klein在Outlet有季末促销活动。
+**待办:** 无
+
+
+
+
+---
+
+## [其他] [Task Update] Email Monitor: Important payment confirmation needs review
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T09:02:42.000Z
+**摘要:** 银行通知需要提供付款证明，并附有交易详情PDF，建议尽快处理。
+**待办:** 查看付款证明并确认交易详情
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前真正需要你关注的新邮件只有 1 封： — 📧 Payment 
+Confirmation Alert 发件人： First Capital Bank (internetbanking@fmbch.com) 状态： 
+未读，带附件 Transaction Detail.pdf 摘要： 银行通知你，他们的客户要求向你提供一份付款证明（Proof of 
+Payment），并附上了交易详情 PDF。 建议： 请尽快... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEMQrdyzLdyrMwxNZZwgVuVAcX-2BWW6o-2BDRThFRQWhl18owOcr5psWet-2FgIptvtN1EiTeQMK-2BegSBtjHzuBtNfORa67uqaixXY-2BMBZY6P9aXC-2FgbOOIYSapz8D0fm-2Fs16eg5diQK80ACiEIl-2FZPWeMEvexq
+
+---
+
+## [待办] [Task Update] Email Monitor: 发现两封需尽快处理的重要邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T03:56:58.000Z
+**摘要:** 邮件提醒有两封重要外部邮件需处理，其中包含银行的付款确认通知及附件。
+**待办:** 处理两封重要外部邮件，查看附件确认付款信息
+
+ 我检查了最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 目前真正需要你关注的外部邮件有两封： 1. First Capital Bank - 
+主题： Payment Confirmation Alert - 状态： 未读，带附件 Transaction Detail.pdf - 重要程度： 
+高 - 摘要： 银行通知你，他们的客户要求向你提供一份付款证明（Proof of Payment），并附上了交易详情 PDF。 - 建议： 
+尽快查看附件，确认付款金额、付款人... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHreie0uNMZPFWYCdgAhIDFvxvyyTv9yG5-2FQ9AW1v4D51F-2FO4R4i2viLLTNbkJ6tUN5WXbb-2BEEgCo6KGeTuAGGhtIVONY7d7atCnYrz6hO-2BJa3XPR71jQwcF5wwKUkIa7bK3tWRWe-2FdudPBJM3FnVJulgrfwF2nQv
+
+---
+
+## [其他] [Task Update] Email Monitor: Two important emails need your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-23T00:08:42.000Z
+**摘要:** 银行发送付款证明确认邮件，需查看附件中的交易详情并确认信息准确性。
+**待办:** 查看附件中的付款详情，确认金额、付款人和交易信息是否正确
+
+ 我检查了你最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 2 封需要你关注的外部邮件： 1. First Capital Bank 
+- 主题： Payment Confirmation Alert - 状态： 未读，带有附件 Transaction Detail.pdf - 
+重要性： 高 - 摘要： 银行通知称，他们的客户要求向你提供一份付款证明（Proof of Payment）。 - 建议： 
+尽快查看附件，确认付款金额、付款人和交易详情是否与你预期一... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVF3u2fdthzlyR7L9rGL7SSXw0iWQ75fbKvyIzHWLBVl-2FjFu5awR8-2BqJ-2BSqQX9JrjAWPTnm7UYLxEo7yBb73oJ4kh4kMcVlXhVi6ozGb2zXD0NDGiALLaEIBizOmHtGpoVcXbhri2HjaJ9nw5VbqHIjPVOAxvG-2FN9L40
+
+---
+
+## [待办] [Task Update] Email Monitor: 两封重要邮件需要你处理
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T23:08:41.000Z
+**摘要:** 邮件提醒有两封需要处理的外部邮件，其中一封来自First Capital Bank，涉及付款确认，需查看附件确认信息。
+**待办:** 查看附件，确认付款金额、付款人和交易详情
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 有 2 封需要你关注的外部邮件： 1. First Capital Bank - 
+主题： Payment Confirmation Alert - 状态： 未读，包含 PDF 附件（Transaction Detail.pdf） - 
+重要程度： ⭐⭐⭐⭐☆ - 摘要： 银行通知称，他们的客户已要求向你提供一份付款证明（Proof of Payment）。 - 建议： 
+请尽快查看附件，确认付款金额、付款人和交... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHhaEWWOIgWsc76bTSAEDh6WV1DD9-2F4vepAa2RnP5Q3P6IxJ5jP7TLtCjteymrKB21PZnogc65v4M5orwzNujDQvz4J7Xr3MMyyiqPpQLHNWx8tmWk4xABv-2FlGggMHBuZBiXaGlYa-2BUjDrWDMJQar1JORFUk-2BzZJxFz
+
+---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-22T22:00:25.000Z
+**摘要:** 银行通知支付确认附件，需注意查收。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
+
+## [待办] [Task Update] Email Monitor: Review two important emails needing action
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T22:00:17.000Z
+**摘要:** 邮件助理提醒有两封需要处理的重要邮件，其中一封来自DocuSign显示签署完成并附有PDF附件。
+**待办:** 审查两封重要邮件，特别是DocuSign的签署文件和附件
+
+ 我检查了你最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前有 2 项值得你关注： 1. DocuSign（代表 Smith Farrow 
+Rental Homes） ⭐ 优先处理 - 主题： Completed: Complete with Docusign: 
+Complete_with_Docusign_20260709_Rules_and_(1).pdf - 状态： 未读，带 PDF 附件。 - 
+内容摘要： 所有相关方已经完成电子签署流程，并附上... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFxEI7mNDnz8doH5zIRTsSkdJR9oJTseydElOX6AMFqJO-2BnZfEUuxTumNgMbW1PC7the7C1ZrJVT-2Fbtz3xN46tspwpPulXo44YNE8osZY2QpSAFbqT2hxJluZYbggkjk09zTVcD-2Bbpb-2BMFt4zhfwFyUGJsKvko1TZqgcLAz
+
+---
+
+## [待办] [Task Update] Email Monitor: Important emails need your attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T21:05:40.000Z
+**摘要:** 邮件提醒有1封重要DocuSign邮件需要处理，涉及Smith Farrow Rental Homes的文件确认。
+**待办:** 查看DocuSign邮件并确认相关方是否完成
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 有 1 封新的重要邮件值得你关注： - DocuSign（代表 Smith 
+Farrow Rental Homes） - 主题： Completed: Complete with Docusign: 
+Complete_with_Docusign_20260709_Rules_and_(1).pdf - 状态： 未读，带 PDF 附件。 - 
+重要内容： 这封邮件确认 所有相关方都已经完成了 DocuS... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFPkfqMb9dC0bpDh2Np9X3sZWgoeH6R6yUyq31w0I-2BhlOoaMghiRPI1Hbv-2BsHmODJ8UoBLKyME12ihnISQJhPvJYb5NfXtaT57xRMyCkJGs7KA-2BozWyozwkqbbb0-2B-2BpDUmPW9xy9TAO0Lf8UGPgfiG-2BtBnOHVx-2F-2
+
+---
+
+## [其他] Completed: Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-22T20:43:24.000Z
+**摘要:** 通知各方已完成签署Docusign文件，并提供查看链接。
+**待办:** 查看签署完成的文件
+
+Hello Jingqi Wu,    
+
+All parties have completed Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf.
+    
+    
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=28eacceb-2542-8107-83e6-7312d13531d5&etti=44&r=e9f3c890-6b22-811d-83b4-914ffb9c7e44
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get started.
+
+This message was sent to you by Anastasia Makarevska | S&F Rental Homes who is using t
+
+---
+
+## [待办] [Task Update] Email Monitor: Two urgent GCKey emails need attention
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T19:56:36.000Z
+**摘要:** 提醒有两封需要关注的加拿大政府GCKey登录验证码邮件，需确认是否本人操作
+**待办:** 检查是否本人登录加拿大政府服务并处理GCKey验证码
+
+ 我检查了最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 发现 2 封需要你关注的邮件： 1. Government of 
+Canada（GCKey） - 发件人： GC@auth.canada.ca - 主题： GCKey Sign-In - 重要程度： 高 - 
+内容摘要： 这是加拿大政府 GCKey 登录验证码邮件，包含一次性登录验证码。 - 建议： - 
+如果是你本人刚刚登录加拿大政府服务（例如移民、签证、税务等），这是正常邮件。 - 如果不是你发起的登录，请... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHxqYZlrGu6s1xBSp1E5maOG3lulNzKpQY-2Bj-2BUbjIC1-2BB1iTbHNbQGFJe0tu5xaEjzp6DU3o2lFZ1Ab8TYPqpqbxwDVosohLCr5D6FwGDzs6mWrFoTgToFHGDoQxAoeBdxj0CJttt-2B9W9xf-2BiUuZJUU9UVY8wjvTJ
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-22T18:19:56.000Z
+**摘要:** 收到加拿大政府账户的登录验证邮件，包含一次性密码CHGJ8S6Y，并提示此邮件因注册账户而发送。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+CHGJ8S6Y
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [待办] [Task Update] Email Monitor: No new urgent emails TELUS still needs reply
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T16:55:41.000Z
+**摘要:** 邮件检查显示无新紧急邮件，但TELUS相关事项仍需处理。
+**待办:** 处理TELUS服务转移事宜
+
+ 我检查了最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 目前没有新的外部重要邮件需要你立即处理。 我看到的新邮件几乎全部都是 ChatGPT 
+自动发送给你的邮件监控更新，它们是在汇报此前的检查结果，不需要采取任何行动。 目前仍然值得你关注的事项没有变化： - TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 状态： 仍待处理。 - 重点内容： - 可以将你的 TELUS 服务转移到新地址。 
+- 如果提前终止两年合约，需要支... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHwcrrD3XqEHDV-2FWtQwKGZjghjDqDJRcOu4odo9VI6mF-2B95-2BgGSlDxjgCoaY-2FIYV-2FBBOJnFy-2FeuAQcRyIzkpDQa2HIHX-2B2q9-2BeecLu6xRxiPF-2BGz7zkPMbudyhEs8kuydszDaCS40X-2FrM4qT-2FXF-2
+
+---
+
+## [其他] Create Shared Lists in the app
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-07-22T16:38:51.000Z
+**摘要:** 提醒用户在Rightmove应用中创建共享列表，方便共同寻找房源。
+**待办:** 无
+
+Find homes together, wherever you are              Rightmove
+Logo 
+( https://clicks.rightmove.co.uk/f/a/bHC2_ZgXad39aX_N2EP_6Q~~/AAAHahA~/cPeF9rVKE0WlPjf5lzzAhDZwBa1MZk9nBX1P2F6EfI-v5dZBZygi3srERGYgNZIUNNJY32TCJs-7wsUIGJV8fMCy6lF5jW9ohjM9RsxMPtRv3vzpMLVMHCchDPJGs269jZGEmrNoSzLgsklh1tJ8BmrPi7RiYdryqRbcL_GWoFQ~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/a08Bm6UZPTGjjMNl6qnSGg~~/AAAHahA~/bbggEG0z6fTRaMW0K8tTSzs0nELDyqi7OitXJFDfVp8eY6fTljSCwTu_j3meaUEWnhuq5_VSuj62ppZXf-7rzVrr5nwbULkal15GXc
+
+---
+
+## [营销] Introducing the new Samsung Galaxy Z Series. ✨
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-22T16:10:25.000Z
+**摘要:** BestBuy.ca 介绍新的三星Galaxy Z系列，可能涉及促销或产品发布。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Don’t forget your 50% off (x2)
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-22T16:07:11.000Z
+**摘要:** DoorDash发送促销邮件，提供50%折扣优惠。
+**待办:** 无
+
+ DoorDash Double that discount. 
+‌  ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌ 
+  ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   ‌   ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ ‌   ͏ 
+‌   ‌   ͏ ‌   ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ͏ 
+‌   ͏ ‌   ‌   ‌   ͏ ‌   ͏ ‌   ͏ ‌   ͏ ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ͏ ‌   
+‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   
+[image: 50-off-banner] 
+[image: 50-off-banner] 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIX
+
+---
+
+## [其他] [Task Update] Email Monitor: No new important emails require action
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T15:57:01.000Z
+**摘要:** 邮件监控显示过去24小时内无新重要邮件需处理，但TELUS相关事项仍未解决。
+**待办:** 无
+
+ 我检查了最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 目前没有发现新的、需要你立即处理的重要邮件。 我看到的新邮件几乎全部都是 
+ChatGPT 自动发送给你的邮件监控更新，它们只是之前检查结果的通知，并不是新的外部邮件。 目前仍然需要你关注的事项没有变化： - 
+TELUS（Naeim Asady） - 主题： Re: 708 Farrow st - 状态： 仍未处理 - 内容摘要： - 可以将你的 TELUS 
+服务转移到新地址。 - 如果提前终止两年合约，需要... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEAVdHYDjGHR1dVlsxhf8Pd26ZkN6DDldj8wYPzGCiE4IYBqyIEZlGaUyGYwxF87ZVTlg2YTO8UlmNVrm7QTpnf5IkjGaS-2FYiJ6L4Fe5hQ5kpEtYGfr6POzitvKwiPgJKq4fCMSvGZR-2FmQxNBTpKL7Fw71PAr-2BtfcROGs
+
+---
+
+## [待办] [Task Update] Email Monitor: TELUS邮件仍待你尽快回复
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T15:01:19.000Z
+**摘要:** 需回复TELUS邮件确认服务转移事宜，提前终止合约需支付每月20加元解约费。
+**待办:** 回复TELUS邮件，确认服务转移及解约费用事宜
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的需要你立即处理的重要邮件。 仍然值得关注的是： - 
+TELUS（Naeim Asady） - 主题： Re: 708 Farrow st - 时间： 昨天晚上 7:03 PM（温哥华时间） - 
+重要程度： 高 - 内容摘要： - 可以将你的 TELUS 服务转移到新地址。 - 如果提前终止合约，需要支付每剩余一个月 20 加元的提前解约费用。 
+- 对方表示如果你有任何问题，可以直接回复邮件。 我... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVH-2BUrp-2FvI1mVugN7GQtavpV8gaNkOu-2B4QI7zAuBDCQNZUJZ74SlFExFRlCU0OCSFztNxF4D1dLG-2B3QoU8HeyCla8XH8ATYjScOeyqxGO3IUx1UoHa3wdi99tH27luXLrjI6GU7S6i8oTUaxDuCcJGNUEwD-2BMnDdHb
+
+---
+
+## [其他] [Task Update] Email Monitor: 仅需关注 TELUS 网络邮件
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T13:56:24.000Z
+**摘要:** 邮件监控状态更新，无新重要邮件，仍需关注TELUS网络安装相关邮件。
+**待办:** 关注TELUS邮件，如需安装网络请回复确认。
+
+ 我刚检查了最近 24 小时的新邮件（已排除垃圾邮件和促销邮件）。 没有发现新的重要邮件需要你立即处理。 目前收到的新邮件几乎都是 ChatGPT 
+邮件监控任务发送给你的状态更新，它们只是之前检查结果的通知，并不是新的待办事项。 目前仍需要你关注的事项没有变化： - TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 建议： 如果你决定使用 TELUS 安装网络，建议回复这封邮件继续办理。 - 重点： 
+可以将服务转移到新地址；如果提前... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEmGQAW5ypCf7PDanyaHtfEhAMvPHvSmpmjq3oNK5oCDjAn9sQl1ndkZCux49jlOqAVAKMJvi-2B3iQAoyNizuwjaRsPXNxVcdfwx0RgoQgAQFYF385BoQGFTABAtMIr0CJ9BHnbk7Wtgjq8t1pQG9ywmxpDtSYlDzvaJededl6
+
+---
+
+## [待办] [Task Update] Email Monitor: No urgent emails except TELUS follow up
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T12:57:24.000Z
+**摘要:** 邮件提醒需要处理TELUS服务转移事宜，包括提前解约费用和回复邮件继续办理安装。
+**待办:** 回复TELUS邮件以处理服务转移和合约终止费用
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的重要邮件需要你立即处理。 唯一仍然需要你关注的是： - 来自 Naeim 
+Asady（TELUS） - 主题： Re: 708 Farrow st - 摘要： - 可以将你的 TELUS 服务转移到新地址。 - 
+如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 - 如果你决定使用 TELUS，建议回复这封邮件继续办理网络安装。 
+除此之外，我看到的大多数新邮件都是 ChatG... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHMI3KnFv-2Fj6VeWp0aJREwOd73eKbZzSjywhyLsrTtBjhlgOvazrXYL1YFATQB-2F0DQkS6rHZIV9bF-2FI4b8gwhfmppeDtpsQrRMzVX8PnA3wQieaVpSK6CLeePfNCzjtSvMMzBFXTMCTtO77m2-2Fv8KZZFyKE-2BuDnJs
+
+---
+
+## [营销] ⏰ 3-Day Sale ends in a few hours.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-07-22T12:11:34.000Z
+**摘要:** BestBuy.ca的3天促销活动即将结束，提醒用户尽快购买。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [其他] [Task Update] Email Monitor: No urgent emails check TELUS next
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T12:02:14.000Z
+**摘要:** 邮件检查后未发现紧急邮件，但特别提醒关注TELUS关于地址转移服务的邮件，需注意提前解约费用及回复确认安装事宜。
+**待办:** 回复邮件确认是否继续办理TELUS安装
+
+ 我检查了最近 24 小时的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的重要邮件需要你立即处理。 仍然值得关注的是： - TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 重要程度： 高 - 摘要： - 可以将你的 TELUS 服务转移到新地址。 - 
+如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 - 建议： 如果你决定使用 TELUS，建议回复这封邮件，继续办理安装。 
+其他新邮件主要是： - Goog... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVG4boHsEzT9BmCSt8UvSTqDx7G5ZFjWfdyHVTWybAvOEDtDN-2F4s14b3lGy49TwM54FLDRp2fVLtu3QkPjtlSTalDbLcmzENlkccMgZnPP0mOSNU-2BIvbQK5IyBiZgYUR75Mr-2Fe4TUfxTuu6EHSwTb-2FOkSnJXS7w6JjEl
+
+---
+
+## [待办] [Task Update] Email Monitor: No new urgent emails but TELUS needs action
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T06:58:19.000Z
+**摘要:** 邮件提醒关注TELUS服务转移事宜，需注意提前解约费用并考虑是否回复继续办理。
+**待办:** 处理TELUS服务转移事宜，确认是否需要回复邮件继续办理，并了解提前解约费用
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件）。 没有发现新的重要邮件需要你立即处理。 目前仍然需要你关注的事项是： - 
+TELUS（Naeim Asady） - 主题： Re: 708 Farrow st - 状态： 重要 - 内容摘要： 对方确认可以将你的 TELUS 
+服务转移到新地址；如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 - 建议： 如果你决定使用 
+TELUS，可以直接回复这封邮件继续办理安装。 - Smith Fa... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFCY0PkgSNc-2FIi5qM-2FOGLI4n6iTLNeo4tmE83-2Fw-2Fwlyr9mbAAYtul1tvJXc9TNn-2F6gooof6xP-2FmY8OEJ48LdYp-2BpjbQlbPy9GckbyibH-2F2iyVre4rbcMq2C9d8-2B-2BaIgf2Xp658Xsv5-2BsuyJ1CmQRD97bS
+
+---
+
+## [其他] [Task Update] Email Monitor: No new urgent emails check TELUS and rental
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T06:12:59.000Z
+**摘要:** 检查了最近邮件，无新紧急事项，但需关注TELUS和租赁相关邮件。
+**待办:** 无
+
+ 我检查了最近一天的新邮件，并排除了垃圾邮件和促销邮件。 目前没有新的重要邮件需要你立即处理。值得关注的仍然是： - TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 需要关注： 是 - 摘要： 对方确认可以将你的 TELUS 
+服务转移到新地址；如果提前终止两年合约，需支付每剩余一个月 20 加元的提前解约费用。如果你准备办理网络，建议回复这封邮件。 - Smith 
+Farrow Rental Resident Care -... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFPhPq-2BmB-2BAXQry-2BVeJapVhNftVQ8qUx-2BmSw-2FNiKu-2B1AO24L-2FW7U0Uxcdfr1tZrvTxW2Sy67XnAaVK9WqOfXjQQ65iiJfZ2U4dnuaW0NuEk29cTaGHEC3RtZI-2FXaKMhaGmCyfbK2OLDWfCfI4cU5be-2BnN-2FG
+
+---
+
+## [待办] [Task Update] Email Monitor: Review your TELUS email and rental followup
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T05:00:22.000Z
+**摘要:** 邮件提醒需处理TELUS未读邮件和租金跟进事项，当前无新重要邮件。
+**待办:** 回复TELUS邮件确认网络服务转移事宜并跟进租金相关邮件
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），没有发现新的重要邮件需要你立即处理。 目前仍值得关注的是： 1. TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 状态： 未读，重要 - 需要处理： 如果你打算办理网络，建议回复。 - 重点内容： 
+- 可以将 TELUS 服务转移到你的新地址。 - 如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 2. Smith 
+Farrow Rental R... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHs-2BkhMIQXFgoiawEhHdhaq-2B-2B0CTmTw82LM7b5qzaL43dJY4iVHBW7dRZpJrntFIaAcjLn1Z3e-2Bmuby-2F2-2BTgYQBC0hXub8UwIG3wyTFIWzsEgYe1YGJ8L4myNAX8OeIykJF1pYBD-2FFLn5-2FjS-2BVN2IcPr7IAWj
+
+---
+
+## [待办] [Task Update] Email Monitor: No new urgent emails found
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T03:56:23.000Z
+**摘要:** 邮件检查显示无新紧急邮件，但需关注TELUS关于网络服务转移及合约终止费用的邮件。
+**待办:** 需处理TELUS邮件，关注网络服务转移及合约费用
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前没有发现新的高优先级邮件需要立即处理。 仍值得你关注的邮件有： - TELUS（Naeim 
+Asady） - 主题： Re: 708 Farrow st - 状态： 未读，重要 - 需要处理： 如果你准备办理网络，建议回复。 - 重点内容： 
+- 可以把网络服务转移到新地址。 - 如果提前终止两年合约，需要支付每剩余一个月 20 加元的提前解约费用。 - Smith Farrow 
+Rental Reside... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVHCZSqzov16iTr5aLeNKikD3wDEWzRbQAqxc99K5nQfPTqgi2DcnCDlDa-2B3Isk9fA1u8qs9QVD5IfX-2FiFWty3iCODm0XlMH-2FAyZwCfOWbmXSip1GR-2F368UH0zQpzNglUTZTV6GdAy4jHsQF2PCBZPrHv8OtLRWLvUthrSo2
+
+---
+
+## [待办] [Task Update] Email Monitor: No urgent new emails one TELUS reply needed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T02:57:55.000Z
+**摘要:** 邮件显示无紧急新邮件，但需关注TELUS的未读邮件，涉及网络服务转移及提前解约费用说明。
+**待办:** 回复TELUS邮件确认网络服务转移或预约安装，注意提前解约费用条款。
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前没有发现比之前更新、更需要立即处理的新邮件。 目前仍然值得关注的是： - TELUS – 
+Re: 708 Farrow st（未读，重要） - 对方确认你可以把网络服务转移到新地址。 - 如果提前终止两年合约，需要按剩余每个月 20 
+加元支付提前解约费用。 - 如果你准备办理网络，建议回复这封邮件或继续预约安装。 其他未读邮件主要是： - ChatGPT 
+邮件监控任务发送给你的通知（无需处理）。 - Google... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVEMFplUQFUPqi4KyVCx0cYIuE-2BpHm8rh22nZIIcFcP4zl7nEMv2B1WmHT2g9rftVjmrwK9lNKJroKcbUxGHoaFgv4h-2BM7w63qsBTET9XmjW8Q61Pc05kw5KegHPJcCh9u9-2FRbHFu-2BuHApgIyiPeBisKGcdfvMdnR9hI
+
+---
+
+## [待办] [Task Update] Email Monitor: Important TELUS email needs your reply
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T02:05:24.000Z
+**摘要:** 收到TELUS关于网络服务转移的重要邮件，需处理合约相关事宜。
+**待办:** 回复TELUS邮件处理网络转移事宜
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前有一封新的重要邮件需要你关注： — 📧 Re: 708 Farrow st 发件人： 
+Naeim Asady（TELUS） 时间： 今天 7:03 PM（温哥华时间） 状态： 未读，需要回复（如果你要办理网络） 内容摘要： - 
+可以把你的 TELUS 网络服务转移到新地址。 - 如果你签了 2 年合约，约 1 年后搬家，可以继续使用剩余合约。 - 
+如果你选择提前取消合约，则需要支付 每剩余一个月 20 加元的提前... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFlm1gcHujBvE7T3i9bAiuqgZoF2oXAoDeshxI7p-2F9Um2YLmN-2BllGyXuriVGsyshnoXe98hE-2Fho5aM2l1eo0XueXLS7y3akbq7HW8-2FdmAzR-2Fsm965pkj6zIJf7FxkdU-2BGV9O1vsjus6-2BD3TvQABQhX8xWgzj
+
+---
+
+## [待办] [Task Update] Email Monitor: Priority emails need your attention today
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T01:08:43.000Z
+**摘要:** 邮件提醒有几封需要处理的优先邮件，包括公寓网络服务确认和DocuSign相关事项。
+**待办:** 查看并处理优先邮件中的公寓网络服务确认和DocuSign相关事项
+
+ 我检查了最近一天的新邮件（已排除垃圾邮件和促销邮件），目前有几封值得你关注： 1. Smith Farrow Rental Resident 
+Care - 主题： Re: Smith Farrow - Blinds Repair - 需要处理：是 - 摘要： 对方确认你的公寓支持 TELUS 
+和 Rogers 网络服务，你可以自行选择运营商并联系开通。 2. DocuSign（Smith Farrow Rental Homes） - 
+需要处理：优... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVF3g6Kg42aA3PId0d1BpJMSpzb4Ob5nqhz6azztf-2BGlLpffowA2FWdGI6U0rcPOOBlWNHj5wncXnuf5dfIpyLx1VKBsGCtIucmuUAUJBTGhY1y-2FqZUY8Ii-2BPUhGiUew0Pb-2BwdTVMsMS1XgclgKxwNFo1j9iXwVCql2rSSAb7DaxWwhB
+
+---
+
+## [营销] 學生必睇🎒加拿大航空限時優惠 💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-22T00:20:10.000Z
+**摘要:** Trip.com 发送加拿大航空限时优惠信息，提供香港往返洛杉矶低价机票及23kg行李额度，同时提及Aeroplan会员免费短信服务。
+**待办:** 无
+
+香港來回洛杉磯低至 HK$4,XXX 😍包埋 23kg 行李 + 成為Aeroplan 會員可享有免費文字簡訊服務✈️🫵🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154209113-1784679609334.481%26ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D462653.HK-20260722-EDM-airlineac.2026-07-22_8_0.20260722.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5I
+
+---
+
+## [待办] [Task Update] Email Monitor: DocuSign needs your signature now
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-22T00:16:29.000Z
+**摘要:** 邮件提示需要处理DocuSign签名，并提及网络安装的确认信息。
+**待办:** 前往DocuSign签名
+
+ 我查看了最近一天的新邮件（已排除垃圾邮件和促销邮件），有几封值得你关注： 1. Smith Farrow Rental Resident Care 
+- 主题： Re: Smith Farrow - Blinds Repair - 需要关注：是 - 内容摘要： 对方回复你，确认TELUS 和 
+Rogers 都可以在你的公寓安装网络，你可以自行选择运营商并联系开通服务。如果还有其他问题，可以继续联系他们。 - 建议： 
+如果你准备安装网络，现在可以直接联系 T... 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVE3O0eOmUBIIZtpCYsSVz5HFTEY-2FqZqt-2Bfarfo7gqSOE8Jlewcwj28sSyBUErd5-2BrBs-2F4oPAhS-2FMJmV2RlFl01NPl119pGjbEsy9NZoI4Pma1uND7pyTSC92QzymgnVcQR13EBXFTGKyrgyPa7GK2x4hC0qcg0tuEoZPMte9j
+
+---
+
+## [其他] 有人与您共享了文件夹“1 New 7-8”
+
+**发件人:** "he frank（通过Google 云端硬盘发送）" <drive-shares-dm-noreply@google.com>
+**日期:** 2026-07-22T00:01:44.000Z
+**摘要:** 有人通过Google Drive共享了名为‘1 New 7-8’的文件夹，并附上链接。
+**待办:** 无
+
+我与您共享了：
+
+1 New 7-8
+https://drive.google.com/drive/folders/1s2_ePSr66ThhZdlF9BAJ2liH34daEW11?usp=sharing&ts=6a600868
+
+这项内容并非附件，而是在线存储的文档。点击上面的链接即可将其打开。
+
+
+---
