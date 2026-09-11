@@ -3793,3 +3793,29 @@ natalie，你好！
 [https://zh.airbnb.com/terms/privacy_policy?c=.pi80.pkdHJ1c3RfcHJpdmFjeS9ld
 
 ---
+
+## [待办] 重置密码
+
+**发件人:** "爱彼迎" <automated@airbnb.com>
+**日期:** 2026-02-05T16:38:37.000Z
+**摘要:** 用户收到爱彼迎的密码重置通知，需根据链接重新设置密码或忽略。
+**待办:** 重置密码
+
+%opentrack%
+https://zh.airbnb.com/?c=.pi80.pkYm9va2luZy9hdXRoZW50aWNhdGlvbi9yZXNldF9wYXNzd29yZA%3D%3D&euid=32a9fcc7-ef77-2d34-80d3-d5778ee0366e
+
+Natalie，你好！
+
+我们收到了您重置密码的申请。
+
+如果您没有提出此请求，请忽略此消息。 否则，请重新设置密码。
+
+重置密码
+[https://zh.airbnb.com/users/set_password?secret=zAFqJQam_yJGkqu7dJqhhIQRM50DQ7_8kj2KUfeEy3w2MygQzVQCSv13dr5z7B6B50Bezp-YQbD24qlqrpCqMA&c=.pi80.pkYm9va2luZy9hdXRoZW50aWNhdGlvbi9yZXNldF9wYXNzd29yZA%3D%3D&euid=32a9fcc7-ef77-2d34-80d3-d5778ee0366e]
+
+谢谢！
+爱彼迎团队
+
+   https://zh.ai
+
+---
