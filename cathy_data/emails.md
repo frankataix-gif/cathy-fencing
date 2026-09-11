@@ -2592,3 +2592,17 @@ Guerra in Iran, le conseguenze su economia e immobliare — idealista/news    La
 ------------
 
 ---
+
+## [其他] Natalie, are you ready to sell?
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-03-19T11:45:06.000Z
+**摘要:** 这封邮件是Rightmove提醒Natalie是否准备好出售房产，包含相关链接和图片。
+**待办:** 无
+
+Go from ‘For Sale’ to ‘Sold’...              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/n6CDtFb2jpNcz-BaESsHxQ~~/AAAHahA~/dTZRrYPPkfFt-oqFKB2x1FweFm3CKRNQcvWdABomSD0q3LHPwAdyHu92lGowvCTCGl6Ig6tc800JP-tku_zeV1fxL06vgka1LfZZFxHphvARMx-tp3ZZoLc1Gljr5qRp8dqXkDrzX2yWxh0Qu7_Cj4rKXyX8DP8xntOhlU34yv0~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Nva3crhBLfj_r5hqVLsIJA~~/AAAHahA~/BYYc1EGU4QB_WVZ6psExZlOG3Wm6jnE1ACuFMzs5g8IFGPSyA5VWxL9JTEdDWGg8ujYem1rbjTVu7aDCCbcE0FIc9WT5r6qEedcVBsrl4yHR
+
+---
