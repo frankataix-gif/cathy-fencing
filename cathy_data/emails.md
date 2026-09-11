@@ -19399,3 +19399,17 @@ Summer Fridays with the sweetest summer drop.
 
 
 ---
+
+## [学校] WPGA Admission Inquiry Received
+
+**发件人:** West Point Grey Academy Enrolment Office  <wpga@myschoolapp.com>
+**日期:** 2026-07-13T16:06:41.000Z
+**摘要:** 邮件确认收到入学咨询，并通知将在9月初提供2027-2028申请流程的详细信息，同时邀请了解学校传统。
+**待办:** 无
+
+<div>
+<div>Thank you for your interest in West Point Grey Academy and for completing our inquiry form.&nbsp;<br /><br /></div>
+<div>In early September, our Enrolment Office will be in touch with comprehensive details regarding the 2027-2028 application process and instructions on how to register for an information session and school tour.<br /><br /></div>
+<div>In the meantime, we encourage you to <a href="https://www.wpga.ca/community"><b>explore some of the school traditions</b> </a>that co
+
+---
