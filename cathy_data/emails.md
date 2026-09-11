@@ -16923,3 +16923,28 @@ nataliewu100@gmail.com
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGqSJr8zmvV-2FKSFuMnQPIaHLtyUNEYrUDg99AlkeJYwLKohuflwaNdVofB6IkO-2BwK6G-2BlaBMX92GIOjvpItAF4nZiEAEAGY6WPLvw7c2KZyDMNSgUi79BWBEmhtfPrO20iqEP-2BfhNLQ9guMsOEogRwcYbSsKx3iHz1
 
 ---
+
+## [其他] 您的新 Google Play 隐私设置
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-07-24T19:54:58.000Z
+**摘要:** 通知用户Google Play更新了隐私设置，现在在应用内直接管理个性化功能和活动记录，取代之前的账号设置。
+**待办:** 无
+
+
+natalie，您好！
+
+
+现在您已将账号添加到设备，我们想与您分享更多有关如何在 Google Play 中管理隐 
+私设置的信息。我们更新了 Google Play 中用于管理个性化功能和活动记录的设置。 
+<https://support.google.com/googleplay/answer/13780792>详细了解 Google Play  
+个性化功能和 Google Play 历史记录
+
+这些设置以前由您 Google 账号中的“网络与应用活动记录”设置进行管理，现在则改为 
+直接在 Google Play 中管理。您可以自主决定在 Google 账号的 Google Play 历史记 
+录中保存哪些类型的信息，以及是否在 Google Play 中获得更加个性化的体验。您此 
+前在“网络与应用活动记录”设置中选择了在 Google 服务（包括 Google Play）中获得 
+更加个性化的体验。您的新 Google Play 设置将沿用这一偏好，这意味着您目前在  
+Google Play 中会获得更具个性化的使用体验。您可随时在  
+
+---
