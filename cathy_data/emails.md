@@ -18482,3 +18482,26 @@ video is below:
 
 
 ---
+
+## [营销] Got a craving? It's 50% off
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-07-19T16:06:06.000Z
+**摘要:** DoorDash提供50%折扣优惠，适用于餐饮和杂货订单。
+**待办:** 无
+
+ DoorDash Email With another 50% leftover. 
+[image: 50-off-2-banner] 
+[image: 50-off-2-banner] 
+[image: DoorDash] 
+<https://tracksg.doordash.com/uni/ss/c/u001.SiuUiwMuCr410hIXptmxk3ImqRD8rwe6VWKpagi2IHYFVMH_pNZeOjbVaTYeN4uv/4sg/J8-E7MIBQYGv0DTXwYTz_Q/h0/h001.8eTklcz7L9GMF5GB-tD3vAZ9PH00rpvueQTYjDTSfuQ> 
+
+Restaurants 
+<https://tracksg.doordash.com/ss/c/u001.SiuUiwMuCr410hIXptmxk7IU2N8V2n5fH3NYgVHBgC4/4sg/J8-E7MIBQYGv0DTXwYTz_Q/h1/h001.6wIKbB7tIYblUIGDEDVSs4R8fhk64bSKf8FOXse_EM0>
+
+|
+
+Groceries 
+<h
+
+---
