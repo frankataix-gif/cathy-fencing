@@ -15888,3 +15888,15 @@ My Rightmove
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NTR9AAcAAAAABK5yw_2euOtSHTegG8moMRTqYnlgnhjzIgaL2d1OYucApejA1NcFdC_01OMNQAWNn6CM2cfsiloFlqACQVP_hQYOvOEOIb0HBt-c0sUm6P4&CMP=eml-bby-pr-asu-2026-07-31-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2447093&l=37_HTML&mid=7210119&jb=6254&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-07-31-c_cal-csgsc_glu-g
 
 ---
+
+## [营销] 💆10AM 搶 HK$1 券包快閃深圳！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-31T00:28:42.000Z
+**摘要:** Trip.com推送限时优惠活动，涵盖珠海及深圳酒店、景点和交通的折扣，包括酒店减价、半价及买一送一等促销。
+**待办:** 无
+
+珠海酒店減 HK$300✨深圳酒店/景點半價🎢高鐵減 HK$50💰海洋公園買1送1🐬即搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152813-1785457721363.81%26ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D469037.HK-20260731-edm-gochinatraintravel.2026-07-31_8_0.20260731.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5Ij
+
+---
