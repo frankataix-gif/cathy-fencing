@@ -25486,3 +25486,25 @@ Che succede 28/05/2026 — idealista/news                 Cortei in tutta Italia
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-17233-1015222812-1779889431666.218%26ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D406513.whatsapp-subscribe-edm..20260527.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0xNzIzMy0xMDE1MjIyODEyLTE3Nzk4ODk0MzE2NjYuMjE4IiwidGl0bGUiOiJoZWFkZXItbG9nbyIsInR5cGUi
 
 ---
+
+## [其他] 機票訂單確認郵件： 米蘭 - 里斯本，里斯本 - 洛杉磯
+
+**发件人:** "Trip.com" <hk_flt_noreply@trip.com>
+**日期:** 2026-05-27T13:13:20.000Z
+**摘要:** 机票订单确认成功，包含米兰至里斯本及里斯本至洛杉矶的航班信息，订单号为1359045740211663。
+**待办:** 无
+
+
+<https://hk.trip.com?locale=zh-HK> 
+訂單編號：1‌359‌045‌740‌211‌663
+機票訂單確認郵件： 米蘭 - 里斯本，里斯本 - 洛杉磯
+機票訂單確認郵件
+您好，WU JING QI：
+感謝您選用 Trip.com。您的航班已成功預訂！隨件附上您的行程及電子收據，敬請查收。
+您的12%機場接送優惠券已發放至您的帳戶，立即預訂 
+<https://hk.trip.com/airport-transfers/index?locale=zh-HK&channelid=238449>！
+您可以點擊下方按鈕以查看更多詳細資訊及管理您的訂單。
+    管理我的訂單     
+<https://hk.trip.com/flightsorder/vieworder?orderid=1359045740211663&accesstoken=X7B70AE71E9C540C8E86AEA405A0EFE62096747D4854DA4F48A252EB5ABE349F&from=email&template=TRIP_BOOKING_CONFIRMED&lo
+
+---
