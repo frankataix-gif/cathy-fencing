@@ -22350,3 +22350,24 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjF9AAcAAAAAA1Ir4mtjNOUfQ-g
  
 
 ---
+
+## [其他] Natalie, see handpicked deals for you.
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-06-28T16:41:09.000Z
+**摘要:** 
+**待办:** 无
+
+Limited-time savings you’ll love—shop while they last.Summer of
+DashPass is here! Through ‌7/22‌, enjoy exclusive deals, rewards
+that help fuel your soccer fandom, and more!
+
+Summer of DashPass ( 
+) Explore more → (  )
+Start your 30-day free trial and unlock exclusive deals, rewards
+that help fuel your soccer fandom, and more! Terms apply.
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/9br09cgEai7GsSVJ-adXYg~~/AAQRxRA~/YvW1wD6GW62FRNKJGYT6dzDDOxBrrqYCeo3OYMDjIBPmO7d4qMJE0_qt-3RxwS1ASViX
+
+---
