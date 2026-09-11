@@ -8905,3 +8905,42 @@ Meet Churro and Coquito.
 <https://app.sephora.com/T/v61000001a07c0e7314cb92ef6e96c660f0/3f41cc71385c41c90000021ef3a0bcc2/3f41cc71-385c-41c9-86d3-5
 
 ---
+
+## [待办] Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza via Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T11:36:17.000Z
+**摘要:** 收到Lauren D'Souza通过DocuSign发送的文档，需查看并签名。
+**待办:** 需要查看并签署DocuSign文档。
+
+Hello Jingqi Wu,
+
+Lauren D'Souza has sent you a new DocuSign document to view and sign. Please click on the link below to begin signing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+REVIEW DOCUMENT
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81f2b356&etti=33&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
+
+---
