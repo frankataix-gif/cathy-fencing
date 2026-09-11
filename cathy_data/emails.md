@@ -14090,3 +14090,26 @@ Regarding the properties:
 • Lancer Square: I noted it is currently listed by another of my agents but with an incorrect price. I have instructed them to take it down tomorrow. I will assess the latest market price shortly and will certainly seek your opinion to ensure a unified askin
 
 ---
+
+## [其他] Automatic reply: Foxtons APAC Valuation
+
+**发件人:** Freya Wan <freya.wan@foxtons.co.uk>
+**日期:** 2026-08-12T16:20:37.000Z
+**摘要:** Freya Wan因公外出，将于8月17日返回，目前由其他人处理事务。
+**待办:** 无
+
+
+Thank you for your email. I am currently out of the office and will return on 17th August.
+
+Kind regards,
+
+Freya Wan
+Foxtons - Operations Director/Head of Asia Pacific
++44 7875802146
+WeChat:FreyaWan88
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking a
+
+---
