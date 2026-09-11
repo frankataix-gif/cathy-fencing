@@ -7321,3 +7321,23 @@ https://myaccount.google.com/notifications
 ©
 
 ---
+
+## [击剑] Fwd: Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-10T18:46:05.000Z
+**摘要:** 邮件确认了yunxi参加Nick Itkin Cup SYC & Vet ROC的注册，包含比赛日期、需携带会员卡及酒店预订信息，并提醒11月16日前可退款。
+**待办:** 无
+
+---------- 转发信息 ----------
+发件人：USA Fencing <information@usafencing.org>
+日期： Sep 9, 2026, 22:54 +0200
+收件人： frankataix@gmail.com
+主题： Nick Itkin Cup SYC & Vet ROC: yunxi’s Registration Confirmation
+
+> 2026/27 Nick Itkin Cup SYC & Vet ROC
+> Dec 11 - 13, 2026
+> A message from the organizer:
+> Thank you for registering. Please have your membership card printed off or available on your phone when you arrive each day to check in for each event using our automated kiosks. Armory opens at 7am eac
+
+---
