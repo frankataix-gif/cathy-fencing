@@ -18881,3 +18881,29 @@ Track My Package
 <https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NDB9AAcAAAAABB1hCwZ4FXfBcZJmNfPjQc2nehy1NjcODbcjo-LdOMLqkZqj9n4To86lah4pThkMgOe0i0Pfp8Y
 
 ---
+
+## [其他] Your receipt is ready #1030191408
+
+**发件人:** Best Buy Canada <noreply@bestbuy.ca>
+**日期:** 2026-07-17T21:19:33.000Z
+**摘要:** Best Buy通知订单已发货，提供物流跟踪信息和订单详情查看链接。
+**待办:** 无
+
+ BestBuy.ca 
+
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+[image: BestBuy Canada] <http://www.bestbuy.ca> 
+Hello Jing Qi 
+
+Below you will find a list of the item(s) that are now en route to you as 
+well as tracking information.
+
+Please note: Tracking may not be available for up to 24 hours after the 
+item(s) are shipped.
+
+This email is not a receipt. You can print copies of your invoice 
+<https://www-ssl.bestbuy.ca/order/StoreOrderStatus.aspx?lang=en-CA> through 
+the Order Status page.
+Item
+
+---
