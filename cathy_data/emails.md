@@ -15168,3 +15168,21 @@ Whatever you want to do, there’s an app for that. And the App Store is the pl
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] This week $500 gift cards up for grabs
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-08-05T09:17:11.000Z
+**摘要:** TELUS Rewards举办夏季抽奖活动，每周提供500美元礼品卡奖品。
+**待办:** 无
+
+Enter the Summer Sweepstakes for another chance to win 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfdd3e0da,4088f080,2ae1e06a&e=Y2lkPXRlbERNMjI1MTIwMyZiaWQ9LTM2NDQ1OTkwJnAxPSU0MGpBUG5JeU5Ic3QlMkY3QVVVV2x6YjM0MEYzJTJGOUt2WVBJclllU1dhJTJCbkhPcjglM0Q&s=20DkSZv6rHgYr6jvf5IU34-I4JX59NqU9vU_PIqB9ok web browser . 	
+
+ https://t.info.telus.com/r/?id=tfdd3e0da,4088f080,2ae1e06b&e=Y2lkPXRlbERNMjI1MTIwMyZiaWQ9LTM2NDQ1OTkw&s=19brdEaKJzLcCrL7BWxByH89hPGnYNSSfEp4M_phUwg 	
+	
+	
+
+
+---
