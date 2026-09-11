@@ -24987,3 +24987,55 @@ Viaggio nellItalia gastronomica — idealista/news
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [学校] Absent for 3 days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-06-03T11:09:22.000Z
+**摘要:** Cathy的妈妈通知老师她本周将缺席
+**待办:** 无
+
+Dear teacher,
+Cathy will be absent for this week, please note it thank you!
+Regards,
+Cathy’s mom
+
+
+---
+
+## [其他] Che succede 03/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-03T07:51:01.000Z
+**摘要:** 这封邮件是来自idealista的新闻简报，主题为2026年6月3日的事件通知。
+**待办:** 无
+
+Che succede 03/06/2026 — idealista/news
+****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+---
+
+## [营销] Sunny Days: ULTIME ORE ⏰
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-03T07:23:06.000Z
+**摘要:** 这封邮件是Oltre的促销通知，提醒客户有免费取货和退换服务，以及新品上架，并强调限时优惠。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAAAAAAJ8IM1VvNm8J4XVplDuzJa_ge0nfXPCY-8eFrTYsY14fts7BLSU4NpTAjvUAK7dDCbEEm-GH1aYhq7Eh3ohfPjIWshu1DJvEczxWJHd2 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAAAAAAJ8IM1VwnQ6WfUkfT2BPjG3bxAQaltBrBY7uKoGFPkLU361jmBxNdFSVD4PFjZuDVChYuoUQZ2uly_V7ULNKC2Epc7y7Ng7ME49Fw0OC 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
+
+---
