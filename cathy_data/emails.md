@@ -501,3 +501,18 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NTd9ADIAAAAAACjpEqQxTfvZED
 Newsletter 24/04/2026 — idealista/news     | Martedì 21 Aprile 2026 | Giovedì 23 Aprile 2026  | Venerdì 24 Aprile 2026Nonostante le criticità del momento, il Salone del Mobile si conferma il punto di riferimento irrinunciabile per il settore dell’arredo e del design a livello globale. L’edizione 2026, con oltre 1900 espositori da 32 Paesi, affronta diverse tematiche, dal rapporto uomo-ambiente alla valorizzazione dei giovani talenti, all’apertura verso i grandi progetti, oltre il mondo del priva
 
 ---
+
+## [其他] 5 things you shouldn't expect from your estate agent
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-04-24T16:20:37.000Z
+**摘要:** Rightmove发布文章指出买家和卖家对房产中介的五个常见误解，帮助用户正确理解中介的职责范围。
+**待办:** 无
+
+People often mistakenly believe these five things about what
+agents can, and can't, do              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/kw6o8R0ByGnkfiqqXAZkpA~~/AAAHahA~/upCqytshHHlFjwuWSOKE8oOIaTR67ZdbSHrBd14Syk1dj6kVgX5B0K9pMC0DAMpScCQkyOrrG0AHel5pI4AzkafQ67robxKefDkjV3Dfy-tRln-P3ktG7AyVSg_M6o27FgkbTX_jMh1ZiV8hMNQ27ta2tF7OLWpyGYEZu9zxqKY~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Mo--q8JaJ7ibHWNyGi_0Hw~~/AAAHahA~/nr9L1wgQiuSfR4cPjl31nzyVLHJa07Jm56kis1ZF-y6j9fV0WlP-9
+
+---
