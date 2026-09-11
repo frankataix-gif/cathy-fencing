@@ -7174,3 +7174,38 @@ Tailored for work, ready for after.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154113141-1789088227457.751%26ouid%3D502511.HK-20260911-edm-99mega.2026-09-11_8_0.20260911.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D502511.HK-20260911-edm-99mega.2026-09-11_8_0.20260911.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiw
 
 ---
+
+## [营销] Don’t forget to tell us how we did!
+
+**发件人:** lululemon <lululemon@express.medallia.com>
+**日期:** 2026-09-10T23:43:14.000Z
+**摘要:** lululemon邀请填写调查问卷，以收集对门店服务的反馈，并提供截止日期和调查链接。
+**待办:** 填写调查问卷
+
+Dear Natalie,
+
+Dear LULULEMON_FIRST_NAME_INVITE_TXT,
+
+We noticed you haven't had a chance to share your feedback with us.
+
+Our goal at lululemon UNIT_NAME is to provide an awesome guest experience. Your feedback is important to us, how did we do?
+
+How likely are you to recommend the lululemon UNIT_NAME location to a friend or family member?
+
+Not likely
+Very likely
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+If you have issues accessing the survey above, you can copy and paste the following U
+
+---
