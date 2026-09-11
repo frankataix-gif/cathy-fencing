@@ -2726,3 +2726,30 @@ Questo non te l’avevamo ancora detto 👀
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [学校] PE uniforms
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-03-17T14:09:09.000Z
+**摘要:** Cathy的妈妈询问如何为G6学生购买PE校服，并请求提供在线商店链接或订单表单。
+**待办:** 提供PE校服的订购链接或表单
+
+Dear teacher
+
+I hope this email finds you well.
+
+I am writing to inquire about purchasing the physical education (PE)
+uniform for my child,  who is in G6!
+
+Could you please let me know how we can order the uniform? If there is an
+online store link or a specific order form we need to complete, could you
+please share it with us?
+
+Thank you for your time and assistance.
+
+Best regards,
+
+Cathy’s mom
+
+
+---
