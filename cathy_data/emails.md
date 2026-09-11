@@ -17776,3 +17776,24 @@ Complete_with_Docusign_20260709_Rules_and_(1).pdf - 状态： 未读，带 PDF �
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVFPkfqMb9dC0bpDh2Np9X3sZWgoeH6R6yUyq31w0I-2BhlOoaMghiRPI1Hbv-2BsHmODJ8UoBLKyME12ihnISQJhPvJYb5NfXtaT57xRMyCkJGs7KA-2BozWyozwkqbbb0-2B-2BpDUmPW9xy9TAO0Lf8UGPgfiG-2BtBnOHVx-2F-2
 
 ---
+
+## [其他] Completed: Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-22T20:43:24.000Z
+**摘要:** 通知各方已完成签署Docusign文件，并提供查看链接。
+**待办:** 查看签署完成的文件
+
+Hello Jingqi Wu,    
+
+All parties have completed Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf.
+    
+    
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=28eacceb-2542-8107-83e6-7312d13531d5&etti=44&r=e9f3c890-6b22-811d-83b4-914ffb9c7e44
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get started.
+
+This message was sent to you by Anastasia Makarevska | S&F Rental Homes who is using t
+
+---
