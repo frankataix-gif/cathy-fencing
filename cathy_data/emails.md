@@ -26616,3 +26616,15 @@ Plus, our favourite tees & tanks under €18!*
 <https://e.em.hollisterco.com/c2/1979:69f36fd297db8779cb06919e:ot:69e6429a87fa4e894f0fac35:1/40817f59?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzgyMjI2MzMsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmMzc1NjQ3YTVjNGVlYzA1MDZmZGQyIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ
 
 ---
+
+## [其他] Via libera al Piano Casa 2026: le misure previste
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-07T11:00:59.000Z
+**摘要:** 这封邮件通知了Piano Casa 2026计划的批准及其相关措施。
+**待办:** 无
+
+Via libera al Piano Casa 2026: le misure previste — idealista/news
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
