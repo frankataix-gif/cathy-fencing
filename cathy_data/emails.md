@@ -2619,3 +2619,24 @@ Che succede 19/03/2026 — idealista/news                     Il prezzo del gas 
 Oro in calo del 2,55%, con i futures in scadenza ad aprile pagati
 
 ---
+
+## [学校] Grade 7 Admission Inquiry (Sept 2026) - Yunxi (Cathy) HE
+
+**发件人:** Natalie Wu <nataliewu100@gmail.com>
+**日期:** 2026-03-18T19:36:10.000Z
+**摘要:** 家长咨询2026年9月七年级入学名额，表示家庭计划迁居加拿大，圣三一学校是首选，并提及女儿的学术成绩和击剑特长。
+**待办:** 无
+
+Dear,
+
+We are writing to inquire about Grade 7 space availability for the 
+September 2026 intake. Our family is planning to relocate to Canada, and 
+Holy Trinity School is our first choice for our daughter, Yunxi (Cathy) HE.
+
+Cathy was born on March 19, 2014. We are particularly drawn to HTS 
+because of your strong academic reputation and inclusive community.
+
+Academic Background Cathy currently attends Hiba Academy Shanghai (a 
+sister school of Wellington College UK). She is a very se
+
+---
