@@ -23551,3 +23551,14 @@ Google 相册、云端硬盘和 Gmail 中保存照片、视频、设备备份及
 您目前使用了 23.97 GB 的存储空间，已超出 Google 账号附带的 15 
 
 ---
+
+## [其他] Che succede 17/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-17T08:01:11.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 17/06/2026 — idealista/news         Lufficio anagrafe effettua sempre una verifica preliminare per accertarsi che limmobile sia idoneo a essere utilizzato come dimora stabile e duratura. In questa fase vengono esaminati i requisiti abitativi per residenza, i quali dipendono dalla regolarità urbanistica e catastale del fabbricato. Per superare il controllo documentale, lunità deve appartenere al gruppo catastale delle civili abitazioni (da A/1 a A/9 e A/11): sono esclusi, quindi, gli 
+
+---
