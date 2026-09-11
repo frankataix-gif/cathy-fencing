@@ -527,3 +527,17 @@ My Rightmove
 Che succede 24/04/2026 — idealista/news                       Crescono i redditi dichiarati lanno scorso: sempre in testa gli autonomi (il cui reddito però è in calo), crescono i contribuenti con imposta zero e quelli in regime forfetario. Lombardia al top, Calabria fanalino di coda. È quanto emerge dagli ultimi dati del dipartimento delle Finanze anticipati da alcuni media, tra cui Repubblica e il Sole 24 Ore. Il reddito complessivo totale dichiarato nel 2025 ammonta a oltre 1.076,3 miliardi di
 
 ---
+
+## [营销] House Members, you’ll want to open this…
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-04-24T06:46:21.000Z
+**摘要:** Hollister公司宣布所有商品正在促销，邀请收件人查看折扣信息。
+**待办:** 无
+
+Hollister Co. 
+  
+EVERYTHING’S ON SALE! 👀 
+<https://e.em.hollisterco.com/c2/1979:69e11c11c082677a9b017ed7:ot:69e6429a87fa4e894f0fac35:1/acd562aa?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzcwMTMxODEsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllMTFmODlkYjNkNzg4MTg2MGZkNjI1IiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1
+
+---
