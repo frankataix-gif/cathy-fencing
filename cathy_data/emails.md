@@ -20300,3 +20300,15 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzJ9AAcAAAAAA7-1Fp49PAsG7b_
 
 
 ---
+
+## [营销] 送你 HK$799 一口價機票‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-08T23:09:28.000Z
+**摘要:** Trip.com 发送 HK$799 机票促销信息，包含台湾航班优惠及酒店券奖励。
+**待办:** 无
+
+① 搭香港航空 HK$799 快閃台灣 ②拎 HK$300 台灣機、酒優惠券③訂2單再賺埋 1,000 Trip Coins❤️✈️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154138127-1783552112479.801%26ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D453063.HK-20260709-EDM-summermega.2026-07-09_8_0.20260709.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia
+
+---
