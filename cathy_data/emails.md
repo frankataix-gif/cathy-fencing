@@ -25769,3 +25769,26 @@ Passenger *Jing Qi Wu*
 ----------
 
 ---
+
+## [待办] Trenitalia.com registration Activation
+
+**发件人:** Trenitalia <webmaster@trenitalia.it>
+**日期:** 2026-05-25T17:58:28.000Z
+**摘要:** 需要点击链接完成Trenitalia账户注册激活
+**待办:** 点击链接完成注册激活
+
+ Not Fidelity User 
+[image: .]
+
+Dear JING QI WU, 
+
+to confirm the registration click here 
+<https://www.lefrecce.it/Channels.Website.WEB/#/registration-confirm?activationCode=PICO8545b5c5-2d25-424f-a9fb-f010b208a135&lang=en> 
+or copy the following url into a new browser window 
+
+https://www.lefrecce.it/Channels.Website.WEB/#/registration-confirm?activationCode=PICO8545b5c5-2d25-424f-a9fb-f010b208a135&lang=en 
+
+The link will be active until *28/05/2026*, after which it will be 
+necessary to regis
+
+---
