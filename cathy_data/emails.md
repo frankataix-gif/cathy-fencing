@@ -1599,3 +1599,34 @@ We hope you're enjoying your experience with FIE Fencing TV!
 As
 
 ---
+
+## [待办] Verify your email address
+
+**发件人:** Fencing TV <notifications@fencingtv.com>
+**日期:** 2026-04-04T17:52:26.000Z
+**摘要:** 用户成功注册FIE Fencing TV，需验证邮箱以激活账户。
+**待办:** 点击链接验证邮箱并激活账户
+
+Dear Natalie Wu,
+
+ 
+
+Congratulations! You have successfully registered for FIE Fencing TV with the
+email address nataliewu100@gmail.com.
+ 
+
+Tap the link below to activate your profile and start watching!
+
+Activate profile
+[https://fencingtv.com/auth/verify-email/019d599f-ea18-7db2-8d8e-cc6bdab391cc-8035cd54-aabe-41af-9c65-318c68b343d9]
+
+Kind regards,
+
+FIE Fencing TV Team
+
+
+
+We hope you're enjoying your experience with FIE Fencing TV!
+As always, feel free to reach out to us. W
+
+---
