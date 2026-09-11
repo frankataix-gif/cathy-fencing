@@ -11497,3 +11497,25 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AA
                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 ---
+
+## [其他] You have removed pre-authorized payments
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-08-28T07:04:35.000Z
+**摘要:** 账户的预授权支付功能已被移除，需手动支付账单以避免滞纳金，可登录Self Serve重新启用预授权支付。
+**待办:** 无
+
+
+
+Trouble viewing this email? View in web browser.  
+  
+Account number:  
+ 
+Your account has been updated.  
+On , the pre-authorized payment option was removed from your account. Your monthly bill will no longer be paid automatically using your credit cardbank account ending in .
+
+Avoid late payment charges by paying your bill in full by the due date. Log into Self Serve to pay quickly and easily.
+
+In addition to viewing your usage, bill and amount due, use Self Serve to switch back t
+
+---
