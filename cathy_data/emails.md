@@ -25039,3 +25039,15 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAAAAAAJ8IM1VwnQ6WfU
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
 
 ---
+
+## [营销] 🔥6.6 Upgrade 節‼️平價升級你嘅旅行🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-03T01:37:29.000Z
+**摘要:** Trip.com 发送6.6升级优惠邮件，提供商务舱/头等舱机票及五星酒店价格直降2666港币的促销活动。
+**待办:** 无
+
+【今日 9PM】1. 商務艙/頭等艙機票減 HK$2,666 分分鐘平過經濟艙✈️2. 五星級酒店減 HK$2,666🏨睇更多...
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015420940-1780450224555.990%26ouid%3D424734.HK-20260603-edm-6%252F6.2026-06-03_8_0.20260603.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D424734.HK-20260603-edm-6%252F6.2026-06-03_8_0.20260603.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5Ijo
+
+---
