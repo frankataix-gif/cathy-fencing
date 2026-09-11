@@ -26069,3 +26069,14 @@ Ecco un riepilogo dei prossimi passi:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 20/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-20T07:52:16.000Z
+**摘要:** 意大利经济副部长讨论燃油税调整及欧盟与美国的贸易协议进展，涉及取消部分关税和延长龙虾进口关税暂停。
+**待办:** 无
+
+Che succede 20/05/2026 — idealista/news                    Durante un’intervista a Rete4, Il viceministro dell’economia Maurizio Leo è intervenuto sulla questione del caro carburanti. “Sulle accise sui carburanti, ha detto Leo, adesso abbiamo fatto un intervento sino al 21 maggio ora dobbiamo intervenire per lulteriore spazio dal 22 in poi”. Inoltre il viceministro ha precisato che “il governo sta restituendo lextraprofitto IVA "perché nel momento in cui noi monitoriamo quello che è successo nel
+
+---
