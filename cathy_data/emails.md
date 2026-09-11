@@ -1208,3 +1208,16 @@ Che succede 13/04/2026 — idealista/news    Il panorama degli incentivi per la 
 La sicurezza della seconda casa consiste nelladoz
 
 ---
+
+## [其他] Misurare il pH del terreno: ecco come fare
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-11T16:00:49.000Z
+**摘要:** 邮件介绍了如何测量土壤pH值，包括使用石蕊试纸、电子仪器和自制方法，帮助改善植物生长和预防营养不良。
+**待办:** 无
+
+Come misurare il pH del terreno — idealista/news    Chi coltiva ortaggi, cura il prato o si dedica al giardinaggio ha bisogno di conoscere il pH del terreno. Capire come misurarlo aiuta a migliorare la crescita delle piante e a prevenire carenze nutrizionali spesso invisibili a occhio nudo. Dalle cartine tornasole agli strumenti elettronici, fino ai metodi fai‑da‑te, esistono diverse soluzioni per orientarsi.
+
+--------------------------------------------------------------------------------------
+
+---
