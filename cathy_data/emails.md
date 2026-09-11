@@ -21069,3 +21069,14 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeDUxLMacK
 
 
 ---
+
+## [其他] Che succede 06/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-06T08:17:50.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 06/07/2026 — idealista/news     Crescono i prezzi delle case nel mercato immobiliare residenziale europeo. Secondo quanto rilevato dall’Eurostat, l’ufficio statistico dell’Unione europea, nel primo trimestre del 2026, i valori sono aumentati del 4,7% nell’area dell’euro e del 5,1% nell’Ue rispetto allo stesso trimestre dell’anno precedente. Nel quarto trimestre del 2025, sono aumentati del 5,1% nell’area dell’euro e del 5,4% nell’Ue. Rispetto al quarto trimestre del 2025, nel primo t
+
+---
