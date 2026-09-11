@@ -17115,3 +17115,15 @@ Alert - 附件： Transaction D...
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVESPQDlfzq6YmuyfmLralaVSEUL58ME22Judp4gUtB4wS5-2Fmec5YpBFSkKTg8chL4SnhC0a5gBe6hzGcjuoj4VzyGtDt0wrK4FUZD2MzztcmMKqBZo-2BX0m00oP-2Fs-2BU4Uaa-2BR62Ee2TwX3J1OoayE-2FZdCcV7vl9
 
 ---
+
+## [待办] Your scheduled task couldn’t be completed
+
+**发件人:** ChatGPT <noreply@tm.openai.com>
+**日期:** 2026-07-24T07:30:33.000Z
+**摘要:** 邮件通知用户计划中的任务无法完成，需检查原因并处理。
+**待办:** 检查任务失败原因并处理
+
+ Your scheduled task couldn't be completed 
+<https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGO4c5lMmYlBJrV82RPEeKOrzWadB4RAReKfrdGTKKfc55tBN3l9ypPN-2BWxz1jlBrAfqulDCLuWE9Q0Q8R4IUCdDmVt8JSY-2FnnsS6oVL0vbRGvh6N75EVjVjwsqQ7lCk7lCFO8xyQf-2FDWSlvsYxK4CLAJrRfNPxOrpSuLPvpfIvIqDcLQRYkDv9SN3fjsaHk9QvVmsjzSKcGk-2FTDfO0bedv07KAjtYkQ1Gt3KMZETg4bDCQMU0kSBL0CpTTe1zyozP-2BAdx-2B9byi0QKaWPufrs4qKEyobXNZSLs8zuVNYIrbZhEHdqDaA1bVFo8p3nmr0GBfVPbM25dsRA-2FF13CBUkuaMRL1_-2F-2FN5zRB
+
+---
