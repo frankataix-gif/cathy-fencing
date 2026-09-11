@@ -24113,3 +24113,16 @@ Road trip e itinerari italiani in famiglia — idealista/news
 
 
 ---
+
+## [其他] Che succede 11/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-11T07:51:24.000Z
+**摘要:** 邮件内容涉及搬新家时燃气等服务的处理流程，以及欧洲央行加息和油价下跌的新闻资讯。
+**待办:** 无
+
+Che succede 11/06/2026 — idealista/news          Quando ci si trasferisce in una nuova casa, uno dei primi passi fondamentali riguarda la gestione delle utenze e la riattivazione del contatore del gas per rimettere in funzione limpianto. Se il dispositivo è stato chiuso regolarmente dal precedente inquilino, basta contattare un fornitore e richiedere un subentro, unoperazione che costa mediamente 50 euro e richiede circa 10-12 giorni lavorativi per lintervento del tecnico
+
+La Banca Centrale Euro
+
+---
