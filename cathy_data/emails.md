@@ -22543,3 +22543,29 @@ Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MjB9ADIAAAAAAOtDXuJIRpYrWSv2sRhxhoi7YVE-x57aNDeV2ML1bO61jjCC_S8xs7lRUXFWUdn1OIf7u0sFC03WOfwq
 
 ---
+
+## [其他] Yatri: U.S. DoS Visa Application Confirmation (Action Required)
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-06-26T23:14:48.000Z
+**摘要:** 
+**待办:** 无
+
+You have successfully scheduled an appointment for your U.S.
+Nonimmigrant Visa application.
+
+Please verify your appointment details, shown below.
+
+We Value Your Opinion!
+Please complete a short survey and let us know how we are doing:
+
+Take Customer Satisfaction Survey 
+( https://www.research.net/r/GSSApplicantSurvey )
+
+Thank you for your feedback!
+
+*****************************************************
+GDIT/United States DoS Nonimmigrant Visa Instructions
+*************************
+
+---
