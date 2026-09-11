@@ -1665,3 +1665,33 @@ Cosa fare a Pasquetta 2026 in Italia — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [营销] How was your Hertz rental experience?
+
+**发件人:** Hertz <feedback@hertzlistens.com>
+**日期:** 2026-04-03T20:09:10.000Z
+**摘要:** Hertz邀请Jingqi评价最近的租车体验，并希望了解服务满意度以改进服务。
+**待办:** 无
+
+
+
+Hi Jingqi,
+
+Thank you for your recent rental.
+
+We are in the business of creating lifelong customers and we want to know how
+we delivered against your expectations during your recent rental.
+
+Please take a few minutes and let us know how we did. We’re listening and
+want to hear about your experience to make our experience better!
+
+
+
+Simply respond to the question below to get started.
+
+Based on your recent rental experience, how likely are you to recommend Hertz
+to others?
+
+
+
+---
