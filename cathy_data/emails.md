@@ -10213,3 +10213,28 @@ click the 'Contact us' link below. We respect your privacy and will not
 provide your personal information to other parti
 
 ---
+
+## [待办] Reset your My TELUS password
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:16.000Z
+**摘要:** 提醒用户重置My TELUS账户密码，并提供重置链接和联系方式。
+**待办:** 重置My TELUS账户密码
+
+ 
+[image: TELUS] <http://www.telus.com> 
+
+Hi TELUS, 
+Let's get you back in your My TELUS account. 
+
+Here's the email/username you’ll need to log in: 
+nataliewu100@gmail.com 
+
+Reset your password here: (optional) 
+
+[image: Reset my password] 
+<https://identity.telus.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=telus&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=2fe7c7c8-575f-44de-9858-69ead141a9aceb0777c3-bef7-4d41-928d-a569c7e5fa40&CMP=EmlBtnFgPwReset> 
+
+If yo
+
+---
