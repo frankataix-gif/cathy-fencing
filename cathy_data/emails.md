@@ -2438,3 +2438,14 @@ Thanks for signing up to Spotify. Confirm your email now to activate your accoun
 Confirm email ( https://www.spotify.com/email-verification/?t=MTo2NmY0NTcyYy1mMTRjLTNjNDktYTZlZS01NTM2OWJiNWFmMGI6YWFmNWNmODktNzQwZC0zZGJlLTkyNTYtZWJlZmZmMT
 
 ---
+
+## [其他] Verify your e-mail address
+
+**发件人:** noreply@guest.sacbo.it
+**日期:** 2026-03-21T17:34:58.000Z
+**摘要:** 需要验证邮箱地址以激活账户
+**待办:** 点击链接验证邮箱地址
+
+Visit this link to verify your account and start surfing:
+
+---
