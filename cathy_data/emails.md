@@ -3483,3 +3483,29 @@ girls. It was a big challenge for her, but she handled it so well.
 Since she’s now part of ASM, she’s alr
 
 ---
+
+## [其他] Vaša porudžbina je isporučena: OSH PLOV 28.02.2026
+
+**发件人:** Wolt <info@wolt.com>
+**日期:** 2026-02-28T19:25:02.000Z
+**摘要:** 订单已送达，金额为1800瑞尔，订单号69a33a32d40005258be4ce49，日期为2026年2月28日。
+**待办:** 无
+
+ 
+
+Hvala na porudžbini, natalie!
+
+Račun:
+
+OSH PLOV
+
+фебруар 28, 2026, 20:23 
+
+ID porudžbine: 69a33a32d40005258be4ce49
+Ukupno RSD ‎1.800,00 
+****2813 ‎1.517,00 
+Popust ‎283,00 
+Podaci u vezi sa tvojom porudžbinom su prilogu imejla. Ako imate druga 
+pitanja, molimo kontaktirajte podršku 
+
+---
