@@ -737,3 +737,29 @@ Please note if the answer to your question can be found below, you will not rece
 NON-CANADIANS: The Consular Section of the Embassy of Canada in Rome CANNOT respond to questions on Electronic Travel Authorization (eTA), or visa/immigration matters. For informati
 
 ---
+
+## [其他] Appointment Request: Submission of Application Materials - wu jingqi and He yunxi - April 22nd
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-04-21T10:24:04.000Z
+**摘要:** 请求预约提交加拿大访客签证申请材料，时间为4月22日早上。
+**待办:** 无
+
+Dear Consular Section,
+
+I am writing to formally request an appointment to submit my application
+materials for
+
+Submission of application materials for a Canadian Visitor Visa
+
+I will be traveling to Rome specifically for this matter and would like to
+request a time slot for tomorrow morning, Wednesday, April 22nd. If
+possible, I would prefer an appointment between 9:30 AM and 11:30 AM.
+
+Please find my personal details below for your records:
+
+• Full Name: Wu jungqi and He yunxi
+
+
+
+---
