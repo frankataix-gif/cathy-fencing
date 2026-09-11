@@ -15396,3 +15396,34 @@ This purchase was initiated from Canada.
 If you made this purchase, or have reset your Apple Account password since your last purchase, you may disr
 
 ---
+
+## [其他] Your Subscription is Confirmed
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-03T21:26:32.000Z
+**摘要:** 这封邮件确认Natalie接受了Spark Pro年度订阅，包含AI邮件助手功能，订阅将自动续费且试用期为1周。
+**待办:** 无
+
+ 
+
+[image: Apple] Subscription Confirmed 
+ 
+  
+  
+[image: Spark Pro Annual] [image: Spark Pro Annual] 
+Advanced Email Productivity   
+  
+  
+Dear Natalie, 
+  
+You have accepted the following offer: 
+  
+*App* Spark Mail: AI Email Assistant 
+<https://apps.apple.com/zm/app/id997102246> 
+*Subscription* Spark Pro Annual 
+*Content Provider* Readdle Technologies Limited 
+*Date Accepted * 03 August 2026 
+*Trial* Free for 1 week, starting 03 August 2026 
+*Renewal Price* US$229.00/year, starting 10 August 
+
+---
