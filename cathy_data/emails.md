@@ -8376,3 +8376,15 @@ The pieces worth building around.
 ͏‌  ͏‌  ͏‌  ͏‌ 
 
 ---
+
+## [营销] 9.9狂賞開搶！一口價機票、酒店 HK$99 起😱
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-09T02:12:38.000Z
+**摘要:** Trip.com 发起9.9促销活动，提供特价机票和酒店，今日内下单享15%回赠。
+**待办:** 无
+
+12PM即搶台北 HK$99＋東京 HK$999 機票，今日內落單即享 15% 回贈💰
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101542361-1788919957298.528%26ouid%3D500075.HK-20260909-edm-mega.2026-09-09_8_0.20260909.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D500075.HK-20260909-edm-mega.2026-09-09_8_0.20260909.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDIzN
+
+---
