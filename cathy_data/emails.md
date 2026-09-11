@@ -9813,3 +9813,24 @@ gear.
 lu
 
 ---
+
+## [其他] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-03T23:36:30.000Z
+**摘要:** TELUS通知用户号码***-***-5899已连接至美国漫游网络，提醒注意漫游费用或查看短信获取套餐详情。
+**待办:** 无
+
+ TELUS 
+[image: TELUS Logo] 
+Hello,
+Looks like ***-***-5899 has connected to a roaming network in USA.
+Just so you know, if they have a roaming package that covers this 
+destination, their usage will be billed at the rates of that package. 
+Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts 
+$0.75/MSG (1 message = 160 characters) (max. 160 characters each). All 
+incoming texts are free.
+***-***-5899 will also receive a text message outlining their active 
+roaming package
+
+---
