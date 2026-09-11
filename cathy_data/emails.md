@@ -20080,3 +20080,26 @@ Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADIAAAAAARNCVmSuSZfyCAF-tJQQkYoDfg-IOuZMba6RcAkatXKWOtSXtwzG2vWBJlcluCulDf9T4Jnx-roNubSp
 
 ---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-07-10T09:11:19.000Z
+**摘要:** 银行通知支付确认请求，附有支付证明。
+**待办:** 无
+
+ 
+
+[image: FCBLOGO] 
+
+*Dear Beneficiary,*
+
+Our Customer has requested that we provide you with the attached Proof of 
+Payment. 
+
+Regards, 
+
+*First Capital Bank* 
+
+
+---
