@@ -2332,3 +2332,17 @@ Inizio messaggio inoltrato:
 > Team iliad
 
 ---
+
+## [其他] 与您分享的记事：“【订阅用】线上信用卡，每个月自动扣款；”
+
+**发件人:** "he frank (via Google Keep)" <keep-shares-dm-noreply@google.com>
+**日期:** 2026-03-24T10:59:29.000Z
+**摘要:** Frank通过Google Keep分享了一条关于线上信用卡自动扣款的记事，并附有链接。
+**待办:** 无
+
+he (frankataix@gmail.com) 与您共享了一条记事。
+
+https://keep.google.com/share?note=11YKa0eeixCBf8B9XDOL2EqLA2jFUE7YAsQANI0E4R6HTwu91tSI-xzhhDuom_cE&email=nataliewu100@gmail.com&tid=true
+
+
+---
