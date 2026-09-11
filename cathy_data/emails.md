@@ -16514,3 +16514,40 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
 
 ---
+
+## [其他] 您与“Spark”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-07-26T00:13:09.000Z
+**摘要:** 这封邮件通知用户于7月25日使用Google账号登录了“Spark”并共享了个人信息，但目前无需采取任何措施。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 7月25日17:13 使用 Google 账号登录了 
+“<https://c.gle/AKMee0c141SuJhBhoAzkddngIsC95qEXIZAVFlwjwIwr9HRA3PDE_zFzplIzzOqexo24OZCqGoZx2IQXfqeAOYyONKw4XJFn9d4h7Oqoq5TDzr-xxmGNag>Spark”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 7月25日17:13 使用 Google 账号登录了 
+“<https://c.gle/AKMee0c141SuJhBhoAzkddngIsC95qEXIZAVFl
+
+---
