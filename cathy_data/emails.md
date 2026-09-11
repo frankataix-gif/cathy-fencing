@@ -24282,3 +24282,20 @@ Che succede 10/06/2026 — idealista/news                "Per unopera così cost
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015220365-1781050912917.449%26ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D429613.HK-20260610-edm-BTSconcert.2026-06-10_8_0.20260610.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
 
 ---
+
+## [营销] La tua ricevuta elettronica
+
+**发件人:** Calvin Klein <store@mailing.calvinklein.com>
+**日期:** 2026-06-09T14:38:01.000Z
+**摘要:** 这封邮件是Calvin Klein的购物确认邮件，包含购买感谢和相关产品链接。
+**待办:** 无
+
+ Calvin Klein 
+Grazie per l’acquisto.
+Se hai problemi a visualizzare le immagini, fail clic qui 
+<https://view.mailing.calvinklein.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9AAYAAAAAAduicVLACbJ-ySjNAPAd5ohI3L6DL69hqO9A_bfGYO6o5tYJiErzhN1BvXB4iAjTIhHbmqNioTZFzwjtlGwoE1YU3rkQY9LiZ9t0XgtgWfg-skYjV5R2CkxPH_sAdzQ8056WgPtDh3Nw>. 
+
+[image: Calvin Klein] 
+<https://click.mailing.calvinklein.com/?qs=ABB7InYiOjEsImQiOjQ5MDJ9AAYAAAAAAduicVLBWRZFCkq9LNrmFGOFXFu9zwcmd39R7M1WlJBnw7GO431lq55veysIf0LbPIKwCO9Kk5AZ8EvL_rS_r1
+
+---
