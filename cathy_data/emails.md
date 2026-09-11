@@ -26080,3 +26080,28 @@ Ecco un riepilogo dei prossimi passi:
 Che succede 20/05/2026 — idealista/news                    Durante un’intervista a Rete4, Il viceministro dell’economia Maurizio Leo è intervenuto sulla questione del caro carburanti. “Sulle accise sui carburanti, ha detto Leo, adesso abbiamo fatto un intervento sino al 21 maggio ora dobbiamo intervenire per lulteriore spazio dal 22 in poi”. Inoltre il viceministro ha precisato che “il governo sta restituendo lextraprofitto IVA "perché nel momento in cui noi monitoriamo quello che è successo nel
 
 ---
+
+## [营销] SUNNY DAYS | Fino al -50% ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-20T07:32:35.000Z
+**摘要:** 这封邮件是Oltre的夏季促销广告，提供最高50%的折扣及免费取货和退货服务，并宣布新品到货。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODJ9ADIAAAAAAHNuGI-3zcKBENERb9DDjBjxmCxhXNwN2kCltUt_vbNWrwlYiqFD_8bwfGZrCK5Yc0e3pZ-LfD0OvmmX7poajIhXwX2AyXB5Q3jahNsh 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODJ9ADIAAAAAAHNuGI-4aEIcRexyi2k_ruxb5hxYtuFCHt-qUjdGEzHnDQ6GmvYzG9_LudSReTp3MuERw1lq3F_AJXP4no3p351LeyrBiRVsVPnrkXgk 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODJ9ADIAA
+
+---
