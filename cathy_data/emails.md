@@ -19224,3 +19224,15 @@ If clicking the link does not work, you can highlight and copy the entire line a
 ͏‌
 
 ---
+
+## [营销] 全新‼️三亞旅行減 HK$500 🏖️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-15T00:44:35.000Z
+**摘要:** Trip.com推送三亚旅行限时优惠，减500港币，包含机票优惠。
+**待办:** 无
+
+內地專家帶你飛🌟即拎限時夏日熱辣辣優惠🔥
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154155169-1784076274552.761%26ouid%3D457235.HK-20260715-EDM-CNFlightTravel.2026-07-15_8_0.20260715.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D457235.HK-20260715-EDM-CNFlightTravel.2026-07-15_8_0.20260715.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE1N
+
+---
