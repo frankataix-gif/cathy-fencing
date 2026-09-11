@@ -21435,3 +21435,44 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjd9ADIAA
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101541960-1783124594721.592%26ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448464.HK-20260704-EDM-77mega.2026-07-04_8_0.20260704.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDE
 
 ---
+
+## [其他] ⚠️ 您的 Gmail 存储空间已使用 91%
+
+**发件人:** Google <google-noreply@google.com>
+**日期:** 2026-07-03T21:50:08.000Z
+**摘要:** 
+**待办:** 无
+
+请获取更多存储空间或清理空间
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+
+
+
+您的 Gmail 存储空间已使用 91‍%
+
+
+
+已用 13.65 GB 15 GB
+
+
+
+您的 Google 云端硬盘、Gmail 和 Google 相册共用 15 GB Google 账号存储空间，您 
+已使用 13.65 GB。存储空间用尽后，您将无法：
+
+
+
+使用 Gmail 收发电子邮件
+
+
+
+
+将新的照片和视频备份到 Google 相册
+
+
+
+
+将新的文件上传到 Google 云端硬盘
+
+---
