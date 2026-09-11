@@ -21069,3 +21069,217 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6Q9VXeDUxLMacK
 
 
 ---
+
+## [其他] Che succede 06/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-06T08:17:50.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 06/07/2026 — idealista/news     Crescono i prezzi delle case nel mercato immobiliare residenziale europeo. Secondo quanto rilevato dall’Eurostat, l’ufficio statistico dell’Unione europea, nel primo trimestre del 2026, i valori sono aumentati del 4,7% nell’area dell’euro e del 5,1% nell’Ue rispetto allo stesso trimestre dell’anno precedente. Nel quarto trimestre del 2025, sono aumentati del 5,1% nell’area dell’euro e del 5,4% nell’Ue. Rispetto al quarto trimestre del 2025, nel primo t
+
+---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-06T07:27:05.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+VE9DRCHQ
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
+
+## [其他] All denim BOGO 50% off + ur voucher
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-06T00:07:45.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ We made these jeans for you.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw2w6oS6tr32XgtI1dyl6ZTs4ai7tPXJu27CYKqSP8esuJ-fFTsmvtrXmniizPY6eZUmJj38N6jBrp9817RvLWX4Q3UBwPc8z1hKw 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjl9AAcAAAAAA6BTxhw374wvj3h8HX2bC231dsYAm5snXaBeHeSEbGkEcbwqj8pB8aw74kLtsj8Ja5cVQrn4lViBYCDG9XN6YMRl9-BvhAiqnjVlTE7I1IcodhU 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+---
+
+## [其他] 暑假狂賞倒數🥳即睇6大必搶優惠👉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-05T23:25:02.000Z
+**摘要:** 
+**待办:** 无
+
+激搶 HK$799 來回機票＋大量半價起優惠碼/旅行團/門票💥先參加2大回贈賺 HK$148💰
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015411192-1783293901482.419%26ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448492.HK-20260706-eDM-77mega.2026-07-06_8_0.20260706.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
+
+## [其他] Natalie, see handpicked deals for you.
+
+**发件人:** DoorDash <no-reply@messages.doordash.com>
+**日期:** 2026-07-05T16:48:44.000Z
+**摘要:** 
+**待办:** 无
+
+Limited-time savings you’ll love—shop while they last.Summer of
+DashPass is here! Through ‌7/22‌, enjoy exclusive deals, rewards
+that help fuel your soccer fandom, and more!
+
+Summer of DashPass ( 
+) Explore more → (  )
+Start your 30-day free trial and unlock exclusive deals, rewards
+that help fuel your soccer fandom, and more! Terms apply.
+
+Summer of DashPass 
+( https://trackbz.doordash.com/f/a/Dh3d2Gl63_WjL1T6E6niwg~~/AAQRxRA~/___IYnIJjxSqgitN2TgNVExn8Ux6kmWbnP-eB1h20CSl8pVJqokvkAVW4FJJVfa5J-gj
+
+---
+
+## [其他] Last chance: Up to 50% off everything ends at midnight
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-07-05T14:23:03.000Z
+**摘要:** 
+**待办:** 无
+
+Make the most of it.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
+
+## [其他] 搶 HK$799 一口價機票🤩🎉
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-05T10:37:57.000Z
+**摘要:** 
+**待办:** 无
+
+香港國際機場 T2 開幕 + 生日優惠大放送❤️‍🔥香港航空熱門航線低至 88 折✈️立即體驗全新客運大樓🥳👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1014717156-1783247877066.633%26ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D448191.HK-20260705-EDM-HKIA.2026-07-05_8_0.20260705.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMz
+
+---
+
+## [其他] Saldi fino al -50% + EXTRA -20% sul terzo capo meno caro 💖
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-07-05T07:29:39.000Z
+**摘要:** 
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9ADIAAAAAAQMuup9ZZhO7wkgC7ZKkI8sWKwVCDEc1GEd9GMb8b0KUdMQo49vXFLbJQWqyYnL8JINAxf_M6mJr8GGHcfp3DvJlqx2zC9EW5l_lf0ko5w 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9ADIAAAAAAQMuup9a3pS-wce5VEkU1gSSFSjHYJnEyrQFFRViS7x1M4MWdP_05cmFx4GWKFw8BckspqmEztd1lSiufWHl_j1YaxFORTzLrLT6Kpd82g 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9A
+
+---
+
+## [其他] Never enough 2 for $30 tops
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-05T01:06:24.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ Tees, tanks and more.
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9AAcAAAAAA5ZGjQyw0qlaMF870qZjirLkmaooab-tvhwIN_-Havj0Su2a0F-idGUK2MVTwj2E-UaQUAHLGP00rAf2kvVxruFyMuyOzxeATOvIQx_abA 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5Mjh9AAcAAAAAA5ZGjQyxb7TtdVhLFYoI1rmnVwGb5Gi8FepjGOca9pSqpcv8obEd372eOOBOC1tu6yT0IVuJ3Bo8nhS7gomD4IHFj2N6oYoZTSMo6-AhMEGvoiQ 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+h
+
+---
