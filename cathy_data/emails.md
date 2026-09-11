@@ -26159,3 +26159,39 @@ Cathy’s mom
 
 
 ---
+
+## [其他] Che succede 18/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-18T08:48:06.000Z
+**摘要:** 政府重新引入承认合同到期工人欠薪的法规，劳动部次长提出修正案恢复原规定。
+**待办:** 无
+
+Che succede 18/05/2026 — idealista/news                      Il governo ci ripensa e reintroduce la norma che riconosce gli arretrati ai lavoratori con contratti scaduti. Nella fase di conversione del decreto sul giusto salario alla Camera, verrà infatti presentato un emendamento che ristabilisce la prima versione del testo, poi modificato prima della promulgazione del decreto. L’iniziativa è stata presa dal sottosegretario al Lavoro Claudio Durigon che già aveva puntato a quella disposizione in
+
+---
+
+## [营销] ITALIAN-CHIC CLUB ✨
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-18T07:14:11.000Z
+**摘要:** Oltre Newsletter推送意大利时尚俱乐部促销信息，包含免费门店取货、免费退换货及新到货服装系列链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODB9ADIAAAAAAGpfoaziy4lzAgaf7B_z3FnC-ASTMO-4KcbeLh7CvfNE6r2egIqFdJKMSG-LorrHkVItp-VmqXgLhCnlUHPlRscZrK7wcvDaHX0gHG7j 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODB9ADIAAAAAAGpfoazjAvfMbrfMA36v6glzYH00eiHVnT7pLa-eKJcBkO93V8UNtrzM5mdJKt2f6I5ooaAm9Af_9CI4xh3cei5LEf4tMYdnya8lSGxS 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4ODB9ADIAA
+
+---
