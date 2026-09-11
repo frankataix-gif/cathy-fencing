@@ -12240,3 +12240,21 @@ Don’t miss out on app-exclusive drops and deals.
 <https://app.sephora.com/T/v61000001a033e90d68c230326e96c660f0/19bda47c219344e70000021ef3a0bcc2/1
 
 ---
+
+## [营销] From analysis to execution
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-24T06:07:24.000Z
+**摘要:** 介绍如何利用TradingView设置交易警报、跟踪新闻及实践交易的教程。
+**待办:** 无
+
+ From analysis to execution 
+See how to set alerts, track news, and practice trading. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+
+---
