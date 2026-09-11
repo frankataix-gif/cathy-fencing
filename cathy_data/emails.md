@@ -22840,3 +22840,36 @@ Google 云端硬盘和设备备份已停止运行。您的 Gmail 也将在 22 �
                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 ---
+
+## [其他] Welcome to T-Mobile!
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-06-25T00:09:24.000Z
+**摘要:** 
+**待办:** 无
+
+ Welcome to T‑Mobile 
+Welcome to T‑Mobile
+[image: T-Mobile] 
+Welcome to T‑Mobile 
+Hi  ,
+
+Your phone number 3107095128 has been successfully set up.
+
+If you have questions, please visit us at https://my.t-mobile.com/home for 
+more information.
+
+Very best,
+Your T‑Mobile Team 
+Your Account Info 
+New 
+line 3107095128 
+Thanks for being a T‑Mobile customer! 
+[image: The T-Mobile logo in magenta color] 
+[image: The T-Mobile logo in magenta color] 
+
+THIS IS AN AUTOMATED EMAIL. PLEASE DO NOT REPLY.
+
+T‑Mo
+
+---
