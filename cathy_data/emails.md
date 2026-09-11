@@ -402,3 +402,16 @@ Plus, this week’s top-rated styles.
 <https://e.em.hollisterco.com/c2/1979:69e90837ef7267f29705b4e0:ot:69e6429a87fa4e894f0fac35:1/5f8a96b9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3NzcyNzIwNzcsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllOTBjYTBiODEzZGQ5MTFmMDVkMjdlIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1
 
 ---
+
+## [其他] Salone del Mobile e Fuorisalone: tutto il meglio dell'edizione 2026
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-25T17:01:04.000Z
+**摘要:** 邮件介绍2026年米兰家具展及外围活动，提及1900家参展商和设计周的亮点。
+**待办:** 无
+
+Salone del Mobile e Fuorisalone: tutto il meglio delledizione 2026 — idealista/news    Con 1900 espositori l’edizione 2026 del Salone del Mobile si conferma l’appuntamento da non mancare nell’ambito del design. Milano nella Design Week diventa inoltre una città nella città con le installazioni del Fuorisalone. idealista/news vi guida in un tour alla scoperta delle novità del Salone e Fuorisalone 2026.
+
+----------------------------------------------------------------------------------------------
+
+---
