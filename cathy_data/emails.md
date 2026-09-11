@@ -20985,3 +20985,30 @@ Summer of DashPass
 ( https://trackbz.doordash.com/f/a/d1H9BWZ4a9vgzqD8uUfzgA~~/AAQRxRA~/YDhGj8RkQ8J0oALg8IqFdPzMiLOtYzi4fdMPvSo1XLubT0wIF59ucOR3iGGeYmDYH0LXN5QAR
 
 ---
+
+## [其他] Our 2027/2028 Application is Officially Open!
+
+**发件人:** HTS Admissions Office <info+hts@fsenrollment.com>
+**日期:** 2026-07-06T20:10:43.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+
+Dear Xiaojun and Jingqi,
+
+We hope you are enjoying a wonderful summer!
+
+We are thrilled to announce that our application for the 2027-2028 school 
+year is now live. Since Yunxi's application for the 2026–2027 school year 
+could not proceed beyond the initial review, we invite you to reapply for 
+September 2027.
+
+To support you in this process, we are pleased to offer a one-time 
+application fee waiver for families who reapply by *September 1, 2026*.
+
+*Ready to get started?*
+
+Simply log in to 
+
+---
