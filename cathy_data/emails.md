@@ -16082,3 +16082,22 @@ Please do not reply to this email.
   ­ ͏
 
 ---
+
+## [学校] Meadowridge School - He Student #348801 - 2026-2027 JF insurance student medical documents
+
+**发件人:** Dave Polmanter <dave.polmanter@meadowridge.bc.ca>
+**日期:** 2026-07-29T16:46:56.000Z
+**摘要:** 邮件附件包含Cathy 2026-2027学年 mandatory medical insurance 文件，补充国际学生健康费用，并提供相关链接和联系方式。
+**待办:** 无
+
+Mr. Xiaojun He & Mrs. JingQi Wu,
+
+I hope you and your family are all doing well and excited for the upcoming school year. 
+
+Please find attached your documents regarding Cathy's 2026-2027 mandatory medical insurance through JF insurance as part of the Tuition International Fee.
+
+This insurance supplements the mandatory International Student Health Fee (ISHF) *formerly known as MSP that you should already have in place.  
+
+Information regarding ISHF can be found on the BC government websi
+
+---
