@@ -15769,3 +15769,21 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tfd974aea,40
 Your new Internet plan
 
 ---
+
+## [营销] STARTS TODAY: the Beauty Insider Celebration 🥳
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-01T13:15:34.000Z
+**摘要:** Sephora推出Beauty Insider促销活动，可使用250积分兑换5美元优惠，还有其他专属奖励，具体条款请见邮件。
+**待办:** 无
+
+ Sephora 
+
+Get $5 off using Beauty Insider Cash when you redeem 250 points at 
+checkout, exclusive rewards, and more. Exclusions apply. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.
+
+---
