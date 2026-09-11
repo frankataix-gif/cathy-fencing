@@ -14421,3 +14421,20 @@ Please do not reply to this email.
 
 
 ---
+
+## [其他] We’ve updated our Terms & Conditions and Privacy Notices.
+
+**发件人:** T-Mobile <donotreply@system.t-mobile.com>
+**日期:** 2026-08-10T18:35:09.000Z
+**摘要:** T-Mobile更新了服务条款和隐私政策，用户需确认同意以继续使用服务。
+**待办:** 无
+
+We've updated our Terms & Conditions and Privacy Notices. 
+We've updated our Terms & Conditions and Privacy Notices.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: T-Mobile] 
+[image: T-Mobile]
+We've updated our Terms & Conditions an
+
+---
