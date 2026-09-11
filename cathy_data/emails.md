@@ -25171,3 +25171,23 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9ADIAA
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154117249-1780273503678.220%26ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D422291.HK-20260601-EDM-66SuperSale.2026-06-01_8_0.20260601.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsa
 
 ---
+
+## [其他] 您的境外租车订单已确认，请打印电子提车凭证！- 订单号：1008974800
+
+**发件人:** "租租车" <booking@email.zuzuche.com>
+**日期:** 2026-05-31T22:03:21.000Z
+**摘要:** 您的境外租车订单已确认，需打印电子提车凭证。
+**待办:** 打印电子提车凭证
+
+ 订单确认邮件 
+<http://w.zuzuche.com> 3000万人都在用的出境租车APP 
+订单已确认！ 
+尊敬的武晶琦，您的境外租车订单已确认！ 
+租租车订单号：1008974800 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL29yZGVyLnBocD9vcmRlcl9pZD0xMDA4OTc0ODAwJmhhc2g9NWZkNWM2M2Y0M2UzNWNmNTQ3ZmRkNmIxYThjYjA0ZGMwOTk%3D&token=999aab3a54c7e753536e46e57d985bc3&channel=email_confirm&key=order> 
+提车确认号：1203050507 
+
+打印/下载提车单 
+<http://w.zuzuche.com/jump.php?url=aHR0cHM6Ly93Lnp1enVjaGUuY29tL3ZvdWNoZXIucGhwP29yZGVyX2lkPTEwMDg5NzQ4MDAmaGFzaD01ZmQ1YzYzZjQzZTM1Y2Y1ND
+
+---
