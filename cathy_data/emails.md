@@ -3678,3 +3678,20 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=natali
 
 ---
+
+## [击剑] he frank added you to the shared calendar "Cathy's Fencing "
+
+**发件人:** he frank <frankataix@gmail.com>
+**日期:** 2026-02-09T15:40:12.000Z
+**摘要:** 发件人将您添加到共享日历‘Cathy's Fencing’，可查看所有活动详情。
+**待办:** 无
+
+he frank shared a calendar\n\nhe frank <frankataix@gmail.com> has added you  
+to the shared calendar: "Cathy's Fencing ". You can see all event details  
+on this calendar.\n\nYou can manage notifications or unsubscribe from this  
+calendar in calendar settings:  
+https://calendar.google.com/calendar/r/settings/calendar/ZnJhbmthdGFpeEBnbWFpbC5jb20?ctok=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ&es=2.\n\nTo  
+open Calendar click  
+https://calendar.google.com/calendar/?ctok=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ
+
+---
