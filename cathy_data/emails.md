@@ -22190,3 +22190,33 @@ $0.19
 CA SPECIAL TAX - LOS ANGELES
 
 ---
+
+## [其他] Receipt for order 27894658
+
+**发件人:** Vuori Clothing <support@vuori.com>
+**日期:** 2026-06-29T22:10:38.000Z
+**摘要:** 
+**待办:** 无
+
+Thank you for your purchase!
+
+Free ground shipping over $75 | Free returns on
+eligible items
+
+Men 
+( https://checkout.vuoriclothing.com/collections/new?syclid=d7c1af93-c5a2-4e21-b840-47e6121a6b3f )
+
+
+Vuori Clothing 
+( https://checkout.vuoriclothing.com?syclid=faa06358-29fa-41b8-a7dc-d6c0176e5a2f )
+
+
+Women 
+( https://checkout.vuoriclothing.com/collections/womens-new?syclid=806fa0d0-1665-4994-90ee-c872e1f80209 )
+
+
+Thank You For Shopping At The Century City
+
+Thank you for shoppin
+
+---
