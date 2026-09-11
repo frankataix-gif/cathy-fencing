@@ -12142,3 +12142,62 @@ Sincerely,
 The TELUS team
 
 ---
+
+## [其他] 您与“buntinglabs.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-24T23:42:31.000Z
+**摘要:** 用户使用Google账号登录了buntinglabs.com，分享了姓名和邮箱信息，但无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月24日16:42 使用 Google 账号登录了 
+“buntinglabs.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月24日16:42 使用 Google 账号登录了 
+“buntinglabs.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+<!--[if false]><!-->
+
+
+“buntinglabs.com”收到了以下个人资料信息
+
+
+
+natalie
+
+姓名和个人资料照片
+
+
+
+nataliewu100@gmail.com
+
+邮箱
+
+
+
+
+---
