@@ -12849,3 +12849,30 @@ Payment methods accepted: Cheque, Visa, Mastercard or Amex.
 Please ensure payment is completed by t
 
 ---
+
+## [其他] New at the office
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-08-20T13:59:54.000Z
+**摘要:** 邮件主题为'New at the office'，但正文内容不明确
+**待办:** 无
+
+Featuring Aritzia Muse, Lara Worthington.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌ 
+
+---
