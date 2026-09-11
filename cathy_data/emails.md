@@ -16200,3 +16200,15 @@ Allll your fave brands are here.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154116211-1785284714583.786%26ouid%3D467434.HK-20260729-edm-airlinebr.2026-07-29_8_0.20260729.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D467434.HK-20260729-edm-airlinebr.2026-07-29_8_0.20260729.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDExN
 
 ---
+
+## [营销] Risparmi extra sui saldi
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-07-28T18:00:47.000Z
+**摘要:** 关于折扣的额外优惠信息
+**待办:** 无
+
+
+
+
+---
