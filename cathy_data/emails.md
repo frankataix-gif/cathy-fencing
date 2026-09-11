@@ -26641,3 +26641,28 @@ Che succede 07/05/2026 — idealista/news
 ***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] Un'estate di abiti con Francesca Chillemi ✨
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-07T08:26:02.000Z
+**摘要:** 这封邮件介绍了Francesca Chillemi的夏日服装系列，包含免费取货、退货服务及新品上架信息。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njl9ADIAAAAAAEv0DlkDWTUr6BqC2uA52yrXENp0094h7U29F1k5uILbGiNH9DvBMy-si03cJ0HA-RRId50ZGS1qo6qB88ct286XSxG1FIBP0wJ7Tw 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njl9ADIAAAAAAEv0DlkEACnwOm3FzTuCH5N-a_TNcJ_NiCAYFrrukGRHBuTIkCVWyMF3Bt3OzQwdJOvb28ECiXyExsNDsjgxOWOyl6AAuU_xMcG5NQ 
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4Njl9ADIAAAAAA
+
+---
