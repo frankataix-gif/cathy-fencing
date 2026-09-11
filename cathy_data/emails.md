@@ -9170,3 +9170,18 @@ Your next action item: suiting.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [学校] Special Welcome from the Parent Guild (Grade 7)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-06T18:51:28.000Z
+**摘要:** 家长联盟向Grade 7家庭发出特别欢迎，强调家长参与的重要性并邀请志愿者参加活动。
+**待办:** 联系家长联盟报名志愿者
+
+Dear Grade 7 families,
+Special Welcome from the Parent Guild...
+All parents are welcome! We believe that parent involvement plays a key role in building a vibrant, strong school community, and we’re always looking for Parent Volunteers to help with various events and initiatives. Whether you can lend a hand for a few hours or a few minutes, your support makes a big impact.
+
+Welcome back! We hope you had a wonderful, restful summer filled with sunshine, laughter, and special moments with your
+
+---
