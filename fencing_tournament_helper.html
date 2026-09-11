@@ -2363,7 +2363,7 @@ function circuitLabel(c) {
     if (state.date !== today) {
       state = { date: today, summary: null, analyzedCount: 0 };
     }
-    const todayEmails = allEmails.filter(e => (e.date || '').slice(0, 10) === today);
+    const todayEmails = allEmails.filter(e => emailDateLocal(e.date) === today);
     const analyzed = state.analyzedCount || 0;
     const isUpToDate = analyzed >= todayEmails.length;
     if (state.summary && isUpToDate && !force) {
@@ -4394,7 +4394,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v23', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v24', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
