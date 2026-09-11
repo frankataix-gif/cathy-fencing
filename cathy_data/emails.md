@@ -2261,3 +2261,14 @@ My Rightmove
 Che succede 26/03/2026 — idealista/news     Larchitetta Teresa Sapey nata a Torino, ma da oltre trentanni in Spagna, un"italiana di Madrid" come lei stessa ama definirsi, accoglie idealista/news, con la spontaneità e il calore che trasmette anche nei suoi lavori, in un appartamento in una zona centrale della capitale spagnola,con una vista privilegiata sul parco del Retiro. In questa intervista racconta della sua poliedrica carriera e dei tanti progetti in giro per il mondo, svelando, allo stess
 
 ---
+
+## [其他] Che succede 25/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-25T10:46:29.000Z
+**摘要:** 邮件报道了石油市场在特朗普推文前后的交易波动情况，以及Cinecittà因新治理结构实现盈利的信息。
+**待办:** 无
+
+Che succede 25/03/2026 — idealista/news                   Circa 580 milioni di dollari sono stati scommessi lunedì sul mercato del petrolio, soltanto 15 minuti prima del post pubblicato dal presidente americano Donald Trump su Truth sui colloqui in corso con lIran per porre fine alla guerra: un annuncio sufficiente a far crollare i prezzi del greggio grazie al rinvio del minacciato attacco americano contro le infrastrutture energetiche di Teheran. Una ricostruzione del Financial Times, in base a
+
+---
