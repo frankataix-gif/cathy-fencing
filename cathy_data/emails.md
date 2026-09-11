@@ -22618,3 +22618,40 @@ Che succede 26/06/2026 — idealista/news         Per portare le spese di ristru
 <https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsC9Jp_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Pf-2FIpb1dKOS1PZp1Ig79rK234fr8oUCO70jo645nNvhs2Xyd-2BHAFnwEoNeogpMltRLfAr-2FALBQCxJF6dzcT2jUSChDPPm6Y4uZPnO1secfq2vhgnUv1aCxpG7upVpvmzxPPNziMaJVJjssY9bwWNYB4tej
 
 ---
+
+## [其他] Your extra 20% off sale reminder (!!)
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-06-26T01:10:06.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ The styles you've been eyeing are on sale
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTl9AAcAAAAAAzM58ZzWCggfzQvLF77Q7SFBX3B20weOBek5Sm9SfhbCbv75ywNlrEmh4YYteWk84j00NZVKDUyptp9vGjTANoF39AqrBiAiPsy-RtA 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MTl9AAcAAAAAAzM58ZzXjbng8M56P-dRptkMHQehehCoZfvJeismTduSVlgJ2pGJt638BLiHUNt2e8hKvZx4OvOtMRIT-W8N10hPA5nK65L_AYgXeA307vAz 
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+---
