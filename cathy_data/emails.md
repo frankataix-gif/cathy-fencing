@@ -18777,3 +18777,29 @@ Some updates, some intel, some fun.
 <https://app.sephora.com/T/v610000019f760628a0a64104f4bbe5be68/193fe150b7b749c50000021ef3a0bcc2/193fe150-b7b7-
 
 ---
+
+## [营销] Reminder: set up your My Best Buy password.
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-18T12:07:42.000Z
+**摘要:** 提醒设置My Best Buy账户密码以确保账户安全和购物体验。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+  
+ Reminder: set up your My Best Buy password.
+ 
+ Look back on your recent shopping trip.
+ 
+
+
+ 
+
+  
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
