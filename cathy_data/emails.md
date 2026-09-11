@@ -16842,3 +16842,32 @@ Netflix - Finish signing up - 内容摘要： Netflix 提示你还有几个步�
 <https://s.openai.com/ls/click?upn=u001.tLfC2L1UnNKHB0CLqEY5BDwbMw-2BmTy6yamB4ssl9gVGFSJwTuDIKGZLe8hWK90fKP6nL7hFEbmFltZYqmtyPQOo36O0EnyZAUUPFInHUCnABD4d3-2FYXQzZTixwubyM7Xif0U-2B9iRMmgA2WMHBRh4yDwzKvH7j4HDvx3HAEdL2fq0SuVtjbl98mE1mxVw-2FE6cTesf3R6ep4S-2
 
 ---
+
+## [待办] Netflix - Finish signing up
+
+**发件人:** Netflix <info@account.netflix.com>
+**日期:** 2026-07-24T20:30:31.000Z
+**摘要:** 需要完成Netflix注册的最后三步
+**待办:** 完成注册流程
+
+Three more steps and we'll do the rest.
+
+Three more steps and we'll do the rest.
+
+Finish Signing Up
+[https://netflix.com/tv?code=1678f8c1-a81a-4776-bf4d-7d1e0e40fec8&g=4d3e590e-5807-47b2-b0b5-78603c1de9fe&lkid=URL_SIGNUP&lnktrk=EVO]
+
+Sent from your device:
+
+Smart TV
+
+ 
+ 
+
+   Questions? Visit the Help Center
+   [https://help.netflix.com/help?g=4d3e590e-5807-47b2-b0b5-78603c1de9fe&lkid=URL_HELP_QUESTIONS&lnktrk=EVO]
+   
+   Netflix Services Canada ULC
+   1200 Waterfront Centre, 20
+
+---
