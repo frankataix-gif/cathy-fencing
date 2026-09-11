@@ -21949,3 +21949,16 @@ Register now
 <https://www.koodomobile.com/my-account/registration/assisted_product/validate_profile?parameter=init&serviceType=koodo&profileToken=07e9762d-ba28-4485-a1c5-199d6aded10b97281133-f15a-4397-b2de-51f639db24ac&lang=en&CMP=KMNew
 
 ---
+
+## [其他] Che succede 01/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-01T08:00:57.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 01/07/2026 — idealista/news     [ed editore di questa newsletter], da quando monitora il mercato nel 2012. La crescita è del 5,5% su base annua e del 2,4% sul mese precedente
+
+Da oggi sarà ufficialmente soppressa la storica franchigia doganale e introdotto il dazio previsto dall’Unione europea di 3 euro sui mini-pacchi - ovvero contenenti articoli per un valore inferiore a 150 euro - del commercio elettronico che provengono da Paesi terzi in Unione europea. Si tratta di una misura fo
+
+---
