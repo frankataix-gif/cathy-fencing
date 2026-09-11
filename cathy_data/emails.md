@@ -12726,3 +12726,15 @@ decisions.
 ͏ ‌     ­ 
 
 ---
+
+## [营销] 解鎖內地新玩法🍁搶 HK$1 火車及酒店券包
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-21T00:39:50.000Z
+**摘要:** Trip.com 推出内地旅游优惠，提供低价火车票和精选酒店半价套餐。
+**待办:** 无
+
+直飛內蒙/東北 HK$1,6XX 起，精選酒店半價！直達大自然慢活叉電🔋
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-101543441-1787272789920.362%26ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D484871.HK-20260821-edm-gochinaflighttraintravel.2026-08-21_8_0.20260821.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5
+
+---
