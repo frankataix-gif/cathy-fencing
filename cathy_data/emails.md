@@ -256,3 +256,31 @@ Newsletter 30/04/2026 — idealista/news     | Lunedì 27 Aprile 2026
 Che succede 30/04/2026 — idealista/news                   Il petrolio balza ai livelli più alti da almeno quattro anni mentre cresce il pessimismo su una rapida fine del conflitto in Medioriente. Il Brent ha toccato nella notte i 126,41 dollari al barile, per poi ripiegare agli attuali 123,81 (+4,9%) mentre il Wti sale del 2,3% a 109,35 dollari. Sui mercati si teme che gli Stati Uniti possano riprendere gli attacchi allIran, scatenando la risposta di Teheran e facendo ripiombare il Medioriente n
 
 ---
+
+## [营销] Il tuo buono da 40€ scade tra poco, non perderlo!
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-30T07:33:15.000Z
+**摘要:** 提醒用户40欧元优惠券即将过期，需尽快使用，并附有购物链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjJ9ADIAAAAAADbQ3rz6ibdr6tPZgsneVSC5SuK1ZHURZ4Cmkc8b8nTLNACrE1MZQ6CNzBWYZLRItg9PB1xe5qGhXiBfMD4nzlv7XpwDyzE1gf2b-Rs 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjJ9ADIAAAAAADbQ3rz7zKVgqCZ_UrkwjNTgxYsPqzI-GApVpOHrb7X8e-Fq-JTgxSMVH9jolYQN5pCQKuFjtDOoe0D7pC
+
+---
