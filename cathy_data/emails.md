@@ -25065,3 +25065,16 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
 
 
 ---
+
+## [营销] Il mare ti aspetta: scopri case in vendita e in affitto per ogni esigenza.
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-06-01T14:02:17.000Z
+**摘要:** 推荐20套海景房，邀请用户开始寻找理想的房子
+**待办:** 无
+
+20 case vista mare — idealista/news    Inizia ora a cercare la tua casa ideale e trasforma il mare in una presenza quotidiana, non solo estiva.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
