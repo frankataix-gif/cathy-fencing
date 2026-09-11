@@ -26695,3 +26695,15 @@ One 的最新动态和功能相关信息。如果您不想再收到此类邮件�
 View in browser (https://hts.on.ca/e3t/Ctc/L0+113/d2B-DF04/MVZ4wfGwJxYW2Sgf7_5RT3_JW8Ny6Rt5NLn11N37Jq6v3l5QzW95jsWP6lZ3plN8Ch9GQnwN_7W2GND4J96yDlkVZrVvN2_y922W7bZ7vb8GS-brW3-djwS1PK3z3W7lB09r30hpgzW2bhqb15tJrTkW4WK7cF7jDJgCW6s4z1G2M2XzlW7yVQB93LKfS8W5rs9xJ77V4xKN8Cjkm28ST54W7k8jX57t296tW2RN_qn8xsRPtW3Stk4S53M25SW8bDwX78Xdc5yW5VMHF25T13zFVz8yNb1RvLPHW6Y4C5W19Wp0DW6p6VZP224f3fW4NwcWM2tdsn1W2jcrPc4sFwjpW4SjMKk2-BBbGW3SC6Jy5fZvrwVRV3L76xlQfxW6TbXF36WS2CsW7krbjp4Xf8tkW
 
 ---
+
+## [其他] Spiagge Bandiera Verde 2026: le migliori per i bambini
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-06T11:00:15.000Z
+**摘要:** 邮件推荐2026年适合儿童的绿色旗帜海滩信息，提供暑期家庭旅游参考。
+**待办:** 无
+
+Vacanze al mare con i bimbi — idealista/news
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
