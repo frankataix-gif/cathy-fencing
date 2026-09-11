@@ -19728,3 +19728,29 @@ Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tfabc
  https
 
 ---
+
+## [营销] Thanks for your recent purchase
+
+**发件人:** Cotton On Customer Team <reviews@cottonon.com>
+**日期:** 2026-07-11T15:09:24.000Z
+**摘要:** 感谢购买并邀请撰写产品评价，提供评分链接。
+**待办:** 撰写Offside Windbreaker的评价
+
+ Thanks for your recent purchase 
+[image: Cotton On Customer Team logo] <www.cottonon.com> 
+Review your Offside Windbreaker 
+
+Hi natalie,
+ 
+Thank you for shopping with us! We hope you'll write about your Offside 
+Windbreaker while it's still fresh on your mind. Click the stars to get 
+started: 
+Offside Windbreaker 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/g8p0JorIlqQREWjo?&rating=1&location=td-star> 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/g8p0JorIlqQREWjo?&rating=2&location=td-star> 
+☆★ 
+<ht
+
+---
