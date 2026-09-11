@@ -15126,3 +15126,24 @@ More points now = more rewards later.
 <https://app.sephora.com/T/v610000019fd2b7522e90772bf4bbe5be50/eedc5424539b43a10000021ef3a0bcc2/eedc5424-539
 
 ---
+
+## [营销] Welcome to the App Store
+
+**发件人:** App Store <appstore@insideapple.apple.com>
+**日期:** 2026-08-05T15:00:29.000Z
+**摘要:** 这封邮件是欢迎用户使用App Store，并介绍其发现应用的功能和导航方式。
+**待办:** 无
+
+App Store
+Find it on App Store
+https://link.apple/3D5MJ5djhm
+-----------------------------
+
+A white App Store logo appears to glide through an endless blue tunnel, with portal-like frames creating the illusion of forward motion.
+https://link.apple/C87ybpRmfw
+
+
+Welcome to the App Store
+Whatever you want to do, there’s an app for that. And the App Store is the place to discover just what you’re looking for – whether that’s your next favourite game or getting the most out of the apps you 
+
+---
