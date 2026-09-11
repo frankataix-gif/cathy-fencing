@@ -24729,3 +24729,14 @@ Newsletter 5 giugno 2026 — idealista/news     | Giovedì 28 Maggio 2026
 *********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Che succede 05/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-05T07:37:09.000Z
+**摘要:** 邮件内容涉及伊比沙岛典型房屋建筑的特点、意大利议会通过核能法案以及数字支付增长的数据。
+**待办:** 无
+
+Che succede 05/06/2026 — idealista/news                  Le case tipiche di Ibiza rappresentano una delle espressioni architettoniche più riconoscibili del Mediterraneo. Linee pure, superfici bianche abbaglianti e volumi geometrici essenziali definiscono abitazioni che uniscono funzionalità, tradizione e armonia con il paesaggio. Le case tipiche di Ibiza, quindi, sono un vero e proprio simbolo culturale che racconta l’identità rurale e l’evoluzione sociale dell’isola. Ancora oggi, queste case so
+
+---
