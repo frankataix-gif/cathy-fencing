@@ -54,7 +54,7 @@ export default {
             { role: 'system', content: '你只能输出 JSON，不允许解释。' },
             { role: 'user', content: prompt }
           ],
-          max_tokens: 1024
+          max_tokens: 2048
         });
         const text = (res && res.response) ? res.response : '';
         const parsed = extractJson(text);
@@ -265,12 +265,12 @@ function buildEmailSummaryPrompt(body) {
   return `你是 Cathy 家庭的邮件助理。${previousText}
 ${emailLines}
 
-请用中文，按以下 JSON 格式输出，不要任何额外文字：
+请用中文，按以下 JSON 格式输出，不要任何额外文字。注意：要对每一封邮件都生成一条，不要遗漏：
 {
   "date": "${date}",
   "total": 总邮件数,
   "categories": {"击剑": 数字, "学校": 数字, "营销": 数字, "待办": 数字, "其他": 数字},
-  "actions": [{"title": "行动标题（15字以内）", "source": "来源邮件主题", "priority": "高/中/低", "category": "分类"}],
+  "actions": [{"title": "这封邮件的一句话概要（15字以内）", "source": "来源邮件主题", "priority": "高/中/低", "category": "分类"}],
   "priority": "过去7天最需要注意的一句话建议",
   "summary": "一句话总结过去7天邮件重点"
 }`;

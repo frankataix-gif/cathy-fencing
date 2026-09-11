@@ -4345,7 +4345,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v26', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v27', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4697,7 +4697,7 @@ function circuitLabel(c) {
       html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
     }
     if (summary.actions && summary.actions.length) {
-      html += `<div style="margin-top:10px;">`;
+      html += `<div style="font-weight:600; margin:12px 0 6px;">邮件清单（逐封）</div>`;
       html += summary.actions.map((a, i) =>
         `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
           <span style="flex:1; min-width:0;">
@@ -4708,7 +4708,6 @@ function circuitLabel(c) {
           <button class="btn secondary add-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button>
         </div>`
       ).join('');
-      html += `</div>`;
     }
     html += `<div style="margin-top:12px;">
       <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析</button>
