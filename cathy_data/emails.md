@@ -11344,3 +11344,29 @@ explore.
 A TA
 
 ---
+
+## [其他] We sent you a message about your application (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-28T17:35:03.000Z
+**摘要:** 邮件通知用户有关其申请（S307997826）有新消息，需登录账户查看。
+**待办:** 登录账户查看申请状态并处理相关消息
+
+[image: Government of Canada / Gouvernement du Canada]
+*Application number*: S307997826
+A message about your application is waiting for you.
+We sent you a message about your application to your account.
+
+To read your message:
+
+1. Sign in to your account.
+2. Click *Check full application status* under *View the applications you 
+submitted*.
+3. Scroll down to the *Messages about your application* section.
+4. Click on the *Subject* of the new message to read it.
+
+
+Sign in to your account 
+<https://
+
+---
