@@ -179,3 +179,18 @@ Cosa fare a maggio 2026 in Italia — idealista/news
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Renting now cheaper than a mortgage
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-05-01T16:55:34.000Z
+**摘要:** 邮件指出目前租房费用低于房贷，这是自2025年6月以来的首次情况。
+**待办:** 无
+
+Rent on a typical home is cheaper than a mortgage for the first
+time since June 2025              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/o6gLbJ8ncYvrWu0dRBNf4g~~/AAAHahA~/SAcz37brn_NC_iVr8IWE-8KejHHudhAD_Fb3sgo40x3Aee7Lh9JrNCh2dba-s8CXRMPCUeiINhgFLUvWNmGbtukg4TDL5XSdYzXzURNa8pOgevF7linL-mq5P-H2HDFdup9hfIbGVmNKTNFbevOe48ztXo90g8Ha_dHmzkaWgwQ~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/H9fupxL2vqS9ZIL0LnkKqQ~~/AAAHahA~/-nXcFv6YO8amIKmc2rO1AnBQSpa4x0PT3V4MeDGgSR6CGLS62_QQcdr
+
+---
