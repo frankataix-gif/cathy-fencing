@@ -16347,3 +16347,38 @@ Please make an appointment soon as the time slots do
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152230158-1785112187550.347%26ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D465523.HK-20260727-edm-julymemberday.2026-07-27_8_0.20260727.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS
 
 ---
+
+## [待办] 验证你的电子邮件地址
+
+**发件人:** Apple <noreply@apple.com>
+**日期:** 2026-07-26T20:53:34.000Z
+**摘要:** Apple通知您需要验证新增的电子邮件地址nataliewu100@gmail.com，并提供验证码862144。
+**待办:** 前往Apple账户页面验证电子邮件地址并输入验证码
+
+你最近已添加 nataliewu100@gmail.com 作为你 Apple 账户的额外电子邮件地址。为验证此电子邮件地址属于你，请在你的电子邮件验证页面输入下方验证码：
+
+862144
+
+你收到此电子邮件的原因：
+每当你为 Apple 账户选择一个电子邮件地址时，Apple 会提出验证要求。你的电子邮件在验证后才能使用。
+
+
+如果你未做过此更改，或者认为有人未经授权访问了你的账户，你需尽快前往你的 Apple 账户页面 https://account.apple.com 更改你的密码。
+
+此致
+Apple 支持
+
+-------------------------------------------------------------
+
+Apple 账户
+https://account.apple.com
+
+支持
+https://www.apple.com/support
+
+隐私政策
+https://www.apple.com/legal/privacy
+
+Copyright (c) 2026 One Apple Park Way, 
+
+---
