@@ -16551,3 +16551,21 @@ nataliewu100@gmail.com
 “<https://c.gle/AKMee0c141SuJhBhoAzkddngIsC95qEXIZAVFl
 
 ---
+
+## [营销] Save the date: Beauty Insider Celebration starts 8/1 🗓️
+
+**发件人:** Sephora Beauty Insider Celebration <shop@beauty.sephora.com>
+**日期:** 2026-07-25T20:19:12.000Z
+**摘要:** Sephora Beauty Insider庆祝活动将于8月1日开始，提供积分奖励和250积分换5美元优惠。
+**待办:** 无
+
+ Sephora 
+
+Earn more points on fave brands AND redeem 250 points for $5 off using 
+Beauty Insider Cash. Exclusions apply. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v6100000
+
+---
