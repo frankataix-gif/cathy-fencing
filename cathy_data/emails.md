@@ -10168,3 +10168,20 @@ Tab debit: you’ll see this charge only if you have a remaining Tab balance
 Phone credit charge: you’ll see this c
 
 ---
+
+## [其他] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-09-02T21:56:42.000Z
+**摘要:** 收到TELUS的验证码，用于登录账户，并提醒若未操作需修改密码以保障安全。
+**待办:** 无
+
+ TELUS 
+Here's your verification code to validate your identity. 
+[image: TELUS] 
+<https://u27333001.ct.sendgrid.net/ls/click?upn=u001.SCElYa292QU0eUJVHWJNp8d2rCV-2B35zzM25WPhV0c0A-3DDUej_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NaItnZsmfFQbimkP3EJkLEZltI3qQCNs1LHVEbSmXsnYEjLA7msoJv-2BjZppfnMjNR8CW2kGdUdWNo6Vo1uq8NFm2DMsjUAiHfEdG7BmeNhJEqyyT9XWLtY4jVW-2Bj4dZBZYZIQ0PJbm5avjUS2RTdObijcqpewh1Whc-2Bq0ooIE-2BQg-3D-3D> 
+Your My TELUS verification code 
+Hi TELUS, 
+Your one-time verification co
+
+---
