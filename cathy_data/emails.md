@@ -13169,3 +13169,22 @@ Please do not reply to this email.
 
 
 ---
+
+## [营销] Jingqi, seriously—one bill for streaming is better. 🍿
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-08-18T16:17:12.000Z
+**摘要:** Koodo推广其互联网服务，提供高达100Mbps的下载速度和无限使用，配备Wi-Fi 6路由器确保稳定连接。
+**待办:** 无
+
+Introducing happier internet from Koodo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec48&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTEmcDE9JTQwVmUlMkZFakQyWXNBek5uRzhQaEJoMFlBNkZVcmRQRjhpVnN1ek1uRkZ1elNBJTNE&s=HVI2wMSa974sL3laMgQxfCU_W2UJ2n4kby6QXqh-MbU web browser . 	
+
+ https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec49&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTE&s=4_HuugdldOC9yMWHdOD4419gY4p5885U4wHLwM7qafM 	
+	
+	
+
+ https://t.info.telus
+
+---
