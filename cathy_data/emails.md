@@ -3331,3 +3331,24 @@ When you travel to the UK
 ==
 
 ---
+
+## [其他] We are processing your ETA application
+
+**发件人:** UK Visas and Immigration Home Office <uk.visas.and.immigration.home.office@notifications.service.gov.uk>
+**日期:** 2026-03-13T15:06:34.000Z
+**摘要:** 邮件通知ETA申请已受理，付款成功并给出参考号码，需等待3个工作日内的审批结果。
+**待办:** 无
+
+Dear JINGQI WU,
+
+You have submitted your ETA application. We will check your application and send you an email when we have made a decision.
+
+We have received your payment of 22.23 United States dollars. This has been processed by WorldPay and will show on your card or bank statement as ETAMOB0000113456266.
+
+Your ETA reference number is 2020-0000-4640-7617.
+
+You usually get a decision within 3 working days (Monday to Friday). You may get a quicker decision.
+
+Occasionally, your decision
+
+---
