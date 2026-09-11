@@ -25724,3 +25724,23 @@ Che succede 26/05/2026 — idealista/news
 ****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [其他] Aggiornamenti alla nostra Informativa sulla privacy
+
+**发件人:** Spotify <no-reply@legal.spotify.com>
+**日期:** 2026-05-25T19:30:58.000Z
+**摘要:** Spotify 更新了隐私政策，增加透明度和用户数据控制权，包括位置数据的可选使用说明。
+**待办:** 无
+
+
+Ci auguriamo che Premium ti piaccia. Abbiamo aggiornato la nostra Informativa sulla privacy per fornire un linguaggio più chiaro e un maggiore controllo sul modo in cui i tuoi dati alimentano la tua esperienza Spotify. 
+
+
+Novità:
+
+
+ <ul>
+   <li>Gli aggiornamenti aumentano la leggibilità e la trasparenza della nostra Informativa sulla privacy.</li>
+   <li>A tal fine, abbiamo aggiunto ulteriori informazioni su come raccogliamo e utilizziamo i dati per fornire nuovi prodotti o funzionalit
+
+---
