@@ -20694,3 +20694,28 @@ Stack *all* these offers while you still can, Natalie.
 <https://app.sephora.com/T/v610000019f3cf255b0af222af4bbcfb920/e7352037be394ff00000021ef3a0
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-07T13:52:55.000Z
+**摘要:** 收到政府服务的登录验证码4BC9JAXD
+**待办:** 输入验证码4BC9JAXD以登录政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+4BC9JAXD
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
