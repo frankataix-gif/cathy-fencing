@@ -20178,3 +20178,28 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzN9AAcAAAAAA8tdfNP1fPzgC4-
 https://
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-07-09T21:27:10.000Z
+**摘要:** 提供一次性验证码以登录加拿大政府服务
+**待办:** 使用提供的验证码登录加拿大政府服务
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+RDTRX2ZN
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
