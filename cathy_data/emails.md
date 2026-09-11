@@ -25339,3 +25339,24 @@ Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTJ9ADIAAAAAAJRF6kReIlt_dVeIR66xbJOHCrACn8vFsDJzSNiN2K1qK4Kfqp7SYh_Yhx0pF2V81FF0TqtAqE-f9p4bzX
 
 ---
+
+## [其他] 您本月的 Google One 使用情况
+
+**发件人:** Google One <googleone-updates-noreply@google.com>
+**日期:** 2026-05-29T23:08:01.000Z
+**摘要:** 这封邮件提醒用户本月的Google One存储使用情况，显示已使用23%，并介绍会员可享的存储空间和备份功能。
+**待办:** 无
+
+充分利用您的会员资格
+Google One 提供更多存储空间和设备备份等功能，帮助您保护文件、呵护珍贵的回 
+忆。请继续阅读，了解会员可享有的福利，看看还有哪些功能。
+存储空间
+您的存储空间已使用 23%
+您的存储空间非常充足，您可将更多回忆和重要文件安全地备份到云端硬盘、Gmail  
+和 Google Photos。
+24 GB已使用: 100 GB
+- Google Drive: 23.89 GB
+Google  
+Drive<https://c.gle/AOExmq1poGDaDXUn-euW1GqTJZzaAE9127CMcOxXNQYsbB_ZQjcD4Dikp03WogCYExZwyW5qNLPxVY8teany5h1o9O5e7Ymwsx4z3TkQjCu_Q0Rf-Eo5F7vRdj5TKpBppLRWzs8FCOMkw0vytekFOhmO5fs1yhmxsDZku_F4qFZgpXYq8H_qdkhbNXZB64w94NbkfE7EyrnaGVitNYuuOVnq5JoyAQsrM8gPXOQClrbKReF3XSqxzrWkMI0iSIAmn
+
+---
