@@ -25078,3 +25078,47 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4OTZ9ADIAA
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Your Rental Agreement 9611047694
+
+**发件人:** SIXT <booking@sixt.com>
+**日期:** 2026-06-01T11:28:08.000Z
+**摘要:** 这封邮件是SIXT提供的租车协议确认，包含租车详情和相关链接。
+**待办:** 查看并管理租车信息
+
+
+SIXT
+  
+ 
+
+
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAoAAAAAAVZCEGJ9XiVMlDZnhrjuZHSWwJEWy8yE5xu2tqeUJMSY_yFwZ5t9cz2UccCS9N9gNEKWofHgpW_6ML51iiFgtvB-5aVfEQUXxVKXC1cCVE-feMKrVg 
+
+Rental 9611047694
+
+|   
+
+ 
+https://click.e.sixt.com/?qs=ABB7InYiOjEsImQiOjQ4OTR9AAoAAAAAAVZCEGJ-XAKCif0b5sN9jKtEJEujcQZWH_x9l-iJnlOdraSyXTu5mIRwStQD43ILhVfOygEU1vRtC7pGrzhFmwt1eZnMJ9RZANETkgNVWO1nAuOHgg 
+
+Modify
+ 
+
+ 
+
+
+
+
+Enjoy your BMW SERIES 1! 
+
+
+Parking 
+Park-R-L-6  
+
+
+
+
+
+
+
+---
