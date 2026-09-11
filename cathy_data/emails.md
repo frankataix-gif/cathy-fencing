@@ -18267,3 +18267,31 @@ https://ca.docusign.net/Signing/EmailStart.aspx?a=40782f6a-4809-8b44-8344-ac9915
 If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get sta
 
 ---
+
+## [营销] 708 Farrow st
+
+**发件人:** Naeim Asady <Naeim.Asady@telus.com>
+**日期:** 2026-07-21T20:47:19.000Z
+**摘要:** 邮件提供了TELUS的互联网和移动服务促销，需回复详细信息以完成注册。
+**待办:** 回复邮件提供所需个人信息以完成注册
+
+Hello! Thank you for calling today.
+
+As discussed, you are eligible for the following promotions:
+
+   -
+
+   *TELUS PureFibre Internet 1.5G:* *$70/month + tax* on a 2-year contract
+   (after setting up pre-authorized bank payments), plus your *first 3
+   months FREE*!
+   -
+
+   *TELUS Mobile Service:* *$35/month for 100GB* of data with *no contract
+   required*.
+
+I am happy to help you set up everything and ensure your services are fully
+up and running smoothly.
+
+To complete your 
+
+---
