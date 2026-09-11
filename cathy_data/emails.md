@@ -1286,3 +1286,38 @@ Che succede 10/04/2026 — idealista/news
 
 
 ---
+
+## [学校] 邀请参加Meadowridge北京/上海聚会
+
+**发件人:** Kathy Leung <kathy.leung@meadowridge.bc.ca>
+**日期:** 2026-04-09T22:50:08.000Z
+**摘要:** 邀请参加Meadowridge学校在中国的家长校友聚会，包括北京和上海的活动安排及报名信息。
+**待办:** 无
+
+Frank和Natalie您们好！
+
+很高兴Cathy和您们将加入Meadowridge大家庭!
+
+这次联系您希望邀请您参加今年在中国举办的两场家长校友聚会：
+
+  *   北京：4 月 18 日（周六）晚 7 点，北京顺义区何氏夫妇家中
+
+  *   上海：4 月 25 日（周六）晚 7 点，上海嘉里大酒店 The BREW·酿
+
+这是轻松的小型聚会，会有当地家长和校友一起交流，也可了解学校最新动态。校长 Mr. Banack 会到上海、北京和南京，希望有机会见到在中国的家长和旧生。我们也希望借此机会多了解校友的行业和经历，这对学生职业探索和学校职涯资源都很有帮助。
+
+报名链接：
+https://www.meadowridge.bc.ca/forms/engagement-visit-rsvp
+
+活动的详细信息我也附在下面供您参考，期待有机会见到您！
+
+祝好，
+
+Kathy Leung
+Development Officer
+Languages spoken: English, 中文, 粤语
+
+MEADOWRIDGE SCHOOL
+12
+
+---
