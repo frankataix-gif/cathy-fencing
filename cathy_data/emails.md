@@ -25584,3 +25584,15 @@ Aggiornamento dell’Informativa sulla Privacy e dei Termini e Condizioni Genera
 Che succede 27/05/2026 — idealista/news                          “Il ruolo di Consap nel piano casa è fondamentale: rende realmente accessibile il diritto all’abitare”. È quanto ha dichiarato Sestino Giacomoni, presidente di Consap, nel corso del suo intervento al convegno “Edilizia Residenziale Pubblica e Innovazione: Proposte, progetti e risultati concreti per un risparmio energetico intelligente”, organizzato da Federcasa. Giacomoni ha sottolineato come la concessionaria del servizio assicura
 
 ---
+
+## [营销] 每月一次嘅會員折扣嚟啦💞
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-05-27T00:26:03.000Z
+**摘要:** Trip.com 发送会员专属折扣信息，预订酒店、机票等可享5% Trip Coins回赠，今日限时优惠。
+**待办:** 无
+
+🎯訂酒店/機票/火車可享 5% Trip Coins回贈🎁🏆尊享會員TripPlus酒店⏰把握今日限時優惠👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10147138221-1779841562317.775%26ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D419260.HK-20260527-edm-memberday.2026-05-27_8_0.20260527.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0d
+
+---
