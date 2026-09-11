@@ -18860,3 +18860,24 @@ Cotton On and Co. Perks
  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; 
 
 ---
+
+## [其他] Good news, your order has shipped #1030191408
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-07-17T21:20:50.000Z
+**摘要:** 订单已发货，包含跟踪号码和物流信息。
+**待办:** 无
+
+ Good news, your order has shipped # 
+Hi Jing Qi,
+We have good news! Your order has shipped and is on its way to you.
+Order Date July 17, 2026 at 03:10:34 PT 
+Order Number 1030191408 
+Tracking Number 
+874532113212
+You can track your package online using the button below. Tracking will 
+become available after 24 hours.
+Track My Package 
+<https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NDB9AAcAAAAABB1hCwZ4FXfBcZJmNfPjQc2nehy1NjcODbcjo-LdOMLqkZqj9n4To86lah4pThkMgOe0i0Pfp8Y
+
+---
