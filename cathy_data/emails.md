@@ -8755,3 +8755,23 @@ Hello ,
     No Con
 
 ---
+
+## [营销] Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
+**日期:** 2026-09-07T16:30:30.000Z
+**摘要:** 请求提供1, 2 Lancer Square的EWS1表格或最新火灾风险评估，以符合营销要求。
+**待办:** 需要向Jordanna提供EWS1表格或火灾风险评估文件
+
+
+Good afternoon Julia
+
+I am reaching out on behalf of our client, Mrs Wu, who has appointed us to market 1, 2 Lancer Square.
+
+I have been informed that you are the managing agents for the property, and we have been provided with your contact details to make some requests regarding our compliance:
+
+Under trading standards, we are required to request and share any relevant fire safety information when marketing a property within a building of 7 storeys or higher.
+
+Please could you send ov
+
+---
