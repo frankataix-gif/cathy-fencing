@@ -2272,12 +2272,16 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
+  const EMAIL_AI_VERSION = '2';
   function getEmailAIState() {
     try {
-      return JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
+      const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
+      if (state.v !== EMAIL_AI_VERSION) return {};
+      return state;
     } catch(e) { return {}; }
   }
   function setEmailAIState(state) {
+    state.v = EMAIL_AI_VERSION;
     localStorage.setItem('cathy_email_ai_state', JSON.stringify(state));
   }
 
@@ -4346,7 +4350,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v28', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v29', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
