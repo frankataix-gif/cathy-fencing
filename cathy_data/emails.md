@@ -26465,3 +26465,16 @@ Styles for your summer reel.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 12/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-12T07:57:52.000Z
+**摘要:** 邮件报道了意大利一房地产交易完成，以及油价上涨和中美女副总理会谈的新闻。
+**待办:** 无
+
+Che succede 12/05/2026 — idealista/news         Loperazione, perfezionata tramite un fondo immobiliare italiano gestito da Kryalos SGR,è stata il punto finale di un percorso di sviluppo e valorizzazione da parte del Gruppo Building che ha dato vita a quello che oggi è il secondo retail park più esteso dItalia
+
+I prezzi del petrolio chiudono a New York con solidi rialzi dopo il mancato accordo tra Usa e Iran sulla proposta di pace elaborata da Washington, che prevedeva la riapertura dello Stretto
+
+---
