@@ -12893,3 +12893,28 @@ Your K-beauty faves are all here.
 <https://app.sephora.com/T/v61000001a01f6a9c6aa10f84f4bbe5c898/148b7a34174b47740000021ef3a0bcc2/148b7a34-174b-47
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-19T15:48:32.000Z
+**摘要:** 这封邮件包含用于登录加拿大政府服务的一次性验证码，并提醒用户不要回复。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+T87K5FH7
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
