@@ -10500,3 +10500,31 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
 
 ---
+
+## [待办] Please verify your email address
+
+**发件人:** Payoneer Auth <noreply@verify.payoneer.com>
+**日期:** 2026-09-02T19:22:11.000Z
+**摘要:** 需要验证Payoneer邮箱地址，提供6位数字代码203183，有效10分钟。
+**待办:** 验证Payoneer邮箱地址，使用提供的6位数字代码203183。
+
+( https://www.payoneer.com/ )
+
+Please verify your email address
+
+Hi there,
+
+Please use the 6-digit code below to verify your email address for Payoneer.
+
+203183
+
+This code is valid for the next 10 minutes. After that, you’ll have to request a new one.
+
+If it wasn’t you who initiated this email verification, contact us ( https://payoneer.custhelp.com/app/Contact_us ) , or simply ignore this email.
+
+Thank you,
+The Payoneer Team
+
+( https://www.facebook.com/Payoneer ) ( https://twit
+
+---
