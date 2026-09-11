@@ -23085,3 +23085,15 @@ Calvin Klein
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Your promo code will expire soon - don't miss this chance!
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-06-23T08:48:07.000Z
+**摘要:** 
+**待办:** 无
+
+Don't let these deals slip through your fingers. Use a promo code now!
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fwww.trip.com%2Findex%3Flocale%3Den_xx%26allianceid%3D324048%26edm_id%3DSGP-ALI-20621-10152192184-1782204486471.877%26ouid%3D17925.Promocode-expire-reminder-EDM.0.20260623.en_XX.%26sid%3D1520824%26trip_in_aid%3D1023%26trip_in_ouid%3D17925.Promocode-expire-reminder-EDM.0.20260623.en_XX.%26trip_in_sid%3D1117&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS
+
+---
