@@ -20883,3 +20883,37 @@ Che succede 07/07/2026 — idealista/news                Microsoft taglia 4.800 
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015223365-1783389320911.874%26ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQL
 
 ---
+
+## [其他] Soft. Hot. The college uniform.
+
+**发件人:** Cotton On <news@e.cottonon.com>
+**日期:** 2026-07-07T01:05:43.000Z
+**摘要:** 
+**待办:** 无
+
+
+ 
+ 
+ 
+All set with Ultra Soft Micro Shorts + Cami.
+
+
+ 
+ 
+
+ Email not displaying correctly?
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzB9AAcAAAAAA6oN7QrnZ8IVELLyeDrTLj4Ekcbq9BrUeS73oiZhtuqFXbkXrAGBvRa6ZU339C3UKIZ34p_nkmeowseKcqXRt2YtzhmzLNO04G7-Vt17UQ 
+View in your browser 
+
+
+ 
+
+https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MzB9AAcAAAAAA6oN7QroLoMXkPLzbVD-1p6ry53JV1Bmng9BIiwX9jdcVQO7le6vQeAt3rfg4p3Piwr1eDfU3OaX82MtWDhPLH1WkBEMuycWcTvS5jN7V20RS8M 
+
+
+ 
+
+
+---
