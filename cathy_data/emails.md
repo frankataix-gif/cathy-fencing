@@ -22135,3 +22135,58 @@ https://click.e.cottonon.com/?qs=ABB7InYiOjEsImQiOjQ5MjN9AAcAAAAAA1wJ3APmtI93nBO
 
 
 ---
+
+## [其他] Receipt for order #1893898
+
+**发件人:** Studs <heystud@studs.com>
+**日期:** 2026-06-29T22:12:44.000Z
+**摘要:** 
+**待办:** 无
+
+Thank you for your purchase!
+
+Studs
+
+Order #1893898
+
+----------------------------
+Thank you for your purchase!
+----------------------------
+
+Visit our store 
+( https://studs.com?syclid=0f3fa4d1-303b-4847-9dc2-b92797ba1323 )
+
+Order summary
+-------------
+
+TWO PIERCINGS × 2
+
+Lobe
+
+$55.00
+
+Titanium Star × 2
+
+Silver
+
+$76.00
+
+Subtotal
+
+$131.00
+
+Shipping
+
+$0.00
+
+CA STATE TAX - CALIFORNIA
+
+$4.56
+
+CA COUNTY TAX - LOS ANGELES
+
+$0.19
+
+CA SPECIAL TAX - LOS ANGELES
+
+---
