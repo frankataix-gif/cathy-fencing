@@ -312,3 +312,17 @@ Our Finance Department will be posting tuition and programme fees tomorrow to yo
 Che succede 29/04/2026 — idealista/news                    Il governo sta valutando "unulteriore proroga del taglio delle accise", che potrebbe essere "più breve delle precedenti e non più in maniera orizzontale: il gasolio ha avuto un aumento più significativo della benzina" e quindi il taglio potrebbe impattare più sul gasolio che sulla benzina, per avere un impatto meglio distribuito. Così la presidente del Consiglio Giorgia Meloni in conferenza stampa. "Seguiamo il tavolo negoziale - ha spie
 
 ---
+
+## [营销] Jeans are calling your name 📢
+
+**发件人:** Hollister <hollister@em.hollisterco.com>
+**日期:** 2026-04-29T06:39:38.000Z
+**摘要:** 这封邮件是Hollister公司发送的牛仔裤促销信息，标题暗示牛仔裤正在吸引顾客注意。
+**待办:** 无
+
+Hollister Co. 
+  
+Answer with these. 
+<https://e.em.hollisterco.com/c2/1979:69ea392165570f98700cf7ca:ot:69e6429a87fa4e894f0fac35:1/0aa6828e?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc0NDQ3NzgsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjllYTNhZDMxOTFjM2QxNjdkMDcyMGExIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL2V1P3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJjYzE2NDQ4NzhmODU1MDFjJmNtcD1FTU06U
+
+---
