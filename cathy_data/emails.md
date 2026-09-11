@@ -21749,3 +21749,28 @@ Trouble viewing this email? View in  https://t.email.koodomobile.com/r/?id=tf977
  https://t.email.
 
 ---
+
+## [其他] natalie, your feedback is important to us. Will you help us by rating your recent purchase?
+
+**发件人:** Cotton On Customer Team <reviews@cottonon.com>
+**日期:** 2026-07-02T15:00:12.000Z
+**摘要:** 
+**待办:** 无
+
+ natalie, your feedback is important to us. Will you help us by rating your 
+recent purchase? 
+[image: Cotton On Customer Team logo] <www.cottonon.com> 
+How are you finding the product? 
+
+Hi natalie,
+ 
+Thank you for shopping with us! We hope you'll write about your Offside 
+Windbreaker while it's still fresh on your mind. Click the stars to get 
+started: 
+Offside Windbreaker 
+☆★ 
+<https://network-eu.bazaarvoice.com/r/49KKtdgU3v1Md5pC?&rating=1&location=td-star> 
+☆★ 
+<https://network-eu.bazaarvoi
+
+---
