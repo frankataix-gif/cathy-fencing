@@ -2250,3 +2250,14 @@ My Rightmove
 -----------------------------------------------------------
 
 ---
+
+## [其他] Che succede 26/03/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-03-26T09:31:36.000Z
+**摘要:** 邮件包含关于西班牙艺术家Teresa Sapey的访谈以及意大利地籍局新规的资讯。
+**待办:** 无
+
+Che succede 26/03/2026 — idealista/news     Larchitetta Teresa Sapey nata a Torino, ma da oltre trentanni in Spagna, un"italiana di Madrid" come lei stessa ama definirsi, accoglie idealista/news, con la spontaneità e il calore che trasmette anche nei suoi lavori, in un appartamento in una zona centrale della capitale spagnola,con una vista privilegiata sul parco del Retiro. In questa intervista racconta della sua poliedrica carriera e dei tanti progetti in giro per il mondo, svelando, allo stess
+
+---
