@@ -7476,3 +7476,26 @@ Today only!
 <https://app.sephora.com/T/v61000001a08b8430cebbc620f4bbcf76f8/068f8a43b9dd42ff0000021ef3a0bcc2/068f8a43-b9dd-42ff-8118-b344ea68d428?_
 
 ---
+
+## [营销] Welcome! Describe what you want, we’ll build it ✅
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-10T13:26:23.000Z
+**摘要:** 这封邮件是Welcome to Make的欢迎邮件，介绍其AI助手Maia可帮助用户创建自动化流程，无需复杂设置，并提供示例帮助用户入门。
+**待办:** 无
+
+No setup needed.  
+
+Logo ( https://www.make.com?utm_campaign=Welcome_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hero image ( http://www.make.com/open-scenario-builder?utm_campaign=Welcome_Beginner&utm_medium=email&utm_source=customer.io )
+
+*************************
+Welcome to Make, natalie!
+*************************
+
+Ready to get rid of your manual tasks?
+
+You don’t need to learn everything upfront. Just open the builder, describe what you want, and our AI co-worker Maia wil
+
+---
