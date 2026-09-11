@@ -18246,3 +18246,24 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC,
 
 ---
+
+## [待办] Complete with Docusign: Complete_with_Docusign_20260709_Rules_and_ (1).pdf
+
+**发件人:** "Anastasia Makarevska | S&F Rental Homes via Docusign" <dse@camail.docusign.net>
+**日期:** 2026-07-21T21:09:55.000Z
+**摘要:** Anastasia Makarevska通过Docusign发送了需要签署的文件，请点击链接完成签署。
+**待办:** 点击链接签署Docusign文档
+
+Hello Jingqi Wu,
+
+Anastasia Makarevska | S&F Rental Homes has sent you a new Docusign document to view and sign. Please click on the link below to begin signing.
+
+    
+
+Review Document
+
+https://ca.docusign.net/Signing/EmailStart.aspx?a=40782f6a-4809-8b44-8344-ac9915a20b88&etti=25&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=e9f3c890-6b22-811d-83b4-914ffb9c7e44
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser to get sta
+
+---
