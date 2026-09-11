@@ -349,3 +349,31 @@ Answer with these.
 Che succede 28/04/2026 — idealista/news     Nel settore Hospitality, identificare gli ospiti che entrano in albergo è un obbligo penale introdotto già nel 1931 dall’art. 109 TULPS. Oggi, però, l’evoluzione tecnologica – tra self check-in, riconoscimento facciale e sistemi automatizzati – sta modificando il mercato, che deve venire a termini con questo obbligo, aprendo nuovi interrogativi giuridici. Ne abbiamo parlato con Donatella Marino, fondatrice di Hospitality Law Lab, il noto Think Tank di 
 
 ---
+
+## [营销] NEW IN | Un'estate di abiti
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-04-28T09:34:52.000Z
+**摘要:** 推广夏季新品服装，包含连衣裙、衬衫和裤子，提供免费取货和退货服务，并提及忠诚度积分。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjB9ADIAAAAAADBXxHMK1lDAsrTFsBkdWlp04zmG_YsN76aWTRQRilIoYh6TXs1U5AzGNDFIUxokex11vw_9VGRJZkewfEH4ztIUyLeR0E8CXstPrM-6 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjB9ADIAAAAAADBXxHMLGwKsoDISH6245JKdi0yGkmguUVBwaBEbvGxrp2U82ZR-u590jukxPKHocDTK7BHjw6E8Ui36B
+
+---
