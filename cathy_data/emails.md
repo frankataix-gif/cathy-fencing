@@ -12486,3 +12486,24 @@ Tesla
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1014712942-1787430027274.328%26ouid%3D485508.trippulse_edm_0822_hk.2026-08-22_-8_0.20260823.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D485508.trippulse_edm_0822_hk.2026-08-22_-8_0.20260823.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE0NzEyOTQyL
 
 ---
+
+## [营销] All ACs, fans, and dehumidifiers on sale.¹ Excludes Dyson fans.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-22T12:02:22.000Z
+**摘要:** BestBuy.ca正在举行空调、风扇和除湿器的促销活动，但Dyson风扇不在促销范围内。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
