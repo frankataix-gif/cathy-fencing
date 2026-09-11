@@ -10557,3 +10557,17 @@ How likely are you to recommend Browns to a friend or family member?
 
 
 ---
+
+## [学校] New Student Orientation RSVP Confirmed
+
+**发件人:** "admissions@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-02T16:33:31.000Z
+**摘要:** 确认新生入学导向的RSVP已成功提交
+**待办:** 无
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/><
+
+---
