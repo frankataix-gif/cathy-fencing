@@ -19878,3 +19878,31 @@ We respect your privacy and will not provide your personal information to
 others without your consent. Please do not reply to this message
 
 ---
+
+## [待办] Koodo verification code: 108969
+
+**发件人:** noreply@koodomobile.com
+**日期:** 2026-07-10T23:12:27.000Z
+**摘要:** 收到Koodo验证码108969，需在30分钟内使用以链接服务到自我服务档案。
+**待办:** 输入验证码108969以将Koodo服务链接到自我服务档案。
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hello,
+
+Your verification code is: *108969*
+
+Use the above code to link your Koodo service to your Self Serve profile. 
+This code will expire in 30 minutes.
+
+If you didn’t request this code, please contact us at www.koodo.com/chat 
+<https://www.koodomobile.com/en/help?autobots=rollout>
+
+Thanks!
+The Koodo Team
+
+We respect your privacy and will not provide your personal information to 
+others without your consent. Please do not reply to this message
+
+---
