@@ -23512,3 +23512,16 @@ good. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ �
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 18/06/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-06-18T08:15:07.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 18 giugno — idealista/news       Quando il sole del Sud colpisce i muri imbiancati a calce, interi borghi sembrano sospesi tra cielo e terra, con un candore che ricorda le isole greche più che la penisola. Le città bianche in Italia non sono costruite per il turismo, ma il risultato di scelte pratiche, igieniche e perfino difensive maturate nei secoli. Si concentrano soprattutto nel Mezzogiorno, dove il bianco aiutava a riflettere il caldo e a illuminare vicoli stretti e bui
+
+Il lito
+
+---
