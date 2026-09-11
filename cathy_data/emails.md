@@ -3374,3 +3374,18 @@ Do not reply to this email. This is an automated message.
 
 
 ---
+
+## [营销] Natalie, get instant access to 1000s of homes
+
+**发件人:** Rightmove <myrightmove@mail.rightmove.co.uk>
+**日期:** 2026-03-12T12:08:41.000Z
+**摘要:** Rightmove推广其房产应用，提供大量房屋搜索服务，包含购买和租赁链接。
+**待办:** 无
+
+Step up your search with the Rightmove app
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/rM5-jf0EU2qBzkWeTNg_6w~~/AAAHahA~/xNjd_kUNEP2VUTuB6MLbMK7iXR3u4-0HYStMZr7zB0P1qd3ZCaCMJ1UIt7L6llXLDuXsqnP2rlmKv9RdNCEAA-CVuxH0ll2NyvWLAE8hUY-1DwZNbjcv5nsnh-1cpiKCK8Na3Wh34Nr4FFpq0FCU13f7g-O3y6Bm8gQC2vLTUb0~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/I4hMR6ygHm7N6haP8btzUw~~/AAAHahA~/rkYGa1ymaf3WUyy_pJxe2XIvUQ2IlBN2PBEkgXR_eQAfpqnkVaIFhMqrY1jwEhsgNqVDE-PzIcI_xQe8nw4hMbriZgcdXLcAnRwhPJ14KjiS6z
+
+---
