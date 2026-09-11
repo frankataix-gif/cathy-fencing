@@ -26518,3 +26518,18 @@ Regione italiana con più km di costa — idealista/news
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
+
+## [其他] Che succede 11/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-11T07:36:18.000Z
+**摘要:** 邮件涉及管理委员会需提供澄清以避免市民受罚，以及Google因种族歧视诉讼达成5000万美元和解的新闻。
+**待办:** 无
+
+Che succede 11/05/2026 — idealista/news              La decisione spetta normalmente all’assemblea, deliberando a maggioranza, mentre l’amministratore ha autonomia solo per la manutenzione ordinaria o, ancora, la realizzazione di lavori urgenti
+
+l Mit debba fornire ulteriori chiarimenti allo scopo di evitare ai cittadini di incorrere in sanzioni". Non è infatti chiaro se chi ha già presentato domanda, ma riceverà il contrassegno dopo il 16 maggio, possa continuare a circolare.
+
+Google ha firmato
+
+---
