@@ -19073,3 +19073,15 @@ Shipping M
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &
 
 ---
+
+## [其他] 星期五北上攻略🚄解鎖全新好玩地圖🏖️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-17T01:12:50.000Z
+**摘要:** Trip.com推送周五北上攻略，提供内地酒店7折优惠。
+**待办:** 无
+
+1個鐘車程‼️內地酒店獨家7折起😍🌟即睇👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152200113-1784250769020.581%26ouid%3D459734.HK-20260717-edm-gochinatraintravel.2026-07-17_8_0.20260717.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D459734.HK-20260717-edm-gochinatraintravel.2026-07-17_8_0.20260717.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
