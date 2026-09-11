@@ -14513,3 +14513,15 @@ Review the appointment instructions before you attend your
 appointment to ensure you me
 
 ---
+
+## [营销] ✨解鎖全新旅行概念 #VibeTravelling
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-10T00:11:55.000Z
+**摘要:** Trip.com 推出全新旅行概念推广，提供全球酒店折扣及各类旅游活动推荐。
+**待办:** 无
+
+🗺️係時候去個啱vibe嘅旅行‼️全球酒店低至半價😍睇花火大會🎆避暑遊🌬️定泰國奢華Resort歎SPA渡假🏊？愛要及時⏰旅行都要！即刻探索👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154139167-1786320432868.773%26ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D475344.HK-20260810-edm-travelhub.2026-08-10_8_0.20260810.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNs
+
+---
