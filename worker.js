@@ -47,21 +47,65 @@ export default {
     }
 
     if (body.action === 'email_summary') {
+      const emails = body.newEmails || [];
+      const previous = body.previousSummary || null;
       const prompt = buildEmailSummaryPrompt(body);
-      try {
-        const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
-          messages: [
-            { role: 'system', content: '你只能输出 JSON，不允许解释。' },
-            { role: 'user', content: prompt }
-          ],
-          max_tokens: 2048
-        });
-        const text = (res && res.response) ? res.response : '';
-        const parsed = extractJson(text);
-        return json(parsed || { error: 'parse failed', raw: text });
-      } catch (e) {
-        return json({ error: e.message || 'ai failed' }, 500);
+      let text = '';
+      for (let attempt = 0; attempt < 3; attempt++) {
+        try {
+          const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
+            messages: [
+              { role: 'system', content: '你只能输出 JSON，不允许解释。' },
+              { role: 'user', content: prompt }
+            ],
+            max_tokens: 2048
+          });
+          text = (res && res.response) ? res.response : '';
+          if (text && text.trim()) break;
+        } catch (e) {}
       }
+      let parsed = extractJson(text);
+      const categoryMap = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
+      emails.forEach(e => { categoryMap[e.category || '其他'] = (categoryMap[e.category || '其他'] || 0) + 1; });
+      if (!parsed) {
+        parsed = {
+          date: body.date || new Date().toISOString().slice(0, 10),
+          total: emails.length,
+          categories: categoryMap,
+          actions: emails.map(e => ({
+            title: (e.subject || '邮件').slice(0, 30),
+            source: e.subject || '',
+            priority: e.todo && e.todo !== '无' ? '高' : '中',
+            category: e.category || '其他'
+          })),
+          priority: 'AI 分析失败，请点刷新分析重试',
+          summary: 'AI 暂时未能生成总结，已列出邮件清单'
+        };
+      } else {
+        let actions = previous && Array.isArray(previous.actions) ? previous.actions.slice() : [];
+        if (Array.isArray(parsed.actions)) {
+          parsed.actions.forEach(a => {
+            const idx = actions.findIndex(x => x.source === a.source);
+            if (idx >= 0) actions[idx] = a;
+            else actions.push(a);
+          });
+        }
+        emails.forEach(e => {
+          const subject = e.subject || '';
+          if (!actions.some(a => a.source === subject)) {
+            actions.push({
+              title: (e.subject || '邮件').slice(0, 30),
+              source: subject,
+              priority: e.todo && e.todo !== '无' ? '高' : '中',
+              category: e.category || '其他'
+            });
+          }
+        });
+        parsed.actions = actions;
+        parsed.categories = parsed.categories || categoryMap;
+        parsed.date = parsed.date || body.date || new Date().toISOString().slice(0, 10);
+      }
+      return json(parsed);
     }
 
     if (body.action === 'email') {
@@ -76,9 +120,20 @@ export default {
 
       const meta = await classifyEmail(env, { subject, from, text: classifyText });
       const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n\n${storeText}\n\n---\n`;
-      const existing = await readGitHubFile(env, 'cathy_data/emails.md');
-      const newContent = (existing ? existing.content : '# 收件箱 / Emails\n') + entry;
-      const result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Append email', existing?.sha);
+      let result = null;
+      for (let attempt = 0; attempt < 3; attempt++) {
+        try {
+          const existing = await readGitHubFile(env, 'cathy_data/emails.md');
+          const newContent = (existing ? existing.content : '# 收件箱 / Emails\n') + entry;
+          result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Append email', existing?.sha);
+          if (!result.error) break;
+          // sha 冲突时重试
+          if (result.error && !String(result.error).toLowerCase().includes('sha')) break;
+        } catch (e) {
+          result = { error: e.message };
+          break;
+        }
+      }
       return json({ ...result, meta });
     }
 
@@ -105,7 +160,8 @@ async function readGitHubFile(env, path) {
   const branch = env.GITHUB_BRANCH || 'main';
   const api = `https://api.github.com/repos/${repo}/contents/${path}`;
   const res = await fetch(api + '?ref=' + branch, { headers: { 'Authorization': `Bearer ${token}`, 'User-Agent': 'cathy-worker' } });
-  if (!res.ok) return null;
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`GitHub read ${res.status}`);
   const data = await res.json();
   return { sha: data.sha, content: decodeURIComponent(escape(atob(data.content))) };
 }

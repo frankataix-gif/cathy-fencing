@@ -7,10 +7,11 @@ const CONFIG = {
   WORKER_URL: 'https://cathysync.frankataix.workers.dev/',
 
   // Gmail 搜索条件：
-  //  - 空字符串 '' 表示同步所有未同步的邮件。
-  //  - 想限制发件人，可以改成 'from:usafencing.org OR from:meadowridge.bc.ca'。
+  //  - 推荐使用 'newer_than:7d' 只同步最近 7 天邮件，避免积压旧邮件阻塞实时同步。
+  //  - 想限制发件人，可以改成 'newer_than:7d from:usafencing.org OR from:meadowridge.bc.ca'。
+  //  - 如需一次性全量补历史，可临时改成 ''（空字符串），全量同步后务必改回 newer_than 条件。
   // 注意：usafencing.org 才是 USA Fencing 的真实发件域名（不是 usfencing.org）。
-  SEARCH: '',
+  SEARCH: 'newer_than:7d',
 
   // 用于标记“已同步”的标签名。脚本会自动创建这个标签
   SYNCED_LABEL: 'Cathy/Synced',
