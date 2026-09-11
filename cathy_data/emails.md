@@ -1085,3 +1085,26 @@ https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDh9ADIAAAAAAArfumIUxIZ0ZZ
 https:
 
 ---
+
+## [学校] Admissions Update
+
+**发件人:** HTS Admissions Office <info+hts@fsenrollment.com>
+**日期:** 2026-04-15T20:23:37.000Z
+**摘要:** 申请未被接受，进入等待池，如有空位将联系。
+**待办:** 无
+
+ 
+
+Dear Xiaojun and Jingqi,
+
+We thank you for applying to HTS. This year, we were fortunate to receive a 
+record number of applications to Grade 7 for a limited number of seats. Due 
+to the high retention rate of our current cohort, we are unable to move 
+forward with the next steps for Yunxi's application to Grade 7. 
+
+Yunxi's application will remain active as she will be placed in our wait 
+pool. In the event that a seat opens up, we will contact you. 
+
+Thank you again for considering HTS and 
+
+---
