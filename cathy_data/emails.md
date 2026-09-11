@@ -1147,3 +1147,15 @@ Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelt
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NDd9ADIAAAAAAAjk17CXQUZmCBA_gjFluoaKnGxXHuL0_QYyjG5jXIUhpskVBX_mhOwMzsoh5KxO7d__93tq2STH4kISEc
 
 ---
+
+## [其他] Mutuo no? Scopri l’alternativa: 20 case in affitto con riscatto in Italia
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-04-14T19:01:03.000Z
+**摘要:** 介绍意大利20处租购房产机会
+**待办:** 无
+
+20 occasioni di affitto con riscatto — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
