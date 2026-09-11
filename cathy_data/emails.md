@@ -139,3 +139,31 @@ Plus, some things we picked out for you.
 <https://e.em.hollisterco.com/c2/1979:67903f202ba7492ae32482bf:rm202605031700:69e6429a87fa4e894f0fac35:1/fa7ad007?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE3Nzc4MzE5NDMsImNkIjoiLmVtLmhvbGxpc3RlcmNvLmNvbSIsImNlIjo4NjQwMCwidGsiOiJob2xsaXN0ZXJjbyIsIm10bElEIjoiNjlmNzgyNzA3NjI3NzU2ODU2MGJkMjBlIiwibGlua1VybCI6Imh0dHBzOi8vd3d3LmhvbGxpc3RlcmNvLmNvbS9zaG9wL3VzP3VoZT02ZjE2MDViODUzOGEzMWMwZDEyYmI2ZGNjYmYxNDk2MDFmMjk4MjY0NGU0ZmFkNWJ
 
 ---
+
+## [营销] Save the date: festeggia con noi!🌷
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-05-03T07:19:05.000Z
+**摘要:** 这封邮件是Oltre的促销通知，邀请收件人参加活动并介绍了新品到货和优惠信息。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjV9ADIAAAAAAEAmbx_B3vXjW_NZ6TeP-_aGa_oSF3y-yLbT1E-7Ogn4Jo8BVOoVBa4AHKAJCwkQJ0tQCC7ep8xiIWE-IUxGuA9D-IpF7ZjFnSbOeoCb 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |40.00 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NjV9ADIAAAAAAEAmbx_ClaD1wL3inuuzuLoXm4TLQ5PFECxVrRsVEwn7TiSkmGq7kNh3hfEXcUGMQk9r85r_22Fy4JpbG
+
+---
