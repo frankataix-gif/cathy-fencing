@@ -14719,3 +14719,25 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/Xm3dWD0DQU4APVIoB750_Q~~/AAAHahA~/havGvEKtVhrg2LvvkVutDfvSGPr1NLMBOxWVPIJ
 
 ---
+
+## [营销] ✨ New Boxing Day in Summer deals are here.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-07T11:15:05.000Z
+**摘要:** BestBuy推出夏季 Boxing Day 促销活动，但需要设置账户密码。
+**待办:** 设置BestBuy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NjF9AAcAAAAABPiII_YXEbXEXxD36UiGtvT2boCazUmUKGfPf0LL-QlOoPmUT0xKTdJsu7mml_Gic9REgO296-5IRFVOIzpkNibn7VnzdlT9bdvphkd5-us&CMP=eml-bby-pr-asu-2026-08-07-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2455117&l=52_HTML&mid=7210119&jb=4190&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-07-c_cal-csgsc_glu-g
+
+---
