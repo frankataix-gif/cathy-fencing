@@ -11741,3 +11741,28 @@ Your Home Insurance Quote #7181329
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10152131244-1787791127886.275%26ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D489155.HK-20260827-edm-memberday.2026-08-27_8_0.20260827.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1M
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-26T23:43:19.000Z
+**摘要:** 用户收到加拿大政府服务的一次性登录验证码，并收到不回复邮件的提醒。
+**待办:** 无
+
+ 
+[image: Canada] 
+Verify your login 
+
+Your one-time passcode to log in to your Government of Canada service is:
+
+ES7H5ZKA
+
+This email was sent to nataliewu100@gmail.com.
+
+You received this email because you signed up for a Government of Canada 
+login account.
+
+Please do not reply to this email.
+
+
+---
