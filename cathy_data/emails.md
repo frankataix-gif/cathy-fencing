@@ -21696,3 +21696,23 @@ registration:
    - Go to bmo.com and select the 
 
 ---
+
+## [其他] C’est un plaisir de vous rencontrer de manière électronique / Nice to e-meet you!
+
+**发件人:** CASL-noreply@bmo.com
+**日期:** 2026-07-02T20:43:04.000Z
+**摘要:** 
+**待办:** 无
+
+ 
+[image: BMO] <http://www.bmo.com/principal/particuliers> 
+[image: BMO Banque de Montréal] <http://www.bmo.com/principal/particuliers> 
+C’est un plaisir de vous rencontrer de manière électronique! Restons 
+en contact. 
+Merci de nous avoir donné votre adresse courriel. Si vous le souhaitez, 
+nous pouvons vous envoyer des courriels de temps à autre. 
+*Ne ratez pas l’occasion! Abonnez-vous pour recevoir des courriels de BMO 
+Groupe financier. * 
+En cliquant sur « J’accepte », vous donnez votre con
+
+---
