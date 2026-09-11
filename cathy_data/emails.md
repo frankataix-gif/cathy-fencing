@@ -20871,3 +20871,15 @@ https://myaccount.google.com/notifications
 Che succede 07/07/2026 — idealista/news                Microsoft taglia 4.800 posti, pari al 2,1% della sua forza lavoro. I tagli maggiori riguarderanno Xbox, la cui loccupazione sarà ridotta di 3.200 posti nellanno fiscale 2027. “Il modo in cui la tecnologia viene sviluppata, attuata e utilizzata di sta trasformando rapidamente”, ha detto Amy Coleman, chief people officer di Microsoft. “Riconosco che una ristrutturazione della durata di un anno comporta ulteriori sfide. Purtroppo, non è possibi
 
 ---
+
+## [其他] 港人最愛😍搶日本一口價機票✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-07T01:55:21.000Z
+**摘要:** 
+**待办:** 无
+
+一齊搶👉🏻 HK$799 來回東京、大阪機票 + 今日仲有 10% 回贈 + 更多半價優惠券等你搶🫵🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-1015223365-1783389320911.874%26ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D450319.HK-20260707-EDM-summermega.2026-07-07_8_0.20260707.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQL
+
+---
