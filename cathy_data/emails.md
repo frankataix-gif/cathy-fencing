@@ -13795,3 +13795,25 @@ received offers in the region of £430,000–£450,000.
 
 
 ---
+
+## [待办] Deal Alert: Up to $850 off select robot vacuums
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-14T10:04:01.000Z
+**摘要:** 邮件提醒设置My Best Buy账户密码，并提及机器人吸尘器的折扣促销。
+**待办:** 设置My Best Buy账户密码
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5Njh9AAcAAAAABUN2y5GLFJYGV5N27RoXfNFteM3IsGOsBPccozJ7nGckHpugXRp-_WESXNsph6X2UTejajET9mkQ0mR-80D_vs9TG-vknFWjZ33EIF0J&CMP=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2463284&l=52_HTML&mid=7210119&jb=608&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_n
+
+---
