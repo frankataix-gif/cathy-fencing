@@ -20860,3 +20860,14 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 Amp
 
 ---
+
+## [其他] Che succede 07/07/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-07-07T07:56:28.000Z
+**摘要:** 
+**待办:** 无
+
+Che succede 07/07/2026 — idealista/news                Microsoft taglia 4.800 posti, pari al 2,1% della sua forza lavoro. I tagli maggiori riguarderanno Xbox, la cui loccupazione sarà ridotta di 3.200 posti nellanno fiscale 2027. “Il modo in cui la tecnologia viene sviluppata, attuata e utilizzata di sta trasformando rapidamente”, ha detto Amy Coleman, chief people officer di Microsoft. “Riconosco che una ristrutturazione della durata di un anno comporta ulteriori sfide. Purtroppo, non è possibi
+
+---
