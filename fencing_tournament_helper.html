@@ -679,24 +679,14 @@
 
   <!-- 邮件 -->
   <div id="tab-emails" class="tab-content">
-    <div id="email-ai-card" class="card" style="display:none;">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; flex-wrap:wrap; gap:8px;">
-        <h3 style="margin:0;">邮件 AI 助手</h3>
-        <span id="email-ai-date" style="font-size:0.75rem; color:var(--gray);"></span>
-      </div>
-      <div id="email-ai-summary" style="font-size:0.85rem; line-height:1.6;"></div>
-      <div id="email-ai-actions" style="margin-top:10px;"></div>
-      <div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap;">
-        <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析</button>
-      </div>
-    </div>
     <div class="card">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
         <h2 style="margin:0;">邮件 / Emails</h2>
         <span id="emails-count" style="font-size:0.8rem; color:var(--gray);"></span>
       </div>
       <div id="email-filters" style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
-        <button class="btn active" data-filter="all" style="padding:4px 12px; font-size:0.8rem;">全部</button>
+        <button class="btn active" data-filter="ai" style="padding:4px 12px; font-size:0.8rem;">AI 邮件助手</button>
+        <button class="btn secondary" data-filter="all" style="padding:4px 12px; font-size:0.8rem;">全部邮件</button>
         <button class="btn secondary" data-filter="击剑" style="padding:4px 12px; font-size:0.8rem;">击剑</button>
         <button class="btn secondary" data-filter="学校" style="padding:4px 12px; font-size:0.8rem;">学校</button>
         <button class="btn secondary" data-filter="营销" style="padding:4px 12px; font-size:0.8rem;">营销</button>
@@ -2297,46 +2287,6 @@ function circuitLabel(c) {
     return map;
   }
 
-  function renderEmailAISummary(summary) {
-    const card = document.getElementById('email-ai-card');
-    const body = document.getElementById('email-ai-summary');
-    const actions = document.getElementById('email-ai-actions');
-    const dateEl = document.getElementById('email-ai-date');
-    if (!card || !body) return;
-    if (!summary) { card.style.display = 'none'; return; }
-    card.style.display = 'block';
-    dateEl.textContent = summary.date ? `${summary.date}` : '';
-    const cats = summary.categories || {};
-    const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
-      `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
-    ).join('');
-    let html = '';
-    html += `<div style="margin-bottom:10px;">${catTags}</div>`;
-    html += `<div style="font-weight:600; margin-bottom:6px;">今日重点</div>`;
-    html += `<div style="margin-bottom:10px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>`;
-    if (summary.priority) {
-      html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
-    }
-    body.innerHTML = html;
-    if (summary.actions && summary.actions.length) {
-      actions.innerHTML = summary.actions.map((a, i) =>
-        `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
-          <span style="flex:1; min-width:0;">
-            <span style="background:${taskCategoryColor[a.category] || '#6b7280'}; color:#fff; font-size:10px; padding:1px 6px; border-radius:8px; margin-right:6px;">${escapeHtml(a.category || '待办')}</span>
-            <span style="font-weight:500;">${escapeHtml(a.title || '')}</span>
-            <span style="color:#6b7280; font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span>
-          </span>
-          <button class="btn secondary add-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button>
-        </div>`
-      ).join('');
-      actions.querySelectorAll('.add-ai-task').forEach(btn => {
-        btn.addEventListener('click', () => addAiTask(summary.actions[parseInt(btn.dataset.aiTaskIndex)]));
-      });
-    } else {
-      actions.innerHTML = '';
-    }
-  }
-
   function addAiTask(action) {
     if (!action || !action.title) return;
     const title = action.title;
@@ -2366,36 +2316,29 @@ function circuitLabel(c) {
     const todayEmails = allEmails.filter(e => emailDateLocal(e.date) === today);
     const analyzed = state.analyzedCount || 0;
     const isUpToDate = analyzed >= todayEmails.length;
-    if (state.summary && isUpToDate && !force) {
-      renderEmailAISummary(state.summary);
-      return;
-    }
-    if (todayEmails.length === 0) {
-      document.getElementById('email-ai-card').style.display = 'none';
+    if ((state.summary && isUpToDate && !force) || todayEmails.length === 0) {
+      setEmailAIState(state);
+      if (typeof renderEmailList === 'function') renderEmailList();
       return;
     }
     const toAnalyze = force || !state.summary ? todayEmails.slice(0, 30) : todayEmails.slice(0, todayEmails.length - analyzed).slice(0, 30);
     const previousSummary = force ? null : (state.summary || null);
     const payload = { action: 'email_summary', date: today, previousSummary: previousSummary, newEmails: toAnalyze };
+    window._emailAIAnalyzing = true;
+    if (typeof renderEmailList === 'function') renderEmailList();
     try {
-      document.getElementById('email-ai-summary').innerHTML = '<span style="color:#6b7280;">AI 正在分析邮件…</span>';
-      document.getElementById('email-ai-card').style.display = 'block';
       const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
       const data = await res.json();
       if (data && data.actions) {
         const categories = data.categories || countEmailsByCategory(todayEmails);
         const total = data.total || todayEmails.length;
-        const merged = { ...data, date: today, total: total, categories: categories };
-        state.summary = merged;
+        state.summary = { ...data, date: today, total: total, categories: categories };
         state.analyzedCount = todayEmails.length;
-        setEmailAIState(state);
-        renderEmailAISummary(merged);
-      } else {
-        renderEmailAISummary(state.summary);
       }
-    } catch(e) {
-      renderEmailAISummary(state.summary);
-    }
+    } catch(e) {}
+    window._emailAIAnalyzing = false;
+    setEmailAIState(state);
+    if (typeof renderEmailList === 'function') renderEmailList();
   }
 
   function createChips(container, options, type, labelKey = 'label') {
@@ -4394,7 +4337,7 @@ function circuitLabel(c) {
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v24', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v25', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
         showUpdateBanner();
@@ -4511,7 +4454,7 @@ function circuitLabel(c) {
 
 <script>
   // 邮件 Tab / 待办清单扩展
-  let currentEmailFilter = 'all';
+  let currentEmailFilter = 'ai';
   const taskCategoryColor = { '待办': '#ef4444', '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '其他': '#6b7280' };
 
   function saveTasks() {
@@ -4719,6 +4662,44 @@ function circuitLabel(c) {
     try { return new Date(dateStr).toLocaleDateString('en-CA', { timeZone: HOME_TZ }); } catch(e) { return dateStr.slice(0, 10); }
   }
 
+  function buildEmailAISummaryHTML() {
+    const state = getEmailAIState();
+    const summary = state.summary;
+    if (!summary || !summary.actions) {
+      if (window._emailAIAnalyzing) return '<div style="padding:20px; text-align:center; color:#6b7280;">AI 正在分析邮件…</div>';
+      return '<div class="empty-state">暂无今日邮件分析</div>';
+    }
+    const cats = summary.categories || {};
+    const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
+      `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
+    ).join('');
+    let html = '';
+    html += `<div style="margin-bottom:10px;">${catTags}</div>`;
+    html += `<div style="font-weight:600; margin-bottom:6px;">今日重点</div>`;
+    html += `<div style="margin-bottom:10px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>`;
+    if (summary.priority) {
+      html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
+    }
+    if (summary.actions && summary.actions.length) {
+      html += `<div style="margin-top:10px;">`;
+      html += summary.actions.map((a, i) =>
+        `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
+          <span style="flex:1; min-width:0;">
+            <span style="background:${taskCategoryColor[a.category] || '#6b7280'}; color:#fff; font-size:10px; padding:1px 6px; border-radius:8px; margin-right:6px;">${escapeHtml(a.category || '待办')}</span>
+            <span style="font-weight:500;">${escapeHtml(a.title || '')}</span>
+            <span style="color:#6b7280; font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span>
+          </span>
+          <button class="btn secondary add-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button>
+        </div>`
+      ).join('');
+      html += `</div>`;
+    }
+    html += `<div style="margin-top:12px;">
+      <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析</button>
+    </div>`;
+    return html;
+  }
+
   function renderEmailList(filter) {
     if (filter !== undefined) currentEmailFilter = filter;
     const container = document.getElementById('emails-list-full');
@@ -4728,6 +4709,11 @@ function circuitLabel(c) {
       if (btn.dataset.filter === currentEmailFilter) { btn.classList.add('active'); btn.classList.remove('secondary'); }
       else { btn.classList.remove('active'); btn.classList.add('secondary'); }
     });
+    if (currentEmailFilter === 'ai') {
+      if (countEl) countEl.textContent = 'AI 助手';
+      container.innerHTML = buildEmailAISummaryHTML();
+      return;
+    }
     const list = currentEmailFilter === 'all' ? allEmails : allEmails.filter(e => e.category === currentEmailFilter);
     if (countEl) countEl.textContent = list.length + ' 封';
     if (!list.length) { container.innerHTML = '<div class="empty-state">没有邮件</div>'; return; }
@@ -4761,7 +4747,17 @@ function circuitLabel(c) {
     document.querySelectorAll('#email-filters button[data-filter]').forEach(btn => {
       btn.addEventListener('click', () => renderEmailList(btn.dataset.filter));
     });
-    document.getElementById('email-ai-refresh')?.addEventListener('click', () => updateEmailAISummary(true));
+    document.getElementById('emails-list-full')?.addEventListener('click', (e) => {
+      const refreshBtn = e.target.closest('#email-ai-refresh');
+      if (refreshBtn) { updateEmailAISummary(true); return; }
+      const addBtn = e.target.closest('.add-ai-task');
+      if (addBtn) {
+        const idx = parseInt(addBtn.dataset.aiTaskIndex || '-1');
+        const state = getEmailAIState();
+        const action = state.summary && state.summary.actions ? state.summary.actions[idx] : null;
+        if (action) addAiTask(action);
+      }
+    });
     // 待办编辑器按钮
     document.getElementById('task-editor-close')?.addEventListener('click', closeTaskEditor);
     document.getElementById('task-editor-cancel')?.addEventListener('click', closeTaskEditor);
