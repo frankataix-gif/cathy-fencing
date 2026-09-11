@@ -26506,3 +26506,15 @@ Fidelity card 2939333454571 | Cotone |0.00 punti | 0.00&euro; di credito fedelta
 https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ4NzR9ADIAAAAAAFpFmMknWLPUZiD9OJnwdV8iEzCJp1gZjXjkYU5eYa83Bi6xOVp-u6yVf30sDVARwDitklRROd0b5bAxnt
 
 ---
+
+## [其他] Questa è la regione italiana con più km di costa
+
+**发件人:** idealista <idealista@mailing.idealista.it>
+**日期:** 2026-05-11T11:00:59.000Z
+**摘要:** 邮件介绍意大利海岸线最长的大区，并附有相关链接。
+**待办:** 无
+
+Regione italiana con più km di costa — idealista/news
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
