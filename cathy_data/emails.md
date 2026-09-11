@@ -13124,3 +13124,23 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DFa3e_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRygiUvE-2FJnwsaLGZv3ROjmSA5SAX-2F-2BL5gznN8XfCiWgvLFA6NT6CeipZGh-2BrjEVrWI1sJIBcSNI4LL-2Fc0eObi-2BqxpYmXnW8aUsWpUKzpgXyv1p3encdARO2iyJWMq7Rcz1KZEyF4XADeC2GWVPpls96pC
 
 ---
+
+## [其他] Air Conditioning Control Panel Not Working
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-18T17:17:50.000Z
+**摘要:** Natalie的空调控制面板无法操作，需安排技术人员检查维修。
+**待办:** 安排技术人员检查空调控制面板
+
+Hi,
+
+The air conditioning control panel in my home is not working, and I am unable to operate or turn the air conditioning on and off.
+
+Could you please arrange for a qualified technician to come and inspect the system and help get it working properly?
+
+Please let me know when someone can attend.
+
+Thank you,
+Natalie
+
+---
