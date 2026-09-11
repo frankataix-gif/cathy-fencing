@@ -10185,3 +10185,31 @@ Hi TELUS,
 Your one-time verification co
 
 ---
+
+## [其他] Your My TELUS password is updated
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:54:38.000Z
+**摘要:** 您的My TELUS密码已成功更新，若非本人操作请立即联系客服。
+**待办:** 无
+
+ 
+[image: TELUS] <http://www.telus.com> 
+
+Hi TELUS, 
+You have successfully updated your My TELUS password. 
+
+If you did not update your password, please *contact us* 
+<http://www.telus.com/get-help/contact-us/index.jsp?INTCMP=EmlBtnChgEmlConf>. 
+
+
+Thanks, 
+The TELUS Team 
+
+------------------------------
+
+We would like to hear from you. If you would like to contact us, please 
+click the 'Contact us' link below. We respect your privacy and will not 
+provide your personal information to other parti
+
+---
