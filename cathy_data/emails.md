@@ -14943,3 +14943,21 @@ experience.
 Once you complete the survey, you will be entered into a prize-draw for a *
 
 ---
+
+## [待办] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-06T14:00:38.000Z
+**摘要:** 用户的支付被拒绝，需尽快支付以避免滞纳金。
+**待办:** 需要登录Self Serve进行支付或更新预授权支付信息。
+
+ TELUS 
+
+Trouble viewing this email? View in web browser 
+<https://t.mailing.koodomobile.com/r/?id=hfe23c766,4080a983,2ada1394&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9LTMxMjA5NjI2JnAxPSU0MFpmTTJITTN6d2glMkJOQkdsa0t2Vzd4dmVndEdwQ09QQUZCaUpSeVQ0SE5JdyUzRA&s=b6rKi_t0i_HHoKkp70Pj2JbaX_eot6v5X8SkPkPuwAI>. 
+
+<https://t.mailing.koodomobile.com/r/?id=hfe23c766,4080a983,2ada1395&e=Y2lkPXRlbERNMjIzMTA5NiZiaWQ9LTMxMjA5NjI2&s=8KRF0FKZy_0KdxbzxDm1FnZ0o0uJyzNyQDdsBfF5mCg> 
+Account number: *****652 
+Your recent payment 
+
+---
