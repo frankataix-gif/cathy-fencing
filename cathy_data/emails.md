@@ -25387,3 +25387,16 @@ Newsletter 29/05/2026 — idealista/news     | Mercoledì 27 Maggio 2026
 **********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
+
+## [营销] Che succede 29/05/2026
+
+**发件人:** "idealista/news" <news@quotidiano.idealista.it>
+**日期:** 2026-05-29T07:21:15.000Z
+**摘要:** 邮件提及订阅服务每月费用为3-4美元，提供额外功能如个性化聊天设置和资料优化。
+**待办:** 无
+
+Che succede 29 maggio — idealista/news                  Con una spesa che va dai tre ai quattro dollari al mese chi si abbona potrà avere funzionalità extra rispetto agli utenti gratis. Ad esempio, sul proprio profilo e nelle storie, sulle prime due piattaforme. Sulla chat invece è prevista più personalizzazione con adesivi, suonerie e temi.
+
+***********************************************************************************************************************************************************
+
+---
