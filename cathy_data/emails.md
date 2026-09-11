@@ -20529,3 +20529,15 @@ Curated outfits to pack for a picturesque summer.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] Miss 咗 10% 回贈？優惠繼續狂賞🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-07-07T23:16:35.000Z
+**摘要:** Trip.com推送10%回赠优惠，包括首尔机票、酒店套票及旅行团折扣。
+**待办:** 无
+
+9PM 繼續搶 HK$799 首爾機票＋HK$500 券✈️旅行團半價、長隆酒店套票HK$1,199‼️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154115225-1783466195401.618%26ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D451831.HK-20260708-eDM-77mega.2026-07-08_8_0.20260708.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk
+
+---
