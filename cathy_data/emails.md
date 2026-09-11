@@ -24002,3 +24002,31 @@ Newsletter 12/06/2026 — idealista/news     | Giovedì 11 Giugno 2026 Nella riu
 Che succede 12/06/2026 — idealista/news     Nella riunione dell11 giugno 2026, La Banca Centrale Europea (BCE) ha deciso di alzare di 25 punti base i tre tassi di riferimento. Con questa decisione, ampiamente prevista dal mercato, la BCE cerca di porre un freno allinflazione, tornata a crescere per gli effetti della crisi energetica scatenata dal conflitto in Medio Oriente. Si tratta di una brutta notizia per i consumatori che hanno acceso un mutuo a tasso variabile, misto o che sono in procinto
 
 ---
+
+## [营销] Il tuo buono da 50€ ti sta aspettando ☀️
+
+**发件人:** Oltre Newsletter <newsletter@email.oltre.com>
+**日期:** 2026-06-12T07:05:05.000Z
+**摘要:** 邮件通知用户有一张50欧元的优惠券，可在线上或线下使用，并附有各类商品的链接。
+**待办:** 无
+
+
+  
+ 
+
+ 
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h253PRfInu-9R0PevDinON5uOSRYbHLVCll1nd27YFprPCYR6E1QrWfhDRz4oLwHewoALqFTnNdPGsc582lboTDP5EgMe2P1HU 
+Versione online  
+RITIRO IN NEGOZIO GRATUITO
+
+RESO SEMPRE GRATUITO
+
+
+Fidelity card 2939333454571 | Cotone |0.0 punti | 0.00&euro; di credito fedelta
+
+
+
+
+https://click.email.oltre.com/?qs=ABB7InYiOjEsImQiOjQ5MDV9ADIAAAAAALve4h27NzHB9N-ZRROV2wJXFAafGp27nF3oFkb-yfLQ3Dfgn80Sq9T8-mkhm9KLLA9AM1pVBXwHParsp6fH
+
+---
