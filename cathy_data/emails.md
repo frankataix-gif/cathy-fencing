@@ -10923,3 +10923,20 @@ I’m sorry for the confusion in my previous email. I meant that my new Tesla is
 I will therefore need the EV parking stall around the time the vehicle is delivered, before the end of this year. Could you please confirm whether P4 – Stall #116 is the last EV charging stall available? Would it be possible to reserve it now and begin paying the additional $25 monthly fee w
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-26T15:02:51-04:00
+**摘要:** Natalie询问P4-116是否为最后一个可用的电动车充电车位，并希望确认能否在三月使用，或是否需要立即支付费用。
+**待办:** 确认P4-116的可用性并回复Natalie
+
+Hi Anastasia,
+
+Thank you for the information. I have now ordered a new Tesla, but the vehicle may not be delivered for another three to four months. I expect that I may need the EV parking stall starting in March.
+
+Could you please confirm whether P4 – Stall #116 is the last EV charging stall currently available? Would it be possible to reserve it now and begin using it in March, or would I need to confirm the stall and start paying the additional $25 monthly fee immediately?
+
+Please let me know
+
+---
