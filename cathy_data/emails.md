@@ -9411,3 +9411,40 @@ Subject: Re: Call regarding 9 Arrival Square, E1W 2AA
 EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments be
 
 ---
+
+## [营销] 日本賞楓必去之旅🍁最新演唱會
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-02T00:48:47+00:00
+**摘要:** Trip.com推送日本赏枫之旅及演唱会促销信息，包含燃油费下调和温泉酒店低至3折的优惠，鼓励立即预订。
+**待办:** 无
+
+燃油費下調 + 精選溫泉酒店低至 3 折💰立即預訂👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+ 
+
+---
