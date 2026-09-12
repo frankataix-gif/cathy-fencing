@@ -13420,3 +13420,34 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [营销] RE: FW: Benhams - Flat 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** "Maciej Skalski (Benham and Reeves)" <Maciej.Skalski@benhams.com>
+**日期:** 2026-08-14T11:59:42+01:00
+**摘要:** 邮件讨论房产销售估价建议，建议以47.5万英镑价格上市，并分析市场供应过剩原因。
+**待办:** 无
+
+Dear Frank
+
+
+
+I hope you’re well. It’s nice to speak with you again. Jenny originally
+introduced me to your flat back in January.
+
+
+
+Thank you very much for requesting a sales valuation of your unit at London
+Dock.
+
+
+
+I can see that the property is currently being marketed with Glencoe
+Property at £490,000. We currently have a Manhattan-style apartment in
+Emery Way, which is a fantastic size, marketed at £475,000. We have
+received offers in the region of £430,000–£450,000.
+
+
+
+
+---
