@@ -13770,3 +13770,40 @@ The cost is:
 Please note that this price does not include the supply or installation of additional switching or a dimmer. However, if you already have a dimmer that you would like installed at 
 
 ---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T16:16:03+00:00
+**摘要:** 邮件提醒用户完成未完成的击剑装备订单，并提供链接。
+**待办:** 完成订单购买
+
+Hi jingqi natalie,  You recently visited our online store and we noticed that you didn't complete your order for the following items:   
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 1 x  Foil Blade - Uhlmann BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 2 x  Foil Blade - Allstar BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+    To complete
+
+---
