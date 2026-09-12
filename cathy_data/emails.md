@@ -10235,3 +10235,39 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 “Learning to live well with
 
 ---
+
+## [学校] Ms. Natalie Blomly
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T19:48:47+00:00
+**摘要:** 需要联系Ms. Natalie Blomly并解释情况。
+**待办:** 给Natalie.blomly@meadowridge.bc.ca发邮件说明情况
+
+Hi Natalie,
+
+Please email Ms. Blomly and explain your situation:
+Natalie.blomly@meadowridge.bc.ca
+
+
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well with others and for others, in a just community.”
+
+---
