@@ -4749,3 +4749,25 @@ Watch the event Watch the event
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHs
 
 ---
+
+## [待办] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-10T17:51:45+02:00
+**摘要:** Natalie 因输入错误中国地址无法编辑，请求重新发送链接以正确填写。
+**待办:** 重新发送链接以允许 Natalie 正确填写信息。
+
+Hello Lauren
+I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
+
+Thanks
+在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com>，写道：
+> Hi Natalie,
+>
+> All received our end, thank you.
+>
+> You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+>
+>
+
+---
