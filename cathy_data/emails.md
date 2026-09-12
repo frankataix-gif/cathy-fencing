@@ -12273,3 +12273,23 @@ Sephora
       
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-08-19T15:15:24+00:00
+**摘要:** 邮件提醒客户注意房地产交易中的诈骗风险，强调转账前需核实银行信息并联系律师。
+**待办:** 无
+
+Hi Frank,
+
+Well noted with thanks.
+
+
+kind regards,
+
+Michael Cheng
+Paralegal
+Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an email from Spencer West amending our bank details, please check the email address carefully an
+
+---
