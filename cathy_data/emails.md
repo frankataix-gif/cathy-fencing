@@ -10893,3 +10893,18 @@ DoorDash     -->
       @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-26T19:45:46+00:00
+**摘要:** 邮件回复确认将为Natalie预留电动汽车充电站，无需立即预订或支付费用，建议在车辆到达前一个月联系确认。
+**待办:** 无
+
+Hi Natalie,
+No problem at all, and thank you for clarifying.
+At this time, we expect to have another EV charging stall available, most likely on a higher parking level, closer to when your vehicle arrives.
+There is no need to reserve a stall or start paying the additional $25 monthly fee at this time. Please send me an email approximately one month before your Tesla is expected to arrive, and I will be happy to check the available EV charging stalls and reserve one for you.
+Thank you, and we
+
+---
