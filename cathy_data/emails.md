@@ -13989,3 +13989,30 @@ Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland
 
 
 ---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-12T07:14:22.000Z
+**摘要:** 通知用户收款账户已开通，并提供使用指南。
+**待办:** 无
+
+ Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" wid
+
+---
