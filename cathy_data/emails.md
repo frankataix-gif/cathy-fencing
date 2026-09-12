@@ -10271,3 +10271,24 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 “Learning to live well with others and for others, in a just community.”
 
 ---
+
+## [其他] Fwd: Immigration Advie for Study Permit inside Canada
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-28T21:48:09+02:00
+**摘要:** Vivien Lee 提供加拿大境内学习许可申请的移民咨询，建议 Natalie Wu 联系事务所进行详细咨询。
+**待办:** 联系Vivien Lee事务所进行学习许可咨询
+
+---------- Forwarded message ----------
+From: Vivien Lee <vlee@vivienleeimmigration.com>
+Date: 28 Aug 2026 at 9:45 PM +0200
+To: nataliewu100@gmail.com <nataliewu100@gmail.com>
+Subject: Immigration Advie for Study Permit inside Canada
+
+> Name: Natalie Wu (Mandarin speaking)
+> Phone: 778-255-5899
+>
+> Hello Natalie,
+> Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daugh
+
+---
