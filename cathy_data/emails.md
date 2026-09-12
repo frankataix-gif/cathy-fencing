@@ -9383,3 +9383,31 @@ Could you please confirm if these times are acceptable and ensure the keys are a
 Best regards,
 
 ---
+
+## [其他] RE: Call regarding 9 Arrival Square, E1W 2AA
+
+**发件人:** Akshitsinh Rathod <Akshitsinh.Rathod@foxtons.co.uk>
+**日期:** 2026-09-02T09:16:01+00:00
+**摘要:** 邮件涉及安排通话时间讨论9 Arrival Square房产，并询问后续步骤。
+**待办:** 无
+
+Hi Frank,
+
+Pleasure speaking with you earlier. Please see our availability below:
+
+Today at 6 pm
+Tomorrow between 12-2 pm, 4 and 6 pm
+
+Let me know if that is alright.
+
+Thank you,
+AK
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 25 August 2026 11:30
+To: Akshitsinh Rathod <Akshitsinh.Rathod@foxtons.co.uk>; Frank <frankataix@gmail.com>
+Subject: Re: Call regarding 9 Arrival Square, E1W 2AA
+
+EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments be
+
+---
