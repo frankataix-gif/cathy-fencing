@@ -13645,3 +13645,18 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 Amphith
 
 ---
+
+## [击剑] Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T20:24:08+02:00
+**摘要:** 家长询问是否提供针对击剑比赛的1对1私教课程，并希望安排试课。
+**待办:** 回复是否提供一对一私教课程及安排试课
+
+Dear Coach Eli,
+
+I hope this email finds you well. My name is Frank, and I've been following your training videos on YouTube with great admiration for your coaching methodology.
+My daughter, Cathy, is 13 years old and has been competing in foil Fencing since she was 7. She previously trained in Italy and France, and we have recently relocated to Vancouver. We are now looking for an experienced coach to help her continue to progress through targeted bouting and competition-style training.
+Her
+
+---
