@@ -11935,3 +11935,18 @@ Wechat ID: janie_Q
 Level 20, HKRI Center Tower 2, 288 
 
 ---
+
+## [其他] Why have house prices fallen this month?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-21T16:07:10+00:00
+**摘要:** 邮件探讨了本月房价下跌的原因，指出尽管买家需求略有增加，但要价出现了异常下降。
+**待办:** 无
+
+Asking prices saw above-average drop in August despite a small
+boost in buyer demand              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/c_-sEBBdXYVhcCW_K97zfQ~~/AAAHahA~/MFX71q-CU6johl-lTru2YpehtpJQH_AbNKZ59pwK9XS9WLWedGrSXHKP9GRlaRCWZHvMcoWpfo-NxxVHuGM325_jz9ohWLSZ1nyjjQaseXP8plbx0v0KAAuU0sA7Zn36x9_PKcIjW1nETDUNQH25cL4xSPdeRk5tjyCeNCHx2dc~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/Xqmy13l3TTn-y5BuXem6kw~~/AAAHahA~/rKar_ZU52Pmgdgmj46l8yRD5UB3u1g_ortZ3yG6apxRconWWQX-Ve9b
+
+---
