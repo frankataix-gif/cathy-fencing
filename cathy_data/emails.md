@@ -5935,3 +5935,32 @@ On 9 Sep 2026 at 10:57 AM +0200, Lancer Square General Manager <LancerSquareGM
 > L
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-09-09T08:57:30+00:00
+**摘要:** Lancer Square经理Joshua回复邮件，附上2 Lancer Square的当前EWS1文件，并表示有需要可随时联系。
+**待办:** 无
+
+Good morning, Natalie,
+
+Thank you for the email and for updating me on the situation at Apartment 1.
+
+I attached the current EWS1 in place for 2 Lancer Square.
+
+For anything else, please do not hesitate to ask.
+
+Kind regards,
+Joshua Smith
+General Manager
+Lancer Square
+London, W8 4AX
+LL: +44 (0)20 3897 0655
+M: +44 (0)7730562417
+Email: lancersquaregm@jaresidential.com
+www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?domain=lancersquare.co.uk/>
+
+[cid:i
+
+---
