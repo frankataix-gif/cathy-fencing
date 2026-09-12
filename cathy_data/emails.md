@@ -7468,3 +7468,18 @@ p {
 .trip-mail-fluid-c
 
 ---
+
+## [学校] Welcome to Meadowridge – Your Grade Liaison Is Here for You!
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-05T22:07:51+00:00
+**摘要:** 这封邮件是给七年级家长的欢迎信，介绍年级联络员的角色及沟通方式，包括每周邮件和WhatsApp群组。
+**待办:** 无
+
+Good day, Grade 7 families,
+
+Welcome to Meadowridge or welcome back, Grade 7 Class of 2032! Looking forward to reconnecting with our returning families and getting to know our new families. There are 6 new students with a total of 71 students. I hope your family is excited about the upcoming 2026-27 school year!
+
+I’m your volunteer Grade Liaison for our grade. My parent volunteer role is to help you navigate the school year and keep you in the loop about all things Meadowridge. I will send a
+
+---
