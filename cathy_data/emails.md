@@ -11904,3 +11904,34 @@ DoorDash     -->
 			@font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.com/TTNor
 
 ---
+
+## [其他] Apartment 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** "Jenny Qian (Benham & Reeves)" <jenny@benhams.cn>
+**日期:** 2026-08-22T00:26:52+08:00
+**摘要:** 邮件包含房产销售协议和问卷，需提供业主护照、地址证明及土地登记文件。
+**待办:** 需要提供业主护照、地址证明和土地登记文件
+
+Hi Frank & Natalie,
+
+Please find attached the sales agreement and questionnaire for your review.
+
+Should you be happy to proceed, please could you send us the documents set out below:
+The owner’s passport
+Proof of address
+Land Registry title document
+
+Please feel free to reach out if you have any queries.
+
+Best regards，
+
+Jenny Qian
+Head of Business Development, China
+Benham and Reeves
+
+D +86 187 0172 2292
+Jenny@benhams.cn
+Wechat ID: janie_Q
+Level 20, HKRI Center Tower 2, 288 
+
+---
