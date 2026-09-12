@@ -7283,3 +7283,15 @@ All parents are welcome! We believe that parent involvement plays a key role in 
 Welcome back! We hope you had a wonderful, restful summer filled with sunshine, laughter, and special moments with your
 
 ---
+
+## [营销] Soft new Polartec® fleece is here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-06T12:44:27-06:00
+**摘要:** lululemon推出新款Soft Polartec® fleece产品
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
