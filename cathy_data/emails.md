@@ -7068,3 +7068,31 @@ Buy
 ( https://clicks.foxtons.co.uk/f/a/tcuD3kWOF50-TojRGXiDAw~~/AAAHahA~/Mz_SA2t1mW6oxNaJgA-CUn91GK150DeAvNUF3nT2ugsoNwe0Zv6wr4GkCwt4PxrjvWWfsHXw_IXi98XuJXXI8qwFQ6TxPZbinKbyb_BpmpBfHSaU
 
 ---
+
+## [待办] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-07T11:43:07+02:00
+**摘要:** Frank未收到Thirdfort链接，请求重新发送或指导访问方式。此前邮件中Lauren提及将由团队发送链接给其妻子。
+**待办:** 联系Lauren重新发送Thirdfort链接或获取访问方式
+
+Hello Lauren
+
+Regarding Thirdfort Link: I have not received the Thirdfort link yet. Please resend it or advise me on how to access it.
+
+I look forward to your reply.
+
+frank
+在 Aug 20, 2026, 11:31 +0200，Lauren D'Souza <Lauren.DSouza@knightfrank.com>，写道：
+> Good Morning Frank,
+>
+> I hope you are well.
+>
+> Please find attached a Confirmation of Instruction letter and our Terms of Business for your wife’s review.
+>
+> Please see below for next steps:
+>
+>
+> • Our Client Due Diligence te
+
+---
