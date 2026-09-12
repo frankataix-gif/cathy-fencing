@@ -4333,3 +4333,38 @@ p {
   max-width: 225px !imp
 
 ---
+
+## [营销] Don’t forget to tell us how we did!
+
+**发件人:** lululemon <lululemon@express.medallia.com>
+**日期:** 2026-09-10T16:43:14-07:00
+**摘要:** lululemon邀请Natalie填写反馈调查，以提升客户体验，并提供调查链接和联系方式。
+**待办:** 无
+
+Dear Natalie,
+
+Dear LULULEMON_FIRST_NAME_INVITE_TXT,
+
+We noticed you haven't had a chance to share your feedback with us.
+
+Our goal at lululemon UNIT_NAME is to provide an awesome guest experience. Your feedback is important to us, how did we do?
+
+How likely are you to recommend the lululemon UNIT_NAME location to a friend or family member?
+
+Not likely
+Very likely
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+If you have issues accessing the survey above, you can copy and paste the following U
+
+---
