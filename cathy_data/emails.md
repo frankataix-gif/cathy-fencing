@@ -6135,3 +6135,33 @@ Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-09T08:22:44+00:00
+**摘要:** 邮件请求将Foxtons添加到钥匙豁免名单，因Natalie和Frank已指定其为销售代理并附上销售条款。
+**待办:** 将Foxtons添加到钥匙豁免名单
+
+Dear Concierge,
+
+Gantcho is our Foxtons photographer. Natalie and Frank have instructed Foxtons as their sales agent. See attached sales terms.
+
+Please can you add Foxtons on key waiver list.
+
+Many thanks
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T : 020 7893 6010
+M : 07875 80 2146
+E : Freya.Wan@foxtons.co.uk<mailto:Freya.Wan@foxtons.co.uk>
+W : http://www.foxtons.co.uk
+[Your property flies
+
+---
