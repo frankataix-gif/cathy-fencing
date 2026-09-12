@@ -11830,3 +11830,21 @@ Once confirmed, I will purchase the policy immediately and send you the insuranc
 在 Aug 21, 2026, 23:01 +0200，Smith
 
 ---
+
+## [其他] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-21T21:01:30+00:00
+**摘要:** 邮件要求提供更新的租客保险证明以符合租约第36条的合规要求，否则可能构成违约。
+**待办:** 提交更新的保险证明
+
+
+Dear resident,
+To date, we have not received your current documentation.
+This is an urgent request to provide your updated insurance declaration page to ensure your file remains compliant with your lease obligations.
+As outlined in Section 36 of your signed Residential Tenancy Agreement:
+Liability and Insurance.
+
+  1.  The Tenant agrees to carry sufficient insurance to cover their property against loss or damage from any cause and for third party liability, with a minimum of $2,000,000 l
+
+---
