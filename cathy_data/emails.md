@@ -6599,3 +6599,25 @@ To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
 Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lanc
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-08T10:40:19+02:00
+**摘要:** 邮件确认了Natalie需要通过短信接收Thirdfort链接，并通过电子邮件收到上传身份证件的指示，同时需要完成实时验证（拍摄实时照片）。
+**待办:** 上传身份证件并完成实时验证
+
+hi Lauren
+Thank u for ur message and  just double confirm my number +1 (778) 255-5899
+
+Thanks
+On 8 Sep 2026 at 10:36 AM +0200, Lauren D'Souza <lauren.dsouza@knightfrank.com>, wrote:
+> Hi Natalie,
+>
+> All received our end, thank you.
+>
+> You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+>
+> You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to 
+
+---
