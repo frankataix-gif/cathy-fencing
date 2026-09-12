@@ -4300,3 +4300,36 @@ Tailored for work, ready for after.
 ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] 9.9狂賞🔥HK$399 一口價來回上海+杭州
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-11T01:01:48+00:00
+**摘要:** Trip.com推出9.9促销活动，包含半价高铁路程、HK$99起机票/酒店及Mastercard减价优惠。
+**待办:** 无
+
+倒數 2 日！9AM 搶半價高鐵，12PM 搶 HK$99 起機票/酒店，9PM 用 Mastercard 減 HK$399！全日賺 9% 回贈👉🏻          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !imp
+
+---
