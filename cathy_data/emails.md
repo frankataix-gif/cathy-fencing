@@ -7679,3 +7679,16 @@ Or, open the following link to view this email in a browser:
 https://e.mail.ralphlauren.com/click?ZdJJRb5swFIX5LUjp07raBoxTKdKApSltAyWQleQFGdtQR5gwoJBu2n-f6NotL5P8YvvY597z3WVNe1pJMb5AAL6UispqMtS8n7qSXL_WoU2IZQMbA0IMiwrEiWFQQIH-SWe9fq231WVNL4nBGLehKQwAEZtTWgjKeIEJRTacW_xy0rfTh389
 
 ---
+
+## [营销] 🎁 Jingqi, Claim 500 TELUS Rewards points for a limited time | 🎁 Jingqi, 500 points TELUS Privilèges pour une durée limitée
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-09-04T13:26:54-07:00
+**摘要:** TELUS Rewards通知Jingqi作为黄金会员可领取500点奖励，限时优惠，享受年度超过500美元的福利。
+**待办:** 无
+
+As a Gold tier member, learn about the $500+ annual value in perks | En tant que membre de niveau Or, découvrez la valeur de plus de 500 $ en avantages annuels
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d70&e=Y2lkPXRlbERNMjI5NDc2OCZiaWQ9MzgxMDcxOTcmcDE9JTQwMzFpMldDWnk3QnJSeEJMSTFpVDgyNjQzTUdWOHAyaHB5a2FGanl6aEdFVSUzRA&s=S_Mrd5yeawL4LGnh0Mzm9FYFpIFBbf0A7nyiFDXNJJs web browser . 	
+ https://t.info.telus.com/r/?id=t245783d,409c6284,2af29d71&e=Y2lkPXR
+
+---
