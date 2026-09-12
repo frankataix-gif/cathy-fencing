@@ -11175,3 +11175,29 @@ p {
 .trip-mail-fluid-coupon-claim {
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-25T21:42:19+00:00
+**摘要:** 房东告知有一个可用的电动车停车位，每月额外费用25美元，并询问是否需要继续办理。
+**待办:** 需要确认是否接受电动车停车位并回复房东
+
+Hi Natalie,
+Thank you for reaching out.
+We currently have one EV parking stall available, located on P4 – Stall #116.
+The EV parking stall is an additional $25 per month on top of your regular parking fee.
+If you would like to proceed with the EV parking stall, please let us know and we can proceed with updating your documents accordingly.
+Thank you, and we look forward to hearing from you!
+Best regards,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:ef21be04-018b-442f-
+
+---
