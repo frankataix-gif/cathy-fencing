@@ -6010,3 +6010,36 @@ www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?do
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] RE:  Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-09T08:29:35+00:00
+**摘要:** 询问Foxtons是否在房产钥匙豁免名单上，以便安排查看。
+**待办:** 确认Foxtons是否在钥匙豁免名单上并回复Nancy。
+
+Good morning Natalie,
+
+Thank you very much for your email.
+
+May we have the confirmation that Foxton would be on the key waiver for your property?
+
+We are looking forward to hearing for you soon.
+
+Kind regards,
+Nancy
+Concierge
+
+[cid:image001.png@01DD403D.FA02E7A0]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
+
+
+
+[A green 
+
+---
