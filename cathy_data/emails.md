@@ -4254,3 +4254,22 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5OTZ9AA
 
 
 ---
+
+## [其他] You have been invited to do a Thirdfort check
+
+**发件人:** Thirdfort App <no-reply@thirdfort.io>
+**日期:** 2026-09-11T08:57:09+00:00
+**摘要:** Knight Frank通过Thirdfort应用设置验证检查，需下载应用并等待短信验证码，如未收到需联系Knight Frank确认手机号。
+**待办:** 下载Thirdfort应用，等待短信验证码，如未收到联系Knight Frank确认手机号。
+
+Download Thirdfort now.
+
+Hi Jingqi,
+
+Knight Frank has set up a verification check for you on Thirdfort app.
+
+*Download the Thirdfort app to your smartphone or NFC-enabled tablet* *here* ( https://www.thirdfort.com/support/ ) *.* You can also find it by searching "Thirdfort" in the App Store or Google Play Store. Personal computers are not supported at this time.
+
+*Before you log in, please wait for a text message from Thirdfort.* This text will be sent to the mobile number Knight Frank p
+
+---
