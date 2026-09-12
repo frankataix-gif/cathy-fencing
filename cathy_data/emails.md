@@ -9920,3 +9920,29 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-29T02:05:58+02:00
+**摘要:** 邮件讨论Cathy的入学安排，需完成相关表格并关注学校发送的开学重要信息。
+**待办:** 完成Residency Form、Medical Info等表格，并关注学校邮件中的重要日期。
+
+Adrian 您好，
+
+谢谢您的回复，我也是这个想法。由于临近开学，我们还是想来学校和老师当面沟通解释一下，然后我们再继续等待新的签证。
+
+在等待期间，我们也希望能随时了解学校的一些课程安排，这样即使在外面等待也能不落下进度。我预计几周到 1 个月左右就会有结果。
+
+我会尽快完成您提到的表格。再次感谢您的支持与理解。
+在 Aug 29, 2026, 02:01 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie,
+>
+> 我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+>
+> 昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+>
+>
+> 1. > Complete one Residency Form for the fa
+
+---
