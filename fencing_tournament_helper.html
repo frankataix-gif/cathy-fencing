@@ -823,9 +823,9 @@ let cathyDataRecords = {};
 let scheduleEvents = [];
 let tasks = [];
 let allEmails = [];
-try { cathyDataRecords = JSON.parse(getLocal('cathy_training_data', '{}') || '{}'); } catch(e) { cathyDataRecords = {}; }
-try { scheduleEvents = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { scheduleEvents = []; }
-try { tasks = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { tasks = []; }
+try { cathyDataRecords = JSON.parse(localStorage.getItem('cathy_training_data') || '{}'); } catch(e) { cathyDataRecords = {}; }
+try { scheduleEvents = JSON.parse(localStorage.getItem('cathy_schedule_events') || '[]'); } catch(e) { scheduleEvents = []; }
+try { tasks = JSON.parse(localStorage.getItem('cathy_tasks') || '[]'); } catch(e) { tasks = []; }
 
 const CITY_COORDS = {
   'Vancouver, BC': [49.28, -123.12],
@@ -2020,7 +2020,12 @@ function circuitLabel(c) {
       _isLoadingGitHubData = true;
       const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/user_data.json?_=' + Date.now(), { cache: 'no-cache' });
       _isLoadingGitHubData = false;
-      if (!res.ok) { _autoSyncEnabled = true; return; }
+      if (!res.ok) {
+        _autoSyncEnabled = true;
+        if (typeof renderTasks === 'function') renderTasks();
+        if (typeof renderUpcoming === 'function') renderUpcoming();
+        return;
+      }
       const data = await res.json();
       _isLoadingGitHubData = true;
       if (data.registrations && typeof data.registrations === 'object') {
@@ -2058,6 +2063,8 @@ function circuitLabel(c) {
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
+      if (typeof renderTasks === 'function') renderTasks();
+      if (typeof renderUpcoming === 'function') renderUpcoming();
     }
   }
 
