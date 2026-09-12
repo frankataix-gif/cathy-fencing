@@ -12763,3 +12763,40 @@ Natalie，您即将在Apple iPhone上完成 Google设置
 件，是因为您最近在Apple i
 
 ---
+
+## [其他] 您与“TradingView”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-08-17T15:25:03-07:00
+**摘要:** 这封邮件通知用户其Google账号数据在8月17日被共享给TradingView，包括姓名、照片和邮箱信息，但目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 8月17日15:24 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR3NL9KpSwBgZXqsm9lsGPsxzqq1vSJw1xmo5rzAkVwL1fIq3rGcyCruPP_Dm73c0yTLY0F3-DqfOkoYWuOaltAx_xOShUrg>TradingView”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 8月17日15:24 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR
+
+---
