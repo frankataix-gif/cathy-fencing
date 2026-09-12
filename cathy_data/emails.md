@@ -13057,3 +13057,32 @@ On Thu, Aug 13, 2026 at 11:24 natalie <nataliewu100@gmail.com> wrote:
 > I hope this email finds
 
 ---
+
+## [击剑] Re: Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+
+**发件人:** Simon Lindinger <Simon@sclass.ca>
+**日期:** 2026-08-15T12:20:41-07:00
+**摘要:** Simon回复Frank关于女儿击剑课程的咨询，提到Eli将在下周联系，并介绍了一对一课程、团体课和对抗训练选项，同时提供更多信息和联系方式。
+**待办:** 无
+
+Hi Frank,
+
+Thanks for reaching out. It’s great to see ethat you both enjoy the YouTube
+channel !! Eli is currently out of office this week but i will have him
+reach out to you when he’s back end of next week.
+
+We do offer 1:1 classes, as well as competitive group classes and bouting.
+
+In the mean if you have questions let me know, happy to send over more info
+on club schedules, pricing etc
+
+You can also contact via WhatsApp at +352661554498
+
+Best,
+
+Simon
+
+
+On Thu, Aug 13, 2026 
+
+---
