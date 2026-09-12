@@ -12232,3 +12232,44 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-19T15:48:32+00:00
+**摘要:** 关于GCKey登录的验证请求
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
