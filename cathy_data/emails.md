@@ -10488,3 +10488,33 @@ Sephora
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODJ9AAcAAAAABdiiH7WJBoce8umGBaQHX-Qw5mFuGDCzUlYFGGSUoy0xY3eH9lTo2EY8IiiUBspVpzikHcCL9Fdrc2pM02Vem7EQF-YvMa-Xdh0K8IeQbA&CMP=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2479573&l=37_HTML&mid=7210119&jb=993&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-28-c_cal-csgsc_glu-gc
 
 ---
+
+## [营销] Traveller 夹克
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-08-28T03:23:45-06:00
+**摘要:** 这封邮件是Loro Piana发布的Traveller夹克广告，宣传其作为行旅人生的经典之作。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+献给行旅人生的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+---
