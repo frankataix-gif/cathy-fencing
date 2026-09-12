@@ -13681,3 +13681,32 @@ Her
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-13T16:53:40+00:00
+**摘要:** Natalie同意支付240加元加税的安装费用，Anastasia将安排电工进行安装并确认具体时间。
+**待办:** 无
+
+Hi Natalie,
+Thank you. I’ll coordinate the installation and arrange for the electrician to attend as soon as possible.
+I’ll confirm the date and time with you once it is scheduled.
+Thank you,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:c456fb3a-ef19-4a57-95bd-8c7d55d41685]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is int
+
+---
