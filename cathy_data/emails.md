@@ -4102,3 +4102,24 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" 
 
 ---
+
+## [其他] Stop clicking run ⚡
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-11T16:28:21+00:00
+**摘要:** 邮件提醒用户将场景设置为自动运行，以提高工作效率。
+**待办:** 切换调度开关以自动运行场景
+
+natalie, one toggle and your scenario runs on its own  
+
+Logo ( https://www.make.com?utm_campaign=Congrats+%F0%9F%8E%8A+%2B+Scheduling&utm_medium=email&utm_source=customer.io )
+
+*************************************************
+Your first scenario works, let it run without you
+*************************************************
+
+Nice work, natalie – you've built a working scenario.
+
+If you're still triggering it manually, switch the scheduling toggle at the bottom left of the Scenario Bu
+
+---
