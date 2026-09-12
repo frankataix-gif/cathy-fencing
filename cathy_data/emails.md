@@ -4794,3 +4794,26 @@ Sephora
      .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table,
 
 ---
+
+## [其他] Welcome! Describe what you want, we’ll build it ✅
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-10T13:26:23+00:00
+**摘要:** 欢迎Natalie加入Make，介绍AI助手Maia可帮助创建自动化流程，无需复杂设置。
+**待办:** 无
+
+No setup needed.  
+
+Logo ( https://www.make.com?utm_campaign=Welcome_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hero image ( http://www.make.com/open-scenario-builder?utm_campaign=Welcome_Beginner&utm_medium=email&utm_source=customer.io )
+
+*************************
+Welcome to Make, natalie!
+*************************
+
+Ready to get rid of your manual tasks?
+
+You don’t need to learn everything upfront. Just open the builder, describe what you want, and our AI co-worker Maia wil
+
+---
