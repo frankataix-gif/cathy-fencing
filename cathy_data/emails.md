@@ -9448,3 +9448,17 @@ p {
  
 
 ---
+
+## [营销] Welcome to Browns!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-02T00:15:29+00:00
+**摘要:** 这封邮件是Browns Shoes的欢迎邮件，宣传其鞋子品牌，强调风格、舒适和质量，并鼓励用户立即购物。
+**待办:** 无
+
+Enter a world of style, comfort and quality.
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1mZgd3pphdc24Uaa8Xf8zEuB8gyV73K778TWzkzgfTF4-3DSwye_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANeTWvU0ZChTJ8HbiMvwFBnI16THdkc8mXsr2PWrG9tzdT0Obd-2BkTnOJh3cBIpjyE1zfWMocp6ET6s3SbOwFHTEWNt-2BoybF9SM5-2FMlGUP7YjEByI5Gdvk5WAUbcmCcVuW2nC4tirq8Noayzhn
+
+---
