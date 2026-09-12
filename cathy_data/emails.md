@@ -7978,3 +7978,31 @@ How’s your new gear?
     .................................
 
 ---
+
+## [其他] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-03T19:36:30-04:00
+**摘要:** TELUS通知用户号码***-***-5899在美国境内漫游，提醒注意漫游费用及套餐详情。
+**待办:** 无
+
+TELUS 
+ 
+body{margin:auto; border:2px solid white; padding:0px; width:70%; font-family:Arial, Times, serif;}
+ 
+ 
+ 
+  
+ 
+   
+ 
+  
+  
+ 
+   Hello, 
+    
+   Looks like ***-***-5899 has connected to a roaming network in USA. 
+    
+   Just so you know, if they have a roaming package that covers this destination, their usage will be billed at the rates of that package. Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts $0.75/MSG (1 message = 160 characters) (ma
+
+---
