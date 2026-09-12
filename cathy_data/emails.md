@@ -6568,3 +6568,34 @@ CANADIAN LEGACY SINCE 1940
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-08T09:02:55+00:00
+**摘要:** Natalie确认信息，Lauren将尽快发送链接至Thirdfort。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for confirming, I will request for the link to be issued asap.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 08 September 2026 09:40
+To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lanc
+
+---
