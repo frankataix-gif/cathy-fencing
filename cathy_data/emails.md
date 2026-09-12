@@ -5446,3 +5446,25 @@ t  604.467.4444 (ext. 194)
 vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
 
 ---
+
+## [学校] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-09T21:30:03+02:00
+**摘要:** Natalie回复关于未完成表格的情况，并提供联系方式
+**待办:** 无
+
+Hi Vivian,
+
+I have completed the online forms. Since we are currently in the U.S. waiting for our Canadian student visa, I have uploaded the travel visa page for now. I will provide the student visa as soon as it is issued.
+
+Regarding the other two forms, I am unsure how to complete them, so I have included the contact information below for your assistance:
+
+• Natalie WU Jingqi (Mother): 1-778-255-5899
+• Li Wanlin (Custodian): 1-778-316-6086
+
+Thank you for your help.
+
+the best regards
+
+---
