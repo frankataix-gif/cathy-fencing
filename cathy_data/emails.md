@@ -10581,3 +10581,15 @@ In addition to viewing your usage, bill and amount due, use Self Serve to switch
       
 
 ---
+
+## [营销] Re-order your moisturizer go-to today 📦 💫
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-08-27T23:34:47+00:00
+**摘要:** 提醒重新订购保湿霜，建议今天下单。
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
