@@ -8118,3 +8118,36 @@ My City, My People   BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NG78c20knzW-2FHy4b91I5RIItI4CWOMo-2FLsxdnnE3agdA-3D-3DSuAB_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFgbqXnU-2BCooZUn-2BeoviB0k1oKRDu4fxP16RteHVLsoVf-2FJXLjMoSetVuOnIq0NFlRbey-2FPpaFCugkeWwjHga9CAVngs0NpJTaxPig-2BUVu70puyfKLjekQdrb8rHxBkyEp-2Bxpn7wCcwRcz9OS4EnjmtpLo2hwTgbThPRlYb9qM5YpX6h8zKLgobpLRavt1
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-03T14:25:45+02:00
+**摘要:** Natalie请求安排Foxtons中介Freya Wan在下午1-2点查看房产，Sean已确认提供钥匙。
+**待办:** 无
+
+Hi Sean
+
+I hope this email finds you well.
+
+i have another agency from Foxtons and they would like to view the house, please help them for the viewing:
+
+Agent name: Freya Wan
+Email: <Freya.Wan@foxtons.co.uk>,
+
+they will come this afternoon around 1-2 pm, thank you!
+
+The best regards
+
+Natalie
+
+在 Sep 2, 2026, 11:40 +0200，London Dock Concierge <concierge@mylondondock.net>，写道：
+> Hi Natalie,
+>
+> Thank you for your email.
+>
+> We will release the key as requested.
+>
+> Kind regards
+
+---
