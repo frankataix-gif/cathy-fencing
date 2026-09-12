@@ -8990,3 +8990,42 @@ Welcome to PayPal
       display: 
 
 ---
+
+## [其他] 请确认您的电子邮箱
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:55:16+00:00
+**摘要:** 发件人要求确认电子邮箱，但邮件内容不完整。
+**待办:** 无
+
+#outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: 
+
+---
