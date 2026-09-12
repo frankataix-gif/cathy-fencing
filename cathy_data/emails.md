@@ -13930,3 +13930,20 @@ Leave a Review zh        p {font-family: sans-serif !important;}
 ( https://clicks.sparkmailapp.com/f/a/heA
 
 ---
+
+## [学校] Unit 1 Overview and Learning Resources
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-12T05:39:38.000Z
+**摘要:** 老师介绍法语课程第一单元的学习内容，包括加拿大自然、语法点及10月27日的写作评估。
+**待办:** 无
+
+Dear Parents and Guardians,
+
+I hope you and your family had a relaxing and enjoyable summer. As we begin a new school year, I am excited to welcome your child back to French class and look forward to exploring new worlds of the French language and culture together. Thank you for your continued support and partnership in your child's learning journey.
+
+Unit 1: Nature in Canada
+
+Throughout our first unit, students will explore Nature in Canada while developing their French language skills. T
+
+---
