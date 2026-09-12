@@ -14192,3 +14192,17 @@ Thank You, Volunteers!
 A huge thank you to all the amazing volunteers who helped make our Spirit Day and Welcome Back Picnic such a success. From setting up, we
 
 ---
+
+## [学校] Grade 7 Weekly Reminders for Sep 14-18
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-12T21:22:47.000Z
+**摘要:** 邮件总结了七年级本周活动，并提醒下周的着装要求及农场旅行安排。
+**待办:** 学生需根据要求准备下周旅行的衣物和装备。
+
+Good day, Grade 7 Families,
+We survived week 1, well done!
+Spirit Day (Go Alouette!) and the Welcome Back Picnic was a success, thanks to all staff, teachers, and parent volunteers for your time and enthusiasm. It was a fun day connecting with everyone!
+Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/09f12051-5d70-4591-ad1c-35c5b49a02fd> to read this week’s eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can g
+
+---
