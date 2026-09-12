@@ -6165,3 +6165,28 @@ W : http://www.foxtons.co.uk
 [Your property flies
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-09T10:07:16+02:00
+**摘要:** 业主确认KnightFrank为公寓销售代理，澄清Glenco仅为租赁代理的身份。
+**待办:** 无
+
+Hi Josh
+
+
+This is Wu Jingqi. I am owner for Apt 1
+
+I would like to clarify that I have officially appointed KnightFrank as my sales agent for the property at Apartment 1, 2 Lancer Square as I am preparing to sell this property!
+
+Please note that Glenco is only authorized as the letting agent for the property.
+
+I hope this clears up any confusion regarding Knight Frank’s engagement. Thank you for your assistance.
+
+Please let me know if u need any further request!
+
+Thank u
+On 9 Sep 2
+
+---
