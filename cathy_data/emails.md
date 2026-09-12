@@ -9995,3 +9995,18 @@ Manage your bill preference
 Monitor your monthly Interne
 
 ---
+
+## [待办] Re: Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+**发件人:** Yee Cheng Leong <ycleong@vivienleeimmigration.com>
+**日期:** 2026-08-28T22:05:34+00:00
+**摘要:** 邮件请求确认咨询时间并支付费用，需提前准备护照等文件。
+**待办:** 确认可用时间并支付费用
+
+Hi Natalie,
+
+This is Yee Cheng, and I will be assisting you to schedule your consultation with Vivien. The fees for this Tier 2 1-hour consultation will be CAD $483 ($460 plus 5% GST) payable at least 2 days prior to consultation date by Interac E-Transfer (for those with Canadian bank accounts – instructions can be found below) or by Credit Card (attached credit card payment form).
+
+Proposed consultation times:- Vivien’s next availabilities are stated below. Given our tight schedule, kindly
+
+---
