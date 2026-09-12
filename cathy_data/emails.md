@@ -9897,3 +9897,14 @@ Sephora
       
 
 ---
+
+## [其他] We updated your application status (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-29T17:35:00+00:00
+**摘要:** 这封邮件通知用户加拿大的移民申请状态已更新，需要登录账户查看具体变化。
+**待办:** 无
+
+Application number : S307997826  Your application status has changes.   To check what's changed with your application's status:   1. Sign in to your account.  2. Click  Check full application status  under  View the applications you submitted .          Sign in to your account                This message is intended for nataliewu100@gmail.com. If this message was sent to you in error and does not pertain to you, please delete it.   This email was sent to you because you opted in to receiving ema
+
+---
