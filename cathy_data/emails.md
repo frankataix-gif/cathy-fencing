@@ -6290,3 +6290,22 @@ knightfrank.com
 This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but n
 
 ---
+
+## [学校] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-08T21:46:43-07:00
+**摘要:** Cathy无法登录学校账户，Natalie请求提供新密码。
+**待办:** 发送新密码
+
+Hi Ms.Hook,
+
+I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today
+but the password was incorrect. Can you please send me the new password?
+p.s. You can contact me with this email.
+
+Thanks,
+Natalie
+
+
+---
