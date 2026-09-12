@@ -12332,3 +12332,17 @@ TA6 Property Information Form
 TA7 Leasehold
 
 ---
+
+## [其他] Billing Problem
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-19T13:10:08+00:00
+**摘要:** 关于账单问题的邮件
+**待办:** 无
+
+.left-gutter { width: 20px !important; }
+.right-gutter { width: 20px !important; }
+a.footer-link:hover, a.highlight-link:hover, a.undecorated:hover { text-decoration: underline !important; }
+button.action {font-size: 17px;line-height: 1.47059;font-weight: 400;letter-spacing: -0.022em;font-family:system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif;background-color: #0070c9;border-color: #07c;border-width: 1px;border-style: solid;border-radius: 4
+
+---
