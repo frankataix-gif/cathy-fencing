@@ -7307,3 +7307,28 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-06T17:39:06+02:00
+**摘要:** 邮件提及已上传销售条款材料，需签署并返回协议，同时提供业主的身份证明和地址证明文件。
+**待办:** 需签署销售条款并提交业主的身份证明和地址证明文件
+
+Dear Freya,
+
+I have uploaded the required materials as requested. Please check if everything is in order or if there is anything else needed.
+
+Best regards,
+在 Sep 4, 2026, 20:07 +0200，Freya Wan <Freya.Wan@foxtons.co.uk>，写道：
+>
+>
+> Dear Natalie and Frank
+>
+> Please see attached terms.
+>
+> The current price should be £475k- £525k.  We will list the property for £495,000 for start and attract more interests.
+>
+> Our standard sole agency fee is £2.5% plus vat, see attached T&C. We recog
+
+---
