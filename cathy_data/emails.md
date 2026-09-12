@@ -9498,3 +9498,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3Dbdbo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHQgJALsi1IsXZcsgLfh8DUOGL1F2OEN9LOb6zrOFxRKn6aiX-2FfB1EcvRPfsrT2-2F6X4zfzPGHn4HqR85iIguPJLOaLDxS3xr58zilon44WiV9uGPUSqbZpHK0LWlrsusQPis9KSlF13E6lSe8BsonDU1MTpga
 
 ---
+
+## [营销] You’re gonna love these rewards from Korean skincare faves
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-01T16:19:01+00:00
+**摘要:** 这封邮件介绍了Sephora韩国护肤品牌的奖励活动。
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
