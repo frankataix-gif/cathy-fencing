@@ -7033,3 +7033,23 @@ https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81
 If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-07T11:33:17+00:00
+**摘要:** 邮件涉及房产交易文件的处理，包括发送电子签名链接和Thirdfort的验证链接，并感谢Frank提供的文件。
+**待办:** 无
+
+Hi Frank,
+
+Please see attached our Multiple Agency Terms of Business – I will send these to your wife via Docusign so she can sign them electronically.
+
+Thank you for also returning the completed Property Information Form.
+
+In regards to Thirdfort, I have requested for a link to be sent directly to your wife (unfortunately you cannot complete this for her as it is a live verification system).
+
+Thank you for the additional documents, we will keep you updated on next steps in due course.
+
+
+---
