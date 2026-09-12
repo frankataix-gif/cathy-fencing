@@ -12493,3 +12493,32 @@ p {
 .trip-mail-
 
 ---
+
+## [其他] Re: Air Conditioning Control Panel Not Working
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-18T21:23:11+00:00
+**摘要:** 租户报告空调控制面板故障，房东确认问题已修复。
+**待办:** 无
+
+Hi Natalie,
+Thank you for letting us know. The issue with the air conditioning control panel has been fixed.
+Please let us know if you experience any further issues.
+Best,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:0e107e8f-8d23-4963-a55e-a4f8b4335581]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the
+
+---
