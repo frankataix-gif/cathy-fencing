@@ -10363,3 +10363,14 @@ DoorDash Email     -->
       
 
 ---
+
+## [其他] We sent you a message about your application (S307997826)
+
+**发件人:** donotreply@cic.gc.ca
+**日期:** 2026-08-28T17:35:03+00:00
+**摘要:** 移民局通知您有新的申请相关消息，请登录账户查看。若非本人申请请删除此邮件。
+**待办:** 查看申请状态并阅读消息
+
+Application number : S307997826  A message about your application is waiting for you.   We sent you a message about your application to your account.   To read your message:  1. Sign in to your account. 2. Click  Check full application status  under  View the applications you submitted . 3. Scroll down to the  Messages about your application  section. 4. Click on the  Subject  of the new message to read it.            Sign in to your account          We send messages to your account if we need s
+
+---
