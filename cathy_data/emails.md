@@ -5322,3 +5322,38 @@ Darcie Hook <Darcie.Hook@meadowridge.bc.ca>于2026年9月9日 周三11:32写道�
 > *Sent:* Tuesday
 
 ---
+
+## [其他] Your Koodo e.Bill is ready. An overdue balance requires your attention, please review.
+
+**发件人:** Koodo <koodobilling@mailing.koodomobile.com>
+**日期:** 2026-09-09T14:02:37-07:00
+**摘要:** Koodo通知用户三月电子账单已生成，存在逾期余额需及时处理，并建议设置预授权支付以避免滞纳金。
+**待办:** 查看账单并处理逾期余额
+
+Trouble viewing this email? View in web browser 
+
+   
+Hello , 
+Your E-Bill for March is ready and can be viewed on Self Serve.
+
+
+Avoid late payment charges by signing up for pre-authorized payments. It’s a convenient and hassle free option for paying your monthly bill. 
+
+Learn more about your bill:
+
+Partial charges explained 
+
+
+Account #: 
+
+Total amount due: 
+ 
+Recent payments may not be reflected on this bill.
+
+If received by: 
+
+Login to Self Serve 
+
+Please do not reply 
+
+---
