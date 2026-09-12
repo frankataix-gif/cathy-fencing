@@ -6190,3 +6190,31 @@ Thank u
 On 9 Sep 2
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-09-09T07:58:21+00:00
+**摘要:** 询问Knight Frank是否负责公寓1和2的代理事宜，并指出记录中未显示Jordanna为指定代理。
+**待办:** 确认Knight Frank是否为公寓1和2的指定代理并回复邮件
+
+Good morning Jordanna,
+
+Please can I ask how Knight frank are engaged with Apartment 1 / 2 lancer.  According to my records you are not the listed agent for the property.
+
+Kind regards,
+Joshua Smith
+General Manager
+Lancer Square
+London, W8 4AX
+LL: +44 (0)20 3897 0655
+M: +44 (0)7730562417
+Email: lancersquaregm@jaresidential.com
+www.lancersquare.co.uk<https://protect-eu.mimecast.com/s/aQ77CLJk5Uk57MIqDbUA?domain=lancersquare.co.uk/>
+
+[cid:image001.png@01DD4039.4BFF50C0]
+
+
+LANCER S
+
+---
