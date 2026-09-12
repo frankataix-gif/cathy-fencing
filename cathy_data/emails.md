@@ -14111,3 +14111,20 @@ From Clarins, Estée Lauder, and more.
 <https://app.sephora.com/T/v61000001a0966042809e83ebf4bbc782e8/b7798072e4ed4c890000021ef3a0bcc2/b7798072-e4
 
 ---
+
+## [营销] 40% off is waiting for you
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-12T16:43:29.000Z
+**摘要:** DoorDash推出40%折扣活动，鼓励用户使用以节省更多费用。
+**待办:** 无
+
+ DoorDash 2x the savings on groceries and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
