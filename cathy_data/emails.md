@@ -5374,3 +5374,40 @@ What’s Link?
 A safe way to pay faster at Nick Itkin LLC and everywhere Link is accepted. Lea
 
 ---
+
+## [其他] 您与“blackbaud.com”共享了一些 Google 账号数据
+
+**发件人:** Google <noreply-accounts@google.com>
+**日期:** 2026-09-09T13:28:52-07:00
+**摘要:** Google通知用户于9月9日通过其账号登录blackbaud.com，并共享了姓名、照片和邮箱信息，但目前无需采取行动。
+**待办:** 无
+
+掌控您的 Google 账号数据
+
+
+
+nataliewu100@gmail.com
+
+ 
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+
+我们向您发送这封邮件，是因为您于 9月9日13:28 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyWgmQIpYSct8kqLWsSDqDdk6XXSMWoCd0ASPhQ6hPsBhUFXrTUQABe8v8RVxDyPLHFVGC7zyUCxX7oYy80iKR3ZiN1n4G2vW95BnmirmPLUpIYjdi3>blackbaud.com”。
+
+这封邮件总结了您共享的信息。目前，您无需采取任何措施。
+
+
+<!--[if !mso]><!-->
+
+<!--[if false]><!-->
+
+<!--[if false]><!-->
+
+我们向您发送这封邮件，是因为您于 9月9日13:28 使用 Google 账号登录了 
+“<https://c.gle/ACT4xYyWgmQIpYSct8kqLWsSDqDdk6
+
+---
