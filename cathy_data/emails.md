@@ -9579,3 +9579,39 @@ You’re ready for a change of scenery.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 新加坡航空低至 75 折！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-01T08:34:40+00:00
+**摘要:** Trip.com 发送的新加坡航空限时优惠邮件，机票低至75折，目的地包括新加坡、巴厘岛和澳洲，起价2,500港币。
+**待办:** 无
+
+限時優惠🔥飛新加坡、峇里島、澳洲低至 HK$2,5XX🧳即刻預訂👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-cl
+
+---
