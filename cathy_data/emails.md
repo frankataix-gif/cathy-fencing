@@ -13283,3 +13283,44 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/0K8p6mNV92yNAKbdeNM57Q~~/AAAHahA~/IUHupsJfZcfhKBH-0OFDt6sOu4bCnkdf8KwYJ9wXzVqAtY2dWnaiVuXyDB7gvlaSPbpT0CyUuPi8l-MFGsK3bR1u
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-14T15:30:14+00:00
+**摘要:** 邮件涉及GCKey登录验证，可能需要用户进行身份确认。
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
