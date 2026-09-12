@@ -11585,3 +11585,15 @@ Make a payment to continue service
    
 
 ---
+
+## [营销] Foundation skeptics, this base is for you 😍
+
+**发件人:** Sephora App Fest <shop@beauty.sephora.com>
+**日期:** 2026-08-23T13:18:33+00:00
+**摘要:** Sephora推广一款针对粉底液怀疑者的底妆产品，旨在吸引潜在客户尝试。
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
