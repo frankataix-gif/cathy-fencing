@@ -7233,3 +7233,38 @@ Your next action item: suiting.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] Tell us how we did!
+
+**发件人:** lululemon <lululemon@express.medallia.com>
+**日期:** 2026-09-06T16:41:27-07:00
+**摘要:** lululemon邀请客户参与反馈调查，以了解客户体验并改进服务。
+**待办:** 填写调查问卷
+
+Dear LULULEMON_FIRST_NAME_INVITE_TXT,
+
+Our goal at lululemon UNIT_NAME is to provide an awesome guest experience. Your feedback is important to us, how did we do?
+How likely are you to recommend the lululemon UNIT_NAME location to a friend or family member?
+
+Not likely
+Very likely
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+If you have issues accessing the survey above, you can copy and paste the following URL into your browser: http://example.com
+
+
+With gratitude,
+lululemon
+----------------
+
+---
