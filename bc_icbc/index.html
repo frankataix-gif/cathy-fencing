@@ -1,0 +1,4256 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BC / ICBC 驾照理论 300 题刷题</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f7fa;
+            color: #333;
+            font-size: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            margin-bottom: 10px;
+            color: #1a5276;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 24px;
+            font-size: 18px;
+        }
+        .menu {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            align-items: center;
+            margin-top: 30px;
+        }
+        .menu button {
+            width: 80%;
+            padding: 20px;
+            font-size: 24px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            background: #2874a6;
+            color: #fff;
+            transition: background 0.2s;
+        }
+        .menu button:hover { background: #1a5276; }
+        .menu .exam { background: #c0392b; }
+        .menu .exam:hover { background: #922b21; }
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .category {
+            display: inline-block;
+            background: #eaf2f8;
+            color: #1a5276;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .progress {
+            font-size: 20px;
+            color: #555;
+        }
+        .question {
+            font-size: 26px;
+            line-height: 1.5;
+            margin: 20px 0;
+            font-weight: 500;
+        }
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin: 20px 0;
+        }
+        .option {
+            padding: 18px;
+            font-size: 22px;
+            border: 2px solid #d5d8dc;
+            border-radius: 12px;
+            background: #fff;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s;
+        }
+        .option:hover { background: #f0f3f4; }
+        .option.correct {
+            background: #d5f5e3;
+            border-color: #27ae60;
+            color: #145a32;
+        }
+        .option.wrong {
+            background: #f5b7b1;
+            border-color: #c0392b;
+            color: #641e16;
+        }
+        .option:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .explanation {
+            margin-top: 20px;
+            padding: 18px;
+            background: #fef9e7;
+            border-left: 6px solid #f1c40f;
+            border-radius: 8px;
+            font-size: 20px;
+            line-height: 1.5;
+            display: none;
+        }
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 24px;
+            gap: 12px;
+        }
+        .controls button {
+            flex: 1;
+            padding: 16px;
+            font-size: 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            background: #2874a6;
+            color: #fff;
+        }
+        .controls button:disabled {
+            background: #bbb;
+            cursor: not-allowed;
+        }
+        .controls button.secondary {
+            background: #85929e;
+        }
+        .result {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .result h2 {
+            font-size: 32px;
+            margin-bottom: 16px;
+        }
+        .result .score {
+            font-size: 48px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .result .pass { color: #27ae60; }
+        .result .fail { color: #c0392b; }
+        .wrong-list {
+            text-align: left;
+            margin-top: 24px;
+            font-size: 18px;
+        }
+        .wrong-list li {
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        @media (max-width: 600px) {
+            body { font-size: 18px; padding: 10px; }
+            h1 { font-size: 26px; }
+            .question { font-size: 22px; }
+            .option { font-size: 20px; }
+            .menu button { width: 100%; font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BC / ICBC 驾照理论</h1>
+        <div class="subtitle">300 题刷题网页</div>
+        <div id="app">
+            <div class="menu">
+                <button onclick="startPractice()">顺序练习（300 题）</button>
+                <button class="exam" onclick="startExam()">50 题模拟考试（答对 40 题及格）</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+  {
+    "num": 1,
+    "category": "1–10 道路标志",
+    "question": "红色八角形 STOP 标志要求驾驶员：",
+    "options": {
+      "A": "减速观察",
+      "B": "完全停车，确认安全后再行驶",
+      "C": "没有车辆可以直接通过",
+      "D": "鸣笛后通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 2,
+    "category": "1–10 道路标志",
+    "question": "倒三角形 YIELD 标志表示：",
+    "options": {
+      "A": "必须停车",
+      "B": "减速，并在需要时停车让行",
+      "C": "加速通过",
+      "D": "禁止进入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 3,
+    "category": "1–10 道路标志",
+    "question": "黄色菱形道路标志通常表示：",
+    "options": {
+      "A": "法规要求",
+      "B": "警告前方道路状况或危险",
+      "C": "服务设施",
+      "D": "停车区域"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 4,
+    "category": "1–10 道路标志",
+    "question": "橙色道路标志通常表示：",
+    "options": {
+      "A": "学校区域",
+      "B": "道路施工或临时道路情况",
+      "C": "医院",
+      "D": "铁路"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 5,
+    "category": "1–10 道路标志",
+    "question": "红色圆圈加斜杠通常表示：",
+    "options": {
+      "A": "推荐这样做",
+      "B": "禁止该行为",
+      "C": "前方危险",
+      "D": "必须停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 6,
+    "category": "1–10 道路标志",
+    "question": "“DO NOT ENTER”表示：",
+    "options": {
+      "A": "可以进入但必须慢行",
+      "B": "禁止从这个方向进入",
+      "C": "禁止停车",
+      "D": "仅卡车禁入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 7,
+    "category": "1–10 道路标志",
+    "question": "“WRONG WAY”意味着：",
+    "options": {
+      "A": "前方施工",
+      "B": "你正在朝禁止的方向行驶",
+      "C": "道路变窄",
+      "D": "前方必须左转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 8,
+    "category": "1–10 道路标志",
+    "question": "“ONE WAY”箭头表示：",
+    "options": {
+      "A": "推荐方向",
+      "B": "该道路交通只能按箭头方向行驶",
+      "C": "超车方向",
+      "D": "停车方向"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 9,
+    "category": "1–10 道路标志",
+    "question": "“NO U-TURN”表示：",
+    "options": {
+      "A": "禁止左转",
+      "B": "禁止掉头",
+      "C": "禁止右转",
+      "D": "禁止倒车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 10,
+    "category": "1–10 道路标志",
+    "question": "限速50 km/h标志表示：",
+    "options": {
+      "A": "建议速度50",
+      "B": "最低速度50",
+      "C": "正常条件下最高法定速度50 km/h",
+      "D": "必须始终保持50"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 11,
+    "category": "11–20 交通灯与路口",
+    "question": "红色交通灯表示：",
+    "options": {
+      "A": "减速",
+      "B": "停车",
+      "C": "快速通过",
+      "D": "只让行人停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 12,
+    "category": "11–20 交通灯与路口",
+    "question": "黄灯亮起，而你能够安全停车时应该：",
+    "options": {
+      "A": "加速",
+      "B": "停车",
+      "C": "按喇叭",
+      "D": "换车道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 13,
+    "category": "11–20 交通灯与路口",
+    "question": "黄灯亮起，但突然停车可能造成危险时：",
+    "options": {
+      "A": "必须急刹",
+      "B": "谨慎继续通过路口",
+      "C": "倒车",
+      "D": "停在路口中央"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 14,
+    "category": "11–20 交通灯与路口",
+    "question": "绿灯是否意味着可以不观察直接通过？",
+    "options": {
+      "A": "是",
+      "B": "不是，仍需确认路口安全",
+      "C": "白天可以",
+      "D": "没有行人就可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 15,
+    "category": "11–20 交通灯与路口",
+    "question": "红灯右转通常首先必须：",
+    "options": {
+      "A": "减速即可",
+      "B": "完全停车，然后确认允许且安全",
+      "C": "鸣笛",
+      "D": "打双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 16,
+    "category": "11–20 交通灯与路口",
+    "question": "有“No Right Turn on Red”标志时：",
+    "options": {
+      "A": "没车可以转",
+      "B": "红灯时不能右转",
+      "C": "晚上可以",
+      "D": "N牌才不能转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 17,
+    "category": "11–20 交通灯与路口",
+    "question": "绿灯左转，对面有直行车辆接近时：",
+    "options": {
+      "A": "左转车辆优先",
+      "B": "通常应让直行车辆先行",
+      "C": "大车先",
+      "D": "谁快谁先"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 18,
+    "category": "11–20 交通灯与路口",
+    "question": "绿灯亮了，但路口另一侧堵塞，没有足够空间，应：",
+    "options": {
+      "A": "开进路口等待",
+      "B": "在路口外等待",
+      "C": "鸣笛",
+      "D": "从旁边绕过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 19,
+    "category": "11–20 交通灯与路口",
+    "question": "STOP标志处，即使完全没有其他车辆，也必须：",
+    "options": {
+      "A": "减速即可",
+      "B": "完全停车",
+      "C": "鸣笛",
+      "D": "开双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 20,
+    "category": "11–20 交通灯与路口",
+    "question": "无交通灯、无STOP/YIELD标志的路口，两车同时到达，一般应：",
+    "options": {
+      "A": "右侧车辆让左侧",
+      "B": "左侧车辆让右侧",
+      "C": "大车先",
+      "D": "快车先"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 21,
+    "category": "21–30 道路标线与车道",
+    "question": "黄色道路中心线主要分隔：",
+    "options": {
+      "A": "同方向车辆",
+      "B": "相反方向车辆",
+      "C": "自行车与汽车",
+      "D": "停车区域"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 22,
+    "category": "21–30 道路标线与车道",
+    "question": "白色车道线通常分隔：",
+    "options": {
+      "A": "相反方向车流",
+      "B": "同方向车流",
+      "C": "行人与车辆",
+      "D": "铁路与道路"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 23,
+    "category": "21–30 道路标线与车道",
+    "question": "白色虚线通常表示：",
+    "options": {
+      "A": "禁止变道",
+      "B": "确认安全后可以变道",
+      "C": "对向车流",
+      "D": "禁止停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 24,
+    "category": "21–30 道路标线与车道",
+    "question": "双黄色实线通常意味着：",
+    "options": {
+      "A": "可以超车",
+      "B": "不得为了超车跨越",
+      "C": "只能卡车跨越",
+      "D": "夜间可以跨越"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 25,
+    "category": "21–30 道路标线与车道",
+    "question": "黄色虚线意味着：",
+    "options": {
+      "A": "永远禁止越线",
+      "B": "在安全且规则允许时可以越线",
+      "C": "必须停车",
+      "D": "公交专用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 26,
+    "category": "21–30 道路标线与车道",
+    "question": "变道前正确顺序应该包括：",
+    "options": {
+      "A": "只看后视镜",
+      "B": "观察、打信号、检查后视镜和盲区，确认安全后变道",
+      "C": "先变道再打灯",
+      "D": "鸣笛后立即变道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 27,
+    "category": "21–30 道路标线与车道",
+    "question": "Shoulder Check（肩部检查）主要用于发现：",
+    "options": {
+      "A": "后备箱问题",
+      "B": "后视镜看不到的盲区车辆/道路使用者",
+      "C": "车速",
+      "D": "路标"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 28,
+    "category": "21–30 道路标线与车道",
+    "question": "打了转向灯以后：",
+    "options": {
+      "A": "自动获得路权",
+      "B": "仍必须确认安全才能变道或转弯",
+      "C": "后车必须停车",
+      "D": "可以立即变道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 29,
+    "category": "21–30 道路标线与车道",
+    "question": "错过高速公路出口，最安全的做法是：",
+    "options": {
+      "A": "倒车",
+      "B": "横跨车道",
+      "C": "继续前进，在下一个合适出口调整路线",
+      "D": "停在路肩倒回去"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 30,
+    "category": "21–30 道路标线与车道",
+    "question": "“KEEP RIGHT EXCEPT TO PASS”的意思是：",
+    "options": {
+      "A": "永远走左侧",
+      "B": "除超车等情况外保持右侧行驶",
+      "C": "禁止超车",
+      "D": "只能右转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 31,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "行人正在人行横道上通过时，应：",
+    "options": {
+      "A": "鸣笛让其加快",
+      "B": "停车/让行，让其安全通过",
+      "C": "从行人前面通过",
+      "D": "从路肩绕行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 32,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "右转之前为什么特别需要做右侧肩部检查？",
+    "options": {
+      "A": "看路牌",
+      "B": "检查是否有自行车等处于盲区",
+      "C": "看后车牌",
+      "D": "检查轮胎"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 33,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "超越自行车时，应：",
+    "options": {
+      "A": "尽量靠近",
+      "B": "留出充分的安全侧向距离",
+      "C": "持续鸣笛",
+      "D": "强迫自行车停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 34,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "为什么骑自行车的人可能突然向左移动？",
+    "options": {
+      "A": "一定想阻止汽车",
+      "B": "可能正在避开坑洞、碎石或打开的车门",
+      "C": "自行车不能直行",
+      "D": "一定要掉头"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 35,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "大型卡车的盲区：",
+    "options": {
+      "A": "比轿车小",
+      "B": "通常可能比轿车大得多",
+      "C": "完全不存在",
+      "D": "只存在车头"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 36,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "如果你看不到卡车的后视镜：",
+    "options": {
+      "A": "卡车司机一定看得到你",
+      "B": "卡车司机很可能也看不到你",
+      "C": "应立即超车",
+      "D": "应使用远光灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 37,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "大型卡车准备右转，你看到它右侧出现空隙，应该：",
+    "options": {
+      "A": "从右侧钻过去",
+      "B": "不要进入该危险区域",
+      "C": "与卡车并排转弯",
+      "D": "加速抢先"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 38,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "跟在大型卡车后面应该：",
+    "options": {
+      "A": "尽量靠近",
+      "B": "保持更充分的安全距离和视野",
+      "C": "开远光灯",
+      "D": "不断鸣笛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 39,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "看到盲人使用白手杖准备过街时：",
+    "options": {
+      "A": "鸣笛提醒",
+      "B": "特别谨慎并让其安全通过",
+      "C": "快速通过",
+      "D": "从其前面绕过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 40,
+    "category": "31–40 行人、自行车与大型车辆",
+    "question": "经过停靠公交车附近时应该特别注意：",
+    "options": {
+      "A": "公交车一定会倒车",
+      "B": "行人可能突然从公交车附近进入道路",
+      "C": "必须超车",
+      "D": "必须鸣笛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 41,
+    "category": "41–50 安全驾驶",
+    "question": "正常良好条件下，至少保持：",
+    "options": {
+      "A": "1秒",
+      "B": "2秒跟车距离",
+      "C": "5秒",
+      "D": "10秒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 42,
+    "category": "41–50 安全驾驶",
+    "question": "高速公路驾驶，ICBC建议至少保持：",
+    "options": {
+      "A": "1秒",
+      "B": "2秒",
+      "C": "3秒跟车距离",
+      "D": "10秒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 43,
+    "category": "41–50 安全驾驶",
+    "question": "雨雪、黑暗或道路湿滑时：",
+    "options": {
+      "A": "缩短跟车距离",
+      "B": "增加跟车距离",
+      "C": "保持完全不变",
+      "D": "跟紧前车看得更清楚"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 44,
+    "category": "41–50 安全驾驶",
+    "question": "开始下雨时道路可能特别滑，是因为：",
+    "options": {
+      "A": "雨水一定结冰",
+      "B": "水与路面油污、灰尘等混合",
+      "C": "轮胎变硬",
+      "D": "道路变软"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 45,
+    "category": "41–50 安全驾驶",
+    "question": "雾天通常应该使用：",
+    "options": {
+      "A": "远光灯",
+      "B": "近光灯",
+      "C": "不开灯",
+      "D": "只开停车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 46,
+    "category": "41–50 安全驾驶",
+    "question": "夜间遇到对面车辆，应适时：",
+    "options": {
+      "A": "保持远光灯",
+      "B": "切换到近光灯，避免使对方眩目",
+      "C": "关闭车灯",
+      "D": "开双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 47,
+    "category": "41–50 安全驾驶",
+    "question": "感到非常疲劳时，最安全的方法是：",
+    "options": {
+      "A": "开窗",
+      "B": "喝咖啡后高速驾驶",
+      "C": "安全停车休息，必要时停止驾驶",
+      "D": "开大音乐"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 48,
+    "category": "41–50 安全驾驶",
+    "question": "手机或其他电子设备造成的主要危险是：",
+    "options": {
+      "A": "增加油耗",
+      "B": "分散注意力，降低观察和反应能力",
+      "C": "降低车速",
+      "D": "损坏车辆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 49,
+    "category": "41–50 安全驾驶",
+    "question": "即使自己拥有路权，对方车辆明显没有让行时：",
+    "options": {
+      "A": "坚持路权撞过去",
+      "B": "优先采取措施避免碰撞",
+      "C": "加速",
+      "D": "鸣笛后继续"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 50,
+    "category": "41–50 安全驾驶",
+    "question": "防御性驾驶最核心的思想是：",
+    "options": {
+      "A": "只要自己不违法就够了",
+      "B": "不断观察潜在危险、预测其他道路使用者可能的行为，并提前留下安全空间",
+      "C": "永远开得比别人慢",
+      "D": "永远拥有路权"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 51,
+    "category": "51–100 ---",
+    "question": "在良好天气和路况下，至少应保持多少跟车距离？",
+    "options": {
+      "A": "1秒",
+      "B": "2秒",
+      "C": "4秒",
+      "D": "5秒"
+    },
+    "answer": "B",
+    "explanation": "良好条件至少2秒"
+  },
+  {
+    "num": 52,
+    "category": "51–100 ---",
+    "question": "在高速公路上，建议至少保持多少跟车距离？",
+    "options": {
+      "A": "1秒",
+      "B": "2秒",
+      "C": "3秒",
+      "D": "10秒"
+    },
+    "answer": "C",
+    "explanation": "高速公路至少3秒"
+  },
+  {
+    "num": 53,
+    "category": "51–100 ---",
+    "question": "跟在大型卡车后面，应增加跟车距离的主要原因是什么？",
+    "options": {
+      "A": "卡车一定超速",
+      "B": "卡车遮挡前方视线",
+      "C": "卡车不能刹车",
+      "D": "法律要求10秒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 54,
+    "category": "51–100 ---",
+    "question": "跟在摩托车后面为什么应增加距离？",
+    "options": {
+      "A": "摩托车可能比汽车更快减速",
+      "B": "摩托车没有刹车灯",
+      "C": "摩托车不能转弯",
+      "D": "摩托车必须让汽车"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 55,
+    "category": "51–100 ---",
+    "question": "黄灯亮起时，一般应该怎么办？",
+    "options": {
+      "A": "加速",
+      "B": "必须停车，除非停车已经不安全",
+      "C": "随意通过",
+      "D": "按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 56,
+    "category": "51–100 ---",
+    "question": "红灯右转前应该怎么做？",
+    "options": {
+      "A": "减速即可",
+      "B": "完全停车，然后确认允许且安全再转",
+      "C": "不看行人",
+      "D": "直接转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 57,
+    "category": "51–100 ---",
+    "question": "如果有“No Right Turn on Red”标志：",
+    "options": {
+      "A": "没车就可以转",
+      "B": "晚上可以转",
+      "C": "红灯时禁止右转",
+      "D": "只有N牌禁止"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 58,
+    "category": "51–100 ---",
+    "question": "STOP标志要求：",
+    "options": {
+      "A": "减速",
+      "B": "完全停车",
+      "C": "没车不用停",
+      "D": "鸣笛后通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 59,
+    "category": "51–100 ---",
+    "question": "YIELD标志表示：",
+    "options": {
+      "A": "必须停车3秒",
+      "B": "给其他车辆和正在横穿的行人路权",
+      "C": "加速",
+      "D": "禁止进入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 60,
+    "category": "51–100 ---",
+    "question": "WRONG WAY标志通常意味着：",
+    "options": {
+      "A": "前方施工",
+      "B": "你正在朝禁止方向行驶",
+      "C": "单行道结束",
+      "D": "前方限速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 61,
+    "category": "51–100 ---",
+    "question": "DO NOT ENTER表示：",
+    "options": {
+      "A": "可以进入但要减速",
+      "B": "禁止从这里进入",
+      "C": "卡车禁入",
+      "D": "行人禁入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 62,
+    "category": "51–100 ---",
+    "question": "“KEEP RIGHT EXCEPT TO PASS”表示：",
+    "options": {
+      "A": "永远走左车道",
+      "B": "除超车外保持右侧行驶",
+      "C": "禁止超车",
+      "D": "只能右转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 63,
+    "category": "51–100 ---",
+    "question": "“SLOWER TRAFFIC KEEP RIGHT”表示：",
+    "options": {
+      "A": "慢车靠右",
+      "B": "慢车靠左",
+      "C": "快车靠右",
+      "D": "禁止慢车"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 64,
+    "category": "51–100 ---",
+    "question": "道路中间有分隔岛时，“Keep Right”表示：",
+    "options": {
+      "A": "从分隔岛左边走",
+      "B": "从分隔岛右边走",
+      "C": "任意一边",
+      "D": "停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 65,
+    "category": "51–100 ---",
+    "question": "One Way标志上的箭头表示：",
+    "options": {
+      "A": "停车方向",
+      "B": "单行交通方向",
+      "C": "风向",
+      "D": "超车方向"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 66,
+    "category": "51–100 ---",
+    "question": "接近已经停下并显示停车信号的校车时，应：",
+    "options": {
+      "A": "快速通过",
+      "B": "停车并注意儿童",
+      "C": "按喇叭",
+      "D": "从路肩通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 67,
+    "category": "51–100 ---",
+    "question": "超车前正确操作包括：",
+    "options": {
+      "A": "只看后视镜",
+      "B": "打转向灯、检查后视镜并做肩部检查",
+      "C": "只按喇叭",
+      "D": "立即加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 68,
+    "category": "51–100 ---",
+    "question": "超车后什么时候适合回到原车道？",
+    "options": {
+      "A": "刚超过车头",
+      "B": "能在后视镜中清楚看到被超车辆后再安全并回",
+      "C": "随时",
+      "D": "对方按喇叭时"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 69,
+    "category": "51–100 ---",
+    "question": "超越大型卡车后并回其前方时：",
+    "options": {
+      "A": "尽快切入",
+      "B": "留更多空间再并回",
+      "C": "立即刹车",
+      "D": "开双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 70,
+    "category": "51–100 ---",
+    "question": "因为要超车，可以超过限速吗？",
+    "options": {
+      "A": "可以",
+      "B": "只允许超过10 km/h",
+      "C": "不可以",
+      "D": "夜间可以"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 71,
+    "category": "51–100 ---",
+    "question": "变换车道前最重要的检查组合是：",
+    "options": {
+      "A": "仪表盘+导航",
+      "B": "后视镜+转向灯+肩部检查",
+      "C": "收音机+后视镜",
+      "D": "喇叭+远光灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 72,
+    "category": "51–100 ---",
+    "question": "Shoulder check主要检查：",
+    "options": {
+      "A": "发动机",
+      "B": "盲区",
+      "C": "车速",
+      "D": "油量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 73,
+    "category": "51–100 ---",
+    "question": "驾驶员仅依赖后视镜变道安全吗？",
+    "options": {
+      "A": "安全",
+      "B": "不安全，因为存在盲区",
+      "C": "高速公路安全",
+      "D": "白天安全"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 74,
+    "category": "51–100 ---",
+    "question": "道路湿滑时，跟车距离应该：",
+    "options": {
+      "A": "缩短",
+      "B": "增加",
+      "C": "不变",
+      "D": "取消"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 75,
+    "category": "51–100 ---",
+    "question": "能见度下降时应该：",
+    "options": {
+      "A": "提高速度",
+      "B": "降低速度并增加安全距离",
+      "C": "紧跟前车",
+      "D": "关闭车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 76,
+    "category": "51–100 ---",
+    "question": "看到行人准备横过道路时：",
+    "options": {
+      "A": "与他抢行",
+      "B": "做好停车和让行准备",
+      "C": "加速",
+      "D": "按喇叭让其后退"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 77,
+    "category": "51–100 ---",
+    "question": "即使自己拥有路权，但对方似乎不会让行时：",
+    "options": {
+      "A": "坚持路权",
+      "B": "避免碰撞优先",
+      "C": "加速",
+      "D": "故意靠近"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 78,
+    "category": "51–100 ---",
+    "question": "驾驶中“路权”最正确的理解是：",
+    "options": {
+      "A": "有路权就绝对不用减速",
+      "B": "路权不能代替避免碰撞的责任",
+      "C": "大车永远有路权",
+      "D": "快车永远有路权"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 79,
+    "category": "51–100 ---",
+    "question": "接近一个绿灯已经亮了很久的路口，应：",
+    "options": {
+      "A": "假设永远不会变灯",
+      "B": "做好灯变黄后停车的准备",
+      "C": "加速",
+      "D": "关闭转向灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 80,
+    "category": "51–100 ---",
+    "question": "红灯停车时应该：",
+    "options": {
+      "A": "车轮仍慢慢移动",
+      "B": "完全停车",
+      "C": "只要没有警察就不停",
+      "D": "鸣笛即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 81,
+    "category": "51–100 ---",
+    "question": "遇到铁路道口时最重要的是：",
+    "options": {
+      "A": "跟紧前车",
+      "B": "确保有足够空间完全通过，不能停在轨道上",
+      "C": "加速抢行",
+      "D": "打双闪即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 82,
+    "category": "51–100 ---",
+    "question": "前方堵车，而铁路道口另一侧没有足够空间时：",
+    "options": {
+      "A": "先开到轨道上等待",
+      "B": "在轨道前等待",
+      "C": "跟前车",
+      "D": "按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 83,
+    "category": "51–100 ---",
+    "question": "大型车辆转弯时需要更大空间，因此你应该：",
+    "options": {
+      "A": "钻进其内侧空隙",
+      "B": "给它足够空间",
+      "C": "与其并排转弯",
+      "D": "紧贴车尾"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 84,
+    "category": "51–100 ---",
+    "question": "骑自行车者属于：",
+    "options": {
+      "A": "不需要考虑的道路使用者",
+      "B": "需要共享道路并注意其安全的道路使用者",
+      "C": "行人",
+      "D": "只能走人行道的人"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 85,
+    "category": "51–100 ---",
+    "question": "超越自行车时应该：",
+    "options": {
+      "A": "尽量贴近",
+      "B": "留足安全空间",
+      "C": "按住喇叭",
+      "D": "强迫其停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 86,
+    "category": "51–100 ---",
+    "question": "开车疲劳时最安全的方法是：",
+    "options": {
+      "A": "开窗",
+      "B": "喝咖啡后继续高速驾驶",
+      "C": "停车休息，必要时停止驾驶",
+      "D": "开大音乐"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 87,
+    "category": "51–100 ---",
+    "question": "驾驶时分心最主要的问题是：",
+    "options": {
+      "A": "增加油耗",
+      "B": "降低观察、判断和反应能力",
+      "C": "车速会自动下降",
+      "D": "GPS失效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 88,
+    "category": "51–100 ---",
+    "question": "开车时使用手持电子设备：",
+    "options": {
+      "A": "可以，只要红灯",
+      "B": "属于危险行为并可能受到处罚",
+      "C": "高速公路允许",
+      "D": "新司机允许"
+    },
+    "answer": "B",
+    "explanation": "ICBC特别指出手持电子设备违法会带来罚款及扣分"
+  },
+  {
+    "num": 89,
+    "category": "51–100 ---",
+    "question": "饮酒后觉得“自己没醉”，是否代表可以安全驾驶？",
+    "options": {
+      "A": "是",
+      "B": "不是",
+      "C": "喝咖啡即可",
+      "D": "洗脸即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 90,
+    "category": "51–100 ---",
+    "question": "某些处方药或非处方药是否可能影响驾驶？",
+    "options": {
+      "A": "不可能",
+      "B": "可能",
+      "C": "只有酒精影响",
+      "D": "只有晚上影响"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 91,
+    "category": "51–100 ---",
+    "question": "愤怒或情绪激动时驾驶可能：",
+    "options": {
+      "A": "提高判断力",
+      "B": "影响判断和风险选择",
+      "C": "缩短制动距离",
+      "D": "没有影响"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 92,
+    "category": "51–100 ---",
+    "question": "雨天第一次开始下雨时，道路可能特别滑，因为：",
+    "options": {
+      "A": "雨水冻结",
+      "B": "水与路面油污等混合",
+      "C": "轮胎变大",
+      "D": "路面变软"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 93,
+    "category": "51–100 ---",
+    "question": "发生水滑（hydroplaning）风险时，应避免：",
+    "options": {
+      "A": "平稳操作",
+      "B": "突然转向或猛烈制动",
+      "C": "降低速度",
+      "D": "增加距离"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 94,
+    "category": "51–100 ---",
+    "question": "夜间驾驶最重要的速度原则之一是：",
+    "options": {
+      "A": "比白天更快",
+      "B": "保证能在自己看得见的距离内安全停车",
+      "C": "跟着前车灯即可",
+      "D": "永远开远光"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 95,
+    "category": "51–100 ---",
+    "question": "对面车辆接近时使用远光灯：",
+    "options": {
+      "A": "一直保持",
+      "B": "应适时切换近光灯，避免眩目",
+      "C": "闪烁不停",
+      "D": "关闭全部车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 96,
+    "category": "51–100 ---",
+    "question": "如果车辆发生爆胎，首先应该：",
+    "options": {
+      "A": "猛踩刹车",
+      "B": "稳住方向盘并控制车辆",
+      "C": "猛打方向",
+      "D": "立即拉手刹"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 97,
+    "category": "51–100 ---",
+    "question": "车辆开始打滑时最重要的是：",
+    "options": {
+      "A": "惊慌并猛踩刹车",
+      "B": "保持冷静、观察希望车辆去的方向并进行平稳控制",
+      "C": "加速到底",
+      "D": "关闭发动机"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 98,
+    "category": "51–100 ---",
+    "question": "下长坡时一直踩刹车可能导致：",
+    "options": {
+      "A": "刹车过热、制动效果下降",
+      "B": "节省燃油",
+      "C": "轮胎变冷",
+      "D": "增加抓地力"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 99,
+    "category": "51–100 ---",
+    "question": "如果前方突然出现危险，正确思路是：",
+    "options": {
+      "A": "只看危险物",
+      "B": "寻找安全逃生空间并采取可控动作",
+      "C": "闭眼急刹",
+      "D": "加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 100,
+    "category": "51–100 ---",
+    "question": "安全驾驶最核心的思维方式是：",
+    "options": {
+      "A": "只遵守限速即可",
+      "B": "持续观察、思考潜在危险并提前采取行动",
+      "C": "永远跟随前车",
+      "D": "只看正前方"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 101,
+    "category": "101–110 路口、转弯、路权",
+    "question": "两辆车同时到达没有交通灯和标志的路口，通常谁先行？",
+    "options": {
+      "A": "左边车辆",
+      "B": "右边车辆",
+      "C": "大车",
+      "D": "速度快的车辆"
+    },
+    "answer": "B",
+    "explanation": "通常应让右侧车辆先行"
+  },
+  {
+    "num": 102,
+    "category": "101–110 路口、转弯、路权",
+    "question": "左转车辆面对直行车辆时，一般应该：",
+    "options": {
+      "A": "左转优先",
+      "B": "让直行车辆先行",
+      "C": "谁快谁先",
+      "D": "按喇叭后左转"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 103,
+    "category": "101–110 路口、转弯、路权",
+    "question": "从小路、停车场或车道驶入主路时，应：",
+    "options": {
+      "A": "主路车辆让你",
+      "B": "让主路上的车辆和行人",
+      "C": "快速驶入",
+      "D": "按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 104,
+    "category": "101–110 路口、转弯、路权",
+    "question": "准备右转时，尤其需要注意：",
+    "options": {
+      "A": "左后方自行车",
+      "B": "右侧自行车和行人",
+      "C": "后备箱",
+      "D": "对面停车车辆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 105,
+    "category": "101–110 路口、转弯、路权",
+    "question": "绿灯左转，但对面有车辆直行，应：",
+    "options": {
+      "A": "抢先左转",
+      "B": "等待安全空隙再转",
+      "C": "按喇叭",
+      "D": "倒车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 106,
+    "category": "101–110 路口、转弯、路权",
+    "question": "绿灯是否代表可以不观察直接通过？",
+    "options": {
+      "A": "是",
+      "B": "不是",
+      "C": "夜间可以",
+      "D": "没有行人时可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 107,
+    "category": "101–110 路口、转弯、路权",
+    "question": "路口被堵，即使你是绿灯，也应该：",
+    "options": {
+      "A": "进入路口等待",
+      "B": "等到前方有足够空间再进入",
+      "C": "按喇叭进入",
+      "D": "从旁边绕行"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 108,
+    "category": "101–110 路口、转弯、路权",
+    "question": "在没有专用转弯车道时准备左转，应：",
+    "options": {
+      "A": "尽量靠近道路中心线",
+      "B": "靠最右侧",
+      "C": "骑在两条车道中间",
+      "D": "使用路肩"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 109,
+    "category": "101–110 路口、转弯、路权",
+    "question": "转弯前打转向灯的主要目的：",
+    "options": {
+      "A": "让别人知道你的意图",
+      "B": "获得绝对路权",
+      "C": "要求别人停车",
+      "D": "可以不做肩部检查"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 110,
+    "category": "101–110 路口、转弯、路权",
+    "question": "即使已经打转向灯：",
+    "options": {
+      "A": "就有绝对路权",
+      "B": "仍必须确认安全才能转弯/变道",
+      "C": "可以立即变道",
+      "D": "后车必须停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 111,
+    "category": "111–120 环岛",
+    "question": "进入环岛前应该让谁？",
+    "options": {
+      "A": "正准备进入的车辆",
+      "B": "已经在环岛内的车辆",
+      "C": "后面的车辆",
+      "D": "大型车辆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 112,
+    "category": "111–120 环岛",
+    "question": "进入环岛通常应该：",
+    "options": {
+      "A": "向左绕",
+      "B": "按逆时针方向行驶",
+      "C": "顺时针",
+      "D": "任意方向"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 113,
+    "category": "111–120 环岛",
+    "question": "准备驶出环岛时通常应：",
+    "options": {
+      "A": "打左转灯",
+      "B": "打右转灯",
+      "C": "开双闪",
+      "D": "不打灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 114,
+    "category": "111–120 环岛",
+    "question": "环岛内错过出口应该：",
+    "options": {
+      "A": "倒车",
+      "B": "再绕一圈",
+      "C": "停车",
+      "D": "横穿中心岛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 115,
+    "category": "111–120 环岛",
+    "question": "在环岛内应该：",
+    "options": {
+      "A": "随意变道",
+      "B": "尽量保持自己的车道并按标线行驶",
+      "C": "停车等人",
+      "D": "从中心岛超车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 116,
+    "category": "111–120 环岛",
+    "question": "接近环岛发现行人正在过人行横道，应：",
+    "options": {
+      "A": "行人让汽车",
+      "B": "让行人安全通过",
+      "C": "按喇叭",
+      "D": "从旁边绕"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 117,
+    "category": "111–120 环岛",
+    "question": "环岛最重要的观察方向之一是：",
+    "options": {
+      "A": "只看右侧",
+      "B": "注意已经在环岛中的交通",
+      "C": "只看后方",
+      "D": "只看导航"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 118,
+    "category": "111–120 环岛",
+    "question": "大型卡车进入环岛时可能需要：",
+    "options": {
+      "A": "更大的转弯空间",
+      "B": "更小空间",
+      "C": "倒车",
+      "D": "停在中心"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 119,
+    "category": "111–120 环岛",
+    "question": "应该在环岛内停车让准备进入的汽车吗？",
+    "options": {
+      "A": "通常不应该",
+      "B": "永远应该",
+      "C": "只在晚上",
+      "D": "只有N牌需要"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 120,
+    "category": "111–120 环岛",
+    "question": "环岛内有紧急情况时，最重要的是：",
+    "options": {
+      "A": "突然停车",
+      "B": "保持观察并安全处理，不制造新的危险",
+      "C": "倒车",
+      "D": "加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 121,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "BC常见School Zone限速是多少？",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50 km/h"
+    },
+    "answer": "B",
+    "explanation": "如果标志没有另行注明，通常是 30 km/h"
+  },
+  {
+    "num": 122,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "School Zone 30 km/h通常什么时候有效？",
+    "options": {
+      "A": "全天",
+      "B": "上学日8:00–17:00",
+      "C": "仅早上",
+      "D": "仅有儿童时"
+    },
+    "answer": "B",
+    "explanation": "除非标志另有说明"
+  },
+  {
+    "num": 123,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "Playground Zone 30 km/h通常什么时候有效？",
+    "options": {
+      "A": "只有上学日",
+      "B": "每天从黎明到黄昏",
+      "C": "8:00–17:00",
+      "D": "周末无效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 124,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "儿童在道路附近时，应：",
+    "options": {
+      "A": "假设他们一定遵守规则",
+      "B": "减速并准备随时停车",
+      "C": "加速离开",
+      "D": "鸣笛让他们离开"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 125,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "行人在有标记的人行横道过马路，应：",
+    "options": {
+      "A": "汽车优先",
+      "B": "让行人",
+      "C": "按喇叭",
+      "D": "从行人前面快速通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 126,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "老年人或行动不便行人过街时，应：",
+    "options": {
+      "A": "催促",
+      "B": "给他们足够时间安全通过",
+      "C": "绕过去",
+      "D": "紧贴行人"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 127,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "看到自行车骑行者时，应预留额外空间，主要因为：",
+    "options": {
+      "A": "自行车可能需要避开坑洞等危险",
+      "B": "自行车一定违规",
+      "C": "自行车速度更快",
+      "D": "自行车没有路权"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 128,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "右转前为什么必须检查右侧盲区？",
+    "options": {
+      "A": "可能有自行车骑行者",
+      "B": "看自己的尾灯",
+      "C": "检查油箱",
+      "D": "看交通灯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 129,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "接近停下并显示红色闪灯的校车时，应：",
+    "options": {
+      "A": "慢慢超过",
+      "B": "停车",
+      "C": "按喇叭",
+      "D": "加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 130,
+    "category": "121–130 学校、行人、自行车、校车",
+    "question": "校车红色闪灯熄灭并恢复行驶后：",
+    "options": {
+      "A": "仍永远不能通过",
+      "B": "确认安全后再继续行驶",
+      "C": "必须倒车",
+      "D": "必须等待10分钟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 131,
+    "category": "131–140 紧急车辆、停车",
+    "question": "后方出现闪灯并鸣警笛的紧急车辆时，应：",
+    "options": {
+      "A": "加速",
+      "B": "安全靠边并停车让行",
+      "C": "与它保持相同速度",
+      "D": "跟在它后面"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 132,
+    "category": "131–140 紧急车辆、停车",
+    "question": "紧急车辆接近路口时，即使自己是绿灯：",
+    "options": {
+      "A": "坚持通过",
+      "B": "应让紧急车辆安全通过",
+      "C": "加速",
+      "D": "鸣笛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 133,
+    "category": "131–140 紧急车辆、停车",
+    "question": "路边停有闪烁警示灯的执法/救援等车辆时：",
+    "options": {
+      "A": "加速通过",
+      "B": "减速，并在安全情况下增加侧向距离/换道",
+      "C": "停在它旁边",
+      "D": "按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 134,
+    "category": "131–140 紧急车辆、停车",
+    "question": "停车前最重要的是：",
+    "options": {
+      "A": "突然刹车",
+      "B": "提前观察、打信号并平稳减速",
+      "C": "开远光灯",
+      "D": "按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 135,
+    "category": "131–140 紧急车辆、停车",
+    "question": "上坡停车且有路缘石时，前轮通常应：",
+    "options": {
+      "A": "朝向路缘石",
+      "B": "转离路缘石",
+      "C": "保持完全笔直",
+      "D": "任意"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 136,
+    "category": "131–140 紧急车辆、停车",
+    "question": "下坡停车且有路缘石时，前轮通常应：",
+    "options": {
+      "A": "转离路缘石",
+      "B": "转向路缘石",
+      "C": "完全笔直",
+      "D": "朝道路中心"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 137,
+    "category": "131–140 紧急车辆、停车",
+    "question": "停车离开车辆前应：",
+    "options": {
+      "A": "只关收音机",
+      "B": "确保车辆不会自行移动并妥善锁车",
+      "C": "保持发动机运行",
+      "D": "留钥匙在车内"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 138,
+    "category": "131–140 紧急车辆、停车",
+    "question": "可以停在人行横道上吗？",
+    "options": {
+      "A": "可以",
+      "B": "不可以",
+      "C": "夜间可以",
+      "D": "只停5分钟可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 139,
+    "category": "131–140 紧急车辆、停车",
+    "question": "可以把车停在消防栓前吗？",
+    "options": {
+      "A": "可以",
+      "B": "不可以，应保持法规要求的距离",
+      "C": "晚上可以",
+      "D": "双闪开启即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 140,
+    "category": "131–140 紧急车辆、停车",
+    "question": "停车位置挡住STOP标志或其他交通标志：",
+    "options": {
+      "A": "可以",
+      "B": "不应该",
+      "C": "周末可以",
+      "D": "小车可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 141,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "BC的L代表：",
+    "options": {
+      "A": "Limited",
+      "B": "Learner",
+      "C": "Local",
+      "D": "Licensed"
+    },
+    "answer": "B",
+    "explanation": "Learner"
+  },
+  {
+    "num": 142,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "N代表：",
+    "options": {
+      "A": "New",
+      "B": "Novice",
+      "C": "Normal",
+      "D": "Night"
+    },
+    "answer": "B",
+    "explanation": "Novice"
+  },
+  {
+    "num": 143,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L牌驾驶员开车时需要：",
+    "options": {
+      "A": "独自驾驶",
+      "B": "符合资格的监督驾驶员陪同",
+      "C": "任何儿童陪同即可",
+      "D": "只需要GPS"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 144,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L驾驶员的监督驾驶员至少应多少岁？",
+    "options": {
+      "A": "19",
+      "B": "21",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "C",
+    "explanation": "监督者必须至少25岁并持有效Class 1–5驾照"
+  },
+  {
+    "num": 145,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L驾驶员通常可以在什么时间驾驶？",
+    "options": {
+      "A": "全天24小时",
+      "B": "5:00–午夜",
+      "C": "8:00–17:00",
+      "D": "只能白天"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 146,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L驾驶员除合格监督者外，通常最多还可载多少名乘客？",
+    "options": {
+      "A": "0",
+      "B": "1名",
+      "C": "2名",
+      "D": "无限"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 147,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "N驾驶员通常受到的乘客限制是：",
+    "options": {
+      "A": "永远不能载人",
+      "B": "通常只能载1名乘客，但直系家庭成员或有合格监督者等情况存在例外",
+      "C": "最多5人",
+      "D": "完全没有限制"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 148,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L和N驾驶员的酒精要求是：",
+    "options": {
+      "A": "少量可以",
+      "B": "零酒精",
+      "C": "啤酒可以",
+      "D": "晚餐时可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 149,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "L/N驾驶员对电子设备的限制：",
+    "options": {
+      "A": "比有经验驾驶员更严格",
+      "B": "完全没有限制",
+      "C": "只限制晚上",
+      "D": "只限制高速公路"
+    },
+    "answer": "A",
+    "explanation": "新司机应特别注意电子设备规定"
+  },
+  {
+    "num": 150,
+    "category": "141–150 L/N驾照与安全驾驶",
+    "question": "准备正式知识考试，最可靠的资料是什么？",
+    "options": {
+      "A": "网友回忆",
+      "B": "ICBC官方《Learn to Drive Smart》+官方Practice Test",
+      "C": "TikTok",
+      "D": "只背路标"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 151,
+    "category": "151–160 道路标线",
+    "question": "道路中央的黄色线主要用于分隔什么？",
+    "options": {
+      "A": "同方向车流",
+      "B": "相反方向车流",
+      "C": "自行车和汽车",
+      "D": "停车区"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 152,
+    "category": "151–160 道路标线",
+    "question": "白色车道线通常用于分隔什么？",
+    "options": {
+      "A": "相反方向车流",
+      "B": "同方向车流",
+      "C": "人行道",
+      "D": "铁路"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 153,
+    "category": "151–160 道路标线",
+    "question": "你这一侧是黄色实线时，通常意味着：",
+    "options": {
+      "A": "可以随意超车",
+      "B": "不应越线超车",
+      "C": "必须超车",
+      "D": "可以停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 154,
+    "category": "151–160 道路标线",
+    "question": "黄色虚线通常表示：",
+    "options": {
+      "A": "在安全并允许的情况下可以越线",
+      "B": "永远不能越线",
+      "C": "必须停车",
+      "D": "单行道"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 155,
+    "category": "151–160 道路标线",
+    "question": "双黄色实线通常表示：",
+    "options": {
+      "A": "可以随时越线超车",
+      "B": "不得为了超车跨越",
+      "C": "停车区域",
+      "D": "公交专用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 156,
+    "category": "151–160 道路标线",
+    "question": "白色虚线表示：",
+    "options": {
+      "A": "在安全情况下可以变换车道",
+      "B": "禁止变道",
+      "C": "对向车流",
+      "D": "禁止停车"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 157,
+    "category": "151–160 道路标线",
+    "question": "白色实线通常意味着：",
+    "options": {
+      "A": "鼓励频繁变道",
+      "B": "不鼓励或限制变道，应按道路指示行驶",
+      "C": "对向车流",
+      "D": "可以停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 158,
+    "category": "151–160 道路标线",
+    "question": "路面上的菱形标志通常与什么有关？",
+    "options": {
+      "A": "特定用途/限制车道，如HOV",
+      "B": "铁路",
+      "C": "停车位",
+      "D": "加油站"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 159,
+    "category": "151–160 道路标线",
+    "question": "路面白色箭头通常表示：",
+    "options": {
+      "A": "该车道允许或要求的行驶方向",
+      "B": "风向",
+      "C": "停车方向",
+      "D": "行人方向"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 160,
+    "category": "151–160 道路标线",
+    "question": "停车线（stop line）存在时，应在哪里停车？",
+    "options": {
+      "A": "越过停车线",
+      "B": "在停车线前",
+      "C": "路口中央",
+      "D": "人行横道上"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 161,
+    "category": "161–170 道路标志",
+    "question": "红色八角形标志是什么？",
+    "options": {
+      "A": "Yield",
+      "B": "Stop",
+      "C": "Warning",
+      "D": "Railway"
+    },
+    "answer": "B",
+    "explanation": "STOP"
+  },
+  {
+    "num": 162,
+    "category": "161–170 道路标志",
+    "question": "倒三角形标志通常是什么？",
+    "options": {
+      "A": "Stop",
+      "B": "Yield",
+      "C": "School Zone",
+      "D": "No Parking"
+    },
+    "answer": "B",
+    "explanation": "YIELD"
+  },
+  {
+    "num": 163,
+    "category": "161–170 道路标志",
+    "question": "黄色菱形标志通常表示：",
+    "options": {
+      "A": "警告前方道路情况",
+      "B": "法定停车",
+      "C": "医院",
+      "D": "高速入口"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 164,
+    "category": "161–170 道路标志",
+    "question": "橙色标志通常与什么有关？",
+    "options": {
+      "A": "学校",
+      "B": "道路施工或临时道路状况",
+      "C": "医院",
+      "D": "停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 165,
+    "category": "161–170 道路标志",
+    "question": "五边形学校区域标志提醒：",
+    "options": {
+      "A": "前方机场",
+      "B": "学校/儿童区域",
+      "C": "铁路",
+      "D": "医院"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 166,
+    "category": "161–170 道路标志",
+    "question": "圆形铁路警告标志提醒：",
+    "options": {
+      "A": "前方铁路道口",
+      "B": "环岛",
+      "C": "禁止掉头",
+      "D": "公交站"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 167,
+    "category": "161–170 道路标志",
+    "question": "红圈加斜杠通常表示：",
+    "options": {
+      "A": "推荐行为",
+      "B": "禁止该行为",
+      "C": "必须停车",
+      "D": "危险品"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 168,
+    "category": "161–170 道路标志",
+    "question": "“No U-turn”表示：",
+    "options": {
+      "A": "禁止左转",
+      "B": "禁止掉头",
+      "C": "禁止右转",
+      "D": "禁止停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 169,
+    "category": "161–170 道路标志",
+    "question": "“No Passing”表示：",
+    "options": {
+      "A": "禁止超车",
+      "B": "禁止停车",
+      "C": "禁止行人",
+      "D": "禁止左转"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 170,
+    "category": "161–170 道路标志",
+    "question": "限速标志上的数字表示：",
+    "options": {
+      "A": "建议最低速度",
+      "B": "在正常情况下允许的最高速度",
+      "C": "必须保持的准确速度",
+      "D": "车辆数量"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 171,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "大雨时最重要的调整之一是：",
+    "options": {
+      "A": "加速",
+      "B": "降低速度并增加跟车距离",
+      "C": "紧跟前车",
+      "D": "关闭车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 172,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "车辆发生水滑（hydroplaning）时，应：",
+    "options": {
+      "A": "猛踩刹车",
+      "B": "平稳松开油门并保持方向控制",
+      "C": "猛打方向",
+      "D": "加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 173,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "雾天应该使用：",
+    "options": {
+      "A": "远光灯",
+      "B": "近光灯",
+      "C": "不开灯",
+      "D": "只开停车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 174,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "为什么浓雾中不适合使用远光灯？",
+    "options": {
+      "A": "太耗油",
+      "B": "光线被雾反射，反而影响视线",
+      "C": "会损坏灯泡",
+      "D": "法律永远禁止远光"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 175,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "冰雪路面制动距离通常会：",
+    "options": {
+      "A": "缩短",
+      "B": "显著增加",
+      "C": "不变",
+      "D": "变为零"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 176,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "冬季过桥时为什么要特别注意？",
+    "options": {
+      "A": "桥面可能比普通路面更早结冰",
+      "B": "桥上没有限速",
+      "C": "桥面永远干燥",
+      "D": "只能开远光"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 177,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "夜间驾驶应该：",
+    "options": {
+      "A": "开得比白天快",
+      "B": "根据能见距离调整速度",
+      "C": "永远使用远光",
+      "D": "只看前车尾灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 178,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "被对面车辆远光灯照得看不清时，应：",
+    "options": {
+      "A": "盯着灯看",
+      "B": "适当看向道路右侧边缘并减速",
+      "C": "关闭自己的灯",
+      "D": "加速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 179,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "夜间跟车时使用远光灯可能：",
+    "options": {
+      "A": "帮助前车",
+      "B": "通过后视镜使前车驾驶员眩目",
+      "C": "没有影响",
+      "D": "节省燃油"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 180,
+    "category": "171–180 雨、雪、雾、夜间",
+    "question": "日落、黎明等低能见度情况下：",
+    "options": {
+      "A": "应确保车辆灯光正确使用",
+      "B": "不需要灯",
+      "C": "只开双闪",
+      "D": "加速通过"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 181,
+    "category": "181–190 故障、事故和危险",
+    "question": "轮胎突然爆裂时，第一反应应该是：",
+    "options": {
+      "A": "猛踩刹车",
+      "B": "稳住方向盘并逐渐减速",
+      "C": "猛打方向",
+      "D": "拉手刹"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 182,
+    "category": "181–190 故障、事故和危险",
+    "question": "油门卡住时，重要措施之一是：",
+    "options": {
+      "A": "继续加速",
+      "B": "尝试切入空挡并安全停车",
+      "C": "立即倒挡",
+      "D": "关闭车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 183,
+    "category": "181–190 故障、事故和危险",
+    "question": "刹车失效时，应：",
+    "options": {
+      "A": "惊慌",
+      "B": "尝试降挡、反复制动并寻找安全停车空间",
+      "C": "加速",
+      "D": "立即跳车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 184,
+    "category": "181–190 故障、事故和危险",
+    "question": "车辆开始打滑时，应重点看哪里？",
+    "options": {
+      "A": "正在撞向的物体",
+      "B": "希望车辆驶向的位置",
+      "C": "后座",
+      "D": "仪表盘"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 185,
+    "category": "181–190 故障、事故和危险",
+    "question": "为避免危险时最重要的原则是：",
+    "options": {
+      "A": "坚持自己的路权",
+      "B": "避免碰撞比坚持路权更重要",
+      "C": "加速",
+      "D": "鸣笛"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 186,
+    "category": "181–190 故障、事故和危险",
+    "question": "发生碰撞后，应：",
+    "options": {
+      "A": "立即离开",
+      "B": "停车并按法律要求处理现场、交换信息等",
+      "C": "删除行车记录",
+      "D": "不告诉任何人"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 187,
+    "category": "181–190 故障、事故和危险",
+    "question": "事故现场有人受伤，应优先：",
+    "options": {
+      "A": "拍照发朋友圈",
+      "B": "寻求紧急医疗帮助并确保现场安全",
+      "C": "讨论责任",
+      "D": "移走所有证据"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 188,
+    "category": "181–190 故障、事故和危险",
+    "question": "车辆在高速道路发生故障，应尽可能：",
+    "options": {
+      "A": "停在行车道中央",
+      "B": "安全驶离行车道",
+      "C": "原地倒车",
+      "D": "横停道路"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 189,
+    "category": "181–190 故障、事故和危险",
+    "question": "如果车辆停在危险位置，应：",
+    "options": {
+      "A": "尽可能警示其他道路使用者",
+      "B": "关闭所有灯",
+      "C": "站在车道中央",
+      "D": "不采取措施"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 190,
+    "category": "181–190 故障、事故和危险",
+    "question": "看到前方发生事故，应：",
+    "options": {
+      "A": "加速围观",
+      "B": "减速、观察并避免制造第二次事故",
+      "C": "拍视频",
+      "D": "紧跟前车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 191,
+    "category": "191–200 综合高频易错题",
+    "question": "前车突然刹车，你首先需要的是什么？",
+    "options": {
+      "A": "足够跟车距离",
+      "B": "更响的喇叭",
+      "C": "更大的发动机",
+      "D": "远光灯"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 192,
+    "category": "191–200 综合高频易错题",
+    "question": "驾驶时最有效的观察方式是：",
+    "options": {
+      "A": "一直盯着前车",
+      "B": "不断扫描远近道路、后视镜和潜在危险",
+      "C": "只看导航",
+      "D": "只看道路中央"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 193,
+    "category": "191–200 综合高频易错题",
+    "question": "绿灯亮起时，你应该立即冲出去吗？",
+    "options": {
+      "A": "是",
+      "B": "不，应确认路口已经安全",
+      "C": "只有白天可以",
+      "D": "大车可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 194,
+    "category": "191–200 综合高频易错题",
+    "question": "看到前方儿童站在路边，你应该：",
+    "options": {
+      "A": "假设他不会过马路",
+      "B": "减速并准备停车",
+      "C": "加速通过",
+      "D": "只按喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 195,
+    "category": "191–200 综合高频易错题",
+    "question": "前方车辆打右转灯，是否可以完全相信它一定右转？",
+    "options": {
+      "A": "可以",
+      "B": "不可以，应等待其实际动作并保持安全判断",
+      "C": "夜间可以",
+      "D": "高速公路可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 196,
+    "category": "191–200 综合高频易错题",
+    "question": "即使道路限速50 km/h，大雪导致路面非常滑时，应该：",
+    "options": {
+      "A": "必须保持50",
+      "B": "根据实际情况降低到安全速度",
+      "C": "开60",
+      "D": "跟紧前车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 197,
+    "category": "191–200 综合高频易错题",
+    "question": "后车紧贴你（tailgating）时，比较安全的处理是：",
+    "options": {
+      "A": "故意急刹",
+      "B": "增加自己与前车的空间，并在安全时让其通过",
+      "C": "加速竞赛",
+      "D": "挡住它"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 198,
+    "category": "191–200 综合高频易错题",
+    "question": "开车时突然发现走错路，最安全的方法是：",
+    "options": {
+      "A": "立即急转",
+      "B": "继续安全行驶，到合适地点再改变路线",
+      "C": "倒车",
+      "D": "停在车道中央看导航"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 199,
+    "category": "191–200 综合高频易错题",
+    "question": "一个优秀的防御性驾驶员会：",
+    "options": {
+      "A": "只考虑自己是否守法",
+      "B": "预判其他道路使用者可能犯错，并提前留下安全空间",
+      "C": "永远开得最快",
+      "D": "坚持自己的路权"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 200,
+    "category": "191–200 综合高频易错题",
+    "question": "ICBC知识考试最重要的通过标准是什么？",
+    "options": {
+      "A": "50题答对25题",
+      "B": "50题答对30题",
+      "C": "50题答对40题",
+      "D": "必须50题全对"
+    },
+    "answer": "C",
+    "explanation": "80%"
+  },
+  {
+    "num": 201,
+    "category": "201–210 观察与危险判断",
+    "question": "开车时，最好的观察方法是什么？",
+    "options": {
+      "A": "一直看正前方",
+      "B": "不断扫描远处、近处、两侧和后视镜",
+      "C": "只跟着前车",
+      "D": "只看GPS"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 202,
+    "category": "201–210 观察与危险判断",
+    "question": "为什么不能长时间盯着前车？",
+    "options": {
+      "A": "容易耗油",
+      "B": "会缩小你对周围危险的观察范围",
+      "C": "会损坏眼睛",
+      "D": "属于违法"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 203,
+    "category": "201–210 观察与危险判断",
+    "question": "看到停在路边的车辆内有人时，你应该想到：",
+    "options": {
+      "A": "对方一定不会动",
+      "B": "对方可能突然开门或驶入车流",
+      "C": "对方一定在睡觉",
+      "D": "可以贴近通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 204,
+    "category": "201–210 观察与危险判断",
+    "question": "看到一颗球滚到马路上，最合理的判断是：",
+    "options": {
+      "A": "继续正常速度",
+      "B": "后面可能有儿童追出来",
+      "C": "按喇叭即可",
+      "D": "球不会造成危险"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 205,
+    "category": "201–210 观察与危险判断",
+    "question": "经过停靠的公交车时，应特别警惕：",
+    "options": {
+      "A": "油箱泄漏",
+      "B": "行人可能从公交车前后出现",
+      "C": "公交车一定倒车",
+      "D": "路面一定结冰"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 206,
+    "category": "201–210 观察与危险判断",
+    "question": "看到前方车辆左右摆动，最好的做法是：",
+    "options": {
+      "A": "紧跟",
+      "B": "增加距离并观察",
+      "C": "马上超车",
+      "D": "按住喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 207,
+    "category": "201–210 观察与危险判断",
+    "question": "接近看不清另一侧的弯道时：",
+    "options": {
+      "A": "加速",
+      "B": "调整到能够安全停车的速度",
+      "C": "占用对向车道",
+      "D": "超车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 208,
+    "category": "201–210 观察与危险判断",
+    "question": "经过停满车辆的街道时为什么应降低速度？",
+    "options": {
+      "A": "可能有行人、车辆或车门突然进入你的路径",
+      "B": "因为发动机需要降温",
+      "C": "因为停车车辆有路权",
+      "D": "没有特别原因"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 209,
+    "category": "201–210 观察与危险判断",
+    "question": "在住宅区看到儿童骑自行车，应：",
+    "options": {
+      "A": "假设他们一定直线行驶",
+      "B": "留出更大的安全空间",
+      "C": "从旁边快速通过",
+      "D": "鸣笛催促"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 210,
+    "category": "201–210 观察与危险判断",
+    "question": "“See-Think-Do”中的Think主要指：",
+    "options": {
+      "A": "想目的地",
+      "B": "评估危险并决定如何应对",
+      "C": "想停车地点",
+      "D": "看仪表盘"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 211,
+    "category": "211–220 跟车、空间与制动",
+    "question": "前方大型卡车遮挡视线时应该：",
+    "options": {
+      "A": "靠得更近",
+      "B": "增加跟车距离",
+      "C": "马上超车",
+      "D": "开远光"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 212,
+    "category": "211–220 跟车、空间与制动",
+    "question": "雨天应该如何调整跟车距离？",
+    "options": {
+      "A": "减少",
+      "B": "增加",
+      "C": "不变",
+      "D": "只在晚上增加"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 213,
+    "category": "211–220 跟车、空间与制动",
+    "question": "后车紧贴你时，最不应该做的是：",
+    "options": {
+      "A": "保持冷静",
+      "B": "增加与前车距离",
+      "C": "故意突然刹车",
+      "D": "安全时让其通过"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 214,
+    "category": "211–220 跟车、空间与制动",
+    "question": "为什么需要给自己留下“逃生空间”？",
+    "options": {
+      "A": "为了停车",
+      "B": "出现危险时还有避让选择",
+      "C": "为了超速",
+      "D": "为了让别人超车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 215,
+    "category": "211–220 跟车、空间与制动",
+    "question": "下坡时车辆的停车距离通常：",
+    "options": {
+      "A": "更短",
+      "B": "更长",
+      "C": "完全相同",
+      "D": "与速度无关"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 216,
+    "category": "211–220 跟车、空间与制动",
+    "question": "车辆速度增加时，制动距离通常：",
+    "options": {
+      "A": "减少",
+      "B": "增加",
+      "C": "不变",
+      "D": "变为零"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 217,
+    "category": "211–220 跟车、空间与制动",
+    "question": "载重较大的车辆通常需要：",
+    "options": {
+      "A": "更长停车距离",
+      "B": "更短停车距离",
+      "C": "不需要刹车",
+      "D": "与空车完全一样"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 218,
+    "category": "211–220 跟车、空间与制动",
+    "question": "在湿滑道路上猛踩刹车可能：",
+    "options": {
+      "A": "增加抓地力",
+      "B": "导致失控风险增加",
+      "C": "缩短所有情况下的停车距离",
+      "D": "没有影响"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 219,
+    "category": "211–220 跟车、空间与制动",
+    "question": "前车通过某固定物体后，你开始计时，这种方法用于判断：",
+    "options": {
+      "A": "车速",
+      "B": "跟车时间间隔",
+      "C": "油耗",
+      "D": "轮胎压力"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 220,
+    "category": "211–220 跟车、空间与制动",
+    "question": "为什么高速行驶需要更大的安全空间？",
+    "options": {
+      "A": "速度越高，反应和停车所需距离越长",
+      "B": "发动机声音更大",
+      "C": "高速没有限速",
+      "D": "车辆会变宽"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 221,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "红灯右转前必须首先：",
+    "options": {
+      "A": "减速",
+      "B": "完全停车",
+      "C": "鸣笛",
+      "D": "开双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 222,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "如果标志禁止红灯右转：",
+    "options": {
+      "A": "没车时仍可转",
+      "B": "红灯时不能右转",
+      "C": "晚上可以",
+      "D": "N牌不能，其他人可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 223,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "左转时最重要的原则之一是：",
+    "options": {
+      "A": "左转车辆总是优先",
+      "B": "给需要让行的直行交通和行人让行",
+      "C": "快速抢过去",
+      "D": "只看交通灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 224,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "黄灯出现时，你距离停止线足够远并可以安全停车，应：",
+    "options": {
+      "A": "加速",
+      "B": "停车",
+      "C": "鸣笛",
+      "D": "转弯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 225,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "绿灯亮起，但路口仍有行人，应：",
+    "options": {
+      "A": "立即前进",
+      "B": "等待行人安全通过",
+      "C": "鸣笛",
+      "D": "绕过行人"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 226,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "STOP标志前没有停止线但有人行横道，应在哪里停车？",
+    "options": {
+      "A": "横道之后",
+      "B": "横道之前",
+      "C": "路口中央",
+      "D": "任意地方"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 227,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "STOP路口完全没有其他车辆时：",
+    "options": {
+      "A": "可以不停",
+      "B": "仍然必须完全停车",
+      "C": "减速即可",
+      "D": "鸣笛即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 228,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "四向STOP，两辆车几乎同时到达，通常应该：",
+    "options": {
+      "A": "左侧让右侧",
+      "B": "右侧让左侧",
+      "C": "大车先",
+      "D": "快车先"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 229,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "进入主路前视线被建筑物挡住，应：",
+    "options": {
+      "A": "快速冲出",
+      "B": "停止/缓慢前移到能够安全观察的位置",
+      "C": "鸣笛后直接进入",
+      "D": "倒车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 230,
+    "category": "221–230 交叉路口与交通信号",
+    "question": "有路权意味着：",
+    "options": {
+      "A": "可以不考虑其他人",
+      "B": "仍然有责任避免碰撞",
+      "C": "可以超过限速",
+      "D": "可以不观察"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 231,
+    "category": "231–240 道路共享",
+    "question": "超越自行车时应该：",
+    "options": {
+      "A": "尽量靠近",
+      "B": "留出安全的横向空间",
+      "C": "强迫骑车人上人行道",
+      "D": "按住喇叭"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 232,
+    "category": "231–240 道路共享",
+    "question": "自行车突然向左移动可能因为：",
+    "options": {
+      "A": "故意阻挡你",
+      "B": "正在避开坑洞、碎石或车门",
+      "C": "一定要左转",
+      "D": "自行车失控"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 233,
+    "category": "231–240 道路共享",
+    "question": "摩托车看起来离你很远，一个原因可能是：",
+    "options": {
+      "A": "体积较小导致距离和速度更难判断",
+      "B": "摩托车不会移动",
+      "C": "摩托车没有路权",
+      "D": "摩托车速度永远很慢"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 234,
+    "category": "231–240 道路共享",
+    "question": "跟随摩托车时应该：",
+    "options": {
+      "A": "紧贴",
+      "B": "保持足够跟车空间",
+      "C": "与其并排",
+      "D": "用远光灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 235,
+    "category": "231–240 道路共享",
+    "question": "大型卡车右转时，你发现其右侧有空隙，应该：",
+    "options": {
+      "A": "从右侧钻过去",
+      "B": "不进入这个危险空间",
+      "C": "加速",
+      "D": "与卡车并排转弯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 236,
+    "category": "231–240 道路共享",
+    "question": "大型车辆驾驶员的盲区通常：",
+    "options": {
+      "A": "比小汽车更小",
+      "B": "可能非常大",
+      "C": "完全不存在",
+      "D": "只有后方"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 237,
+    "category": "231–240 道路共享",
+    "question": "如果你在卡车后视镜里看不到驾驶员：",
+    "options": {
+      "A": "驾驶员很可能也看不到你",
+      "B": "他一定能看到你",
+      "C": "可以安全超车",
+      "D": "应开远光"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 238,
+    "category": "231–240 道路共享",
+    "question": "遇到骑马者时应该：",
+    "options": {
+      "A": "鸣笛",
+      "B": "减速并给足空间，避免惊吓动物",
+      "C": "加速",
+      "D": "紧跟"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 239,
+    "category": "231–240 道路共享",
+    "question": "道路施工人员给出的交通指示：",
+    "options": {
+      "A": "可以忽略",
+      "B": "应遵守",
+      "C": "只对卡车有效",
+      "D": "只在白天有效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 240,
+    "category": "231–240 道路共享",
+    "question": "学校巡逻员或过街监督员正在指挥时：",
+    "options": {
+      "A": "必须服从其指示",
+      "B": "只服从交通灯",
+      "C": "可以绕过",
+      "D": "鸣笛即可"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 241,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "开车过程中手机响了，最安全的处理是：",
+    "options": {
+      "A": "马上查看",
+      "B": "不操作设备，在安全合法地点停车后处理",
+      "C": "红灯时拿起来看",
+      "D": "放在方向盘上操作"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 242,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "你很疲劳但距离目的地只有20分钟，应：",
+    "options": {
+      "A": "坚持开完",
+      "B": "安全停车休息",
+      "C": "开窗即可",
+      "D": "加速缩短时间"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 243,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "情绪非常愤怒时驾驶：",
+    "options": {
+      "A": "判断可能受到影响",
+      "B": "判断会更准确",
+      "C": "没有影响",
+      "D": "反应一定更快"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 244,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "朋友喝酒后坚持自己可以开车，你应该认为：",
+    "options": {
+      "A": "他自己感觉没问题就可以",
+      "B": "酒精会影响驾驶能力，应安排其他交通方式",
+      "C": "喝咖啡即可",
+      "D": "洗脸即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 245,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "开车时发现自己错过出口，应该：",
+    "options": {
+      "A": "突然横跨车道",
+      "B": "继续安全行驶，到下一处合适位置调整路线",
+      "C": "倒车",
+      "D": "停在高速公路上"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 246,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "前方突然出现动物，最佳原则是：",
+    "options": {
+      "A": "先控制车辆并避免制造更严重的碰撞风险",
+      "B": "无论如何猛烈转向",
+      "C": "闭眼急刹",
+      "D": "加速"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 247,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "车辆开始失控时，驾驶员应该：",
+    "options": {
+      "A": "盯着障碍物",
+      "B": "看向希望车辆驶去的位置并平稳控制",
+      "C": "猛拉手刹",
+      "D": "关闭车灯"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 248,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "如果必须在两个风险之间做选择，防御性驾驶的核心原则是：",
+    "options": {
+      "A": "坚持路权",
+      "B": "选择能够最大程度避免碰撞和伤害的方案",
+      "C": "选择速度最快的方案",
+      "D": "选择距离最短的方案"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 249,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "为什么正式考试不能只背模拟题答案？",
+    "options": {
+      "A": "因为考试会用不同场景考相同规则",
+      "B": "因为没有交通规则",
+      "C": "因为只有路标题",
+      "D": "因为所有题随机猜"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "num": 250,
+    "category": "241–250 考试容易出现的情景判断",
+    "question": "ICBC官方最建议的准备组合是：",
+    "options": {
+      "A": "只刷网友题库",
+      "B": "Learn to Drive Smart + Practice Knowledge Test + Road Signs Practice Test",
+      "C": "只背限速",
+      "D": "只练开车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 251,
+    "category": "251–260 跟车距离与速度",
+    "question": "正常天气和道路条件下，至少应保持多少秒跟车距离？",
+    "options": {
+      "A": "1秒",
+      "B": "2秒",
+      "C": "4秒",
+      "D": "5秒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 252,
+    "category": "251–260 跟车距离与速度",
+    "question": "在高速公路上，ICBC建议至少保持多少秒跟车距离？",
+    "options": {
+      "A": "1秒",
+      "B": "2秒",
+      "C": "3秒",
+      "D": "8秒"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 253,
+    "category": "251–260 跟车距离与速度",
+    "question": "恶劣天气、湿滑路面或视线不佳时，应如何处理跟车距离？",
+    "options": {
+      "A": "缩短",
+      "B": "增加",
+      "C": "保持不变",
+      "D": "只看限速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 254,
+    "category": "251–260 跟车距离与速度",
+    "question": "为什么速度增加后需要更长的停车距离？",
+    "options": {
+      "A": "轮胎变小",
+      "B": "车辆在反应时间内走得更远，制动距离也增加",
+      "C": "道路变窄",
+      "D": "刹车自动变弱"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 255,
+    "category": "251–260 跟车距离与速度",
+    "question": "限速50 km/h是否意味着任何情况下都应该开50？",
+    "options": {
+      "A": "是",
+      "B": "不是，恶劣天气、交通或视线条件下应降低速度",
+      "C": "只有N牌不是",
+      "D": "夜间必须50"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 256,
+    "category": "251–260 跟车距离与速度",
+    "question": "前方视线距离明显缩短时，正确做法是：",
+    "options": {
+      "A": "加速",
+      "B": "降低到能够在可见距离内安全停车的速度",
+      "C": "跟紧前车",
+      "D": "开双闪继续高速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 257,
+    "category": "251–260 跟车距离与速度",
+    "question": "前车通过一个固定物体后，你开始数“one thousand one, one thousand two”，这是在检查：",
+    "options": {
+      "A": "车速",
+      "B": "跟车时间间隔",
+      "C": "反应时间",
+      "D": "发动机转速"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 258,
+    "category": "251–260 跟车距离与速度",
+    "question": "后车紧贴你时，应该：",
+    "options": {
+      "A": "急刹警告",
+      "B": "增加与前车的距离，并在安全情况下让后车通过",
+      "C": "加速比赛",
+      "D": "阻止它超车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 259,
+    "category": "251–260 跟车距离与速度",
+    "question": "跟随大型卡车为什么通常需要更多空间？",
+    "options": {
+      "A": "卡车永远超速",
+      "B": "卡车会限制你的前方视线",
+      "C": "卡车没有刹车灯",
+      "D": "法律要求10秒"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 260,
+    "category": "251–260 跟车距离与速度",
+    "question": "下坡时相比平路，停车距离通常：",
+    "options": {
+      "A": "更短",
+      "B": "更长",
+      "C": "相同",
+      "D": "与速度无关"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 261,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "BC一般School Zone限速是多少？",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50 km/h"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 262,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "如果标志没有另行注明，School Zone 30 km/h通常在什么时候有效？",
+    "options": {
+      "A": "每天全天",
+      "B": "上学日8:00–17:00",
+      "C": "仅8:00–9:00",
+      "D": "仅有儿童出现时"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 263,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "Playground Zone的30 km/h限制通常：",
+    "options": {
+      "A": "只在上学日",
+      "B": "每天从黎明到黄昏",
+      "C": "8:00–17:00",
+      "D": "周末无效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 264,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "星期六下午经过普通School Zone，没有额外标志规定时：",
+    "options": {
+      "A": "一定30 km/h",
+      "B": "普通School Zone的上学日时间限制通常不适用，但仍应根据实际情况安全驾驶",
+      "C": "一定20",
+      "D": "禁止车辆进入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 265,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "星期六下午经过Playground Zone：",
+    "options": {
+      "A": "周末无效",
+      "B": "从黎明到黄昏仍适用30 km/h限制",
+      "C": "限速50",
+      "D": "只有看到儿童才生效"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 266,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "学校区域看到儿童靠近道路，即使自己没有超速，也应该：",
+    "options": {
+      "A": "保持速度",
+      "B": "减速并准备停车",
+      "C": "鸣笛",
+      "D": "加速离开"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 267,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "为什么儿童附近需要特别谨慎？",
+    "options": {
+      "A": "儿童一定违法",
+      "B": "儿童行为可能突然且难以预测",
+      "C": "儿童拥有绝对路权",
+      "D": "车辆不能进入学校区域"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 268,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "一颗球突然滚到道路上，你应该首先想到：",
+    "options": {
+      "A": "球没有危险",
+      "B": "可能有儿童紧随其后跑出来",
+      "C": "加速",
+      "D": "鸣笛即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 269,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "过街监督员要求你停车时：",
+    "options": {
+      "A": "绿灯就可以无视",
+      "B": "必须服从其指示",
+      "C": "只有学生需要服从",
+      "D": "鸣笛即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 270,
+    "category": "261–270 学校、游乐场与儿童",
+    "question": "校车红灯正在闪烁时：",
+    "options": {
+      "A": "慢慢通过",
+      "B": "按照规定停车并等待",
+      "C": "从路肩超车",
+      "D": "鸣笛通过"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 271,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "BC的L表示：",
+    "options": {
+      "A": "Local",
+      "B": "Learner",
+      "C": "Limited",
+      "D": "Licensed"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 272,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "N表示：",
+    "options": {
+      "A": "New",
+      "B": "Novice",
+      "C": "Normal",
+      "D": "Night"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 273,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L驾驶员的合格监督者至少多少岁？",
+    "options": {
+      "A": "19",
+      "B": "21",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 274,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L驾驶员的监督者需要：",
+    "options": {
+      "A": "任何驾照",
+      "B": "持有效Class 1–5驾照并坐在前排乘客座位",
+      "C": "只需要会开车",
+      "D": "必须是亲属"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 275,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L驾驶员通常允许在哪个时间段驾驶？",
+    "options": {
+      "A": "24小时",
+      "B": "5:00 a.m.–午夜",
+      "C": "8:00–17:00",
+      "D": "日出到日落"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 276,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L驾驶员除合格监督者之外，一般最多还可以有多少名乘客？",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 277,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L驾驶员开车时是否需要展示L标志？",
+    "options": {
+      "A": "不需要",
+      "B": "需要",
+      "C": "只有高速需要",
+      "D": "夜间需要"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 278,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "N驾驶员是否需要展示N标志？",
+    "options": {
+      "A": "不需要",
+      "B": "需要",
+      "C": "只在高速",
+      "D": "只在夜间"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 279,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L和N驾驶员对酒精的要求是：",
+    "options": {
+      "A": "BAC低于0.05即可",
+      "B": "零酒精要求",
+      "C": "一杯啤酒可以",
+      "D": "晚餐时可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 280,
+    "category": "271–280 Learner（L）与Novice（N）",
+    "question": "L/N驾驶员使用电子设备的限制：",
+    "options": {
+      "A": "比普通驾驶员宽松",
+      "B": "非常严格，应掌握新司机的电子设备限制",
+      "C": "只限制手机通话",
+      "D": "停红灯时随便用"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 281,
+    "category": "281–290 停车与位置判断",
+    "question": "有路缘石的下坡停车，车轮通常应该：",
+    "options": {
+      "A": "转离路缘石",
+      "B": "转向路缘石",
+      "C": "完全笔直",
+      "D": "向道路中央"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 282,
+    "category": "281–290 停车与位置判断",
+    "question": "有路缘石的上坡停车，车轮通常应该：",
+    "options": {
+      "A": "转向路缘石",
+      "B": "转离路缘石",
+      "C": "完全笔直",
+      "D": "任意"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 283,
+    "category": "281–290 停车与位置判断",
+    "question": "停车后离开车辆前，应：",
+    "options": {
+      "A": "保持发动机运转",
+      "B": "确保车辆不会移动，并妥善锁车",
+      "C": "留钥匙在车内",
+      "D": "不使用驻车制动"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 284,
+    "category": "281–290 停车与位置判断",
+    "question": "可以把车辆停在人行横道上吗？",
+    "options": {
+      "A": "可以5分钟",
+      "B": "不可以",
+      "C": "晚上可以",
+      "D": "开双闪可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 285,
+    "category": "281–290 停车与位置判断",
+    "question": "可以停车挡住私人车道（driveway）吗？",
+    "options": {
+      "A": "可以",
+      "B": "不应该/不得阻挡出入口",
+      "C": "晚上可以",
+      "D": "只要人在车里就可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 286,
+    "category": "281–290 停车与位置判断",
+    "question": "铁路道口前方堵车，没有空间完全通过轨道，应：",
+    "options": {
+      "A": "开上轨道等待",
+      "B": "停在轨道前等待",
+      "C": "跟紧前车",
+      "D": "鸣笛进入"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 287,
+    "category": "281–290 停车与位置判断",
+    "question": "红灯停车时车辆应该：",
+    "options": {
+      "A": "缓慢移动",
+      "B": "完全停止",
+      "C": "车头进入人行横道",
+      "D": "按喇叭即可"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 288,
+    "category": "281–290 停车与位置判断",
+    "question": "STOP标志前有停车线，应：",
+    "options": {
+      "A": "停在线后",
+      "B": "停在线前",
+      "C": "停在路口中央",
+      "D": "停在人行横道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 289,
+    "category": "281–290 停车与位置判断",
+    "question": "没有停车线，但有人行横道，应：",
+    "options": {
+      "A": "停在横道上",
+      "B": "停在人行横道之前",
+      "C": "过了横道再停",
+      "D": "不需要停车"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 290,
+    "category": "281–290 停车与位置判断",
+    "question": "停车位置挡住交通标志或妨碍其他道路使用者视线：",
+    "options": {
+      "A": "没关系",
+      "B": "是不安全的，应避免",
+      "C": "晚上允许",
+      "D": "N牌允许"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 291,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "绿灯是否意味着你拥有绝对路权？",
+    "options": {
+      "A": "是",
+      "B": "不是，仍必须确认路口安全并注意行人等道路使用者",
+      "C": "只有白天是",
+      "D": "大型车辆是"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 292,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "黄灯亮起，而你能够安全停车时：",
+    "options": {
+      "A": "加速通过",
+      "B": "停车",
+      "C": "鸣笛",
+      "D": "打双闪"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 293,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "黄灯亮起，但你已经非常接近路口，突然停车反而危险：",
+    "options": {
+      "A": "必须倒车",
+      "B": "在确保安全的情况下继续通过",
+      "C": "拉手刹",
+      "D": "横向变道"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 294,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "打了转向灯是否自动获得变道权？",
+    "options": {
+      "A": "是",
+      "B": "不是，仍必须确认安全",
+      "C": "高速上是",
+      "D": "夜间是"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 295,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "后视镜中没有看到车辆，是否可以直接变道？",
+    "options": {
+      "A": "可以",
+      "B": "不可以，还应检查盲区",
+      "C": "白天可以",
+      "D": "低速可以"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 296,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "左转时对面直行车辆正在接近：",
+    "options": {
+      "A": "左转车辆优先",
+      "B": "通常应让直行车辆先行",
+      "C": "谁车大谁先",
+      "D": "谁先鸣笛谁先"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 297,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "环岛中谁通常拥有优先权？",
+    "options": {
+      "A": "正准备进入的车辆",
+      "B": "已经在环岛内的车辆",
+      "C": "大型SUV",
+      "D": "左转车辆"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "num": 298,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "错过高速出口时：",
+    "options": {
+      "A": "倒车",
+      "B": "停车",
+      "C": "继续前进，到下一个安全出口调整路线",
+      "D": "横穿实线"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "num": 299,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "即使你完全遵守交通法规，为什么仍要进行防御性驾驶？",
+    "options": {
+      "A": "因为其他道路使用者可能犯错",
+      "B": "因为天气和道路条件可能改变",
+      "C": "因为危险可能突然出现",
+      "D": "以上全部"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "num": 300,
+    "category": "291–300 最容易混淆的综合题",
+    "question": "正式ICBC知识考试50题至少需要答对多少题？",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+];
+
+        let mode = 'practice';
+        let queue = [];
+        let idx = 0;
+        let score = 0;
+        let answered = false;
+        let records = [];
+
+        const app = document.getElementById('app');
+
+        function shuffle(arr) {
+            const a = [...arr];
+            for (let i = a.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [a[i], a[j]] = [a[j], a[i]];
+            }
+            return a;
+        }
+
+        function startPractice() {
+            mode = 'practice';
+            queue = [...questions].sort((a, b) => a.num - b.num);
+            idx = 0;
+            score = 0;
+            records = [];
+            render();
+        }
+
+        function startExam() {
+            mode = 'exam';
+            queue = shuffle(questions).slice(0, 50);
+            idx = 0;
+            score = 0;
+            records = [];
+            render();
+        }
+
+        function render() {
+            const q = queue[idx];
+            let html = `
+                <div class="top-bar">
+                    <span class="category">${q.category || ''}</span>
+                    <span class="progress">第 ${idx + 1} / ${queue.length} 题</span>
+                </div>
+                <div class="question">${q.num}. ${q.question}</div>
+                <div class="options" id="options"></div>
+                <div class="explanation" id="explanation"></div>
+                <div class="controls">
+                    <button class="secondary" onclick="prevQuestion()" id="prevBtn" ${idx === 0 ? 'disabled' : ''}>上一题</button>
+                    <button onclick="nextQuestion()" id="nextBtn" style="display:none;">下一题</button>
+                    <button onclick="finish()" id="finishBtn" style="display:none;">查看成绩</button>
+                    <button class="secondary" onclick="showMenu()">退出</button>
+                </div>
+            `;
+            app.innerHTML = html;
+
+            const optsDiv = document.getElementById('options');
+            ['A', 'B', 'C', 'D'].forEach(l => {
+                if (!q.options[l]) return;
+                const btn = document.createElement('button');
+                btn.className = 'option';
+                btn.id = 'opt-' + l;
+                btn.innerHTML = '<b>' + l + '.</b> ' + escapeHtml(q.options[l]);
+                btn.onclick = () => select(l);
+                optsDiv.appendChild(btn);
+            });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function select(l) {
+            if (answered) return;
+            answered = true;
+            const q = queue[idx];
+            const correct = l === q.answer;
+            if (correct) score++;
+            records.push({num: q.num, selected: l, correct: correct});
+
+            ['A', 'B', 'C', 'D'].forEach(letter => {
+                const btn = document.getElementById('opt-' + letter);
+                if (!btn) return;
+                if (letter === q.answer) btn.classList.add('correct');
+                else if (letter === l) btn.classList.add('wrong');
+                else btn.disabled = true;
+                btn.onclick = null;
+            });
+
+            const exp = document.getElementById('explanation');
+            let msg = '<strong>正确答案：' + q.answer + '</strong>';
+            if (q.explanation) msg += '<br>' + escapeHtml(q.explanation);
+            if (!correct) msg += '<br><span style="color:#c0392b">您选择了：' + l + '</span>';
+            exp.innerHTML = msg;
+            exp.style.display = 'block';
+
+            document.getElementById('nextBtn').style.display = idx < queue.length - 1 ? 'inline-block' : 'none';
+            document.getElementById('finishBtn').style.display = idx === queue.length - 1 ? 'inline-block' : 'none';
+        }
+
+        function nextQuestion() {
+            if (idx < queue.length - 1) {
+                idx++;
+                answered = false;
+                render();
+            }
+        }
+
+        function prevQuestion() {
+            if (idx > 0) {
+                idx--;
+                answered = false;
+                render();
+            }
+        }
+
+        function finish() {
+            const total = queue.length;
+            const percent = Math.round(score / total * 100);
+            let html = '<div class="result">';
+            html += '<h2>' + (mode === 'exam' ? '模拟考试结束' : '练习完成') + '</h2>';
+            html += '<div class="score">' + score + ' / ' + total + '</div>';
+            html += '<p style="font-size:22px;">正确率：' + percent + '%</p>';
+            if (mode === 'exam') {
+                html += '<p style="font-size:26px;" class="' + (score >= 40 ? 'pass' : 'fail') + '">';
+                html += score >= 40 ? '恭喜，通过！' : '未通过，需答对 40 题';
+                html += '</p>';
+            }
+
+            const wrong = records.filter(r => !r.correct);
+            if (wrong.length > 0) {
+                html += '<div class="wrong-list"><h3>错题回顾（' + wrong.length + ' 道）</h3><ul>';
+                wrong.forEach(r => {
+                    const q = questions.find(x => x.num === r.num);
+                    html += '<li><b>第 ' + q.num + ' 题</b>：' + escapeHtml(q.question) + '<br>';
+                    html += '正确答案：<b>' + q.answer + '</b>，您选：<b>' + r.selected + '</b></li>';
+                });
+                html += '</ul></div>';
+            } else {
+                html += '<p style="color:#27ae60;font-size:24px;">全部答对！</p>';
+            }
+
+            html += '<div class="controls"><button onclick="showMenu()">返回主菜单</button></div>';
+            html += '</div>';
+            app.innerHTML = html;
+        }
+
+        function showMenu() {
+            app.innerHTML = `
+                <div class="menu">
+                    <button onclick="startPractice()">顺序练习（300 题）</button>
+                    <button class="exam" onclick="startExam()">50 题模拟考试（答对 40 题及格）</button>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

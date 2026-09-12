@@ -1,8 +1,9 @@
 // Service Worker for Cathy Fencing PWA
-const CACHE_NAME = 'cathy-fencing-v29';
+const CACHE_NAME = 'cathy-fencing-v30';
 const ASSETS = [
   './cathy_avatar.jpg',
-  './manifest.json'
+  './manifest.json',
+  './bc_icbc/index.html'
 ];
 
 self.addEventListener('install', (e) => {
