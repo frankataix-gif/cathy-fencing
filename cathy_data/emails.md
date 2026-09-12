@@ -12829,3 +12829,28 @@ nataliewu100@gmail.com
       .mj-outlook-group-fix { wi
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-08-17T22:24:42+00:00
+**摘要:** Google通知用户其账号在Apple iPhone上有新的登录活动，建议确认是否本人操作。
+**待办:** 无
+
+[image: Google]
+在 Apple iPhone 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Apple iPhone
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1787005482100?rfn%3D325%26rfnc%3D1%26eid%3D-1088761735380420930%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC
+
+---
