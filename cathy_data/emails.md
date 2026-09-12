@@ -6675,3 +6675,39 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing
 
 ---
+
+## [营销] 聽日開搶！9.9 狂賞倒數🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-08T04:39:04+00:00
+**摘要:** Trip.com提醒用户明日将在指定时间开放抢购9.9元优惠活动，需准时参与。
+**待办:** 无
+
+係時候book定下個trip！Mark實 9AM/12PM/6PM/9PM 準時搶👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-co
+
+---
