@@ -13710,3 +13710,22 @@ Phone 604 317 4060
 The information in the email is confidential and may be legally privileged. It is int
 
 ---
+
+## [其他] Re: Apartment 1, 2 Lancer Square W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T18:42:59+02:00
+**摘要:** 邮件讨论了Lancer Square和London Dock两处房产的销售情况，包括价格调整、看房安排，并请求安排中文沟通代表。
+**待办:** 无
+
+Dear Augusta,
+
+Thank you for your email. Yes, I do interested, Regarding the properties, please see the updates below:
+
+Lancer Square:
+I noticed it is currently listed by another agent with an incorrect price. I have instructed them to take the listing down tomorrow. I will assess the latest market price shortly and will seek your opinion to ensure we have a unified asking price should we proceed with Benham and Reeves.
+
+London Dock:
+This property is ready for sale, and viewings can be a
+
+---
