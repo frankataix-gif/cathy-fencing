@@ -9946,3 +9946,24 @@ Adrian 您好，
 > 1. > Complete one Residency Form for the fa
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-29T00:01:21+00:00
+**摘要:** 邮件提醒需完成Cathy的入学准备工作，包括填写居住证明、必要表格、确认食堂信息、准备学习用品，并关注学校发送的开学指南。
+**待办:** 完成居住证明、必要表格填写、确认食堂信息、准备学习用品及查看开学指南
+
+Natalie,
+
+我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+
+昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+
+
+  1.
+Complete one Residency Form<https://www.meadowridge.bc.ca/new-family-portal/residency> for the family. Submit your address in Canada, student's Study Permit & parent's Visitor Record(s).
+  2.
+Complete required forms: Medical Info, Emergency Consent & RUTA. Log in to the Meadowridge Hub and lo
+
+---
