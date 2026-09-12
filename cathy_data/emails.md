@@ -9029,3 +9029,18 @@ Welcome to PayPal
       display: 
 
 ---
+
+## [其他] Make today taste a little different
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-02T20:30:03+00:00
+**摘要:** DoorDash发送的关于品牌字体样式的邮件
+**待办:** 无
+
+DoorDash     -->
+   
+      @font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
+
+---
