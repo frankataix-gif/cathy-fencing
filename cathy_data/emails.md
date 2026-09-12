@@ -6431,3 +6431,33 @@ Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月8日
 > <https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+B
 
 ---
+
+## [其他] Re: Package Delivery Assistance – TH103
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-08T20:19:10+00:00
+**摘要:** Natalie询问是否有包裹到达，并请求帮忙放置在TH103单元，回复表示会检查并反馈。
+**待办:** 无
+
+Hi Natalie,
+
+I just checked, nothing yet, but I can check at the end of the day.
+
+Thanks
+
+Anastasia
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:1eefaaa8-fb67-463c-aa62-8edde8a057af]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not 
+
+---
