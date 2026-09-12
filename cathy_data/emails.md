@@ -8385,3 +8385,31 @@ Tab debit: you’ll see this charge only if you have a remaining Tab balance
 Phone credit charge: you’ll see this c
 
 ---
+
+## [其他] You’ve made some changes to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T16:21:31-07:00
+**摘要:** 邮件通知用户关于TELUS移动账户的更改，包括新旧计划和费用调整，以及好友号码的更新。
+**待办:** 查看账户更改详情，确认费用变动，并更新好友号码设置。
+
+You’ve made some changes to your TELUS Mobility account  
+ 
+Hi ,  
+Here’s a summary of changes you made to your TELUS Mobility account on .  
+ 
+ 
+
+Your new Plan and add-ons: 
+ 
+Effective Date:  
+Expiry Date:
+
+Your old plan and add-ons that were removed: 
+ 
+Effective Date: 
+
+Your Favourite Numbers have been updated 
+Updates have been made to your favourite numbers, which allows you to make unlimited calls and texts to your favourite numbers. To view or change your favourite numbe
+
+---
