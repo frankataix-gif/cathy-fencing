@@ -11139,3 +11139,39 @@ Sephora
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 香港精選酒店 低至5折🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-26T04:51:07+00:00
+**摘要:** Trip.com推出香港精选酒店预售券，提供弹性入住和全额退款保障，可囤货。
+**待办:** 无
+
+全新住宿預售券！超彈性入住，未兌換可自動全額退款，無憂囤貨🤩          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+
+---
