@@ -10724,3 +10724,27 @@ Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Take the markets with you
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-27T06:16:24
+**摘要:** 这封邮件是TradingView推广他们的市场分析服务，可能涉及移动应用或随身访问市场的功能。
+**待办:** 无
+
+96       
+   Take the markets with you 
+   
+   
+   
+   
+   
+    /* Client resets for WebView-based clients (Samsung Email, Yandex Mail app) */
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+    a:hover       
+
+---
