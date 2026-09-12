@@ -7404,3 +7404,31 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" wid
 
 ---
+
+## [其他] 改用包年方案，费用节省 16%
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-09-05T18:36:28-07:00
+**摘要:** Google One通知用户可改用包年方案，费用节省16%且会员权益不变，提供操作链接。
+**待办:** 无
+
+
+会员权益不变，费用节省 16%
+
+通过短短几秒的简单操作即可改用包年方案。以更少的费用获享同样的存储空间及福 
+利，每年仅需 US$19.99。
+
+改为包年方案 
+<https://c.gle/ACT4xYx4Bw878kOh_RM0pgEDtZglQGSedF1cRBuJsB-QRJl4emXY6HfsNj0I1faEn3oWggHVqSVEfQfTSkZVt4atwwFWU8DKvxhdgdsN32-qO0JAZmT5wX5_o3S8MEckMyNHt8eux44ZI_5Fkf-q-OsXoQ03m86jULrP4k0m7F97KBQT8GzxSoHikP-hI0J6Axp-Ylmx6HZCYW8O9qGgsS-T6iuApH05CAM35oEXlq_SrkqPa8eY-469Q9cW6lmKwajuQQDzJ49DOqo4Jrm5_nEQgLVKKfH9g2B-exCLr9zQ5Gac_bwXJvY>
+
+
+100 GB :  US$1.99/月 US$23.88/年
+
+当前方案 : US$19.99/年
+
+
+
+方案的定价可能因国家/地区而异。
+
+
+---
