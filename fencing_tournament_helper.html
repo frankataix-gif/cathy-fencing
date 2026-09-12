@@ -657,10 +657,10 @@
     <h3 id="task-editor-title" style="margin-bottom:12px;">添加待办</h3>
     <input type="hidden" id="task-edit-id">
     <div class="form-row"><label for="te-title">标题</label><input id="te-title" type="text" placeholder="如：上传疫苗记录"></div>
-    <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
-      <div style="min-width:0;"><label for="te-due">截止日期</label><input id="te-due" type="date"></div>
+    <div class="form-row" style="display:grid; grid-template-columns:1fr; gap:12px;">
+      <div style="min-width:0;"><label for="te-due">截止日期</label><input id="te-due" type="date" style="width:100%; max-width:220px;"></div>
       <div style="min-width:0;"><label for="te-category">分类</label>
-        <select id="te-category" style="width:100%; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
+        <select id="te-category" style="width:100%; max-width:220px; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
           <option value="待办">待办</option>
           <option value="击剑">击剑</option>
           <option value="学校">学校</option>
@@ -669,7 +669,7 @@
         </select>
       </div>
     </div>
-    <div class="form-row"><label for="te-notes">备注 / 来源</label><textarea id="te-notes" rows="3" placeholder="来源邮件或补充说明"></textarea></div>
+    <div class="form-row"><label for="te-notes">备注 / 来源</label><textarea id="te-notes" rows="5" placeholder="来源邮件或补充说明" style="width:100%; box-sizing:border-box;"></textarea></div>
     <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
       <button class="btn danger" id="task-editor-delete" style="display:none;">删除</button>
       <button class="btn secondary" id="task-editor-cancel">取消</button>
@@ -4660,7 +4660,7 @@ function circuitLabel(c) {
   function renderTaskItem(t) {
     const color = taskCategoryColor[t.category] || '#6b7280';
     const due = t.dueDate ? `<span style="font-size:0.75rem; color:#6b7280;">${t.dueDate}</span>` : '';
-    const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; word-break:break-word;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
+    const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; white-space:pre-wrap; word-break:break-word;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
     return `<div class="schedule-list-item" style="border-left-color:${color}; padding:10px 12px;">
       <div style="display:flex; align-items:flex-start; gap:10px;">
         <input type="checkbox" data-task-id="${t.id}" ${t.completed ? 'checked' : ''} style="margin-top:4px; width:18px; height:18px; flex-shrink:0;">
