@@ -3980,3 +3980,28 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-11T20:35:59+00:00
+**摘要:** Google通知辅助邮箱发生变更，提醒用户检查账户安全。
+**待办:** 检查辅助邮箱变更记录，确认是否本人操作
+
+[image: Google]
+以下账号的辅助邮箱发生了变更：
+
+
+nataliewu100@gmail.com
+您账号的辅助邮箱发生了变更。如果这并非您本人所为，则应进行检查，了解发生了什 
+么情况。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789158959859?rfn%3D2%26rfnc%3D1%26eid%3D5481588928945187356%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+
+---
