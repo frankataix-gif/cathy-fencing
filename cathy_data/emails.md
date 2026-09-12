@@ -11511,3 +11511,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dguda_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHqoGsyjOGb38N-2FIHxs-2FCDgHnpMK2UL9HnclIHxPgC00Ku826JPHP5bSNurhPJYJwhZ9p2o7sjwyFnz0Uwl0-2FmGP6hlXZci-2BdUYDDwnASaXCE7BZdAMm6r5zrIuzDVvI-2F75cRX
 
 ---
+
+## [其他] New Payment Method Added to Your Tesla Account
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-24T01:10:55+00:00
+**摘要:** Tesla账户新增了一张尾号为4218的信用卡支付方式。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DR6z5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsuCYIFwNxIvJHoVDmhUDBzI-2FUf9WnT315I2QslpmnkJ5F3vCxn9qUXNtDwJ3hSmIZpJHMWSVi0c-2FvCjOQxPg3T0yY8DLK79XYkYu6U6FrLuRTRKiuNTsZMhNl8DsC83m98-2FMrRL
+
+---
