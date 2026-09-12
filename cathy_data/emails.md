@@ -12367,3 +12367,27 @@ button.action {font-size: 17px;line-height: 1.47059;font-weight: 400;letter-spac
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-19T11:21:02+02:00
+**摘要:** Natalie 发送了公寓出售相关文件夹链接，部分文件待上传，并请求确认访问权限及是否需要额外文件。
+**待办:** 确认是否能访问文件夹并告知是否需要额外文件
+
+Dear Michael,
+
+I have shared a folder containing the documents:
+
+https://drive.google.com/drive/folders/1jcbPBvUVjdc9BkUo-aIaycRjP2HIDro5?usp=sharing
+
+Some documents are still being prepared, but most of them have done, I will upload them to the shared folder as soon as they become available.
+
+Please confirm that you can access the folder and let me know if you require any additional documents at this stage.
+
+thanks
+
+Frank and natalie
+在 Aug 14, 2026, 16:07 +0200，Michael Cheng <Micha
+
+---
