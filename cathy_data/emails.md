@@ -12685,3 +12685,14 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/SkRICixvx8GDTn9lwNnqZQ~~/AAAHahA~/jtGBJavf8qeA71i8gFQ3lehlSiSSv_KLrQtxOd0CheFFnvYLvxzZzZTk5by7wo5SJL2pf-wIZYUhspaetlOVbx4ljsoc2ce5w1FmHh5mCa4mXA4rY6hmNo
 
 ---
+
+## [其他] Your receipt from Apple.
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-08-18T11:12:17+00:00
+**摘要:** 这封邮件是Apple发送的收据，确认交易信息。
+**待办:** 无
+
+.custom-wwmbjm{margin:20px 0px;font-family:system-ui,-apple-system,BlinkMacSystemFont,SF Pro,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;color:rgb(51, 51, 51);line-height:23px;padding:20px 15px;}.custom-wwmbjm .action{background-color:#027eff;color:#fff;}.custom-wwmbjm .body-link{text-decoration:none;color:#027eff;}.custom-qrj5ky{max-width:750px;margin:0 auto;}.custom-1ago99h{width:100%;}.custom-1p2cbqg{margin-bottom:50px;}.custom-m31y3a{padding-bottom:40px;}.custom-k8mnj0{display:inline-
+
+---
