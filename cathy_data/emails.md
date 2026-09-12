@@ -14033,3 +14033,16 @@ Don’t miss today’s savings.
 <https://app.sephora.com/T/v61000001a095b6ce0798be36f4bbe5c898/b109d550aa1c44e20000021ef3a0bcc2/b109d550-aa1c-44e2-9b8
 
 ---
+
+## [营销] Your Fall Sneakers Called
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-12T13:07:19.000Z
+**摘要:** 这封邮件是Browns Shoes推送的秋季限量款运动鞋促销信息，强调48小时快速配送服务。
+**待办:** 无
+
++ONLINE EXCLUSIVE: adidas Handbal Spezial X Liberty London
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQYA8vT7FONVWSFrQq9EEOl0-3DAgPC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAE0d8Tfv1hfnptoaZhvRfzbZzH0MxnC0iHjJP-2Bkz28cSIZhEdUpUwTwXTWvxurDbU7YBG7mqGL-2F93sOsZbcEIIUAYW3y1Ti2iGTVGlYSHnFIB-2FALMn8WcfhQN-2F7aB
+
+---
