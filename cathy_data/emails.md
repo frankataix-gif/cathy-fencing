@@ -12293,3 +12293,23 @@ Paralegal
 Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an email from Spencer West amending our bank details, please check the email address carefully an
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-19T17:02:42+02:00
+**摘要:** 邮件讨论房产销售签约流程，需先处理伦敦码头房产，后续再处理另一处房产，并需确认签署两份协议及上传相关文件。
+**待办:** 确保两份签约文件签署并上传，上传POA及TA6、TA7、TA10表格
+
+Dear Michael,
+
+Thank you for your email.
+
+Regarding the two properties, since the London Dock property is currently vacant and the process should be faster, we can proceed with signing the agreement for London Dock first. We will handle the other property subsequently.
+
+As for the TA6, TA7, and TA10 forms, my real estate agent is currently verifying the information. I will provide the completed forms as soon as they are ready.
+
+Best regards, Frank
+On 19 Aug 2026 at 4:57 PM +0200, Michae
+
+---
