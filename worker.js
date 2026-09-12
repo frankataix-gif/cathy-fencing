@@ -120,10 +120,24 @@ export default {
 
       const meta = await classifyEmail(env, { subject, from, text: classifyText });
       const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n\n${storeText}\n\n---\n`;
+      const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
+      const emailKey = `${subject}|${from}|${normDate(date)}`;
       let result = null;
       for (let attempt = 0; attempt < 3; attempt++) {
         try {
           const existing = await readGitHubFile(env, 'cathy_data/emails.md');
+          if (existing && existing.content) {
+            const regex = /##\s*\[[^\]]+\]\s*([\s\S]*?)\n[\s\S]*?\*\*发件人:\*\*\s*(.*?)\n\*\*日期:\*\*\s*(.*?)\n/g;
+            let m;
+            let duplicate = false;
+            while ((m = regex.exec(existing.content)) !== null) {
+              const k = `${m[1].trim()}|${m[2].trim()}|${normDate(m[3].trim())}`;
+              if (k === emailKey) { duplicate = true; break; }
+            }
+            if (duplicate) {
+              return json({ ok: true, skipped: 'duplicate', meta });
+            }
+          }
           const newContent = (existing ? existing.content : '# 收件箱 / Emails\n') + entry;
           result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Append email', existing?.sha);
           if (!result.error) break;
