@@ -5742,3 +5742,18 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibi
 
 ---
+
+## [其他] Recall: Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:08:39+00:00
+**摘要:** 发件人撤回之前关于伦敦房产出售的邮件沟通。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited an
+
+---
