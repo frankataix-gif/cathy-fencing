@@ -5904,3 +5904,34 @@ If you have any questions, please let me know.
 
 
 ---
+
+## [其他] RE: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-09T11:01:37+02:00
+**摘要:** Natalie感谢Josh的帮助，Josh回复附上公寓的EWS1文件并表示如有其他问题可随时联系。
+**待办:** 无
+
+Hi Josh
+Thank u so much for ur assistance
+
+Best regards
+
+Natalie
+On 9 Sep 2026 at 10:57 AM +0200, Lancer Square General Manager <LancerSquareGM@jaresidential.com>, wrote:
+> Good morning, Natalie,
+>
+> Thank you for the email and for updating me on the situation at Apartment 1.
+>
+> I attached the current EWS1 in place for 2 Lancer Square.
+>
+> For anything else, please do not hesitate to ask.
+>
+> Kind regards,
+> Joshua Smith
+> General Manager
+> Lancer Square
+> London, W8 4AX
+> L
+
+---
