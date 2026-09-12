@@ -7891,3 +7891,15 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" widt
 
 ---
+
+## [其他] You Have Added A Passkey
+
+**发件人:** Tesla Account Security <account-security@tesla.com>
+**日期:** 2026-09-04T05:03:15+00:00
+**摘要:** Tesla账户新增了一个passkey，用于更快更安全的登录。若未进行此操作，请前往设置检查。
+**待办:** 检查是否本人操作，若非本人请前往设置处理。
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DvvDt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsdF6VjM4vEfDtZ3mAGldS3ml5g3Lw7IKsH2u4RXCtTGDLV8pl-2F-2B6Aa60r0gZxjkQ8EuxIp4QuzYf-2FfQthqa1-2FzuSELhe-2B58AWpXQ41VCjqgiOstjyDtXBASYvGGUNrmlEBs
+
+---
