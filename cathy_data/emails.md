@@ -11848,3 +11848,44 @@ Liability and Insurance.
   1.  The Tenant agrees to carry sufficient insurance to cover their property against loss or damage from any cause and for third party liability, with a minimum of $2,000,000 l
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-21T19:49:20+00:00
+**摘要:** 邮件要求验证GCKey账户，可能涉及账户安全或登录问题。
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
