@@ -12887,3 +12887,18 @@ Sephora
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Get more than meals delivered 🛒
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-17T08:20:12+00:00
+**摘要:** 这封邮件是DoorDash发送的营销信息，可能旨在推广其配送服务或其他业务扩展。
+**待办:** 无
+
+DoorDash     -->
+   
+      @font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
+
+---
