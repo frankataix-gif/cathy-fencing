@@ -11738,7 +11738,7 @@ p {
 
 ---
 
-## [击剑] Re: Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+## [学校] Re: Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
 
 **发件人:** Eli Schenkel <eli@sclass.ca>
 **日期:** 2026-08-21T19:17:42-07:00
