@@ -10660,3 +10660,19 @@ Apple Account
 https://account.apple.
 
 ---
+
+## [其他] You've successfully signed up for pre-authorized payments.
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-27T12:24:26-07:00
+**摘要:** 您已成功开通TELUS移动服务的预授权付款功能，需注意当前账单需手动支付以避免滞纳金，后续账单将自动扣费。
+**待办:** 确认当前账单支付，避免滞纳金
+
+Ce courriel ne s’affiche pas correctement? Ouvrez-le dans un navigateur web.
+
+Vous avez opté pour la commodité des paiements préautorisés.
+Bonjour,
+Le, vous avez choisi les paiements préautorisés pour votre facture mensuelle de services mobiles TELUS. Votre prochaine facture et les factures subséquentes seront donc payées automatiquement chaque mois au moyen de votre carte de crédit dont le numéro se termine par .
+Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode 
+
+---
