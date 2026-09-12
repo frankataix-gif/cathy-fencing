@@ -7599,3 +7599,15 @@ Forward this to all your favourite guys.
 ͏‌  ͏‌  
 
 ---
+
+## [营销] ‼️ SALE ‼️ 50% off select beauty!
+
+**发件人:** Sephora Sale <shop@beauty.sephora.com>
+**日期:** 2026-09-05T13:15:04+00:00
+**摘要:** Sephora推出50%折扣促销，部分美妆产品特价销售。
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
