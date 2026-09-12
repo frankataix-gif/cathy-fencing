@@ -11889,3 +11889,18 @@ Liability and Insurance.
       
 
 ---
+
+## [营销] 🚨 40% off x2 is almost gone
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-21T17:25:58+00:00
+**摘要:** DoorDash 发送邮件通知用户40% off x2的折扣活动即将结束。
+**待办:** 无
+
+DoorDash     -->
+   
+			@font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+			@font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+			@font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.com/TTNor
+
+---
