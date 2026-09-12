@@ -8736,3 +8736,59 @@ background-color: #FFF;
 .headerContent a:visited {
 
 ---
+
+## [营销] Activate your phone and transfer your phone number to TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T14:53:34-07:00
+**摘要:** 提醒用户激活手机并转移电话号码至TELUS。
+**待办:** 激活手机并转移电话号码
+
+96 
+       
+     
+   
+   
+   
+   
+   
+    Telus
+   
+   
+    
+            /* Email specific styles */
+.container {
+  width: 600px;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 600px) {
+  /* Global Template Desktop and Tablet CSS */
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 100%;
+  }
+}
+        
+   
+ 
+
+ 
+ 
+ 
+    
+   
+  
+     
+
+       
+      
+       
+         
+           
+             
+               
+            
+
+---
