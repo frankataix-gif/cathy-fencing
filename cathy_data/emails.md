@@ -8209,3 +8209,38 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpaddin
 
 ---
+
+## [待办] We need additional information to proceed
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T06:02:15-04:00
+**摘要:** 需要提供更多资料以继续处理账户相关事务。
+**待办:** 无
+
+#outlook a {
+            padding: 0;
+        }
+
+        body {
+            width: 100% !important;
+            background-color: #ffffff;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        ol li, ol li p {
+            margin: 0;
+            padding: 0;
+    
+
+---
