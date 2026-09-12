@@ -7611,3 +7611,16 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [营销] The adidas sneakers to know now
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-05T13:14:18+00:00
+**摘要:** Browns Shoes 推广adidas秋季运动鞋，并提供20%折扣及48小时快速配送服务。
+**待办:** 无
+
+PLUS, GET AN EXTRA 20% OFF SELECT FALL STYLES   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NbHCOcQLQ-2BQw5b36rydGohk1yJheBW4FE6orSrlKpx5WbETbh9pkl-2B3s4m4Vng-2Fko9A40DbBxzBSz3-2BfMBU35HAoHj_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPWOmFfT7n8LQAU6200z2-2Bq782Fl3EysKR4r-2B-2FUei80WKIJ0fKxffkqqWO36RzlNbTZXPzfOBrmEhGmpSF3mYSKGkGUoPCL0j8NDCr9TWIYk7KuhYqVJgW
+
+---
