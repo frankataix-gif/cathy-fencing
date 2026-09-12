@@ -4663,3 +4663,26 @@ settings. Nevertheless, you should pay attention to the issue.
    [https://us2.make.com/2922292/scenarios/6224881/log
 
 ---
+
+## [待办] 🛑 The scenario Integration Webhooks has been stopped.
+
+**发件人:** Make <noreply@us2.make.com>
+**日期:** 2026-09-10T16:29:33+00:00
+**摘要:** 用户的Integration Webhooks场景因错误被停止，需立即处理。
+**待办:** 检查并修复Integration Webhooks场景的错误
+
+Make [https://cdn.make.com/img/make/make-logo-150x48@2x.png]
+Make [https://cdn.make.com/img/make/make-logo-dark-150x48@2x.png]
+
+
+THE SCENARIO INTEGRATION WEBHOOKS HAS BEEN STOPPED.
+
+Your scenario Integration Webhooks has been stopped due to an error.
+
+ * Reason: Scenario has been deactivated because of an error.
+ * Scenario: Integration Webhooks
+   [https://us2.make.com/2922292/scenarios/6224881/logs]
+ * Organization: My Organization [https://us2.make.com/organization/8948030]
+ * Tea
+
+---
