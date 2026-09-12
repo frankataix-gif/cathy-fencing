@@ -7714,3 +7714,26 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t245783d,409
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5ODl9AAcAAAAABimdyYX8zwdCshxhTQxpQ87qVrM30kRe46Yj3BTe4g5zpeVDSUvuCRp5YTVlMUTacEawq-DT6qXY50OrG5pjeiHvlh6sIJUSfD9WeIuC3Ys&CMP=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-b-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2488059&l=37_HTML&mid=7210119&jb=3133&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-09-04-c_cal-csgsc_glu-
 
 ---
+
+## [营销] Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-04T18:04:28+00:00
+**摘要:** 邮件涉及房产销售条款，包括价格范围、费用及需签署的文件和提供的身份证明。需完成销售条款签署、问卷提交及身份地址证明的提供。
+**待办:** 1. 签署并返回销售T&Cs及卖家问卷；2. 提供所有业主的身份证件和地址证明
+
+Dear Natalie and Frank
+
+Please see attached terms.
+
+The current price should be £475k- £525k.  We will list the property for £495,000 for start and attract more interests.
+
+Our standard sole agency fee is £2.5% plus vat, see attached T&C. We recognise that market conditions can sometimes require a change in strategy.
+
+Next steps:
+
+  1.  Please sign and return the Sales T&Cs , and seller’s questionnaire (including details about service charge, ground rent etc)
+
+  1.  Please provide al
+
+---
