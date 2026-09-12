@@ -151,6 +151,51 @@ export default {
       return json({ ...result, meta });
     }
 
+    if (body.action === 'email_reclassify') {
+      const email = body.email || {};
+      const newCat = body.category || '其他';
+      const allowed = ['击剑', '学校', '营销', '待办', '其他'];
+      if (!allowed.includes(newCat)) return json({ error: 'bad category' }, 400);
+      const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
+      const targetKey = `${email.subject || ''}|${email.from || ''}|${normDate(email.date || '')}`;
+      let result = null;
+      for (let attempt = 0; attempt < 3; attempt++) {
+        try {
+          const existing = await readGitHubFile(env, 'cathy_data/emails.md');
+          if (!existing) return json({ error: 'emails.md not found' }, 404);
+          const parts = existing.content.split(/\n## /);
+          let changed = false;
+          for (let i = 0; i < parts.length; i++) {
+            const part = parts[i];
+            if (!part.trim().startsWith('[')) continue;
+            const lines = part.split('\n');
+            const m = (lines[0] || '').match(/^\[([^\]]+)\]\s*(.*)/);
+            const subject = (m ? m[2] : '').trim();
+            let from = '', date = '';
+            for (const line of lines) {
+              if (line.startsWith('**发件人:**')) from = line.replace(/^\*\*发件人:\*\*\s*/, '').trim();
+              else if (line.startsWith('**日期:**')) date = line.replace(/^\*\*日期:\*\*\s*/, '').trim();
+            }
+            const key = `${subject}|${from}|${normDate(date)}`;
+            if (key === targetKey) {
+              parts[i] = `[${newCat}] ${subject}` + '\n' + lines.slice(1).join('\n');
+              changed = true;
+              break;
+            }
+          }
+          if (!changed) return json({ error: 'email not found' }, 404);
+          const newContent = parts.join('\n## ');
+          result = await writeGitHubFile(env, 'cathy_data/emails.md', newContent, 'Reclassify email', existing.sha);
+          if (!result.error) break;
+          if (result.error && !String(result.error).toLowerCase().includes('sha')) break;
+        } catch (e) {
+          result = { error: e.message };
+          break;
+        }
+      }
+      return json(result);
+    }
+
     if (body.action === 'import') {
       const source = body.source || 'manual';
       const content = body.content || '';

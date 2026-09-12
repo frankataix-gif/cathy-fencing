@@ -2338,6 +2338,34 @@ function circuitLabel(c) {
     saveTasks();
   }
 
+  async function reclassifyEmail(email, category) {
+    if (!email || !category) return;
+    try {
+      const res = await fetch(CATHY_SYNC_WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          action: 'email_reclassify',
+          email: { subject: email.subject, from: email.from, date: email.date },
+          category: category
+        })
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || data.error) {
+        alert('分类失败：' + (data.error || 'HTTP ' + res.status));
+        renderEmailList();
+        return;
+      }
+      email.category = category;
+      email.color = (typeof taskCategoryColor !== 'undefined' ? taskCategoryColor[category] : null) || '#6b7280';
+      renderEmailList();
+      updateEmailAISummary(false);
+    } catch(e) {
+      alert('分类失败：' + e.message);
+      renderEmailList();
+    }
+  }
+
   async function updateEmailAISummary(force) {
     if (!allEmails || allEmails.length === 0) return;
     const today = getTodayInVancouver();
@@ -4769,13 +4797,18 @@ function circuitLabel(c) {
     if (!list.length) { container.innerHTML = '<div class="empty-state">没有邮件</div>'; return; }
     container.innerHTML = list.map((e, idx) => {
       const key = emailTaskKey(e);
+      const globalIdx = allEmails.indexOf(e);
       const hasTask = tasks.some(t => t.emailKey === key);
+      const catOptions = ['击剑', '学校', '营销', '待办', '其他'].map(c => `<option value="${c}" ${e.category === c ? 'selected' : ''}>${c}</option>`).join('');
       const taskBtn = (e.todo && e.todo !== '无') ?
         `<button class="btn ${hasTask ? 'secondary' : 'cathy'}" data-email-key="${escapeHtml(key)}" style="padding:2px 10px; font-size:0.75rem; margin-top:6px;">${hasTask ? '查看待办' : '加入待办'}</button>` : '';
       return `<div class="card" style="margin-bottom:10px; padding:12px; border-left:4px solid ${e.color};">
         <div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:6px;">
           <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
           <b style="flex:1; min-width:0;">${escapeHtml(e.subject)}</b>
+          <select class="email-cat-select" data-email-index="${globalIdx}" style="padding:2px 6px; font-size:0.75rem; border:1px solid #d1d5db; border-radius:6px; flex-shrink:0;">
+            ${catOptions}
+          </select>
         </div>
         <div style="font-size:0.8rem; color:#6b7280; margin-bottom:6px;">${escapeHtml(e.from)} · ${escapeHtml(e.date)}</div>
         ${e.summary ? `<div style="font-size:0.85rem; margin-bottom:4px; color:#374151;">${escapeHtml(e.summary)}</div>` : ''}
@@ -4806,6 +4839,13 @@ function circuitLabel(c) {
         const state = getEmailAIState();
         const action = state.summary && state.summary.actions ? state.summary.actions[idx] : null;
         if (action) addAiTask(action);
+      }
+    });
+    document.getElementById('emails-list-full')?.addEventListener('change', (e) => {
+      const sel = e.target.closest('.email-cat-select');
+      if (sel) {
+        const idx = parseInt(sel.dataset.emailIndex || '-1');
+        if (idx >= 0 && allEmails[idx]) reclassifyEmail(allEmails[idx], sel.value);
       }
     });
     // 待办编辑器按钮
