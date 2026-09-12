@@ -12800,3 +12800,32 @@ nataliewu100@gmail.com
 “<https://c.gle/ACT4xYyUTqFdsePW7gYy03-wWNIR
 
 ---
+
+## [其他] Welcome to the TradingView family
+
+**发件人:** TradingView <noreply@tradingview.com>
+**日期:** 2026-08-17T22:24:58
+**摘要:** 这是一封来自TradingView的欢迎邮件，可能是账户注册或服务确认通知。
+**待办:** 无
+
+#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+     
+     
+     
+     
+     
+       
+       96 
+     
+     
+     
+     
+     
+     
+      .mj-outlook-group-fix { wi
+
+---
