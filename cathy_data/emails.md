@@ -5837,3 +5837,32 @@ Step-by-step guidance for a smooth sale    My Foxtons
 Foxtons ( https://clicks.foxtons.co.uk/f/a/yTsXXl3S8rpp_5MfVvdigA~~/AAAHahA~/mwlAF1ACiSJEHSW0LRp44bKobBQGZbfTg8zfGqi_GR822lVD5C4Y9aSdbpPD0Ns4qT9OAIZmPaMtx7hjTgahJmZaFIn44H795IrydPbnX0RXTRZcTlHcTJKNtM_G059_-1RGg6d26nmyJLO
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-09T09:43:43+00:00
+**摘要:** 确认释放 Flat 120 的钥匙，并通知未来可通过门户系统自行安排代理钥匙事宜。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for your email.
+
+We will release the keys as requested.
+
+For future arrangements, we have already registered you on the system. Please feel free to log in to the portal and create key arrangements for agents whenever required.
+
+Kind regards,
+Nancy
+Concierge
+
+[cid:image001.png@01DD4048.5BBF2760]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co
+
+---
