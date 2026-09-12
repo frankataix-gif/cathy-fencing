@@ -14146,3 +14146,18 @@ Pre-order, iPhone{%nbsp%}18{%nbsp%}Pro Pre-order
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9AID4rTwyQeh4tXCh9K2yvQbMpKiZFO91zJL9HEJsf4hRMSVm5MjdRUtgMYTdarFZ6gNzPO%2FmhcrhC3diZq0fUD%2BMBu1DsTgf%2FJN4olaWmLCLoWb%2BLrsFkwG6%2BVQw5uYc%2BNcK12oW0%2B3oPj6B3KlPtdoXsb3UBJVOuv7%2F0bLPtUpAxt%2F2c3j0pUlreQ3AVG9SqznhN762sMXzrGJCcrhKtWdUrwapOKXez%2Fb7UztCnCTRRi4LYYM%2BnMTSOBduAi4T90TMb2ACsQ%2BaIGf%2FLvsf5jY6MeREaxGFzJIldxLsuYx4xS303MAy7%2
 
 ---
+
+## [学校] Welcome to Our French Program
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-12T17:43:55.000Z
+**摘要:** 这封邮件是学校欢迎新生加入法国语言项目，并介绍项目的教学框架和资源支持。
+**待办:** 无
+
+Dear Families and New Students,
+
+It is my pleasure to welcome you to our beautiful school! I am very happy to have you joining our French program, and I look forward to getting to know you and supporting you throughout the year.
+
+Our French program is rich and engaging, with high standards and an approach that follows the IB framework. Students will have many opportunities not only to develop their French language skills, but also to discover and appreciate the richness and diversity of Fran
+
+---
