@@ -13747,3 +13747,26 @@ Thank you,
 Natalie
 
 ---
+
+## [其他] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-13T16:20:28+00:00
+**摘要:** 物业确认了吊灯安装费用及流程，需安排电工上门安装并确认时间。
+**待办:** 安排电工的访问并确认安装日期和时间
+
+Hello,
+
+I wanted to share the pricing for the installation of your light fixture.
+
+The electrician has confirmed that there is already an electrical box in place, so the installation should be straightforward.
+
+The cost is:
+
+  *   Installation: $200.00
+  *   Truck charge: $40.00
+  *   Total: $240.00 + GST
+
+Please note that this price does not include the supply or installation of additional switching or a dimmer. However, if you already have a dimmer that you would like installed at 
+
+---
