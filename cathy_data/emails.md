@@ -11737,3 +11737,29 @@ p {
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [击剑] Re: Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+
+**发件人:** Eli Schenkel <eli@sclass.ca>
+**日期:** 2026-08-21T19:17:42-07:00
+**摘要:** Eli询问Cathy本周是否可参加私人课程和比赛，并询问是否对Martina的课程感兴趣。
+**待办:** 回复确认Cathy的可用性并安排后续步骤
+
+Hi Frank,
+
+Thank you so much for reaching out! I'd be delighted to work with Cathy. Is
+she available to try a private lesson as well as bouting this coming week?
+Also, would she be interested in lessons with Martina Sinigalia (team
+Italy) when she visits us for camp starting the 31st?
+
+If WhatsApp is easier for communication feel free to contact me via the
+number below.
+
+All the best,
+Eli Schenkel OLY
+236-330-6869
+
+
+On Sat, Aug 15, 2026, 12:37 PM natalie <nataliewu100@gmail.com> w
+
+---
