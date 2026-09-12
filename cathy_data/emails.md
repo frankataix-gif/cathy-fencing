@@ -6732,3 +6732,34 @@ How’s your new gear?
     .................................
 
 ---
+
+## [学校] Re: Meadowridge Student Website
+
+**发件人:** Christina Reis <christina.reis@meadowridge.bc.ca>
+**日期:** 2026-09-08T03:00:32+00:00
+**摘要:** Christina Reis通知Cathy关于2026-27学年学生网站的密码重置，并附上技术网页链接。
+**待办:** 无
+
+Hi Cathy!
+
+As promised, attatched is your new 2026-27 password that will be reset tomorrow (Tuesday, September 8th) morning, PST -Van (Pacific Standard Time).
+
+If you have any questions, please feel free to reach out to myself or Ms. Hook.
+
+Kindly,
+Mrs Reis
+
+[cid:0d90607c-d381-4393-bc4b-94a6f32e157b]
+
+
+Christina Reis M.Ed (she/her)
+
+Coordinator of Educational Technology
+
+Meadowridge School
+
+T: 604-467-4444 (Ext 209)
+
+E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@m
+
+---
