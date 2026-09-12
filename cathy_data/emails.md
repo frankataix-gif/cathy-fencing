@@ -10430,3 +10430,15 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/7lRBswTKlVpuzkdTKJLTyQ~~/AAAHahA~/LasR-J7uncVQpdtJdd64c3Cx_3_zD4mMff5-BDk0iNTNk7wbVrQEiOsAKwqscA0lwZtDkIYxqEBrvW_CzzUk9BCrQ
 
 ---
+
+## [营销] 50% off select beauty starts today 💋
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-08-28T13:19:23+00:00
+**摘要:** Sephora推出50%折扣促销
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
