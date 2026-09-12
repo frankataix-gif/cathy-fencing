@@ -11774,3 +11774,29 @@ On Sat, Aug 15, 2026, 12:37 PM natalie <nataliewu100@gmail.com> w
 @media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{
 
 ---
+
+## [其他] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-21T22:08:10+00:00
+**摘要:** 邮件涉及TH103租客保险续签，需确认是否符合第36条合规要求。
+**待办:** 无
+
+Hi Natalie,
+That sounds good! Looks great.
+Thank you!
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:392211fe-e1c0-403f-ab57-5cabe08c0fb4]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, d
+
+---
