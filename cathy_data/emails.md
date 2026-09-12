@@ -6260,3 +6260,33 @@ This email and any attachments may contain confidential information intended onl
 ​named recipient. If you have received this email in error, please no
 
 ---
+
+## [营销] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Jordanna Mancina <Jordanna.Mancina@knightfrank.com>
+**日期:** 2026-09-09T07:35:10+00:00
+**摘要:** Jordanna Mancina作为Knight Frank的销售经理，跟进公寓1的信息请求，希望Julia提供所需信息。
+**待办:** 回复邮件并提供所需信息
+
+Good morning Julia
+
+I just wanted to follow up on this and see if you can provide the required information?
+
+I look forward to hearing from you.
+
+Kind regards
+
+
+Jordanna Mancina
+Associate, Sales Manager
+Kensington
+______
+D:  +44 2038923573
+ M:+44 7929828794
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+
+This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but n
+
+---
