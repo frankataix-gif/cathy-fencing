@@ -13086,3 +13086,18 @@ Simon
 On Thu, Aug 13, 2026 
 
 ---
+
+## [营销] Clock’s ticking: 40% off 2 orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-15T17:21:10+00:00
+**摘要:** DoorDash 提供40%折扣优惠，适用于两笔订单。
+**待办:** 无
+
+DoorDash     -->
+   
+			@font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+			@font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+			@font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.com/TTNor
+
+---
