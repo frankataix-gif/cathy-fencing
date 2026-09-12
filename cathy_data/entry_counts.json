@@ -1890,7 +1890,7 @@
     "total": 0
   },
   "miracle-fencing-ryc-rjcc-late--2026-09-12-virginia-beach-convention-center-virginia-beach-va": {
-    "fetched_at": "2026-09-12T00:04:29.052591Z",
+    "fetched_at": "2026-09-12T12:03:59.651225Z",
     "counts": {
       "CDTWF": 13,
       "Y14WF": 14,
@@ -2229,7 +2229,7 @@
     "total": 0
   },
   "air-force-roc--d1a--dv2--vet---2026-09-12-air-force-cadet-field-house-air-force-academy-co": {
-    "fetched_at": "2026-09-12T00:04:35.860270Z",
+    "fetched_at": "2026-09-12T12:04:06.509923Z",
     "counts": {
       "CDTWF": 25,
       "Y14WF": 0,
@@ -2545,7 +2545,7 @@
     "total": 0
   },
   "nittany-lion-cup-ryc-rjcc-late-2026-09-12-nittany-valley-sports-centre-state-college-pa": {
-    "fetched_at": "2026-09-12T00:04:29.052731Z",
+    "fetched_at": "2026-09-12T12:03:59.651316Z",
     "counts": {
       "CDTWF": 44,
       "Y14WF": 33,
@@ -3318,7 +3318,7 @@
     "total": 0
   },
   "motor-city-syc-rcc-late-regist-2026-09-18-elite-sportsplex-waterford-mi": {
-    "fetched_at": "2026-09-12T00:04:37.290569Z",
+    "fetched_at": "2026-09-12T12:04:07.225501Z",
     "counts": {
       "CDTWF": 40,
       "Y14WF": 74,
@@ -4637,7 +4637,7 @@
     "total": 0
   },
   "bladerunner-roc-rjc-open-regis-2026-09-19-liontree-arena-(rimac)-@-uc-san-diego-la-jolla-ca": {
-    "fetched_at": "2026-09-12T00:04:39.591692Z",
+    "fetched_at": "2026-09-12T12:04:08.553338Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -4707,7 +4707,7 @@
     "total": 0
   },
   "battle-in-space-city-ryc-rjcc--2026-09-19-university-of-houston---campus-recreation-and-wellness-center-houston-tx": {
-    "fetched_at": "2026-09-12T00:04:38.293939Z",
+    "fetched_at": "2026-09-12T12:04:08.468025Z",
     "counts": {
       "CDTWF": 13,
       "Y14WF": 22,
@@ -5236,7 +5236,7 @@
     "total": 0
   },
   "lotus-cup-roc-rjcc-ryc-late-re-2026-09-19-myrtle-beach-sports-center-myrtle-beach-sc": {
-    "fetched_at": "2026-09-12T00:04:43.091473Z",
+    "fetched_at": "2026-09-12T12:04:12.721841Z",
     "counts": {
       "CDTWF": 24,
       "Y14WF": 20,
@@ -5631,7 +5631,7 @@
     "total": 54
   },
   "designated-fie-junior-world-cu-2026-09-25-samsun-": {
-    "fetched_at": "2026-09-12T00:04:45.754272Z",
+    "fetched_at": "2026-09-12T12:04:14.820196Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -5813,7 +5813,7 @@
     "total": 0
   },
   "river-city-regional-rumble-ryc-2026-09-25-richmond-convention-center-richmond-va": {
-    "fetched_at": "2026-09-12T00:04:46.638151Z",
+    "fetched_at": "2026-09-12T12:04:15.613064Z",
     "counts": {
       "CDTWF": 28,
       "Y14WF": 28,
@@ -8304,7 +8304,7 @@
     "total": 0
   },
   "remenyik-roc-and-rjcc-late-reg-2026-09-26-ryan-fieldhouse-evanston-il": {
-    "fetched_at": "2026-09-12T00:04:49.165210Z",
+    "fetched_at": "2026-09-12T12:04:17.775525Z",
     "counts": {
       "CDTWF": 29,
       "Y14WF": 0,
@@ -8599,7 +8599,7 @@
     "total": 0
   },
   "leon-auriol-open-open-registra-2026-10-03-salle-auriol-seattle-seattle-wa": {
-    "fetched_at": "2026-09-12T00:04:58.351819Z",
+    "fetched_at": "2026-09-12T12:04:22.599121Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -8613,11 +8613,11 @@
     "total": 0
   },
   "premier-challenge-roc-rjcc-ryc-2026-09-25-rockland-community-college-ny": {
-    "fetched_at": "2026-09-12T00:04:46.612123Z",
+    "fetched_at": "2026-09-12T12:04:14.918688Z",
     "counts": {
       "CDTWF": 84,
-      "Y14WF": 65,
-      "Y12WF": 33
+      "Y14WF": 64,
+      "Y12WF": 30
     },
     "names": {
       "CDTWF": [
@@ -9618,13 +9618,6 @@
           "status": ""
         },
         {
-          "name": "Zheng, Annalyn",
-          "club": "5T Fencers Club",
-          "division": "Long Island",
-          "member_num": "100311396",
-          "status": ""
-        },
-        {
           "name": "Zhilkov, Anya",
           "club": "Vivo Fencing Club",
           "division": "New England",
@@ -9683,20 +9676,6 @@
           "status": ""
         },
         {
-          "name": "Chen, Hannah Rouhui",
-          "club": "Star Fencing Academy",
-          "division": "New England",
-          "member_num": "100357250",
-          "status": ""
-        },
-        {
-          "name": "Chen, Rachel Roujia",
-          "club": "Star Fencing Academy",
-          "division": "New England",
-          "member_num": "100357252",
-          "status": ""
-        },
-        {
           "name": "CHEUNG, KAYDENCE GRACE",
           "club": "Polaris Fencing Center",
           "division": "New Jersey",
@@ -9743,13 +9722,6 @@
           "club": "V Fencing Club",
           "division": "New Jersey",
           "member_num": "100338219",
-          "status": ""
-        },
-        {
-          "name": "Kim, Lael",
-          "club": "Top Fencing Club",
-          "division": "New Jersey",
-          "member_num": "100439287",
           "status": ""
         },
         {
@@ -9901,7 +9873,7 @@
         }
       ]
     },
-    "total": 182
+    "total": 178
   },
   "champagne-challenge-registrati-2026-10-04-rockville-md": {
     "fetched_at": "2026-09-09T18:05:15.038877Z",
@@ -9960,7 +9932,7 @@
     "total": 0
   },
   "austin-ryc---rjcc-open-registr-2026-10-03-round-rock-sports-center-round-rock-tx": {
-    "fetched_at": "2026-09-12T00:04:57.595477Z",
+    "fetched_at": "2026-09-12T12:04:22.053565Z",
     "counts": {
       "CDTWF": 18,
       "Y14WF": 13,
@@ -10341,7 +10313,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-10-08-hong-kong-": {
-    "fetched_at": "2026-09-12T00:05:00.456584Z",
+    "fetched_at": "2026-09-12T12:04:24.875170Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -10355,11 +10327,11 @@
     "total": 0
   },
   "ben-gutenberg-memorial-syc---r-2026-10-02-golisano-training-center-at-nazareth-university-rochester-ny": {
-    "fetched_at": "2026-09-12T00:04:55.994452Z",
+    "fetched_at": "2026-09-12T12:04:19.674797Z",
     "counts": {
-      "CDTWF": 42,
-      "Y14WF": 67,
-      "Y12WF": 54
+      "CDTWF": 45,
+      "Y14WF": 72,
+      "Y12WF": 56
     },
     "names": {
       "CDTWF": [
@@ -10518,6 +10490,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Lu, Sophia",
           "club": "Worldwide Fencing Academy",
           "division": "New Jersey",
@@ -10560,6 +10539,13 @@
           "status": ""
         },
         {
+          "name": "Ren, Luna Siyi",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100331917",
+          "status": ""
+        },
+        {
           "name": "Shin, Elizabeth",
           "club": "Top Fencing Club",
           "division": "New Jersey",
@@ -10599,6 +10585,13 @@
           "club": "Rochester Fencing Club",
           "division": "Western New York",
           "member_num": "101619272",
+          "status": ""
+        },
+        {
+          "name": "Wen, Cynthia",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100342709",
           "status": ""
         },
         {
@@ -10940,6 +10933,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Lu, Sophia",
           "club": "Worldwide Fencing Academy",
           "division": "New Jersey",
@@ -10961,6 +10961,20 @@
           "status": ""
         },
         {
+          "name": "Mcclain, Grayce",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346557",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Madison",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346556",
+          "status": ""
+        },
+        {
           "name": "Miller, Anna",
           "club": "Star Fencing Academy",
           "division": "New England",
@@ -10979,6 +10993,13 @@
           "club": "OnTarget Fencing Club",
           "division": "Maryland",
           "member_num": "100314119",
+          "status": ""
+        },
+        {
+          "name": "Ren, Luna Siyi",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100331917",
           "status": ""
         },
         {
@@ -11035,6 +11056,13 @@
           "club": "Mid-Island Fencing Academy",
           "division": "Long Island",
           "member_num": "100340507",
+          "status": ""
+        },
+        {
+          "name": "Wen, Cynthia",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100342709",
           "status": ""
         },
         {
@@ -11383,6 +11411,20 @@
           "status": ""
         },
         {
+          "name": "Mcclain, Grayce",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346557",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Madison",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346556",
+          "status": ""
+        },
+        {
           "name": "Miller, Anna",
           "club": "Star Fencing Academy",
           "division": "New England",
@@ -11510,10 +11552,10 @@
         }
       ]
     },
-    "total": 163
+    "total": 173
   },
   "non-designated-fie-cadet-world-2026-10-08-lima-": {
-    "fetched_at": "2026-09-12T00:05:01.457966Z",
+    "fetched_at": "2026-09-12T12:04:25.639519Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11527,7 +11569,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-10-08-tashkent-": {
-    "fetched_at": "2026-09-12T00:05:04.678728Z",
+    "fetched_at": "2026-09-12T12:04:27.054508Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11541,7 +11583,7 @@
     "total": 0
   },
   "peachtree-ryc-rjcc-open-regist-2026-10-03-suwanee-sports-academy-suwanee-ga": {
-    "fetched_at": "2026-09-12T00:04:59.956026Z",
+    "fetched_at": "2026-09-12T12:04:23.314139Z",
     "counts": {
       "CDTWF": 10,
       "Y14WF": 12,
@@ -11775,7 +11817,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-09-lima-": {
-    "fetched_at": "2026-09-12T00:05:05.792308Z",
+    "fetched_at": "2026-09-12T12:04:27.789725Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11789,7 +11831,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-09-tashkent-": {
-    "fetched_at": "2026-09-12T00:05:06.471811Z",
+    "fetched_at": "2026-09-12T12:04:28.471357Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11803,7 +11845,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-09-hong-kong-": {
-    "fetched_at": "2026-09-12T00:05:06.760668Z",
+    "fetched_at": "2026-09-12T12:04:28.633773Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11831,7 +11873,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-10-10-warsaw-": {
-    "fetched_at": "2026-09-12T00:05:08.169338Z",
+    "fetched_at": "2026-09-12T12:04:29.346290Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11845,7 +11887,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-10-hong-kong-": {
-    "fetched_at": "2026-09-12T00:05:09.083622Z",
+    "fetched_at": "2026-09-12T12:04:29.586011Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11859,7 +11901,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-10-lima-": {
-    "fetched_at": "2026-09-12T00:05:10.155449Z",
+    "fetched_at": "2026-09-12T12:04:29.687169Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11873,7 +11915,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-10-tashkent-": {
-    "fetched_at": "2026-09-12T00:05:11.108574Z",
+    "fetched_at": "2026-09-12T12:04:30.097155Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11971,7 +12013,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-10-15-casablanca-": {
-    "fetched_at": "2026-09-12T00:05:11.762308Z",
+    "fetched_at": "2026-09-12T12:04:30.347242Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11985,7 +12027,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-10-15-takamatsu-city-": {
-    "fetched_at": "2026-09-12T00:05:12.025995Z",
+    "fetched_at": "2026-09-12T12:04:30.412811Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -11999,7 +12041,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-10-15-oran-": {
-    "fetched_at": "2026-09-12T00:05:13.169843Z",
+    "fetched_at": "2026-09-12T12:04:30.798122Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -12013,7 +12055,7 @@
     "total": 0
   },
   "october-nac-late-registration--2026-10-09-orange-county-convention-center-orlando-fl": {
-    "fetched_at": "2026-09-12T00:05:07.522895Z",
+    "fetched_at": "2026-09-12T12:04:29.162759Z",
     "counts": {
       "CDTWF": 186,
       "Y14WF": 120,
@@ -14171,7 +14213,7 @@
     "total": 306
   },
   "non-designated-efc-cadet-event-2026-10-16-samorin-": {
-    "fetched_at": "2026-09-12T00:05:13.579307Z",
+    "fetched_at": "2026-09-12T12:04:31.103316Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14185,7 +14227,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-10-16-casablanca-": {
-    "fetched_at": "2026-09-12T00:05:13.648195Z",
+    "fetched_at": "2026-09-12T12:04:31.106276Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14213,7 +14255,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-10-16-takamatsu-city-": {
-    "fetched_at": "2026-09-12T00:05:14.432710Z",
+    "fetched_at": "2026-09-12T12:04:31.473734Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14269,7 +14311,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-10-17-budapest-": {
-    "fetched_at": "2026-09-12T00:05:14.974149Z",
+    "fetched_at": "2026-09-12T12:04:31.851517Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14353,7 +14395,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2026-10-17-samorin-": {
-    "fetched_at": "2026-09-12T00:05:15.648629Z",
+    "fetched_at": "2026-09-12T12:04:32.571504Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14395,7 +14437,7 @@
     "total": 0
   },
   "rain-city-fall-rjcc-div-ii-roc-2026-10-16-rain-city-fencing-center-bellevue-wa": {
-    "fetched_at": "2026-09-12T00:05:14.511821Z",
+    "fetched_at": "2026-09-12T12:04:31.486752Z",
     "counts": {
       "CDTWF": 35,
       "Y14WF": 0,
@@ -14711,7 +14753,7 @@
     "total": 0
   },
   "battle-in-space-city-roc-rjcc--2026-10-17-university-of-houston---campus-recreation-and-wellness-center-houston-tx": {
-    "fetched_at": "2026-09-12T00:05:15.252850Z",
+    "fetched_at": "2026-09-12T12:04:32.182345Z",
     "counts": {
       "CDTWF": 8,
       "Y14WF": 1,
@@ -14846,7 +14888,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-10-18-budapest-": {
-    "fetched_at": "2026-09-12T00:05:17.043147Z",
+    "fetched_at": "2026-09-12T12:04:33.318334Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -14930,7 +14972,7 @@
     "total": 0
   },
   "nashville-challenge-ryc-rjcc-o-2026-10-17-mtsu-campus-recreation-murfreesboro-tn": {
-    "fetched_at": "2026-09-12T00:05:15.805058Z",
+    "fetched_at": "2026-09-12T12:04:32.616642Z",
     "counts": {
       "CDTWF": 1,
       "Y14WF": 3,
@@ -15017,7 +15059,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-10-22-san-jose-": {
-    "fetched_at": "2026-09-12T00:05:17.223332Z",
+    "fetched_at": "2026-09-12T12:04:33.420001Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15031,7 +15073,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-10-22-hammamet-": {
-    "fetched_at": "2026-09-12T00:05:19.098204Z",
+    "fetched_at": "2026-09-12T12:04:34.791112Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15045,7 +15087,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-10-22-oran-": {
-    "fetched_at": "2026-09-12T00:05:19.122909Z",
+    "fetched_at": "2026-09-12T12:04:34.847778Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15073,7 +15115,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-23-hammamet-": {
-    "fetched_at": "2026-09-12T00:05:20.017180Z",
+    "fetched_at": "2026-09-12T12:04:35.481825Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15101,7 +15143,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-23-oran-": {
-    "fetched_at": "2026-09-12T00:05:21.110919Z",
+    "fetched_at": "2026-09-12T12:04:35.957178Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15115,7 +15157,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-10-23-san-jose-": {
-    "fetched_at": "2026-09-12T00:05:22.098330Z",
+    "fetched_at": "2026-09-12T12:04:36.664565Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15143,7 +15185,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-10-24-hammamet-": {
-    "fetched_at": "2026-09-12T00:05:23.259213Z",
+    "fetched_at": "2026-09-12T12:04:37.034901Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15283,7 +15325,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-10-31-gothenbrug-": {
-    "fetched_at": "2026-09-12T00:05:25.059550Z",
+    "fetched_at": "2026-09-12T12:04:37.751162Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15353,11 +15395,11 @@
     "total": 0
   },
   "2026-escrime-d-halloween-ryc-r-2026-10-24-the-edge-sports-and-arts-academy-twinsburg-oh": {
-    "fetched_at": "2026-09-12T00:05:24.153801Z",
+    "fetched_at": "2026-09-12T12:04:37.356262Z",
     "counts": {
-      "CDTWF": 14,
-      "Y14WF": 19,
-      "Y12WF": 14
+      "CDTWF": 15,
+      "Y14WF": 20,
+      "Y12WF": 15
     },
     "names": {
       "CDTWF": [
@@ -15429,6 +15471,13 @@
           "club": "Renaissance Fencing Club",
           "division": "Michigan",
           "member_num": "101108099",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
           "status": ""
         },
         {
@@ -15560,6 +15609,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Savioz, Naomi",
           "club": "Heartland Fencing Academy",
           "division": "Kansas",
@@ -15660,6 +15716,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Savioz, Naomi",
           "club": "Heartland Fencing Academy",
           "division": "Kansas",
@@ -15696,10 +15759,10 @@
         }
       ]
     },
-    "total": 47
+    "total": 50
   },
   "non-designated-fie-cadet-world-2026-11-05-manama-": {
-    "fetched_at": "2026-09-12T00:05:27.219692Z",
+    "fetched_at": "2026-09-12T12:04:38.466066Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15727,7 +15790,7 @@
     "total": 0
   },
   "designated-fie-cadet-world-cup-2026-11-06-budapest-": {
-    "fetched_at": "2026-09-12T00:05:28.583037Z",
+    "fetched_at": "2026-09-12T12:04:38.660708Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15755,7 +15818,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-11-06-dormagen-": {
-    "fetched_at": "2026-09-12T00:05:30.644357Z",
+    "fetched_at": "2026-09-12T12:04:39.193461Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15769,7 +15832,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-11-06-aix-en-provence-": {
-    "fetched_at": "2026-09-12T00:05:31.709795Z",
+    "fetched_at": "2026-09-12T12:04:39.406508Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15783,7 +15846,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-11-06-manama-": {
-    "fetched_at": "2026-09-12T00:05:32.852306Z",
+    "fetched_at": "2026-09-12T12:04:40.108192Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15797,7 +15860,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-11-06-budapest-": {
-    "fetched_at": "2026-09-12T00:05:32.074917Z",
+    "fetched_at": "2026-09-12T12:04:39.901984Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -15839,9 +15902,9 @@
     "total": 0
   },
   "morris-cup-ryc-rjcc-open-regis-2026-10-24-rockland-community-college-ny": {
-    "fetched_at": "2026-09-12T00:05:24.350626Z",
+    "fetched_at": "2026-09-12T12:04:37.716123Z",
     "counts": {
-      "CDTWF": 38,
+      "CDTWF": 39,
       "Y14WF": 35,
       "Y12WF": 50
     },
@@ -16062,6 +16125,13 @@
           "club": "Brooklyn Bridge Fencing Club",
           "division": "Metropolitan NYC",
           "member_num": "100358724",
+          "status": ""
+        },
+        {
+          "name": "Wang, Amabel",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100285107",
           "status": ""
         },
         {
@@ -16714,7 +16784,7 @@
         }
       ]
     },
-    "total": 123
+    "total": 124
   },
   "fcmc-y14-sabre-registration-pe-2026-11-07-robbinsville-nj": {
     "fetched_at": "2026-09-09T18:05:52.992120Z",
@@ -16759,7 +16829,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-11-07-manama-": {
-    "fetched_at": "2026-09-12T00:05:33.921936Z",
+    "fetched_at": "2026-09-12T12:04:40.816528Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -16787,7 +16857,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-07-budapest-": {
-    "fetched_at": "2026-09-12T00:05:38.917230Z",
+    "fetched_at": "2026-09-12T12:04:43.558098Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -16801,7 +16871,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-07-dormagen-": {
-    "fetched_at": "2026-09-12T00:05:40.217467Z",
+    "fetched_at": "2026-09-12T12:04:44.309934Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -16815,7 +16885,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-07-aix-en-provence-": {
-    "fetched_at": "2026-09-12T00:05:41.281442Z",
+    "fetched_at": "2026-09-12T12:04:45.141338Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -16857,15 +16927,22 @@
     "total": 0
   },
   "3rd-annual-bbfc-ryc-and-y8-ope-2026-11-07-tarkanian-basketball-center-las-vegas-nv": {
-    "fetched_at": "2026-09-12T00:05:35.152932Z",
+    "fetched_at": "2026-09-12T12:04:41.555540Z",
     "counts": {
       "CDTWF": 0,
-      "Y14WF": 14,
+      "Y14WF": 16,
       "Y12WF": 18
     },
     "names": {
       "CDTWF": [],
       "Y14WF": [
+        {
+          "name": "Bandzeladze, Emma",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100356906",
+          "status": ""
+        },
         {
           "name": "Gu, Ava",
           "club": "Golubitsky Fencing Center",
@@ -16955,6 +17032,13 @@
           "club": "Elite Fencing Club",
           "division": "Southern California",
           "member_num": "101052539",
+          "status": ""
+        },
+        {
+          "name": "Zee, Savannah",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100270075",
           "status": ""
         },
         {
@@ -17101,7 +17185,7 @@
         }
       ]
     },
-    "total": 32
+    "total": 34
   },
   "6w-vet-combined-registration-p-2026-11-08--": {
     "fetched_at": "2026-09-09T18:06:03.520819Z",
@@ -17118,11 +17202,11 @@
     "total": 0
   },
   "afm-super-regional-ryc-rjcc-ro-2026-10-23-santa-clara-convention-center-santa-clara-ca": {
-    "fetched_at": "2026-09-12T06:04:15.845748Z",
+    "fetched_at": "2026-09-12T12:04:36.189465Z",
     "counts": {
       "CDTWF": 91,
-      "Y12WF": 70,
-      "Y14WF": 84
+      "Y14WF": 84,
+      "Y12WF": 70
     },
     "names": {
       "CDTWF": [
@@ -17764,498 +17848,6 @@
           "status": ""
         }
       ],
-      "Y12WF": [
-        {
-          "name": "Aleksandrova, Miroslava",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Central California",
-          "member_num": "100882793",
-          "status": ""
-        },
-        {
-          "name": "Arunkishore, Dakshina",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100336353",
-          "status": ""
-        },
-        {
-          "name": "Brahmankar, Shreeya",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "102038502",
-          "status": ""
-        },
-        {
-          "name": "Chang, Audrey",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100351798",
-          "status": ""
-        },
-        {
-          "name": "Chen, Celina",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Northern California",
-          "member_num": "101231855",
-          "status": ""
-        },
-        {
-          "name": "Chen, Yifan",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100346448",
-          "status": ""
-        },
-        {
-          "name": "Cheng, Jessica",
-          "club": "LA International Fencing",
-          "division": "Southern California",
-          "member_num": "100767583",
-          "status": ""
-        },
-        {
-          "name": "Chi, Marissa",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "101212497",
-          "status": ""
-        },
-        {
-          "name": "Chi, Serena",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "102212536",
-          "status": ""
-        },
-        {
-          "name": "Choi, Jian",
-          "club": "Golubitsky Fencing Center",
-          "division": "US Fencing",
-          "member_num": "101120816",
-          "status": ""
-        },
-        {
-          "name": "Chung, Charlotte",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100320858",
-          "status": ""
-        },
-        {
-          "name": "Dong, Ena",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "101118952",
-          "status": ""
-        },
-        {
-          "name": "Du, Zoey",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100762051",
-          "status": ""
-        },
-        {
-          "name": "Fan, Lauren",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100334151",
-          "status": ""
-        },
-        {
-          "name": "Goodfellow, Amelia",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100761064",
-          "status": ""
-        },
-        {
-          "name": "Gu, Alexandra",
-          "club": "Bay Area Fencing Club",
-          "division": "Northern California",
-          "member_num": "100348950",
-          "status": ""
-        },
-        {
-          "name": "Guo, Antong",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "101518658",
-          "status": ""
-        },
-        {
-          "name": "Hsu, Courtney",
-          "club": "Halberstadt Fencers' Club",
-          "division": "Northern California",
-          "member_num": "101134682",
-          "status": ""
-        },
-        {
-          "name": "Hszieh, Evelyn",
-          "club": "SoCAL Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "101639693",
-          "status": ""
-        },
-        {
-          "name": "Huang, Erika",
-          "club": "Unattached",
-          "division": "N/A",
-          "member_num": "101612604",
-          "status": ""
-        },
-        {
-          "name": "Huang, Esther",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "101223347",
-          "status": ""
-        },
-        {
-          "name": "Jijo, Jayln",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100862422",
-          "status": ""
-        },
-        {
-          "name": "Kent, Audrey",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Orange Coast",
-          "member_num": "100439512",
-          "status": ""
-        },
-        {
-          "name": "Kenzhebulatova, Sara",
-          "club": "LA International Fencing",
-          "division": "Southern California",
-          "member_num": "100350072",
-          "status": ""
-        },
-        {
-          "name": "Khanal, Sarah",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100349111",
-          "status": ""
-        },
-        {
-          "name": "Kim, Ines",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100352175",
-          "status": ""
-        },
-        {
-          "name": "Kim, Olivia",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100799658",
-          "status": ""
-        },
-        {
-          "name": "Kim, Rylie",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100334115",
-          "status": ""
-        },
-        {
-          "name": "Kim, Taerin",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100822218",
-          "status": ""
-        },
-        {
-          "name": "knox, aysa",
-          "club": "Halberstadt Fencers' Club",
-          "division": "Northern California",
-          "member_num": "101372176",
-          "status": ""
-        },
-        {
-          "name": "Ko, Adeline",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100339456",
-          "status": ""
-        },
-        {
-          "name": "Ko, Alyssa",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100345325",
-          "status": ""
-        },
-        {
-          "name": "Lai, Olivia",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100307276",
-          "status": ""
-        },
-        {
-          "name": "Lam, Dorris Yandor",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100354391",
-          "status": ""
-        },
-        {
-          "name": "Lee, Kayla",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "102352476",
-          "status": ""
-        },
-        {
-          "name": "Lee, Madison",
-          "club": "Halberstadt Fencers' Club",
-          "division": "Northern California",
-          "member_num": "100333411",
-          "status": ""
-        },
-        {
-          "name": "Li, Claire",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100669436",
-          "status": ""
-        },
-        {
-          "name": "Lin, Tiffany",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100303766",
-          "status": ""
-        },
-        {
-          "name": "Lin, Valentina",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100927891",
-          "status": ""
-        },
-        {
-          "name": "Liu, Doris-Zihan Zhou",
-          "club": "Unattached",
-          "division": "N/A",
-          "member_num": "100327340",
-          "status": ""
-        },
-        {
-          "name": "Lopez-Hor, Emma Meixian",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100973388",
-          "status": ""
-        },
-        {
-          "name": "Lu, Jocelyn",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "101777967",
-          "status": ""
-        },
-        {
-          "name": "Luo, Olivia",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100311227",
-          "status": ""
-        },
-        {
-          "name": "Mahajan, Mira",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100531288",
-          "status": ""
-        },
-        {
-          "name": "Ng, Genevieve",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "101728939",
-          "status": ""
-        },
-        {
-          "name": "Perojo, Angie",
-          "club": "Team Touche Fencing Center",
-          "division": "San Diego",
-          "member_num": "100353743",
-          "status": ""
-        },
-        {
-          "name": "Picache, Camilla",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100747126",
-          "status": ""
-        },
-        {
-          "name": "Poon, Taylor",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100346503",
-          "status": ""
-        },
-        {
-          "name": "Rosin, Milena",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100345745",
-          "status": ""
-        },
-        {
-          "name": "Schor, Katherine",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100310522",
-          "status": ""
-        },
-        {
-          "name": "Shen, Rebecca",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100339435",
-          "status": ""
-        },
-        {
-          "name": "Shin, Ellie",
-          "club": "Elite Fencing Club",
-          "division": "Southern California",
-          "member_num": "100848809",
-          "status": ""
-        },
-        {
-          "name": "Shu, Kayla",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100335411",
-          "status": ""
-        },
-        {
-          "name": "Soni, Olivia",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "101469703",
-          "status": ""
-        },
-        {
-          "name": "Sun, Leia",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100801684",
-          "status": ""
-        },
-        {
-          "name": "Sun, Zoey",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100776879",
-          "status": ""
-        },
-        {
-          "name": "Tang, Ming-Hao Audrey",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "101381212",
-          "status": ""
-        },
-        {
-          "name": "Tatineni, Charvi",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100301503",
-          "status": ""
-        },
-        {
-          "name": "Tian, Claire",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100333061",
-          "status": ""
-        },
-        {
-          "name": "Valoueva, Katerina",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100354898",
-          "status": ""
-        },
-        {
-          "name": "Wang, Muse",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "101234810",
-          "status": ""
-        },
-        {
-          "name": "Yang, Ariel",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "101466569",
-          "status": ""
-        },
-        {
-          "name": "Yang, Lucy",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "101217415",
-          "status": ""
-        },
-        {
-          "name": "Yi, Helen",
-          "club": "Team Touche Fencing Center",
-          "division": "San Diego",
-          "member_num": "101102025",
-          "status": ""
-        },
-        {
-          "name": "Yoon, Adeline",
-          "club": "LA International Fencing",
-          "division": "Southern California",
-          "member_num": "100353438",
-          "status": ""
-        },
-        {
-          "name": "Yuen, Hannah",
-          "club": "Elite Fencing Club",
-          "division": "Southern California",
-          "member_num": "101052539",
-          "status": ""
-        },
-        {
-          "name": "Zhai, Muyan",
-          "club": "Journeys Fencing Club",
-          "division": "Northern California",
-          "member_num": "100358231",
-          "status": ""
-        },
-        {
-          "name": "Zhang, Annabelle",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100583566",
-          "status": ""
-        },
-        {
-          "name": "Zhang, Katie",
-          "club": "Bay Area Fencing Club",
-          "division": "Northern California",
-          "member_num": "100343508",
-          "status": ""
-        },
-        {
-          "name": "Zhu, Claire",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Northern California",
-          "member_num": "100338817",
-          "status": ""
-        }
-      ],
       "Y14WF": [
         {
           "name": "Aleksandrova, Miroslava",
@@ -18845,12 +18437,504 @@
           "member_num": "100338817",
           "status": ""
         }
+      ],
+      "Y12WF": [
+        {
+          "name": "Aleksandrova, Miroslava",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Central California",
+          "member_num": "100882793",
+          "status": ""
+        },
+        {
+          "name": "Arunkishore, Dakshina",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100336353",
+          "status": ""
+        },
+        {
+          "name": "Brahmankar, Shreeya",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "102038502",
+          "status": ""
+        },
+        {
+          "name": "Chang, Audrey",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100351798",
+          "status": ""
+        },
+        {
+          "name": "Chen, Celina",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "101231855",
+          "status": ""
+        },
+        {
+          "name": "Chen, Yifan",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100346448",
+          "status": ""
+        },
+        {
+          "name": "Cheng, Jessica",
+          "club": "LA International Fencing",
+          "division": "Southern California",
+          "member_num": "100767583",
+          "status": ""
+        },
+        {
+          "name": "Chi, Marissa",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "101212497",
+          "status": ""
+        },
+        {
+          "name": "Chi, Serena",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "102212536",
+          "status": ""
+        },
+        {
+          "name": "Choi, Jian",
+          "club": "Golubitsky Fencing Center",
+          "division": "US Fencing",
+          "member_num": "101120816",
+          "status": ""
+        },
+        {
+          "name": "Chung, Charlotte",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100320858",
+          "status": ""
+        },
+        {
+          "name": "Dong, Ena",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "101118952",
+          "status": ""
+        },
+        {
+          "name": "Du, Zoey",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100762051",
+          "status": ""
+        },
+        {
+          "name": "Fan, Lauren",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100334151",
+          "status": ""
+        },
+        {
+          "name": "Goodfellow, Amelia",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100761064",
+          "status": ""
+        },
+        {
+          "name": "Gu, Alexandra",
+          "club": "Bay Area Fencing Club",
+          "division": "Northern California",
+          "member_num": "100348950",
+          "status": ""
+        },
+        {
+          "name": "Guo, Antong",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "101518658",
+          "status": ""
+        },
+        {
+          "name": "Hsu, Courtney",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "101134682",
+          "status": ""
+        },
+        {
+          "name": "Hszieh, Evelyn",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "101639693",
+          "status": ""
+        },
+        {
+          "name": "Huang, Erika",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "101612604",
+          "status": ""
+        },
+        {
+          "name": "Huang, Esther",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "101223347",
+          "status": ""
+        },
+        {
+          "name": "Jijo, Jayln",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100862422",
+          "status": ""
+        },
+        {
+          "name": "Kent, Audrey",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100439512",
+          "status": ""
+        },
+        {
+          "name": "Kenzhebulatova, Sara",
+          "club": "LA International Fencing",
+          "division": "Southern California",
+          "member_num": "100350072",
+          "status": ""
+        },
+        {
+          "name": "Khanal, Sarah",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100349111",
+          "status": ""
+        },
+        {
+          "name": "Kim, Ines",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100352175",
+          "status": ""
+        },
+        {
+          "name": "Kim, Olivia",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100799658",
+          "status": ""
+        },
+        {
+          "name": "Kim, Rylie",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100334115",
+          "status": ""
+        },
+        {
+          "name": "Kim, Taerin",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100822218",
+          "status": ""
+        },
+        {
+          "name": "knox, aysa",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "101372176",
+          "status": ""
+        },
+        {
+          "name": "Ko, Adeline",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100339456",
+          "status": ""
+        },
+        {
+          "name": "Ko, Alyssa",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100345325",
+          "status": ""
+        },
+        {
+          "name": "Lai, Olivia",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100307276",
+          "status": ""
+        },
+        {
+          "name": "Lam, Dorris Yandor",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100354391",
+          "status": ""
+        },
+        {
+          "name": "Lee, Kayla",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "102352476",
+          "status": ""
+        },
+        {
+          "name": "Lee, Madison",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "100333411",
+          "status": ""
+        },
+        {
+          "name": "Li, Claire",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100669436",
+          "status": ""
+        },
+        {
+          "name": "Lin, Tiffany",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100303766",
+          "status": ""
+        },
+        {
+          "name": "Lin, Valentina",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100927891",
+          "status": ""
+        },
+        {
+          "name": "Liu, Doris-Zihan Zhou",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100327340",
+          "status": ""
+        },
+        {
+          "name": "Lopez-Hor, Emma Meixian",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100973388",
+          "status": ""
+        },
+        {
+          "name": "Lu, Jocelyn",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "101777967",
+          "status": ""
+        },
+        {
+          "name": "Luo, Olivia",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100311227",
+          "status": ""
+        },
+        {
+          "name": "Mahajan, Mira",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100531288",
+          "status": ""
+        },
+        {
+          "name": "Ng, Genevieve",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "101728939",
+          "status": ""
+        },
+        {
+          "name": "Perojo, Angie",
+          "club": "Team Touche Fencing Center",
+          "division": "San Diego",
+          "member_num": "100353743",
+          "status": ""
+        },
+        {
+          "name": "Picache, Camilla",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100747126",
+          "status": ""
+        },
+        {
+          "name": "Poon, Taylor",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100346503",
+          "status": ""
+        },
+        {
+          "name": "Rosin, Milena",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100345745",
+          "status": ""
+        },
+        {
+          "name": "Schor, Katherine",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100310522",
+          "status": ""
+        },
+        {
+          "name": "Shen, Rebecca",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100339435",
+          "status": ""
+        },
+        {
+          "name": "Shin, Ellie",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100848809",
+          "status": ""
+        },
+        {
+          "name": "Shu, Kayla",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100335411",
+          "status": ""
+        },
+        {
+          "name": "Soni, Olivia",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "101469703",
+          "status": ""
+        },
+        {
+          "name": "Sun, Leia",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100801684",
+          "status": ""
+        },
+        {
+          "name": "Sun, Zoey",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100776879",
+          "status": ""
+        },
+        {
+          "name": "Tang, Ming-Hao Audrey",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "101381212",
+          "status": ""
+        },
+        {
+          "name": "Tatineni, Charvi",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100301503",
+          "status": ""
+        },
+        {
+          "name": "Tian, Claire",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100333061",
+          "status": ""
+        },
+        {
+          "name": "Valoueva, Katerina",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100354898",
+          "status": ""
+        },
+        {
+          "name": "Wang, Muse",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "101234810",
+          "status": ""
+        },
+        {
+          "name": "Yang, Ariel",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "101466569",
+          "status": ""
+        },
+        {
+          "name": "Yang, Lucy",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "101217415",
+          "status": ""
+        },
+        {
+          "name": "Yi, Helen",
+          "club": "Team Touche Fencing Center",
+          "division": "San Diego",
+          "member_num": "101102025",
+          "status": ""
+        },
+        {
+          "name": "Yoon, Adeline",
+          "club": "LA International Fencing",
+          "division": "Southern California",
+          "member_num": "100353438",
+          "status": ""
+        },
+        {
+          "name": "Yuen, Hannah",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "101052539",
+          "status": ""
+        },
+        {
+          "name": "Zhai, Muyan",
+          "club": "Journeys Fencing Club",
+          "division": "Northern California",
+          "member_num": "100358231",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Annabelle",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100583566",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Katie",
+          "club": "Bay Area Fencing Club",
+          "division": "Northern California",
+          "member_num": "100343508",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Claire",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "100338817",
+          "status": ""
+        }
       ]
     },
     "total": 245
   },
   "emerald-city-roc-open-registra-2026-11-07-salle-auriol-seattle-seattle-wa": {
-    "fetched_at": "2026-09-12T00:05:41.979367Z",
+    "fetched_at": "2026-09-12T12:04:45.914752Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -18892,11 +18976,11 @@
     "total": 0
   },
   "fall-grafa-ryc-rjcc-roc--third-2026-11-06-msa-fieldhouse-grand-rapids-mi": {
-    "fetched_at": "2026-09-12T00:05:33.127802Z",
+    "fetched_at": "2026-09-12T12:04:40.671080Z",
     "counts": {
-      "CDTWF": 5,
-      "Y14WF": 12,
-      "Y12WF": 10
+      "CDTWF": 6,
+      "Y14WF": 13,
+      "Y12WF": 11
     },
     "names": {
       "CDTWF": [
@@ -18933,6 +19017,13 @@
           "club": "Grand Rapids Fencing Academy",
           "division": "Michigan",
           "member_num": "100353566",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
           "status": ""
         }
       ],
@@ -18984,6 +19075,13 @@
           "club": "Eminence Fencing Academy",
           "division": "Illinois",
           "member_num": "101048141",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
           "status": ""
         },
         {
@@ -19059,6 +19157,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Rolkowski, Mia",
           "club": "Fencing Center Of Chicago",
           "division": "Illinois",
@@ -19095,7 +19200,7 @@
         }
       ]
     },
-    "total": 27
+    "total": 30
   },
   "manhattan-fencing-center-saber-2026-11-08-new-york-ny": {
     "fetched_at": "2026-09-09T18:06:05.361593Z",
@@ -19182,7 +19287,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-11-12-berne-": {
-    "fetched_at": "2026-09-12T00:05:42.267723Z",
+    "fetched_at": "2026-09-12T12:04:46.533201Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19196,7 +19301,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-11-12-palma-de-mallorca-": {
-    "fetched_at": "2026-09-12T00:05:43.803680Z",
+    "fetched_at": "2026-09-12T12:04:47.992764Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19210,7 +19315,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-11-12-cairo-": {
-    "fetched_at": "2026-09-12T00:05:44.164757Z",
+    "fetched_at": "2026-09-12T12:04:48.436284Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19280,7 +19385,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-11-13-wuxi-": {
-    "fetched_at": "2026-09-12T00:05:45.229457Z",
+    "fetched_at": "2026-09-12T12:04:48.665495Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19308,7 +19413,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2026-11-14-dresden-": {
-    "fetched_at": "2026-09-12T00:05:46.165754Z",
+    "fetched_at": "2026-09-12T12:04:48.705947Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19350,7 +19455,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-11-14-dresden-": {
-    "fetched_at": "2026-09-12T00:05:47.694261Z",
+    "fetched_at": "2026-09-12T12:04:49.373342Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19364,7 +19469,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-11-14-pau-": {
-    "fetched_at": "2026-09-12T00:05:49.615564Z",
+    "fetched_at": "2026-09-12T12:04:50.094242Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -19378,15 +19483,22 @@
     "total": 0
   },
   "ryc-rjc-of-the-rockies-open-re-2026-11-13-denver-fencing-center-denver-co": {
-    "fetched_at": "2026-09-12T00:05:45.341424Z",
+    "fetched_at": "2026-09-12T12:04:48.700527Z",
     "counts": {
       "CDTWF": 0,
-      "Y14WF": 6,
+      "Y14WF": 7,
       "Y12WF": 6
     },
     "names": {
       "CDTWF": [],
       "Y14WF": [
+        {
+          "name": "Cole, Emma",
+          "club": "South Denver Fencing Academy",
+          "division": "Colorado",
+          "member_num": "100349986",
+          "status": ""
+        },
         {
           "name": "Dillon, Zoe",
           "club": "Roaring Fork Fencers Club",
@@ -19475,7 +19587,7 @@
         }
       ]
     },
-    "total": 12
+    "total": 13
   },
   "szathmary-smackdown-iii-regist-2026-11-14-knoxville-tn": {
     "fetched_at": "2026-09-09T18:06:14.235301Z",
@@ -19562,7 +19674,7 @@
     "total": 0
   },
   "rain-city-fall-ryc-open-regist-2026-11-14-rain-city-fencing-center-bellevue-wa": {
-    "fetched_at": "2026-09-12T00:05:50.696219Z",
+    "fetched_at": "2026-09-12T12:04:50.845374Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 26,
@@ -19893,9 +20005,9 @@
     "total": 0
   },
   "kiefer-meinhardt-cup-syc-rjcc--2026-11-14-henrico-sports-and-events-center-glen-allen-va": {
-    "fetched_at": "2026-09-12T00:05:46.583399Z",
+    "fetched_at": "2026-09-12T12:04:49.182227Z",
     "counts": {
-      "CDTWF": 15,
+      "CDTWF": 16,
       "Y14WF": 24,
       "Y12WF": 25
     },
@@ -19927,6 +20039,13 @@
           "club": "Bluegrass Fencers' Club",
           "division": "Kentucky",
           "member_num": "100297964",
+          "status": ""
+        },
+        {
+          "name": "Ibrahim, Yara",
+          "club": "Apex Fencing Academy",
+          "division": "North Carolina",
+          "member_num": "100316672",
           "status": ""
         },
         {
@@ -20355,12 +20474,12 @@
         }
       ]
     },
-    "total": 64
+    "total": 65
   },
   "november-nac-open-registration-2026-11-20-greater-columbus-convention-center-columbus-oh": {
-    "fetched_at": "2026-09-12T00:05:56.465741Z",
+    "fetched_at": "2026-09-12T12:04:52.466717Z",
     "counts": {
-      "CDTWF": 93,
+      "CDTWF": 94,
       "Y14WF": 0,
       "Y12WF": 0
     },
@@ -20990,6 +21109,13 @@
           "status": ""
         },
         {
+          "name": "Zhang, Caroline",
+          "club": "Rochester Fencing Club",
+          "division": "Western New York",
+          "member_num": "100306085",
+          "status": ""
+        },
+        {
           "name": "Zhang, Lian",
           "club": "",
           "division": "US Fencing",
@@ -21021,7 +21147,7 @@
       "Y14WF": [],
       "Y12WF": []
     },
-    "total": 93
+    "total": 94
   },
   "hoosier-cup---november-registr-2026-11-21-columbus-in": {
     "fetched_at": "2026-09-09T18:06:19.398746Z",
@@ -21038,7 +21164,7 @@
     "total": 0
   },
   "the-crescent-city-open-open-re-2026-11-14-fitness-by-hilton-/-riverside-hilton-metairie-la": {
-    "fetched_at": "2026-09-12T00:05:51.918669Z",
+    "fetched_at": "2026-09-12T12:04:51.639958Z",
     "counts": {
       "CDTWF": 2,
       "Y14WF": 0,
@@ -21067,7 +21193,7 @@
     "total": 2
   },
   "non-designated-efc-cadet-event-2026-11-21-grenoble-": {
-    "fetched_at": "2026-09-12T00:05:57.445296Z",
+    "fetched_at": "2026-09-12T12:04:55.668679Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21081,7 +21207,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-11-21-budapest-": {
-    "fetched_at": "2026-09-12T00:05:59.041830Z",
+    "fetched_at": "2026-09-12T12:04:55.672499Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21109,7 +21235,7 @@
     "total": 0
   },
   "pizza-ryc-rjcc-open-registrati-2026-11-14-floyd-little-athletic-center-new-haven-ct": {
-    "fetched_at": "2026-09-12T00:05:49.992959Z",
+    "fetched_at": "2026-09-12T12:04:50.141402Z",
     "counts": {
       "CDTWF": 18,
       "Y14WF": 10,
@@ -21476,7 +21602,7 @@
     "total": 0
   },
   "designated-fie-cadet-world-cup-2026-11-26-boston-": {
-    "fetched_at": "2026-09-12T00:06:00.214576Z",
+    "fetched_at": "2026-09-12T12:04:56.372033Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21490,7 +21616,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-11-26-novi-sad-": {
-    "fetched_at": "2026-09-12T00:06:00.863884Z",
+    "fetched_at": "2026-09-12T12:04:56.850361Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21504,7 +21630,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-11-26-samorin-": {
-    "fetched_at": "2026-09-12T00:06:00.901845Z",
+    "fetched_at": "2026-09-12T12:04:57.022469Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21518,7 +21644,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-11-27-samorin-": {
-    "fetched_at": "2026-09-12T00:06:02.355673Z",
+    "fetched_at": "2026-09-12T12:04:57.058302Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21532,7 +21658,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-27-novi-sad-": {
-    "fetched_at": "2026-09-12T00:06:03.897773Z",
+    "fetched_at": "2026-09-12T12:04:57.722077Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21546,7 +21672,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-27-boston-": {
-    "fetched_at": "2026-09-12T00:06:05.006846Z",
+    "fetched_at": "2026-09-12T12:04:58.239914Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21560,7 +21686,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-11-27-samorin-": {
-    "fetched_at": "2026-09-12T00:06:04.138165Z",
+    "fetched_at": "2026-09-12T12:04:57.772508Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21630,7 +21756,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2026-12-03-orléans-": {
-    "fetched_at": "2026-09-12T00:06:06.012039Z",
+    "fetched_at": "2026-09-12T12:04:58.487788Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21644,7 +21770,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-12-03-vancouver-": {
-    "fetched_at": "2026-09-12T00:06:07.019796Z",
+    "fetched_at": "2026-09-12T12:04:58.935440Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21686,7 +21812,7 @@
     "total": 0
   },
   "december-sjcc-open-registratio-2026-12-04-baird-center-milwaukee-wi": {
-    "fetched_at": "2026-09-12T00:06:07.094959Z",
+    "fetched_at": "2026-09-12T12:04:58.936973Z",
     "counts": {
       "CDTWF": 24,
       "Y14WF": 0,
@@ -21883,7 +22009,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2026-12-05-cabries-": {
-    "fetched_at": "2026-09-12T00:06:07.954455Z",
+    "fetched_at": "2026-09-12T12:04:59.185799Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -21897,7 +22023,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-12-05-copenhagen-": {
-    "fetched_at": "2026-09-12T00:06:08.615188Z",
+    "fetched_at": "2026-09-12T12:04:59.871227Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -22009,7 +22135,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2026-12-10-shanghai-": {
-    "fetched_at": "2026-09-12T00:06:09.299122Z",
+    "fetched_at": "2026-09-12T12:05:00.372079Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -22065,11 +22191,11 @@
     "total": 0
   },
   "cobra-challenge-syc-rcc-open-r-2026-11-27-meadowlands-expo-center-secaucus-nj": {
-    "fetched_at": "2026-09-12T00:06:03.304554Z",
+    "fetched_at": "2026-09-12T12:04:57.235069Z",
     "counts": {
-      "CDTWF": 55,
-      "Y14WF": 66,
-      "Y12WF": 64
+      "CDTWF": 56,
+      "Y14WF": 67,
+      "Y12WF": 65
     },
     "names": {
       "CDTWF": [
@@ -22302,6 +22428,13 @@
           "club": "Fencing Academy Of Westchester",
           "division": "Westchester-Rockland",
           "member_num": "100256101",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
           "status": ""
         },
         {
@@ -22745,6 +22878,13 @@
           "club": "Unattached",
           "division": "N/A",
           "member_num": "100327340",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
           "status": ""
         },
         {
@@ -23212,6 +23352,13 @@
           "status": ""
         },
         {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
           "name": "Luo, Lucy",
           "club": "Star Fencing Academy",
           "division": "New England",
@@ -23374,10 +23521,10 @@
         }
       ]
     },
-    "total": 185
+    "total": 188
   },
   "non-designated-fie-cadet-world-2026-12-11-xiongan-": {
-    "fetched_at": "2026-09-12T00:06:10.223625Z",
+    "fetched_at": "2026-09-12T12:05:00.396209Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23433,7 +23580,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2026-12-12-xiongan-": {
-    "fetched_at": "2026-09-12T00:06:10.322580Z",
+    "fetched_at": "2026-09-12T12:05:01.094767Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23447,7 +23594,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2026-12-12-eislingen-": {
-    "fetched_at": "2026-09-12T00:06:11.633613Z",
+    "fetched_at": "2026-09-12T12:05:02.153239Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23461,7 +23608,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2026-12-12-zagreb-": {
-    "fetched_at": "2026-09-12T00:06:13.035841Z",
+    "fetched_at": "2026-09-12T12:05:03.933490Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23559,7 +23706,7 @@
     "total": 0
   },
   "designated-fie-cadet-world-cup-2026-12-17-tbilisi-": {
-    "fetched_at": "2026-09-12T00:06:15.029831Z",
+    "fetched_at": "2026-09-12T12:05:06.160223Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23573,7 +23720,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-12-17-busan-": {
-    "fetched_at": "2026-09-12T00:06:17.357953Z",
+    "fetched_at": "2026-09-12T12:05:07.943339Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23587,7 +23734,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2026-12-18-burgos-": {
-    "fetched_at": "2026-09-12T00:06:18.244138Z",
+    "fetched_at": "2026-09-12T12:05:08.947178Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23615,7 +23762,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-12-18-tbilisi-": {
-    "fetched_at": "2026-09-12T00:06:19.935245Z",
+    "fetched_at": "2026-09-12T12:05:10.484472Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -23629,7 +23776,7 @@
     "total": 0
   },
   "z1-ryc-rjcc-open-registration--2026-12-12-nya-sports-&-fitness-newtown-ct": {
-    "fetched_at": "2026-09-12T00:06:13.724841Z",
+    "fetched_at": "2026-09-12T12:05:04.118564Z",
     "counts": {
       "CDTWF": 7,
       "Y14WF": 7,
@@ -23821,7 +23968,7 @@
     "total": 25
   },
   "nick-itkin-cup-syc---vet-roc-o-2026-12-11-palm-springs-convention-center-palm-springs-ca": {
-    "fetched_at": "2026-09-12T00:06:10.227953Z",
+    "fetched_at": "2026-09-12T12:05:00.551782Z",
     "counts": {
       "CDTWF": 42,
       "Y14WF": 91,
@@ -25357,7 +25504,7 @@
     "total": 216
   },
   "the-southern-y8-ryc-rjcc-roc---2026-12-11-john-t.-rhodes-myrtle-beach-sports-center-myrtle-beach-sc": {
-    "fetched_at": "2026-09-12T00:06:10.271799Z",
+    "fetched_at": "2026-09-12T12:05:00.629435Z",
     "counts": {
       "CDTWF": 1,
       "Y14WF": 2,
@@ -25402,7 +25549,7 @@
     "total": 4
   },
   "designated-fie-junior-world-cu-2026-12-18-busan-": {
-    "fetched_at": "2026-09-12T00:06:22.418795Z",
+    "fetched_at": "2026-09-12T12:05:12.167900Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -25444,7 +25591,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2026-12-19-burgos-": {
-    "fetched_at": "2026-09-12T00:06:27.350259Z",
+    "fetched_at": "2026-09-12T12:05:17.438820Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -25472,11 +25619,11 @@
     "total": 0
   },
   "austin-challenge-syc-and-rcc-o-2026-12-18-round-rock-sports-center-round-rock-tx": {
-    "fetched_at": "2026-09-12T00:06:19.117552Z",
+    "fetched_at": "2026-09-12T12:05:09.755831Z",
     "counts": {
-      "CDTWF": 32,
-      "Y14WF": 54,
-      "Y12WF": 50
+      "CDTWF": 33,
+      "Y14WF": 56,
+      "Y12WF": 51
     },
     "names": {
       "CDTWF": [
@@ -25576,6 +25723,13 @@
           "club": "Space City Fencing Academy",
           "division": "Gulf Coast",
           "member_num": "100341913",
+          "status": ""
+        },
+        {
+          "name": "Kim, Ines",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100352175",
           "status": ""
         },
         {
@@ -25868,6 +26022,13 @@
           "status": ""
         },
         {
+          "name": "Kim, Ines",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100352175",
+          "status": ""
+        },
+        {
           "name": "Kim, Natalie",
           "club": "Maximum Fencing Club",
           "division": "Central California",
@@ -26068,6 +26229,13 @@
           "club": "SoCAL Fencing Center",
           "division": "Orange Coast",
           "member_num": "100270075",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Annabelle",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100583566",
           "status": ""
         },
         {
@@ -26423,6 +26591,13 @@
           "status": ""
         },
         {
+          "name": "Zhang, Annabelle",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100583566",
+          "status": ""
+        },
+        {
           "name": "Zhang, Katie",
           "club": "Bay Area Fencing Club",
           "division": "Northern California",
@@ -26438,7 +26613,7 @@
         }
       ]
     },
-    "total": 136
+    "total": 140
   },
   "senior-epee-registration-perio-2026-12-20-new-york-ny": {
     "fetched_at": "2026-09-09T18:06:49.656601Z",
@@ -26469,7 +26644,7 @@
     "total": 0
   },
   "salle-auriol-seattle-rjcc-open-2026-12-19-salle-auriol-seattle-seattle-wa": {
-    "fetched_at": "2026-09-12T00:06:29.920182Z",
+    "fetched_at": "2026-09-12T12:05:19.041870Z",
     "counts": {
       "CDTWF": 16,
       "Y14WF": 0,
@@ -26610,7 +26785,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2026-12-31-tbd-": {
-    "fetched_at": "2026-09-12T00:06:30.526401Z",
+    "fetched_at": "2026-09-12T12:05:19.740097Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -26624,7 +26799,7 @@
     "total": 0
   },
   "boston-fencing-club-ryc-rcc-op-2026-12-19-wheaton-college-norton-ma": {
-    "fetched_at": "2026-09-12T00:06:23.962322Z",
+    "fetched_at": "2026-09-12T12:05:13.229359Z",
     "counts": {
       "CDTWF": 3,
       "Y14WF": 8,
@@ -26774,9 +26949,9 @@
     "total": 19
   },
   "midwest-roc-rjcc-open-registra-2026-12-19-canlan-sports-liberyville-libertyville-il": {
-    "fetched_at": "2026-09-12T00:06:28.368922Z",
+    "fetched_at": "2026-09-12T12:05:18.215978Z",
     "counts": {
-      "CDTWF": 3,
+      "CDTWF": 4,
       "Y14WF": 0,
       "Y12WF": 0
     },
@@ -26802,12 +26977,19 @@
           "division": "Northern California",
           "member_num": "100487021",
           "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
         }
       ],
       "Y14WF": [],
       "Y12WF": []
     },
-    "total": 3
+    "total": 4
   },
   "queens-fencing-new-years-cup---2026-12-31-forest-hills-ny": {
     "fetched_at": "2026-09-09T18:06:51.975781Z",
@@ -26880,7 +27062,7 @@
     "total": 0
   },
   "fairfax-challenge-roc--rjcc--r-2026-12-18-fredericksburg-convention-center-fredericksburg-va": {
-    "fetched_at": "2026-09-12T00:06:22.621708Z",
+    "fetched_at": "2026-09-12T12:05:13.100987Z",
     "counts": {
       "CDTWF": 3,
       "Y14WF": 5,
@@ -27002,7 +27184,7 @@
     "total": 0
   },
   "international-regional-circuit-2027-01-01-jiangyin-feima-water-city-sports-and-culture-hall-:-江阴飞马水城文体馆-wuxi-": {
-    "fetched_at": "2026-09-12T00:06:31.613355Z",
+    "fetched_at": "2026-09-12T12:05:20.203028Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27016,7 +27198,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-07-fujairah-": {
-    "fetched_at": "2026-09-12T00:06:31.828689Z",
+    "fetched_at": "2026-09-12T12:05:20.624228Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27030,7 +27212,7 @@
     "total": 0
   },
   "neil-lazar-div1-div2-veteran-r-2027-01-01-university-of-bridgeport---wheeler-recreation-center-bridgeport-ct": {
-    "fetched_at": "2026-09-12T00:06:31.617608Z",
+    "fetched_at": "2026-09-12T12:05:20.512241Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27044,7 +27226,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-07-new-delhi-": {
-    "fetched_at": "2026-09-12T00:06:33.800745Z",
+    "fetched_at": "2026-09-12T12:05:21.497299Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27058,7 +27240,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-08-basel-": {
-    "fetched_at": "2026-09-12T00:06:33.866338Z",
+    "fetched_at": "2026-09-12T12:05:22.115091Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27072,7 +27254,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-08-udine-": {
-    "fetched_at": "2026-09-12T00:06:34.257088Z",
+    "fetched_at": "2026-09-12T12:05:22.220435Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27086,7 +27268,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2027-01-08-fujairah-": {
-    "fetched_at": "2026-09-12T00:06:34.396682Z",
+    "fetched_at": "2026-09-12T12:05:22.897440Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27100,7 +27282,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2027-01-08-new-delhi-": {
-    "fetched_at": "2026-09-12T00:06:35.132418Z",
+    "fetched_at": "2026-09-12T12:05:23.044087Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27114,7 +27296,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2027-01-09-udine-": {
-    "fetched_at": "2026-09-12T00:06:35.593131Z",
+    "fetched_at": "2026-09-12T12:05:23.100265Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27128,7 +27310,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2027-01-09-basel-": {
-    "fetched_at": "2026-09-12T00:06:35.599765Z",
+    "fetched_at": "2026-09-12T12:05:23.154331Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27142,7 +27324,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2027-01-09-segovia-": {
-    "fetched_at": "2026-09-12T00:06:35.991443Z",
+    "fetched_at": "2026-09-12T12:05:23.426479Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27156,7 +27338,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-01-15-paris-": {
-    "fetched_at": "2026-09-12T00:06:36.415128Z",
+    "fetched_at": "2026-09-12T12:05:23.862890Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27170,7 +27352,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-01-15-singapore-": {
-    "fetched_at": "2026-09-12T00:06:36.499314Z",
+    "fetched_at": "2026-09-12T12:05:23.885773Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27184,7 +27366,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-01-15-tunis-": {
-    "fetched_at": "2026-09-12T00:06:36.888728Z",
+    "fetched_at": "2026-09-12T12:05:24.372031Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27226,7 +27408,7 @@
     "total": 0
   },
   "designated-efc-cadet-event---i-2027-01-16-bratislava-": {
-    "fetched_at": "2026-09-12T00:06:37.487189Z",
+    "fetched_at": "2026-09-12T12:05:24.853912Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27240,7 +27422,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2027-01-16-konin-": {
-    "fetched_at": "2026-09-12T00:06:38.490012Z",
+    "fetched_at": "2026-09-12T12:05:25.649220Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27254,7 +27436,7 @@
     "total": 0
   },
   "battle-in-seattle-open-registr-2027-01-16-rain-city-fencing-center-bellevue-wa": {
-    "fetched_at": "2026-09-12T00:06:37.071996Z",
+    "fetched_at": "2026-09-12T12:05:24.482980Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27268,7 +27450,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2027-01-16-poznan-": {
-    "fetched_at": "2026-09-12T00:06:38.277788Z",
+    "fetched_at": "2026-09-12T12:05:25.600883Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27310,7 +27492,7 @@
     "total": 0
   },
   "designated-fie-cadet-world-cup-2027-01-21-plovdiv-": {
-    "fetched_at": "2026-09-12T00:06:39.183146Z",
+    "fetched_at": "2026-09-12T12:05:26.313256Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27324,7 +27506,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-21-cairo-": {
-    "fetched_at": "2026-09-12T00:06:39.965012Z",
+    "fetched_at": "2026-09-12T12:05:27.032607Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27338,7 +27520,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-22-bangkok-": {
-    "fetched_at": "2026-09-12T00:06:40.085150Z",
+    "fetched_at": "2026-09-12T12:05:27.040537Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27352,7 +27534,7 @@
     "total": 0
   },
   "non-designated-fie-cadet-world-2027-01-22-curitiba-": {
-    "fetched_at": "2026-09-12T00:06:40.629874Z",
+    "fetched_at": "2026-09-12T12:05:27.048814Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27366,7 +27548,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2027-01-22-cairo-": {
-    "fetched_at": "2026-09-12T00:06:41.516375Z",
+    "fetched_at": "2026-09-12T12:05:27.773700Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27380,7 +27562,7 @@
     "total": 0
   },
   "capitol-clash-syc-rcc---y8-ope-2027-01-16-gaylord-national-resort-and-convention-center-oxon-hill-md": {
-    "fetched_at": "2026-09-12T00:06:38.847089Z",
+    "fetched_at": "2026-09-12T12:05:25.992954Z",
     "counts": {
       "CDTWF": 2,
       "Y14WF": 3,
@@ -27453,7 +27635,7 @@
     "total": 8
   },
   "designated-fie-junior-world-cu-2027-01-22-plovdiv-": {
-    "fetched_at": "2026-09-12T00:06:41.731451Z",
+    "fetched_at": "2026-09-12T12:05:28.479180Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27495,7 +27677,7 @@
     "total": 0
   },
   "non-designated-fie-junior-worl-2027-01-23-curitiba-": {
-    "fetched_at": "2026-09-12T00:06:41.981842Z",
+    "fetched_at": "2026-09-12T12:05:28.504729Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27509,7 +27691,7 @@
     "total": 0
   },
   "designated-fie-junior-world-cu-2027-01-23-bangkok-": {
-    "fetched_at": "2026-09-12T00:06:42.685628Z",
+    "fetched_at": "2026-09-12T12:05:28.531837Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -27523,11 +27705,11 @@
     "total": 0
   },
   "elite-cup-ryc-rjcc-open-regist-2027-01-16-san-diego-convention-center---hall-d&e-san-diego-ca": {
-    "fetched_at": "2026-09-12T00:06:37.625755Z",
+    "fetched_at": "2026-09-12T12:05:24.894432Z",
     "counts": {
-      "CDTWF": 24,
-      "Y14WF": 41,
-      "Y12WF": 36
+      "CDTWF": 25,
+      "Y14WF": 42,
+      "Y12WF": 37
     },
     "names": {
       "CDTWF": [
@@ -27613,6 +27795,13 @@
           "club": "Massialas Foundation (M Team)",
           "division": "Northern California",
           "member_num": "100332095",
+          "status": ""
+        },
+        {
+          "name": "Kim, Natalie",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100305624",
           "status": ""
         },
         {
@@ -27713,6 +27902,13 @@
           "club": "SoCAL Fencing Center",
           "division": "Orange Coast",
           "member_num": "100356906",
+          "status": ""
+        },
+        {
+          "name": "Cao, Alexandra",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100326912",
           "status": ""
         },
         {
@@ -27998,6 +28194,13 @@
           "status": ""
         },
         {
+          "name": "Cao, Alexandra",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100326912",
+          "status": ""
+        },
+        {
           "name": "Cheng, Jessica",
           "club": "LA International Fencing",
           "division": "Southern California",
@@ -28244,10 +28447,10 @@
         }
       ]
     },
-    "total": 101
+    "total": 104
   },
   "non-designated-efc-cadet-event-2027-01-23-krakow-": {
-    "fetched_at": "2026-09-12T00:06:43.247361Z",
+    "fetched_at": "2026-09-12T12:05:29.260123Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28345,7 +28548,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-01-28-tbd-": {
-    "fetched_at": "2026-09-12T00:06:43.792161Z",
+    "fetched_at": "2026-09-12T12:05:30.018414Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28387,7 +28590,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-01-29-doha-": {
-    "fetched_at": "2026-09-12T00:06:44.528388Z",
+    "fetched_at": "2026-09-12T12:05:30.174200Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28415,7 +28618,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2027-01-30-sofia-": {
-    "fetched_at": "2026-09-12T00:06:45.208688Z",
+    "fetched_at": "2026-09-12T12:05:30.792789Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28429,7 +28632,7 @@
     "total": 0
   },
   "non-designated-efc-cadet-event-2027-01-30-prague-": {
-    "fetched_at": "2026-09-12T00:06:45.493933Z",
+    "fetched_at": "2026-09-12T12:05:30.756084Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28527,7 +28730,7 @@
     "total": 0
   },
   "salle-auriol-seattle-ryc-open--2027-01-30-salle-auriol-seattle-seattle-wa": {
-    "fetched_at": "2026-09-12T00:06:45.557585Z",
+    "fetched_at": "2026-09-12T12:05:31.689370Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 18,
@@ -28781,7 +28984,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-02-18-heidenheim-": {
-    "fetched_at": "2026-09-12T00:06:46.224650Z",
+    "fetched_at": "2026-09-12T12:05:31.793508Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28809,7 +29012,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-02-19-padua-": {
-    "fetched_at": "2026-09-12T00:06:46.723066Z",
+    "fetched_at": "2026-09-12T12:05:32.582538Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28823,7 +29026,7 @@
     "total": 0
   },
   "queen-city-cup-y8-ryc-rjcc-ope-2027-02-05-liberty-center-liberty-township-oh": {
-    "fetched_at": "2026-09-12T00:06:45.711443Z",
+    "fetched_at": "2026-09-12T12:05:31.739888Z",
     "counts": {
       "CDTWF": 1,
       "Y14WF": 3,
@@ -28867,7 +29070,7 @@
     "total": 4
   },
   "designated-fie-senior-world-cu-2027-02-19-rio-de-janeiro-": {
-    "fetched_at": "2026-09-12T00:06:47.064812Z",
+    "fetched_at": "2026-09-12T12:05:32.687895Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28881,7 +29084,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-02-19-athènes-": {
-    "fetched_at": "2026-09-12T00:06:47.581515Z",
+    "fetched_at": "2026-09-12T12:05:33.431913Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -28937,7 +29140,7 @@
     "total": 0
   },
   "usf-green-and-gold-ryc-open-re-2027-02-06-usf-recreation-and-wellness-center---east-gym-tampa-fl": {
-    "fetched_at": "2026-09-12T00:06:46.057770Z",
+    "fetched_at": "2026-09-12T12:05:31.765695Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29021,7 +29224,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-02-26-turin-": {
-    "fetched_at": "2026-09-12T00:06:48.456919Z",
+    "fetched_at": "2026-09-12T12:05:34.264383Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29105,7 +29308,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-03-11-istanbul-": {
-    "fetched_at": "2026-09-12T00:06:49.793164Z",
+    "fetched_at": "2026-09-12T12:05:35.015703Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29133,7 +29336,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-03-12-budapest-": {
-    "fetched_at": "2026-09-12T00:06:50.761969Z",
+    "fetched_at": "2026-09-12T12:05:35.760642Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29147,14 +29350,21 @@
     "total": 0
   },
   "team-k-open-registration-close-2027-02-26-la-county-convention-center-(fairplex)-pomona-ca": {
-    "fetched_at": "2026-09-12T00:06:49.378274Z",
+    "fetched_at": "2026-09-12T12:05:34.519818Z",
     "counts": {
-      "CDTWF": 1,
-      "Y14WF": 2,
-      "Y12WF": 1
+      "CDTWF": 2,
+      "Y14WF": 4,
+      "Y12WF": 2
     },
     "names": {
       "CDTWF": [
+        {
+          "name": "Shin, Ellie",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100848809",
+          "status": ""
+        },
         {
           "name": "Yung, Zoe",
           "club": "Golubitsky Fencing Center",
@@ -29164,6 +29374,20 @@
         }
       ],
       "Y14WF": [
+        {
+          "name": "Bandzeladze, Emma",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100356906",
+          "status": ""
+        },
+        {
+          "name": "Shin, Ellie",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100848809",
+          "status": ""
+        },
         {
           "name": "Yuen, Hannah",
           "club": "Elite Fencing Club",
@@ -29181,6 +29405,13 @@
       ],
       "Y12WF": [
         {
+          "name": "Shin, Ellie",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100848809",
+          "status": ""
+        },
+        {
           "name": "Yuen, Hannah",
           "club": "Elite Fencing Club",
           "division": "Southern California",
@@ -29189,7 +29420,7 @@
         }
       ]
     },
-    "total": 4
+    "total": 8
   },
   "qfc-saber-foil-epee---name-tbd-2027-03-13-forest-hills-ny": {
     "fetched_at": "2026-09-09T18:07:25.096801Z",
@@ -29234,7 +29465,7 @@
     "total": 0
   },
   "duel-of-the-east-coast-roc-rjc-2027-02-26-greater-philadelphia-expo-center---hall-b-phoenixville-pa": {
-    "fetched_at": "2026-09-12T00:06:48.801226Z",
+    "fetched_at": "2026-09-12T12:05:34.267726Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29248,7 +29479,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-03-19-budapest-": {
-    "fetched_at": "2026-09-12T00:06:50.879409Z",
+    "fetched_at": "2026-09-12T12:05:35.771390Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29262,7 +29493,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-03-19-sofia-": {
-    "fetched_at": "2026-09-12T00:06:51.160191Z",
+    "fetched_at": "2026-09-12T12:05:36.334340Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29346,7 +29577,7 @@
     "total": 0
   },
   "designated-fie-senior-world-cu-2027-03-25-astana-": {
-    "fetched_at": "2026-09-12T00:06:51.927777Z",
+    "fetched_at": "2026-09-12T12:05:36.600871Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29416,7 +29647,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-03-26-lima-": {
-    "fetched_at": "2026-09-12T00:06:52.793375Z",
+    "fetched_at": "2026-09-12T12:05:37.173657Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29794,7 +30025,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-05-07-hong-kong-": {
-    "fetched_at": "2026-09-12T00:06:53.139232Z",
+    "fetched_at": "2026-09-12T12:05:37.808978Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -29878,7 +30109,7 @@
     "total": 0
   },
   "designated-senior-fie-grand-pr-2027-05-14-medellín-": {
-    "fetched_at": "2026-09-12T00:06:53.839553Z",
+    "fetched_at": "2026-09-12T12:05:37.857566Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
@@ -30256,7 +30487,7 @@
     "total": 0
   },
   "cascade-clash-syc-2026": {
-    "fetched_at": "2026-09-12T00:04:29.052266Z",
+    "fetched_at": "2026-09-12T12:03:59.651025Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 62,
@@ -31126,7 +31357,7 @@
     "total": 122
   },
   "air-force-roc-rjcc-2026": {
-    "fetched_at": "2026-09-12T00:04:29.052437Z",
+    "fetched_at": "2026-09-12T12:03:59.651133Z",
     "counts": {
       "CDTWF": 25,
       "Y14WF": 0,
@@ -31316,7 +31547,7 @@
     "total": 25
   },
   "fortune-roc-rjcc-ryc-2026": {
-    "fetched_at": "2026-09-12T00:04:29.052016Z",
+    "fetched_at": "2026-09-12T12:03:59.650861Z",
     "counts": {
       "CDTWF": 99,
       "Y14WF": 86,
@@ -33251,7 +33482,7 @@
     "total": 0
   },
   "bladerunner-roc-rjc-late-regis-2026-09-19-liontree-arena-(rimac)-@-uc-san-diego-la-jolla-ca": {
-    "fetched_at": "2026-09-12T00:04:44.715727Z",
+    "fetched_at": "2026-09-12T12:04:13.429093Z",
     "counts": {
       "CDTWF": 0,
       "Y14WF": 0,
