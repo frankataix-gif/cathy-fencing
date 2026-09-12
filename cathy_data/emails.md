@@ -11523,3 +11523,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DR6z5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsuCYIFwNxIvJHoVDmhUDBzI-2FUf9WnT315I2QslpmnkJ5F3vCxn9qUXNtDwJ3hSmIZpJHMWSVi0c-2FvCjOQxPg3T0yY8DLK79XYkYu6U6FrLuRTRKiuNTsZMhNl8DsC83m98-2FMrRL
 
 ---
+
+## [营销] Your Trade-In Estimate with Tesla
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-23T17:14:02+00:00
+**摘要:** 特斯拉提供了车辆置换估价，2022年丰田汉兰达的估价为37,500美元，但说明此为市场条件下的估计值而非最终报价。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DQuzs_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRyt5KX7NJ5hK3KMOXV-2F-2FMShUma2eQSkXvtS2kb-2Fof-2FOR7R8zW09QTkaCF24ZaGypnE7DCfEg88oH-2BFlQjJl0SH6-2BAHt-2FMXNfw-2BjgNCnCVMw-2Bkr4Ueu4mb2X0X4JYmnOy84FB9BpJayU0Qr7QE4D
+
+---
