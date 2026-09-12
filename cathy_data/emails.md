@@ -13408,3 +13408,15 @@ Regarding my terms of cooperation:
 Additionally, I would like t
 
 ---
+
+## [营销] rhode’s NEW Spotwear has arrived
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-08-14T13:19:34+00:00
+**摘要:** Sephora通知rhode’s新款Spotwear已到货，可能涉及产品推广或促销。
+**待办:** 查看新产品并考虑购买
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
