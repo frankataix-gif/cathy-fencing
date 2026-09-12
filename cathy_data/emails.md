@@ -11069,3 +11069,40 @@ body {
 	     
 
 ---
+
+## [其他] Your recent payment was declined
+
+**发件人:** KOODO <koodoservice@mailing.koodomobile.com>
+**日期:** 2026-08-26T07:15:26-07:00
+**摘要:** 支付被拒通知
+**待办:** 无
+
+TELUS 
+ 
+ 
+ 
+ 
+        table a {
+            color: #0000EE
+        }
+
+        body {
+            background-color: #ededee !important;
+        }
+
+        a.in-paragraph-link {
+            color: #4b286d
+        }
+
+        .mirror-link a {
+            color: #666666 !important
+        }
+        /* Force Hotmail to display emails at full width */
+
+        .ReadMsgBody {
+            width: 100%;
+            background-color: #eeeeee;
+        }
+        /* Force Hotmail to 
+
+---
