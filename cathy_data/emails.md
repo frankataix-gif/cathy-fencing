@@ -6837,3 +6837,19 @@ Natalie
 > Lauren D'Sou
 
 ---
+
+## [其他] New Device Login
+
+**发件人:** Docusign Account <info@account.docusign.net>
+**日期:** 2026-09-07T18:04:02+00:00
+**摘要:** Docusign通知用户有新的设备登录，提醒确认是否为本人操作，若非本人需立即修改密码并建议启用双重验证。
+**待办:** 无
+
+New Device Login
+We noticed a login from a new device or browser.
+If this was you, you can safely disregard this email.
+If this wasn't you, please change your password immediately to secure your account. For added security, we recommend enabling Two-Step Verification.
+Why did we send this?
+We didn't recognize this device or browser. You might receive this email again if you sign in from a new device or browser, you clear your cookies, or you use your browser's private mode.
+
+---
