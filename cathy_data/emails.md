@@ -10759,3 +10759,39 @@ Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode
 @media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{
 
 ---
+
+## [营销] 【今日會員日😍】狂賺5%額外回贈！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-27T00:38:49+00:00
+**摘要:** Trip.com 会员日促销，订机票/酒店可获高达 HK$63 回赠，全球酒店低至 25 折。
+**待办:** 无
+
+訂機票/酒店賺高達 HK$63 回贈📍全球酒店低至 25 折！即訂👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-cl
+
+---
