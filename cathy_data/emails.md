@@ -6763,3 +6763,19 @@ T: 604-467-4444 (Ext 209)
 E: christina.reis@meadowridge.bc.ca<mailto:christina.reis@m
 
 ---
+
+## [营销] Re: Natalie, your opinion matters — 1 minute on your Browns visit
+
+**发件人:** Browns Shoes <support@info.brownsshoes.com>
+**日期:** 2026-09-07T21:07:22+00:00
+**摘要:** Browns Shoes邀请Natalie提供额外反馈以赢取500美元礼品卡，并询问推荐意愿。
+**待办:** 回复邮件提供反馈
+
+Hi Natalie,
+
+Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
+
+How likely are you to recommend Browns to a friend or family member?
+
+
+---
