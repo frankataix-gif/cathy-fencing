@@ -10322,3 +10322,44 @@ DoorDash Email     -->
       @font-face{font-family:'DDNorms';font-style:normal;font-
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T17:37:47+00:00
+**摘要:** 邮件主题为GCKey登录，内容包含异常的CSS代码和不完整的验证提示
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
