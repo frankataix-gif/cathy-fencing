@@ -13473,3 +13473,43 @@ received offers in the region of £430,000–£450,000.
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5Njh9AAcAAAAABUN2y5GLFJYGV5N27RoXfNFteM3IsGOsBPccozJ7nGckHpugXRp-_WESXNsph6X2UTejajET9mkQ0mR-80D_vs9TG-vknFWjZ33EIF0J&CMP=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-a-l_en-e1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2463284&l=52_HTML&mid=7210119&jb=608&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-asu-2026-08-14-c_cal-csgsc_glu-gcat_n
 
 ---
+
+## [其他] RE: FW: Benhams - Enquiry for Philip (Direct)
+
+**发件人:** "Philip Lingard (Benham and Reeves)" <philip.lingard@benhams.com>
+**日期:** 2026-08-14T09:49:01+01:00
+**摘要:** 邮件涉及合同审查和Lancer Square价格调整，Frank需等待律师反馈并确认市场价格。
+**待办:** 无
+
+Dear Frank,
+
+
+
+Sorry for the delay I getting back to you.
+
+
+
+I have copied in my colleague Penny Cheung will be happy to assist and
+speaks Mandarin, as well as my colleagues Maciej (Wapping Office)  and
+Augusta (Kensington office). They will both get back to you on their
+suggestions on price.
+
+
+
+
+
+Kind Regards
+
+
+
+Philip Lingard
+
+Benham and Reeves
+
+
+
+*From:* frankataix@gmail.com <frankataix@gmail.com>
+*Sent:* 12 August 2026 20:10
+*To:* Philip Lingard (Benham and Reeve
+
+---
