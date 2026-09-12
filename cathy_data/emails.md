@@ -13965,3 +13965,27 @@ Natalie，您好！
 <https://c.gle/ACT4xYzP0aAzRP38oBDMt4vwUDIfONhYHIgE1b5sQqS9PHjulm8r_FT17kvM-LYfYbx6wz52DANaBBEucX8pcXlv69GiDnDwFYKyR5uucN7_uwby3uY-WYNz1A6Q2OZIrCmohvsksD9kHfC3EutBOLym0zL7MxCfUjD0wSrYPoNnNUhRgG_8eQALe3nACADyjbPA5ptVbeNv91CVEkjY9wQAUqtVPqK0CRfhAk74CYuyM80rxuwT9MPJBS2xYSVUeCDWAKP_guK89e249qs-nnvRzyvdCI6adgyjjjSBtvGHq_7KcYOPp4XpyVVWRb4rt6dNS1b5f9IJixSVIZ71w1ZhqQM8QqbbCYho02E7SBDS-de-KUhS72v4gZcmd2kC9EbOp4PhsOHnxPIcmL
 
 ---
+
+## [其他] New email account login in Spark
+
+**发件人:** Spark <spark@readdle.com>
+**日期:** 2026-09-12T06:26:31.000Z
+**摘要:** 通知用户邮箱地址在Spark应用上登录，可能涉及账户安全。
+**待办:** 无
+
+ Spark Mail 
+Your email address - *nataliewu100@gmail.com* - was used to login in Spark. 
+------------------------------
+
+*Vivo V2506A, Android 16* 
+Zambia 74.244.129.231 
+
+Smart. Focused. Email
+
+Got a question? Write to support@sparkmailapp.com < 
+support@sparkmailapp.com> 
+© 2026 Spark Mail Limited, Glandore Business Centre, Grand Canal House, 1 
+Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland 
+
+
+---
