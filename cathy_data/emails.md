@@ -13594,3 +13594,29 @@ Thank you,
 Natalie
 
 ---
+
+## [其他] New sign-in to your OpenAI account
+
+**发件人:** OpenAI <noreply@tm.openai.com>
+**日期:** 2026-08-13T18:59:20+00:00
+**摘要:** 收到OpenAI账户的登录提醒，提示有新的登录尝试。
+**待办:** 无
+
+New sign-in to your OpenAI account 
+   
+   
+  /**
+   * Google webfonts. Recommended to include the .woff version for cross-client compatibility.
+   */
+  @media screen {
+    @font-face {
+      font-family: Colfax;
+      src: url(https://openai-public.s3-us-west-2.amazonaws.com/beta/fonts/ColfaxAIRegular.woff2);
+      font-weight: normal;
+    }
+
+    @font-face {
+      font-family: Colfax;
+      src: url(https://openai-public.s3-us-west-2.amazonaws.com/beta/fonts/ColfaxAIMedium.woff2
+
+---
