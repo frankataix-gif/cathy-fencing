@@ -6994,3 +6994,42 @@ LAST DAY: Extra 20% on select styles   A CANADIAN LEGACY SINCE
 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq2-2BJRQ-2Bg7GzAV-2FheiSvLkkg-3D-3DhwuT_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFzb0SofsecIotKm7ni11cByqRKoVvQka6hM8N7CdqAcm-2BzhtjWtZqFZ-2F1lO1yhdaT91Dc-2BoZwwQfzdj-2FbKTjVQFNUFIl4VDgJZGHQTZIohrNQOCDYV99Cj3s9m7OuHMUeuUMof-2BdWATkPZxTQ-2Fh7DvRrw3Ffxo1uZEYXK03
 
 ---
+
+## [待办] Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza via Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T04:36:17-07:00
+**摘要:** Lauren D'Souza 发送了一封DocuSign文档，需要查看并签名。
+**待办:** 查看并签署Lauren D'Souza发送的DocuSign文档。
+
+Hello Jingqi Wu,
+
+Lauren D'Souza has sent you a new DocuSign document to view and sign. Please click on the link below to begin signing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+REVIEW DOCUMENT
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=22f33cc8-1725-8da7-833c-4fcb81f2b356&etti=33&acct=4b3131fa-7706-4e19-8b84-4bdf89153039&er=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+If clicking the link does not work, you can highlight and copy the entire line above and paste it into your browser
+
+---
