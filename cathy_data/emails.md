@@ -4588,3 +4588,34 @@ Your scenario Integration Webhooks has been stopped due to an error.
  * Tea
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-10T16:47:37+00:00
+**摘要:** Natalie需要重新发送链接，因为输入了错误的中国地址，Lauren同意处理。
+**待办:** 无
+
+Hi Natalie,
+
+I will request for our CDD team to issue a new link.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 10 September 2026 16:52
+To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W
+
+---
