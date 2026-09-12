@@ -13729,3 +13729,21 @@ London Dock:
 This property is ready for sale, and viewings can be a
 
 ---
+
+## [待办] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-13T11:26:02-05:00
+**摘要:** 同意安装餐厅吊灯并安排电工人手，需确认具体时间。
+**待办:** 安排电工人手并确认安装时间。
+
+Hi Anastasia,
+
+The price of $240 plus GST is acceptable. Please proceed with the installation and arrange for the electrician to come as soon as possible.
+
+Please let me know the confirmed date and time.
+
+Thank you,
+Natalie
+
+---
