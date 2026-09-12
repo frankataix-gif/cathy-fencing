@@ -5246,3 +5246,23 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t2b21bf2,409
 
 
 ---
+
+## [待办] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-09-09T15:28:41-07:00
+**摘要:** 提醒Natalie在Apple iPhone上完成Google设置
+**待办:** 在Apple iPhone上完成Google设置
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/ACT4xYzdWbQ2DF3a8iGHjtGzj-26zxZdTXz1UyBA6xeR5Sn4IGI9uVzDusQo42UDyJwTJ8NbMPxrBFoeShVqCsZZytvd65lyiCrjuArfEzI8CKoZ8s6xrP_txqDkRIRyLTtiM_DQjqWm1oJIzAAXjPqFHHx8SMYzOmRPM2sAFyHi8q5QM59I6i9s6-YIbW9Ajb2PFJTmuI52pNcpB-gMxo9_f05Vnlbiy1w7eO-Ql8FzRq7KpRk_mddKcQxb3ByZd677y2buXNvRcKtFLJqViAwlm5kcYCpYk7wQf8MIMiLILPPqkK76m1hnKA?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple
+
+---
