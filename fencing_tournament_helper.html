@@ -4587,10 +4587,10 @@ function circuitLabel(c) {
       const color = item.color || `<span class="schedule-dot" style="background:${taskCategoryColor[item.category] || '#6b7280'};"></span>`;
       const badge = item.overdue ? '<span style="background:#ef4444;color:#fff;font-size:11px;padding:1px 6px;border-radius:8px;margin-left:6px;">过期</span>' : '';
       const dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
-      return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
+      return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px; flex-wrap:wrap;">
         <span style="margin-top:2px;">${color}</span>
         <div style="flex:1; min-width:0;">
-          <div style="font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${escapeHtml(item.title)}${badge}</div>
+          <div style="font-weight:600; word-break:break-word; white-space:normal; line-height:1.5;">${escapeHtml(item.title)}${badge}</div>
           <div style="font-size:0.75rem; color:#6b7280; margin-top:2px;">${escapeHtml(dateText)}</div>
         </div>
         ${item.type === 'task' ? `<button class="btn secondary" style="padding:2px 8px; font-size:0.75rem;" data-task-edit="${item.id}">编辑</button>` : ''}
@@ -4651,11 +4651,11 @@ function circuitLabel(c) {
   function renderTaskItem(t) {
     const color = taskCategoryColor[t.category] || '#6b7280';
     const due = t.dueDate ? `<span style="font-size:0.75rem; color:#6b7280;">${t.dueDate}</span>` : '';
-    const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
-    return `<div class="schedule-list-item" style="border-left-color:${color}; display:flex; align-items:flex-start; gap:10px;">
+    const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; word-break:break-word;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
+    return `<div class="schedule-list-item" style="border-left-color:${color}; display:flex; align-items:flex-start; gap:10px; flex-wrap:wrap;">
       <input type="checkbox" data-task-id="${t.id}" ${t.completed ? 'checked' : ''} style="margin-top:4px; width:18px; height:18px; flex-shrink:0;">
       <div style="flex:1; min-width:0;">
-        <div style="font-weight:600; ${t.completed ? 'text-decoration:line-through; color:#9ca3af;' : ''}; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${escapeHtml(t.title)}</div>
+        <div style="font-weight:600; ${t.completed ? 'text-decoration:line-through; color:#9ca3af;' : ''} word-break:break-word; white-space:normal; line-height:1.5;">${escapeHtml(t.title)}</div>
         ${due}
         ${source}
         ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
