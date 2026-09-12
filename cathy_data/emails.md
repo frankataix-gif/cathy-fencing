@@ -13033,3 +13033,27 @@ Featuring Aritzia Muses. Move with them.
 ͏‌  ͏‌  
 
 ---
+
+## [击剑] Re: Inquiry About Private 1-on-1 Sparring Lessons for My Daughter
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-15T21:37:06+02:00
+**摘要:** Frank询问Cathy的一对一击剑课程安排，并计划在Eli返回温哥华后通过WhatsApp联系安排试课及在线沟通。
+**待办:** 无
+
+Hi Simon,
+
+Thank you for your reply. We look forward to hearing back from Eli.
+
+Please let me know when he return to Vancouver. I will add on WhatsApp to get in touch and schedule a trial class. I would also like to have an online chat，as I am currently not in Vancouver, but Cathy and her mom are there.
+
+Looking forward to further communication.
+
+the best regards
+frank
+On Thu, Aug 13, 2026 at 11:24 natalie <nataliewu100@gmail.com> wrote:
+> Dear Coach Eli,
+>
+> I hope this email finds
+
+---
