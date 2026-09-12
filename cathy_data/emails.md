@@ -11040,3 +11040,32 @@ My TELUS makes managing your plan easy.
 
 
 ---
+
+## [其他] Your order is on its way
+
+**发件人:** noreply@telus.com
+**日期:** 2026-08-26T18:21:26+00:00
+**摘要:** 您的订单正在运输中
+**待办:** 无
+
+body {
+	                background-color: white;
+	                font-family: Arial, Helvetica, sans-serif;
+	                font-size: 1em;
+	                }
+	
+	                .p {
+	                font-size: 1em;
+	                color: black;
+	                font-weight: bold;
+	                }
+	
+	                .telus-heading {
+	                font-size: 2em;
+	                font-family: Arial, sans-serif;
+	                color: #49166D;
+	                }
+	
+	     
+
+---
