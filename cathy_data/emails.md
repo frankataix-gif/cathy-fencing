@@ -6982,3 +6982,15 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [营销] Flats Are Having a Moment
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-07T13:09:02+00:00
+**摘要:** 布朗鞋店推出促销活动，部分款式额外20%折扣。提及自1940年以来的加拿大传统。
+**待办:** 无
+
+LAST DAY: Extra 20% on select styles   A CANADIAN LEGACY SINCE
+1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq2-2BJRQ-2Bg7GzAV-2FheiSvLkkg-3D-3DhwuT_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFzb0SofsecIotKm7ni11cByqRKoVvQka6hM8N7CdqAcm-2BzhtjWtZqFZ-2F1lO1yhdaT91Dc-2BoZwwQfzdj-2FbKTjVQFNUFIl4VDgJZGHQTZIohrNQOCDYV99Cj3s9m7OuHMUeuUMof-2BdWATkPZxTQ-2Fh7DvRrw3Ffxo1uZEYXK03
+
+---
