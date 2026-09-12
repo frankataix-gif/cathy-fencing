@@ -13364,3 +13364,25 @@ Hi jingqi natalie,  You recently visited our online store and we noticed that yo
 			
 
 ---
+
+## [其他] RE: FW: Benhams - Flat 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-14T16:16:46+02:00
+**摘要:** Natalie计划出售房产，正在比较评估结果并确定代理协议条款，要求建立WhatsApp群组并发送合同。
+**待办:** 添加WhatsApp号码并附上二维码；发送代理协议；安排包含妻子的电话会议
+
+Dear Maciej,
+
+Thank you for your email and the valuation provided.
+
+I am interested in selling both of my properties and intend to set a competitive market price for each. I am currently waiting for a valuation from another agency. Once I have reviewed all assessments and we have finalized the agency agreement, I will provide a unified asking price to my appointed agents.
+
+Regarding my terms of cooperation:
+
+• Agency Type: Multiple agency
+• Commission: 3%
+
+I would like to set up a Wha
+
+---
