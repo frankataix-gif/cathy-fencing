@@ -2367,6 +2367,7 @@ function circuitLabel(c) {
   }
 
   async function updateEmailAISummary(force) {
+    if (window._emailAIAnalyzing) return;
     if (!allEmails || allEmails.length === 0) return;
     const today = getTodayInVancouver();
     const state = getEmailAIState();
