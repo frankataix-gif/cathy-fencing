@@ -12046,3 +12046,39 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AA
     a:hover        { 
 
 ---
+
+## [营销] 解鎖內地新玩法🍁搶 HK$1 火車及酒店券包
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-21T00:39:50+00:00
+**摘要:** Trip.com推送内地旅游优惠，提供低价火车票和酒店券包，包括内蒙古和东北地区的旅游套餐。
+**待办:** 无
+
+直飛內蒙/東北 HK$1,6XX 起，精選酒店半價！直達大自然慢活叉電🔋          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-c
+
+---
