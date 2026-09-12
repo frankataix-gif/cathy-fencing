@@ -8849,3 +8849,37 @@ Welcome to PayPal
           url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/
 
 ---
+
+## [待办] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T14:51:23-07:00
+**摘要:** 提醒用户完成My TELUS的登录操作。
+**待办:** 完成My TELUS的登录操作。
+
+96 
+  
+    
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {a
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Force Hotmail to display emails at full width */
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding 
+
+---
