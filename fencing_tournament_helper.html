@@ -662,14 +662,14 @@
         <label for="te-title" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">标题</label>
         <input id="te-title" type="text" placeholder="如：上传疫苗记录" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
       </div>
-      <div class="form-row" style="display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:16px;">
+      <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:16px; margin-bottom:16px;">
         <div style="min-width:0;">
           <label for="te-due" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">截止日期</label>
-          <input id="te-due" type="date" style="width:100%; height:42px; padding:8px 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+          <input id="te-due" type="date" style="width:100%; max-width:170px; height:40px; padding:0 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-width:0;">
         </div>
         <div style="min-width:0;">
           <label for="te-category" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">分类</label>
-          <select id="te-category" style="width:100%; height:42px; padding:8px 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; background:#fff;">
+          <select id="te-category" style="width:100%; height:40px; padding:0 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; background:#fff;">
             <option value="待办">待办</option>
             <option value="击剑">击剑</option>
             <option value="学校">学校</option>
