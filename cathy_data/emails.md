@@ -6496,3 +6496,14 @@ DoorDash     -->
       @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
 
 ---
+
+## [学校] Lynch Bus Lines : Stopfinder App
+
+**发件人:** Stopfinder <no-reply@stopfinder.com>
+**日期:** 2026-09-08T16:15:10+00:00
+**摘要:** 通知家长关于Stopfinder应用的激活步骤，以便接收孩子巴士路线和位置信息，并提供联系方式。
+**待办:** 按照步骤激活Stopfinder账户以接收巴士信息
+
+Hello Jingqi Wu,  &nbsp;  Going forward, you will receive all messages and alerts through this application,  along with your child's new route details . You will also be able to see the  live location of your respective school bus along with your bus stop . If you have any problems, please contact at prameet@lynchbuslines.com or 604.439.0842.   We are only sending this email to ONE email address per family  (the first guardian we have on file). Therefore, in  order to give permission to another 
+
+---
