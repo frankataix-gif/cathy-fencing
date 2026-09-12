@@ -10307,3 +10307,18 @@ Hello Natalie,
 Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daughter to study Grade 7. If you are holding a visitor visa, you cannot apply using the In Canada option for application. However, we have successfully assisted clients in making the Study Permit application while they are still in Canada, and provided a
 
 ---
+
+## [营销] Discover more with DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-28T18:34:08+00:00
+**摘要:** DoorDash推广其预订服务，可能涉及新的功能或优惠。
+**待办:** 无
+
+DoorDash Email     -->
+   
+      @font-face{font-family:'DDNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/asset/0afbb6ac-0237-4a54-9b10-0e69fa4c659c/DD_Norms_Condensed_Black.woff2')format('woff2');}
+      @font-face{font-family:'DDNorms';font-style:normal;font-weight:700;src:url('https://assets.doordash.team/asset/19d5c702-7b41-463b-b663-c2c220097a86/DD_Norms_Bold.woff2')format('woff2');}
+      @font-face{font-family:'DDNorms';font-style:normal;font-
+
+---
