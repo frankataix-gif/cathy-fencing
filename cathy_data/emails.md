@@ -12022,3 +12022,27 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjQ5NzV9AA
 
 
 ---
+
+## [营销] Smart trades start before the chart
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-21T05:40:48+00:00
+**摘要:** 关于智能交易的建议或信息
+**待办:** 无
+
+96       
+   Going beyond the chart 
+   
+   
+   
+   
+   
+    /* Client resets for WebView-based clients (Samsung Email, Yandex Mail app) */
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+    a:hover        { 
+
+---
