@@ -752,7 +752,7 @@
 const DATA_UPDATED = '2026-09-12T18:03:47Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 
-let _autoSyncEnabled = false;
+let _autoSyncEnabled = true;
 let _isLoadingGitHubData = false;
 let _autoSyncTimer = null;
 
@@ -2043,7 +2043,9 @@ function circuitLabel(c) {
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
       if (Array.isArray(data.tasks)) {
-        tasks = data.tasks;
+        const remoteIds = new Set(data.tasks.map(t => t && t.id));
+        const localOnly = (tasks || []).filter(t => t && t.id && !remoteIds.has(t.id));
+        tasks = data.tasks.concat(localOnly);
         saveToLocal('cathy_tasks', JSON.stringify(tasks));
       }
       _isLoadingGitHubData = false;
@@ -4488,7 +4490,7 @@ function circuitLabel(c) {
   initTournamentNav();
   initPullToRefresh();
   loadReflections();
-  loadUserDataFromGitHub();
+  syncAllToGitHub(true).finally(() => loadUserDataFromGitHub());
   loadEmails();
   renderResults();
   renderDailyQuote();
