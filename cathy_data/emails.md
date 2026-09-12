@@ -7514,3 +7514,22 @@ I am currently gathering the required documents and information for the question
 
 
 ---
+
+## [其他] Re: Sales Terms- Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-05T22:29:42+02:00
+**摘要:** 邮件要求修改销售条款为多重代理安排，并需提供相关文件和信息。
+**待办:** 修改销售条款以反映多重代理安排并发送更新版本，收集并提供所需文件和信息。
+
+Dear Freya,
+
+Thank you for sending over the terms.
+
+Regarding the agency agreement, I am currently only able to accept a Multiple Agency agreement as I am already in the process of signing with other agents. Could you please revise the Sales T&Cs to reflect a multiple agency arrangement and send the updated version to me?
+
+I am currently gathering the required documents and information for the questionnaire and AML checks, and I will forward everything to you as soon as they are ready.
+
+
+
+---
