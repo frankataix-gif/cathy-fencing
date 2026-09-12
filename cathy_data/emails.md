@@ -8951,3 +8951,42 @@ Welcome to PayPal
 /* Resolves webkit padding 
 
 ---
+
+## [其他] Please confirm your email address
+
+**发件人:** Wise <noreply@account.wise.com>
+**日期:** 2026-09-02T20:57:38+00:00
+**摘要:** 需要确认邮箱地址以验证账户
+**待办:** 确认邮箱地址
+
+#outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: 
+
+---
