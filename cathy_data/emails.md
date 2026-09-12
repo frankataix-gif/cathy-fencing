@@ -8478,3 +8478,45 @@ Tab debit: you’ll see this charge only if you have a remaining Tab balance
 Phone credit charge: you’ll see this c
 
 ---
+
+## [营销] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-09-02T22:07:34+00:00
+**摘要:** 要求用户通过My TELUS验证身份以确保账户安全
+**待办:** 验证身份以确保账户安全
+
+96 
+  
+  
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {
+  width: 100%;
+  background-color: #eeeeee;
+}
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding issue. */
+table {
+  border-spacing: 0;
+}
+/* Res
+
+---
