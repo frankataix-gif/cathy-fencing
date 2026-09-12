@@ -5823,3 +5823,17 @@ Following our last email, we have now successfully opened a file for you. We kin
 Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully rec
 
 ---
+
+## [营销] Your guide to selling a home
+
+**发件人:** Foxtons <mail@info.foxtons.co.uk>
+**日期:** 2026-09-09T11:01:35+00:00
+**摘要:** Foxtons提供出售房屋的指南，帮助客户顺利完成销售流程，包括接受报价后的步骤。
+**待办:** 无
+
+Step-by-step guidance for a smooth sale    My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/lqtXJpG0psoMAkDj4t1Vcw~~/AAAHahA~/YNMsLlykrc08kKPEeKDlhPdDovjrWBS9bM3QYQFXNa5pZxpi4Wyx6tQEbuZR-hbALMqJi0BpXYc52D4D_MRXnWPly_3yvCiGCy4L5XklY7nXoc_fkzLii277tDJNFVmO3C7Ddv8bCF63ZdrKa9fO8w~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/yTsXXl3S8rpp_5MfVvdigA~~/AAAHahA~/mwlAF1ACiSJEHSW0LRp44bKobBQGZbfTg8zfGqi_GR822lVD5C4Y9aSdbpPD0Ns4qT9OAIZmPaMtx7hjTgahJmZaFIn44H795IrydPbnX0RXTRZcTlHcTJKNtM_G059_-1RGg6d26nmyJLO
+
+---
