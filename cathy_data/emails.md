@@ -9254,3 +9254,27 @@ value       Foxtons ( https://clicks.foxtons.co.uk/f/a/KQ0i_j6QsvnV7Mlha2-LNw~~/
 ( https://clicks.foxtons.co.uk/f/a/E5nBoiHVx3MuvARqLP74TQ~~/AAAHahA~/OgzAa1HTXhx02fyigt_cTUgsPudWLuw4KWfjpoiG8FmYMJKP7PnLlIvBzcCaYQXV-c7nMqhKx7_5F5vPykBnCdkiKTpDwn6JyU1vbT5OX
 
 ---
+
+## [其他] << Ref:5604355 >> TELUS Consumer Service Agreement
+
+**发件人:** CART CSA <CARTCSA@telus.com>
+**日期:** 2026-09-02T13:30:58+00:00
+**摘要:** 提醒用户通过My TELUS查看并下载消费者服务协议，提供操作步骤和联系方式。
+**待办:** 无
+
+Hello
+
+
+Please follow the steps below to view your Consumer Service Agreement for your TELUS device. It contains useful information related to your purchase, including the terms of your agreement and the services you've selected. Please read it carefully and save a copy for future reference.
+
+
+You may view and download your Customer Service Agreement from the last four years via My TELUS:
+
+
+1. Login at TELUS.com/mytelus
+
+2. Select the My Profile tab
+
+3. Select View Service Agreement
+
+---
