@@ -6814,3 +6814,26 @@ Please remember to confirm your email
           url('https://www.paypalobjects.com/digitalassets/c/system-triggered-e
 
 ---
+
+## [其他] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-07T20:07:04+02:00
+**摘要:** Natalie已完成在线签署，请求确认收到，并询问链接验证流程。
+**待办:** 确认收到签署文件并回复链接验证流程
+
+Hi Lauren,
+
+I have completed the online signing. Please check and confirm receipt.
+
+Regarding link verification, could you please let me know how the process works? I am currently in Los Angeles, USA. If this needs to be completed online in real time, we can schedule a time in advance.
+
+The best regards
+
+Natalie
+在 Sep 7, 2026, 13:36 +0200，Lauren D'Souza via Docusign <dse@eumail.docusign.net>，写道：
+> Lauren D'Souza sent you a document to review and sign.
+> Review Document
+> Lauren D'Sou
+
+---
