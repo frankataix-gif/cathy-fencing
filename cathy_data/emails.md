@@ -11266,3 +11266,27 @@ Looking forward to hearing from you.
 
 
 ---
+
+## [其他] Summer fades. Markets don't
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-08-25T09:02:16+00:00
+**摘要:** 主题为‘Summer fades. Markets don't’，包含HTML/CSS代码片段。
+**待办:** 无
+
+96       
+   Summer fades. Markets don't 
+   
+   
+   
+   
+   
+    /* Client resets for WebView-based clients (Samsung Email, Yandex Mail app) */
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+    a:hover     
+
+---
