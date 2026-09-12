@@ -10748,3 +10748,14 @@ Un cycle de facturation complet pourrait s’écouler avant que ce nouveau mode
     a:hover       
 
 ---
+
+## [营销] Ready to buy insurance quote #7181329 from Square One?
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-27T03:57:07+00:00
+**摘要:** 邮件是关于Square One保险公司的保险报价邀请，提醒用户完成购买流程。
+**待办:** 无
+
+@media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{
+
+---
