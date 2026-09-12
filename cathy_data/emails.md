@@ -5687,3 +5687,23 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [其他] Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:15:14+00:00
+**摘要:** 通知取消资金请求并提醒警惕房地产交易中的诈骗行为，确保资金安全。
+**待办:** 无
+
+Dear Jingqi Wu,
+
+Please kindly disregard the fund request email. As the purchaser is not confirmed. We won't request for fund.
+
+
+kind regards,
+
+Michael Cheng
+Paralegal
+Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an em
+
+---
