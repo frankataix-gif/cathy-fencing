@@ -12313,3 +12313,22 @@ Best regards, Frank
 On 19 Aug 2026 at 4:57 PM +0200, Michae
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-08-19T14:57:39+00:00
+**摘要:** 需要确认已签署两份协议书并上传，同时提交POA及TA6、TA7、TA10表格。
+**待办:** 确认已签署两份协议书并上传，同时提交POA及TA6、TA7、TA10表格。
+
+Dear Frank and Natalie,
+Thank you for your email. I can confirm that I have access to the folder, so please feel free to proceed with uploading the documents.
+Please note that we currently only have one signed engagement letter for Flat 120. Could you please ensure both engagement letters are signed and uploaded to the folder?
+Additionally, please also upload the POA (Proof of Address) document along with the following completed forms:
+
+  *
+TA6 Property Information Form
+  *
+TA7 Leasehold
+
+---
