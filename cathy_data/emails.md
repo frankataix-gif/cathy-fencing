@@ -7737,3 +7737,51 @@ Next steps:
   1.  Please provide al
 
 ---
+
+## [营销] Foxtons Sales Valuation - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya.Wan@foxtons.co.uk
+**日期:** 2026-09-04T18:58:23+01:00
+**摘要:** 感谢邀请估值，附上估值信，详细说明营销策略及最佳价格方案。
+**待办:** 无
+
+a.button:active,
+		a.button:visited {
+			color: #fff !important;
+			color: #fff;
+		}
+
+		@media only screen and (max-width:624px) {
+			.foxtons_email_holder {
+				width: 100%;
+				max-width: 624px;
+			}
+
+			.foxtons_email_holder_inner {
+				padding: 12px 0 !important;
+			}
+		}
+	 
+   
+     
+    
+	 
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+									 
+										 
+											 
+												     
+											 
+										 
+										 
+										 
+											 
+
+
+---
