@@ -5229,3 +5229,20 @@ p {
 .trip-m
 
 ---
+
+## [营销] Jingqi, Sports season is back 📣
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-09T15:42:12-07:00
+**摘要:** TELUS推广Optik TV体育赛季促销活动，提供体育、流媒体和直播电视服务，每月仅需65美元。
+**待办:** 无
+
+Get Optik TV—sports, streaming, and live TV, all for just $65/mo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cb&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQmcDE9JTQwMFllR1lXJTJCams3dkcxUm0lMkJYT1R3eDBTTGNuamtCU1V6aW14NGFKWVh4aU0lM0Q&s=0drfY4Pwoi7QlwDCjitiDCPGUHtUX-3QwwJQwHaCnQI web browser . 	
+ https://t.info.telus.com/r/?id=t2b21bf2,409f763e,2af521cc&e=Y2lkPXRlbERNMjMwMDgwNyZiaWQ9NDUyMjY5OTQ&s=hIglT55fd8NLA7jb-JDx_eEWEv_cxU537xoGMfXiON4 	
+	
+
+
+
+---
