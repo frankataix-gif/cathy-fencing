@@ -13883,3 +13883,26 @@ Natalie
 
 
 ---
+
+## [待办]  We’ve paused some of your account features
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T12:51:41-07:00
+**摘要:** PayPal通知账户部分功能被暂停，需用户登录账户查看详细信息。
+**待办:** 需登录PayPal账户查看功能暂停的具体原因和解决方法
+
+We’ve paused some of your account features 
+     
+      /**
+ * SupremeLL Fonts
+ */
+      /* Body text - font-weight:450 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 450;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-trigge
+
+---
