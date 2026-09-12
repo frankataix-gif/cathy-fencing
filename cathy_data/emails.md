@@ -7824,3 +7824,18 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Your DoorDash Streak starts Saturday
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-04T13:55:25+00:00
+**摘要:** DoorDash通知用户的连续订单 streak 将于周六开始。
+**待办:** 无
+
+DoorDash     -->
+   
+			@font-face{font-family:'DDNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/asset/0afbb6ac-0237-4a54-9b10-0e69fa4c659c/DD_Norms_Condensed_Black.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:700;src:url('https://assets.doordash.team/asset/19d5c702-7b41-463b-b663-c2c220097a86/DD_Norms_Bold.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:600;src:
+
+---
