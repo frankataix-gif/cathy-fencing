@@ -8346,3 +8346,22 @@ Your Favourite Numbers have been updated
 Updates have been made to your favourite numbers, which allows you to make unlimited calls and texts to your favourite numbers. To view or change your favourite numbe
 
 ---
+
+## [其他] TELUS Easy Roam has been successfully removed
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T16:48:10-07:00
+**摘要:** TELUS Easy Roam服务已成功移除，提醒用户注意费用激活条件及服务管理方式。
+**待办:** 无
+
+Trouble viewing this email? View in web browser.
+
+You've made some changes to your TELUS Mobility account
+Hi ,
+You have just added Easy Roam to this mobile phone: . You are now covered for your next trip and all future trips to the US and 190+ international destinations.
+ 
+Here are a few things to keep in mind:
+The Easy Roam fee will only activate when you use data, make or answer a call or send a text while in the US or one of the 190+ international destinations that are covered.
+To ens
+
+---
