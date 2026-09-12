@@ -8562,3 +8562,29 @@ table {
 /* Res
 
 ---
+
+## [其他] Re: Reset your My TELUS password
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-02T14:56:05-07:00
+**摘要:** 这封邮件是关于重置My TELUS账户密码的提醒，提供了一个重置链接，并提示如果未请求重置需联系TELUS。
+**待办:** 无
+
+I’m
+
+My TELUS <donotreply@telus.com>于2026年9月2日 周三14:55写道：
+
+> [image: TELUS] <http://www.telus.com> 
+>
+> Hi TELUS, 
+> Let's get you back in your My TELUS account. 
+>
+> Here's the email/username you’ll need to log in: 
+> nataliewu100@gmail.com 
+>
+> Reset your password here: (optional) 
+>
+> [image: Reset my password] 
+> <https://identity.telus.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=telus&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=8f184f40-
+
+---
