@@ -9044,3 +9044,26 @@ DoorDash     -->
       @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
 
 ---
+
+## [其他]  We’ve paused some of your account features
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T12:51:41-07:00
+**摘要:** PayPal通知账户部分功能被暂停，邮件中包含CSS字体样式代码片段。
+**待办:** 无
+
+We’ve paused some of your account features 
+     
+      /**
+ * SupremeLL Fonts
+ */
+      /* Body text - font-weight:450 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 450;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-trigge
+
+---
