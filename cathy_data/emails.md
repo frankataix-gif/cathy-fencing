@@ -13386,3 +13386,25 @@ Regarding my terms of cooperation:
 I would like to set up a Wha
 
 ---
+
+## [其他] RE: FW: Benhams - Flat 120, 1 Emery Way, London, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-14T16:05:04+02:00
+**摘要:** 邮件涉及出售房产的计划，包括设定市场价、选择多重代理、3%佣金，并希望建立WhatsApp群组以便中文沟通，确保妻子知情。
+**待办:** 无
+
+Dear Maciej,
+
+Thank you for your email and the valuation provided.
+
+I am interested in selling both of my properties and intend to set a competitive market price for each. I am currently waiting for a valuation from another agency. Once I have reviewed all assessments and we have finalized the agency agreement, I will provide a unified asking price to my appointed agents.
+
+Regarding my terms of cooperation:
+
+• Agency Type: Multiple agency
+• Commission: 3%
+
+Additionally, I would like t
+
+---
