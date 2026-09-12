@@ -11201,3 +11201,23 @@ Phone 604 317 4060
 [cid:ef21be04-018b-442f-
 
 ---
+
+## [其他] Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-25T13:45:36-04:00
+**摘要:** Natalie计划更换电动车并询问申请停车库充电站的流程、时间及所需信息和费用。
+**待办:** 无
+
+Hi,
+
+I am considering switching to an electric vehicle and would like to apply for an EV charging station for my parking space.
+
+Could you please let me know the application process and approximately how long it would take for the charging station to be approved and installed? Please also let me know if you need any vehicle information or if there are any related fees.
+
+I would appreciate a reply as soon as possible.
+
+Thank you,
+Natalie
+
+---
