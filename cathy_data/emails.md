@@ -8106,3 +8106,15 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [营销] Step into the creative universe of Colin Meredith and Hoka
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T13:12:15+00:00
+**摘要:** 推广Colin Meredith与Hoka的合作系列，鼓励立即购买并支持本地商店。
+**待办:** 无
+
+My City, My People   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NG78c20knzW-2FHy4b91I5RIItI4CWOMo-2FLsxdnnE3agdA-3D-3DSuAB_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFgbqXnU-2BCooZUn-2BeoviB0k1oKRDu4fxP16RteHVLsoVf-2FJXLjMoSetVuOnIq0NFlRbey-2FPpaFCugkeWwjHga9CAVngs0NpJTaxPig-2BUVu70puyfKLjekQdrb8rHxBkyEp-2Bxpn7wCcwRcz9OS4EnjmtpLo2hwTgbThPRlYb9qM5YpX6h8zKLgobpLRavt1
+
+---
