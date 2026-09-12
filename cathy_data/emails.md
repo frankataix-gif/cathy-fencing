@@ -12652,3 +12652,22 @@ Natalie
       
 
 ---
+
+## [营销] Jingqi, seriously—one bill for streaming is better. 🍿
+
+**发件人:** Koodo <koodo@email.koodomobile.com>
+**日期:** 2026-08-18T09:17:12-07:00
+**摘要:** Koodo推出新互联网套餐，提供高达100Mbps下载速度和无限流量，搭配Wi-Fi 6路由器，价格实惠且无隐藏费用。
+**待办:** 无
+
+Introducing happier internet from Koodo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec48&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTEmcDE9JTQwVmUlMkZFakQyWXNBek5uRzhQaEJoMFlBNkZVcmRQRjhpVnN1ek1uRkZ1elNBJTNE&s=HVI2wMSa974sL3laMgQxfCU_W2UJ2n4kby6QXqh-MbU web browser . 	
+
+ https://t.info.telus.com/r/?id=tffd25acd,4091b101,2ae8ec49&e=Y2lkPXRlbERNMjI3MDQ0NCZiaWQ9LTI5OTE0MTE&s=4_HuugdldOC9yMWHdOD4419gY4p5885U4wHLwM7qafM 	
+	
+	
+
+ https://t.info.telus
+
+---
