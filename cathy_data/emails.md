@@ -4184,3 +4184,18 @@ My Rightmove
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] Saturday = Streak day
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-11T13:56:29+00:00
+**摘要:** 这封邮件包含DoorDash网站使用的字体样式表代码，可能与品牌视觉设计相关。
+**待办:** 无
+
+DoorDash     -->
+   
+			@font-face{font-family:'DDNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/asset/0afbb6ac-0237-4a54-9b10-0e69fa4c659c/DD_Norms_Condensed_Black.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:700;src:url('https://assets.doordash.team/asset/19d5c702-7b41-463b-b663-c2c220097a86/DD_Norms_Bold.woff2')format('woff2');}
+			@font-face{font-family:'DDNorms';font-style:normal;font-weight:600;src:
+
+---
