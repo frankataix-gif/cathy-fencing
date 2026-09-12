@@ -10964,3 +10964,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dbcru_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHqoGsyjOGb38N-2FIHxs-2FCDgHnpMK2UL9HnclIHxPgC00KUXBkspEduxjcqYiTcLY9TpHRCnLLEtwdVPM2w7i6oSl3VuX2yjcTXBG27qWspVhBftQixv8-2FZSZU2ohBVGYy5Bqn4oK1F
 
 ---
+
+## [其他] New Payment Method Added to Your Tesla Account
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T18:40:54+00:00
+**摘要:** Tesla通知用户有一个新的VISA信用卡支付方式添加到账户，但不会替换默认支付方式。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dh4KY_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZqeoUJyXqgtOLgeuLngwJbPYSVk4Aj3Wdug1WVmzdvVOBGygkJGIiKiSh0nJ-2FM-2F8c1vF8fbJJw77GeSvEAdBiy6JwkIwOz2Un5K8Nfa42p7nbq2gI6Rk
+
+---
