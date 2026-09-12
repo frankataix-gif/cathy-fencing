@@ -12415,3 +12415,18 @@ Frank and natalie
 在 Aug 14, 2026, 16:07 +0200，Michael Cheng <Micha
 
 ---
+
+## [营销] Restock on essentials with 40% off
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-08-19T08:21:08+00:00
+**摘要:** DoorDash提供40%折扣，鼓励客户补货必需品。
+**待办:** 无
+
+DoorDash     -->
+   
+      @font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
+
+---
