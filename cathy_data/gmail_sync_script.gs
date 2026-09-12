@@ -17,7 +17,10 @@ const CONFIG = {
   SYNCED_LABEL: 'Cathy/Synced',
 
   // 每封邮件正文最大长度，避免邮件过长导致 Worker 超时
-  MAX_BODY_LENGTH: 50000
+  MAX_BODY_LENGTH: 50000,
+
+  // GitHub 上已保存的邮件文件，用于查重（防止重复导入）
+  EMAILS_MD_URL: 'https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/emails.md'
 };
 
 /**
@@ -39,21 +42,33 @@ function syncCathyEmails() {
     return;
   }
 
+  // 先取 GitHub 上已有的邮件，防止重复导入
+  const existingKeys = getExistingEmailKeys();
+
   let sent = 0;
   for (const thread of threads) {
     const messages = thread.getMessages();
+    let threadSent = false;
+    let hasNew = false;
     for (const message of messages) {
-      // 如果该邮件已经被标记，跳过
-      const labels = message.getThread().getLabels().map(l => l.getName());
-      if (labels.includes(CONFIG.SYNCED_LABEL)) continue;
+      const subject = message.getSubject() || '';
+      const from = message.getFrom() || '';
+      const date = new Date(message.getDate()).toISOString();
+      const key = `${subject}|${from}|${date}`;
+      // GitHub 上已经有这封邮件，跳过（防止重复）
+      if (existingKeys.has(key)) {
+        console.log(`已存在于 emails.md，跳过：${subject}`);
+        continue;
+      }
+      hasNew = true;
 
       const payload = {
         action: 'email',
         email: {
-          subject: message.getSubject() || '',
-          from: message.getFrom() || '',
+          subject: subject,
+          from: from,
           to: message.getTo() || '',
-          date: message.getDate().toISOString(),
+          date: date,
           body: (message.getPlainBody() || '').slice(0, CONFIG.MAX_BODY_LENGTH)
         }
       };
@@ -70,22 +85,74 @@ function syncCathyEmails() {
         });
 
         const status = response.getResponseCode();
-        console.log(`已发送: ${payload.email.subject} -> 状态 ${status}`);
+        console.log(`已发送: ${subject} -> 状态 ${status}`);
 
         if (status >= 200 && status < 300) {
-          // 同步成功后，给邮件加标签
-          syncedLabel.addToThread(message.getThread());
+          threadSent = true;
           sent++;
+          existingKeys.add(key);
         } else {
-          console.error(`同步失败: ${payload.email.subject}, 响应: ${response.getContentText()}`);
+          console.error(`同步失败: ${subject}, 响应: ${response.getContentText()}`);
         }
       } catch (err) {
-        console.error(`同步异常: ${payload.email.subject}, 错误: ${err.toString()}`);
+        console.error(`同步异常: ${subject}, 错误: ${err.toString()}`);
       }
+    }
+    // 整个线程处理完后才打标签：有新邮件发送成功，或全部已在 emails.md 中
+    if (threadSent || !hasNew) {
+      syncedLabel.addToThread(thread);
     }
   }
 
   console.log(`本次同步完成，共发送 ${sent} 封邮件`);
+}
+
+/**
+ * 从 GitHub 读取 emails.md，提取已存在的「主题|发件人|日期」键，用于查重。
+ */
+function getExistingEmailKeys() {
+  const keys = new Set();
+  try {
+    const response = UrlFetchApp.fetch(CONFIG.EMAILS_MD_URL, {
+      headers: { 'User-Agent': 'Cathy-Gmail-Sync' },
+      muteHttpExceptions: true
+    });
+    if (response.getResponseCode() !== 200) return keys;
+    const text = response.getContentText();
+    const regex = /##\s*\[[^\]]+\]\s*([\s\S]*?)\n[\s\S]*?\*\*发件人:\*\*\s*(.*?)\n\*\*日期:\*\*\s*(.*?)\n/g;
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      const subject = match[1].trim();
+      const from = match[2].trim();
+      const date = match[3].trim();
+      let normDate = date;
+      try { normDate = new Date(date).toISOString(); } catch(e) {}
+      keys.add(`${subject}|${from}|${normDate}`);
+    }
+  } catch (e) {
+    console.error('读取 emails.md 失败：' + e.toString());
+  }
+  return keys;
+}
+
+/**
+ * 手动把最近 N 天的邮件全部标记为「已同步」。
+ * 用法：在 Apps Script 里运行 markRecentSynced(30)，把最近 30 天邮件打上 Cathy/Synced 标签。
+ * 适用于：本地批量导入后，防止 Apps Script 再次重复同步。
+ */
+function markRecentSynced(days) {
+  const d = days || 7;
+  let syncedLabel = GmailApp.getUserLabelByName(CONFIG.SYNCED_LABEL);
+  if (!syncedLabel) {
+    syncedLabel = GmailApp.createLabel(CONFIG.SYNCED_LABEL);
+  }
+  const threads = GmailApp.search(`newer_than:${d}d`, 0, 500);
+  let count = 0;
+  for (const thread of threads) {
+    syncedLabel.addToThread(thread);
+    count++;
+  }
+  console.log(`已标记 ${count} 个线程为 ${CONFIG.SYNCED_LABEL}`);
 }
 
 /**

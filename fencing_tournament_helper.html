@@ -2170,11 +2170,26 @@ function circuitLabel(c) {
 
   async function loadEmails() {
     try {
-      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/emails.md?_=' + Date.now(), { cache: 'no-cache' });
+      const url = 'https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/emails.md';
+      const headers = {};
+      const savedEtag = localStorage.getItem('cathy_emails_etag');
+      if (savedEtag) headers['If-None-Match'] = savedEtag;
+      const res = await fetch(url, { cache: 'no-cache', headers });
       const el = document.getElementById('emails-list');
-      if (el) { if (!res.ok) { el.innerHTML = '暂无邮件'; return; } }
-      if (!res.ok) return;
-      const text = await res.text();
+      let text = '';
+      if (res.status === 304) {
+        text = localStorage.getItem('cathy_emails_text') || '';
+      } else if (res.ok) {
+        text = await res.text();
+        try {
+          const etag = res.headers.get('ETag');
+          if (etag) localStorage.setItem('cathy_emails_etag', etag);
+          localStorage.setItem('cathy_emails_text', text);
+        } catch(e) {}
+      } else {
+        if (el) el.innerHTML = '暂无邮件';
+        return;
+      }
       const parts = text.split(/\n## /).filter(Boolean);
       // 只显示带分类标签的邮件（AI 自动归档格式：[分类] 标题）
       const emailParts = parts.filter(p => p.split('\n')[0].trim().startsWith('['));
@@ -2300,7 +2315,7 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
-  const EMAIL_AI_VERSION = '2';
+  const EMAIL_AI_VERSION = '3';
   function getEmailAIState() {
     try {
       const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
@@ -2350,17 +2365,19 @@ function circuitLabel(c) {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today;
     });
-    let analyzed = state.analyzedCount || 0;
+    let analyzed = force ? 0 : (state.analyzedCount || 0);
     const actionsCount = state.summary && Array.isArray(state.summary.actions) ? state.summary.actions.length : 0;
-    const isUpToDate = analyzed >= windowEmails.length && actionsCount >= windowEmails.length;
-    if ((state.summary && isUpToDate && !force) || windowEmails.length === 0) {
+    // 如果缓存的 summary 少了邮件，从头重新分析
+    if (actionsCount < windowEmails.length) analyzed = 0;
+    const isUpToDate = !force && analyzed >= windowEmails.length && actionsCount >= windowEmails.length;
+    if ((state.summary && isUpToDate) || windowEmails.length === 0) {
       setEmailAIState(state);
       if (typeof renderEmailList === 'function') renderEmailList();
       return;
     }
     window._emailAIAnalyzing = true;
     if (typeof renderEmailList === 'function') renderEmailList();
-    let currentSummary = force ? null : (state.summary || null);
+    let currentSummary = (force || analyzed === 0) ? null : (state.summary || null);
     try {
       while (analyzed < windowEmails.length) {
         const chunk = windowEmails.slice(analyzed, analyzed + 30);
@@ -2377,7 +2394,7 @@ function circuitLabel(c) {
     } catch(e) {}
     window._emailAIAnalyzing = false;
     state.summary = currentSummary;
-    state.analyzedCount = windowEmails.length;
+    state.analyzedCount = analyzed;
     setEmailAIState(state);
     if (typeof renderEmailList === 'function') renderEmailList();
   }
