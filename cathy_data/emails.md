@@ -10593,3 +10593,15 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [其他] Your recent Tesla order cancellation
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-27T23:16:18+00:00
+**摘要:** Tesla通知用户其订单已取消，并请求反馈原因。
+**待办:** 回复邮件说明取消订单的原因
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DlqKy_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpGIidZADQA9cB2eDEgZUOZLS8ufdIwh-2Fvh7oV0vPm-2By4F0zoQ2tvCIwscyUCgGaN2XiHnuwGlVh7WVCUGras-2FCvsKqOcs-2F2WZxN0-2FMF9zAKtmTVZa7HFW-2BaBgw-2BfmaMuKA6y-2Fr6JTgIe5JNk2
+
+---
