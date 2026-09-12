@@ -650,19 +650,26 @@
   </div>
 
   <!-- 待办编辑器 -->
-  <div id="task-editor" style="display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:rgba(0,0,0,0.45); z-index:200; overflow-y:auto; padding:20px;">
-    <div style="max-width:560px; margin:0 auto; background:#fff; border-radius:14px; padding:20px; box-shadow:0 8px 30px rgba(0,0,0,0.12);">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
-        <h3 id="task-editor-title" style="margin:0; font-size:1.1rem;">添加待办</h3>
-        <button class="btn secondary" id="task-editor-close" style="padding:4px 12px;">关闭</button>
+  <div id="task-editor" style="display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:rgba(0,0,0,0.5); z-index:200; overflow-y:auto; padding:20px 16px;">
+    <div style="max-width:520px; margin:0 auto; background:#fff; border-radius:16px; padding:24px; box-shadow:0 10px 40px rgba(0,0,0,0.16);">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+        <h3 id="task-editor-title" style="margin:0; font-size:1.15rem; font-weight:700;">添加待办</h3>
+        <button class="btn secondary" id="task-editor-close" style="padding:6px 14px; font-size:0.85rem;">关闭</button>
       </div>
       <input type="hidden" id="task-edit-id">
-      <div id="te-source" style="display:none; font-size:0.8rem; color:#6b7280; margin-bottom:12px; padding:8px 10px; background:#f8fafc; border-radius:8px;"></div>
-      <div class="form-row"><label for="te-title">标题</label><input id="te-title" type="text" placeholder="如：上传疫苗记录" style="font-size:1rem;"></div>
-      <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:12px;">
-        <div style="min-width:0;"><label for="te-due">截止日期</label><input id="te-due" type="date" style="width:100%; height:40px; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;"></div>
-        <div style="min-width:0;"><label for="te-category">分类</label>
-          <select id="te-category" style="width:100%; height:40px; padding:8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.9rem; box-sizing:border-box;">
+      <div id="te-source" style="display:none; font-size:0.8rem; color:#6b7280; margin-bottom:16px; padding:10px 12px; background:#f8fafc; border-radius:10px; white-space:pre-wrap; word-break:break-word;"></div>
+      <div class="form-row" style="margin-bottom:16px;">
+        <label for="te-title" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">标题</label>
+        <input id="te-title" type="text" placeholder="如：上传疫苗记录" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+      </div>
+      <div class="form-row" style="display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:16px;">
+        <div style="min-width:0;">
+          <label for="te-due" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">截止日期</label>
+          <input id="te-due" type="date" style="width:100%; height:42px; padding:8px 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+        <div style="min-width:0;">
+          <label for="te-category" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">分类</label>
+          <select id="te-category" style="width:100%; height:42px; padding:8px 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; background:#fff;">
             <option value="待办">待办</option>
             <option value="击剑">击剑</option>
             <option value="学校">学校</option>
@@ -671,12 +678,15 @@
           </select>
         </div>
       </div>
-      <div class="form-row"><label for="te-notes">备注</label><textarea id="te-notes" rows="5" placeholder="补充说明" style="width:100%; box-sizing:border-box; min-height:120px; resize:vertical;"></textarea></div>
-      <div style="display:flex; gap:8px; justify-content:space-between; align-items:center; margin-top:20px; margin-bottom:8px;">
-        <button class="btn danger" id="task-editor-delete" style="display:none;">删除</button>
-        <div style="display:flex; gap:8px;">
-          <button class="btn secondary" id="task-editor-cancel">取消</button>
-          <button class="btn cathy" id="task-editor-save">保存</button>
+      <div class="form-row" style="margin-bottom:20px;">
+        <label for="te-notes" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">备注</label>
+        <textarea id="te-notes" placeholder="补充说明" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-height:120px; resize:vertical; overflow-y:hidden; line-height:1.5;"></textarea>
+      </div>
+      <div style="display:flex; gap:10px; justify-content:space-between; align-items:center; margin-top:24px;">
+        <button class="btn danger" id="task-editor-delete" style="display:none; padding:8px 16px;">删除</button>
+        <div style="display:flex; gap:10px;">
+          <button class="btn secondary" id="task-editor-cancel" style="padding:8px 16px;">取消</button>
+          <button class="btn cathy" id="task-editor-save" style="padding:8px 20px;">保存</button>
         </div>
       </div>
     </div>
@@ -4711,7 +4721,6 @@ function circuitLabel(c) {
     document.getElementById('te-category').value = isEdit ? (task.category || '待办') : '待办';
     const notesEl = document.getElementById('te-notes');
     notesEl.value = isEdit ? (task.notes || '') : '';
-    autoResizeTextarea(notesEl);
     const srcEl = document.getElementById('te-source');
     if (srcEl) {
       if (isEdit && task.sourceType === 'email' && task.sourceSubject) {
@@ -4724,6 +4733,7 @@ function circuitLabel(c) {
     document.getElementById('task-editor-title').textContent = isEdit ? '编辑待办' : '添加待办';
     document.getElementById('task-editor-delete').style.display = isEdit ? 'inline-block' : 'none';
     document.getElementById('task-editor').style.display = 'block';
+    requestAnimationFrame(() => autoResizeTextarea(document.getElementById('te-notes')));
   }
 
   function closeTaskEditor() { document.getElementById('task-editor').style.display = 'none'; }
