@@ -14128,3 +14128,21 @@ From Clarins, Estée Lauder, and more.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
 
 ---
+
+## [营销] Pre-order the new iPhone 18 Pro now.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-12T16:55:53.000Z
+**摘要:** Apple推送新iPhone 18 Pro的预购信息，包含购买链接和产品特性介绍。
+**待办:** 无
+
+Apple
+
+iPhone 18 Pro
+
+Pro further.
+
+Pre-order, iPhone{%nbsp%}18{%nbsp%}Pro Pre-order
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9AID4rTwyQeh4tXCh9K2yvQbMpKiZFO91zJL9HEJsf4hRMSVm5MjdRUtgMYTdarFZ6gNzPO%2FmhcrhC3diZq0fUD%2BMBu1DsTgf%2FJN4olaWmLCLoWb%2BLrsFkwG6%2BVQw5uYc%2BNcK12oW0%2B3oPj6B3KlPtdoXsb3UBJVOuv7%2F0bLPtUpAxt%2F2c3j0pUlreQ3AVG9SqznhN762sMXzrGJCcrhKtWdUrwapOKXez%2Fb7UztCnCTRRi4LYYM%2BnMTSOBduAi4T90TMb2ACsQ%2BaIGf%2FLvsf5jY6MeREaxGFzJIldxLsuYx4xS303MAy7%2
+
+---
