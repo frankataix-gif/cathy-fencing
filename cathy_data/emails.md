@@ -6534,3 +6534,16 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [营销] Fall, the UGG Way
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-08T12:48:46+00:00
+**摘要:** UGG Evelina款鞋子已重新上架，但库存有限。邮件介绍了品牌历史并附有购买链接。
+**待办:** 无
+
+RESTOCKED! The UGG Evelina is back—but not for long 🤎   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqln0iK36aAcNhLkYoCpLOnw-3D-3DMSvq_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOVKB0tWCZUqWAwjEqSkJSoAlcG6KKLn2GH-2Bw3BaYElGr63gWMAO4aKEySV8XXtUyOWKxtnlL70w5W7zvYPV6pQkmAkf-2F5MbVNS6vPr-2FsnOWTQHRGCJ1hW9GVXRR89dHeNXEpsuIEvsEP8EmWX95sQS2ZqCYHkTv
+
+---
