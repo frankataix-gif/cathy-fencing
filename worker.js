@@ -365,16 +365,16 @@ function buildEmailSummaryPrompt(body) {
   const emailLines = emails.slice(0, 30).map(e =>
     `- 分类：${e.category || '其他'}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 120)}，待办：${(e.todo || '无').slice(0, 80)}`
   ).join('\n');
-  const previousText = previous ? `之前已有过去7天的总结，现在新增 ${emails.length} 封邮件，请合并更新总结。
+  const previousText = previous ? `之前已有 ${date} 当天的总结，现在新增 ${emails.length} 封邮件，请合并更新总结。
 
-之前总结（${date} 起往前7天）：
+之前总结（${date}）：
 - 总邮件数：${previous.total || 0}
 - 分类统计：${JSON.stringify(previous.categories || {})}
 - 之前需要做的事：${(previous.actions || []).map(a => a.title).join('；') || '无'}
 - 之前优先级建议：${previous.priority || ''}
 - 之前一句话总结：${previous.summary || ''}
 
-新增邮件：` : `请基于以下 ${date} 起往前7天（含）的邮件，整理一份总结。
+新增邮件：` : `请基于以下 ${date} 一天的邮件，整理一份总结。
 
 邮件列表：`;
   return `你是 Cathy 家庭的邮件助理。${previousText}

@@ -2300,7 +2300,7 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
-  const EMAIL_AI_VERSION = '3';
+  const EMAIL_AI_VERSION = '4';
   function getEmailAIState() {
     try {
       const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
@@ -2369,46 +2369,57 @@ function circuitLabel(c) {
   async function updateEmailAISummary(force) {
     if (!allEmails || allEmails.length === 0) return;
     const today = getTodayInVancouver();
-    let state = getEmailAIState();
-    if (state.date !== today) {
-      state = { date: today, summary: null, analyzedCount: 0 };
-    }
+    const state = getEmailAIState();
+    state.days = state.days || {};
     const cutoff = getWindowCutoffDate(today);
     const windowEmails = allEmails.filter(e => {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today;
     });
-    let analyzed = force ? 0 : (state.analyzedCount || 0);
-    const actionsCount = state.summary && Array.isArray(state.summary.actions) ? state.summary.actions.length : 0;
-    // 如果缓存的 summary 少了邮件，从头重新分析
-    if (actionsCount < windowEmails.length) analyzed = 0;
-    const isUpToDate = !force && analyzed >= windowEmails.length && actionsCount >= windowEmails.length;
-    if ((state.summary && isUpToDate) || windowEmails.length === 0) {
-      setEmailAIState(state);
+    const dayMap = {};
+    windowEmails.forEach(e => {
+      const d = emailDateLocal(e.date);
+      if (!dayMap[d]) dayMap[d] = [];
+      dayMap[d].push(e);
+    });
+    let changed = false;
+    for (const d of Object.keys(dayMap).sort()) {
+      const dayEmails = dayMap[d];
+      const dayState = state.days[d];
+      const isToday = d === today;
+      const hasSummary = dayState && dayState.summary;
+      const actionsCount = dayState && dayState.summary && Array.isArray(dayState.summary.actions) ? dayState.summary.actions.length : 0;
+      const needAnalyze = isToday
+        ? (force || !hasSummary || (dayState.analyzedCount || 0) < dayEmails.length || actionsCount < dayEmails.length)
+        : !hasSummary;
+      if (!needAnalyze) continue;
+      window._emailAIAnalyzing = true;
       if (typeof renderEmailList === 'function') renderEmailList();
-      return;
-    }
-    window._emailAIAnalyzing = true;
-    if (typeof renderEmailList === 'function') renderEmailList();
-    let currentSummary = (force || analyzed === 0) ? null : (state.summary || null);
-    try {
-      while (analyzed < windowEmails.length) {
-        const chunk = windowEmails.slice(analyzed, analyzed + 30);
-        const payload = { action: 'email_summary', date: today, previousSummary: currentSummary, newEmails: chunk };
-        const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
-        const data = await res.json();
-        if (data && data.actions) {
-          currentSummary = { ...data, date: today, total: windowEmails.length, categories: countEmailsByCategory(windowEmails) };
-          analyzed += chunk.length;
-        } else {
-          break;
+      let currentSummary = null;
+      let analyzed = 0;
+      try {
+        while (analyzed < dayEmails.length) {
+          const chunk = dayEmails.slice(analyzed, analyzed + 30);
+          const payload = { action: 'email_summary', date: d, previousSummary: currentSummary, newEmails: chunk };
+          const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+          const data = await res.json();
+          if (data && data.actions) {
+            currentSummary = { ...data, date: d, total: dayEmails.length, categories: countEmailsByCategory(dayEmails) };
+            analyzed += chunk.length;
+          } else {
+            break;
+          }
         }
+      } catch(e) {}
+      if (currentSummary) {
+        state.days[d] = { summary: currentSummary, analyzedCount: dayEmails.length, analyzedAt: new Date().toISOString() };
+        changed = true;
+      } else {
+        state.days[d] = { summary: null, analyzedCount: analyzed, analyzedAt: new Date().toISOString() };
       }
-    } catch(e) {}
+    }
     window._emailAIAnalyzing = false;
-    state.summary = currentSummary;
-    state.analyzedCount = analyzed;
-    setEmailAIState(state);
+    if (changed) setEmailAIState(state);
     if (typeof renderEmailList === 'function') renderEmailList();
   }
 
@@ -4733,6 +4744,12 @@ function circuitLabel(c) {
     try { return new Date(dateStr).toLocaleDateString('en-CA', { timeZone: HOME_TZ }); } catch(e) { return dateStr.slice(0, 10); }
   }
 
+  function addDaysToDateStr(dateStr, n) {
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const dt = new Date(Date.UTC(y, m - 1, d + n));
+    return dt.toISOString().slice(0, 10);
+  }
+
   function getWindowCutoffDate(summaryDateStr) {
     const [y, m, d] = summaryDateStr.split('-').map(Number);
     const dt = new Date(Date.UTC(y, m - 1, d, 23, 0, 0));
@@ -4742,38 +4759,41 @@ function circuitLabel(c) {
 
   function buildEmailAISummaryHTML() {
     const state = getEmailAIState();
-    const summary = state.summary;
-    if (!summary || !summary.actions) {
-      if (window._emailAIAnalyzing) return '<div style="padding:20px; text-align:center; color:#6b7280;">AI 正在分析邮件…</div>';
-      return '<div class="empty-state">暂无近7天邮件分析</div>';
-    }
-    const cats = summary.categories || {};
-    const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
-      `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
-    ).join('');
-    let html = '';
-    html += `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${summary.date ? escapeHtml(summary.date) : ''} · 过去7天 · 共 ${summary.total || 0} 封</div>`;
-    html += `<div style="margin-bottom:10px;">${catTags}</div>`;
-    html += `<div style="font-weight:600; margin-bottom:6px;">过去7天重点</div>`;
-    html += `<div style="margin-bottom:10px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>`;
-    if (summary.priority) {
-      html += `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>`;
-    }
-    if (summary.actions && summary.actions.length) {
-      html += `<div style="font-weight:600; margin:12px 0 6px;">邮件清单（逐封）</div>`;
-      html += summary.actions.map((a, i) =>
-        `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
-          <span style="flex:1; min-width:0;">
-            <span style="background:${taskCategoryColor[a.category] || '#6b7280'}; color:#fff; font-size:10px; padding:1px 6px; border-radius:8px; margin-right:6px;">${escapeHtml(a.category || '待办')}</span>
-            <span style="font-weight:500;">${escapeHtml(a.title || '')}</span>
-            <span style="color:#6b7280; font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span>
-          </span>
-          <button class="btn secondary add-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button>
-        </div>`
+    const days = state.days || {};
+    const today = getTodayInVancouver();
+    const cutoff = getWindowCutoffDate(today);
+    const dates = [];
+    for (let i = 0; i < 7; i++) dates.push(addDaysToDateStr(cutoff, i));
+    dates.reverse();
+    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">过去7天 · 每日独立分析</div>`;
+    for (const d of dates) {
+      const dayState = days[d];
+      const summary = dayState && dayState.summary;
+      const dayEmails = allEmails.filter(e => emailDateLocal(e.date) === d);
+      if (!summary) {
+        if (window._emailAIAnalyzing && d === today) {
+          html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px;">${d} · AI 正在分析…</div>`;
+        } else if (dayEmails.length === 0) {
+          html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px; color:#6b7280;">${d} · 无邮件</div>`;
+        } else {
+          html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px; color:#6b7280;">${d} · 未分析（${dayEmails.length} 封）</div>`;
+        }
+        continue;
+      }
+      const cats = summary.categories || {};
+      const catTags = Object.entries(cats).filter(([_, n]) => n > 0).map(([k, n]) =>
+        `<span style="background:${taskCategoryColor[k] || '#6b7280'};color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-right:6px;">${escapeHtml(k)} ${n}</span>`
       ).join('');
+      html += `<div style="margin-bottom:14px; padding:12px; background:#fff; border:1px solid #e5e7eb; border-radius:10px;">
+        <div style="font-weight:600; margin-bottom:6px;">${d} · 共 ${summary.total || dayEmails.length} 封</div>
+        <div style="margin-bottom:8px;">${catTags}</div>
+        <div style="margin-bottom:8px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>
+        ${summary.priority ? `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>` : ''}
+        ${summary.actions && summary.actions.length ? `<div style="font-weight:600; margin:10px 0 6px;">邮件清单（逐封）</div>` + summary.actions.map((a, i) => `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(a.title || '')}</span><span style="color:#6b7280;font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span></span><button class="btn secondary add-ai-task" data-ai-task-date="${d}" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button></div>`).join('') : ''}
+      </div>`;
     }
     html += `<div style="margin-top:12px;">
-      <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析</button>
+      <button id="email-ai-refresh" class="btn secondary" style="padding:4px 12px; font-size:0.8rem;">刷新分析（仅今天）</button>
     </div>`;
     return html;
   }
@@ -4836,8 +4856,10 @@ function circuitLabel(c) {
       const addBtn = e.target.closest('.add-ai-task');
       if (addBtn) {
         const idx = parseInt(addBtn.dataset.aiTaskIndex || '-1');
+        const date = addBtn.dataset.aiTaskDate || '';
         const state = getEmailAIState();
-        const action = state.summary && state.summary.actions ? state.summary.actions[idx] : null;
+        const dayState = state.days && state.days[date];
+        const action = dayState && dayState.summary && dayState.summary.actions ? dayState.summary.actions[idx] : null;
         if (action) addAiTask(action);
       }
     });
