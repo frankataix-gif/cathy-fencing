@@ -4686,3 +4686,27 @@ Your scenario Integration Webhooks has been stopped due to an error.
  * Tea
 
 ---
+
+## [其他] 🛑 Encountered error in Integration Webhooks scenario
+
+**发件人:** Make <noreply@us2.make.com>
+**日期:** 2026-09-10T16:28:13+00:00
+**摘要:** 邮件通知用户Integration Webhooks场景出现错误，具体为'unknown action'导致的Bad Request。
+**待办:** 无
+
+Make [https://cdn.make.com/img/make/make-logo-150x48@2x.png]
+Make [https://cdn.make.com/img/make/make-logo-dark-150x48@2x.png]
+
+
+ENCOUNTERED ERROR IN INTEGRATION WEBHOOKS SCENARIO
+
+Your scenario Integration Webhooks has encountered an error.
+
+The scenario has not been paused and continues to run according to your
+settings. Nevertheless, you should pay attention to the issue.
+
+ * Scenario: Integration Webhooks
+   [https://us2.make.com/2922292/scenarios/6224881/logs]
+ * Organization: 
+
+---
