@@ -4771,3 +4771,14 @@ Thanks
 >
 
 ---
+
+## [学校] West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
+
+**发件人:** West Point Grey Academy Enrolment Office <wpga@myschoolapp.com>
+**日期:** 2026-09-10T15:07:39+00:00
+**摘要:** 通知2027-2028学年申请和参观注册已开放，并列出各年级的截止日期。
+**待办:** 查看申请截止日期并注册参观
+
+<p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li 
+
+---
