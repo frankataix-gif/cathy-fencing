@@ -10618,3 +10618,20 @@ Tesla
 
 
 ---
+
+## [其他] Work Anniversary Reminder
+
+**发件人:** Frappe <notifications@ecobox.z.frappe.cloud>
+**日期:** 2026-08-27T22:01:13
+**摘要:** Xiaojun He和Kun Huang完成了在公司的第一年，公司提醒团队祝贺他们。
+**待办:** 祝贺Xiaojun He和Kun Huang的工作周年
+
+XH
+
+KH
+
+Today Xiaojun He & Kun Huang completed 1 year at our Company! 🎉
+A friendly reminder of an important date for our team.
+Everyone, let’s congratulate them on their work anniversary!
+
+---
