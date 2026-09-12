@@ -5357,3 +5357,20 @@ Login to Self Serve
 Please do not reply 
 
 ---
+
+## [待办] Verify your email
+
+**发件人:** Link <notifications@link.com>
+**日期:** 2026-09-09T20:54:40+00:00
+**摘要:** 需要验证邮箱地址以确认身份。
+**待办:** 点击链接验证邮箱地址
+
+Confirm it’s you
+Thanks for using Link at Nick Itkin LLC. To confirm it’s you, please verify your email address.
+Verify your email : https://support.link.com/confirm-email/confirm?t=csmrect_61VNGTFZh7iH9TeYs419ybpLVgGn77rc_NjI1Y2EyNDktMDM1MS00NWU1LTg3MWMtNDMzYzUzYzVmODFj&ref=link_verification_signup&redirect=link_app&email_id=em_8nhjfwkoeexohmdewfjzazy9rdyimr&eid=em_8nhjfwkoeexohmdewfjzazy9rdyimr
+
+What’s Link?
+
+A safe way to pay faster at Nick Itkin LLC and everywhere Link is accepted. Lea
+
+---
