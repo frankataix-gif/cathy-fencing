@@ -10055,3 +10055,30 @@ Adrian 您好，
 > 现在的重点应该是尽快办理学签，如果期间必须身在境外的话
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-28T21:11:08+00:00
+**摘要:** 邮件建议避免使用移民顾问，尽快办理学签，并提及Cathy需参加9月的实地考察活动。
+**待办:** 无
+
+Natalie，
+
+谢谢您的回复。
+
+以我们今年的经验，在境外申请学签的家庭，尽管父母未持有任何签证，只要所需文件都符合要求，一般很快会收到审批结果的。这个暑假有家庭8月中旬提交申请，几天前已经收到签证了。（当然，IRCC近年的效率也很难预测。）
+
+目前找移民顾问反而可能耽误你们的申请，所以我们不建议。学校这边也很久没有跟这类顾问联系了。
+
+现在的重点应该是尽快办理学签，如果期间必须身在境外的话，我会建议您缺席New Student Orientation，先办好签证，让Cathy能尽快开始上课。留意我们9月16-18日有一次三天两夜的 Field Trip<https://resources.finalsite.net/images/v1782167002/meadowridge/oton10pixbxqyi6wqd0j/Grade7-GibsonsFarmPackingList.pdf>, 希望 Cathy 到时能出席。迎新方面的安排，我们待签证办好了才补上也没大碍。
+
+以上建议，您觉得如何？
+
+
+
+Best regards,
+
+Adrian Kwo
+
+---
