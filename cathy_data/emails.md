@@ -11008,3 +11008,35 @@ My TELUS makes managing your plan easy.
 
 
 ---
+
+## [其他] Hi Jingqi, let's get you started with TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-26T11:21:45-07:00
+**摘要:** TELUS欢迎Jingqi加入，并提供账户管理、手机设置指南及账单信息查看链接。
+**待办:** 无
+
+Trouble viewing this email? View in web browser. 
+ 
+  
+ 
+ 
+Welcome to TELUS. 
+Green Leaf 
+ 
+Account Details  
+Account Details: 
+Account number:   
+Phone number(s):   
+Next Bill Cycle Begins:   
+ 
+ 
+
+To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more. To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more.  
+ 
+My TELUS makes managing your plan easy.  
+ 
+ 
+
+
+---
