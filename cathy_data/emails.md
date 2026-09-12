@@ -10908,3 +10908,18 @@ There is no need to reserve a stall or start paying the additional $25 monthly f
 Thank you, and we
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-26T14:04:02-05:00
+**摘要:** Natalie澄清特斯拉交付时间，并询问P4-116号电动车停车位的可用性及预订方式。
+**待办:** 确认P4-116号电动车停车位的可用性并回复Natalie
+
+Hi Anastasia,
+
+I’m sorry for the confusion in my previous email. I meant that my new Tesla is expected to be delivered in approximately three to four months, likely around November or December—not in March.
+
+I will therefore need the EV parking stall around the time the vehicle is delivered, before the end of this year. Could you please confirm whether P4 – Stall #116 is the last EV charging stall available? Would it be possible to reserve it now and begin paying the additional $25 monthly fee w
+
+---
