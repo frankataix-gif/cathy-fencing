@@ -5151,3 +5151,33 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0
 
 ---
+
+## [营销] 早秋甄选胶囊系列
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-09T22:05:48-06:00
+**摘要:** Loro Piana 发布早秋甄选胶囊系列，介绍换季衣橱新品。
+**待办:** 无
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+悉心呈献换季衣橱
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+---
