@@ -9196,3 +9196,19 @@ Welcome to a new school year at Meadowridge School! My name is Darcie Hook, and 
 As an advisor, my goal is to help students make a successful transition into Grade 7 while fostering a strong sense of belonging and responsibility within our community. A s
 
 ---
+
+## [营销] Natalie, your opinion matters — 1 minute on your Browns visit
+
+**发件人:** Browns Shoes <support@info.brownsshoes.com>
+**日期:** 2026-09-02T17:05:27+00:00
+**摘要:** 公司邀请Natalie提供反馈以赢取500美元礼品卡，并询问推荐的可能性。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for visiting Browns Richmond Centre. Share additional feedback for a chance to win a $500 Browns gift card.
+
+How likely are you to recommend Browns to a friend or family member?
+
+
+---
