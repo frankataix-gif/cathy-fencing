@@ -5757,3 +5757,20 @@ Disclaimer
 The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited an
 
 ---
+
+## [其他] Re: Engagement:  Sale of Flat 120, 1 Emery Way, London E1W 2AS
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:06:31+00:00
+**摘要:** 邮件要求支付1500英镑法律预付款以启动房产交易法律程序，并提供银行账户信息。
+**待办:** 安排支付1500英镑至Spencer West LLP的客户账户
+
+Dear Jingqi Wu,
+
+
+
+Following our last email, we have now successfully opened a file for you. We kindly request an upfront payment of our full legal fee to initiate the legal work.
+
+Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully rec
+
+---
