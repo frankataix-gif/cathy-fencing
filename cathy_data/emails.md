@@ -14173,3 +14173,22 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [学校] Special Message from the Parent Guild (Grade 7)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-12T18:10:47.000Z
+**摘要:** 感谢志愿者协助成功举办Spirit Day和Welcome Back Picnic，并通知下周的Used Uniform Shop活动安排。
+**待办:** 无
+
+Hi Meadowridge Families,
+
+Yay! We survived the first week of school! 🎉
+
+We hope your children had a wonderful start to the new school year and that everyone is settling back into routines (even if the early mornings have been a little tough!). Here's to a fantastic year ahead filled with learning, friendships, and lots of fun.
+
+Thank You, Volunteers!
+
+A huge thank you to all the amazing volunteers who helped make our Spirit Day and Welcome Back Picnic such a success. From setting up, we
+
+---
