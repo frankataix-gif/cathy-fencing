@@ -11811,3 +11811,22 @@ The information in the email is confidential and may be legally privileged. It i
 @media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{
 
 ---
+
+## [其他] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-21T23:42:21+02:00
+**摘要:** 邮件涉及TH103租客保险续签确认，需验证保险条款是否符合租约第36条要求，并提交更新的保险证明以确保合规。
+**待办:** 确认保险条款是否符合第36条要求
+
+Dear
+I am currently arranging tenant insurance for TH103, 708 Farrow Street.
+Before I finalize the purchase, could you please confirm whether the following coverage meets the insurance requirements under Section 36 of our tenancy agreement?
+
+Could you please confirm whether this policy configuration satisfies the landlord's tenant insurance requirements?
+
+Once confirmed, I will purchase the policy immediately and send you the insurance declaration page.
+
+在 Aug 21, 2026, 23:01 +0200，Smith
+
+---
