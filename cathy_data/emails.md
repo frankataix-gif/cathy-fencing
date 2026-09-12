@@ -7851,3 +7851,16 @@ Sephora
      .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table,
 
 ---
+
+## [营销] New Wishbone, Worth the Double Take
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-04T13:09:03+00:00
+**摘要:** Browns Shoes正在促销UGG款式，呼吁客户不要错过选购机会。
+**待办:** 无
+
++Select UGG styles, now on sale. Don’t miss your pair.   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq4WYfT44jsMmEtrpAh0Zf0Q-3D-3DegPI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHAu-2FjU9HEIfuFoPCh8ETxXB6KLU7NtYNGb-2BmO7cdDS38NBDvf8emhoH4XMFoUp6X8JKUwnME9GMIZfWh-2By3zq8D-2BgwzPS83z49DjiviVUelxAc-2BgL8r5vdjsOFBmElyN0L-2Bm5K5iMBphyN6eLXtAsyg6e
+
+---
