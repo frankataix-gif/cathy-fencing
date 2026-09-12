@@ -8588,3 +8588,37 @@ My TELUS <donotreply@telus.com>于2026年9月2日 周三14:55写道：
 > <https://identity.telus.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=telus&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=8f184f40-
 
 ---
+
+## [其他] Finish logging into My TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T14:55:36-07:00
+**摘要:** 提醒用户完成My TELUS账户的登录，以确保账户安全和正常使用。
+**待办:** 无
+
+96 
+  
+    
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {a
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Force Hotmail to display emails at full width */
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding 
+
+---
