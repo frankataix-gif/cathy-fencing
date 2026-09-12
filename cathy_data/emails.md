@@ -6481,3 +6481,18 @@ Best regards,
 Natalie
 
 ---
+
+## [其他] Book tables with DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-08T16:17:06+00:00
+**摘要:** DoorDash发送关于预订桌子的邮件，但正文中无具体信息
+**待办:** 无
+
+DoorDash     -->
+   
+      @font-face{font-family:'TTNorms-Condensed';font-style:normal;font-weight:900;src:url('https://assets.doordash.team/m/3a73ba84e4d48a38/original/TTNorms-Condensed-Black.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:700;src:url('https://typography.doordash.com/TTNorms-Pro/TTNormsPro-Bold.woff2')format('woff2');}
+      @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
+
+---
