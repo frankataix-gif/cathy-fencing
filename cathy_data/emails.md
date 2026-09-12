@@ -6872,3 +6872,32 @@ Hello ,
     No Con
 
 ---
+
+## [其他] 完成时间：Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza 通过 Docusign" <dse@eumail.docusign.net>
+**日期:** 2026-09-07T18:03:09+00:00
+**摘要:** 通知所有参与方已签署指定信封，并附有相关链接。
+**待办:** 无
+
+您好 Jingqi Wu，    
+
+所有参与方均已签署信封 'Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX'。
+    
+    
+
+https://eu.docusign.net/Signing/EmailStart.aspx?a=5d80cd05-0b9e-85f0-830c-57b0d577b1a1&etti=52&r=30469981-eeb9-8a2e-83fe-1427e6dc99c8
+
+如果单击链接不起作用，您可以突出显示并复制上面的一整行，然后将其粘贴到浏览器中以开始。
+
+此消息是由 Lauren D'Souza 使用 Docusign 电子签名服务发送给您的。如果您不想收到来自该发件人的电子邮件，您可以联系发件人，提出您的请求。
+
+不要共享此电子邮件
+该电子邮件内包含指向 Docusign 的安全链接。请勿与他人分享此电子邮件、链接或访问代码。
+
+对文档有疑问？
+如果需要修改文档或者对文档中的细节存在疑问，请联系发件人。您可以直接向他们发送电子邮件。
+
+停止接收
+
+---
