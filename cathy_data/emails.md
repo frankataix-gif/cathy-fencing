@@ -9067,3 +9067,26 @@ We’ve paused some of your account features
           url('https://www.paypalobjects.com/digitalassets/c/system-trigge
 
 ---
+
+## [待办] Please confirm your email address
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T12:51:35-07:00
+**摘要:** 要求确认电子邮件地址以验证账户
+**待办:** 需要确认电子邮件地址以验证账户
+
+Please confirm your email address 
+     
+      /**
+ * SupremeLL Fonts
+ */
+      /* Body text - font-weight:450 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 450;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email
+
+---
