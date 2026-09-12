@@ -6232,3 +6232,31 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/9ynseU51Gz9kOnzwC4u1Yg~~/AAAHahA~/-7nhlZ4WiAkHw7nHcYMglypgXnapc6ag0RRi9rJSQzWSU1IZxvjRNrUafW6neB-spCJHIm501ucIT4t8UeuWkXbAYmm26NmpFS1Z4LP25
 
 ---
+
+## [其他] Re: Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Jo Monk <jmonk@jaresidential.com>
+**日期:** 2026-09-09T07:50:24+00:00
+**摘要:** Jo Monk回复Jordanna，提供Lancer Square公寓经理Josh的联系方式以协助处理相关事宜。
+**待办:** 无
+
+Dear Jordanna,
+
+The general manager Josh can assist
+
+@Lancer Square General Manager<mailto:LancerSquareGM@jaresidential.com>
+
+Thank you
+
+JO MONK
+Senior Property Manager
+M: 07729 096 524 
+D: +44 (0) 20 4591 4784
+T: +44 (0) 20 7509 1970 
+jmonk@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3764 5568​
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please no
+
+---
