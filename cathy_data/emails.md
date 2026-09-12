@@ -5707,3 +5707,23 @@ Paralegal
 Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an em
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:14:54+00:00
+**摘要:** 邮件通知暂停资金请求，并提醒警惕房地产交易中的诈骗行为，特别是伪造邮件和不当资金转移。
+**待办:** 无
+
+Dear Jingqi Wu,
+
+Please kindly disregard the fund request email. As the purchaser is not confirmed. We won't request for fund.
+
+
+kind regards,
+
+Michael Cheng
+Paralegal
+Cyber-security: Our bank account details will not change during the course of a transaction. Please speak to the Partner in charge of your transaction before transferring any money on a known and trusted phone number.  We will not take responsibility if you transfer money to an incorrect bank account. If you receive an em
+
+---
