@@ -8151,3 +8151,32 @@ Natalie
 > Kind regards
 
 ---
+
+## [其他] Sales instruction - Flat 120, 1 Emery Way, LONDON, E1W 2AS
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-09-03T12:00:48+00:00
+**摘要:** Freya请求安排今天1:30前查看位于伦敦的房产单位。
+**待办:** 无
+
+Hi Frank,
+Please can I arrange access to see this unit, because I am in the area today before 1:30pm.
+
+Freya
+
+
+------------------------------------
+Freya Wan
+Operations Director/Head of Asia-Pacific Sales
+Asia-Pacific Sales, Foxtons
+
+T: 020 7893 6010
+M: 07875 80 2146
+E: Freya.Wan@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is
+
+---
