@@ -4782,3 +4782,15 @@ Thanks
 <p><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div dir="ltr"><div>Dear Prospective WPGA Families,<br /><br /></div><div>Thank you for expressing your interest in West Point Grey Academy. Information session/tour registration and applications for the 2027-2028 school year are now open.&#160;<br /><br /></div><div><b>Important Dates &amp; Deadlines</b></div><ul><li aria-level="1">Applications for Junior Kindergarten to Grade 1 are due on or before <b>October 29, 2026.</b></li><li 
 
 ---
+
+## [营销] Your cue to shop: 50% off select brands 💸
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-10T13:31:31+00:00
+**摘要:** Sephora推出50%折扣活动，部分品牌可享优惠。
+**待办:** 无
+
+Sephora 
+     .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table,
+
+---
