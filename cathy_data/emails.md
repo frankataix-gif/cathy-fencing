@@ -5774,3 +5774,20 @@ Following our last email, we have now successfully opened a file for you. We kin
 Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully rec
 
 ---
+
+## [其他] Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:04:40+00:00
+**摘要:** 邮件要求支付1500英镑法律费用作为预付款以启动法律工作，并附上银行账户信息。
+**待办:** 支付1500英镑至指定账户
+
+Dear Jingqi Wu,
+
+
+
+Following our last email, we have now successfully opened a file for you. We kindly request an upfront payment of our full legal fee to initiate the legal work.
+
+Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully rec
+
+---
