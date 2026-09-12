@@ -8244,3 +8244,26 @@ Verdana, Arial, sans-serif !important; }     96
     
 
 ---
+
+## [其他] Your Payoneer account was connected successfully, XIAOJUN!
+
+**发件人:** Payoneer <NoReply@payoneer.com>
+**日期:** 2026-09-03T06:00:12-04:00
+**摘要:** 您的Payoneer账户已成功连接，可开始接收付款，并后续可提现或支付供应商。
+**待办:** 无
+
+Hi XIAOJUN,  
+	 
+ 
+                     
+ 
+	 
+		  Thank you for your cooperation. We’re happy to let you know that your Payoneer account is ready to start receiving Payoneer payments. You may receive this email multiple times if you requested multiple Payoneer account connections.   
+	 
+ 
+                     
+ 
+	 
+		  Once you start receiving your Payoneer payments, they’ll be deposited into your corresponding Payoneer balance, and from there you’ll be able to withdraw funds to your
+
+---
