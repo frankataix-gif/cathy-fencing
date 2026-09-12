@@ -8622,3 +8622,41 @@ My TELUS <donotreply@telus.com>于2026年9月2日 周三14:55写道：
 /* Resolves webkit padding 
 
 ---
+
+## [待办] Reset your My TELUS password
+
+**发件人:** My TELUS <donotreply@telus.com>
+**日期:** 2026-09-02T21:55:34+00:00
+**摘要:** 邮件提醒用户重置My TELUS账户密码，并提供邮箱和重置链接。
+**待办:** 重置My TELUS账户密码
+
+.ReadMsgBody {
+width: 100%;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+body {
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+}
+img {
+-ms-interpolation-mode: bicubic;
+}
+body {
+margin: 0; padding: 0;
+}
+img {
+border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+height: 100% !important; margin: 0; padding: 0; width: 100% !important;
+}
+body {
+background-color: #FFF;
+}
+.headerContent a:visited {
+
+---
