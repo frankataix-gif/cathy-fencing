@@ -10010,3 +10010,19 @@ This is Yee Cheng, and I will be assisting you to schedule your consultation wit
 Proposed consultation times:- Vivien’s next availabilities are stated below. Given our tight schedule, kindly
 
 ---
+
+## [营销] Make a friend a neighbour - $500 referral fee
+
+**发件人:** "Smith & Farrow Rental Team" <rent@boffo.ca>
+**日期:** 2026-08-28T21:33:42+00:00
+**摘要:** 这封邮件是Smith & Farrow向居民宣传推荐朋友租房的活动，成功后可获得500美元奖励。
+**待办:** 无
+
+ 
+Dear Residents, 
+Do you love living at Smith & Farrow? Know someone who might love calling it home, too? 
+For a limited time, we’re pleased to offer residents a $500 referral fee* when a personal introduction results in a successful tenancy agreement at Smith & Farrow. It’s our way of saying thank you for helping us grow our community by welcoming like-minded people who will make wonderful neighbours. 
+We’re proud of the community we’re building here and we want more people like you! 
+If 
+
+---
