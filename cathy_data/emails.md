@@ -8304,3 +8304,17 @@ p {
   m
 
 ---
+
+## [营销] Tell us your birthday month! 🎂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-03T00:15:34+00:00
+**摘要:** 邮件邀请客户提供生日月份以获取惊喜，并推广其鞋子产品和快速配送服务。
+**待办:** 无
+
+And get a surprise 🤫
+
+FASTEST SHIPPING, ALWAYS | SHOP NOW 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1-2Fv5jBpcQTSnaj837Uvm-2FReRng0UfC6o3U2DHrUViwTI-3DToJx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADlgGOALOgtrXe-2BJ4bfI6yqLDxnvA15x7ZDTU3LThLhXfz670KudSc6q8xCH1t1yT9zE1nfCHEXVYNO-2BbeUjSVln-2BAMuaVLavIH5mCvnnzyPdgmpJFrzHVhPOLHSMXnsp2gbuf-2Fs3z1RwYJb6VWg66eTpxNlf5l3y-
+
+---
