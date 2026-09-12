@@ -12546,3 +12546,16 @@ Leave a Review zh        p {font-family: sans-serif !important;}
 ( https://clicks.sparkmailapp.com/f/a/heA
 
 ---
+
+## [学校] New Student Orientation: September 2 at 10:00am
+
+**发件人:** Meadowridge School Admissions Office <noreply@meadowridge.myenotice.com>
+**日期:** 2026-08-18T20:30:01+00:00
+**摘要:** 通知新生参加9月2日上午10点的入学典礼。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
