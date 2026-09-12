@@ -9322,3 +9322,37 @@ Sephora
 （无正文）
 
 ---
+
+## [其他] RE: Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-02T09:40:09+00:00
+**摘要:** 确认将按要求释放钥匙，用于Flat 120, 1 Emery Way的看房授权。
+**待办:** 无
+
+Hi Natalie,
+
+Thank you for your email.
+
+We will release the key as requested.
+
+Kind regards,
+ Sean
+Concierge
+
+[cid:image001.png@01DD3AC7.A929BA50]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
+
+
+
+[A green and black logo    Description automatically generated]
+Registered Office
+Contact
+[A white background with black dots 
+
+---
