@@ -7113,3 +7113,60 @@ I am preparing the relevant information and have attached the materials currentl
 3. I have also attached 
 
 ---
+
+## [其他] 您的Google Play订单收据(2026年9月7日)
+
+**发件人:** Google Play <googleplay-noreply@google.com>
+**日期:** 2026-09-07T02:20:38-07:00
+**摘要:** 用户的Google One订阅已续订，并显示了订单详情。
+**待办:** 无
+
+Google Play
+
+
+非常感谢！
+
+
+您通过 Google Play 向“Google Commerce Limited”订阅的内容已续订，系统已向您收 
+费。 管理订阅
+
+
+订单号： SOP.3385-7778-6968-49841..1
+订购时间： 2026年9月7日 GMT+2 11:20:33
+您的账号： nataliewu100@gmail.com
+
+
+商品 价格
+
+
+100 GB (Google One) （开发者：Google LLC） US$1.99/月
+
+自动续订的订阅
+
+
+
+税额: US$0.32
+
+总计: US$2.31/月
+
+
+付款方式：
+
+Mastercard-2249
+
+
+
+订阅即表示您授权我们通过您提供的付款方式，自动向您收取订阅费用（如上所述 
+），直至您取消订阅。了解如何取消订阅。请保留好此回执，以便日后查看。
+
+如有问题，请访问Google Commerce Limited的网站。
+
+
+Google Play
+
+您喜爱的娱乐，无处不在。了解详情 ›
+
+
+
+
+---
