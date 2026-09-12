@@ -5585,3 +5585,20 @@ Our website just got better!   THE BEST SNEAKER BRANDS, ALL IN
 ONE PLACE ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PHMBybJGoQ0arUtQfoU5vy-2F6Y-2B2WWh1Bc43Q4s3lqbFg-3D-3Ds2WF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKYPNL4tGl5cca2sGOZJsjEaZXdZxjRT0K4seuez3-2FpqMyM5bQoMoDO3UcrRm1VTQq0Y3VFWtMKTUj7i8J9kqXNvK-2FKIMnE6Tk7p2y-2BRIY9F9OTUHzFzWQ-2FKq33NV4EwMJBmJ1jzgH35IXdae8ZQgdqnkOoHa9gW5A-2FXUfK6v
 
 ---
+
+## [学校] Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-09T16:37:47+00:00
+**摘要:** 学校提醒提交缺失的表格和更新联系方式。
+**待办:** 提交缺失的表格，填写居住证明表，更新电话号码。
+
+Good morning Cathy's family,
+This is Vivian from the Admissions Office, along with Mr. Adrian. I am following up regarding the required school documents for students.
+
+  1.
+I noticed that we are still missing several important forms that are required during the first week of school. Once you log in to the Hub, you should be able to access and complete these forms from your account. Please refer to the information below for the missing documents.
+  2.
+Moreover, we also need your help in com
+
+---
