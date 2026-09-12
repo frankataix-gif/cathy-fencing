@@ -9967,3 +9967,31 @@ Complete one Residency Form<https://www.meadowridge.bc.ca/new-family-portal/resi
 Complete required forms: Medical Info, Emergency Consent & RUTA. Log in to the Meadowridge Hub and lo
 
 ---
+
+## [其他] Your TELUS home services e.Bill is ready
+
+**发件人:** TELUS <telusbilling@info.telus.com>
+**日期:** 2026-08-28T15:16:51-07:00
+**摘要:** TELUS通知用户其家庭服务电子账单已准备好，可在线查看和支付，并提供管理账单的选项。
+**待办:** 无
+
+Your home services e.Bill is ready.  
+ 
+Hi , 
+Here are your bill details at a glance:  
+Bill month: 
+Account number: 
+Total due, if received by : 
+ 
+
+Paying on time is easy - sign-up for pre-authorized payments, it’s easy to do. Simply register your credit card or Visa Debit. It’s fast, convenient and worry-free.  
+Log in  
+ 
+ 
+View and pay your bill online with My TELUS. 
+With My TELUS, you can:  
+View and pay your bill 
+Manage your bill preference 
+Monitor your monthly Interne
+
+---
