@@ -9356,3 +9356,30 @@ Contact
 [A white background with black dots 
 
 ---
+
+## [待办] Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-02T11:36:16+02:00
+**摘要:** Natalie授权Foxtons代理查看公寓，并请求确认看房时间及钥匙可用性。
+**待办:** 确认看房时间并确保钥匙可用
+
+Dear London Dock Concierge,
+
+I hope this email finds you well.
+
+I would like to authorize the following agent from Foxtons to access the property for a viewing:
+
+Agent Name: Akshitsinh Rathod (AK)
+Email: Akshitsinh.Rathod@foxtons.co.uk
+
+He has proposed the following viewing times:
+
+• Wednesday, 2 September: 18:00
+• Thursday, 3 September: 12:00 – 14:00, 16:00, or 18:00
+
+Could you please confirm if these times are acceptable and ensure the keys are available for him?
+
+Best regards,
+
+---
