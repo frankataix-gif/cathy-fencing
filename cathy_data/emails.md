@@ -12611,3 +12611,44 @@ Thank you,
 Natalie
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-18T16:30:41+00:00
+**摘要:** 关于GCKey登录的验证
+**待办:** 无
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
