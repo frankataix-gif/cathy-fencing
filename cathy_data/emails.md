@@ -6089,3 +6089,49 @@ Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] New Arrangement
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-09T09:25:51+01:00
+**摘要:** 无具体内容，可能为邮件模板或技术代码
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
