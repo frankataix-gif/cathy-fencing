@@ -5518,3 +5518,31 @@ Hi Ms.Hook,
 I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today but the 
 
 ---
+
+## [其他] Re: Package Delivery Assistance – TH103
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-09T18:26:11+00:00
+**摘要:** Anastasia告知已收到包裹并将送达Natalie的住所，Natalie表示感谢。
+**待办:** 无
+
+Hi Natalie,
+Received one box , I will please it to your home
+Thank you
+
+Anastasia
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, 08 September 2026 13:39:42
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Re: Package Delivery Assistance – TH103
+
+Thanks！！
+
+Natalie
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca<mailto:residentcare@boffo.ca>>于2026年9月8日 周二13:19写道：
+
+---
