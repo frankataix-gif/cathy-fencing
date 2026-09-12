@@ -4199,3 +4199,24 @@ DoorDash     -->
 			@font-face{font-family:'DDNorms';font-style:normal;font-weight:600;src:
 
 ---
+
+## [营销] 👉 We picked these for you: Connect apps you're using today!
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-11T13:26:26+00:00
+**摘要:** 这封邮件来自Make公司，推荐了两个自动化流程模板，让用户尝试并调整以满足需求。
+**待办:** 无
+
+Start with something that already works  
+
+Logo ( https://www.make.com?utm_campaign=Templates_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://www.make.com?utm_campaign=Templates_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+You’ve seen how our AI co-worker Maia can build for you, but sometimes the fastest way to get results is to start with something that already works. ✅ Pick a template, try it, and adjust it to your needs.
+
+Start with one o
+
+---
