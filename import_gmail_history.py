@@ -13,7 +13,7 @@ from googleapiclient.discovery import build
 CLIENT_SECRET_FILE = 'client_secret.json'
 TOKEN_FILE = 'gmail_token.json'
 WORKER_URL = 'https://cathysync.frankataix.workers.dev/'
-GMAIL_QUERY = "in:inbox"
+GMAIL_QUERY = "newer_than:30d"
 SLEEP_SECONDS = 1.0
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
@@ -104,8 +104,15 @@ def post_to_worker(email):
             'Referer': 'https://frankataix-gif.github.io/'
         }
     )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read().decode('utf-8')
+    last_err = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read().decode('utf-8')
+        except Exception as e:
+            last_err = e
+            time.sleep(3 * (attempt + 1))
+    raise last_err
 
 
 def main():
@@ -120,7 +127,7 @@ def main():
         page_token = results.get('nextPageToken')
         if not page_token or not batch:
             break
-    print(f'查到 {len(messages)} 封邮件，开始导入...')
+    print(f'查到 {len(messages)} 封邮件，开始导入...', flush=True)
 
     for i, msg_meta in enumerate(messages, 1):
         msg = None
