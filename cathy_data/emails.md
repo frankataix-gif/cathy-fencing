@@ -13324,3 +13324,43 @@ My Rightmove
       
 
 ---
+
+## [待办] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-14T15:16:03+00:00
+**摘要:** 邮件提醒您之前在The Fencing Post的购物车中有未完成的订单，并提供完成订单的链接。
+**待办:** 完成未完成的订单购买
+
+Hi jingqi natalie,  You recently visited our online store and we noticed that you didn't complete your order for the following items:   
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 1 x  Foil Blade - Uhlmann BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 2 x  Foil Blade - Allstar BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+ 
+	 
+		 
+			
+
+---
