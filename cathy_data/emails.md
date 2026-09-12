@@ -13101,3 +13101,15 @@ DoorDash     -->
 			@font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.com/TTNor
 
 ---
+
+## [营销] 〰️ 🌀 VIBES, AURAS & ERAS 🌀〰️
+
+**发件人:** "Sephora: The Chat " <shop@beauty.sephora.com>
+**日期:** 2026-08-15T16:03:01+00:00
+**摘要:** Sephora发送的营销邮件，可能涉及新品或促销活动。
+**待办:** 无
+
+Sephora 
+ .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
+
+---
