@@ -13930,3 +13930,265 @@ Leave a Review zh        p {font-family: sans-serif !important;}
 ( https://clicks.sparkmailapp.com/f/a/heA
 
 ---
+
+## [学校] Unit 1 Overview and Learning Resources
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-12T05:39:38.000Z
+**摘要:** 老师介绍法语课程第一单元的学习内容，包括加拿大自然、语法点及10月27日的写作评估。
+**待办:** 无
+
+Dear Parents and Guardians,
+
+I hope you and your family had a relaxing and enjoyable summer. As we begin a new school year, I am excited to welcome your child back to French class and look forward to exploring new worlds of the French language and culture together. Thank you for your continued support and partnership in your child's learning journey.
+
+Unit 1: Nature in Canada
+
+Throughout our first unit, students will explore Nature in Canada while developing their French language skills. T
+
+---
+
+## [营销] ✅ Natalie，请在您的vivo Y500设备上完成 Google 服务设置
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-09-12T06:26:34.000Z
+**摘要:** 这封邮件是Google提醒Natalie在vivo Y500设备上完成Google服务设置，以获得更好的Android体验。
+**待办:** 在vivo Y500设备上完成Google服务设置
+
+Natalie，您好！
+
+获享更优质的 Android 体验
+
+请花一分钟时间在您的vivo Y500设备上设置各项 Google 服务
+
+开始设置 
+<https://c.gle/ACT4xYzP0aAzRP38oBDMt4vwUDIfONhYHIgE1b5sQqS9PHjulm8r_FT17kvM-LYfYbx6wz52DANaBBEucX8pcXlv69GiDnDwFYKyR5uucN7_uwby3uY-WYNz1A6Q2OZIrCmohvsksD9kHfC3EutBOLym0zL7MxCfUjD0wSrYPoNnNUhRgG_8eQALe3nACADyjbPA5ptVbeNv91CVEkjY9wQAUqtVPqK0CRfhAk74CYuyM80rxuwT9MPJBS2xYSVUeCDWAKP_guK89e249qs-nnvRzyvdCI6adgyjjjSBtvGHq_7KcYOPp4XpyVVWRb4rt6dNS1b5f9IJixSVIZ71w1ZhqQM8QqbbCYho02E7SBDS-de-KUhS72v4gZcmd2kC9EbOp4PhsOHnxPIcmL
+
+---
+
+## [其他] New email account login in Spark
+
+**发件人:** Spark <spark@readdle.com>
+**日期:** 2026-09-12T06:26:31.000Z
+**摘要:** 通知用户邮箱地址在Spark应用上登录，可能涉及账户安全。
+**待办:** 无
+
+ Spark Mail 
+Your email address - *nataliewu100@gmail.com* - was used to login in Spark. 
+------------------------------
+
+*Vivo V2506A, Android 16* 
+Zambia 74.244.129.231 
+
+Smart. Focused. Email
+
+Got a question? Write to support@sparkmailapp.com < 
+support@sparkmailapp.com> 
+© 2026 Spark Mail Limited, Glandore Business Centre, Grand Canal House, 1 
+Grand Canal Street Upper, Dublin 4, D04 Y7R5, Ireland 
+
+
+---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-12T07:14:22.000Z
+**摘要:** 通知用户收款账户已开通，并提供使用指南。
+**待办:** 无
+
+ Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" wid
+
+---
+
+## [营销] 50% off select beauty⏰
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-12T13:03:01.000Z
+**摘要:** Sephora推出50%折扣促销，精选美妆产品限时优惠，并提及积分和配送信息。
+**待办:** 无
+
+ Sephora 
+
+Don’t miss today’s savings. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a095b6ce0798be36f4bbe5c898/b109d550aa1c44e20000021ef3a0bcc2/b109d550-aa1c-44e2-9b8
+
+---
+
+## [营销] Your Fall Sneakers Called
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-12T13:07:19.000Z
+**摘要:** 这封邮件是Browns Shoes推送的秋季限量款运动鞋促销信息，强调48小时快速配送服务。
+**待办:** 无
+
++ONLINE EXCLUSIVE: adidas Handbal Spezial X Liberty London
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQYA8vT7FONVWSFrQq9EEOl0-3DAgPC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAE0d8Tfv1hfnptoaZhvRfzbZzH0MxnC0iHjJP-2Bkz28cSIZhEdUpUwTwXTWvxurDbU7YBG7mqGL-2F93sOsZbcEIIUAYW3y1Ti2iGTVGlYSHnFIB-2FALMn8WcfhQN-2F7aB
+
+---
+
+## [营销] You missed these the first time
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-12T14:12:54.000Z
+**摘要:** 邮件通知用户之前错过的产品现在重新上架，提供第二次购买机会。
+**待办:** 无
+
+They’re back. Here’s your second chance.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  
+
+---
+
+## [营销] Say hello to the latest generation of iPhone.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-12T15:49:33.000Z
+**摘要:** BestBuy.ca 发布最新一代 iPhone 的消息，可能包含促销信息。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] Today only: 50% off select faves 🌶️
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-12T16:08:08.000Z
+**摘要:** Sephora今日促销，部分热门产品如Clarins、Estée Lauder等享受50%折扣，并提及积分和配送信息。
+**待办:** 无
+
+ Sephora 
+
+From Clarins, Estée Lauder, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0966042809e83ebf4bbc782e8/b7798072e4ed4c890000021ef3a0bcc2/b7798072-e4
+
+---
+
+## [营销] 40% off is waiting for you
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-12T16:43:29.000Z
+**摘要:** DoorDash推出40%折扣活动，鼓励用户使用以节省更多费用。
+**待办:** 无
+
+ DoorDash 2x the savings on groceries and more. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+
+---
+
+## [营销] Pre-order the new iPhone 18 Pro now.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-12T16:55:53.000Z
+**摘要:** Apple推送新iPhone 18 Pro的预购信息，包含购买链接和产品特性介绍。
+**待办:** 无
+
+Apple
+
+iPhone 18 Pro
+
+Pro further.
+
+Pre-order, iPhone{%nbsp%}18{%nbsp%}Pro Pre-order
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9AID4rTwyQeh4tXCh9K2yvQbMpKiZFO91zJL9HEJsf4hRMSVm5MjdRUtgMYTdarFZ6gNzPO%2FmhcrhC3diZq0fUD%2BMBu1DsTgf%2FJN4olaWmLCLoWb%2BLrsFkwG6%2BVQw5uYc%2BNcK12oW0%2B3oPj6B3KlPtdoXsb3UBJVOuv7%2F0bLPtUpAxt%2F2c3j0pUlreQ3AVG9SqznhN762sMXzrGJCcrhKtWdUrwapOKXez%2Fb7UztCnCTRRi4LYYM%2BnMTSOBduAi4T90TMb2ACsQ%2BaIGf%2FLvsf5jY6MeREaxGFzJIldxLsuYx4xS303MAy7%2
+
+---
+
+## [学校] Welcome to Our French Program
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-12T17:43:55.000Z
+**摘要:** 这封邮件是学校欢迎新生加入法国语言项目，并介绍项目的教学框架和资源支持。
+**待办:** 无
+
+Dear Families and New Students,
+
+It is my pleasure to welcome you to our beautiful school! I am very happy to have you joining our French program, and I look forward to getting to know you and supporting you throughout the year.
+
+Our French program is rich and engaging, with high standards and an approach that follows the IB framework. Students will have many opportunities not only to develop their French language skills, but also to discover and appreciate the richness and diversity of Fran
+
+---
+
+## [营销] New Daydrift™ styles open possibilities
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-12T17:50:12.000Z
+**摘要:** lululemon 推出新的 Daydrift™ 款式，展示新设计的可能性。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [学校] Special Message from the Parent Guild (Grade 7)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-12T18:10:47.000Z
+**摘要:** 感谢志愿者协助成功举办Spirit Day和Welcome Back Picnic，并通知下周的Used Uniform Shop活动安排。
+**待办:** 无
+
+Hi Meadowridge Families,
+
+Yay! We survived the first week of school! 🎉
+
+We hope your children had a wonderful start to the new school year and that everyone is settling back into routines (even if the early mornings have been a little tough!). Here's to a fantastic year ahead filled with learning, friendships, and lots of fun.
+
+Thank You, Volunteers!
+
+A huge thank you to all the amazing volunteers who helped make our Spirit Day and Welcome Back Picnic such a success. From setting up, we
+
+---
