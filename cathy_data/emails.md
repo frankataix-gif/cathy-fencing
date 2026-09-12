@@ -6621,3 +6621,30 @@ On 8 Sep 2026 at 10:36 AM +0200, Lauren D'Souza <lauren.dsouza@knightfrank.com
 > You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to 
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <lauren.dsouza@knightfrank.com>
+**日期:** 2026-09-08T08:36:29+00:00
+**摘要:** 邮件通知Natalie需通过Thirdfort上传身份文件，并需拍摄实时照片进行验证。
+**待办:** 无
+
+Hi Natalie,
+
+All received our end, thank you.
+
+You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+
+You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check that it is you uploading them.
+
+I hope this helps, do let me know if you have any questions.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operati
+
+---
