@@ -10374,3 +10374,44 @@ DoorDash Email     -->
 Application number : S307997826  A message about your application is waiting for you.   We sent you a message about your application to your account.   To read your message:  1. Sign in to your account. 2. Click  Check full application status  under  View the applications you submitted . 3. Scroll down to the  Messages about your application  section. 4. Click on the  Subject  of the new message to read it.            Sign in to your account          We send messages to your account if we need s
 
 ---
+
+## [待办] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T16:23:29+00:00
+**摘要:** 要求用户验证GCKey账户
+**待办:** 验证GCKey账户
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
