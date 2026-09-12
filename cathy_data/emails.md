@@ -12902,3 +12902,40 @@ DoorDash     -->
       @font-face{font-family:'TTNorms';font-style:normal;font-weight:600;src:url('https://typography.doordash.
 
 ---
+
+## [营销] 你嘅台北專屬優惠到啦😍🔔
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-08-17T00:37:05+00:00
+**摘要:** Trip.com 发送台北天阁酒店专属优惠，低至3折，鼓励立即预订。
+**待办:** 无
+
+天閣酒店低至3折🤑收工即刻出發🏃快閃台北👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+  max
+
+---
