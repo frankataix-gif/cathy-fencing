@@ -10866,3 +10866,15 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dsch6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FZbtCp6WVyWI7erFAIBvDkfax9
 
 ---
+
+## [其他] Confirming your Model 3 update
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-08-26T22:21:45+00:00
+**摘要:** Tesla发送订单更新确认邮件，包含车辆配置和订单协议的链接。
+**待办:** 无
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DCZ2A_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2f3aR-2BGKNWkI7EGToXjeEBfjgfi7bIdIlueRwYNqpYwQmhWZ-2FIdi6RSU7kjyS9nJgqsGtgfLDC96IhTGO1VjcI5U9ksG892o
+
+---
