@@ -5791,3 +5791,18 @@ Following our last email, we have now successfully opened a file for you. We kin
 Therefore, please arrange a payment of £1,500 (Inclusive of VAT) to our firm’s client account as an advance payment. To ensure that the progress of your property transaction is not affected, we would appreciate it if you could complete the payment as soon as possible. Any unused advance payment will be fully rec
 
 ---
+
+## [其他] Recall: Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Michael Cheng <Michael.Cheng@spencer-west.com>
+**日期:** 2026-09-09T11:04:16+00:00
+**摘要:** 发件人请求撤回关于伦敦公寓出售协商的邮件。
+**待办:** 无
+
+Michael.Cheng@spencer-west.com would like to recall the message, "Re: Engagement: Sale of Apartment 1, 2 Lancer Square, London, W8 4AX".
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibi
+
+---
