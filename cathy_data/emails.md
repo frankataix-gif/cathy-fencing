@@ -9155,3 +9155,31 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
 
 ---
+
+## [其他] Please verify your email address
+
+**发件人:** Payoneer Auth <noreply@verify.payoneer.com>
+**日期:** 2026-09-02T19:22:11+00:00
+**摘要:** 收到Payoneer的邮件，要求验证邮箱地址并提供6位验证码
+**待办:** 验证邮箱地址
+
+( https://www.payoneer.com/ )
+
+Please verify your email address
+
+Hi there,
+
+Please use the 6-digit code below to verify your email address for Payoneer.
+
+203183
+
+This code is valid for the next 10 minutes. After that, you’ll have to request a new one.
+
+If it wasn’t you who initiated this email verification, contact us ( https://payoneer.custhelp.com/app/Contact_us ) , or simply ignore this email.
+
+Thank you,
+The Payoneer Team
+
+( https://www.facebook.com/Payoneer ) ( https://twit
+
+---
