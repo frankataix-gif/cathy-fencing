@@ -8826,3 +8826,26 @@ background-color: #FFF;
 /* Resolves webkit padding 
 
 ---
+
+## [其他] Welcome to PayPal
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-02T14:52:08-07:00
+**摘要:** 欢迎使用PayPal的欢迎邮件，但正文内容为技术代码，无具体信息。
+**待办:** 无
+
+Welcome to PayPal 
+     
+      /**
+ * SupremeLL Fonts
+ */
+      /* Body text - font-weight:450 */
+      @font-face {
+        font-family: SupremeLLTest;
+        font-style: normal;
+        font-weight: 450;
+        src: url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/SupremeLL/SupremeLLTestSubWeb-Book.woff2') format('woff2'),
+          /*Moderner Browsers*/
+          url('https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/fonts/
+
+---
