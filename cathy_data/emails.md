@@ -10795,3 +10795,21 @@ p {
 .trip-mail-fluid-coupon-cl
 
 ---
+
+## [其他] Re: Request for an EV Charging Station
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-26T20:20:36-04:00
+**摘要:** Natalie感谢澄清，并计划在特斯拉交付前联系Anastasia，请求更换至有电动汽车充电设施的停车位。
+**待办:** 无
+
+Hi Anastasia,
+
+Thank you for clarifying. I will contact you approximately one month before my Tesla is scheduled for delivery. At that time, I would like to switch to an available parking stall with EV charging.
+
+Thank you for your help.
+
+Best regards,
+Natalie
+
+---
