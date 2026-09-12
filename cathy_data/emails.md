@@ -4619,3 +4619,24 @@ To: Lauren D'Souza <lauren.dsouza@knightfrank.com>
 Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W
 
 ---
+
+## [营销] From small steps to big wins 🥳
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-10T16:43:11+00:00
+**摘要:** 祝贺Natalie成功运行首个自动化流程，并介绍如何通过Make平台进一步自动化工作，如使用AI功能和预建模板。
+**待办:** 无
+
+Every automation you build helps you deliver your goals.  
+
+( https://www.make.com/en/login?utm_campaign=Activation_Alert&utm_medium=email&utm_source=customer.io )
+
+Great work, natalie 🙌
+
+Congratulations on successfully running your first automation! Every scenario you build, every connection you make, helps you to save time, reduce errors, and scale your work effortlessly.
+
+ 
+
+Experiment with new scenarios, try AI-powered automations or explore pre-built templates below — the possibi
+
+---
