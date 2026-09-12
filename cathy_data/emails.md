@@ -8365,3 +8365,23 @@ The Easy Roam fee will only activate when you use data, make or answer a call or
 To ens
 
 ---
+
+## [其他] Cancelled service and your next bill
+
+**发件人:** Koodo <koodoservice@mail.koodomobile.com>
+**日期:** 2026-09-02T16:46:55-07:00
+**摘要:** 邮件通知用户已取消无线服务，说明下次账单将包含按比例计算的月费、剩余账单余额、电话信用余额及可能的额外费用，并提示可通过Self Serve查看和支付账单。
+**待办:** 无
+
+Account number: 
+We’re sorry to see you go.
+You recently scheduled to cancel your wireless service on , for the following phone number(s):
+
+
+What to expect on your next bill:
+
+Prorated recurring monthly charges: recurring charges such as your monthly plan and tab charge will be prorated to reflect only the portion of the month in which your wireless service was still active.
+Tab debit: you’ll see this charge only if you have a remaining Tab balance
+Phone credit charge: you’ll see this c
+
+---
