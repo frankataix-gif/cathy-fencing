@@ -8432,3 +8432,16 @@ The Easy Roam fee will only activate when you use data, make or answer a call or
 To ens
 
 ---
+
+## [营销] 500 bonus TELUS Rewards points waiting for you 🎁 | 500 points bonis  TELUS Privilèges vous attendent 🎁
+
+**发件人:** TELUS Rewards <telus@email.telus.com>
+**日期:** 2026-09-02T15:34:32-07:00
+**摘要:** 邮件提示用户激活TELUS Rewards账户以领取500点奖励和年度福利
+**待办:** 激活账户以领取500点奖励和年度福利
+
+Activate your account and get $500+ in annual perks | Activez votre compte et obtenez plus de 500 $ en avantages annuels
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b6&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmcDE9JTQwYmd3ZGp1UlJnQmdKciUyQllkbGxqU096U3Q3THNYY0xDOU5sdlpnJTJCa2QwMW8lM0Q&s=gxHTrwFKs7DxU2Rbn9qLcN3LD0iNqEYsHaxHVHb4GUw web browser . 	
+ https://t.info.telus.com/r/?id=t1de98bb,409aab4c,2af194b7&e=Y2lkPXRlbERNMjI5MjAzMSZiaWQ9MzEzNjUzMDcmc
+
+---
