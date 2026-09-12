@@ -6507,3 +6507,18 @@ DoorDash     -->
 Hello Jingqi Wu,  &nbsp;  Going forward, you will receive all messages and alerts through this application,  along with your child's new route details . You will also be able to see the  live location of your respective school bus along with your bus stop . If you have any problems, please contact at prameet@lynchbuslines.com or 604.439.0842.   We are only sending this email to ONE email address per family  (the first guardian we have on file). Therefore, in  order to give permission to another 
 
 ---
+
+## [其他] Your Foxtons photography appointment
+
+**发件人:** Foxtons <mail@info.foxtons.co.uk>
+**日期:** 2026-09-08T14:19:56+00:00
+**摘要:** 确认Flat 120的摄影预约时间为2026年9月9日上午9点，摄影师Gantcho Beltchev将进行拍摄。
+**待办:** 无
+
+Your photography appointment for
+Flat 120, 1 Emery Way, E1W 2AS is confirmed    My Foxtons 
+( https://clicks.foxtons.co.uk/f/a/dtqFVBEEndiQABPIoF6L9w~~/AAAHahA~/C8hhsJGI9waTBP5WMW3fgfAxmw1WCflk3vV4Cx4RIDWodx-yeqJuJjmw5druc3VGpCWsA_xjLrkPz-eUJT8BRPbtFTIAY83DsY9pg99JAPVPXVmUBO4MpNSusrYPGPeDAbK8qAbJFEKSJPx--Fojxw~~ )
+
+Foxtons ( https://clicks.foxtons.co.uk/f/a/SK5Mxi5v7QsM315uYMMLYQ~~/AAAHahA~/x1rvWQlutuwhXHvE5D4yLERDaiakzGgG0O6h-cp6cNgAAjaYgOuWa4psd5O1zWRDE2gfub_fKOViyNjBwLUE5SNTBuIeM3kitE2OmzmgOT
+
+---
