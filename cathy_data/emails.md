@@ -10292,3 +10292,18 @@ Subject: Immigration Advie for Study Permit inside Canada
 > Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daugh
 
 ---
+
+## [其他] Immigration Advie for Study Permit inside Canada
+
+**发件人:** Vivien Lee <vlee@vivienleeimmigration.com>
+**日期:** 2026-08-28T19:45:10+00:00
+**摘要:** 邮件内容是关于在加拿大境内申请学习许可的移民咨询，发件人提供了相关建议并提及需要咨询和策略制定。
+**待办:** 联系Vivien Lee进行移民咨询
+
+Name: Natalie Wu (Mandarin speaking)
+Phone: 778-255-5899
+
+Hello Natalie,
+Thank you for reaching out to us today. We understand that you and your daughter are now in Canada and you wish to apply for a Study Permit from inside Canada for your daughter to study Grade 7. If you are holding a visitor visa, you cannot apply using the In Canada option for application. However, we have successfully assisted clients in making the Study Permit application while they are still in Canada, and provided a
+
+---
