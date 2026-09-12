@@ -5546,3 +5546,30 @@ Natalie
 Smith & Farrow Rental Resident Care <residentcare@boffo.ca<mailto:residentcare@boffo.ca>>于2026年9月8日 周二13:19写道：
 
 ---
+
+## [营销] XIAOJUN, get paid like a local
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-09T18:03:42+00:00
+**摘要:** 这封邮件是Payoneer推广其全球多币种收款账户服务，旨在帮助用户像本地人一样收款。
+**待办:** 无
+
+Open receiving accounts in the
+world’s major currencies 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpad
+
+---
