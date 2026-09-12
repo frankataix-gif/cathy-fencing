@@ -12522,3 +12522,27 @@ Phone 604 317 4060
 The information in the email is confidential and may be legally privileged. It is intended solely for the
 
 ---
+
+## [营销]  花几分钟时间评价 Spark。 
+
+**发件人:** Spark Team <team@connect.sparkmailapp.com>
+**日期:** 2026-08-18T20:55:06+00:00
+**摘要:** 请求用户对Spark应用进行评价，以帮助社区发展。
+**待办:** 无
+
+Spark iOS
+Leave a Review zh        p {font-family: sans-serif !important;}
+96       告诉我们您的感受，帮助社区发展。  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌              Spark
+您有时间吗？
+
+作为我们 Spark
+社区的重要成员，我们希望您分享对我们应用程序的评价。我们知道潜在用户信任像下方的用户评价，我们希望听取尽可能多用户的意见。
+
+即刻评价 
+( https://clicks.sparkmailapp.com/f/a/heA
+
+---
