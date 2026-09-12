@@ -10976,3 +10976,35 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3Dh4KY_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRwwp6CdcqjL-2BGitAgRkfMvsDNcwYmwA8FFgaXOmf5N9ZqeoUJyXqgtOLgeuLngwJbPYSVk4Aj3Wdug1WVmzdvVOBGygkJGIiKiSh0nJ-2FM-2F8c1vF8fbJJw77GeSvEAdBiy6JwkIwOz2Un5K8Nfa42p7nbq2gI6Rk
 
 ---
+
+## [其他] Hi Jing, let's get you started with TELUS
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-26T11:22:09-07:00
+**摘要:** TELUS发送欢迎邮件，提供账户管理指南和相关操作链接。
+**待办:** 无
+
+Trouble viewing this email? View in web browser. 
+ 
+  
+ 
+ 
+Welcome to TELUS. 
+Green Leaf 
+ 
+Account Details  
+Account Details: 
+Account number:   
+Phone number(s):   
+Next Bill Cycle Begins:   
+ 
+ 
+
+To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more. To help welcome you to TELUS, here are some great tips on how to manage your account, set up your phone, and more.  
+ 
+My TELUS makes managing your plan easy.  
+ 
+ 
+
+
+---
