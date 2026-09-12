@@ -11322,3 +11322,24 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.dfJytaXZo5s5EaF3-2BXwlUBtGYNm-2FxPu6vP45I2JgNIBIvqNLXgWt07Ul1rHWyCm1CWf5R7L-2F0d6CVHCz6Xto9fr7h-2BEizkmVro-2BT88EzRAzu9ckQYqKj9-2FjkRDfAI2NiqlOHxc2ftNq57-2FGrQUn37g-3D-3DMKFn_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvW2lObdGFWy5D13ulEtcQg7qTQTnZDTFBgLp2F6v1HpHhEXgZ0TiHKVUd-2BH6MVsErbShg7ZWVf4rsVzJXovir1FcN3hLILQEYV6FdyEPpOLT0l-2FzR8wzX42ff6pUEa2DMpUISa9xeLwCpBIhGw3VRP0V8ZQ3efk9LtI7HlTb-2Bu1l2xoeguDrqT5qUp1H2-2BTUf3d
 
 ---
+
+## [其他] You’ve been given online access to a My TELUS account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-08-24T16:46:20-07:00
+**摘要:** TELUS通知您已获得My TELUS账户的访问权限，请使用现有凭证登录。若未主动申请，请联系他们确认。
+**待办:** 无
+
+Bonjour ,  
+Vous avez maintenant accès au compte Mon TELUS suivant : . Pour accéder à ce compte, utilisez vos authentifiants Mon TELUS actuels.  
+Si vous n’avez pas demandé ce changement, appelez-nous.  
+Cordialement,  
+L’équipe TELUS  
+ 
+Hi ,  
+You’ve been granted access to the following My TELUS account: . To access this account, you can use your current My TELUS log in credentials.  
+If you didn’t intend to get access to this account, please contact us.  
+Sincerely,  
+The TELUS team
+
+---
