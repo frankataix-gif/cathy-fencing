@@ -13268,3 +13268,18 @@ As a further point of comparison, I currently have a one bedroom apartment
 in a neighbouring development on the market which is approxima
 
 ---
+
+## [其他] Natalie, 7 waterside homes for escaping the heat
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-08-14T16:06:03+00:00
+**摘要:** Rightmove向Natalie推荐位于水域附近的房子，强调其降温优势，并附有相关链接。
+**待办:** 无
+
+Beautiful homes with the cooling benefits of waterside locations
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/At9mEDU-xJi5kVRGxH51GQ~~/AAAHahA~/ASVSzRfdP1xPWdd7zznZAQP-q1ipCpgqmFSmDN2uyVqJaeMmOWrTdyEo4XSMRFIbL5KfdTuGLkv5y7qczbXwtM2pocg6D0rz-6E_TcEFZpbI5kHQNoAdez3eQtFIwams_2YbZMHllfmA_xfVX6HLxhcKZWRp_fcejbqVy0eoCfQ~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/0K8p6mNV92yNAKbdeNM57Q~~/AAAHahA~/IUHupsJfZcfhKBH-0OFDt6sOu4bCnkdf8KwYJ9wXzVqAtY2dWnaiVuXyDB7gvlaSPbpT0CyUuPi8l-MFGsK3bR1u
+
+---
