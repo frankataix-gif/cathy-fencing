@@ -10540,3 +10540,44 @@ Avoid late payment charges by paying your bill in full by the due date. Log into
 In addition to viewing your usage, bill and amount due, use Self Serve to switch back t
 
 ---
+
+## [其他] GCKey Sign-In
+
+**发件人:** GC@auth.canada.ca
+**日期:** 2026-08-28T00:34:26+00:00
+**摘要:** 提醒验证GCKey账户
+**待办:** 验证GCKey账户
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+    .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+ 
+
+ 
+ 
+.outlook-word-break {
+    word-break: break-all !important;
+}
+ 
+ 
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                            
+                         
+                     
+                 
+             
+      
+
+---
