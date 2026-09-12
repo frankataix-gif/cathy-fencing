@@ -5886,3 +5886,21 @@ Benefits of the Portal: The portal provides a range of services, including:
   *   Efficient parcel registration (please ensure all deliveries are addressed t
 
 ---
+
+## [其他] Viewing Authorization - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-09T11:15:20+02:00
+**摘要:** Foxtons的Freya团队将于明天上午来拍摄，需协助获取钥匙。
+**待办:** 协助Freya团队获取钥匙
+
+Dear London Dock Concierge,
+
+Good morning
+
+The Foxton Freya team will visit tomorrow morning to take videos and photographs. Please assist Freya with collecting the keys.
+
+If you have any questions, please let me know.
+
+
+---
