@@ -9626,3 +9626,36 @@ p {
 （无正文）
 
 ---
+
+## [待办] Re: Natalie Wu - Online Meeting Request (Tier 2 Request 60 mins)
+
+**发件人:** Yee Cheng Leong <ycleong@vivienleeimmigration.com>
+**日期:** 2026-08-31T17:15:29+00:00
+**摘要:** 确认是否仍需按原时间咨询或改期
+**待办:** 确认或重新安排咨询时间
+
+Hi Natalie,
+
+We have not heard back from you. Just wanted to confirm if you are still ok for the consultation times proposed below or you want to re-schedule to another time?
+Please let me know so that I can arrange for you.
+
+Thanks, Natalie.
+
+
+Yours Truly,
+
+Yee Cheng Leong
+
+Case Administrative Assistant
+
+VIVIEN LEE IMMIGRATION & BUSINESS CORPORATION
+
+Address: Suite 720, 999 West Broadway
+
+Vancouver, British Columbia, V5Z 1K5
+
+Tel: 604-875-9338
+
+www.VivienLeeImmigration.com
+
+---
