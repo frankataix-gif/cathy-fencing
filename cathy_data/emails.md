@@ -4733,3 +4733,19 @@ Your scenario Integration Webhooks has been stopped due to an error.
  * Tea
 
 ---
+
+## [营销] The most powerful iPhone lineup ever. Plus new Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-10T16:21:48+00:00
+**摘要:** Apple发布全新产品线，包括iPhone Duo、iPhone 18 Pro、Apple Watch Series 12、Apple Watch Ultra 4和AirPods 5。
+**待办:** 无
+
+Apple Event logo with a glowing neon effect in blue and pink hues, a bright white flare at its center, on a gradient background
+
+Introducing iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5.
+
+Watch the event Watch the event
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHs
+
+---
