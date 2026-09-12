@@ -13843,3 +13843,24 @@ Hi jingqi natalie,  You recently visited our online store and we noticed that yo
   .column--xs-12 {
 
 ---
+
+## [营销] 🛴 Save $520 on a Kukirin electric scooter. Today only.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-08-13T06:09:31-06:00
+**摘要:** BestBuy.ca 发送促销邮件，宣布今天购买 Kukirin 电动滑板车可节省 520 加元。
+**待办:** 无
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
