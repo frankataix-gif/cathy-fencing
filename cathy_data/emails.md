@@ -11290,3 +11290,23 @@ Looking forward to hearing from you.
     a:hover     
 
 ---
+
+## [其他] Payment Confirmation Alert
+
+**发件人:** internetbanking@fmbch.com
+**日期:** 2026-08-25T10:50:25+02:00
+**摘要:** 客户请求提供付款证明的附件。
+**待办:** 检查附件并确认收到付款证明。
+
+Dear Beneficiary,  
+ 
+Our Customer has requested that we provide you with the attached Proof of Payment.
+ 
+ 
+ 
+Regards,
+ 
+ 
+ First Capital Bank
+
+---
