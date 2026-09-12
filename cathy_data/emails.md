@@ -8318,3 +8318,31 @@ FASTEST SHIPPING, ALWAYS | SHOP NOW
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NGMdYyhi2TA2ZRLfvp-2FxO1-2Fv5jBpcQTSnaj837Uvm-2FReRng0UfC6o3U2DHrUViwTI-3DToJx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADlgGOALOgtrXe-2BJ4bfI6yqLDxnvA15x7ZDTU3LThLhXfz670KudSc6q8xCH1t1yT9zE1nfCHEXVYNO-2BbeUjSVln-2BAMuaVLavIH5mCvnnzyPdgmpJFrzHVhPOLHSMXnsp2gbuf-2Fs3z1RwYJb6VWg66eTpxNlf5l3y-
 
 ---
+
+## [其他] You’ve made some changes to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-02T16:48:20-07:00
+**摘要:** 用户更改了TELUS移动账户计划，导致账单出现部分费用变动，并更新了最喜欢的号码设置。
+**待办:** 无
+
+You’ve made some changes to your TELUS Mobility account  
+ 
+Hi ,  
+Here’s a summary of changes you made to your TELUS Mobility account on .  
+ 
+ 
+
+Your new Plan and add-ons: 
+ 
+Effective Date:  
+Expiry Date:
+
+Your old plan and add-ons that were removed: 
+ 
+Effective Date: 
+
+Your Favourite Numbers have been updated 
+Updates have been made to your favourite numbers, which allows you to make unlimited calls and texts to your favourite numbers. To view or change your favourite numbe
+
+---
