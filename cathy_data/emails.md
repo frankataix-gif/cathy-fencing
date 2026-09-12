@@ -12980,3 +12980,29 @@ p {
       
 
 ---
+
+## [学校] Yatri: U.S. DoS Visa Application Confirmation (Action Required)
+
+**发件人:** donotreply@usvisa-info.com
+**日期:** 2026-08-16T21:06:07+00:00
+**摘要:** 邮件确认了美国非移民签证面试的安排，并要求验证详情和准备文件。
+**待办:** 确认面试详情并准备相关文件
+
+You have successfully scheduled an appointment for your U.S.
+Nonimmigrant Visa application.
+
+Please verify your appointment details, shown below.
+
+We Value Your Opinion!
+Please complete a short survey and let us know how we are doing:
+
+Take Customer Satisfaction Survey 
+( https://www.research.net/r/GSSApplicantSurvey )
+
+Thank you for your feedback!
+
+*****************************************************
+GDIT/United States DoS Nonimmigrant Visa Instructions
+*************************
+
+---
