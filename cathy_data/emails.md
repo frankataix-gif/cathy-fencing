@@ -12671,3 +12671,17 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tffd25acd,40
  https://t.info.telus
 
 ---
+
+## [营销] Rate your area for a chance to win £250
+
+**发件人:** Rightmove <hello@mail.rightmove.co.uk>
+**日期:** 2026-08-18T15:09:59+00:00
+**摘要:** 邀请参与地区评价调查，有机会赢取250英镑奖金。
+**待办:** 参与调查以赢取250英镑奖金。
+
+Take our quick survey              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/B74zjl03GRW740JylPcyxw~~/AAAHahA~/mLk97tySOyrCC0W3u4-GvGETkPXjIjEgneyo5xwE63lRWewgInsrBkioAWNVE-qo8utsMMFWn_rSt4MICZFUXEJ12g3a3VXBUrSlnyu0Jh422R5WXnOXa8ftQ4xx9rd0CRvM9urhtp27kIeFHp4nmFiixOfiIxgU3AfJ5d6tyD8~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/SkRICixvx8GDTn9lwNnqZQ~~/AAAHahA~/jtGBJavf8qeA71i8gFQ3lehlSiSSv_KLrQtxOd0CheFFnvYLvxzZzZTk5by7wo5SJL2pf-wIZYUhspaetlOVbx4ljsoc2ce5w1FmHh5mCa4mXA4rY6hmNo
+
+---
