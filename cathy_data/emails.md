@@ -5866,3 +5866,23 @@ E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
 Web: www.premierestates.co
 
 ---
+
+## [其他] Apartment 120, Emery Wharf – Leaseholder portal registration
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-09-09T09:23:23+00:00
+**摘要:** 这封邮件是伦敦码头公寓的管家团队发送的，通知租户关于居民门户的注册和使用，包括相关服务和登录信息。
+**待办:** 注册并使用提供的凭证访问居民门户
+
+Dear Jingqi Wu,
+
+Welcome to London Dock!
+
+My name is Nancy, and I’m part of the Concierge Team here at London Dock. I’m reaching out to introduce you to our Resident Portal, a convenient platform designed to keep you informed and help us manage your needs efficiently.
+
+Benefits of the Portal: The portal provides a range of services, including:
+
+  *   Timely updates and communications related to London Dock
+  *   Efficient parcel registration (please ensure all deliveries are addressed t
+
+---
