@@ -13113,3 +13113,43 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [击剑] Complete your purchase at The Fencing Post...
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-15T15:16:01+00:00
+**摘要:** 邮件提醒您未完成击剑装备的购买，包括剑刃和胶带，并提供完成订单的链接。
+**待办:** 点击链接完成购买
+
+Hi jingqi natalie,  You recently visited our online store and we noticed that you didn't complete your order for the following items:   
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 1 x  Foil Blade - Uhlmann BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+			 
+		 
+	 
+	 
+		 2 x  Foil Blade - Allstar BF &quot;Ultra&quot; FIE #5 Wired with Allstar /Uhlmann point  
+		 Flexibility : Medium (M) 
+	 
+ 
+ 
+	 
+		 
+			
+
+---
