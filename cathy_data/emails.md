@@ -6396,3 +6396,38 @@ Sephora
  .ExternalClass * {line-height: 112%;}#outlook a {padding: 0;}.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 112%;}a[href^=tel], .nolinkcolor>a {color: inherit;text-decoration: none;}.sup, td {-webkit-text-size-adjust: none;mso-line-height-rule: exactly;}.applelinksGreyN a {color: #6d6e71 !important;text-decoration: none !important;}.applelinksGreyN1, .applelinksGreyN1 a {color: #6d6e71 !important;text-decoration: none !important;}table, td 
 
 ---
+
+## [其他] Re: Package Delivery Assistance – TH103
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-08T13:39:42-07:00
+**摘要:** 邮件询问TH103的包裹配送情况，对方表示尚未收到但会下班前再次确认。
+**待办:** 无
+
+Thanks！！
+
+Natalie
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月8日
+周二13:19写道：
+
+> Hi Natalie,
+>
+> I just checked, nothing yet, but I can check at the end of the day.
+>
+> Thanks
+>
+> Anastasia
+>
+> *Resident Care Team*
+>
+> Phone 604 317 4060
+>
+>
+>
+>
+> 708 Farrow Street
+> <https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+BC%0D%0A+%7C+V3J+1P7?entry=gmail&source=g>*|
+> <https://www.google.com/maps/search/708+Farrow+Street++%7C+Coquitlam+B
+
+---
