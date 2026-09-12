@@ -5422,3 +5422,27 @@ nataliewu100@gmail.com
 （无正文）
 
 ---
+
+## [学校] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-09T19:35:12+00:00
+**摘要:** 邮件确认已更新联系方式，并通知剩余表格可在获得签证后完成，需在签证发放后及时告知学校。
+**待办:** 无
+
+Thank you, Natalie, for the update. I have updated your contact number in our system.
+For the remaining forms, you may wait until you receive your visa before completing them. My director will stay in close contact with you throughout the process.
+Please keep us informed once your visa has been issued. We look forward to hearing from you.
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
+
+---
