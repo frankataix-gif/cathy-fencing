@@ -8006,3 +8006,16 @@ body{margin:auto; border:2px solid white; padding:0px; width:70%; font-family:Ar
    Just so you know, if they have a roaming package that covers this destination, their usage will be billed at the rates of that package. Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts $0.75/MSG (1 message = 160 characters) (ma
 
 ---
+
+## [学校] Get ready for your first week of school
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-03T23:00:10+00:00
+**摘要:** 提醒准备开学第一周的相关事宜。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
