@@ -13807,3 +13807,39 @@ Hi jingqi natalie,  You recently visited our online store and we noticed that yo
     To complete
 
 ---
+
+## [击剑] 感谢您在“The Fencing Post”注册
+
+**发件人:** The Fencing Post <vickie@thefencingpost.com>
+**日期:** 2026-08-13T14:14:15+00:00
+**摘要:** 感谢注册The Fencing Post，可能涉及击剑相关内容。
+**待办:** 无
+
+@media only screen {
+  html {
+    background: #fff;
+    min-height: 100%;
+  }
+}
+@media only screen and (max-width: 599px) {
+  img {
+    height: auto !important;
+    width: auto !important;
+  }
+
+  .container {
+    width: 100% !important;
+  }
+
+  .column {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: auto !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+  .column--xs-12 {
+
+---
