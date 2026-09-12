@@ -11800,3 +11800,14 @@ Phone 604 317 4060
 The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, d
 
 ---
+
+## [其他] Your insurance quote has been saved.
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-08-21T21:45:56+00:00
+**摘要:** 保险报价已保存，请确认或查看。
+**待办:** 无
+
+@media only screen{html{min-height:100%;background:#dfdfdf}}@media only screen and (max-width:734px){.small-text-center{text-align:center!important}}@media only screen and (max-width:734px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:100%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:34px!important;padding-right:34px!important}th.small-2{
+
+---
