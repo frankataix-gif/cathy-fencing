@@ -8520,3 +8520,45 @@ table {
 /* Res
 
 ---
+
+## [其他] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-09-02T21:56:42+00:00
+**摘要:** 邮件要求通过My TELUS验证身份，以确保账户安全。
+**待办:** 需要验证身份以确保账户安全。
+
+96 
+  
+  
+
+ 
+ 
+ 
+ TELUS 
+ 
+/* Force Hotmail to display emails at full width */
+.ReadMsgBody {
+  width: 100%;
+  background-color: #eeeeee;
+}
+.ExternalClass {
+  width: 100%;
+  background-color: #eeeeee;
+}
+/* Forces Hotmail to display normal line spacing. */
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+/* Resolves webkit padding issue. */
+table {
+  border-spacing: 0;
+}
+/* Res
+
+---
