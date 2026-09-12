@@ -7170,3 +7170,39 @@ Google Play
 
 
 ---
+
+## [其他] 9.9狂賞倒數‼️餐飲門票 HK$9.9😱
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-07T06:47:24+00:00
+**摘要:** Trip.com推送9.9元餐饮门票促销，包含邮轮、机场接送优惠券及新券包。
+**待办:** 无
+
+仲有半價郵輪/機場接送優惠券+全新3大券包即將上線，立即睇👉          table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  mso-border-alt: 0pt;
+}
+p {
+  mso-line-height-rule: exactly;
+  mso-text-raise: 4px;
+}
+.trip-mail-fluid.rich-text td {
+  vertical-align: middle !important;
+}
+.trip-mail-fluid p {
+  margin: 0;
+  word-break: break-word;
+}
+
+.trip-mail-fluid-coupon {
+  max-width: 278px !important;
+}
+
+.trip-mail-fluid-coupon-tag {
+  max-width: 225px !important;
+}
+
+.trip-mail-fluid-coupon-claim {
+
+---
