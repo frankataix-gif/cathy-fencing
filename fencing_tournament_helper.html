@@ -4600,7 +4600,11 @@ function circuitLabel(c) {
     container.innerHTML = items.map(item => {
       const color = item.color || `<span class="schedule-dot" style="background:${taskCategoryColor[item.category] || '#6b7280'};"></span>`;
       const badge = item.overdue ? '<span style="background:#ef4444;color:#fff;font-size:11px;padding:1px 6px;border-radius:8px;margin-left:6px;">过期</span>' : '';
-      const dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
+      let dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
+      if (item.type === 'task' && item.date !== '未设日期') {
+        const info = dueCountdownText(item.date);
+        dateText = info.text;
+      }
       return `<div style="margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
         <div style="display:flex; align-items:flex-start; gap:8px;">
           <span style="margin-top:2px;">${color}</span>
@@ -4666,7 +4670,8 @@ function circuitLabel(c) {
 
   function renderTaskItem(t) {
     const color = taskCategoryColor[t.category] || '#6b7280';
-    const due = t.dueDate ? `<span style="font-size:0.75rem; color:#6b7280;">${t.dueDate}</span>` : '';
+    const dueInfo = t.dueDate ? dueCountdownText(t.dueDate) : null;
+    const due = dueInfo ? `<span style="font-size:0.75rem; color:${dueInfo.color};">${dueInfo.text}</span>` : '';
     const source = t.sourceType === 'email' ? `<span style="font-size:0.75rem; color:#9ca3af; display:block; white-space:pre-wrap; word-break:break-word;">来自：${escapeHtml(t.sourceSubject || '')}</span>` : '';
     return `<div class="schedule-list-item" style="border-left-color:${color}; padding:10px 12px;">
       <div style="display:flex; align-items:flex-start; gap:10px;">
@@ -4776,6 +4781,19 @@ function circuitLabel(c) {
     const [y, m, d] = dateStr.split('-').map(Number);
     const dt = new Date(Date.UTC(y, m - 1, d + n));
     return dt.toISOString().slice(0, 10);
+  }
+
+  function dueCountdownText(dateStr) {
+    if (!dateStr) return { text: '', color: '#6b7280' };
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const due = Date.UTC(y, m - 1, d);
+    const todayStr = vancouverISO().slice(0, 10);
+    const [ty, tm, td] = todayStr.split('-').map(Number);
+    const now = Date.UTC(ty, tm - 1, td);
+    const diff = Math.round((due - now) / 86400000);
+    if (diff < 0) return { text: `${dateStr} 日前 · 已过期 ${-diff} 天`, color: '#ef4444' };
+    if (diff === 0) return { text: `${dateStr} 日前 · 今天截止`, color: '#f59e0b' };
+    return { text: `${dateStr} 日前 · 还剩 ${diff} 天`, color: '#6b7280' };
   }
 
   function getWindowCutoffDate(summaryDateStr) {
