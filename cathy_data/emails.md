@@ -14219,3 +14219,20 @@ TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRL1R-2FNLMo9-2F46V30BUIueao-3Dw5EW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIuAfk-2FUa-2BoJEdAN1pEfsYmYmkzClDMU7CIffNSfpsgn6XoV1-2FzCIebLKJlLBGuvHZeqXjYfIm7nyEHeN9IVD6laYIIolByp2AuJNWMZmJnoFF8HxOdwlmCv6RSVmqA-2B
 
 ---
+
+## [营销] PSA 📢 Get 50% off select Charlotte Tilbury, Sunday Riley, and more
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-13T13:17:05.000Z
+**摘要:** Sephora推送限时折扣活动，部分品牌如Charlotte Tilbury和Sunday Riley享50%优惠。
+**待办:** 无
+
+ Sephora 
+
+Go, go, go! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a09aea0bea973141f4bbe5c898/4f6c68a3e43e4b020000021ef3a0bcc2/4f6c68a3-e43e-4b02-b977-0ea277a03d47?_
+
+---
