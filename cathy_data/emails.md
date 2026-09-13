@@ -14260,3 +14260,27 @@ Fix it with Maia
 Tell Maia what’s going on or pas
 
 ---
+
+## [营销] Meet your new agent 👋
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-13T16:28:19.000Z
+**摘要:** 这封邮件介绍了Make公司的AI代理工具，旨在帮助用户自动化处理邮件任务，如总结请求、起草邮件和分类工单，以提高工作效率。
+**待办:** 无
+
+What if automation could think, too?  
+
+Logo ( https://www.make.com?utm_campaign=Agents_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+You've already started removing repetitive work from your day, but some tasks require more than moving data between apps.
+
+They require reading, summarising, prioritising, researching, or drafting content. That's where AI agents come in.
+
+Think of them as an extra teammate that can:
+
+🤖 Summarise incoming requests
+✍️ Draft emails an
+
+---
