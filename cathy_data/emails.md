@@ -14206,3 +14206,16 @@ Spirit Day (Go Alouette!) and the Welcome Back Picnic was a success, thanks to a
 Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/09f12051-5d70-4591-ad1c-35c5b49a02fd> to read this week’s eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can g
 
 ---
+
+## [营销] It’s Boot Season
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-13T13:04:36.000Z
+**摘要:** 推广秋季和冬季靴子款式，适合凉爽天气和夜晚穿着。
+**待办:** 无
+
+Step into the styles made for crisp days and cool nights.   YOUR
+TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRL1R-2FNLMo9-2F46V30BUIueao-3Dw5EW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIuAfk-2FUa-2BoJEdAN1pEfsYmYmkzClDMU7CIffNSfpsgn6XoV1-2FzCIebLKJlLBGuvHZeqXjYfIm7nyEHeN9IVD6laYIIolByp2AuJNWMZmJnoFF8HxOdwlmCv6RSVmqA-2B
+
+---
