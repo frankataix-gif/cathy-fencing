@@ -14236,3 +14236,27 @@ Go, go, go!
 <https://app.sephora.com/T/v61000001a09aea0bea973141f4bbe5c898/4f6c68a3e43e4b020000021ef3a0bcc2/4f6c68a3-e43e-4b02-b977-0ea277a03d47?_
 
 ---
+
+## [其他] Your automation might just need one click☝️
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-13T13:26:31.000Z
+**摘要:** 邮件建议用户运行自动化流程以查看卡住的位置，并提供了解决方案的步骤，如联系Maia或查看社区论坛。
+**待办:** 无
+
+Try running it once to get things moving.  
+
+Logo ( https://www.make.com?utm_campaign=ScenarioCheck_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Your first scenario is usually the one that takes longest. If you got stuck partway, here's how to get unstuck.
+
+Open your scenario and click Run once to see where it stops.
+
+( https://make.com?utm_campaign=ScenarioCheck_Beginner&utm_medium=email&utm_source=customer.io )
+
+Fix it with Maia
+Tell Maia what’s going on or pas
+
+---
