@@ -14605,3 +14605,16 @@ permitted to board the school bus until the account has been brought up to
 date. If payment has not been made by 3:00pm today, please do
 
 ---
+
+## [学校] From the Head of School: Welcome Back Update
+
+**发件人:** "Mr. Scott Banack, Head of School" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-14T21:00:16.000Z
+**摘要:** 校长发布欢迎返校的更新信息。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
