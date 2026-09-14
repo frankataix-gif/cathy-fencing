@@ -14454,3 +14454,16 @@ Verdana, Arial, sans-serif !important; }     96
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Exclusive to Browns: new season favourites
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-14T13:09:57.000Z
+**摘要:** Browns Shoes 推出新季节精选鞋款与服装，包括尖头鞋、平底鞋、运动鞋及定制服装，引导用户访问链接查看最新趋势。
+**待办:** 无
+
+Cap-toes, flats, sneakers—and tailoring made for every wardrobe.
+YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PA7BRXCPliNOlwsb0nsltOlj88aHl6M6Xw-2FxGRhKGCng-3D-3D6xr4_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHfbkRxoeQ-2BJseA1AkkjvyYl82akoMZ7GY3-2F3Dwmbmhe0q3-2F9XoTWI9xXyGSqFe-2Fm5yirhW-2FMx-2FlL1nG0YrvG0wNN3xs233BJsSE9cK99-2BCwwMhTk1UDYl1bNfezaqB-2FmrE3rG-2Bz9p4WSq
+
+---
