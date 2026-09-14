@@ -14484,3 +14484,49 @@ Fill up your basket.
 <https://app.sephora.com/T/v61000001a0a00989e7c144a16e96c660f0/ef56e20f49a941c20000021ef3a0bcc2/ef56e20f-49a9-41c2-a5a9-45066
 
 ---
+
+## [其他] New Arrangement
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-14T13:49:23.000Z
+**摘要:** 邮件主题为新安排，但正文内容缺失，无法获取具体信息
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
