@@ -14335,3 +14335,30 @@ Verdana, Arial, sans-serif !important; }     96
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154247171-1789355998601.347%26ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
 
 ---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-14T07:14:38.000Z
+**摘要:** 通知用户收款账户已开通，提供使用指南。
+**待办:** 无
+
+Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" widt
+
+---
