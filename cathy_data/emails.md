@@ -14323,3 +14323,15 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
 
 ---
+
+## [营销] 澳洲/紐西蘭來回低至HK$4,XXX！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-14T03:19:58.000Z
+**摘要:** 澳洲航空推出限时优惠，往返机票低至HK$4,XXX，含30kg行李和机上餐食，鼓励提前预订年尾航班。
+**待办:** 无
+
+【澳洲航空限時優惠】包 30kg 行李 + 機上餐食，搶先訂年尾機票😍🎄
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154247171-1789355998601.347%26ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
