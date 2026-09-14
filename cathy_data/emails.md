@@ -14467,3 +14467,20 @@ YOUR FIRST STOP FOR TRENDS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PA7BRXCPliNOlwsb0nsltOlj88aHl6M6Xw-2FxGRhKGCng-3D-3D6xr4_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHfbkRxoeQ-2BJseA1AkkjvyYl82akoMZ7GY3-2F3Dwmbmhe0q3-2F9XoTWI9xXyGSqFe-2Fm5yirhW-2FMx-2FlL1nG0YrvG0wNN3xs233BJsSE9cK99-2BCwwMhTk1UDYl1bNfezaqB-2FmrE3rG-2Bz9p4WSq
 
 ---
+
+## [营销] One-day deals: 50% off select beauty 🍩
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-14T13:09:34.000Z
+**摘要:** Sephora 发送了一日特价促销邮件，提供部分美妆产品的50%折扣优惠。
+**待办:** 无
+
+ Sephora 
+
+Fill up your basket. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0a00989e7c144a16e96c660f0/ef56e20f49a941c20000021ef3a0bcc2/ef56e20f-49a9-41c2-a5a9-45066
+
+---
