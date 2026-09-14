@@ -14408,3 +14408,49 @@ Verdana, Arial, sans-serif !important; }     96
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] Short-Term Letting at London Dock - Resident meeting 16/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-14T09:51:26.000Z
+**摘要:** 通知居民关于伦敦码头短期租赁的会议安排，日期为2026年9月16日。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
