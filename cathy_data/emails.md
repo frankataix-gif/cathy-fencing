@@ -14585,3 +14585,23 @@ K-Beauty lovers...this one’s for you.
 <https://app.sephora.com/T/v61000001a0a0afa595a369a9f4bbc780a0/49616d40b2d041980000021ef3a0bcc2/49616d40-b2d
 
 ---
+
+## [学校] Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-09-14T20:11:33.000Z
+**摘要:** 提醒支付Meadowridge学校的校车费用，逾期未付可能导致学生无法乘车。
+**待办:** 支付校车费用
+
+Dear Parents/Guardians,
+
+This is a friendly reminder that all outstanding school bus service invoices
+are due by tomorrow, September 15, 2026.
+
+To ensure your child's transportation service continues without
+interruption, please arrange payment by the deadline. If payment has not
+been received by tomorrow, students with outstanding balances will not be
+permitted to board the school bus until the account has been brought up to
+date. If payment has not been made by 3:00pm today, please do
+
+---
