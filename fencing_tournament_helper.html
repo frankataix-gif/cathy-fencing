@@ -2254,14 +2254,15 @@ function circuitLabel(c) {
     kwInput.value = '';
   }
 
-  // ===== 常用数据（AES-GCM 加密密码库） =====
+  // ===== 常用数据：公开组（明文 open_data.json）+ 加密组（AES-GCM vault.json，妈妈等） =====
   let _vaultPass = null;
-  let _vaultData = null;
+  let _vaultData = null;      // 加密组 {groups:[...]}
+  let _openData = null;       // 公开组 {groups:[击剑,学校,...]}
   let _vaultExists = false;
-  let _vaultEditing = null; // 'gi_ii'
+  let _vaultEditing = null;   // 'o_gi_ii' 或 'v_gi_ii'
   let _vaultAdding = false;
   let _vaultPayload = null;
-  let _vaultFilter = null; // 分组名或 null=全部
+  let _vaultFilter = null;    // 分组名或 null=全部
 
   function _b64(u8) { let s = ''; for (let i = 0; i < u8.length; i += 8192) s += String.fromCharCode.apply(null, u8.subarray(i, i + 8192)); return btoa(s); }
   function _unb64(s) { return Uint8Array.from(atob(s), c => c.charCodeAt(0)); }
@@ -2292,17 +2293,39 @@ function circuitLabel(c) {
     return null;
   }
 
+  async function loadOpenData() {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/open_data.json?_=' + Date.now(), { cache: 'no-cache' });
+      if (res.ok) { _openData = await res.json(); return; }
+    } catch(e) {}
+    _openData = { groups: [{ name: '击剑', items: [] }, { name: '学校', items: [] }] };
+  }
+
+  async function _saveFile(path, content, statusEl) {
+    const res = await fetch(CATHY_SYNC_WORKER_URL, {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action: 'save', path, content, message: 'Update ' + path })
+    });
+    const result = await res.json().catch(() => ({}));
+    if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+  }
+
+  async function saveOpenData() {
+    const status = document.getElementById('vault-status');
+    try {
+      await _saveFile('cathy_data/open_data.json', JSON.stringify(_openData, null, 2));
+      if (status) status.textContent = '已保存到 GitHub · ' + new Date().toLocaleTimeString();
+    } catch(e) {
+      if (status) status.textContent = '保存失败：' + e.message;
+    }
+  }
+
   async function saveVault() {
     const status = document.getElementById('vault-status');
     if (status) status.textContent = '加密并保存中…';
     try {
       const payload = await vaultEncryptObj(_vaultData);
-      const res = await fetch(CATHY_SYNC_WORKER_URL, {
-        method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action: 'save', path: 'cathy_data/vault.json', content: JSON.stringify(payload, null, 2), message: 'Update vault' })
-      });
-      const result = await res.json().catch(() => ({}));
-      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+      await _saveFile('cathy_data/vault.json', JSON.stringify(payload, null, 2));
       _vaultExists = true;
       if (status) status.textContent = '已加密保存到 GitHub · ' + new Date().toLocaleTimeString();
     } catch(e) {
@@ -2310,23 +2333,61 @@ function circuitLabel(c) {
     }
   }
 
+  async function saveAllVault() {
+    await saveOpenData();
+    if (_vaultPass && _vaultData) await saveVault();
+  }
+
   function vaultDefaultData() {
-    return { groups: [
-      { name: '击剑', items: [] },
-      { name: '学校', items: [] },
-      { name: '妈妈', items: [] }
-    ]};
+    return { groups: [{ name: '妈妈', items: [] }] };
+  }
+
+  // 解锁后迁移：加密库里的「击剑/学校」组移到公开区；「生活」组改名为「妈妈」
+  async function migrateVaultGroups() {
+    if (!_vaultData || !Array.isArray(_vaultData.groups)) return;
+    const hasMom = _vaultData.groups.some(g => g.name === '妈妈');
+    _vaultData.groups.forEach(g => { if (g.name === '生活' && !hasMom) g.name = '妈妈'; });
+    let moved = false;
+    _vaultData.groups = _vaultData.groups.filter(g => {
+      if (g.name === '击剑' || g.name === '学校') {
+        let og = _openData.groups.find(x => x.name === g.name);
+        if (!og) { og = { name: g.name, items: [] }; _openData.groups.push(og); }
+        og.items = og.items.concat(g.items || []);
+        moved = true;
+        return false;
+      }
+      return true;
+    });
+    if (moved) await saveAllVault();
   }
 
   const _vInputStyle = 'width:100%; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px; box-sizing:border-box; margin-bottom:8px;';
   const _vBtnStyle = 'background:none; border:none; color:var(--primary); font-size:0.75rem; cursor:pointer; padding:2px 4px;';
 
-  function vaultItemHTML(it, gi, ii) {
-    const editing = _vaultEditing === gi + '_' + ii;
-    if (editing || (_vaultAdding && gi === -1)) {
-      const groups = (_vaultData.groups || []);
-      const groupOpts = groups.map((g, i) => `<option value="${i}" ${(i === gi || (gi === -1 && _vaultFilter === g.name)) ? 'selected' : ''}>${escapeHtml(g.name)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
-      return `<div class="vault-item" data-gi="${gi}" data-ii="${ii}" style="border:1px solid var(--primary); border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
+  function _allGroupNames() {
+    const names = new Set((_openData ? _openData.groups : []).map(g => g.name));
+    if (_vaultPass && _vaultData) (_vaultData.groups || []).forEach(g => names.add(g.name));
+    names.add('妈妈'); // 加密组默认占位
+    return [...names];
+  }
+  function _isOpenGroup(name) { return !!(_openData && _openData.groups.some(g => g.name === name)); }
+  function _findGroup(src, gi) { return (src === 'o' ? _openData : _vaultData).groups[gi]; }
+
+  function _unlockFormHTML() {
+    return `<div style="display:flex; gap:8px; margin-top:6px;"><input type="password" id="vault-pass-input" placeholder="输入主密码" style="flex:1; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px;"><button class="btn" id="vault-unlock" style="padding:8px 16px;">解锁</button></div><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`;
+  }
+  function _createFormHTML() {
+    return `<div style="font-size:0.85rem; color:#6b7280; margin:6px 0 10px;">首次使用：设置一个主密码（所有设备通用；忘记无法找回）。</div><input type="password" id="vault-pass-input" placeholder="设置主密码" style="${_vInputStyle}"><input type="password" id="vault-pass-input2" placeholder="再输一次确认" style="${_vInputStyle}"><button class="btn cathy" id="vault-create" style="padding:8px 16px;">创建</button><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`;
+  }
+
+  function vaultItemHTML(it, src, gi, ii) {
+    const key = src + '_' + gi + '_' + ii;
+    const editing = _vaultEditing === key || (_vaultAdding && key === 'n_-1_-1');
+    if (editing) {
+      const names = _allGroupNames().filter(n => _isOpenGroup(n) || _vaultPass);
+      const curGroup = gi === -1 ? (_vaultFilter || '') : _findGroup(src, gi).name;
+      const groupOpts = names.map(n => `<option value="${escapeHtml(n)}" ${n === curGroup ? 'selected' : ''}>${escapeHtml(n)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
+      return `<div class="vault-item" data-key="${key}" style="border:1px solid var(--primary); border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
         <input class="vf" data-f="name" value="${escapeHtml(it.name || '')}" placeholder="名称（如 ManageBac）" style="${_vInputStyle}">
         <select class="vf" data-f="group" style="${_vInputStyle}">${groupOpts}</select>
         <input class="vf" data-f="url" value="${escapeHtml(it.url || '')}" placeholder="入口网址 https://…" style="${_vInputStyle}">
@@ -2339,7 +2400,7 @@ function circuitLabel(c) {
         </div>
       </div>`;
     }
-    return `<div class="vault-item" data-gi="${gi}" data-ii="${ii}" style="border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
+    return `<div class="vault-item" data-key="${key}" style="border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
       <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
         <b style="font-size:0.9rem;">${escapeHtml(it.name || '(未命名)')}</b>
         ${it.url ? `<a href="${escapeHtml(it.url)}" target="_blank" style="font-size:0.75rem; color:var(--primary); text-decoration:none; flex-shrink:0;">打开入口 ›</a>` : ''}
@@ -2357,35 +2418,44 @@ function circuitLabel(c) {
   function renderVault() {
     const box = document.getElementById('vault-body');
     if (!box) return;
-    if (!_vaultPass) {
-      if (_vaultExists === null) { box.innerHTML = '加载中…'; return; }
-      box.innerHTML = _vaultExists
-        ? `<div style="display:flex; gap:8px;"><input type="password" id="vault-pass-input" placeholder="输入主密码" style="flex:1; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px;"><button class="btn" id="vault-unlock" style="padding:8px 16px;">解锁</button></div><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`
-        : `<div style="font-size:0.85rem; color:#6b7280; margin-bottom:10px;">首次使用：设置一个主密码。之后所有设备都用它解锁；忘记无法找回。</div><input type="password" id="vault-pass-input" placeholder="设置主密码" style="${_vInputStyle}"><input type="password" id="vault-pass-input2" placeholder="再输一次确认" style="${_vInputStyle}"><button class="btn cathy" id="vault-create" style="padding:8px 16px;">创建密码库</button><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`;
-      return;
-    }
-    const groups = _vaultData.groups || [];
+    if (_openData === null) { box.innerHTML = '加载中…'; return; }
+    const names = _allGroupNames();
+    const showAll = !_vaultFilter;
+
     let html = `<div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap;">
-      <button class="btn secondary" data-act="lock" style="padding:4px 12px; font-size:0.8rem;">锁定</button>
+      ${_vaultPass ? '<button class="btn secondary" data-act="lock" style="padding:4px 12px; font-size:0.8rem;">锁定</button>' : ''}
       <button class="btn" data-act="add" style="padding:4px 12px; font-size:0.8rem;">＋ 添加记录</button>
       <button class="btn cathy" data-act="save" style="padding:4px 12px; font-size:0.8rem;">保存到 GitHub</button>
     </div>
     <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>`;
     html += `<div style="display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap;">
       <button class="vchip${!_vaultFilter ? ' on' : ''}" data-act="filter" data-g="">全部</button>
-      ${groups.map(g => `<button class="vchip${_vaultFilter === g.name ? ' on' : ''}" data-act="filter" data-g="${escapeHtml(g.name)}">${escapeHtml(g.name)}</button>`).join('')}
+      ${names.map(n => `<button class="vchip${_vaultFilter === n ? ' on' : ''}" data-act="filter" data-g="${escapeHtml(n)}">${escapeHtml(n)}${!_isOpenGroup(n) && !_vaultPass ? ' 🔒' : ''}</button>`).join('')}
     </div>`;
-    if (_vaultAdding) html += vaultItemHTML({}, -1, -1);
-    const visible = groups.filter(g => !_vaultFilter || g.name === _vaultFilter);
-    if (!visible.length || visible.every(g => !(g.items || []).length)) {
-      if (!_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
-    }
-    groups.forEach((g, gi) => {
-      if (_vaultFilter && g.name !== _vaultFilter) return;
-      if (!(g.items || []).length && !g._new) return;
-      html += `<div style="font-weight:700; margin:12px 0 6px; color:var(--primary);">${escapeHtml(g.name)}</div>`;
-      (g.items || []).forEach((it, ii) => { html += vaultItemHTML(it, gi, ii); });
+    if (_vaultAdding) html += vaultItemHTML({}, 'n', -1, -1);
+
+    let renderedAny = false;
+    names.forEach(name => {
+      if (!showAll && name !== _vaultFilter) return;
+      const openG = _openData.groups.findIndex(g => g.name === name);
+      const vaultG = (_vaultPass && _vaultData) ? _vaultData.groups.findIndex(g => g.name === name) : -1;
+      if (openG === -1 && vaultG === -1) {
+        // 加密组未解锁（或不存在）
+        if (name === '妈妈' || _vaultFilter === name) {
+          renderedAny = true;
+          html += `<div style="font-weight:700; margin:12px 0 6px; color:var(--primary);">${escapeHtml(name)} 🔒</div>
+            <div style="border:1px dashed #d1d5db; border-radius:10px; padding:12px; background:#fafafa;">
+              ${_vaultExists ? '该分组已加密，输入主密码查看。' + _unlockFormHTML() : '该分组可加密存放（存密码等敏感信息）。' + _createFormHTML()}
+            </div>`;
+        }
+        return;
+      }
+      renderedAny = true;
+      html += `<div style="font-weight:700; margin:12px 0 6px; color:var(--primary);">${escapeHtml(name)}${vaultG >= 0 ? ' 🔓' : ''}</div>`;
+      if (openG >= 0) _openData.groups[openG].items.forEach((it, ii) => { html += vaultItemHTML(it, 'o', openG, ii); });
+      if (vaultG >= 0) _vaultData.groups[vaultG].items.forEach((it, ii) => { html += vaultItemHTML(it, 'v', vaultG, ii); });
     });
+    if (!renderedAny && !_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
     box.innerHTML = html;
   }
 
@@ -2393,12 +2463,14 @@ function circuitLabel(c) {
     _vaultFilter = groupFilter || null;
     const box = document.getElementById('vault-body');
     if (box) box.innerHTML = '加载中…';
+    await loadOpenData();
     const payload = await loadVault();
     const savedPass = localStorage.getItem('cathy_vault_pass');
     if (payload && savedPass) {
       try {
         _vaultData = await vaultDecryptObj(payload, savedPass);
         _vaultPass = savedPass;
+        await migrateVaultGroups();
       } catch(e) { localStorage.removeItem('cathy_vault_pass'); }
     }
     renderVault();
@@ -2431,6 +2503,7 @@ function circuitLabel(c) {
           _vaultData = await vaultDecryptObj(_vaultPayload, pass);
           _vaultPass = pass;
           localStorage.setItem('cathy_vault_pass', pass);
+          await migrateVaultGroups();
           renderVault();
         } catch(err) {
           const msg = document.getElementById('vault-msg');
@@ -2456,8 +2529,9 @@ function circuitLabel(c) {
       if (!btn) return;
       const act = btn.dataset.act;
       const item = btn.closest('.vault-item');
-      const gi = item ? parseInt(item.dataset.gi) : -1;
-      const ii = item ? parseInt(item.dataset.ii) : -1;
+      const key = item ? item.dataset.key : '';
+      const [ksrc, kgi, kii] = key.split('_');
+      const gi = parseInt(kgi), ii = parseInt(kii);
       if (act === 'filter') {
         _vaultFilter = btn.dataset.g || null;
         _vaultEditing = null; _vaultAdding = false;
@@ -2473,51 +2547,59 @@ function circuitLabel(c) {
         renderVault();
       } else if (act === 'save') {
         _vaultEditing = null; _vaultAdding = false;
-        await saveVault();
         renderVault();
+        await saveAllVault();
       } else if (act === 'reveal') {
         const span = btn.parentElement.querySelector('.vp');
-        const it = _vaultData.groups[gi].items[ii];
+        const it = _findGroup(ksrc, gi).items[ii];
         const showing = span.textContent !== '••••••';
         span.textContent = showing ? '••••••' : it.pass;
         btn.textContent = showing ? '显示' : '隐藏';
       } else if (act === 'copy') {
         try { await navigator.clipboard.writeText(btn.dataset.v); btn.textContent = '已复制'; setTimeout(() => btn.textContent = '复制', 1200); } catch(e) {}
       } else if (act === 'edit') {
-        _vaultEditing = gi + '_' + ii; _vaultAdding = false;
+        _vaultEditing = key; _vaultAdding = false;
         renderVault();
       } else if (act === 'del') {
-        const it = _vaultData.groups[gi].items[ii];
+        const grp = _findGroup(ksrc, gi);
+        const it = grp.items[ii];
         if (!confirm(`删除「${it.name || ''}」？`)) return;
-        _vaultData.groups[gi].items.splice(ii, 1);
+        grp.items.splice(ii, 1);
         renderVault();
-        await saveVault();
+        await saveAllVault();
       } else if (act === 'edit-cancel') {
         _vaultEditing = null; _vaultAdding = false;
         renderVault();
       } else if (act === 'edit-save') {
         const card = item;
         const get = f => (card.querySelector(`[data-f="${f}"]`) || {}).value || '';
-        let groupIdx = get('group');
-        if (groupIdx === '_new') {
-          const gname = (prompt('新分组名称：') || '').trim();
+        let gname = get('group');
+        if (gname === '_new') {
+          gname = (prompt('新分组名称：') || '').trim();
           if (!gname) return;
-          _vaultData.groups.push({ name: gname, items: [], _new: true });
-          groupIdx = _vaultData.groups.length - 1;
-        } else {
-          groupIdx = parseInt(groupIdx) || 0;
+          const priv = _vaultPass ? confirm(`「${gname}」需要主密码保护吗？\n确定=加密组（妈妈类）／取消=公开组（击剑学校类）`) : false;
+          const target = priv ? _vaultData : _openData;
+          target.groups.push({ name: gname, items: [] });
         }
         const rec = { name: get('name').trim(), url: get('url').trim(), user: get('user').trim(), pass: get('pass'), note: get('note').trim() };
         if (!rec.name) { alert('名称不能为空'); return; }
+        let tg = _openData.groups.find(g => g.name === gname);
+        if (!tg && _vaultPass && _vaultData) tg = _vaultData.groups.find(g => g.name === gname);
+        if (!tg) {
+          // 目标是加密组名但未解锁 → 无法写入
+          if (!_vaultPass && _vaultExists && !confirm(`「${gname}」是加密分组，未解锁。改存到公开分组吗？\n确定=存到「击剑」／取消=放弃`)) return;
+          if (!_vaultPass && _vaultExists) { tg = _openData.groups.find(g => g.name === '击剑') || _openData.groups[0]; }
+          else { alert('找不到分组'); return; }
+        }
         if (gi === -1) {
-          _vaultData.groups[groupIdx].items.push(rec);
+          tg.items.push(rec);
         } else {
-          _vaultData.groups[gi].items.splice(ii, 1);
-          _vaultData.groups[groupIdx].items.push(rec);
+          _findGroup(ksrc, gi).items.splice(ii, 1);
+          tg.items.push(rec);
         }
         _vaultEditing = null; _vaultAdding = false;
         renderVault();
-        await saveVault();
+        await saveAllVault();
       }
     });
   }
