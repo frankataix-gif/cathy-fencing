@@ -713,7 +713,7 @@
         <button class="btn secondary" data-filter="focus" style="padding:4px 12px; font-size:0.8rem;">重要邮件</button>
         <button class="btn secondary" data-filter="击剑" style="padding:4px 12px; font-size:0.8rem;">击剑</button>
         <button class="btn secondary" data-filter="学校" style="padding:4px 12px; font-size:0.8rem;">学校</button>
-        <button class="btn secondary" data-filter="待办" style="padding:4px 12px; font-size:0.8rem;">待办</button>
+        <button class="btn secondary" data-filter="otodo" style="padding:4px 12px; font-size:0.8rem;">其他待办</button>
         <button class="btn secondary" data-filter="all" style="padding:4px 12px; font-size:0.8rem;">全部邮件</button>
       </div>
       <div id="emails-list-full" style="font-size:0.9rem; line-height:1.7;">加载中…</div>
@@ -2412,7 +2412,7 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
-  const EMAIL_AI_VERSION = '7';
+  const EMAIL_AI_VERSION = '8';
   function getEmailAIState() {
     try {
       const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
@@ -2539,19 +2539,44 @@ function circuitLabel(c) {
 
   function emailAiKey(e) { return (e.subject || '') + '|' + (e.from || '') + '|' + (e.date || ''); }
 
+  // AI 待办相似度去重：规范化后包含关系或字符重合 ≥60% 视为同一件
+  function _aiSim(a, b) {
+    const x = _aiNorm(a), y = _aiNorm(b);
+    if (!x || !y) return false;
+    if (x === y || x.includes(y) || y.includes(x)) return true;
+    const sx = new Set(x), sy = new Set(y);
+    let inter = 0;
+    sx.forEach(c => { if (sy.has(c)) inter++; });
+    return inter / (sx.size + sy.size - inter) >= 0.6;
+  }
+  function upsertAiTodo(items, item) {
+    const idx = items.findIndex(x => _aiSim(x.task || x.title, item.task || item.title));
+    if (idx >= 0) items[idx] = item; else items.push(item);
+  }
+
+  async function fetchEmailSummary(payload) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 90000);
+    try {
+      const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload), signal: ctrl.signal });
+      return await res.json();
+    } finally { clearTimeout(timer); }
+  }
+
   async function updateEmailAISummary(force) {
     if (window._emailAIAnalyzing) return;
     if (!allEmails || allEmails.length === 0) return;
     const today = getTodayInVancouver();
     const cutoff = getWindowCutoffDate(today);
     const state = getEmailAIState();
-    const FOCUS_CATS = ['学校', '击剑', '待办'];
-    const windowEmails = allEmails.filter(e => {
+    const AI_CATS = ['学校', '击剑'];
+    const inWindow = (e) => {
       const d = emailDateLocal(e.date);
-      return d >= cutoff && d <= today && FOCUS_CATS.includes(e.category || '其他');
-    });
+      return d >= cutoff && d <= today;
+    };
+    const windowEmails = allEmails.filter(e => inWindow(e) && AI_CATS.includes(e.category || '其他'));
 
-    // 窗口滑动或强制刷新 → 全量重建；否则只增量分析新邮件
+    // ===== 主集合：学校+击剑，7 天滚动窗口 =====
     const windowSlid = state.windowStart !== cutoff;
     let summary = (!windowSlid && state.summary) ? state.summary : null;
     let analyzedKeys = (!windowSlid && Array.isArray(state.analyzedKeys)) ? state.analyzedKeys : [];
@@ -2564,49 +2589,65 @@ function circuitLabel(c) {
       const seen = new Set(analyzedKeys);
       toAnalyze = windowEmails.filter(e => !seen.has(emailAiKey(e)));
     }
-    if (toAnalyze.length === 0) {
-      // 窗口滑动或强制刷新且窗口内无邮件 → 清掉过期总结，避免显示旧内容
-      if ((windowSlid || force) && state.summary) {
-        state.windowStart = cutoff;
-        state.summary = null;
-        state.analyzedKeys = [];
-        setEmailAIState(state);
-      }
-      return;
-    }
-
-    window._emailAIAnalyzing = true;
-    if (typeof renderEmailList === 'function') renderEmailList();
-    let currentSummary = summary;
-    let analyzed = 0;
-    try {
-      while (analyzed < toAnalyze.length) {
-        const chunk = toAnalyze.slice(analyzed, analyzed + 30);
-        const payload = { action: 'email_summary', date: today, previousSummary: currentSummary, newEmails: chunk };
-        const ctrl = new AbortController();
-        const timer = setTimeout(() => ctrl.abort(), 90000);
-        let res;
-        try {
-          res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload), signal: ctrl.signal });
-        } finally { clearTimeout(timer); }
-        const data = await res.json();
-        if (data && (data.todos || data.info || data.summary)) {
-          currentSummary = { ...data, total: windowEmails.length, categories: countEmailsByCategory(windowEmails) };
-          analyzed += chunk.length;
-        } else {
-          break;
-        }
-      }
-    } catch(e) {} finally {
-      window._emailAIAnalyzing = false;
-    }
-    if (currentSummary) {
+    if (toAnalyze.length === 0 && (windowSlid || force)) {
+      // 窗口滑动或强制刷新但无邮件可分析 → 清掉过期总结并记录新窗口
       state.windowStart = cutoff;
-      state.summary = currentSummary;
-      state.analyzedKeys = analyzedKeys.concat(toAnalyze.slice(0, analyzed).map(emailAiKey));
-      state.analyzedAt = new Date().toISOString();
+      state.summary = null;
+      state.analyzedKeys = [];
       setEmailAIState(state);
     }
+
+    if (toAnalyze.length > 0) {
+      window._emailAIAnalyzing = true;
+      if (typeof renderEmailList === 'function') renderEmailList();
+      let currentSummary = summary;
+      let analyzed = 0;
+      try {
+        while (analyzed < toAnalyze.length) {
+          const chunk = toAnalyze.slice(analyzed, analyzed + 30);
+          const data = await fetchEmailSummary({ action: 'email_summary', date: today, previousSummary: currentSummary, newEmails: chunk });
+          if (data && (data.todos || data.info || data.summary)) {
+            currentSummary = { ...data, total: windowEmails.length, categories: countEmailsByCategory(windowEmails) };
+            analyzed += chunk.length;
+          } else {
+            break;
+          }
+        }
+      } catch(e) {}
+      if (currentSummary) {
+        state.windowStart = cutoff;
+        state.summary = currentSummary;
+        state.analyzedKeys = analyzedKeys.concat(toAnalyze.slice(0, analyzed).map(emailAiKey));
+        state.analyzedAt = new Date().toISOString();
+      }
+    }
+
+    // ===== 其他待办：待办类邮件，累计提取，不随窗口过期 =====
+    const other = state.otherTodos = (state.otherTodos && Array.isArray(state.otherTodos.items)) ? state.otherTodos : { items: [], analyzedKeys: [] };
+    const otherSeen = new Set(other.analyzedKeys || []);
+    const otherNew = allEmails.filter(e => inWindow(e) && (e.category || '其他') === '待办' && !otherSeen.has(emailAiKey(e)));
+    if (otherNew.length > 0) {
+      window._emailAIAnalyzing = true;
+      if (typeof renderEmailList === 'function') renderEmailList();
+      let oi = 0;
+      try {
+        while (oi < otherNew.length) {
+          const chunk = otherNew.slice(oi, oi + 30);
+          const data = await fetchEmailSummary({ action: 'email_summary', date: today, previousSummary: null, newEmails: chunk });
+          if (data && Array.isArray(data.todos)) {
+            data.todos.forEach(t => upsertAiTodo(other.items, t));
+            oi += chunk.length;
+          } else {
+            break;
+          }
+        }
+      } catch(e) {}
+      other.analyzedKeys = (other.analyzedKeys || []).concat(otherNew.slice(0, oi).map(emailAiKey));
+      other.analyzedAt = new Date().toISOString();
+    }
+
+    window._emailAIAnalyzing = false;
+    setEmailAIState(state);
     if (typeof renderEmailList === 'function') renderEmailList();
   }
 
@@ -5036,6 +5077,41 @@ function circuitLabel(c) {
     return html;
   }
 
+  function _aiTodoRow(a, i, dismissed) {
+    const title = a.task || a.title || '';
+    const added = isAiItemAdded(a);
+    let btn;
+    if (added) {
+      btn = `<span style="padding:2px 8px; font-size:0.75rem; flex-shrink:0; color:#9ca3af; background:#f3f4f6; border-radius:8px;">已加入待办</span>`;
+    } else if (dismissed) {
+      btn = `<span style="padding:2px 8px; font-size:0.75rem; flex-shrink:0; color:#9ca3af; background:#f3f4f6; border-radius:8px;">已取消</span><button class="restore-ai-task" data-ai-task-index="${i}" data-ai-src="other" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; text-decoration:underline;">恢复</button>`;
+    } else {
+      btn = `<button class="add-ai-task" data-ai-task-index="${i}" data-ai-src="other" style="padding:2px 10px; font-size:0.75rem; flex-shrink:0; background:#16a34a; color:#fff; border:none; border-radius:8px; cursor:pointer; height:26px;">加入待办</button><button class="dismiss-ai-task" data-ai-task-index="${i}" data-ai-src="other" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; align-self:center;">取消</button>`;
+    }
+    return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;${dismissed ? ' opacity:0.55;' : ''}"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(title)}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span>${btn}</div>`;
+  }
+
+  function buildOtherTodosHTML() {
+    const state = getEmailAIState();
+    const other = state.otherTodos || { items: [], analyzedAt: '' };
+    const items = other.items || [];
+    const active = [], dismissedList = [];
+    items.forEach((a, i) => {
+      const dismissed = !isAiItemAdded(a) && isAiItemDismissed(a);
+      (dismissed ? dismissedList : active).push({ a, i });
+    });
+    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">其他邮件里需要处理的事 · 累计不清空${other.analyzedAt ? ' · 更新于 ' + other.analyzedAt.slice(5, 16).replace('T', ' ') : ''}${window._emailAIAnalyzing ? ' · <span style="color:#2563eb;">正在更新…</span>' : ''}</div>`;
+    if (!items.length) {
+      html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; color:#6b7280;">暂无其他待办${window._emailAIAnalyzing ? '（分析中…）' : ''}</div>`;
+    } else {
+      html += `<div style="padding:12px; background:#fff; border:1px solid #e5e7eb; border-radius:10px;">`
+        + (active.length ? active.map(x => _aiTodoRow(x.a, x.i, false)).join('') : '')
+        + (dismissedList.length ? `<div style="font-weight:600; margin:12px 0 6px; color:#9ca3af;">取消的邮件任务（${dismissedList.length}）</div>` + dismissedList.map(x => _aiTodoRow(x.a, x.i, true)).join('') : '')
+        + `</div>`;
+    }
+    return html;
+  }
+
   function renderEmailList(filter) {
     if (filter !== undefined) currentEmailFilter = filter;
     const container = document.getElementById('emails-list-full');
@@ -5048,6 +5124,11 @@ function circuitLabel(c) {
     if (currentEmailFilter === 'ai') {
       if (countEl) countEl.textContent = 'AI 待办';
       container.innerHTML = buildEmailAISummaryHTML();
+      return;
+    }
+    if (currentEmailFilter === 'otodo') {
+      if (countEl) countEl.textContent = '其他待办';
+      container.innerHTML = buildOtherTodosHTML();
       return;
     }
     const FOCUS_CATS = ['学校', '击剑', '待办'];
@@ -5096,31 +5177,23 @@ function circuitLabel(c) {
     document.getElementById('emails-list-full')?.addEventListener('click', (e) => {
       const refreshBtn = e.target.closest('#email-ai-refresh');
       if (refreshBtn) { updateEmailAISummary(true); return; }
-      const addBtn = e.target.closest('.add-ai-task');
-      if (addBtn) {
-        const idx = parseInt(addBtn.dataset.aiTaskIndex || '-1');
+      const aiBtn = e.target.closest('.add-ai-task, .dismiss-ai-task, .restore-ai-task');
+      if (aiBtn) {
+        const idx = parseInt(aiBtn.dataset.aiTaskIndex || '-1');
         const state = getEmailAIState();
-        const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
-        if (action) addAiTask(action);
-        return;
-      }
-      const dismissBtn = e.target.closest('.dismiss-ai-task');
-      if (dismissBtn) {
-        const idx = parseInt(dismissBtn.dataset.aiTaskIndex || '-1');
-        const state = getEmailAIState();
-        const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
-        if (action && confirm(`不再建议「${action.task || action.title}」？同样的事之后不会再出现。`)) {
-          dismissAiItem(action);
-          renderEmailList();
-        }
-        return;
-      }
-      const restoreBtn = e.target.closest('.restore-ai-task');
-      if (restoreBtn) {
-        const idx = parseInt(restoreBtn.dataset.aiTaskIndex || '-1');
-        const state = getEmailAIState();
-        const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
-        if (action) {
+        const list = aiBtn.dataset.aiSrc === 'other'
+          ? (state.otherTodos && state.otherTodos.items ? state.otherTodos.items : [])
+          : (state.summary && state.summary.todos ? state.summary.todos : []);
+        const action = list[idx];
+        if (!action) return;
+        if (aiBtn.classList.contains('add-ai-task')) {
+          addAiTask(action);
+        } else if (aiBtn.classList.contains('dismiss-ai-task')) {
+          if (confirm(`不再建议「${action.task || action.title}」？同样的事之后不会再出现。`)) {
+            dismissAiItem(action);
+            renderEmailList();
+          }
+        } else {
           restoreAiItem(action);
           renderEmailList();
         }
