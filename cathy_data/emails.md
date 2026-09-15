@@ -14997,3 +14997,19 @@ Natalie
 > I will send a follow up email with the packing list and directions on how to get her to us on Wednesday evenin
 
 ---
+
+## [学校] Fwd: Welcome to Meadowridge – Your Grade Liaison Is Here for You!
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-15T17:27:50.000Z
+**摘要:** 这封邮件是Meadowridge学校七年级联络人发给家长的欢迎邮件，介绍联络人的职责并提及班级学生人数。
+**待办:** 无
+**GmailID:** 1a0739d359a6b232
+
+---------- Forwarded message ----------
+From: Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+Date: 6 Sep 2026 at 12:07 AM +0200
+To: frankataix@gmail.com
+Cc: Emily Gish <emily.gish@meadowridge.bc.ca>, Cara Koehler <cara.koehler@meadowridge.bc.ca>, Kayla Kite <kayla.kite@meadowridge.bc.ca>, Heather Nicholson <Heather.Nicholson@meadowridge.bc.ca>, Lauren St. Amand <lauren.stamand@meadowridge.bc.ca>, Scott Rinn <Scott.Rinn@meadowridge.bc.ca>, Trisha Macatangay <trisha.macatangay@meadowridge.bc.
+
+---
