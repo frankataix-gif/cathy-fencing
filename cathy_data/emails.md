@@ -15457,3 +15457,17 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
 
 ---
+
+## [学校] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-15T22:50:48.000Z
+**摘要:** 通知Cathy如何前往Gibsons Farm的行程安排，包括乘船路线和到达后的安排。
+**待办:** 无
+**GmailID:** 1a0a67709ce9d909
+
+Ok,
+We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe Bay and take the Langdale Ferry. Once you get off you need to go to Gibson's Farm. Once you get there, come into the farm and someone will sort Cathy out and tell her where she should be.
+Address<https://www.google.com/search?sca_esv=6ec40a246726ec23&rlz=1C1UEAD_enCA1171CA1180&sxsrf=APpeQnthjSekOF-epNB7blAn86Q73l2aiA:1789511868425&q=gibsons+farm+address&ludocid=8594066702517760211&sa=X&ved=2ahUKEwj5jfSZ0_GWAxVP
+
+---
