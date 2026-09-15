@@ -58,7 +58,7 @@ export default {
               { role: 'system', content: '你只能输出 JSON，不允许解释。' },
               { role: 'user', content: prompt }
             ],
-            max_tokens: 2048
+            max_tokens: 3072
           });
           text = (res && res.response) ? res.response : '';
           if (text && text.trim()) break;
@@ -68,40 +68,56 @@ export default {
       const categoryMap = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
       emails.forEach(e => { categoryMap[e.category || '其他'] = (categoryMap[e.category || '其他'] || 0) + 1; });
       if (!parsed) {
+        // AI 未返回有效 JSON：按主题归并兜底，同一话题只列一条
+        const norm = s => String(s || '').replace(/^\s*(re|fwd?|回复|答复|转发)[:：]\s*/i, '').trim();
+        const groups = {};
+        emails.forEach(e => {
+          const k = norm(e.subject) || '(无主题)';
+          (groups[k] = groups[k] || []).push(e);
+        });
+        const todos = previous && Array.isArray(previous.todos) ? previous.todos.slice() : [];
+        const info = previous && Array.isArray(previous.info) ? previous.info.slice() : [];
+        Object.entries(groups).forEach(([topic, list]) => {
+          const latest = list[list.length - 1];
+          const todoItem = list.find(e => e.todo && e.todo !== '无');
+          if (todoItem) {
+            const item = { task: todoItem.todo, detail: latest.summary || '', deadline: '无', category: latest.category || '其他', source: topic };
+            const idx = todos.findIndex(x => x.task === item.task);
+            if (idx >= 0) todos[idx] = item; else todos.push(item);
+          } else {
+            const item = { topic, detail: (latest.summary || `${list.length} 封往来邮件`), category: latest.category || '其他' };
+            const idx = info.findIndex(x => x.topic === item.topic);
+            if (idx >= 0) info[idx] = item; else info.push(item);
+          }
+        });
         parsed = {
           date: body.date || new Date().toISOString().slice(0, 10),
           total: emails.length,
           categories: categoryMap,
-          actions: emails.map(e => ({
-            title: (e.subject || '邮件').slice(0, 30),
-            source: e.subject || '',
-            priority: e.todo && e.todo !== '无' ? '高' : '中',
-            category: e.category || '其他'
-          })),
-          priority: 'AI 分析失败，请点刷新分析重试',
-          summary: 'AI 暂时未能生成总结，已列出邮件清单'
+          todos,
+          info,
+          priority: '',
+          summary: `共 ${emails.length} 封邮件，已按 ${Object.keys(groups).length} 个话题归并（AI 总结暂不可用）`
         };
       } else {
-        let actions = previous && Array.isArray(previous.actions) ? previous.actions.slice() : [];
-        if (Array.isArray(parsed.actions)) {
-          parsed.actions.forEach(a => {
-            const idx = actions.findIndex(x => x.source === a.source);
-            if (idx >= 0) actions[idx] = a;
-            else actions.push(a);
+        let todos = previous && Array.isArray(previous.todos) ? previous.todos.slice() : [];
+        let info = previous && Array.isArray(previous.info) ? previous.info.slice() : [];
+        if (Array.isArray(parsed.todos)) {
+          parsed.todos.forEach(a => {
+            const idx = todos.findIndex(x => x.task === a.task);
+            if (idx >= 0) todos[idx] = a;
+            else todos.push(a);
           });
         }
-        emails.forEach(e => {
-          const subject = e.subject || '';
-          if (!actions.some(a => a.source === subject)) {
-            actions.push({
-              title: (e.subject || '邮件').slice(0, 30),
-              source: subject,
-              priority: e.todo && e.todo !== '无' ? '高' : '中',
-              category: e.category || '其他'
-            });
-          }
-        });
-        parsed.actions = actions;
+        if (Array.isArray(parsed.info)) {
+          parsed.info.forEach(a => {
+            const idx = info.findIndex(x => x.topic === a.topic);
+            if (idx >= 0) info[idx] = a;
+            else info.push(a);
+          });
+        }
+        parsed.todos = todos;
+        parsed.info = info;
         parsed.categories = parsed.categories || categoryMap;
         parsed.date = parsed.date || body.date || new Date().toISOString().slice(0, 10);
       }
@@ -364,31 +380,34 @@ function buildEmailSummaryPrompt(body) {
   const previous = body.previousSummary || null;
   const emails = body.newEmails || [];
   const emailLines = emails.slice(0, 30).map(e =>
-    `- 分类：${e.category || '其他'}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 120)}，待办：${(e.todo || '无').slice(0, 80)}`
+    `- 分类：${e.category || '其他'}，发件人：${(e.from || '').slice(0, 50)}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 150)}，待办：${(e.todo || '无').slice(0, 80)}`
   ).join('\n');
-  const previousText = previous ? `之前已有 ${date} 当天的总结，现在新增 ${emails.length} 封邮件，请合并更新总结。
+  const previousText = previous ? `之前已有 ${date} 当天的归纳，现在新增 ${emails.length} 封邮件，请合并进已有归纳（同一话题不要重复列）。
 
-之前总结（${date}）：
-- 总邮件数：${previous.total || 0}
-- 分类统计：${JSON.stringify(previous.categories || {})}
-- 之前需要做的事：${(previous.actions || []).map(a => a.title).join('；') || '无'}
-- 之前优先级建议：${previous.priority || ''}
-- 之前一句话总结：${previous.summary || ''}
+之前归纳（${date}）：
+- 需要办理：${(previous.todos || []).map(a => a.task).join('；') || '无'}
+- 信息通知：${(previous.info || []).map(a => a.topic).join('；') || '无'}
+- 一句话总结：${previous.summary || ''}
 
-新增邮件：` : `请基于以下 ${date} 一天的邮件，整理一份总结。
+新增邮件：` : `请把 ${date} 这一天的邮件按话题归纳整理。
 
 邮件列表：`;
-  return `你是 Cathy 家庭的邮件助理。${previousText}
+  return `你是 Cathy 家庭的邮件助理，为家长整理邮件。${previousText}
 ${emailLines}
 
-请用中文，按以下 JSON 格式输出，不要任何额外文字。注意：要对每一封邮件都生成一条，不要遗漏：
+要求：
+1. 同一话题的往来邮件（主题相同或是 Re:/回复/转发 的来回）必须合并成一条，不要每封邮件都列
+2. todos 只列真正需要家长或 Cathy 采取行动的事（要回复、要交材料、要到场、要缴费等），写清楚具体做什么
+3. info 列纯通知、无需行动的信息
+4. 宁缺毋滥：没有行动就不要硬凑 todos
+5. 只输出 JSON，不要任何额外文字
+
 {
   "date": "${date}",
-  "total": 总邮件数,
-  "categories": {"击剑": 数字, "学校": 数字, "营销": 数字, "待办": 数字, "其他": 数字},
-  "actions": [{"title": "这封邮件的一句话概要（15字以内）", "source": "来源邮件主题", "priority": "高/中/低", "category": "分类"}],
-  "priority": "过去7天最需要注意的一句话建议",
-  "summary": "一句话总结过去7天邮件重点"
+  "summary": "这一天邮件的一句话总结",
+  "todos": [{"task": "要做的事（具体可执行）", "detail": "关键细节：时间/地点/方式", "deadline": "YYYY-MM-DD 或 无", "category": "击剑/学校/其他", "source": "来源邮件主题"}],
+  "info": [{"topic": "信息主题", "detail": "一句话说明", "category": "分类"}],
+  "priority": "最需要先办的一件事"
 }`;
 }
 

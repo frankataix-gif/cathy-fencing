@@ -2347,7 +2347,7 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
-  const EMAIL_AI_VERSION = '5';
+  const EMAIL_AI_VERSION = '6';
   function getEmailAIState() {
     try {
       const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
@@ -2367,20 +2367,21 @@ function circuitLabel(c) {
   }
 
   function addAiTask(action) {
-    if (!action || !action.title) return;
-    const title = action.title;
+    const title = action && (action.task || action.title);
+    if (!title) return;
     const exists = tasks.some(t => t.title === title && t.category === (action.category || '待办'));
     if (exists) { alert('该待办已存在'); return; }
     if (!confirm(`将「${title}」加入待办清单？`)) return;
     const today = vancouverISO().slice(0, 10);
+    const deadline = (action.deadline && /^\d{4}-\d{2}-\d{2}/.test(action.deadline)) ? action.deadline.slice(0, 10) : today;
     tasks.push({
       id: newTaskId(),
       title: title,
       category: action.category || '待办',
-      notes: '',
+      notes: action.detail || '',
       sourceType: 'email',
       sourceSubject: action.source || '',
-      dueDate: today,
+      dueDate: deadline,
       completed: false,
       createdAt: new Date().toISOString()
     });
@@ -2460,9 +2461,8 @@ function circuitLabel(c) {
       const dayState = state.days[d];
       const isToday = d === today;
       const hasSummary = dayState && dayState.summary;
-      const actionsCount = dayState && dayState.summary && Array.isArray(dayState.summary.actions) ? dayState.summary.actions.length : 0;
       const needAnalyze = isToday
-        ? (force || !hasSummary || (dayState.analyzedCount || 0) < dayEmails.length || actionsCount < dayEmails.length)
+        ? (force || !hasSummary || (dayState.analyzedCount || 0) < dayEmails.length)
         : !hasSummary;
       if (!needAnalyze) continue;
       window._emailAIAnalyzing = true;
@@ -4900,7 +4900,8 @@ function circuitLabel(c) {
         <div style="margin-bottom:8px;">${catTags}</div>
         <div style="margin-bottom:8px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>
         ${summary.priority ? `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>` : ''}
-        ${summary.actions && summary.actions.length ? `<div style="font-weight:600; margin:10px 0 6px;">邮件清单（逐封）</div>` + summary.actions.map((a, i) => `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(a.title || '')}</span><span style="color:#6b7280;font-size:0.75rem;"> · ${escapeHtml(a.source || '')}</span></span><button class="btn secondary add-ai-task" data-ai-task-date="${d}" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem;">加入待办</button></div>`).join('') : ''}
+        ${summary.todos && summary.todos.length ? `<div style="font-weight:600; margin:10px 0 6px;">需要办理</div>` + summary.todos.map((a, i) => `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(a.task || a.title || '')}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span><button class="btn secondary add-ai-task" data-ai-task-date="${d}" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.75rem; flex-shrink:0;">加入待办</button></div>`).join('') : ''}
+        ${summary.info && summary.info.length ? `<div style="font-weight:600; margin:10px 0 6px; color:#6b7280;">信息通知</div>` + summary.info.map(a => `<div style="margin-bottom:6px; padding:6px 8px; background:#f8fafc; border-radius:8px; font-size:0.8rem;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '其他')}</span><span style="font-weight:500;">${escapeHtml(a.topic || '')}</span><span style="color:#6b7280;"> — ${escapeHtml(a.detail || '')}</span></div>`).join('') : ''}
       </div>`;
     }
     html += `<div style="margin-top:12px;">
@@ -4975,7 +4976,7 @@ function circuitLabel(c) {
         const date = addBtn.dataset.aiTaskDate || '';
         const state = getEmailAIState();
         const dayState = state.days && state.days[date];
-        const action = dayState && dayState.summary && dayState.summary.actions ? dayState.summary.actions[idx] : null;
+        const action = dayState && dayState.summary && dayState.summary.todos ? dayState.summary.todos[idx] : null;
         if (action) addAiTask(action);
       }
     });
