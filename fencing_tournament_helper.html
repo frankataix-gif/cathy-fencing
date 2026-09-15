@@ -725,6 +725,11 @@
       <h2 style="margin-bottom:4px;">我的 / My</h2>
       <p style="font-size:0.85rem; color:var(--gray); margin-bottom:8px;">设置与工具。</p>
       <div class="my-list">
+        <div class="my-row" id="my-open-vault">
+          <span class="my-icon">🔐</span>
+          <span class="my-text"><b>常用数据</b><small>学校/击剑账号入口与密码（加密存储）</small></span>
+          <span class="my-chevron">›</span>
+        </div>
         <div class="my-row" id="my-open-email-rules">
           <span class="my-icon">📧</span>
           <span class="my-text"><b>邮件分类设置</b><small>关键词/发件人规则，新邮件自动归类</small></span>
@@ -765,6 +770,13 @@
         <button class="btn cathy" id="email-rule-save" style="padding:6px 14px; font-size:0.85rem;">保存到 GitHub</button>
       </div>
       <div id="email-rule-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
+    </div>
+
+    <div class="card" id="my-vault-view" style="display:none;">
+      <button class="btn secondary" id="my-back-vault" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
+      <h3 style="margin-bottom:6px;">常用数据</h3>
+      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">学校、击剑等账号入口与密码。AES 加密后存 GitHub，只有主密码能解开。</p>
+      <div id="vault-body" style="font-size:0.9rem;">加载中…</div>
     </div>
   </div>
 
@@ -2214,6 +2226,256 @@ function circuitLabel(c) {
     if (!emailRules[category].includes(keyword)) emailRules[category].push(keyword);
     renderEmailRules();
     kwInput.value = '';
+  }
+
+  // ===== 常用数据（AES-GCM 加密密码库） =====
+  let _vaultPass = null;
+  let _vaultData = null;
+  let _vaultExists = false;
+  let _vaultEditing = null; // 'gi_ii'
+  let _vaultAdding = false;
+  let _vaultPayload = null;
+
+  function _b64(u8) { let s = ''; for (let i = 0; i < u8.length; i += 8192) s += String.fromCharCode.apply(null, u8.subarray(i, i + 8192)); return btoa(s); }
+  function _unb64(s) { return Uint8Array.from(atob(s), c => c.charCodeAt(0)); }
+  async function _vaultKey(pass, salt) {
+    const km = await crypto.subtle.importKey('raw', new TextEncoder().encode(pass), 'PBKDF2', false, ['deriveKey']);
+    return crypto.subtle.deriveKey({ name: 'PBKDF2', salt, iterations: 100000, hash: 'SHA-256' }, km, { name: 'AES-GCM', length: 256 }, false, ['encrypt', 'decrypt']);
+  }
+  async function vaultEncryptObj(obj) {
+    const salt = crypto.getRandomValues(new Uint8Array(16));
+    const iv = crypto.getRandomValues(new Uint8Array(12));
+    const key = await _vaultKey(_vaultPass, salt);
+    const data = await crypto.subtle.encrypt({ name: 'AES-GCM', iv }, key, new TextEncoder().encode(JSON.stringify(obj)));
+    return { v: 1, salt: _b64(salt), iv: _b64(iv), data: _b64(new Uint8Array(data)) };
+  }
+  async function vaultDecryptObj(payload, pass) {
+    const key = await _vaultKey(pass, _unb64(payload.salt));
+    const plain = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: _unb64(payload.iv) }, key, _unb64(payload.data));
+    return JSON.parse(new TextDecoder().decode(plain));
+  }
+
+  async function loadVault() {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/vault.json?_=' + Date.now(), { cache: 'no-cache' });
+      if (res.ok) { _vaultExists = true; _vaultPayload = await res.json(); return _vaultPayload; }
+    } catch(e) {}
+    _vaultExists = false;
+    _vaultPayload = null;
+    return null;
+  }
+
+  async function saveVault() {
+    const status = document.getElementById('vault-status');
+    if (status) status.textContent = '加密并保存中…';
+    try {
+      const payload = await vaultEncryptObj(_vaultData);
+      const res = await fetch(CATHY_SYNC_WORKER_URL, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'save', path: 'cathy_data/vault.json', content: JSON.stringify(payload, null, 2), message: 'Update vault' })
+      });
+      const result = await res.json().catch(() => ({}));
+      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+      _vaultExists = true;
+      if (status) status.textContent = '已加密保存到 GitHub · ' + new Date().toLocaleTimeString();
+    } catch(e) {
+      if (status) status.textContent = '保存失败：' + e.message;
+    }
+  }
+
+  function vaultDefaultData() {
+    return { groups: [
+      { name: '学校', items: [] },
+      { name: '击剑', items: [] },
+      { name: '生活', items: [] }
+    ]};
+  }
+
+  const _vInputStyle = 'width:100%; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px; box-sizing:border-box; margin-bottom:8px;';
+  const _vBtnStyle = 'background:none; border:none; color:var(--primary); font-size:0.75rem; cursor:pointer; padding:2px 4px;';
+
+  function vaultItemHTML(it, gi, ii) {
+    const editing = _vaultEditing === gi + '_' + ii;
+    if (editing || (_vaultAdding && gi === -1)) {
+      const groups = (_vaultData.groups || []);
+      const groupOpts = groups.map((g, i) => `<option value="${i}" ${i === gi ? 'selected' : ''}>${escapeHtml(g.name)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
+      return `<div class="vault-item" data-gi="${gi}" data-ii="${ii}" style="border:1px solid var(--primary); border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
+        <input class="vf" data-f="name" value="${escapeHtml(it.name || '')}" placeholder="名称（如 ManageBac）" style="${_vInputStyle}">
+        <select class="vf" data-f="group" style="${_vInputStyle}">${groupOpts}</select>
+        <input class="vf" data-f="url" value="${escapeHtml(it.url || '')}" placeholder="入口网址 https://…" style="${_vInputStyle}">
+        <input class="vf" data-f="user" value="${escapeHtml(it.user || '')}" placeholder="用户名 / 邮箱" style="${_vInputStyle}">
+        <input class="vf" data-f="pass" value="${escapeHtml(it.pass || '')}" placeholder="密码" style="${_vInputStyle}">
+        <input class="vf" data-f="note" value="${escapeHtml(it.note || '')}" placeholder="用途说明" style="${_vInputStyle}">
+        <div style="display:flex; gap:10px; justify-content:flex-end;">
+          <button data-act="edit-cancel" style="${_vBtnStyle} color:#6b7280;">取消</button>
+          <button data-act="edit-save" style="${_vBtnStyle} font-weight:600;">保存</button>
+        </div>
+      </div>`;
+    }
+    return `<div class="vault-item" data-gi="${gi}" data-ii="${ii}" style="border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+        <b style="font-size:0.9rem;">${escapeHtml(it.name || '(未命名)')}</b>
+        ${it.url ? `<a href="${escapeHtml(it.url)}" target="_blank" style="font-size:0.75rem; color:var(--primary); text-decoration:none; flex-shrink:0;">打开入口 ›</a>` : ''}
+      </div>
+      ${it.user ? `<div style="font-size:0.8rem; color:#374151; margin-top:4px;">用户：${escapeHtml(it.user)} <button data-act="copy" data-v="${escapeHtml(it.user)}" style="${_vBtnStyle}">复制</button></div>` : ''}
+      ${it.pass ? `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<span class="vp">••••••</span> <button data-act="reveal" style="${_vBtnStyle}">显示</button> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>` : ''}
+      ${it.note ? `<div style="font-size:0.75rem; color:#6b7280; margin-top:4px;">${escapeHtml(it.note)}</div>` : ''}
+      <div style="margin-top:6px; display:flex; gap:12px;">
+        <button data-act="edit" style="${_vBtnStyle}">编辑</button>
+        <button data-act="del" style="${_vBtnStyle} color:#ef4444;">删除</button>
+      </div>
+    </div>`;
+  }
+
+  function renderVault() {
+    const box = document.getElementById('vault-body');
+    if (!box) return;
+    if (!_vaultPass) {
+      if (_vaultExists === null) { box.innerHTML = '加载中…'; return; }
+      box.innerHTML = _vaultExists
+        ? `<div style="display:flex; gap:8px;"><input type="password" id="vault-pass-input" placeholder="输入主密码" style="flex:1; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px;"><button class="btn" id="vault-unlock" style="padding:8px 16px;">解锁</button></div><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`
+        : `<div style="font-size:0.85rem; color:#6b7280; margin-bottom:10px;">首次使用：设置一个主密码。之后所有设备都用它解锁；忘记无法找回。</div><input type="password" id="vault-pass-input" placeholder="设置主密码" style="${_vInputStyle}"><input type="password" id="vault-pass-input2" placeholder="再输一次确认" style="${_vInputStyle}"><button class="btn cathy" id="vault-create" style="padding:8px 16px;">创建密码库</button><div id="vault-msg" style="font-size:0.8rem; color:#ef4444; margin-top:8px;"></div>`;
+      return;
+    }
+    const groups = _vaultData.groups || [];
+    let html = `<div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap;">
+      <button class="btn secondary" data-act="lock" style="padding:4px 12px; font-size:0.8rem;">锁定</button>
+      <button class="btn" data-act="add" style="padding:4px 12px; font-size:0.8rem;">＋ 添加记录</button>
+      <button class="btn cathy" data-act="save" style="padding:4px 12px; font-size:0.8rem;">保存到 GitHub</button>
+    </div>
+    <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>`;
+    if (_vaultAdding) html += vaultItemHTML({}, -1, -1);
+    if (!groups.length || groups.every(g => !(g.items || []).length)) {
+      if (!_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
+    }
+    groups.forEach((g, gi) => {
+      if (!(g.items || []).length && !g._new) return;
+      html += `<div style="font-weight:700; margin:12px 0 6px; color:var(--primary);">${escapeHtml(g.name)}</div>`;
+      (g.items || []).forEach((it, ii) => { html += vaultItemHTML(it, gi, ii); });
+    });
+    box.innerHTML = html;
+  }
+
+  async function vaultOpen() {
+    const box = document.getElementById('vault-body');
+    if (box) box.innerHTML = '加载中…';
+    const payload = await loadVault();
+    const savedPass = localStorage.getItem('cathy_vault_pass');
+    if (payload && savedPass) {
+      try {
+        _vaultData = await vaultDecryptObj(payload, savedPass);
+        _vaultPass = savedPass;
+      } catch(e) { localStorage.removeItem('cathy_vault_pass'); }
+    }
+    renderVault();
+  }
+
+  function initVault() {
+    const mainView = document.getElementById('my-main-view');
+    const vaultView = document.getElementById('my-vault-view');
+    document.getElementById('my-open-vault')?.addEventListener('click', () => {
+      if (mainView) mainView.style.display = 'none';
+      if (vaultView) vaultView.style.display = 'block';
+      window.scrollTo(0, 0);
+      vaultOpen();
+    });
+    document.getElementById('my-back-vault')?.addEventListener('click', () => {
+      if (vaultView) vaultView.style.display = 'none';
+      if (mainView) mainView.style.display = 'block';
+    });
+    const box = document.getElementById('vault-body');
+    if (!box) return;
+    box.addEventListener('click', async (e) => {
+      const unlockBtn = e.target.closest('#vault-unlock');
+      if (unlockBtn) {
+        const pass = document.getElementById('vault-pass-input').value;
+        try {
+          _vaultData = await vaultDecryptObj(_vaultPayload, pass);
+          _vaultPass = pass;
+          localStorage.setItem('cathy_vault_pass', pass);
+          renderVault();
+        } catch(err) {
+          const msg = document.getElementById('vault-msg');
+          if (msg) msg.textContent = '密码错误，解不开';
+        }
+        return;
+      }
+      const createBtn = e.target.closest('#vault-create');
+      if (createBtn) {
+        const p1 = document.getElementById('vault-pass-input').value;
+        const p2 = document.getElementById('vault-pass-input2').value;
+        const msg = document.getElementById('vault-msg');
+        if (!p1) { if (msg) msg.textContent = '请输入主密码'; return; }
+        if (p1 !== p2) { if (msg) msg.textContent = '两次输入不一致'; return; }
+        _vaultPass = p1;
+        localStorage.setItem('cathy_vault_pass', p1);
+        _vaultData = vaultDefaultData();
+        renderVault();
+        await saveVault();
+        return;
+      }
+      const btn = e.target.closest('[data-act]');
+      if (!btn) return;
+      const act = btn.dataset.act;
+      const item = btn.closest('.vault-item');
+      const gi = item ? parseInt(item.dataset.gi) : -1;
+      const ii = item ? parseInt(item.dataset.ii) : -1;
+      if (act === 'lock') {
+        _vaultPass = null; _vaultData = null; _vaultEditing = null; _vaultAdding = false;
+        localStorage.removeItem('cathy_vault_pass');
+        renderVault();
+      } else if (act === 'add') {
+        _vaultAdding = true; _vaultEditing = null;
+        renderVault();
+      } else if (act === 'save') {
+        _vaultEditing = null; _vaultAdding = false;
+        await saveVault();
+        renderVault();
+      } else if (act === 'reveal') {
+        const span = btn.parentElement.querySelector('.vp');
+        const it = _vaultData.groups[gi].items[ii];
+        const showing = span.textContent !== '••••••';
+        span.textContent = showing ? '••••••' : it.pass;
+        btn.textContent = showing ? '显示' : '隐藏';
+      } else if (act === 'copy') {
+        try { await navigator.clipboard.writeText(btn.dataset.v); btn.textContent = '已复制'; setTimeout(() => btn.textContent = '复制', 1200); } catch(e) {}
+      } else if (act === 'edit') {
+        _vaultEditing = gi + '_' + ii; _vaultAdding = false;
+        renderVault();
+      } else if (act === 'del') {
+        const it = _vaultData.groups[gi].items[ii];
+        if (!confirm(`删除「${it.name || ''}」？`)) return;
+        _vaultData.groups[gi].items.splice(ii, 1);
+        renderVault();
+        await saveVault();
+      } else if (act === 'edit-cancel') {
+        _vaultEditing = null; _vaultAdding = false;
+        renderVault();
+      } else if (act === 'edit-save') {
+        const card = item;
+        const get = f => (card.querySelector(`[data-f="${f}"]`) || {}).value || '';
+        let groupIdx = get('group');
+        if (groupIdx === '_new') {
+          const gname = (prompt('新分组名称：') || '').trim();
+          if (!gname) return;
+          _vaultData.groups.push({ name: gname, items: [], _new: true });
+          groupIdx = _vaultData.groups.length - 1;
+        } else {
+          groupIdx = parseInt(groupIdx) || 0;
+        }
+        const rec = { name: get('name').trim(), url: get('url').trim(), user: get('user').trim(), pass: get('pass'), note: get('note').trim() };
+        if (!rec.name) { alert('名称不能为空'); return; }
+        if (gi === -1) {
+          _vaultData.groups[groupIdx].items.push(rec);
+        } else {
+          _vaultData.groups[gi].items.splice(ii, 1);
+          _vaultData.groups[groupIdx].items.push(rec);
+        }
+        _vaultEditing = null; _vaultAdding = false;
+        renderVault();
+        await saveVault();
+      }
+    });
   }
 
   function isAutoSyncKey(key) {
@@ -4034,6 +4296,7 @@ function circuitLabel(c) {
       if (mainView) mainView.style.display = 'block';
     });
     loadEmailRules();
+    initVault();
   }
 
   function initGDrive() {
