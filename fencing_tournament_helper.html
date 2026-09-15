@@ -211,6 +211,20 @@
     .my-text b { display: block; font-size: 0.9rem; font-weight: 600; }
     .my-text small { display: block; color: #6b7280; font-size: 0.75rem; margin-top: 2px; }
     .my-chevron { color: #cbd5e1; font-size: 1.3rem; flex-shrink: 0; }
+    .my-heroes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 14px; }
+    .my-hero {
+      border: 1px solid #e5e7eb; border-radius: 14px; padding: 18px 8px;
+      text-align: center; cursor: pointer; background: #fff;
+    }
+    .my-hero:active { background: #f8fafc; }
+    .my-hero .my-hero-icon { font-size: 1.7rem; }
+    .my-hero .my-hero-name { font-weight: 700; font-size: 0.9rem; margin-top: 6px; }
+    .my-hero .my-hero-sub { font-size: 0.7rem; color: #9ca3af; margin-top: 2px; }
+    .vchip {
+      border: 1px solid #e5e7eb; background: #fff; color: #374151;
+      border-radius: 14px; padding: 3px 12px; font-size: 0.78rem; cursor: pointer;
+    }
+    .vchip.on { background: var(--primary); color: #fff; border-color: var(--primary); }
     .rule-section { margin-bottom: 16px; }
     .rule-title { font-weight: 700; color: var(--primary); margin-bottom: 6px; font-size: 0.95rem; }
     .rule-body { font-size: 0.85rem; color: var(--text); background: white; padding: 12px; border-radius: 8px; }
@@ -723,11 +737,28 @@
   <div id="tab-profile" class="tab-content">
     <div class="card" id="my-main-view">
       <h2 style="margin-bottom:4px;">我的 / My</h2>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:8px;">设置与工具。</p>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">常用数据与工具。</p>
+      <div class="my-heroes">
+        <div class="my-hero" data-vault-group="击剑">
+          <div class="my-hero-icon">🤺</div>
+          <div class="my-hero-name">击剑</div>
+          <div class="my-hero-sub">赛事/会员/账号</div>
+        </div>
+        <div class="my-hero" data-vault-group="学校">
+          <div class="my-hero-icon">🏫</div>
+          <div class="my-hero-name">学校</div>
+          <div class="my-hero-sub">Portal/账号/密码</div>
+        </div>
+        <div class="my-hero" data-vault-group="妈妈">
+          <div class="my-hero-icon">👩</div>
+          <div class="my-hero-name">妈妈</div>
+          <div class="my-hero-sub">生活/账号/密码</div>
+        </div>
+      </div>
       <div class="my-list">
         <div class="my-row" id="my-open-vault">
           <span class="my-icon">🔐</span>
-          <span class="my-text"><b>常用数据</b><small>学校/击剑账号入口与密码（加密存储）</small></span>
+          <span class="my-text"><b>全部常用数据</b><small>所有分组账号入口与密码（加密存储）</small></span>
           <span class="my-chevron">›</span>
         </div>
         <div class="my-row" id="my-open-email-rules">
@@ -735,11 +766,6 @@
           <span class="my-text"><b>邮件分类设置</b><small>关键词/发件人规则，新邮件自动归类</small></span>
           <span class="my-chevron">›</span>
         </div>
-        <a class="my-row" href="bc_icbc/index.html" target="_blank">
-          <span class="my-icon">🚗</span>
-          <span class="my-text"><b>BC 驾驶证考试</b><small>300 题刷题网页，离线可用</small></span>
-          <span class="my-chevron">›</span>
-        </a>
         <a class="my-row" href="cathyai.html" target="_blank">
           <span class="my-icon">📤</span>
           <span class="my-text"><b>Cathy 数据导出</b><small>收集训练/比赛数据，发给其它 AI 分析</small></span>
@@ -2235,6 +2261,7 @@ function circuitLabel(c) {
   let _vaultEditing = null; // 'gi_ii'
   let _vaultAdding = false;
   let _vaultPayload = null;
+  let _vaultFilter = null; // 分组名或 null=全部
 
   function _b64(u8) { let s = ''; for (let i = 0; i < u8.length; i += 8192) s += String.fromCharCode.apply(null, u8.subarray(i, i + 8192)); return btoa(s); }
   function _unb64(s) { return Uint8Array.from(atob(s), c => c.charCodeAt(0)); }
@@ -2285,9 +2312,9 @@ function circuitLabel(c) {
 
   function vaultDefaultData() {
     return { groups: [
-      { name: '学校', items: [] },
       { name: '击剑', items: [] },
-      { name: '生活', items: [] }
+      { name: '学校', items: [] },
+      { name: '妈妈', items: [] }
     ]};
   }
 
@@ -2298,7 +2325,7 @@ function circuitLabel(c) {
     const editing = _vaultEditing === gi + '_' + ii;
     if (editing || (_vaultAdding && gi === -1)) {
       const groups = (_vaultData.groups || []);
-      const groupOpts = groups.map((g, i) => `<option value="${i}" ${i === gi ? 'selected' : ''}>${escapeHtml(g.name)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
+      const groupOpts = groups.map((g, i) => `<option value="${i}" ${(i === gi || (gi === -1 && _vaultFilter === g.name)) ? 'selected' : ''}>${escapeHtml(g.name)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
       return `<div class="vault-item" data-gi="${gi}" data-ii="${ii}" style="border:1px solid var(--primary); border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
         <input class="vf" data-f="name" value="${escapeHtml(it.name || '')}" placeholder="名称（如 ManageBac）" style="${_vInputStyle}">
         <select class="vf" data-f="group" style="${_vInputStyle}">${groupOpts}</select>
@@ -2344,11 +2371,17 @@ function circuitLabel(c) {
       <button class="btn cathy" data-act="save" style="padding:4px 12px; font-size:0.8rem;">保存到 GitHub</button>
     </div>
     <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>`;
+    html += `<div style="display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap;">
+      <button class="vchip${!_vaultFilter ? ' on' : ''}" data-act="filter" data-g="">全部</button>
+      ${groups.map(g => `<button class="vchip${_vaultFilter === g.name ? ' on' : ''}" data-act="filter" data-g="${escapeHtml(g.name)}">${escapeHtml(g.name)}</button>`).join('')}
+    </div>`;
     if (_vaultAdding) html += vaultItemHTML({}, -1, -1);
-    if (!groups.length || groups.every(g => !(g.items || []).length)) {
+    const visible = groups.filter(g => !_vaultFilter || g.name === _vaultFilter);
+    if (!visible.length || visible.every(g => !(g.items || []).length)) {
       if (!_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
     }
     groups.forEach((g, gi) => {
+      if (_vaultFilter && g.name !== _vaultFilter) return;
       if (!(g.items || []).length && !g._new) return;
       html += `<div style="font-weight:700; margin:12px 0 6px; color:var(--primary);">${escapeHtml(g.name)}</div>`;
       (g.items || []).forEach((it, ii) => { html += vaultItemHTML(it, gi, ii); });
@@ -2356,7 +2389,8 @@ function circuitLabel(c) {
     box.innerHTML = html;
   }
 
-  async function vaultOpen() {
+  async function vaultOpen(groupFilter) {
+    _vaultFilter = groupFilter || null;
     const box = document.getElementById('vault-body');
     if (box) box.innerHTML = '加载中…';
     const payload = await loadVault();
@@ -2373,11 +2407,15 @@ function circuitLabel(c) {
   function initVault() {
     const mainView = document.getElementById('my-main-view');
     const vaultView = document.getElementById('my-vault-view');
-    document.getElementById('my-open-vault')?.addEventListener('click', () => {
+    const openVault = (group) => {
       if (mainView) mainView.style.display = 'none';
       if (vaultView) vaultView.style.display = 'block';
       window.scrollTo(0, 0);
-      vaultOpen();
+      vaultOpen(group || null);
+    };
+    document.getElementById('my-open-vault')?.addEventListener('click', () => openVault(null));
+    document.querySelectorAll('.my-hero[data-vault-group]').forEach(el => {
+      el.addEventListener('click', () => openVault(el.dataset.vaultGroup));
     });
     document.getElementById('my-back-vault')?.addEventListener('click', () => {
       if (vaultView) vaultView.style.display = 'none';
@@ -2420,6 +2458,12 @@ function circuitLabel(c) {
       const item = btn.closest('.vault-item');
       const gi = item ? parseInt(item.dataset.gi) : -1;
       const ii = item ? parseInt(item.dataset.ii) : -1;
+      if (act === 'filter') {
+        _vaultFilter = btn.dataset.g || null;
+        _vaultEditing = null; _vaultAdding = false;
+        renderVault();
+        return;
+      }
       if (act === 'lock') {
         _vaultPass = null; _vaultData = null; _vaultEditing = null; _vaultAdding = false;
         localStorage.removeItem('cathy_vault_pass');
