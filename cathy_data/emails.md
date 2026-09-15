@@ -14911,3 +14911,20 @@ If this is feasible, could y
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="format-detection" content="telephone=no"><title>MyKidsSpending - Reset your MyKidsSpending password</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body style="margin: 0; padding: 0; background-color: #F7F7F7; font-family: Arial, Helvetica, sans-serif;"><!-- Preheader text --><
 
 ---
+
+## [学校] Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:06:45.000Z
+**摘要:** 家长询问Cathy能否中途加入Gibsons Farm旅行，并请求农场地址或路线信息。
+**待办:** 联系学校确认Cathy中途加入的可行性，并获取农场具体地址或接送指引
+
+Dear Ms. Hook,
+
+I am writing to inquire about the possibility of Cathy (Yunxi) He joining the Grade 7 Gibsons Farm trip.
+
+We have just received our student visas today and are scheduled Wednesday to arrive in Vancouver around 5:00 PM. Since the trip has already started on Wed, we were wondering if it would be possible for me to drive Cathy directly to the farm Thursday morning so she can join her classmates for the remainder of the outing.
+
+If this is feasible, could you please provide the
+
+---
