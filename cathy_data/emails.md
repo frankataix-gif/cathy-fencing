@@ -15120,3 +15120,42 @@ On 29 Aug 2026 at 2:01 AM +0200, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
 > 2. > Co
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-15T18:07:19.000Z
+**摘要:** 提醒提交Cathy的医疗咨询表格和签证副本，并通知学生郊游期间的安排。
+**待办:** 通知Ms. Hook安排，提交医疗表格，提供签证副本
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+谢谢您的通知。我们也非常期待！
+
+中学生明天到星期五会在Gibsons Farm郊游， 他们这几天不会再学校。请你们尽快通知 Ms. Hook，看看可以怎样安排。
+
+方便时，也请您登入Hub 账户提交Cathy的医疗咨询表格 (Medical Info form)。请确保所有资料正确，在最后一页签署后点击提交。
+
+Cathy 回校前，也请您提供Cathy的签证副本。
+
+Thank you and see you soon!
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.444
+
+---
