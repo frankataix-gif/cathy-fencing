@@ -14676,3 +14676,16 @@ lululemon
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] ⏰ Limited-time offer ends soon.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-15T11:13:39.000Z
+**摘要:** Apple教育商店限时优惠，9月24日前购买Mac或iPad可获赠最高210美元礼品卡。
+**待办:** 无
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Bou1H33Ci8Wvt8KMFkb4q8EZ5Tqai2mjgoZ8Pw9Yil4EntuyAQmx%2BTwwxRP7hvoVZTKP368pdpvzZkb1Z8bYyf%2F0WxId2h6AxfvBuLheJXktYyjJzUXEg4HPqjjzBZ9xNdw2t3KPODWNiw7aN4y%2BsVmHZonO%2FYQF8bORD1%2FvA8dR58dLhmrWz56CndrtKDpS3roFQnp25rLSZWvSwi9wRgAQ5R5syOjQXy5%2FYAJykfreNv1g1QG7BFOrzEdnSPr3hWU7TUifVCqZaw2vL9SrD78XPlZHD5DVtVDLx9yhhjiiGKzatf5EZ9Whfdp8wK6EPO1i7v9CQdJ2kPqCGWOAtXRPEu6twax%2FUNbZJjwPNDTrwdCYWgoEVc8xuuj54ODxo%3D
+
+Shop the Education Sto
+
+---
