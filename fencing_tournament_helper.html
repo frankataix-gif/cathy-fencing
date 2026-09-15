@@ -2423,6 +2423,14 @@ function circuitLabel(c) {
       return false;
     });
   }
+  function isAiItemAdded(a) {
+    const na = _aiNorm(a.task || a.title), ns = _aiNormSource(a.source);
+    return tasks.some(t => {
+      if (ns && t.sourceSubject && _aiNormSource(t.sourceSubject) === ns) return true;
+      const nt = _aiNorm(t.title);
+      return nt && na && (nt === na || (na.length >= 6 && nt.includes(na)) || (nt.length >= 6 && na.includes(nt)));
+    });
+  }
   function dismissAiItem(a) {
     const list = getDismissedAiItems();
     list.push({ task: a.task || a.title || '', source: a.source || '' });
@@ -2437,7 +2445,7 @@ function circuitLabel(c) {
   function addAiTask(action) {
     const title = action && (action.task || action.title);
     if (!title) return;
-    const exists = tasks.some(t => t.title === title && t.category === (action.category || '待办'));
+    const exists = isAiItemAdded(action);
     if (exists) { alert('该待办已存在'); return; }
     if (!confirm(`将「${title}」加入待办清单？`)) return;
     const today = vancouverISO().slice(0, 10);
@@ -4957,7 +4965,7 @@ function circuitLabel(c) {
           const active = [], dismissedList = [];
           summary.todos.forEach((a, i) => {
             const title = a.task || a.title || '';
-            const added = tasks.some(t => t.title === title && t.category === (a.category || '待办'));
+            const added = isAiItemAdded(a);
             const dismissed = !added && isAiItemDismissed(a);
             (dismissed ? dismissedList : active).push({ a, i, title, added });
           });
