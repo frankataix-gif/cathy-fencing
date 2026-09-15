@@ -14954,3 +14954,24 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 Amph
 
 ---
+
+## [学校] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-15T19:14:22.000Z
+**摘要:** 确认Cathy可以中途加入Gibsons Farm旅行，需签署同意书并提供医疗信息，后续将发送行李清单和接送指南。
+**待办:** 签署同意书并回复医疗或饮食限制信息
+**GmailID:** 1a0a67709ce9d909
+
+I don’t think that should be a problem. Please go on the Meadowridge Hub and sign all the permission forms.
+Please let me know if she has any medical or dietary restrictions so we can let the farm know.
+I will send a follow up email with the packing list and directions on how to get her to us on Wednesday evening.
+Looking forward to having her with us.
+Ms. Hook
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesd
+
+---
