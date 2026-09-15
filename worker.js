@@ -380,16 +380,16 @@ function buildEmailSummaryPrompt(body) {
   const previous = body.previousSummary || null;
   const emails = body.newEmails || [];
   const emailLines = emails.slice(0, 30).map(e =>
-    `- 分类：${e.category || '其他'}，发件人：${(e.from || '').slice(0, 50)}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 150)}，待办：${(e.todo || '无').slice(0, 80)}`
+    `- 收到：${String(e.date || '').slice(0, 10)}，分类：${e.category || '其他'}，发件人：${(e.from || '').slice(0, 50)}，主题：${(e.subject || '').slice(0, 80)}，摘要：${(e.summary || '').slice(0, 150)}，待办：${(e.todo || '无').slice(0, 80)}`
   ).join('\n');
-  const previousText = previous ? `之前已有 ${date} 当天的归纳，现在新增 ${emails.length} 封邮件，请合并进已有归纳（同一话题不要重复列）。
+  const previousText = previous ? `之前已有一份归纳集合，现在新增 ${emails.length} 封邮件，请合并进已有归纳（同一话题不要重复列；如果新邮件是已有事项的进展/回复，更新该条目的 detail 而不是新增）。
 
-之前归纳（${date}）：
+之前归纳：
 - 需要办理：${(previous.todos || []).map(a => a.task).join('；') || '无'}
 - 信息通知：${(previous.info || []).map(a => a.topic).join('；') || '无'}
 - 一句话总结：${previous.summary || ''}
 
-新增邮件：` : `请把 ${date} 这一天的邮件按话题归纳整理。
+新增邮件：` : `请把以下邮件按话题归纳整理（覆盖最近7天）。
 
 邮件列表：`;
   return `你是 Cathy 家庭的邮件助理，为家长整理邮件。${previousText}
