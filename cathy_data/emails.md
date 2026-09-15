@@ -15289,3 +15289,35 @@ thanks
 > To ensure your child’s transportation service continues without interruption, please arrange payment by the deadline. If pay
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-14T11:36:42.000Z
+**摘要:** Natalie因输入错误地址请求重新发送链接，Lauren承诺处理。
+**待办:** 无
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+I just wanted to check that you received the new link that was issued?
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Sent: 10 September 2026 17:48
+To: natalie <nataliewu100@gmail.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer
+
+---
