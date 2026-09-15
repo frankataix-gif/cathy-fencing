@@ -14928,3 +14928,532 @@ We have just received our student visas today and are scheduled Wednesday to arr
 If this is feasible, could you please provide the
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-15T19:36:08.000Z
+**摘要:** Google发送安全提醒，通知用户在Windows设备上有新的登录活动，建议检查账号安全性。
+**待办:** 无
+**GmailID:** 1a0a691d87cd8556
+
+[image: Google]
+在 Windows 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Windows
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789500968947?rfn%3D325%26rfnc%3D1%26eid%3D2251778304174753241%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 Amph
+
+---
+
+## [学校] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-15T19:14:22.000Z
+**摘要:** 确认Cathy可以中途加入Gibsons Farm旅行，需签署同意书并提供医疗信息，后续将发送行李清单和接送指南。
+**待办:** 签署同意书并回复医疗或饮食限制信息
+**GmailID:** 1a0a67709ce9d909
+
+I don’t think that should be a problem. Please go on the Meadowridge Hub and sign all the permission forms.
+Please let me know if she has any medical or dietary restrictions so we can let the farm know.
+I will send a follow up email with the packing list and directions on how to get her to us on Wednesday evening.
+Looking forward to having her with us.
+Ms. Hook
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesd
+
+---
+
+## [学校] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:16:15.000Z
+**摘要:** Natalie询问Cathy是否可以中途加入学校组织的Gibsons Farm旅行，老师确认可行，并要求签署许可文件及提供医疗信息。
+**待办:** 需签署许可文件并确认Cathy的医疗/饮食限制
+**GmailID:** 1a0a67709ce9d909
+
+Dear Teacher Hook,
+
+Thank you so much for your help!
+
+Looking forward to meeting you!
+
+Natalie
+在 Sep 15, 2026, 21:14 +0200，Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+> I don’t think that should be a problem. Please go on the Meadowridge Hub and sign all the permission forms.
+> Please let me know if she has any medical or dietary restrictions so we can let the farm know.
+> I will send a follow up email with the packing list and directions on how to get her to us on Wednesday evenin
+
+---
+
+## [学校] Fwd: Welcome to Meadowridge – Your Grade Liaison Is Here for You!
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-09-15T17:27:50.000Z
+**摘要:** 这封邮件是Meadowridge学校七年级联络人发给家长的欢迎邮件，介绍联络人的职责并提及班级学生人数。
+**待办:** 无
+**GmailID:** 1a0739d359a6b232
+
+---------- Forwarded message ----------
+From: Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+Date: 6 Sep 2026 at 12:07 AM +0200
+To: frankataix@gmail.com
+Cc: Emily Gish <emily.gish@meadowridge.bc.ca>, Cara Koehler <cara.koehler@meadowridge.bc.ca>, Kayla Kite <kayla.kite@meadowridge.bc.ca>, Heather Nicholson <Heather.Nicholson@meadowridge.bc.ca>, Lauren St. Amand <lauren.stamand@meadowridge.bc.ca>, Scott Rinn <Scott.Rinn@meadowridge.bc.ca>, Trisha Macatangay <trisha.macatangay@meadowridge.bc.
+
+---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-15T15:28:56.000Z
+**摘要:** 系统或模板邮件，无具体内容
+**待办:** 无
+**GmailID:** 1a0a58616064ce7d
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T07:06:58.000Z
+**摘要:** Cathy的学生签证已获批，计划明天贴签，预计下周返校。
+**待办:** 无
+**GmailID:** 1a04a13eda2c8086
+
+你好，Adrian：
+Cathy 的学生签证今天刚刚获批了。我们计划明天一早去加拿大美国使馆贴签。据说贴签可能要一周左右，所以我们预计下周就可以正常返校！
+很期待！
+谢谢你们一直以来的关心和支持。
+我会尽快和你们分享最新进展。
+
+谢谢
+在 Aug 28, 2026, 22:33 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie 您好，
+>
+> 附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+>
+> 请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+>
+> 我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.467.4444 (ext. 214)
+> adrian.kwong@meadowridge.bc.ca
+>
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:57:42.000Z
+**摘要:** 邮件确认已递交护照并预计尽快报到，同时列出开学前需完成的表格、账户设置及活动 RSVP 事项。
+**待办:** 无
+**GmailID:** 1a04a13eda2c8086
+
+adrian
+你好
+我们已经递交护照，明天就可以拿到签证！预计后天就可以来学校报道！
+
+感谢您的支持
+
+On 29 Aug 2026 at 2:01 AM +0200, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>, wrote:
+> Natalie,
+>
+> 我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+>
+> 昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+>
+>
+> 1. > Complete one Residency Form for the family. Submit your address in Canada, student's Study Permit & parent's Visitor Record(s).
+> 2. > Co
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-15T18:07:19.000Z
+**摘要:** 提醒提交Cathy的医疗咨询表格和签证副本，并通知学生郊游期间的安排。
+**待办:** 通知Ms. Hook安排，提交医疗表格，提供签证副本
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+谢谢您的通知。我们也非常期待！
+
+中学生明天到星期五会在Gibsons Farm郊游， 他们这几天不会再学校。请你们尽快通知 Ms. Hook，看看可以怎样安排。
+
+方便时，也请您登入Hub 账户提交Cathy的医疗咨询表格 (Medical Info form)。请确保所有资料正确，在最后一页签署后点击提交。
+
+Cathy 回校前，也请您提供Cathy的签证副本。
+
+Thank you and see you soon!
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.444
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T18:32:37.000Z
+**摘要:** Natalie询问Cathy是否能参加后天的郊游活动，并表示可以接送。Adrian此前通知中学生将前往Gibsons Farm郊游，需尽快联系Ms. Hook安排。
+**待办:** 确认Cathy的参加情况并回复
+**GmailID:** 1a04a13eda2c8086
+
+你好 adrian
+我想联系您，但转拨不到您电话！
+我们想问一下是否后天cathy能参加吗？我可以把他送到郊游的地方！我们要明天5点到温哥华！
+
+谢谢
+On 15 Sep 2026 at 8:07 PM +0200, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>, wrote:
+> Hi Natalie,
+>
+> 谢谢您的通知。我们也非常期待！
+>
+> 中学生明天到星期五会在Gibsons Farm郊游， 他们这几天不会再学校。请你们尽快通知 Ms. Hook，看看可以怎样安排。
+>
+> 方便时，也请您登入Hub 账户提交Cathy的医疗咨询表格 (Medical Info form)。请确保所有资料正确，在最后一页签署后点击提交。
+>
+> Cathy 回校前，也请您提供Cathy的签证副本。
+>
+> Thank you and see you soon!
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-15T18:52:44.000Z
+**摘要:** 邮件涉及Cathy的郊游安排及入学时间调整，需她联系Ms. Darcie Hook跟进。若无法中途参加郊游，可能延迟到周一入学。
+**待办:** Cathy需要发邮件给Ms. Darcie Hook跟进郊游安排
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+不好意思，我的同事以为有家长来门口找我们了 😄.
+
+郊游方面，因为不是我负责范围之内，请让Cathy发邮件给Ms. Darcie Hook跟进。我这边会尽量找初中校长Mr. Rinn让他知道。
+
+如果不能安排中途参加郊游，Cathy可能要星期一才开始上学。
+
+谢谢！
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+“Learning to live well
+
+---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T18:58:23.000Z
+**摘要:** 邮件确认明天行程安排，若无法参加郊游则周一报到，并感谢对方协助。
+**待办:** 无
+**GmailID:** 1a04a13eda2c8086
+
+好的，感谢Adrian
+我一会发邮件给Hook老师，看看线路怎么走。因为我们是明天2点飞机。如果不方便的话，我们就周一正式报道！
+感谢您一直来帮助！
+
+谢谢！
+在 Sep 15, 2026, 20:52 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Hi Natalie,
+>
+> 不好意思，我的同事以为有家长来门口找我们了 😄.
+>
+> 郊游方面，因为不是我负责范围之内，请让Cathy发邮件给Ms. Darcie Hook跟进。我这边会尽量找初中校长Mr. Rinn让他知道。
+>
+> 如果不能安排中途参加郊游，Cathy可能要星期一才开始上学。
+>
+> 谢谢！
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.467.4444 (ext. 214)
+> adrian.kwong@meadowridge.bc.ca
+>
+> Meadowridge School
+> 12224 2
+
+---
+
+## [学校] Re: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T07:00:58.000Z
+**摘要:** Natalie询问校车费用支付事宜，并请求提供支付链接。
+**待办:** 确认校车费用支付状态并提供支付链接
+**GmailID:** 1a0a18b24db58891
+
+hi Janice
+
+sorry we will arrive in canada next week, and its ok we can pay today?
+
+and could u please tell me where is the link payment?
+
+thanks
+在 Sep 14, 2026, 22:10 +0200，Janice Cooper <janice@lynchbuslines.com>，写道：
+> Dear Parents/Guardians,
+> This is a friendly reminder that all outstanding school bus service invoices are due by tomorrow, September 15, 2026.
+> To ensure your child’s transportation service continues without interruption, please arrange payment by the deadline. If pay
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-14T11:36:42.000Z
+**摘要:** Natalie因输入错误地址请求重新发送链接，Lauren承诺处理。
+**待办:** 无
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+I just wanted to check that you received the new link that was issued?
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Lauren D'Souza <lauren.dsouza@knightfrank.com>
+Sent: 10 September 2026 17:48
+To: natalie <nataliewu100@gmail.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T07:24:31.000Z
+**摘要:** Natalie确认已收到并提交链接，Lauren说明后续需通过短信接收Thirdfort链接并完成身份验证流程。
+**待办:** 无
+**GmailID:** 1a07ba79eafc4532
+
+Hi Lauren,
+
+I have received the link and submitted it yesterday. Please check it.
+
+Thank you.
+在 Sep 8, 2026, 10:36 +0200，Lauren D'Souza <lauren.dsouza@knightfrank.com>，写道：
+> Hi Natalie,
+>
+> All received our end, thank you.
+>
+> You will be sent a link to Thirdfort via text message and instructions via email on how to upload your ID documents.
+>
+> You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check tha
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-15T08:26:39.000Z
+**摘要:** Natalie确认已提交报告，Lauren表示感谢并说明CDD团队将审查报告以准备签发。
+**待办:** 无
+**GmailID:** 1a07ba79eafc4532
+
+Thank you for confirming Natalie, our CDD team will review the report ready for sign off.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 15 September 2026 08:25
+To: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 La
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-15T11:09:42.000Z
+**摘要:** Lauren询问Natalie是否已正确提交文件，Natalie确认已提交并请其检查。
+**待办:** 检查平台是否已正确提交文件
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+Our team are saying they haven’t received it yet – are you able to go back into the platform and just double check that the submit/finish button was clicked?
+
+Many thanks,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Sent: 15 September 2026 09:27
+To: natalie <n
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-12T06:25:30.000Z
+**摘要:** Google发来安全提醒，指出在vivo Y500设备上有新的登录活动，需确认是否本人操作。
+**待办:** 无
+**GmailID:** 1a09226a1ec9f519
+
+[image: Google]
+在 vivo Y500 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 vivo Y500
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789194330629?rfn%3D325%26rfnc%3D1%26eid%3D3183907050354051676%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC, 1600 
+
+---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-12T06:26:23.000Z
+**摘要:** 此邮件为Google发出的安全提醒，指出‘Spark’可能未经授权访问账号数据，并建议检查账号活动记录以确保安全。
+**待办:** 检查Google账号活动记录，查看并管理‘Spark’的访问权限。
+**GmailID:** 1a09226a1ec9f519
+
+[image: Google]
+您已授权“Spark”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“Spark”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789194383000?rfn%3D127%26rfnc%3D1%26eid%3D-6367554986741737340%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
+
+---
