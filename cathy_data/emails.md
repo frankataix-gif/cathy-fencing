@@ -15093,3 +15093,30 @@ Cathy 的学生签证今天刚刚获批了。我们计划明天一早去加拿�
 >
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:57:42.000Z
+**摘要:** 邮件确认已递交护照并预计尽快报到，同时列出开学前需完成的表格、账户设置及活动 RSVP 事项。
+**待办:** 无
+**GmailID:** 1a04a13eda2c8086
+
+adrian
+你好
+我们已经递交护照，明天就可以拿到签证！预计后天就可以来学校报道！
+
+感谢您的支持
+
+On 29 Aug 2026 at 2:01 AM +0200, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>, wrote:
+> Natalie,
+>
+> 我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+>
+> 昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+>
+>
+> 1. > Complete one Residency Form for the family. Submit your address in Canada, student's Study Permit & parent's Visitor Record(s).
+> 2. > Co
+
+---
