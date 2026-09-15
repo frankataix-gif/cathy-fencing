@@ -14883,3 +14883,20 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspac
 
 ---
+
+## [学校] Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:03:20.000Z
+**摘要:** 家长询问女儿能否中途加入学校农场旅行，并请求具体地址信息
+**待办:** 确认学生中途加入可行性并提供农场地址
+
+Dear Ms. Hook,
+
+I am writing to inquire about the possibility of Cathy (Yunxi) He joining the Grade 7 Gibsons Farm trip.
+
+We have just received our student visas today (Wednesday) and are scheduled to arrive in Vancouver around 5:00 PM this afternoon. Since the trip has already started, we were wondering if it would be possible for me to drive Cathy directly to the farm tomorrow (Thursday) morning so she can join her classmates for the remainder of the outing.
+
+If this is feasible, could y
+
+---
