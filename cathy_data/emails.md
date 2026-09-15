@@ -15432,3 +15432,28 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC, 1600 
 
 ---
+
+## [其他] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-12T06:26:23.000Z
+**摘要:** 此邮件为Google发出的安全提醒，指出‘Spark’可能未经授权访问账号数据，并建议检查账号活动记录以确保安全。
+**待办:** 检查Google账号活动记录，查看并管理‘Spark’的访问权限。
+**GmailID:** 1a09226a1ec9f519
+
+[image: Google]
+您已授权“Spark”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“Spark”访问您的某些 Google 账号数据，则意味着有人可能在试图访 
+问您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1789194383000?rfn%3D127%26rfnc%3D1%26eid%3D-6367554986741737340%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.goo
+
+---
