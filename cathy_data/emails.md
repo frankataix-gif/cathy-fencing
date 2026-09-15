@@ -14743,3 +14743,49 @@ This milky cleanser melts away makeup and SPF in a snap.
 <https://app.sephora.com/T/v61000001a0a52d173896455ff4bbe5bf30/104cc9d14ae243540000021ef3
 
 ---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-15T14:43:41.000Z
+**摘要:** 邮件包含HTML格式代码，无实际文本内容
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
