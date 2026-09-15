@@ -2400,7 +2400,9 @@ function circuitLabel(c) {
         ${it.url ? `<a href="${escapeHtml(it.url)}" target="_blank" style="font-size:0.75rem; color:var(--primary); text-decoration:none; flex-shrink:0;">打开入口 ›</a>` : ''}
       </div>
       ${it.user ? `<div style="font-size:0.8rem; color:#374151; margin-top:4px;">用户：${escapeHtml(it.user)} <button data-act="copy" data-v="${escapeHtml(it.user)}" style="${_vBtnStyle}">复制</button></div>` : ''}
-      ${it.pass ? `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<span class="vp">••••••</span> <button data-act="reveal" style="${_vBtnStyle}">显示</button> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>` : ''}
+      ${it.pass ? (src === 'o'
+        ? `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<b>${escapeHtml(it.pass)}</b> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>`
+        : `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<span class="vp">••••••</span> <button data-act="reveal" style="${_vBtnStyle}">显示</button> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>`) : ''}
       ${it.note ? `<div style="font-size:0.75rem; color:#6b7280; margin-top:4px;">${escapeHtml(it.note)}</div>` : ''}
       <div style="margin-top:6px; display:flex; gap:12px;">
         <button data-act="edit" style="${_vBtnStyle}">编辑</button>
