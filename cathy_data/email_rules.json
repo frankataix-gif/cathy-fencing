@@ -1,7 +1,8 @@
 {
-  "version": "2026-09-11",
+  "version": "2026-09-15",
   "rules": {
-    "击剑": ["@usafencing", "usafencing.org", "usafencing"]
+    "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing"],
+    "学校": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology"]
   },
-  "note": "可在此添加分类关键词。PWA 和我的页里的邮件分类设置会同步读写这个文件。"
+  "note": "可在此添加分类关键词/发件人邮箱。PWA 我的页里的邮件分类设置会同步读写这个文件；在邮件卡片上手动改分类时选择「记住发件人」也会自动写到这里。"
 }

@@ -119,7 +119,8 @@ export default {
       const storeText = rawText.slice(0, 500);
 
       const meta = await classifyEmail(env, { subject, from, text: classifyText });
-      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n\n${storeText}\n\n---\n`;
+      const gmailId = email.gmailId || '';
+      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const emailKey = `${subject}|${from}|${normDate(date)}`;
       let result = null;

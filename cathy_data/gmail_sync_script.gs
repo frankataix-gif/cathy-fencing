@@ -69,6 +69,7 @@ function syncCathyEmails() {
           from: from,
           to: message.getTo() || '',
           date: date,
+          gmailId: message.getThread().getId(),
           body: (message.getPlainBody() || '').slice(0, CONFIG.MAX_BODY_LENGTH)
         }
       };
