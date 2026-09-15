@@ -65,6 +65,22 @@ export default {
         } catch (e) {}
       }
       let parsed = extractJson(text);
+      // 近似文本去重：去掉空格/标点后，包含关系或字符重合 ≥60% 视为同一条
+      const normTask = s => String(s || '').replace(/[\s\p{P}]/gu, '');
+      const similar = (a, b) => {
+        const x = normTask(a), y = normTask(b);
+        if (!x || !y) return false;
+        if (x === y || x.includes(y) || y.includes(x)) return true;
+        const sx = new Set(x), sy = new Set(y);
+        let inter = 0;
+        sx.forEach(c => { if (sy.has(c)) inter++; });
+        return inter / (sx.size + sy.size - inter) >= 0.6;
+      };
+      const upsertBy = (list, item, keyFn) => {
+        const k = keyFn(item);
+        const idx = list.findIndex(x => keyFn(x) === k || similar(keyFn(x), k));
+        if (idx >= 0) list[idx] = item; else list.push(item);
+      };
       const categoryMap = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
       emails.forEach(e => { categoryMap[e.category || '其他'] = (categoryMap[e.category || '其他'] || 0) + 1; });
       if (!parsed) {
@@ -81,13 +97,9 @@ export default {
           const latest = list[list.length - 1];
           const todoItem = list.find(e => e.todo && e.todo !== '无');
           if (todoItem) {
-            const item = { task: todoItem.todo, detail: latest.summary || '', deadline: '无', category: latest.category || '其他', source: topic };
-            const idx = todos.findIndex(x => x.task === item.task);
-            if (idx >= 0) todos[idx] = item; else todos.push(item);
+            upsertBy(todos, { task: todoItem.todo, detail: latest.summary || '', deadline: '无', category: latest.category || '其他', source: topic }, x => x.task);
           } else {
-            const item = { topic, detail: (latest.summary || `${list.length} 封往来邮件`), category: latest.category || '其他' };
-            const idx = info.findIndex(x => x.topic === item.topic);
-            if (idx >= 0) info[idx] = item; else info.push(item);
+            upsertBy(info, { topic, detail: (latest.summary || `${list.length} 封往来邮件`), category: latest.category || '其他' }, x => x.topic);
           }
         });
         parsed = {
@@ -102,20 +114,8 @@ export default {
       } else {
         let todos = previous && Array.isArray(previous.todos) ? previous.todos.slice() : [];
         let info = previous && Array.isArray(previous.info) ? previous.info.slice() : [];
-        if (Array.isArray(parsed.todos)) {
-          parsed.todos.forEach(a => {
-            const idx = todos.findIndex(x => x.task === a.task);
-            if (idx >= 0) todos[idx] = a;
-            else todos.push(a);
-          });
-        }
-        if (Array.isArray(parsed.info)) {
-          parsed.info.forEach(a => {
-            const idx = info.findIndex(x => x.topic === a.topic);
-            if (idx >= 0) info[idx] = a;
-            else info.push(a);
-          });
-        }
+        if (Array.isArray(parsed.todos)) { const self = []; parsed.todos.forEach(a => upsertBy(self, a, x => x.task)); self.forEach(a => upsertBy(todos, a, x => x.task)); }
+        if (Array.isArray(parsed.info)) { const self = []; parsed.info.forEach(a => upsertBy(self, a, x => x.topic)); self.forEach(a => upsertBy(info, a, x => x.topic)); }
         parsed.todos = todos;
         parsed.info = info;
         parsed.categories = parsed.categories || categoryMap;
