@@ -755,25 +755,47 @@ let _autoSyncEnabled = true;
 let _isLoadingGitHubData = false;
 let _autoSyncTimer = null;
 
-// 打开或回到前台时检测服务器是否有新版本，有则清缓存并刷新
+// 顶部「有新功能更新」横幅：点刷新直接更新，不弹确认
+function showAppUpdateBanner() {
+  if (document.getElementById('sw-update-banner')) return;
+  const header = document.querySelector('.header');
+  const tabs = document.getElementById('tabs');
+  const headerH = header ? header.offsetHeight : 0;
+  const banner = document.createElement('div');
+  banner.id = 'sw-update-banner';
+  banner.innerHTML = '<span>有新功能更新</span><button id="sw-update-btn">刷新</button>';
+  document.body.appendChild(banner);
+  const h = banner.offsetHeight;
+  document.body.style.paddingTop = h + 'px';
+  if (header) header.style.top = h + 'px';
+  if (tabs) tabs.style.top = (h + headerH) + 'px';
+  document.getElementById('sw-update-btn').addEventListener('click', async (ev) => {
+    const btn = ev.currentTarget;
+    btn.textContent = '更新中…';
+    btn.disabled = true;
+    try {
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map(k => caches.delete(k)));
+      }
+      if ('serviceWorker' in navigator) {
+        const regs = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(regs.map(r => r.unregister()));
+      }
+    } catch (e) {}
+    window.location.replace(window.location.href.split('?')[0] + '?_=' + Date.now());
+  });
+}
+
+// 打开或回到前台时检测服务器是否有新版本，有则顶部出现横幅
 async function checkForUpdate() {
   function show() { document.documentElement.classList.remove('app-checking'); }
   try {
     const res = await fetch('./cathy_data/version.json?_=' + Date.now(), { cache: 'no-store' });
     const data = await res.json();
     if (data.version && data.version !== DATA_UPDATED) {
-      // 有新版：清缓存、注销 SW、重新加载
-      try {
-        if ('caches' in window) {
-          const keys = await caches.keys();
-          await Promise.all(keys.map(k => caches.delete(k)));
-        }
-        if ('serviceWorker' in navigator) {
-          const regs = await navigator.serviceWorker.getRegistrations();
-          await Promise.all(regs.map(r => r.unregister()));
-        }
-      } catch (e) {}
-      window.location.replace(window.location.href.split('?')[0] + '?_=' + Date.now());
+      show();
+      showAppUpdateBanner();
       return;
     }
   } catch (e) {}
@@ -3906,20 +3928,18 @@ function circuitLabel(c) {
   }
 
   async function forceRefresh() {
-    if (confirm('确定要强制更新到最新版本吗？会清空缓存并重新加载。')) {
-      const url = window.location.href.split('?')[0] + '?_=' + Date.now();
-      if (!navigator.serviceWorker && !('caches' in window)) {
-        window.location.replace(url);
-        return;
-      }
-      try {
-        const ks = await caches.keys();
-        await Promise.all(ks.map(k => caches.delete(k)));
-        const rs = await navigator.serviceWorker.getRegistrations();
-        await Promise.all(rs.map(r => r.unregister()));
-      } catch (e) {}
-      setTimeout(() => window.location.replace(url), 400);
+    const url = window.location.href.split('?')[0] + '?_=' + Date.now();
+    if (!navigator.serviceWorker && !('caches' in window)) {
+      window.location.replace(url);
+      return;
     }
+    try {
+      const ks = await caches.keys();
+      await Promise.all(ks.map(k => caches.delete(k)));
+      const rs = await navigator.serviceWorker.getRegistrations();
+      await Promise.all(rs.map(r => r.unregister()));
+    } catch (e) {}
+    setTimeout(() => window.location.replace(url), 400);
   }
 
   function initHeaderMeta() {
@@ -4461,46 +4481,22 @@ function circuitLabel(c) {
   function initServiceWorker() {
     if (!('serviceWorker' in navigator)) return;
 
-    let refreshing = false;
     const hadController = !!navigator.serviceWorker.controller;
 
-    function doReload() {
-      if (!refreshing) {
-        refreshing = true;
-        window.location.reload();
-      }
-    }
-
-    function showUpdateBanner() {
-      if (document.getElementById('sw-update-banner')) return;
-      const header = document.querySelector('.header');
-      const tabs = document.getElementById('tabs');
-      const headerH = header ? header.offsetHeight : 0;
-      const banner = document.createElement('div');
-      banner.id = 'sw-update-banner';
-      banner.innerHTML = '<span>检测到新版本，正在自动更新…</span>';
-      document.body.appendChild(banner);
-      const h = banner.offsetHeight;
-      document.body.style.paddingTop = h + 'px';
-      if (header) header.style.top = h + 'px';
-      if (tabs) tabs.style.top = (h + headerH) + 'px';
-    }
-
     function onControllerChange() {
-      // 只有原本已经有旧 SW 控制时才刷新；首次安装不刷新，避免第一次打开就闪一下
+      // 新版本接管后只显示横幅，由用户点「刷新」更新；首次安装不提示
       if (hadController) {
-        doReload();
+        showAppUpdateBanner();
       } else {
-        // 首次安装直接成为 controller，隐藏 banner
         const banner = document.getElementById('sw-update-banner');
         if (banner) banner.remove();
       }
     }
 
-    navigator.serviceWorker.register('./fencing_sw.js?version=v29', { updateViaCache: 'none' }).then((reg) => {
+    navigator.serviceWorker.register('./fencing_sw.js?version=v33', { updateViaCache: 'none' }).then((reg) => {
       // 如果打开时就有一个等待的 worker（用户上次没更新就关了页面）
       if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
-        showUpdateBanner();
+        showAppUpdateBanner();
       }
 
       reg.addEventListener('updatefound', () => {
@@ -4509,20 +4505,13 @@ function circuitLabel(c) {
         installing.addEventListener('statechange', () => {
           // 只有正在等待的新版本才显示提示
           if (reg.waiting && navigator.serviceWorker.controller && reg.waiting !== navigator.serviceWorker.controller) {
-            showUpdateBanner();
+            showAppUpdateBanner();
           }
         });
       });
     }).catch(() => {});
 
     navigator.serviceWorker.addEventListener('controllerchange', onControllerChange);
-
-    // 兜底：4 秒后如果已经显示 banner 但还没刷新，也刷新
-    setTimeout(() => {
-      if (hadController && document.getElementById('sw-update-banner') && !refreshing) {
-        doReload();
-      }
-    }, 4000);
   }
 
   initServiceWorker();
