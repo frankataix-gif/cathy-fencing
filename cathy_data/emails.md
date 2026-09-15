@@ -14806,3 +14806,15 @@ Check them out before they’re gone!
 <https://app.sephora.com/T/v61000001a0a5e35f7f9f0713f4bbcf6cc0/96b7404b4ea049290000021ef3a0bcc2/96b7404b-4ea0-
 
 ---
+
+## [学校] Meadowridge_ Offer of Enrolment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:34:12.000Z
+**摘要:** 这封邮件涉及Meadowridge的入学录取通知。
+**待办:** 无
+
+
+
+
+---
