@@ -15267,3 +15267,25 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 > 12224 2
 
 ---
+
+## [学校] Re: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T07:00:58.000Z
+**摘要:** Natalie询问校车费用支付事宜，并请求提供支付链接。
+**待办:** 确认校车费用支付状态并提供支付链接
+**GmailID:** 1a0a18b24db58891
+
+hi Janice
+
+sorry we will arrive in canada next week, and its ok we can pay today?
+
+and could u please tell me where is the link payment?
+
+thanks
+在 Sep 14, 2026, 22:10 +0200，Janice Cooper <janice@lynchbuslines.com>，写道：
+> Dear Parents/Guardians,
+> This is a friendly reminder that all outstanding school bus service invoices are due by tomorrow, September 15, 2026.
+> To ensure your child’s transportation service continues without interruption, please arrange payment by the deadline. If pay
+
+---
