@@ -15345,3 +15345,33 @@ Thank you.
 > You can complete this in your own time, what I meant by live verification is that you will need to take live photos of yourself to check tha
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-15T08:26:39.000Z
+**摘要:** Natalie确认已提交报告，Lauren表示感谢并说明CDD团队将审查报告以准备签发。
+**待办:** 无
+**GmailID:** 1a07ba79eafc4532
+
+Thank you for confirming Natalie, our CDD team will review the report ready for sign off.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 15 September 2026 08:25
+To: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 La
+
+---
