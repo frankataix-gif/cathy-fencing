@@ -2,62 +2,11 @@
   "groups": [
     {
       "name": "击剑",
-      "items": [
-        {
-          "name": "USA Fencing 会员中心",
-          "url": "https://member.usafencing.org",
-          "user": "",
-          "pass": "",
-          "note": "会员信息 / 参赛资格 / Regional 排名"
-        },
-        {
-          "name": "AskFRED",
-          "url": "https://askfred.net",
-          "user": "",
-          "pass": "",
-          "note": "赛事报名 / 成绩查询"
-        },
-        {
-          "name": "FencingTimeLive",
-          "url": "https://fencingtimelive.com",
-          "user": "",
-          "pass": "",
-          "note": "现场比分 / 赛程 / 晋级表"
-        },
-        {
-          "name": "Fencing Tracker",
-          "url": "https://fencingtracker.com",
-          "user": "",
-          "pass": "",
-          "note": "详细赛事记录 / 积分走势"
-        }
-      ]
+      "items": []
     },
     {
       "name": "学校",
-      "items": [
-        {
-          "name": "MyKidsSpending",
-          "url": "https://www.mykidsspending.com/Logon",
-          "user": "",
-          "pass": "",
-          "note": "Meadowridge 食堂饭卡：充值 / 查余额"
-        },
-        {
-          "name": "Meadowridge 官网",
-          "url": "https://www.meadowridge.bc.ca",
-          "user": "",
-          "pass": "",
-          "note": "学校主页 / 校历 / 通知"
-        },
-        {
-          "name": "ManageBac",
-          "url": "https://meadowridge.managebac.com",
-          "user": "",
-          "pass": "",
-          "note": "作业 / 成绩 / 课程（网址不对的话改一下）"
-        }
-      ]
+      "items": []
     }
   ]
 }
