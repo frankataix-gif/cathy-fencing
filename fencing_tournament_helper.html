@@ -2296,11 +2296,10 @@ function circuitLabel(c) {
     } catch(e) {}
   }
 
-  // 邮件 Tab 打开时，每 30 秒自动刷新一次
+  // 每 30 秒检查一次新邮件（页面可见时，不限于邮件 Tab）；有新邮件会自动触发 AI 增量分析
   setInterval(() => {
     if (document.hidden) return;
-    const emailTab = document.querySelector('.tab[data-tab="emails"]');
-    if (emailTab && emailTab.classList.contains('active')) loadEmails();
+    loadEmails();
   }, 30000);
 
   function requestEmailNotifications() {
@@ -2386,6 +2385,32 @@ function circuitLabel(c) {
     const map = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
     list.forEach(e => { map[e.category || '其他'] = (map[e.category || '其他'] || 0) + 1; });
     return map;
+  }
+
+  // AI 建议「取消」名单：按任务内容+来源邮件记忆，重建后同样的事不再出现
+  function _aiNorm(s) { return String(s || '').toLowerCase().replace(/[\s\p{P}]/gu, ''); }
+  function _aiNormSource(s) { return _aiNorm(String(s || '').replace(/^\s*(re|fwd?|回复|答复|转发)[:：]\s*/i, '')); }
+  function getDismissedAiItems() {
+    try { return JSON.parse(localStorage.getItem('cathy_email_ai_dismissed') || '[]'); } catch(e) { return []; }
+  }
+  function isAiItemDismissed(a) {
+    const nt = _aiNorm(a.task || a.title), ns = _aiNormSource(a.source);
+    return getDismissedAiItems().some(d => {
+      const dt = _aiNorm(d.task), ds = _aiNormSource(d.source);
+      if (dt && nt && (dt === nt || (dt.length >= 6 && nt.includes(dt)) || (nt.length >= 6 && dt.includes(nt)))) return true;
+      if (ds && ns && ds === ns) return true;
+      return false;
+    });
+  }
+  function dismissAiItem(a) {
+    const list = getDismissedAiItems();
+    list.push({ task: a.task || a.title || '', source: a.source || '' });
+    localStorage.setItem('cathy_email_ai_dismissed', JSON.stringify(list));
+  }
+  function restoreAiItem(a) {
+    const nt = _aiNorm(a.task || a.title), ns = _aiNormSource(a.source);
+    const list = getDismissedAiItems().filter(d => !(_aiNorm(d.task) === nt && _aiNormSource(d.source) === ns));
+    localStorage.setItem('cathy_email_ai_dismissed', JSON.stringify(list));
   }
 
   function addAiTask(action) {
@@ -4892,13 +4917,19 @@ function circuitLabel(c) {
         <div style="margin-bottom:8px;">${catTags}</div>
         <div style="margin-bottom:8px; color:#1f2937;">${escapeHtml(summary.summary || '暂无总结')}</div>
         ${summary.priority ? `<div style="background:#fef3c7; color:#92400e; padding:8px 12px; border-radius:8px; margin-bottom:10px; font-size:0.8rem;">⚠️ ${escapeHtml(summary.priority)}</div>` : ''}
-        ${summary.todos && summary.todos.length ? `<div style="font-weight:600; margin:10px 0 6px;">需要办理（${summary.todos.length}）</div>` + summary.todos.map((a, i) => {
+        ${summary.todos && summary.todos.length ? `<div style="font-weight:600; margin:10px 0 6px;">需要办理（${summary.todos.filter(a => !isAiItemDismissed(a) && !tasks.some(t => t.title === (a.task || a.title) && t.category === (a.category || '待办'))).length}）</div>` + summary.todos.map((a, i) => {
           const title = a.task || a.title || '';
           const added = tasks.some(t => t.title === title && t.category === (a.category || '待办'));
-          const btn = added
-            ? `<span style="padding:2px 8px; font-size:0.75rem; flex-shrink:0; color:#9ca3af; background:#f3f4f6; border-radius:8px;">已加入待办</span>`
-            : `<button class="add-ai-task" data-ai-task-index="${i}" style="padding:2px 10px; font-size:0.75rem; flex-shrink:0; background:#16a34a; color:#fff; border:none; border-radius:8px; cursor:pointer; height:26px;">加入待办</button>`;
-          return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(title)}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span>${btn}</div>`;
+          const dismissed = !added && isAiItemDismissed(a);
+          let btn;
+          if (added) {
+            btn = `<span style="padding:2px 8px; font-size:0.75rem; flex-shrink:0; color:#9ca3af; background:#f3f4f6; border-radius:8px;">已加入待办</span>`;
+          } else if (dismissed) {
+            btn = `<span style="padding:2px 8px; font-size:0.75rem; flex-shrink:0; color:#9ca3af; background:#f3f4f6; border-radius:8px;">已取消</span><button class="restore-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; text-decoration:underline;">恢复</button>`;
+          } else {
+            btn = `<button class="add-ai-task" data-ai-task-index="${i}" style="padding:2px 10px; font-size:0.75rem; flex-shrink:0; background:#16a34a; color:#fff; border:none; border-radius:8px; cursor:pointer; height:26px;">加入待办</button><button class="dismiss-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; align-self:center;">取消</button>`;
+          }
+          return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;${dismissed ? ' opacity:0.55;' : ''}"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(title)}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span>${btn}</div>`;
         }).join('') : ''}
         ${summary.info && summary.info.length ? `<div style="font-weight:600; margin:10px 0 6px; color:#6b7280;">信息通知（${summary.info.length}）</div>` + summary.info.map(a => `<div style="margin-bottom:6px; padding:6px 8px; background:#f8fafc; border-radius:8px; font-size:0.8rem;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '其他')}</span><span style="font-weight:500;">${escapeHtml(a.topic || '')}</span><span style="color:#6b7280;"> — ${escapeHtml(a.detail || '')}</span></div>`).join('') : ''}
       </div>`;
@@ -4975,6 +5006,28 @@ function circuitLabel(c) {
         const state = getEmailAIState();
         const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
         if (action) addAiTask(action);
+        return;
+      }
+      const dismissBtn = e.target.closest('.dismiss-ai-task');
+      if (dismissBtn) {
+        const idx = parseInt(dismissBtn.dataset.aiTaskIndex || '-1');
+        const state = getEmailAIState();
+        const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
+        if (action && confirm(`不再建议「${action.task || action.title}」？同样的事之后不会再出现。`)) {
+          dismissAiItem(action);
+          renderEmailList();
+        }
+        return;
+      }
+      const restoreBtn = e.target.closest('.restore-ai-task');
+      if (restoreBtn) {
+        const idx = parseInt(restoreBtn.dataset.aiTaskIndex || '-1');
+        const state = getEmailAIState();
+        const action = state.summary && state.summary.todos ? state.summary.todos[idx] : null;
+        if (action) {
+          restoreAiItem(action);
+          renderEmailList();
+        }
       }
     });
     document.getElementById('emails-list-full')?.addEventListener('change', (e) => {
