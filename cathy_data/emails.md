@@ -14818,3 +14818,15 @@ Check them out before they’re gone!
 
 
 ---
+
+## [学校] Meadowridge_ Offer of Enrolment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:34:40.000Z
+**摘要:** 这封邮件是关于Meadowridge的入学录取通知。
+**待办:** 无
+
+
+
+
+---
