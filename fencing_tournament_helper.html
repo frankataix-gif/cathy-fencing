@@ -2087,10 +2087,29 @@ function circuitLabel(c) {
         reflections = data.reflections;
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
+      // 合并远端墓碑（多设备删除同步）
+      if (data.taskTombstones && typeof data.taskTombstones === 'object') {
+        const mt = getTaskTombstones();
+        Object.entries(data.taskTombstones).forEach(([id, ts]) => { if (!mt[id] || mt[id] < ts) mt[id] = ts; });
+        try { localStorage.setItem('cathy_task_tombstones', JSON.stringify(mt)); } catch(e) {}
+      }
       if (Array.isArray(data.tasks)) {
-        const remoteIds = new Set(data.tasks.map(t => t && t.id));
-        const localOnly = (tasks || []).filter(t => t && t.id && !remoteIds.has(t.id));
-        tasks = data.tasks.concat(localOnly);
+        const tombs = getTaskTombstones();
+        const isTombstoned = (t) => t && t.id && tombs[t.id] && (!t.updatedAt || t.updatedAt <= tombs[t.id]);
+        const localById = {};
+        (tasks || []).forEach(t => { if (t && t.id) localById[t.id] = t; });
+        const merged = [];
+        const seen = new Set();
+        data.tasks.forEach(rt => {
+          if (!rt || !rt.id) return;
+          seen.add(rt.id);
+          if (isTombstoned(rt)) return; // 已删除且远端未更新 → 不复活
+          const lt = localById[rt.id];
+          if (lt && (!rt.updatedAt || (lt.updatedAt && lt.updatedAt >= rt.updatedAt))) merged.push(lt); // 本地更新或同级 → 保本地
+          else merged.push(rt);
+        });
+        (tasks || []).forEach(t => { if (t && t.id && !seen.has(t.id) && !isTombstoned(t)) merged.push(t); });
+        tasks = merged;
         saveToLocal('cathy_tasks', JSON.stringify(tasks));
       }
       _isLoadingGitHubData = false;
@@ -2201,8 +2220,10 @@ function circuitLabel(c) {
     try { schedule = JSON.parse(getLocal('cathy_schedule_events', '[]') || '[]'); } catch(e) { schedule = []; }
     let taskList = [];
     try { taskList = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { taskList = []; }
+    const taskTombstones = getTaskTombstones();
+    taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -2430,7 +2451,8 @@ function circuitLabel(c) {
       sourceSubject: action.source || '',
       dueDate: deadline,
       completed: false,
-      createdAt: new Date().toISOString()
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
     });
     saveTasks();
   }
@@ -4639,6 +4661,16 @@ function circuitLabel(c) {
   }
 
   function newTaskId() { return 't_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
+  function getTaskTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_task_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markTaskDeleted(id) {
+    const m = getTaskTombstones();
+    m[id] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 200) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 200).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_task_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
   function emailTaskKey(email) { return (email.date || '') + '|' + (email.subject || ''); }
 
   function taskCategoryFor(emailCategory) {
@@ -4771,11 +4803,13 @@ function circuitLabel(c) {
     const t = tasks.find(x => x.id === id);
     if (!t) return;
     t.completed = completed;
+    t.updatedAt = new Date().toISOString();
     saveTasks();
   }
 
   function deleteTask(id) {
     if (!confirm('确认删除这个待办？')) return;
+    markTaskDeleted(id);
     tasks = tasks.filter(t => t.id !== id);
     saveTasks();
   }
@@ -4818,7 +4852,7 @@ function circuitLabel(c) {
     const category = document.getElementById('te-category').value;
     const notes = document.getElementById('te-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
-    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, sourceType: 'manual', completed: false, createdAt: new Date().toISOString() };
+    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
     if (id) {
       const existing = tasks.find(x => x.id === id);
       if (existing) {
@@ -4851,7 +4885,8 @@ function circuitLabel(c) {
       emailKey: key,
       completed: false,
       notes: '',
-      createdAt: new Date().toISOString()
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
     };
     tasks.push(t);
     saveTasks();
