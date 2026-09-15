@@ -14830,3 +14830,29 @@ Check them out before they’re gone!
 
 
 ---
+
+## [其他] VFS Global Notification
+
+**发件人:** VFS Global - eICR <donotreply@vfshelpline.com>
+**日期:** 2026-09-15T17:43:13.000Z
+**摘要:** 这封邮件通知签证申请跟踪ID已收到，并附有电子发票（e-ICR）供参考，同时提供跟踪信息和快递服务的联系方式。
+**待办:** 联系热线申请快递服务以取回护照
+
+ VFS Global notification 
+
+VFS Global      
+
+Dear Mr/Ms YUNXI HE,
+
+Visa Application Tracking ID # 20260915USLAPKT71842 has been received at 
+the VAC on 2026-09-15 09:41:03 AM. Please find attached the e-ICR (Invoice 
+cum receipt) for your record & reference.
+
+For Visa application process & tracking related information please visit 
+the website https://visa.vfsglobal.com/usa/en/can/
+
+   - Email: info.canny@vfshelpline.com 
+   - Helpline number: 8882964511 
+   - Collection timing: Monday to Friday
+
+---
