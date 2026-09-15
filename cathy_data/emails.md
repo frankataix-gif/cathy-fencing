@@ -15060,3 +15060,36 @@ Cc: Emily Gish <emily.gish@meadowridge.bc.ca>, Cara Koehler <cara.koehler@meadow
       -ms-interpolation-mode: bic
 
 ---
+
+## [学校] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T07:06:58.000Z
+**摘要:** Cathy的学生签证已获批，计划明天贴签，预计下周返校。
+**待办:** 无
+**GmailID:** 1a04a13eda2c8086
+
+你好，Adrian：
+Cathy 的学生签证今天刚刚获批了。我们计划明天一早去加拿大美国使馆贴签。据说贴签可能要一周左右，所以我们预计下周就可以正常返校！
+很期待！
+谢谢你们一直以来的关心和支持。
+我会尽快和你们分享最新进展。
+
+谢谢
+在 Aug 28, 2026, 22:33 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie 您好，
+>
+> 附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+>
+> 请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+>
+> 我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.467.4444 (ext. 214)
+> adrian.kwong@meadowridge.bc.ca
+>
+
+---
