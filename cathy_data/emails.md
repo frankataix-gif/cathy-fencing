@@ -14900,3 +14900,14 @@ We have just received our student visas today (Wednesday) and are scheduled to a
 If this is feasible, could y
 
 ---
+
+## [待办] Reset your MyKidsSpending password
+
+**发件人:** support@mykidsspending.com
+**日期:** 2026-09-15T19:09:29.000Z
+**摘要:** 需要重置MyKidsSpending密码
+**待办:** 重置MyKidsSpending密码
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="format-detection" content="telephone=no"><title>MyKidsSpending - Reset your MyKidsSpending password</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body style="margin: 0; padding: 0; background-color: #F7F7F7; font-family: Arial, Helvetica, sans-serif;"><!-- Preheader text --><
+
+---
