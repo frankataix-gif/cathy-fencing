@@ -14702,3 +14702,27 @@ CANADIAN LEGACY SINCE 1940
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq-2BxxC-2FaCEuHBT-2BJsV8buU9Q-3D-3D4GBk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOhVU-2FkCrhczuX2qiq8KDrOacWvwTsbW3sc9mGLOCRH3dUWEp5tOtyB9L9sHj-2BtezIuPdwArmLthc1K-2FBkPwIUSmcsHomZNlFUtuZceDObves4CB7D9mUfZtiGHnf-2BF2wSBciNoMzSVr3981fPyZZfBmu
 
 ---
+
+## [营销] You’re closer than you think
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-15T13:26:33.000Z
+**摘要:** 邮件鼓励用户继续使用Make平台，完成自动化配置或尝试提供的模板。
+**待办:** 尝试使用提供的模板或继续配置自动化流程
+
+Most people just need one small step  
+
+Logo ( https://www.make.com?utm_campaign=ProgressAndTemplates2_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Getting your first automation running is easier than it looks – most people just need one small step.
+
+✅ Account verified
+✅ Scenario builder explored
+⚪ First connection created
+⚪ First automation running
+
+You’re closer than it might feel. Tell Maia what to connect and build, or explore what's possible with her. Just o
+
+---
