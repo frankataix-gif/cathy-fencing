@@ -194,6 +194,23 @@
     .btn.cathy { background: var(--cathy); }
     .btn.secondary { background: #e2e8f0; color: #334155; }
     .btn.danger { background: #ef4444; color: white; }
+    .my-list { margin-top: 4px; }
+    .my-row {
+      display: flex; align-items: center; gap: 12px;
+      padding: 14px 4px; border-bottom: 1px solid #f1f5f9;
+      cursor: pointer; text-decoration: none; color: inherit;
+    }
+    .my-row:last-child { border-bottom: none; }
+    .my-row:active { background: #f8fafc; }
+    .my-icon {
+      width: 36px; height: 36px; border-radius: 10px; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.15rem; background: #eff6ff;
+    }
+    .my-text { flex: 1; min-width: 0; }
+    .my-text b { display: block; font-size: 0.9rem; font-weight: 600; }
+    .my-text small { display: block; color: #6b7280; font-size: 0.75rem; margin-top: 2px; }
+    .my-chevron { color: #cbd5e1; font-size: 1.3rem; flex-shrink: 0; }
     .rule-section { margin-bottom: 16px; }
     .rule-title { font-weight: 700; color: var(--primary); margin-bottom: 6px; font-size: 0.95rem; }
     .rule-body { font-size: 0.85rem; color: var(--text); background: white; padding: 12px; border-radius: 8px; }
@@ -705,12 +722,30 @@
 
   <!-- 我的 -->
   <div id="tab-profile" class="tab-content">
-    <div class="card">
-      <h2 style="margin-bottom:12px;">我的 / My</h2>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">数据同步与导出。</p>
+    <div class="card" id="my-main-view">
+      <h2 style="margin-bottom:4px;">我的 / My</h2>
+      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:8px;">设置与工具。</p>
+      <div class="my-list">
+        <div class="my-row" id="my-open-email-rules">
+          <span class="my-icon">📧</span>
+          <span class="my-text"><b>邮件分类设置</b><small>关键词/发件人规则，新邮件自动归类</small></span>
+          <span class="my-chevron">›</span>
+        </div>
+        <a class="my-row" href="bc_icbc/index.html" target="_blank">
+          <span class="my-icon">🚗</span>
+          <span class="my-text"><b>BC 驾驶证考试</b><small>300 题刷题网页，离线可用</small></span>
+          <span class="my-chevron">›</span>
+        </a>
+        <a class="my-row" href="cathyai.html" target="_blank">
+          <span class="my-icon">📤</span>
+          <span class="my-text"><b>Cathy 数据导出</b><small>收集训练/比赛数据，发给其它 AI 分析</small></span>
+          <span class="my-chevron">›</span>
+        </a>
+      </div>
     </div>
 
-    <div class="card">
+    <div class="card" id="my-email-rules-view" style="display:none;">
+      <button class="btn secondary" id="my-back-email-rules" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
       <h3 style="margin-bottom:12px;">邮件分类设置</h3>
       <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">设置关键词/发件人邮箱，新邮件会自动归类；保存后也可用于重新分类历史邮件。</p>
       <div id="email-rules-list" style="margin-bottom:12px;">加载中…</div>
@@ -731,18 +766,6 @@
         <button class="btn cathy" id="email-rule-save" style="padding:6px 14px; font-size:0.85rem;">保存到 GitHub</button>
       </div>
       <div id="email-rule-status" style="font-size:0.8rem; color:var(--gray); margin-top:8px;"></div>
-    </div>
-
-    <div class="card" style="text-align:center;">
-      <h3 style="margin-bottom:12px;">BC 驾驶证考试</h3>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">300 题刷题网页，点开后无需联网即可练习。</p>
-      <a href="bc_icbc/index.html" target="_blank" class="btn cathy" style="padding:10px 18px; border-radius:24px; text-decoration:none; display:inline-block;">打开刷题</a>
-    </div>
-
-    <div class="card" style="text-align:center;">
-      <h3 style="margin-bottom:12px;">Cathy 数据导出</h3>
-      <p style="font-size:0.85rem; color:var(--gray); margin-bottom:12px;">一键读取最新训练、比赛数据，复制或下载后发给其它 AI 分析。</p>
-      <a href="cathyai.html" target="_blank" class="btn cathy" style="padding:10px 18px; border-radius:24px; text-decoration:none; display:inline-block;">收集 Cathy 最新数据</a>
     </div>
   </div>
 
@@ -3957,6 +3980,18 @@ function circuitLabel(c) {
     if (reclassifyBtn) reclassifyBtn.addEventListener('click', () => {
       const status = document.getElementById('email-rule-status');
       if (status) status.innerHTML = '请在电脑端运行：<br><code>python reclassify_emails.py</code><br>即可按新规则重跑历史邮件。';
+    });
+    // 我的：主列表 ↔ 邮件分类设置子页
+    const mainView = document.getElementById('my-main-view');
+    const rulesView = document.getElementById('my-email-rules-view');
+    document.getElementById('my-open-email-rules')?.addEventListener('click', () => {
+      if (mainView) mainView.style.display = 'none';
+      if (rulesView) rulesView.style.display = 'block';
+      window.scrollTo(0, 0);
+    });
+    document.getElementById('my-back-email-rules')?.addEventListener('click', () => {
+      if (rulesView) rulesView.style.display = 'none';
+      if (mainView) mainView.style.display = 'block';
     });
     loadEmailRules();
   }
