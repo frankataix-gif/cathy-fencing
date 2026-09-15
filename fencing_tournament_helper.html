@@ -2541,7 +2541,16 @@ function circuitLabel(c) {
       const seen = new Set(analyzedKeys);
       toAnalyze = windowEmails.filter(e => !seen.has(emailAiKey(e)));
     }
-    if (toAnalyze.length === 0) return;
+    if (toAnalyze.length === 0) {
+      // 窗口滑动或强制刷新且窗口内无邮件 → 清掉过期总结，避免显示旧内容
+      if ((windowSlid || force) && state.summary) {
+        state.windowStart = cutoff;
+        state.summary = null;
+        state.analyzedKeys = [];
+        setEmailAIState(state);
+      }
+      return;
+    }
 
     window._emailAIAnalyzing = true;
     if (typeof renderEmailList === 'function') renderEmailList();
