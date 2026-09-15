@@ -14206,3 +14206,725 @@ Spirit Day (Go Alouette!) and the Welcome Back Picnic was a success, thanks to a
 Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/09f12051-5d70-4591-ad1c-35c5b49a02fd> to read this week’s eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can g
 
 ---
+
+## [营销] It’s Boot Season
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-13T13:04:36.000Z
+**摘要:** 推广秋季和冬季靴子款式，适合凉爽天气和夜晚穿着。
+**待办:** 无
+
+Step into the styles made for crisp days and cool nights.   YOUR
+TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRL1R-2FNLMo9-2F46V30BUIueao-3Dw5EW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIuAfk-2FUa-2BoJEdAN1pEfsYmYmkzClDMU7CIffNSfpsgn6XoV1-2FzCIebLKJlLBGuvHZeqXjYfIm7nyEHeN9IVD6laYIIolByp2AuJNWMZmJnoFF8HxOdwlmCv6RSVmqA-2B
+
+---
+
+## [营销] PSA 📢 Get 50% off select Charlotte Tilbury, Sunday Riley, and more
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-13T13:17:05.000Z
+**摘要:** Sephora推送限时折扣活动，部分品牌如Charlotte Tilbury和Sunday Riley享50%优惠。
+**待办:** 无
+
+ Sephora 
+
+Go, go, go! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a09aea0bea973141f4bbe5c898/4f6c68a3e43e4b020000021ef3a0bcc2/4f6c68a3-e43e-4b02-b977-0ea277a03d47?_
+
+---
+
+## [其他] Your automation might just need one click☝️
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-13T13:26:31.000Z
+**摘要:** 邮件建议用户运行自动化流程以查看卡住的位置，并提供了解决方案的步骤，如联系Maia或查看社区论坛。
+**待办:** 无
+
+Try running it once to get things moving.  
+
+Logo ( https://www.make.com?utm_campaign=ScenarioCheck_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Your first scenario is usually the one that takes longest. If you got stuck partway, here's how to get unstuck.
+
+Open your scenario and click Run once to see where it stops.
+
+( https://make.com?utm_campaign=ScenarioCheck_Beginner&utm_medium=email&utm_source=customer.io )
+
+Fix it with Maia
+Tell Maia what’s going on or pas
+
+---
+
+## [营销] Meet your new agent 👋
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-13T16:28:19.000Z
+**摘要:** 这封邮件介绍了Make公司的AI代理工具，旨在帮助用户自动化处理邮件任务，如总结请求、起草邮件和分类工单，以提高工作效率。
+**待办:** 无
+
+What if automation could think, too?  
+
+Logo ( https://www.make.com?utm_campaign=Agents_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+You've already started removing repetitive work from your day, but some tasks require more than moving data between apps.
+
+They require reading, summarising, prioritising, researching, or drafting content. That's where AI agents come in.
+
+Think of them as an extra teammate that can:
+
+🤖 Summarise incoming requests
+✍️ Draft emails an
+
+---
+
+## [营销] Find a gem in Dusty Diamond
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-13T17:30:54.000Z
+**摘要:** 主题为‘Find a gem in Dusty Diamond’的营销邮件，正文内容可能存在问题或未正确显示。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [其他] The sooner you request a payment...
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-13T18:26:06.000Z
+**摘要:** 提醒用户尽快请求付款以加快到账速度。
+**待办:** 无
+
+ ...the sooner
+you’ll get paid! 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
+
+## [营销] 澳洲/紐西蘭來回低至HK$4,XXX！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-14T03:19:58.000Z
+**摘要:** 澳洲航空推出限时优惠，往返机票低至HK$4,XXX，含30kg行李和机上餐食，鼓励提前预订年尾航班。
+**待办:** 无
+
+【澳洲航空限時優惠】包 30kg 行李 + 機上餐食，搶先訂年尾機票😍🎄
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154247171-1789355998601.347%26ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D504107.HK-20260914-edm-hkairlineqf.2026-09-14_8_0.20260914.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0
+
+---
+
+## [其他] Your receiving account is open for business
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-14T07:14:38.000Z
+**摘要:** 通知用户收款账户已开通，提供使用指南。
+**待办:** 无
+
+Here’s how to get started!
+
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" widt
+
+---
+
+## [其他] Fire Alarm & Sprinkler System Testing Today in all Buildings
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-14T07:55:05.000Z
+**摘要:** 通知今天所有建筑将进行火灾报警和喷淋系统测试。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [其他] Short-Term Letting at London Dock - Resident meeting 16/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-14T09:51:26.000Z
+**摘要:** 通知居民关于伦敦码头短期租赁的会议安排，日期为2026年9月16日。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Exclusive to Browns: new season favourites
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-14T13:09:57.000Z
+**摘要:** Browns Shoes 推出新季节精选鞋款与服装，包括尖头鞋、平底鞋、运动鞋及定制服装，引导用户访问链接查看最新趋势。
+**待办:** 无
+
+Cap-toes, flats, sneakers—and tailoring made for every wardrobe.
+YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PA7BRXCPliNOlwsb0nsltOlj88aHl6M6Xw-2FxGRhKGCng-3D-3D6xr4_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHfbkRxoeQ-2BJseA1AkkjvyYl82akoMZ7GY3-2F3Dwmbmhe0q3-2F9XoTWI9xXyGSqFe-2Fm5yirhW-2FMx-2FlL1nG0YrvG0wNN3xs233BJsSE9cK99-2BCwwMhTk1UDYl1bNfezaqB-2FmrE3rG-2Bz9p4WSq
+
+---
+
+## [营销] One-day deals: 50% off select beauty 🍩
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-14T13:09:34.000Z
+**摘要:** Sephora 发送了一日特价促销邮件，提供部分美妆产品的50%折扣优惠。
+**待办:** 无
+
+ Sephora 
+
+Fill up your basket. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0a00989e7c144a16e96c660f0/ef56e20f49a941c20000021ef3a0bcc2/ef56e20f-49a9-41c2-a5a9-45066
+
+---
+
+## [其他] New Arrangement
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-14T13:49:23.000Z
+**摘要:** 邮件主题为新安排，但正文内容缺失，无法获取具体信息
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] 25 limited-edition sweatfleece colours just dropped.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-14T14:02:17.000Z
+**摘要:** Aritzia推出25种限量版卫衣颜色，用户享有24小时提前访问权限进行选购。
+**待办:** 无
+
+Your 24-hour early access starts now. Which will you choose?
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
+
+## [营销] We’re back at Richmond Centre!
+
+**发件人:** lululemon Richmond Centre <stores@e.lululemon.com>
+**日期:** 2026-09-14T16:03:51.000Z
+**摘要:** lululemon Richmond Centre宣布重新开业或有新活动
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] 🫒 DID YOU HEAR THE BIG NEWS?
+
+**发件人:** "Sephora: The Chat " <shop@beauty.sephora.com>
+**日期:** 2026-09-14T16:11:01.000Z
+**摘要:** Sephora通知K-Beauty促销活动，并附有优惠链接和积分信息。
+**待办:** 无
+
+ Sephora 
+
+K-Beauty lovers...this one’s for you. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0a0afa595a369a9f4bbc780a0/49616d40b2d041980000021ef3a0bcc2/49616d40-b2d
+
+---
+
+## [学校] Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-09-14T20:11:33.000Z
+**摘要:** 提醒支付Meadowridge学校的校车费用，逾期未付可能导致学生无法乘车。
+**待办:** 支付校车费用
+
+Dear Parents/Guardians,
+
+This is a friendly reminder that all outstanding school bus service invoices
+are due by tomorrow, September 15, 2026.
+
+To ensure your child's transportation service continues without
+interruption, please arrange payment by the deadline. If payment has not
+been received by tomorrow, students with outstanding balances will not be
+permitted to board the school bus until the account has been brought up to
+date. If payment has not been made by 3:00pm today, please do
+
+---
+
+## [学校] From the Head of School: Welcome Back Update
+
+**发件人:** "Mr. Scott Banack, Head of School" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-14T21:00:16.000Z
+**摘要:** 校长发布欢迎返校的更新信息。
+**待办:** 无
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] Two Wunder Puff™ styles just landed
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-14T20:59:42.000Z
+**摘要:** lululemon宣布两款Wunder Puff™风格新品到货。
+**待办:** 无
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [其他] Short term letting - Access to the block - Tailgating
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-15T08:56:17.000Z
+**摘要:** 通知关于短期租赁的访问权限问题，提及尾随进入的安全隐患。
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] ⏰ Limited-time offer ends soon.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-15T11:13:39.000Z
+**摘要:** Apple教育商店限时优惠，9月24日前购买Mac或iPad可获赠最高210美元礼品卡。
+**待办:** 无
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Bou1H33Ci8Wvt8KMFkb4q8EZ5Tqai2mjgoZ8Pw9Yil4EntuyAQmx%2BTwwxRP7hvoVZTKP368pdpvzZkb1Z8bYyf%2F0WxId2h6AxfvBuLheJXktYyjJzUXEg4HPqjjzBZ9xNdw2t3KPODWNiw7aN4y%2BsVmHZonO%2FYQF8bORD1%2FvA8dR58dLhmrWz56CndrtKDpS3roFQnp25rLSZWvSwi9wRgAQ5R5syOjQXy5%2FYAJykfreNv1g1QG7BFOrzEdnSPr3hWU7TUifVCqZaw2vL9SrD78XPlZHD5DVtVDLx9yhhjiiGKzatf5EZ9Whfdp8wK6EPO1i7v9CQdJ2kPqCGWOAtXRPEu6twax%2FUNbZJjwPNDTrwdCYWgoEVc8xuuj54ODxo%3D
+
+Shop the Education Sto
+
+---
+
+## [营销] The Essential of the Season: Loafers
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-15T13:12:41.000Z
+**摘要:** 这封邮件是Browns Shoes推广他们的经典Loafers鞋子，强调品牌自1940年以来的加拿大传统。
+**待办:** 无
+
+The polished pair your wardrobe has been waiting for.   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq-2BxxC-2FaCEuHBT-2BJsV8buU9Q-3D-3D4GBk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOhVU-2FkCrhczuX2qiq8KDrOacWvwTsbW3sc9mGLOCRH3dUWEp5tOtyB9L9sHj-2BtezIuPdwArmLthc1K-2FBkPwIUSmcsHomZNlFUtuZceDObves4CB7D9mUfZtiGHnf-2BF2wSBciNoMzSVr3981fPyZZfBmu
+
+---
+
+## [营销] You’re closer than you think
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-15T13:26:33.000Z
+**摘要:** 邮件鼓励用户继续使用Make平台，完成自动化配置或尝试提供的模板。
+**待办:** 尝试使用提供的模板或继续配置自动化流程
+
+Most people just need one small step  
+
+Logo ( https://www.make.com?utm_campaign=ProgressAndTemplates2_Beginner&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Getting your first automation running is easier than it looks – most people just need one small step.
+
+✅ Account verified
+✅ Scenario builder explored
+⚪ First connection created
+⚪ First automation running
+
+You’re closer than it might feel. Tell Maia what to connect and build, or explore what's possible with her. Just o
+
+---
+
+## [营销] New from INNBEAUTY PROJECT: Extreme Cleanse
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-15T13:06:32.000Z
+**摘要:** Sephora推送INNBEAUTY PROJECT新品Extreme Cleanse洁面乳，宣称快速卸妆防晒，并附有购买链接和积分信息。
+**待办:** 无
+
+ Sephora 
+
+This milky cleanser melts away makeup and SPF in a snap. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0a52d173896455ff4bbe5bf30/104cc9d14ae243540000021ef3
+
+---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-15T14:43:41.000Z
+**摘要:** 邮件包含HTML格式代码，无实际文本内容
+**待办:** 无
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Did you know that points = rewards?
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-15T16:25:37.000Z
+**摘要:** 提醒用户有761积分可兑换奖励，并提示限时优惠。
+**待办:** 无
+
+ Sephora 
+
+Check them out before they’re gone! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0a5e35f7f9f0713f4bbcf6cc0/96b7404b4ea049290000021ef3a0bcc2/96b7404b-4ea0-
+
+---
+
+## [学校] Meadowridge_ Offer of Enrolment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:34:12.000Z
+**摘要:** 这封邮件涉及Meadowridge的入学录取通知。
+**待办:** 无
+
+
+
+
+---
+
+## [学校] Meadowridge_ Offer of Enrolment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T17:34:40.000Z
+**摘要:** 这封邮件是关于Meadowridge的入学录取通知。
+**待办:** 无
+
+
+
+
+---
+
+## [其他] VFS Global Notification
+
+**发件人:** VFS Global - eICR <donotreply@vfshelpline.com>
+**日期:** 2026-09-15T17:43:13.000Z
+**摘要:** 这封邮件通知签证申请跟踪ID已收到，并附有电子发票（e-ICR）供参考，同时提供跟踪信息和快递服务的联系方式。
+**待办:** 联系热线申请快递服务以取回护照
+
+ VFS Global notification 
+
+VFS Global      
+
+Dear Mr/Ms YUNXI HE,
+
+Visa Application Tracking ID # 20260915USLAPKT71842 has been received at 
+the VAC on 2026-09-15 09:41:03 AM. Please find attached the e-ICR (Invoice 
+cum receipt) for your record & reference.
+
+For Visa application process & tracking related information please visit 
+the website https://visa.vfsglobal.com/usa/en/can/
+
+   - Email: info.canny@vfshelpline.com 
+   - Helpline number: 8882964511 
+   - Collection timing: Monday to Friday
+
+---
+
+## [营销] Need some help deciding?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-15T18:37:09.000Z
+**摘要:** 邮件建议用户选择最适合他们的产品
+**待办:** 无
+
+Find out which product is best
+for you 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspac
+
+---
+
+## [学校] Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:03:20.000Z
+**摘要:** 家长询问女儿能否中途加入学校农场旅行，并请求具体地址信息
+**待办:** 确认学生中途加入可行性并提供农场地址
+
+Dear Ms. Hook,
+
+I am writing to inquire about the possibility of Cathy (Yunxi) He joining the Grade 7 Gibsons Farm trip.
+
+We have just received our student visas today (Wednesday) and are scheduled to arrive in Vancouver around 5:00 PM this afternoon. Since the trip has already started, we were wondering if it would be possible for me to drive Cathy directly to the farm tomorrow (Thursday) morning so she can join her classmates for the remainder of the outing.
+
+If this is feasible, could y
+
+---
+
+## [待办] Reset your MyKidsSpending password
+
+**发件人:** support@mykidsspending.com
+**日期:** 2026-09-15T19:09:29.000Z
+**摘要:** 需要重置MyKidsSpending密码
+**待办:** 重置MyKidsSpending密码
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="format-detection" content="telephone=no"><title>MyKidsSpending - Reset your MyKidsSpending password</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body style="margin: 0; padding: 0; background-color: #F7F7F7; font-family: Arial, Helvetica, sans-serif;"><!-- Preheader text --><
+
+---
+
+## [学校] Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:06:45.000Z
+**摘要:** 家长询问Cathy能否中途加入Gibsons Farm旅行，并请求农场地址或路线信息。
+**待办:** 联系学校确认Cathy中途加入的可行性，并获取农场具体地址或接送指引
+
+Dear Ms. Hook,
+
+I am writing to inquire about the possibility of Cathy (Yunxi) He joining the Grade 7 Gibsons Farm trip.
+
+We have just received our student visas today and are scheduled Wednesday to arrive in Vancouver around 5:00 PM. Since the trip has already started on Wed, we were wondering if it would be possible for me to drive Cathy directly to the farm Thursday morning so she can join her classmates for the remainder of the outing.
+
+If this is feasible, could you please provide the
+
+---
