@@ -15375,3 +15375,34 @@ To: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
 Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 La
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-15T11:09:42.000Z
+**摘要:** Lauren询问Natalie是否已正确提交文件，Natalie确认已提交并请其检查。
+**待办:** 检查平台是否已正确提交文件
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+Our team are saying they haven’t received it yet – are you able to go back into the platform and just double check that the submit/finish button was clicked?
+
+Many thanks,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Sent: 15 September 2026 09:27
+To: natalie <n
+
+---
