@@ -2456,41 +2456,49 @@ function circuitLabel(c) {
       dayMap[d].push(e);
     });
     let changed = false;
-    for (const d of Object.keys(dayMap).sort()) {
-      const dayEmails = dayMap[d];
-      const dayState = state.days[d];
-      const isToday = d === today;
-      const hasSummary = dayState && dayState.summary;
-      const needAnalyze = isToday
-        ? (force || !hasSummary || (dayState.analyzedCount || 0) < dayEmails.length)
-        : !hasSummary;
-      if (!needAnalyze) continue;
-      window._emailAIAnalyzing = true;
-      if (typeof renderEmailList === 'function') renderEmailList();
-      let currentSummary = null;
-      let analyzed = 0;
-      try {
-        while (analyzed < dayEmails.length) {
-          const chunk = dayEmails.slice(analyzed, analyzed + 30);
-          const payload = { action: 'email_summary', date: d, previousSummary: currentSummary, newEmails: chunk };
-          const res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
-          const data = await res.json();
-          if (data && data.actions) {
-            currentSummary = { ...data, date: d, total: dayEmails.length, categories: countEmailsByCategory(dayEmails) };
-            analyzed += chunk.length;
-          } else {
-            break;
+    try {
+      for (const d of Object.keys(dayMap).sort()) {
+        const dayEmails = dayMap[d];
+        const dayState = state.days[d];
+        const isToday = d === today;
+        const hasSummary = dayState && dayState.summary;
+        const needAnalyze = isToday
+          ? (force || !hasSummary || (dayState.analyzedCount || 0) < dayEmails.length)
+          : !hasSummary;
+        if (!needAnalyze) continue;
+        window._emailAIAnalyzing = true;
+        if (typeof renderEmailList === 'function') renderEmailList();
+        let currentSummary = null;
+        let analyzed = 0;
+        try {
+          while (analyzed < dayEmails.length) {
+            const chunk = dayEmails.slice(analyzed, analyzed + 30);
+            const payload = { action: 'email_summary', date: d, previousSummary: currentSummary, newEmails: chunk };
+            const ctrl = new AbortController();
+            const timer = setTimeout(() => ctrl.abort(), 90000);
+            let res;
+            try {
+              res = await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload), signal: ctrl.signal });
+            } finally { clearTimeout(timer); }
+            const data = await res.json();
+            if (data && (data.todos || data.info || data.summary)) {
+              currentSummary = { ...data, date: d, total: dayEmails.length, categories: countEmailsByCategory(dayEmails) };
+              analyzed += chunk.length;
+            } else {
+              break;
+            }
           }
+        } catch(e) {}
+        if (currentSummary) {
+          state.days[d] = { summary: currentSummary, analyzedCount: dayEmails.length, analyzedAt: new Date().toISOString() };
+          changed = true;
+        } else {
+          state.days[d] = { summary: null, analyzedCount: analyzed, analyzedAt: new Date().toISOString() };
         }
-      } catch(e) {}
-      if (currentSummary) {
-        state.days[d] = { summary: currentSummary, analyzedCount: dayEmails.length, analyzedAt: new Date().toISOString() };
-        changed = true;
-      } else {
-        state.days[d] = { summary: null, analyzedCount: analyzed, analyzedAt: new Date().toISOString() };
       }
+    } finally {
+      window._emailAIAnalyzing = false;
     }
-    window._emailAIAnalyzing = false;
     if (changed) setEmailAIState(state);
     if (typeof renderEmailList === 'function') renderEmailList();
   }
