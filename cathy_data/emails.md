@@ -14975,3 +14975,25 @@ From: natalie <nataliewu100@gmail.com>
 Sent: Tuesd
 
 ---
+
+## [学校] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T19:16:15.000Z
+**摘要:** Natalie询问Cathy是否可以中途加入学校组织的Gibsons Farm旅行，老师确认可行，并要求签署许可文件及提供医疗信息。
+**待办:** 需签署许可文件并确认Cathy的医疗/饮食限制
+**GmailID:** 1a0a67709ce9d909
+
+Dear Teacher Hook,
+
+Thank you so much for your help!
+
+Looking forward to meeting you!
+
+Natalie
+在 Sep 15, 2026, 21:14 +0200，Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+> I don’t think that should be a problem. Please go on the Meadowridge Hub and sign all the permission forms.
+> Please let me know if she has any medical or dietary restrictions so we can let the farm know.
+> I will send a follow up email with the packing list and directions on how to get her to us on Wednesday evenin
+
+---
