@@ -14689,3 +14689,16 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Bou1H33C
 Shop the Education Sto
 
 ---
+
+## [营销] The Essential of the Season: Loafers
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-15T13:12:41.000Z
+**摘要:** 这封邮件是Browns Shoes推广他们的经典Loafers鞋子，强调品牌自1940年以来的加拿大传统。
+**待办:** 无
+
+The polished pair your wardrobe has been waiting for.   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDq-2BxxC-2FaCEuHBT-2BJsV8buU9Q-3D-3D4GBk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOhVU-2FkCrhczuX2qiq8KDrOacWvwTsbW3sc9mGLOCRH3dUWEp5tOtyB9L9sHj-2BtezIuPdwArmLthc1K-2FBkPwIUSmcsHomZNlFUtuZceDObves4CB7D9mUfZtiGHnf-2BF2wSBciNoMzSVr3981fPyZZfBmu
+
+---
