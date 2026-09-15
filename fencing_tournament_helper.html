@@ -709,7 +709,7 @@
         <span id="emails-count" style="font-size:0.8rem; color:var(--gray);"></span>
       </div>
       <div id="email-filters" style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
-        <button class="btn active" data-filter="ai" style="padding:4px 12px; font-size:0.8rem;">AI 邮件助手</button>
+        <button class="btn active" data-filter="ai" style="padding:4px 12px; font-size:0.8rem;">AI 邮件待办</button>
         <button class="btn secondary" data-filter="focus" style="padding:4px 12px; font-size:0.8rem;">重要邮件</button>
         <button class="btn secondary" data-filter="击剑" style="padding:4px 12px; font-size:0.8rem;">击剑</button>
         <button class="btn secondary" data-filter="学校" style="padding:4px 12px; font-size:0.8rem;">学校</button>
@@ -4985,7 +4985,7 @@ function circuitLabel(c) {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today && FOCUS_CATS.includes(e.category || '其他');
     });
-    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${cutoff} ~ ${today} · 过去7天合并分析${state.analyzedAt ? ' · 更新于 ' + state.analyzedAt.slice(5, 16).replace('T', ' ') : ''}</div>`;
+    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${cutoff} ~ ${today} · 学校/击剑邮件归纳出的待办${state.analyzedAt ? ' · 更新于 ' + state.analyzedAt.slice(5, 16).replace('T', ' ') : ''}</div>`;
     if (!summary) {
       if (window._emailAIAnalyzing) {
         html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px;">AI 正在归纳 ${windowEmails.length} 封邮件…</div>`;
@@ -5046,7 +5046,7 @@ function circuitLabel(c) {
       else { btn.classList.remove('active'); btn.classList.add('secondary'); }
     });
     if (currentEmailFilter === 'ai') {
-      if (countEl) countEl.textContent = 'AI 助手';
+      if (countEl) countEl.textContent = 'AI 待办';
       container.innerHTML = buildEmailAISummaryHTML();
       return;
     }
