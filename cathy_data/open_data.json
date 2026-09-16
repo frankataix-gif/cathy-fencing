@@ -37,13 +37,6 @@
       "name": "学校",
       "items": [
         {
-          "name": "MyKidsSpending",
-          "url": "https://www.mykidsspending.com/Logon",
-          "user": "nataliewu100@gmail.com",
-          "pass": "98796395",
-          "note": "Meadowridge 食堂饭卡：充值 / 查余额"
-        },
-        {
           "name": "Meadowridge 官网",
           "url": "https://www.meadowridge.bc.ca",
           "user": "",
@@ -56,6 +49,13 @@
           "user": "",
           "pass": "",
           "note": "作业 / 成绩 / 课程（网址不对的话改一下）"
+        },
+        {
+          "name": "MyKidsSpending",
+          "url": "https://www.mykidsspending.com/Logon",
+          "user": "nataliewu100@gmail.com",
+          "pass": "Mm98796395",
+          "note": "Meadowridge 食堂饭卡：充值 / 查余额"
         }
       ]
     }
