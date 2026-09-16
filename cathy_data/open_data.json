@@ -67,13 +67,6 @@
       "name": "学校",
       "items": [
         {
-          "name": "Meadowridge 官网",
-          "url": "https://www.meadowridge.bc.ca",
-          "user": "",
-          "pass": "",
-          "note": "学校主页 / 校历 / 通知"
-        },
-        {
           "name": "ManageBac",
           "url": "https://meadowridge.managebac.com",
           "user": "",
@@ -92,6 +85,16 @@
             "path": "cathy_data/files/file_1789545275268.pdf",
             "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789545275268.pdf"
           },
+          "voice": null
+        },
+        {
+          "name": "Meadowridge 家长登录平台",
+          "url": "https://meadowridge.myschoolapp.com/app/?svcid=edu#login",
+          "user": "nataliewu100@gmail.com",
+          "pass": "",
+          "note": "学校主页 / 校历 / 通知",
+          "image": "",
+          "pdf": null,
           "voice": null
         }
       ]
