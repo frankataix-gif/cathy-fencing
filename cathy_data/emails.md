@@ -15749,3 +15749,32 @@ On 16 Sep 2026 at 2:07 PM +0200, MyKidsSpending with SAGE at Meadowridge Schoo
 > Welcome to MyKidsSpend
 
 ---
+
+## [Cathy&David] SAGE Dining Account Statement Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-09-16T12:07:23.000Z
+**摘要:** 关于Yunxi He的SAGE餐饮账户声明，包含当前余额和账户管理链接。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0aa1d53c278cf1
+
+
+
+
+Dear JingQi Wu, 
+
+Welcome to MyKidsSpending with SAGE Dining at Meadowridge School. 
+
+Attached is your dining account statement for Yunxi He. 
+
+  Your current balance is $100.00. 
+  At this time, autofunding is currently on for this account. 
+
+To view and manage your account, please click on the following link: Home Page 
+
+Questions about purchased items may be directed to the Cafeteria Manager by email at sage@meadowridge.bc.ca. 
+
+For questions about MyKidsSpending, please se
+
+---
