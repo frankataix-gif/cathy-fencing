@@ -15625,3 +15625,24 @@ I look forward to your response. Thank you.
 > Your p
 
 ---
+
+## [其他] Confirm your e-mail now
+
+**发件人:** Fencing Tracker <noreply@fencingtracker.com>
+**日期:** 2026-09-16T08:43:47.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a0a962fac926bc5
+
+Hi cathy,
+
+To verify your e-mail address, please click on the following link:
+http://fencingtracker.com/user/confirm/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hdGFsaWV3dTEwMEBnbWFpbC5jb20iLCJleHAiOjE3ODk2MzQ2MjUuNTc4MjI0N30.5ykVU5Bjax_jjvOVy1CyTsCmHmCOX-P07quk5JHZ3OE?next=/
+
+You will not be able to log in until you verify your e-mail address.
+
+Thanks,
+The Fencing Tracker Team
+
+
+---
