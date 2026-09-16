@@ -15847,3 +15847,26 @@ DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRO7aMlUny1IDk19i611VSZk-3DZVcr_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IACj43yBhjKfnfWkjxB7PFNV-2FLm-2BtJ0aMpB0cXBIsRZWtfVHA-2FKzPIwwOzZP59Z2-2FvTrQGOMQ9N8jz9PHTtK4hIX0jJlaowIZUY0FYZxS8Q-2Bpkypz7ocmrawGSEuKqv5DF2LM0dZJcYodpOkG
 
 ---
+
+## [Cathy&David] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-16T14:21:19.000Z
+**摘要:** 提醒Cathy带毛巾和手巾，并提供前往Gibsons Farm的路线及地址信息。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0a67709ce9d909
+
+Hi I forgot to mention that Cathy should bring a washcloth and hand towel as well. Not 100% necessary, but nice to have.
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Sent: Tuesday, 15 September 2026 15:50:48
+To: natalie <nataliewu100@gmail.com>
+Subject: Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+Ok,
+We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe B
+
+---
