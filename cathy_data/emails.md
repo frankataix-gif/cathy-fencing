@@ -15571,3 +15571,33 @@ Verdana, Arial, sans-serif !important; }     96
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="format-detection" content="telephone=no"><title>MyKidsSpending - ACH Transaction</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body style="margin: 0; padding: 0; background-color: #F7F7F7; font-family: Arial, Helvetica, sans-serif;"><!-- Preheader text --><div style="display:
 
 ---
+
+## [待办] Transaction Declined - Reference:
+
+**发件人:** LYNCH BUS LINES LTD <noreply@elavon.com>
+**日期:** 2026-09-16T08:08:49.000Z
+**摘要:** 支付被拒绝，金额为4,163.25 CAD，原因疑似欺诈，需提供发票或确认号MR-27-001。
+**待办:** 联系相关部门处理支付问题，并提供发票或确认号MR-27-001。
+**GmailID:** 1a0a942f4f81d47f
+
+ 
+
+$4,163.25 CAD
+
+09/16/2026 01:08:48 AM
+
+LYNCH BUS LINES LTD
+Your payment was declined 
+Transaction Type SALE 
+Payment VISA   41**********2161 
+Transaction ID 160926O71-EE46B29D-F26D-4FBC-86B2-FE9C26B3376B 
+Approval Message SUSPECTED FRAUD 
+Total $4,163.25 CAD 
+Other Information Required 
+Invoice or Confirmation Number MR-27-001 
+LYNCH BUS LINES LTD 
+4687 BYRNE ROAD BURNABY BC V5J 3H6 | www.lynchbuslines.com | 604-439-0842 
+
+The information contained in this e-mail and in any attachments is int
+
+---
