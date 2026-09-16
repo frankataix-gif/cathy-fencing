@@ -5902,15 +5902,24 @@ function circuitLabel(c) {
     closeTaskEditor();
     activateTab('emails');
     for (let i = 0; i < 40 && !allEmails.length; i++) await new Promise(r => setTimeout(r, 250));
-    renderEmailList('all');
-    const idx = findEmailIndexForTask(task);
-    if (idx < 0) { alert('未找到相关邮件（可能已被移除或尚未同步）'); return; }
-    const sel = document.querySelector(`#emails-list-full .email-cat-select[data-email-index="${idx}"]`);
-    const card = sel && sel.closest('.card');
-    if (card) {
+    // 切 Tab 触发的异步 loadEmails 会重建列表，高亮需在其完成后应用——这里延迟重试两次兜底
+    const apply = () => {
+      renderEmailList('all');
+      const idx = findEmailIndexForTask(task);
+      if (idx < 0) return false;
+      const sel = document.querySelector(`#emails-list-full .email-cat-select[data-email-index="${idx}"]`);
+      const card = sel && sel.closest('.card');
+      if (!card) return false;
       card.scrollIntoView({ behavior: 'smooth', block: 'center' });
       card.style.boxShadow = '0 0 0 3px #f59e0b';
-      setTimeout(() => { card.style.boxShadow = ''; }, 2500);
+      setTimeout(() => { if (card.isConnected) card.style.boxShadow = ''; }, 2500);
+      return true;
+    };
+    if (!apply()) {
+      await new Promise(r => setTimeout(r, 900));
+      if (!apply()) { alert('未找到相关邮件（可能已被移除或尚未同步）'); return; }
+    } else {
+      setTimeout(apply, 1200); // loadEmails 完成重渲染后再补一次高亮
     }
   }
 
