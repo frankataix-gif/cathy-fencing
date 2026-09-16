@@ -16233,3 +16233,16 @@ Fax: 604-439-1941
 This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediately and delete it. Reading, disclosing, copying or disseminating any
 
 ---
+
+## [营销] A new crew comes into the fold
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-16T18:55:25.000Z
+**摘要:** lululemon 发布新品或品牌活动信息
+**待办:** 无
+**GmailID:** 1a0ab93361695305
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
