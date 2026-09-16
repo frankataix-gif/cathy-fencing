@@ -62,7 +62,11 @@
             "path": "cathy_data/files/file_1789545275268.pdf",
             "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789545275268.pdf"
           },
-          "voice": null
+          "voice": {
+            "name": "语音留言_1789547388518.m4a",
+            "path": "cathy_data/files/file_1789547388524.m4a",
+            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789547388524.m4a"
+          }
         }
       ]
     },
