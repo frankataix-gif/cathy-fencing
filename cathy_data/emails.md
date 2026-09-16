@@ -16062,3 +16062,22 @@ c
 > This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you
 
 ---
+
+## [营销] Pasjoli celebrates 7 years in LA
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-16T18:32:14.000Z
+**摘要:** Pasjoli餐厅在DoorDash上举办7周年庆祝活动，邀请用户预订。
+**待办:** 无
+**GmailID:** 1a0ab7daec6418ff
+
+ DoorDash Email Reserve Pasjoli’s anniversary event on DoorDash 
+Reservations. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌  
+
+---
