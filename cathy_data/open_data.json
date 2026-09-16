@@ -4,13 +4,6 @@
       "name": "击剑",
       "items": [
         {
-          "name": "FencingTimeLive",
-          "url": "https://fencingtimelive.com",
-          "user": "",
-          "pass": "",
-          "note": "现场比分 / 赛程 / 晋级表"
-        },
-        {
           "name": "USA Fencing 会员中心",
           "url": "https://member.usafencing.org",
           "user": "frankcathynatalie",
@@ -40,6 +33,16 @@
           "user": "nataliewu100@gmail.com",
           "pass": "Mm98796395",
           "note": "美国本土击剑圈，可以查对手积分，历史战绩等。",
+          "image": "",
+          "pdf": null,
+          "voice": null
+        },
+        {
+          "name": "FencingTimeLive",
+          "url": "https://fencingtimelive.com",
+          "user": "frankataix@gmail.com",
+          "pass": "Mm98796395",
+          "note": "现场比分 / 赛程 / 晋级表",
           "image": "",
           "pdf": null,
           "voice": null
