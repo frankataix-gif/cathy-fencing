@@ -16273,3 +16273,24 @@ Best regards
 > Lynch Bus Li
 
 ---
+
+## [Cathy&David] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T19:31:07.000Z
+**摘要:** Natalie需要帮助填写Cathy医疗表格中的医生信息，并确认是否还有其他所需文件。
+**待办:** 提供医生信息
+**涉及:** Cathy
+**GmailID:** 1a08708ba7c2344c
+
+Hi Vivian,
+
+I’m writing to share some great news—we have received Cathy’s student visa! We are currently on our way back to Vancouver today and expect her to officially start school this coming Monday.
+
+I have already completed the Emergency Contacts and the Residency Form. However, I’m having some trouble with the Medical form, specifically the PHYSICIAN INFORMATION section. I’m not sure how to fill in the following details:
+
+• Care Card Number
+• Physician Name
+• Physician Phone Number
+
+---
