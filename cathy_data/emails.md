@@ -15727,3 +15727,25 @@ I look forward to your response. Thank you.
 > You can make payment through our website using the orang
 
 ---
+
+## [Cathy&David] Question regarding dining account usage - Yunxi He (ID: 348801)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T12:10:05.000Z
+**摘要:** 询问Yunxi He的餐饮账户是否需要实体卡或输入姓名/ID进行购买。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0aa1f5e0635e00
+
+Dear SAGE Dining Team,
+
+I am writing to inquire about how students use their dining accounts for purchases at Meadowridge School.
+
+Could you please clarify if the student (Yunxi He, ID: 348801) needs a physical card to make purchases, or if they simply provide their name or ID number at the counter?
+
+Thank you for your help.
+On 16 Sep 2026 at 2:07 PM +0200, MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>, wrote:
+> Dear JingQi Wu,
+> Welcome to MyKidsSpend
+
+---
