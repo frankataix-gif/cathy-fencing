@@ -2432,6 +2432,7 @@ function circuitLabel(c) {
         <input class="vf" data-f="user" value="${escapeHtml(it.user || '')}" placeholder="用户名 / 邮箱" style="${_vInputStyle}">
         <input class="vf" data-f="pass" value="${escapeHtml(it.pass || '')}" placeholder="密码" style="${_vInputStyle}">
         <input class="vf" data-f="note" value="${escapeHtml(it.note || '')}" placeholder="用途说明" style="${_vInputStyle}">
+        <div id="v-attach-area"></div>
         <div style="display:flex; gap:10px; justify-content:flex-end;">
           <button data-act="edit-cancel" style="${_vBtnStyle} color:#6b7280;">取消</button>
           <button data-act="edit-save" style="${_vBtnStyle} font-weight:600;">保存</button>
@@ -2448,6 +2449,9 @@ function circuitLabel(c) {
         ? `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<b>${escapeHtml(it.pass)}</b> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>`
         : `<div style="font-size:0.8rem; color:#374151; margin-top:2px;">密码：<span class="vp">••••••</span> <button data-act="reveal" style="${_vBtnStyle}">显示</button> <button data-act="copy" data-v="${escapeHtml(it.pass)}" style="${_vBtnStyle}">复制</button></div>`) : ''}
       ${it.note ? `<div style="font-size:0.75rem; color:#6b7280; margin-top:4px;">${escapeHtml(it.note)}</div>` : ''}
+      ${it.image ? `<img src="${it.image}" class="v-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">` : ''}
+      ${it.pdf ? `<a href="${taskFileUrl(it.pdf)}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.75rem; color:var(--primary); text-decoration:none; padding:3px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(it.pdf.name || '附件')}</a>` : ''}
+      ${it.voice ? `<audio controls src="${taskFileUrl(it.voice)}" style="height:30px; margin-top:6px; width:220px; max-width:100%; display:block;" preload="none"></audio>` : ''}
       <div style="margin-top:6px; display:flex; gap:12px;">
         <button data-act="edit" style="${_vBtnStyle}">编辑</button>
         <button data-act="del" style="${_vBtnStyle} color:#ef4444;">删除</button>
@@ -2466,6 +2470,7 @@ function circuitLabel(c) {
     </div>
     <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>
     <input type="text" id="vault-search" value="${escapeHtml(_vaultQuery)}" placeholder="搜索名称 / 网址 / 用户名 / 备注…" style="${_vInputStyle}">
+    <input type="file" id="v-file-input" accept="image/*,application/pdf" style="display:none;">
     <div id="vault-list"></div>`;
     renderVaultResults();
   }
@@ -2490,6 +2495,7 @@ function circuitLabel(c) {
       });
       if (!hits.length) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">没有匹配的记录。</div>';
       list.innerHTML = html;
+      renderVAttach();
       return;
     }
     const showAll = !_vaultFilter;
@@ -2522,6 +2528,29 @@ function circuitLabel(c) {
     });
     if (!renderedAny && !_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
     list.innerHTML = html;
+    renderVAttach();
+  }
+
+  let _vAttach = null;   // 编辑中的附件 {image, pdf, voice}
+  let _vUploading = false;
+  function renderVAttach() {
+    const area = document.getElementById('v-attach-area');
+    if (!area || !_vAttach) return;
+    let html = '<div style="margin-top:2px; border-top:1px dashed #e5e7eb; padding-top:8px; font-size:0.78rem; color:#6b7280;">附件（照片 / PDF / 语音）</div>';
+    if (_vAttach.image) html += `<img src="${_vAttach.image}" style="max-width:100%; max-height:140px; border-radius:8px; border:1px solid #d1d5db; display:block; margin:6px 0;"><button data-act="v-img-del" style="${_vBtnStyle}">删除图片</button>`;
+    if (_vAttach.pdf) html += `<div style="margin:6px 0;">📄 ${escapeHtml(_vAttach.pdf.name || '附件')} <button data-act="v-pdf-del" style="${_vBtnStyle}">删除</button></div>`;
+    if (_recorder && _recorder.state === 'recording') {
+      const sec = Math.floor((Date.now() - _recStartAt) / 1000);
+      html += `<div style="margin:6px 0;"><span style="color:#ef4444; font-weight:600;">● 录音中 ${String(Math.floor(sec / 60)).padStart(2, '0')}:${String(sec % 60).padStart(2, '0')}</span> <button data-act="v-voice-stop" style="${_vBtnStyle}">停止</button></div>`;
+    } else if (_vAttach.voice) {
+      html += `<div style="margin:6px 0;"><audio controls src="${taskFileUrl(_vAttach.voice)}" style="height:30px; width:220px; max-width:100%;"></audio> <button data-act="v-voice-del" style="${_vBtnStyle}">删除</button></div>`;
+    }
+    html += `<div style="display:flex; gap:12px; margin-top:6px; align-items:center;">
+      <button data-act="v-file-add" style="${_vBtnStyle}">📷 图片 / PDF</button>
+      <button data-act="v-voice-start" style="${_vBtnStyle}">🎤 录音</button>
+      <span style="font-size:0.72rem; color:#9ca3af;">${_vUploading ? '上传中…' : ''}</span>
+    </div>`;
+    area.innerHTML = html;
   }
 
   async function vaultOpen(groupFilter) {
@@ -2567,7 +2596,26 @@ function circuitLabel(c) {
     box.addEventListener('compositionend', (e) => {
       if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVaultResults(); }
     });
+    box.addEventListener('change', async (e) => {
+      if (e.target.id !== 'v-file-input' || !_vAttach) return;
+      const f = e.target.files && e.target.files[0];
+      e.target.value = '';
+      if (!f) return;
+      _vUploading = true; renderVAttach();
+      try {
+        if (f.type.startsWith('image/')) {
+          try { _vAttach.image = await compressImageFile(f); }
+          catch { _vAttach.pdf = await uploadRepoFile(f); }
+        } else {
+          _vAttach.pdf = await uploadRepoFile(f);
+        }
+      } catch(err) { alert('上传失败：' + err.message); }
+      _vUploading = false;
+      renderVAttach();
+    });
     box.addEventListener('click', async (e) => {
+      const thumb = e.target.closest('img.v-thumb');
+      if (thumb) { openImageModal(thumb.src); return; }
       const unlockBtn = e.target.closest('#vault-unlock');
       if (unlockBtn) {
         const pass = document.getElementById('vault-pass-input').value;
@@ -2606,21 +2654,35 @@ function circuitLabel(c) {
       const gi = parseInt(kgi), ii = parseInt(kii);
       if (act === 'filter') {
         _vaultFilter = btn.dataset.g || null;
-        _vaultEditing = null; _vaultAdding = false;
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
         renderVault();
         return;
       }
       if (act === 'lock') {
-        _vaultPass = null; _vaultData = null; _vaultEditing = null; _vaultAdding = false;
+        _vaultPass = null; _vaultData = null; _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
         localStorage.removeItem('cathy_vault_pass');
         renderVault();
       } else if (act === 'add') {
         _vaultAdding = true; _vaultEditing = null;
+        _vAttach = { image: '', pdf: null, voice: null };
         renderVault();
       } else if (act === 'save') {
-        _vaultEditing = null; _vaultAdding = false;
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
         renderVault();
         await saveAllVault();
+      } else if (act === 'v-file-add') {
+        document.getElementById('v-file-input')?.click();
+      } else if (act === 'v-img-del') { _vAttach.image = ''; renderVAttach();
+      } else if (act === 'v-pdf-del') { _vAttach.pdf = null; renderVAttach();
+      } else if (act === 'v-voice-del') { _vAttach.voice = null; renderVAttach();
+      } else if (act === 'v-voice-start') {
+        startVoiceRec(renderVAttach, async (f) => {
+          _vUploading = true; renderVAttach();
+          try { _vAttach.voice = await uploadRepoFile(f); } catch(err) { alert('上传失败：' + err.message); }
+          _vUploading = false; renderVAttach();
+        });
+      } else if (act === 'v-voice-stop') {
+        if (_recorder && _recorder.state === 'recording') _recorder.stop();
       } else if (act === 'reveal') {
         const span = btn.parentElement.querySelector('.vp');
         const it = _findGroup(ksrc, gi).items[ii];
@@ -2631,6 +2693,8 @@ function circuitLabel(c) {
         try { await navigator.clipboard.writeText(btn.dataset.v); btn.textContent = '已复制'; setTimeout(() => btn.textContent = '复制', 1200); } catch(e) {}
       } else if (act === 'edit') {
         _vaultEditing = key; _vaultAdding = false;
+        const it0 = _findGroup(ksrc, gi).items[ii];
+        _vAttach = { image: it0.image || '', pdf: it0.pdf || null, voice: it0.voice || null };
         renderVault();
       } else if (act === 'del') {
         const grp = _findGroup(ksrc, gi);
@@ -2640,7 +2704,7 @@ function circuitLabel(c) {
         renderVault();
         await saveAllVault();
       } else if (act === 'edit-cancel') {
-        _vaultEditing = null; _vaultAdding = false;
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
         renderVault();
       } else if (act === 'edit-save') {
         const card = item;
@@ -2653,7 +2717,7 @@ function circuitLabel(c) {
           const target = priv ? _vaultData : _openData;
           target.groups.push({ name: gname, items: [] });
         }
-        const rec = { name: get('name').trim(), url: get('url').trim(), user: get('user').trim(), pass: get('pass'), note: get('note').trim() };
+        const rec = { name: get('name').trim(), url: get('url').trim(), user: get('user').trim(), pass: get('pass'), note: get('note').trim(), image: _vAttach ? _vAttach.image : '', pdf: _vAttach ? _vAttach.pdf : null, voice: _vAttach ? _vAttach.voice : null };
         if (!rec.name) { alert('名称不能为空'); return; }
         let tg = _openData.groups.find(g => g.name === gname);
         if (!tg && _vaultPass && _vaultData) tg = _vaultData.groups.find(g => g.name === gname);
@@ -2669,7 +2733,7 @@ function circuitLabel(c) {
           _findGroup(ksrc, gi).items.splice(ii, 1);
           tg.items.push(rec);
         }
-        _vaultEditing = null; _vaultAdding = false;
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
         renderVault();
         await saveAllVault();
       }
@@ -5514,7 +5578,8 @@ function circuitLabel(c) {
     area.innerHTML = `<button type="button" class="btn secondary" id="te-voice-start" style="padding:8px 14px; font-size:0.85rem;">🎤 录音留言</button><span id="te-voice-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
   }
 
-  async function startVoiceRec() {
+  // 通用录音：onTick 每秒回调重绘，onDone(file) 拿到录音文件
+  async function startVoiceRec(onTick, onDone) {
     if (!navigator.mediaDevices || typeof MediaRecorder === 'undefined') { alert('此浏览器不支持录音'); return; }
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
@@ -5528,13 +5593,12 @@ function circuitLabel(c) {
         const ext = type.includes('mp4') ? '.m4a' : type.includes('mpeg') ? '.mp3' : type.includes('ogg') ? '.ogg' : '.webm';
         const file = new File([new Blob(_voiceChunks, { type })], '语音留言_' + Date.now() + ext, { type });
         _recorder = null;
-        renderTeVoice();
-        await uploadTaskFile(file, 'voice');
+        if (onDone) await onDone(file);
       };
       _recStartAt = Date.now();
       _recorder.start();
-      _recTimer = setInterval(renderTeVoice, 1000);
-      renderTeVoice();
+      _recTimer = setInterval(() => { if (onTick) onTick(); }, 1000);
+      if (onTick) onTick();
     } catch(e) { alert('无法使用麦克风：' + e.message); }
   }
 
@@ -5566,6 +5630,25 @@ function circuitLabel(c) {
     area.innerHTML = html;
   }
   let _teUploading = false;
+  // 通用文件上传到 cathy_data/files/，返回 {name, path, url}
+  async function uploadRepoFile(file) {
+    if (file.size > 8 * 1024 * 1024) throw new Error('文件太大（超过 8MB）');
+    const b64 = await new Promise((res, rej) => {
+      const r = new FileReader();
+      r.onload = () => res(String(r.result).split(',')[1]);
+      r.onerror = rej;
+      r.readAsDataURL(file);
+    });
+    const ext = (file.name.match(/\.[a-zA-Z0-9]+$/) || ['.bin'])[0].toLowerCase();
+    const path = 'cathy_data/files/file_' + Date.now() + ext;
+    const res = await fetch(CATHY_SYNC_WORKER_URL, {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action: 'save', path, content: b64, encoding: 'base64', message: 'Upload file ' + file.name })
+    });
+    const result = await res.json().catch(() => ({}));
+    if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
+    return { name: file.name, path, url: taskFileUrl({ path }) };
+  }
   // 附件链接统一走 Worker 代理（raw.githubusercontent.com 在部分网络无法访问）
   function taskFileUrl(rec) {
     if (!rec) return '';
@@ -5583,47 +5666,34 @@ function circuitLabel(c) {
     _teUploading = true;
     if (status) status.textContent = '上传中…';
     try {
-      const b64 = await new Promise((res, rej) => {
-        const r = new FileReader();
-        r.onload = () => res(String(r.result).split(',')[1]);
-        r.onerror = rej;
-        r.readAsDataURL(file);
-      });
-      const ext = (file.name.match(/\.[a-zA-Z0-9]+$/) || ['.bin'])[0].toLowerCase();
-      const path = 'cathy_data/files/file_' + Date.now() + ext;
-      const res = await fetch(CATHY_SYNC_WORKER_URL, {
-        method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action: 'save', path, content: b64, encoding: 'base64', message: 'Upload file ' + file.name })
-      });
-      const result = await res.json().catch(() => ({}));
-      if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
-      const rec = { name: file.name, path, url: taskFileUrl({ path }) };
+      const rec = await uploadRepoFile(file);
       if (slot === 'voice') { _teVoice = rec; renderTeVoice(); }
       else { _tePdf = rec; renderTeImage(); }
     } catch(e) {
       if (status) status.textContent = '上传失败：' + e.message;
     } finally { _teUploading = false; }
   }
+  function compressImageFile(file) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      const url = URL.createObjectURL(file);
+      img.onload = () => {
+        const max = 1280;
+        let w = img.width, h = img.height;
+        if (w > max || h > max) { const r = Math.min(max / w, max / h); w = Math.round(w * r); h = Math.round(h * r); }
+        const c = document.createElement('canvas');
+        c.width = w; c.height = h;
+        c.getContext('2d').drawImage(img, 0, 0, w, h);
+        URL.revokeObjectURL(url);
+        resolve(c.toDataURL('image/jpeg', 0.72));
+      };
+      img.onerror = () => { URL.revokeObjectURL(url); reject(new Error('decode')); };
+      img.src = url;
+    });
+  }
   function compressTaskImage(file) {
-    const img = new Image();
-    const url = URL.createObjectURL(file);
-    img.onload = () => {
-      const max = 1280;
-      let w = img.width, h = img.height;
-      if (w > max || h > max) { const r = Math.min(max / w, max / h); w = Math.round(w * r); h = Math.round(h * r); }
-      const c = document.createElement('canvas');
-      c.width = w; c.height = h;
-      c.getContext('2d').drawImage(img, 0, 0, w, h);
-      URL.revokeObjectURL(url);
-      _teImage = c.toDataURL('image/jpeg', 0.72);
-      renderTeImage();
-    };
-    img.onerror = () => {
-      // 解不出（如 iPhone HEIC）→ 原样存成文件附件，不丢
-      URL.revokeObjectURL(url);
-      uploadTaskFile(file);
-    };
-    img.src = url;
+    // 解不出（如 iPhone HEIC）→ 原样存成文件附件，不丢
+    compressImageFile(file).then(d => { _teImage = d; renderTeImage(); }).catch(() => uploadTaskFile(file));
   }
 
   function autoResizeTextarea(el) {
@@ -5936,7 +6006,7 @@ function circuitLabel(c) {
       }
     });
     document.getElementById('te-voice-area')?.addEventListener('click', (e) => {
-      if (e.target.closest('#te-voice-start')) startVoiceRec();
+      if (e.target.closest('#te-voice-start')) startVoiceRec(renderTeVoice, async (f) => { renderTeVoice(); await uploadTaskFile(f, 'voice'); });
       else if (e.target.closest('#te-voice-stop')) { if (_recorder && _recorder.state === 'recording') _recorder.stop(); }
       else if (e.target.closest('#te-voice-remove')) { _teVoice = null; renderTeVoice(); }
     });
