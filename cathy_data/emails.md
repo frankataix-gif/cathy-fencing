@@ -15910,3 +15910,27 @@ VFS Global
 
 
 ---
+
+## [待办] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T15:54:18.000Z
+**摘要:** VFS Global通知签证申请的决定信封已寄出，跟踪编号为20260915USLAPKT71842。
+**待办:** 确认签证申请状态并处理相关文件
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+The decision envelope for your application, tracking ID No. 
+20260915USLAPKT71842 has been dispatched from the IRCC Office, to the 
+Canada Visa Application Centre in USA, Los Angeles. 
+
+Regards, 
+
+VFS Global 
+
+
+
+---
