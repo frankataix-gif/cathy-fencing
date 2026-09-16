@@ -16011,3 +16011,31 @@ VFS Global
 
 
 ---
+
+## [Cathy&David] Re: EXT - Question regarding dining account usage - Yunxi He (ID: 348801)
+
+**发件人:** Geoffrey Garlinge <ggarlinge@sagedining.com>
+**日期:** 2026-09-16T17:14:56.000Z
+**摘要:** 关于Yunxi He的学校餐饮账户使用方式的咨询，说明学生可通过姓名、学生卡或学号支付，并提及诚信表的使用流程
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ab36f86fc47a1
+
+Hi JingQi Wu,
+
+Thank you for reaching out.
+
+You are correct.
+All students can use their name, student card is scanned, or enter the student number into the keypad.
+During the early morning and some times during the day, there is an honour sheet, the students write their names and ID on the sheet and item they want to purchase, this is added to the account later.
+
+I hope this helps.
+
+If you have any other questions, please ask.
+I am here to help.
+
+Regards,
+
+Geoffrey Garlinge | Food
+
+---
