@@ -6432,7 +6432,7 @@ Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月8日
 
 ---
 
-## [其他] Re: Package Delivery Assistance – TH103
+## [生活旅行] Re: Package Delivery Assistance – TH103
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-08T20:19:10+00:00
