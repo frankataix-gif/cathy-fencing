@@ -104,7 +104,7 @@ export default {
         const idx = list.findIndex(x => keyFn(x) === k || similar(keyFn(x), k));
         if (idx >= 0) list[idx] = item; else list.push(item);
       };
-      const categoryMap = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
+      const categoryMap = { '击剑': 0, 'Cathy&David': 0, '营销': 0, '待办': 0, '其他': 0 };
       emails.forEach(e => { categoryMap[e.category || '其他'] = (categoryMap[e.category || '其他'] || 0) + 1; });
       if (!parsed) {
         // AI 未返回有效 JSON：按主题归并兜底，同一话题只列一条
@@ -159,7 +159,7 @@ export default {
 
       const meta = await classifyEmail(env, { subject, from, text: classifyText });
       const gmailId = email.gmailId || '';
-      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
+      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${meta.kid && meta.kid !== '无' ? `**涉及:** ${meta.kid}\n` : ''}${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const emailKey = `${subject}|${from}|${normDate(date)}`;
       let result = null;
@@ -194,7 +194,7 @@ export default {
     if (body.action === 'email_reclassify') {
       const email = body.email || {};
       const newCat = body.category || '其他';
-      const allowed = ['击剑', '学校', '营销', '待办', '其他'];
+      const allowed = ['击剑', 'Cathy&David', '营销', '待办', '其他'];
       if (!allowed.includes(newCat)) return json({ error: 'bad category' }, 400);
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const targetKey = `${email.subject || ''}|${email.from || ''}|${normDate(email.date || '')}`;
@@ -375,11 +375,18 @@ async function loadEmailConfig(env) {
 
 async function classifyEmail(env, email) {
   const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
-{"分类":"...","摘要":"...","待办":"..."}
+{"分类":"...","摘要":"...","待办":"...","涉及":"..."}
 
-分类只能从这五个中选一个：击剑 / 学校 / 营销 / 待办 / 其他
+分类只能从这五个中选一个：击剑 / Cathy&David / 营销 / 待办 / 其他
+分类说明：
+- 击剑：与击剑运动相关的邮件（USA Fencing、AskFRED、击剑俱乐部、击剑装备、击剑私教等）
+- Cathy&David：与家里两个孩子相关的其他一切邮件。Cathy He (He Yunxi) 是女儿，David He (He Lingwei) 是儿子。学校、校车、饭卡、课程、活动、医疗、申请、其他课外班等都归这里
+- 营销：促销、广告、优惠券
+- 待办：需要家长采取行动但与孩子无关的邮件（账单、账户验证、法律文件等）
+- 其他：以上都不符合
 摘要用 1-2 句中文总结邮件核心
 待办：这封邮件需要做什么？不需要行动写"无"
+涉及：这封邮件涉及哪个孩子？只能选 Cathy / David / 两个 / 不明。与孩子无关的分类（营销/待办/其他）写"无"
 
 发件人：${email.from}
 主题：${email.subject}
@@ -411,11 +418,12 @@ async function classifyEmail(env, email) {
         category: keywordCategory || aiCat,
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
+        kid: obj['涉及'] || obj.kid || '',
         raw: rawText
       };
     }
   } catch(e) {}
-  return { category: keywordCategory || '其他', summary: '', todo: '无', raw: rawText };
+  return { category: keywordCategory || '其他', summary: '', todo: '无', kid: '', raw: rawText };
 }
 
 function buildEmailSummaryPrompt(body) {
@@ -448,7 +456,7 @@ ${emailLines}
 {
   "date": "${date}",
   "summary": "这一天邮件的一句话总结",
-  "todos": [{"task": "要做的事（具体可执行）", "detail": "关键细节：时间/地点/方式", "deadline": "YYYY-MM-DD 或 无", "category": "击剑/学校/其他", "source": "来源邮件主题"}],
+  "todos": [{"task": "要做的事（具体可执行）", "detail": "关键细节：时间/地点/方式", "deadline": "YYYY-MM-DD 或 无", "category": "击剑/Cathy&David/其他", "source": "来源邮件主题"}],
   "info": [{"topic": "信息主题", "detail": "一句话说明", "category": "分类"}],
   "priority": "最需要先办的一件事"
 }`;

@@ -2,10 +2,10 @@
   "version": "2026-09-16",
   "rules": {
     "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing", "sclass.ca", "fencingtracker.com", "thefencingpost.com"],
-    "学校": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"]
+    "Cathy&David": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"]
   },
   "exclude": {
-    "学校": []
+    "Cathy&David": []
   },
-  "note": "rules: 关键词/发件人命中即归入对应分类。exclude: 用户手动移出的发件人，以后不再自动归入该分类（支持完整地址或 @域名）。PWA 邮件分类设置页可管理。"
+  "note": "rules: 关键词/发件人命中即归入对应分类。Cathy&David = 与 Cathy He (He Yunxi) 或 David He (He Lingwei) 相关的邮件（击剑除外）。exclude: 用户手动移出的发件人，不再自动归入该分类（支持完整地址或 @域名）。"
 }

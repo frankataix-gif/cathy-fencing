@@ -695,7 +695,7 @@
           <select id="te-category" style="width:100%; height:40px; padding:0 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; background:#fff;">
             <option value="待办">待办</option>
             <option value="击剑">击剑</option>
-            <option value="学校">学校</option>
+            <option value="Cathy&David">Cathy&David</option>
             <option value="营销">营销</option>
             <option value="其他">其他</option>
           </select>
@@ -740,7 +740,7 @@
       <div id="email-filters" style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
         <button class="btn active" data-filter="ai" style="padding:4px 12px; font-size:0.8rem;">AI 邮件待办</button>
         <button class="btn secondary" data-filter="击剑" style="padding:4px 12px; font-size:0.8rem;">击剑</button>
-        <button class="btn secondary" data-filter="学校" style="padding:4px 12px; font-size:0.8rem;">学校</button>
+        <button class="btn secondary" data-filter="Cathy&David" style="padding:4px 12px; font-size:0.8rem;">Cathy&David</button>
         <button class="btn secondary" data-filter="otodo" style="padding:4px 12px; font-size:0.8rem;">其他待办</button>
         <button class="btn secondary" data-filter="all" style="padding:4px 12px; font-size:0.8rem;">全部邮件</button>
       </div>
@@ -793,7 +793,7 @@
         <select id="email-rule-category" style="padding:6px 8px; border:1px solid #d1d5db; border-radius:8px; font-size:0.85rem;">
           <option value="">新建分类…</option>
           <option value="击剑" selected>击剑</option>
-          <option value="学校">学校</option>
+          <option value="Cathy&David">Cathy&David</option>
           <option value="营销">营销</option>
           <option value="待办">待办</option>
           <option value="其他">其他</option>
@@ -909,6 +909,7 @@ let allEmails = [];
 try { cathyDataRecords = JSON.parse(localStorage.getItem('cathy_training_data') || '{}'); } catch(e) { cathyDataRecords = {}; }
 try { scheduleEvents = JSON.parse(localStorage.getItem('cathy_schedule_events') || '[]'); } catch(e) { scheduleEvents = []; }
 try { tasks = JSON.parse(localStorage.getItem('cathy_tasks') || '[]'); } catch(e) { tasks = []; }
+tasks.forEach(t => { if (t && t.category === '学校') t.category = 'Cathy&David'; });
 
 const CITY_COORDS = {
   'Vancouver, BC': [49.28, -123.12],
@@ -2208,6 +2209,7 @@ function circuitLabel(c) {
         });
         (tasks || []).forEach(t => { if (t && t.id && !seen.has(t.id) && !isTombstoned(t)) merged.push(t); });
         tasks = merged;
+        tasks.forEach(t => { if (t && t.category === '学校') t.category = 'Cathy&David'; });
         saveToLocal('cathy_tasks', JSON.stringify(tasks));
       }
       _isLoadingGitHubData = false;
@@ -2305,7 +2307,7 @@ function circuitLabel(c) {
     let category = (catInput.value || '').trim();
     const keyword = (kwInput.value || '').trim();
     if (!category) {
-      category = window.prompt('请输入新分类名称（如 学校）：');
+      category = window.prompt('请输入新分类名称（如 Cathy&David）：');
       if (!category) return;
     }
     if (!keyword) { alert('请输入关键词或邮箱'); return; }
@@ -2938,7 +2940,7 @@ function circuitLabel(c) {
       const parts = text.split(/\n## /).filter(Boolean);
       // 只显示带分类标签的邮件（AI 自动归档格式：[分类] 标题）
       const emailParts = parts.filter(p => p.split('\n')[0].trim().startsWith('['));
-      const catColorMap = { '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '待办': '#ef4444', '其他': '#6b7280' };
+      const catColorMap = { '击剑': 'var(--primary)', 'Cathy&David': '#f59e0b', '学校': '#f59e0b', '营销': '#9ca3af', '待办': '#ef4444', '其他': '#6b7280' };
       allEmails = emailParts.map(p => {
         const lines = p.split(/\r?\n/).filter(l => l.trim());
         const titleLine = lines[0] || '';
@@ -2953,12 +2955,13 @@ function circuitLabel(c) {
           else if (line.startsWith('**日期:**')) { meta.date = line.replace(/^\*\*日期:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**摘要:**')) { meta.summary = line.replace(/^\*\*摘要:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**待办:**')) { meta.todo = line.replace(/^\*\*待办:\*\*\s*/, '').trim(); bodyStart = i + 1; }
+          else if (line.startsWith('**涉及:**')) { meta.kid = line.replace(/^\*\*涉及:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**GmailID:**')) { meta.gmailId = line.replace(/^\*\*GmailID:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (!line.startsWith('**') && bodyStart === 0) { bodyStart = i; break; }
           else if (bodyStart > 0 && !line.startsWith('**')) break;
         }
         const body = lines.slice(bodyStart).join('\n').replace(/---$/, '').trim();
-        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', body, gmailId: meta.gmailId || '', color: catColorMap[category] || '#6b7280' };
+        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', kid: meta.kid || '', body, gmailId: meta.gmailId || '', color: catColorMap[category] || '#6b7280' };
       }).sort((a, b) => {
         const da = a.date ? new Date(a.date) : 0;
         const db = b.date ? new Date(b.date) : 0;
@@ -3074,7 +3077,7 @@ function circuitLabel(c) {
   }
 
   function countEmailsByCategory(list) {
-    const map = { '击剑': 0, '学校': 0, '营销': 0, '待办': 0, '其他': 0 };
+    const map = { '击剑': 0, 'Cathy&David': 0, '营销': 0, '待办': 0, '其他': 0 };
     list.forEach(e => { map[e.category || '其他'] = (map[e.category || '其他'] || 0) + 1; });
     return map;
   }
@@ -3124,7 +3127,7 @@ function circuitLabel(c) {
     tasks.push({
       id: newTaskId(),
       title: title,
-      category: action.category || '待办',
+      category: (action.category === '学校' ? 'Cathy&David' : action.category) || '待办',
       notes: action.detail || '',
       sourceType: 'email',
       sourceSubject: action.source || '',
@@ -3165,15 +3168,15 @@ function circuitLabel(c) {
       email.color = (typeof taskCategoryColor !== 'undefined' ? taskCategoryColor[category] : null) || '#6b7280';
       renderEmailList();
       updateEmailAISummary(false);
-      // 移出「学校」→ 记录排除：该发件人以后不再自动归为学校
-      if (prevCat === '学校' && category !== '学校') {
+      // 移出「Cathy&David」→ 记录排除：该发件人以后不再自动归入
+      if (prevCat === 'Cathy&David' && category !== 'Cathy&David') {
         const sender = extractEmailAddr(email.from);
-        if (sender && confirm(`以后来自 ${sender} 的邮件不再自动归入「学校」？`)) {
-          if (!Array.isArray(emailExcludes['学校'])) emailExcludes['学校'] = [];
-          if (!emailExcludes['学校'].includes(sender)) emailExcludes['学校'].push(sender);
-          if (emailRules['学校']) {
-            emailRules['学校'] = emailRules['学校'].filter(x => String(x).toLowerCase() !== sender);
-            if (!emailRules['学校'].length) delete emailRules['学校'];
+        if (sender && confirm(`以后来自 ${sender} 的邮件不再自动归入「Cathy&David」？`)) {
+          if (!Array.isArray(emailExcludes['Cathy&David'])) emailExcludes['Cathy&David'] = [];
+          if (!emailExcludes['Cathy&David'].includes(sender)) emailExcludes['Cathy&David'].push(sender);
+          if (emailRules['Cathy&David']) {
+            emailRules['Cathy&David'] = emailRules['Cathy&David'].filter(x => String(x).toLowerCase() !== sender);
+            if (!emailRules['Cathy&David'].length) delete emailRules['Cathy&David'];
           }
           await saveEmailRules();
         }
@@ -3236,7 +3239,7 @@ function circuitLabel(c) {
     const today = getTodayInVancouver();
     const cutoff = getWindowCutoffDate(today);
     const state = getEmailAIState();
-    const AI_CATS = ['学校', '击剑'];
+    const AI_CATS = ['Cathy&David', '击剑'];
     const inWindow = (e) => {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today;
@@ -5470,7 +5473,7 @@ function circuitLabel(c) {
 <script>
   // 邮件 Tab / 待办清单扩展
   let currentEmailFilter = 'ai';
-  const taskCategoryColor = { '待办': '#ef4444', '击剑': 'var(--primary)', '学校': '#f59e0b', '营销': '#9ca3af', '其他': '#6b7280' };
+  const taskCategoryColor = { '待办': '#ef4444', '击剑': 'var(--primary)', 'Cathy&David': '#f59e0b', '学校': '#f59e0b', '营销': '#9ca3af', '其他': '#6b7280' };
 
   function saveTasks() {
     saveToLocal('cathy_tasks', JSON.stringify(tasks));
@@ -5493,7 +5496,7 @@ function circuitLabel(c) {
   function emailTaskKey(email) { return (email.date || '') + '|' + (email.subject || ''); }
 
   function taskCategoryFor(emailCategory) {
-    if (['待办','击剑','学校','营销'].includes(emailCategory)) return emailCategory;
+    if (['待办','击剑','Cathy&David','学校','营销'].includes(emailCategory)) return emailCategory;
     return '待办';
   }
 
@@ -5913,12 +5916,12 @@ function circuitLabel(c) {
     const summary = state.summary;
     const today = getTodayInVancouver();
     const cutoff = getWindowCutoffDate(today);
-    const FOCUS_CATS = ['学校', '击剑', '待办'];
+    const FOCUS_CATS = ['Cathy&David', '击剑', '待办'];
     const windowEmails = allEmails.filter(e => {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today && FOCUS_CATS.includes(e.category || '其他');
     });
-    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${cutoff} ~ ${today} · 学校/击剑邮件归纳出的待办${state.analyzedAt ? ' · 更新于 ' + state.analyzedAt.slice(5, 16).replace('T', ' ') : ''}</div>`;
+    let html = `<div style="margin-bottom:10px; color:#6b7280; font-size:0.75rem;">${cutoff} ~ ${today} · Cathy&David/击剑邮件归纳出的待办${state.analyzedAt ? ' · 更新于 ' + state.analyzedAt.slice(5, 16).replace('T', ' ') : ''}</div>`;
     if (!summary) {
       if (window._emailAIAnalyzing) {
         html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px;">AI 正在归纳 ${windowEmails.length} 封邮件…</div>`;
@@ -6023,7 +6026,7 @@ function circuitLabel(c) {
       container.innerHTML = buildOtherTodosHTML();
       return;
     }
-    const FOCUS_CATS = ['学校', '击剑', '待办'];
+    const FOCUS_CATS = ['Cathy&David', '击剑', '待办'];
     const list = currentEmailFilter === 'all' ? allEmails
       : currentEmailFilter === 'focus' ? allEmails.filter(e => FOCUS_CATS.includes(e.category))
       : allEmails.filter(e => e.category === currentEmailFilter);
@@ -6033,7 +6036,7 @@ function circuitLabel(c) {
       const key = emailTaskKey(e);
       const globalIdx = allEmails.indexOf(e);
       const hasTask = tasks.some(t => t.emailKey === key);
-      const catOptions = ['击剑', '学校', '营销', '待办', '其他'].map(c => `<option value="${c}" ${e.category === c ? 'selected' : ''}>${c}</option>`).join('');
+      const catOptions = ['击剑', 'Cathy&David', '营销', '待办', '其他'].map(c => `<option value="${c}" ${e.category === c ? 'selected' : ''}>${c}</option>`).join('');
       const taskBtn = (e.todo && e.todo !== '无') ?
         `<button class="btn ${hasTask ? 'secondary' : 'cathy'}" data-email-key="${escapeHtml(key)}" style="padding:2px 10px; font-size:0.75rem;">${hasTask ? '查看待办' : '加入待办'}</button>` : '';
       const gmailBtn = e.gmailId ?
@@ -6041,6 +6044,7 @@ function circuitLabel(c) {
       return `<div class="card" style="margin-bottom:10px; padding:12px; border-left:4px solid ${e.color};">
         <div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:6px;">
           <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
+          ${e.kid && e.kid !== '无' && e.kid !== '不明' ? `<span style="background:#fdf2f8; color:#db2777; border:1px solid #fbcfe8; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${e.kid === 'Cathy' ? '👧' : e.kid === 'David' ? '👦' : '👧👦'} ${escapeHtml(e.kid)}</span>` : ''}
           <b style="flex:1; min-width:0;">${escapeHtml(e.subject)}</b>
           <select class="email-cat-select" data-email-index="${globalIdx}" style="padding:2px 6px; font-size:0.75rem; border:1px solid #d1d5db; border-radius:6px; flex-shrink:0;">
             ${catOptions}
