@@ -11775,7 +11775,7 @@ On Sat, Aug 15, 2026, 12:37 PM natalie <nataliewu100@gmail.com> w
 
 ---
 
-## [其他] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+## [生活旅行] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-21T22:08:10+00:00
