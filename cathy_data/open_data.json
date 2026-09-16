@@ -111,7 +111,18 @@
     },
     {
       "name": "生活",
-      "items": []
+      "items": [
+        {
+          "name": "温哥华的住址",
+          "url": "",
+          "user": "",
+          "pass": "",
+          "note": "Unit TH103，708 Farrow Street，Coquitlam, BC, V3J 1P7    Tel：1-778-255-5899",
+          "image": "",
+          "pdf": null,
+          "voice": null
+        }
+      ]
     }
   ]
 }
