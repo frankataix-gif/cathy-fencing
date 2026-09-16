@@ -16105,3 +16105,24 @@ i will try different card today!
 > This email (and any attachment) is intended solely for the addressee and 
 
 ---
+
+## [Cathy&David] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:37:50.000Z
+**摘要:** Cathy因行程问题无法参加Gibsons Farm旅行，并提及需携带洗漱用品。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0a67709ce9d909
+
+Dear Ms. Hook,
+
+Thank you for the detailed information regarding the Gibsons Farm trip.
+
+I am writing to let you know that Cathy (Yunxi) He will unfortunately not be able to join the trip tomorrow. We are only arriving in Vancouver late tonight, and Cathy is feeling quite tired from the travel.
+
+We are very sorry for the late notice and for missing this opportunity. Cathy was looking forward to it, and we hope she can join the next school activity soon.
+
+Thank you for your understanding.
+
+---
