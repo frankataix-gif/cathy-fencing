@@ -5399,9 +5399,9 @@ function circuitLabel(c) {
     html += `<button type="button" class="btn secondary" id="te-image-add" style="padding:8px 14px; font-size:0.85rem;">📷 上传图片 / PDF</button><span id="te-upload-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
     area.innerHTML = html;
   }
-  async function uploadTaskPdf(file) {
+  async function uploadTaskFile(file) {
     const status = document.getElementById('te-upload-status');
-    if (file.size > 8 * 1024 * 1024) { alert('PDF 太大（超过 8MB），请压缩后再传'); return; }
+    if (file.size > 8 * 1024 * 1024) { alert('文件太大（超过 8MB），请压缩后再传'); return; }
     if (status) status.textContent = '上传中…';
     try {
       const b64 = await new Promise((res, rej) => {
@@ -5410,10 +5410,11 @@ function circuitLabel(c) {
         r.onerror = rej;
         r.readAsDataURL(file);
       });
-      const path = 'cathy_data/files/file_' + Date.now() + '.pdf';
+      const ext = (file.name.match(/\.[a-zA-Z0-9]+$/) || ['.bin'])[0].toLowerCase();
+      const path = 'cathy_data/files/file_' + Date.now() + ext;
       const res = await fetch(CATHY_SYNC_WORKER_URL, {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action: 'save', path, content: b64, encoding: 'base64', message: 'Upload PDF ' + file.name })
+        body: JSON.stringify({ action: 'save', path, content: b64, encoding: 'base64', message: 'Upload file ' + file.name })
       });
       const result = await res.json().catch(() => ({}));
       if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
@@ -5438,7 +5439,11 @@ function circuitLabel(c) {
       _teImage = c.toDataURL('image/jpeg', 0.72);
       renderTeImage();
     };
-    img.onerror = () => { URL.revokeObjectURL(url); alert('图片读取失败'); };
+    img.onerror = () => {
+      // 解不出（如 iPhone HEIC）→ 原样存成文件附件，不丢
+      URL.revokeObjectURL(url);
+      uploadTaskFile(file);
+    };
     img.src = url;
   }
 
@@ -5734,7 +5739,7 @@ function circuitLabel(c) {
     document.getElementById('te-image-input')?.addEventListener('change', (e) => {
       const f = e.target.files && e.target.files[0];
       if (f) {
-        if (f.type === 'application/pdf' || /\.pdf$/i.test(f.name)) uploadTaskPdf(f);
+        if (f.type === 'application/pdf' || /\.pdf$/i.test(f.name)) uploadTaskFile(f);
         else compressTaskImage(f);
       }
       e.target.value = '';
