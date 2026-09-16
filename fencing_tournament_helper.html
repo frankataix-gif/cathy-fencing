@@ -2257,6 +2257,7 @@ function circuitLabel(c) {
   let _vaultAdding = false;
   let _vaultPayload = null;
   let _vaultFilter = null;    // 分组名或 null=全部
+  let _vaultQuery = '';       // 搜索关键词
 
   function _b64(u8) { let s = ''; for (let i = 0; i < u8.length; i += 8192) s += String.fromCharCode.apply(null, u8.subarray(i, i + 8192)); return btoa(s); }
   function _unb64(s) { return Uint8Array.from(atob(s), c => c.charCodeAt(0)); }
@@ -2423,7 +2424,28 @@ function circuitLabel(c) {
       <button class="btn" data-act="add" style="padding:4px 12px; font-size:0.8rem;">＋ 添加记录</button>
       <button class="btn cathy" data-act="save" style="padding:4px 12px; font-size:0.8rem;">保存到 GitHub</button>
     </div>
-    <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>`;
+    <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>
+    <input type="text" id="vault-search" value="${escapeHtml(_vaultQuery)}" placeholder="搜索名称 / 网址 / 用户名 / 备注…" style="${_vInputStyle}">`;
+    if (_vaultQuery) {
+      const q = _vaultQuery.toLowerCase();
+      const hits = [];
+      _openData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, key: 'o_' + gi + '_' + ii, gname: g.name });
+      }));
+      if (_vaultPass && _vaultData) _vaultData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, key: 'v_' + gi + '_' + ii, gname: g.name });
+      }));
+      html += `<div style="font-size:0.75rem; color:#6b7280; margin-bottom:8px;">搜索「${escapeHtml(_vaultQuery)}」：${hits.length} 条</div>`;
+      hits.forEach(h => {
+        const [s, a, b] = h.key.split('_');
+        html += `<div style="font-size:0.72rem; color:#9ca3af; margin-bottom:2px;">${escapeHtml(h.gname)}</div>` + vaultItemHTML(h.it, s, parseInt(a), parseInt(b));
+      });
+      if (!hits.length) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">没有匹配的记录。</div>';
+      box.innerHTML = html;
+      const si = document.getElementById('vault-search');
+      if (si) { si.focus(); si.setSelectionRange(si.value.length, si.value.length); }
+      return;
+    }
     html += `<div style="display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap;">
       <button class="vchip${!_vaultFilter ? ' on' : ''}" data-act="filter" data-g="">全部</button>
       ${names.map(n => `<button class="vchip${_vaultFilter === n ? ' on' : ''}" data-act="filter" data-g="${escapeHtml(n)}">${escapeHtml(n)}${!_isOpenGroup(n) && !_vaultPass ? ' 🔒' : ''}</button>`).join('')}
@@ -2491,6 +2513,9 @@ function circuitLabel(c) {
     });
     const box = document.getElementById('vault-body');
     if (!box) return;
+    box.addEventListener('input', (e) => {
+      if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVault(); }
+    });
     box.addEventListener('click', async (e) => {
       const unlockBtn = e.target.closest('#vault-unlock');
       if (unlockBtn) {
