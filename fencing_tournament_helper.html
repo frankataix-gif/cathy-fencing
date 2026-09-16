@@ -2425,36 +2425,40 @@ function circuitLabel(c) {
     const box = document.getElementById('vault-body');
     if (!box) return;
     if (_openData === null) { box.innerHTML = '加载中…'; return; }
-    const names = _allGroupNames();
-    const showAll = !_vaultFilter;
-
-    let html = `<div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap;">
+    box.innerHTML = `<div style="display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap;">
       ${_vaultPass ? '<button class="btn secondary" data-act="lock" style="padding:4px 12px; font-size:0.8rem;">锁定</button>' : ''}
       <button class="btn" data-act="add" style="padding:4px 12px; font-size:0.8rem;">＋ 添加记录</button>
       <button class="btn cathy" data-act="save" style="padding:4px 12px; font-size:0.8rem;">保存到 GitHub</button>
     </div>
     <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>
-    <input type="text" id="vault-search" value="${escapeHtml(_vaultQuery)}" placeholder="搜索名称 / 网址 / 用户名 / 备注…" style="${_vInputStyle}">`;
+    <input type="text" id="vault-search" value="${escapeHtml(_vaultQuery)}" placeholder="搜索名称 / 网址 / 用户名 / 备注…" style="${_vInputStyle}">
+    <div id="vault-list"></div>`;
+    renderVaultResults();
+  }
+
+  function renderVaultResults() {
+    const list = document.getElementById('vault-list');
+    if (!list) return;
+    const names = _allGroupNames();
+    let html = '';
     if (_vaultQuery) {
       const q = _vaultQuery.toLowerCase();
       const hits = [];
       _openData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
-        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, key: 'o_' + gi + '_' + ii, gname: g.name });
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, gi, ii, src: 'o', gname: g.name });
       }));
       if (_vaultPass && _vaultData) _vaultData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
-        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, key: 'v_' + gi + '_' + ii, gname: g.name });
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, gi, ii, src: 'v', gname: g.name });
       }));
       html += `<div style="font-size:0.75rem; color:#6b7280; margin-bottom:8px;">搜索「${escapeHtml(_vaultQuery)}」：${hits.length} 条</div>`;
       hits.forEach(h => {
-        const [s, a, b] = h.key.split('_');
-        html += `<div style="font-size:0.72rem; color:#9ca3af; margin-bottom:2px;">${escapeHtml(h.gname)}</div>` + vaultItemHTML(h.it, s, parseInt(a), parseInt(b));
+        html += `<div style="font-size:0.72rem; color:#9ca3af; margin-bottom:2px;">${escapeHtml(h.gname)}</div>` + vaultItemHTML(h.it, h.src, h.gi, h.ii);
       });
       if (!hits.length) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">没有匹配的记录。</div>';
-      box.innerHTML = html;
-      const si = document.getElementById('vault-search');
-      if (si) { si.focus(); si.setSelectionRange(si.value.length, si.value.length); }
+      list.innerHTML = html;
       return;
     }
+    const showAll = !_vaultFilter;
     html += `<div style="display:flex; gap:6px; margin-bottom:10px; flex-wrap:wrap;">
       <button class="vchip${!_vaultFilter ? ' on' : ''}" data-act="filter" data-g="">全部</button>
       ${names.map(n => `<button class="vchip${_vaultFilter === n ? ' on' : ''}" data-act="filter" data-g="${escapeHtml(n)}">${escapeHtml(n)}${!_isOpenGroup(n) && !_vaultPass ? ' 🔒' : ''}</button>`).join('')}
@@ -2483,7 +2487,7 @@ function circuitLabel(c) {
       if (vaultG >= 0) _vaultData.groups[vaultG].items.forEach((it, ii) => { html += vaultItemHTML(it, 'v', vaultG, ii); });
     });
     if (!renderedAny && !_vaultAdding) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">暂无记录，点「＋ 添加记录」开始。</div>';
-    box.innerHTML = html;
+    list.innerHTML = html;
   }
 
   async function vaultOpen(groupFilter) {
@@ -2523,7 +2527,11 @@ function circuitLabel(c) {
     const box = document.getElementById('vault-body');
     if (!box) return;
     box.addEventListener('input', (e) => {
-      if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVault(); }
+      // IME 组合中（中文输入）不刷新，避免打断拼音候选
+      if (e.target.id === 'vault-search' && !e.isComposing) { _vaultQuery = e.target.value; renderVaultResults(); }
+    });
+    box.addEventListener('compositionend', (e) => {
+      if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVaultResults(); }
     });
     box.addEventListener('click', async (e) => {
       const unlockBtn = e.target.closest('#vault-unlock');
