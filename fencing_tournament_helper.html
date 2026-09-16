@@ -2974,12 +2974,13 @@ function circuitLabel(c) {
           else if (line.startsWith('**摘要:**')) { meta.summary = line.replace(/^\*\*摘要:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**待办:**')) { meta.todo = line.replace(/^\*\*待办:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**涉及:**')) { meta.kid = line.replace(/^\*\*涉及:\*\*\s*/, '').trim(); bodyStart = i + 1; }
+          else if (line.startsWith('**方向:**')) { meta.dir = line.replace(/^\*\*方向:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**GmailID:**')) { meta.gmailId = line.replace(/^\*\*GmailID:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (!line.startsWith('**') && bodyStart === 0) { bodyStart = i; break; }
           else if (bodyStart > 0 && !line.startsWith('**')) break;
         }
         const body = lines.slice(bodyStart).join('\n').replace(/---$/, '').trim();
-        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', kid: meta.kid || '', body, gmailId: meta.gmailId || '', color: catColorMap[category] || '#6b7280' };
+        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', kid: meta.kid || '', outgoing: meta.dir === '发出', body, gmailId: meta.gmailId || '', color: catColorMap[category] || '#6b7280' };
       }).sort((a, b) => {
         const da = a.date ? new Date(a.date) : 0;
         const db = b.date ? new Date(b.date) : 0;
@@ -3262,7 +3263,7 @@ function circuitLabel(c) {
       const d = emailDateLocal(e.date);
       return d >= cutoff && d <= today;
     };
-    const windowEmails = allEmails.filter(e => inWindow(e) && AI_CATS.includes(e.category || '其他'));
+    const windowEmails = allEmails.filter(e => inWindow(e) && AI_CATS.includes(e.category || '其他') && !e.outgoing);
 
     // ===== 主集合：学校+击剑，7 天滚动窗口 =====
     const windowSlid = state.windowStart !== cutoff;
@@ -3313,7 +3314,7 @@ function circuitLabel(c) {
     // ===== 其他待办：待办类邮件，累计提取，不随窗口过期 =====
     const other = state.otherTodos = (state.otherTodos && Array.isArray(state.otherTodos.items)) ? state.otherTodos : { items: [], analyzedKeys: [] };
     const otherSeen = new Set(other.analyzedKeys || []);
-    const otherNew = allEmails.filter(e => inWindow(e) && (e.category || '其他') === '待办' && !otherSeen.has(emailAiKey(e)));
+    const otherNew = allEmails.filter(e => inWindow(e) && (e.category || '其他') === '待办' && !otherSeen.has(emailAiKey(e)) && !e.outgoing);
     if (otherNew.length > 0) {
       window._emailAIAnalyzing = true;
       if (typeof renderEmailList === 'function') renderEmailList();
@@ -6110,6 +6111,7 @@ function circuitLabel(c) {
       return `<div class="card" style="margin-bottom:10px; padding:12px; border-left:4px solid ${e.color};">
         <div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
           <span style="background:${e.color}; color:#fff; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${escapeHtml(e.category)}</span>
+          ${e.outgoing ? `<span style="background:#f3f4f6; color:#6b7280; border:1px solid #d1d5db; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">已发出</span>` : ''}
           ${e.kid && e.kid !== '无' && e.kid !== '不明' ? `<span style="background:#fdf2f8; color:#db2777; border:1px solid #fbcfe8; font-size:11px; padding:2px 8px; border-radius:10px; flex-shrink:0;">${e.kid === 'Cathy' ? '👧' : e.kid === 'David' ? '👦' : '👧👦'} ${escapeHtml(e.kid)}</span>` : ''}
           <span style="flex:1;"></span>
           <select class="email-cat-select" data-email-index="${globalIdx}" style="padding:2px 6px; font-size:0.75rem; border:1px solid #d1d5db; border-radius:6px; flex-shrink:0;">

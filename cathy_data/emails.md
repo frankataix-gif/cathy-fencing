@@ -744,6 +744,7 @@ NON-CANADIANS: The Consular Section of the Embassy of Canada in Rome CANNOT resp
 **日期:** 2026-04-21T10:24:04.000Z
 **摘要:** 请求预约提交加拿大访客签证申请材料，时间为4月22日早上。
 **待办:** 无
+**方向:** 发出
 
 Dear Consular Section,
 
@@ -770,6 +771,7 @@ Please find my personal details below for your records:
 **日期:** 2026-04-21T10:06:11.000Z
 **摘要:** 
 **待办:** 无
+**方向:** 发出
 
 Hello,
 Yunxi He Cathy needs to attend fencing training plus competition so she
@@ -1051,6 +1053,7 @@ Che succede 16/04/2026 — idealista/news                   Le piattaforme digit
 **日期:** 2026-04-16T08:36:34.000Z
 **摘要:** 关于福字9981号信托的200万利益支付通知，日期为2026年4月16日。
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -2403,6 +2406,7 @@ Che succede 23/03/2026 — idealista/news     Il mondo immobiliare può incontra
 **日期:** 2026-03-23T08:36:28.000Z
 **摘要:** 关于福字9981号信托55万元利益支付的通知
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -2626,6 +2630,7 @@ Oro in calo del 2,55%, con i futures in scadenza ad aprile pagati
 **日期:** 2026-03-18T19:36:10.000Z
 **摘要:** 家长咨询2026年9月七年级入学名额，表示家庭计划迁居加拿大，圣三一学校是首选，并提及女儿的学术成绩和击剑特长。
 **待办:** 无
+**方向:** 发出
 
 Dear,
 
@@ -2733,6 +2738,7 @@ Questo non te l’avevamo ancora detto 👀
 **日期:** 2026-03-17T14:09:09.000Z
 **摘要:** Cathy的妈妈询问如何为G6学生购买PE校服，并请求提供在线商店链接或订单表单。
 **待办:** 提供PE校服的订购链接或表单
+**方向:** 发出
 
 Dear teacher
 
@@ -2981,6 +2987,7 @@ https://cl
 **日期:** 2026-03-15T11:12:16.000Z
 **摘要:** 关于车行翻译件的邮件
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -2993,6 +3000,7 @@ https://cl
 **日期:** 2026-03-15T11:11:12.000Z
 **摘要:** 邮件涉及中国驾驶证的意大利法院翻译件相关事宜。
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -3194,6 +3202,7 @@ Title
 **日期:** 2026-03-14T18:53:55.000Z
 **摘要:** Natalie Wu 请求将运动员He Yunxi从U13改为Foil U15类别，因其成绩和装备符合U15要求。
 **待办:** 处理参赛级别更改请求
+**方向:** 发出
 
 *Dear Organizing Committee,*
 
@@ -3222,6 +3231,7 @@ Please allow her to compete in the *U15 category*. Thank you for your h
 **日期:** 2026-03-14T18:32:22.000Z
 **摘要:** 注册Foil U13女子项目，附有表格
 **待办:** 无
+**方向:** 发出
 
 Hi
 
@@ -4756,6 +4766,7 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2
 **日期:** 2026-09-10T17:51:45+02:00
 **摘要:** Natalie 因输入错误中国地址无法编辑，请求重新发送链接以正确填写。
 **待办:** 重新发送链接以允许 Natalie 正确填写信息。
+**方向:** 发出
 
 Hello Lauren
 I received your link, but I entered the wrong address for where I lived in China. I tried to edit it but was unable to do so. Could you please resend the link? I will fill it out again with the correct information.
@@ -4883,6 +4894,7 @@ here   BUY NOW, PICK UP IN 2 HOURS
 **日期:** 2026-09-10T13:26:43+02:00
 **摘要:** 收到natalie关于lance square的邮件，但内容为空
 **待办:** 无
+**方向:** 发出
 
 （无正文）
 
@@ -5298,6 +5310,7 @@ https://myaccount.google.com/notifications
 **日期:** 2026-09-09T15:25:29-07:00
 **摘要:** Cathy无法登录学校账户，Natalie请求新密码，Darcie提供了当前的登录信息。
 **待办:** 无
+**方向:** 发出
 
 Hi,
 Cathy tried to sign in for Microsoft but the password still didn’t work
@@ -5418,6 +5431,7 @@ nataliewu100@gmail.com
 **日期:** 2026-09-09T22:25:26+02:00
 **摘要:** 邮件正文为空，无具体内容
 **待办:** 无
+**方向:** 发出
 
 （无正文）
 
@@ -5453,6 +5467,7 @@ vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
 **日期:** 2026-09-09T21:30:03+02:00
 **摘要:** Natalie回复关于未完成表格的情况，并提供联系方式
 **待办:** 无
+**方向:** 发出
 
 Hi Vivian,
 
@@ -5475,6 +5490,7 @@ the best regards
 **日期:** 2026-09-09T13:39:00-05:00
 **摘要:** Natalie感谢帮助，并请求之后的包裹送到TH103
 **待办:** 协助接收包裹并送到TH103
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -5893,6 +5909,7 @@ Benefits of the Portal: The portal provides a range of services, including:
 **日期:** 2026-09-09T11:15:20+02:00
 **摘要:** Foxtons的Freya团队将于明天上午来拍摄，需协助获取钥匙。
 **待办:** 协助Freya团队获取钥匙
+**方向:** 发出
 
 Dear London Dock Concierge,
 
@@ -5911,6 +5928,7 @@ If you have any questions, please let me know.
 **日期:** 2026-09-09T11:01:37+02:00
 **摘要:** Natalie感谢Josh的帮助，Josh回复附上公寓的EWS1文件并表示如有其他问题可随时联系。
 **待办:** 无
+**方向:** 发出
 
 Hi Josh
 Thank u so much for ur assistance
@@ -6172,6 +6190,7 @@ W : http://www.foxtons.co.uk
 **日期:** 2026-09-09T10:07:16+02:00
 **摘要:** 业主确认KnightFrank为公寓销售代理，澄清Glenco仅为租赁代理的身份。
 **待办:** 无
+**方向:** 发出
 
 Hi Josh
 
@@ -6297,6 +6316,7 @@ This email (including any attachments) is confidential. If it is not addressed t
 **日期:** 2026-09-08T21:46:43-07:00
 **摘要:** Cathy无法登录学校账户，Natalie请求提供新密码。
 **待办:** 发送新密码
+**方向:** 发出
 
 Hi Ms.Hook,
 
@@ -6403,6 +6423,7 @@ Sephora
 **日期:** 2026-09-08T13:39:42-07:00
 **摘要:** 邮件询问TH103的包裹配送情况，对方表示尚未收到但会下班前再次确认。
 **待办:** 无
+**方向:** 发出
 
 Thanks！！
 
@@ -6468,6 +6489,7 @@ The information in the email is confidential and may be legally privileged. It i
 **日期:** 2026-09-08T14:53:58-05:00
 **摘要:** Natalie询问今天收到的包裹数量，并请求协助将包裹放入TH103单元或告知存储位置。
 **待办:** 检查包裹到达情况并协助存放
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -6606,6 +6628,7 @@ Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lanc
 **日期:** 2026-09-08T10:40:19+02:00
 **摘要:** 邮件确认了Natalie需要通过短信接收Thirdfort链接，并通过电子邮件收到上传身份证件的指示，同时需要完成实时验证（拍摄实时照片）。
 **待办:** 上传身份证件并完成实时验证
+**方向:** 发出
 
 hi Lauren
 Thank u for ur message and  just double confirm my number +1 (778) 255-5899
@@ -6821,6 +6844,7 @@ Please remember to confirm your email
 **日期:** 2026-09-07T20:07:04+02:00
 **摘要:** Natalie已完成在线签署，请求确认收到，并询问链接验证流程。
 **待办:** 确认收到签署文件并回复链接验证流程
+**方向:** 发出
 
 Hi Lauren,
 
@@ -7314,6 +7338,7 @@ lululemon
 **日期:** 2026-09-06T17:39:06+02:00
 **摘要:** 邮件提及已上传销售条款材料，需签署并返回协议，同时提供业主的身份证明和地址证明文件。
 **待办:** 需签署销售条款并提交业主的身份证明和地址证明文件
+**方向:** 发出
 
 Dear Freya,
 
@@ -7521,6 +7546,7 @@ I am currently gathering the required documents and information for the question
 **日期:** 2026-09-05T22:29:42+02:00
 **摘要:** 邮件要求修改销售条款为多重代理安排，并需提供相关文件和信息。
 **待办:** 修改销售条款以反映多重代理安排并发送更新版本，收集并提供所需文件和信息。
+**方向:** 发出
 
 Dear Freya,
 
@@ -8125,6 +8151,7 @@ My City, My People   BUY NOW, PICK UP IN 2 HOURS
 **日期:** 2026-09-03T14:25:45+02:00
 **摘要:** Natalie请求安排Foxtons中介Freya Wan在下午1-2点查看房产，Sean已确认提供钥匙。
 **待办:** 无
+**方向:** 发出
 
 Hi Sean
 
@@ -8569,6 +8596,7 @@ table {
 **日期:** 2026-09-02T14:56:05-07:00
 **摘要:** 这封邮件是关于重置My TELUS账户密码的提醒，提供了一个重置链接，并提示如果未请求重置需联系TELUS。
 **待办:** 无
+**方向:** 发出
 
 I’m
 
@@ -9318,6 +9346,7 @@ Sephora
 **日期:** 2026-09-02T13:15:04+02:00
 **摘要:** 关于查看预约的邮件
 **待办:** 无
+**方向:** 发出
 
 （无正文）
 
@@ -9363,6 +9392,7 @@ Contact
 **日期:** 2026-09-02T11:36:16+02:00
 **摘要:** Natalie授权Foxtons代理查看公寓，并请求确认看房时间及钥匙可用性。
 **待办:** 确认看房时间并确保钥匙可用
+**方向:** 发出
 
 Dear London Dock Concierge,
 
@@ -9927,6 +9957,7 @@ Sephora
 **日期:** 2026-08-29T02:05:58+02:00
 **摘要:** 邮件讨论Cathy的入学安排，需完成相关表格并关注学校发送的开学重要信息。
 **待办:** 完成Residency Form、Medical Info等表格，并关注学校邮件中的重要日期。
+**方向:** 发出
 
 Adrian 您好，
 
@@ -10033,6 +10064,7 @@ If
 **日期:** 2026-08-28T23:18:03+02:00
 **摘要:** 邮件讨论Cathy的签证安排及迎新日计划，请求Adrian协助向学校解释情况。
 **待办:** 请求Adrian协助向学校解释签证安排
+**方向:** 发出
 
 Adrian 您好，
 
@@ -10089,6 +10121,7 @@ Adrian Kwo
 **日期:** 2026-08-28T22:54:01+02:00
 **摘要:** Cathy可能无法按原计划入学，但将继续申请学签并参加9月2日的迎新日，同时请求协助处理学签申请。
 **待办:** 联系移民顾问协助学签申请
+**方向:** 发出
 
 Adrian 您好，
 
@@ -10118,6 +10151,7 @@ Adrian 您好，
 **日期:** 2026-08-28T22:41:41+02:00
 **摘要:** 邮件提及Cathy的学签申请因递交时人员所在地选择错误需重新办理，并询问学校是否推荐移民公司或顾问协助。
 **待办:** 与学校沟通下一步计划并咨询推荐的移民公司或顾问。
+**方向:** 发出
 
 Adrian 您好，
 
@@ -10147,6 +10181,7 @@ Adrian 您好，
 **日期:** 2026-08-28T22:39:32+02:00
 **摘要:** Natalie确认会检查学签申请是否附有录取通知书（LOA），并会在有IRCC消息时通知Adrian。
 **待办:** 无
+**方向:** 发出
 
 Adrian 您好，
 
@@ -10180,6 +10215,7 @@ Adrian 您好，
 **日期:** 2026-08-28T22:37:15+02:00
 **摘要:** Natalie请求安排在线会议，因签证申请需从国外处理。
 **待办:** 安排在线会议
+**方向:** 发出
 
 Hi Vivien,
 
@@ -10278,6 +10314,7 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 **日期:** 2026-08-28T21:48:09+02:00
 **摘要:** Vivien Lee 提供加拿大境内学习许可申请的移民咨询，建议 Natalie Wu 联系事务所进行详细咨询。
 **待办:** 联系Vivien Lee事务所进行学习许可咨询
+**方向:** 发出
 
 ---------- Forwarded message ----------
 From: Vivien Lee <vlee@vivienleeimmigration.com>
@@ -10802,6 +10839,7 @@ p {
 **日期:** 2026-08-26T20:20:36-04:00
 **摘要:** Natalie感谢澄清，并计划在特斯拉交付前联系Anastasia，请求更换至有电动汽车充电设施的停车位。
 **待办:** 无
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -10915,6 +10953,7 @@ Thank you, and we
 **日期:** 2026-08-26T14:04:02-05:00
 **摘要:** Natalie澄清特斯拉交付时间，并询问P4-116号电动车停车位的可用性及预订方式。
 **待办:** 确认P4-116号电动车停车位的可用性并回复Natalie
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -10930,6 +10969,7 @@ I will therefore need the EV parking stall around the time the vehicle is delive
 **日期:** 2026-08-26T15:02:51-04:00
 **摘要:** Natalie询问P4-116是否为最后一个可用的电动车充电车位，并希望确认能否在三月使用，或是否需要立即支付费用。
 **待办:** 确认P4-116的可用性并回复Natalie
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -11208,6 +11248,7 @@ Phone 604 317 4060
 **日期:** 2026-08-25T13:45:36-04:00
 **摘要:** Natalie计划更换电动车并询问申请停车库充电站的流程、时间及所需信息和费用。
 **待办:** 无
+**方向:** 发出
 
 Hi,
 
@@ -11255,6 +11296,7 @@ New colours. Fresh styles. Overprepare yourself.
 **日期:** 2026-08-25T12:30:00+02:00
 **摘要:** 发件人已通过WhatsApp留言，并询问对方下一步行动以推进流程。
 **待办:** 无
+**方向:** 发出
 
 Hi Akshitsinh,
 
@@ -11818,6 +11860,7 @@ The information in the email is confidential and may be legally privileged. It i
 **日期:** 2026-08-21T23:42:21+02:00
 **摘要:** 邮件涉及TH103租客保险续签确认，需验证保险条款是否符合租约第36条要求，并提交更新的保险证明以确保合规。
 **待办:** 确认保险条款是否符合第36条要求
+**方向:** 发出
 
 Dear
 I am currently arranging tenant insurance for TH103, 708 Farrow Street.
@@ -12300,6 +12343,7 @@ Cyber-security: Our bank account details will not change during the course of a 
 **日期:** 2026-08-19T17:02:42+02:00
 **摘要:** 邮件讨论房产销售签约流程，需先处理伦敦码头房产，后续再处理另一处房产，并需确认签署两份协议及上传相关文件。
 **待办:** 确保两份签约文件签署并上传，上传POA及TA6、TA7、TA10表格
+**方向:** 发出
 
 Dear Michael,
 
@@ -12374,6 +12418,7 @@ button.action {font-size: 17px;line-height: 1.47059;font-weight: 400;letter-spac
 **日期:** 2026-08-19T11:21:02+02:00
 **摘要:** Natalie 发送了公寓出售相关文件夹链接，部分文件待上传，并请求确认访问权限及是否需要额外文件。
 **待办:** 确认是否能访问文件夹并告知是否需要额外文件
+**方向:** 发出
 
 Dear Michael,
 
@@ -12398,6 +12443,7 @@ Frank and natalie
 **日期:** 2026-08-19T11:20:46+02:00
 **摘要:** 邮件提及已共享出售公寓的相关文件夹，部分文件待准备，需确认访问并反馈是否需要额外文件。
 **待办:** 确认能否访问文件夹，并告知是否需要额外文件。
+**方向:** 发出
 
 Dear Michael,
 
@@ -12598,6 +12644,7 @@ Tesla
 **日期:** 2026-08-18T10:17:50-07:00
 **摘要:** Natalie反映家中空调控制面板无法操作，请求安排技术人员检查维修。
 **待办:** 安排技术人员检查空调控制面板故障
+**方向:** 发出
 
 Hi,
 
@@ -13040,6 +13087,7 @@ Featuring Aritzia Muses. Move with them.
 **日期:** 2026-08-15T21:37:06+02:00
 **摘要:** Frank询问Cathy的一对一击剑课程安排，并计划在Eli返回温哥华后通过WhatsApp联系安排试课及在线沟通。
 **待办:** 无
+**方向:** 发出
 
 Hi Simon,
 
@@ -13371,6 +13419,7 @@ Hi jingqi natalie,  You recently visited our online store and we noticed that yo
 **日期:** 2026-08-14T16:16:46+02:00
 **摘要:** Natalie计划出售房产，正在比较评估结果并确定代理协议条款，要求建立WhatsApp群组并发送合同。
 **待办:** 添加WhatsApp号码并附上二维码；发送代理协议；安排包含妻子的电话会议
+**方向:** 发出
 
 Dear Maciej,
 
@@ -13393,6 +13442,7 @@ I would like to set up a Wha
 **日期:** 2026-08-14T16:05:04+02:00
 **摘要:** 邮件涉及出售房产的计划，包括设定市场价、选择多重代理、3%佣金，并希望建立WhatsApp群组以便中文沟通，确保妻子知情。
 **待办:** 无
+**方向:** 发出
 
 Dear Maciej,
 
@@ -13583,6 +13633,7 @@ p {
 **日期:** 2026-08-13T14:27:30-07:00
 **摘要:** Natalie感谢Anastasia安排电工，并请求确认安装日期和时间。
 **待办:** 确认安装日期和时间
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -13652,6 +13703,7 @@ https://myaccount.google.com/notifications
 **日期:** 2026-08-13T20:24:08+02:00
 **摘要:** 家长询问是否提供针对击剑比赛的1对1私教课程，并希望安排试课。
 **待办:** 回复是否提供一对一私教课程及安排试课
+**方向:** 发出
 
 Dear Coach Eli,
 
@@ -13717,6 +13769,7 @@ The information in the email is confidential and may be legally privileged. It i
 **日期:** 2026-08-13T18:42:59+02:00
 **摘要:** 邮件讨论了Lancer Square和London Dock两处房产的销售情况，包括价格调整、看房安排，并请求安排中文沟通代表。
 **待办:** 无
+**方向:** 发出
 
 Dear Augusta,
 
@@ -13736,6 +13789,7 @@ This property is ready for sale, and viewings can be a
 **日期:** 2026-08-13T11:26:02-05:00
 **摘要:** 同意安装餐厅吊灯并安排电工人手，需确认具体时间。
 **待办:** 安排电工人手并确认安装时间。
+**方向:** 发出
 
 Hi Anastasia,
 
@@ -13871,6 +13925,7 @@ Hi jingqi natalie,  You recently visited our online store and we noticed that yo
 **日期:** 2026-09-08T21:46:43-07:00
 **摘要:** Cathy无法登录学校账户，Natalie请求提供新密码，并附上联系方式。
 **待办:** 回复邮件并提供Cathy的新密码
+**方向:** 发出
 
 Hi Ms.Hook,
 
@@ -14813,6 +14868,7 @@ Check them out before they’re gone!
 **日期:** 2026-09-15T17:34:12.000Z
 **摘要:** 这封邮件涉及Meadowridge的入学录取通知。
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -14825,6 +14881,7 @@ Check them out before they’re gone!
 **日期:** 2026-09-15T17:34:40.000Z
 **摘要:** 这封邮件是关于Meadowridge的入学录取通知。
 **待办:** 无
+**方向:** 发出
 
 
 
@@ -14890,6 +14947,7 @@ Verdana, Arial, sans-serif !important; }     96
 **日期:** 2026-09-15T19:03:20.000Z
 **摘要:** 家长询问女儿能否中途加入学校农场旅行，并请求具体地址信息
 **待办:** 确认学生中途加入可行性并提供农场地址
+**方向:** 发出
 
 Dear Ms. Hook,
 
@@ -14918,6 +14976,7 @@ If this is feasible, could y
 **日期:** 2026-09-15T19:06:45.000Z
 **摘要:** 家长询问Cathy能否中途加入Gibsons Farm旅行，并请求农场地址或路线信息。
 **待办:** 联系学校确认Cathy中途加入的可行性，并获取农场具体地址或接送指引
+**方向:** 发出
 
 Dear Ms. Hook,
 
@@ -14982,6 +15041,7 @@ Sent: Tuesd
 **日期:** 2026-09-15T19:16:15.000Z
 **摘要:** Natalie询问Cathy是否可以中途加入学校组织的Gibsons Farm旅行，老师确认可行，并要求签署许可文件及提供医疗信息。
 **待办:** 需签署许可文件并确认Cathy的医疗/饮食限制
+**方向:** 发出
 **GmailID:** 1a0a67709ce9d909
 
 Dear Teacher Hook,
@@ -15067,6 +15127,7 @@ Cc: Emily Gish <emily.gish@meadowridge.bc.ca>, Cara Koehler <cara.koehler@meadow
 **日期:** 2026-09-15T07:06:58.000Z
 **摘要:** Cathy的学生签证已获批，计划明天贴签，预计下周返校。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a04a13eda2c8086
 
 你好，Adrian：
@@ -15100,6 +15161,7 @@ Cathy 的学生签证今天刚刚获批了。我们计划明天一早去加拿�
 **日期:** 2026-09-15T17:57:42.000Z
 **摘要:** 邮件确认已递交护照并预计尽快报到，同时列出开学前需完成的表格、账户设置及活动 RSVP 事项。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a04a13eda2c8086
 
 adrian
@@ -15166,6 +15228,7 @@ t  604.467.444
 **日期:** 2026-09-15T18:32:37.000Z
 **摘要:** Natalie询问Cathy是否能参加后天的郊游活动，并表示可以接送。Adrian此前通知中学生将前往Gibsons Farm郊游，需尽快联系Ms. Hook安排。
 **待办:** 确认Cathy的参加情况并回复
+**方向:** 发出
 **GmailID:** 1a04a13eda2c8086
 
 你好 adrian
@@ -15239,6 +15302,7 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 **日期:** 2026-09-15T18:58:23.000Z
 **摘要:** 邮件确认明天行程安排，若无法参加郊游则周一报到，并感谢对方协助。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a04a13eda2c8086
 
 好的，感谢Adrian
@@ -15274,6 +15338,7 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 **日期:** 2026-09-15T07:00:58.000Z
 **摘要:** Natalie询问校车费用支付事宜，并请求提供支付链接。
 **待办:** 确认校车费用支付状态并提供支付链接
+**方向:** 发出
 **GmailID:** 1a0a18b24db58891
 
 hi Janice
@@ -15328,6 +15393,7 @@ Subject: RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer
 **日期:** 2026-09-15T07:24:31.000Z
 **摘要:** Natalie确认已收到并提交链接，Lauren说明后续需通过短信接收Thirdfort链接并完成身份验证流程。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a07ba79eafc4532
 
 Hi Lauren,
@@ -15608,6 +15674,7 @@ The information contained in this e-mail and in any attachments is int
 **日期:** 2026-09-16T08:14:29.000Z
 **摘要:** 用户尝试用国际信用卡支付被拒，询问是否只能使用加拿大信用卡或是否可用加拿大借记卡支付。
 **待办:** 回复用户确认支付政策并解决支付问题
+**方向:** 发出
 **GmailID:** 1a0a942f4f81d47f
 
 Hello,
@@ -15712,6 +15779,7 @@ This email (and any attachment) is intended solely for the addressee and may con
 **日期:** 2026-09-16T10:59:16.000Z
 **摘要:** Natalie尝试支付校车费用但被拒绝，询问是否接受加拿大信用卡或借记卡。Janice提供了支付链接。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a0a18b24db58891
 
 Hello,
@@ -15734,6 +15802,7 @@ I look forward to your response. Thank you.
 **日期:** 2026-09-16T12:10:05.000Z
 **摘要:** 询问Yunxi He的餐饮账户是否需要实体卡或输入姓名/ID进行购买。
 **待办:** 无
+**方向:** 发出
 **涉及:** Cathy
 **GmailID:** 1a0aa1f5e0635e00
 
@@ -16046,6 +16115,7 @@ Geoffrey Garlinge | Food
 **日期:** 2026-09-16T18:23:41.000Z
 **摘要:** 邮件讨论支付被拒问题，询问是否接受加拿大信用卡或借记卡
 **待办:** 处理支付问题，联系银行或确认支付方式
+**方向:** 发出
 **GmailID:** 1a0a942f4f81d47f
 
 c
@@ -16088,6 +16158,7 @@ Reservations.
 **日期:** 2026-09-16T18:24:44.000Z
 **摘要:** Natalie尝试用国际信用卡支付被拒，询问是否仅接受加拿大发行的信用卡及是否有其他支付方式。
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a0a942f4f81d47f
 
 ok, thanks.
@@ -16112,6 +16183,7 @@ i will try different card today!
 **日期:** 2026-09-16T18:37:50.000Z
 **摘要:** Cathy因行程问题无法参加Gibsons Farm旅行，并提及需携带洗漱用品。
 **待办:** 无
+**方向:** 发出
 **涉及:** Cathy
 **GmailID:** 1a0a67709ce9d909
 
@@ -16133,6 +16205,7 @@ Thank you for your understanding.
 **日期:** 2026-09-16T18:49:40.000Z
 **摘要:** 关于信用卡支付被拒的问题，Natalie更新信息后支付成功
 **待办:** 无
+**方向:** 发出
 **GmailID:** 1a0a942f4f81d47f
 
 Hi Janice,
@@ -16156,6 +16229,7 @@ Thank you so much for your assistance with this matter, and please accept my apo
 **日期:** 2026-09-16T18:51:51.000Z
 **摘要:** 询问孩子使用校车的后续步骤，包括申请校车卡的地点和是否需要其他手续
 **待办:** 无
+**方向:** 发出
 **涉及:** 不明
 **GmailID:** 1a0a942f4f81d47f
 
@@ -16253,6 +16327,7 @@ lululemon
 **日期:** 2026-09-16T19:05:24.000Z
 **摘要:** Natalie确认支付成功，并让对方将标签寄到新地址，同时更新学校门户信息
 **待办:** 无
+**方向:** 发出
 **涉及:** 不明
 **GmailID:** 1a0a942f4f81d47f
 

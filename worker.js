@@ -157,9 +157,11 @@ export default {
       const classifyText = rawText.slice(0, 1200);
       const storeText = rawText.slice(0, 500);
 
-      const meta = await classifyEmail(env, { subject, from, text: classifyText });
+      const cfg0 = await loadEmailConfig(env);
+      const outgoing = isOutgoing(email, cfg0);
+      const meta = await classifyEmail(env, { subject, from, text: classifyText, isSent: outgoing }, cfg0);
       const gmailId = email.gmailId || '';
-      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${meta.kid && meta.kid !== '无' ? `**涉及:** ${meta.kid}\n` : ''}${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
+      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${outgoing ? '**方向:** 发出\n' : ''}${meta.kid && meta.kid !== '无' ? `**涉及:** ${meta.kid}\n` : ''}${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const emailKey = `${subject}|${from}|${normDate(date)}`;
       let result = null;
@@ -367,13 +369,21 @@ async function loadEmailConfig(env) {
     const existing = await readGitHubFile(env, RULES_PATH);
     if (existing && existing.content) {
       const parsed = JSON.parse(existing.content);
-      return { rules: parsed.rules || {}, exclude: parsed.exclude || {} };
+      return { rules: parsed.rules || {}, exclude: parsed.exclude || {}, self: parsed.self || [] };
     }
   } catch(e) {}
-  return { rules: {}, exclude: {} };
+  return { rules: {}, exclude: {}, self: [] };
 }
 
-async function classifyEmail(env, email) {
+// 发件人是否自己（发出的邮件）：payload.isSent 或命中 self 列表
+function isOutgoing(email, cfg) {
+  if (email.isSent === true) return true;
+  const addr = senderAddr(email.from);
+  const self = Array.isArray(cfg.self) ? cfg.self : [];
+  return !!addr && self.some(x => String(x).toLowerCase() === addr);
+}
+
+async function classifyEmail(env, email, cfg) {
   const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
 {"分类":"...","摘要":"...","待办":"...","涉及":"..."}
 
@@ -393,8 +403,8 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
-  const cfg = await loadEmailConfig(env);
-  const keywordCategory = keywordClassify(email.from, email.subject, email.text, cfg.rules, cfg.exclude);
+  const cfg0 = cfg || await loadEmailConfig(env);
+  const keywordCategory = keywordClassify(email.from, email.subject, email.text, cfg0.rules, cfg0.exclude);
 
   let rawText = '';
   try {
@@ -414,7 +424,7 @@ async function classifyEmail(env, email) {
     }
     if (obj) {
       let aiCat = obj['分类'] || obj.category || '其他';
-      if (isExcluded(email.from, aiCat, cfg.exclude)) aiCat = '其他';
+      if (isExcluded(email.from, aiCat, cfg0.exclude)) aiCat = '其他';
       return {
         category: keywordCategory || aiCat,
         summary: obj['摘要'] || obj.summary || '',

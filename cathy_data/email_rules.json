@@ -5,6 +5,7 @@
     "Cathy&David": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"],
     "生活旅行": ["trip.com", "usvisa-info.com", "vfsglobal.com", "vfshelpline.com", "booking.com", "airbnb", "expedia", "aircanada", "cathaypacific"]
   },
+  "self": ["nataliewu100@gmail.com"],
   "exclude": {
     "Cathy&David": []
   },

@@ -44,6 +44,7 @@ function syncCathyEmails() {
 
   // 先取 GitHub 上已有的邮件，防止重复导入
   const existingKeys = getExistingEmailKeys();
+  const myEmail = (Session.getActiveUser().getEmail() || '').toLowerCase();
 
   let sent = 0;
   for (const thread of threads) {
@@ -70,6 +71,7 @@ function syncCathyEmails() {
           to: message.getTo() || '',
           date: date,
           gmailId: message.getThread().getId(),
+          isSent: !!(myEmail && from.toLowerCase().includes(myEmail)),
           body: (message.getPlainBody() || '').slice(0, CONFIG.MAX_BODY_LENGTH)
         }
       };
