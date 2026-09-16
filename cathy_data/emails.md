@@ -16412,3 +16412,16 @@ primarily competes in Region 4 events:
  21st,
 
 ---
+
+## [生活旅行] 【HK$1搭高鐵‼️】8AM 搶連假長週末高鐵
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-16T23:16:38.000Z
+**摘要:** 关于深圳高铁路票和酒店的促销信息
+**待办:** 无
+**GmailID:** 1a0ac820ba58a863
+
+8AM 搶 HK$1 深圳高鐵車票⚡️廣東指定城市減 HK$150 + 酒店獨家 7 折起👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154182160-1789600596512.924%26ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
+
+---
