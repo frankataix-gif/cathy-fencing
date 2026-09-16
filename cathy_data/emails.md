@@ -15803,3 +15803,405 @@ gear.
 lululemon 
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** AR <ar@lynchbuslines.com>
+**日期:** 2026-09-16T13:03:06.000Z
+**摘要:** 邮件讨论支付被拒问题，询问是否只能使用加拿大信用卡或借记卡支付，对方回复建议联系发卡行
+**待办:** 联系发卡行确认支付失败原因并处理
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Natalie, 
+
+ 
+
+We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediat
+
+---
+
+## [营销] No such thing as too many sneakers
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-16T13:11:03.000Z
+**摘要:** 促销新款运动鞋，包括adidas、New Balance、On等品牌
+**待办:** 无
+**GmailID:** 1a0aa579ec2bb03c
+
+New from: adidas, New Balance, On and more!   YOUR TOP FOOTWEAR
+DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRO7aMlUny1IDk19i611VSZk-3DZVcr_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IACj43yBhjKfnfWkjxB7PFNV-2FLm-2BtJ0aMpB0cXBIsRZWtfVHA-2FKzPIwwOzZP59Z2-2FvTrQGOMQ9N8jz9PHTtK4hIX0jJlaowIZUY0FYZxS8Q-2Bpkypz7ocmrawGSEuKqv5DF2LM0dZJcYodpOkG
+
+---
+
+## [Cathy&David] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-16T14:21:19.000Z
+**摘要:** 提醒Cathy带毛巾和手巾，并提供前往Gibsons Farm的路线及地址信息。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0a67709ce9d909
+
+Hi I forgot to mention that Cathy should bring a washcloth and hand towel as well. Not 100% necessary, but nice to have.
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Sent: Tuesday, 15 September 2026 15:50:48
+To: natalie <nataliewu100@gmail.com>
+Subject: Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+Ok,
+We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe B
+
+---
+
+## [待办] Unit 103 – BC Hydro Account
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-16T14:41:18.000Z
+**摘要:** 需要联系BC Hydro设置Unit 103的水电账户，以免断电。
+**待办:** 联系BC Hydro设置账户并发送确认信息
+**GmailID:** 1a0aaaa97c65cdc0
+
+Hi Natalie,
+I hope you’re doing well.
+BC Hydro has notified us that the hydro account for Unit 103 has not been set up in your name as of now. According to our records, your move-in date was July 19th.
+Could you please contact BC Hydro as soon as possible to set up the account effective from your move-in date and send us confirmation once this has been completed?
+Please note that it is important to take care of this immediately, as otherwise BC Hydro may disconnect the power to your home.
+T
+
+---
+
+## [其他] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T15:47:49.000Z
+**摘要:** VFS Global通知申请已提交并处理
+**待办:** 无
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+Your application, tracking ID No.20260915USLAPKT71842 has been received and 
+is under process at the IRCC Office on Wed Sep 16 2026 
+
+Regards, 
+
+VFS Global 
+
+
+
+---
+
+## [待办] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T15:54:18.000Z
+**摘要:** VFS Global通知签证申请的决定信封已寄出，跟踪编号为20260915USLAPKT71842。
+**待办:** 确认签证申请状态并处理相关文件
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+The decision envelope for your application, tracking ID No. 
+20260915USLAPKT71842 has been dispatched from the IRCC Office, to the 
+Canada Visa Application Centre in USA, Los Angeles. 
+
+Regards, 
+
+VFS Global 
+
+
+
+---
+
+## [营销] Ready for your next automation? ⏭️
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-16T16:28:23.000Z
+**摘要:** 邮件推广Make.com的自动化工具，建议用户扩展现有工作流并提供相关资源链接。
+**待办:** 无
+**GmailID:** 1a0ab0c4c6c5e77f
+
+Build on what you already started  
+
+Logo ( https://www.make.com?utm_campaign=More+templates+%2B+agents&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+You’ve got a working scenario. Now it’s about deciding where to expand.
+
+A good next step is something small but useful. Look for repeatable patterns:
+
+• Processes you run daily
+• Data moving between systems
+• Steps you still handle manually
+
+From there, you can:
+
+• Build a second workflow from scratch
+• Reuse a template 
+
+---
+
+## [待办] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T16:55:55.000Z
+**摘要:** 签证申请状态更新，文件已准备好领取
+**待办:** 前往签证中心领取文件
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+The decision envelope for your application, tracking ID No. 
+20260915USLAPKT71842 has been received from the IRCC Office on Wed Sep 16 
+2026 at the Canada Visa Application Centre, Canada Visa Application Centre, 
+Los Angeles and is ready for collection. For details on the location and 
+hours of operation of our VAC, please refer to our website at: 
+https://www.vfsglobal.ca/canada/USA. Please note this is an auto generated 
+e-mail. Please do not reply 
+
+---
+
+## [待办] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T17:00:36.000Z
+**摘要:** VFS Global通知签证申请的决定信封已被收取
+**待办:** 无
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+The decision envelope for your application, tracking ID No. 
+20260915USLAPKT71842 has been collected from the Canada Visa Application 
+Centre,Canada Visa Application Centre, Los Angeles on Wed Sep 16 2026. 
+Please note this is an auto generated e-mail. Please do not reply to this 
+email.
+
+Regards, 
+
+VFS Global 
+
+
+
+---
+
+## [Cathy&David] Re: EXT - Question regarding dining account usage - Yunxi He (ID: 348801)
+
+**发件人:** Geoffrey Garlinge <ggarlinge@sagedining.com>
+**日期:** 2026-09-16T17:14:56.000Z
+**摘要:** 关于Yunxi He的学校餐饮账户使用方式的咨询，说明学生可通过姓名、学生卡或学号支付，并提及诚信表的使用流程
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ab36f86fc47a1
+
+Hi JingQi Wu,
+
+Thank you for reaching out.
+
+You are correct.
+All students can use their name, student card is scanned, or enter the student number into the keypad.
+During the early morning and some times during the day, there is an honour sheet, the students write their names and ID on the sheet and item they want to purchase, this is added to the account later.
+
+I hope this helps.
+
+If you have any other questions, please ask.
+I am here to help.
+
+Regards,
+
+Geoffrey Garlinge | Food
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:23:41.000Z
+**摘要:** 邮件讨论支付被拒问题，询问是否接受加拿大信用卡或借记卡
+**待办:** 处理支付问题，联系银行或确认支付方式
+**GmailID:** 1a0a942f4f81d47f
+
+c
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+> Janice Cooper
+> Lynch Bus Lines
+> 4687 Byrne Road
+> Burnaby, BC V5J 3H6
+> Ph:  604-439-0842
+> Fax: 604-439-1941
+> This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you
+
+---
+
+## [营销] Pasjoli celebrates 7 years in LA
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-16T18:32:14.000Z
+**摘要:** Pasjoli餐厅在DoorDash上举办7周年庆祝活动，邀请用户预订。
+**待办:** 无
+**GmailID:** 1a0ab7daec6418ff
+
+ DoorDash Email Reserve Pasjoli’s anniversary event on DoorDash 
+Reservations. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌  
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:24:44.000Z
+**摘要:** Natalie尝试用国际信用卡支付被拒，询问是否仅接受加拿大发行的信用卡及是否有其他支付方式。
+**待办:** 无
+**GmailID:** 1a0a942f4f81d47f
+
+ok, thanks.
+i will try different card today!
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+> Janice Cooper
+> Lynch Bus Lines
+> 4687 Byrne Road
+> Burnaby, BC V5J 3H6
+> Ph:  604-439-0842
+> Fax: 604-439-1941
+> This email (and any attachment) is intended solely for the addressee and 
+
+---
+
+## [Cathy&David] Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:37:50.000Z
+**摘要:** Cathy因行程问题无法参加Gibsons Farm旅行，并提及需携带洗漱用品。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0a67709ce9d909
+
+Dear Ms. Hook,
+
+Thank you for the detailed information regarding the Gibsons Farm trip.
+
+I am writing to let you know that Cathy (Yunxi) He will unfortunately not be able to join the trip tomorrow. We are only arriving in Vancouver late tonight, and Cathy is feeling quite tired from the travel.
+
+We are very sorry for the late notice and for missing this opportunity. Cathy was looking forward to it, and we hope she can join the next school activity soon.
+
+Thank you for your understanding.
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:49:40.000Z
+**摘要:** 关于信用卡支付被拒的问题，Natalie更新信息后支付成功
+**待办:** 无
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Janice,
+
+I updated the card information, and the payment went through successfully.
+Thank you so much for your assistance with this matter, and please accept my apologies for the late payment.
+
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+> Janice Cooper
+> Lynch Bus Lines
+> 46
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:51:51.000Z
+**摘要:** 询问孩子使用校车的后续步骤，包括申请校车卡的地点和是否需要其他手续
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Janice,
+
+I have successfully completed the payment.
+
+Could you please let me know what the next steps are for my child to start using the school bus? Specifically, where should we go to apply for or pick up the bus pass, and is there anything else we need to do?
+
+Thank you for your help.
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company 
+
+---
+
+## [Cathy&David] Transaction Receipt - Reference: MR-27-001
+
+**发件人:** LYNCH BUS LINES LTD <noreply@elavon.com>
+**日期:** 2026-09-16T18:45:15.000Z
+**摘要:** 支付成功，金额为4163.25加元，交易详情如卡号和交易ID已列出。
+**待办:** 无
+**GmailID:** 1a0ab89a3034e214
+
+ 
+
+$4,163.25 CAD
+
+09/16/2026 11:45:15 AM
+
+LYNCH BUS LINES LTD
+Your payment has been approved 
+Transaction Type SALE 
+Payment VISA   43**********2813 
+Transaction ID 160926O4F-13344EC0-C63F-4B14-BE0B-A8715CE5FC54 
+Approval Code 453651 
+Approval Message APPROVAL 
+
+Thank you for your business!
+Total $4,163.25 CAD 
+Other Information Required 
+Invoice or Confirmation Number MR-27-001 
+LYNCH BUS LINES LTD 
+4687 BYRNE ROAD BURNABY BC V5J 3H6 | www.lynchbuslines.com | 604-439-0842 
+
+The information cont
+
+---
