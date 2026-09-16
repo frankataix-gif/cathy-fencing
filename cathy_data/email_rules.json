@@ -1,13 +1,44 @@
 {
-  "version": "2026-09-16",
+  "version": "2026-09-16T21:08:42.212Z",
   "rules": {
-    "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing", "sclass.ca", "fencingtracker.com", "thefencingpost.com"],
-    "Cathy&David": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"],
-    "生活旅行": ["trip.com", "usvisa-info.com", "vfsglobal.com", "vfshelpline.com", "booking.com", "airbnb", "expedia", "aircanada", "cathaypacific"]
+    "击剑": [
+      "usafencing.org",
+      "usafencing",
+      "fencing.ca",
+      "askfred",
+      "fencingtime",
+      "dynamofencing",
+      "sclass.ca",
+      "fencingtracker.com",
+      "thefencingpost.com"
+    ],
+    "Cathy&David": [
+      "meadowridge.bc.ca",
+      "meadowridge",
+      "managebac",
+      "schoology",
+      "mykidsspending.com",
+      "lynchbuslines.com",
+      "stopfinder.com",
+      "myschoolapp.com",
+      "blackbaud.com"
+    ],
+    "生活旅行": [
+      "trip.com",
+      "usvisa-info.com",
+      "vfsglobal.com",
+      "vfshelpline.com",
+      "booking.com",
+      "airbnb",
+      "expedia",
+      "aircanada",
+      "cathaypacific",
+      "donotreply@vfsglobal.com",
+      "residentcare@boffo.ca"
+    ]
   },
   "self": ["nataliewu100@gmail.com"],
   "exclude": {
     "Cathy&David": []
-  },
-  "note": "rules: 关键词/发件人命中即归入对应分类。Cathy&David = 与 Cathy He (He Yunxi) 或 David He (He Lingwei) 相关的邮件（击剑除外）。exclude: 用户手动移出的发件人，不再自动归入该分类（支持完整地址或 @域名）。"
+  }
 }

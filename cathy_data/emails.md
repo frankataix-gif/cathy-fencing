@@ -5535,7 +5535,7 @@ I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today but 
 
 ---
 
-## [其他] Re: Package Delivery Assistance – TH103
+## [生活旅行] Re: Package Delivery Assistance – TH103
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-09T18:26:11+00:00
@@ -6453,7 +6453,7 @@ Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月8日
 
 ---
 
-## [其他] Re: Package Delivery Assistance – TH103
+## [生活旅行] Re: Package Delivery Assistance – TH103
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-08T20:19:10+00:00
@@ -10932,7 +10932,7 @@ DoorDash     -->
 
 ---
 
-## [其他] Re: Request for an EV Charging Station
+## [生活旅行] Re: Request for an EV Charging Station
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-26T19:45:46+00:00
@@ -11216,7 +11216,7 @@ p {
 
 ---
 
-## [其他] Re: Request for an EV Charging Station
+## [生活旅行] Re: Request for an EV Charging Station
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-25T21:42:19+00:00
@@ -11817,7 +11817,7 @@ On Sat, Aug 15, 2026, 12:37 PM natalie <nataliewu100@gmail.com> w
 
 ---
 
-## [其他] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+## [生活旅行] Re: TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-21T22:08:10+00:00
@@ -11874,7 +11874,7 @@ Once confirmed, I will purchase the policy immediately and send you the insuranc
 
 ---
 
-## [其他] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+## [生活旅行] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-21T21:01:30+00:00
@@ -12540,7 +12540,7 @@ p {
 
 ---
 
-## [其他] Re: Air Conditioning Control Panel Not Working
+## [生活旅行] Re: Air Conditioning Control Panel Not Working
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-18T21:23:11+00:00
@@ -13734,7 +13734,7 @@ Her
 
 ---
 
-## [其他] Re: Request for Permission to Install a Dining Room Ceiling Light
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-13T16:53:40+00:00
@@ -13802,7 +13802,7 @@ Natalie
 
 ---
 
-## [其他] Re: Request for Permission to Install a Dining Room Ceiling Light
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-13T16:20:28+00:00
@@ -15551,7 +15551,7 @@ lululemon
 
 ---
 
-## [其他] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T00:15:44.000Z
@@ -15940,7 +15940,7 @@ We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe 
 
 ---
 
-## [待办] Unit 103 – BC Hydro Account
+## [生活旅行] Unit 103 – BC Hydro Account
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-16T14:41:18.000Z
@@ -15957,7 +15957,7 @@ T
 
 ---
 
-## [其他] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T15:47:49.000Z
@@ -15980,7 +15980,7 @@ VFS Global
 
 ---
 
-## [待办] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T15:54:18.000Z
@@ -16033,7 +16033,7 @@ From there, you can:
 
 ---
 
-## [待办] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T16:55:55.000Z
@@ -16055,7 +16055,7 @@ e-mail. Please do not reply
 
 ---
 
-## [待办] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T17:00:36.000Z
@@ -16346,5 +16346,26 @@ Best regards
 >
 > Janice Cooper
 > Lynch Bus Li
+
+---
+
+## [Cathy&David] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T19:31:07.000Z
+**摘要:** Natalie需要帮助填写Cathy医疗表格中的医生信息，并确认是否还有其他所需文件。
+**待办:** 提供医生信息
+**涉及:** Cathy
+**GmailID:** 1a08708ba7c2344c
+
+Hi Vivian,
+
+I’m writing to share some great news—we have received Cathy’s student visa! We are currently on our way back to Vancouver today and expect her to officially start school this coming Monday.
+
+I have already completed the Emergency Contacts and the Residency Form. However, I’m having some trouble with the Medical form, specifically the PHYSICIAN INFORMATION section. I’m not sure how to fill in the following details:
+
+• Care Card Number
+• Physician Name
+• Physician Phone Number
 
 ---
