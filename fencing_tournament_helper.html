@@ -5158,7 +5158,6 @@ function circuitLabel(c) {
   initGDrive();
   initHeaderMeta();
   initSchedule();
-  initImageLightbox();
   initTournamentNav();
   initPullToRefresh();
   loadReflections();
@@ -5890,6 +5889,7 @@ function circuitLabel(c) {
     });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeTaskEditor(); });
     // 初始化一次
+    initImageLightbox();
     renderTasks();
     renderUpcoming();
     if (allEmails.length) renderEmailList();
