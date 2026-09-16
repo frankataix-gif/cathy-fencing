@@ -4,13 +4,6 @@
       "name": "击剑",
       "items": [
         {
-          "name": "USA Fencing 会员中心",
-          "url": "https://member.usafencing.org",
-          "user": "",
-          "pass": "",
-          "note": "会员信息 / 参赛资格 / Regional 排名"
-        },
-        {
           "name": "AskFRED",
           "url": "https://askfred.net",
           "user": "",
@@ -30,6 +23,20 @@
           "user": "",
           "pass": "",
           "note": "详细赛事记录 / 积分走势"
+        },
+        {
+          "name": "USA Fencing 会员中心",
+          "url": "https://member.usafencing.org",
+          "user": "frankcathynatalie",
+          "pass": "Mm98796395",
+          "note": "会员信息 / 参赛资格 / Regional 排名",
+          "image": "",
+          "pdf": {
+            "name": "membershipCard_3.pdf",
+            "path": "cathy_data/files/file_1789547735151.pdf",
+            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789547735151.pdf"
+          },
+          "voice": null
         }
       ]
     },
@@ -62,17 +69,9 @@
             "path": "cathy_data/files/file_1789545275268.pdf",
             "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789545275268.pdf"
           },
-          "voice": {
-            "name": "语音留言_1789547388518.m4a",
-            "path": "cathy_data/files/file_1789547388524.m4a",
-            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789547388524.m4a"
-          }
+          "voice": null
         }
       ]
-    },
-    {
-      "name": "生活",
-      "items": []
     }
   ]
 }
