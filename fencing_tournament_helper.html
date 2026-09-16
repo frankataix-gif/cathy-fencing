@@ -706,9 +706,13 @@
         <textarea id="te-notes" placeholder="补充说明" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-height:120px; resize:vertical; overflow-y:hidden; line-height:1.5;"></textarea>
       </div>
       <div class="form-row" style="margin-bottom:20px;">
-        <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">图片</label>
+        <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">图片 / 附件</label>
         <input type="file" id="te-image-input" accept="image/*,application/pdf" style="display:none;">
         <div id="te-image-area"></div>
+      </div>
+      <div class="form-row" style="margin-bottom:20px;">
+        <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">语音留言</label>
+        <div id="te-voice-area"></div>
       </div>
       <div style="display:flex; gap:10px; justify-content:space-between; align-items:center; margin-top:24px;">
         <button class="btn danger" id="task-editor-delete" style="display:none; padding:8px 16px;">删除</button>
@@ -5325,6 +5329,7 @@ function circuitLabel(c) {
           ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
           ${t.image ? `<img src="${t.image}" class="task-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">` : ''}
           ${t.pdf ? `<a href="${escapeHtml(t.pdf.url)}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.8rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(t.pdf.name || 'PDF 附件')}</a>` : ''}
+          ${t.voice ? `<audio controls src="${t.voice.url}" style="height:32px; margin-top:6px; width:230px; max-width:100%; display:block;" preload="none"></audio>` : ''}
         </div>
       </div>
       <div style="display:flex; gap:6px; justify-content:flex-end; margin-top:8px;">
@@ -5366,19 +5371,76 @@ function circuitLabel(c) {
         srcEl.style.display = 'none';
       }
     }
+    discardVoiceRec();
     _teImage = (isEdit && task.image) || '';
     _tePdf = (isEdit && task.pdf) || null;
+    _teVoice = (isEdit && task.voice) || null;
     renderTeImage();
+    renderTeVoice();
     document.getElementById('task-editor-title').textContent = isEdit ? '编辑待办' : '添加待办';
     document.getElementById('task-editor-delete').style.display = isEdit ? 'inline-block' : 'none';
     document.getElementById('task-editor').style.display = 'block';
     requestAnimationFrame(() => autoResizeTextarea(document.getElementById('te-notes')));
   }
 
-  function closeTaskEditor() { document.getElementById('task-editor').style.display = 'none'; }
+  function closeTaskEditor() { discardVoiceRec(); document.getElementById('task-editor').style.display = 'none'; }
 
   let _teImage = '';
   let _tePdf = null; // {name, url}
+  let _teVoice = null; // {name, url}
+  let _recorder = null, _voiceChunks = [], _recStartAt = 0, _recTimer = null;
+
+  function renderTeVoice() {
+    const area = document.getElementById('te-voice-area');
+    if (!area) return;
+    if (_recorder && _recorder.state === 'recording') {
+      const sec = Math.floor((Date.now() - _recStartAt) / 1000);
+      const mm = String(Math.floor(sec / 60)).padStart(2, '0'), ss = String(sec % 60).padStart(2, '0');
+      area.innerHTML = `<span style="color:#ef4444; font-size:0.85rem; font-weight:600;">● 录音中 ${mm}:${ss}</span>
+        <button type="button" class="btn danger" id="te-voice-stop" style="padding:4px 14px; font-size:0.8rem; margin-left:10px;">停止</button>`;
+      return;
+    }
+    if (_teVoice) {
+      area.innerHTML = `<div style="display:flex; align-items:center; gap:8px;">
+        <audio controls src="${_teVoice.url}" style="height:34px; flex:1; min-width:0;"></audio>
+        <button type="button" class="btn danger" id="te-voice-remove" style="padding:4px 10px; font-size:0.75rem; flex-shrink:0;">删除</button>
+      </div>`;
+      return;
+    }
+    area.innerHTML = `<button type="button" class="btn secondary" id="te-voice-start" style="padding:8px 14px; font-size:0.85rem;">🎤 录音留言</button><span id="te-voice-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
+  }
+
+  async function startVoiceRec() {
+    if (!navigator.mediaDevices || typeof MediaRecorder === 'undefined') { alert('此浏览器不支持录音'); return; }
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      _voiceChunks = [];
+      _recorder = new MediaRecorder(stream);
+      _recorder.ondataavailable = e => { if (e.data.size) _voiceChunks.push(e.data); };
+      _recorder.onstop = async () => {
+        stream.getTracks().forEach(t => t.stop());
+        clearInterval(_recTimer); _recTimer = null;
+        const type = _recorder.mimeType || 'audio/webm';
+        const ext = type.includes('mp4') ? '.m4a' : type.includes('mpeg') ? '.mp3' : type.includes('ogg') ? '.ogg' : '.webm';
+        const file = new File([new Blob(_voiceChunks, { type })], '语音留言_' + Date.now() + ext, { type });
+        _recorder = null;
+        renderTeVoice();
+        await uploadTaskFile(file, 'voice');
+      };
+      _recStartAt = Date.now();
+      _recorder.start();
+      _recTimer = setInterval(renderTeVoice, 1000);
+      renderTeVoice();
+    } catch(e) { alert('无法使用麦克风：' + e.message); }
+  }
+
+  function discardVoiceRec() {
+    if (_recorder) {
+      try { _recorder.onstop = null; _recorder.stream.getTracks().forEach(t => t.stop()); _recorder.stop(); } catch(e) {}
+      _recorder = null;
+      clearInterval(_recTimer); _recTimer = null;
+    }
+  }
   function renderTeImage() {
     const area = document.getElementById('te-image-area');
     if (!area) return;
@@ -5399,8 +5461,8 @@ function circuitLabel(c) {
     html += `<button type="button" class="btn secondary" id="te-image-add" style="padding:8px 14px; font-size:0.85rem;">📷 上传图片 / PDF</button><span id="te-upload-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
     area.innerHTML = html;
   }
-  async function uploadTaskFile(file) {
-    const status = document.getElementById('te-upload-status');
+  async function uploadTaskFile(file, slot) {
+    const status = document.getElementById(slot === 'voice' ? 'te-voice-status' : 'te-upload-status');
     if (file.size > 8 * 1024 * 1024) { alert('文件太大（超过 8MB），请压缩后再传'); return; }
     if (status) status.textContent = '上传中…';
     try {
@@ -5418,9 +5480,9 @@ function circuitLabel(c) {
       });
       const result = await res.json().catch(() => ({}));
       if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
-      _tePdf = { name: file.name, url: 'https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/' + path };
-      if (status) status.textContent = '';
-      renderTeImage();
+      const rec = { name: file.name, url: 'https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/' + path };
+      if (slot === 'voice') { _teVoice = rec; renderTeVoice(); }
+      else { _tePdf = rec; renderTeImage(); }
     } catch(e) {
       if (status) status.textContent = '上传失败：' + e.message;
     }
@@ -5460,7 +5522,7 @@ function circuitLabel(c) {
     const category = document.getElementById('te-category').value;
     const notes = document.getElementById('te-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
-    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
+    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, voice: _teVoice || null, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
     if (id) {
       const existing = tasks.find(x => x.id === id);
       if (existing) {
@@ -5754,6 +5816,11 @@ function circuitLabel(c) {
         _tePdf = null;
         renderTeImage();
       }
+    });
+    document.getElementById('te-voice-area')?.addEventListener('click', (e) => {
+      if (e.target.closest('#te-voice-start')) startVoiceRec();
+      else if (e.target.closest('#te-voice-stop')) { if (_recorder && _recorder.state === 'recording') _recorder.stop(); }
+      else if (e.target.closest('#te-voice-remove')) { _teVoice = null; renderTeVoice(); }
     });
     document.getElementById('task-editor-delete')?.addEventListener('click', () => {
       const id = document.getElementById('task-edit-id').value;
