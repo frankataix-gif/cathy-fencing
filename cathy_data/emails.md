@@ -15803,3 +15803,33 @@ gear.
 lululemon 
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** AR <ar@lynchbuslines.com>
+**日期:** 2026-09-16T13:03:06.000Z
+**摘要:** 邮件讨论支付被拒问题，询问是否只能使用加拿大信用卡或借记卡支付，对方回复建议联系发卡行
+**待办:** 联系发卡行确认支付失败原因并处理
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Natalie, 
+
+ 
+
+We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediat
+
+---
