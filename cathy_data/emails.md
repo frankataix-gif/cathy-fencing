@@ -15964,7 +15964,7 @@ From there, you can:
 
 ---
 
-## [待办] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T16:55:55.000Z
