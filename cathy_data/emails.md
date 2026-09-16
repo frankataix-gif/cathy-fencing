@@ -16126,3 +16126,26 @@ We are very sorry for the late notice and for missing this opportunity. Cathy wa
 Thank you for your understanding.
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:49:40.000Z
+**摘要:** 关于信用卡支付被拒的问题，Natalie更新信息后支付成功
+**待办:** 无
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Janice,
+
+I updated the card information, and the payment went through successfully.
+Thank you so much for your assistance with this matter, and please accept my apologies for the late payment.
+
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+> Janice Cooper
+> Lynch Bus Lines
+> 46
+
+---
