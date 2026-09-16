@@ -5635,8 +5635,16 @@ function circuitLabel(c) {
     // 待办编辑器按钮
     document.getElementById('task-editor-close')?.addEventListener('click', closeTaskEditor);
     document.getElementById('task-editor-cancel')?.addEventListener('click', closeTaskEditor);
-    document.getElementById('task-editor')?.addEventListener('click', (e) => { if (e.target === e.currentTarget) closeTaskEditor(); });
+    // 遮罩关闭：只有按下和松开都在遮罩上才算（拖选文字松开落在外面不会误关）
+    const _teMask = document.getElementById('task-editor');
+    let _teDownOnMask = false;
+    _teMask?.addEventListener('mousedown', (e) => { _teDownOnMask = (e.target === _teMask); });
+    _teMask?.addEventListener('click', (e) => { if (e.target === _teMask && _teDownOnMask) closeTaskEditor(); _teDownOnMask = false; });
     document.getElementById('task-editor-save')?.addEventListener('click', saveTask);
+    // 标题/输入框回车 = 保存（常规习惯）
+    ['te-title', 'te-due', 'te-category'].forEach(id => {
+      document.getElementById(id)?.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); saveTask(); } });
+    });
     document.getElementById('te-notes')?.addEventListener('input', function() { autoResizeTextarea(this); });
     document.getElementById('task-editor-delete')?.addEventListener('click', () => {
       const id = document.getElementById('task-edit-id').value;
