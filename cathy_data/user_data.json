@@ -230,8 +230,9 @@
       "sourceType": "email",
       "sourceSubject": "Re: Inquiry: Cathy (Yunxi) He joining the Gibsons Farm trip mid-way",
       "dueDate": "2026-09-15",
-      "completed": false,
-      "createdAt": "2026-09-15T20:55:04.178Z"
+      "completed": true,
+      "createdAt": "2026-09-15T20:55:04.178Z",
+      "updatedAt": "2026-09-16T11:40:11.499Z"
     },
     {
       "id": "t_1789505707236_2151an",
