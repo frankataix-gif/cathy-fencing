@@ -2687,6 +2687,33 @@ function circuitLabel(c) {
     try { taskList = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { taskList = []; }
     const taskTombstones = getTaskTombstones();
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
+    // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
+    try {
+      const rr = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/user_data.json?_=' + Date.now(), { cache: 'no-cache' });
+      if (rr.ok) {
+        const remote = await rr.json();
+        if (remote && remote.taskTombstones) {
+          Object.entries(remote.taskTombstones).forEach(([id, ts]) => { if (!taskTombstones[id] || taskTombstones[id] < ts) taskTombstones[id] = ts; });
+          saveToLocal('cathy_task_tombstones', JSON.stringify(taskTombstones));
+        }
+        if (remote && Array.isArray(remote.tasks)) {
+          const isTomb = (t) => t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id]);
+          const localById = {};
+          taskList.forEach(t => { if (t && t.id) localById[t.id] = t; });
+          const merged = [], seen = new Set();
+          remote.tasks.forEach(rt => {
+            if (!rt || !rt.id) return;
+            seen.add(rt.id);
+            if (isTomb(rt)) return;
+            const lt = localById[rt.id];
+            if (lt && (!rt.updatedAt || (lt.updatedAt && lt.updatedAt >= rt.updatedAt))) merged.push(lt);
+            else merged.push(rt);
+          });
+          taskList.forEach(t => { if (t && t.id && !seen.has(t.id) && !isTomb(t)) merged.push(t); });
+          taskList = merged;
+        }
+      }
+    } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones };
     try {
