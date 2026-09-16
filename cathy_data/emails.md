@@ -15507,3 +15507,15 @@ VFS Global
 
 
 ---
+
+## [学校] MyKidsSpending.com ACH information - Meadowridge School
+
+**发件人:** support@mykidsspending.com
+**日期:** 2026-09-16T07:18:18.000Z
+**摘要:** 这封邮件是关于MyKidsSpending.com的ACH信息，可能与Meadowridge School的账户相关。
+**待办:** 无
+**GmailID:** 1a0a914a817f9c67
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="format-detection" content="telephone=no"><title>MyKidsSpending - MyKidsSpending.com ACH information</title><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><body style="margin: 0; padding: 0; background-color: #F7F7F7; font-family: Arial, Helvetica, sans-serif;"><!-- Preheader text --><
+
+---
