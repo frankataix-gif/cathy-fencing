@@ -15727,3 +15727,79 @@ I look forward to your response. Thank you.
 > You can make payment through our website using the orang
 
 ---
+
+## [Cathy&David] Question regarding dining account usage - Yunxi He (ID: 348801)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T12:10:05.000Z
+**摘要:** 询问Yunxi He的餐饮账户是否需要实体卡或输入姓名/ID进行购买。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0aa1f5e0635e00
+
+Dear SAGE Dining Team,
+
+I am writing to inquire about how students use their dining accounts for purchases at Meadowridge School.
+
+Could you please clarify if the student (Yunxi He, ID: 348801) needs a physical card to make purchases, or if they simply provide their name or ID number at the counter?
+
+Thank you for your help.
+On 16 Sep 2026 at 2:07 PM +0200, MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>, wrote:
+> Dear JingQi Wu,
+> Welcome to MyKidsSpend
+
+---
+
+## [Cathy&David] SAGE Dining Account Statement Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-09-16T12:07:23.000Z
+**摘要:** 关于Yunxi He的SAGE餐饮账户声明，包含当前余额和账户管理链接。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0aa1d53c278cf1
+
+
+
+
+Dear JingQi Wu, 
+
+Welcome to MyKidsSpending with SAGE Dining at Meadowridge School. 
+
+Attached is your dining account statement for Yunxi He. 
+
+  Your current balance is $100.00. 
+  At this time, autofunding is currently on for this account. 
+
+To view and manage your account, please click on the following link: Home Page 
+
+Questions about purchased items may be directed to the Cafeteria Manager by email at sage@meadowridge.bc.ca. 
+
+For questions about MyKidsSpending, please se
+
+---
+
+## [营销] Don't miss your chance to tell us about your gear!
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-16T12:21:47.000Z
+**摘要:** Lululemon 邀请用户评价购买的运动裤产品，鼓励提供带照片的使用反馈以帮助改进产品设计。
+**待办:** 无
+**GmailID:** 1a0aa2a8016d4e43
+
+ Don't miss your chance to tell us about your gear! 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Just a quick reminder to review your lululemon Align No Line™ High-Rise 
+Short 6". 
+ 
+Reviews that include photos help others pick the right size and fit. Don’t 
+hesitate to show us and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: lululemon Align No Line™ High-Rise Short 6"] 
+lululemon 
+
+---
