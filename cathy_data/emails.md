@@ -11831,7 +11831,7 @@ Once confirmed, I will purchase the policy immediately and send you the insuranc
 
 ---
 
-## [其他] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
+## [生活旅行] TH103 - URGENT: Overdue Tenant Insurance Renewal – Section 36 Compliance Required
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-21T21:01:30+00:00
