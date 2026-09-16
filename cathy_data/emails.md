@@ -16387,3 +16387,28 @@ In the meantime, many of the answers to your questions can be found in our Help 
 
 
 ---
+
+## [击剑] Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T23:17:11.000Z
+**摘要:** 家长请求将Cathy的USA Fencing区域隶属从Region 1更改为Region 4，因其主要在Region 4参赛，并希望更改能在BBFC赛事前完成以计入排名。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+Dear USA Fencing Membership Services,
+
+I am writing to request a change of regional affiliation for my daughter,
+Cathy YUNXI He (Member #102111079, International Competitive License,
+expires 7/31/2027), from Region 1 to Region 4.
+
+When we registered her membership, we did not pay close attention to the
+region selection and chose Region 1 by mistake. In reality, Cathy
+primarily competes in Region 4 events:
+
+- Sep 7, 2026 – Fortune ROC/RJCC/RYC (Ontario, CA): fenced Y14WF, placed
+ 21st,
+
+---
