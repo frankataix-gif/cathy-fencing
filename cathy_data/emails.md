@@ -15625,3 +15625,105 @@ I look forward to your response. Thank you.
 > Your p
 
 ---
+
+## [其他] Confirm your e-mail now
+
+**发件人:** Fencing Tracker <noreply@fencingtracker.com>
+**日期:** 2026-09-16T08:43:47.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a0a962fac926bc5
+
+Hi cathy,
+
+To verify your e-mail address, please click on the following link:
+http://fencingtracker.com/user/confirm/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5hdGFsaWV3dTEwMEBnbWFpbC5jb20iLCJleHAiOjE3ODk2MzQ2MjUuNTc4MjI0N30.5ykVU5Bjax_jjvOVy1CyTsCmHmCOX-P07quk5JHZ3OE?next=/
+
+You will not be able to log in until you verify your e-mail address.
+
+Thanks,
+The Fencing Tracker Team
+
+
+---
+
+## [其他] Catch the final wave of summer savings.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-16T11:02:18.000Z
+**摘要:** BestBuy.ca 发送的夏季促销邮件，提醒用户抓住最后的优惠机会。
+**待办:** 无
+**GmailID:** 1a0a9e1cd0277eac
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [学校] RE: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-09-15T13:21:27.000Z
+**摘要:** 邮件提醒Meadowridge校车费用需在2026年9月15日支付，并提及通过网站支付链接操作。Natalie回复称下周到加拿大，询问支付链接位置。
+**待办:** 无
+**GmailID:** 1a0a18b24db58891
+
+Hi Natalie, 
+
+ 
+
+You can make payment through our website using the orange “pay now” button in the top corner of the screen. A link to our website can be found below. Thank you! 
+
+ 
+
+https://lynchbuslines.com/
+
+ 
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, p
+
+---
+
+## [学校] RE: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T10:59:16.000Z
+**摘要:** Natalie尝试支付校车费用但被拒绝，询问是否接受加拿大信用卡或借记卡。Janice提供了支付链接。
+**待办:** 无
+**GmailID:** 1a0a18b24db58891
+
+Hello,
+
+Regarding the payment issue, I tried to pay today using an international credit card, but the system indicated that the payment was declined. Does your company only accept credit cards issued in Canada?
+
+I also have a debit card issued in Canada. Could I use this card to make the payment?
+
+I look forward to your response. Thank you.
+在 Sep 15, 2026, 15:20 +0200，Janice Cooper <janice@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> You can make payment through our website using the orang
+
+---
