@@ -51,11 +51,18 @@
           "note": "作业 / 成绩 / 课程（网址不对的话改一下）"
         },
         {
-          "name": "MyKidsSpending",
+          "name": "MyKidsSpending  Yunxi He ID: 348801",
           "url": "https://www.mykidsspending.com/Logon",
           "user": "nataliewu100@gmail.com",
           "pass": "Mm98796395",
-          "note": "Meadowridge 食堂饭卡：充值 / 查余额"
+          "note": "Meadowridge 食堂饭卡：绑定了BMO的卡，做了自动充值，到了25加币自动充值100；目前卡上已经有100加币！",
+          "image": "",
+          "pdf": {
+            "name": "饭卡.pdf",
+            "path": "cathy_data/files/file_1789545275268.pdf",
+            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789545275268.pdf"
+          },
+          "voice": null
         }
       ]
     }
