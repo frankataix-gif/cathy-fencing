@@ -714,6 +714,12 @@
         <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">语音留言</label>
         <div id="te-voice-area"></div>
       </div>
+      <div class="form-row" style="margin-bottom:20px;">
+        <label style="display:flex; align-items:center; gap:8px; font-size:0.9rem; color:#374151; cursor:pointer;">
+          <input type="checkbox" id="te-important" style="width:18px; height:18px;">
+          <span>⭐ 重要事项（置顶显示）</span>
+        </label>
+      </div>
       <div style="display:flex; gap:10px; justify-content:space-between; align-items:center; margin-top:24px;">
         <button class="btn danger" id="task-editor-delete" style="display:none; padding:8px 16px;">删除</button>
         <div style="display:flex; gap:10px;">
@@ -5269,10 +5275,11 @@ function circuitLabel(c) {
     futureLimit.setDate(futureLimit.getDate() + 7);
     const futureStr = futureLimit.toISOString().slice(0,10);
     const groups = [
-      { key: 'overdue', label: '已过期', filter: t => !t.completed && t.dueDate && t.dueDate < today },
-      { key: 'today', label: '今天', filter: t => !t.completed && t.dueDate === today },
-      { key: 'upcoming', label: '未来 7 天', filter: t => !t.completed && t.dueDate && t.dueDate > today && t.dueDate <= futureStr },
-      { key: 'later', label: '更晚 / 无日期', filter: t => !t.completed && (!t.dueDate || t.dueDate > futureStr) }
+      { key: 'important', label: '⭐ 重要', filter: t => !t.completed && t.important },
+      { key: 'overdue', label: '已过期', filter: t => !t.completed && !t.important && t.dueDate && t.dueDate < today },
+      { key: 'today', label: '今天', filter: t => !t.completed && !t.important && t.dueDate === today },
+      { key: 'upcoming', label: '未来 7 天', filter: t => !t.completed && !t.important && t.dueDate && t.dueDate > today && t.dueDate <= futureStr },
+      { key: 'later', label: '更晚 / 无日期', filter: t => !t.completed && !t.important && (!t.dueDate || t.dueDate > futureStr) }
     ];
     let html = '';
     groups.forEach(g => {
@@ -5298,6 +5305,12 @@ function circuitLabel(c) {
     });
     container.querySelectorAll('button[data-task-delete]').forEach(btn => {
       btn.addEventListener('click', () => deleteTask(btn.dataset.taskDelete));
+    });
+    container.querySelectorAll('button[data-task-star]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const t = tasks.find(x => x.id === btn.dataset.taskStar);
+        if (t) { t.important = !t.important; t.updatedAt = new Date().toISOString(); saveTasks(); }
+      });
     });
     container.querySelectorAll('img.task-thumb').forEach(img => {
       img.addEventListener('click', () => {
@@ -5332,7 +5345,8 @@ function circuitLabel(c) {
           ${t.voice ? `<audio controls src="${t.voice.url}" style="height:32px; margin-top:6px; width:230px; max-width:100%; display:block;" preload="none"></audio>` : ''}
         </div>
       </div>
-      <div style="display:flex; gap:6px; justify-content:flex-end; margin-top:8px;">
+      <div style="display:flex; gap:6px; justify-content:flex-end; margin-top:8px; align-items:center;">
+        <button data-task-star="${t.id}" title="重要" style="background:none; border:none; cursor:pointer; font-size:1.1rem; padding:2px; color:${t.important ? '#f59e0b' : '#d1d5db'};">${t.important ? '★' : '☆'}</button>
         <button class="btn secondary" data-task-edit="${t.id}" style="padding:2px 8px; font-size:0.75rem;">编辑</button>
         <button class="btn danger" data-task-delete="${t.id}" style="padding:2px 8px; font-size:0.75rem;">删除</button>
       </div>
@@ -5360,6 +5374,8 @@ function circuitLabel(c) {
     document.getElementById('te-title').value = isEdit ? (task.title || '') : '';
     document.getElementById('te-due').value = isEdit ? (task.dueDate || '') : '';
     document.getElementById('te-category').value = isEdit ? (task.category || '待办') : '待办';
+    const impEl = document.getElementById('te-important');
+    if (impEl) impEl.checked = isEdit ? !!task.important : false;
     const notesEl = document.getElementById('te-notes');
     notesEl.value = isEdit ? (task.notes || '') : '';
     const srcEl = document.getElementById('te-source');
@@ -5522,7 +5538,7 @@ function circuitLabel(c) {
     const category = document.getElementById('te-category').value;
     const notes = document.getElementById('te-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
-    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, voice: _teVoice || null, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
+    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, voice: _teVoice || null, important: !!(document.getElementById('te-important') || {}).checked, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
     if (id) {
       const existing = tasks.find(x => x.id === id);
       if (existing) {
