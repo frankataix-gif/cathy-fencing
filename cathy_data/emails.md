@@ -16369,3 +16369,21 @@ I have already completed the Emergency Contacts and the Residency Form. However,
 • Physician Phone Number
 
 ---
+
+## [击剑] Automatic reply: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** US Fencing Information <Information@usafencing.org>
+**日期:** 2026-09-16T23:17:36.000Z
+**摘要:** 关于Cathy YUNXI He的击剑区域隶属关系变更请求的自动回复
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ac82f4f1b0a60
+
+Hello, thank you for contacting USA Fencing. Our normal business hours are 8AM to 5PM MST. You are receiving this automatic reply because your e-mail has been received and one of our staff will be updating you within 2 business days.
+Please know that your email is important to us, and we'll respond as soon as we can!
+In the meantime, many of the answers to your questions can be found in our Help Center<https://usafencing.zendesk.com/hc/en-us>! Thank you!
+— Your USA Fencing team
+
+
+
+---
