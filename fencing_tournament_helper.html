@@ -5323,7 +5323,7 @@ function circuitLabel(c) {
           ${due}
           ${source}
           ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
-          ${t.image ? `<img src="${t.image}" class="task-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block;">` : ''}
+          ${t.image ? `<img src="${t.image}" class="task-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">` : ''}
           ${t.pdf ? `<a href="${escapeHtml(t.pdf.url)}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.8rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(t.pdf.name || 'PDF 附件')}</a>` : ''}
         </div>
       </div>
@@ -5384,7 +5384,7 @@ function circuitLabel(c) {
     if (!area) return;
     let html = '';
     if (_teImage) {
-      html += `<img src="${_teImage}" style="max-width:100%; max-height:220px; border-radius:10px; display:block; margin-bottom:8px;">
+      html += `<img src="${_teImage}" style="max-width:100%; max-height:220px; border-radius:10px; display:block; margin-bottom:8px; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">
          <div style="display:flex; gap:10px; margin-bottom:8px;">
            <button type="button" class="btn secondary" id="te-image-change" style="padding:4px 12px; font-size:0.8rem;">更换图片</button>
            <button type="button" class="btn danger" id="te-image-remove" style="padding:4px 12px; font-size:0.8rem;">删除图片</button>
