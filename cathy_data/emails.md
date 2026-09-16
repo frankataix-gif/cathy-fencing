@@ -16149,3 +16149,26 @@ Thank you so much for your assistance with this matter, and please accept my apo
 > 46
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:51:51.000Z
+**摘要:** 询问孩子使用校车的后续步骤，包括申请校车卡的地点和是否需要其他手续
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Hi Janice,
+
+I have successfully completed the payment.
+
+Could you please let me know what the next steps are for my child to start using the school bus? Specifically, where should we go to apply for or pick up the bus pass, and is there anything else we need to do?
+
+Thank you for your help.
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company 
+
+---
