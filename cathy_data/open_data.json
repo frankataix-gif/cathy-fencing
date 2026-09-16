@@ -55,7 +55,14 @@
           "url": "https://www.mykidsspending.com/Logon",
           "user": "nataliewu100@gmail.com",
           "pass": "Mm98796395",
-          "note": "Meadowridge 食堂饭卡：充值 / 查余额"
+          "note": "Meadowridge 食堂饭卡：充值 / 查余额",
+          "image": "",
+          "pdf": {
+            "name": "饭卡.pdf",
+            "path": "cathy_data/files/file_1789545275268.pdf",
+            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789545275268.pdf"
+          },
+          "voice": null
         }
       ]
     }
