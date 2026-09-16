@@ -12494,7 +12494,7 @@ p {
 
 ---
 
-## [其他] Re: Air Conditioning Control Panel Not Working
+## [生活旅行] Re: Air Conditioning Control Panel Not Working
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-08-18T21:23:11+00:00
