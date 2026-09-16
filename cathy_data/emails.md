@@ -15985,3 +15985,29 @@ https://www.vfsglobal.ca/canada/USA. Please note this is an auto generated
 e-mail. Please do not reply 
 
 ---
+
+## [待办] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T17:00:36.000Z
+**摘要:** VFS Global通知签证申请的决定信封已被收取
+**待办:** 无
+**GmailID:** 1a0aae7c4cec8150
+
+ VFS Global notification 
+
+VFS Global      
+
+The decision envelope for your application, tracking ID No. 
+20260915USLAPKT71842 has been collected from the Canada Visa Application 
+Centre,Canada Visa Application Centre, Los Angeles on Wed Sep 16 2026. 
+Please note this is an auto generated e-mail. Please do not reply to this 
+email.
+
+Regards, 
+
+VFS Global 
+
+
+
+---
