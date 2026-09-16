@@ -2132,18 +2132,35 @@ function circuitLabel(c) {
     }
   }
 
+  // 读仓库文件：优先 Worker API（实时无 CDN 缓存），失败回退 raw
+  async function fetchRepoFile(path) {
+    const wurl = (document.getElementById('sync-worker-url')?.value.trim()) || CATHY_SYNC_WORKER_URL;
+    if (wurl) {
+      try {
+        const res = await fetch(wurl, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ action: 'read', path }) });
+        const r = await res.json().catch(() => null);
+        if (res.ok && r && typeof r.content === 'string') return r.content;
+      } catch(e) {}
+    }
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/' + path + '?_=' + Date.now(), { cache: 'no-cache' });
+      if (res.ok) return await res.text();
+    } catch(e) {}
+    return null;
+  }
+
   async function loadUserDataFromGitHub() {
     try {
       _isLoadingGitHubData = true;
-      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/user_data.json?_=' + Date.now(), { cache: 'no-cache' });
+      const text = await fetchRepoFile('cathy_data/user_data.json');
       _isLoadingGitHubData = false;
-      if (!res.ok) {
+      if (text === null) {
         _autoSyncEnabled = true;
         if (typeof renderTasks === 'function') renderTasks();
         if (typeof renderUpcoming === 'function') renderUpcoming();
         return;
       }
-      const data = await res.json();
+      const data = JSON.parse(text);
       _isLoadingGitHubData = true;
       if (data.registrations && typeof data.registrations === 'object') {
         Object.entries(data.registrations).forEach(([id, status]) => {
@@ -2306,8 +2323,8 @@ function circuitLabel(c) {
 
   async function loadVault() {
     try {
-      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/vault.json?_=' + Date.now(), { cache: 'no-cache' });
-      if (res.ok) { _vaultExists = true; _vaultPayload = await res.json(); return _vaultPayload; }
+      const text = await fetchRepoFile('cathy_data/vault.json');
+      if (text) { _vaultExists = true; _vaultPayload = JSON.parse(text); return _vaultPayload; }
     } catch(e) {}
     _vaultExists = false;
     _vaultPayload = null;
@@ -2316,8 +2333,8 @@ function circuitLabel(c) {
 
   async function loadOpenData() {
     try {
-      const res = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/open_data.json?_=' + Date.now(), { cache: 'no-cache' });
-      if (res.ok) { _openData = await res.json(); return; }
+      const text = await fetchRepoFile('cathy_data/open_data.json');
+      if (text) { _openData = JSON.parse(text); return; }
     } catch(e) {}
     _openData = { groups: [{ name: '击剑', items: [] }, { name: '学校', items: [] }] };
   }
@@ -2689,9 +2706,9 @@ function circuitLabel(c) {
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
-      const rr = await fetch('https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/cathy_data/user_data.json?_=' + Date.now(), { cache: 'no-cache' });
-      if (rr.ok) {
-        const remote = await rr.json();
+      const rtext = await fetchRepoFile('cathy_data/user_data.json');
+      if (rtext) {
+        const remote = JSON.parse(rtext);
         if (remote && remote.taskTombstones) {
           Object.entries(remote.taskTombstones).forEach(([id, ts]) => { if (!taskTombstones[id] || taskTombstones[id] < ts) taskTombstones[id] = ts; });
           saveToLocal('cathy_task_tombstones', JSON.stringify(taskTombstones));

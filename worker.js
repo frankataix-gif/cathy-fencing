@@ -39,6 +39,12 @@ export default {
       }
     }
 
+    if (body.action === 'read') {
+      // 直接读 GitHub API，不走 raw CDN —— 避免 CDN 延迟导致多设备同步拿到旧数据
+      const file = await readGitHubFile(env, body.path);
+      return json({ content: file ? file.content : null });
+    }
+
     if (body.action === 'save') {
       const { path, content, message } = body;
       const isB64 = body.encoding === 'base64';
