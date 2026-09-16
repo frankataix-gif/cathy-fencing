@@ -5519,7 +5519,7 @@ I am Natalie (Cathy’s mom). Cathy tried to log-in to school account today but 
 
 ---
 
-## [其他] Re: Package Delivery Assistance – TH103
+## [生活旅行] Re: Package Delivery Assistance – TH103
 
 **发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
 **日期:** 2026-09-09T18:26:11+00:00
