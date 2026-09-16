@@ -16172,3 +16172,36 @@ Thank you for your help.
 > We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company 
 
 ---
+
+## [Cathy&David] Transaction Receipt - Reference: MR-27-001
+
+**发件人:** LYNCH BUS LINES LTD <noreply@elavon.com>
+**日期:** 2026-09-16T18:45:15.000Z
+**摘要:** 支付成功，金额为4163.25加元，交易详情如卡号和交易ID已列出。
+**待办:** 无
+**GmailID:** 1a0ab89a3034e214
+
+ 
+
+$4,163.25 CAD
+
+09/16/2026 11:45:15 AM
+
+LYNCH BUS LINES LTD
+Your payment has been approved 
+Transaction Type SALE 
+Payment VISA   43**********2813 
+Transaction ID 160926O4F-13344EC0-C63F-4B14-BE0B-A8715CE5FC54 
+Approval Code 453651 
+Approval Message APPROVAL 
+
+Thank you for your business!
+Total $4,163.25 CAD 
+Other Information Required 
+Invoice or Confirmation Number MR-27-001 
+LYNCH BUS LINES LTD 
+4687 BYRNE ROAD BURNABY BC V5J 3H6 | www.lynchbuslines.com | 604-439-0842 
+
+The information cont
+
+---
