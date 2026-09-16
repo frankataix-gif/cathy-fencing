@@ -15669,3 +15669,39 @@ The Fencing Tracker Team
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [学校] RE: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** Janice Cooper <janice@lynchbuslines.com>
+**日期:** 2026-09-15T13:21:27.000Z
+**摘要:** 邮件提醒Meadowridge校车费用需在2026年9月15日支付，并提及通过网站支付链接操作。Natalie回复称下周到加拿大，询问支付链接位置。
+**待办:** 无
+**GmailID:** 1a0a18b24db58891
+
+Hi Natalie, 
+
+ 
+
+You can make payment through our website using the orange “pay now” button in the top corner of the screen. A link to our website can be found below. Thank you! 
+
+ 
+
+https://lynchbuslines.com/
+
+ 
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, p
+
+---
