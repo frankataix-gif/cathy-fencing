@@ -15870,3 +15870,20 @@ Ok,
 We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe B
 
 ---
+
+## [待办] Unit 103 – BC Hydro Account
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-09-16T14:41:18.000Z
+**摘要:** 需要联系BC Hydro设置Unit 103的水电账户，以免断电。
+**待办:** 联系BC Hydro设置账户并发送确认信息
+**GmailID:** 1a0aaaa97c65cdc0
+
+Hi Natalie,
+I hope you’re doing well.
+BC Hydro has notified us that the hydro account for Unit 103 has not been set up in your name as of now. According to our records, your move-in date was July 19th.
+Could you please contact BC Hydro as soon as possible to set up the account effective from your move-in date and send us confirmation once this has been completed?
+Please note that it is important to take care of this immediately, as otherwise BC Hydro may disconnect the power to your home.
+T
+
+---
