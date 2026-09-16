@@ -41,8 +41,9 @@ export default {
 
     if (body.action === 'save') {
       const { path, content, message } = body;
+      const isB64 = body.encoding === 'base64';
       const existing = await readGitHubFile(env, path);
-      const result = await writeGitHubFile(env, path, content, message || 'Update via worker', existing?.sha);
+      const result = await writeGitHubFile(env, path, content, message || 'Update via worker', existing?.sha, isB64);
       return json(result);
     }
 
@@ -242,14 +243,14 @@ async function readGitHubFile(env, path) {
   return { sha: data.sha, content: decodeURIComponent(escape(atob(data.content))) };
 }
 
-async function writeGitHubFile(env, path, content, message, sha) {
+async function writeGitHubFile(env, path, content, message, sha, isB64) {
   const token = env.GITHUB_TOKEN;
   const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
   const branch = env.GITHUB_BRANCH || 'main';
   const api = `https://api.github.com/repos/${repo}/contents/${path}`;
   const payload = {
     message,
-    content: btoa(unescape(encodeURIComponent(content))),
+    content: isB64 ? content.replace(/\s+/g, '') : btoa(unescape(encodeURIComponent(content))),
     branch
   };
   if (sha) payload.sha = sha;
