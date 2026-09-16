@@ -5429,8 +5429,8 @@ function circuitLabel(c) {
           ${source}
           ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
           ${t.image ? `<img src="${t.image}" class="task-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">` : ''}
-          ${t.pdf ? `<a href="${escapeHtml(t.pdf.url)}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.8rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(t.pdf.name || 'PDF 附件')}</a>` : ''}
-          ${t.voice ? `<audio controls src="${t.voice.url}" style="height:32px; margin-top:6px; width:230px; max-width:100%; display:block;" preload="none"></audio>` : ''}
+          ${t.pdf ? `<a href="${escapeHtml(taskFileUrl(t.pdf))}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.8rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(t.pdf.name || 'PDF 附件')}</a>` : ''}
+          ${t.voice ? `<audio controls src="${taskFileUrl(t.voice)}" style="height:32px; margin-top:6px; width:230px; max-width:100%; display:block;" preload="none"></audio>` : ''}
         </div>
       </div>
       <div style="display:flex; gap:6px; justify-content:flex-end; margin-top:8px; align-items:center;">
@@ -5506,7 +5506,7 @@ function circuitLabel(c) {
     }
     if (_teVoice) {
       area.innerHTML = `<div style="display:flex; align-items:center; gap:8px;">
-        <audio controls src="${_teVoice.url}" style="height:34px; flex:1; min-width:0;"></audio>
+        <audio controls src="${taskFileUrl(_teVoice)}" style="height:34px; flex:1; min-width:0;"></audio>
         <button type="button" class="btn danger" id="te-voice-remove" style="padding:4px 10px; font-size:0.75rem; flex-shrink:0;">删除</button>
       </div>`;
       return;
@@ -5558,7 +5558,7 @@ function circuitLabel(c) {
     }
     if (_tePdf) {
       html += `<div style="display:flex; align-items:center; gap:8px; padding:8px 10px; background:#f8fafc; border-radius:8px; margin-bottom:8px;">
-        <span>📄</span><a href="${escapeHtml(_tePdf.url)}" target="_blank" style="flex:1; min-width:0; font-size:0.85rem; color:var(--primary); word-break:break-all;">${escapeHtml(_tePdf.name)}</a>
+        <span>📄</span><a href="${escapeHtml(taskFileUrl(_tePdf))}" target="_blank" style="flex:1; min-width:0; font-size:0.85rem; color:var(--primary); word-break:break-all;">${escapeHtml(_tePdf.name)}</a>
         <button type="button" class="btn danger" id="te-pdf-remove" style="padding:2px 10px; font-size:0.75rem;">删除</button>
       </div>`;
     }
@@ -5566,6 +5566,17 @@ function circuitLabel(c) {
     area.innerHTML = html;
   }
   let _teUploading = false;
+  // 附件链接统一走 Worker 代理（raw.githubusercontent.com 在部分网络无法访问）
+  function taskFileUrl(rec) {
+    if (!rec) return '';
+    let path = rec.path || '';
+    if (!path && rec.url) {
+      const m = rec.url.match(/\/main\/(cathy_data\/files\/.+)$/);
+      if (m) path = m[1];
+    }
+    if (!path) return rec.url || '';
+    return CATHY_SYNC_WORKER_URL.replace(/\/$/, '') + '/file?path=' + encodeURIComponent(path);
+  }
   async function uploadTaskFile(file, slot) {
     const status = document.getElementById(slot === 'voice' ? 'te-voice-status' : 'te-upload-status');
     if (file.size > 8 * 1024 * 1024) { alert('文件太大（超过 8MB），请压缩后再传'); return; }
@@ -5586,7 +5597,7 @@ function circuitLabel(c) {
       });
       const result = await res.json().catch(() => ({}));
       if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
-      const rec = { name: file.name, url: 'https://raw.githubusercontent.com/frankataix-gif/cathy-fencing/main/' + path };
+      const rec = { name: file.name, path, url: taskFileUrl({ path }) };
       if (slot === 'voice') { _teVoice = rec; renderTeVoice(); }
       else { _tePdf = rec; renderTeImage(); }
     } catch(e) {

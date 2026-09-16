@@ -10,6 +10,22 @@ export default {
   async fetch(request, env) {
     try {
       if (request.method === 'OPTIONS') return new Response(null, { headers: CORS_HEADERS });
+
+      // GET /file?path=cathy_data/files/xxx — 代理 GitHub 仓库文件（raw.githubusercontent.com 在部分网络打不开）
+      const reqUrl = new URL(request.url);
+      if (request.method === 'GET' && reqUrl.pathname === '/file') {
+        const path = reqUrl.searchParams.get('path') || '';
+        if (!path.startsWith('cathy_data/files/')) return new Response('forbidden', { status: 403 });
+        const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
+        const gh = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
+          headers: { 'Authorization': `Bearer ${env.GITHUB_TOKEN}`, 'User-Agent': 'cathy-worker', 'Accept': 'application/vnd.github.raw' }
+        });
+        if (!gh.ok) return new Response('not found', { status: gh.status });
+        const ext = (path.match(/\.[a-z0-9]+$/i) || [''])[0].toLowerCase();
+        const types = { '.pdf': 'application/pdf', '.m4a': 'audio/mp4', '.webm': 'audio/webm', '.mp3': 'audio/mpeg', '.ogg': 'audio/ogg', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.heic': 'image/heic', '.doc': 'application/msword', '.docx': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' };
+        return new Response(gh.body, { headers: { 'Content-Type': types[ext] || 'application/octet-stream', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'public, max-age=3600' } });
+      }
+
       if (request.method !== 'POST') return new Response('OK', { headers: CORS_HEADERS });
 
       let body;
