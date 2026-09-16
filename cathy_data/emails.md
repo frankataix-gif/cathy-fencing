@@ -15778,3 +15778,28 @@ Questions about purchased items may be directed to the Cafeteria Manager by emai
 For questions about MyKidsSpending, please se
 
 ---
+
+## [营销] Don't miss your chance to tell us about your gear!
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-09-16T12:21:47.000Z
+**摘要:** Lululemon 邀请用户评价购买的运动裤产品，鼓励提供带照片的使用反馈以帮助改进产品设计。
+**待办:** 无
+**GmailID:** 1a0aa2a8016d4e43
+
+ Don't miss your chance to tell us about your gear! 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Just a quick reminder to review your lululemon Align No Line™ High-Rise 
+Short 6". 
+ 
+Reviews that include photos help others pick the right size and fit. Don’t 
+hesitate to show us and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: lululemon Align No Line™ High-Rise Short 6"] 
+lululemon 
+
+---
