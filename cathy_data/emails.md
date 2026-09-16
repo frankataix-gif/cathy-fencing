@@ -16246,3 +16246,30 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T19:05:24.000Z
+**摘要:** Natalie确认支付成功，并让对方将标签寄到新地址，同时更新学校门户信息
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Dear Janice,
+Thank you very much for your assistance. Please send the tag to the following new address. I will also update my information on the school portal.
+
+
+Natalie Jingqi Wu
+Unit TH103, 708 Farrow Street, Coquitlam, BC, V3J 1P7
+Tel: 1-778-255-5899
+
+Best regards
+
+在 Sep 16, 2026, 20:57 +0200，AR <ar@lynchbuslines.com>，写道：
+> Wonderful! I’m glad to hear it all worked out. I will have a tag assigned and mailed to your home address. Have a great day!
+>
+> Janice Cooper
+> Lynch Bus Li
+
+---
