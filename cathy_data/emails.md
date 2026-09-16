@@ -15705,3 +15705,25 @@ Fax: 604-439-1941
 This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, p
 
 ---
+
+## [学校] RE: Meadowridge Bus Payment Due September 15, 2026.
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T10:59:16.000Z
+**摘要:** Natalie尝试支付校车费用但被拒绝，询问是否接受加拿大信用卡或借记卡。Janice提供了支付链接。
+**待办:** 无
+**GmailID:** 1a0a18b24db58891
+
+Hello,
+
+Regarding the payment issue, I tried to pay today using an international credit card, but the system indicated that the payment was declined. Does your company only accept credit cards issued in Canada?
+
+I also have a debit card issued in Canada. Could I use this card to make the payment?
+
+I look forward to your response. Thank you.
+在 Sep 15, 2026, 15:20 +0200，Janice Cooper <janice@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> You can make payment through our website using the orang
+
+---
