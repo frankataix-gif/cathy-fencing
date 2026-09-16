@@ -104,7 +104,7 @@ export default {
         const idx = list.findIndex(x => keyFn(x) === k || similar(keyFn(x), k));
         if (idx >= 0) list[idx] = item; else list.push(item);
       };
-      const categoryMap = { '击剑': 0, 'Cathy&David': 0, '营销': 0, '待办': 0, '其他': 0 };
+      const categoryMap = { '击剑': 0, 'Cathy&David': 0, '生活旅行': 0, '营销': 0, '待办': 0, '其他': 0 };
       emails.forEach(e => { categoryMap[e.category || '其他'] = (categoryMap[e.category || '其他'] || 0) + 1; });
       if (!parsed) {
         // AI 未返回有效 JSON：按主题归并兜底，同一话题只列一条
@@ -194,7 +194,7 @@ export default {
     if (body.action === 'email_reclassify') {
       const email = body.email || {};
       const newCat = body.category || '其他';
-      const allowed = ['击剑', 'Cathy&David', '营销', '待办', '其他'];
+      const allowed = ['击剑', 'Cathy&David', '生活旅行', '营销', '待办', '其他'];
       if (!allowed.includes(newCat)) return json({ error: 'bad category' }, 400);
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const targetKey = `${email.subject || ''}|${email.from || ''}|${normDate(email.date || '')}`;
@@ -377,16 +377,17 @@ async function classifyEmail(env, email) {
   const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
 {"分类":"...","摘要":"...","待办":"...","涉及":"..."}
 
-分类只能从这五个中选一个：击剑 / Cathy&David / 营销 / 待办 / 其他
+分类只能从这六个中选一个：击剑 / Cathy&David / 生活旅行 / 营销 / 待办 / 其他
 分类说明：
 - 击剑：与击剑运动相关的邮件（USA Fencing、AskFRED、击剑俱乐部、击剑装备、击剑私教等）
 - Cathy&David：与家里两个孩子相关的其他一切邮件。Cathy He (He Yunxi) 是女儿，David He (He Lingwei) 是儿子。学校、校车、饭卡、课程、活动、医疗、申请、其他课外班等都归这里
+- 生活旅行：家庭生活和旅行相关——机票、酒店、签证、旅行计划、出行确认、家庭日常事务（与孩子直接相关的归 Cathy&David）
 - 营销：促销、广告、优惠券
-- 待办：需要家长采取行动但与孩子无关的邮件（账单、账户验证、法律文件等）
+- 待办：需要家长采取行动但与孩子和旅行无关的邮件（账单、账户验证、法律文件等）
 - 其他：以上都不符合
 摘要用 1-2 句中文总结邮件核心
 待办：这封邮件需要做什么？不需要行动写"无"
-涉及：这封邮件涉及哪个孩子？只能选 Cathy / David / 两个 / 不明。与孩子无关的分类（营销/待办/其他）写"无"
+涉及：这封邮件涉及哪个孩子？只能选 Cathy / David / 两个 / 不明。与孩子无关的分类（生活旅行/营销/待办/其他）写"无"
 
 发件人：${email.from}
 主题：${email.subject}

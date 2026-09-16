@@ -2,7 +2,8 @@
   "version": "2026-09-16",
   "rules": {
     "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing", "sclass.ca", "fencingtracker.com", "thefencingpost.com"],
-    "Cathy&David": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"]
+    "Cathy&David": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"],
+    "生活旅行": ["trip.com", "usvisa-info.com", "vfsglobal.com", "vfshelpline.com", "booking.com", "airbnb", "expedia", "aircanada", "cathaypacific"]
   },
   "exclude": {
     "Cathy&David": []
