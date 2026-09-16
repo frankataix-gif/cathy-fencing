@@ -751,7 +751,11 @@
   <!-- 我的 -->
   <div id="tab-profile" class="tab-content">
     <div class="card" id="my-main-view">
-      <h2 style="margin-bottom:12px;">常用资料与数据</h2>
+      <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:12px;">
+        <h2 style="margin:0;">常用资料与数据</h2>
+        <button class="btn secondary" id="my-open-settings" style="padding:4px 14px; font-size:0.8rem;">⚙️ 设置</button>
+      </div>
+      <input type="text" id="v-inline-search" placeholder="🔍 搜索 击剑 / 学校 / 生活 / 妈妈…" style="width:100%; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px; box-sizing:border-box; margin-bottom:10px;">
       <div id="vault-inline">加载中…</div>
       <div class="my-list" style="margin-top:14px;">
         <div class="my-row" id="my-open-vault-mom">
@@ -760,7 +764,11 @@
           <span class="my-chevron">›</span>
         </div>
       </div>
-      <div style="font-size:0.75rem; color:#9ca3af; margin:16px 0 6px; font-weight:600;">基础设置</div>
+    </div>
+
+    <div class="card" id="my-settings-view" style="display:none;">
+      <button class="btn secondary" id="my-back-settings" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
+      <h3 style="margin-bottom:12px;">设置</h3>
       <div class="my-list">
         <div class="my-row" id="my-open-email-rules">
           <span class="my-icon">📧</span>
@@ -774,7 +782,7 @@
         </a>
         <div class="my-row" id="my-open-vault-all">
           <span class="my-icon">🔍</span>
-          <span class="my-text"><b>全部数据 / 搜索</b><small>跨分组管理、搜索、添加记录</small></span>
+          <span class="my-text"><b>全部数据管理</b><small>跨分组管理所有记录</small></span>
           <span class="my-chevron">›</span>
         </div>
       </div>
@@ -807,7 +815,7 @@
     <div class="card" id="my-vault-view" style="display:none;">
       <button class="btn secondary" id="my-back-vault" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
       <h3 style="margin-bottom:6px;">常用数据</h3>
-      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">击剑、学校组公开存放、直接可看；🔒 加密组（如妈妈）AES 加密存 GitHub，需主密码解开。</p>
+      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">击剑、学校、生活组公开存放、直接可看；🔒 加密组（如妈妈）AES 加密存 GitHub，需主密码解开。</p>
       <div id="vault-body" style="font-size:0.9rem;">加载中…</div>
     </div>
   </div>
@@ -2332,9 +2340,16 @@ function circuitLabel(c) {
   async function loadOpenData() {
     try {
       const text = await fetchRepoFile('cathy_data/open_data.json');
-      if (text) { _openData = JSON.parse(text); return; }
+      if (text) {
+        _openData = JSON.parse(text);
+        // 自动补齐公开组（击剑/学校/生活）
+        ['击剑', '学校', '生活'].forEach(n => {
+          if (!_openData.groups.some(g => g.name === n)) _openData.groups.push({ name: n, items: [] });
+        });
+        return;
+      }
     } catch(e) {}
-    _openData = { groups: [{ name: '击剑', items: [] }, { name: '学校', items: [] }] };
+    _openData = { groups: [{ name: '击剑', items: [] }, { name: '学校', items: [] }, { name: '生活', items: [] }] };
   }
 
   async function _saveFile(path, content, statusEl) {
@@ -2385,7 +2400,7 @@ function circuitLabel(c) {
     _vaultData.groups.forEach(g => { if (g.name === '生活' && !hasMom) g.name = '妈妈'; });
     let moved = false;
     _vaultData.groups = _vaultData.groups.filter(g => {
-      if (g.name === '击剑' || g.name === '学校') {
+      if (g.name === '击剑' || g.name === '学校' || g.name === '生活') {
         let og = _openData.groups.find(x => x.name === g.name);
         if (!og) { og = { name: g.name, items: [] }; _openData.groups.push(og); }
         og.items = og.items.concat(g.items || []);
@@ -2555,11 +2570,29 @@ function circuitLabel(c) {
     return html;
   }
 
-  // 主页面内联：直接平铺公开组（击剑/学校）全部记录
+  let _vInlineQuery = '';
+  // 主页面内联：直接平铺公开组（击剑/学校/生活）全部记录；有搜索词时跨组过滤（含已解锁的妈妈）
   function renderVaultInline() {
     const box = document.getElementById('vault-inline');
     if (!box) return;
     if (!_openData) { box.innerHTML = '加载中…'; return; }
+    if (_vInlineQuery) {
+      const q = _vInlineQuery.toLowerCase();
+      const hits = [];
+      _openData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, gi, ii, src: 'o', gname: g.name });
+      }));
+      if (_vaultPass && _vaultData) _vaultData.groups.forEach((g, gi) => (g.items || []).forEach((it, ii) => {
+        if ((it.name + ' ' + (it.url||'') + ' ' + (it.user||'') + ' ' + (it.note||'') + ' ' + g.name).toLowerCase().includes(q)) hits.push({ it, gi, ii, src: 'v', gname: g.name });
+      }));
+      let html = `<div style="font-size:0.75rem; color:#6b7280; margin-bottom:8px;">搜索「${escapeHtml(_vInlineQuery)}」：${hits.length} 条</div>`;
+      hits.forEach(h => { html += `<div style="font-size:0.72rem; color:#9ca3af; margin-bottom:2px;">${escapeHtml(h.gname)}</div>` + vaultItemHTML(h.it, h.src, h.gi, h.ii); });
+      if (!hits.length) html += '<div style="color:#9ca3af; font-size:0.85rem; padding:10px 0;">没有匹配的记录。</div>';
+      if (!_vaultPass) html += '<div style="color:#9ca3af; font-size:0.72rem; padding:6px 0;">🔒 妈妈组已加密，进入解锁后可一并搜索。</div>';
+      box.innerHTML = html;
+      renderVAttach();
+      return;
+    }
     let html = '';
     (_openData.groups || []).forEach((g, gi) => {
       html += `<div style="display:flex; align-items:center; justify-content:space-between; margin:12px 0 6px;">
@@ -2597,6 +2630,8 @@ function circuitLabel(c) {
     const vaultView = document.getElementById('my-vault-view');
     const openVault = (group) => {
       if (mainView) mainView.style.display = 'none';
+      const sv = document.getElementById('my-settings-view');
+      if (sv) sv.style.display = 'none';
       if (vaultView) vaultView.style.display = 'block';
       window.scrollTo(0, 0);
       vaultOpen(group || null);
@@ -2638,6 +2673,12 @@ function circuitLabel(c) {
       const box = document.getElementById(id);
       if (box) bindVaultBox(box);
     });
+    // 主页搜索框（静态元素，不重绘自身，IME 安全）
+    const isearch = document.getElementById('v-inline-search');
+    if (isearch) {
+      isearch.addEventListener('input', (e) => { if (!e.isComposing) { _vInlineQuery = e.target.value; renderVaultInline(); } });
+      isearch.addEventListener('compositionend', (e) => { _vInlineQuery = e.target.value; renderVaultInline(); });
+    }
     // 初始加载公开数据，主页直接平铺
     loadOpenData().then(() => renderVaultInline());
   }
@@ -4610,17 +4651,27 @@ function circuitLabel(c) {
       const status = document.getElementById('email-rule-status');
       if (status) status.innerHTML = '请在电脑端运行：<br><code>python reclassify_emails.py</code><br>即可按新规则重跑历史邮件。';
     });
-    // 我的：主列表 ↔ 邮件分类设置子页
+    // 我的：主页 ↔ 设置子页 ↔ 邮件分类设置子页
     const mainView = document.getElementById('my-main-view');
+    const settingsView = document.getElementById('my-settings-view');
     const rulesView = document.getElementById('my-email-rules-view');
-    document.getElementById('my-open-email-rules')?.addEventListener('click', () => {
+    document.getElementById('my-open-settings')?.addEventListener('click', () => {
       if (mainView) mainView.style.display = 'none';
+      if (settingsView) settingsView.style.display = 'block';
+      window.scrollTo(0, 0);
+    });
+    document.getElementById('my-back-settings')?.addEventListener('click', () => {
+      if (settingsView) settingsView.style.display = 'none';
+      if (mainView) mainView.style.display = 'block';
+    });
+    document.getElementById('my-open-email-rules')?.addEventListener('click', () => {
+      if (settingsView) settingsView.style.display = 'none';
       if (rulesView) rulesView.style.display = 'block';
       window.scrollTo(0, 0);
     });
     document.getElementById('my-back-email-rules')?.addEventListener('click', () => {
       if (rulesView) rulesView.style.display = 'none';
-      if (mainView) mainView.style.display = 'block';
+      if (settingsView) settingsView.style.display = 'block';
     });
     loadEmailRules();
     initVault();
