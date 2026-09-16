@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-16T21:08:16.192Z",
+  "version": "2026-09-16T21:08:42.212Z",
   "rules": {
     "击剑": [
       "usafencing.org",
@@ -33,7 +33,8 @@
       "expedia",
       "aircanada",
       "cathaypacific",
-      "donotreply@vfsglobal.com"
+      "donotreply@vfsglobal.com",
+      "residentcare@boffo.ca"
     ]
   },
   "exclude": {
