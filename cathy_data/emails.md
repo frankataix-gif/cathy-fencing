@@ -15934,3 +15934,32 @@ VFS Global
 
 
 ---
+
+## [营销] Ready for your next automation? ⏭️
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-16T16:28:23.000Z
+**摘要:** 邮件推广Make.com的自动化工具，建议用户扩展现有工作流并提供相关资源链接。
+**待办:** 无
+**GmailID:** 1a0ab0c4c6c5e77f
+
+Build on what you already started  
+
+Logo ( https://www.make.com?utm_campaign=More+templates+%2B+agents&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+You’ve got a working scenario. Now it’s about deciding where to expand.
+
+A good next step is something small but useful. Look for repeatable patterns:
+
+• Processes you run daily
+• Data moving between systems
+• Steps you still handle manually
+
+From there, you can:
+
+• Build a second workflow from scratch
+• Reuse a template 
+
+---
