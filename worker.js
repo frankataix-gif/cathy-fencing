@@ -334,25 +334,43 @@ function parseSuggestions(text) {
     .slice(0, 20);
 }
 
-function keywordClassify(from, subject, text, rules) {
+function senderAddr(from) {
+  const m = String(from || '').match(/[\w.+-]+@[\w-]+(?:\.[\w.-]+)+/);
+  return m ? m[0].toLowerCase() : '';
+}
+
+// 排除名单：该发件人不再自动归入某分类（完整地址精确匹配，或 "@domain.com" 按域名匹配）
+function isExcluded(from, category, exclude) {
+  if (!exclude || !Array.isArray(exclude[category])) return false;
+  const addr = senderAddr(from);
+  if (!addr) return false;
+  const dom = addr.split('@')[1];
+  return exclude[category].some(x => {
+    const k = String(x).toLowerCase();
+    return k === addr || (k.startsWith('@') && (dom === k.slice(1) || dom.endsWith(k)));
+  });
+}
+
+function keywordClassify(from, subject, text, rules, exclude) {
   const combined = (from + ' ' + subject + ' ' + text).toLowerCase();
   const entries = rules && typeof rules === 'object' ? Object.entries(rules) : [];
   for (const [category, keywords] of entries) {
     if (!Array.isArray(keywords)) continue;
+    if (isExcluded(from, category, exclude)) continue;
     if (keywords.some(k => combined.includes(String(k).toLowerCase()))) return category;
   }
   return null;
 }
 
-async function loadEmailRules(env) {
+async function loadEmailConfig(env) {
   try {
     const existing = await readGitHubFile(env, RULES_PATH);
     if (existing && existing.content) {
       const parsed = JSON.parse(existing.content);
-      return parsed.rules || {};
+      return { rules: parsed.rules || {}, exclude: parsed.exclude || {} };
     }
   } catch(e) {}
-  return {};
+  return { rules: {}, exclude: {} };
 }
 
 async function classifyEmail(env, email) {
@@ -367,8 +385,8 @@ async function classifyEmail(env, email) {
 主题：${email.subject}
 正文：${email.text.slice(0, 3000)}`;
 
-  const rules = await loadEmailRules(env);
-  const keywordCategory = keywordClassify(email.from, email.subject, email.text, rules);
+  const cfg = await loadEmailConfig(env);
+  const keywordCategory = keywordClassify(email.from, email.subject, email.text, cfg.rules, cfg.exclude);
 
   let rawText = '';
   try {
@@ -387,8 +405,10 @@ async function classifyEmail(env, email) {
       if (m) obj = JSON.parse(m[0]);
     }
     if (obj) {
+      let aiCat = obj['分类'] || obj.category || '其他';
+      if (isExcluded(email.from, aiCat, cfg.exclude)) aiCat = '其他';
       return {
-        category: keywordCategory || obj['分类'] || obj.category || '其他',
+        category: keywordCategory || aiCat,
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
         raw: rawText

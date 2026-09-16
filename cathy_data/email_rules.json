@@ -1,8 +1,11 @@
 {
-  "version": "2026-09-15",
+  "version": "2026-09-16",
   "rules": {
-    "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing"],
-    "学校": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology"]
+    "击剑": ["usafencing.org", "usafencing", "fencing.ca", "askfred", "fencingtime", "dynamofencing", "sclass.ca", "fencingtracker.com", "thefencingpost.com"],
+    "学校": ["meadowridge.bc.ca", "meadowridge", "managebac", "schoology", "mykidsspending.com", "lynchbuslines.com", "stopfinder.com", "myschoolapp.com", "blackbaud.com"]
   },
-  "note": "可在此添加分类关键词/发件人邮箱。PWA 我的页里的邮件分类设置会同步读写这个文件；在邮件卡片上手动改分类时选择「记住发件人」也会自动写到这里。"
+  "exclude": {
+    "学校": []
+  },
+  "note": "rules: 关键词/发件人命中即归入对应分类。exclude: 用户手动移出的发件人，以后不再自动归入该分类（支持完整地址或 @域名）。PWA 邮件分类设置页可管理。"
 }

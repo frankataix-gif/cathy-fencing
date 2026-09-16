@@ -2225,6 +2225,7 @@ function circuitLabel(c) {
   }
 
   let emailRules = {};
+  let emailExcludes = {};   // {分类: [发件人地址或 @域名]} —— 用户纠正后不再自动归入该分类
 
   async function loadEmailRules() {
     try {
@@ -2232,6 +2233,7 @@ function circuitLabel(c) {
       if (!res.ok) return;
       const data = await res.json();
       emailRules = data.rules || {};
+      emailExcludes = data.exclude || {};
     } catch(e) {}
     renderEmailRules();
   }
@@ -2239,13 +2241,23 @@ function circuitLabel(c) {
   function renderEmailRules() {
     const container = document.getElementById('email-rules-list');
     if (!container) return;
-    if (!Object.keys(emailRules).length) { container.innerHTML = '<div class="empty-state">暂无分类规则</div>'; return; }
+    if (!Object.keys(emailRules).length && !Object.keys(emailExcludes).length) { container.innerHTML = '<div class="empty-state">暂无分类规则</div>'; return; }
     let html = '';
     for (const [category, keywords] of Object.entries(emailRules)) {
       if (!Array.isArray(keywords)) continue;
       html += `<div style="margin-bottom:10px;"><div style="font-size:0.8rem; font-weight:700; margin-bottom:6px; color:var(--primary);">${escapeHtml(category)}</div><div style="display:flex; gap:6px; flex-wrap:wrap;">`;
       html += keywords.map(k => `<span style="background:#f1f5f9; border:1px solid #e2e8f0; border-radius:12px; padding:2px 10px; font-size:0.8rem; display:flex; align-items:center; gap:4px;">${escapeHtml(String(k))} <button data-cat="${escapeHtml(category)}" data-kw="${escapeHtml(String(k))}" style="background:none; border:none; color:#9ca3af; cursor:pointer; font-size:1rem; line-height:1;">&times;</button></span>`).join('');
       html += '</div></div>';
+    }
+    const exEntries = Object.entries(emailExcludes).filter(([, v]) => Array.isArray(v) && v.length);
+    if (exEntries.length) {
+      html += `<div style="margin-top:14px; padding-top:10px; border-top:1px dashed #e2e8f0;"><div style="font-size:0.8rem; font-weight:700; margin-bottom:8px; color:#ef4444;">排除名单 · 这些发件人不再自动归入对应分类</div>`;
+      for (const [category, addrs] of exEntries) {
+        html += `<div style="margin-bottom:8px;"><span style="font-size:0.75rem; color:#6b7280; margin-right:4px;">${escapeHtml(category)}:</span><span style="display:inline-flex; gap:6px; flex-wrap:wrap;">`;
+        html += addrs.map(a => `<span style="background:#fef2f2; border:1px solid #fecaca; border-radius:12px; padding:2px 10px; font-size:0.8rem; display:inline-flex; align-items:center; gap:4px;">${escapeHtml(String(a))} <button data-excat="${escapeHtml(category)}" data-exkw="${escapeHtml(String(a))}" style="background:none; border:none; color:#9ca3af; cursor:pointer; font-size:1rem; line-height:1;">&times;</button></span>`).join('');
+        html += '</span></div>';
+      }
+      html += '</div>';
     }
     container.innerHTML = html;
     container.querySelectorAll('button[data-cat]').forEach(btn => {
@@ -2259,6 +2271,17 @@ function circuitLabel(c) {
         }
       });
     });
+    container.querySelectorAll('button[data-excat]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.excat;
+        const kw = btn.dataset.exkw;
+        if (emailExcludes[cat]) {
+          emailExcludes[cat] = emailExcludes[cat].filter(x => String(x) !== kw);
+          if (!emailExcludes[cat].length) delete emailExcludes[cat];
+          renderEmailRules();
+        }
+      });
+    });
   }
 
   async function saveEmailRules() {
@@ -2266,7 +2289,7 @@ function circuitLabel(c) {
     if (status) status.textContent = '保存中…';
     try {
       const workerUrl = CATHY_SYNC_WORKER_URL;
-      const payload = { action: 'save', path: 'cathy_data/email_rules.json', content: JSON.stringify({ version: new Date().toISOString(), rules: emailRules }, null, 2), message: 'Update email rules via PWA' };
+      const payload = { action: 'save', path: 'cathy_data/email_rules.json', content: JSON.stringify({ version: new Date().toISOString(), rules: emailRules, exclude: emailExcludes }, null, 2), message: 'Update email rules via PWA' };
       const res = await fetch(workerUrl, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
       const result = await res.json().catch(() => ({}));
       if (!res.ok || result.error) throw new Error(result.error || 'HTTP ' + res.status);
@@ -3121,6 +3144,7 @@ function circuitLabel(c) {
   async function reclassifyEmail(email, category, opts) {
     if (!email || !category) return;
     opts = opts || {};
+    const prevCat = email.category;
     try {
       const res = await fetch(CATHY_SYNC_WORKER_URL, {
         method: 'POST',
@@ -3141,6 +3165,19 @@ function circuitLabel(c) {
       email.color = (typeof taskCategoryColor !== 'undefined' ? taskCategoryColor[category] : null) || '#6b7280';
       renderEmailList();
       updateEmailAISummary(false);
+      // 移出「学校」→ 记录排除：该发件人以后不再自动归为学校
+      if (prevCat === '学校' && category !== '学校') {
+        const sender = extractEmailAddr(email.from);
+        if (sender && confirm(`以后来自 ${sender} 的邮件不再自动归入「学校」？`)) {
+          if (!Array.isArray(emailExcludes['学校'])) emailExcludes['学校'] = [];
+          if (!emailExcludes['学校'].includes(sender)) emailExcludes['学校'].push(sender);
+          if (emailRules['学校']) {
+            emailRules['学校'] = emailRules['学校'].filter(x => String(x).toLowerCase() !== sender);
+            if (!emailRules['学校'].length) delete emailRules['学校'];
+          }
+          await saveEmailRules();
+        }
+      }
       // 记住该发件人：把邮箱加入分类规则，同发件人的其他邮件一并归类
       if (opts.rememberSender !== false) {
         const sender = extractEmailAddr(email.from);
@@ -3148,8 +3185,13 @@ function circuitLabel(c) {
           if (!emailRules[category]) emailRules[category] = [];
           if (!emailRules[category].includes(sender)) {
             emailRules[category].push(sender);
-            await saveEmailRules();
           }
+          // 手动归入 = 解除该分类的排除
+          if (emailExcludes[category]) {
+            emailExcludes[category] = emailExcludes[category].filter(x => String(x).toLowerCase() !== sender);
+            if (!emailExcludes[category].length) delete emailExcludes[category];
+          }
+          await saveEmailRules();
           const sameSender = allEmails.filter(e => e !== email && extractEmailAddr(e.from) === sender && e.category !== category);
           for (const e of sameSender) {
             await reclassifyEmail(e, category, { rememberSender: false });
