@@ -16205,3 +16205,71 @@ LYNCH BUS LINES LTD
 The information cont
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** AR <ar@lynchbuslines.com>
+**日期:** 2026-09-16T18:58:59.000Z
+**摘要:** 邮件涉及信用卡交易被拒绝的问题，用户已更新卡信息并成功支付。
+**待办:** 无
+**GmailID:** 1a0a942f4f81d47f
+
+Wonderful! I’m glad to hear it all worked out. I will have a tag assigned and mailed to your home address. Have a great day! 
+
+ 
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediately and delete it. Reading, disclosing, copying or disseminating any
+
+---
+
+## [营销] A new crew comes into the fold
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-16T18:55:25.000Z
+**摘要:** lululemon 发布新品或品牌活动信息
+**待办:** 无
+**GmailID:** 1a0ab93361695305
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T19:05:24.000Z
+**摘要:** Natalie确认支付成功，并让对方将标签寄到新地址，同时更新学校门户信息
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Dear Janice,
+Thank you very much for your assistance. Please send the tag to the following new address. I will also update my information on the school portal.
+
+
+Natalie Jingqi Wu
+Unit TH103, 708 Farrow Street, Coquitlam, BC, V3J 1P7
+Tel: 1-778-255-5899
+
+Best regards
+
+在 Sep 16, 2026, 20:57 +0200，AR <ar@lynchbuslines.com>，写道：
+> Wonderful! I’m glad to hear it all worked out. I will have a tag assigned and mailed to your home address. Have a great day!
+>
+> Janice Cooper
+> Lynch Bus Li
+
+---
