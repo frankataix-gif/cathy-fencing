@@ -15471,3 +15471,39 @@ We are going to Gibsons Farm on the Sunshine Coast. You need to go to Horseshoe 
 Address<https://www.google.com/search?sca_esv=6ec40a246726ec23&rlz=1C1UEAD_enCA1171CA1180&sxsrf=APpeQnthjSekOF-epNB7blAn86Q73l2aiA:1789511868425&q=gibsons+farm+address&ludocid=8594066702517760211&sa=X&ved=2ahUKEwj5jfSZ0_GWAxVP
 
 ---
+
+## [营销] What's new: bold gear for your run
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-15T23:15:44.000Z
+**摘要:** lululemon 介绍了新款跑步装备，包含最新产品信息。
+**待办:** 无
+**GmailID:** 1a0a75c2fc7f8767
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [其他] Notification from VFS Global
+
+**发件人:** VFS Global <donotreply@vfsglobal.com>
+**日期:** 2026-09-16T00:15:44.000Z
+**摘要:** 邮件通知申请已提交至IRCC办公室处理。
+**待办:** 无
+**GmailID:** 1a0a791e8640e953
+
+ VFS Global notification 
+
+VFS Global      
+
+Your application, tracking ID No. 20260915USLAPKT71842 has been dispatched 
+to the IRCC Office,on Wed Sep 16 2026 for processing. 
+
+Regards, 
+
+VFS Global 
+
+
+
+---
