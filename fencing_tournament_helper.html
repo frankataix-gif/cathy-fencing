@@ -752,23 +752,15 @@
   <div id="tab-profile" class="tab-content">
     <div class="card" id="my-main-view">
       <h2 style="margin-bottom:12px;">常用资料与数据</h2>
-      <div class="my-heroes">
-        <div class="my-hero" data-vault-group="击剑">
-          <div class="my-hero-icon">🤺</div>
-          <div class="my-hero-name">击剑</div>
-          <div class="my-hero-sub">赛事/会员/账号</div>
-        </div>
-        <div class="my-hero" data-vault-group="学校">
-          <div class="my-hero-icon">🏫</div>
-          <div class="my-hero-name">学校</div>
-          <div class="my-hero-sub">Portal/账号/密码</div>
-        </div>
-        <div class="my-hero" data-vault-group="妈妈">
-          <div class="my-hero-icon">👩</div>
-          <div class="my-hero-name">妈妈</div>
-          <div class="my-hero-sub">生活/账号/密码</div>
+      <div id="vault-inline">加载中…</div>
+      <div class="my-list" style="margin-top:14px;">
+        <div class="my-row" id="my-open-vault-mom">
+          <span class="my-icon">👩</span>
+          <span class="my-text"><b>妈妈 🔒</b><small>生活/账号/密码，需主密码解开</small></span>
+          <span class="my-chevron">›</span>
         </div>
       </div>
+      <div style="font-size:0.75rem; color:#9ca3af; margin:16px 0 6px; font-weight:600;">基础设置</div>
       <div class="my-list">
         <div class="my-row" id="my-open-email-rules">
           <span class="my-icon">📧</span>
@@ -780,6 +772,11 @@
           <span class="my-text"><b>Cathy 数据导出</b><small>收集训练/比赛数据，发给其它 AI 分析</small></span>
           <span class="my-chevron">›</span>
         </a>
+        <div class="my-row" id="my-open-vault-all">
+          <span class="my-icon">🔍</span>
+          <span class="my-text"><b>全部数据 / 搜索</b><small>跨分组管理、搜索、添加记录</small></span>
+          <span class="my-chevron">›</span>
+        </div>
       </div>
     </div>
 
@@ -2301,6 +2298,7 @@ function circuitLabel(c) {
   let _vaultPayload = null;
   let _vaultFilter = null;    // 分组名或 null=全部
   let _vaultQuery = '';       // 搜索关键词
+  let _vaultAddGroup = null;  // 「＋」预置的目标分组
 
   function _b64(u8) { let s = ''; for (let i = 0; i < u8.length; i += 8192) s += String.fromCharCode.apply(null, u8.subarray(i, i + 8192)); return btoa(s); }
   function _unb64(s) { return Uint8Array.from(atob(s), c => c.charCodeAt(0)); }
@@ -2423,7 +2421,7 @@ function circuitLabel(c) {
     const editing = _vaultEditing === key || (_vaultAdding && key === 'n_-1_-1');
     if (editing) {
       const names = _allGroupNames().filter(n => _isOpenGroup(n) || _vaultPass);
-      const curGroup = gi === -1 ? (_vaultFilter || '') : _findGroup(src, gi).name;
+      const curGroup = gi === -1 ? (_vaultAddGroup || _vaultFilter || '') : _findGroup(src, gi).name;
       const groupOpts = names.map(n => `<option value="${escapeHtml(n)}" ${n === curGroup ? 'selected' : ''}>${escapeHtml(n)}</option>`).join('') + `<option value="_new">＋新分组…</option>`;
       return `<div class="vault-item" data-key="${key}" style="border:1px solid var(--primary); border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fff;">
         <input class="vf" data-f="name" value="${escapeHtml(it.name || '')}" placeholder="名称（如 ManageBac）" style="${_vInputStyle}">
@@ -2470,9 +2468,9 @@ function circuitLabel(c) {
     </div>
     <div id="vault-status" style="font-size:0.75rem; color:#9ca3af; margin-bottom:8px;"></div>
     <input type="text" id="vault-search" value="${escapeHtml(_vaultQuery)}" placeholder="搜索名称 / 网址 / 用户名 / 备注…" style="${_vInputStyle}">
-    <input type="file" id="v-file-input" accept="image/*,application/pdf" style="display:none;">
     <div id="vault-list"></div>`;
     renderVaultResults();
+    renderVaultInline();
   }
 
   function renderVaultResults() {
@@ -2534,8 +2532,12 @@ function circuitLabel(c) {
   let _vAttach = null;   // 编辑中的附件 {image, pdf, voice}
   let _vUploading = false;
   function renderVAttach() {
-    const area = document.getElementById('v-attach-area');
-    if (!area || !_vAttach) return;
+    document.querySelectorAll('#v-attach-area').forEach(area => {
+      if (!_vAttach) { area.innerHTML = ''; return; }
+      area.innerHTML = _vAttachHTML();
+    });
+  }
+  function _vAttachHTML() {
     let html = '<div style="margin-top:2px; border-top:1px dashed #e5e7eb; padding-top:8px; font-size:0.78rem; color:#6b7280;">附件（照片 / PDF / 语音）</div>';
     if (_vAttach.image) html += `<img src="${_vAttach.image}" style="max-width:100%; max-height:140px; border-radius:8px; border:1px solid #d1d5db; display:block; margin:6px 0;"><button data-act="v-img-del" style="${_vBtnStyle}">删除图片</button>`;
     if (_vAttach.pdf) html += `<div style="margin:6px 0;">📄 ${escapeHtml(_vAttach.pdf.name || '附件')} <button data-act="v-pdf-del" style="${_vBtnStyle}">删除</button></div>`;
@@ -2550,7 +2552,27 @@ function circuitLabel(c) {
       <button data-act="v-voice-start" style="${_vBtnStyle}">🎤 录音</button>
       <span style="font-size:0.72rem; color:#9ca3af;">${_vUploading ? '上传中…' : ''}</span>
     </div>`;
-    area.innerHTML = html;
+    return html;
+  }
+
+  // 主页面内联：直接平铺公开组（击剑/学校）全部记录
+  function renderVaultInline() {
+    const box = document.getElementById('vault-inline');
+    if (!box) return;
+    if (!_openData) { box.innerHTML = '加载中…'; return; }
+    let html = '';
+    (_openData.groups || []).forEach((g, gi) => {
+      html += `<div style="display:flex; align-items:center; justify-content:space-between; margin:12px 0 6px;">
+        <div style="font-weight:700; color:var(--primary);">${escapeHtml(g.name)}</div>
+        <button data-act="add" data-g="${escapeHtml(g.name)}" style="background:none; border:none; color:var(--primary); font-size:1rem; cursor:pointer; padding:0 4px;">＋</button>
+      </div>`;
+      if (_vaultAdding && _vaultAddGroup === g.name) html += vaultItemHTML({}, 'n', -1, -1);
+      (g.items || []).forEach((it, ii) => { html += vaultItemHTML(it, 'o', gi, ii); });
+      if (!(g.items || []).length) html += '<div style="color:#9ca3af; font-size:0.8rem; padding:4px 0;">暂无记录</div>';
+    });
+    if (_vaultAdding && !_vaultAddGroup) html += vaultItemHTML({}, 'n', -1, -1);
+    box.innerHTML = html;
+    renderVAttach();
   }
 
   async function vaultOpen(groupFilter) {
@@ -2580,6 +2602,8 @@ function circuitLabel(c) {
       vaultOpen(group || null);
     };
     document.getElementById('my-open-vault')?.addEventListener('click', () => openVault(null));
+    document.getElementById('my-open-vault-mom')?.addEventListener('click', () => openVault('妈妈'));
+    document.getElementById('my-open-vault-all')?.addEventListener('click', () => openVault(null));
     document.querySelectorAll('.my-hero[data-vault-group]').forEach(el => {
       el.addEventListener('click', () => openVault(el.dataset.vaultGroup));
     });
@@ -2587,20 +2611,17 @@ function circuitLabel(c) {
       if (vaultView) vaultView.style.display = 'none';
       if (mainView) mainView.style.display = 'block';
     });
-    const box = document.getElementById('vault-body');
-    if (!box) return;
-    box.addEventListener('input', (e) => {
-      // IME 组合中（中文输入）不刷新，避免打断拼音候选
-      if (e.target.id === 'vault-search' && !e.isComposing) { _vaultQuery = e.target.value; renderVaultResults(); }
-    });
-    box.addEventListener('compositionend', (e) => {
-      if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVaultResults(); }
-    });
-    box.addEventListener('change', async (e) => {
-      if (e.target.id !== 'v-file-input' || !_vAttach) return;
-      const f = e.target.files && e.target.files[0];
-      e.target.value = '';
-      if (!f) return;
+    // 附件文件选择器（全局唯一，两个容器共用）
+    const fi = document.createElement('input');
+    fi.id = 'v-file-input';
+    fi.type = 'file';
+    fi.accept = 'image/*,application/pdf';
+    fi.style.display = 'none';
+    document.body.appendChild(fi);
+    fi.addEventListener('change', async () => {
+      const f = fi.files && fi.files[0];
+      fi.value = '';
+      if (!f || !_vAttach) return;
       _vUploading = true; renderVAttach();
       try {
         if (f.type.startsWith('image/')) {
@@ -2612,6 +2633,22 @@ function circuitLabel(c) {
       } catch(err) { alert('上传失败：' + err.message); }
       _vUploading = false;
       renderVAttach();
+    });
+    ['vault-body', 'vault-inline'].forEach(id => {
+      const box = document.getElementById(id);
+      if (box) bindVaultBox(box);
+    });
+    // 初始加载公开数据，主页直接平铺
+    loadOpenData().then(() => renderVaultInline());
+  }
+
+  function bindVaultBox(box) {
+    box.addEventListener('input', (e) => {
+      // IME 组合中（中文输入）不刷新，避免打断拼音候选
+      if (e.target.id === 'vault-search' && !e.isComposing) { _vaultQuery = e.target.value; renderVaultResults(); }
+    });
+    box.addEventListener('compositionend', (e) => {
+      if (e.target.id === 'vault-search') { _vaultQuery = e.target.value; renderVaultResults(); }
     });
     box.addEventListener('click', async (e) => {
       const thumb = e.target.closest('img.v-thumb');
@@ -2654,7 +2691,7 @@ function circuitLabel(c) {
       const gi = parseInt(kgi), ii = parseInt(kii);
       if (act === 'filter') {
         _vaultFilter = btn.dataset.g || null;
-        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; _vaultAddGroup = null; discardVoiceRec();
         renderVault();
         return;
       }
@@ -2664,10 +2701,11 @@ function circuitLabel(c) {
         renderVault();
       } else if (act === 'add') {
         _vaultAdding = true; _vaultEditing = null;
+        _vaultAddGroup = btn.dataset.g || null;
         _vAttach = { image: '', pdf: null, voice: null };
         renderVault();
       } else if (act === 'save') {
-        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; _vaultAddGroup = null; discardVoiceRec();
         renderVault();
         await saveAllVault();
       } else if (act === 'v-file-add') {
@@ -2704,7 +2742,7 @@ function circuitLabel(c) {
         renderVault();
         await saveAllVault();
       } else if (act === 'edit-cancel') {
-        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; _vaultAddGroup = null; discardVoiceRec();
         renderVault();
       } else if (act === 'edit-save') {
         const card = item;
@@ -2733,7 +2771,7 @@ function circuitLabel(c) {
           _findGroup(ksrc, gi).items.splice(ii, 1);
           tg.items.push(rec);
         }
-        _vaultEditing = null; _vaultAdding = false; _vAttach = null; discardVoiceRec();
+        _vaultEditing = null; _vaultAdding = false; _vAttach = null; _vaultAddGroup = null; discardVoiceRec();
         renderVault();
         await saveAllVault();
       }
