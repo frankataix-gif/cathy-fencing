@@ -15601,3 +15601,27 @@ LYNCH BUS LINES LTD
 The information contained in this e-mail and in any attachments is int
 
 ---
+
+## [待办] Re: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T08:14:29.000Z
+**摘要:** 用户尝试用国际信用卡支付被拒，询问是否只能使用加拿大信用卡或是否可用加拿大借记卡支付。
+**待办:** 回复用户确认支付政策并解决支付问题
+**GmailID:** 1a0a942f4f81d47f
+
+Hello,
+
+
+Regarding the payment issue, I tried to pay today using an international credit card, but the system indicated that the payment was declined. Does your company only accept credit cards issued in Canada?
+
+I also have a debit card issued in Canada. Could I use this card to make the payment?
+
+I look forward to your response. Thank you.
+在 Sep 16, 2026, 10:08 +0200，LYNCH BUS LINES LTD <noreply@elavon.com>，写道：
+> $4,163.25 CAD
+> 09/16/2026 01:08:48 AM
+> LYNCH BUS LINES LTD
+> Your p
+
+---
