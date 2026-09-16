@@ -5548,9 +5548,11 @@ function circuitLabel(c) {
     html += `<button type="button" class="btn secondary" id="te-image-add" style="padding:8px 14px; font-size:0.85rem;">📷 上传图片 / PDF</button><span id="te-upload-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
     area.innerHTML = html;
   }
+  let _teUploading = false;
   async function uploadTaskFile(file, slot) {
     const status = document.getElementById(slot === 'voice' ? 'te-voice-status' : 'te-upload-status');
     if (file.size > 8 * 1024 * 1024) { alert('文件太大（超过 8MB），请压缩后再传'); return; }
+    _teUploading = true;
     if (status) status.textContent = '上传中…';
     try {
       const b64 = await new Promise((res, rej) => {
@@ -5572,7 +5574,7 @@ function circuitLabel(c) {
       else { _tePdf = rec; renderTeImage(); }
     } catch(e) {
       if (status) status.textContent = '上传失败：' + e.message;
-    }
+    } finally { _teUploading = false; }
   }
   function compressTaskImage(file) {
     const img = new Image();
@@ -5609,6 +5611,7 @@ function circuitLabel(c) {
     const category = document.getElementById('te-category').value;
     const notes = document.getElementById('te-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
+    if (_teUploading) { alert('附件还在上传中，请稍候再保存'); return; }
     const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, voice: _teVoice || null, important: !!(document.getElementById('te-important') || {}).checked, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
     if (id) {
       const existing = tasks.find(x => x.id === id);
