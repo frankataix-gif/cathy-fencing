@@ -15986,7 +15986,7 @@ e-mail. Please do not reply
 
 ---
 
-## [其他] Notification from VFS Global
+## [生活旅行] Notification from VFS Global
 
 **发件人:** VFS Global <donotreply@vfsglobal.com>
 **日期:** 2026-09-16T17:00:36.000Z
