@@ -16081,3 +16081,27 @@ Reservations.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌  
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T18:24:44.000Z
+**摘要:** Natalie尝试用国际信用卡支付被拒，询问是否仅接受加拿大发行的信用卡及是否有其他支付方式。
+**待办:** 无
+**GmailID:** 1a0a942f4f81d47f
+
+ok, thanks.
+i will try different card today!
+在 Sep 16, 2026, 15:02 +0200，AR <ar@lynchbuslines.com>，写道：
+> Hi Natalie,
+>
+> We accept Visa, Mastercard and Amex. Based on the suspected fraud message though, it seems to me like your credit company blocked the purchase rather than our system. Thank you.
+> Janice Cooper
+> Lynch Bus Lines
+> 4687 Byrne Road
+> Burnaby, BC V5J 3H6
+> Ph:  604-439-0842
+> Fax: 604-439-1941
+> This email (and any attachment) is intended solely for the addressee and 
+
+---
