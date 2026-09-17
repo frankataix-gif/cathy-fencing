@@ -16784,3 +16784,34 @@ Rest easy
 kn
 
 ---
+
+## [击剑] Re: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-09-17T18:42:47.000Z
+**摘要:** 回复Cathy的击剑区域隶属变更请求，确认已更改为区域4并解释积分规则
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+----------------------------------------------
+
+Hello,
+
+Thank you for your email! I have updated Cathy's region to region 4.
+
+To answer your question, unfortunately the Fortune RYC result can not be added. Cathy can only earn points in the region she is affiliated with at the time of competition.
+
+If you have any other questions, please let us know!
+
+Thank you,
+
+USA Fencing
+Event Support
+
+--------------------------------
+This email is a service from USA Fencing.
+
+On September 1
+
+---
