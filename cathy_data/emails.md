@@ -16671,3 +16671,28 @@ Open Make and tell Maia 👉 Help me automate one
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] 12 sessions. 3 stages. 1 city. See what's waiting for you in Prague 🟪
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-17T14:37:10.000Z
+**摘要:** Waves '26活动议程发布，包含多个AI相关的演讲和活动，提醒尽早购票。
+**待办:** 无
+**GmailID:** 1a0afccd1094e431
+
+The full Waves '26 agenda is live.  
+
+Last chance for Early Bird.
+
+Grab your ticket today ( https://waves.make.com?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://waves.make.com/agenda?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+
+Event
+
+**********************
+
+---
