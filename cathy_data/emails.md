@@ -16507,3 +16507,26 @@ adrian.kwon
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] How was your valuation? Share your thoughts
+
+**发件人:** Foxtons Survey <noreply@customerexperience.foxtons.co.uk>
+**日期:** 2026-09-17T08:21:00.000Z
+**摘要:** Foxtons邀请用户填写调查问卷，以改进服务并有机会赢取奖品
+**待办:** 无
+**GmailID:** 1a0ae746fe2d720c
+
+Hi Miss Jingqi wu,
+
+Thank you for choosing Foxtons to value your property. We’d love your views
+on how we could provide a better service should you wish to consider us again
+in the future.
+
+Please share your views by answering a few questions about your experience.
+The survey takes just 2 minutes to complete.
+
+Please follow this link to complete the survey:
+Take the Survey
+<https://foxtons.qualtrics.com/jfe/form/SV_26xqbrx2mw5twgK?Q_DL=UQtkJVro8Ez3lWZ_26xqbrx2mw5twgK_CTR_iyiGLmwYsdyNS
+
+---
