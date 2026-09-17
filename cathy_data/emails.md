@@ -16631,3 +16631,16 @@ Not everything needs automation, but there’s usually one small thing you do ev
 Open Make and tell Maia 👉 Help me automate one
 
 ---
+
+## [营销] Il fit: 90s Straight
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-17T13:42:45.000Z
+**摘要:** 推广Calvin Klein 90年代直筒裤系列的广告邮件
+**待办:** 无
+**GmailID:** 1a0afa2c2ecea4f7
+
+
+
+
+---
