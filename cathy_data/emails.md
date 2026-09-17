@@ -16562,3 +16562,50 @@ Up to 10 must-haves from KAYALI, Miu Miu, and more.
 <https://app.sephora.com/T/v61000001a0af86393f9715bbf4bbe5c898/505e81e06e934f370000021ef3a0bcc
 
 ---
+
+## [其他] Resident meeting minutes - short term letting at London Dock
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-17T13:30:49.000Z
+**摘要:** 关于伦敦码头短期租赁的居民会议纪要
+**待办:** 无
+**GmailID:** 1a0af901992c29f7
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
