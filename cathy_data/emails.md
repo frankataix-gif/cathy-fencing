@@ -16923,3 +16923,36 @@ Natalie, apply your 500 points at checkout to save.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-17T20:42:53.000Z
+**摘要:** 邮件涉及Cathy的陪读签办理及学校要求的文件提交，包括Study Permit和Visitor Record。
+**待办:** 准备并提交Cathy的Study Permit和妈妈的Visitor Record
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+hello adrian
+这是cathy的大签；
+关于妈妈的陪读签，我们计划下周开始办理，目前妈妈拿的是10年旅游签。另外，cathy这边有监护人。
+
+您看，还需要哪些材料。
+在 Sep 17, 2026, 02:18 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Hi Natalie,
+>
+> 希望你们今天一切顺利！
+>
+> 谢谢您更新你们的 Residency Form。地址方面，我们保留了你原有的 postcode (V3J 0P2)。签证方面，我们还需要记录以下两项文件：
+>
+> • > Cathy 的 Study Permit (除了护照里贴的签证，应该还有一张独立的Letter size “金纸”)
+> • > 妈妈的入境记录 "Visitor Record"  -  版面跟 Study Permit 差不多
+>
+>
+> 方便时电邮传给我就可以了。有疑问请随时跟我们联系。这几天辛苦您了，谢谢！
+>
+> Best regards,
+> Adrian Kwong (he/
+
+---
