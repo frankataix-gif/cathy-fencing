@@ -16609,3 +16609,25 @@ Up to 10 must-haves from KAYALI, Miu Miu, and more.
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Not everything needs automation 🧑‍💻
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-17T13:26:33.000Z
+**摘要:** 邀请尝试Make.com的自动化工具以简化日常任务
+**待办:** 无
+**GmailID:** 1a0af8c2ebb89396
+
+But this might save you time today  
+
+Logo ( https://www.make.com?utm_campaign=Simple+Maia_Beginner%2BModerate&utm_medium=email&utm_source=customer.io )
+
+Hero image ( http://www.make.com/open-scenario-builder?utm_campaign=Simple+Maia_Beginner%2BModerate&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Not everything needs automation, but there’s usually one small thing you do every day that’s worth it. Start with something simple.
+
+Open Make and tell Maia 👉 Help me automate one
+
+---
