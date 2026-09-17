@@ -16714,3 +16714,37 @@ Event
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
 
 ---
+
+## [Cathy&David] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-17T17:08:03.000Z
+**摘要:** 学校通知提交医疗表格，可暂不提供健康卡号码和医生信息。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a08708ba7c2344c
+
+Good morning Natalie,
+Thank you for letting me know the situation. You can go ahead and submit the medical form without Health card number and physician information. You can later provide us those information when you have them!
+
+
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowri
+
+---
