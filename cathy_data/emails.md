@@ -16425,3 +16425,38 @@ primarily competes in Region 4 events:
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154182160-1789600596512.924%26ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-17T00:18:04.000Z
+**摘要:** 学校需要Cathy的Study Permit和妈妈的入境记录以更新文件
+**待办:** 提交Cathy的Study Permit和妈妈的入境记录
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+希望你们今天一切顺利！
+
+谢谢您更新你们的 Residency Form。地址方面，我们保留了你原有的 postcode (V3J 0P2)。签证方面，我们还需要记录以下两项文件：
+
+  *
+Cathy 的 Study Permit (除了护照里贴的签证，应该还有一张独立的Letter size “金纸”<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm78HQlrZu7ZzyPJ9MKd5x3YY9B2BM14dpPFVnyfSniwCjW3q92v0kaY_&s=10>)
+  *
+妈妈的入境记录 "Visitor Record"  -  版面跟 Study Permit 差不多
+
+方便时电邮传给我就可以了。有疑问请随时跟我们联系。这几天辛苦您了，谢谢！
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwon
+
+---
