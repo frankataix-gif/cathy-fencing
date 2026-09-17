@@ -16843,3 +16843,28 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing=
 
 ---
+
+## [击剑] USA Fencing: How would you rate the support you received?
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-09-17T19:02:07.000Z
+**摘要:** USA Fencing 请求家长评价支持服务，并提及 Cathy 的区域变更及比赛点数问题
+**待办:** 点击链接评价 USA Fencing 的支持服务
+**涉及:** Cathy
+**GmailID:** 1a0b0bf9bfb5bd0a
+
+Hello natalie,
+
+We'd love to hear what you think of our customer service. Please take a moment to answer one simple question by clicking either link below:
+
+How would you rate the support you received?
+
+You can copy the following URL into your browser to rate:
+
+  https://usafencing.zendesk.com/requests/59339/satisfaction/new/xUO7kcWsAeChER82VPkyzX8mg?locale=1
+
+Thank you for being a member of USA Fencing! Please feel free to reach out if you have any additional questions.
+
+Here's a re
+
+---
