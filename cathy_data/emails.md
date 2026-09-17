@@ -16763,3 +16763,24 @@ www.meadowri
 
 
 ---
+
+## [营销] Accidents happen. Protect your device with Device Care BYOD.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-17T17:31:59.000Z
+**摘要:** TELUS推广设备保护服务Device Care BYOD，提供设备损坏保护并附带限时优惠。
+**待办:** 无
+**GmailID:** 1a0b06cf501f89aa
+
+If it’s worth keeping, it’s worth protecting.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t3af0f52,40a42fdf,2af8f218&e=Y2lkPXRlbERNMjMxMDQyMCZiaWQ9NjE4MDQzNzAmcDE9JTQwNCUyQmpPUnY2WVolMkZtMVMwOTBiOTNoWkxzSHJ4UzJpVWtxMXFrSjdsSTU2OW8lM0Q&s=V0LvlaAA4aE4VxrF7VS8jVCUcKOsB_MVY4vAWpDYwE8 web browser . 	
+	
+	
+
+ https://t.info.telus.com/r/?id=t3af0f52,40a42fdf,2af8f219&e=Y2lkPXRlbERNMjMxMDQyMCZiaWQ9NjE4MDQzNzA&s=rZxz6y5gnqY1w0LucTp2FZvaTRxgAodYofAdk29E0rM 	
+	
+Rest easy 
+kn
+
+---
