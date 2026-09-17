@@ -16530,3 +16530,17 @@ Take the Survey
 <https://foxtons.qualtrics.com/jfe/form/SV_26xqbrx2mw5twgK?Q_DL=UQtkJVro8Ez3lWZ_26xqbrx2mw5twgK_CTR_iyiGLmwYsdyNS
 
 ---
+
+## [营销] The Style Report: what’s next
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-17T13:11:43.000Z
+**摘要:** 推荐最新时尚鞋款和品牌信息
+**待办:** 无
+**GmailID:** 1a0af7ea05e179a2
+
+From UGG to B2, these are the styles on our radar.    THE BEST
+SNEAKER BRANDS, ALL IN ONE PLACE 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PwPuGluN3xBkJ4JUfFeTxZmyzWrMOhTWfXz0r3js5IlQ-3D-3D29zb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOvfpnM0cxkIDlR9CPAfS6KGT1O1X2kV-2FxqEcO4uYM4NazqcFef90S4ktwc93xJBTRSWpKoorv2N6GnVsoTe3XV-2FiptZ3MTdXHPBqD0XaAEKQb5OvZMH2gkTsbqWu7leslk1dZzi0UufB687vxjy3BscdO
+
+---
