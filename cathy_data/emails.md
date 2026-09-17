@@ -16748,3 +16748,18 @@ t  604.467.4444
 www.meadowri
 
 ---
+
+## [Cathy&David] Update - WWOW Gibsons Farm - Gr 7
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-17T17:06:21.000Z
+**摘要:** 学校通知关于七年级WWOW Gibsons Farm活动的更新
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b055694adf02d
+
+<!--placeholder-->
+
+
+
+---
