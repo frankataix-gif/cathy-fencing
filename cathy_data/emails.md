@@ -16544,3 +16544,21 @@ SNEAKER BRANDS, ALL IN ONE PLACE
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PwPuGluN3xBkJ4JUfFeTxZmyzWrMOhTWfXz0r3js5IlQ-3D-3D29zb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOvfpnM0cxkIDlR9CPAfS6KGT1O1X2kV-2FxqEcO4uYM4NazqcFef90S4ktwc93xJBTRSWpKoorv2N6GnVsoTe3XV-2FiptZ3MTdXHPBqD0XaAEKQb5OvZMH2gkTsbqWu7leslk1dZzi0UufB687vxjy3BscdO
 
 ---
+
+## [营销] Your FREE fragrance sample set awaits 💝✨
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-17T13:20:09.000Z
+**摘要:** Sephora 发送的促销邮件，提供免费香氛样品套装
+**待办:** 无
+**GmailID:** 1a0af876598ae0f8
+
+ Sephora 
+
+Up to 10 must-haves from KAYALI, Miu Miu, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0af86393f9715bbf4bbe5c898/505e81e06e934f370000021ef3a0bcc
+
+---
