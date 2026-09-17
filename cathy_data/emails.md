@@ -16460,3 +16460,50 @@ t  604.467.4444 (ext. 214)
 adrian.kwon
 
 ---
+
+## [其他] UPDATE: Emery Wharf North Right Hand Side Lift - BACK IN OPERATION
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-17T03:13:15.000Z
+**摘要:** 通知Emery Wharf North Right Hand Side Lift电梯已恢复运行
+**待办:** 无
+**GmailID:** 1a0ad5ab3ab1f903
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
