@@ -16868,3 +16868,18 @@ Thank you for being a member of USA Fencing! Please feel free to reach out if yo
 Here's a re
 
 ---
+
+## [Cathy&David] Welcome to Vidigami, Meadowridge's photo sharing platform
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-17T19:00:32.000Z
+**摘要:** Meadowridge School 通知启用Vidigami照片共享平台
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b0bdf0dee6dca
+
+<!--placeholder-->
+
+
+
+---
