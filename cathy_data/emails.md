@@ -17207,3 +17207,50 @@ iPhone 18 Pro, partial side view, burgundy color, featuring a camera system with
 Now available, iPhone 18 Pro. New 48MP Fusion Main camera with variable aperture. Big leap in battery life.(1) Thermally cooled A20 Pro chip — total AI powerhouse. Four gorgeous colours, two great sizes, one durable aluminum desi
 
 ---
+
+## [其他] Resident Newsletter - LH - 18/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T13:30:43.000Z
+**摘要:** 居民通讯，包含社区公告和通知
+**待办:** 无
+**GmailID:** 1a0b4b66a7c54916
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
