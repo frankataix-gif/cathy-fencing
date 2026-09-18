@@ -17059,3 +17059,50 @@ Find something your lashes will love
 
 
 ---
+
+## [生活旅行] Emery Wharf Building Notice: Hot Water Disruption 18/09/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T11:59:15.000Z
+**摘要:** 通知Emery Wharf热水供应将在2026年9月18日中断
+**待办:** 无
+**GmailID:** 1a0b4629cb4c02fb
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
