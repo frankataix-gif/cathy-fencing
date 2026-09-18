@@ -17361,3 +17361,21 @@ contest rules and regulations page for more information).
 For a copy of TELUS'
 
 ---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-18T23:52:02.000Z
+**摘要:** 用户搬家请求未完成，需致电BC Hydro并提供参考代码完成手续。
+**待办:** 请致电BC Hydro完成搬家请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d7906467034d4f0b0  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699c8632a81be02d7761f04a0def718f13e1)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
