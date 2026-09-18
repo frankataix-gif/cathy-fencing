@@ -17334,3 +17334,30 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Your experience with TELUS
+
+**发件人:** TELUS Team <telus-team@opinion.panalyticsgroup.com>
+**日期:** 2026-09-18T17:19:52.000Z
+**摘要:** TELUS邀请填写服务反馈调查，有机会赢取500美元Visa礼品卡
+**待办:** 无
+**GmailID:** 1a0b6c008a4e10b0
+
+ 
+
+
+Dear Jingqi, 
+
+At TELUS, we are obsessed with giving you a great experience. Please help 
+us by providing feedback on your *TELUS* service. 
+
+It will take about 10 minutes to complete the survey. 
+
+Once you complete the survey, you will be entered into a prize-draw for a *chance 
+to win one $500 pre-paid Visa® gift card!* (Please click here 
+<https://survey.panalyticsgroup.com/wix/p866305840299.aspx> to see the 
+contest rules and regulations page for more information). 
+
+For a copy of TELUS'
+
+---
