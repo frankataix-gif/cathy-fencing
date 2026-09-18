@@ -17129,3 +17129,16 @@ Find something your lashes will love
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDN9AAcAAAAABrdlUpr9YBU8QqqJtNiTHBj-cmVisZE0CHOaB1Dl14TGJBMmA0koDydUUEzQ5VTB3JQx5FAPqQyXIoXVPxcb4Lp0hddgmhkdvG1CG715V9c&CMP=eml-bby-pr-tar-2026-09-18-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2504092&l=52_HTML&mid=7210119&jb=3494&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-09-18-c_cal-csgsc_glu
 
 ---
+
+## [营销] Everything Looks Better in Brown
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-18T13:13:47.000Z
+**摘要:** 促销邮件，推荐购买布朗鞋店的鞋子，强调舒适和多功能性
+**待办:** 无
+**GmailID:** 1a0b4a6d7fb8a895
+
+Warm, versatile, and made to wear on repeat.   BUY NOW, PICK UP
+IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ocjg7MrbLSqRJRzwCqdbyAlotdiMQaTRJCGM2680mKtA-3D-3DKJqF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALJkvHuA2pd0J31PBrMXjGZHEJC6ntaXlq6p3HF0C6TRufdTnB90hSQowdRb73nPLpTjR4cHgnRxc6i71SMZH2F-2F6DKNg6EhlktYEF9JFCIT9dyepPvvGVTMhE1nVX2GDWeAsBm1pIb-2FjM9snW2lNRkoUdh3PYWjNffTnz8wMTwQSIDVU
+
+---
