@@ -17142,3 +17142,50 @@ Warm, versatile, and made to wear on repeat.   BUY NOW, PICK UP
 IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ocjg7MrbLSqRJRzwCqdbyAlotdiMQaTRJCGM2680mKtA-3D-3DKJqF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALJkvHuA2pd0J31PBrMXjGZHEJC6ntaXlq6p3HF0C6TRufdTnB90hSQowdRb73nPLpTjR4cHgnRxc6i71SMZH2F-2F6DKNg6EhlktYEF9JFCIT9dyepPvvGVTMhE1nVX2GDWeAsBm1pIb-2FjM9snW2lNRkoUdh3PYWjNffTnz8wMTwQSIDVU
 
 ---
+
+## [生活旅行] Emery Wharf – Hot Water Restored 18/09/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T13:13:10.000Z
+**摘要:** 通知Emery Wharf的热水服务已恢复。
+**待办:** 无
+**GmailID:** 1a0b4a6518de32bd
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
