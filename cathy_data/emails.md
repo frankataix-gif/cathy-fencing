@@ -17189,3 +17189,21 @@ IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2Fut
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] The new iPhone 18 Pro is here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-18T13:10:07.000Z
+**摘要:** Apple发布新款iPhone 18 Pro，介绍其新功能、颜色选项及价格信息。
+**待办:** 无
+**GmailID:** 1a0b4a3784661db6
+
+Apple
+
+iPhone 18 Pro
+
+iPhone 18 Pro, partial side view, burgundy color, featuring a camera system with three lenses in the top left corner, flash and microphone, apple logo in the middle, side button and camera control featured slides over a giant text saying PRO
+
+Now available, iPhone 18 Pro. New 48MP Fusion Main camera with variable aperture. Big leap in battery life.(1) Thermally cooled A20 Pro chip — total AI powerhouse. Four gorgeous colours, two great sizes, one durable aluminum desi
+
+---
