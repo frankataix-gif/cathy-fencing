@@ -17379,3 +17379,21 @@ Hi natalie,
 We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
 
 ---
+
+## [待办] Verify your email address for BC Hydro
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-18T23:46:19.000Z
+**摘要:** BC Hydro 邀请确认电子邮件地址，需通过提供的链接完成验证流程。
+**待办:** 验证邮箱地址
+**GmailID:** 1a0b6e9f1abda94e
+
+https://email.bchydro.com/c/443/e15279b99d542b169ef216f9c1197d7abaa2451f6ba41c59ef93731ec3e7f52337abc8421891a8000ffbfc5648ab474a We'd like to verify your email address
+Read this email online (https://email.bchydro.com/v/443/e15279b99d542b169ef216f9c1197d7aae4190be3670651f2024bbfe62addf24)
+Confirm your email
+
+Hi natalie,
+
+Thanks for signing up at bchydro.com. We need to confirm your email address (https://email.bchydro.com/di/443/ea38a7e63ba40a3f50d02f0b83b8c786add310915fc8000abf6e93e96b39a
+
+---
