@@ -17306,3 +17306,18 @@ Enjoy an extra day of savings.
 <https://app.sephora.com/T/v61000001a0b559a6b496a2edf4bbe5c7c0/7a674182c77a43620000021ef3a0bcc2/7a674182-c77a-4362-
 
 ---
+
+## [Cathy&David] Gr. 7 Gibsons Farm Arrival Update
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-18T18:35:37.000Z
+**摘要:** 关于七年级Gibsons Farm到校安排的更新通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b5cd81ac0e90d
+
+<!--placeholder-->
+
+
+
+---
