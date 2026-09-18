@@ -17254,3 +17254,21 @@ Now available, iPhone 18 Pro. New 48MP Fusion Main camera with variable apert
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Every Saturday counts
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-18T13:57:15.000Z
+**摘要:** DoorDash推送周六订单促销活动，有机会赢取奖励。
+**待办:** 无
+**GmailID:** 1a0b4cea93afa8cb
+
+ DoorDash Place Saturday orders for a chance to win! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
