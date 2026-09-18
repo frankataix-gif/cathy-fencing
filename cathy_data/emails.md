@@ -17002,3 +17002,16 @@ Find something your lashes will love
 <https://app.sephora.com/T/v61000001a0b1c93d38ca03ba6e96c569c8/29b404a7947d43970000021ef3a0bcc2/29b404a7-947d-
 
 ---
+
+## [生活旅行] 逢周四限時搶⚡️9折玩歐洲💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-18T00:52:36.000Z
+**摘要:** Trip.com推出限时促销，欧洲机票95折、酒店9折，以及明日10AM人气乐园门票买一送一。
+**待办:** 无
+**GmailID:** 1a0b2004204d6782
+
+衝出亞洲！歐洲機票95折+酒店9折！仲有聽日10AM人氣樂園門票買1送1👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154868-1789692754494.84%26ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1N
+
+---
