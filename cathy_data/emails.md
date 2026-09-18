@@ -17272,3 +17272,19 @@ Now available, iPhone 18 Pro. New 48MP Fusion Main camera with variable apert
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
 
 ---
+
+## [其他] Natalie, 5 quirky homes for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-09-18T16:28:11.000Z
+**摘要:** Rightmove通知目前有五处奇特的房子出售
+**待办:** 无
+**GmailID:** 1a0b55cd76e94a6f
+
+Five unusual homes available to buy on Rightmove this month
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/BPotw2vHySF2z1jA7s1K3Q~~/AAAHahA~/XNJQFDaHFJ1OzGIubONcD6qfjf-nBpvteHaes8UK6oslMZ3KeFO3-rFaDryngE2ErUluLIjL5KzLFDre15SCbAKrDZQzuVGhsL4aCo9oXL_Ciulh6XXRBKv17iUoYgriEaq4HaUu6YqIvllGuzx2pBEa5pCe4iSHcpA43OoiSvY~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/pg3zC0uE9mi7Z2tPkjC3-g~~/AAAHahA~/gZQz1btuGpZ8RF4xh34sx5dWDEmFMIDHGKvRBk15P9S2jNbljGrhtVQdOSuMpDdJKqOX9Kg5OxT-nAvEc7uFjwhpsH6N4
+
+---
