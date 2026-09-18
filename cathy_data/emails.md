@@ -17288,3 +17288,21 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/pg3zC0uE9mi7Z2tPkjC3-g~~/AAAHahA~/gZQz1btuGpZ8RF4xh34sx5dWDEmFMIDHGKvRBk15P9S2jNbljGrhtVQdOSuMpDdJKqOX9Kg5OxT-nAvEc7uFjwhpsH6N4
 
 ---
+
+## [营销] Yes, please! Grab up to 50% off.
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-18T16:29:07.000Z
+**摘要:** Sephora 发送的促销邮件，提供最高50%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a0b559ce240ff40
+
+ Sephora 
+
+Enjoy an extra day of savings. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b559a6b496a2edf4bbe5c7c0/7a674182c77a43620000021ef3a0bcc2/7a674182-c77a-4362-
+
+---
