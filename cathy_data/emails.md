@@ -17015,3 +17015,34 @@ Find something your lashes will love
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154868-1789692754494.84%26ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1N
 
 ---
+
+## [营销] Spagna 夹克
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-18T04:04:49.000Z
+**摘要:** 介绍Spagna夹克，以现代视角重塑经典设计
+**待办:** 无
+**GmailID:** 1a0b2b043cecbd1f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+以现代视角重塑经典的 Icon 之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+---
