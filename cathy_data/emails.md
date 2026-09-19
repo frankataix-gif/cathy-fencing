@@ -17626,3 +17626,18 @@ This is not a drill.
 <https://app.sephora.com/T/v61000001a0b9cc8d64b68b686e966a3578/83cb59874701414e0000021ef3a0bcc2/83cb5987-4701-414e-9069-856d8
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Sep 21-25
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-19T17:02:50.000Z
+**摘要:** 提醒家长下周的着装要求及Terry Fox Run活动安排。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0ba9ef8bae319c
+
+Good day, Grade 7 Families,
+Hope your kids enjoyed the WWOW trip to Gibsons Farm. I heard the goats were very cute, harvesting potatoes and zucchinis was fun, and the stuffed crust pizza that our daughter and her friend made was tasty.
+Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/a8f9e95b-4b1b-446d-a7c5-6dff30aaedd5> to read this week's eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can get involved with AL
+
+---
