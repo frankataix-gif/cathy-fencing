@@ -17641,3 +17641,16 @@ Hope your kids enjoyed the WWOW trip to Gibsons Farm. I heard the goats were ver
 Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/a8f9e95b-4b1b-446d-a7c5-6dff30aaedd5> to read this week's eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can get involved with AL
 
 ---
+
+## [营销] Just in: EasyFive™ Barrel-Leg Pant
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-19T17:10:56.000Z
+**摘要:** lululemon推送新款EasyFive™ Barrel-Leg运动裤的促销信息
+**待办:** 无
+**GmailID:** 1a0baa674daf9ebb
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
