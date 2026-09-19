@@ -17498,3 +17498,28 @@ If a security deposit is required for this account, the amount owed will be incl
 
 
 ---
+
+## [生活旅行] Re: Unit 103 – BC Hydro Account
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-19T00:31:56.000Z
+**摘要:** 需要联系BC Hydro设置Unit 103的水电账户以避免断电
+**待办:** 联系BC Hydro设置账户并发送确认
+**方向:** 发出
+**GmailID:** 1a0aaaa97c65cdc0
+
+Hi，
+I finished setting up the account, but I didn’t no
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月16日 
+周三07:41写道：
+
+> Hi Natalie,
+> I hope you’re doing well.
+> BC Hydro has notified us that the hydro account for Unit 103 has not been 
+> set up in your name as of now. According to our records, your move-in date 
+> was July 19th.
+> Could you please contact BC Hydro as soon as possible to set up the 
+> account effective from your move-in date and send us confirma
+
+---
