@@ -17608,3 +17608,21 @@ adidas.   FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQaZmeSzmIVAVTg1VP-2FK-2FPqo-3DqLHw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFpjXj6XsxH2NTDFs0EqiwgYvB2iYRXvuIz0yvAq6NsSXt7LChd6iI0sYVsV1hqo-2BqPkHGtmJVwVPFViQK3OCK8M5FVH1da5ASOfvWMKwC7buUIpNhvqH-
 
 ---
+
+## [营销] Get 4X points on all fragrance until 9/23 with code NEWSCENTS
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-19T13:13:05.000Z
+**摘要:** Sephora推出促销活动，使用代码NEWSCENTS可享受所有香氛产品4倍积分，截止日期为9月23日。
+**待办:** 无
+**GmailID:** 1a0b9cca86c2b370
+
+ Sephora 
+
+This is not a drill. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b9cc8d64b68b686e966a3578/83cb59874701414e0000021ef3a0bcc2/83cb5987-4701-414e-9069-856d8
+
+---
