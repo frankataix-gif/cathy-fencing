@@ -17397,3 +17397,21 @@ Hi natalie,
 Thanks for signing up at bchydro.com. We need to confirm your email address (https://email.bchydro.com/di/443/ea38a7e63ba40a3f50d02f0b83b8c786add310915fc8000abf6e93e96b39a
 
 ---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:05:41.000Z
+**摘要:** 提醒用户完成水电账户移动请求，需拨打指定电话并提供参考代码
+**待办:** 请拨打1 800 224 9376完成账户移动请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d8040047f51e6e761  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ce643f77a052cf3367e180fa35831107a)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
