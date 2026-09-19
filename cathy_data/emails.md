@@ -17469,3 +17469,32 @@ Hi natalie,
 We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
 
 ---
+
+## [待办] Your new BC Hydro account
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:21:21.000Z
+**摘要:** 新BC Hydro账户已开通，首次账单将产生13.5加元费用，并需通过MyHydro在线管理账户
+**待办:** 设置账户支付方式和查看账单
+**GmailID:** 1a0b70a02a3bf0ed
+
+Your new account has been opened
+
+
+Notification
+-----------------------------------------
+Thanks for using MyHydro to open your new BC Hydro account 13773014 at 103 - 708 FARROW ST , COQUITLAM BC V3J 0P2.
+
+You've indicated that you take possession of this location on Aug 1, 2026.
+
+##  Billing and payments
+
+An account charge of $13.50 (plus GST) will appear on your first bill.
+
+If a security deposit is required for this account, the amount owed will be included on your bill.
+
+ 
+
+
+
+---
