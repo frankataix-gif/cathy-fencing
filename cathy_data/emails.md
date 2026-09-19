@@ -17451,3 +17451,21 @@ Hi natalie,
 We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
 
 ---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:06:23.000Z
+**摘要:** 需要家长拨打指定电话完成水电搬家请求，因在线申请信息不完整。
+**待办:** 请拨打1-800-224-9376并提供参考代码700001859410完成请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d6a90108402c587d9  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ced780cf8bef915e9dd6b301249286454)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
