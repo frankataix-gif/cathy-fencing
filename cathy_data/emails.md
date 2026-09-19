@@ -17704,3 +17704,16 @@ td, .mobile-text { font-family:Helvetica Neue, Helvetica,
 Verdana, Arial, sans-serif !important; }     
 
 ---
+
+## [生活旅行] 5大Wellness Travel目的地推薦 🌿
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-19T20:26:58.000Z
+**摘要:** Trip.com推荐五大健康旅行目的地，包含机票信息
+**待办:** 无
+**GmailID:** 1a0bb59c8b8ee032
+
+精選全球頂級Wellness Retreat
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154210115-1789849617014.473%26ouid%3D507950.trippulse_edm_0919_hk.2026-09-19_-8_0.20260920.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D507950.trippulse_edm_0919_hk.2026-09-19_-8_0.20260920.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDIxMDExNS0xNzg5ODQ5N
+
+---
