@@ -17654,3 +17654,29 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-19T18:02:25.000Z
+**摘要:** 家长询问是否可以暂时用支付收据代替标签让孩子坐校车
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0a942f4f81d47f
+
+Dear Janice,
+
+I hope this email finds you well.
+I haven't received the tag, and just in case I don't get it on Monday, can my daughter take the bus on Monday by showing the payment receipt to the driver?
+在 Sep 16, 2026, 20:57 +0200，AR <ar@lynchbuslines.com>，写道：
+> Wonderful! I’m glad to hear it all worked out. I will have a tag assigned and mailed to your home address. Have a great day!
+>
+> Janice Cooper
+> Lynch Bus Lines
+> 4687 Byrne Road
+> Burnaby, BC V5J 3H6
+> Ph:  604-439-0842
+> F
+
+---
