@@ -17548,3 +17548,27 @@ Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月16日
 > account effective from your move-in date and send us confirma
 
 ---
+
+## [其他] How was your valuation? Share your thoughts
+
+**发件人:** Foxtons Survey <noreply@customerexperience.foxtons.co.uk>
+**日期:** 2026-09-19T11:00:20.000Z
+**摘要:** 发件人请求填写调查问卷以参与抽奖
+**待办:** 无
+**GmailID:** 1a0b9530c7cf249f
+
+Hi Miss Jingqi wu,
+
+There’s still time to be entered into our draw to win a £250 Amazon voucher*.
+All you have to do is answer a few questions regarding the valuation you
+recently received from us.
+
+The survey takes just 2 minutes to complete:
+
+Please follow this link to complete the survey:
+Take the Survey
+<https://foxtons.qualtrics.com/jfe/form/SV_26xqbrx2mw5twgK?Q_DL=UQtkJVro8Ez3lWZ_26xqbrx2mw5twgK_CTR_iyiGLmwYsdyNS6D&Q_RD=EMD_3Gpjv4oEdKAJ73P&Q_CHL=email>
+
+Thank you for your time,
+
+---
