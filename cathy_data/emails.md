@@ -17776,3 +17776,22 @@ Visibly firm skin with this gentle formula.
 <https://app.sephora.com/T/v61000001a0bf991f3a90f423f4bbcfbb48/d2489ee87f1c42ce0000021ef3a0bcc2/d2489e
 
 ---
+
+## [营销] Two orders, 40% easier on your wallet
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-20T16:45:42.000Z
+**摘要:** DoorDash推送促销信息，提及用户有两个订单并提供40%的优惠。
+**待办:** 无
+**GmailID:** 1a0bfb594460b05f
+
+ DoorDash Here’s your sign. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌  
+
+---
