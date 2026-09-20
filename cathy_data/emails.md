@@ -17758,3 +17758,21 @@ New arrivals for the shift in season.   BUY NOW, PICK UP IN 2
 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M2aVk0TDM-2FFS8fIeQxaczPgDrxS3y7x7BXq-2BPUdCJUTA-3D-3D9qba_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALc60lCVQjRXKLZYccLwYKjYBj1gOkDTbyJKx99Dyneir0rJqbzB52yHyDtWhYZBzUCpI7dm84tYA9aza1jt5s-2BTaSW4dtT5RfXlrAjDT-2FdWylMi3juy-2F0NZpOtbv8nUY6qHmA9yLJUAQDMJMVG7QnrGxPnj2dDhMOFJZ8dAP9ZfoOwnIT
 
 ---
+
+## [营销] New Dieux Firm Revival HydroRetinal Firming Serum ✨
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-20T16:14:40.000Z
+**摘要:** Sephora 推荐新的 Dieux Firm Revival HydroRetinal Firming Serum 护肤精华液，强调其紧致肌肤的效果。
+**待办:** 无
+**GmailID:** 1a0bf9938d179bca
+
+ Sephora 
+
+Visibly firm skin with this gentle formula. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0bf991f3a90f423f4bbcfbb48/d2489ee87f1c42ce0000021ef3a0bcc2/d2489e
+
+---
