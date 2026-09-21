@@ -17944,3 +17944,50 @@ To: Lauren D'Souza <Lauren.DSouza@knightfrank.
 https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDZ9AAcAAAAABtYyMCU14y1beel_89ab5AmPPUozCxJEMH66b1xcPbKRhZogmh1dp8VZDWgicHjNe7-s_O3kDM-Ma-SMGAtThTIthrEW-wNtiQtustY1ht4&CMP=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2507620&l=52_HTML&mid=7210119&jb=1957&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu
 
 ---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-21T11:28:20.000Z
+**摘要:** 关于关键活动的邮件，内容不明确
+**待办:** 无
+**GmailID:** 1a0c3b960033a502
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
