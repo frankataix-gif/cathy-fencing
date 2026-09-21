@@ -17888,3 +17888,36 @@ On 21 Sep 2026 at 10:34 AM +0200, Lauren D'Souza <Lauren.DSouza@knightfrank.co
 > There should be guidance documents in the introduction email that was sent
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-21T09:51:44.000Z
+**摘要:** 邮件提醒确认是否成功提交公寓信息，或联系支持处理
+**待办:** 确认是否成功提交公寓信息
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+You will just need to go into the old link and ensure that you have clicked submit.
+
+If not, Thirdfort support should be able to assist.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 21 September 2026 10:27
+To: Lauren D'Souza <Lauren.DSouza@knightfrank.
+
+---
