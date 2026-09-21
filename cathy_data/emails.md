@@ -18101,3 +18101,34 @@ Timeless styles, with a modern point of view.   YOUR FIRST STOP
 FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PGluZyuQ-2F-2BkiUAsZ4yj0GaxxiLZK7O1uQstwp1OEQwbA-3D-3DfAdE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOo3nzV65Xsa2XbmeTKGAryU1cRpbr1Y8E-2B49NIVGG4OOG-2BXvu95-2BggMT8btUWjtnWsxrFVwQSNp1nbFKMgnruJcARD-2FCvnhcKrcftxm-2Bx-2B5tTLaiFJhjbeL6nRwaweEtfvYp9pyVCs7-2FeEy4G-2BDOjkStyO7EZJXv
 
 ---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** AR <ar@lynchbuslines.com>
+**日期:** 2026-09-21T13:06:58.000Z
+**摘要:** 确认孩子可凭支付收据乘坐校车，无需标签
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Hey Natalie, 
+
+ 
+
+It is likely still in transit. The driver is aware your child can take the bus, so you should not have any issues. Thank you! 
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediately and delete it. Reading, disclosing, copying or
+
+---
