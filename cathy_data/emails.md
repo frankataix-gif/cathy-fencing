@@ -18063,3 +18063,28 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2Dt
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] See how Maia works and how your scenario could win 1.8M credits 👑
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-21T12:47:16.000Z
+**摘要:** 这封邮件是关于邀请参加AI研究助理的网络研讨会，介绍Maia的工作原理和应用场景。
+**待办:** 无
+**GmailID:** 1a0c4036b1c22bbd
+
+7 AI workflows to clone, Scenario of the Month, and more  
+
+Early Bird ends soon.
+
+See AI's next wave at Waves 26 ( https://waves.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://with-make.wistia.com/live/events/guy3ify186?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+
+Webinar
+
+*******
+
+---
