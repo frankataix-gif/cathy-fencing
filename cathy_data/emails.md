@@ -17921,3 +17921,26 @@ Sent: 21 September 2026 10:27
 To: Lauren D'Souza <Lauren.DSouza@knightfrank.
 
 ---
+
+## [营销] Shop this week’s Top Deals on laptops, TVs and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-21T11:06:13.000Z
+**摘要:** BestBuy推出本周促销活动，涵盖笔记本电脑、电视等商品的优惠，需设置账户以解锁专属折扣。
+**待办:** 无
+**GmailID:** 1a0c3a528d5e78d3
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDZ9AAcAAAAABtYyMCU14y1beel_89ab5AmPPUozCxJEMH66b1xcPbKRhZogmh1dp8VZDWgicHjNe7-s_O3kDM-Ma-SMGAtThTIthrEW-wNtiQtustY1ht4&CMP=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2507620&l=52_HTML&mid=7210119&jb=1957&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu
+
+---
