@@ -17865,3 +17865,26 @@ knightfrank.com
 52-56 Kensington Church Street,London,
 
 ---
+
+## [生活旅行] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-21T09:26:35.000Z
+**摘要:** Natalie询问是否成功提交了Knight Frank的申请文件，并询问是否需要重新提交。
+**待办:** 确认文件是否成功提交并重新提交。
+**方向:** 发出
+**GmailID:** 1a07ba79eafc4532
+
+Hi Lauren
+I believed that I summited successfully!
+But if not go through how do I do ? Can u
+I use the old link to redo it or u send me the new link?
+Thank
+On 21 Sep 2026 at 10:34 AM +0200, Lauren D'Souza <Lauren.DSouza@knightfrank.com>, wrote:
+> Good Morning Natalie,
+>
+> I just wanted to follow up on my below email if possible as our CDD team are saying they have still not received your completed Thirdfort.
+>
+> There should be guidance documents in the introduction email that was sent
+
+---
