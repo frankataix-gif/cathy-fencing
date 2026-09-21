@@ -17991,3 +17991,28 @@ https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDZ9AA
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Apple Watch Series 12 and Ultra 4 are here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-21T12:39:20.000Z
+**摘要:** Apple推出Apple Watch Series 12，强调精准心率监测功能，并提供购买链接。
+**待办:** 无
+**GmailID:** 1a0c3fa602e64bad
+
+Apple logo
+
+Say hello to the latest from Apple Watch.
+
+Apple Watch Series 12
+
+The most accurate heart rate sensing in a wearable.(1)
+
+Two Apple Watch Series 12 devices, aluminum case, dark bronze color with olive Sport Band, one with Heart Rate app, the other showing the Health Sensing System on the back of the watch, with glowing green LED lights
+
+From $549 or $46.99/mo. for 12 mos. at 4.99% APR*
+
+Learn more, Apple Watch Series 12 Learn more
+https://c.apple.com/r?v=2&a=1zIdgxRYc2Dt
+
+---
