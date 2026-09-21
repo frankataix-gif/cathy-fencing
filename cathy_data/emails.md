@@ -17836,3 +17836,32 @@ New belts and considered pairings.
 ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-21T08:34:01.000Z
+**摘要:** 邮件跟进确认是否完成并提交了Thirdfort表格，可能与房产相关文件有关。
+**待办:** 确认是否完成并提交Thirdfort表格
+**GmailID:** 1a07ba79eafc4532
+
+Good Morning Natalie,
+
+I just wanted to follow up on my below email if possible as our CDD team are saying they have still not received your completed Thirdfort.
+
+There should be guidance documents in the introduction email that was sent to you, hopefully these can help resolve the problem.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,
+
+---
