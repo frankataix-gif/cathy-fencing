@@ -18088,3 +18088,16 @@ Webinar
 *******
 
 ---
+
+## [营销] New from WISHBONE, The Lane and ROWENN
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-21T13:07:14.000Z
+**摘要:** 品牌新品发布广告，介绍时尚鞋款
+**待办:** 无
+**GmailID:** 1a0c413ec4ddcf33
+
+Timeless styles, with a modern point of view.   YOUR FIRST STOP
+FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PGluZyuQ-2F-2BkiUAsZ4yj0GaxxiLZK7O1uQstwp1OEQwbA-3D-3DfAdE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOo3nzV65Xsa2XbmeTKGAryU1cRpbr1Y8E-2B49NIVGG4OOG-2BXvu95-2BggMT8btUWjtnWsxrFVwQSNp1nbFKMgnruJcARD-2FCvnhcKrcftxm-2Bx-2B5tTLaiFJhjbeL6nRwaweEtfvYp9pyVCs7-2FeEy4G-2BDOjkStyO7EZJXv
+
+---
