@@ -18371,3 +18371,21 @@ LEGACY SINCE 1940
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqrfDp7pAHV85DfRgQEfLyJw-3D-3DuADo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJYy40G3xklXkzInjSN-2F0efN4lU8QDA-2FFni8BLUau8BZY4-2BQaZPgn6QyPK42qDcLGyXkcliOcgUjU7u2MOuJ5FWPdrGK2QYjeXQ0TRkc4qkJI36KVBOUf9N7bNOSZUX30dPxZ-2BBgUQUhOhJyXMzYAmRHq3gswXo8GZWTwO
 
 ---
+
+## [营销] The art of fragrance layering
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-22T13:28:32.000Z
+**摘要:** Sephora推送香氛产品促销信息，提及PHLUR、Prada等品牌及积分优惠活动
+**待办:** 无
+**GmailID:** 1a0c94ddb54e4292
+
+ Sephora 
+
+With PHLUR, Prada, KAYALI, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0c94dc2bb9681fef4bbc780a0/90d14ba79b89404b0000021ef3a0bcc2/90d14ba7-9b89
+
+---
