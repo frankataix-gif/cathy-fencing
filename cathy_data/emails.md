@@ -18216,3 +18216,29 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Your BC Hydro bill is ready Sep 18, 2026
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-22T04:38:09.000Z
+**摘要:** 电费账单已生成，需在10月13日前支付72.53美元
+**待办:** 支付电费账单
+**GmailID:** 1a0c768357ce0182
+
+Your bill is ready
+Read this email online (https://email.bchydro.com/v/443/355a10b70a9655a1acaaf4d9f9b1da30ad99a072eb38699c677298e66040fb8db575d3fbc8d1c932)
+
+
+Hi natalie,
+
+Your bill for 103-708 FARROW ST, COQUITLAM BC  V3J 0P2 is ready.
+
+
+Your bill amount of $72.53 is due by Oct 13, 2026.
+ 
+
+Make a one-time payment by withdrawal from your bank account directly from MyHydro.
+
+https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da30cfbd762246ba5ee1a14c74fc690da7df234b3df86579
+
+---
