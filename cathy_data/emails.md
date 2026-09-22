@@ -18242,3 +18242,50 @@ Make a one-time payment by withdrawal from your bank account directly from MyHyd
 https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da30cfbd762246ba5ee1a14c74fc690da7df234b3df86579
 
 ---
+
+## [生活旅行] Emery Wharf - book your apartment Annual Service Inspection now, included within service charges paid - Appointments available
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-22T08:50:27.000Z
+**摘要:** 通知公寓年度服务检查的预约，包含在服务费中
+**待办:** 预约公寓年度服务检查
+**GmailID:** 1a0c84f30c5cf042
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
