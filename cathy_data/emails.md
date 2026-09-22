@@ -18310,3 +18310,50 @@ Buy AirPods 5 Buy
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsDinxDh9mMX7HOMVIE63TU6DISEhR0OU6Gli6mVSWzPwI45SDjl44Gt3LQWXTpyMtXCPGLJD4H8y%2FtDpfJeCLeuXSYMwomVT6TMUk7X%2FMmHcxRW
 
 ---
+
+## [其他] Champagne route - Sunday Roast
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-22T13:02:41.000Z
+**摘要:** 关于Champagne路线的周日烤肉活动
+**待办:** 无
+**GmailID:** 1a0c9362e71a9c57
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
