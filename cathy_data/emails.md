@@ -18289,3 +18289,24 @@ https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da30cfbd762246ba5ee1
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Discover the magic of Active Noise Cancellation with AirPods 5.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-22T12:10:02.000Z
+**摘要:** 这封邮件是Apple发送的营销信息，介绍AirPods 5的主动降噪功能和购买信息。
+**待办:** 无
+**GmailID:** 1a0c905e77c81bca
+
+Apple
+
+AirPods 5
+
+Discover the magic of Active Noise Cancellation.
+
+Now starting at $179 with Wireless Charging Case $209
+
+Buy AirPods 5 Buy
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsDinxDh9mMX7HOMVIE63TU6DISEhR0OU6Gli6mVSWzPwI45SDjl44Gt3LQWXTpyMtXCPGLJD4H8y%2FtDpfJeCLeuXSYMwomVT6TMUk7X%2FMmHcxRW
+
+---
