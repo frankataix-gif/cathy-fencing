@@ -18357,3 +18357,17 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] The shoes are the outfit
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-22T13:07:33.000Z
+**摘要:** 这封邮件是Browns Shoes发送的广告，介绍其设计师鞋款和品牌历史，包含产品推广链接。
+**待办:** 无
+**GmailID:** 1a0c93a92928015f
+
+Meet the designer styles making the whole look   A CANADIAN
+LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqrfDp7pAHV85DfRgQEfLyJw-3D-3DuADo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJYy40G3xklXkzInjSN-2F0efN4lU8QDA-2FFni8BLUau8BZY4-2BQaZPgn6QyPK42qDcLGyXkcliOcgUjU7u2MOuJ5FWPdrGK2QYjeXQ0TRkc4qkJI36KVBOUf9N7bNOSZUX30dPxZ-2BBgUQUhOhJyXMzYAmRHq3gswXo8GZWTwO
+
+---
