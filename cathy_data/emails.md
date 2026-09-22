@@ -18417,3 +18417,16 @@ New 100% leather and suede. The real deal.
 ͏‌  ͏‌
 
 ---
+
+## [营销] Scopri Perfectly Fit di Calvin Klein
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-22T15:22:26.000Z
+**摘要:** 推广Calvin Klein的Perfectly Fit系列，可能涉及服装或配件的促销信息
+**待办:** 无
+**GmailID:** 1a0c9bc17086e019
+
+
+
+
+---
