@@ -18655,3 +18655,30 @@ Natalie
 <p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-wrap;">Dear Parent / Guardian,</span></span></p><p style="line-height:1.38;">&nbsp;</p><p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-w
 
 ---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:24:20.000Z
+**摘要:** Cathy 的母亲 Natalie 询问 2027 年9月八年级入学的校园开放日时间或私人参观安排
+**待办:** 联系学校确认开放日信息并安排参观
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Dear Ms. Wilson,
+
+My daughter Cathy is currently in Grade 7 at a school in Vancouver, and we
+plan to apply for Grade 8 entry in September 2027.
+
+We would love to visit the campus. Could you please let me know the upcoming
+open house dates, or whether it is possible to arrange a private tour?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
