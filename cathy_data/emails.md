@@ -18515,3 +18515,21 @@ online at
 my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
 
 ---
+
+## [营销] Hair Daily Deals starts today 🎉 20–50% off select hair care.
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-23T14:18:00.000Z
+**摘要:** Sephora推出每日头发护理产品折扣，20-50%优惠及免费当日配送。
+**待办:** 无
+**GmailID:** 1a0ced4baf515f92
+
+ Sephora 
+
+Plus, get your beauty TODAY with FREE Same Day Delivery. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0cea16af4939cea6e96c566a0/4058392580cb47400000021ef3
+
+---
