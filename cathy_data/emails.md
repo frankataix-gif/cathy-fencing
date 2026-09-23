@@ -18736,3 +18736,19 @@ Google Apps Script
 Need help? Visit the Google Apps Script documentation. Please do not reply
 
 ---
+
+## [Cathy&David] RE: Website Query: General Admissions
+
+**发件人:** Kathi Wilson <wilsonk@lfabc.org>
+**日期:** 2026-09-23T22:42:30.000Z
+**摘要:** 通知Little Flower Academy开放日及入学考试安排，包括时间、地点和注意事项。
+**待办:** 确保Cathy按时参加入学考试并安排停车。
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Open House
+On October 21, we look forward to welcoming prospective Grade 6 and 7 students and their families to our annual Little Flower Academy Open House. The evening is an opportunity to experience LFA and learn more about our school ahead of the application process.
+
+Following a welcome from our Administration Team, guests will join student-led tours of our campus and facilities, offering a glimpse into the learning, community, and opportunities that make LFA such a special place to spend
+
+---
