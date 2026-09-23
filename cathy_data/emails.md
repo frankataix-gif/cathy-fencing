@@ -18888,3 +18888,27 @@ Last-Attempt-Date: Wed, 23 Sep 2026 15:52:37 -0700 (PDT)
 
 
 ---
+
+## [Cathy&David] Confirmed: Grade 8 Ivy Discovery Day with CHS on Saturday, October 3, 2026
+
+**发件人:** CHS Events <notifications@calendly.com>
+**日期:** 2026-09-23T22:44:48.000Z
+**摘要:** 确认女儿Yunxi He参加Crofton House School的八年级Ivy Discovery Day活动，时间为2026年10月3日，包含学生和家长活动环节。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d0716a0ddd84d
+
+ Calendly 
+
+Hi jingqi wu,
+
+Your Grade 8 Ivy Discovery Day with CHS at 12:30 (Pacific Time - US & 
+Canada) on Saturday, October 3, 2026 is scheduled.
+
+Crofton House School’s Ivy Compass Discovery Day is an immersive event 
+specially crafted for Grade 7 girls applying for CHS Grade 8 admission.  
+Your daughter will be introduced to Crofton’s signature Ivy Compass 
+program, which fosters growth, leadership, and active citizenship through 
+hands-on activities and community engagement, through a vari
+
+---
