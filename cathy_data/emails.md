@@ -18982,3 +18982,27 @@ Natalie
 
 
 ---
+
+## [Cathy&David] Re: School Visit Request – Grade 8 Applicant (September 2027)
+
+**发件人:** SH Admissions <admissions@stratfordhall.ca>
+**日期:** 2026-09-23T23:10:29.000Z
+**摘要:** 关于Cathy申请八年级学校开放日的询问和相关链接
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d086edf69c31b
+
+Hi Natalie,
+
+Thank you for your inquiry.
+
+Our Open House and Information Sessions are listed on our website.
+
+If you click here <https://www.stratfordhall.ca/admissions/visit-us> and
+scroll to the bottom, you will see the dates.
+
+If you click here
+<https://stratfordhall.myschoolapp.com/app/embed?svcid=edu#admeventregister/3566/selector=.internet/1788469362%3awcqInLb9MpwgFcN9uJro%2bHA%2b9NZNjdy2N9sn6aJVReM%2boFff%2bzPyvGjSujCT4oMcAtYZo6X3jHlOQ8NU1R64%2fg%3d%3d>,
+you will be able to reg
+
+---
