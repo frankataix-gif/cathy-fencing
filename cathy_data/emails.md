@@ -18595,3 +18595,21 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpad
 
 ---
+
+## [营销] Your 20% off mascara ends today, Natalie
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-09-23T19:44:39.000Z
+**摘要:** Sephora通知睫毛膏20%折扣即将结束，提醒尽快购买。
+**待办:** 无
+**GmailID:** 1a0cfcc8f559ccda
+
+ Sephora 
+
+Hurry—don’t miss this deal
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0cfcc76e2ab2ab36e96c65848/c19db503dc0d48910000021ef3a0bcc2/c19db503-dc0d-4891-b42e-
+
+---
