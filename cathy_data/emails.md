@@ -18478,3 +18478,17 @@ lululemon
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] 🤎 UGG SEASON IS OFFICIALLY ON 🤎
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-23T13:07:32.000Z
+**摘要:** 这是一封关于UGG季节正式开始的促销邮件，推广舒适保暖的鞋履产品。
+**待办:** 无
+**GmailID:** 1a0ce60e825a85c1
+
+Iconic, cozy and impossible to resist   YOUR TOP FOOTWEAR
+DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRPquIkjd6pOYmagYIqB-2F5Gs-3DbEFc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC5aAzNRdHGtp9u-2FFdJN5spSXsyWArFzPdvEi1WBm46N9GcrrLbsxvP8nQDaognXBVcQ2ePcAtgF3KDR3X8XrauYRTRY3vLmdxUql77FCp801jwEdqTlfJsHZnE5-2BZofqI-2FtiDf3OHiQObNaQvws5tBr
+
+---
