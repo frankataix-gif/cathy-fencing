@@ -19021,3 +19021,23 @@ Hello jingqi wu,
 Thank you for registering for an Open House. Doors open at 9:00am. Presentation will begin at 9:30am sharp! We look forward to telling you about our programs and showing you around our campus.
 
 ---
+
+## [营销] The new Mac mini and Mac Studio just landed.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-23T23:43:03.000Z
+**摘要:** 苹果公司发布新款Mac mini和Mac Studio，介绍其功能和设计。
+**待办:** 无
+**GmailID:** 1a0d0a6beec49ec5
+
+Apple Logo
+
+Whoa, the possibilities.
+
+Mac mini
+
+Little do-it-all.
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsD%2BH6jOm4XDy2wevJ%2B7luCVfjZqXkZpRN4jhQUsyvq16%2Bpl0pB4xaeEMBYFGQIh2MD%2BLLQhBQvn%2FKu%2FedXXsUxReE6krQffB5J8%2B91OG6mTHcOql2ayxQZjS%2BGrbgy%2Fp3Lfq1P%2Bz2g8TZ1CnxmKDOLeSNkxveKQOYKDzp6hfTk
+
+---
