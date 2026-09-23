@@ -18939,3 +18939,20 @@ Natalie
 
 
 ---
+
+## [Cathy&David] SJS Tour Confirmation- Nov 24
+
+**发件人:** SJS Admissions Team <stjohnsbc@myschoolapp.com>
+**日期:** 2026-09-23T23:09:52.000Z
+**摘要:** 确认Cathy和David的圣约翰学校参观安排，包括时间、地点和活动内容。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d08861f9f3922
+
+Hello jingqi wu,
+
+We are excited to welcome you to the St. John's School Tour on November 24, 2026. 
+
+During the tour, our student ambassadors will guide you through our learning spaces, giving you a glimpse of life at SJS. You’ll also hear more about the values and programs that make our community so special for students and families alike. Our Admissions Team will also be available to answer any questions you may have and provide an overview of the application process to help you prepare f
+
+---
