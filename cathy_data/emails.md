@@ -18682,3 +18682,30 @@ Natalie
 
 
 ---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:25:46.000Z
+**摘要:** Cathy的家长询问York House学校2027年9月八年级的开放日和校园参观安排
+**待办:** 联系York House招生办公室确认开放日期并安排校园参观
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Dear Admissions Team,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we are
+interested in applying to York House for Grade 8 in September 2027.
+
+Could you please advise the upcoming open house dates, or whether we could
+arrange a campus tour?
+
+Thank you for your time.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
