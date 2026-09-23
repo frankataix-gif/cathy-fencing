@@ -18533,3 +18533,22 @@ Plus, get your beauty TODAY with FREE Same Day Delivery.
 <https://app.sephora.com/T/v61000001a0cea16af4939cea6e96c566a0/4058392580cb47400000021ef3
 
 ---
+
+## [营销] We want you back 👀 40% off x2
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-23T16:47:14.000Z
+**摘要:** DoorDash发送的促销邮件，提供40%折扣及双倍优惠。
+**待办:** 无
+**GmailID:** 1a0cf2a10ef2cafd
+
+ DoorDash This deal’s for you. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ 
+
+---
