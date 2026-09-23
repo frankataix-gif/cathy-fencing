@@ -18789,3 +18789,34 @@ Support team at https://help.calendly.com/hc/en-us/requests/new.
 
 
 ---
+
+## [Cathy&David] Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** Calendly <no-reply@calendly.com>
+**日期:** 2026-09-23T22:37:37.000Z
+**摘要:** 确认了2026年10月22日对York House Little School和Junior School的参观安排，包括时间和地点。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d06ad6c0ad259
+
+ Calendly 
+
+[image: YHS Admissions Calendar] 
+
+Hi jingqi wu,
+
+Your York House Little School + Junior School Tour at 13:40 (Pacific Time - 
+US & Canada) on Thursday, October 22, 2026 is scheduled.
+
+*Location:* York House Little School - 3274 East Blvd. Vancouver - We will 
+start at the Little School and then move to the Main Campus (4176 Alexandra 
+St) for the Junior School portion.
+
+
+*This is a tour of our JK/SK Campus, followed by a tour of our separate 
+Grade 1-7 campus.*
+
+
+A Parent Ambassador
+
+---
