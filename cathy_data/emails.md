@@ -18752,3 +18752,17 @@ On October 21, we look forward to welcoming prospective Grade 6 and 7 students a
 Following a welcome from our Administration Team, guests will join student-led tours of our campus and facilities, offering a glimpse into the learning, community, and opportunities that make LFA such a special place to spend
 
 ---
+
+## [Cathy&David] 已接受：Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** nataliewu100@gmail.com
+**日期:** 2026-09-23T22:38:45.000Z
+**摘要:** 确认参加York House Little School和Junior School的参观活动
+**待办:** 无
+**方向:** 发出
+**涉及:** 两个
+**GmailID:** 1a0d06bfdd685cf0
+
+
+
+---
