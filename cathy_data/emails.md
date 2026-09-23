@@ -18613,3 +18613,32 @@ Hurry—don’t miss this deal
 <https://app.sephora.com/T/v61000001a0cfcc76e2ab2ab36e96c65848/c19db503dc0d48910000021ef3a0bcc2/c19db503-dc0d-4891-b42e-
 
 ---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:24:07.000Z
+**摘要:** Cathy家长询问2027年9月八年级入学的校园参观安排，需确认开放日或私人导览可能性
+**待办:** 联系学校安排校园参观事宜
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05e7b431bbdc
+
+Subject: Campus Visit Request – Grade 8 Applicant (September 2027)
+
+Dear Ms. Wilson,
+
+My daughter Cathy is currently in Grade 7 at a school in Vancouver, and we
+plan to apply for Grade 8 entry in September 2027.
+
+We would love to visit the campus. Could you please let me know the upcoming
+open house dates, or whether it is possible to arrange a private tour?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
