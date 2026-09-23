@@ -18709,3 +18709,30 @@ Natalie
 
 
 ---
+
+## [其他] Summary of failures for Google Apps Script: 未命名项目
+
+**发件人:** noreply-apps-scripts-notifications@google.com
+**日期:** 2026-09-23T22:24:23.000Z
+**摘要:** Google Apps Script在同步Cathy的邮件时发生错误，提示未找到时间相关数据。
+**待办:** 无
+**GmailID:** 1a0d05eb83edbb01
+
+Your script, 未命名项目, has recently failed to finish successfully. A  
+summary of the failure(s) is shown below. To configure the triggers for  
+this script, or change your setting for receiving future failure  
+notifications, click here.
+
+
+Start Function Error Message Trigger End
+
+9/24/26 12:24:18 AM CAT syncCathyEmails Exception: Not found time-based  
+9/24/26 12:24:23 AM CAT
+
+
+Sincerely,
+Google Apps Script
+
+Need help? Visit the Google Apps Script documentation. Please do not reply
+
+---
