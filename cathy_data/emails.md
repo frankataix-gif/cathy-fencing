@@ -18858,3 +18858,33 @@ Natalie
 在 Sep 10, 2026, 17:07 +0200，West Point Grey Academy Enrolme
 
 ---
+
+## [Cathy&David] Delivery Status Notification (Failure)
+
+**发件人:** Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+**日期:** 2026-09-23T22:52:37.000Z
+**摘要:** 邮件无法送达wpga@myschoolapp.com，因地址不可用
+**待办:** 检查wpga@myschoolapp.com地址是否正确并联系相关方
+**涉及:** 不明
+**GmailID:** 1a08bdc398a2851a
+
+
+** 找不到地址 **
+
+由于系统找不到电子邮件地址 wpga@myschoolapp.com，或该地址无法接收邮件，因此无法递送您的邮件。
+
+
+
+以下为远程服务器的响应：
+550 5.1.1 Requested action not taken: mailbox unavailable
+
+Final-Recipient: rfc822; wpga@myschoolapp.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; inbound-smtp.us-east-1.amazonaws.com. (44.210.166.32, the
+ server for the domain myschoolapp.com.)
+Diagnostic-Code: smtp; 550 5.1.1 Requested action not taken: mailbox unavailable
+Last-Attempt-Date: Wed, 23 Sep 2026 15:52:37 -0700 (PDT)
+
+
+---
