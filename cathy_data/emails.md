@@ -18956,3 +18956,29 @@ We are excited to welcome you to the St. John's School Tour on November 24, 2026
 During the tour, our student ambassadors will guide you through our learning spaces, giving you a glimpse of life at SJS. You’ll also hear more about the values and programs that make our community so special for students and families alike. Our Admissions Team will also be available to answer any questions you may have and provide an overview of the application process to help you prepare f
 
 ---
+
+## [Cathy&David] School Visit Request – Grade 8 Applicant (September 2027)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T23:08:08.000Z
+**摘要:** 询问Cathy申请八年级入学的开放日和校园参观日期
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d086edf69c31b
+
+Dear Ms. Armstrong,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we are
+interested in applying for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or campus tour dates?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899 |
+
+
+---
