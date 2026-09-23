@@ -18912,3 +18912,30 @@ program, which fosters growth, leadership, and active citizenship through
 hands-on activities and community engagement, through a vari
 
 ---
+
+## [Cathy&David] School Tour Request – Grade 8 Applicant (September 2027)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:54:40.000Z
+**摘要:** Cathy的家长询问2027年9月八年级入学的开放日及参观日期
+**待办:** 回复邮件并确认参观日期
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d07aa37738bdc
+
+Dear Enrolment Office,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we would like
+to apply for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or tour dates for
+prospective families?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
