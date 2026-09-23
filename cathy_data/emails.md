@@ -18833,3 +18833,28 @@ A Parent Ambassador
  
 
 ---
+
+## [Cathy&David] Re: West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:52:24.000Z
+**摘要:** Natalie为女儿Cathy申请West Point Grey Academy 2027年九月八年级入学，询问开放日信息和申请链接。
+**待办:** 联系学校获取开放日信息和申请链接
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a08bdc398a2851a
+
+Dear Enrolment Office,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we would like to apply for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or tour dates for prospective families? I was unable to find the online booking link on your website—could you please send it to me, or can I schedule a tour directly with you?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+在 Sep 10, 2026, 17:07 +0200，West Point Grey Academy Enrolme
+
+---
