@@ -19006,3 +19006,18 @@ If you click here
 you will be able to reg
 
 ---
+
+## [Cathy&David] Open House Confirmation
+
+**发件人:** Admissions Team <stratfordhall@myschoolapp.com>
+**日期:** 2026-09-23T23:20:22.000Z
+**摘要:** 确认参加学校开放日，时间定于上午9点，包含9:30的演讲和校园参观。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d091fc9f74cc9
+
+Hello jingqi wu,
+
+Thank you for registering for an Open House. Doors open at 9:00am. Presentation will begin at 9:30am sharp! We look forward to telling you about our programs and showing you around our campus.
+
+---
