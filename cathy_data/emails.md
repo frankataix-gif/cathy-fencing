@@ -18766,3 +18766,26 @@ Following a welcome from our Administration Team, guests will join student-led t
 
 
 ---
+
+## [Cathy&David] Re: 已接受：Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** Calendly <noreply@calendly.com>
+**日期:** 2026-09-23T22:38:55.000Z
+**摘要:** 确认预约了York House Little School和Junior School的参观时间，需家长联系学校确认细节。
+**待办:** 联系学校确认参观细节
+**涉及:** 两个
+**GmailID:** 1a0d06bfdd685cf0
+
+Hi!
+
+This is a non-monitored inbox, so we at Calendly won't see your message. 
+Calendly is a scheduling tool that anyone can use to manage their 
+scheduling process. If you were trying to reach the person or organization 
+you scheduled with, we recommend reaching out to them directly -- they 
+should be able to help!
+
+If you have questions about Calendly specifically, you can reach our 
+Support team at https://help.calendly.com/hc/en-us/requests/new. 
+
+
+---
