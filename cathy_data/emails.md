@@ -18642,3 +18642,16 @@ Natalie
 
 
 ---
+
+## [Cathy&David] Thank you for your admissions inquiry
+
+**发件人:** York House School <info@yorkhouse.ca>
+**日期:** 2026-09-23T22:28:36.000Z
+**摘要:** 学校感谢家长的申请查询，并表示将尽快联系解答问题。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d0629915d665b
+
+<p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-wrap;">Dear Parent / Guardian,</span></span></p><p style="line-height:1.38;">&nbsp;</p><p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-w
+
+---
