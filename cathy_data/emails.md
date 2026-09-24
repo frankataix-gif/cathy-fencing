@@ -19164,3 +19164,31 @@ An account has been created for you using the email address you have provided na
  
 
 ---
+
+## [其他]  Spark 已就绪，支持 iOS 27 
+
+**发件人:** Spark Team <team@connect.sparkmailapp.com>
+**日期:** 2026-09-24T18:55:18.000Z
+**摘要:** Spark应用更新支持iOS 27，新增语音操控收件箱和日程安排功能，适配新系统布局。
+**待办:** 无
+**GmailID:** 1a0d4c5ae43c9e97
+
+
+
+
+
+
+Spark iOS 27 Update | zh   p
+{font-family: sans-serif !important;}            96
+语音操控收件箱、语音安排日程，体验 Spark 在每个屏幕上的出色表现  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌                 Spark
+推出 Spark for iOS&nbsp;27
+
+Spark 现已支持 iOS&nbsp;27 的全新功能：更深度集成的 Siri，可操作您的收件箱和日历——以及适配您所使用的每一块屏幕的布局。
+
+更新 Sp
+
+---
