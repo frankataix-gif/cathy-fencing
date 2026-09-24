@@ -19095,3 +19095,21 @@ worn-in leather    THE BEST SNEAKER BRANDS, ALL IN ONE PLACE
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [Cathy&David] Re: School Tour Request – Grade 8 Applicant (September 2027)
+
+**发件人:** WPGA Enrolment <enrolment@wpga.ca>
+**日期:** 2026-09-24T15:18:35.000Z
+**摘要:** 通知Cathy的学校申请进展并邀请参加信息会议和学生导览
+**待办:** 注册信息会议和学生导览
+**涉及:** Cathy
+**GmailID:** 1a0d07aa37738bdc
+
+Good morning Natalie,
+
+We are delighted that you are considering West Point Grey Academy for Cathy's education.  Applications are now open for the 2027-2028 school year.
+
+You can register for an upcoming information session and student-led tour by visiting our tour page<https://www.wpga.ca/admissions/discover-wpga> and creating an application account. Once logged in, you will find the registration link is located on the right-hand side of the portal.
+Senior School (Grades 8–12): Includes an
+
+---
