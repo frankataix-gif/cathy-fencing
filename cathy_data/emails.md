@@ -19219,3 +19219,31 @@ Unsubscribe from notifications about this event
 <https://calendly.com/notification_subscriptions/8c84843c-6677-45d8-bbb6-a1ff2513719b/opt_out?owner_uuid=3f7d0e8a-ee94-4dff-a94e-09d64e697010&recipien
 
 ---
+
+## [Cathy&David] Fwd: New Event: jingqi wu - 13:40 Thu, 22 Oct 2026 - York House Little School + Junior School Tour
+
+**发件人:** Jennelyn Galura <jgalura@yorkhouse.ca>
+**日期:** 2026-09-24T19:08:52.000Z
+**摘要:** York House School 提醒为Cathy的Grade 8申请需预约Senior School Tour而非Little School Tour
+**待办:** 预约Senior School Tour
+**涉及:** Cathy
+**GmailID:** 1a0d4d2655194a76
+
+Hi Jingqi,
+
+Thank you for your interest in York House School and for booking a tour
+with us!
+
+As you are inquiring about Grade 8 for Cathy for the 2027/28 school year,
+we kindly ask that you book a *Senior School Tour* instead, as Grade 8 is
+part of our Senior School.
+
+You can book a Senior School Tour here
+<https://calendly.com/admissions_yhs/york-house-senior-school-tour>.
+
+Please let me know if you have any questions. We look forward to welcoming
+you and Cathy to York House!
+
+
+
+---
