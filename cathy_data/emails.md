@@ -19054,3 +19054,17 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101425433-1790210682840.78%26ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjU0MzMtM
 
 ---
+
+## [营销] Dr. Martens Introducing: With Bouncing Soles
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-24T13:08:40.000Z
+**摘要:** 推广Dr. Martens新款运动鞋，介绍两款新款式
+**待办:** 无
+**GmailID:** 1a0d38853f5b90c9
+
+Explore the new 8065 Mary-Jane and the 8053 Quad Arc in rich,
+worn-in leather    THE BEST SNEAKER BRANDS, ALL IN ONE PLACE 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OH2vQFikY7k0U1oAv2uS0iyHGO7WRjLJ-2FvlogDdzy7fQ-3D-3DODuF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOAOEmbIb1DisD2JsQuGE2TS-2FVOebMswwBAbaoDphK1VMFjXckHIvPji-2BxZgNLT2oH2p242fj98cjav-2F0cjV8bDsh8NIJWOuS1nE01KJjcTvCc27K00lOZ1lRtv
+
+---
