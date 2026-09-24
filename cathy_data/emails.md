@@ -19130,3 +19130,18 @@ tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
  ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [Cathy&David] Finish setting up your account
+
+**发件人:** "St. John's School - BC" <stjohnsbc@myschoolapp.com>
+**日期:** 2026-09-24T16:14:59.000Z
+**摘要:** 学校通知设置账户
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d432e53df1acb
+
+Hello,
+
+An account has been created for you using the email address you have provided nataliewu100@gmail.com. Please go to https://app.blackbaud.com/signin/sign-up?login_hint=nataliewu100@gmail.com&redirectUrl=https://stjohns-bc.myschoolapp.com/app%3FsvcId%3Dedu%26bb_id%3D1%23login to finish setting up your account.
+
+---
