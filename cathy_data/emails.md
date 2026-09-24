@@ -19264,3 +19264,19 @@ I am delighted to share that we have a group of amazing students who have genero
 Please take a moment to review the tutoring schedule and add your child’s name to the day(s) they would like to attend. To ensure that the program runs smoothly and that
 
 ---
+
+## [其他] Jingqi, learn and reflect this National Day for Truth and Reconciliation
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-24T21:23:29.000Z
+**摘要:** TELUS 发送邮件提醒 Jingqi 参与国家真相与和解日活动，学习寄宿学校系统的相关历史。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d54d5602fa02b
+
+
+
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9692&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=NQuPecO8zcYgIwMnnCs47PYQNgbQDetT0ThoNMBJyRU web browser     https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9693&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=h3ooBXHOK40UFKv3CZyihwcBA8PPgX6l9Gkr64oZ-jU EN  |  
+
+---
