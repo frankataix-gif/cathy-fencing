@@ -19280,3 +19280,18 @@ Please take a moment to review the tutoring schedule and add your child’s name
 Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9692&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=NQuPecO8zcYgIwMnnCs47PYQNgbQDetT0ThoNMBJyRU web browser     https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9693&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=h3ooBXHOK40UFKv3CZyihwcBA8PPgX6l9Gkr64oZ-jU EN  |  
 
 ---
+
+## [Cathy&David] eGryphon: September 24
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-24T23:00:11.000Z
+**摘要:** 关于学校的通知或更新
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d5a5e3ce60c43
+
+<!--placeholder-->
+
+
+
+---
