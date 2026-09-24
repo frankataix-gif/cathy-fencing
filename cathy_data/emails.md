@@ -19041,3 +19041,16 @@ Little do-it-all.
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsD%2BH6jOm4XDy2wevJ%2B7luCVfjZqXkZpRN4jhQUsyvq16%2Bpl0pB4xaeEMBYFGQIh2MD%2BLLQhBQvn%2FKu%2FedXXsUxReE6krQffB5J8%2B91OG6mTHcOql2ayxQZjS%2BGrbgy%2Fp3Lfq1P%2Bz2g8TZ1CnxmKDOLeSNkxveKQOYKDzp6hfTk
 
 ---
+
+## [生活旅行] 【旅展限定懶人包】買1送1＋半價起程！✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-24T00:44:44.000Z
+**摘要:** Trip.com发送的旅游博览会促销邮件，提供机票等产品优惠。
+**待办:** 无
+**GmailID:** 1a0d0df37913cfd4
+
+9月25–27日香港秋季旅遊博覽會🧳六大產品線優惠大放送，即刻預先睇詳情👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101425433-1790210682840.78%26ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjU0MzMtM
+
+---
