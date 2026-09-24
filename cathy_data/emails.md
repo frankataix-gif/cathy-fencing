@@ -19247,3 +19247,20 @@ you and Cathy to York House!
 
 
 ---
+
+## [Cathy&David] French Peer Tutoring Opportunity
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-24T19:18:35.000Z
+**摘要:** 学校提供法语辅导项目，家长需让孩子报名并承诺参加所有课程。
+**待办:** 让孩子报名法语辅导并确保参加所有课程
+**涉及:** 两个
+**GmailID:** 1a0d4db09ecb1dd4
+
+Dear Families,
+
+I am delighted to share that we have a group of amazing students who have generously volunteered their time to support their peers with French learning. This is a wonderful opportunity for students to build their confidence, strengthen their skills, and learn from fellow students in a supportive environment.
+
+Please take a moment to review the tutoring schedule and add your child’s name to the day(s) they would like to attend. To ensure that the program runs smoothly and that
+
+---
