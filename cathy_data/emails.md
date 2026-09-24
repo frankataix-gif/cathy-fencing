@@ -19192,3 +19192,30 @@ Spark 现已支持 iOS&nbsp;27 的全新功能：更深度集成的 Siri，可�
 更新 Sp
 
 ---
+
+## [Cathy&David] Canceled: York House Little School + Junior School Tour with YHS Admissions Calendar on Thursday, October 22, 2026
+
+**发件人:** Calendly <no-reply@calendly.com>
+**日期:** 2026-09-24T19:10:20.000Z
+**摘要:** 取消原定的York House小学和初中部参观，改为高中部重新预约
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d4d371763057d
+
+ Calendly 
+
+[image: YHS Admissions Calendar] 
+
+Hi jingqi wu,
+
+Your York House Little School + Junior School Tour with YHS Admissions 
+Calendar at 13:40 (Pacific Time - US & Canada) on Thursday, October 22, 
+2026 has been canceled.
+
+* Cancellation Reason: * 
+Will rebook for Senior school tour only. 
+
+Unsubscribe from notifications about this event 
+<https://calendly.com/notification_subscriptions/8c84843c-6677-45d8-bbb6-a1ff2513719b/opt_out?owner_uuid=3f7d0e8a-ee94-4dff-a94e-09d64e697010&recipien
+
+---
