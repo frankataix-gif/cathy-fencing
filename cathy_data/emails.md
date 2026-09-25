@@ -19761,3 +19761,30 @@ Sent with Spark
 
 
 ---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:27:30.000Z
+**摘要:** Cathy因参加美国击剑比赛需请假两天，预计下周一下午返校。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Ok, thanks for letting me know.
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Friday, September 25, 2026 11:24 AM
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Re: Take off for two days
+
+She is  going to the U.S. for a fencing competition, we will be back at next Monday afternoon.
+Regards,
+Natalie
+
+Sent with Spark<https://sparkmailapp.com/source?from=signature>
+2026年9月25日 -0700 11:22 Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+Is she 
+
+---
