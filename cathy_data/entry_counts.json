@@ -1890,7 +1890,7 @@
     "total": 0
   },
   "miracle-fencing-ryc-rjcc-late--2026-09-12-virginia-beach-convention-center-virginia-beach-va": {
-    "fetched_at": "2026-09-24T12:04:32.736105Z",
+    "fetched_at": "2026-09-25T06:04:04.880546Z",
     "counts": {
       "Y12WF": 8,
       "Y14WF": 13,
@@ -2545,7 +2545,7 @@
     "total": 0
   },
   "nittany-lion-cup-ryc-rjcc-late-2026-09-12-nittany-valley-sports-centre-state-college-pa": {
-    "fetched_at": "2026-09-24T12:04:32.736227Z",
+    "fetched_at": "2026-09-25T06:04:04.880722Z",
     "counts": {
       "Y12WF": 16,
       "Y14WF": 32,
@@ -8550,7 +8550,7 @@
     "total": 0
   },
   "premier-challenge-roc-rjcc-ryc-2026-09-25-rockland-community-college-ny": {
-    "fetched_at": "2026-09-24T12:04:49.637823Z",
+    "fetched_at": "2026-09-25T06:04:04.882752Z",
     "counts": {
       "Y12WF": 28,
       "Y14WF": 60,
@@ -11667,7 +11667,7 @@
     "total": 0
   },
   "peachtree-ryc-rjcc-open-regist-2026-10-03-suwanee-sports-academy-suwanee-ga": {
-    "fetched_at": "2026-09-24T12:04:59.138539Z",
+    "fetched_at": "2026-09-25T06:04:04.882848Z",
     "counts": {
       "Y12WF": 13,
       "Y14WF": 17,
@@ -18371,7 +18371,7 @@
     "total": 0
   },
   "afm-super-regional-ryc-rjcc-ro-2026-10-23-santa-clara-convention-center-santa-clara-ca": {
-    "fetched_at": "2026-09-24T12:05:20.576235Z",
+    "fetched_at": "2026-09-25T06:04:13.168544Z",
     "counts": {
       "Y12WF": 92,
       "Y14WF": 109,
@@ -20558,10 +20558,10 @@
     "total": 0
   },
   "fall-grafa-ryc-rjcc-roc--third-2026-11-06-msa-fieldhouse-grand-rapids-mi": {
-    "fetched_at": "2026-09-24T12:05:25.236275Z",
+    "fetched_at": "2026-09-25T06:04:13.313135Z",
     "counts": {
-      "Y12WF": 21,
-      "Y14WF": 24,
+      "Y12WF": 22,
+      "Y14WF": 25,
       "CDTWF": 12
     },
     "names": {
@@ -20697,6 +20697,13 @@
           "club": "Plymouth/Ann Arbor Fencing Academy",
           "division": "Michigan",
           "member_num": "101481979",
+          "status": ""
+        },
+        {
+          "name": "Ullrey, Katelyn",
+          "club": "Grand Rapids Fencing Academy",
+          "division": "Michigan",
+          "member_num": "102566038",
           "status": ""
         },
         {
@@ -20870,6 +20877,13 @@
           "status": ""
         },
         {
+          "name": "Ullrey, Katelyn",
+          "club": "Grand Rapids Fencing Academy",
+          "division": "Michigan",
+          "member_num": "102566038",
+          "status": ""
+        },
+        {
           "name": "Xu, Scarlett",
           "club": "Plymouth/Ann Arbor Fencing Academy",
           "division": "Michigan",
@@ -20971,7 +20985,7 @@
         }
       ]
     },
-    "total": 57
+    "total": 59
   },
   "manhattan-fencing-center-saber-2026-11-08-new-york-ny": {
     "fetched_at": "2026-09-09T18:06:05.361593Z",
@@ -27461,9 +27475,9 @@
     "total": 35
   },
   "nick-itkin-cup-syc---vet-roc-o-2026-12-11-palm-springs-convention-center-palm-springs-ca": {
-    "fetched_at": "2026-09-24T12:05:52.407973Z",
+    "fetched_at": "2026-09-25T06:04:17.975132Z",
     "counts": {
-      "Y12WF": 94,
+      "Y12WF": 95,
       "Y14WF": 112,
       "CDTWF": 42
     },
@@ -27555,7 +27569,7 @@
         },
         {
           "name": "Cheung, Arya",
-          "club": "Unattached",
+          "club": "Dynamo Fencing Club - Austin",
           "division": "N/A",
           "member_num": "100626359",
           "status": ""
@@ -27593,6 +27607,13 @@
           "club": "Golubitsky Fencing Center",
           "division": "Orange Coast",
           "member_num": "100823911",
+          "status": ""
+        },
+        {
+          "name": "Ding, Jessica",
+          "club": "Austin Fencers Club",
+          "division": "South Texas",
+          "member_num": "100394428",
           "status": ""
         },
         {
@@ -28201,7 +28222,7 @@
         },
         {
           "name": "Cheung, Arya",
-          "club": "Unattached",
+          "club": "Dynamo Fencing Club - Austin",
           "division": "N/A",
           "member_num": "100626359",
           "status": ""
@@ -29218,7 +29239,7 @@
         }
       ]
     },
-    "total": 248
+    "total": 249
   },
   "the-southern-y8-ryc-rjcc-roc---2026-12-11-john-t.-rhodes-myrtle-beach-sports-center-myrtle-beach-sc": {
     "fetched_at": "2026-09-25T00:08:01.339466Z",
@@ -32353,11 +32374,11 @@
     "total": 0
   },
   "elite-cup-ryc-rjcc-open-regist-2027-01-16-san-diego-convention-center---hall-d&e-san-diego-ca": {
-    "fetched_at": "2026-09-24T12:06:21.117800Z",
+    "fetched_at": "2026-09-25T06:04:19.785912Z",
     "counts": {
       "Y12WF": 47,
-      "Y14WF": 51,
-      "CDTWF": 41
+      "Y14WF": 52,
+      "CDTWF": 42
     },
     "names": {
       "Y12WF": [
@@ -32896,6 +32917,13 @@
           "status": ""
         },
         {
+          "name": "Lim, Kensie",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100323906",
+          "status": ""
+        },
+        {
           "name": "Lu, Abigail",
           "club": "Elite International Fencers Club",
           "division": "San Diego",
@@ -33262,6 +33290,13 @@
           "status": ""
         },
         {
+          "name": "Lim, Kensie",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100323906",
+          "status": ""
+        },
+        {
           "name": "Oh, Amber",
           "club": "Elite International Fencers Club",
           "division": "San Diego",
@@ -33340,7 +33375,7 @@
         }
       ]
     },
-    "total": 139
+    "total": 141
   },
   "non-designated-efc-cadet-event-2027-01-23-krakow-": {
     "fetched_at": "2026-09-25T00:08:46.078367Z",
@@ -36535,7 +36570,7 @@
     "total": 18
   },
   "fortune-roc-rjcc-ryc-2026": {
-    "fetched_at": "2026-09-24T12:04:32.735607Z",
+    "fetched_at": "2026-09-25T06:04:04.880148Z",
     "counts": {
       "Y12WF": 77,
       "Y14WF": 86,
@@ -37824,7 +37859,7 @@
         {
           "name": "Choi, Jion",
           "club": "Nam Hyun Hee Fencing Academy",
-          "division": "Orange Coast",
+          "division": "US Fencing",
           "member_num": "100477338",
           "status": ""
         },
@@ -40391,7 +40426,7 @@
     "total": 0
   },
   "austin-ryc---rjcc-late-registr-2026-10-03-round-rock-sports-center-round-rock-tx": {
-    "fetched_at": "2026-09-24T12:04:59.629731Z",
+    "fetched_at": "2026-09-25T06:04:11.591023Z",
     "counts": {
       "Y12WF": 17,
       "Y14WF": 13,
