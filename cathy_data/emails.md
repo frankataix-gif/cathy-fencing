@@ -19454,3 +19454,22 @@ Def worth it.
 <https://app.sephora.com/T/v61000001a0d8c0de08a201b3369ff0b384/9d2f0553b0524e4d0000021ef3a0bcc2/9d2f0553-b052-4e4d-926a-34b81f08d76a
 
 ---
+
+## [营销] One Saturday left
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-25T13:58:24.000Z
+**摘要:** DoorDash 发送促销邮件，告知用户还有一次周末机会可以赢取新车或250美元优惠券。
+**待办:** 无
+**GmailID:** 1a0d8dc36a0ec3eb
+
+ DoorDash Don’t miss your chance to win a new car or $250 in DoorDash 
+credits. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
