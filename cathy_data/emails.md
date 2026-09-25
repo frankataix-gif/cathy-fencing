@@ -19423,3 +19423,16 @@ lululemon
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] New adidas: We told you not to look 👀
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-25T13:08:43.000Z
+**摘要:** 宣传新款adidas鞋子上市，鼓励立即购买并2小时内自提。
+**待办:** 无
+**GmailID:** 1a0d8aebd8ae4cf0
+
+Fresh arrivals and the pairs everyone’s wearing.   BUY NOW, PICK
+UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PMwuk7s9fx-2BuT2DB-2FMJlShL3Xo03rULmMn-2B5wVD8RBVQ-3D-3Dx0T__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPXhqyfriME-2BOfMwpEuUvvZ5Wr-2F4Q5-2FjWkiAL1mlQpWOCKP2UcQGLAO-2BzrnL-2BajXNCoSsHYK5hJPwgL9Mx7AIWzbEOLCEbH-2F1srBXZz-2BL98g9IQL88fgoTvnN4qhbQE8ASmBoEoBDYKS1TxToNh6YISHPjqrZ
+
+---
