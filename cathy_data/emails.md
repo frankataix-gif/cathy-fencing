@@ -19588,3 +19588,35 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 Meadowridge School is located on the ancestral, unceded territory of the Katzie
 
 ---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:57:58.000Z
+**摘要:** Cathy需要请假两天，学校需要家长确认缺席原因。
+**待办:** 回复学校说明Cathy缺席的原因。
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+
+Sent with Spark
+2026年9月25日 -0700 10:56 Dionne Young <dionne.young@meadowridge.bc.ca>，写道：
+> Good Morning Cathy,
+> For attendance recording purposes, would you please let me know why Cathy will be away. Thanks so much.
+>
+> Kind regards,
+>
+> Dionne Young
+> Administrative Assistant / Front Office
+> dionne.young@meadowridge.bc.ca
+>
+> MEADOWRIDGE SCHOOL
+> 12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+> t: 604.467.4444
+> www.meadowridge.bc.ca
+>
+>
+> Meadowridge School is located
+
+---
