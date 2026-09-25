@@ -19620,3 +19620,38 @@ Sent with Spark
 > Meadowridge School is located
 
 ---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T18:02:06.000Z
+**摘要:** Cathy将前往美国参加击剑比赛，周一下午返回，并需向学校说明请假原因。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Today She will heading to U.S for a fencing competition, and will be back
+at Monday afternoon
+Regards
+Cathy’s mom
+Dionne Young <dionne.young@meadowridge.bc.ca>于2026年9月25日 周五10:56写道：
+
+> Good Morning Cathy,
+>
+> For attendance recording purposes, would you please let me know why Cathy
+> will be away. Thanks so much.
+>
+>
+>
+> *Kind regards,*
+>
+>
+>
+> *Dionne Young*
+> Administrative Assistant / Front Office
+> *dionne.young@meadowridge.bc.ca <dionne.young@meadowridge.bc.ca>*
+>
+> *ME
+
+---
