@@ -19706,3 +19706,30 @@ Cathy’s mom
 
 
 ---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T18:24:00.000Z
+**摘要:** Cathy因击剑比赛需请假两天，下周一会返回。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+She is  going to the U.S. for a fencing competition, we will be back at next Monday afternoon.
+
+Sent with Spark
+2026年9月25日 -0700 11:22 Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+> Is she sick?
+> From: natalie <nataliewu100@gmail.com>
+> Sent: Friday, September 25, 2026 10:56 AM
+> To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+> Subject: Take off for two days
+>
+> Hi Ms.Hook,
+> Cathy won’t be at school for today and next Monday please note that down, thank you!
+> Regards
+> Cathy’
+
+---
