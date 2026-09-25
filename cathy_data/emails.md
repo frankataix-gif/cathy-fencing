@@ -19508,3 +19508,22 @@ Cathy’s mom
 
 
 ---
+
+## [Cathy&David] Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:56:31.000Z
+**摘要:** Cathy因故今天和下周一下午缺席学校
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Hi Ms.Hook,
+Cathy won’t be at school for today and next Monday please note that down, thank
+you!
+Regards
+Cathy’s mom
+
+
+---
