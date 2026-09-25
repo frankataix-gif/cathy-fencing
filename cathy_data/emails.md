@@ -19436,3 +19436,21 @@ Fresh arrivals and the pairs everyone’s wearing.   BUY NOW, PICK
 UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PMwuk7s9fx-2BuT2DB-2FMJlShL3Xo03rULmMn-2B5wVD8RBVQ-3D-3Dx0T__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPXhqyfriME-2BOfMwpEuUvvZ5Wr-2F4Q5-2FjWkiAL1mlQpWOCKP2UcQGLAO-2BzrnL-2BajXNCoSsHYK5hJPwgL9Mx7AIWzbEOLCEbH-2F1srBXZz-2BL98g9IQL88fgoTvnN4qhbQE8ASmBoEoBDYKS1TxToNh6YISHPjqrZ
 
 ---
+
+## [营销] New beauty to obsess over 😍
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-25T13:28:42.000Z
+**摘要:** Sephora发送的美容产品促销邮件
+**待办:** 无
+**GmailID:** 1a0d8c109478fc0c
+
+ Sephora 
+
+Def worth it. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0d8c0de08a201b3369ff0b384/9d2f0553b0524e4d0000021ef3a0bcc2/9d2f0553-b052-4e4d-926a-34b81f08d76a
+
+---
