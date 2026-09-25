@@ -19473,3 +19473,19 @@ credits.
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
 
 ---
+
+## [其他] What's happening with house prices where you live?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-09-25T16:27:43.000Z
+**摘要:** Rightmove发送关于当地房价变化及卖房时间的信息
+**待办:** 无
+**GmailID:** 1a0d964ed7b7df20
+
+Check average house price changes, plus how long it takes to
+sell a home              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/VYm3atadX4fCilJiz7DBSA~~/AAAHahA~/WnY3xC3hJqvVnSLhvZESGy49aCEt5iTVbq0oYe6Yrjre1psTZnhPc1AH_Z_2ID2I91HGbbwYGfwA9BCHvSc8sBkUTqp6CpPni2JMSXmey-ZayVcQO4U9-E2ONSDKWAuH8wheE1t_ZiXFBia2TzXoByTqwYTh1hA6MJy7-OTUysM~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/bPy617iUtTMweZcEcewRNw~~/AAAHahA~/c3y0XpcvQzx-Ovbqn4vIUrespzoZRStFYtXIYPKmXduCdTupfExAj71Y4wS2ffCm-Se
+
+---
