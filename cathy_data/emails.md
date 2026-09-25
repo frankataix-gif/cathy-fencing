@@ -19875,3 +19875,25 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-25T21:36:53.000Z
+**摘要:** TELUS通知账户的漫游使用情况及费用，提醒用户注意可能的费用，并提供更多信息的链接
+**待办:** 无
+**GmailID:** 1a0da7ff33ad06f5
+
+ TELUS 
+[image: TELUS Logo] 
+Hello,
+Looks like ***-***-5899 has connected to a roaming network in USA.
+Just so you know, if they have a roaming package that covers this 
+destination, their usage will be billed at the rates of that package. 
+Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts 
+$0.75/MSG (1 message = 160 characters) (max. 160 characters each). All 
+incoming texts are free.
+***-***-5899 will also receive a text message outlining their active 
+roaming package
+
+---
