@@ -19833,3 +19833,32 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" 
 
 ---
+
+## [Cathy&David] Visitor Record and 2026 Medical Form
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-25T19:32:33.000Z
+**摘要:** 提醒提交访客记录和2026年医疗表格
+**待办:** 提交访客记录和医疗表格
+**涉及:** 两个
+**GmailID:** 1a0da0e2cdcd9813
+
+Good morning Natalie,
+
+I am just writing to follow up whether you have received your visitor record? If yes, can you share it with us? 😋
+Therefore, I noticed that you have not submitted the medical form from the Hub.
+It will be awesome if you can log into your Hub<https://meadowridge.myschoolapp.com/> account and submit it for us! Thank you so much!
+
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@mea
+
+---
