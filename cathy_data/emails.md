@@ -19560,3 +19560,31 @@ Cathy’s mom
 
 
 ---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** Dionne Young <dionne.young@meadowridge.bc.ca>
+**日期:** 2026-09-25T17:56:44.000Z
+**摘要:** 学校询问Cathy缺席的原因
+**待办:** 需要回复说明Cathy缺席的原因
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Good Morning Cathy,
+For attendance recording purposes, would you please let me know why Cathy will be away. Thanks so much.
+
+Kind regards,
+
+Dionne Young
+Administrative Assistant / Front Office
+dionne.young@meadowridge.bc.ca<mailto:dionne.young@meadowridge.bc.ca>
+
+MEADOWRIDGE SCHOOL
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t: 604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie
+
+---
