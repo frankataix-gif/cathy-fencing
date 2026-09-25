@@ -19353,3 +19353,50 @@ lululemon
 
 
 ---
+
+## [其他] 260925 Resident Newsletter - LH - 25/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-25T09:54:29.000Z
+**摘要:** 伦敦码头区居民通讯，包含社区更新和通知
+**待办:** 无
+**GmailID:** 1a0d7fcf52102900
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
