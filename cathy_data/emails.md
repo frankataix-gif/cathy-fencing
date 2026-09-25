@@ -19682,3 +19682,27 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, a
 
 ---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:22:10.000Z
+**摘要:** Cathy因故需要请假两天，Cathy妈妈通知学校相关情况
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Is she sick?
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Friday, September 25, 2026 10:56 AM
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Take off for two days
+
+Hi Ms.Hook,
+Cathy won’t be at school for today and next Monday please note that down, thank you!
+Regards
+Cathy’s mom
+
+
+---
