@@ -19340,3 +19340,16 @@ lululemon
                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ---
+
+## [营销] Outlet: inizia la Member Week per i soci
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-25T07:09:54.000Z
+**摘要:** Calvin Klein会员周促销活动
+**待办:** 无
+**GmailID:** 1a0d7684bc2e2d21
+
+
+
+
+---
