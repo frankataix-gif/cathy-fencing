@@ -19897,3 +19897,30 @@ incoming texts are free.
 roaming package
 
 ---
+
+## [Cathy&David] Meadowridge School - Welcome!
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-25T21:57:28.000Z
+**摘要:** 学校为家长创建了会议管理账户，提供登录信息和后续步骤
+**待办:** 更改临时密码
+**涉及:** 两个
+**GmailID:** 1a0da92cb664bb6e
+
+Hello Natalie,
+
+Welcome to the Conference Manager for Meadowridge School. Your parent 
+account has been created.
+
+Log in using your username *nataliewu100@gmail.com* and temporary password 
+*tM0KoPU2*
+
+In the future you can manage your account, reset your password and schedule 
+your conferences at https://meadowridge.schoolsoft.com/login.jsf
+
+After logging in, we recommend that you change your temporary password by 
+clicking on MY PROFILE.
+
+You can access parent resources related to the Conferen
+
+---
