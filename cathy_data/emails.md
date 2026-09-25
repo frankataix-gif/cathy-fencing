@@ -19655,3 +19655,30 @@ Dionne Young <dionne.young@meadowridge.bc.ca>于2026年9月25日 周五10:56写�
 > *ME
 
 ---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** Dionne Young <dionne.young@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:05:01.000Z
+**摘要:** 学校回复关于请假两天的邮件，表示祝福。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d9af31cba0c63
+
+Wonderful! I wish her all the best.
+
+Kind regards,
+
+Dionne Young
+Administrative Assistant / Front Office
+dionne.young@meadowridge.bc.ca<mailto:dionne.young@meadowridge.bc.ca>
+
+MEADOWRIDGE SCHOOL
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t: 604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, a
+
+---
