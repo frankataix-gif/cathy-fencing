@@ -19788,3 +19788,20 @@ Sent with Spark<https://sparkmailapp.com/source?from=signature>
 Is she 
 
 ---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:30:35.000Z
+**摘要:** Cathy因参加击剑比赛需请假两天，需完成请假手续并跟进课程。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Ok, it is important that she let her teachers know she is going to be away - prior to going. She should have had an excused absence form signed by all her teachers that she will be missing class with both today and Monday. That way, she knows what she is missing.  It is an expectation that she keeps up with the work she has missed and is as caught up as possible upon her return.
+I wish her luck in the tournament.
+Ms. Hook
+________________________________
+From: natalie <nataliewu100@gmail.com
+
+---
