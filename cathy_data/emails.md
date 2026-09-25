@@ -19489,3 +19489,22 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/bPy617iUtTMweZcEcewRNw~~/AAAHahA~/c3y0XpcvQzx-Ovbqn4vIUrespzoZRStFYtXIYPKmXduCdTupfExAj71Y4wS2ffCm-Se
 
 ---
+
+## [Cathy&David] Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:53:35.000Z
+**摘要:** Cathy He 今天和下周星期一请假不上学
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Hi, dear teachers 
+my daughter Cathy He, won’t be school for today and next Monday please note 
+that down, thank you!
+Regards
+Cathy’s mom 
+
+
+---
