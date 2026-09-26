@@ -20106,3 +20106,29 @@ Natalie，您即将在Apple iPhone上完成 Google设置
 发自我的 iPhone
 
 ---
+
+## [待办] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-26T22:52:36.000Z
+**摘要:** Google账号在Apple iPhone上有新登录活动，提醒用户确认安全性。
+**待办:** 检查Google账号安全性并确认登录活动
+**GmailID:** 1a0dfeba7947d68c
+
+[image: Google]
+在 Apple iPhone 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Apple iPhone
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1790463156662?rfn%3D325%26rfnc%3D1%26eid%3D-8458794245572950248%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC
+
+---
