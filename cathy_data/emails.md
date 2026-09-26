@@ -20071,3 +20071,24 @@ lululemon
     <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/site-emai
 
 ---
+
+## [待办] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-09-26T22:53:40.000Z
+**摘要:** 提醒Natalie在新Apple iPhone上完成Google账户设置
+**待办:** 完成Google账户设置
+**GmailID:** 1a0dfec98f19ee27
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/AAuDWvl5qZvzXejti3dbnbha7fHxzHaZZY6hI65myN2jwDhS-Nlm7tLWBWjxogVBv0vVl-peCqYiBQHp4bKUvfD6kNRDVh7yqY58ADTvVTf9u74D0iGKcCdXDfXYhl10CLXThm7mH49l9gYETyFblNlzr_r4aNwK_2Cs94QyaxH6Ip9UXxB8eDopygBVwuW7gZCJWSW8L9J_U1ZqdolfDoVCZBnlShs4BFSWdfyJxvNKkMkooQPjzUm5CGHpTQn1m3tR3GrrHO-vAxXea6vEeW11xpfUh2i6cEmLD6l-Ht5qikRH4552k07-?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple i
+
+---
