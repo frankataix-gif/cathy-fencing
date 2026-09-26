@@ -20002,3 +20002,36 @@ Log in to your My TELUS account.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [生活旅行] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-26T16:28:51.000Z
+**摘要:** 邮件涉及确认是否成功提交Knight Frank公寓相关申请，需检查旧链接是否已提交或联系支持重新提交。
+**待办:** 确认是否成功提交申请，如未提交则通过旧链接重新提交或请求新链接
+**方向:** 发出
+**GmailID:** 1a07ba79eafc4532
+
+Hi Lauren.
+This is a copy of the approved page.
+Let me know if this means approved?
+在 Sep 21, 2026, 11:52 +0200，Lauren D'Souza <Lauren.DSouza@knightfrank.com>，写道：
+> Hi Natalie,
+>
+> You will just need to go into the old link and ensure that you have clicked submit.
+>
+> If not, Thirdfort support should be able to assist.
+>
+> Kind Regards,
+> Lauren
+>
+> Lauren D'Souza
+> Senior Operations Coordinator
+> London Sales Operations
+> ______
+> D:
+>   +44 2089392806
+>  M:
+> +44 7811771417
+
+---
