@@ -19924,3 +19924,17 @@ clicking on MY PROFILE.
 You can access parent resources related to the Conferen
 
 ---
+
+## [营销] New Michael Kors: A Polished Step Forward
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-26T13:05:42.000Z
+**摘要:** 推广Michael Kors的新品鞋包系列
+**待办:** 无
+**GmailID:** 1a0ddd251e30bddd
+
+Meet polished ballet flats, slingback pumps and bags to match
+YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Opt3r1crpL8-2BLCx9juFQZjT-2Bih-2FQGQkPHIRoktqHljGQ-3D-3DJ4e__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHbPzKGcAzu5rqTkHt4uJ-2FemmnM9tU7gYfKCqBB7AD1nNlzidItNYXZenhm6gY6ISaDi9QcShgyHFHrL4E8hEbSDdSRCvCf3ViEm0D9vBqBbdIGsET2tJfrNueQ9l7G51ej6zcMMx7C4kitu4WN08eJ-2F
+
+---
