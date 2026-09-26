@@ -19938,3 +19938,21 @@ YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Opt3r1crpL8-2BLCx9juFQZjT-2Bih-2FQGQkPHIRoktqHljGQ-3D-3DJ4e__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHbPzKGcAzu5rqTkHt4uJ-2FemmnM9tU7gYfKCqBB7AD1nNlzidItNYXZenhm6gY6ISaDi9QcShgyHFHrL4E8hEbSDdSRCvCf3ViEm0D9vBqBbdIGsET2tJfrNueQ9l7G51ej6zcMMx7C4kitu4WN08eJ-2F
 
 ---
+
+## [营销] FYI: up to 30% off select Messy by Alli Webb, Moroccanoil, Olaplex, and Shark Beauty 🤩
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-26T13:22:32.000Z
+**摘要:** Sephora 发送促销邮件，提供部分美妆产品的折扣及免费配送服务。
+**待办:** 无
+**GmailID:** 1a0dde1bedbf1302
+
+ Sephora 
+
+Plus, 20% off select value-size hair care and FREE Same-Day Delivery. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0dde1ae97a34465369fe94b70/d50e0c70e69a4
+
+---
