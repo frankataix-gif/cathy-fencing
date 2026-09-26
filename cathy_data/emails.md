@@ -20157,3 +20157,20 @@ nataliewu100@gmail.com
 <https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Sep 28-Oct 2
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-26T22:48:03.000Z
+**摘要:** 七年级本周活动提醒，包含校车更新、照片日及家长会安排
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0dfe789b2e53c1
+
+Good day, Grade 7 Families,
+Hope you're enjoying a restful weekend. Our kids activities are keeping us busy!
+Scroll down to Advisory Teachers for a CWOW reminder.
+Scroll down to Parent Guild for some new updates.
+Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/e9a3f279-6e84-458f-82fd-ceec1a7e8028> and read this week's eGryphon for news & updates (including IMPORTANT TRAFFIC & BUSSING UPDATES this week) from Meadowridge School. Keep informed about what’s coming up and ho
+
+---
