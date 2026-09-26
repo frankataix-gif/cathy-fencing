@@ -19956,3 +19956,22 @@ Plus, 20% off select value-size hair care and FREE Same-Day Delivery.
 <https://app.sephora.com/T/v61000001a0dde1ae97a34465369fe94b70/d50e0c70e69a4
 
 ---
+
+## [待办] Attention required: your recent pre-authorized payment was declined
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-09-26T14:17:23.000Z
+**摘要:** 邮件通知预授权支付被拒，需及时处理以避免滞纳金。
+**待办:** 登录My TELUS账户完成支付或更新预授权信息
+**GmailID:** 1a0de199e0b97023
+
+Account Number:  
+Hello,  
+Your recent pre-authorized payment to TELUS was declined by your financial institution on . 
+
+You will need to make a one-time payment for any outstanding bill amounts. To avoid late payment fees, log in to your My TELUS account to make a quick and easy payment using your credit card or Visa Debit card. This payment will be reflected immediately on your account.  
+Pay bill now  
+Update your pre-authorized payment information.  
+Log in to your My TELUS account. 
+
+---
