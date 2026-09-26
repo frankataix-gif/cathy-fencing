@@ -20048,3 +20048,26 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] Your York House Journey Starts Here
+
+**发件人:** York House School <info@yorkhouse.ca>
+**日期:** 2026-09-26T22:40:03.000Z
+**摘要:** York House School 发来入学相关信息，可能涉及学生注册或课程安排
+**待办:** 需要查看邮件内容确认具体操作
+**涉及:** 两个
+**GmailID:** 1a0dfe029990337a
+
+<!DOCTYPE html>
+<html lang="en" class="email-content-template" style="padding: 0; margin: 0; overflow-x: hidden;">
+
+<head>
+    
+    <title>Embed Html</title>
+
+
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/global.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://yorkhouse-cdn.website.amais.com/css/site-email-styles.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/site-emai
+
+---
