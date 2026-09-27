@@ -20201,3 +20201,16 @@ If you have forgotten your password and want to reset it - click here
 <https://meadowridge.schoolsoft.com/forgotPa
 
 ---
+
+## [营销] Meet the boots of the moment
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-27T13:07:47.000Z
+**摘要:** 促销新推出的UGG款式 Tasman Alpine，可在线购买
+**待办:** 无
+**GmailID:** 1a0e2fa93bb519f0
+
++NEW EXCLUSIVE UGG STYLE: TASMAN ALPINE   BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MMitVMmKw8JfIQ8slmj47qCIVr9cU-2BXVJj2-2FOG3X036A-3D-3DTJA0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKKJwxFCNOCw610phzYXb0crriwiIv7f2tdA8fpvHDlrNoFMEVZ-2BCIRx14Rgalf8CGYMJBDhyHansnD1bopuTAfMk74oHprg8phHI7c3In5iJxlNdoUQJV89AlphcSRm1FjLT5FFIHnjWh07QVV5maj-2FACKnTZvLasqC2EMoNt-2BpweW5
+
+---
