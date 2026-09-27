@@ -43038,5 +43038,19 @@
       "Y12WF": []
     },
     "total": 186
+  },
+  "motor-city-rjcc-ryc-open-regis-2027-02-20-elite-sportsplex-waterford-mi": {
+    "fetched_at": "2026-09-27T18:04:00.328408Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 0,
+      "Y14WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [],
+      "Y14WF": []
+    },
+    "total": 0
   }
 }
