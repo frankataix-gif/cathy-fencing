@@ -20232,3 +20232,22 @@ Shop LANEIGE, IOPE, Biodance, and more.
 <https://app.sephora.com/T/v61000001a0e2f73210c2c7296e96c660f0/d70eaf4db91d4d4c0000021ef3a0bcc2/d70eaf4d-b
 
 ---
+
+## [营销] Clock’s ticking: 40% off two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-27T16:47:11.000Z
+**摘要:** DoorDash推送40% off促销活动
+**待办:** 无
+**GmailID:** 1a0e3c37158abeef
+
+ DoorDash These savings won’t last. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
