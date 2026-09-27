@@ -20292,3 +20292,25 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
 
 ---
+
+## [待办] Please confirm your email
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-27T19:52:47.000Z
+**摘要:** 需要确认PayPal邮箱以完成账户设置
+**待办:** 确认邮箱以完成PayPal账户设置
+**GmailID:** 1a0e46d5c5509e73
+
+ Please confirm your email xiaojun, please complete your PayPal account 
+setup. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Confirm your email
+
+You’re almost there! To enjoy the full benefits of your recently opened 
+PayPal account, just confirm this email address.
+Confirm My Email Address 
+<https://www.paypal.com/zm/welcome/complete?userIntent=profile_complete&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000263&utm_unptid=03274650-baad-11f1-a625-bd2fbc59eec1&ppid=RT000263&cnac=ZM&rsta=en_US%28e
+
+---
