@@ -20174,3 +20174,30 @@ Scroll down to Parent Guild for some new updates.
 Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/e9a3f279-6e84-458f-82fd-ceec1a7e8028> and read this week's eGryphon for news & updates (including IMPORTANT TRAFFIC & BUSSING UPDATES this week) from Meadowridge School. Keep informed about what’s coming up and ho
 
 ---
+
+## [Cathy&David] Meadowridge School - Family - Homeroom Teacher/Advisor - Student Conferences - SYSTEM IS OPENING SOON
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-27T08:01:27.000Z
+**摘要:** Meadowridge School通知家长教师会议系统即将开放，系统开放时间为9月28日9:30至10月4日23:30，需通过指定链接登录安排会议。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0e1e2207b27692
+
+Hello Natalie,
+
+Meadowridge School is using the SchoolSoft Conference Manager for online 
+scheduling of parent teacher conferences.
+
+This email is to inform you that the *system will open on Monday September 
+28, 2026 at 9:30 AM*.
+
+The system will close on *Sunday October 4, 2026 at 11:30 PM*.
+
+You can access the Conference Manager at 
+https://meadowridge.schoolsoft.com/login.jsf.
+
+If you have forgotten your password and want to reset it - click here 
+<https://meadowridge.schoolsoft.com/forgotPa
+
+---
