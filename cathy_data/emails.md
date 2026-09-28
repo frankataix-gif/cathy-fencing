@@ -20462,3 +20462,31 @@ FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQfqKkBPD7CsziZwz6hIL6js-3DmOO-_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGYWdy4LfxgJxHW10wD58Fg0TqsPYATLgK-2F5r-2B74KfM-2BqhaBEtFGG7RteyLqTOU4u2vEfDQWMBgWjlUmxd3reQY9HoyWE5qCVFZSxJ5v5wfRDnTO482gqUYBj4iu4rkff
 
 ---
+
+## [待办] You’ve added another way to log in to PayPal
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-28T13:01:41.000Z
+**摘要:** PayPal账户添加了新的登录方式（passkey），需确认是否为本人操作
+**待办:** 检查并确认PayPal账户的安全设置
+**GmailID:** 1a0e81baab53a43b
+
+ You’ve added another way to log in to PayPal xiaojun he, a passkey was 
+created for your account. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Thank you for creating a passkey
+Password manager 
+Windows Hello 
+Created on 
+Chrome 
+
+Nice work. You can now use your passkey to log in to PayPal the same way 
+you unlock your device. Use your face, your fingerprint, or your passcode.
+
+If you didn't add this feature, you can remove it in your Security 
+Settings. Visit our FAQ page 
+<https://www.paypal.com/us/c
+
+---
