@@ -2170,6 +2170,24 @@ function circuitLabel(c) {
   function saveUIToLocal(key, value) { try { localStorage.setItem(key, value); } catch(e) {} }
   function getUIFromLocal(key, def) { try { return localStorage.getItem(key) || def; } catch(e) { return def; } }
 
+  // ===== 任务/邮件通用纯函数（须在首块定义：初始化期的同步调用早于后块解析）=====
+  function newTaskId() { return 't_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
+  function getTaskTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_task_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markTaskDeleted(id) {
+    const m = getTaskTombstones();
+    m[id] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 200) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 200).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_task_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
+  function emailTaskKey(email) { return (email.date || '') + '|' + (email.subject || ''); }
+  function taskCategoryFor(emailCategory) {
+    if (['待办','击剑','Cathy&David','学校','生活旅行','营销'].includes(emailCategory)) return emailCategory;
+    return '待办';
+  }
+
   function loadReflections() {
     try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
   }
@@ -5760,23 +5778,8 @@ function circuitLabel(c) {
     if (typeof renderEmailList === 'function') renderEmailList();
   }
 
-  function newTaskId() { return 't_' + Date.now() + '_' + Math.random().toString(36).slice(2,8); }
-  function getTaskTombstones() {
-    try { return JSON.parse(localStorage.getItem('cathy_task_tombstones') || '{}'); } catch(e) { return {}; }
-  }
-  function markTaskDeleted(id) {
-    const m = getTaskTombstones();
-    m[id] = new Date().toISOString();
-    const keys = Object.keys(m);
-    if (keys.length > 200) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 200).forEach(k => delete m[k]);
-    try { localStorage.setItem('cathy_task_tombstones', JSON.stringify(m)); } catch(e) {}
-  }
-  function emailTaskKey(email) { return (email.date || '') + '|' + (email.subject || ''); }
-
-  function taskCategoryFor(emailCategory) {
-    if (['待办','击剑','Cathy&David','学校','生活旅行','营销'].includes(emailCategory)) return emailCategory;
-    return '待办';
-  }
+  // newTaskId / getTaskTombstones / markTaskDeleted / emailTaskKey / taskCategoryFor
+  // 已上移到首个 <script> 块（初始化期就会被调用，不能依赖后块解析顺序）
 
   function renderUpcoming() {
     const container = document.getElementById('upcoming-list');
