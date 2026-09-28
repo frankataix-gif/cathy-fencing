@@ -3458,7 +3458,21 @@ function circuitLabel(c) {
   }
 
   function matches(t) {
-    if (t.status === 'not_yet_open') return false;
+    const today = vancouverISO().slice(0, 10);
+    const tracked = t.reg_status === 'registered' || t.reg_status === 'watching';
+    const endDate = t.end || t.start || '';
+    const started = (t.start || '') <= today;
+    const ended = !!endDate && endDate < today;
+    // 已结束的默认隐藏；已报名/关注的赛事结束后 14 天内仍显示（看成绩），reg 筛选激活时不隐藏
+    if (ended) {
+      if (!tracked) return false;
+      if (!activeFilters.reg.length) {
+        const grace = new Date(today + 'T00:00:00'); grace.setDate(grace.getDate() - 14);
+        if (endDate < grace.toISOString().slice(0, 10)) return false;
+      }
+    }
+    // not_yet_open 只是导入时的状态标记：仅隐藏「未开始且未关注」的，进行中/刚结束/已报名的照常显示
+    if (t.status === 'not_yet_open' && !started && !tracked) return false;
     if (activeFilters.reg.length && !activeFilters.reg.some(r => matchesReg(t, r))) return false;
     if (activeFilters.region.length && !activeFilters.region.includes(t.region)) return false;
     if (activeFilters.age.length && !activeFilters.age.some(a => (t.age_groups || []).includes(a))) return false;
@@ -3468,9 +3482,6 @@ function circuitLabel(c) {
       if (t.distance_km > maxDist) return false;
     }
     if (!t.weapons || !t.weapons.includes(CATHY.weapon)) return false; // default Foil
-    // 已结束比赛默认隐藏
-    const today = vancouverISO();
-    if (t.end && t.end < today) return false;
     // 时间过滤：按比赛开始时间
     if (activeFilters.time !== 'all') {
       const days = parseInt(activeFilters.time, 10);
@@ -3915,7 +3926,7 @@ function circuitLabel(c) {
     });
 
     // upcoming events
-    const today = vancouverISO();
+    const today = vancouverISO().slice(0, 10);
     const upcoming = scheduleEvents
       .filter(e => e.type === 'competition' || e.type === 'camp' || e.type === 'club')
       .filter(e => e.date >= today)
