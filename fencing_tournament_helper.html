@@ -1900,12 +1900,45 @@ function circuitLabel(c) {
 <!-- ====== 数据结束 / DATA END ====== -->
 
 <script>
-  window.onerror = function(msg, src, line, col, err) {
+  function reportJsError(msg, line) {
+    console.error(msg);
+    try {
+      const log = JSON.parse(localStorage.getItem('cathy_js_errors') || '[]');
+      log.push({ msg: String(msg).slice(0, 200), line, at: new Date().toISOString() });
+      localStorage.setItem('cathy_js_errors', JSON.stringify(log.slice(-20)));
+    } catch(e) {}
     const r = document.getElementById('results');
-    if (r) r.innerHTML = `<div class="empty-state">脚本错误：${msg}<br><small>line ${line}</small></div>`;
-    console.error(err || msg);
+    if (!r) return;
+    if (!r.children.length) {
+      // 列表还没渲染出来就出错——此时只能整屏提示
+      r.innerHTML = `<div class="empty-state">脚本错误：${msg}<br><small>line ${line}</small></div>`;
+      return;
+    }
+    // 列表已渲染——用可关闭的小横幅提示，不覆盖赛事列表
+    let b = document.getElementById('js-err-banner');
+    if (!b) {
+      b = document.createElement('div');
+      b.id = 'js-err-banner';
+      b.style.cssText = 'position:sticky;top:0;z-index:60;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;border-radius:8px;padding:8px 32px 8px 10px;font-size:0.8rem;margin-bottom:8px;';
+      const tx = document.createElement('span');
+      tx.className = 'js-err-text';
+      const x = document.createElement('span');
+      x.textContent = '×';
+      x.style.cssText = 'position:absolute;right:10px;top:6px;cursor:pointer;font-size:1rem;';
+      x.onclick = () => b.remove();
+      b.appendChild(tx);
+      b.appendChild(x);
+      r.prepend(b);
+    }
+    b.querySelector('.js-err-text').textContent = `脚本提示：${String(msg).slice(0, 120)} · line ${line}`;
+  }
+  window.onerror = function(msg, src, line, col, err) {
+    reportJsError(err && err.stack ? err.stack.split('\n')[0] : msg, line);
     return false;
   };
+  window.addEventListener('unhandledrejection', function(ev) {
+    reportJsError('异步错误: ' + (ev.reason && (ev.reason.message || ev.reason) || 'unknown'), '');
+  });
 
   let activeFilters = { reg: [], region: [], age: [], circuit: [], distance: [], search: '' };
   let currentBase = CATHY.home;
