@@ -116,12 +116,28 @@ function syncCathyEmails() {
 function getExistingEmailKeys() {
   const keys = new Set();
   try {
-    const response = UrlFetchApp.fetch(CONFIG.EMAILS_MD_URL, {
-      headers: { 'User-Agent': 'Cathy-Gmail-Sync' },
-      muteHttpExceptions: true
-    });
-    if (response.getResponseCode() !== 200) return keys;
-    const text = response.getContentText();
+    // 优先走 Worker API 直读（raw.githubusercontent 有几分钟 CDN 缓存，可能查重失效）
+    let text = null;
+    try {
+      const wr = UrlFetchApp.fetch(CONFIG.WORKER_URL, {
+        method: 'post',
+        contentType: 'application/json',
+        payload: JSON.stringify({ action: 'read', path: 'cathy_data/emails.md' }),
+        muteHttpExceptions: true
+      });
+      if (wr.getResponseCode() === 200) {
+        const data = JSON.parse(wr.getContentText());
+        if (data && typeof data.content === 'string') text = data.content;
+      }
+    } catch (e) {}
+    if (text === null) {
+      const response = UrlFetchApp.fetch(CONFIG.EMAILS_MD_URL, {
+        headers: { 'User-Agent': 'Cathy-Gmail-Sync' },
+        muteHttpExceptions: true
+      });
+      if (response.getResponseCode() !== 200) return keys;
+      text = response.getContentText();
+    }
     const regex = /##\s*\[[^\]]+\]\s*([\s\S]*?)\n[\s\S]*?\*\*发件人:\*\*\s*(.*?)\n\*\*日期:\*\*\s*(.*?)\n/g;
     let match;
     while ((match = regex.exec(text)) !== null) {

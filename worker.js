@@ -15,7 +15,7 @@ export default {
       const reqUrl = new URL(request.url);
       if (request.method === 'GET' && reqUrl.pathname === '/file') {
         const path = reqUrl.searchParams.get('path') || '';
-        if (!path.startsWith('cathy_data/files/')) return new Response('forbidden', { status: 403 });
+        if (!path.startsWith('cathy_data/files/') || path.includes('..')) return new Response('forbidden', { status: 403 });
         const repo = env.GITHUB_REPO || 'frankataix-gif/cathy-fencing';
         const gh = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
           headers: { 'Authorization': `Bearer ${env.GITHUB_TOKEN}`, 'User-Agent': 'cathy-worker', 'Accept': 'application/vnd.github.raw' }
@@ -57,12 +57,20 @@ export default {
 
     if (body.action === 'read') {
       // 直接读 GitHub API，不走 raw CDN —— 避免 CDN 延迟导致多设备同步拿到旧数据
-      const file = await readGitHubFile(env, body.path);
+      const path = body.path || '';
+      if (!path.startsWith('cathy_data/') || path.includes('..')) return json({ error: 'forbidden path' }, 403);
+      const file = await readGitHubFile(env, path);
       return json({ content: file ? file.content : null });
     }
 
     if (body.action === 'save') {
       const { path, content, message } = body;
+      // 白名单：只允许写数据文件，防止端点被滥用改写页面/工作流
+      const SAVE_ALLOWED = ['cathy_data/user_data.json', 'cathy_data/open_data.json', 'cathy_data/vault.json', 'cathy_data/email_rules.json', 'cathy_data/emails.md', 'cathy_data/usaf_dashboard.md'];
+      const isFileUpload = typeof path === 'string' && path.startsWith('cathy_data/files/');
+      if (typeof path !== 'string' || path.includes('..') || (!SAVE_ALLOWED.includes(path) && !isFileUpload)) {
+        return json({ error: 'forbidden path' }, 403);
+      }
       const isB64 = body.encoding === 'base64';
       const existing = await readGitHubFile(env, path);
       const result = await writeGitHubFile(env, path, content, message || 'Update via worker', existing?.sha, isB64);

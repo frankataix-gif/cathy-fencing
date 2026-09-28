@@ -596,6 +596,10 @@
     </div>
 
     <div id="cathydata-sub-tasks" class="cathydata-sub-content" style="display:block;">
+      <div class="card" id="upcoming-card" style="display:none;">
+        <h3 style="margin:0 0 10px;">近期事项 / 7 天内</h3>
+        <div id="upcoming-list"></div>
+      </div>
       <div class="card">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
           <h3 style="margin:0;">待办清单</h3>
@@ -2188,6 +2192,49 @@ function circuitLabel(c) {
     if (['待办','击剑','Cathy&David','学校','生活旅行','营销'].includes(emailCategory)) return emailCategory;
     return '待办';
   }
+  // 日程墓碑：防止多设备合并时已删事件复活
+  function getScheduleTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_schedule_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markScheduleDeleted(id) {
+    if (!id) return;
+    const m = getScheduleTombstones();
+    m[id] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 300) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 300).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_schedule_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
+  // 日程合并：按 id，updatedAt 新者胜；墓碑拦截已删事件复活（本地侧优先）
+  function mergeScheduleLists(remoteList, localList, tombs) {
+    const isTomb = (e) => e && e.id && tombs[e.id] && (!e.updatedAt || e.updatedAt <= tombs[e.id]);
+    const localById = {};
+    (localList || []).forEach(e => { if (e && e.id) localById[e.id] = e; });
+    const merged = [], seen = new Set();
+    (remoteList || []).forEach(re => {
+      if (!re || !re.id || seen.has(re.id)) return;
+      seen.add(re.id);
+      if (isTomb(re)) return;
+      const le = localById[re.id];
+      if (le && (!re.updatedAt || (le.updatedAt && le.updatedAt >= re.updatedAt))) merged.push(le);
+      else merged.push(re);
+    });
+    (localList || []).forEach(e => { if (e && e.id && !seen.has(e.id) && !isTomb(e)) merged.push(e); });
+    return merged;
+  }
+  // 反思合并：按 eventId→round 键并集，本地同键优先
+  function mergeReflections(remote, local) {
+    const out = Object.assign({}, remote || {});
+    Object.entries(local || {}).forEach(([eid, rounds]) => {
+      if (!out[eid] || typeof out[eid] !== 'object') { out[eid] = rounds; return; }
+      const merged = Object.assign({}, out[eid]);
+      Object.entries(rounds || {}).forEach(([rk, rv]) => {
+        if (rk === 'bouts' && typeof rv === 'object') merged.bouts = Object.assign({}, merged.bouts || {}, rv);
+        else merged[rk] = rv;
+      });
+      out[eid] = merged;
+    });
+    return out;
+  }
 
   function loadReflections() {
     try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
@@ -2413,13 +2460,20 @@ function circuitLabel(c) {
           saveToLocal('reg_' + id, status);
         });
       }
+      // 合并远端日程墓碑
+      const schedTombs = getScheduleTombstones();
+      if (data.scheduleTombstones && typeof data.scheduleTombstones === 'object') {
+        Object.entries(data.scheduleTombstones).forEach(([id, ts]) => { if (!schedTombs[id] || schedTombs[id] < ts) schedTombs[id] = ts; });
+        try { localStorage.setItem('cathy_schedule_tombstones', JSON.stringify(schedTombs)); } catch(e) {}
+      }
       if (Array.isArray(data.schedule)) {
-        scheduleEvents = data.schedule;
-        saveToLocal('cathy_schedule_events', JSON.stringify(data.schedule));
+        scheduleEvents = mergeScheduleLists(data.schedule, scheduleEvents, schedTombs);
+        scheduleEvents.sort((a,b) => new Date(a.date + 'T' + (a.time || '00:00:00')) - new Date(b.date + 'T' + (b.time || '00:00:00')));
+        saveToLocal('cathy_schedule_events', JSON.stringify(scheduleEvents));
       }
       if (data.baseCity) {
         saveToLocal('cathy_base_city', data.baseCity);
-        const input = document.getElementById('base-city-input');
+        const input = document.getElementById('base-city-modal-input');
         if (input) input.value = data.baseCity;
         if (CITY_COORDS[data.baseCity]) {
           currentBase = data.baseCity;
@@ -2427,7 +2481,7 @@ function circuitLabel(c) {
         }
       }
       if (data.reflections && typeof data.reflections === 'object') {
-        reflections = data.reflections;
+        reflections = mergeReflections(data.reflections, reflections);
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
       // 合并远端墓碑（多设备删除同步）
@@ -3112,6 +3166,7 @@ function circuitLabel(c) {
     try { taskList = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { taskList = []; }
     const taskTombstones = getTaskTombstones();
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
+    const schedTombs = getScheduleTombstones();
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
       const rtext = await fetchRepoFile('cathy_data/user_data.json');
@@ -3137,10 +3192,29 @@ function circuitLabel(c) {
           taskList.forEach(t => { if (t && t.id && !seen.has(t.id) && !isTomb(t)) merged.push(t); });
           taskList = merged;
         }
+        // 报名：按键并集，本地值优先（空值=取消报名也生效）
+        if (remote && remote.registrations && typeof remote.registrations === 'object') {
+          Object.keys(remote.registrations).forEach(id => { if (!(id in registrations)) registrations[id] = remote.registrations[id]; });
+        }
+        // 日程：墓碑 + updatedAt 合并
+        if (remote && remote.scheduleTombstones) {
+          Object.entries(remote.scheduleTombstones).forEach(([id, ts]) => { if (!schedTombs[id] || schedTombs[id] < ts) schedTombs[id] = ts; });
+          try { localStorage.setItem('cathy_schedule_tombstones', JSON.stringify(schedTombs)); } catch(e2) {}
+        }
+        if (remote && Array.isArray(remote.schedule)) {
+          schedule = mergeScheduleLists(remote.schedule, schedule, schedTombs);
+          scheduleEvents = schedule;
+          saveUIToLocal('cathy_schedule_events', JSON.stringify(schedule));
+        }
+        // 反思：按键并集
+        if (remote && remote.reflections && typeof remote.reflections === 'object') {
+          reflections = mergeReflections(remote.reflections, reflections);
+          saveUIToLocal('cathy_reflections', JSON.stringify(reflections));
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -3161,7 +3235,7 @@ function circuitLabel(c) {
 
   async function loadEmails() {
     try {
-      const el = document.getElementById('emails-list');
+      const el = document.getElementById('emails-list-full');
       // 优先走 Worker API 直读（绕过 raw.githubusercontent CDN 缓存延迟）
       let text = await fetchRepoFile('cathy_data/emails.md');
       if (text !== null) {
@@ -3183,8 +3257,10 @@ function circuitLabel(c) {
             localStorage.setItem('cathy_emails_text', text);
           } catch(e) {}
         } else {
-          if (el) el.innerHTML = '暂无邮件';
-          return;
+          // raw 也失败 → 尝试本地缓存（离线时仍能看旧邮件）
+          const cached = localStorage.getItem('cathy_emails_text');
+          if (cached) { text = cached; }
+          else { if (el) el.innerHTML = '暂无邮件'; return; }
         }
       }
       const parts = text.split(/\n## /).filter(Boolean);
@@ -3878,7 +3954,7 @@ function circuitLabel(c) {
 
       card.innerHTML = `
         <div class="card-header" style="${closedStyle}">
-          <div class="card-title">${t.name}</div>
+          <div class="card-title">${escapeHtml(t.name)}</div>
           <span class="status ${st.class}">${st.text}</span>
         </div>
         ${metaLine}
@@ -3896,7 +3972,7 @@ function circuitLabel(c) {
         </div>
         <div class="details" style="${closedStyle}">
           <div style="display:flex; gap:8px; flex-wrap:wrap;">
-            ${t.url ? `<a href="${t.url}" target="_blank" class="btn" style="display:inline-block;">USA Fencing 赛事页</a>` : ''}
+            ${t.url ? `<a href="${escapeHtml(t.url)}" target="_blank" class="btn" style="display:inline-block;">USA Fencing 赛事页</a>` : ''}
             <a href="${tournamentMapUrl}" target="_blank" class="btn" style="display:inline-block;">地图</a>
           </div>
           <div style="margin-top:8px;">
@@ -4268,11 +4344,11 @@ function circuitLabel(c) {
         const cls = cd.class;
         return `<div style="margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
           <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
-            <strong>${e.title}</strong>
+            <strong>${escapeHtml(e.title)}</strong>
             <span class="schedule-countdown ${cls}">${cd.text}</span>
           </div>
           <div style="font-size:0.8rem; color:var(--gray); margin-top:4px;">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''} · ${scheduleTypeLabel(e.type)}</div>
-          ${e.description ? `<div style="font-size:0.8rem; color:var(--gray); margin-top:2px;">${e.description}</div>` : ''}
+          ${e.description ? `<div style="font-size:0.8rem; color:var(--gray); margin-top:2px;">${escapeHtml(e.description)}</div>` : ''}
         </div>`;
       }).join('');
       if (!data.upcoming.length) upcomingHtml = '<div style="color:var(--gray);">暂无日程。</div>';
@@ -4312,16 +4388,16 @@ function circuitLabel(c) {
       const ref = data.reflections.find(r => r.key === `T32 / ${o.name}` || r.key === `Pool / ${o.name}`);
       return `<div style="margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
         <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
-          <strong>${o.name}</strong>
+          <strong>${escapeHtml(o.name)}</strong>
           <span style="font-size:0.75rem; color:var(--gray);">${winText}</span>
         </div>
-        <div style="font-size:0.75rem; color:var(--gray); margin-top:2px;">${o.club}</div>
+        <div style="font-size:0.75rem; color:var(--gray); margin-top:2px;">${escapeHtml(o.club || '')}</div>
         ${ref ? `<div class="bout-reflection" style="margin-top:6px; font-size:0.75rem;">${escapeHtml(ref.summary)}</div>` : ''}
       </div>`;
     }).join('') : '<div style="color:var(--gray);">暂无重复对手记录。</div>';
 
     // 最近反思
-    const recentRefs = data.reflections.slice(-5).reverse().map(r => `<li><strong>${r.key}：</strong>${escapeHtml(r.summary.slice(0, 120))}${r.summary.length > 120 ? '...' : ''}</li>`).join('');
+    const recentRefs = data.reflections.slice(-5).reverse().map(r => `<li><strong>${escapeHtml(r.key)}：</strong>${escapeHtml(r.summary.slice(0, 120))}${r.summary.length > 120 ? '...' : ''}</li>`).join('');
 
     body.innerHTML = `
       <div class="coach-section">
@@ -4468,14 +4544,14 @@ function circuitLabel(c) {
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
           <div class="bout-row">
-            <div class="bout-type">${b.bout}</div>
+            <div class="bout-type">${escapeHtml(b.bout)}</div>
             <div class="bout-opponent">
-              <div class="bout-opponent-name">${b.opponent}</div>
-              <div class="bout-opponent-club">${b.opponent_club || ''}</div>
+              <div class="bout-opponent-name">${escapeHtml(b.opponent)}</div>
+              <div class="bout-opponent-club">${escapeHtml(b.opponent_club || '')}</div>
             </div>
-            <div class="bout-score">${b.score}</div>
+            <div class="bout-score">${escapeHtml(b.score)}</div>
             <div class="bout-result ${resultClass}">${resultText}</div>
-            <button class="btn ${hasReflect ? '' : 'secondary'} bout-reflect-btn" title="${hasReflect ? '编辑' : '记录'}对 ${b.opponent} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">${reflectMark}</button>
+            <button class="btn ${hasReflect ? '' : 'secondary'} bout-reflect-btn" title="${hasReflect ? '编辑' : '记录'}对 ${escapeHtml(b.opponent)} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">${reflectMark}</button>
           </div>
           ${reflectText ? `<div class="bout-reflection">${reflectText}</div>` : ''}
           ${aiHtml}
@@ -4497,13 +4573,13 @@ function circuitLabel(c) {
 
     return `
       <div class="result-card" data-event-id="${r.event_id || ''}" data-title="${titleAttr}" data-rounds="${roundsAttr}">
-        <h3>${r.tournament}</h3>
-        <div class="meta">${r.date_display || ''} · ${r.event || ''} · ${r.event_class || ''} ${r.age_group || ''}</div>
+        <h3>${escapeHtml(r.tournament)}</h3>
+        <div class="meta">${escapeHtml(r.date_display || '')} · ${escapeHtml(r.event || '')} · ${escapeHtml(r.event_class || '')} ${escapeHtml(r.age_group || '')}</div>
         <div class="stats">
-          <span class="result-stat"><strong>名次</strong> ${r.place || '-'}</span>
-          <span class="result-stat"><strong>参赛</strong> ${r.total || '-'} 人</span>
-          <span class="result-stat"><strong>种子</strong> ${r.seed || '-'}</span>
-          <span class="result-stat"><strong>评分</strong> ${r.rating || '-'}</span>
+          <span class="result-stat"><strong>名次</strong> ${escapeHtml(r.place || '-')}</span>
+          <span class="result-stat"><strong>参赛</strong> ${escapeHtml(String(r.total || '-'))} 人</span>
+          <span class="result-stat"><strong>种子</strong> ${escapeHtml(r.seed || '-')}</span>
+          <span class="result-stat"><strong>评分</strong> ${escapeHtml(r.rating || '-')}</span>
         </div>
         <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px;">
           ${r.source_url ? `<a href="${r.source_url}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">FencingTracker 详情</a>` : ''}
@@ -4560,7 +4636,7 @@ function circuitLabel(c) {
       </div>`).join('');
     const detail = rows.filter(([, , l]) => l.length)
       .map(([icon, , l]) => l.map(r =>
-        `<div style="margin-top:6px; font-size:0.8rem; text-align:left;">${icon} <b>${r.tournament}</b> · ${r.event || ''} · ${r.date_display || r.date_iso || ''}</div>`
+        `<div style="margin-top:6px; font-size:0.8rem; text-align:left;">${icon} <b>${escapeHtml(r.tournament)}</b> · ${escapeHtml(r.event || '')} · ${escapeHtml(r.date_display || r.date_iso || '')}</div>`
       ).join('')).join('');
     box.innerHTML = `<div class="card" style="background:linear-gradient(135deg,#fffbeb,#fef3c7); border:1px solid #fde68a; margin-bottom:14px;">
       <div style="display:flex; align-items:baseline; gap:8px; font-weight:700; margin-bottom:6px;">🏆 奖牌榜 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">前三名有奖牌</span></div>
@@ -4932,7 +5008,7 @@ function circuitLabel(c) {
     visible.forEach(t => {
       const color = getMarkerColor(t);
       const marker = L.circleMarker([t.lat, t.lng], { radius: 8, color, fillColor: color, fillOpacity: 0.8 }).addTo(map);
-      marker.bindPopup(`<b>${t.name}</b><br>${formatDate(t.start, t.end)}<br>${t.city}, ${t.state} · Region ${t.region}<br>~${t.distance_km}km · ${t.circuits.map(circuitLabel).join(', ')}`);
+      marker.bindPopup(`<b>${escapeHtml(t.name)}</b><br>${formatDate(t.start, t.end)}<br>${escapeHtml(t.city)}, ${escapeHtml(t.state)} · Region ${escapeHtml(t.region)}<br>~${t.distance_km}km · ${(t.circuits || []).map(circuitLabel).join(', ')}`);
       markers.push(marker);
     });
     const [lat, lng] = CITY_COORDS[currentBase];
@@ -5197,6 +5273,7 @@ function circuitLabel(c) {
 
   function deleteSchedule(id) {
     if (!confirm('确认删除这个事件？')) return;
+    markScheduleDeleted(id);
     scheduleEvents = scheduleEvents.filter(e => e.id !== id);
     saveSchedule();
     renderSchedule();
@@ -5216,7 +5293,7 @@ function circuitLabel(c) {
     const description = document.getElementById('se-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('se-title').focus(); return; }
     if (!date) { alert('日期不能为空'); document.getElementById('se-date').focus(); return; }
-    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, location: location || null, mapUrl: mapUrl || null, url: url || null, description: description || null };
+    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, location: location || null, mapUrl: mapUrl || null, url: url || null, description: description || null, updatedAt: new Date().toISOString() };
     if (id) {
       const idx = scheduleEvents.findIndex(e => e.id === id);
       if (idx >= 0) scheduleEvents[idx] = ev;
@@ -5294,7 +5371,7 @@ function circuitLabel(c) {
         const color = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.other).colorClass;
         const durationDays = Math.round((endDate - startDate) / 86400000) + 1;
         const shift = daysBefore * 100;
-        return `<div class="schedule-bar schedule-bar-${pos} ${color}" style="position:absolute; top:${e.track * 20 + 24}px; left:0; width:100%;"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${e.title}</span></div>`;
+        return `<div class="schedule-bar schedule-bar-${pos} ${color}" style="position:absolute; top:${e.track * 20 + 24}px; left:0; width:100%;"><span style="width:${durationDays * 100}%; margin-left:-${shift}%;">${escapeHtml(e.title)}</span></div>`;
       }).join('');
       let maxTrack = visibleEvents.reduce((m, e) => Math.max(m, e.track), -1);
       if (dayEvents.length > 10) {
@@ -5345,14 +5422,14 @@ function circuitLabel(c) {
     const cd = scheduleCountdown(e);
     const dot = scheduleTypeDot(e.type);
     let html = `<div class="schedule-list-item ${tc}">`;
-    html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${dot} ${e.title}</span><span class="schedule-countdown ${cd.class}">${cd.text}</span></div>`;
+    html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${dot} ${escapeHtml(e.title)}</span><span class="schedule-countdown ${cd.class}">${cd.text}</span></div>`;
     html += `<div class="meta">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime && e.end && e.end !== e.date ? ' - ' + e.endTime : ''}</div>`;
-    if (e.location) html += `<div class="meta">地点：${e.location}</div>`;
-    if (e.description) html += `<div class="meta">备注：${e.description}</div>`;
+    if (e.location) html += `<div class="meta">地点：${escapeHtml(e.location)}</div>`;
+    if (e.description) html += `<div class="meta">备注：${escapeHtml(e.description)}</div>`;
     if (e.url || e.mapUrl) {
       html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
-      if (e.url) html += `<a href="${e.url}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">官网/报名</a>`;
-      if (e.mapUrl) html += `<a href="${e.mapUrl}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
+      if (e.url) html += `<a href="${escapeHtml(e.url)}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">官网/报名</a>`;
+      if (e.mapUrl) html += `<a href="${escapeHtml(e.mapUrl)}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">地图</a>`;
       html += '</div>';
     }
     html += `<div style="margin-top:6px;"><button class="btn secondary" style="padding:4px 10px; font-size:0.8rem;" data-edit="${e.id}">编辑</button> <button class="btn danger" style="padding:4px 10px; font-size:0.8rem;" data-delete="${e.id}">删除</button></div>`;
@@ -5426,6 +5503,7 @@ function circuitLabel(c) {
   function syncTournamentToSchedule(t, status) {
     const id = 't_' + t.id;
     if (status !== 'registered') {
+      if (scheduleEvents.some(e => e.id === id)) markScheduleDeleted(id);
       scheduleEvents = scheduleEvents.filter(e => e.id !== id);
       saveSchedule();
       return;
@@ -5433,6 +5511,7 @@ function circuitLabel(c) {
     const existing = scheduleEvents.find(e => e.id === id);
     const ev = existing || {};
     ev.id = id;
+    if (!existing) ev.updatedAt = new Date().toISOString();
     ev.title = t.name;
     ev.date = t.start || vancouverISO().slice(0,10);
     ev.end = t.end || null;
@@ -5458,9 +5537,11 @@ function circuitLabel(c) {
       if (!res.ok) return;
       const remote = await res.json();
       if (!Array.isArray(remote)) return;
+      const tombs = getScheduleTombstones();
       const ids = new Set(scheduleEvents.map(e => e.id));
       remote.forEach(ev => {
         if (!ev || !ev.id) return;
+        if (tombs[ev.id]) return; // 本地已删除，不从远端复活
         if (ids.has(ev.id)) return; // keep local, skip remote duplicate
         scheduleEvents.push(ev);
         ids.add(ev.id);
