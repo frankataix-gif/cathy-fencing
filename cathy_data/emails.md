@@ -20577,3 +20577,28 @@ lululemon
 
 
 ---
+
+## [Cathy&David] Reset my Password - Conference Manager - Meadowridge School
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-28T21:29:56.000Z
+**摘要:** 收到Meadowridge School的密码重置请求，需确认并重置账户密码。
+**待办:** 重置密码
+**涉及:** 两个
+**GmailID:** 1a0e9ecad580e0a3
+
+Hello Natalie,
+
+This email is sent because you, or someone using your email address, 
+indicated you wanted to be reminded of your username or reset the password 
+for your SchoolSoft Conference Manager account(s). The accounts associated 
+with this email are listed below.
+
+
+SCHOOL: Meadowridge School
+TYPE: Parent Account
+USERNAME: nataliewu100@gmail.com
+To reset your password for this username click the link below.
+https://meadowridge.schoolsoft.com/resetPassword.jsf?code=e18efc1c989c4a86b1bef208
+
+---
