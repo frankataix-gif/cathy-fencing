@@ -20342,3 +20342,25 @@ New BUTTER sets just arrived. Pick a shade.
 ͏‌  ͏
 
 ---
+
+## [待办] Knight Frank - Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** Harshal Pujari <Harshal.Pujari@knightfrank.com>
+**日期:** 2026-09-28T10:14:43.000Z
+**摘要:** 需要提供经认证的地址证明文件以完成合规检查
+**待办:** 提供经认证的地址证明文件
+**GmailID:** 1a0e782a87ac7216
+
+Hello,
+
+Hope you are well.
+
+Thank you for recently completing our compliance checks via Thirdfort.
+
+I can confirm we have successfully received your documents, however upon review the address verification has not been able to be completed by Thirdfort as you live overseas.
+
+For this reason, we will require an additional Proof of Address document. This document will need to be certified, dated within the past 3 months.
+
+The document can be certified by a regulated lawyer, accountant, no
+
+---
