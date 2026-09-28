@@ -20602,3 +20602,30 @@ To reset your password for this username click the link below.
 https://meadowridge.schoolsoft.com/resetPassword.jsf?code=e18efc1c989c4a86b1bef208
 
 ---
+
+## [Cathy&David] Booking Confirmation - re: Cathy
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-28T21:35:43.000Z
+**摘要:** 确认Cathy的家长会预约，时间地点及教师信息已列出，并提供查看或取消的链接。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0e9f1f7581550b
+
+Natalie,
+This is to confirm that you have scheduled an appointment regarding Cathy.
+
+Type: FACE TO FACE CONFERENCE
+School: Meadowridge School
+Teacher: Ms. Darcie Hook
+Date and Time: Tuesday October 6, 2026 at 1:00 PM - 1:20 PM
+Location: ADVISORY ROOM 
+
+
+You can view, print or re-schedule your bookings by returning to 
+https://meadowridge.schoolsoft.com/login.jsf
+
+Want some tips for having a successful teacher parent conference? Click here 
+<https://www.schoolsoft.com/conference-tips-for-parents/
+
+---
