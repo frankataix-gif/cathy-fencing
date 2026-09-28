@@ -20364,3 +20364,23 @@ For this reason, we will require an additional Proof of Address document. This d
 The document can be certified by a regulated lawyer, accountant, no
 
 ---
+
+## [待办] Re: Knight Frank - Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-28T11:38:46.000Z
+**摘要:** 需要提供额外的地址证明文件以完成Knight Frank的地址验证。
+**待办:** 提交由授权人员认证的、三个月内的地址证明文件
+**方向:** 发出
+**GmailID:** 1a0e782a87ac7216
+
+Hello Harshal,
+
+Thank you for your email.
+
+I’m not quite sure what you mean by address verification. I have already uploaded my house address in China, my bank letter with my address. Additionally, the property title for the house is in my mother’s name, do u want me to approve I stay this address or what do u mean?
+
+Could you please clarify exactly what you need me to do? I want to make sure I provide the correct documentation.
+在 Sep 28, 2026, 13:14 +0300，Harshal Pujari <Harshal.Pujari@k
+
+---
