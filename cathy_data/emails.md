@@ -20314,3 +20314,31 @@ Confirm My Email Address
 <https://www.paypal.com/zm/welcome/complete?userIntent=profile_complete&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000263&utm_unptid=03274650-baad-11f1-a625-bd2fbc59eec1&ppid=RT000263&cnac=ZM&rsta=en_US%28e
 
 ---
+
+## [营销] The softest in studio
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-28T02:01:26.000Z
+**摘要:** Aritzia推出新款BUTTER套装，邀请选择颜色。
+**待办:** 无
+**GmailID:** 1a0e5bf7461ee31b
+
+New BUTTER sets just arrived. Pick a shade.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏
+
+---
