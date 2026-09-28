@@ -542,6 +542,7 @@
     </div>
 
     <div id="sub-tab-results" class="fencing-sub-content" style="display:none;">
+      <div id="medal-board" style="display:none;"></div>
       <div class="card">
         <h2 style="margin-bottom:12px;">比赛成绩 / Results</h2>
         <div style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
@@ -4538,6 +4539,37 @@ function circuitLabel(c) {
     return groups;
   }
 
+  // 奖牌榜：置顶显示前三名奖牌数 + 得牌赛事明细。place 形如 "1 of 81" / "3T of 86"
+  function renderMedalBoard(results) {
+    const box = document.getElementById('medal-board');
+    if (!box) return;
+    if (!results || !results.length) { box.style.display = 'none'; return; }
+    const medals = { gold: [], silver: [], bronze: [] };
+    results.forEach(r => {
+      const p = parseInt(r.place, 10);
+      if (p === 1) medals.gold.push(r);
+      else if (p === 2) medals.silver.push(r);
+      else if (p === 3) medals.bronze.push(r);
+    });
+    const rows = [['🥇', '金牌', medals.gold], ['🥈', '银牌', medals.silver], ['🥉', '铜牌', medals.bronze]];
+    const cells = rows.map(([icon, label, l]) => `
+      <div style="flex:1; text-align:center;">
+        <div style="font-size:1.4rem;">${icon}</div>
+        <div style="font-size:1.6rem; font-weight:800; color:var(--dark);">${l.length}</div>
+        <div style="font-size:0.7rem; color:var(--gray);">${label}</div>
+      </div>`).join('');
+    const detail = rows.filter(([, , l]) => l.length)
+      .map(([icon, , l]) => l.map(r =>
+        `<div style="margin-top:6px; font-size:0.8rem; text-align:left;">${icon} <b>${r.tournament}</b> · ${r.event || ''} · ${r.date_display || r.date_iso || ''}</div>`
+      ).join('')).join('');
+    box.innerHTML = `<div class="card" style="background:linear-gradient(135deg,#fffbeb,#fef3c7); border:1px solid #fde68a; margin-bottom:14px;">
+      <div style="display:flex; align-items:baseline; gap:8px; font-weight:700; margin-bottom:6px;">🏆 奖牌榜 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">前三名有奖牌</span></div>
+      <div style="display:flex;">${cells}</div>
+      ${detail || '<div style="font-size:0.75rem; color:var(--gray); margin-top:8px;">还没有奖牌，继续加油！</div>'}
+    </div>`;
+    box.style.display = 'block';
+  }
+
   function renderResultsList(results) {
     const body = document.getElementById('results-view-body');
     if (!body) return;
@@ -4564,33 +4596,6 @@ function circuitLabel(c) {
       `;
     }).join('');
 
-    // 奖牌榜：place 形如 "1 of 81" / "3T of 86"，parseInt 取名次
-    const medals = { gold: [], silver: [], bronze: [] };
-    let top8 = 0;
-    results.forEach(r => {
-      const p = parseInt(r.place, 10);
-      if (p === 1) medals.gold.push(r);
-      else if (p === 2) medals.silver.push(r);
-      else if (p === 3) medals.bronze.push(r);
-      if (p >= 1 && p <= 8) top8++;
-    });
-    const medalRows = [['🥇', medals.gold], ['🥈', medals.silver], ['🥉', medals.bronze]]
-      .filter(([, l]) => l.length)
-      .map(([icon, l]) => l.map(r =>
-        `<div style="margin-top:6px; font-size:0.8rem;">${icon} <b>${r.tournament}</b> · ${r.event || ''} · ${r.date_display || r.date_iso || ''}</div>`
-      ).join('')).join('');
-    const medalHtml = `
-      <div class="result-summary-card" style="width:100%; text-align:left; padding:12px; background:linear-gradient(135deg,#fffbeb,#fef3c7); border:1px solid #fde68a;">
-        <div style="display:flex; gap:16px; font-size:1rem; font-weight:700; flex-wrap:wrap; align-items:center;">
-          <span>🏆 奖牌榜</span>
-          <span>🥇 ${medals.gold.length}</span>
-          <span>🥈 ${medals.silver.length}</span>
-          <span>🥉 ${medals.bronze.length}</span>
-          <span style="font-weight:400; color:var(--gray); font-size:0.78rem;">前8名 ${top8} 次</span>
-        </div>
-        ${medalRows || '<div style="font-size:0.75rem; color:var(--gray); margin-top:6px;">还没有奖牌，继续加油！</div>'}
-      </div>`;
-
     const summaryHtml = `
       <div class="result-summary">
         <div class="result-summary-card"><div class="num">${totalEvents}</div><div class="label">赛事</div></div>
@@ -4598,7 +4603,6 @@ function circuitLabel(c) {
         <div class="result-summary-card"><div class="num">${wins}</div><div class="label">胜</div></div>
         <div class="result-summary-card"><div class="num">${losses}</div><div class="label">负</div></div>
       </div>
-      ${medalHtml}
       <div class="result-summary" style="margin-top:12px;">
         ${groupHtml}
       </div>
@@ -4746,6 +4750,7 @@ function circuitLabel(c) {
       const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
       const data = await res.json();
       cachedResults = data && data.results ? data.results : [];
+      renderMedalBoard(cachedResults);
       if (!cachedResults.length) {
         body.innerHTML = '<div class="results-empty">暂无比赛成绩<br>数据会自动从 FencingTracker 更新</div>';
         return;
