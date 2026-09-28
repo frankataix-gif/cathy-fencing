@@ -114,3 +114,12 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
   - 跳过 `not_yet_open` 赛事的详情抓取，减少无效网络请求。
   - 工作流增加 `concurrency` 防止多实例同时运行，推送前 `git pull --rebase` 避免 fast-forward 冲突。
 - 赛事地图合并进「赛事」tab，地图筛选与列表完全同步。
+
+### 2026-09-28
+- 全方位审计修复：
+  - 多设备同步：`syncAllToGitHub` 推送前现在合并 registrations/schedule/reflections（原先只有 tasks 合并，其他整包覆盖会丢数据）；新增日程墓碑（`cathy_schedule_tombstones`）防止已删日程跨设备复活；日程事件带 `updatedAt`。
+  - Worker 安全：`save`/`read` 限定 `cathy_data/` 白名单路径，`/file`、`save`、`read` 全部拒绝 `..` 路径穿越。
+  - XSS：赛事/日程/成绩/邮件等注入 innerHTML 的字段统一 `escapeHtml`。
+  - DOM 修正：`emails-list`→`emails-list-full`、`base-city-input`→`base-city-modal-input`；补上 `upcoming-card`/`upcoming-list` 容器（近期事项卡片之前是死代码）；邮件加载失败回退本地缓存。
+  - 注意：sync 内部写 localStorage 要用 `saveUIToLocal`（不触发 queueAutoSync），否则 `cathy_schedule_events`/`cathy_reflections` 会引发无限同步循环。
+- Apps Script 查重改走 Worker `read`（raw CDN 延迟会导致重复推送）。
