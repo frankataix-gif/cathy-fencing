@@ -20629,3 +20629,26 @@ Want some tips for having a successful teacher parent conference? Click here
 <https://www.schoolsoft.com/conference-tips-for-parents/
 
 ---
+
+## [Cathy&David] More about Grade 8 at York House School
+
+**发件人:** York House School <info@yorkhouse.ca>
+**日期:** 2026-09-28T22:50:02.000Z
+**摘要:** 关于York House学校八年级课程的信息。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0ea3604151668b
+
+<!DOCTYPE html>
+<html lang="en" class="email-content-template" style="padding: 0; margin: 0; overflow-x: hidden;">
+
+<head>
+    
+    <title>Embed Html</title>
+
+
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/global.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://yorkhouse-cdn.website.amais.com/css/site-email-styles.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/site-emai
+
+---
