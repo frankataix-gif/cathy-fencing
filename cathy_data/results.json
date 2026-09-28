@@ -1,6 +1,392 @@
 {
   "results": [
     {
+      "tournament": "2nd BBFC Duel in the Desert SYC & RCC",
+      "event": "Y-12 Women's Foil",
+      "event_id": "43243",
+      "event_class": "",
+      "age_group": "Y12",
+      "date_display": "September 27, 2026",
+      "date_iso": "2026-09-27",
+      "season": "2026-2027",
+      "circuits": [
+        "SYC"
+      ],
+      "place": "1 of 81",
+      "seed": "61",
+      "ranked": "Not ranked",
+      "rating": "U",
+      "total": 81,
+      "bouts": [
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:3",
+          "opponent": "CHENG Audrey",
+          "opponent_club": "Silicon Valley Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:0",
+          "opponent": "CHENG Jessica",
+          "opponent_club": "LA International Fencing",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:3",
+          "opponent": "GISZCZAK Emma",
+          "opponent_club": "Renaissance Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:0",
+          "opponent": "KO Alyssa",
+          "opponent_club": "Prime Fencing Academy",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:0",
+          "opponent": "YI Helen",
+          "opponent_club": "Team Touche Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:1",
+          "opponent": "LIN Clara",
+          "opponent_club": "Precision Athletics Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T64",
+          "result": "Victory",
+          "score": "15:1",
+          "opponent": "ISAAC Felicity",
+          "opponent_club": "Silicon Valley Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T32",
+          "result": "Victory",
+          "score": "15:7",
+          "opponent": "LI Claire",
+          "opponent_club": "Maximum Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T16",
+          "result": "Victory",
+          "score": "15:4",
+          "opponent": "ZHANG Selina",
+          "opponent_club": "Renaissance Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T8",
+          "result": "Victory",
+          "score": "15:14",
+          "opponent": "CHOI Jian",
+          "opponent_club": "Golubitsky Fencing Center",
+          "opponent_country": "KOR"
+        },
+        {
+          "bout": "T4",
+          "result": "Victory",
+          "score": "15:13",
+          "opponent": "MAHAPATRA Alisha",
+          "opponent_club": "Rain City Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T2",
+          "result": "Victory",
+          "score": "15:13",
+          "opponent": "CHEN Summer",
+          "opponent_club": "Golubitsky Fencing Center",
+          "opponent_country": "USA"
+        }
+      ],
+      "rounds": {
+        "Pool": [
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:3",
+            "opponent": "CHENG Audrey",
+            "opponent_club": "Silicon Valley Fencing Center",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:0",
+            "opponent": "CHENG Jessica",
+            "opponent_club": "LA International Fencing",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:3",
+            "opponent": "GISZCZAK Emma",
+            "opponent_club": "Renaissance Fencing Club",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:0",
+            "opponent": "KO Alyssa",
+            "opponent_club": "Prime Fencing Academy",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:0",
+            "opponent": "YI Helen",
+            "opponent_club": "Team Touche Fencing Center",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:1",
+            "opponent": "LIN Clara",
+            "opponent_club": "Precision Athletics Fencing Club",
+            "opponent_country": "USA"
+          }
+        ],
+        "T64": [
+          {
+            "bout": "T64",
+            "result": "Victory",
+            "score": "15:1",
+            "opponent": "ISAAC Felicity",
+            "opponent_club": "Silicon Valley Fencing Center",
+            "opponent_country": "USA"
+          }
+        ],
+        "T32": [
+          {
+            "bout": "T32",
+            "result": "Victory",
+            "score": "15:7",
+            "opponent": "LI Claire",
+            "opponent_club": "Maximum Fencing Club",
+            "opponent_country": "USA"
+          }
+        ],
+        "T16": [
+          {
+            "bout": "T16",
+            "result": "Victory",
+            "score": "15:4",
+            "opponent": "ZHANG Selina",
+            "opponent_club": "Renaissance Fencing Club",
+            "opponent_country": "USA"
+          }
+        ],
+        "T8": [
+          {
+            "bout": "T8",
+            "result": "Victory",
+            "score": "15:14",
+            "opponent": "CHOI Jian",
+            "opponent_club": "Golubitsky Fencing Center",
+            "opponent_country": "KOR"
+          }
+        ],
+        "T4": [
+          {
+            "bout": "T4",
+            "result": "Victory",
+            "score": "15:13",
+            "opponent": "MAHAPATRA Alisha",
+            "opponent_club": "Rain City Fencing Center",
+            "opponent_country": "USA"
+          }
+        ],
+        "T2": [
+          {
+            "bout": "T2",
+            "result": "Victory",
+            "score": "15:13",
+            "opponent": "CHEN Summer",
+            "opponent_club": "Golubitsky Fencing Center",
+            "opponent_country": "USA"
+          }
+        ]
+      },
+      "source_url": "https://fencingtracker.com/event/43243/results"
+    },
+    {
+      "tournament": "2nd BBFC Duel in the Desert SYC & RCC",
+      "event": "Y-14 Women's Foil",
+      "event_id": "43234",
+      "event_class": "",
+      "age_group": "Y14",
+      "date_display": "September 26, 2026",
+      "date_iso": "2026-09-26",
+      "season": "2026-2027",
+      "circuits": [
+        "SYC"
+      ],
+      "place": "50 of 102",
+      "seed": "97",
+      "ranked": "Not ranked",
+      "rating": "U",
+      "total": 102,
+      "bouts": [
+        {
+          "bout": "Pool",
+          "result": "Defeat",
+          "score": "2:5",
+          "opponent": "KENSICKI Phoebe",
+          "opponent_club": "LA International Fencing",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:2",
+          "opponent": "SHU Kayla",
+          "opponent_club": "Bay Area Fencing Club / Bay Area Fencing Club Pleasanton",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Defeat",
+          "score": "4:5",
+          "opponent": "ZHU Claire",
+          "opponent_club": "Silicon Valley Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:2",
+          "opponent": "ALEKSANDROVA Mira",
+          "opponent_club": "Massialas Foundation (M Team)",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Victory",
+          "score": "5:0",
+          "opponent": "DEJOY Leilah",
+          "opponent_club": "Team Touche Fencing Center",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "Pool",
+          "result": "Defeat",
+          "score": "1:5",
+          "opponent": "LIN Clara",
+          "opponent_club": "Precision Athletics Fencing Club",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T128",
+          "result": "Victory",
+          "score": "15:3",
+          "opponent": "ALEKSANDROVA Mira",
+          "opponent_club": "Massialas Foundation (M Team)",
+          "opponent_country": "USA"
+        },
+        {
+          "bout": "T64",
+          "result": "Defeat",
+          "score": "13:15",
+          "opponent": "ARYA Leela",
+          "opponent_club": "Golden State Fencing Academy",
+          "opponent_country": "USA"
+        }
+      ],
+      "rounds": {
+        "Pool": [
+          {
+            "bout": "Pool",
+            "result": "Defeat",
+            "score": "2:5",
+            "opponent": "KENSICKI Phoebe",
+            "opponent_club": "LA International Fencing",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:2",
+            "opponent": "SHU Kayla",
+            "opponent_club": "Bay Area Fencing Club / Bay Area Fencing Club Pleasanton",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Defeat",
+            "score": "4:5",
+            "opponent": "ZHU Claire",
+            "opponent_club": "Silicon Valley Fencing Center",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:2",
+            "opponent": "ALEKSANDROVA Mira",
+            "opponent_club": "Massialas Foundation (M Team)",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Victory",
+            "score": "5:0",
+            "opponent": "DEJOY Leilah",
+            "opponent_club": "Team Touche Fencing Center",
+            "opponent_country": "USA"
+          },
+          {
+            "bout": "Pool",
+            "result": "Defeat",
+            "score": "1:5",
+            "opponent": "LIN Clara",
+            "opponent_club": "Precision Athletics Fencing Club",
+            "opponent_country": "USA"
+          }
+        ],
+        "T128": [
+          {
+            "bout": "T128",
+            "result": "Victory",
+            "score": "15:3",
+            "opponent": "ALEKSANDROVA Mira",
+            "opponent_club": "Massialas Foundation (M Team)",
+            "opponent_country": "USA"
+          }
+        ],
+        "T64": [
+          {
+            "bout": "T64",
+            "result": "Defeat",
+            "score": "13:15",
+            "opponent": "ARYA Leela",
+            "opponent_club": "Golden State Fencing Academy",
+            "opponent_country": "USA"
+          }
+        ]
+      },
+      "source_url": "https://fencingtracker.com/event/43234/results"
+    },
+    {
       "tournament": "Fortune ROC/RJCC/RYC",
       "event": "Y-14 Women's Foil",
       "event_id": "42526",
