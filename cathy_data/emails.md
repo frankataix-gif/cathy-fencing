@@ -16369,3 +16369,3976 @@ I have already completed the Emergency Contacts and the Residency Form. However,
 • Physician Phone Number
 
 ---
+
+## [击剑] Automatic reply: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** US Fencing Information <Information@usafencing.org>
+**日期:** 2026-09-16T23:17:36.000Z
+**摘要:** 关于Cathy YUNXI He的击剑区域隶属关系变更请求的自动回复
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ac82f4f1b0a60
+
+Hello, thank you for contacting USA Fencing. Our normal business hours are 8AM to 5PM MST. You are receiving this automatic reply because your e-mail has been received and one of our staff will be updating you within 2 business days.
+Please know that your email is important to us, and we'll respond as soon as we can!
+In the meantime, many of the answers to your questions can be found in our Help Center<https://usafencing.zendesk.com/hc/en-us>! Thank you!
+— Your USA Fencing team
+
+
+
+---
+
+## [击剑] Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-16T23:17:11.000Z
+**摘要:** 家长请求将Cathy的USA Fencing区域隶属从Region 1更改为Region 4，因其主要在Region 4参赛，并希望更改能在BBFC赛事前完成以计入排名。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+Dear USA Fencing Membership Services,
+
+I am writing to request a change of regional affiliation for my daughter,
+Cathy YUNXI He (Member #102111079, International Competitive License,
+expires 7/31/2027), from Region 1 to Region 4.
+
+When we registered her membership, we did not pay close attention to the
+region selection and chose Region 1 by mistake. In reality, Cathy
+primarily competes in Region 4 events:
+
+- Sep 7, 2026 – Fortune ROC/RJCC/RYC (Ontario, CA): fenced Y14WF, placed
+ 21st,
+
+---
+
+## [生活旅行] 【HK$1搭高鐵‼️】8AM 搶連假長週末高鐵
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-16T23:16:38.000Z
+**摘要:** 关于深圳高铁路票和酒店的促销信息
+**待办:** 无
+**GmailID:** 1a0ac820ba58a863
+
+8AM 搶 HK$1 深圳高鐵車票⚡️廣東指定城市減 HK$150 + 酒店獨家 7 折起👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154182160-1789600596512.924%26ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D506004.HK-20260917-edm-gochinatrain.2026-09-17_8_0.20260917.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU
+
+---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-17T00:18:04.000Z
+**摘要:** 学校需要Cathy的Study Permit和妈妈的入境记录以更新文件
+**待办:** 提交Cathy的Study Permit和妈妈的入境记录
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+希望你们今天一切顺利！
+
+谢谢您更新你们的 Residency Form。地址方面，我们保留了你原有的 postcode (V3J 0P2)。签证方面，我们还需要记录以下两项文件：
+
+  *
+Cathy 的 Study Permit (除了护照里贴的签证，应该还有一张独立的Letter size “金纸”<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm78HQlrZu7ZzyPJ9MKd5x3YY9B2BM14dpPFVnyfSniwCjW3q92v0kaY_&s=10>)
+  *
+妈妈的入境记录 "Visitor Record"  -  版面跟 Study Permit 差不多
+
+方便时电邮传给我就可以了。有疑问请随时跟我们联系。这几天辛苦您了，谢谢！
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwon
+
+---
+
+## [其他] UPDATE: Emery Wharf North Right Hand Side Lift - BACK IN OPERATION
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-17T03:13:15.000Z
+**摘要:** 通知Emery Wharf North Right Hand Side Lift电梯已恢复运行
+**待办:** 无
+**GmailID:** 1a0ad5ab3ab1f903
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [其他] How was your valuation? Share your thoughts
+
+**发件人:** Foxtons Survey <noreply@customerexperience.foxtons.co.uk>
+**日期:** 2026-09-17T08:21:00.000Z
+**摘要:** Foxtons邀请用户填写调查问卷，以改进服务并有机会赢取奖品
+**待办:** 无
+**GmailID:** 1a0ae746fe2d720c
+
+Hi Miss Jingqi wu,
+
+Thank you for choosing Foxtons to value your property. We’d love your views
+on how we could provide a better service should you wish to consider us again
+in the future.
+
+Please share your views by answering a few questions about your experience.
+The survey takes just 2 minutes to complete.
+
+Please follow this link to complete the survey:
+Take the Survey
+<https://foxtons.qualtrics.com/jfe/form/SV_26xqbrx2mw5twgK?Q_DL=UQtkJVro8Ez3lWZ_26xqbrx2mw5twgK_CTR_iyiGLmwYsdyNS
+
+---
+
+## [营销] The Style Report: what’s next
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-17T13:11:43.000Z
+**摘要:** 推荐最新时尚鞋款和品牌信息
+**待办:** 无
+**GmailID:** 1a0af7ea05e179a2
+
+From UGG to B2, these are the styles on our radar.    THE BEST
+SNEAKER BRANDS, ALL IN ONE PLACE 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PwPuGluN3xBkJ4JUfFeTxZmyzWrMOhTWfXz0r3js5IlQ-3D-3D29zb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOvfpnM0cxkIDlR9CPAfS6KGT1O1X2kV-2FxqEcO4uYM4NazqcFef90S4ktwc93xJBTRSWpKoorv2N6GnVsoTe3XV-2FiptZ3MTdXHPBqD0XaAEKQb5OvZMH2gkTsbqWu7leslk1dZzi0UufB687vxjy3BscdO
+
+---
+
+## [营销] Your FREE fragrance sample set awaits 💝✨
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-17T13:20:09.000Z
+**摘要:** Sephora 发送的促销邮件，提供免费香氛样品套装
+**待办:** 无
+**GmailID:** 1a0af876598ae0f8
+
+ Sephora 
+
+Up to 10 must-haves from KAYALI, Miu Miu, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0af86393f9715bbf4bbe5c898/505e81e06e934f370000021ef3a0bcc
+
+---
+
+## [其他] Resident meeting minutes - short term letting at London Dock
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-17T13:30:49.000Z
+**摘要:** 关于伦敦码头短期租赁的居民会议纪要
+**待办:** 无
+**GmailID:** 1a0af901992c29f7
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Not everything needs automation 🧑‍💻
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-17T13:26:33.000Z
+**摘要:** 邀请尝试Make.com的自动化工具以简化日常任务
+**待办:** 无
+**GmailID:** 1a0af8c2ebb89396
+
+But this might save you time today  
+
+Logo ( https://www.make.com?utm_campaign=Simple+Maia_Beginner%2BModerate&utm_medium=email&utm_source=customer.io )
+
+Hero image ( http://www.make.com/open-scenario-builder?utm_campaign=Simple+Maia_Beginner%2BModerate&utm_medium=email&utm_source=customer.io )
+
+Hi natalie,
+
+Not everything needs automation, but there’s usually one small thing you do every day that’s worth it. Start with something simple.
+
+Open Make and tell Maia 👉 Help me automate one
+
+---
+
+## [营销] Il fit: 90s Straight
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-17T13:42:45.000Z
+**摘要:** 推广Calvin Klein 90年代直筒裤系列的广告邮件
+**待办:** 无
+**GmailID:** 1a0afa2c2ecea4f7
+
+
+
+
+---
+
+## [营销] For life on campus
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-17T14:08:41.000Z
+**摘要:** 促销新推出的限量版校园生活系列服装
+**待办:** 无
+**GmailID:** 1a0afbaa2e86ed72
+
++ New, limited-edition Aritzia + Juilliard pieces.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [营销] 12 sessions. 3 stages. 1 city. See what's waiting for you in Prague 🟪
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-17T14:37:10.000Z
+**摘要:** Waves '26活动议程发布，包含多个AI相关的演讲和活动，提醒尽早购票。
+**待办:** 无
+**GmailID:** 1a0afccd1094e431
+
+The full Waves '26 agenda is live.  
+
+Last chance for Early Bird.
+
+Grab your ticket today ( https://waves.make.com?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://waves.make.com/agenda?utm_campaign=Event_Invite_Waves26Agenda_140926&utm_medium=email&utm_source=customer.io )
+
+Event
+
+**********************
+
+---
+
+## [营销] 40% off your next ✌️orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-17T16:44:42.000Z
+**摘要:** DoorDash提供40%折扣优惠，适用于食物、杂货等订单。
+**待办:** 无
+**GmailID:** 1a0b0419814dfc8d
+
+ DoorDash Food, groceries, gifts, and beyond. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+
+---
+
+## [Cathy&David] Re: Outstanding Forms & Phone numbers for Cathy's family
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-17T17:08:03.000Z
+**摘要:** 学校通知提交医疗表格，可暂不提供健康卡号码和医生信息。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a08708ba7c2344c
+
+Good morning Natalie,
+Thank you for letting me know the situation. You can go ahead and submit the medical form without Health card number and physician information. You can later provide us those information when you have them!
+
+
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t  604.467.4444
+www.meadowri
+
+---
+
+## [Cathy&David] Update - WWOW Gibsons Farm - Gr 7
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-17T17:06:21.000Z
+**摘要:** 学校通知关于七年级WWOW Gibsons Farm活动的更新
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b055694adf02d
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] Accidents happen. Protect your device with Device Care BYOD.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-17T17:31:59.000Z
+**摘要:** TELUS推广设备保护服务Device Care BYOD，提供设备损坏保护并附带限时优惠。
+**待办:** 无
+**GmailID:** 1a0b06cf501f89aa
+
+If it’s worth keeping, it’s worth protecting.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t3af0f52,40a42fdf,2af8f218&e=Y2lkPXRlbERNMjMxMDQyMCZiaWQ9NjE4MDQzNzAmcDE9JTQwNCUyQmpPUnY2WVolMkZtMVMwOTBiOTNoWkxzSHJ4UzJpVWtxMXFrSjdsSTU2OW8lM0Q&s=V0LvlaAA4aE4VxrF7VS8jVCUcKOsB_MVY4vAWpDYwE8 web browser . 	
+	
+	
+
+ https://t.info.telus.com/r/?id=t3af0f52,40a42fdf,2af8f219&e=Y2lkPXRlbERNMjMxMDQyMCZiaWQ9NjE4MDQzNzA&s=rZxz6y5gnqY1w0LucTp2FZvaTRxgAodYofAdk29E0rM 	
+	
+Rest easy 
+kn
+
+---
+
+## [击剑] Re: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-09-17T18:42:47.000Z
+**摘要:** 回复Cathy的击剑区域隶属变更请求，确认已更改为区域4并解释积分规则
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+----------------------------------------------
+
+Hello,
+
+Thank you for your email! I have updated Cathy's region to region 4.
+
+To answer your question, unfortunately the Fortune RYC result can not be added. Cathy can only earn points in the region she is affiliated with at the time of competition.
+
+If you have any other questions, please let us know!
+
+Thank you,
+
+USA Fencing
+Event Support
+
+--------------------------------
+This email is a service from USA Fencing.
+
+On September 1
+
+---
+
+## [营销] Your funds go further with Payoneer
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-17T18:47:57.000Z
+**摘要:** 关于Payoneer账户支付选项的邮件，介绍如何更有效地管理资金。
+**待办:** 无
+**GmailID:** 1a0b0b26d0feda74
+
+Meet your
+accounts payable options 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing=
+
+---
+
+## [击剑] USA Fencing: How would you rate the support you received?
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-09-17T19:02:07.000Z
+**摘要:** USA Fencing 请求家长评价支持服务，并提及 Cathy 的区域变更及比赛点数问题
+**待办:** 点击链接评价 USA Fencing 的支持服务
+**涉及:** Cathy
+**GmailID:** 1a0b0bf9bfb5bd0a
+
+Hello natalie,
+
+We'd love to hear what you think of our customer service. Please take a moment to answer one simple question by clicking either link below:
+
+How would you rate the support you received?
+
+You can copy the following URL into your browser to rate:
+
+  https://usafencing.zendesk.com/requests/59339/satisfaction/new/xUO7kcWsAeChER82VPkyzX8mg?locale=1
+
+Thank you for being a member of USA Fencing! Please feel free to reach out if you have any additional questions.
+
+Here's a re
+
+---
+
+## [Cathy&David] Welcome to Vidigami, Meadowridge's photo sharing platform
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-17T19:00:32.000Z
+**摘要:** Meadowridge School 通知启用Vidigami照片共享平台
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b0bdf0dee6dca
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] You have $10 Beauty Insider Cash!
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-17T19:09:31.000Z
+**摘要:** Sephora 发送促销邮件，提醒用户使用积分兑换优惠券并提供购物优惠。
+**待办:** 无
+**GmailID:** 1a0b0c62bd2e6ce5
+
+ Sephora 
+
+Natalie, apply your 500 points at checkout to save.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b0c622a2bdaa1c369fea47bc/19a0cec02fe044da0000021ef3a0bcc2
+
+---
+
+## [营销] Confirm your email & enter to win. Don’t miss out!
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-17T19:26:13.000Z
+**摘要:** 促销邮件，要求确认邮箱并参与抽奖
+**待办:** 无
+**GmailID:** 1a0b0d79aa82ca28
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-17T20:42:53.000Z
+**摘要:** 邮件涉及Cathy的陪读签办理及学校要求的文件提交，包括Study Permit和Visitor Record。
+**待办:** 准备并提交Cathy的Study Permit和妈妈的Visitor Record
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+hello adrian
+这是cathy的大签；
+关于妈妈的陪读签，我们计划下周开始办理，目前妈妈拿的是10年旅游签。另外，cathy这边有监护人。
+
+您看，还需要哪些材料。
+在 Sep 17, 2026, 02:18 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Hi Natalie,
+>
+> 希望你们今天一切顺利！
+>
+> 谢谢您更新你们的 Residency Form。地址方面，我们保留了你原有的 postcode (V3J 0P2)。签证方面，我们还需要记录以下两项文件：
+>
+> • > Cathy 的 Study Permit (除了护照里贴的签证，应该还有一张独立的Letter size “金纸”)
+> • > 妈妈的入境记录 "Visitor Record"  -  版面跟 Study Permit 差不多
+>
+>
+> 方便时电邮传给我就可以了。有疑问请随时跟我们联系。这几天辛苦您了，谢谢！
+>
+> Best regards,
+> Adrian Kwong (he/
+
+---
+
+## [营销] New in: Polartec® Series 200 Vest
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-17T21:06:14.000Z
+**摘要:** lululemon推出Polartec® Series 200背心
+**待办:** 无
+**GmailID:** 1a0b132bad11ba69
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [Cathy&David] eGryphon: September 17
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-17T23:30:25.000Z
+**摘要:** 学校发送的eGryphon通知，具体内容未明确。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b1b51929f5358
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] Here’s 20% off mascara for you, Natalie 💫
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-09-17T23:52:34.000Z
+**摘要:** Sephora 发来睫毛膏促销邮件，提供 20% 折扣优惠。
+**待办:** 无
+**GmailID:** 1a0b1c9532db9878
+
+ Sephora 
+
+Find something your lashes will love
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b1c93d38ca03ba6e96c569c8/29b404a7947d43970000021ef3a0bcc2/29b404a7-947d-
+
+---
+
+## [生活旅行] 逢周四限時搶⚡️9折玩歐洲💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-18T00:52:36.000Z
+**摘要:** Trip.com推出限时促销，欧洲机票95折、酒店9折，以及明日10AM人气乐园门票买一送一。
+**待办:** 无
+**GmailID:** 1a0b2004204d6782
+
+衝出亞洲！歐洲機票95折+酒店9折！仲有聽日10AM人氣樂園門票買1送1👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154868-1789692754494.84%26ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D507082.HK-20260918-edm-exploreeu.2026-09-18_8_0.20260918.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1N
+
+---
+
+## [营销] Spagna 夹克
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-18T04:04:49.000Z
+**摘要:** 介绍Spagna夹克，以现代视角重塑经典设计
+**待办:** 无
+**GmailID:** 1a0b2b043cecbd1f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+以现代视角重塑经典的 Icon 之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+---
+
+## [营销] Maglieria autunnale
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-18T08:40:14.000Z
+**摘要:** Calvin Klein推广秋季毛衣系列
+**待办:** 无
+**GmailID:** 1a0b3aeec81d5eb1
+
+
+
+
+---
+
+## [生活旅行] Emery Wharf Building Notice: Hot Water Disruption 18/09/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T11:59:15.000Z
+**摘要:** 通知Emery Wharf热水供应将在2026年9月18日中断
+**待办:** 无
+**GmailID:** 1a0b4629cb4c02fb
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Upgrade to iPhone 18 Pro. Get yours today.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-18T12:12:39.000Z
+**摘要:** BestBuy推出iPhone 18 Pro升级促销，邀请用户设置账户以获取优惠。
+**待办:** 无
+**GmailID:** 1a0b4718f088c287
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDN9AAcAAAAABrdlUpr9YBU8QqqJtNiTHBj-cmVisZE0CHOaB1Dl14TGJBMmA0koDydUUEzQ5VTB3JQx5FAPqQyXIoXVPxcb4Lp0hddgmhkdvG1CG715V9c&CMP=eml-bby-pr-tar-2026-09-18-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2504092&l=52_HTML&mid=7210119&jb=3494&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-09-18-c_cal-csgsc_glu
+
+---
+
+## [营销] Everything Looks Better in Brown
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-18T13:13:47.000Z
+**摘要:** 促销邮件，推荐购买布朗鞋店的鞋子，强调舒适和多功能性
+**待办:** 无
+**GmailID:** 1a0b4a6d7fb8a895
+
+Warm, versatile, and made to wear on repeat.   BUY NOW, PICK UP
+IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ocjg7MrbLSqRJRzwCqdbyAlotdiMQaTRJCGM2680mKtA-3D-3DKJqF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALJkvHuA2pd0J31PBrMXjGZHEJC6ntaXlq6p3HF0C6TRufdTnB90hSQowdRb73nPLpTjR4cHgnRxc6i71SMZH2F-2F6DKNg6EhlktYEF9JFCIT9dyepPvvGVTMhE1nVX2GDWeAsBm1pIb-2FjM9snW2lNRkoUdh3PYWjNffTnz8wMTwQSIDVU
+
+---
+
+## [生活旅行] Emery Wharf – Hot Water Restored 18/09/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T13:13:10.000Z
+**摘要:** 通知Emery Wharf的热水服务已恢复。
+**待办:** 无
+**GmailID:** 1a0b4a6518de32bd
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] The new iPhone 18 Pro is here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-18T13:10:07.000Z
+**摘要:** Apple发布新款iPhone 18 Pro，介绍其新功能、颜色选项及价格信息。
+**待办:** 无
+**GmailID:** 1a0b4a3784661db6
+
+Apple
+
+iPhone 18 Pro
+
+iPhone 18 Pro, partial side view, burgundy color, featuring a camera system with three lenses in the top left corner, flash and microphone, apple logo in the middle, side button and camera control featured slides over a giant text saying PRO
+
+Now available, iPhone 18 Pro. New 48MP Fusion Main camera with variable aperture. Big leap in battery life.(1) Thermally cooled A20 Pro chip — total AI powerhouse. Four gorgeous colours, two great sizes, one durable aluminum desi
+
+---
+
+## [其他] Resident Newsletter - LH - 18/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-18T13:30:43.000Z
+**摘要:** 居民通讯，包含社区公告和通知
+**待办:** 无
+**GmailID:** 1a0b4b66a7c54916
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Every Saturday counts
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-18T13:57:15.000Z
+**摘要:** DoorDash推送周六订单促销活动，有机会赢取奖励。
+**待办:** 无
+**GmailID:** 1a0b4cea93afa8cb
+
+ DoorDash Place Saturday orders for a chance to win! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏
+
+---
+
+## [其他] Natalie, 5 quirky homes for sale right now
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-09-18T16:28:11.000Z
+**摘要:** Rightmove通知目前有五处奇特的房子出售
+**待办:** 无
+**GmailID:** 1a0b55cd76e94a6f
+
+Five unusual homes available to buy on Rightmove this month
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/BPotw2vHySF2z1jA7s1K3Q~~/AAAHahA~/XNJQFDaHFJ1OzGIubONcD6qfjf-nBpvteHaes8UK6oslMZ3KeFO3-rFaDryngE2ErUluLIjL5KzLFDre15SCbAKrDZQzuVGhsL4aCo9oXL_Ciulh6XXRBKv17iUoYgriEaq4HaUu6YqIvllGuzx2pBEa5pCe4iSHcpA43OoiSvY~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/pg3zC0uE9mi7Z2tPkjC3-g~~/AAAHahA~/gZQz1btuGpZ8RF4xh34sx5dWDEmFMIDHGKvRBk15P9S2jNbljGrhtVQdOSuMpDdJKqOX9Kg5OxT-nAvEc7uFjwhpsH6N4
+
+---
+
+## [营销] Yes, please! Grab up to 50% off.
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-18T16:29:07.000Z
+**摘要:** Sephora 发送的促销邮件，提供最高50%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a0b559ce240ff40
+
+ Sephora 
+
+Enjoy an extra day of savings. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b559a6b496a2edf4bbe5c7c0/7a674182c77a43620000021ef3a0bcc2/7a674182-c77a-4362-
+
+---
+
+## [Cathy&David] Gr. 7 Gibsons Farm Arrival Update
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-18T18:35:37.000Z
+**摘要:** 关于七年级Gibsons Farm到校安排的更新通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0b5cd81ac0e90d
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] New for you: Align gear coming in hot
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-18T20:54:51.000Z
+**摘要:** lululemon推送新推出的Align装备信息
+**待办:** 无
+**GmailID:** 1a0b64d0ef8759f3
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] Your experience with TELUS
+
+**发件人:** TELUS Team <telus-team@opinion.panalyticsgroup.com>
+**日期:** 2026-09-18T17:19:52.000Z
+**摘要:** TELUS邀请填写服务反馈调查，有机会赢取500美元Visa礼品卡
+**待办:** 无
+**GmailID:** 1a0b6c008a4e10b0
+
+ 
+
+
+Dear Jingqi, 
+
+At TELUS, we are obsessed with giving you a great experience. Please help 
+us by providing feedback on your *TELUS* service. 
+
+It will take about 10 minutes to complete the survey. 
+
+Once you complete the survey, you will be entered into a prize-draw for a *chance 
+to win one $500 pre-paid Visa® gift card!* (Please click here 
+<https://survey.panalyticsgroup.com/wix/p866305840299.aspx> to see the 
+contest rules and regulations page for more information). 
+
+For a copy of TELUS'
+
+---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-18T23:52:02.000Z
+**摘要:** 用户搬家请求未完成，需致电BC Hydro并提供参考代码完成手续。
+**待办:** 请致电BC Hydro完成搬家请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d7906467034d4f0b0  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699c8632a81be02d7761f04a0def718f13e1)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
+
+## [待办] Verify your email address for BC Hydro
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-18T23:46:19.000Z
+**摘要:** BC Hydro 邀请确认电子邮件地址，需通过提供的链接完成验证流程。
+**待办:** 验证邮箱地址
+**GmailID:** 1a0b6e9f1abda94e
+
+https://email.bchydro.com/c/443/e15279b99d542b169ef216f9c1197d7abaa2451f6ba41c59ef93731ec3e7f52337abc8421891a8000ffbfc5648ab474a We'd like to verify your email address
+Read this email online (https://email.bchydro.com/v/443/e15279b99d542b169ef216f9c1197d7aae4190be3670651f2024bbfe62addf24)
+Confirm your email
+
+Hi natalie,
+
+Thanks for signing up at bchydro.com. We need to confirm your email address (https://email.bchydro.com/di/443/ea38a7e63ba40a3f50d02f0b83b8c786add310915fc8000abf6e93e96b39a
+
+---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:05:41.000Z
+**摘要:** 提醒用户完成水电账户移动请求，需拨打指定电话并提供参考代码
+**待办:** 请拨打1 800 224 9376完成账户移动请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d8040047f51e6e761  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ce643f77a052cf3367e180fa35831107a)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:05:43.000Z
+**摘要:** 需要联系BC Hydro完成迁移请求
+**待办:** 联系BC Hydro完成迁移请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d1b738ccc1796f31c  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ce643f77a052cf336e5e69be8568fb6b3)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:05:45.000Z
+**摘要:** 需要联系BC Hydro完成搬家请求，因在线申请信息不完整。
+**待办:** 请拨打1-800-224-9376并提供参考代码700001859410完成请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d21511da3c3d51d6f  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ce643f77a052cf336716344cf701bca3e)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
+
+## [待办] Your move request is incomplete: 700001859410
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:06:23.000Z
+**摘要:** 需要家长拨打指定电话完成水电搬家请求，因在线申请信息不完整。
+**待办:** 请拨打1-800-224-9376并提供参考代码700001859410完成请求
+**GmailID:** 1a0b6ef2b5494b4f
+
+https://email.bchydro.com/c/443/bf3a7c78843900655d492983f075bcf88783b56d66930b34d77f4fee7054dffd8f4ee00933ae8a8d6a90108402c587d9  Please call to complete your request
+Read this email online (https://email.bchydro.com/v/443/bf3a7c78843900655d492983f075bcf8ad99a072eb38699ced780cf8bef915e9dd6b301249286454)
+Move incomplete
+
+Hi natalie,
+
+We were unable to complete your move request online, however we've saved the information you've filled in. If you give us a call at 1 800 224 9376 (tel:1-800-2
+
+---
+
+## [待办] Your new BC Hydro account
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-19T00:21:21.000Z
+**摘要:** 新BC Hydro账户已开通，首次账单将产生13.5加元费用，并需通过MyHydro在线管理账户
+**待办:** 设置账户支付方式和查看账单
+**GmailID:** 1a0b70a02a3bf0ed
+
+Your new account has been opened
+
+
+Notification
+-----------------------------------------
+Thanks for using MyHydro to open your new BC Hydro account 13773014 at 103 - 708 FARROW ST , COQUITLAM BC V3J 0P2.
+
+You've indicated that you take possession of this location on Aug 1, 2026.
+
+##  Billing and payments
+
+An account charge of $13.50 (plus GST) will appear on your first bill.
+
+If a security deposit is required for this account, the amount owed will be included on your bill.
+
+ 
+
+
+
+---
+
+## [生活旅行] Re: Unit 103 – BC Hydro Account
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-19T00:31:56.000Z
+**摘要:** 需要联系BC Hydro设置Unit 103的水电账户以避免断电
+**待办:** 联系BC Hydro设置账户并发送确认
+**方向:** 发出
+**GmailID:** 1a0aaaa97c65cdc0
+
+Hi，
+I finished setting up the account, but I didn’t no
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月16日 
+周三07:41写道：
+
+> Hi Natalie,
+> I hope you’re doing well.
+> BC Hydro has notified us that the hydro account for Unit 103 has not been 
+> set up in your name as of now. According to our records, your move-in date 
+> was July 19th.
+> Could you please contact BC Hydro as soon as possible to set up the 
+> account effective from your move-in date and send us confirma
+
+---
+
+## [生活旅行] Re: Unit 103 – BC Hydro Account
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-19T01:14:15.000Z
+**摘要:** 邮件提醒需要尽快联系BC Hydro设置Unit 103的账户，并发送确认，否则可能断电。
+**待办:** 联系BC Hydro设置账户并发送确认
+**方向:** 发出
+**GmailID:** 1a0aaaa97c65cdc0
+
+Hi，
+I finished setting up the account, but I didn’t no
+
+Smith & Farrow Rental Resident Care <residentcare@boffo.ca>于2026年9月16日 
+周三07:41写道：
+
+> Hi Natalie,
+> I hope you’re doing well.
+> BC Hydro has notified us that the hydro account for Unit 103 has not been 
+> set up in your name as of now. According to our records, your move-in date 
+> was July 19th.
+> Could you please contact BC Hydro as soon as possible to set up the 
+> account effective from your move-in date and send us confirma
+
+---
+
+## [其他] How was your valuation? Share your thoughts
+
+**发件人:** Foxtons Survey <noreply@customerexperience.foxtons.co.uk>
+**日期:** 2026-09-19T11:00:20.000Z
+**摘要:** 发件人请求填写调查问卷以参与抽奖
+**待办:** 无
+**GmailID:** 1a0b9530c7cf249f
+
+Hi Miss Jingqi wu,
+
+There’s still time to be entered into our draw to win a £250 Amazon voucher*.
+All you have to do is answer a few questions regarding the valuation you
+recently received from us.
+
+The survey takes just 2 minutes to complete:
+
+Please follow this link to complete the survey:
+Take the Survey
+<https://foxtons.qualtrics.com/jfe/form/SV_26xqbrx2mw5twgK?Q_DL=UQtkJVro8Ez3lWZ_26xqbrx2mw5twgK_CTR_iyiGLmwYsdyNS6D&Q_RD=EMD_3Gpjv4oEdKAJ73P&Q_CHL=email>
+
+Thank you for your time,
+
+---
+
+## [营销] iPhone 18 Pro is available now. Get yours today.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-19T12:06:56.000Z
+**摘要:** BestBuy通知iPhone 18 Pro已上市，鼓励顾客购买。
+**待办:** 无
+**GmailID:** 1a0b991c124cc64f
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 🔥The brands at the top of your list🔥
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-19T13:03:12.000Z
+**摘要:** 推荐UGG、New Balance等品牌鞋款，提供48小时快速配送服务。
+**待办:** 无
+**GmailID:** 1a0b9c38331b2021
+
+Step into the latest from UGG, Wishbone, New Balance, and
+adidas.   FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQaZmeSzmIVAVTg1VP-2FK-2FPqo-3DqLHw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFpjXj6XsxH2NTDFs0EqiwgYvB2iYRXvuIz0yvAq6NsSXt7LChd6iI0sYVsV1hqo-2BqPkHGtmJVwVPFViQK3OCK8M5FVH1da5ASOfvWMKwC7buUIpNhvqH-
+
+---
+
+## [营销] Get 4X points on all fragrance until 9/23 with code NEWSCENTS
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-19T13:13:05.000Z
+**摘要:** Sephora推出促销活动，使用代码NEWSCENTS可享受所有香氛产品4倍积分，截止日期为9月23日。
+**待办:** 无
+**GmailID:** 1a0b9cca86c2b370
+
+ Sephora 
+
+This is not a drill. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0b9cc8d64b68b686e966a3578/83cb59874701414e0000021ef3a0bcc2/83cb5987-4701-414e-9069-856d8
+
+---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Sep 21-25
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-19T17:02:50.000Z
+**摘要:** 提醒家长下周的着装要求及Terry Fox Run活动安排。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0ba9ef8bae319c
+
+Good day, Grade 7 Families,
+Hope your kids enjoyed the WWOW trip to Gibsons Farm. I heard the goats were very cute, harvesting potatoes and zucchinis was fun, and the stuffed crust pizza that our daughter and her friend made was tasty.
+Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/a8f9e95b-4b1b-446d-a7c5-6dff30aaedd5> to read this week's eGryphon for news & updates from Meadowridge School. Keep informed about what’s coming up and how your family can get involved with AL
+
+---
+
+## [营销] Just in: EasyFive™ Barrel-Leg Pant
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-19T17:10:56.000Z
+**摘要:** lululemon推送新款EasyFive™ Barrel-Leg运动裤的促销信息
+**待办:** 无
+**GmailID:** 1a0baa674daf9ebb
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-19T18:02:25.000Z
+**摘要:** 家长询问是否可以暂时用支付收据代替标签让孩子坐校车
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0a942f4f81d47f
+
+Dear Janice,
+
+I hope this email finds you well.
+I haven't received the tag, and just in case I don't get it on Monday, can my daughter take the bus on Monday by showing the payment receipt to the driver?
+在 Sep 16, 2026, 20:57 +0200，AR <ar@lynchbuslines.com>，写道：
+> Wonderful! I’m glad to hear it all worked out. I will have a tag assigned and mailed to your home address. Have a great day!
+>
+> Janice Cooper
+> Lynch Bus Lines
+> 4687 Byrne Road
+> Burnaby, BC V5J 3H6
+> Ph:  604-439-0842
+> F
+
+---
+
+## [待办] Reminder: Get paid so you can get your Payoneer card
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-19T18:48:03.000Z
+**摘要:** 提醒用户完成付款以获取Payoneer卡，可能涉及账户验证或付款确认。
+**待办:** 确认Payoneer账户并完成付款以获取卡片
+**GmailID:** 1a0baff3ae1046ad
+
+ The global card for global
+business expenses 
+
+
+
+/* Force outlook to fallback on Arial instead of Times
+Roman and removes extra spaces */ table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     
+
+---
+
+## [生活旅行] 5大Wellness Travel目的地推薦 🌿
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-19T20:26:58.000Z
+**摘要:** Trip.com推荐五大健康旅行目的地，包含机票信息
+**待办:** 无
+**GmailID:** 1a0bb59c8b8ee032
+
+精選全球頂級Wellness Retreat
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-ALI-33981-10154210115-1789849617014.473%26ouid%3D507950.trippulse_edm_0919_hk.2026-09-19_-8_0.20260920.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D507950.trippulse_edm_0919_hk.2026-09-19_-8_0.20260920.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLUFMSS0zMzk4MS0xMDE1NDIxMDExNS0xNzg5ODQ5N
+
+---
+
+## [营销] Make it an exceptionally plush fall
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-20T02:13:18.000Z
+**摘要:** 邮件通知新到的秋季毛衣产品
+**待办:** 无
+**GmailID:** 1a0bc9dbe3f9fa06
+
+New sweaters just arrived.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [营销] The seasonal reset 🍂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-20T13:13:37.000Z
+**摘要:** Browns Shoes 推出季节性新品促销，支持2小时自提服务。
+**待办:** 无
+**GmailID:** 1a0bef3690d6389d
+
+New arrivals for the shift in season.   BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M2aVk0TDM-2FFS8fIeQxaczPgDrxS3y7x7BXq-2BPUdCJUTA-3D-3D9qba_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALc60lCVQjRXKLZYccLwYKjYBj1gOkDTbyJKx99Dyneir0rJqbzB52yHyDtWhYZBzUCpI7dm84tYA9aza1jt5s-2BTaSW4dtT5RfXlrAjDT-2FdWylMi3juy-2F0NZpOtbv8nUY6qHmA9yLJUAQDMJMVG7QnrGxPnj2dDhMOFJZ8dAP9ZfoOwnIT
+
+---
+
+## [营销] New Dieux Firm Revival HydroRetinal Firming Serum ✨
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-20T16:14:40.000Z
+**摘要:** Sephora 推荐新的 Dieux Firm Revival HydroRetinal Firming Serum 护肤精华液，强调其紧致肌肤的效果。
+**待办:** 无
+**GmailID:** 1a0bf9938d179bca
+
+ Sephora 
+
+Visibly firm skin with this gentle formula. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0bf991f3a90f423f4bbcfbb48/d2489ee87f1c42ce0000021ef3a0bcc2/d2489e
+
+---
+
+## [营销] Two orders, 40% easier on your wallet
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-20T16:45:42.000Z
+**摘要:** DoorDash推送促销信息，提及用户有两个订单并提供40%的优惠。
+**待办:** 无
+**GmailID:** 1a0bfb594460b05f
+
+ DoorDash Here’s your sign. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌  
+
+---
+
+## [营销] The ultimate tee lineup is here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-20T17:22:54.000Z
+**摘要:** lululemon推出全新T恤系列，宣传其产品线。
+**待办:** 无
+**GmailID:** 1a0bfdd1b239a7a5
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] Tell your waist
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-21T02:01:24.000Z
+**摘要:** 促销腰带和搭配建议
+**待办:** 无
+**GmailID:** 1a0c1b35852fa6c8
+
+New belts and considered pairings.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-21T08:34:01.000Z
+**摘要:** 邮件跟进确认是否完成并提交了Thirdfort表格，可能与房产相关文件有关。
+**待办:** 确认是否完成并提交Thirdfort表格
+**GmailID:** 1a07ba79eafc4532
+
+Good Morning Natalie,
+
+I just wanted to follow up on my below email if possible as our CDD team are saying they have still not received your completed Thirdfort.
+
+There should be guidance documents in the introduction email that was sent to you, hopefully these can help resolve the problem.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,
+
+---
+
+## [生活旅行] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-21T09:26:35.000Z
+**摘要:** Natalie询问是否成功提交了Knight Frank的申请文件，并询问是否需要重新提交。
+**待办:** 确认文件是否成功提交并重新提交。
+**方向:** 发出
+**GmailID:** 1a07ba79eafc4532
+
+Hi Lauren
+I believed that I summited successfully!
+But if not go through how do I do ? Can u
+I use the old link to redo it or u send me the new link?
+Thank
+On 21 Sep 2026 at 10:34 AM +0200, Lauren D'Souza <Lauren.DSouza@knightfrank.com>, wrote:
+> Good Morning Natalie,
+>
+> I just wanted to follow up on my below email if possible as our CDD team are saying they have still not received your completed Thirdfort.
+>
+> There should be guidance documents in the introduction email that was sent
+
+---
+
+## [其他] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-09-21T09:51:44.000Z
+**摘要:** 邮件提醒确认是否成功提交公寓信息，或联系支持处理
+**待办:** 确认是否成功提交公寓信息
+**GmailID:** 1a07ba79eafc4532
+
+Hi Natalie,
+
+You will just need to go into the old link and ensure that you have clicked submit.
+
+If not, Thirdfort support should be able to assist.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 21 September 2026 10:27
+To: Lauren D'Souza <Lauren.DSouza@knightfrank.
+
+---
+
+## [营销] Shop this week’s Top Deals on laptops, TVs and more.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-21T11:06:13.000Z
+**摘要:** BestBuy推出本周促销活动，涵盖笔记本电脑、电视等商品的优惠，需设置账户以解锁专属折扣。
+**待办:** 无
+**GmailID:** 1a0c3a528d5e78d3
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+https://click.communications.bestbuypromotions.ca/?qs=ABB7InYiOjEsImQiOjUwMDZ9AAcAAAAABtYyMCU14y1beel_89ab5AmPPUozCxJEMH66b1xcPbKRhZogmh1dp8VZDWgicHjNe7-s_O3kDM-Ma-SMGAtThTIthrEW-wNtiQtustY1ht4&CMP=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu-gcat_na-g_sl-f_na-na-na-l_en-e3x1&EMI=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&e=TkFUQUxJRVdVMTAwQEdNQUlMLkNPTQ==&j=2507620&l=52_HTML&mid=7210119&jb=1957&utm_medium=email&utm_source=sfmc&utm_campaign=eml-bby-pr-tar-2026-09-21-c_cal-csgsc_glu
+
+---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-21T11:28:20.000Z
+**摘要:** 关于关键活动的邮件，内容不明确
+**待办:** 无
+**GmailID:** 1a0c3b960033a502
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Apple Watch Series 12 and Ultra 4 are here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-21T12:39:20.000Z
+**摘要:** Apple推出Apple Watch Series 12，强调精准心率监测功能，并提供购买链接。
+**待办:** 无
+**GmailID:** 1a0c3fa602e64bad
+
+Apple logo
+
+Say hello to the latest from Apple Watch.
+
+Apple Watch Series 12
+
+The most accurate heart rate sensing in a wearable.(1)
+
+Two Apple Watch Series 12 devices, aluminum case, dark bronze color with olive Sport Band, one with Heart Rate app, the other showing the Health Sensing System on the back of the watch, with glowing green LED lights
+
+From $549 or $46.99/mo. for 12 mos. at 4.99% APR*
+
+Learn more, Apple Watch Series 12 Learn more
+https://c.apple.com/r?v=2&a=1zIdgxRYc2Dt
+
+---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-09-21T12:36:33.000Z
+**摘要:** 无
+**待办:** 无
+**GmailID:** 1a0c3b960033a502
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] See how Maia works and how your scenario could win 1.8M credits 👑
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-21T12:47:16.000Z
+**摘要:** 这封邮件是关于邀请参加AI研究助理的网络研讨会，介绍Maia的工作原理和应用场景。
+**待办:** 无
+**GmailID:** 1a0c4036b1c22bbd
+
+7 AI workflows to clone, Scenario of the Month, and more  
+
+Early Bird ends soon.
+
+See AI's next wave at Waves 26 ( https://waves.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://with-make.wistia.com/live/events/guy3ify186?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+
+Webinar
+
+*******
+
+---
+
+## [营销] New from WISHBONE, The Lane and ROWENN
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-21T13:07:14.000Z
+**摘要:** 品牌新品发布广告，介绍时尚鞋款
+**待办:** 无
+**GmailID:** 1a0c413ec4ddcf33
+
+Timeless styles, with a modern point of view.   YOUR FIRST STOP
+FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PGluZyuQ-2F-2BkiUAsZ4yj0GaxxiLZK7O1uQstwp1OEQwbA-3D-3DfAdE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOo3nzV65Xsa2XbmeTKGAryU1cRpbr1Y8E-2B49NIVGG4OOG-2BXvu95-2BggMT8btUWjtnWsxrFVwQSNp1nbFKMgnruJcARD-2FCvnhcKrcftxm-2Bx-2B5tTLaiFJhjbeL6nRwaweEtfvYp9pyVCs7-2FeEy4G-2BDOjkStyO7EZJXv
+
+---
+
+## [Cathy&David] RE: Transaction Declined - Reference:
+
+**发件人:** AR <ar@lynchbuslines.com>
+**日期:** 2026-09-21T13:06:58.000Z
+**摘要:** 确认孩子可凭支付收据乘坐校车，无需标签
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0a942f4f81d47f
+
+Hey Natalie, 
+
+ 
+
+It is likely still in transit. The driver is aware your child can take the bus, so you should not have any issues. Thank you! 
+
+Janice Cooper
+
+Lynch Bus Lines
+
+4687 Byrne Road
+
+Burnaby, BC V5J 3H6
+
+Ph:  604-439-0842
+
+Fax: 604-439-1941
+
+This email (and any attachment) is intended solely for the addressee and may contain confidential information. If you have received this email in error, please notify us immediately and delete it. Reading, disclosing, copying or
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-09-21T14:08:24.000Z
+**摘要:** 需要支付T-Mobile账单以避免服务中断
+**待办:** 支付T-Mobile账单
+**GmailID:** 1a0c44bec853771d
+
+ Make a payment to continue service. 
+Make a payment to continue service. 
+Make a payment to continue service. 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account now 
+Hi , 
+Your monthly plan is about to renew. You must make a payment to refill your 
+T-Mobile account by *09/23/2026* to continue uninterrupted service. 
+
+You can pay online at my.t-mobile.com. <https://my.t-mobile.com> Please 
+disrega
+
+---
+
+## [营销] Rare deals 🔥 Everyday items
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-21T17:44:17.000Z
+**摘要:** 这封邮件是DoorDash发送的日常物品促销广告。
+**待办:** 无
+**GmailID:** 1a0c511965f686c6
+
+ DoorDash Get it all delivered. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏
+
+---
+
+## [营销] Four reasons to use Payoneer
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-21T18:48:13.000Z
+**摘要:** 介绍使用Payoneer的四个原因，强调其相对于传统银行的优势
+**待办:** 无
+**GmailID:** 1a0c54c1d3959049
+
+Traditional
+banks just can’t keep up 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacin
+
+---
+
+## [营销] Not just new—new for you
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-21T21:58:26.000Z
+**摘要:** lululemon发送的促销邮件，主题为‘Not just new—new for you’
+**待办:** 无
+**GmailID:** 1a0c5fa454468200
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [待办] Your BC Hydro bill is ready Sep 18, 2026
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-09-22T04:38:09.000Z
+**摘要:** 电费账单已生成，需在10月13日前支付72.53美元
+**待办:** 支付电费账单
+**GmailID:** 1a0c768357ce0182
+
+Your bill is ready
+Read this email online (https://email.bchydro.com/v/443/355a10b70a9655a1acaaf4d9f9b1da30ad99a072eb38699c677298e66040fb8db575d3fbc8d1c932)
+
+
+Hi natalie,
+
+Your bill for 103-708 FARROW ST, COQUITLAM BC  V3J 0P2 is ready.
+
+
+Your bill amount of $72.53 is due by Oct 13, 2026.
+ 
+
+Make a one-time payment by withdrawal from your bank account directly from MyHydro.
+
+https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da30cfbd762246ba5ee1a14c74fc690da7df234b3df86579
+
+---
+
+## [生活旅行] Emery Wharf - book your apartment Annual Service Inspection now, included within service charges paid - Appointments available
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-22T08:50:27.000Z
+**摘要:** 通知公寓年度服务检查的预约，包含在服务费中
+**待办:** 预约公寓年度服务检查
+**GmailID:** 1a0c84f30c5cf042
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] Discover the magic of Active Noise Cancellation with AirPods 5.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-22T12:10:02.000Z
+**摘要:** 这封邮件是Apple发送的营销信息，介绍AirPods 5的主动降噪功能和购买信息。
+**待办:** 无
+**GmailID:** 1a0c905e77c81bca
+
+Apple
+
+AirPods 5
+
+Discover the magic of Active Noise Cancellation.
+
+Now starting at $179 with Wireless Charging Case $209
+
+Buy AirPods 5 Buy
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsDinxDh9mMX7HOMVIE63TU6DISEhR0OU6Gli6mVSWzPwI45SDjl44Gt3LQWXTpyMtXCPGLJD4H8y%2FtDpfJeCLeuXSYMwomVT6TMUk7X%2FMmHcxRW
+
+---
+
+## [其他] Champagne route - Sunday Roast
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-22T13:02:41.000Z
+**摘要:** 关于Champagne路线的周日烤肉活动
+**待办:** 无
+**GmailID:** 1a0c9362e71a9c57
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] The shoes are the outfit
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-22T13:07:33.000Z
+**摘要:** 这封邮件是Browns Shoes发送的广告，介绍其设计师鞋款和品牌历史，包含产品推广链接。
+**待办:** 无
+**GmailID:** 1a0c93a92928015f
+
+Meet the designer styles making the whole look   A CANADIAN
+LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Nx72Xr959Xp7DxCErRj-2BDqrfDp7pAHV85DfRgQEfLyJw-3D-3DuADo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJYy40G3xklXkzInjSN-2F0efN4lU8QDA-2FFni8BLUau8BZY4-2BQaZPgn6QyPK42qDcLGyXkcliOcgUjU7u2MOuJ5FWPdrGK2QYjeXQ0TRkc4qkJI36KVBOUf9N7bNOSZUX30dPxZ-2BBgUQUhOhJyXMzYAmRHq3gswXo8GZWTwO
+
+---
+
+## [营销] The art of fragrance layering
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-09-22T13:28:32.000Z
+**摘要:** Sephora推送香氛产品促销信息，提及PHLUR、Prada等品牌及积分优惠活动
+**待办:** 无
+**GmailID:** 1a0c94ddb54e4292
+
+ Sephora 
+
+With PHLUR, Prada, KAYALI, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0c94dc2bb9681fef4bbc780a0/90d14ba79b89404b0000021ef3a0bcc2/90d14ba7-9b89
+
+---
+
+## [营销] Just launched — The Leather Collection
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-22T14:03:26.000Z
+**摘要:** Aritzia推出新款皮革和麂皮产品。
+**待办:** 无
+**GmailID:** 1a0c96ef6681a9dc
+
+New 100% leather and suede. The real deal.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌
+
+---
+
+## [营销] Scopri Perfectly Fit di Calvin Klein
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-22T15:22:26.000Z
+**摘要:** 推广Calvin Klein的Perfectly Fit系列，可能涉及服装或配件的促销信息
+**待办:** 无
+**GmailID:** 1a0c9bc17086e019
+
+
+
+
+---
+
+## [营销] What’s new: Dance Studio Pants loosen up
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-22T22:30:34.000Z
+**摘要:** 宣传新的舞蹈工作室裤子款式
+**待办:** 无
+**GmailID:** 1a0cb3e1d67b94a6
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [生活旅行] 搶先鎖定雪季！滑雪酒店享 7 折❄️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-23T00:30:32.000Z
+**摘要:** Trip.com 发送的促销邮件，提供滑雪酒店和机票的折扣优惠。
+**待办:** 无
+**GmailID:** 1a0cbabdc9b8ca2e
+
+日本航空機票低至 HK$3,000⛷️Trip.com 旅展限定優惠懶人包+皇家加勒比郵輪減 HK$1,600👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014320488-1790123431690.682%26ouid%3D510547.HK-20260923-edm-travelhub.2026-09-23_8_0.20260923.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D510547.HK-20260923-edm-travelhub.2026-09-23_8_0.20260923.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0d
+
+---
+
+## [营销] Find the perfect Outlet deal for you. ✨
+
+**发件人:** "BestBuy.ca Outlet" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-23T12:08:32.000Z
+**摘要:** BestBuy.ca Outlet的促销邮件
+**待办:** 无
+**GmailID:** 1a0ce2f83abd9998
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
+
+## [营销] 🤎 UGG SEASON IS OFFICIALLY ON 🤎
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-23T13:07:32.000Z
+**摘要:** 这是一封关于UGG季节正式开始的促销邮件，推广舒适保暖的鞋履产品。
+**待办:** 无
+**GmailID:** 1a0ce60e825a85c1
+
+Iconic, cozy and impossible to resist   YOUR TOP FOOTWEAR
+DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRPquIkjd6pOYmagYIqB-2F5Gs-3DbEFc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC5aAzNRdHGtp9u-2FFdJN5spSXsyWArFzPdvEi1WBm46N9GcrrLbsxvP8nQDaognXBVcQ2ePcAtgF3KDR3X8XrauYRTRY3vLmdxUql77FCp801jwEdqTlfJsHZnE5-2BZofqI-2FtiDf3OHiQObNaQvws5tBr
+
+---
+
+## [待办] Your T-Mobile account needs to be refilled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-09-23T13:48:09.000Z
+**摘要:** 提醒支付T-Mobile账单以避免服务中断
+**待办:** 支付T-Mobile账单
+**GmailID:** 1a0ce8617a5fe2e1
+
+ Make a payment to continue service 
+Make a payment to continue service 
+Make a payment to continue service 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+[image: T-Mobile] <https://www.t-mobile.com/> 
+ACCOUNT NUMBER: 180944337 
+Refill your T-Mobile account by 09/22/2026 
+Hi , 
+Your monthly plan is about to renew. You must make payment by *09/22/2026* 
+to refill your T-Mobile account to continue uninterrupted service—pay 
+online at 
+my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
+
+---
+
+## [营销] Hair Daily Deals starts today 🎉 20–50% off select hair care.
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-23T14:18:00.000Z
+**摘要:** Sephora推出每日头发护理产品折扣，20-50%优惠及免费当日配送。
+**待办:** 无
+**GmailID:** 1a0ced4baf515f92
+
+ Sephora 
+
+Plus, get your beauty TODAY with FREE Same Day Delivery. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0cea16af4939cea6e96c566a0/4058392580cb47400000021ef3
+
+---
+
+## [营销] We want you back 👀 40% off x2
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-23T16:47:14.000Z
+**摘要:** DoorDash发送的促销邮件，提供40%折扣及双倍优惠。
+**待办:** 无
+**GmailID:** 1a0cf2a10ef2cafd
+
+ DoorDash This deal’s for you. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ 
+
+---
+
+## [Cathy&David] Grade 7 CWOW Widgeon Creek - October 9
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-23T17:47:51.000Z
+**摘要:** 七年级CWOW活动在Widgeon Creek的安排
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0cf618f75c3e45
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] XIAOJUN, get paid like a local
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-23T18:48:40.000Z
+**摘要:** Payoneer推广全球收款账户服务，支持多种货币收款
+**待办:** 无
+**GmailID:** 1a0cf993bd1c02d6
+
+Open receiving accounts in the
+world’s major currencies 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpad
+
+---
+
+## [营销] Your 20% off mascara ends today, Natalie
+
+**发件人:** Sephora <shop@beauty.sephora.com>
+**日期:** 2026-09-23T19:44:39.000Z
+**摘要:** Sephora通知睫毛膏20%折扣即将结束，提醒尽快购买。
+**待办:** 无
+**GmailID:** 1a0cfcc8f559ccda
+
+ Sephora 
+
+Hurry—don’t miss this deal
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0cfcc76e2ab2ab36e96c65848/c19db503dc0d48910000021ef3a0bcc2/c19db503-dc0d-4891-b42e-
+
+---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:24:07.000Z
+**摘要:** Cathy家长询问2027年9月八年级入学的校园参观安排，需确认开放日或私人导览可能性
+**待办:** 联系学校安排校园参观事宜
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05e7b431bbdc
+
+Subject: Campus Visit Request – Grade 8 Applicant (September 2027)
+
+Dear Ms. Wilson,
+
+My daughter Cathy is currently in Grade 7 at a school in Vancouver, and we
+plan to apply for Grade 8 entry in September 2027.
+
+We would love to visit the campus. Could you please let me know the upcoming
+open house dates, or whether it is possible to arrange a private tour?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
+
+## [Cathy&David] Thank you for your admissions inquiry
+
+**发件人:** York House School <info@yorkhouse.ca>
+**日期:** 2026-09-23T22:28:36.000Z
+**摘要:** 学校感谢家长的申请查询，并表示将尽快联系解答问题。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d0629915d665b
+
+<p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-wrap;">Dear Parent / Guardian,</span></span></p><p style="line-height:1.38;">&nbsp;</p><p style="line-height:1.38;"><span style="color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;white-space:pre-w
+
+---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:24:20.000Z
+**摘要:** Cathy 的母亲 Natalie 询问 2027 年9月八年级入学的校园开放日时间或私人参观安排
+**待办:** 联系学校确认开放日信息并安排参观
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Dear Ms. Wilson,
+
+My daughter Cathy is currently in Grade 7 at a school in Vancouver, and we
+plan to apply for Grade 8 entry in September 2027.
+
+We would love to visit the campus. Could you please let me know the upcoming
+open house dates, or whether it is possible to arrange a private tour?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
+
+## [Cathy&David] Website Query: General Admissions
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:25:46.000Z
+**摘要:** Cathy的家长询问York House学校2027年9月八年级的开放日和校园参观安排
+**待办:** 联系York House招生办公室确认开放日期并安排校园参观
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Dear Admissions Team,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we are
+interested in applying to York House for Grade 8 in September 2027.
+
+Could you please advise the upcoming open house dates, or whether we could
+arrange a campus tour?
+
+Thank you for your time.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
+
+## [其他] Summary of failures for Google Apps Script: 未命名项目
+
+**发件人:** noreply-apps-scripts-notifications@google.com
+**日期:** 2026-09-23T22:24:23.000Z
+**摘要:** Google Apps Script在同步Cathy的邮件时发生错误，提示未找到时间相关数据。
+**待办:** 无
+**GmailID:** 1a0d05eb83edbb01
+
+Your script, 未命名项目, has recently failed to finish successfully. A  
+summary of the failure(s) is shown below. To configure the triggers for  
+this script, or change your setting for receiving future failure  
+notifications, click here.
+
+
+Start Function Error Message Trigger End
+
+9/24/26 12:24:18 AM CAT syncCathyEmails Exception: Not found time-based  
+9/24/26 12:24:23 AM CAT
+
+
+Sincerely,
+Google Apps Script
+
+Need help? Visit the Google Apps Script documentation. Please do not reply
+
+---
+
+## [Cathy&David] RE: Website Query: General Admissions
+
+**发件人:** Kathi Wilson <wilsonk@lfabc.org>
+**日期:** 2026-09-23T22:42:30.000Z
+**摘要:** 通知Little Flower Academy开放日及入学考试安排，包括时间、地点和注意事项。
+**待办:** 确保Cathy按时参加入学考试并安排停车。
+**涉及:** Cathy
+**GmailID:** 1a0d05ed81f828ce
+
+Open House
+On October 21, we look forward to welcoming prospective Grade 6 and 7 students and their families to our annual Little Flower Academy Open House. The evening is an opportunity to experience LFA and learn more about our school ahead of the application process.
+
+Following a welcome from our Administration Team, guests will join student-led tours of our campus and facilities, offering a glimpse into the learning, community, and opportunities that make LFA such a special place to spend
+
+---
+
+## [Cathy&David] 已接受：Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** nataliewu100@gmail.com
+**日期:** 2026-09-23T22:38:45.000Z
+**摘要:** 确认参加York House Little School和Junior School的参观活动
+**待办:** 无
+**方向:** 发出
+**涉及:** 两个
+**GmailID:** 1a0d06bfdd685cf0
+
+
+
+---
+
+## [Cathy&David] Re: 已接受：Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** Calendly <noreply@calendly.com>
+**日期:** 2026-09-23T22:38:55.000Z
+**摘要:** 确认预约了York House Little School和Junior School的参观时间，需家长联系学校确认细节。
+**待办:** 联系学校确认参观细节
+**涉及:** 两个
+**GmailID:** 1a0d06bfdd685cf0
+
+Hi!
+
+This is a non-monitored inbox, so we at Calendly won't see your message. 
+Calendly is a scheduling tool that anyone can use to manage their 
+scheduling process. If you were trying to reach the person or organization 
+you scheduled with, we recommend reaching out to them directly -- they 
+should be able to help!
+
+If you have questions about Calendly specifically, you can reach our 
+Support team at https://help.calendly.com/hc/en-us/requests/new. 
+
+
+---
+
+## [Cathy&David] Confirmed: York House Little School + Junior School Tour on Thursday, October 22, 2026
+
+**发件人:** Calendly <no-reply@calendly.com>
+**日期:** 2026-09-23T22:37:37.000Z
+**摘要:** 确认了2026年10月22日对York House Little School和Junior School的参观安排，包括时间和地点。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d06ad6c0ad259
+
+ Calendly 
+
+[image: YHS Admissions Calendar] 
+
+Hi jingqi wu,
+
+Your York House Little School + Junior School Tour at 13:40 (Pacific Time - 
+US & Canada) on Thursday, October 22, 2026 is scheduled.
+
+*Location:* York House Little School - 3274 East Blvd. Vancouver - We will 
+start at the Little School and then move to the Main Campus (4176 Alexandra 
+St) for the Junior School portion.
+
+
+*This is a tour of our JK/SK Campus, followed by a tour of our separate 
+Grade 1-7 campus.*
+
+
+A Parent Ambassador
+
+---
+
+## [其他] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:54:08.000Z
+**摘要:** 无
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a0d079f2fafece3
+
+ 
+
+---
+
+## [Cathy&David] Re: West Point Grey Academy 2027-2028 Application and Tour Registration Now Open
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:52:24.000Z
+**摘要:** Natalie为女儿Cathy申请West Point Grey Academy 2027年九月八年级入学，询问开放日信息和申请链接。
+**待办:** 联系学校获取开放日信息和申请链接
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a08bdc398a2851a
+
+Dear Enrolment Office,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we would like to apply for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or tour dates for prospective families? I was unable to find the online booking link on your website—could you please send it to me, or can I schedule a tour directly with you?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+在 Sep 10, 2026, 17:07 +0200，West Point Grey Academy Enrolme
+
+---
+
+## [Cathy&David] Delivery Status Notification (Failure)
+
+**发件人:** Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+**日期:** 2026-09-23T22:52:37.000Z
+**摘要:** 邮件无法送达wpga@myschoolapp.com，因地址不可用
+**待办:** 检查wpga@myschoolapp.com地址是否正确并联系相关方
+**涉及:** 不明
+**GmailID:** 1a08bdc398a2851a
+
+
+** 找不到地址 **
+
+由于系统找不到电子邮件地址 wpga@myschoolapp.com，或该地址无法接收邮件，因此无法递送您的邮件。
+
+
+
+以下为远程服务器的响应：
+550 5.1.1 Requested action not taken: mailbox unavailable
+
+Final-Recipient: rfc822; wpga@myschoolapp.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; inbound-smtp.us-east-1.amazonaws.com. (44.210.166.32, the
+ server for the domain myschoolapp.com.)
+Diagnostic-Code: smtp; 550 5.1.1 Requested action not taken: mailbox unavailable
+Last-Attempt-Date: Wed, 23 Sep 2026 15:52:37 -0700 (PDT)
+
+
+---
+
+## [Cathy&David] Confirmed: Grade 8 Ivy Discovery Day with CHS on Saturday, October 3, 2026
+
+**发件人:** CHS Events <notifications@calendly.com>
+**日期:** 2026-09-23T22:44:48.000Z
+**摘要:** 确认女儿Yunxi He参加Crofton House School的八年级Ivy Discovery Day活动，时间为2026年10月3日，包含学生和家长活动环节。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d0716a0ddd84d
+
+ Calendly 
+
+Hi jingqi wu,
+
+Your Grade 8 Ivy Discovery Day with CHS at 12:30 (Pacific Time - US & 
+Canada) on Saturday, October 3, 2026 is scheduled.
+
+Crofton House School’s Ivy Compass Discovery Day is an immersive event 
+specially crafted for Grade 7 girls applying for CHS Grade 8 admission.  
+Your daughter will be introduced to Crofton’s signature Ivy Compass 
+program, which fosters growth, leadership, and active citizenship through 
+hands-on activities and community engagement, through a vari
+
+---
+
+## [Cathy&David] School Tour Request – Grade 8 Applicant (September 2027)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T22:54:40.000Z
+**摘要:** Cathy的家长询问2027年9月八年级入学的开放日及参观日期
+**待办:** 回复邮件并确认参观日期
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d07aa37738bdc
+
+Dear Enrolment Office,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we would like
+to apply for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or tour dates for
+prospective families?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899
+
+
+---
+
+## [Cathy&David] SJS Tour Confirmation- Nov 24
+
+**发件人:** SJS Admissions Team <stjohnsbc@myschoolapp.com>
+**日期:** 2026-09-23T23:09:52.000Z
+**摘要:** 确认Cathy和David的圣约翰学校参观安排，包括时间、地点和活动内容。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d08861f9f3922
+
+Hello jingqi wu,
+
+We are excited to welcome you to the St. John's School Tour on November 24, 2026. 
+
+During the tour, our student ambassadors will guide you through our learning spaces, giving you a glimpse of life at SJS. You’ll also hear more about the values and programs that make our community so special for students and families alike. Our Admissions Team will also be available to answer any questions you may have and provide an overview of the application process to help you prepare f
+
+---
+
+## [Cathy&David] School Visit Request – Grade 8 Applicant (September 2027)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-23T23:08:08.000Z
+**摘要:** 询问Cathy申请八年级入学的开放日和校园参观日期
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d086edf69c31b
+
+Dear Ms. Armstrong,
+
+My daughter Cathy is in Grade 7 at a school in Vancouver, and we are
+interested in applying for Grade 8 entry in September 2027.
+
+Could you please advise the upcoming open house or campus tour dates?
+
+Thank you very much.
+
+Best regards,
+Natalie
+778-255-5899 |
+
+
+---
+
+## [Cathy&David] Re: School Visit Request – Grade 8 Applicant (September 2027)
+
+**发件人:** SH Admissions <admissions@stratfordhall.ca>
+**日期:** 2026-09-23T23:10:29.000Z
+**摘要:** 关于Cathy申请八年级学校开放日的询问和相关链接
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d086edf69c31b
+
+Hi Natalie,
+
+Thank you for your inquiry.
+
+Our Open House and Information Sessions are listed on our website.
+
+If you click here <https://www.stratfordhall.ca/admissions/visit-us> and
+scroll to the bottom, you will see the dates.
+
+If you click here
+<https://stratfordhall.myschoolapp.com/app/embed?svcid=edu#admeventregister/3566/selector=.internet/1788469362%3awcqInLb9MpwgFcN9uJro%2bHA%2b9NZNjdy2N9sn6aJVReM%2boFff%2bzPyvGjSujCT4oMcAtYZo6X3jHlOQ8NU1R64%2fg%3d%3d>,
+you will be able to reg
+
+---
+
+## [Cathy&David] Open House Confirmation
+
+**发件人:** Admissions Team <stratfordhall@myschoolapp.com>
+**日期:** 2026-09-23T23:20:22.000Z
+**摘要:** 确认参加学校开放日，时间定于上午9点，包含9:30的演讲和校园参观。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d091fc9f74cc9
+
+Hello jingqi wu,
+
+Thank you for registering for an Open House. Doors open at 9:00am. Presentation will begin at 9:30am sharp! We look forward to telling you about our programs and showing you around our campus.
+
+---
+
+## [营销] The new Mac mini and Mac Studio just landed.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-09-23T23:43:03.000Z
+**摘要:** 苹果公司发布新款Mac mini和Mac Studio，介绍其功能和设计。
+**待办:** 无
+**GmailID:** 1a0d0a6beec49ec5
+
+Apple Logo
+
+Whoa, the possibilities.
+
+Mac mini
+
+Little do-it-all.
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsD%2BH6jOm4XDy2wevJ%2B7luCVfjZqXkZpRN4jhQUsyvq16%2Bpl0pB4xaeEMBYFGQIh2MD%2BLLQhBQvn%2FKu%2FedXXsUxReE6krQffB5J8%2B91OG6mTHcOql2ayxQZjS%2BGrbgy%2Fp3Lfq1P%2Bz2g8TZ1CnxmKDOLeSNkxveKQOYKDzp6hfTk
+
+---
+
+## [生活旅行] 【旅展限定懶人包】買1送1＋半價起程！✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-09-24T00:44:44.000Z
+**摘要:** Trip.com发送的旅游博览会促销邮件，提供机票等产品优惠。
+**待办:** 无
+**GmailID:** 1a0d0df37913cfd4
+
+9月25–27日香港秋季旅遊博覽會🧳六大產品線優惠大放送，即刻預先睇詳情👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101425433-1790210682840.78%26ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D511380.HK-20260924-edm-expo.2026-09-24_8_0.20260924.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjU0MzMtM
+
+---
+
+## [营销] Dr. Martens Introducing: With Bouncing Soles
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-24T13:08:40.000Z
+**摘要:** 推广Dr. Martens新款运动鞋，介绍两款新款式
+**待办:** 无
+**GmailID:** 1a0d38853f5b90c9
+
+Explore the new 8065 Mary-Jane and the 8053 Quad Arc in rich,
+worn-in leather    THE BEST SNEAKER BRANDS, ALL IN ONE PLACE 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OH2vQFikY7k0U1oAv2uS0iyHGO7WRjLJ-2FvlogDdzy7fQ-3D-3DODuF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOAOEmbIb1DisD2JsQuGE2TS-2FVOebMswwBAbaoDphK1VMFjXckHIvPji-2BxZgNLT2oH2p242fj98cjav-2F0cjV8bDsh8NIJWOuS1nE01KJjcTvCc27K00lOZ1lRtv
+
+---
+
+## [营销] The Super Puff™ ft. Yoonchae. The moment you’ve been waiting for.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-24T14:25:01.000Z
+**摘要:** 促销新款服装，可能涉及产品推广
+**待办:** 无
+**GmailID:** 1a0d3d74238802ef
+
++ The Super Ruff Puff is back, too. W-A-L-K, don’t run.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
+
+---
+
+## [Cathy&David] Re: School Tour Request – Grade 8 Applicant (September 2027)
+
+**发件人:** WPGA Enrolment <enrolment@wpga.ca>
+**日期:** 2026-09-24T15:18:35.000Z
+**摘要:** 通知Cathy的学校申请进展并邀请参加信息会议和学生导览
+**待办:** 注册信息会议和学生导览
+**涉及:** Cathy
+**GmailID:** 1a0d07aa37738bdc
+
+Good morning Natalie,
+
+We are delighted that you are considering West Point Grey Academy for Cathy's education.  Applications are now open for the 2027-2028 school year.
+
+You can register for an upcoming information session and student-led tour by visiting our tour page<https://www.wpga.ca/admissions/discover-wpga> and creating an application account. Once logged in, you will find the registration link is located on the right-hand side of the portal.
+Senior School (Grades 8–12): Includes an
+
+---
+
+## [营销] Pro tips for your recent purchase inside, Natalie ➡️
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-09-24T15:24:49.000Z
+**摘要:** Sephora向Natalie提供最近购买产品的使用技巧和建议
+**待办:** 无
+**GmailID:** 1a0d404f904cfdcc
+
+ Pro tips for your recent purchase inside, Natalie ➡️ 
+Plus, more ways to get helpful 
+tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
+
+## [Cathy&David] Finish setting up your account
+
+**发件人:** "St. John's School - BC" <stjohnsbc@myschoolapp.com>
+**日期:** 2026-09-24T16:14:59.000Z
+**摘要:** 学校通知设置账户
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d432e53df1acb
+
+Hello,
+
+An account has been created for you using the email address you have provided nataliewu100@gmail.com. Please go to https://app.blackbaud.com/signin/sign-up?login_hint=nataliewu100@gmail.com&redirectUrl=https://stjohns-bc.myschoolapp.com/app%3FsvcId%3Dedu%26bb_id%3D1%23login to finish setting up your account.
+
+---
+
+## [营销] Good news: 20% off Costco, now on DoorDash.
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-24T16:38:47.000Z
+**摘要:** DoorDash推出Costco购物20%折扣优惠。
+**待办:** 无
+**GmailID:** 1a0d448ae9030b90
+
+ DoorDash Load up on your favorites 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
+
+## [其他]  Spark 已就绪，支持 iOS 27 
+
+**发件人:** Spark Team <team@connect.sparkmailapp.com>
+**日期:** 2026-09-24T18:55:18.000Z
+**摘要:** Spark应用更新支持iOS 27，新增语音操控收件箱和日程安排功能，适配新系统布局。
+**待办:** 无
+**GmailID:** 1a0d4c5ae43c9e97
+
+
+
+
+
+
+Spark iOS 27 Update | zh   p
+{font-family: sans-serif !important;}            96
+语音操控收件箱、语音安排日程，体验 Spark 在每个屏幕上的出色表现  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌                 Spark
+推出 Spark for iOS&nbsp;27
+
+Spark 现已支持 iOS&nbsp;27 的全新功能：更深度集成的 Siri，可操作您的收件箱和日历——以及适配您所使用的每一块屏幕的布局。
+
+更新 Sp
+
+---
+
+## [Cathy&David] Canceled: York House Little School + Junior School Tour with YHS Admissions Calendar on Thursday, October 22, 2026
+
+**发件人:** Calendly <no-reply@calendly.com>
+**日期:** 2026-09-24T19:10:20.000Z
+**摘要:** 取消原定的York House小学和初中部参观，改为高中部重新预约
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d4d371763057d
+
+ Calendly 
+
+[image: YHS Admissions Calendar] 
+
+Hi jingqi wu,
+
+Your York House Little School + Junior School Tour with YHS Admissions 
+Calendar at 13:40 (Pacific Time - US & Canada) on Thursday, October 22, 
+2026 has been canceled.
+
+* Cancellation Reason: * 
+Will rebook for Senior school tour only. 
+
+Unsubscribe from notifications about this event 
+<https://calendly.com/notification_subscriptions/8c84843c-6677-45d8-bbb6-a1ff2513719b/opt_out?owner_uuid=3f7d0e8a-ee94-4dff-a94e-09d64e697010&recipien
+
+---
+
+## [Cathy&David] Fwd: New Event: jingqi wu - 13:40 Thu, 22 Oct 2026 - York House Little School + Junior School Tour
+
+**发件人:** Jennelyn Galura <jgalura@yorkhouse.ca>
+**日期:** 2026-09-24T19:08:52.000Z
+**摘要:** York House School 提醒为Cathy的Grade 8申请需预约Senior School Tour而非Little School Tour
+**待办:** 预约Senior School Tour
+**涉及:** Cathy
+**GmailID:** 1a0d4d2655194a76
+
+Hi Jingqi,
+
+Thank you for your interest in York House School and for booking a tour
+with us!
+
+As you are inquiring about Grade 8 for Cathy for the 2027/28 school year,
+we kindly ask that you book a *Senior School Tour* instead, as Grade 8 is
+part of our Senior School.
+
+You can book a Senior School Tour here
+<https://calendly.com/admissions_yhs/york-house-senior-school-tour>.
+
+Please let me know if you have any questions. We look forward to welcoming
+you and Cathy to York House!
+
+
+
+---
+
+## [Cathy&David] French Peer Tutoring Opportunity
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-09-24T19:18:35.000Z
+**摘要:** 学校提供法语辅导项目，家长需让孩子报名并承诺参加所有课程。
+**待办:** 让孩子报名法语辅导并确保参加所有课程
+**涉及:** 两个
+**GmailID:** 1a0d4db09ecb1dd4
+
+Dear Families,
+
+I am delighted to share that we have a group of amazing students who have generously volunteered their time to support their peers with French learning. This is a wonderful opportunity for students to build their confidence, strengthen their skills, and learn from fellow students in a supportive environment.
+
+Please take a moment to review the tutoring schedule and add your child’s name to the day(s) they would like to attend. To ensure that the program runs smoothly and that
+
+---
+
+## [其他] Jingqi, learn and reflect this National Day for Truth and Reconciliation
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-09-24T21:23:29.000Z
+**摘要:** TELUS 发送邮件提醒 Jingqi 参与国家真相与和解日活动，学习寄宿学校系统的相关历史。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d54d5602fa02b
+
+
+
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9692&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=NQuPecO8zcYgIwMnnCs47PYQNgbQDetT0ThoNMBJyRU web browser     https://t.info.telus.com/r/?id=t4e35763,40a87300,2afc9693&e=Y2lkPXRlbERNMjMxOTE3OSZiaWQ9ODIwMDc5MDcmcDE9JTQwcDZ0YjZBOGx1TE0xUU5xZXNQbFJFMHM5NUl1cThla21rVVpETFI0Mmp2USUzRA&s=h3ooBXHOK40UFKv3CZyihwcBA8PPgX6l9Gkr64oZ-jU EN  |  
+
+---
+
+## [Cathy&David] eGryphon: September 24
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-09-24T23:00:11.000Z
+**摘要:** 关于学校的通知或更新
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0d5a5e3ce60c43
+
+<!--placeholder-->
+
+
+
+---
+
+## [营销] Our collab with artist Geoff McFetridge
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-24T23:31:34.000Z
+**摘要:** lululemon与艺术家Geoff McFetridge的合作推广
+**待办:** 无
+**GmailID:** 1a0d5c29b09d635c
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [营销] 新季手袋，焕启新章
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-09-25T04:06:42.000Z
+**摘要:** 介绍新季手袋的设计和材质
+**待办:** 无
+**GmailID:** 1a0d6be90ba69703
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+新颖材质、细节与饰面
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+---
+
+## [营销] Outlet: inizia la Member Week per i soci
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-25T07:09:54.000Z
+**摘要:** Calvin Klein会员周促销活动
+**待办:** 无
+**GmailID:** 1a0d7684bc2e2d21
+
+
+
+
+---
+
+## [其他] 260925 Resident Newsletter - LH - 25/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-25T09:54:29.000Z
+**摘要:** 伦敦码头区居民通讯，包含社区更新和通知
+**待办:** 无
+**GmailID:** 1a0d7fcf52102900
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
+
+## [营销] 🔥 Save big with this week’s hottest offers.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-25T12:14:00.000Z
+**摘要:** BestBuy推送本周热门商品促销信息。
+**待办:** 无
+**GmailID:** 1a0d87f75754bad5
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
+
+## [营销] New adidas: We told you not to look 👀
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-25T13:08:43.000Z
+**摘要:** 宣传新款adidas鞋子上市，鼓励立即购买并2小时内自提。
+**待办:** 无
+**GmailID:** 1a0d8aebd8ae4cf0
+
+Fresh arrivals and the pairs everyone’s wearing.   BUY NOW, PICK
+UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PMwuk7s9fx-2BuT2DB-2FMJlShL3Xo03rULmMn-2B5wVD8RBVQ-3D-3Dx0T__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPXhqyfriME-2BOfMwpEuUvvZ5Wr-2F4Q5-2FjWkiAL1mlQpWOCKP2UcQGLAO-2BzrnL-2BajXNCoSsHYK5hJPwgL9Mx7AIWzbEOLCEbH-2F1srBXZz-2BL98g9IQL88fgoTvnN4qhbQE8ASmBoEoBDYKS1TxToNh6YISHPjqrZ
+
+---
+
+## [营销] New beauty to obsess over 😍
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-25T13:28:42.000Z
+**摘要:** Sephora发送的美容产品促销邮件
+**待办:** 无
+**GmailID:** 1a0d8c109478fc0c
+
+ Sephora 
+
+Def worth it. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0d8c0de08a201b3369ff0b384/9d2f0553b0524e4d0000021ef3a0bcc2/9d2f0553-b052-4e4d-926a-34b81f08d76a
+
+---
+
+## [营销] One Saturday left
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-25T13:58:24.000Z
+**摘要:** DoorDash 发送促销邮件，告知用户还有一次周末机会可以赢取新车或250美元优惠券。
+**待办:** 无
+**GmailID:** 1a0d8dc36a0ec3eb
+
+ DoorDash Don’t miss your chance to win a new car or $250 in DoorDash 
+credits. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
+
+## [其他] What's happening with house prices where you live?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-09-25T16:27:43.000Z
+**摘要:** Rightmove发送关于当地房价变化及卖房时间的信息
+**待办:** 无
+**GmailID:** 1a0d964ed7b7df20
+
+Check average house price changes, plus how long it takes to
+sell a home              Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/VYm3atadX4fCilJiz7DBSA~~/AAAHahA~/WnY3xC3hJqvVnSLhvZESGy49aCEt5iTVbq0oYe6Yrjre1psTZnhPc1AH_Z_2ID2I91HGbbwYGfwA9BCHvSc8sBkUTqp6CpPni2JMSXmey-ZayVcQO4U9-E2ONSDKWAuH8wheE1t_ZiXFBia2TzXoByTqwYTh1hA6MJy7-OTUysM~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/bPy617iUtTMweZcEcewRNw~~/AAAHahA~/c3y0XpcvQzx-Ovbqn4vIUrespzoZRStFYtXIYPKmXduCdTupfExAj71Y4wS2ffCm-Se
+
+---
+
+## [Cathy&David] Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:53:35.000Z
+**摘要:** Cathy He 今天和下周星期一请假不上学
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Hi, dear teachers 
+my daughter Cathy He, won’t be school for today and next Monday please note 
+that down, thank you!
+Regards
+Cathy’s mom 
+
+
+---
+
+## [Cathy&David] Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:56:31.000Z
+**摘要:** Cathy因故今天和下周一下午缺席学校
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Hi Ms.Hook,
+Cathy won’t be at school for today and next Monday please note that down, thank
+you!
+Regards
+Cathy’s mom
+
+
+---
+
+## [其他] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:55:09.000Z
+**摘要:** 无内容邮件
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a0d9b4ba4733be1
+
+
+
+
+---
+
+## [Cathy&David] Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:54:44.000Z
+**摘要:** Cathy He 因故无法参加今天和下周一体育课，家长已通知老师
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Hi, dear teachers
+my daughter Cathy He, won’t be at school for today and next Monday please
+note that down, thank you!
+Regards
+Cathy’s mom
+
+
+---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** Dionne Young <dionne.young@meadowridge.bc.ca>
+**日期:** 2026-09-25T17:56:44.000Z
+**摘要:** 学校询问Cathy缺席的原因
+**待办:** 需要回复说明Cathy缺席的原因
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Good Morning Cathy,
+For attendance recording purposes, would you please let me know why Cathy will be away. Thanks so much.
+
+Kind regards,
+
+Dionne Young
+Administrative Assistant / Front Office
+dionne.young@meadowridge.bc.ca<mailto:dionne.young@meadowridge.bc.ca>
+
+MEADOWRIDGE SCHOOL
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t: 604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie
+
+---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T17:57:58.000Z
+**摘要:** Cathy需要请假两天，学校需要家长确认缺席原因。
+**待办:** 回复学校说明Cathy缺席的原因。
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+
+Sent with Spark
+2026年9月25日 -0700 10:56 Dionne Young <dionne.young@meadowridge.bc.ca>，写道：
+> Good Morning Cathy,
+> For attendance recording purposes, would you please let me know why Cathy will be away. Thanks so much.
+>
+> Kind regards,
+>
+> Dionne Young
+> Administrative Assistant / Front Office
+> dionne.young@meadowridge.bc.ca
+>
+> MEADOWRIDGE SCHOOL
+> 12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+> t: 604.467.4444
+> www.meadowridge.bc.ca
+>
+>
+> Meadowridge School is located
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T18:02:06.000Z
+**摘要:** Cathy将前往美国参加击剑比赛，周一下午返回，并需向学校说明请假原因。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9af31cba0c63
+
+Today She will heading to U.S for a fencing competition, and will be back
+at Monday afternoon
+Regards
+Cathy’s mom
+Dionne Young <dionne.young@meadowridge.bc.ca>于2026年9月25日 周五10:56写道：
+
+> Good Morning Cathy,
+>
+> For attendance recording purposes, would you please let me know why Cathy
+> will be away. Thanks so much.
+>
+>
+>
+> *Kind regards,*
+>
+>
+>
+> *Dionne Young*
+> Administrative Assistant / Front Office
+> *dionne.young@meadowridge.bc.ca <dionne.young@meadowridge.bc.ca>*
+>
+> *ME
+
+---
+
+## [Cathy&David] RE: Take off for two days
+
+**发件人:** Dionne Young <dionne.young@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:05:01.000Z
+**摘要:** 学校回复关于请假两天的邮件，表示祝福。
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0d9af31cba0c63
+
+Wonderful! I wish her all the best.
+
+Kind regards,
+
+Dionne Young
+Administrative Assistant / Front Office
+dionne.young@meadowridge.bc.ca<mailto:dionne.young@meadowridge.bc.ca>
+
+MEADOWRIDGE SCHOOL
+12224 240th Street, Maple Ridge, BC, Canada V4R 1N1
+t: 604.467.4444
+www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
+
+
+Meadowridge School is located on the ancestral, unceded territory of the Katzie, the Kwantlen, and Stó:lō First Nation. We value the opportunity to learn, live, play, a
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:22:10.000Z
+**摘要:** Cathy因故需要请假两天，Cathy妈妈通知学校相关情况
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Is she sick?
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Friday, September 25, 2026 10:56 AM
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Take off for two days
+
+Hi Ms.Hook,
+Cathy won’t be at school for today and next Monday please note that down, thank you!
+Regards
+Cathy’s mom
+
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T18:24:00.000Z
+**摘要:** Cathy因击剑比赛需请假两天，下周一会返回。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+She is  going to the U.S. for a fencing competition, we will be back at next Monday afternoon.
+
+Sent with Spark
+2026年9月25日 -0700 11:22 Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+> Is she sick?
+> From: natalie <nataliewu100@gmail.com>
+> Sent: Friday, September 25, 2026 10:56 AM
+> To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+> Subject: Take off for two days
+>
+> Hi Ms.Hook,
+> Cathy won’t be at school for today and next Monday please note that down, thank you!
+> Regards
+> Cathy’
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-25T18:24:25.000Z
+**摘要:** Cathy因参加美国击剑比赛需请假两天，预计两周后返回。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+She is  going to the U.S. for a fencing competition, we will be back at next Monday afternoon.
+Regards,
+Natalie
+
+Sent with Spark
+2026年9月25日 -0700 11:22 Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+> Is she sick?
+> From: natalie <nataliewu100@gmail.com>
+> Sent: Friday, September 25, 2026 10:56 AM
+> To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+> Subject: Take off for two days
+>
+> Hi Ms.Hook,
+> Cathy won’t be at school for today and next Monday please note that down, thank you!
+
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:27:30.000Z
+**摘要:** Cathy因参加美国击剑比赛需请假两天，预计下周一下午返校。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Ok, thanks for letting me know.
+
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Friday, September 25, 2026 11:24 AM
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Re: Take off for two days
+
+She is  going to the U.S. for a fencing competition, we will be back at next Monday afternoon.
+Regards,
+Natalie
+
+Sent with Spark<https://sparkmailapp.com/source?from=signature>
+2026年9月25日 -0700 11:22 Darcie Hook <Darcie.Hook@meadowridge.bc.ca>，写道：
+Is she 
+
+---
+
+## [Cathy&David] Re: Take off for two days
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-09-25T18:30:35.000Z
+**摘要:** Cathy因参加击剑比赛需请假两天，需完成请假手续并跟进课程。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0d9b55db9f2629
+
+Ok, it is important that she let her teachers know she is going to be away - prior to going. She should have had an excused absence form signed by all her teachers that she will be missing class with both today and Monday. That way, she knows what she is missing.  It is an expectation that she keeps up with the work she has missed and is as caught up as possible upon her return.
+I wish her luck in the tournament.
+Ms. Hook
+________________________________
+From: natalie <nataliewu100@gmail.com
+
+---
+
+## [营销] Which product suits me?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-25T18:49:05.000Z
+**摘要:** 询问用户适合哪种支付产品以满足需求
+**待办:** 无
+**GmailID:** 1a0d9e65636fb3f3
+
+Get
+paid your way 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" 
+
+---
+
+## [Cathy&David] Visitor Record and 2026 Medical Form
+
+**发件人:** Vivian Chen <vivian.chen@meadowridge.bc.ca>
+**日期:** 2026-09-25T19:32:33.000Z
+**摘要:** 提醒提交访客记录和2026年医疗表格
+**待办:** 提交访客记录和医疗表格
+**涉及:** 两个
+**GmailID:** 1a0da0e2cdcd9813
+
+Good morning Natalie,
+
+I am just writing to follow up whether you have received your visitor record? If yes, can you share it with us? 😋
+Therefore, I noticed that you have not submitted the medical form from the Hub.
+It will be awesome if you can log into your Hub<https://meadowridge.myschoolapp.com/> account and submit it for us! Thank you so much!
+
+
+
+Warm Regards,
+
+Vivian Chen
+
+Admissions Officer
+
+t  604.467.4444 (ext. 194)
+
+vivian.chen@meadowridge.bc.ca<mailto:vivian.chen@mea
+
+---
+
+## [营销] New gear in True Navy is here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-25T21:28:02.000Z
+**摘要:** lululemon 新款运动装备上架
+**待办:** 无
+**GmailID:** 1a0da7875d72865a
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [待办] Roaming Update for your account
+
+**发件人:** TELUS <telusservice@telus.com>
+**日期:** 2026-09-25T21:36:53.000Z
+**摘要:** TELUS通知账户的漫游使用情况及费用，提醒用户注意可能的费用，并提供更多信息的链接
+**待办:** 无
+**GmailID:** 1a0da7ff33ad06f5
+
+ TELUS 
+[image: TELUS Logo] 
+Hello,
+Looks like ***-***-5899 has connected to a roaming network in USA.
+Just so you know, if they have a roaming package that covers this 
+destination, their usage will be billed at the rates of that package. 
+Otherwise pay-per-use rates are Voice $1.60/MIN, Data $5/MB, Outgoing texts 
+$0.75/MSG (1 message = 160 characters) (max. 160 characters each). All 
+incoming texts are free.
+***-***-5899 will also receive a text message outlining their active 
+roaming package
+
+---
+
+## [Cathy&David] Meadowridge School - Welcome!
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-25T21:57:28.000Z
+**摘要:** 学校为家长创建了会议管理账户，提供登录信息和后续步骤
+**待办:** 更改临时密码
+**涉及:** 两个
+**GmailID:** 1a0da92cb664bb6e
+
+Hello Natalie,
+
+Welcome to the Conference Manager for Meadowridge School. Your parent 
+account has been created.
+
+Log in using your username *nataliewu100@gmail.com* and temporary password 
+*tM0KoPU2*
+
+In the future you can manage your account, reset your password and schedule 
+your conferences at https://meadowridge.schoolsoft.com/login.jsf
+
+After logging in, we recommend that you change your temporary password by 
+clicking on MY PROFILE.
+
+You can access parent resources related to the Conferen
+
+---
+
+## [营销] New Michael Kors: A Polished Step Forward
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-26T13:05:42.000Z
+**摘要:** 推广Michael Kors的新品鞋包系列
+**待办:** 无
+**GmailID:** 1a0ddd251e30bddd
+
+Meet polished ballet flats, slingback pumps and bags to match
+YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Opt3r1crpL8-2BLCx9juFQZjT-2Bih-2FQGQkPHIRoktqHljGQ-3D-3DJ4e__-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHbPzKGcAzu5rqTkHt4uJ-2FemmnM9tU7gYfKCqBB7AD1nNlzidItNYXZenhm6gY6ISaDi9QcShgyHFHrL4E8hEbSDdSRCvCf3ViEm0D9vBqBbdIGsET2tJfrNueQ9l7G51ej6zcMMx7C4kitu4WN08eJ-2F
+
+---
+
+## [营销] FYI: up to 30% off select Messy by Alli Webb, Moroccanoil, Olaplex, and Shark Beauty 🤩
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-26T13:22:32.000Z
+**摘要:** Sephora 发送促销邮件，提供部分美妆产品的折扣及免费配送服务。
+**待办:** 无
+**GmailID:** 1a0dde1bedbf1302
+
+ Sephora 
+
+Plus, 20% off select value-size hair care and FREE Same-Day Delivery. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0dde1ae97a34465369fe94b70/d50e0c70e69a4
+
+---
+
+## [待办] Attention required: your recent pre-authorized payment was declined
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-09-26T14:17:23.000Z
+**摘要:** 邮件通知预授权支付被拒，需及时处理以避免滞纳金。
+**待办:** 登录My TELUS账户完成支付或更新预授权信息
+**GmailID:** 1a0de199e0b97023
+
+Account Number:  
+Hello,  
+Your recent pre-authorized payment to TELUS was declined by your financial institution on . 
+
+You will need to make a one-time payment for any outstanding bill amounts. To avoid late payment fees, log in to your My TELUS account to make a quick and easy payment using your credit card or Visa Debit card. This payment will be reflected immediately on your account.  
+Pay bill now  
+Update your pre-authorized payment information.  
+Log in to your My TELUS account. 
+
+---
+
+## [营销] Consider your legs covered
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-26T14:22:35.000Z
+**摘要:** 推广限定版T恤，提及在i-D Magazine上出现
+**待办:** 无
+**GmailID:** 1a0de1f93a39f2ea
+
++ Limited edition t-shirts. As seen in i-D Magazine.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
+
+## [生活旅行] RE: [EXTERNAL] Re: Knight Frank Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-26T16:28:51.000Z
+**摘要:** 邮件涉及确认是否成功提交Knight Frank公寓相关申请，需检查旧链接是否已提交或联系支持重新提交。
+**待办:** 确认是否成功提交申请，如未提交则通过旧链接重新提交或请求新链接
+**方向:** 发出
+**GmailID:** 1a07ba79eafc4532
+
+Hi Lauren.
+This is a copy of the approved page.
+Let me know if this means approved?
+在 Sep 21, 2026, 11:52 +0200，Lauren D'Souza <Lauren.DSouza@knightfrank.com>，写道：
+> Hi Natalie,
+>
+> You will just need to go into the old link and ensure that you have clicked submit.
+>
+> If not, Thirdfort support should be able to assist.
+>
+> Kind Regards,
+> Lauren
+>
+> Lauren D'Souza
+> Senior Operations Coordinator
+> London Sales Operations
+> ______
+> D:
+>   +44 2089392806
+>  M:
+> +44 7811771417
+
+---
+
+## [营销] New Team Canada gear just dropped
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-26T16:49:46.000Z
+**摘要:** lululemon 推出新的 Team Canada 装备
+**待办:** 无
+**GmailID:** 1a0dea223f0e7580
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [Cathy&David] Your York House Journey Starts Here
+
+**发件人:** York House School <info@yorkhouse.ca>
+**日期:** 2026-09-26T22:40:03.000Z
+**摘要:** York House School 发来入学相关信息，可能涉及学生注册或课程安排
+**待办:** 需要查看邮件内容确认具体操作
+**涉及:** 两个
+**GmailID:** 1a0dfe029990337a
+
+<!DOCTYPE html>
+<html lang="en" class="email-content-template" style="padding: 0; margin: 0; overflow-x: hidden;">
+
+<head>
+    
+    <title>Embed Html</title>
+
+
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/global.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://yorkhouse-cdn.website.amais.com/css/site-email-styles.css?v=1.161.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/site-emai
+
+---
+
+## [待办] ✅ Natalie，快在您的Apple iPhone上完成 Google 设置吧
+
+**发件人:** Google <no-reply@google.com>
+**日期:** 2026-09-26T22:53:40.000Z
+**摘要:** 提醒Natalie在新Apple iPhone上完成Google账户设置
+**待办:** 完成Google账户设置
+**GmailID:** 1a0dfec98f19ee27
+
+Natalie，您即将在Apple iPhone上完成 Google设置
+
+
+请花点时间在新设备上设置Google 应用和相关配置吧
+
+完成设置  
+<https://c.gle/AAuDWvl5qZvzXejti3dbnbha7fHxzHaZZY6hI65myN2jwDhS-Nlm7tLWBWjxogVBv0vVl-peCqYiBQHp4bKUvfD6kNRDVh7yqY58ADTvVTf9u74D0iGKcCdXDfXYhl10CLXThm7mH49l9gYETyFblNlzr_r4aNwK_2Cs94QyaxH6Ip9UXxB8eDopygBVwuW7gZCJWSW8L9J_U1ZqdolfDoVCZBnlShs4BFSWdfyJxvNKkMkooQPjzUm5CGHpTQn1m3tR3GrrHO-vAxXea6vEeW11xpfUh2i6cEmLD6l-Ht5qikRH4552k07-?sAs=1>
+
+我们之所以向 nataliewu100@gmail.com <nataliewu100@gmail.com> 发送这封电子邮 
+件，是因为您最近在Apple i
+
+---
+
+## [其他] (no subject)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-26T22:53:11.000Z
+**摘要:** 无具体内容
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a0dfec2ae72072a
+
+
+发自我的 iPhone
+
+---
+
+## [待办] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-26T22:52:36.000Z
+**摘要:** Google账号在Apple iPhone上有新登录活动，提醒用户确认安全性。
+**待办:** 检查Google账号安全性并确认登录活动
+**GmailID:** 1a0dfeba7947d68c
+
+[image: Google]
+在 Apple iPhone 设备上有新的登录活动
+
+
+nataliewu100@gmail.com
+我们发现您的 Google 账号在一部 Apple iPhone
+设备上有新的登录活动。如果这是您本人的操作，那么您无需采取任何行动。如果这不 
+是您本人的操作，我们会帮助您保护您的账号。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1790463156662?rfn%3D325%26rfnc%3D1%26eid%3D-8458794245572950248%26et%3D0>
+您也可以访问以下网址查看安全性活动：
+https://myaccount.google.com/notifications
+我们向您发送这封电子邮件，目的是让您了解关于您的 Google 账号和服务的重大变 
+化。
+© 2026 Google LLC
+
+---
+
+## [待办] 安全提醒
+
+**发件人:** Google <no-reply@accounts.google.com>
+**日期:** 2026-09-26T22:52:46.000Z
+**摘要:** Google 发来安全提醒，提示账号曾授权 iOS 访问数据，建议检查账号活动记录并调整权限。
+**待办:** 检查 Google 账号活动记录，查看并更改 iOS 对数据的访问权限。
+**GmailID:** 1a0dfeba7947d68c
+
+[image: Google]
+您已授权“iOS”访问您的某些 Google 账号数据
+
+
+nataliewu100@gmail.com
+
+如果您未曾授权“iOS”访问您的某些 Google 账号数据，则意味着有人可能在试图访问 
+您的 Google 账号数据。
+
+建议您现在就花点时间查看您的账号活动记录并确保账号安全。
+查看活动
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.com/alert/nt/1790463166000?rfn%3D127%26rfnc%3D1%26eid%3D-5832243063376383102%26et%3D0>
+您可随时前往您的 Google 账号
+<https://accounts.google.com/AccountChooser?Email=nataliewu100@gmail.com&continue=https://myaccount.google.
+
+---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Sep 28-Oct 2
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-09-26T22:48:03.000Z
+**摘要:** 七年级本周活动提醒，包含校车更新、照片日及家长会安排
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a0dfe789b2e53c1
+
+Good day, Grade 7 Families,
+Hope you're enjoying a restful weekend. Our kids activities are keeping us busy!
+Scroll down to Advisory Teachers for a CWOW reminder.
+Scroll down to Parent Guild for some new updates.
+Please CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/e9a3f279-6e84-458f-82fd-ceec1a7e8028> and read this week's eGryphon for news & updates (including IMPORTANT TRAFFIC & BUSSING UPDATES this week) from Meadowridge School. Keep informed about what’s coming up and ho
+
+---
+
+## [Cathy&David] Meadowridge School - Family - Homeroom Teacher/Advisor - Student Conferences - SYSTEM IS OPENING SOON
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-27T08:01:27.000Z
+**摘要:** Meadowridge School通知家长教师会议系统即将开放，系统开放时间为9月28日9:30至10月4日23:30，需通过指定链接登录安排会议。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0e1e2207b27692
+
+Hello Natalie,
+
+Meadowridge School is using the SchoolSoft Conference Manager for online 
+scheduling of parent teacher conferences.
+
+This email is to inform you that the *system will open on Monday September 
+28, 2026 at 9:30 AM*.
+
+The system will close on *Sunday October 4, 2026 at 11:30 PM*.
+
+You can access the Conference Manager at 
+https://meadowridge.schoolsoft.com/login.jsf.
+
+If you have forgotten your password and want to reset it - click here 
+<https://meadowridge.schoolsoft.com/forgotPa
+
+---
+
+## [营销] Meet the boots of the moment
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-27T13:07:47.000Z
+**摘要:** 促销新推出的UGG款式 Tasman Alpine，可在线购买
+**待办:** 无
+**GmailID:** 1a0e2fa93bb519f0
+
++NEW EXCLUSIVE UGG STYLE: TASMAN ALPINE   BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MMitVMmKw8JfIQ8slmj47qCIVr9cU-2BXVJj2-2FOG3X036A-3D-3DTJA0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKKJwxFCNOCw610phzYXb0crriwiIv7f2tdA8fpvHDlrNoFMEVZ-2BCIRx14Rgalf8CGYMJBDhyHansnD1bopuTAfMk74oHprg8phHI7c3In5iJxlNdoUQJV89AlphcSRm1FjLT5FFIHnjWh07QVV5maj-2FACKnTZvLasqC2EMoNt-2BpweW5
+
+---
+
+## [营销] The best of Korean skincare is HERE
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-27T13:04:06.000Z
+**摘要:** 促销韩国护肤品牌，包括LANEIGE、IOPE等，提供优惠和积分奖励。
+**待办:** 无
+**GmailID:** 1a0e2f7620a392f7
+
+ Sephora 
+
+Shop LANEIGE, IOPE, Biodance, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0e2f73210c2c7296e96c660f0/d70eaf4db91d4d4c0000021ef3a0bcc2/d70eaf4d-b
+
+---
+
+## [营销] Clock’s ticking: 40% off two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-09-27T16:47:11.000Z
+**摘要:** DoorDash推送40% off促销活动
+**待办:** 无
+**GmailID:** 1a0e3c37158abeef
+
+ DoorDash These savings won’t last. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
+
+## [营销] Elevate rest days in matching sets
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-09-27T17:18:10.000Z
+**摘要:** lululemon推送运动装备促销信息
+**待办:** 无
+**GmailID:** 1a0e3e19341940c3
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
+
+## [待办] The sooner you request a payment...
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-09-27T18:49:16.000Z
+**摘要:** 提醒用户尽快请求付款以加快到账速度
+**待办:** 处理付款请求
+**GmailID:** 1a0e43336ddc6512
+
+ ...the sooner
+you’ll get paid! 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
+
+## [待办] Please confirm your email
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-09-27T19:52:47.000Z
+**摘要:** 需要确认PayPal邮箱以完成账户设置
+**待办:** 确认邮箱以完成PayPal账户设置
+**GmailID:** 1a0e46d5c5509e73
+
+ Please confirm your email xiaojun, please complete your PayPal account 
+setup. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Confirm your email
+
+You’re almost there! To enjoy the full benefits of your recently opened 
+PayPal account, just confirm this email address.
+Confirm My Email Address 
+<https://www.paypal.com/zm/welcome/complete?userIntent=profile_complete&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000263&utm_unptid=03274650-baad-11f1-a625-bd2fbc59eec1&ppid=RT000263&cnac=ZM&rsta=en_US%28e
+
+---
+
+## [营销] The softest in studio
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-09-28T02:01:26.000Z
+**摘要:** Aritzia推出新款BUTTER套装，邀请选择颜色。
+**待办:** 无
+**GmailID:** 1a0e5bf7461ee31b
+
+New BUTTER sets just arrived. Pick a shade.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏
+
+---
