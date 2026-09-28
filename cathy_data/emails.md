@@ -20406,3 +20406,24 @@ Could you please clarify exactly what you need me to do? I want to make sure I p
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Turn ad spend into revenue 💰 plus, real stories behind two big wins
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-09-28T12:45:07.000Z
+**摘要:** 关于Meta广告策略的研讨会，介绍如何提高广告转化率和客户转化
+**待办:** 无
+**GmailID:** 1a0e80c36b3e157c
+
+A masterclass on Meta signals, plus stories from Stellantis and Kroo Bank.  
+
+Meet the people shipping AI, all in one room.
+
+I'll be there ( https://waves.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Insights_Weekly_210926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://www.make.com/en/webinars/meta-lead-gen-strategies-with-make-webinar?utm_campaign=Insights_Weekly_210926&utm_medium=ema
+
+---
