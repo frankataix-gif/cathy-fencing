@@ -20490,3 +20490,22 @@ Settings. Visit our FAQ page
 <https://www.paypal.com/us/c
 
 ---
+
+## [营销] Know any friends who’d love Wise?
+
+**发件人:** "Wise (formerly TransferWise)" <noreply@info.wise.com>
+**日期:** 2026-09-28T14:40:03.000Z
+**摘要:** 邀请朋友加入Wise并赚取奖励
+**待办:** 无
+**GmailID:** 1a0e8756a0e6393e
+
+ Know any friends who’d love Wise? 
+Invite them to join and start earning rewards
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
+  ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ 
+‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     
+﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌ 
+    ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌
+
+---
