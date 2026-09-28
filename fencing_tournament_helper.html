@@ -3724,9 +3724,42 @@ function circuitLabel(c) {
     }));
   }
 
+  // 报名状态应用：先按 id 直查；id 对不上的「孤儿报名」（数据管道去重/重导导致 id 变化）
+  // 按 日期 + 名称/城市词 模糊匹配回同一赛事，并把 reg_ 键迁移到新 id
+  function applyRegistrations() {
+    const byId = {};
+    TOURNAMENTS.forEach(t => { byId[t.id] = t; });
+    TOURNAMENTS.forEach(t => {
+      t.reg_status = getLocal('reg_' + t.id, DEFAULT_REGISTRATIONS[t.id] || t.reg_status || '');
+    });
+    const orphans = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith('reg_')) {
+        const id = k.slice(4), v = localStorage.getItem(k);
+        if (v && !byId[id]) orphans.push([id, v]);
+      }
+    }
+    orphans.forEach(([oid, status]) => {
+      const dm = oid.match(/\d{4}-\d{2}-\d{2}/);
+      const date = dm ? dm[0] : null;
+      const tokens = oid.toLowerCase().split('-').filter(w => w.length > 2 && !/^\d/.test(w));
+      TOURNAMENTS.forEach(t => {
+        if (t.reg_status) return;
+        if (date && t.start !== date && t.end !== date) return;
+        const hay = `${t.name} ${t.url || ''} ${t.id} ${t.city || ''} ${t.state || ''}`.toLowerCase();
+        const hits = tokens.filter(w => hay.includes(w)).length;
+        if (hits >= 3 && hits >= tokens.length * 0.4) {
+          t.reg_status = status;
+          saveToLocal('reg_' + t.id, status);
+        }
+      });
+    });
+  }
+
   function renderResults() {
     const regOrder = { 'registered': 0, 'watching': 1 };
-    TOURNAMENTS.forEach(t => { t.reg_status = getLocal('reg_' + t.id, DEFAULT_REGISTRATIONS[t.id] || t.reg_status || ''); });
+    applyRegistrations();
     const list = TOURNAMENTS.filter(matches).sort((a,b) => {
       const sd = new Date(a.start) - new Date(b.start);
       if (sd !== 0) return sd;
@@ -3772,6 +3805,7 @@ function circuitLabel(c) {
       }
       const regTag = t.reg_status === 'registered' ? `<span class="tag reg-registered">已报名</span>` : t.reg_status === 'watching' ? `<span class="tag reg-watching">关注赛事</span>` : '';
       const liveTag = t.live_url ? `<a href="${t.live_url}" target="_blank" class="tag live-results" title="打开 FencingTimeLive 直播/结果（需登录）">直播/结果</a>` : '';
+      const endedTag = (t.end && t.end < vancouverISO().slice(0, 10)) ? `<span class="tag" style="background:#eef2f7;color:#64748b;">已结束</span>` : '';
       let travelText = '';
       if (t.distance_km !== undefined && t.distance_km !== null) {
         if (t.distance_km <= 500) {
@@ -3798,6 +3832,7 @@ function circuitLabel(c) {
         ${metaLine}
         <div class="tags" style="margin-top:10px;">
           ${regTag}
+          ${endedTag}
           ${cathyTag}
           ${cathyEntriesTag}
           ${liveTag}
@@ -5327,9 +5362,9 @@ function circuitLabel(c) {
   }
 
   function syncAllRegisteredTournaments() {
+    applyRegistrations();
     TOURNAMENTS.forEach(t => {
-      const status = getLocal('reg_' + t.id, DEFAULT_REGISTRATIONS[t.id] || t.reg_status || '');
-      if (status === 'registered') syncTournamentToSchedule(t, status);
+      if (t.reg_status === 'registered') syncTournamentToSchedule(t, t.reg_status);
     });
   }
 
