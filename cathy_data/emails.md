@@ -20448,3 +20448,17 @@ Click to activate your account
 <https://www.paypal.com/zm/signin?expId=confirmEmail&cc=02985650514686332969&em=G9r8TJYYCPdY0O8zTBcgnNLb_6XzqTjKGpG93FSVTiOu_6X_0wztPU8aC-6cP7kppOIZGW&v=1&utm_source=unp&utm_medium=email&utm_campa
 
 ---
+
+## [营销] The Flats of the Season
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-28T13:09:56.000Z
+**摘要:** 推广当季畅销鞋款，提供48小时快速配送服务。
+**待办:** 无
+**GmailID:** 1a0e822eabb3ba02
+
+Meet the best sellers your wardrobe has been waiting for
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQfqKkBPD7CsziZwz6hIL6js-3DmOO-_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGYWdy4LfxgJxHW10wD58Fg0TqsPYATLgK-2F5r-2B74KfM-2BqhaBEtFGG7RteyLqTOU4u2vEfDQWMBgWjlUmxd3reQY9HoyWE5qCVFZSxJ5v5wfRDnTO482gqUYBj4iu4rkff
+
+---
