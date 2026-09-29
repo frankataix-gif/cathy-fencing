@@ -460,8 +460,8 @@ function renderCoachPage(token, meta, t) {
   .apmark{position:absolute;width:8px;height:8px;border-radius:50%;background:#ef4444;transform:translateX(-50%);pointer-events:auto;cursor:pointer}
   .aptime{color:#94a3b8;font-size:.72rem;text-align:right}
   .apctl{display:flex;gap:6px;margin-top:8px}
-  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:12px;padding:16px 4px;font-size:1.05rem;font-weight:600;flex:1;cursor:pointer;min-height:52px;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;touch-action:manipulation}
-  .apctl button:active{background:#334155}
+  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:12px;padding:16px 4px;font-size:1.05rem;font-weight:600;flex:1;cursor:pointer;min-height:52px;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;touch-action:none}
+  .apctl button:active,.apctl button.hold{background:#2563eb;color:#fff}
   .apsp{display:flex;gap:6px;justify-content:center;margin-top:6px}
   .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:7px 14px;font-size:.85rem;cursor:pointer;min-height:36px}
   .apsp button.on{background:#2563eb;color:#fff;border-color:#2563eb}
@@ -496,11 +496,11 @@ function renderCoachPage(token, meta, t) {
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
-  <button id="apBack" onpointerdown="hStart('s',-1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false">⏪ 5s</button>
-  <button id="apFrB" onpointerdown="hStart('f',-1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false" title="点=退1帧 · 按住=连续退">⏮</button>
+  <button id="apBack" onpointerdown="hStart('s',-1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false">⏪ 5s</button>
+  <button id="apFrB" onpointerdown="hStart('f',-1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false" title="点=退1帧 · 按住=连续退">⏮</button>
   <button id="apPlayBtn" onclick="apToggle()">▶</button>
-  <button id="apFrF" onpointerdown="hStart('f',1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false" title="点=进1帧 · 按住=连续进">⏭</button>
-  <button id="apFwd" onpointerdown="hStart('s',1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false">5s ⏩</button>
+  <button id="apFrF" onpointerdown="hStart('f',1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false" title="点=进1帧 · 按住=连续进">⏭</button>
+  <button id="apFwd" onpointerdown="hStart('s',1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apsp" id="apMisc"></div>
@@ -627,16 +627,21 @@ function apSkip(dir){
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
 // 按住=连续动作（帧按钮连续走帧、跳秒按钮连续跳）；点按=单次
-let hT = null, hI = null;
+let hT = null, hI = null, hBtn = null;
 function hAct(mode, dir){ (mode === 'f' ? apStep : apSkip)(dir); }
-function hStart(mode, dir){
+function hStart(mode, dir, btn){
   hEnd();
+  hBtn = btn;
+  if(btn) btn.classList.add('hold');
   hAct(mode, dir);                                          // 按下即执行一次
   hT = setTimeout(function(){                               // 按住 350ms 后进入连续模式
     hI = setInterval(function(){ hAct(mode, dir); }, mode === 'f' ? 70 : 350);
   }, 350);
 }
-function hEnd(){ clearTimeout(hT); clearInterval(hI); hT = hI = null; }
+function hEnd(btn){
+  clearTimeout(hT); clearInterval(hI); hT = hI = null;
+  if(hBtn){ hBtn.classList.remove('hold'); hBtn = null; }
+}
 function apStepSet(s, btn){
   apStepN = s;
   btn.parentNode.querySelectorAll("[data-st]").forEach(b => b.classList.toggle("on", b === btn));
