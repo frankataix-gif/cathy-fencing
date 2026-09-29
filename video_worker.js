@@ -283,32 +283,41 @@ async function load(){
     document.getElementById('list').innerHTML = '<div class="vid" style="color:#b91c1c">Load failed: ' + escH(e.message) + '</div>';
   }
 }
+let renderedIds = '';
 function render(){
   const list = document.getElementById('list');
-  if(!vids.length){ list.innerHTML = '<div class="vid" style="color:#94a3b8">' + escH(T.none) + '</div>'; }
-  else {
-    // 分组：赛事 → 对阵 → 视频
-    const groups = {};
-    vids.forEach(v => {
-      const tk = v.tournament || '—';
-      if(!groups[tk]) groups[tk] = { date: v.date || '', place: v.place || '', vids: [] };
-      groups[tk].vids.push(v);
-    });
-    list.innerHTML = Object.entries(groups).sort((a,b) => (b[1].date||'').localeCompare(a[1].date||'')).map(([tname, g]) =>
-      '<div class="tgroup"><div class="tname">🏆 ' + escH(tname) + (g.date ? ' <span>' + escH(g.date) + (g.place ? ' · ' + escH(g.place) : '') + '</span>' : '') + '</div>' +
-      g.vids.map(v => {
-        const vc = cmts.filter(c => c.videoId === v.id);
-        return '<div class="vid">' +
+  const ids = vids.map(v => v.id).join('|');
+  // 视频列表变了才整体重建——播放器不被留言刷新打断
+  if (ids !== renderedIds) {
+    renderedIds = ids;
+    if(!vids.length){ list.innerHTML = '<div class="vid" style="color:#94a3b8">' + escH(T.none) + '</div>'; }
+    else {
+      const groups = {};
+      vids.forEach(v => {
+        const tk = v.tournament || '—';
+        if(!groups[tk]) groups[tk] = { date: v.date || '', place: v.place || '', vids: [] };
+        groups[tk].vids.push(v);
+      });
+      list.innerHTML = Object.entries(groups).sort((a,b) => (b[1].date||'').localeCompare(a[1].date||'')).map(([tname, g]) =>
+        '<div class="tgroup"><div class="tname">🏆 ' + escH(tname) + (g.date ? ' <span>' + escH(g.date) + (g.place ? ' · ' + escH(g.place) : '') + '</span>' : '') + '</div>' +
+        g.vids.map(v =>
+          '<div class="vid">' +
           '<div class="bt">' + escH([v.event, v.bout, v.opponent ? 'vs ' + v.opponent : '', v.score].filter(Boolean).join(' · ') || v.name) + '</div>' +
           (v.youtube
             ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
             : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '" onerror="vidErr(this)"></video>') +
-          '<div class="cmts">' + vc.map(c => cmtHtml(c)).join('') + '</div>' +
+          '<div class="cmts" data-vid="' + escH(v.id) + '"></div>' +
           '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.keyCode===13)sendCmt(\\'' + v.id + '\\',this)"><button onclick="sendCmt(\\'' + v.id + '\\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
-          '</div>';
-      }).join('') + '</div>'
-    ).join('');
+          '</div>'
+        ).join('') + '</div>'
+      ).join('');
+    }
   }
+  // 留言原地更新，不动视频元素
+  vids.forEach(v => {
+    const el = list.querySelector('.cmts[data-vid="' + v.id + '"]');
+    if (el) el.innerHTML = cmts.filter(c => c.videoId === v.id).map(c => cmtHtml(c)).join('');
+  });
   document.getElementById('gen-comments').innerHTML = cmts.filter(c => !c.videoId).map(c => cmtHtml(c)).join('');
 }
 function vidErr(el){
@@ -326,10 +335,16 @@ async function sendCmt(videoId, input){
   const text = input.value.trim();
   if(!text) return;
   input.value = '';
+  input.disabled = true;
+  // 乐观上屏：留言立刻显示
+  cmts.push({ id: 'tmp_' + Date.now(), videoId, author: 'coach', text, display: text, ts: new Date().toISOString() });
+  render();
   try{
     await fetch('/', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({action:'comment_add', token: TOKEN, videoId, author:'coach', text})});
-    load();
+    await load();
   }catch(e){ input.value = text; }
+  input.disabled = false;
+  input.focus();
 }
 load();
 setInterval(load, 45000);
