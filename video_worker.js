@@ -11,31 +11,38 @@ const CORS_HEADERS = {
 // ===== Service Worker 源码：视频请求本地缓存（含 Range 切片），其它请求直通 =====
 const SW_SRC = `
 const C = 'cv1';
+// iOS Safari 对 SW 提供的媒体流不稳定（底线：视频必须能播）——iOS 一律直通网络
+const iOS = /iP(hone|ad|od)/.test(self.navigator.userAgent) || (self.navigator.platform === 'MacIntel' && self.navigator.maxTouchPoints > 1);
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(clients.claim()));
 self.addEventListener('fetch', e => {
   const u = new URL(e.request.url);
-  if (u.origin !== location.origin || !u.pathname.startsWith('/video/')) return;
+  if (iOS || u.origin !== location.origin || !u.pathname.startsWith('/video/')) return;
   e.respondWith((async () => {
-    const cache = await caches.open(C);
-    const range = e.request.headers.get('range');
-    const hit = await cache.match(u.pathname);
-    if (hit) {
-      const blob = await hit.blob();
-      const type = hit.headers.get('Content-Type') || 'video/mp4';
-      if (range) {
-        const m = range.match(/bytes=(\\d+)-(\\d*)/);
-        if (m) {
-          const s = +m[1], en = m[2] ? Math.min(+m[2], blob.size - 1) : blob.size - 1;
-          const part = blob.slice(s, en + 1);
-          return new Response(part, { status: 206, headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Range': 'bytes ' + s + '-' + en + '/' + blob.size, 'Content-Length': String(part.size) } });
+    try {
+      const cache = await caches.open(C);
+      const range = e.request.headers.get('range');
+      const hit = await cache.match(u.pathname);
+      if (hit) {
+        const blob = await hit.blob();
+        if (!blob.size) return fetch(e.request);
+        const type = hit.headers.get('Content-Type') || 'video/mp4';
+        if (range) {
+          const m = range.match(/bytes=(\\d+)-(\\d*)/);
+          if (m) {
+            const s = +m[1], en = m[2] ? Math.min(+m[2], blob.size - 1) : blob.size - 1;
+            const part = blob.slice(s, en + 1);
+            return new Response(part, { status: 206, headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Range': 'bytes ' + s + '-' + en + '/' + blob.size, 'Content-Length': String(part.size) } });
+          }
         }
+        return new Response(blob, { headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Length': String(blob.size) } });
       }
-      return new Response(blob, { headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Length': String(blob.size) } });
+      const r = await fetch(e.request);
+      if (!range && r.ok) cache.put(u.pathname, r.clone());
+      return r;
+    } catch (err) {
+      return fetch(e.request);
     }
-    const r = await fetch(e.request);
-    if (!range && r.ok) cache.put(u.pathname, r.clone());
-    return r;
   })());
 });
 `;
@@ -796,6 +803,7 @@ function apZoomReset(){
 // ===== 最近视频后台静默预载（走普通 fetch，由 Service Worker 写入本地缓存） =====
 async function warmVideoCache(){
   try{
+    if(/iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1)) return;  // iOS 不预热：SW 在该平台直通
     if(!("serviceWorker" in navigator)) return;
     await navigator.serviceWorker.ready;
     const cache = await caches.open("cv-videos");
@@ -870,7 +878,9 @@ function apTagSet(btn){
 }
 function apRenderCmts(){
   const el = document.getElementById("apCmts");
-  if(el){ el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join(""); auSync(); auTickA(); }
+  if(!el) return;
+  if(el.querySelector(".cmtmenu")) return;      // 留言菜单打开时跳过本轮刷新，不打断标签编辑/删除
+  el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join(""); auSync(); auTickA();
 }
 async function apSend(){
   const input = document.getElementById("apInput");
@@ -1005,7 +1015,7 @@ function render(){
     const bcid = el.dataset.bcid;
     const bc = cmts.filter(c => c.videoId === bcid);
     const ce = el.querySelector(".cbody .cmts");
-    if(ce){ ce.innerHTML = bc.map(cmtHtml).join(""); auSync(); auTickA(); }
+    if(ce && !ce.querySelector(".cmtmenu")){ ce.innerHTML = bc.map(cmtHtml).join(""); auSync(); auTickA(); }
     const btn = el.querySelector(".cbtn");
     if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
     el.querySelectorAll(".vbtn").forEach(b => {
@@ -1112,6 +1122,7 @@ function cmtTagToggle(host, btn){
   render(); if(apVid) apRenderCmts();
 }
 function cmtDel(host){
+  if(!confirm((T.del || "Delete") + "?")) return;
   const id = host.dataset.cid;
   cmts = cmts.filter(c => c.id !== id);
   fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_del", token:TOKEN, id})}).catch(function(){});
