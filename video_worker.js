@@ -509,7 +509,6 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
-<div class="apvol" id="apVolNote" style="display:none;font-size:.75rem">📱 音量请用设备音量键调节 · Volume: use device buttons</div>
 <div class="aptags" id="apTags"></div>
 <div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
 <div class="box" id="apTxtBox" style="display:none;margin-top:6px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button></div>
@@ -524,7 +523,6 @@ const T = ${JSON.stringify(t)};
 const EV = ${JSON.stringify(EV_I18N[meta.lang] || {})};
 const TAGS = ${JSON.stringify(TAG_I18N[meta.lang] || TAG_I18N.en)};
 const TAG_ORDER = ["good","issue","footwork","attack","defense","timing","distance","tactic"];
-const TAG_ICON = {good:"👍",issue:"⚠️",footwork:"🦶",attack:"⚔️",defense:"🛡",timing:"⏱",distance:"📏",tactic:"🎯"};
 function fmtT(s){ s=Math.max(0,s||0); return Math.floor(s/60)+":"+String(Math.floor(s%60)).padStart(2,"0"); }
 // 项目名本地化：只替换「性别+剑种」，赛事名/人名不动
 function locEvent(s){ return String(s||"").replace(/(Women's|Men's) (Foil|Epee|Sabre)/g, x => EV[x] || x); }
@@ -610,7 +608,6 @@ function openAnalysis(vid){
   apV.onerror    = ldHide;
   const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
   document.getElementById("apVolRow").style.display = iOS ? "none" : "flex";
-  document.getElementById("apVolNote").style.display = iOS ? "block" : "none";
   if(!iOS) apVolIn(document.getElementById("apVol"));
   apV.ontimeupdate = apTick; apV.onloadedmetadata = apTick;
   apV.onended = function(){ document.getElementById("apPlayBtn").textContent = "▶"; };
@@ -619,7 +616,7 @@ function openAnalysis(vid){
   sp.querySelector("[data-sp='1']").classList.add("on"); apSpd = 1;
 
   document.getElementById("apTags").innerHTML = TAG_ORDER.map(k =>
-    "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + TAG_ICON[k] + " " + escH(TAGS[k] || k) + "</button>").join("");
+    "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + escH(TAGS[k] || k) + "</button>").join("");
   apRenderCmts();
 }
 function closeAnalysis(){
@@ -936,7 +933,7 @@ function cmtHtml(c, anchor){
   const shown = c.display || c.text;
   const hasOrig = c.orig && c.orig !== shown;
   const tagList = Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []);
-  const tag = tagList.map(k => "<span class='tag'>" + (TAG_ICON[k] || "") + " " + escH(TAGS[k] || k) + "</span>").join("");
+  const tag = tagList.map(k => "<span class='tag'>" + escH(TAGS[k] || k) + "</span>").join("");
   const anch = c.vt != null ? "<span class='anchor'>⏱" + fmtT(c.vt) + "</span>" : "";
   // 分析面板里：整条带锚点的留言可点击跳转到该视频时间点
   const canSeek = anchor && c.vt != null;
