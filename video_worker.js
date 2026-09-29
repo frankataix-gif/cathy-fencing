@@ -607,6 +607,7 @@ async function load(manual){
     vids = d.feed.videos || [];
     cmts = d.comments || [];
     render();
+    warmVideoCache();
     document.getElementById("upd").textContent = T.updated + " " + new Date().toLocaleTimeString().slice(0,5);
     if(d.v && d.v !== PAGE_VER) document.getElementById("updBar").style.display = "block";
     if(manual !== true){
@@ -637,7 +638,23 @@ function openAnalysis(vid){
   const ld = document.getElementById("apLoad");
   const ldShow = function(){ if(apV && (apV.seeking || apV.readyState < 3)) ld.style.display = "flex"; };
   const ldHide = function(){ if(!apV || (!apV.seeking && apV.readyState >= 3)) ld.style.display = "none"; };
-  if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; ld.style.display = "flex"; apV.src = v.url; apV.load(); }
+  if(apV.dataset.src !== v.url){
+    apV.dataset.src = v.url;
+    ld.style.display = "flex";
+    apV.removeAttribute("poster");
+    // 先用列表缩略图的首帧做海报，视频加载前不黑屏
+    try{
+      const t = document.querySelector("video[src='" + v.url + "']");
+      if(t && t.readyState >= 2 && t.videoWidth){
+        const cv = document.createElement("canvas");
+        cv.width = t.videoWidth; cv.height = t.videoHeight;
+        cv.getContext("2d").drawImage(t, 0, 0);
+        apV.poster = cv.toDataURL("image/jpeg", 0.72);
+      }
+    }catch(e){}
+    // 命中本地缓存就用本地 blob（秒开、seek 不卡顿），否则走网络
+    vidSrcCached(v.url).then(function(src){ apV.src = src; apV.load(); });
+  }
   else ldHide();
   apV.onloadstart = ldShow;
   apV.onwaiting  = ldShow;
@@ -740,6 +757,26 @@ function apZoomReset(){
   apXf();
 }
 
+// ===== 最近视频后台预载到本地缓存，打开时优先用本地 blob =====
+async function vidSrcCached(url){
+  try{
+    if("caches" in window){
+      const hit = await (await caches.open("cv-videos")).match(url);
+      if(hit) return URL.createObjectURL(await hit.blob());
+    }
+  }catch(e){}
+  return url;
+}
+async function warmVideoCache(){
+  try{
+    if(!("caches" in window)) return;
+    const cache = await caches.open("cv-videos");
+    for(const v of vids.slice(0, 3)){                     // 最近 3 个默默下载
+      if(!v.url || v.youtube) continue;
+      if(!(await cache.match(v.url))) cache.add(v.url).catch(function(){});
+    }
+  }catch(e){}
+}
 // 双指捏合缩放 + 放大后单指拖动平移（只动视频画面）
 (function(){
   const box = document.querySelector(".apv");
