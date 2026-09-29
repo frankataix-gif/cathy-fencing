@@ -20810,3 +20810,16 @@ For your winter out in the open.
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] La Member Week per i soci in outlet sta per terminare
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-09-29T17:01:02.000Z
+**摘要:** 通知会员周活动即将结束，可能涉及促销或优惠
+**待办:** 无
+**GmailID:** 1a0ee1e92274aa5f
+
+
+
+
+---
