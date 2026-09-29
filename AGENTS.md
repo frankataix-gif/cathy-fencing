@@ -139,3 +139,17 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
   - App：赛事卡片「📹 视频」区上传/打开；「我的 → 比赛视频库」管理（复制链接发教练、>90 天建议归档 YouTube、删除）；记录存 user_data.json `videos` 并集合并。
   - 部署：`python deploy_video_worker.py`（Temp 目录，PUT multipart 含 VIDEOS binding + POST subdomain 启用 workers.dev）。
   - R2 成本：10GB 免费，超出 $0.015/GB/月，流量免费；100GB ≈ $1.35/月。
+
+### 2026-09-30
+- 顶部导航改为纯文字 5 项：`赛事 视频 日程 邮件 我的`（无图标，均分宽度）；赛事内子 tab：`USA Fencing / 成绩 / AI / 会员`。
+- 教练页重设计（video_worker.js `renderCoachPage`，已部署）：
+  - 教练主页化：蓝色头卡 `Coach {name}` 大字 + 「Cathy He · Foil · Vancouver — 学员」副标 + 🌐 语言自选（18 种内置 + 自定义语言 AI 翻译缓存）。
+  - 视频三级分组：赛事(粘性标题,可带 `tUrl` 跳 USA Fencing 官方页) → 对阵(回合标题) → 视频片段缩略图格（`preload=metadata` 首帧 + ▶ 遮罩 + 时长角标 + NEW 标记）。
+  - NEW 标记：feed 带 `uploadedAt`，教练打开页面后 POST `coach_seen` 回写 `meta.lastSeen`，比它新的视频标 NEW、头部显示「N new since last visit」。
+  - 留言 IG 式折叠：按对阵聚合该 bout 全部片段的留言，`💬 N comments` 点击展开；留言挂在该对阵第一个视频 id 上；相对时间（m/h/d）。
+  - 手动 ⟳ 刷新 + 更新时间戳 + 45s 轮询保留；视频元素按签名比对重建，留言原地更新不打断播放。
+- 家长语言可配置：视频 tab 加「我的留言语言」下拉（`cathy_family_lang`），写入 feed.familyLang；教练留言翻译成该语言（存 `familyText`/`translations[lang]`，zh 时仍写 `zhText` 兼容）。
+- 不关联 bout 的「上传视频」先弹窗问活动主体名（可空→「自建活动」）+ 对阵/备注，保证每条视频有归属主体。
+- ⚠️ 已知坑：教练页模板字符串里的内嵌 JS 若写 `\'` 会被模板解析成裸 `'` 截断字符串 → 整个脚本语法错误、页面卡 Loading。模板内字符串转义必须写 `\\'` / `\\"`（见 escH）。改完务必用 esprima 校验线上返回页的 `<script>`。
+- 部署命令：`python "C:\Users\25534\AppData\Local\Temp\deploy_video_worker.py"`（若被清理，参数见 git 历史/复制 deploy_cathy_worker.py 改 worker 名为 cathyvideos + VIDEOS binding）。
+- 待办：MKV/HEVC 格式浏览器播不了（无转码，建议拍 MP4/H.264 或归档 YouTube）；教练语音留言不翻译；国内访问 workers.dev 不稳定，如需要可绑自定义域名。
