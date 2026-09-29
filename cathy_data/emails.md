@@ -20763,3 +20763,50 @@ For your winter out in the open.
 ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] London Dock Residents – Your Flu Jab for Just £19.95 💉
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-29T15:46:55.000Z
+**摘要:** 推广流感疫苗接种服务，价格为19.95英镑
+**待办:** 无
+**GmailID:** 1a0edd8ff3783a36
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
