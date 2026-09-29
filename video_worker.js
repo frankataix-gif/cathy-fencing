@@ -945,13 +945,14 @@ function cmtHtml(c, anchor){
   return "<div class='cmt " + c.author + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
     (hasOrig ? "<span class='tr' onclick='event.stopPropagation();toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
-    (c.audioUrl ? "<div class='au'><button class='aub' id='auB_" + auSan(c.id) + "' onclick='event.stopPropagation();auPlay(\"" + auSan(c.id) + "\",\"" + escH(c.audioUrl) + "\")'>▶</button><div class='aubar'><div class='aupg' id='auP_" + auSan(c.id) + "'></div></div><span class='autm' id='auT_" + auSan(c.id) + "'>0:00</span></div>" : "") +
+    (c.audioUrl ? "<div class='au'><button class='aub' id='auB_" + auSan(c.id) + "' data-key='" + auSan(c.id) + "' data-url='" + escH(c.audioUrl) + "' onclick='event.stopPropagation();auPlay(this)'>▶</button><div class='aubar'><div class='aupg' id='auP_" + auSan(c.id) + "'></div></div><span class='autm' id='auT_" + auSan(c.id) + "'>0:00</span></div>" : "") +
     (shown && shown !== "🎤" ? escH(shown) : "") + "</div>";
 }
 // ===== 语音留言统一播放器：全局一个 Audio 实例，点另一个自动停、轮询重建不打断播放 =====
 let auO = null, auKey = null;
 function auSan(id){ return String(id).replace(/[^a-zA-Z0-9_]/g, "_"); }
-function auPlay(key, url){
+function auPlay(btn){
+  const key = btn.dataset.key, url = btn.dataset.url;
   if(auO && auKey === key){ if(auO.paused) auO.play().catch(function(){}); else auO.pause(); auSync(); return; }
   if(!auO){
     auO = new Audio();
