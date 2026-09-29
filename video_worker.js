@@ -633,8 +633,8 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-// 按住=画面连续移动：前进用真实变速播放，后退用小步连续回退；点按=单次步进
-let hT = null, hI = null, hBtn = null, apSpd = 1;
+// 按住=画面连续移动：前进用真实变速播放，后退用逐帧回退模拟倒放；点按=单次步进
+let hT = null, hRAF = null, hBtn = null, apSpd = 1;
 function hStart(mode, dir, btn){
   hEnd();
   hBtn = btn;
@@ -647,18 +647,22 @@ function hStart(mode, dir, btn){
       apV.play().catch(function(){});
     }, 350);
   } else {
-    hT = setTimeout(function(){                             // 按住后退：连续小步回退模拟倒带
-      const dt = mode === 'f' ? 0.08 : apStepN / 6;         // 帧键≈慢速倒帧，跳秒≈快速回扫
-      hI = setInterval(function(){
+    const rate = mode === 'f' ? 0.4 : 4;                    // 倒放速度：帧键≈0.4x，跳秒≈4x
+    hT = setTimeout(function(){
+      apV.pause();
+      let last = performance.now();
+      const tick = function(now){
         if(!apV) return;
-        apV.pause();
-        apV.currentTime = Math.max(0, apV.currentTime - dt);
-      }, mode === 'f' ? 120 : 180);
+        const dt = (now - last) / 1000; last = now;
+        apV.currentTime = Math.max(0, apV.currentTime - rate * dt);
+        if(apV.currentTime > 0) hRAF = requestAnimationFrame(tick);
+      };
+      hRAF = requestAnimationFrame(tick);
     }, 350);
   }
 }
 function hEnd(){
-  clearTimeout(hT); clearInterval(hI); hT = hI = null;
+  clearTimeout(hT); cancelAnimationFrame(hRAF); hT = hRAF = null;
   if(apV && !apV.paused){ apV.playbackRate = apSpd; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   if(hBtn){ hBtn.classList.remove('hold'); hBtn = null; }
 }
