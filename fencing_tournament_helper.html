@@ -2465,9 +2465,7 @@ function circuitLabel(c) {
           tournamentId: tournamentId || null, type: 'r2'
         }, meta));
         saveVideos();
-        renderResults();
-        renderVideoLibrary();
-        renderVideoWall();
+        refreshVideoViews();
       } catch(e) {
         alert('视频上传失败：' + e.message);
       }
@@ -2502,8 +2500,16 @@ function circuitLabel(c) {
     }
     videos = videos.filter(x => x.id !== id);
     saveVideos();
-    renderVideoLibrary();
+    refreshVideoViews();
+  }
+  // 视频增删改后统一刷新全部相关视图（成绩卡片 bout 标签、视频墙、视频库、赛事列表）
+  function refreshVideoViews() {
     renderResults();
+    renderVideoLibrary();
+    renderVideoWall();
+    if (typeof resultsViewMode !== 'undefined' && resultsViewMode === 'list' && Array.isArray(cachedResults) && cachedResults.length) {
+      renderResultsList(cachedResults);
+    }
   }
   async function archiveVideoToYoutube(id) {
     const v = videos.find(x => x.id === id);
@@ -2519,8 +2525,7 @@ function circuitLabel(c) {
       await fetch(CATHY_VIDEO_WORKER_URL + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'video_delete', key: v.key }) });
     } catch(e) {}
-    renderVideoLibrary();
-    renderResults();
+    refreshVideoViews();
   }
   const LANG_LABEL = { zh: '🇨🇳 简中', 'zh-TW': '🇹🇼 繁中', en: '🇬🇧 English', it: '🇮🇹 Italiano', fr: '🇫🇷 Français', es: '🇪🇸 Español', ar: '🇸🇦 العربية', de: '🇩🇪 Deutsch', ja: '🇯🇵 日本語', ko: '🇰🇷 한국어', ru: '🇷🇺 Русский', hu: '🇭🇺 Magyar', pt: '🇵🇹 Português', uk: '🇺🇦 Українська', pl: '🇵🇱 Polski', fa: '🇮🇷 فارسی', ro: '🇷🇴 Română', tr: '🇹🇷 Türkçe' };
   async function renderVideoPage() {
