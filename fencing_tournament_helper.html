@@ -2275,6 +2275,29 @@ function circuitLabel(c) {
     if (keys.length > 300) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 300).forEach(k => delete m[k]);
     try { localStorage.setItem('cathy_schedule_tombstones', JSON.stringify(m)); } catch(e) {}
   }
+  // 教练/视频墓碑：防止并集合并时已删条目复活
+  function getCoachTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_coach_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markCoachDeleted(token) {
+    if (!token) return;
+    const m = getCoachTombstones();
+    m[token] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 200) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 200).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_coach_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
+  function getVideoTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_video_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markVideoDeleted(id) {
+    if (!id) return;
+    const m = getVideoTombstones();
+    m[id] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 500) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 500).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_video_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
   // 日程合并：按 id，updatedAt 新者胜；墓碑拦截已删事件复活（本地侧优先）
   function mergeScheduleLists(remoteList, localList, tombs) {
     const isTomb = (e) => e && e.id && tombs[e.id] && (!e.updatedAt || e.updatedAt <= tombs[e.id]);
@@ -2367,6 +2390,7 @@ function circuitLabel(c) {
     if (!c) return;
     if (!confirm(`撤销「${c.name}」的链接？该教练立即无法访问，历史留言保留。`)) return;
     try { await videoWorkerPost({ action: 'coach_revoke', token: c.token }); } catch(e) {}
+    markCoachDeleted(c.token);
     coaches = coaches.filter(x => x.id !== id);
     delete coachComments[c.token];
     saveCoaches();
@@ -2505,6 +2529,7 @@ function circuitLabel(c) {
           body: JSON.stringify({ action: 'video_delete', key: v.key }) });
       } catch(e) {}
     }
+    markVideoDeleted(v.id);
     videos = videos.filter(x => x.id !== id);
     saveVideos();
     refreshVideoViews();
@@ -2999,16 +3024,31 @@ function circuitLabel(c) {
         reflections = mergeReflections(data.reflections, reflections);
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
       }
+      // 合并远端 视频/教练 墓碑
+      if (data.videoTombstones && typeof data.videoTombstones === 'object') {
+        const vt = getVideoTombstones();
+        Object.entries(data.videoTombstones).forEach(([id, ts]) => { if (!vt[id] || vt[id] < ts) vt[id] = ts; });
+        try { localStorage.setItem('cathy_video_tombstones', JSON.stringify(vt)); } catch(e) {}
+      }
+      if (data.coachTombstones && typeof data.coachTombstones === 'object') {
+        const ct = getCoachTombstones();
+        Object.entries(data.coachTombstones).forEach(([id, ts]) => { if (!ct[id] || ct[id] < ts) ct[id] = ts; });
+        try { localStorage.setItem('cathy_coach_tombstones', JSON.stringify(ct)); } catch(e) {}
+      }
       if (Array.isArray(data.videos)) {
+        const vt = getVideoTombstones();
+        videos = videos.filter(v => !(v && v.id && vt[v.id]));
         const byId = {};
         videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
-        data.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
+        data.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id] && !vt[rv.id]) videos.push(rv); });
         saveToLocal('cathy_videos', JSON.stringify(videos));
       }
       if (Array.isArray(data.coaches)) {
+        const ct = getCoachTombstones();
+        coaches = coaches.filter(c => !(c && c.token && ct[c.token]));
         const byTok = {};
         coaches.forEach(c => { if (c && c.token) byTok[c.token] = c; });
-        data.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token]) coaches.push(rc); });
+        data.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token] && !ct[rc.token]) coaches.push(rc); });
         saveToLocal('cathy_coaches', JSON.stringify(coaches));
       }
       // 合并远端墓碑（多设备删除同步）
@@ -3711,6 +3751,8 @@ function circuitLabel(c) {
     const taskTombstones = getTaskTombstones();
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
     const schedTombs = getScheduleTombstones();
+    let vidTombs = getVideoTombstones();
+    let coachTombs = getCoachTombstones();
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
       const rtext = await fetchRepoFile('cathy_data/user_data.json');
@@ -3755,24 +3797,35 @@ function circuitLabel(c) {
           reflections = mergeReflections(remote.reflections, reflections);
           saveUIToLocal('cathy_reflections', JSON.stringify(reflections));
         }
-        // 视频记录：按 id 并集
+        // 视频/教练 墓碑合并（删除状态跨设备传播）
+        if (remote && remote.videoTombstones) {
+          Object.entries(remote.videoTombstones).forEach(([id, ts]) => { if (!vidTombs[id] || vidTombs[id] < ts) vidTombs[id] = ts; });
+          try { localStorage.setItem('cathy_video_tombstones', JSON.stringify(vidTombs)); } catch(e2) {}
+        }
+        if (remote && remote.coachTombstones) {
+          Object.entries(remote.coachTombstones).forEach(([id, ts]) => { if (!coachTombs[id] || coachTombs[id] < ts) coachTombs[id] = ts; });
+          try { localStorage.setItem('cathy_coach_tombstones', JSON.stringify(coachTombs)); } catch(e2) {}
+        }
+        // 视频记录：按 id 并集，跳过墓碑
         if (remote && Array.isArray(remote.videos)) {
+          videos = videos.filter(v => !(v && v.id && vidTombs[v.id]));
           const byId = {};
           videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
-          remote.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
+          remote.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id] && !vidTombs[rv.id]) videos.push(rv); });
           saveUIToLocal('cathy_videos', JSON.stringify(videos));
         }
-        // 教练链接：按 token 并集
+        // 教练链接：按 token 并集，跳过墓碑
         if (remote && Array.isArray(remote.coaches)) {
+          coaches = coaches.filter(c => !(c && c.token && coachTombs[c.token]));
           const byTok = {};
           coaches.forEach(c => { if (c && c.token) byTok[c.token] = c; });
-          remote.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token]) coaches.push(rc); });
+          remote.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token] && !coachTombs[rc.token]) coaches.push(rc); });
           saveUIToLocal('cathy_coaches', JSON.stringify(coaches));
         }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos, coaches };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos, coaches, coachTombstones: coachTombs || getCoachTombstones(), videoTombstones: vidTombs || getVideoTombstones() };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
