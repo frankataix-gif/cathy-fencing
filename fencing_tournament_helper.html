@@ -2528,7 +2528,7 @@ function circuitLabel(c) {
   }
   function _cmtHtml(c) {
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
+      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
       ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
       ${c.text && c.text !== '🎤' ? escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text) : ''}
     </div>`;
@@ -2616,9 +2616,12 @@ function circuitLabel(c) {
         ${b.vids.sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || '')).map(_videoCardHtml).join('')}
       </div>`).join('')}
     </div>`).join('');
-    // 总体留言（不绑视频）
+    // 总体留言（不绑视频，或绑定的视频已不在本地——如演示数据/已删除）
+    const knownIds = new Set(videos.map(v => v.id));
     const general = [];
-    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => { if (!cm.videoId) general.push({ ...cm, coachName: c.name }); }));
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
+      if (!cm.videoId || !knownIds.has(cm.videoId)) general.push({ ...cm, coachName: c.name, orphan: !!cm.videoId });
+    }));
     general.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
     if (general.length || coaches.length) {
       el.innerHTML += `<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:10px 12px;">
