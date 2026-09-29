@@ -336,7 +336,7 @@ export default {
 
 // ===== 教练页 HTML =====
 // 版本指纹：页面代码变了就自动变（用于已打开页面的「点击更新」提示）
-const _pvSrc = renderCoachPage.toString();
+const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COACH_I18N) + LANG_OPTIONS.join(',');
 let _pvH = 0; for (let i = 0; i < _pvSrc.length; i++) _pvH = (_pvH * 31 + _pvSrc.charCodeAt(i)) >>> 0;
 const PAGE_VERSION = _pvSrc.length.toString(36) + _pvH.toString(36);
 // 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
