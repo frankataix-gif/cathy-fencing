@@ -479,6 +479,11 @@ function renderCoachPage(token, meta, t) {
   .apclose{position:absolute;top:8px;right:10px;background:#334155;color:#fff;border:none;border-radius:50%;width:34px;height:34px;font-size:1rem;z-index:101;cursor:pointer}
   .tag{display:inline-block;background:#e0e7ff;color:#3730a3;font-size:.66rem;font-weight:600;padding:0 7px;border-radius:999px;margin-right:4px}
   .anchor{color:#2563eb;font-size:.72rem;font-weight:700;margin-right:4px;cursor:pointer}
+  .au{display:flex;align-items:center;gap:8px;margin:4px 0}
+  .aub{background:#2563eb;color:#fff;border:none;border-radius:50%;width:32px;height:32px;font-size:.8rem;cursor:pointer;flex-shrink:0;padding:0}
+  .aubar{flex:1;height:4px;background:#e2e8f0;border-radius:4px;overflow:hidden}
+  .aupg{height:100%;background:#2563eb;width:0;transition:width .3s linear}
+  .autm{font-size:.68rem;color:#64748b;min-width:62px;text-align:right;white-space:nowrap}
 </style></head><body><div class="wrap">
 <div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
@@ -765,7 +770,7 @@ function apTagSet(btn){
 }
 function apRenderCmts(){
   const el = document.getElementById("apCmts");
-  if(el) el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join("");
+  if(el){ el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join(""); auSync(); auTickA(); }
 }
 async function apSend(){
   const input = document.getElementById("apInput");
@@ -900,7 +905,7 @@ function render(){
     const bcid = el.dataset.bcid;
     const bc = cmts.filter(c => c.videoId === bcid);
     const ce = el.querySelector(".cbody .cmts");
-    if(ce) ce.innerHTML = bc.map(cmtHtml).join("");
+    if(ce){ ce.innerHTML = bc.map(cmtHtml).join(""); auSync(); auTickA(); }
     const btn = el.querySelector(".cbtn");
     if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
     el.querySelectorAll(".vbtn").forEach(b => {
@@ -940,8 +945,36 @@ function cmtHtml(c, anchor){
   return "<div class='cmt " + c.author + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
     (hasOrig ? "<span class='tr' onclick='event.stopPropagation();toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
-    (c.audioUrl ? "<audio controls preload='metadata' src='" + escH(c.audioUrl) + "' style='width:100%;margin:2px 0'></audio>" : "") +
+    (c.audioUrl ? "<div class='au'><button class='aub' id='auB_" + auSan(c.id) + "' onclick='event.stopPropagation();auPlay(\"" + auSan(c.id) + "\",\"" + escH(c.audioUrl) + "\")'>▶</button><div class='aubar'><div class='aupg' id='auP_" + auSan(c.id) + "'></div></div><span class='autm' id='auT_" + auSan(c.id) + "'>0:00</span></div>" : "") +
     (shown && shown !== "🎤" ? escH(shown) : "") + "</div>";
+}
+// ===== 语音留言统一播放器：全局一个 Audio 实例，点另一个自动停、轮询重建不打断播放 =====
+let auO = null, auKey = null;
+function auSan(id){ return String(id).replace(/[^a-zA-Z0-9_]/g, "_"); }
+function auPlay(key, url){
+  if(auO && auKey === key){ if(auO.paused) auO.play().catch(function(){}); else auO.pause(); auSync(); return; }
+  if(!auO){
+    auO = new Audio();
+    auO.addEventListener("timeupdate", auTickA);
+    auO.addEventListener("loadedmetadata", auTickA);
+    auO.addEventListener("ended", function(){ auSync(); });
+  }
+  auO.pause();
+  auKey = key;
+  auO.src = url;
+  auO.play().catch(function(){});
+  auSync();
+}
+function auTickA(){
+  if(!auO || !auKey) return;
+  const tm = document.getElementById("auT_" + auKey), pg = document.getElementById("auP_" + auKey);
+  if(tm) tm.textContent = fmtT(auO.currentTime) + " / " + (isFinite(auO.duration) ? fmtT(auO.duration) : "…");
+  if(pg && isFinite(auO.duration) && auO.duration > 0) pg.style.width = Math.min(100, auO.currentTime / auO.duration * 100) + "%";
+}
+function auSync(){
+  document.querySelectorAll(".aub").forEach(function(b){ b.textContent = "▶"; });
+  const b = document.getElementById("auB_" + auKey);
+  if(b && auO) b.textContent = auO.paused ? "▶" : "❚❚";
 }
 function toggleOrig(el){
   const o = el.parentNode.parentNode.querySelector(".orig");
