@@ -843,6 +843,7 @@
 <script>
 const DATA_UPDATED = '2026-09-29T00:08:55Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
+const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 
 let _autoSyncEnabled = true;
 let _isLoadingGitHubData = false;
@@ -2277,7 +2278,7 @@ function circuitLabel(c) {
   function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
   // 分片上传视频到 R2（经 Worker，15MB/片，带进度回调与重试）
   async function uploadVideoFile(file, onProgress) {
-    const wurl = CATHY_SYNC_WORKER_URL.replace(/\/+$/, '');
+    const wurl = CATHY_VIDEO_WORKER_URL.replace(/\/+$/, '');
     const CHUNK = 15 * 1024 * 1024;
     const initRes = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ action: 'video_init', name: file.name, contentType: file.type || 'video/mp4' }) });
@@ -2362,7 +2363,7 @@ function circuitLabel(c) {
     if (!confirm(`删除视频「${v.name}」？${v.type === 'r2' ? '云端文件会一并删除。' : ''}`)) return;
     if (v.type === 'r2' && v.key) {
       try {
-        await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        await fetch(CATHY_VIDEO_WORKER_URL + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ action: 'video_delete', key: v.key }) });
       } catch(e) {}
     }
@@ -2382,7 +2383,7 @@ function circuitLabel(c) {
     v.url = yt.trim();
     saveVideos();
     try {
-      await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      await fetch(CATHY_VIDEO_WORKER_URL + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'video_delete', key: v.key }) });
     } catch(e) {}
     renderVideoLibrary();
