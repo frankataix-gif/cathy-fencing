@@ -2367,7 +2367,7 @@ function circuitLabel(c) {
             date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10),
             event: v.eventName || '', bout: v.boutLabel || v.bout || '',
             opponent: v.opponent || '', score: v.boutScore || v.score || '',
-            place: t ? [t.city, t.state].filter(Boolean).join(', ') : ''
+            place: t ? [t.city, t.state, 'USA'].filter(Boolean).join(', ') : (v.country || '')
           };
         })};
         await videoWorkerPost({ action: 'feed_save', feed });
