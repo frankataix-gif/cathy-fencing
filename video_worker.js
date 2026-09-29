@@ -455,6 +455,7 @@ function renderCoachPage(token, meta, t) {
   .apv video{width:100%;display:block;max-height:52vh}
   .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
   .apload{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#e2e8f0;font-size:.9rem;background:rgba(2,6,23,.55);pointer-events:none;z-index:5}
+  .apreset{position:absolute;right:8px;bottom:8px;background:rgba(37,99,235,.9);color:#fff;border:none;border-radius:999px;padding:7px 14px;font-size:.78rem;font-weight:600;z-index:6;display:none;cursor:pointer}
   .apseek{position:relative;height:20px;margin-top:6px}
   .apseek input{width:100%;-webkit-appearance:none;appearance:none;height:4px;background:#334155;border-radius:4px;outline:none;margin:8px 0}
   .apmarks{position:absolute;left:0;right:0;top:7px;height:8px;pointer-events:none}
@@ -493,7 +494,7 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
 <button class="apclose" onclick="closeAnalysis()">✕</button>
-<div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apload" id="apLoad" style="display:none">⏳ ${esc(t.loading)}</div><div class="apflash" id="apFlash"></div></div>
+<div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apload" id="apLoad" style="display:none">⏳ ${esc(t.loading)}</div><button class="apreset" id="apReset" onclick="apZoomReset()">⟲ 1x</button><div class="apflash" id="apFlash"></div></div>
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
@@ -677,29 +678,55 @@ function apStepSet(s, btn){
   document.getElementById("apBack").textContent = "⏪ " + s + "s";
   document.getElementById("apFwd").textContent = s + "s ⏩";
 }
-function apZoomSet(z, btn){
-  apZoom = z;
-  btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
-  if(apV) apV.style.transform = z > 1 ? "scale(" + z + ")" : "";
+let pzX = 0, pzY = 0;
+function apXf(){
+  const box = document.querySelector(".apv");
+  if(!box || !apV) return;
+  const mx = Math.max(0, (apZoom - 1) / 2) * box.clientWidth;
+  const my = Math.max(0, (apZoom - 1) / 2) * box.clientHeight;
+  pzX = Math.max(-mx, Math.min(mx, pzX)); pzY = Math.max(-my, Math.min(my, pzY));
+  apV.style.transform = apZoom > 1.02 ? "translate(" + pzX + "px," + pzY + "px) scale(" + apZoom + ")" : "";
+  const r = document.getElementById("apReset");
+  if(r) r.style.display = apZoom > 1.02 ? "block" : "none";
 }
-// 双指捏合缩放视频（只放大画面，不动页面）
+function apZoomReset(){
+  apZoom = 1; pzX = pzY = 0;
+  const misc = document.getElementById("apMisc");
+  if(misc) misc.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b.dataset.z === "1"));
+  apXf();
+}
+function apZoomSet(z, btn){
+  apZoom = z; pzX = pzY = 0;
+  btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
+  apXf();
+}
+// 双指捏合缩放 + 放大后单指拖动平移（只动视频画面）
 (function(){
   const box = document.querySelector(".apv");
   if(!box) return;
-  let d0 = 0, z0 = 1, pinching = false;
+  let d0 = 0, z0 = 1, pinching = false, panning = false, moved = false, sx = 0, sy = 0, px0 = 0, py0 = 0;
   const dist = function(e){ return Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY); };
   box.addEventListener("touchstart", function(e){
-    if(e.touches.length === 2){ pinching = true; d0 = dist(e); z0 = apZoom; }
+    if(e.touches.length === 2){ pinching = true; panning = false; d0 = dist(e); z0 = apZoom; }
+    else if(e.touches.length === 1 && apZoom > 1.02){ panning = true; moved = false; sx = e.touches[0].clientX; sy = e.touches[0].clientY; px0 = pzX; py0 = pzY; }
   }, {passive:true});
   box.addEventListener("touchmove", function(e){
     if(pinching && e.touches.length === 2){
       e.preventDefault();
       apZoom = Math.max(1, Math.min(3, z0 * dist(e) / d0));
-      if(apV) apV.style.transform = apZoom > 1.02 ? "scale(" + apZoom + ")" : "";
+      apXf();
+    } else if(panning && e.touches.length === 1){
+      const dx = e.touches[0].clientX - sx, dy = e.touches[0].clientY - sy;
+      if(!moved && Math.abs(dx) + Math.abs(dy) < 8) return;   // 轻点不当作拖动
+      moved = true;
+      e.preventDefault();
+      pzX = px0 + dx; pzY = py0 + dy;
+      apXf();
     }
   }, {passive:false});
   box.addEventListener("touchend", function(e){
     if(e.touches.length < 2){ if(pinching) window._pzT = Date.now(); pinching = false; }
+    if(e.touches.length === 0){ if(panning && moved) window._pzT = Date.now(); panning = false; }
   }, {passive:true});
 })();
 function apSpeed(x, btn){ apSpd = x; if(apV) apV.playbackRate = x; btn.parentNode.querySelectorAll("[data-sp]").forEach(b => b.classList.toggle("on", b === btn)); }
