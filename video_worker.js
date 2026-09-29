@@ -613,7 +613,9 @@ function closeAnalysis(){
   if(apV) apV.pause();
   apVid = null;
 }
+function apWake(){ if(acCtx && acCtx.state === "suspended") acCtx.resume().catch(function(){}); }
 function apToggle(){
+  apWake();
   if(Date.now() - (window._pzT || 0) < 500) return;   // 捏合缩放刚结束，忽略误触单击
   const b = document.getElementById("apPlayBtn");
   if(apV.paused){ apV.play().catch(function(){}); b.textContent = "❚❚"; apFlash("▶"); }
@@ -633,6 +635,7 @@ function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apP
 // 点按跳秒=跳后自动播放（前后对称）；按住前进=变速播放，按住后退=大步连续回扫
 let hT = null, hI = null, hBtn = null, apSpd = 1;
 function hStart(mode, dir, btn){
+  apWake();
   hEnd();
   hBtn = btn;
   if(btn) btn.classList.add('hold');
@@ -727,7 +730,7 @@ function apVolIn(el){
       acGain = acCtx.createGain();
       acSrc.connect(acGain); acGain.connect(acCtx.destination);
     }
-    if(acCtx.state === "suspended") acCtx.resume();
+    apWake();
     acGain.gain.value = v;
   }catch(e){ apV.volume = v; }
 }
