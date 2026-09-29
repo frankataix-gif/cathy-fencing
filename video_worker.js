@@ -626,16 +626,22 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-// 按住=连续动作（帧按钮连续走帧、跳秒按钮连续跳）；点按=单次
+// 按住=画面连续移动（帧按钮逐帧蠕放、跳秒按钮平滑快刷）；点按=单次
 let hT = null, hI = null, hBtn = null;
-function hAct(mode, dir){ (mode === 'f' ? apStep : apSkip)(dir); }
+function hAct(mode, dir){
+  const v = apV();
+  if(!v) return;
+  v.pause(); pauseS();
+  if(mode === 'f') v.currentTime = Math.max(0, v.currentTime + dir * (1/24));
+  else v.currentTime = Math.max(0, Math.min(v.duration || 1e9, v.currentTime + dir * (AP.step / 10)));
+}
 function hStart(mode, dir, btn){
   hEnd();
   hBtn = btn;
   if(btn) btn.classList.add('hold');
-  hAct(mode, dir);                                          // 按下即执行一次
-  hT = setTimeout(function(){                               // 按住 350ms 后进入连续模式
-    hI = setInterval(function(){ hAct(mode, dir); }, mode === 'f' ? 70 : 350);
+  (mode === 'f' ? apStep : apSkip)(dir);                    // 按下即执行一次完整步进
+  hT = setTimeout(function(){                               // 按住 350ms 后进入连续蠕放
+    hI = setInterval(function(){ hAct(mode, dir); }, mode === 'f' ? 40 : 100);
   }, 350);
 }
 function hEnd(btn){
