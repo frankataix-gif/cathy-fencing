@@ -594,12 +594,17 @@ function openAnalysis(vid){
   document.getElementById("ap").style.display = "block";
   apV = document.getElementById("apVideo");
   const ld = document.getElementById("apLoad");
+  const ldShow = function(){ if(apV && (apV.seeking || apV.readyState < 3)) ld.style.display = "flex"; };
+  const ldHide = function(){ if(!apV || (!apV.seeking && apV.readyState >= 3)) ld.style.display = "none"; };
   if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; ld.style.display = "flex"; apV.src = v.url; apV.load(); }
-  apV.onloadstart = function(){ ld.style.display = "flex"; };
-  apV.onwaiting  = function(){ ld.style.display = "flex"; };
-  apV.oncanplay  = function(){ ld.style.display = "none"; };
-  apV.onseeked   = function(){ ld.style.display = "none"; };
-  apV.onerror    = function(){ ld.style.display = "none"; };
+  else ldHide();
+  apV.onloadstart = ldShow;
+  apV.onwaiting  = ldShow;
+  apV.onseeking  = ldShow;
+  apV.oncanplay  = ldHide;
+  apV.onplaying  = ldHide;
+  apV.onseeked   = ldHide;
+  apV.onerror    = ldHide;
   const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
   document.getElementById("apVolRow").style.display = iOS ? "none" : "flex";
   document.getElementById("apVolNote").style.display = iOS ? "block" : "none";
@@ -744,6 +749,8 @@ function apSeekIn(el){ if(apV && apV.duration) apV.currentTime = el.value / 1000
 function apSeekTo(t){ if(apV) apV.currentTime = t; }
 function apTick(){
   if(!apV || !apV.duration) return;
+  const ld = document.getElementById("apLoad");
+  if(ld && !apV.seeking && apV.readyState >= 3) ld.style.display = "none";   // 兜底：画面在动就关掉加载层
   document.getElementById("apSeek").value = Math.round(apV.currentTime / apV.duration * 1000);
   document.getElementById("apTime").textContent = fmtT(apV.currentTime) + " / " + fmtT(apV.duration);
   // 进度条上的点评红点
