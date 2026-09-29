@@ -20652,3 +20652,32 @@ Want some tips for having a successful teacher parent conference? Click here
     <link href="https://www.yorkhouse.ca/Templates/YorkHouse/css/site-emai
 
 ---
+
+## [Cathy&David] Meadowridge School - Booking confirmation
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-09-29T10:01:09.000Z
+**摘要:** 确认Cathy在Meadowridge School的面对面教师会议安排，时间地点已明确
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a0ec9c73e76395a
+
+Hello Natalie,
+
+This is to confirm that you have scheduled the following appointments:
+
+School: Meadowridge School
+Type: FACE TO FACE CONFERENCE
+Date and Time: Tuesday October 6, 2026 at 1:00 PM - 1:20 PM
+Teacher: Ms. Darcie Hook
+Location: ADVISORY ROOM 
+Student: Cathy
+
+
+You can view, print or cancel your bookings by returning to 
+https://meadowridge.schoolsoft.com/login.jsf.
+
+*Want some tips for having a successful teacher parent conference? Click 
+here <https://www.schoolsoft.com/conference-ti
+
+---
