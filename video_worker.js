@@ -459,16 +459,17 @@ function renderCoachPage(token, meta, t) {
   .apmarks{position:absolute;left:0;right:0;top:7px;height:8px;pointer-events:none}
   .apmark{position:absolute;width:8px;height:8px;border-radius:50%;background:#ef4444;transform:translateX(-50%);pointer-events:auto;cursor:pointer}
   .aptime{color:#94a3b8;font-size:.72rem;text-align:right}
-  .apctl{display:flex;gap:6px;margin-top:6px}
-  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:10px;padding:10px 4px;font-size:.85rem;flex:1;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;touch-action:manipulation}
+  .apctl{display:flex;gap:6px;margin-top:8px}
+  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:12px;padding:16px 4px;font-size:1.05rem;font-weight:600;flex:1;cursor:pointer;min-height:52px;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;touch-action:manipulation}
+  .apctl button:active{background:#334155}
   .apsp{display:flex;gap:6px;justify-content:center;margin-top:6px}
-  .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:4px 12px;font-size:.78rem;cursor:pointer}
+  .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:7px 14px;font-size:.85rem;cursor:pointer;min-height:36px}
   .apsp button.on{background:#2563eb;color:#fff;border-color:#2563eb}
   .aplbl{color:#64748b;font-size:.75rem;align-self:center;margin:0 2px 0 8px}
   .apvol{display:flex;align-items:center;gap:8px;margin-top:8px;color:#94a3b8;font-size:.82rem}
   .apvol input{flex:1}
   .aptags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
-  .aptags button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:4px 10px;font-size:.74rem;cursor:pointer}
+  .aptags button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:7px 12px;font-size:.82rem;cursor:pointer;min-height:36px}
   .aptags button.on{background:#065f46;border-color:#10b981;color:#fff}
   .apclose{position:absolute;top:8px;right:10px;background:#334155;color:#fff;border:none;border-radius:50%;width:34px;height:34px;font-size:1rem;z-index:101;cursor:pointer}
   .tag{display:inline-block;background:#e0e7ff;color:#3730a3;font-size:.66rem;font-weight:600;padding:0 7px;border-radius:999px;margin-right:4px}
