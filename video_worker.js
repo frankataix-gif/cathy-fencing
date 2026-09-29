@@ -354,6 +354,10 @@ function renderCoachPage(token, meta, t) {
   .hd{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;padding:16px 16px 12px;box-shadow:0 2px 8px rgba(30,58,138,.25)}
   .cname{font-size:1.35rem;font-weight:800;letter-spacing:.2px}
   .csub{font-size:0.82rem;opacity:.85;margin-top:3px}
+  .stu{display:flex;align-items:center;gap:12px;background:#fff;border-radius:12px;padding:10px 14px;margin-top:10px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  .stu .av{width:42px;height:42px;border-radius:50%;background:#e0e7ff;display:flex;align-items:center;justify-content:center;font-size:1.2rem;flex:none}
+  .stu .sname{font-weight:700;font-size:0.95rem}
+  .stu .smeta{font-size:0.75rem;color:#64748b;margin-top:1px}
   .newb{display:inline-block;margin-top:8px;background:#22c55e;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 10px;border-radius:999px}
   .tip{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:10px;padding:8px 10px;font-size:0.76rem;margin:10px 0;line-height:1.5}
   .statusbar{display:flex;justify-content:space-between;align-items:center;font-size:0.72rem;color:#64748b;margin:2px 2px 10px}
@@ -394,8 +398,11 @@ function renderCoachPage(token, meta, t) {
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
 <div class="hd">
   <div class="cname">🛡 Coach ${esc(meta.name)}</div>
-  <div class="csub" id="stuLine">Cathy He · Foil · Vancouver — ${esc(t.student)}</div>
   <span class="newb" id="newBadge" style="display:none"></span>
+</div>
+<div class="stu">
+  <div class="av">🤺</div>
+  <div><div class="sname" id="stuName">Cathy He</div><div class="smeta" id="stuLine">Foil · Vancouver — ${esc(t.student)}</div></div>
 </div>
 <div class="tip">🤖 ${esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
@@ -444,7 +451,8 @@ async function load(manual){
     const stu = d.feed.student;
     if(stu){
       const age = stu.birth ? Math.floor((Date.now() - new Date(stu.birth).getTime()) / 31557600000) : null;
-      document.getElementById("stuLine").textContent = [stu.name, stu.weapon, stu.birth ? "🎂 " + stu.birth + (age ? " (" + age + ")" : "") : "", T.student].filter(Boolean).join(" · ");
+      document.getElementById("stuName").textContent = stu.name || "Cathy He";
+      document.getElementById("stuLine").textContent = [stu.weapon, stu.birth ? "🎂 " + stu.birth + (age ? " (" + age + ")" : "") : "", stu.home, T.student].filter(Boolean).join(" · ");
     }
     vids = d.feed.videos || [];
     cmts = d.comments || [];
