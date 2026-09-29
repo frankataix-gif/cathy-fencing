@@ -345,8 +345,12 @@ function renderCoachPage(token, meta, t) {
 <style>
   body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;margin:0;background:#f1f5f9;color:#1e293b}
   .wrap{max-width:640px;margin:0 auto;padding:12px}
-  .langbar{display:flex;justify-content:flex-end;margin-bottom:6px}
+  .langbar{display:flex;flex-direction:column;align-items:flex-end;margin-bottom:6px}
   .langbar select{font-size:0.85rem;padding:4px 8px;border:1px solid #d1d5db;border-radius:8px;background:#fff}
+  .langbar select.pulse{animation:pulse 1.6s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(37,99,235,.55)}70%{box-shadow:0 0 0 10px rgba(37,99,235,0)}100%{box-shadow:0 0 0 0 rgba(37,99,235,0)}}
+  .langhint{display:none;position:relative;margin-top:6px;background:#0f172a;color:#fff;font-size:0.78rem;padding:6px 12px;border-radius:10px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25)}
+  .langhint::before{content:'';position:absolute;top:-6px;right:34px;border:6px solid transparent;border-bottom-color:#0f172a;border-top:none}
   .hd{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;padding:16px 16px 12px;box-shadow:0 2px 8px rgba(30,58,138,.25)}
   .cname{font-size:1.35rem;font-weight:800;letter-spacing:.2px}
   .csub{font-size:0.82rem;opacity:.85;margin-top:3px}
@@ -386,7 +390,8 @@ function renderCoachPage(token, meta, t) {
   .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
 </style></head><body><div class="wrap">
-<div class="langbar">🌐 <select onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></div>
+<div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
+<div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
 <div class="hd">
   <div class="cname">🛡 Coach ${esc(meta.name)}</div>
   <div class="csub">Cathy He · Foil · Vancouver — ${esc(t.student)}</div>
@@ -406,6 +411,20 @@ const TOKEN = ${JSON.stringify(token)};
 const T = ${JSON.stringify(t)};
 let vids = [], cmts = [], lastSeen = 0, boutVid = {};
 const openCmts = {};
+// 首开引导：气泡+脉冲指向语言选择器，点掉或选语言后不再出现
+const hintKey = "langHinted_" + TOKEN;
+function dismissHint(){
+  try{ localStorage.setItem(hintKey, "1"); }catch(e){}
+  const lh = document.getElementById("langHint"), sel = document.getElementById("langSel");
+  if(lh) lh.style.display = "none";
+  if(sel) sel.classList.remove("pulse");
+}
+try{
+  if(!localStorage.getItem(hintKey)){
+    const lh = document.getElementById("langHint"), sel = document.getElementById("langSel");
+    if(lh && sel){ lh.style.display = "block"; sel.classList.add("pulse"); lh.onclick = dismissHint; }
+  }
+}catch(e){}
 function escH(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","\\'":"&#39;"}[c]))}
 function ago(ts){
   if(!ts) return "";
@@ -548,6 +567,7 @@ async function setLang(v){
     if(!v || !v.trim()) return;
     v = v.trim();
   }
+  dismissHint();
   try{
     await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_setlang", token: TOKEN, lang: v})});
     location.reload();
