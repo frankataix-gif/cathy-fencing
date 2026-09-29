@@ -505,7 +505,8 @@ function renderCoachPage(token, meta, t) {
   <button id="apFwd" onpointerdown="hStart('s',1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
-<div class="apvol">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
+<div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
+<div class="apvol" id="apVolNote" style="display:none;font-size:.75rem">📱 音量请用设备音量键调节 · Volume: use device buttons</div>
 <div class="aptags" id="apTags"></div>
 <div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
 <div class="cmts" id="apCmts" style="margin-top:8px"></div>
@@ -597,7 +598,10 @@ function openAnalysis(vid){
   apV.oncanplay  = function(){ ld.style.display = "none"; };
   apV.onseeked   = function(){ ld.style.display = "none"; };
   apV.onerror    = function(){ ld.style.display = "none"; };
-  apVolIn(document.getElementById("apVol"));
+  const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  document.getElementById("apVolRow").style.display = iOS ? "none" : "flex";
+  document.getElementById("apVolNote").style.display = iOS ? "block" : "none";
+  if(!iOS) apVolIn(document.getElementById("apVol"));
   apV.ontimeupdate = apTick; apV.onloadedmetadata = apTick;
   apV.onended = function(){ document.getElementById("apPlayBtn").textContent = "▶"; };
   const sp = document.getElementById("apSp");
