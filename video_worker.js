@@ -451,7 +451,7 @@ function renderCoachPage(token, meta, t) {
   /* ===== 分析播放器（点评用）===== */
   .ap{display:none;position:fixed;inset:0;background:rgba(2,6,23,.95);z-index:100;overflow:auto}
   .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
-  .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:manipulation}
+  .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:none}
   .apv video{width:100%;display:block;max-height:52vh}
   .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
   .apload{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#e2e8f0;font-size:.9rem;background:rgba(2,6,23,.55);pointer-events:none;z-index:5}
@@ -618,6 +618,7 @@ function closeAnalysis(){
   apVid = null;
 }
 function apToggle(){
+  if(Date.now() - (window._pzT || 0) < 500) return;   // 捏合缩放刚结束，忽略误触单击
   const b = document.getElementById("apPlayBtn");
   if(apV.paused){ apV.play().catch(function(){}); b.textContent = "❚❚"; apFlash("▶"); }
   else { apV.pause(); b.textContent = "▶"; apFlash("❚❚"); }
@@ -681,6 +682,26 @@ function apZoomSet(z, btn){
   btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
   if(apV) apV.style.transform = z > 1 ? "scale(" + z + ")" : "";
 }
+// 双指捏合缩放视频（只放大画面，不动页面）
+(function(){
+  const box = document.querySelector(".apv");
+  if(!box) return;
+  let d0 = 0, z0 = 1, pinching = false;
+  const dist = function(e){ return Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY); };
+  box.addEventListener("touchstart", function(e){
+    if(e.touches.length === 2){ pinching = true; d0 = dist(e); z0 = apZoom; }
+  }, {passive:true});
+  box.addEventListener("touchmove", function(e){
+    if(pinching && e.touches.length === 2){
+      e.preventDefault();
+      apZoom = Math.max(1, Math.min(3, z0 * dist(e) / d0));
+      if(apV) apV.style.transform = apZoom > 1.02 ? "scale(" + apZoom + ")" : "";
+    }
+  }, {passive:false});
+  box.addEventListener("touchend", function(e){
+    if(e.touches.length < 2){ if(pinching) window._pzT = Date.now(); pinching = false; }
+  }, {passive:true});
+})();
 function apSpeed(x, btn){ apSpd = x; if(apV) apV.playbackRate = x; btn.parentNode.querySelectorAll("[data-sp]").forEach(b => b.classList.toggle("on", b === btn)); }
 // 背景音量：iOS 忽略 video.volume，用 WebAudio 增益节点控制（失败则退回 volume）
 function apVolIn(el){
