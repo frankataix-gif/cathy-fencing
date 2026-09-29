@@ -231,6 +231,18 @@ export default {
         return json({ ok: true });
       }
 
+      // 改名：同步教练页显示的名字
+      if (body.action === 'coach_rename') {
+        const token = String(body.token || '');
+        const name = String(body.name || '').slice(0, 60).trim();
+        if (!/^[a-z0-9]{16,64}$/i.test(token) || !name) return json({ error: 'bad request' }, 400);
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return json({ error: 'invalid link' }, 404);
+        meta.name = name;
+        await writeJson(env, `coach/meta_${token}.json`, meta);
+        return json({ ok: true });
+      }
+
       if (body.action === 'coach_revoke') {
         const token = String(body.token || '');
         if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);

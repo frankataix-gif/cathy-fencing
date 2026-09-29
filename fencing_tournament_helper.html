@@ -2382,8 +2382,48 @@ function circuitLabel(c) {
     saveCoaches();
     renderVideoPage();
     const url = `${CATHY_VIDEO_WORKER_URL}/coach/${token}`;
-    if (navigator.clipboard) { try { await navigator.clipboard.writeText(url); alert('教练链接已复制：\n' + url); } catch(e) { prompt('教练链接：', url); } }
-    else prompt('教练链接：', url);
+    try { await navigator.clipboard.writeText(url); showToast('链接已复制，发给 ' + name.trim() + ' 即可'); }
+    catch(e) { showToast('已创建，点「复制链接」发给 ' + name.trim()); }
+  }
+  function showToast(msg) {
+    let t = document.getElementById('app-toast');
+    if (!t) {
+      t = document.createElement('div');
+      t.id = 'app-toast';
+      t.style.cssText = 'position:fixed; left:50%; bottom:80px; transform:translateX(-50%); background:rgba(15,23,42,.92); color:#fff; font-size:0.82rem; padding:8px 16px; border-radius:999px; z-index:9999; transition:opacity .3s; pointer-events:none;';
+      document.body.appendChild(t);
+    }
+    t.textContent = msg;
+    t.style.opacity = '1';
+    clearTimeout(t._h);
+    t._h = setTimeout(() => { t.style.opacity = '0'; }, 1800);
+  }
+  // 教练行 ⋮ 菜单：改名 / 撤销
+  function closeCoachMenu() { const m = document.getElementById('coach-menu-pop'); if (m) m.remove(); }
+  function coachMenu(id, btn) {
+    closeCoachMenu();
+    const m = document.createElement('div');
+    m.id = 'coach-menu-pop';
+    m.style.cssText = 'position:absolute; z-index:999; background:#fff; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 4px 16px rgba(0,0,0,.14); padding:4px; min-width:128px;';
+    const item = 'display:block; width:100%; text-align:left; border:none; background:none; font-size:0.85rem; padding:8px 10px; border-radius:6px; cursor:pointer;';
+    m.innerHTML = `<button style="${item}" onclick="renameCoach('${id}');closeCoachMenu();">✏️ 修改名称</button>
+      <button style="${item} color:#b91c1c;" onclick="revokeCoach('${id}');closeCoachMenu();">🗑 撤销链接</button>`;
+    document.body.appendChild(m);
+    const r = btn.getBoundingClientRect();
+    m.style.top = (r.bottom + window.scrollY + 4) + 'px';
+    m.style.left = Math.min(r.right - 128, window.innerWidth - 140) + 'px';
+    m.addEventListener('click', e => e.stopPropagation());
+    setTimeout(() => document.addEventListener('click', closeCoachMenu, { once: true }), 0);
+  }
+  async function renameCoach(id) {
+    const c = coaches.find(x => x.id === id);
+    if (!c) return;
+    const name = prompt('修改教练名称：', c.name);
+    if (!name || !name.trim() || name.trim() === c.name) return;
+    c.name = name.trim();
+    saveCoaches();
+    try { await videoWorkerPost({ action: 'coach_rename', token: c.token, name: c.name }); } catch(e) {}
+    renderVideoPage();
   }
   async function revokeCoach(id) {
     const c = coaches.find(x => x.id === id);
@@ -2572,7 +2612,7 @@ function circuitLabel(c) {
                 <div style="font-size:0.72rem; color:var(--gray); margin-top:2px;">创建于 ${(c.createdAt || '').slice(0, 10)}${n ? ' · 💬 ' + n + ' 条留言' : ''}</div>
               </div>
               <button class="btn secondary" style="font-size:0.75rem; padding:5px 10px;" onclick="copyCoachLink('${c.id}')">📋 复制链接</button>
-              <button class="btn danger" style="font-size:0.75rem; padding:5px 10px;" onclick="revokeCoach('${c.id}')">撤销</button>
+              <button class="btn secondary" style="font-size:0.85rem; padding:5px 10px;" onclick="coachMenu('${c.id}', this)" title="更多">⋮</button>
             </div>`;
           }).join('')
         : '<span style="font-size:0.8rem; color:var(--gray);">还没有教练——点下方「+ 新建教练」生成专属链接</span>';
