@@ -593,19 +593,9 @@
       </div>
 
       <div id="vpane-coaches" class="vpane" style="display:none;">
-        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">每位教练一条专属链接，把链接发给谁，谁就能看「共享」区的视频并留言。教练之间互不可见。</p>
+        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">每位教练一条专属链接，把链接发给谁，谁就能看「共享」区的视频并留言。教练之间互不可见，留言自动互译。</p>
         <div id="coach-links-bar" style="margin-bottom:12px;"></div>
-        <div style="display:flex; gap:8px; flex-wrap:wrap;">
-          <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练链接</button>
-          <label style="font-size:0.75rem; color:var(--gray); align-self:center;">我的留言语言
-            <select id="family-lang" style="font-size:0.8rem; padding:3px 6px; border:1px solid #d1d5db; border-radius:6px;">
-              <option value="zh">中文</option><option value="zh-TW">繁體中文</option><option value="en">English</option>
-              <option value="it">italiano</option><option value="fr">français</option><option value="es">español</option>
-              <option value="de">Deutsch</option><option value="ja">日本語</option><option value="ko">한국어</option>
-              <option value="ru">русский</option><option value="pt">português</option><option value="ar">العربية</option>
-            </select>
-          </label>
-        </div>
+        <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练</button>
       </div>
     </div>
   </div>
@@ -2359,11 +2349,9 @@ function circuitLabel(c) {
     }, 800);
   }
   async function addCoachLink() {
-    const name = prompt('教练名称（如：意大利教练 Mario）：', '');
+    const name = prompt('教练名称（如：Amir）：', '');
     if (!name || !name.trim()) return;
-    const langMap = { '1': 'zh', '2': 'zh-TW', '3': 'en', '4': 'it', '5': 'fr', '6': 'es', '7': 'ar', '8': 'de', '9': 'ja', '10': 'ko', '11': 'ru', '12': 'hu' };
-    const pick = prompt('教练初始语言（之后教练可在页面自行更改）：\n1=中文简体 2=中文繁体 3=English 4=Italiano 5=Français 6=Español 7=العربية 8=Deutsch 9=日本語 10=한국어 11=Русский 12=Magyar\n或直接输入语言名（如 فارسی）', '3');
-    const lang = langMap[pick] || (pick && pick.trim()) || 'en';
+    const lang = 'en'; // 界面默认英文，教练打开后可在页面右上角自选语言
     const token = newCoachToken();
     const r = await videoWorkerPost({ action: 'coach_register', token, name: name.trim(), lang });
     if (r.error) { alert('创建失败：' + r.error); return; }
@@ -2551,12 +2539,18 @@ function circuitLabel(c) {
     const bar = document.getElementById('coach-links-bar');
     if (bar) {
       bar.innerHTML = coaches.length
-        ? coaches.map(c => `<span class="tag" style="display:inline-flex; align-items:center; gap:4px; background:#eef2ff; color:#3730a3; padding:4px 8px;">
-            ${LANG_LABEL[c.lang] || c.lang} ${escapeHtml(c.name)}
-            <a href="#" onclick="copyCoachLink('${c.id}');return false;" style="color:#3730a3;" title="复制链接">📋</a>
-            <a href="#" onclick="revokeCoach('${c.id}');return false;" style="color:#b91c1c;" title="撤销">×</a>
-          </span>`).join(' ')
-        : '<span style="font-size:0.8rem; color:var(--gray);">还没有教练链接——点「新建教练链接」生成后发给教练</span>';
+        ? coaches.map(c => {
+            const n = (coachComments[c.token] || []).length;
+            return `<div style="display:flex; align-items:center; gap:10px; padding:10px 12px; border:1px solid #e5e7eb; border-radius:10px; margin-bottom:8px; background:#fff;">
+              <div style="flex:1; min-width:120px;">
+                <div style="font-weight:700; font-size:0.95rem;">👤 ${escapeHtml(c.name)}</div>
+                <div style="font-size:0.72rem; color:var(--gray); margin-top:2px;">创建于 ${(c.createdAt || '').slice(0, 10)}${n ? ' · 💬 ' + n + ' 条留言' : ''}</div>
+              </div>
+              <button class="btn secondary" style="font-size:0.75rem; padding:5px 10px;" onclick="copyCoachLink('${c.id}')">📋 复制链接</button>
+              <button class="btn danger" style="font-size:0.75rem; padding:5px 10px;" onclick="revokeCoach('${c.id}')">撤销</button>
+            </div>`;
+          }).join('')
+        : '<span style="font-size:0.8rem; color:var(--gray);">还没有教练——点下方「+ 新建教练」生成专属链接</span>';
     }
     const stat = document.getElementById('video-lib-stat2');
     if (stat) {
@@ -5515,11 +5509,6 @@ function circuitLabel(c) {
     if (vst) vst.addEventListener('click', (e) => {
       if (e.target.dataset && e.target.dataset.vtab) switchVideoTab(e.target.dataset.vtab);
     });
-    const fl = document.getElementById('family-lang');
-    if (fl) {
-      fl.value = getLocal('cathy_family_lang', 'zh') || 'zh';
-      fl.addEventListener('change', () => { saveToLocal('cathy_family_lang', fl.value); syncCoachFeed(); });
-    }
   }
 
   function initTabs() {
