@@ -454,7 +454,8 @@ function renderCoachPage(token, meta, t) {
   /* ===== 分析播放器（点评用）===== */
   .ap{display:none;position:fixed;inset:0;background:rgba(2,6,23,.95);z-index:100;overflow:auto}
   .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
-  .apv{position:sticky;top:0;z-index:60;background:#000;border-radius:12px;overflow:hidden;touch-action:none}
+  .apstick{position:sticky;top:0;z-index:60;background:rgba(2,6,23,.97);padding-top:4px;border-radius:12px}
+  .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:none}
   .apv video{width:100%;display:block;max-height:52vh}
   .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
   .apload{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#e2e8f0;font-size:.9rem;background:rgba(2,6,23,.55);pointer-events:none;z-index:5}
@@ -476,7 +477,7 @@ function renderCoachPage(token, meta, t) {
   .aptags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
   .aptags button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:7px 12px;font-size:.82rem;cursor:pointer;min-height:36px}
   .aptags button.on{background:#065f46;border-color:#10b981;color:#fff}
-  .apclose{position:absolute;top:8px;right:10px;background:#334155;color:#fff;border:none;border-radius:50%;width:34px;height:34px;font-size:1rem;z-index:101;cursor:pointer}
+  .apclose{position:fixed;top:10px;right:12px;background:#334155;color:#fff;border:none;border-radius:50%;width:34px;height:34px;font-size:1rem;z-index:101;cursor:pointer}
   .tag{display:inline-block;background:#e0e7ff;color:#3730a3;font-size:.66rem;font-weight:600;padding:0 7px;border-radius:999px;margin-right:4px}
   .anchor{color:#2563eb;font-size:.72rem;font-weight:700;margin-right:4px;cursor:pointer}
   .au{display:flex;align-items:center;gap:8px;margin:4px 0}
@@ -502,6 +503,7 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
 <button class="apclose" onclick="closeAnalysis()">✕</button>
+<div class="apstick">
 <div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apload" id="apLoad" style="display:none">⏳ ${esc(t.loading)}</div><button class="apreset" id="apReset" onclick="apZoomReset()">⟲ 1x</button><div class="apflash" id="apFlash"></div></div>
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
@@ -513,6 +515,7 @@ function renderCoachPage(token, meta, t) {
   <button id="apFwd" onpointerdown="hStart('s',1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
+</div>
 <div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
 <div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
 <div class="aptags" id="apTags"></div>
