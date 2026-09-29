@@ -36,6 +36,26 @@ const LANG_NAME = {
 };
 // 击剑主流语言选项（顺序 = 常见度）
 const LANG_OPTIONS = ['en', 'it', 'fr', 'zh', 'zh-TW', 'ja', 'ko', 'ru', 'hu', 'es', 'ar', 'de', 'pt', 'uk', 'pl', 'fa', 'ro', 'tr'];
+// 项目名本地化：只翻「性别+剑种」短语，赛事名/人名保持原文
+const EV_I18N = {
+  zh: { "Women's Foil": '女子花剑', "Men's Foil": '男子花剑', "Women's Epee": '女子重剑', "Men's Epee": '男子重剑', "Women's Sabre": '女子佩剑', "Men's Sabre": '男子佩剑' },
+  'zh-TW': { "Women's Foil": '女子花劍', "Men's Foil": '男子花劍', "Women's Epee": '女子重劍', "Men's Epee": '男子重劍', "Women's Sabre": '女子佩劍', "Men's Sabre": '男子佩劍' },
+  it: { "Women's Foil": 'fioretto femminile', "Men's Foil": 'fioretto maschile', "Women's Epee": 'spada femminile', "Men's Epee": 'spada maschile', "Women's Sabre": 'sciabola femminile', "Men's Sabre": 'sciabola maschile' },
+  fr: { "Women's Foil": 'fleuret femmes', "Men's Foil": 'fleuret hommes', "Women's Epee": 'épée femmes', "Men's Epee": 'épée hommes', "Women's Sabre": 'sabre femmes', "Men's Sabre": 'sabre hommes' },
+  es: { "Women's Foil": 'florete femenino', "Men's Foil": 'florete masculino', "Women's Epee": 'espada femenina', "Men's Epee": 'espada masculina', "Women's Sabre": 'sable femenino', "Men's Sabre": 'sable masculino' },
+  de: { "Women's Foil": 'Damenflorett', "Men's Foil": 'Herrenflorett', "Women's Epee": 'Damendegen', "Men's Epee": 'Herrendegen', "Women's Sabre": 'Damensäbel', "Men's Sabre": 'Herrensäbel' },
+  ja: { "Women's Foil": '女子フルーレ', "Men's Foil": '男子フルーレ', "Women's Epee": '女子エペ', "Men's Epee": '男子エペ', "Women's Sabre": '女子サーベル', "Men's Sabre": '男子サーベル' },
+  ko: { "Women's Foil": '여자 플뢰레', "Men's Foil": '남자 플뢰레', "Women's Epee": '여자 에페', "Men's Epee": '남자 에페', "Women's Sabre": '여자 사브르', "Men's Sabre": '남자 사브르' },
+  ru: { "Women's Foil": 'женская рапира', "Men's Foil": 'мужская рапира', "Women's Epee": 'женская шпага', "Men's Epee": 'мужская шпага', "Women's Sabre": 'женская сабля', "Men's Sabre": 'мужская сабля' },
+  hu: { "Women's Foil": 'női tőr', "Men's Foil": 'férfi tőr', "Women's Epee": 'női párbajtőr', "Men's Epee": 'férfi párbajtőr', "Women's Sabre": 'női kard', "Men's Sabre": 'férfi kard' },
+  pt: { "Women's Foil": 'florete feminino', "Men's Foil": 'florete masculino', "Women's Epee": 'espada feminina', "Men's Epee": 'espada masculina', "Women's Sabre": 'sabre feminino', "Men's Sabre": 'sabre masculino' },
+  uk: { "Women's Foil": 'жіноча рапіра', "Men's Foil": 'чоловіча рапіра', "Women's Epee": 'жіноча шпага', "Men's Epee": 'чоловіча шпага', "Women's Sabre": 'жіноча шабля', "Men's Sabre": 'чоловіча шабля' },
+  pl: { "Women's Foil": 'floret kobiet', "Men's Foil": 'floret mężczyzn', "Women's Epee": 'szpada kobiet', "Men's Epee": 'szpada mężczyzn', "Women's Sabre": 'szabla kobiet', "Men's Sabre": 'szabla mężczyzn' },
+  fa: { "Women's Foil": 'فلوره زنان', "Men's Foil": 'فلوره مردان', "Women's Epee": 'اپه زنان', "Men's Epee": 'اپه مردان', "Women's Sabre": 'سابر زنان', "Men's Sabre": 'سابر مردان' },
+  ro: { "Women's Foil": 'floretă feminin', "Men's Foil": 'floretă masculin', "Women's Epee": 'spadă feminin', "Men's Epee": 'spadă masculin', "Women's Sabre": 'sabie feminin', "Men's Sabre": 'sabie masculin' },
+  tr: { "Women's Foil": 'kadınlar flöre', "Men's Foil": 'erkekler flöre', "Women's Epee": 'kadınlar epe', "Men's Epee": 'erkekler epe', "Women's Sabre": 'kadınlar kılıç', "Men's Sabre": 'erkekler kılıç' },
+  ar: { "Women's Foil": 'سلاح الشيش سيدات', "Men's Foil": 'سلاح الشيش رجال', "Women's Epee": 'سلاح المبارزة سيدات', "Men's Epee": 'سلاح المبارزة رجال', "Women's Sabre": 'سلاح السيف سيدات', "Men's Sabre": 'سلاح السيف رجال' }
+};
 // 校验语言代码/自定义语言名
 function validLang(l) { return typeof l === 'string' && /^[a-zA-Z\u4e00-\u9fff\u0600-\u06ff\- ]{2,30}$/.test(l) && l.length <= 30; }
 // 非内置语言的 UI 文案：AI 翻译一次后缓存到 R2
@@ -337,7 +357,7 @@ export default {
 
 // ===== 教练页 HTML =====
 // 版本指纹：页面代码变了就自动变（用于已打开页面的「点击更新」提示）
-const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COACH_I18N) + LANG_OPTIONS.join(',');
+const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COACH_I18N) + JSON.stringify(EV_I18N) + LANG_OPTIONS.join(',');
 let _pvH = 0; for (let i = 0; i < _pvSrc.length; i++) _pvH = (_pvH * 31 + _pvSrc.charCodeAt(i)) >>> 0;
 const PAGE_VERSION = _pvSrc.length.toString(36) + _pvH.toString(36);
 // 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
@@ -425,6 +445,9 @@ function renderCoachPage(token, meta, t) {
 const TOKEN = ${JSON.stringify(token)};
 const PAGE_VER = ${JSON.stringify(PAGE_VERSION)};
 const T = ${JSON.stringify(t)};
+const EV = ${JSON.stringify(EV_I18N[meta.lang] || {})};
+// 项目名本地化：只替换「性别+剑种」，赛事名/人名不动
+function locEvent(s){ return String(s||"").replace(/(Women's|Men's) (Foil|Epee|Sabre)/g, x => EV[x] || x); }
 let vids = [], cmts = [], lastSeen = 0, boutVid = {};
 const openCmts = {}, openV = {};
 // 首开引导：气泡+脉冲指向语言选择器，点掉或选语言后不再出现
@@ -538,7 +561,7 @@ function render(){
             const bcid = "b:" + tname + "~" + bcmtKey(b.vids[0]);
             const n = cmts.filter(c => c.videoId === bcid).length;
             const cbox = "<div class='box'><input placeholder='" + escH(T.namePh) + "' onkeydown='if(event.keyCode===13)sendCmt(this)'><button onclick='sendCmt(this.previousElementSibling)'>" + escH(T.send) + "</button><button class='mic' onclick='toggleRec(this)' title='Voice'>🎤</button></div>";
-            return "<div class='bout' data-bkey='" + bid + "' data-bcid='" + escH(bcid) + "'><div class='bhead'>" + escH(b.label || b.vids[0].name) + "</div>" +
+            return "<div class='bout' data-bkey='" + bid + "' data-bcid='" + escH(bcid) + "'><div class='bhead'>" + escH(locEvent(b.label || b.vids[0].name)) + "</div>" +
               "<div class='vgrid'>" + b.vids.map(v => {
                 const isN = isNew(v.uploadedAt);
                 const vc = cmts.filter(c => c.videoId === v.id).length;
