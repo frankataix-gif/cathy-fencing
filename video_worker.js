@@ -454,6 +454,7 @@ function renderCoachPage(token, meta, t) {
   .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:manipulation}
   .apv video{width:100%;display:block;max-height:52vh}
   .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
+  .apload{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#e2e8f0;font-size:.9rem;background:rgba(2,6,23,.55);pointer-events:none;z-index:5}
   .apseek{position:relative;height:20px;margin-top:6px}
   .apseek input{width:100%;-webkit-appearance:none;appearance:none;height:4px;background:#334155;border-radius:4px;outline:none;margin:8px 0}
   .apmarks{position:absolute;left:0;right:0;top:7px;height:8px;pointer-events:none}
@@ -492,7 +493,7 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
 <button class="apclose" onclick="closeAnalysis()">✕</button>
-<div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apflash" id="apFlash"></div></div>
+<div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apload" id="apLoad" style="display:none">⏳ ${esc(t.loading)}</div><div class="apflash" id="apFlash"></div></div>
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
@@ -589,13 +590,19 @@ function openAnalysis(vid){
   apVid = vid; apTags = [];
   document.getElementById("ap").style.display = "block";
   apV = document.getElementById("apVideo");
-  if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; apV.src = v.url; }
+  const ld = document.getElementById("apLoad");
+  if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; ld.style.display = "flex"; apV.src = v.url; apV.load(); }
+  apV.onloadstart = function(){ ld.style.display = "flex"; };
+  apV.onwaiting  = function(){ ld.style.display = "flex"; };
+  apV.oncanplay  = function(){ ld.style.display = "none"; };
+  apV.onseeked   = function(){ ld.style.display = "none"; };
+  apV.onerror    = function(){ ld.style.display = "none"; };
   apVolIn(document.getElementById("apVol"));
   apV.ontimeupdate = apTick; apV.onloadedmetadata = apTick;
   apV.onended = function(){ document.getElementById("apPlayBtn").textContent = "▶"; };
   const sp = document.getElementById("apSp");
   sp.innerHTML = [0.25,0.5,1,1.5,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
-  sp.querySelector("[data-sp='1']").classList.add("on");
+  sp.querySelector("[data-sp='1']").classList.add("on"); apSpd = 1;
   const misc = document.getElementById("apMisc");
   misc.innerHTML = "<span class='aplbl'>⏩</span>" + [2,5,10].map(s => "<button data-st='" + s + "' onclick='apStepSet(" + s + ",this)'>" + s + "s</button>").join("") +
     "<span class='aplbl'>🔍</span>" + [1,1.5,2].map(z => "<button data-z='" + z + "' onclick='apZoomSet(" + z + ",this)'>" + z + "x</button>").join("");
@@ -626,26 +633,33 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-// 按住=画面连续移动（帧按钮逐帧蠕放、跳秒按钮平滑快刷）；点按=单次
-let hT = null, hI = null, hBtn = null;
-function hAct(mode, dir){
-  const v = apV();
-  if(!v) return;
-  v.pause(); pauseS();
-  if(mode === 'f') v.currentTime = Math.max(0, v.currentTime + dir * (1/24));
-  else v.currentTime = Math.max(0, Math.min(v.duration || 1e9, v.currentTime + dir * (AP.step / 10)));
-}
+// 按住=画面连续移动：前进用真实变速播放，后退用小步连续回退；点按=单次步进
+let hT = null, hI = null, hBtn = null, apSpd = 1;
 function hStart(mode, dir, btn){
   hEnd();
   hBtn = btn;
   if(btn) btn.classList.add('hold');
   (mode === 'f' ? apStep : apSkip)(dir);                    // 按下即执行一次完整步进
-  hT = setTimeout(function(){                               // 按住 350ms 后进入连续蠕放
-    hI = setInterval(function(){ hAct(mode, dir); }, mode === 'f' ? 40 : 100);
-  }, 350);
+  if(!apV) return;
+  if(dir > 0){
+    hT = setTimeout(function(){                             // 按住前进：变速播放，画面流畅移动
+      apV.playbackRate = mode === 'f' ? 0.25 : 4;
+      apV.play().catch(function(){});
+    }, 350);
+  } else {
+    hT = setTimeout(function(){                             // 按住后退：连续小步回退模拟倒带
+      const dt = mode === 'f' ? 0.08 : apStepN / 6;         // 帧键≈慢速倒帧，跳秒≈快速回扫
+      hI = setInterval(function(){
+        if(!apV) return;
+        apV.pause();
+        apV.currentTime = Math.max(0, apV.currentTime - dt);
+      }, mode === 'f' ? 120 : 180);
+    }, 350);
+  }
 }
-function hEnd(btn){
+function hEnd(){
   clearTimeout(hT); clearInterval(hI); hT = hI = null;
+  if(apV && !apV.paused){ apV.playbackRate = apSpd; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   if(hBtn){ hBtn.classList.remove('hold'); hBtn = null; }
 }
 function apStepSet(s, btn){
@@ -659,7 +673,7 @@ function apZoomSet(z, btn){
   btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
   if(apV) apV.style.transform = z > 1 ? "scale(" + z + ")" : "";
 }
-function apSpeed(x, btn){ apV.playbackRate = x; btn.parentNode.querySelectorAll("[data-sp]").forEach(b => b.classList.toggle("on", b === btn)); }
+function apSpeed(x, btn){ apSpd = x; if(apV) apV.playbackRate = x; btn.parentNode.querySelectorAll("[data-sp]").forEach(b => b.classList.toggle("on", b === btn)); }
 // 背景音量：iOS 忽略 video.volume，用 WebAudio 增益节点控制（失败则退回 volume）
 function apVolIn(el){
   const v = el.value / 100;
