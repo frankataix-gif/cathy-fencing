@@ -435,7 +435,8 @@
 
   <div class="tabs" id="tabs">
     <div class="tabs-inner">
-      <button class="tab active" data-tab="tournaments">USA Fencing</button>
+      <button class="tab active" data-tab="tournaments">赛事</button>
+      <button class="tab" data-tab="videos">视频</button>
       <button class="tab" data-tab="cathydata">日程</button>
       <button class="tab" data-tab="emails">邮件</button>
       <button class="tab" data-tab="profile">我的</button>
@@ -454,7 +455,6 @@
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
       <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">成绩</button>
-      <button class="btn secondary" data-subtab="videos" style="padding:4px 12px; font-size:0.8rem;">视频</button>
       <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">AI</button>
       <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员</button>
     </div>
@@ -554,26 +554,26 @@
       </div>
     </div>
 
-    <div id="sub-tab-videos" class="fencing-sub-content" style="display:none;">
-      <div class="card">
-        <h2 style="margin:0 0 4px;">📹 视频比赛 / Coach Videos</h2>
-        <p style="font-size:0.8rem; color:var(--gray); margin:0 0 10px;">教练打开专属链接即可看全部视频并留言（每条链接一个教练，互不可见）。</p>
-        <div id="coach-links-bar" style="margin-bottom:12px;"></div>
-        <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
-          <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练链接</button>
-          <button class="btn secondary" id="videos-upload" style="font-size:0.85rem; padding:6px 14px;">📤 上传视频</button>
-          <span id="video-lib-stat2" style="font-size:0.75rem; color:var(--gray); align-self:center;"></span>
-        </div>
-        <div id="video-wall"></div>
-      </div>
-    </div>
-
     <div id="sub-tab-coach" class="fencing-sub-content" style="display:none;">
       <div class="card">
         <h2 style="margin-bottom:12px;">Cathy 训练助手 / AI Coach</h2>
         <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">整合比赛、反思、日程，给出训练和赛前建议。</p>
         <div id="coach-body" style="font-size:0.9rem; color:var(--dark);">加载中…</div>
       </div>
+    </div>
+  </div>
+
+  <div id="tab-videos" class="tab-content">
+    <div class="card">
+      <h2 style="margin:0 0 4px;">📹 视频比赛 / Coach Videos</h2>
+      <p style="font-size:0.8rem; color:var(--gray); margin:0 0 10px;">教练打开专属链接即可看全部视频并留言（每条链接一个教练，互不可见）。</p>
+      <div id="coach-links-bar" style="margin-bottom:12px;"></div>
+      <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
+        <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练链接</button>
+        <button class="btn secondary" id="videos-upload" style="font-size:0.85rem; padding:6px 14px;">📤 上传视频</button>
+        <span id="video-lib-stat2" style="font-size:0.75rem; color:var(--gray); align-self:center;"></span>
+      </div>
+      <div id="video-wall"></div>
     </div>
   </div>
 
@@ -3399,15 +3399,7 @@ function circuitLabel(c) {
     document.getElementById('my-open-vault-mom')?.addEventListener('click', () => openVault('妈妈'));
     document.getElementById('my-open-vault-all')?.addEventListener('click', () => openVault(null));
     const videosView = document.getElementById('my-videos-view');
-    const openVideos = () => {
-      if (mainView) mainView.style.display = 'none';
-      const sv = document.getElementById('my-settings-view');
-      if (sv) sv.style.display = 'none';
-      if (vaultView) vaultView.style.display = 'none';
-      if (videosView) videosView.style.display = 'block';
-      window.scrollTo(0, 0);
-      renderVideoLibrary();
-    };
+    const openVideos = () => activateTab('videos');
     document.getElementById('my-open-videos')?.addEventListener('click', openVideos);
     document.getElementById('my-back-videos')?.addEventListener('click', () => {
       if (videosView) videosView.style.display = 'none';
@@ -5373,7 +5365,7 @@ function circuitLabel(c) {
   function setFencingSubTab(tab) {
     currentFencingSubTab = tab;
     saveUIToLocal('cathy_fencing_subtab', tab);
-    const subs = ['tournaments', 'membership', 'results', 'videos', 'coach'];
+    const subs = ['tournaments', 'membership', 'results', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
       const btn = document.querySelector('#tab-tournaments .sub-tabs button[data-subtab="' + s + '"]');
@@ -5388,7 +5380,6 @@ function circuitLabel(c) {
       updateMapMarkers();
     }
     if (tab === 'results') loadResultsView();
-    if (tab === 'videos') renderVideoPage();
     if (tab === 'coach') loadCoachView();
   }
 
@@ -5439,6 +5430,7 @@ function circuitLabel(c) {
       e.target.classList.add('active');
       document.getElementById('tab-' + currentTab).classList.add('active');
       if (currentTab === 'tournaments') setFencingSubTab(currentFencingSubTab);
+      if (currentTab === 'videos') renderVideoPage();
       if (currentTab === 'emails') loadEmails();
       if (currentTab === 'cathydata') setCathydataSubTab(currentCathySubTab);
     });
@@ -5455,6 +5447,7 @@ function circuitLabel(c) {
     if (activeTabBtn) activeTabBtn.classList.add('active');
     if (activeTabContent) activeTabContent.classList.add('active');
     if (currentTab === 'tournaments') setFencingSubTab(currentFencingSubTab);
+    else if (currentTab === 'videos') renderVideoPage();
     else if (currentTab === 'cathydata') setCathydataSubTab(currentCathySubTab);
     else if (currentTab === 'emails') loadEmails();
   }
