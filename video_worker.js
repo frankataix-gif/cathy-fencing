@@ -450,7 +450,7 @@ function renderCoachPage(token, meta, t) {
   .upd{display:none;position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:0.82rem;font-weight:600;padding:9px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(37,99,235,.4);cursor:pointer;z-index:999;white-space:nowrap}
   /* ===== 分析播放器（点评用）===== */
   .ap{display:none;position:fixed;inset:0;background:rgba(2,6,23,.95);z-index:100;overflow:auto}
-  .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative}
+  .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
   .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:manipulation}
   .apv video{width:100%;display:block;max-height:52vh}
   .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
@@ -460,7 +460,7 @@ function renderCoachPage(token, meta, t) {
   .apmark{position:absolute;width:8px;height:8px;border-radius:50%;background:#ef4444;transform:translateX(-50%);pointer-events:auto;cursor:pointer}
   .aptime{color:#94a3b8;font-size:.72rem;text-align:right}
   .apctl{display:flex;gap:6px;margin-top:6px}
-  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:10px;padding:10px 4px;font-size:.85rem;flex:1;cursor:pointer}
+  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:10px;padding:10px 4px;font-size:.85rem;flex:1;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;touch-action:manipulation}
   .apsp{display:flex;gap:6px;justify-content:center;margin-top:6px}
   .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:4px 12px;font-size:.78rem;cursor:pointer}
   .apsp button.on{background:#2563eb;color:#fff;border-color:#2563eb}
@@ -489,23 +489,23 @@ function renderCoachPage(token, meta, t) {
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
-<div class="ap" id="ap"><div class="apbox">
+<div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
 <button class="apclose" onclick="closeAnalysis()">✕</button>
 <div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apflash" id="apFlash"></div></div>
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
   <button id="apBack" onclick="apSkip(-1)">⏪ 5s</button>
-  <button onclick="apStep(-1)" title="frame -">⏮</button>
+  <button id="apFrB" onpointerdown="apHold(-1)" onpointerup="apHoldEnd()" onpointerleave="apHoldEnd()" onpointercancel="apHoldEnd()" oncontextmenu="return false" title="点=退1帧 · 按住=慢退">⏮</button>
   <button id="apPlayBtn" onclick="apToggle()">▶</button>
-  <button onclick="apStep(1)" title="frame +">⏭</button>
+  <button id="apFrF" onpointerdown="apHold(1)" onpointerup="apHoldEnd()" onpointerleave="apHoldEnd()" onpointercancel="apHoldEnd()" oncontextmenu="return false" title="点=进1帧 · 按住=慢放">⏭</button>
   <button id="apFwd" onclick="apSkip(1)">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apsp" id="apMisc"></div>
 <div class="apvol">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
 <div class="aptags" id="apTags"></div>
-<div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
+<div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
 <div class="cmts" id="apCmts" style="margin-top:8px"></div>
 </div></div>
 <div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
@@ -625,6 +625,33 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
+// 长按帧按钮：⏭按住=0.25x慢放，⏮按住=连续小步回退（模拟倒带）；点按=逐帧
+let apHoldT = null, apHoldOn = false, apHoldDir = 0;
+function apHold(dir){
+  if(!apV) return;
+  apHoldOn = false; apHoldDir = dir;
+  const start = Date.now();
+  apHoldT = setInterval(function(){
+    if(Date.now() - start < 250) return;   // 250ms 内松开 = 点按逐帧
+    if(!apHoldOn){
+      apHoldOn = true;
+      if(dir > 0){ apV.playbackRate = 0.25; apV.play().catch(function(){}); }
+      else apHoldBack();
+    }
+    if(dir < 0) apHoldBack();
+  }, 80);
+}
+function apHoldBack(){
+  apV.pause();
+  document.getElementById("apPlayBtn").textContent = "▶";
+  apV.currentTime = Math.max(0, apV.currentTime - 0.08);
+}
+function apHoldEnd(){
+  clearInterval(apHoldT); apHoldT = null;
+  if(apHoldOn){ apV.pause(); apV.playbackRate = 1; document.getElementById("apPlayBtn").textContent = "▶"; }
+  else if(apHoldDir) apStep(apHoldDir);   // 短按 = 逐帧
+  apHoldOn = false; apHoldDir = 0;
+}
 function apStepSet(s, btn){
   apStepN = s;
   btn.parentNode.querySelectorAll("[data-st]").forEach(b => b.classList.toggle("on", b === btn));
