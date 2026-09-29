@@ -82,16 +82,13 @@
     }
     .tab {
       flex: 1; min-width: 0;
-      display: flex; flex-direction: column; align-items: center; justify-content: center;
-      gap: 1px;
-      padding: 6px 2px;
+      padding: 8px 4px;
       border: none; background: transparent;
-      font-size: 0.72rem; color: var(--gray);
+      font-size: 0.8rem; color: var(--gray);
       border-bottom: 2px solid transparent;
       cursor: pointer; white-space: nowrap;
       overflow: hidden; text-overflow: ellipsis;
     }
-    .tab .ti { font-size: 1.15rem; line-height: 1.2; }
     .tab.active {
       color: var(--primary);
       border-bottom-color: var(--primary);
@@ -99,8 +96,7 @@
     }
     @media (min-width: 640px) {
       .tabs-inner { padding: 6px 12px; gap: 8px; }
-      .tab { flex-direction: row; gap: 6px; font-size: 0.85rem; padding: 8px 8px; }
-      .tab .ti { font-size: 1rem; }
+      .tab { font-size: 0.9rem; padding: 10px 8px; }
     }
     .tab-content { display: none; padding: 12px; }
     .tab-content.active { display: block; }
@@ -445,11 +441,11 @@
 
   <div class="tabs" id="tabs">
     <div class="tabs-inner">
-      <button class="tab active" data-tab="tournaments"><span class="ti">🤺</span><span>赛事</span></button>
-      <button class="tab" data-tab="videos"><span class="ti">📹</span><span>视频</span></button>
-      <button class="tab" data-tab="cathydata"><span class="ti">📅</span><span>日程</span></button>
-      <button class="tab" data-tab="emails"><span class="ti">📧</span><span>邮件</span></button>
-      <button class="tab" data-tab="profile"><span class="ti">👤</span><span>我的</span></button>
+      <button class="tab active" data-tab="tournaments">赛事</button>
+      <button class="tab" data-tab="videos">视频</button>
+      <button class="tab" data-tab="cathydata">日程</button>
+      <button class="tab" data-tab="emails">邮件</button>
+      <button class="tab" data-tab="profile">我的</button>
     </div>
   </div>
 
@@ -463,7 +459,7 @@
     </div>
 
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
-      <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
+      <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">USA Fencing</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">成绩</button>
       <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">AI</button>
       <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员</button>
