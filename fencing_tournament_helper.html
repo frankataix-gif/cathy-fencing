@@ -577,6 +577,14 @@
       <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
         <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练链接</button>
         <button class="btn secondary" id="videos-upload" style="font-size:0.85rem; padding:6px 14px;">📤 上传视频</button>
+        <label style="font-size:0.75rem; color:var(--gray); align-self:center;">我的留言语言
+          <select id="family-lang" style="font-size:0.8rem; padding:3px 6px; border:1px solid #d1d5db; border-radius:6px;">
+            <option value="zh">中文</option><option value="zh-TW">繁體中文</option><option value="en">English</option>
+            <option value="it">italiano</option><option value="fr">français</option><option value="es">español</option>
+            <option value="de">Deutsch</option><option value="ja">日本語</option><option value="ko">한국어</option>
+            <option value="ru">русский</option><option value="pt">português</option><option value="ar">العربية</option>
+          </select>
+        </label>
         <span id="video-lib-stat2" style="font-size:0.75rem; color:var(--gray); align-self:center;"></span>
       </div>
       <div id="video-wall"></div>
@@ -2313,12 +2321,14 @@ function circuitLabel(c) {
     if (_feedTimer) clearTimeout(_feedTimer);
     _feedTimer = setTimeout(async () => {
       try {
-        const feed = { videos: videos.filter(v => v.url).map(v => {
-          const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
+        const feed = { familyLang: getLocal('cathy_family_lang', 'zh') || 'zh', videos: videos.filter(v => v.url).map(v => {
+          const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {
             id: v.id, name: v.name, url: v.url,
             youtube: v.type === 'youtube',
+            uploadedAt: v.uploadedAt || '',
             tournament: (t && t.name) || v.tournamentName || '',
+            tUrl: (t && (t.url || t.live_url)) || v.tUrl || '',
             date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10),
             event: v.eventName || '', bout: v.boutLabel || v.bout || '',
             opponent: v.opponent || '', score: v.boutScore || v.score || '',
@@ -2425,6 +2435,14 @@ function circuitLabel(c) {
   let _videoFileInput = null;
   function pickAndUploadVideo(tournamentId, btn, meta) {
     meta = meta || {};
+    // 不关联赛事的上传：先问一个「活动主体」名称（如 俱乐部内部对抗赛 / 训练课），保证视频有归属
+    if (!tournamentId && !meta.tournamentName) {
+      const tn = prompt('这段视频属于什么活动？（如：俱乐部内部对抗赛 / 私教课 / 队内赛）\n教练页会用它做分组标题；留空则显示「自建活动」', '');
+      if (tn === null) return; // 取消
+      meta.tournamentName = tn.trim() || '自建活动';
+      const bt = prompt('对阵/备注（可空，如：vs 队友A · 15:8）：', '');
+      if (bt && bt.trim()) meta.boutLabel = bt.trim();
+    }
     if (!_videoFileInput) {
       _videoFileInput = document.createElement('input');
       _videoFileInput.type = 'file';
@@ -2534,8 +2552,8 @@ function circuitLabel(c) {
     return all;
   }
   function _cmtHtml(c) {
-    const main = c.author === 'coach' ? (c.zhText || c.text) : c.text;
-    const hasOrig = c.author === 'coach' && c.zhText && c.zhText !== c.text;
+    const main = c.author === 'coach' ? (c.familyText || c.zhText || c.text) : c.text;
+    const hasOrig = c.author === 'coach' && (c.familyText || c.zhText) && (c.familyText || c.zhText) !== c.text;
     const oid = 'orig_' + c.id;
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
       <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
@@ -5424,6 +5442,11 @@ function circuitLabel(c) {
     if (nc) nc.addEventListener('click', addCoachLink);
     const up = document.getElementById('videos-upload');
     if (up) up.addEventListener('click', (e) => pickAndUploadVideo(null, e.target));
+    const fl = document.getElementById('family-lang');
+    if (fl) {
+      fl.value = getLocal('cathy_family_lang', 'zh') || 'zh';
+      fl.addEventListener('change', () => { saveToLocal('cathy_family_lang', fl.value); syncCoachFeed(); });
+    }
   }
 
   function initTabs() {

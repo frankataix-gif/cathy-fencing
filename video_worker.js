@@ -9,9 +9,9 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言即可——系统会自动翻译成中文给家长，家长的回复会翻译成你的语言。点 🌐 查看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言即可——系统会自动翻译成家长的语言，家长的回复会翻译成你的语言。点 🌐 查看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言' },
   'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '用你的母語留言即可——系統會自動翻譯成中文給家長，家長的回覆會翻譯成你的語言。點 🌐 查看原文。', other: '其他語言…', langPh: '輸入你的語言' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Write in your own language — your comments are auto-translated to Chinese for the family, and their replies appear here in yours. Tap 🌐 to see the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Write in your own language — your comments are auto-translated for the family, and their replies appear here in yours. Tap 🌐 to see the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scrivi nella tua lingua — i commenti sono tradotti automaticamente in cinese per la famiglia, e le loro risposte appaiono qui nella tua. Tocca 🌐 per l\u2019originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Écrivez dans votre langue — vos commentaires sont traduits automatiquement en chinois pour la famille, et leurs réponses apparaissent ici dans la vôtre. Touchez 🌐 pour l\u2019original.', other: 'Autre langue…', langPh: 'Tapez votre langue' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Escribe en tu idioma — tus comentarios se traducen automáticamente al chino para la familia, y sus respuestas aparecen aquí en el tuyo. Toca 🌐 para ver el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma' },
@@ -250,6 +250,17 @@ export default {
         return json({ ok: true });
       }
 
+      // 教练页打开后回写 lastSeen，用于「自上次访问新增视频」标记
+      if (body.action === 'coach_seen') {
+        const token = String(body.token || '');
+        if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return json({ error: 'invalid link' }, 404);
+        meta.lastSeen = new Date().toISOString();
+        await writeJson(env, `coach/meta_${token}.json`, meta);
+        return json({ ok: true });
+      }
+
       if (body.action === 'feed_save') {
         const feed = body.feed;
         if (!feed || !Array.isArray(feed.videos)) return json({ error: 'bad request' }, 400);
@@ -270,19 +281,26 @@ export default {
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return json({ error: 'invalid link' }, 404);
         const coachLang = meta.lang || 'en';
+        const feed = await readJson(env, 'coach/feed.json') || {};
+        const familyLang = feed.familyLang || 'zh';
         const rec = {
           id: 'c_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
           videoId, author, text,
           ts: new Date().toISOString()
         };
         if (audioUrl) rec.audioUrl = audioUrl;
-        rec.lang = author === 'family' ? 'zh' : coachLang;
-        // 双向翻译：写中文的人 → 翻成教练语言（按语言缓存）；写教练语言的人 → 翻成中文
-        if (author === 'family' && coachLang !== 'zh' && text && text !== '🎤') {
+        rec.lang = author === 'family' ? familyLang : coachLang;
+        // 双向翻译：家长留言 → 翻成教练语言（按语言缓存）；教练留言 → 翻成家长语言
+        if (author === 'family' && coachLang !== familyLang && text && text !== '🎤') {
           rec.translations = { [coachLang]: await translate(env, text, coachLang) };
           rec.coachText = rec.translations[coachLang];
         }
-        if (author === 'coach' && coachLang !== 'zh' && text && text !== '🎤') rec.zhText = await translate(env, text, 'zh');
+        if (author === 'coach' && coachLang !== familyLang && text && text !== '🎤') {
+          const tt = await translate(env, text, familyLang);
+          rec.translations = Object.assign(rec.translations || {}, { [familyLang]: tt });
+          rec.familyText = tt;
+          if (familyLang === 'zh') rec.zhText = tt;
+        }
         const list = (await readJson(env, `coach/comments_${token}.json`)) || [];
         list.push(rec);
         if (list.length > 500) list.splice(0, list.length - 500);
@@ -305,145 +323,242 @@ export default {
 };
 
 // ===== 教练页 HTML =====
+// 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
 function renderCoachPage(token, meta, t) {
-  const title = esc(t.title) + ' — ' + esc(meta.name);
+  t = Object.assign({}, COACH_I18N.en, t);
+  const title = 'Coach ' + meta.name + ' — ' + t.title;
   return `<!DOCTYPE html><html lang="${esc(meta.lang)}"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${title}</title>
+<title>${esc(title)}</title>
 <style>
   body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;margin:0;background:#f1f5f9;color:#1e293b}
-  .wrap{max-width:640px;margin:0 auto;padding:14px}
-  h1{font-size:1.2rem;margin:8px 0 2px}.sub{color:#64748b;font-size:0.8rem;margin-bottom:14px}
-  .vid{background:#fff;border-radius:12px;padding:12px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
-  .tgroup{margin-bottom:18px}
-  .tname{font-weight:700;font-size:0.95rem;margin:4px 0 8px;padding:6px 10px;background:#e0e7ff;border-radius:8px}
-  .tname span{font-weight:400;font-size:0.75rem;color:#64748b}
-  .vid .ctx{font-size:0.8rem;color:#64748b;margin-bottom:6px}
-  .vid .bt{font-weight:700;font-size:0.95rem;margin-bottom:8px}
-  video{width:100%;border-radius:8px;background:#000;display:block}
-  .cmts{margin-top:10px;border-top:1px solid #eef2f7;padding-top:8px}
-  .cmt{font-size:0.85rem;padding:6px 8px;border-radius:8px;margin-bottom:4px}
-  .cmt.coach{background:#eff6ff}.cmt.family{background:#f0fdf4}
-  .cmt .who{font-size:0.7rem;color:#94a3b8;margin-bottom:2px}
-  .box{display:flex;gap:6px;margin-top:6px}
-  .box input{flex:1;padding:8px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:16px}
-  .box button{padding:8px 14px;border:none;border-radius:8px;background:#2563eb;color:#fff;font-size:0.85rem;cursor:pointer}
-  .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin-bottom:14px}
-  .note{font-size:0.75rem;color:#94a3b8;text-align:center;margin:16px 0}
-  .langbar{display:flex;justify-content:flex-end;align-items:center;gap:6px;margin-bottom:8px}
+  .wrap{max-width:640px;margin:0 auto;padding:12px}
+  .langbar{display:flex;justify-content:flex-end;margin-bottom:6px}
   .langbar select{font-size:0.85rem;padding:4px 8px;border:1px solid #d1d5db;border-radius:8px;background:#fff}
-  .tip{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:8px;padding:8px 10px;font-size:0.78rem;margin-bottom:12px;line-height:1.5}
+  .hd{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;padding:16px 16px 12px;box-shadow:0 2px 8px rgba(30,58,138,.25)}
+  .cname{font-size:1.35rem;font-weight:800;letter-spacing:.2px}
+  .csub{font-size:0.82rem;opacity:.85;margin-top:3px}
+  .newb{display:inline-block;margin-top:8px;background:#22c55e;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 10px;border-radius:999px}
+  .tip{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:10px;padding:8px 10px;font-size:0.76rem;margin:10px 0;line-height:1.5}
+  .statusbar{display:flex;justify-content:space-between;align-items:center;font-size:0.72rem;color:#64748b;margin:2px 2px 10px}
+  .statusbar button{border:1px solid #d1d5db;background:#fff;border-radius:8px;padding:4px 10px;font-size:0.75rem;cursor:pointer}
+  .tgroup{margin-bottom:16px}
+  .thead{position:sticky;top:0;z-index:5;background:#f1f5f9;padding:6px 0}
+  .tname{font-weight:800;font-size:0.95rem}
+  .tname a{color:#1d4ed8;text-decoration:none}
+  .tname a:active{text-decoration:underline}
+  .tmeta{font-size:0.72rem;color:#64748b;margin-top:1px}
+  .bout{background:#fff;border-radius:12px;padding:10px 12px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  .bhead{font-weight:700;font-size:0.85rem;margin-bottom:8px;color:#0f172a}
+  .vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+  .vcell{position:relative;border-radius:10px;overflow:hidden;background:#000;aspect-ratio:16/9;cursor:pointer}
+  .vcell video{width:100%;height:100%;object-fit:cover;display:block}
+  .vcell .pov{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.6rem;background:rgba(0,0,0,.18)}
+  .vcell .dur{position:absolute;right:5px;bottom:5px;background:rgba(0,0,0,.72);color:#fff;font-size:0.65rem;padding:1px 6px;border-radius:6px}
+  .vcell .newtag{position:absolute;left:5px;top:5px;background:#ef4444;color:#fff;font-size:0.62rem;font-weight:700;padding:1px 6px;border-radius:6px}
+  .vcell .vname{position:absolute;left:5px;bottom:5px;right:5px;color:#fff;font-size:0.62rem;text-shadow:0 1px 2px #000;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .ytcell{display:block;border-radius:10px;background:#fee2e2;color:#991b1b;text-align:center;padding:16px 8px;font-weight:600;text-decoration:none;font-size:0.8rem}
+  .cbtn{margin-top:8px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:5px 10px;font-size:0.76rem;color:#475569;cursor:pointer;width:100%;text-align:left}
+  .cbody{display:none;margin-top:6px}
+  .cbody.open{display:block}
+  .cmt{font-size:0.84rem;padding:6px 8px;border-radius:8px;margin-bottom:4px}
+  .cmt.coach{background:#eff6ff}.cmt.family{background:#f0fdf4}
+  .cmt .who{font-size:0.68rem;color:#94a3b8;margin-bottom:2px}
   .cmt .tr{cursor:pointer;font-size:0.7rem;color:#3b82f6;margin-left:4px}
   .cmt .orig{margin-top:2px;padding:4px 6px;background:#f8fafc;border-radius:6px;font-size:0.78rem;color:#64748b}
+  .box{display:flex;gap:6px;margin-top:6px}
+  .box input{flex:1;padding:8px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:16px;box-sizing:border-box}
+  .box button{padding:8px 12px;border:none;border-radius:8px;background:#2563eb;color:#fff;font-size:0.85rem;cursor:pointer}
+  .box .mic{background:#dcfce7;color:#166534}
+  .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin:14px 0}
+  .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
+  .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
 </style></head><body><div class="wrap">
 <div class="langbar">🌐 <select onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></div>
-<h1>🤺 ${esc(t.title)}</h1>
-<div class="sub">${esc(meta.name)} · ${esc(t.sub)} · ${esc(t.auto)}</div>
-<div class="tip">🤖 ${esc(t.tip)}</div>
-<div id="list">${esc(t.loading)}</div>
-<div class="gen"><b>💬 ${esc(t.general)}</b>
-  <div class="cmts" id="gen-comments"></div>
-  <div class="box"><input id="gen-input" placeholder="${esc(t.namePh)}"><button onclick="sendCmt(null)">${esc(t.send)}</button><button onclick="toggleRec(null,this)" title="Voice" style="background:#dcfce7;color:#166534">🎤</button></div>
+<div class="hd">
+  <div class="cname">🛡 Coach ${esc(meta.name)}</div>
+  <div class="csub">Cathy He · Foil · Vancouver — ${esc(t.student)}</div>
+  <span class="newb" id="newBadge" style="display:none"></span>
 </div>
-<div class="note">Cathy Fencing · videos update automatically</div>
+<div class="tip">🤖 ${esc(t.tip)}</div>
+<div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
+<div id="list"><div class="empty">${esc(t.loading)}</div></div>
+<div class="gen"><b>💬 ${esc(t.general)}</b>
+  <div id="gen-comments" style="margin-top:6px"></div>
+  <div class="box"><input id="gen-input" placeholder="${esc(t.namePh)}" onkeydown="if(event.keyCode===13)sendCmt(this)"><button onclick="sendCmt(document.getElementById(&quot;gen-input&quot;))">${esc(t.send)}</button><button class="mic" onclick="toggleRec(this)" title="Voice">🎤</button></div>
+</div>
+<div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
 <script>
 const TOKEN = ${JSON.stringify(token)};
 const T = ${JSON.stringify(t)};
-let vids = [], cmts = [];
-function escH(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-async function load(){
+let vids = [], cmts = [], lastSeen = 0, boutVid = {};
+const openCmts = {};
+function escH(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","\\'":"&#39;"}[c]))}
+function ago(ts){
+  if(!ts) return "";
+  const s = (Date.now() - new Date(ts).getTime()) / 1000;
+  if(s < 90) return Math.max(1, Math.round(s)) + "m";
+  if(s < 3600) return Math.round(s/60) + "m";
+  if(s < 86400) return Math.round(s/3600) + "h";
+  return Math.round(s/86400) + "d";
+}
+async function load(manual){
   try{
-    const r = await fetch('/coach-data/' + TOKEN);
-    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const r = await fetch("/coach-data/" + TOKEN);
+    if(!r.ok) throw new Error("HTTP " + r.status);
     const d = await r.json();
-    if(!d.feed) throw new Error('no feed');
+    if(!d.feed) throw new Error("no feed");
+    lastSeen = d.meta && d.meta.lastSeen ? new Date(d.meta.lastSeen).getTime() : 0;
     vids = d.feed.videos || [];
     cmts = d.comments || [];
     render();
+    document.getElementById("upd").textContent = T.updated + " " + new Date().toLocaleTimeString().slice(0,5);
+    if(manual !== true){
+      // 首次加载后回写 lastSeen，下次访问可标 NEW
+      fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_seen", token:TOKEN})});
+    }
   }catch(e){
-    document.getElementById('list').innerHTML = '<div class="vid" style="color:#b91c1c">Load failed: ' + escH(e.message) + '</div>';
+    document.getElementById("list").innerHTML = "<div class='empty' style='color:#b91c1c'>Load failed: " + escH(e.message) + "</div>";
   }
 }
-let renderedIds = '';
+let renderedSig = "";
+function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
 function render(){
-  const list = document.getElementById('list');
-  const ids = vids.map(v => v.id).join('|');
-  // 视频列表变了才整体重建——播放器不被留言刷新打断
-  if (ids !== renderedIds) {
-    renderedIds = ids;
-    if(!vids.length){ list.innerHTML = '<div class="vid" style="color:#94a3b8">' + escH(T.none) + '</div>'; }
-    else {
+  const list = document.getElementById("list");
+  const sig = vids.map(v => v.id + ":" + (v.tournament||"")).join("|");
+  if(sig !== renderedSig){
+    renderedSig = sig;
+    boutVid = {};
+    if(!vids.length){
+      list.innerHTML = "<div class='empty'>" + escH(T.none) + "</div>";
+    } else {
       const groups = {};
+      const order = [];
       vids.forEach(v => {
-        const tk = v.tournament || '—';
-        if(!groups[tk]) groups[tk] = { date: v.date || '', place: v.place || '', vids: [] };
-        groups[tk].vids.push(v);
+        const tk = v.tournament || "—";
+        if(!groups[tk]){ groups[tk] = { date: v.date||"", place: v.place||"", tUrl: v.tUrl||"", bouts: {}, bord: [] }; order.push(tk); }
+        const bk = tk + "||" + boutKey(v);
+        if(!groups[tk].bouts[bk]){ groups[tk].bouts[bk] = { label: [v.event, v.bout, v.opponent ? "vs " + v.opponent : "", v.score].filter(Boolean).join(" · "), vids: [] }; groups[tk].bord.push(bk); }
+        groups[tk].bouts[bk].vids.push(v);
+        boutVid[v.id] = bk;
       });
-      list.innerHTML = Object.entries(groups).sort((a,b) => (b[1].date||'').localeCompare(a[1].date||'')).map(([tname, g]) =>
-        '<div class="tgroup"><div class="tname">🏆 ' + escH(tname) + (g.date ? ' <span>' + escH(g.date) + (g.place ? ' · ' + escH(g.place) : '') + '</span>' : '') + '</div>' +
-        g.vids.map(v =>
-          '<div class="vid">' +
-          '<div class="bt">' + escH([v.event, v.bout, v.opponent ? 'vs ' + v.opponent : '', v.score].filter(Boolean).join(' · ') || v.name) + '</div>' +
-          (v.youtube
-            ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
-            : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '" onerror="vidErr(this)"></video>') +
-          '<div class="cmts" data-vid="' + escH(v.id) + '"></div>' +
-          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.keyCode===13)sendCmt(\\'' + v.id + '\\',this)"><button onclick="sendCmt(\\'' + v.id + '\\',this.previousElementSibling)">' + escH(T.send) + '</button><button onclick="toggleRec(\\'' + v.id + '\\',this)" title="Voice" style="background:#dcfce7;color:#166534">🎤</button></div>' +
-          '</div>'
-        ).join('') + '</div>'
-      ).join('');
+      order.sort((a,b) => (groups[b].date||"").localeCompare(groups[a].date||""));
+      let newCount = 0;
+      vids.forEach(v => { if(v.uploadedAt && new Date(v.uploadedAt).getTime() > lastSeen) newCount++; });
+      const nb = document.getElementById("newBadge");
+      if(newCount){ nb.textContent = "● " + newCount + " " + T.newV; nb.style.display = "inline-block"; }
+      else nb.style.display = "none";
+      list.innerHTML = order.map(tname => {
+        const g = groups[tname];
+        const isNew = t => t && new Date(t).getTime() > lastSeen;
+        const head = g.tUrl
+          ? "<div class='tname'>🏆 <a href='" + escH(g.tUrl) + "' target='_blank' rel='noopener'>" + escH(tname) + " ↗</a></div>"
+          : "<div class='tname'>🏆 " + escH(tname) + "</div>";
+        const metaLine = [g.date, g.place].filter(Boolean).join(" · ");
+        return "<div class='tgroup'><div class='thead'>" + head +
+          (metaLine ? "<div class='tmeta'>" + escH(metaLine) + "</div>" : "") + "</div>" +
+          g.bord.map(bk => {
+            const b = g.bouts[bk];
+            const bid = escH(bk);
+            const n = cmts.filter(c => b.vids.some(v => v.id === c.videoId)).length;
+            return "<div class='bout' data-bkey='" + bid + "'><div class='bhead'>" + escH(b.label || b.vids[0].name) + "</div>" +
+              "<div class='vgrid'>" + b.vids.map(v => {
+                const isN = isNew(v.uploadedAt);
+                if(v.youtube) return "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>";
+                return "<div class='vcell' onclick='playV(this)'>" +
+                  "<video muted playsinline preload='metadata' src='" + escH(v.url) + "' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
+                  "<div class='pov'>▶</div><div class='dur'></div>" +
+                  (isN ? "<div class='newtag'>NEW</div>" : "") +
+                  "<div class='vname'>" + escH(v.name) + "</div></div>";
+              }).join("") + "</div>" +
+              "<button class='cbtn' onclick='toggleCmts(this)'>💬 " + n + " " + T.cmtsOf + "</button>" +
+              "<div class='cbody" + (openCmts[bk] ? " open" : "") + "'><div class='cmts' data-bkey='" + bid + "'></div>" +
+              "<div class='box'><input placeholder='" + escH(T.namePh) + "' onkeydown='if(event.keyCode===13)sendCmt(this)'><button onclick='sendCmt(this.previousElementSibling)'>" + escH(T.send) + "</button><button class='mic' onclick='toggleRec(this)' title='Voice'>🎤</button></div></div></div>";
+          }).join("") + "</div>";
+      }).join("");
     }
   }
-  // 留言原地更新，不动视频元素
-  vids.forEach(v => {
-    const el = list.querySelector('.cmts[data-vid="' + v.id + '"]');
-    if (el) el.innerHTML = cmts.filter(c => c.videoId === v.id).map(c => cmtHtml(c)).join('');
+  // 留言原地更新 + 计数刷新
+  document.querySelectorAll(".bout").forEach(el => {
+    const bk = el.dataset.bkey;
+    const bVids = vids.filter(v => boutVid[v.id] === bk);
+    const list2 = bVids.map(v => v.id);
+    const bc = cmts.filter(c => list2.includes(c.videoId));
+    const ce = el.querySelector(".cmts");
+    if(ce) ce.innerHTML = bc.map(cmtHtml).join("");
+    const btn = el.querySelector(".cbtn");
+    if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.cmtsOf) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
   });
-  document.getElementById('gen-comments').innerHTML = cmts.filter(c => !c.videoId).map(c => cmtHtml(c)).join('');
+  document.getElementById("gen-comments").innerHTML = cmts.filter(c => !c.videoId || !boutVid[c.videoId]).map(cmtHtml).join("");
 }
-function vidErr(el){
-  const code = el.error ? el.error.code : '?';
-  const msg = document.createElement('div');
-  msg.style.cssText = 'padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;font-size:0.8rem';
-  msg.textContent = 'Video failed to load (error ' + code + ')';
-  el.replaceWith(msg);
+function durSet(v){
+  const d = v.duration;
+  if(!isFinite(d)) return;
+  const m = Math.floor(d/60), s = Math.round(d%60);
+  const el = v.parentNode.querySelector(".dur");
+  if(el) el.textContent = m + ":" + String(s).padStart(2,"0");
+}
+function playV(cell){
+  const v = cell.querySelector("video");
+  if(!v) return;
+  v.muted = false; v.controls = true; v.setAttribute("preload","auto");
+  cell.querySelectorAll(".pov,.dur,.vname,.newtag").forEach(e => e.style.display = "none");
+  cell.style.cursor = "default"; cell.onclick = null;
+  v.play().catch(function(){});
+}
+function vidErr(v){
+  const cell = v.parentNode;
+  cell.innerHTML = "<div style='display:flex;align-items:center;justify-content:center;height:100%;color:#fca5a5;font-size:0.7rem;padding:8px;text-align:center'>Video failed to load</div>";
+}
+function toggleCmts(btn){
+  const body = btn.nextElementSibling;
+  const open = body.classList.toggle("open");
+  const bk = btn.closest(".bout").dataset.bkey;
+  openCmts[bk] = open;
 }
 function cmtHtml(c){
   const shown = c.display || c.text;
   const hasOrig = c.orig && c.orig !== shown;
-  return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') +
-    (hasOrig ? '<span class="tr" onclick="toggleOrig(this)">🌐</span>' : '') + '</div>' +
-    (hasOrig ? '<div class="orig" style="display:none">' + escH(c.orig) + '</div>' : '') +
-    (c.audioUrl ? '<audio controls preload="metadata" src="' + escH(c.audioUrl) + '" style="width:100%;margin:2px 0"></audio>' : '') +
-    (shown && shown !== '🎤' ? escH(shown) : '') + '</div>';
+  return "<div class='cmt " + c.author + "'><div class='who'>" + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
+    (hasOrig ? "<span class='tr' onclick='toggleOrig(this)'>🌐</span>" : "") + "</div>" +
+    (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
+    (c.audioUrl ? "<audio controls preload='metadata' src='" + escH(c.audioUrl) + "' style='width:100%;margin:2px 0'></audio>" : "") +
+    (shown && shown !== "🎤" ? escH(shown) : "") + "</div>";
 }
 function toggleOrig(el){
-  const o = el.parentNode.parentNode.querySelector('.orig');
-  if(o) o.style.display = (o.style.display === 'block') ? 'none' : 'block';
+  const o = el.parentNode.parentNode.querySelector(".orig");
+  if(o) o.style.display = (o.style.display === "block") ? "none" : "block";
 }
 async function setLang(v){
-  if(v === '__custom'){
-    v = prompt(T.langPh || 'Your language?');
+  if(v === "__custom"){
+    v = prompt(T.langPh || "Your language?");
     if(!v || !v.trim()) return;
     v = v.trim();
   }
   try{
-    await fetch('/', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({action:'coach_setlang', token: TOKEN, lang: v})});
+    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_setlang", token: TOKEN, lang: v})});
     location.reload();
   }catch(e){}
 }
-async function sendCmt(videoId, input){
-  input = input || document.getElementById('gen-input');
+function inputBkey(input){
+  const bout = input.closest(".bout");
+  if(!bout) return null;
+  const bk = bout.dataset.bkey;
+  const bv = vids.find(v => boutVid[v.id] === bk);
+  return bv ? bv.id : null;
+}
+async function sendCmt(input){
   const text = input.value.trim();
   if(!text) return;
-  input.value = '';
+  const videoId = inputBkey(input);
+  input.value = "";
   input.disabled = true;
-  // 乐观上屏：留言立刻显示
-  cmts.push({ id: 'tmp_' + Date.now(), videoId, author: 'coach', text, display: text, ts: new Date().toISOString() });
+  openCmts[input.closest(".bout") ? input.closest(".bout").dataset.bkey : ""] = true;
+  cmts.push({ id: "tmp_" + Date.now(), videoId, author: "coach", text, display: text, ts: new Date().toISOString() });
   render();
   try{
-    await fetch('/', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({action:'comment_add', token: TOKEN, videoId, author:'coach', text})});
+    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId, author:"coach", text})});
     await load();
   }catch(e){ input.value = text; }
   input.disabled = false;
@@ -451,9 +566,10 @@ async function sendCmt(videoId, input){
 }
 // ===== 语音留言：MediaRecorder -> R2 -> comment_add(audioUrl) =====
 let rec = null, recChunks = [];
-async function toggleRec(videoId, btn){
+async function toggleRec(btn){
+  const videoId = inputBkey(btn);
   if(rec){ rec.stop(); return; }
-  if(!navigator.mediaDevices || !window.MediaRecorder){ alert('Voice recording not supported'); return; }
+  if(!navigator.mediaDevices || !window.MediaRecorder){ alert("Voice recording not supported"); return; }
   try{
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
     const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
@@ -485,7 +601,7 @@ async function toggleRec(videoId, btn){
   }catch(e){ alert("Mic unavailable"); }
 }
 load();
-setInterval(load, 45000);
+setInterval(function(){ load(true); }, 45000);
 </script></body></html>`;
 }
 
