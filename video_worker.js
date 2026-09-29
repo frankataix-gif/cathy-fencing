@@ -56,6 +56,27 @@ const EV_I18N = {
   tr: { "Women's Foil": 'kadınlar flöre', "Men's Foil": 'erkekler flöre', "Women's Epee": 'kadınlar epe', "Men's Epee": 'erkekler epe', "Women's Sabre": 'kadınlar kılıç', "Men's Sabre": 'erkekler kılıç' },
   ar: { "Women's Foil": 'سلاح الشيش سيدات', "Men's Foil": 'سلاح الشيش رجال', "Women's Epee": 'سلاح المبارزة سيدات', "Men's Epee": 'سلاح المبارزة رجال', "Women's Sabre": 'سلاح السيف سيدات', "Men's Sabre": 'سلاح السيف رجال' }
 };
+// 点评标签：优点/问题/步法/进攻/防守/时机/距离/战术（key 固定，按语言显示）
+const TAG_I18N = {
+  zh: { good: '优点', issue: '问题', footwork: '步法', attack: '进攻', defense: '防守', timing: '时机', distance: '距离', tactic: '战术' },
+  'zh-TW': { good: '優點', issue: '問題', footwork: '步法', attack: '進攻', defense: '防守', timing: '時機', distance: '距離', tactic: '戰術' },
+  en: { good: 'Good', issue: 'Issue', footwork: 'Footwork', attack: 'Attack', defense: 'Defense', timing: 'Timing', distance: 'Distance', tactic: 'Tactics' },
+  it: { good: 'Bene', issue: 'Da correggere', footwork: 'Gioco di gambe', attack: 'Attacco', defense: 'Difesa', timing: 'Tempo', distance: 'Distanza', tactic: 'Tattica' },
+  fr: { good: 'Bien', issue: 'À corriger', footwork: 'Jeu de jambes', attack: 'Attaque', defense: 'Défense', timing: 'Timing', distance: 'Distance', tactic: 'Tactique' },
+  es: { good: 'Bien', issue: 'A corregir', footwork: 'Juego de pies', attack: 'Ataque', defense: 'Defensa', timing: 'Tiempo', distance: 'Distancia', tactic: 'Táctica' },
+  de: { good: 'Gut', issue: 'Verbessern', footwork: 'Beinarbeit', attack: 'Angriff', defense: 'Verteidigung', timing: 'Timing', distance: 'Distanz', tactic: 'Taktik' },
+  ja: { good: '良い点', issue: '課題', footwork: 'フットワーク', attack: '攻撃', defense: '防御', timing: 'タイミング', distance: '距離', tactic: '戦術' },
+  ko: { good: '좋은 점', issue: '개선점', footwork: '풋워크', attack: '공격', defense: '수비', timing: '타이밍', distance: '거리', tactic: '전술' },
+  ru: { good: 'Хорошо', issue: 'Ошибка', footwork: 'Работа ног', attack: 'Атака', defense: 'Защита', timing: 'Тайминг', distance: 'Дистанция', tactic: 'Тактика' },
+  hu: { good: 'Jó', issue: 'Hiba', footwork: 'Lábmunka', attack: 'Támadás', defense: 'Védekezés', timing: 'Időzítés', distance: 'Táv', tactic: 'Taktika' },
+  pt: { good: 'Bom', issue: 'A corrigir', footwork: 'Jogo de pés', attack: 'Ataque', defense: 'Defesa', timing: 'Tempo', distance: 'Distância', tactic: 'Tática' },
+  uk: { good: 'Добре', issue: 'Помилка', footwork: 'Робота ніг', attack: 'Атака', defense: 'Захист', timing: 'Таймінг', distance: 'Дистанція', tactic: 'Тактика' },
+  pl: { good: 'Dobrze', issue: 'Błąd', footwork: 'Praca nóg', attack: 'Atak', defense: 'Obrona', timing: 'Timing', distance: 'Dystans', tactic: 'Taktyka' },
+  fa: { good: 'خوب', issue: 'مشکل', footwork: 'کار پا', attack: 'حمله', defense: 'دفاع', timing: 'زمان‌بندی', distance: 'فاصله', tactic: 'تاکتیک' },
+  ro: { good: 'Bine', issue: 'De corectat', footwork: 'Mișcarea picioarelor', attack: 'Atac', defense: 'Apărare', timing: 'Timing', distance: 'Distanță', tactic: 'Tactică' },
+  tr: { good: 'İyi', issue: 'Düzeltilecek', footwork: 'Ayak çalışması', attack: 'Saldırı', defense: 'Savunma', timing: 'Zamanlama', distance: 'Mesafe', tactic: 'Taktik' },
+  ar: { good: 'جيد', issue: 'ملاحظة', footwork: 'حركة القدمين', attack: 'هجوم', defense: 'دفاع', timing: 'التوقيت', distance: 'المسافة', tactic: 'الخطة' }
+};
 // 校验语言代码/自定义语言名
 function validLang(l) { return typeof l === 'string' && /^[a-zA-Z\u4e00-\u9fff\u0600-\u06ff\- ]{2,30}$/.test(l) && l.length <= 30; }
 // 非内置语言的 UI 文案：AI 翻译一次后缓存到 R2
@@ -322,6 +343,9 @@ export default {
           ts: new Date().toISOString()
         };
         if (audioUrl) rec.audioUrl = audioUrl;
+        // 打点点评：视频时间点（秒）+ 标签
+        if (typeof body.vt === 'number' && isFinite(body.vt) && body.vt >= 0 && body.vt < 86400) rec.vt = +body.vt.toFixed(2);
+        if (typeof body.tag === 'string' && /^[a-z]{2,12}$/.test(body.tag)) rec.tag = body.tag;
         rec.lang = author === 'family' ? familyLang : coachLang;
         // 双向翻译：家长留言 → 翻成教练语言（按语言缓存）；教练留言 → 翻成家长语言
         if (author === 'family' && coachLang !== familyLang && text && text !== '🎤') {
@@ -357,7 +381,7 @@ export default {
 
 // ===== 教练页 HTML =====
 // 版本指纹：页面代码变了就自动变（用于已打开页面的「点击更新」提示）
-const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COACH_I18N) + JSON.stringify(EV_I18N) + LANG_OPTIONS.join(',');
+const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COACH_I18N) + JSON.stringify(EV_I18N) + JSON.stringify(TAG_I18N) + LANG_OPTIONS.join(',');
 let _pvH = 0; for (let i = 0; i < _pvSrc.length; i++) _pvH = (_pvH * 31 + _pvSrc.charCodeAt(i)) >>> 0;
 const PAGE_VERSION = _pvSrc.length.toString(36) + _pvH.toString(36);
 // 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
@@ -409,8 +433,7 @@ function renderCoachPage(token, meta, t) {
   .vwrap{display:flex;flex-direction:column;gap:4px}
   .vbtn{border:1px solid #e2e8f0;background:#f8fafc;border-radius:7px;font-size:0.68rem;color:#475569;padding:3px 0;cursor:pointer}
   .vbtn.on{background:#dbeafe;border-color:#93c5fd;color:#1d4ed8}
-  .vcpanel{display:none;margin-top:8px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:8px}
-  .vcpt{font-size:0.74rem;font-weight:600;color:#3730a3;margin-bottom:4px}
+
   .cmt{font-size:0.84rem;padding:6px 8px;border-radius:8px;margin-bottom:4px}
   .cmt.coach{background:#eff6ff}.cmt.family{background:#f0fdf4}
   .cmt .who{font-size:0.68rem;color:#94a3b8;margin-bottom:2px}
@@ -424,6 +447,30 @@ function renderCoachPage(token, meta, t) {
   .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
   .upd{display:none;position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:0.82rem;font-weight:600;padding:9px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(37,99,235,.4);cursor:pointer;z-index:999;white-space:nowrap}
+  /* ===== 分析播放器（点评用）===== */
+  .ap{display:none;position:fixed;inset:0;background:rgba(2,6,23,.95);z-index:100;overflow:auto}
+  .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative}
+  .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:manipulation}
+  .apv video{width:100%;display:block;max-height:52vh}
+  .apflash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:2.4rem;opacity:0;pointer-events:none;transition:opacity .35s}
+  .apseek{position:relative;height:20px;margin-top:6px}
+  .apseek input{width:100%;-webkit-appearance:none;appearance:none;height:4px;background:#334155;border-radius:4px;outline:none;margin:8px 0}
+  .apmarks{position:absolute;left:0;right:0;top:7px;height:8px;pointer-events:none}
+  .apmark{position:absolute;width:8px;height:8px;border-radius:50%;background:#ef4444;transform:translateX(-50%);pointer-events:auto;cursor:pointer}
+  .aptime{color:#94a3b8;font-size:.72rem;text-align:right}
+  .apctl{display:flex;gap:6px;margin-top:6px}
+  .apctl button{background:#1e293b;color:#e2e8f0;border:none;border-radius:10px;padding:10px 4px;font-size:.85rem;flex:1;cursor:pointer}
+  .apsp{display:flex;gap:6px;justify-content:center;margin-top:6px}
+  .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:4px 12px;font-size:.78rem;cursor:pointer}
+  .apsp button.on{background:#2563eb;color:#fff;border-color:#2563eb}
+  .apvol{display:flex;align-items:center;gap:8px;margin-top:8px;color:#94a3b8;font-size:.82rem}
+  .apvol input{flex:1}
+  .aptags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+  .aptags button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:4px 10px;font-size:.74rem;cursor:pointer}
+  .aptags button.on{background:#065f46;border-color:#10b981;color:#fff}
+  .apclose{position:absolute;top:8px;right:10px;background:#334155;color:#fff;border:none;border-radius:50%;width:34px;height:34px;font-size:1rem;z-index:101;cursor:pointer}
+  .tag{display:inline-block;background:#e0e7ff;color:#3730a3;font-size:.66rem;font-weight:600;padding:0 7px;border-radius:999px;margin-right:4px}
+  .anchor{color:#2563eb;font-size:.72rem;font-weight:700;margin-right:4px;cursor:pointer}
 </style></head><body><div class="wrap">
 <div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
@@ -440,16 +487,38 @@ function renderCoachPage(token, meta, t) {
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
+<div class="ap" id="ap"><div class="apbox">
+<button class="apclose" onclick="closeAnalysis()">✕</button>
+<div class="apv"><video id="apVideo" playsinline preload="auto" onclick="apToggle()"></video><div class="apflash" id="apFlash"></div></div>
+<div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
+<div class="aptime" id="apTime">0:00 / 0:00</div>
+<div class="apctl">
+  <button onclick="apSkip(-10)">⏪ 10</button>
+  <button onclick="apStep(-1)" title="frame -">⏮</button>
+  <button id="apPlayBtn" onclick="apToggle()">▶</button>
+  <button onclick="apStep(1)" title="frame +">⏭</button>
+  <button onclick="apSkip(10)">10 ⏩</button>
+</div>
+<div class="apsp" id="apSp"></div>
+<div class="apvol">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
+<div class="aptags" id="apTags"></div>
+<div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
+<div class="cmts" id="apCmts" style="margin-top:8px"></div>
+</div></div>
 <div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
 <script>
 const TOKEN = ${JSON.stringify(token)};
 const PAGE_VER = ${JSON.stringify(PAGE_VERSION)};
 const T = ${JSON.stringify(t)};
 const EV = ${JSON.stringify(EV_I18N[meta.lang] || {})};
+const TAGS = ${JSON.stringify(TAG_I18N[meta.lang] || TAG_I18N.en)};
+const TAG_ORDER = ["good","issue","footwork","attack","defense","timing","distance","tactic"];
+const TAG_ICON = {good:"👍",issue:"⚠️",footwork:"🦶",attack:"⚔️",defense:"🛡",timing:"⏱",distance:"📏",tactic:"🎯"};
+function fmtT(s){ s=Math.max(0,s||0); return Math.floor(s/60)+":"+String(Math.floor(s%60)).padStart(2,"0"); }
 // 项目名本地化：只替换「性别+剑种」，赛事名/人名不动
 function locEvent(s){ return String(s||"").replace(/(Women's|Men's) (Foil|Epee|Sabre)/g, x => EV[x] || x); }
 let vids = [], cmts = [], lastSeen = 0, boutVid = {};
-const openCmts = {}, openV = {};
+const openCmts = {};
 // 首开引导：气泡+脉冲指向语言选择器，点掉或选语言后不再出现
 const hintKey = "langHinted_" + TOKEN;
 function dismissHint(){
@@ -506,19 +575,113 @@ function bcmtKey(v){
   const k = [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("~");
   return k === "~~~" ? "#" + v.id : k;
 }
-// 片段留言面板：每个 bout 一个共享面板，点不同片段的 💬 切换目标
-function openVCmt(btn){
-  const bout = btn.closest(".bout");
-  const p = bout.querySelector(".vcpanel");
-  const vid = btn.dataset.vid, bk = bout.dataset.bkey;
-  if(p.style.display === "block" && p.dataset.vid === vid){
-    p.style.display = "none"; p.dataset.vid = ""; delete openV[bk]; btn.classList.remove("on"); return;
-  }
-  bout.querySelectorAll(".vbtn").forEach(b => b.classList.toggle("on", b === btn));
-  p.dataset.vid = vid; p.style.display = "block"; openV[bk] = vid;
+// ===== 分析播放器：无遮挡控制条 + 打点点评 =====
+let apVid = null, apV = null, apTag = "";
+function openAnalysis(vid){
   const v = vids.find(x => x.id === vid);
-  p.querySelector(".vcpt").textContent = "💬 " + (T.clipCmt || "Clip comments") + (v ? " — " + v.name : "");
-  p.querySelector(".cmts").innerHTML = cmts.filter(c => c.videoId === vid).map(cmtHtml).join("");
+  if(!v) return;
+  if(v.youtube){ window.open(v.url, "_blank"); return; }
+  apVid = vid; apTag = "";
+  document.getElementById("ap").style.display = "block";
+  apV = document.getElementById("apVideo");
+  if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; apV.src = v.url; }
+  apV.volume = document.getElementById("apVol").value / 100;
+  apV.ontimeupdate = apTick; apV.onloadedmetadata = apTick;
+  apV.onended = function(){ document.getElementById("apPlayBtn").textContent = "▶"; };
+  const sp = document.getElementById("apSp");
+  sp.innerHTML = [0.25,0.5,1,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
+  sp.querySelector("[data-sp='1']").classList.add("on");
+  document.getElementById("apTags").innerHTML = TAG_ORDER.map(k =>
+    "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + TAG_ICON[k] + " " + escH(TAGS[k] || k) + "</button>").join("");
+  apRenderCmts();
+}
+function closeAnalysis(){
+  document.getElementById("ap").style.display = "none";
+  if(apV) apV.pause();
+  apVid = null;
+}
+function apToggle(){
+  const b = document.getElementById("apPlayBtn");
+  if(apV.paused){ apV.play().catch(function(){}); b.textContent = "❚❚"; apFlash("▶"); }
+  else { apV.pause(); b.textContent = "▶"; apFlash("❚❚"); }
+}
+function apFlash(s){
+  const f = document.getElementById("apFlash");
+  f.textContent = s; f.style.opacity = 1;
+  setTimeout(function(){ f.style.opacity = 0; }, 400);
+}
+function apSkip(d){ if(apV && apV.duration) apV.currentTime = Math.max(0, Math.min(apV.duration, apV.currentTime + d)); }
+function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
+function apSpeed(x, btn){ apV.playbackRate = x; btn.parentNode.querySelectorAll("button").forEach(b => b.classList.toggle("on", b === btn)); }
+function apVolIn(el){ if(apV) apV.volume = el.value / 100; }
+function apSeekIn(el){ if(apV && apV.duration) apV.currentTime = el.value / 1000 * apV.duration; }
+function apSeekTo(t){ if(apV) apV.currentTime = t; }
+function apTick(){
+  if(!apV || !apV.duration) return;
+  document.getElementById("apSeek").value = Math.round(apV.currentTime / apV.duration * 1000);
+  document.getElementById("apTime").textContent = fmtT(apV.currentTime) + " / " + fmtT(apV.duration);
+  // 进度条上的点评红点
+  document.getElementById("apMarks").innerHTML = cmts.filter(c => c.videoId === apVid && c.vt != null)
+    .map(c => "<span class='apmark' style='left:" + Math.min(99, c.vt / apV.duration * 100) + "%' onclick='apSeekTo(" + c.vt + ")' title='" + fmtT(c.vt) + "'></span>").join("");
+}
+function apTagSet(btn){
+  const on = !btn.classList.contains("on");
+  btn.parentNode.querySelectorAll("button").forEach(b => b.classList.remove("on"));
+  if(on){ btn.classList.add("on"); apTag = btn.dataset.tag; } else apTag = "";
+}
+function apRenderCmts(){
+  const el = document.getElementById("apCmts");
+  if(el) el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join("");
+}
+async function apSend(){
+  const input = document.getElementById("apInput");
+  const text = input.value.trim();
+  if(!text) return;
+  const vt = apV ? +apV.currentTime.toFixed(2) : null;
+  input.value = ""; input.disabled = true;
+  cmts.push({ id: "tmp_" + Date.now(), videoId: apVid, author: "coach", text, display: text, vt, tag: apTag || undefined, ts: new Date().toISOString() });
+  apRenderCmts(); render();
+  try{
+    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId: apVid, vt, tag: apTag || undefined, author:"coach", text})});
+    await load();
+  }catch(e){ input.value = text; }
+  input.disabled = false; input.focus();
+}
+// 分析面板录音：暂停视频 → 录音 → 上传 → 打点留言（带 vt + tag）
+async function apToggleRec(){
+  if(rec){ rec.stop(); return; }
+  const btn = document.getElementById("apMic");
+  const vt = apV ? +apV.currentTime.toFixed(2) : null;
+  if(apV){ apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
+  if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
+  try{
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
+    rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
+    recChunks = [];
+    rec.ondataavailable = e => { if(e.data && e.data.size) recChunks.push(e.data); };
+    rec.onstop = async () => {
+      stream.getTracks().forEach(t => t.stop());
+      btn.textContent = "⏳";
+      try{
+        const blob = new Blob(recChunks, { type: rec.mimeType || "audio/webm" });
+        const ext = blob.type.includes("mp4") ? ".m4a" : ".webm";
+        const init = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_init", name:"voice"+ext, contentType:blob.type }) })).json();
+        const pr = await fetch("/video-part?key=" + encodeURIComponent(init.key) + "&uploadId=" + encodeURIComponent(init.uploadId) + "&part=1", { method:"POST", headers:{"Content-Type":"application/octet-stream"}, body: blob });
+        const part = await pr.json();
+        const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
+        if(comp.url){
+          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt, tag:apTag||undefined, ts:new Date().toISOString() });
+          apRenderCmts(); render();
+          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt, tag:apTag||undefined, author:"coach", text:"🎤", audioUrl:comp.url }) });
+          await load();
+        }
+      }catch(e){}
+      btn.textContent = "🎤"; rec = null;
+    };
+    rec.start();
+    btn.textContent = "⏹";
+  }catch(e){ alert(T.noMic || "Mic unavailable"); }
 }
 function render(){
   const list = document.getElementById("list");
@@ -567,26 +730,18 @@ function render(){
                 const vc = cmts.filter(c => c.videoId === v.id).length;
                 const cell = v.youtube
                   ? "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>"
-                  : "<div class='vcell' onclick='playV(this)'>" +
+                  : "<div class='vcell' data-vid='" + escH(v.id) + "' onclick='openAnalysis(this.dataset.vid)'>" +
                     "<video muted playsinline preload='metadata' src='" + escH(v.url) + "' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
                     "<div class='pov'>▶</div><div class='dur'></div>" +
                     (isN ? "<div class='newtag'>NEW</div>" : "") +
                     "<div class='vname'>" + escH(v.name) + "</div></div>";
                 return "<div class='vwrap'>" + cell +
-                  "<button class='vbtn' data-vid='" + escH(v.id) + "' onclick='openVCmt(this)'>💬 " + vc + "</button></div>";
+                  "<button class='vbtn' data-vid='" + escH(v.id) + "' onclick='openAnalysis(this.dataset.vid)'>💬 " + vc + "</button></div>";
               }).join("") + "</div>" +
-              "<div class='vcpanel'><div class='vcpt'></div><div class='cmts'></div>" + cbox + "</div>" +
               "<button class='cbtn' onclick='toggleCmts(this)'>💬 " + n + " " + escH(T.boutCmt) + "</button>" +
               "<div class='cbody" + (openCmts[bk] ? " open" : "") + "'><div class='cmts'></div>" + cbox + "</div></div>";
           }).join("") + "</div>";
       }).join("");
-      // 重建后恢复已打开的片段留言面板
-      list.querySelectorAll(".bout").forEach(el => {
-        const vid = openV[el.dataset.bkey];
-        if(!vid) return;
-        const btn = Array.from(el.querySelectorAll(".vbtn")).find(b => b.dataset.vid === vid);
-        if(btn){ const p = el.querySelector(".vcpanel"); p.dataset.vid = vid; p.style.display = "block"; btn.classList.add("on"); }
-      });
     }
   }
   // 留言原地更新 + 计数刷新
@@ -601,13 +756,9 @@ function render(){
       const list3 = cmts.filter(c => c.videoId === b.dataset.vid);
       b.innerHTML = "💬 " + list3.length + (list3.length ? " · " + ago(list3[list3.length-1].ts) : "");
     });
-    const p = el.querySelector(".vcpanel");
-    if(p && p.dataset.vid){
-      p.querySelector(".cmts").innerHTML = cmts.filter(c => c.videoId === p.dataset.vid).map(cmtHtml).join("");
-      const v = vids.find(x => x.id === p.dataset.vid);
-      p.querySelector(".vcpt").textContent = "💬 " + (T.clipCmt || "Clip comments") + (v ? " — " + v.name : "");
-    }
   });
+  // 分析面板打开时同步刷新其留言
+  if(apVid) apRenderCmts();
 }
 function durSet(v){
   const d = v.duration;
@@ -616,14 +767,7 @@ function durSet(v){
   const el = v.parentNode.querySelector(".dur");
   if(el) el.textContent = m + ":" + String(s).padStart(2,"0");
 }
-function playV(cell){
-  const v = cell.querySelector("video");
-  if(!v) return;
-  v.muted = false; v.controls = true; v.setAttribute("preload","auto");
-  cell.querySelectorAll(".pov,.dur,.vname,.newtag").forEach(e => e.style.display = "none");
-  cell.style.cursor = "default"; cell.onclick = null;
-  v.play().catch(function(){});
-}
+
 function vidErr(v){
   const cell = v.parentNode;
   cell.innerHTML = "<div style='display:flex;align-items:center;justify-content:center;height:100%;color:#fca5a5;font-size:0.7rem;padding:8px;text-align:center'>" + escH(T.vidFail || "Video failed to load") + "</div>";
@@ -634,10 +778,12 @@ function toggleCmts(btn){
   const bk = btn.closest(".bout").dataset.bkey;
   openCmts[bk] = open;
 }
-function cmtHtml(c){
+function cmtHtml(c, anchor){
   const shown = c.display || c.text;
   const hasOrig = c.orig && c.orig !== shown;
-  return "<div class='cmt " + c.author + "'><div class='who'>" + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
+  const tag = c.tag ? "<span class='tag'>" + (TAG_ICON[c.tag] || "") + " " + escH(TAGS[c.tag] || c.tag) + "</span>" : "";
+  const anch = c.vt != null ? "<span class='anchor'" + (anchor ? " onclick='apSeekTo(" + c.vt + ")'" : "") + ">⏱" + fmtT(c.vt) + "</span>" : "";
+  return "<div class='cmt " + c.author + "'><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
     (hasOrig ? "<span class='tr' onclick='toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
     (c.audioUrl ? "<audio controls preload='metadata' src='" + escH(c.audioUrl) + "' style='width:100%;margin:2px 0'></audio>" : "") +
@@ -659,10 +805,8 @@ async function setLang(v){
     location.reload();
   }catch(e){}
 }
-// 输入框归属：片段面板 → 该视频 id；对阵留言区 → b: 前缀的对阵 key
+// 对阵留言区输入框 → b: 前缀的对阵 key（片段留言在分析面板里直接走 apVid）
 function inputTarget(el){
-  const p = el.closest(".vcpanel");
-  if(p && p.dataset.vid) return p.dataset.vid;
   const b = el.closest(".bout");
   return b ? b.dataset.bcid : null;
 }

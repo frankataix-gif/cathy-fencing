@@ -2638,12 +2638,16 @@ function circuitLabel(c) {
     all.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
     return all;
   }
+  const CMT_TAGS = { good: '👍 优点', issue: '⚠️ 问题', footwork: '🦶 步法', attack: '⚔️ 进攻', defense: '🛡 防守', timing: '⏱ 时机', distance: '📏 距离', tactic: '🎯 战术' };
+  function fmtVT(s) { s = Math.max(0, s || 0); return Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0'); }
   function _cmtHtml(c) {
     const main = c.author === 'coach' ? (c.familyText || c.zhText || c.text) : c.text;
     const hasOrig = c.author === 'coach' && (c.familyText || c.zhText) && (c.familyText || c.zhText) !== c.text;
     const oid = 'orig_' + c.id;
+    const tagH = c.tag && CMT_TAGS[c.tag] ? `<span style="display:inline-block; background:#e0e7ff; color:#3730a3; font-size:0.66rem; font-weight:600; padding:0 7px; border-radius:999px; margin-right:4px;">${CMT_TAGS[c.tag]}</span>` : '';
+    const vtH = c.vt != null ? `<span style="color:#2563eb; font-size:0.72rem; font-weight:700; margin-right:4px;">⏱${fmtVT(c.vt)}</span>` : '';
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
+      <span style="font-size:0.68rem; color:#94a3b8;">${tagH}${vtH}${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
       ${hasOrig ? `<div id="${oid}" style="display:none; margin-top:2px; padding:4px 6px; background:#f8fafc; border-radius:6px; font-size:0.78rem; color:#64748b;">${escapeHtml(c.text)}</div>` : ''}
       ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
       ${main && main !== '🎤' ? escapeHtml(main) : ''}
