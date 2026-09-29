@@ -509,8 +509,8 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
-<div class="aptags" id="apTags"></div>
 <div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
+<div class="aptags" id="apTags"></div>
 <div class="box" id="apTxtBox" style="display:none;margin-top:6px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button></div>
 <div class="box" id="apRecBox" style="display:none;margin-top:6px"><span class="rect" id="apRecT">● 0:00</span><button onclick="apStopRec()">⏹ ${esc(t.send)}</button><button onclick="apCancelRec()" style="background:#475569">✕</button></div>
 <div class="cmts" id="apCmts" style="margin-top:8px"></div>
