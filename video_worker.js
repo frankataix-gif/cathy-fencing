@@ -8,6 +8,38 @@ const CORS_HEADERS = {
 };
 
 // ===== 教练页多语言 =====
+// ===== Service Worker 源码：视频请求本地缓存（含 Range 切片），其它请求直通 =====
+const SW_SRC = `
+const C = 'cv1';
+self.addEventListener('install', e => self.skipWaiting());
+self.addEventListener('activate', e => e.waitUntil(clients.claim()));
+self.addEventListener('fetch', e => {
+  const u = new URL(e.request.url);
+  if (u.origin !== location.origin || !u.pathname.startsWith('/video/')) return;
+  e.respondWith((async () => {
+    const cache = await caches.open(C);
+    const range = e.request.headers.get('range');
+    const hit = await cache.match(u.pathname);
+    if (hit) {
+      const blob = await hit.blob();
+      const type = hit.headers.get('Content-Type') || 'video/mp4';
+      if (range) {
+        const m = range.match(/bytes=(\\d+)-(\\d*)/);
+        if (m) {
+          const s = +m[1], en = m[2] ? Math.min(+m[2], blob.size - 1) : blob.size - 1;
+          const part = blob.slice(s, en + 1);
+          return new Response(part, { status: 206, headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Range': 'bytes ' + s + '-' + en + '/' + blob.size, 'Content-Length': String(part.size) } });
+        }
+      }
+      return new Response(blob, { headers: { 'Content-Type': type, 'Accept-Ranges': 'bytes', 'Content-Length': String(blob.size) } });
+    }
+    const r = await fetch(e.request);
+    if (!range && r.ok) cache.put(u.pathname, r.clone());
+    return r;
+  })());
+});
+`;
+
 const COACH_I18N = {
   zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言', del: '删除' },
   'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言', del: '刪除' },
@@ -133,6 +165,11 @@ export default {
       if (request.method === 'OPTIONS') return new Response(null, { headers: CORS_HEADERS });
 
       const reqUrl = new URL(request.url);
+
+      // ===== Service Worker：视频本地缓存 =====
+      if (request.method === 'GET' && reqUrl.pathname === '/sw.js') {
+        return new Response(SW_SRC, { headers: { 'Content-Type': 'application/javascript; charset=utf-8', 'Cache-Control': 'no-store' } });
+      }
 
       // ===== 教练视频页 =====
       if (request.method === 'GET' && reqUrl.pathname.startsWith('/coach/')) {
@@ -652,8 +689,7 @@ function openAnalysis(vid){
         apV.poster = cv.toDataURL("image/jpeg", 0.72);
       }
     }catch(e){}
-    // 命中本地缓存就用本地 blob（秒开、seek 不卡顿），否则走网络
-    vidSrcCached(v.url).then(function(src){ apV.src = src; apV.load(); });
+    apV.src = v.url; apV.load();   // 走原地址；已缓存的部分由 Service Worker 本地应答
   }
   else ldHide();
   apV.onloadstart = ldShow;
@@ -757,23 +793,15 @@ function apZoomReset(){
   apXf();
 }
 
-// ===== 最近视频后台预载到本地缓存，打开时优先用本地 blob =====
-async function vidSrcCached(url){
-  try{
-    if("caches" in window){
-      const hit = await (await caches.open("cv-videos")).match(url);
-      if(hit) return URL.createObjectURL(await hit.blob());
-    }
-  }catch(e){}
-  return url;
-}
+// ===== 最近视频后台静默预载（走普通 fetch，由 Service Worker 写入本地缓存） =====
 async function warmVideoCache(){
   try{
-    if(!("caches" in window)) return;
+    if(!("serviceWorker" in navigator)) return;
+    await navigator.serviceWorker.ready;
     const cache = await caches.open("cv-videos");
     for(const v of vids.slice(0, 3)){                     // 最近 3 个默默下载
       if(!v.url || v.youtube) continue;
-      if(!(await cache.match(v.url))) cache.add(v.url).catch(function(){});
+      if(!(await cache.match(new URL(v.url).pathname))) fetch(v.url).catch(function(){});
     }
   }catch(e){}
 }
@@ -1165,6 +1193,7 @@ async function toggleRec(btn){
   }catch(e){ btn.textContent = "🎤"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
 }
 load();
+if("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(function(){});
 setInterval(function(){ load(true); }, 15000);
 </script></body></html>`;
 }
