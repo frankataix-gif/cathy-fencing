@@ -2644,7 +2644,8 @@ function circuitLabel(c) {
     const main = c.author === 'coach' ? (c.familyText || c.zhText || c.text) : c.text;
     const hasOrig = c.author === 'coach' && (c.familyText || c.zhText) && (c.familyText || c.zhText) !== c.text;
     const oid = 'orig_' + c.id;
-    const tagH = c.tag && CMT_TAGS[c.tag] ? `<span style="display:inline-block; background:#e0e7ff; color:#3730a3; font-size:0.66rem; font-weight:600; padding:0 7px; border-radius:999px; margin-right:4px;">${CMT_TAGS[c.tag]}</span>` : '';
+    const tagKeys = (Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []));
+    const tagH = tagKeys.map(k => CMT_TAGS[k] ? `<span style="display:inline-block; background:#e0e7ff; color:#3730a3; font-size:0.66rem; font-weight:600; padding:0 7px; border-radius:999px; margin-right:4px;">${CMT_TAGS[k]}</span>` : '').join('');
     const vtH = c.vt != null ? `<span style="color:#2563eb; font-size:0.72rem; font-weight:700; margin-right:4px;">⏱${fmtVT(c.vt)}</span>` : '';
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
       <span style="font-size:0.68rem; color:#94a3b8;">${tagH}${vtH}${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>

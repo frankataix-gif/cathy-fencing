@@ -343,9 +343,10 @@ export default {
           ts: new Date().toISOString()
         };
         if (audioUrl) rec.audioUrl = audioUrl;
-        // 打点点评：视频时间点（秒）+ 标签
+        // 打点点评：视频时间点（秒）+ 标签（可多选）
         if (typeof body.vt === 'number' && isFinite(body.vt) && body.vt >= 0 && body.vt < 86400) rec.vt = +body.vt.toFixed(2);
         if (typeof body.tag === 'string' && /^[a-z]{2,12}$/.test(body.tag)) rec.tag = body.tag;
+        if (Array.isArray(body.tags)) rec.tags = body.tags.filter(t => typeof t === 'string' && /^[a-z]{2,12}$/.test(t)).slice(0, 6);
         rec.lang = author === 'family' ? familyLang : coachLang;
         // 双向翻译：家长留言 → 翻成教练语言（按语言缓存）；教练留言 → 翻成家长语言
         if (author === 'family' && coachLang !== familyLang && text && text !== '🎤') {
@@ -463,6 +464,7 @@ function renderCoachPage(token, meta, t) {
   .apsp{display:flex;gap:6px;justify-content:center;margin-top:6px}
   .apsp button{background:#0f172a;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:4px 12px;font-size:.78rem;cursor:pointer}
   .apsp button.on{background:#2563eb;color:#fff;border-color:#2563eb}
+  .aplbl{color:#64748b;font-size:.75rem;align-self:center;margin:0 2px 0 8px}
   .apvol{display:flex;align-items:center;gap:8px;margin-top:8px;color:#94a3b8;font-size:.82rem}
   .apvol input{flex:1}
   .aptags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
@@ -493,13 +495,14 @@ function renderCoachPage(token, meta, t) {
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
-  <button onclick="apSkip(-10)">⏪ 10</button>
+  <button id="apBack" onclick="apSkip(-1)">⏪ 10s</button>
   <button onclick="apStep(-1)" title="frame -">⏮</button>
   <button id="apPlayBtn" onclick="apToggle()">▶</button>
   <button onclick="apStep(1)" title="frame +">⏭</button>
-  <button onclick="apSkip(10)">10 ⏩</button>
+  <button id="apFwd" onclick="apSkip(1)">10s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
+<div class="apsp" id="apMisc"></div>
 <div class="apvol">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
 <div class="aptags" id="apTags"></div>
 <div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
@@ -576,21 +579,27 @@ function bcmtKey(v){
   return k === "~~~" ? "#" + v.id : k;
 }
 // ===== 分析播放器：无遮挡控制条 + 打点点评 =====
-let apVid = null, apV = null, apTag = "";
+let apVid = null, apV = null, apTags = [], apStepN = 10, apZoom = 1;
+let acCtx = null, acGain = null, acSrc = null;
 function openAnalysis(vid){
   const v = vids.find(x => x.id === vid);
   if(!v) return;
   if(v.youtube){ window.open(v.url, "_blank"); return; }
-  apVid = vid; apTag = "";
+  apVid = vid; apTags = [];
   document.getElementById("ap").style.display = "block";
   apV = document.getElementById("apVideo");
   if(apV.dataset.src !== v.url){ apV.dataset.src = v.url; apV.src = v.url; }
-  apV.volume = document.getElementById("apVol").value / 100;
+  apVolIn(document.getElementById("apVol"));
   apV.ontimeupdate = apTick; apV.onloadedmetadata = apTick;
   apV.onended = function(){ document.getElementById("apPlayBtn").textContent = "▶"; };
   const sp = document.getElementById("apSp");
-  sp.innerHTML = [0.25,0.5,1,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
+  sp.innerHTML = [0.25,0.5,1,1.5,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
   sp.querySelector("[data-sp='1']").classList.add("on");
+  const misc = document.getElementById("apMisc");
+  misc.innerHTML = "<span class='aplbl'>⏩</span>" + [2,5,10].map(s => "<button data-st='" + s + "' onclick='apStepSet(" + s + ",this)'>" + s + "s</button>").join("") +
+    "<span class='aplbl'>🔍</span>" + [1,1.5,2].map(z => "<button data-z='" + z + "' onclick='apZoomSet(" + z + ",this)'>" + z + "x</button>").join("");
+  misc.querySelector("[data-st='" + apStepN + "']").classList.add("on");
+  misc.querySelector("[data-z='" + apZoom + "']").classList.add("on");
   document.getElementById("apTags").innerHTML = TAG_ORDER.map(k =>
     "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + TAG_ICON[k] + " " + escH(TAGS[k] || k) + "</button>").join("");
   apRenderCmts();
@@ -610,10 +619,35 @@ function apFlash(s){
   f.textContent = s; f.style.opacity = 1;
   setTimeout(function(){ f.style.opacity = 0; }, 400);
 }
-function apSkip(d){ if(apV && apV.duration) apV.currentTime = Math.max(0, Math.min(apV.duration, apV.currentTime + d)); }
+function apSkip(dir){ if(apV && apV.duration) apV.currentTime = Math.max(0, Math.min(apV.duration, apV.currentTime + dir * apStepN)); }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-function apSpeed(x, btn){ apV.playbackRate = x; btn.parentNode.querySelectorAll("button").forEach(b => b.classList.toggle("on", b === btn)); }
-function apVolIn(el){ if(apV) apV.volume = el.value / 100; }
+function apStepSet(s, btn){
+  apStepN = s;
+  btn.parentNode.querySelectorAll("[data-st]").forEach(b => b.classList.toggle("on", b === btn));
+  document.getElementById("apBack").textContent = "⏪ " + s + "s";
+  document.getElementById("apFwd").textContent = s + "s ⏩";
+}
+function apZoomSet(z, btn){
+  apZoom = z;
+  btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
+  if(apV) apV.style.transform = z > 1 ? "scale(" + z + ")" : "";
+}
+function apSpeed(x, btn){ apV.playbackRate = x; btn.parentNode.querySelectorAll("[data-sp]").forEach(b => b.classList.toggle("on", b === btn)); }
+// 背景音量：iOS 忽略 video.volume，用 WebAudio 增益节点控制（失败则退回 volume）
+function apVolIn(el){
+  const v = el.value / 100;
+  if(!apV) return;
+  try{
+    if(!acCtx){
+      acCtx = new (window.AudioContext || window.webkitAudioContext)();
+      acSrc = acCtx.createMediaElementSource(apV);
+      acGain = acCtx.createGain();
+      acSrc.connect(acGain); acGain.connect(acCtx.destination);
+    }
+    if(acCtx.state === "suspended") acCtx.resume();
+    acGain.gain.value = v;
+  }catch(e){ apV.volume = v; }
+}
 function apSeekIn(el){ if(apV && apV.duration) apV.currentTime = el.value / 1000 * apV.duration; }
 function apSeekTo(t){ if(apV) apV.currentTime = t; }
 function apTick(){
@@ -625,9 +659,10 @@ function apTick(){
     .map(c => "<span class='apmark' style='left:" + Math.min(99, c.vt / apV.duration * 100) + "%' onclick='apSeekTo(" + c.vt + ")' title='" + fmtT(c.vt) + "'></span>").join("");
 }
 function apTagSet(btn){
-  const on = !btn.classList.contains("on");
-  btn.parentNode.querySelectorAll("button").forEach(b => b.classList.remove("on"));
-  if(on){ btn.classList.add("on"); apTag = btn.dataset.tag; } else apTag = "";
+  btn.classList.toggle("on");
+  const k = btn.dataset.tag;
+  if(btn.classList.contains("on")) apTags.push(k);
+  else apTags = apTags.filter(x => x !== k);
 }
 function apRenderCmts(){
   const el = document.getElementById("apCmts");
@@ -639,10 +674,10 @@ async function apSend(){
   if(!text) return;
   const vt = apV ? +apV.currentTime.toFixed(2) : null;
   input.value = ""; input.disabled = true;
-  cmts.push({ id: "tmp_" + Date.now(), videoId: apVid, author: "coach", text, display: text, vt, tag: apTag || undefined, ts: new Date().toISOString() });
+  cmts.push({ id: "tmp_" + Date.now(), videoId: apVid, author: "coach", text, display: text, vt, tags: apTags.slice(), ts: new Date().toISOString() });
   apRenderCmts(); render();
   try{
-    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId: apVid, vt, tag: apTag || undefined, author:"coach", text})});
+    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId: apVid, vt, tags: apTags, author:"coach", text})});
     await load();
   }catch(e){ input.value = text; }
   input.disabled = false; input.focus();
@@ -671,9 +706,9 @@ async function apToggleRec(){
         const part = await pr.json();
         const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
         if(comp.url){
-          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt, tag:apTag||undefined, ts:new Date().toISOString() });
+          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt, tags:apTags.slice(), ts:new Date().toISOString() });
           apRenderCmts(); render();
-          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt, tag:apTag||undefined, author:"coach", text:"🎤", audioUrl:comp.url }) });
+          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt, tags:apTags, author:"coach", text:"🎤", audioUrl:comp.url }) });
           await load();
         }
       }catch(e){}
@@ -781,10 +816,13 @@ function toggleCmts(btn){
 function cmtHtml(c, anchor){
   const shown = c.display || c.text;
   const hasOrig = c.orig && c.orig !== shown;
-  const tag = c.tag ? "<span class='tag'>" + (TAG_ICON[c.tag] || "") + " " + escH(TAGS[c.tag] || c.tag) + "</span>" : "";
-  const anch = c.vt != null ? "<span class='anchor'" + (anchor ? " onclick='apSeekTo(" + c.vt + ")'" : "") + ">⏱" + fmtT(c.vt) + "</span>" : "";
-  return "<div class='cmt " + c.author + "'><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
-    (hasOrig ? "<span class='tr' onclick='toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
+  const tagList = Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []);
+  const tag = tagList.map(k => "<span class='tag'>" + (TAG_ICON[k] || "") + " " + escH(TAGS[k] || k) + "</span>").join("");
+  const anch = c.vt != null ? "<span class='anchor'>⏱" + fmtT(c.vt) + "</span>" : "";
+  // 分析面板里：整条带锚点的留言可点击跳转到该视频时间点
+  const canSeek = anchor && c.vt != null;
+  return "<div class='cmt " + c.author + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
+    (hasOrig ? "<span class='tr' onclick='event.stopPropagation();toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
     (c.audioUrl ? "<audio controls preload='metadata' src='" + escH(c.audioUrl) + "' style='width:100%;margin:2px 0'></audio>" : "") +
     (shown && shown !== "🎤" ? escH(shown) : "") + "</div>";
