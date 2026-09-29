@@ -505,7 +505,6 @@ function renderCoachPage(token, meta, t) {
   <button id="apFwd" onpointerdown="hStart('s',1,this)" onpointerup="hEnd(this)" onpointerleave="hEnd(this)" onpointercancel="hEnd(this)" oncontextmenu="return false">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
-<div class="apsp" id="apMisc"></div>
 <div class="apvol">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
 <div class="aptags" id="apTags"></div>
 <div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
@@ -604,9 +603,7 @@ function openAnalysis(vid){
   const sp = document.getElementById("apSp");
   sp.innerHTML = [0.25,0.5,1,1.5,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
   sp.querySelector("[data-sp='1']").classList.add("on"); apSpd = 1;
-  const misc = document.getElementById("apMisc");
-  misc.innerHTML = "<span class='aplbl'>⏩</span>" + [2,5,10].map(s => "<button data-st='" + s + "' onclick='apStepSet(" + s + ",this)'>" + s + "s</button>").join("");
-  misc.querySelector("[data-st='" + apStepN + "']").classList.add("on");
+
   document.getElementById("apTags").innerHTML = TAG_ORDER.map(k =>
     "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + TAG_ICON[k] + " " + escH(TAGS[k] || k) + "</button>").join("");
   apRenderCmts();
@@ -670,12 +667,7 @@ function hEnd(){
   if(apV && !apV.paused){ apV.playbackRate = apSpd; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   if(hBtn){ hBtn.classList.remove('hold'); hBtn = null; }
 }
-function apStepSet(s, btn){
-  apStepN = s;
-  btn.parentNode.querySelectorAll("[data-st]").forEach(b => b.classList.toggle("on", b === btn));
-  document.getElementById("apBack").textContent = "⏪ " + s + "s";
-  document.getElementById("apFwd").textContent = s + "s ⏩";
-}
+
 let pzX = 0, pzY = 0;
 function apXf(){
   const box = document.querySelector(".apv");
