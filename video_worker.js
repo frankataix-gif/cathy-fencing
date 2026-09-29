@@ -100,7 +100,7 @@ export default {
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return new Response('link expired or invalid', { status: 404 });
         const t = await getUILang(env, meta.lang || 'en');
-        return new Response(renderCoachPage(token, meta, t), { headers: { 'Content-Type': 'text/html; charset=utf-8' } });
+        return new Response(renderCoachPage(token, meta, t), { headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' } });
       }
 
       // 教练页数据（feed + 该教练的留言串）
