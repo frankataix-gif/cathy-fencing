@@ -454,6 +454,7 @@
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
       <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">比赛成绩</button>
+      <button class="btn secondary" data-subtab="videos" style="padding:4px 12px; font-size:0.8rem;">📹 视频比赛</button>
       <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">AI 助手</button>
       <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员信息</button>
     </div>
@@ -550,6 +551,20 @@
           <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
         </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
+      </div>
+    </div>
+
+    <div id="sub-tab-videos" class="fencing-sub-content" style="display:none;">
+      <div class="card">
+        <h2 style="margin:0 0 4px;">📹 视频比赛 / Coach Videos</h2>
+        <p style="font-size:0.8rem; color:var(--gray); margin:0 0 10px;">教练打开专属链接即可看全部视频并留言（每条链接一个教练，互不可见）。</p>
+        <div id="coach-links-bar" style="margin-bottom:12px;"></div>
+        <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
+          <button class="btn" id="videos-new-coach" style="font-size:0.85rem; padding:6px 14px;">+ 新建教练链接</button>
+          <button class="btn secondary" id="videos-upload" style="font-size:0.85rem; padding:6px 14px;">📤 上传视频</button>
+          <span id="video-lib-stat2" style="font-size:0.75rem; color:var(--gray); align-self:center;"></span>
+        </div>
+        <div id="video-wall"></div>
       </div>
     </div>
 
@@ -1979,6 +1994,8 @@ function circuitLabel(c) {
   let currentPage = 1;
   let reflections = {};
   let videos = [];
+  let coaches = [];          // 教练链接 [{id,name,lang,token,createdAt}]
+  let coachComments = {};    // token -> [comments]
   let cachedResults = [];
   let resultsViewMode = 'list';
   const PAGE_SIZE = 1000;
@@ -2272,8 +2289,92 @@ function circuitLabel(c) {
 
   function loadVideos() {
     try { videos = JSON.parse(getLocal('cathy_videos', '[]')) || []; } catch(e) { videos = []; }
+    try { coaches = JSON.parse(getLocal('cathy_coaches', '[]')) || []; } catch(e) { coaches = []; }
   }
-  function saveVideos() { saveToLocal('cathy_videos', JSON.stringify(videos)); }
+  function saveVideos() {
+    saveToLocal('cathy_videos', JSON.stringify(videos));
+    syncCoachFeed();
+  }
+  function saveCoaches() { saveToLocal('cathy_coaches', JSON.stringify(coaches)); }
+  function newCoachToken() { return [...crypto.getRandomValues(new Uint8Array(16))].map(b => b.toString(16).padStart(2, '0')).join(''); }
+  function videoWorkerPost(body) {
+    return fetch(CATHY_VIDEO_WORKER_URL + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }).then(r => r.json());
+  }
+  // 推一份视频 feed 到 R2（所有教练共享这份数据）
+  let _feedTimer = null;
+  function syncCoachFeed() {
+    if (_feedTimer) clearTimeout(_feedTimer);
+    _feedTimer = setTimeout(async () => {
+      try {
+        const feed = { videos: videos.filter(v => v.url).map(v => {
+          const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
+          return {
+            id: v.id, name: v.name, url: v.url,
+            youtube: v.type === 'youtube',
+            tournament: (t && t.name) || v.tournamentName || '',
+            date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10),
+            event: v.eventName || '', bout: v.boutLabel || v.bout || '',
+            opponent: v.opponent || '', score: v.boutScore || v.score || '',
+            place: t ? [t.city, t.state].filter(Boolean).join(', ') : ''
+          };
+        })};
+        await videoWorkerPost({ action: 'feed_save', feed });
+      } catch(e) {}
+    }, 800);
+  }
+  async function addCoachLink() {
+    const name = prompt('教练名称（如：意大利教练 Mario）：', '');
+    if (!name || !name.trim()) return;
+    const langMap = { '1': 'zh', '2': 'en', '3': 'it', '4': 'fr' };
+    const pick = prompt('教练页面语言：1=中文 2=English 3=Italiano 4=Français', '2');
+    const lang = langMap[pick] || 'en';
+    const token = newCoachToken();
+    const r = await videoWorkerPost({ action: 'coach_register', token, name: name.trim(), lang });
+    if (r.error) { alert('创建失败：' + r.error); return; }
+    coaches.push({ id: 'coach_' + Date.now().toString(36), name: name.trim(), lang, token, createdAt: new Date().toISOString() });
+    saveCoaches();
+    renderVideoPage();
+    const url = `${CATHY_VIDEO_WORKER_URL}/coach/${token}`;
+    if (navigator.clipboard) { try { await navigator.clipboard.writeText(url); alert('教练链接已复制：\n' + url); } catch(e) { prompt('教练链接：', url); } }
+    else prompt('教练链接：', url);
+  }
+  async function revokeCoach(id) {
+    const c = coaches.find(x => x.id === id);
+    if (!c) return;
+    if (!confirm(`撤销「${c.name}」的链接？该教练立即无法访问，历史留言保留。`)) return;
+    try { await videoWorkerPost({ action: 'coach_revoke', token: c.token }); } catch(e) {}
+    coaches = coaches.filter(x => x.id !== id);
+    delete coachComments[c.token];
+    saveCoaches();
+    renderVideoPage();
+  }
+  async function copyCoachLink(id) {
+    const c = coaches.find(x => x.id === id);
+    if (!c) return;
+    const url = `${CATHY_VIDEO_WORKER_URL}/coach/${c.token}`;
+    try { await navigator.clipboard.writeText(url); alert('已复制，发给 ' + c.name + ' 即可'); }
+    catch(e) { prompt('链接：', url); }
+  }
+  // 拉所有教练的留言
+  async function loadCoachComments() {
+    for (const c of coaches) {
+      try {
+        const r = await videoWorkerPost({ action: 'comments_get', token: c.token });
+        if (r && Array.isArray(r.comments)) coachComments[c.token] = r.comments;
+      } catch(e) {}
+    }
+  }
+  async function familyComment(coachId, videoId, inputEl) {
+    const c = coaches.find(x => x.id === coachId);
+    if (!c) { alert('先创建教练链接'); return; }
+    const text = (inputEl.value || '').trim();
+    if (!text) return;
+    inputEl.value = '';
+    try {
+      const r = await videoWorkerPost({ action: 'comment_add', token: c.token, videoId, author: 'family', text });
+      if (r.comment) { (coachComments[c.token] = coachComments[c.token] || []).push(r.comment); renderVideoWall(); }
+    } catch(e) { inputEl.value = text; alert('发送失败'); }
+  }
   function videoKeyFromUrl(url) { const m = String(url || '').match(/\/video\/(.+)$/); return m ? decodeURIComponent(m[1]) : ''; }
   function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
   // 分片上传视频到 R2（经 Worker，15MB/片，带进度回调与重试）
@@ -2315,7 +2416,8 @@ function circuitLabel(c) {
   }
 
   let _videoFileInput = null;
-  function pickAndUploadVideo(tournamentId, btn) {
+  function pickAndUploadVideo(tournamentId, btn, meta) {
+    meta = meta || {};
     if (!_videoFileInput) {
       _videoFileInput = document.createElement('input');
       _videoFileInput.type = 'file';
@@ -2331,10 +2433,16 @@ function circuitLabel(c) {
       if (btn) { btn.disabled = true; btn.textContent = '上传中 0%'; }
       try {
         const r = await uploadVideoFile(f, (p) => { if (btn) btn.textContent = '上传中 ' + Math.round(p * 100) + '%'; });
-        videos.push({ id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8), name: f.name, url: r.url, key: r.key, size: f.size, uploadedAt: new Date().toISOString(), tournamentId: tournamentId || null, type: 'r2' });
+        videos.push(Object.assign({
+          id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
+          name: f.name, url: r.url, key: r.key, size: f.size,
+          uploadedAt: new Date().toISOString(),
+          tournamentId: tournamentId || null, type: 'r2'
+        }, meta));
         saveVideos();
         renderResults();
         renderVideoLibrary();
+        renderVideoWall();
       } catch(e) {
         alert('视频上传失败：' + e.message);
       }
@@ -2389,6 +2497,87 @@ function circuitLabel(c) {
     renderVideoLibrary();
     renderResults();
   }
+  const LANG_LABEL = { zh: '🇨🇳 中文', en: '🇬🇧 English', it: '🇮🇹 Italiano', fr: '🇫🇷 Français' };
+  async function renderVideoPage() {
+    const bar = document.getElementById('coach-links-bar');
+    if (bar) {
+      bar.innerHTML = coaches.length
+        ? coaches.map(c => `<span class="tag" style="display:inline-flex; align-items:center; gap:4px; background:#eef2ff; color:#3730a3; padding:4px 8px;">
+            ${LANG_LABEL[c.lang] || c.lang} ${escapeHtml(c.name)}
+            <a href="#" onclick="copyCoachLink('${c.id}');return false;" style="color:#3730a3;" title="复制链接">📋</a>
+            <a href="#" onclick="revokeCoach('${c.id}');return false;" style="color:#b91c1c;" title="撤销">×</a>
+          </span>`).join(' ')
+        : '<span style="font-size:0.8rem; color:var(--gray);">还没有教练链接——点「新建教练链接」生成后发给教练</span>';
+    }
+    const stat = document.getElementById('video-lib-stat2');
+    if (stat) {
+      const total = videos.reduce((s, v) => s + (v.type === 'r2' ? (v.size || 0) : 0), 0);
+      stat.textContent = videos.length ? `${videos.length} 个视频 · R2 ${fmtBytes(total)}` : '';
+    }
+    await loadCoachComments();
+    renderVideoWall();
+  }
+  function renderVideoWall() {
+    const el = document.getElementById('video-wall');
+    if (!el) return;
+    if (!videos.length) { el.innerHTML = '<div style="color:var(--gray); padding:16px 0;">还没有视频。到「比赛成绩」每场对阵旁点 📹 上传，或点上方「上传视频」。</div>'; return; }
+    const sorted = videos.slice().sort((a, b) => (b.uploadedAt || '').localeCompare(a.uploadedAt || ''));
+    el.innerHTML = sorted.map(v => {
+      const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
+      const tName = (t && t.name) || v.tournamentName || '';
+      const ctx = [tName, (t && t.start) || (v.uploadedAt || '').slice(0, 10), v.eventName].filter(Boolean).join(' · ');
+      const head = [v.boutLabel || v.bout, v.opponent, v.boutScore || v.score].filter(Boolean).join(' · ');
+      // 汇总所有教练对该视频的留言
+      const allCmts = [];
+      coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
+        if (cm.videoId === v.id) allCmts.push({ ...cm, coachName: c.name });
+      }));
+      allCmts.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
+      return `<div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:10px;">
+        ${ctx ? `<div style="font-size:0.75rem; color:var(--gray);">🏆 ${escapeHtml(ctx)}</div>` : ''}
+        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-top:4px;">
+          <a href="${escapeHtml(v.url)}" target="_blank" style="font-weight:600; font-size:0.9rem; color:var(--primary); text-decoration:none;">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(head || v.name)}</a>
+          <span style="font-size:0.72rem; color:var(--gray);">${escapeHtml(v.name)} · ${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>
+          <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="copyVideoLink('${v.id}')">📋</button>
+          ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="archiveVideoToYoutube('${v.id}')">归档YT</button>` : ''}
+          <button class="btn danger" style="font-size:0.7rem; padding:2px 8px;" onclick="deleteVideo('${v.id}')">删</button>
+        </div>
+        ${allCmts.length ? `<div style="margin-top:8px; border-top:1px solid #eef2f7; padding-top:6px;">${allCmts.map(c =>
+          `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
+            <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
+            ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
+          </div>`).join('')}</div>` : ''}
+        ${coaches.length ? `<div style="display:flex; gap:6px; margin-top:6px;">
+          <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
+            ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
+          </select>
+          <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
+            onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,'${v.id}',this)}">
+        </div>` : ''}
+      </div>`;
+    }).join('');
+    // 总体留言（不绑视频）
+    const genCmts = [];
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => { if (!cm.videoId) genCmts.push({ ...cm, coachName: c.name }); }));
+    genCmts.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
+    if (genCmts.length || coaches.length) {
+      el.innerHTML += `<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:10px 12px;">
+        <b style="font-size:0.85rem;">💬 总体留言</b>
+        ${genCmts.map(c => `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-top:4px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
+          <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
+          ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
+        </div>`).join('')}
+        ${coaches.length ? `<div style="display:flex; gap:6px; margin-top:6px;">
+          <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
+            ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
+          </select>
+          <input placeholder="写总体留言（自动翻译）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
+            onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,null,this)}">
+        </div>` : ''}
+      </div>`;
+    }
+  }
+
   function renderVideoLibrary() {
     const el = document.getElementById('video-lib-list');
     if (!el) return;
@@ -2669,6 +2858,12 @@ function circuitLabel(c) {
         videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
         data.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
         saveToLocal('cathy_videos', JSON.stringify(videos));
+      }
+      if (Array.isArray(data.coaches)) {
+        const byTok = {};
+        coaches.forEach(c => { if (c && c.token) byTok[c.token] = c; });
+        data.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token]) coaches.push(rc); });
+        saveToLocal('cathy_coaches', JSON.stringify(coaches));
       }
       // 合并远端墓碑（多设备删除同步）
       if (data.taskTombstones && typeof data.taskTombstones === 'object') {
@@ -3350,7 +3545,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_videos' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_videos' || key === 'cathy_coaches' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -3429,10 +3624,17 @@ function circuitLabel(c) {
           remote.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
           saveUIToLocal('cathy_videos', JSON.stringify(videos));
         }
+        // 教练链接：按 token 并集
+        if (remote && Array.isArray(remote.coaches)) {
+          const byTok = {};
+          coaches.forEach(c => { if (c && c.token) byTok[c.token] = c; });
+          remote.coaches.forEach(rc => { if (rc && rc.token && !byTok[rc.token]) coaches.push(rc); });
+          saveUIToLocal('cathy_coaches', JSON.stringify(coaches));
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos, coaches };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -4766,6 +4968,10 @@ function circuitLabel(c) {
       const reflectText = hasReflect ? escapeHtml(ref.summary) : '';
       const aiHtml = hasReflect ? `<div class="bout-ai-toggle" onclick="toggleAiInterpret(this)">💡 AI 解读</div>
         <div class="ai-interpretation" style="display:none;"></div>` : '';
+      const boutVids = videos.filter(v => v.eventId === r.event_id && v.boutLabel === b.bout && v.opponent === b.opponent);
+      const vidsHtml = boutVids.length ? `<div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
+        ${boutVids.map(v => `<a href="${escapeHtml(v.url)}" target="_blank" class="tag" style="background:#eef2ff; color:#3730a3; padding:2px 8px; font-size:0.75rem; text-decoration:none;">📹 ${escapeHtml(v.name)}</a>`).join('')}
+      </div>` : '';
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
           <div class="bout-row">
@@ -4777,7 +4983,9 @@ function circuitLabel(c) {
             <div class="bout-score">${escapeHtml(b.score)}</div>
             <div class="bout-result ${resultClass}">${resultText}</div>
             <button class="btn ${hasReflect ? '' : 'secondary'} bout-reflect-btn" title="${hasReflect ? '编辑' : '记录'}对 ${escapeHtml(b.opponent)} 的观察" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">${reflectMark}</button>
+            <button class="btn secondary bout-video-btn" title="上传本场视频" data-eid="${escapeHtml(r.event_id || '')}" data-bout="${escapeHtml(b.bout)}" data-opp="${escapeHtml(b.opponent)}" data-score="${escapeHtml(b.score)}" data-event="${escapeHtml(r.event || '')}" data-tname="${escapeHtml(r.tournament || '')}" data-date="${escapeHtml(r.date_iso || '')}" style="font-size:0.85rem; padding:0; width:26px; height:26px; border-radius:50%;">📹</button>
           </div>
+          ${vidsHtml}
           ${reflectText ? `<div class="bout-reflection">${reflectText}</div>` : ''}
           ${aiHtml}
           <div class="opponent-reflect-form" style="display:none;"></div>
@@ -4937,6 +5145,17 @@ function circuitLabel(c) {
     body.querySelectorAll('.bout-reflect-btn').forEach(btn => {
       btn.addEventListener('click', () => toggleOpponentReflectForm(btn));
     });
+    body.querySelectorAll('.bout-video-btn').forEach(btn => {
+      btn.addEventListener('click', () => pickAndUploadVideo(null, btn, {
+        eventId: btn.dataset.eid || null,
+        boutLabel: btn.dataset.bout || '',
+        opponent: btn.dataset.opp || '',
+        boutScore: btn.dataset.score || '',
+        eventName: btn.dataset.event || '',
+        tournamentName: btn.dataset.tname || '',
+        boutDate: btn.dataset.date || ''
+      }));
+    });
   }
 
   function renderTrendChart(results) {
@@ -5095,7 +5314,7 @@ function circuitLabel(c) {
   function setFencingSubTab(tab) {
     currentFencingSubTab = tab;
     saveUIToLocal('cathy_fencing_subtab', tab);
-    const subs = ['tournaments', 'membership', 'results', 'coach'];
+    const subs = ['tournaments', 'membership', 'results', 'videos', 'coach'];
     subs.forEach(s => {
       const el = document.getElementById('sub-tab-' + s);
       const btn = document.querySelector('#tab-tournaments .sub-tabs button[data-subtab="' + s + '"]');
@@ -5110,6 +5329,7 @@ function circuitLabel(c) {
       updateMapMarkers();
     }
     if (tab === 'results') loadResultsView();
+    if (tab === 'videos') renderVideoPage();
     if (tab === 'coach') loadCoachView();
   }
 
@@ -5144,6 +5364,10 @@ function circuitLabel(c) {
     const trendBtn = document.getElementById('results-view-trend');
     if (listBtn) listBtn.addEventListener('click', () => switchResultsView('list'));
     if (trendBtn) trendBtn.addEventListener('click', () => switchResultsView('trend'));
+    const nc = document.getElementById('videos-new-coach');
+    if (nc) nc.addEventListener('click', addCoachLink);
+    const up = document.getElementById('videos-upload');
+    if (up) up.addEventListener('click', (e) => pickAndUploadVideo(null, e.target));
   }
 
   function initTabs() {
