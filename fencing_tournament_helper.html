@@ -5045,7 +5045,7 @@ function circuitLabel(c) {
         <div class="ai-interpretation" style="display:none;"></div>` : '';
       const boutVids = videos.filter(v => v.eventId === r.event_id && v.boutLabel === b.bout && v.opponent === b.opponent);
       const vidsHtml = boutVids.length ? `<div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">
-        ${boutVids.map(v => `<a href="${escapeHtml(v.url)}" target="_blank" class="tag" style="background:#eef2ff; color:#3730a3; padding:2px 8px; font-size:0.75rem; text-decoration:none;">📹 ${escapeHtml(v.name)}</a>`).join('')}
+        ${boutVids.map(v => `<span class="tag" style="display:inline-flex; align-items:center; gap:4px; background:#eef2ff; color:#3730a3; padding:2px 8px; font-size:0.75rem;"><a href="${escapeHtml(v.url)}" target="_blank" style="color:inherit; text-decoration:none;">📹 ${escapeHtml(v.name)}</a><a href="#" onclick="deleteVideo('${v.id}');return false;" style="color:#b91c1c; text-decoration:none;" title="删除视频">×</a></span>`).join('')}
       </div>` : '';
       return `
         <div class="bout-wrap" data-round="${escapeHtml(b.bout)}" data-opponent="${escapeHtml(b.opponent)}">
