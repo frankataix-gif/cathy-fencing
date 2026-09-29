@@ -9,9 +9,9 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言，系统自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言，系统自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新' },
   'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '用你的母語留言，系統自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Comment in your own language — auto-translated both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Comment in your own language — auto-translated both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Commenta nella tua lingua — traduzione automatica. 🌐 per l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Commentez dans votre langue — traduction automatique. 🌐 pour l’original.', other: 'Autre langue…', langPh: 'Tapez votre langue' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Comenta en tu idioma — traducción automática. 🌐 muestra el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma' },
@@ -125,7 +125,7 @@ export default {
           }
         }
         if (dirty) await writeJson(env, `coach/comments_${token}.json`, comments);
-        return json({ meta, feed, comments: shown });
+        return json({ meta, feed, comments: shown, v: PAGE_VERSION });
       }
 
       // GET /video/<key> — R2 视频流式播放（支持 Range 拖进度，key 为不可猜随机串）
@@ -335,6 +335,10 @@ export default {
 };
 
 // ===== 教练页 HTML =====
+// 版本指纹：页面代码变了就自动变（用于已打开页面的「点击更新」提示）
+const _pvSrc = renderCoachPage.toString();
+let _pvH = 0; for (let i = 0; i < _pvSrc.length; i++) _pvH = (_pvH * 31 + _pvSrc.charCodeAt(i)) >>> 0;
+const PAGE_VERSION = _pvSrc.length.toString(36) + _pvH.toString(36);
 // 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
 function renderCoachPage(token, meta, t) {
   t = Object.assign({}, COACH_I18N.en, t);
@@ -393,6 +397,7 @@ function renderCoachPage(token, meta, t) {
   .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin:14px 0}
   .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
+  .upd{display:none;position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:0.82rem;font-weight:600;padding:9px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(37,99,235,.4);cursor:pointer;z-index:999;white-space:nowrap}
 </style></head><body><div class="wrap">
 <div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
@@ -413,8 +418,10 @@ function renderCoachPage(token, meta, t) {
 </div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
+<div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
 <script>
 const TOKEN = ${JSON.stringify(token)};
+const PAGE_VER = ${JSON.stringify(PAGE_VERSION)};
 const T = ${JSON.stringify(t)};
 let vids = [], cmts = [], lastSeen = 0, boutVid = {};
 const openCmts = {};
@@ -458,6 +465,7 @@ async function load(manual){
     cmts = d.comments || [];
     render();
     document.getElementById("upd").textContent = T.updated + " " + new Date().toLocaleTimeString().slice(0,5);
+    if(d.v && d.v !== PAGE_VER) document.getElementById("updBar").style.display = "block";
     if(manual !== true){
       // 首次加载后回写 lastSeen，下次访问可标 NEW
       fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_seen", token:TOKEN})});
