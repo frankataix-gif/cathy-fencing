@@ -2630,15 +2630,6 @@ function circuitLabel(c) {
     renderVideoWall();
     switchVideoTab(currentVideoTab);
   }
-  // 每条视频的所有教练留言（家长视角合并展示，标注教练名）
-  function videoCommentsAll(videoId) {
-    const all = [];
-    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
-      if (cm.videoId === videoId) all.push({ ...cm, coachName: c.name });
-    }));
-    all.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
-    return all;
-  }
   const CMT_TAGS = { good: '👍 优点', issue: '⚠️ 问题', footwork: '🦶 步法', attack: '⚔️ 进攻', defense: '🛡 防守', timing: '⏱ 时机', distance: '📏 距离', tactic: '🎯 战术' };
   function fmtVT(s) { s = Math.max(0, s || 0); return Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0'); }
   function _cmtHtml(c) {
@@ -2705,7 +2696,6 @@ function circuitLabel(c) {
     } catch(e) { alert('麦克风不可用或未授权'); }
   }
   function _videoCardHtml(v, shared) {
-    const cmts = videoCommentsAll(v.id);
     return `<div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin:4px 0;">
         <a href="${escapeHtml(v.url)}" target="_blank" style="font-weight:600; font-size:0.85rem; color:var(--primary); text-decoration:none;">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(v.name)}</a>
         <span style="font-size:0.72rem; color:var(--gray);">${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>
@@ -2713,9 +2703,7 @@ function circuitLabel(c) {
         <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="copyVideoLink('${v.id}')">📋</button>
         ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="archiveVideoToYoutube('${v.id}')">归档YT</button>` : ''}
         <button class="btn danger" style="font-size:0.7rem; padding:2px 8px;" onclick="deleteVideo('${v.id}')">删</button>
-      </div>
-      ${shared && cmts.length ? `<div style="border-top:1px solid #eef2f7; padding-top:6px; margin-top:4px;">${cmts.map(_cmtHtml).join('')}</div>` : ''}
-      ${shared ? _replyBox(v.id) : ''}`;
+      </div>`;
   }
   function toggleVideoShare(id) {
     const v = videos.find(x => x.id === id);
@@ -2742,13 +2730,25 @@ function circuitLabel(c) {
     const k = [v.eventName || '', v.boutLabel || v.bout || '', v.opponent || '', v.boutScore || v.score || ''].join('~');
     return 'b:' + tname + '~' + (k === '~~~' ? '#' + v.id : k);
   }
-  // 对阵级留言区（合并所有教练的留言 + 家长回复框）
+  // 对阵级统一留言区：本场留言(bcid) + 各片段留言(v.id) 合并为一条时间线
   function _boutCmtHtml(b) {
     const bcid = boutCmtId(b.vids[0]);
-    const cmts = videoCommentsAll(bcid);
+    const ids = new Set([bcid, ...b.vids.map(v => v.id)]);
+    const cmts = [];
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
+      if (ids.has(cm.videoId)) cmts.push({ ...cm, coachName: c.name });
+    }));
+    cmts.sort((a, b2) => (a.ts || '').localeCompare(b2.ts || ''));
+    // 片段级留言标注是哪个片段（本场留言不标）
+    const vidIdx = {};
+    b.vids.forEach((v, i) => { vidIdx[v.id] = i + 1; });
+    const html = cmts.map(c => {
+      const seg = vidIdx[c.videoId] && b.vids.length > 1 ? `<span style="color:#64748b; font-size:0.66rem; margin-right:4px;">[片段${vidIdx[c.videoId]}]</span>` : '';
+      return seg ? _cmtHtml(c).replace('<br>', seg + '<br>') : _cmtHtml(c);
+    }).join('');
     return `<div style="margin-top:8px; border-top:1px dashed #e2e8f0; padding-top:6px;">
-      <b style="font-size:0.78rem; color:#3730a3;">💬 本场留言（覆盖上面全部片段）</b>
-      ${cmts.map(_cmtHtml).join('')}
+      <b style="font-size:0.78rem; color:#3730a3;">💬 本场留言</b>
+      ${html}
       ${_replyBox(bcid)}
     </div>`;
   }
