@@ -20703,3 +20703,17 @@ here <https://www.schoolsoft.com/conference-ti
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] The New Balance collection everyone is talking about
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-29T13:06:14.000Z
+**摘要:** 推广New Balance新系列鞋子，包括530和327型号。
+**待办:** 无
+**GmailID:** 1a0ed45e4134b09c
+
+Step into viral best sellers including the 530 and the
+fan-favorite 327   A CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OsV1N1lEHyHJHiw2QmMdI14kMtTApAhEDON0vrTGdsmQ-3D-3DWjhw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKZE663QPgP3myTfo-2FqTSrTc4RSOUxVpKA8lbaKj-2FBUS-2Fm2p0nwpU0EUq-2BnXDkkFOR2mOc3nZ715NP2dH70gT6VbqLiMAx0i8-2FXWCEQramccuosZHyiruL8m9ZsWlkjoXtm-2FrGtZ2Cy
+
+---
