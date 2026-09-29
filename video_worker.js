@@ -633,36 +633,40 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-// 按住=画面连续移动：前进用真实变速播放，后退用逐帧回退模拟倒放；点按=单次步进
-let hT = null, hRAF = null, hBtn = null, apSpd = 1;
+// 点按跳秒=跳后自动播放（前后对称）；按住前进=变速播放，按住后退=大步连续回扫
+let hT = null, hI = null, hBtn = null, apSpd = 1;
 function hStart(mode, dir, btn){
   hEnd();
   hBtn = btn;
   if(btn) btn.classList.add('hold');
-  (mode === 'f' ? apStep : apSkip)(dir);                    // 按下即执行一次完整步进
   if(!apV) return;
+  if(mode === 'f') apStep(dir);
+  else {                                                    // 点按跳秒：跳完自动播放
+    apSkip(dir);
+    apV.playbackRate = apSpd;
+    apV.play().catch(function(){});
+    document.getElementById("apPlayBtn").textContent = "❚❚";
+  }
   if(dir > 0){
     hT = setTimeout(function(){                             // 按住前进：变速播放，画面流畅移动
       apV.playbackRate = mode === 'f' ? 0.25 : 4;
       apV.play().catch(function(){});
+      document.getElementById("apPlayBtn").textContent = "❚❚";
     }, 350);
   } else {
-    const rate = mode === 'f' ? 0.4 : 4;                    // 倒放速度：帧键≈0.4x，跳秒≈4x
+    const dt = mode === 'f' ? 0.08 : apStepN / 8;           // 回退步幅：帧键≈0.5x倒放，跳秒≈4x回扫
     hT = setTimeout(function(){
       apV.pause();
-      let last = performance.now();
-      const tick = function(now){
+      document.getElementById("apPlayBtn").textContent = "▶";
+      hI = setInterval(function(){
         if(!apV) return;
-        const dt = (now - last) / 1000; last = now;
-        apV.currentTime = Math.max(0, apV.currentTime - rate * dt);
-        if(apV.currentTime > 0) hRAF = requestAnimationFrame(tick);
-      };
-      hRAF = requestAnimationFrame(tick);
+        apV.currentTime = Math.max(0, apV.currentTime - dt);
+      }, 150);
     }, 350);
   }
 }
 function hEnd(){
-  clearTimeout(hT); cancelAnimationFrame(hRAF); hT = hRAF = null;
+  clearTimeout(hT); clearInterval(hI); hT = hI = null;
   if(apV && !apV.paused){ apV.playbackRate = apSpd; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   if(hBtn){ hBtn.classList.remove('hold'); hBtn = null; }
 }
