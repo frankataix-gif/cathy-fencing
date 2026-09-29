@@ -239,7 +239,10 @@ function renderCoachPage(token, meta, t) {
   body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;margin:0;background:#f1f5f9;color:#1e293b}
   .wrap{max-width:640px;margin:0 auto;padding:14px}
   h1{font-size:1.2rem;margin:8px 0 2px}.sub{color:#64748b;font-size:0.8rem;margin-bottom:14px}
-  .vid{background:#fff;border-radius:12px;padding:12px;margin-bottom:14px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  .vid{background:#fff;border-radius:12px;padding:12px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+  .tgroup{margin-bottom:18px}
+  .tname{font-weight:700;font-size:0.95rem;margin:4px 0 8px;padding:6px 10px;background:#e0e7ff;border-radius:8px}
+  .tname span{font-weight:400;font-size:0.75rem;color:#64748b}
   .vid .ctx{font-size:0.8rem;color:#64748b;margin-bottom:6px}
   .vid .bt{font-weight:700;font-size:0.95rem;margin-bottom:8px}
   video{width:100%;border-radius:8px;background:#000;display:block}
@@ -280,18 +283,29 @@ async function load(){
 function render(){
   const list = document.getElementById('list');
   if(!vids.length){ list.innerHTML = '<div class="vid" style="color:#94a3b8">' + escH(T.none) + '</div>'; }
-  else list.innerHTML = vids.map(v => {
-    const vc = cmts.filter(c => c.videoId === v.id);
-    return '<div class="vid">' +
-      (v.tournament ? '<div class="ctx">🏆 ' + escH(v.tournament) + (v.date ? ' · ' + escH(v.date) : '') + (v.event ? ' · ' + escH(v.event) : '') + (v.place ? ' · ' + escH(v.place) : '') + '</div>' : '') +
-      '<div class="bt">' + escH(v.bout || v.name) + (v.opponent ? ' · ' + escH(v.opponent) : '') + (v.score ? ' · ' + escH(v.score) : '') + '</div>' +
-      (v.youtube
-        ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
-        : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '"></video>') +
-      '<div class="cmts">' + vc.map(c => cmtHtml(c)).join('') + '</div>' +
-      '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.key===\'Enter\')sendCmt(\'' + v.id + '\',this)"><button onclick="sendCmt(\'' + v.id + '\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
-      '</div>';
-  }).join('');
+  else {
+    // 分组：赛事 → 对阵 → 视频
+    const groups = {};
+    vids.forEach(v => {
+      const tk = v.tournament || '—';
+      if(!groups[tk]) groups[tk] = { date: v.date || '', place: v.place || '', vids: [] };
+      groups[tk].vids.push(v);
+    });
+    list.innerHTML = Object.entries(groups).sort((a,b) => (b[1].date||'').localeCompare(a[1].date||'')).map(([tname, g]) =>
+      '<div class="tgroup"><div class="tname">🏆 ' + escH(tname) + (g.date ? ' <span>' + escH(g.date) + (g.place ? ' · ' + escH(g.place) : '') + '</span>' : '') + '</div>' +
+      g.vids.map(v => {
+        const vc = cmts.filter(c => c.videoId === v.id);
+        return '<div class="vid">' +
+          '<div class="bt">' + escH([v.event, v.bout, v.opponent ? 'vs ' + v.opponent : '', v.score].filter(Boolean).join(' · ') || v.name) + '</div>' +
+          (v.youtube
+            ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
+            : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '"></video>') +
+          '<div class="cmts">' + vc.map(c => cmtHtml(c)).join('') + '</div>' +
+          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.key===\'Enter\')sendCmt(\'' + v.id + '\',this)"><button onclick="sendCmt(\'' + v.id + '\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
+          '</div>';
+      }).join('') + '</div>'
+    ).join('');
+  }
   document.getElementById('gen-comments').innerHTML = cmts.filter(c => !c.videoId).map(c => cmtHtml(c)).join('');
 }
 function cmtHtml(c){

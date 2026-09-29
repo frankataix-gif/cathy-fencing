@@ -2517,63 +2517,74 @@ function circuitLabel(c) {
     await loadCoachComments();
     renderVideoWall();
   }
+  // 每条视频的所有教练留言（家长视角合并展示，标注教练名）
+  function videoCommentsAll(videoId) {
+    const all = [];
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
+      if (cm.videoId === videoId) all.push({ ...cm, coachName: c.name });
+    }));
+    all.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
+    return all;
+  }
+  function _cmtHtml(c) {
+    return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
+      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
+      ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
+    </div>`;
+  }
+  function _replyBox(videoId) {
+    if (!coaches.length) return '';
+    return `<div style="display:flex; gap:6px; margin-top:6px;">
+      <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
+        ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
+      </select>
+      <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
+        onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,${videoId ? `'${videoId}'` : 'null'},this)}">
+    </div>`;
+  }
+  function _videoCardHtml(v) {
+    const cmts = videoCommentsAll(v.id);
+    return `<div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin:4px 0;">
+        <a href="${escapeHtml(v.url)}" target="_blank" style="font-weight:600; font-size:0.85rem; color:var(--primary); text-decoration:none;">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(v.name)}</a>
+        <span style="font-size:0.72rem; color:var(--gray);">${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>
+        <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="copyVideoLink('${v.id}')">📋</button>
+        ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="archiveVideoToYoutube('${v.id}')">归档YT</button>` : ''}
+        <button class="btn danger" style="font-size:0.7rem; padding:2px 8px;" onclick="deleteVideo('${v.id}')">删</button>
+      </div>
+      ${cmts.length ? `<div style="border-top:1px solid #eef2f7; padding-top:6px; margin-top:4px;">${cmts.map(_cmtHtml).join('')}</div>` : ''}
+      ${_replyBox(v.id)}`;
+  }
   function renderVideoWall() {
     const el = document.getElementById('video-wall');
     if (!el) return;
-    if (!videos.length) { el.innerHTML = '<div style="color:var(--gray); padding:16px 0;">还没有视频。到「比赛成绩」每场对阵旁点 📹 上传，或点上方「上传视频」。</div>'; return; }
-    const sorted = videos.slice().sort((a, b) => (b.uploadedAt || '').localeCompare(a.uploadedAt || ''));
-    el.innerHTML = sorted.map(v => {
+    if (!videos.length) { el.innerHTML = '<div style="color:var(--gray); padding:16px 0;">还没有视频。到「成绩」每场对阵旁点 📹 上传，或点上方「上传视频」。</div>'; return; }
+    // 分组：赛事 → 对阵 → 视频
+    const tGroups = {};
+    videos.forEach(v => {
       const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
-      const tName = (t && t.name) || v.tournamentName || '';
-      const ctx = [tName, (t && t.start) || (v.uploadedAt || '').slice(0, 10), v.eventName].filter(Boolean).join(' · ');
-      const head = [v.boutLabel || v.bout, v.opponent, v.boutScore || v.score].filter(Boolean).join(' · ');
-      // 汇总所有教练对该视频的留言
-      const allCmts = [];
-      coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
-        if (cm.videoId === v.id) allCmts.push({ ...cm, coachName: c.name });
-      }));
-      allCmts.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
-      return `<div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:10px;">
-        ${ctx ? `<div style="font-size:0.75rem; color:var(--gray);">🏆 ${escapeHtml(ctx)}</div>` : ''}
-        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-top:4px;">
-          <a href="${escapeHtml(v.url)}" target="_blank" style="font-weight:600; font-size:0.9rem; color:var(--primary); text-decoration:none;">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(head || v.name)}</a>
-          <span style="font-size:0.72rem; color:var(--gray);">${escapeHtml(v.name)} · ${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>
-          <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="copyVideoLink('${v.id}')">📋</button>
-          ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="archiveVideoToYoutube('${v.id}')">归档YT</button>` : ''}
-          <button class="btn danger" style="font-size:0.7rem; padding:2px 8px;" onclick="deleteVideo('${v.id}')">删</button>
-        </div>
-        ${allCmts.length ? `<div style="margin-top:8px; border-top:1px solid #eef2f7; padding-top:6px;">${allCmts.map(c =>
-          `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-            <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
-            ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
-          </div>`).join('')}</div>` : ''}
-        ${coaches.length ? `<div style="display:flex; gap:6px; margin-top:6px;">
-          <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
-            ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
-          </select>
-          <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
-            onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,'${v.id}',this)}">
-        </div>` : ''}
-      </div>`;
-    }).join('');
+      const tKey = (t && t.name) || v.tournamentName || '_other';
+      if (!tGroups[tKey]) tGroups[tKey] = { name: tKey === '_other' ? '未关联赛事' : tKey, date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10), bouts: {} };
+      const bKey = [v.eventName, v.boutLabel || v.bout, v.opponent, v.boutScore || v.score].filter(Boolean).join('|') || '_nb';
+      if (!tGroups[tKey].bouts[bKey]) tGroups[tKey].bouts[bKey] = { label: [v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '), vids: [] };
+      tGroups[tKey].bouts[bKey].vids.push(v);
+    });
+    const ordered = Object.values(tGroups).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    el.innerHTML = ordered.map(g => `<div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:10px;">
+      <div style="font-weight:700; font-size:0.9rem;">🏆 ${escapeHtml(g.name)}<span style="font-weight:400; font-size:0.75rem; color:var(--gray);"> · ${escapeHtml(g.date || '')} · ${Object.values(g.bouts).reduce((s, b) => s + b.vids.length, 0)} 个视频</span></div>
+      ${Object.values(g.bouts).map(b => `<div style="margin-top:8px; padding-left:8px; border-left:3px solid #e0e7ff;">
+        ${b.label ? `<div style="font-size:0.82rem; font-weight:600; color:#3730a3;">${escapeHtml(b.label)}</div>` : ''}
+        ${b.vids.sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || '')).map(_videoCardHtml).join('')}
+      </div>`).join('')}
+    </div>`).join('');
     // 总体留言（不绑视频）
-    const genCmts = [];
-    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => { if (!cm.videoId) genCmts.push({ ...cm, coachName: c.name }); }));
-    genCmts.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
-    if (genCmts.length || coaches.length) {
+    const general = [];
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => { if (!cm.videoId) general.push({ ...cm, coachName: c.name }); }));
+    general.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
+    if (general.length || coaches.length) {
       el.innerHTML += `<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:10px 12px;">
         <b style="font-size:0.85rem;">💬 总体留言</b>
-        ${genCmts.map(c => `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-top:4px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-          <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
-          ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
-        </div>`).join('')}
-        ${coaches.length ? `<div style="display:flex; gap:6px; margin-top:6px;">
-          <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
-            ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
-          </select>
-          <input placeholder="写总体留言（自动翻译）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
-            onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,null,this)}">
-        </div>` : ''}
+        ${general.map(_cmtHtml).join('')}
+        ${_replyBox(null)}
       </div>`;
     }
   }
