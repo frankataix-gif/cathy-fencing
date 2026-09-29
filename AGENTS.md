@@ -123,3 +123,11 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
   - DOM 修正：`emails-list`→`emails-list-full`、`base-city-input`→`base-city-modal-input`；补上 `upcoming-card`/`upcoming-list` 容器（近期事项卡片之前是死代码）；邮件加载失败回退本地缓存。
   - 注意：sync 内部写 localStorage 要用 `saveUIToLocal`（不触发 queueAutoSync），否则 `cathy_schedule_events`/`cathy_reflections` 会引发无限同步循环。
 - Apps Script 查重改走 Worker `read`（raw CDN 延迟会导致重复推送）。
+
+### 2026-09-29
+- 比赛视频功能（Cloudflare R2）：
+  - 新 Worker `cathyvideos.frankataix.workers.dev`（`video_worker.js`），绑定 R2 桶 `cathy-videos`；独立于 cathysync，无密钥依赖。
+  - 上传：App 分片 15MB → Worker → R2 multipart；播放：`/video/<key>` 流式 + Range 拖进度。
+  - App：赛事卡片「📹 视频」区上传/打开；「我的 → 比赛视频库」管理（复制链接发教练、>90 天建议归档 YouTube、删除）；记录存 user_data.json `videos` 并集合并。
+  - 部署：`python deploy_video_worker.py`（Temp 目录，PUT multipart 含 VIDEOS binding + POST subdomain 启用 workers.dev）。
+  - R2 成本：10GB 免费，超出 $0.015/GB/月，流量免费；100GB ≈ $1.35/月。
