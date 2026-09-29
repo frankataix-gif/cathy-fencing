@@ -394,7 +394,7 @@ function renderCoachPage(token, meta, t) {
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
 <div class="hd">
   <div class="cname">🛡 Coach ${esc(meta.name)}</div>
-  <div class="csub">Cathy He · Foil · Vancouver — ${esc(t.student)}</div>
+  <div class="csub" id="stuLine">Cathy He · Foil · Vancouver — ${esc(t.student)}</div>
   <span class="newb" id="newBadge" style="display:none"></span>
 </div>
 <div class="tip">🤖 ${esc(t.tip)}</div>
@@ -441,6 +441,11 @@ async function load(manual){
     const d = await r.json();
     if(!d.feed) throw new Error("no feed");
     lastSeen = d.meta && d.meta.lastSeen ? new Date(d.meta.lastSeen).getTime() : 0;
+    const stu = d.feed.student;
+    if(stu){
+      const age = stu.birth ? Math.floor((Date.now() - new Date(stu.birth).getTime()) / 31557600000) : null;
+      document.getElementById("stuLine").textContent = [stu.name, stu.weapon, stu.birth ? "🎂 " + stu.birth + (age ? " (" + age + ")" : "") : "", T.student].filter(Boolean).join(" · ");
+    }
     vids = d.feed.videos || [];
     cmts = d.comments || [];
     render();

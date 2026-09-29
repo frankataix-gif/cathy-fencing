@@ -2353,7 +2353,10 @@ function circuitLabel(c) {
     if (_feedTimer) clearTimeout(_feedTimer);
     _feedTimer = setTimeout(async () => {
       try {
-        const feed = { familyLang: getLocal('cathy_family_lang', 'zh') || 'zh', videos: videos.filter(v => v.url && v.share === true).map(v => {
+        const feed = {
+          familyLang: getLocal('cathy_family_lang', 'zh') || 'zh',
+          student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
+          videos: videos.filter(v => v.url && v.share === true).map(v => {
           const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {
             id: v.id, name: v.name, url: v.url,
