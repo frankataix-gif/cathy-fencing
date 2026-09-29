@@ -1096,7 +1096,7 @@ function cmtMenu(btn){
   const c = cmts.find(x => x.id === host.dataset.cid);
   if(!c) return;
   const had = host.querySelector(".cmtmenu");
-  if(had){ had.remove(); return; }
+  if(had){ had.remove(); render(); if(apVid) apRenderCmts(); return; }
   document.querySelectorAll(".cmtmenu").forEach(function(e){ e.remove(); });
   const cur = Array.isArray(c.tags) ? c.tags : (c.tag ? [c.tag] : []);
   const m = document.createElement("div");
@@ -1123,6 +1123,7 @@ function cmtTagToggle(host, btn){
 }
 function cmtDel(host){
   if(!confirm((T.del || "Delete") + "?")) return;
+  const m = host.querySelector(".cmtmenu"); if(m) m.remove();   // 先关菜单，否则刷新守卫挡住本次渲染
   const id = host.dataset.cid;
   cmts = cmts.filter(c => c.id !== id);
   fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_del", token:TOKEN, id})}).catch(function(){});
