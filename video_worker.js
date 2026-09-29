@@ -495,11 +495,11 @@ function renderCoachPage(token, meta, t) {
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
-  <button id="apBack" onclick="apSkip(-1)">⏪ 5s</button>
-  <button id="apFrB" onpointerdown="apHold(-1)" onpointerup="apHoldEnd()" onpointerleave="apHoldEnd()" onpointercancel="apHoldEnd()" oncontextmenu="return false" title="点=退1帧 · 按住=慢退">⏮</button>
+  <button id="apBack" onpointerdown="hStart('s',-1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false">⏪ 5s</button>
+  <button id="apFrB" onpointerdown="hStart('f',-1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false" title="点=退1帧 · 按住=连续退">⏮</button>
   <button id="apPlayBtn" onclick="apToggle()">▶</button>
-  <button id="apFrF" onpointerdown="apHold(1)" onpointerup="apHoldEnd()" onpointerleave="apHoldEnd()" onpointercancel="apHoldEnd()" oncontextmenu="return false" title="点=进1帧 · 按住=慢放">⏭</button>
-  <button id="apFwd" onclick="apSkip(1)">5s ⏩</button>
+  <button id="apFrF" onpointerdown="hStart('f',1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false" title="点=进1帧 · 按住=连续进">⏭</button>
+  <button id="apFwd" onpointerdown="hStart('s',1)" onpointerup="hEnd()" onpointerleave="hEnd()" onpointercancel="hEnd()" oncontextmenu="return false">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apsp" id="apMisc"></div>
@@ -625,33 +625,17 @@ function apSkip(dir){
   apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
 }
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
-// 长按帧按钮：⏭按住=0.25x慢放，⏮按住=连续小步回退（模拟倒带）；点按=逐帧
-let apHoldT = null, apHoldOn = false, apHoldDir = 0;
-function apHold(dir){
-  if(!apV) return;
-  apHoldOn = false; apHoldDir = dir;
-  const start = Date.now();
-  apHoldT = setInterval(function(){
-    if(Date.now() - start < 250) return;   // 250ms 内松开 = 点按逐帧
-    if(!apHoldOn){
-      apHoldOn = true;
-      if(dir > 0){ apV.playbackRate = 0.25; apV.play().catch(function(){}); }
-      else apHoldBack();
-    }
-    if(dir < 0) apHoldBack();
-  }, 80);
+// 按住=连续动作（帧按钮连续走帧、跳秒按钮连续跳）；点按=单次
+let hT = null, hI = null;
+function hAct(mode, dir){ (mode === 'f' ? apStep : apSkip)(dir); }
+function hStart(mode, dir){
+  hEnd();
+  hAct(mode, dir);                                          // 按下即执行一次
+  hT = setTimeout(function(){                               // 按住 350ms 后进入连续模式
+    hI = setInterval(function(){ hAct(mode, dir); }, mode === 'f' ? 70 : 350);
+  }, 350);
 }
-function apHoldBack(){
-  apV.pause();
-  document.getElementById("apPlayBtn").textContent = "▶";
-  apV.currentTime = Math.max(0, apV.currentTime - 0.08);
-}
-function apHoldEnd(){
-  clearInterval(apHoldT); apHoldT = null;
-  if(apHoldOn){ apV.pause(); apV.playbackRate = 1; document.getElementById("apPlayBtn").textContent = "▶"; }
-  else if(apHoldDir) apStep(apHoldDir);   // 短按 = 逐帧
-  apHoldOn = false; apHoldDir = 0;
-}
+function hEnd(){ clearTimeout(hT); clearInterval(hI); hT = hI = null; }
 function apStepSet(s, btn){
   apStepN = s;
   btn.parentNode.querySelectorAll("[data-st]").forEach(b => b.classList.toggle("on", b === btn));
