@@ -794,7 +794,8 @@ async function apToggleRec(){
   if(apV && !liveRec){ apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
   try{
-    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    btn.textContent = "⏳";                                                    // 立即反馈，等权限
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } });
     const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
     rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
     recChunks = [];
@@ -820,7 +821,7 @@ async function apToggleRec(){
     };
     rec.start();
     btn.textContent = "⏹";
-  }catch(e){ alert(T.noMic || "Mic unavailable"); }
+  }catch(e){ btn.textContent = "🎤"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
 }
 function render(){
   const list = document.getElementById("list");
@@ -976,7 +977,8 @@ async function toggleRec(btn){
   if(rec){ rec.stop(); return; }
   if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
   try{
-    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    btn.textContent = "⏳";
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } });
     const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
     rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
     recChunks = [];
@@ -1003,7 +1005,7 @@ async function toggleRec(btn){
     };
     rec.start();
     btn.textContent = "⏹";
-  }catch(e){ alert(T.noMic || "Mic unavailable"); }
+  }catch(e){ btn.textContent = "🎤"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
 }
 load();
 setInterval(function(){ load(true); }, 15000);
