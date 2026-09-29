@@ -9,9 +9,9 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用' },
-  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言' },
+  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scegli la tua lingua — i commenti si traducono automaticamente. 🌐 mostra l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua', student: 'allieva', refresh: 'Aggiorna', updated: 'Aggiornato', newV: 'nuovi dalla tua ultima visita', cmtsOf: 'commenti', videosHere: 'video dei match in questo link', update: 'Nuova versione — tocca per aggiornare', boutCmt: 'commenti sul match', clipCmt: 'commenti sul video', vidFail: 'Video non caricato', loadFail: 'Caricamento fallito', noVoice: 'Registrazione vocale non supportata', noMic: 'Microfono non disponibile' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Choisissez votre langue — les commentaires sont traduits automatiquement. 🌐 affiche l’original.', other: 'Autre langue…', langPh: 'Tapez votre langue', student: 'élève', refresh: 'Actualiser', updated: 'Actualisé', newV: 'nouvelles depuis votre dernière visite', cmtsOf: 'commentaires', videosHere: 'vidéos de matchs sous ce lien', update: 'Nouvelle version — touchez pour actualiser', boutCmt: 'commentaires du match', clipCmt: 'commentaires de la vidéo', vidFail: 'Échec du chargement de la vidéo', loadFail: 'Échec du chargement', noVoice: 'Enregistrement vocal non pris en charge', noMic: 'Micro indisponible' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Elige tu idioma — los comentarios se traducen automáticamente. 🌐 muestra el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma', student: 'alumna', refresh: 'Actualizar', updated: 'Actualizado', newV: 'nuevos desde tu última visita', cmtsOf: 'comentarios', videosHere: 'videos de combates en este enlace', update: 'Nueva versión — toca para actualizar', boutCmt: 'comentarios del combate', clipCmt: 'comentarios del clip', vidFail: 'Error al cargar el vídeo', loadFail: 'Error de carga', noVoice: 'Grabación de voz no compatible', noMic: 'Micrófono no disponible' },
@@ -444,6 +444,9 @@ function renderCoachPage(token, meta, t) {
   .box input{flex:1;padding:8px 10px;border:1px solid #d1d5db;border-radius:8px;font-size:16px;box-sizing:border-box}
   .box button{padding:8px 12px;border:none;border-radius:8px;background:#2563eb;color:#fff;font-size:0.85rem;cursor:pointer}
   .box .mic{background:#dcfce7;color:#166534}
+  .apcbtns{display:flex;gap:8px;margin-top:8px}
+  .apcbtns button{flex:1;background:#1e293b;color:#e2e8f0;border:1px solid #334155;border-radius:12px;padding:12px 8px;font-size:.9rem;font-weight:600;cursor:pointer;min-height:48px}
+  .rect{color:#ef4444;font-weight:700;align-self:center;flex:1;font-size:.95rem}
   .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin:14px 0}
   .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
@@ -508,7 +511,9 @@ function renderCoachPage(token, meta, t) {
 <div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
 <div class="apvol" id="apVolNote" style="display:none;font-size:.75rem">📱 音量请用设备音量键调节 · Volume: use device buttons</div>
 <div class="aptags" id="apTags"></div>
-<div class="box" style="margin-top:8px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button><button class="mic" id="apMic" onclick="apToggleRec()" title="Voice">🎤</button></div>
+<div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
+<div class="box" id="apTxtBox" style="display:none;margin-top:6px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button></div>
+<div class="box" id="apRecBox" style="display:none;margin-top:6px"><span class="rect" id="apRecT">● 0:00</span><button onclick="apStopRec()">⏹ ${esc(t.send)}</button><button onclick="apCancelRec()" style="background:#475569">✕</button></div>
 <div class="cmts" id="apCmts" style="margin-top:8px"></div>
 </div></div>
 <div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
@@ -779,23 +784,33 @@ async function apSend(){
   }catch(e){ input.value = text; }
   input.disabled = false; input.focus();
 }
-// 分析面板录音：暂停视频 → 录音 → 上传 → 打点留言（带 vt + tag）
-async function apToggleRec(){
-  if(rec){ rec.stop(); return; }
-  const btn = document.getElementById("apMic");
-  const vt = apV ? +apV.currentTime.toFixed(2) : null;
-  if(apV){ apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
+// 分析面板留言：💬文字 / 🎤语音 两个按钮各展开一条操作栏
+function apShowTxt(){
+  document.getElementById("apTxtBox").style.display = "flex";
+  document.getElementById("apRecBox").style.display = "none";
+  document.getElementById("apInput").focus();
+}
+let recTimer = null, recStartT = 0, recCancel = false, recVt = null;
+async function apStartRec(){
+  if(rec) return;
   if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
+  recVt = apV ? +apV.currentTime.toFixed(2) : null;
+  if(apV){ apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
+  const rb = document.getElementById("apRecBox"), rt = document.getElementById("apRecT");
+  rb.style.display = "flex";
+  document.getElementById("apTxtBox").style.display = "none";
+  rt.textContent = "● …";
   try{
-    btn.textContent = "⏳";                                                    // 立即反馈，等权限
     const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } });
     const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
     rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
-    recChunks = [];
+    recChunks = []; recCancel = false;
     rec.ondataavailable = e => { if(e.data && e.data.size) recChunks.push(e.data); };
     rec.onstop = async () => {
+      clearInterval(recTimer); recTimer = null;
       stream.getTracks().forEach(t => t.stop());
-      btn.textContent = "⏳";
+      if(recCancel){ rec = null; rb.style.display = "none"; return; }
+      rt.textContent = "⏳";
       try{
         const blob = new Blob(recChunks, { type: rec.mimeType || "audio/webm" });
         const ext = blob.type.includes("mp4") ? ".m4a" : ".webm";
@@ -804,18 +819,24 @@ async function apToggleRec(){
         const part = await pr.json();
         const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
         if(comp.url){
-          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt, tags:apTags.slice(), ts:new Date().toISOString() });
+          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt:recVt, tags:apTags.slice(), ts:new Date().toISOString() });
           apRenderCmts(); render();
-          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt, tags:apTags, author:"coach", text:"🎤", audioUrl:comp.url }) });
+          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt:recVt, tags:apTags, author:"coach", text:"🎤", audioUrl:comp.url }) });
           await load();
         }
       }catch(e){}
-      btn.textContent = "🎤"; rec = null;
+      rb.style.display = "none"; rec = null;
     };
+    recStartT = Date.now();
+    recTimer = setInterval(function(){
+      rt.textContent = "● " + fmtT(Math.floor((Date.now() - recStartT) / 1000));
+    }, 500);
     rec.start();
-    btn.textContent = "⏹";
-  }catch(e){ btn.textContent = "🎤"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
+    rt.textContent = "● 0:00";
+  }catch(e){ rb.style.display = "none"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
 }
+function apStopRec(){ if(rec) rec.stop(); }
+function apCancelRec(){ recCancel = true; if(rec) rec.stop(); else document.getElementById("apRecBox").style.display = "none"; }
 function render(){
   const list = document.getElementById("list");
   const sig = vids.map(v => v.id + ":" + (v.tournament||"")).join("|");
