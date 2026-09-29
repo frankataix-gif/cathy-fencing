@@ -9,9 +9,9 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言，系统自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言，系统自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言' },
   'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '用你的母語留言，系統自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Comment in your own language — auto-translated both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Comment in your own language — auto-translated both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Commenta nella tua lingua — traduzione automatica. 🌐 per l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Commentez dans votre langue — traduction automatique. 🌐 pour l’original.', other: 'Autre langue…', langPh: 'Tapez votre langue' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Comenta en tu idioma — traducción automática. 🌐 muestra el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma' },
@@ -385,6 +385,11 @@ function renderCoachPage(token, meta, t) {
   .cbtn{margin-top:8px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:5px 10px;font-size:0.76rem;color:#475569;cursor:pointer;width:100%;text-align:left}
   .cbody{display:none;margin-top:6px}
   .cbody.open{display:block}
+  .vwrap{display:flex;flex-direction:column;gap:4px}
+  .vbtn{border:1px solid #e2e8f0;background:#f8fafc;border-radius:7px;font-size:0.68rem;color:#475569;padding:3px 0;cursor:pointer}
+  .vbtn.on{background:#dbeafe;border-color:#93c5fd;color:#1d4ed8}
+  .vcpanel{display:none;margin-top:8px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:8px}
+  .vcpt{font-size:0.74rem;font-weight:600;color:#3730a3;margin-bottom:4px}
   .cmt{font-size:0.84rem;padding:6px 8px;border-radius:8px;margin-bottom:4px}
   .cmt.coach{background:#eff6ff}.cmt.family{background:#f0fdf4}
   .cmt .who{font-size:0.68rem;color:#94a3b8;margin-bottom:2px}
@@ -412,10 +417,6 @@ function renderCoachPage(token, meta, t) {
 <div class="tip">🤖 ${esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
-<div class="gen"><b>💬 ${esc(t.general)}</b>
-  <div id="gen-comments" style="margin-top:6px"></div>
-  <div class="box"><input id="gen-input" placeholder="${esc(t.namePh)}" onkeydown="if(event.keyCode===13)sendCmt(this)"><button onclick="sendCmt(document.getElementById(&quot;gen-input&quot;))">${esc(t.send)}</button><button class="mic" onclick="toggleRec(this)" title="Voice">🎤</button></div>
-</div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
 <div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
@@ -424,7 +425,7 @@ const TOKEN = ${JSON.stringify(token)};
 const PAGE_VER = ${JSON.stringify(PAGE_VERSION)};
 const T = ${JSON.stringify(t)};
 let vids = [], cmts = [], lastSeen = 0, boutVid = {};
-const openCmts = {};
+const openCmts = {}, openV = {};
 // 首开引导：气泡+脉冲指向语言选择器，点掉或选语言后不再出现
 const hintKey = "langHinted_" + TOKEN;
 function dismissHint(){
@@ -476,6 +477,25 @@ async function load(manual){
 }
 let renderedSig = "";
 function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
+// 对阵级留言 id 的 bout 部分：全部为空时退化为视频 id，避免串组
+function bcmtKey(v){
+  const k = [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("~");
+  return k === "~~~" ? "#" + v.id : k;
+}
+// 片段留言面板：每个 bout 一个共享面板，点不同片段的 💬 切换目标
+function openVCmt(btn){
+  const bout = btn.closest(".bout");
+  const p = bout.querySelector(".vcpanel");
+  const vid = btn.dataset.vid, bk = bout.dataset.bkey;
+  if(p.style.display === "block" && p.dataset.vid === vid){
+    p.style.display = "none"; p.dataset.vid = ""; delete openV[bk]; btn.classList.remove("on"); return;
+  }
+  bout.querySelectorAll(".vbtn").forEach(b => b.classList.toggle("on", b === btn));
+  p.dataset.vid = vid; p.style.display = "block"; openV[bk] = vid;
+  const v = vids.find(x => x.id === vid);
+  p.querySelector(".vcpt").textContent = "💬 " + (T.clipCmt || "Clip comments") + (v ? " — " + v.name : "");
+  p.querySelector(".cmts").innerHTML = cmts.filter(c => c.videoId === vid).map(cmtHtml).join("");
+}
 function render(){
   const list = document.getElementById("list");
   const sig = vids.map(v => v.id + ":" + (v.tournament||"")).join("|");
@@ -513,36 +533,57 @@ function render(){
           g.bord.map(bk => {
             const b = g.bouts[bk];
             const bid = escH(bk);
-            const n = cmts.filter(c => b.vids.some(v => v.id === c.videoId)).length;
-            return "<div class='bout' data-bkey='" + bid + "'><div class='bhead'>" + escH(b.label || b.vids[0].name) + "</div>" +
+            // 对阵级留言挂在稳定 key：b:赛事~回合~对手~比分（与家长端公式一致）
+            const bcid = "b:" + tname + "~" + bcmtKey(b.vids[0]);
+            const n = cmts.filter(c => c.videoId === bcid).length;
+            const cbox = "<div class='box'><input placeholder='" + escH(T.namePh) + "' onkeydown='if(event.keyCode===13)sendCmt(this)'><button onclick='sendCmt(this.previousElementSibling)'>" + escH(T.send) + "</button><button class='mic' onclick='toggleRec(this)' title='Voice'>🎤</button></div>";
+            return "<div class='bout' data-bkey='" + bid + "' data-bcid='" + escH(bcid) + "'><div class='bhead'>" + escH(b.label || b.vids[0].name) + "</div>" +
               "<div class='vgrid'>" + b.vids.map(v => {
                 const isN = isNew(v.uploadedAt);
-                if(v.youtube) return "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>";
-                return "<div class='vcell' onclick='playV(this)'>" +
-                  "<video muted playsinline preload='metadata' src='" + escH(v.url) + "' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
-                  "<div class='pov'>▶</div><div class='dur'></div>" +
-                  (isN ? "<div class='newtag'>NEW</div>" : "") +
-                  "<div class='vname'>" + escH(v.name) + "</div></div>";
+                const vc = cmts.filter(c => c.videoId === v.id).length;
+                const cell = v.youtube
+                  ? "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>"
+                  : "<div class='vcell' onclick='playV(this)'>" +
+                    "<video muted playsinline preload='metadata' src='" + escH(v.url) + "' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
+                    "<div class='pov'>▶</div><div class='dur'></div>" +
+                    (isN ? "<div class='newtag'>NEW</div>" : "") +
+                    "<div class='vname'>" + escH(v.name) + "</div></div>";
+                return "<div class='vwrap'>" + cell +
+                  "<button class='vbtn' data-vid='" + escH(v.id) + "' onclick='openVCmt(this)'>💬 " + vc + "</button></div>";
               }).join("") + "</div>" +
-              "<button class='cbtn' onclick='toggleCmts(this)'>💬 " + n + " " + T.cmtsOf + "</button>" +
-              "<div class='cbody" + (openCmts[bk] ? " open" : "") + "'><div class='cmts' data-bkey='" + bid + "'></div>" +
-              "<div class='box'><input placeholder='" + escH(T.namePh) + "' onkeydown='if(event.keyCode===13)sendCmt(this)'><button onclick='sendCmt(this.previousElementSibling)'>" + escH(T.send) + "</button><button class='mic' onclick='toggleRec(this)' title='Voice'>🎤</button></div></div></div>";
+              "<div class='vcpanel'><div class='vcpt'></div><div class='cmts'></div>" + cbox + "</div>" +
+              "<button class='cbtn' onclick='toggleCmts(this)'>💬 " + n + " " + escH(T.boutCmt) + "</button>" +
+              "<div class='cbody" + (openCmts[bk] ? " open" : "") + "'><div class='cmts'></div>" + cbox + "</div></div>";
           }).join("") + "</div>";
       }).join("");
+      // 重建后恢复已打开的片段留言面板
+      list.querySelectorAll(".bout").forEach(el => {
+        const vid = openV[el.dataset.bkey];
+        if(!vid) return;
+        const btn = Array.from(el.querySelectorAll(".vbtn")).find(b => b.dataset.vid === vid);
+        if(btn){ const p = el.querySelector(".vcpanel"); p.dataset.vid = vid; p.style.display = "block"; btn.classList.add("on"); }
+      });
     }
   }
   // 留言原地更新 + 计数刷新
   document.querySelectorAll(".bout").forEach(el => {
-    const bk = el.dataset.bkey;
-    const bVids = vids.filter(v => boutVid[v.id] === bk);
-    const list2 = bVids.map(v => v.id);
-    const bc = cmts.filter(c => list2.includes(c.videoId));
-    const ce = el.querySelector(".cmts");
+    const bcid = el.dataset.bcid;
+    const bc = cmts.filter(c => c.videoId === bcid);
+    const ce = el.querySelector(".cbody .cmts");
     if(ce) ce.innerHTML = bc.map(cmtHtml).join("");
     const btn = el.querySelector(".cbtn");
-    if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.cmtsOf) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
+    if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
+    el.querySelectorAll(".vbtn").forEach(b => {
+      const list3 = cmts.filter(c => c.videoId === b.dataset.vid);
+      b.innerHTML = "💬 " + list3.length + (list3.length ? " · " + ago(list3[list3.length-1].ts) : "");
+    });
+    const p = el.querySelector(".vcpanel");
+    if(p && p.dataset.vid){
+      p.querySelector(".cmts").innerHTML = cmts.filter(c => c.videoId === p.dataset.vid).map(cmtHtml).join("");
+      const v = vids.find(x => x.id === p.dataset.vid);
+      p.querySelector(".vcpt").textContent = "💬 " + (T.clipCmt || "Clip comments") + (v ? " — " + v.name : "");
+    }
   });
-  document.getElementById("gen-comments").innerHTML = cmts.filter(c => !c.videoId || !boutVid[c.videoId]).map(cmtHtml).join("");
 }
 function durSet(v){
   const d = v.duration;
@@ -594,20 +635,21 @@ async function setLang(v){
     location.reload();
   }catch(e){}
 }
-function inputBkey(input){
-  const bout = input.closest(".bout");
-  if(!bout) return null;
-  const bk = bout.dataset.bkey;
-  const bv = vids.find(v => boutVid[v.id] === bk);
-  return bv ? bv.id : null;
+// 输入框归属：片段面板 → 该视频 id；对阵留言区 → b: 前缀的对阵 key
+function inputTarget(el){
+  const p = el.closest(".vcpanel");
+  if(p && p.dataset.vid) return p.dataset.vid;
+  const b = el.closest(".bout");
+  return b ? b.dataset.bcid : null;
 }
 async function sendCmt(input){
   const text = input.value.trim();
   if(!text) return;
-  const videoId = inputBkey(input);
+  const videoId = inputTarget(input);
   input.value = "";
   input.disabled = true;
-  openCmts[input.closest(".bout") ? input.closest(".bout").dataset.bkey : ""] = true;
+  const b = input.closest(".bout");
+  if(b && input.closest(".cbody")) openCmts[b.dataset.bkey] = true;
   cmts.push({ id: "tmp_" + Date.now(), videoId, author: "coach", text, display: text, ts: new Date().toISOString() });
   render();
   try{
@@ -620,7 +662,7 @@ async function sendCmt(input){
 // ===== 语音留言：MediaRecorder -> R2 -> comment_add(audioUrl) =====
 let rec = null, recChunks = [];
 async function toggleRec(btn){
-  const videoId = inputBkey(btn);
+  const videoId = inputTarget(btn);
   if(rec){ rec.stop(); return; }
   if(!navigator.mediaDevices || !window.MediaRecorder){ alert("Voice recording not supported"); return; }
   try{

@@ -2651,12 +2651,12 @@ function circuitLabel(c) {
   }
   function _replyBox(videoId) {
     if (!coaches.length) return '';
-    return `<div style="display:flex; gap:6px; margin-top:6px;" data-reply="${videoId || ''}">
+    return `<div style="display:flex; gap:6px; margin-top:6px;" data-reply="${escapeHtml(videoId || '')}">
       <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
         ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
       </select>
       <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
-        onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,${videoId ? `'${videoId}'` : 'null'},this)}">
+        onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,this.closest('[data-reply]').dataset.reply||null,this)}">
       <button class="btn secondary" style="font-size:0.8rem; padding:4px 8px;" title="语音留言" onclick="familyVoice(this)">🎤</button>
     </div>`;
   }
@@ -2729,6 +2729,23 @@ function circuitLabel(c) {
     saveVideos();
     refreshVideoViews();
   }
+  // 对阵级留言 id：与教练页同一公式（b:赛事~回合~对手~比分），全空退化为视频 id
+  function boutCmtId(v) {
+    const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
+    const tname = (t && t.name) || v.tournamentName || '';
+    const k = [v.eventName || '', v.boutLabel || v.bout || '', v.opponent || '', v.boutScore || v.score || ''].join('~');
+    return 'b:' + tname + '~' + (k === '~~~' ? '#' + v.id : k);
+  }
+  // 对阵级留言区（合并所有教练的留言 + 家长回复框）
+  function _boutCmtHtml(b) {
+    const bcid = boutCmtId(b.vids[0]);
+    const cmts = videoCommentsAll(bcid);
+    return `<div style="margin-top:8px; border-top:1px dashed #e2e8f0; padding-top:6px;">
+      <b style="font-size:0.78rem; color:#3730a3;">💬 本场留言（覆盖上面全部片段）</b>
+      ${cmts.map(_cmtHtml).join('')}
+      ${_replyBox(bcid)}
+    </div>`;
+  }
   function renderWallInto(elId, list, shared) {
     const el = document.getElementById(elId);
     if (!el) return;
@@ -2757,6 +2774,7 @@ function circuitLabel(c) {
       ${Object.values(g.bouts).map(b => `<div style="margin-top:8px; padding-left:8px; border-left:3px solid #e0e7ff;">
         ${b.label ? `<div style="font-size:0.82rem; font-weight:600; color:#3730a3;">${escapeHtml(b.label)}</div>` : ''}
         ${b.vids.sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || '')).map(v => _videoCardHtml(v, shared)).join('')}
+        ${shared ? _boutCmtHtml(b) : ''}
       </div>`).join('')}
     </div>`).join('');
   }
@@ -2777,10 +2795,12 @@ function circuitLabel(c) {
     // 总体留言挂在共享区底部（教练只对共享内容留言）
     const el = document.getElementById('video-wall-shared');
     if (!el) return;
-    const sharedIds = new Set(videos.filter(v => v.share === true).map(v => v.id));
+    const sharedVids = videos.filter(v => v.share === true);
+    const sharedIds = new Set(sharedVids.map(v => v.id));
+    const sharedBoutIds = new Set(sharedVids.map(v => boutCmtId(v)));
     const general = [];
     coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
-      if (!cm.videoId || !sharedIds.has(cm.videoId)) general.push({ ...cm, coachName: c.name, orphan: !!cm.videoId });
+      if (!cm.videoId || !(sharedIds.has(cm.videoId) || sharedBoutIds.has(cm.videoId))) general.push({ ...cm, coachName: c.name, orphan: !!cm.videoId });
     }));
     general.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
     if (general.length || coaches.length) {
