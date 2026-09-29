@@ -273,12 +273,15 @@ function escH(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&
 async function load(){
   try{
     const r = await fetch('/coach-data/' + TOKEN);
+    if(!r.ok) throw new Error('HTTP ' + r.status);
     const d = await r.json();
-    if(!d.feed) return;
+    if(!d.feed) throw new Error('no feed');
     vids = d.feed.videos || [];
     cmts = d.comments || [];
     render();
-  }catch(e){}
+  }catch(e){
+    document.getElementById('list').innerHTML = '<div class="vid" style="color:#b91c1c">Load failed: ' + escH(e.message) + '</div>';
+  }
 }
 function render(){
   const list = document.getElementById('list');
@@ -299,14 +302,21 @@ function render(){
           '<div class="bt">' + escH([v.event, v.bout, v.opponent ? 'vs ' + v.opponent : '', v.score].filter(Boolean).join(' · ') || v.name) + '</div>' +
           (v.youtube
             ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
-            : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '"></video>') +
+            : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '" onerror="vidErr(this)"></video>') +
           '<div class="cmts">' + vc.map(c => cmtHtml(c)).join('') + '</div>' +
-          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.key===\'Enter\')sendCmt(\'' + v.id + '\',this)"><button onclick="sendCmt(\'' + v.id + '\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
+          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.keyCode===13)sendCmt(\\'' + v.id + '\\',this)"><button onclick="sendCmt(\\'' + v.id + '\\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
           '</div>';
       }).join('') + '</div>'
     ).join('');
   }
   document.getElementById('gen-comments').innerHTML = cmts.filter(c => !c.videoId).map(c => cmtHtml(c)).join('');
+}
+function vidErr(el){
+  const code = el.error ? el.error.code : '?';
+  const msg = document.createElement('div');
+  msg.style.cssText = 'padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;font-size:0.8rem';
+  msg.textContent = 'Video failed to load (error ' + code + ')';
+  el.replaceWith(msg);
 }
 function cmtHtml(c){
   return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') + '</div>' + escH(c.display || c.text) + '</div>';
