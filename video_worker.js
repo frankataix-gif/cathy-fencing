@@ -9,12 +9,56 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically' },
-  it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente' },
-  fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement' }
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '用你的母语留言即可——系统会自动翻译成中文给家长，家长的回复会翻译成你的语言。点 🌐 查看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）' },
+  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '用你的母語留言即可——系統會自動翻譯成中文給家長，家長的回覆會翻譯成你的語言。點 🌐 查看原文。', other: '其他語言…', langPh: '輸入你的語言' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Write in your own language — your comments are auto-translated to Chinese for the family, and their replies appear here in yours. Tap 🌐 to see the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)' },
+  it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scrivi nella tua lingua — i commenti sono tradotti automaticamente in cinese per la famiglia, e le loro risposte appaiono qui nella tua. Tocca 🌐 per l\u2019originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua' },
+  fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Écrivez dans votre langue — vos commentaires sont traduits automatiquement en chinois pour la famille, et leurs réponses apparaissent ici dans la vôtre. Touchez 🌐 pour l\u2019original.', other: 'Autre langue…', langPh: 'Tapez votre langue' },
+  es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Escribe en tu idioma — tus comentarios se traducen automáticamente al chino para la familia, y sus respuestas aparecen aquí en el tuyo. Toca 🌐 para ver el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma' },
+  ar: { title: 'فيديوهات مباريات كاثي', sub: 'فيديوهات ومناقشة لكل نزال', comments: 'التعليقات', send: 'إرسال', namePh: 'اكتب تعليقاً…', none: 'لا توجد فيديوهات بعد', general: 'تعليقات عامة', coach: 'المدرب', family: 'العائلة', loading: 'جارٍ التحميل…', auto: 'تتحدث الصفحة تلقائياً', tip: 'اكتب بلغتك — تُترجم تعليقاتك تلقائياً إلى الصينية للعائلة، وتظهر ردودهم هنا بلغتك. اضغط 🌐 لرؤية الأصل.', other: 'لغة أخرى…', langPh: 'اكتب لغتك' },
+  de: { title: 'Cathys Gefechtsvideos', sub: 'Videos und Diskussion pro Gefecht', comments: 'Kommentare', send: 'Senden', namePh: 'Kommentar schreiben…', none: 'Noch keine Videos', general: 'Allgemeine Kommentare', coach: 'Trainer', family: 'Familie', loading: 'Lädt…', auto: 'Die Seite aktualisiert sich automatisch', tip: 'Schreiben Sie in Ihrer Sprache — Ihre Kommentare werden automatisch ins Chinesische für die Familie übersetzt, und deren Antworten erscheinen hier in Ihrer Sprache. Tippen Sie auf 🌐 für das Original.', other: 'Andere Sprache…', langPh: 'Ihre Sprache eingeben' },
+  ja: { title: 'Cathyの試合動画', sub: '各試合の動画とディスカッション', comments: 'コメント', send: '送信', namePh: 'コメントを入力…', none: 'まだ動画がありません', general: '全体へのコメント', coach: 'コーチ', family: '家族', loading: '読み込み中…', auto: 'ページは自動更新されます', tip: '母国語でコメントしてください——自動で中国語に翻訳され家族に届き、家族の返信はあなたの言語で表示されます。🌐で原文を表示。', other: 'その他の言語…', langPh: '言語を入力' },
+  ko: { title: 'Cathy 경기 영상', sub: '경기별 영상과 토론', comments: '댓글', send: '보내기', namePh: '댓글을 입력하세요…', none: '아직 영상이 없습니다', general: '전체 댓글', coach: '코치', family: '가족', loading: '로딩 중…', auto: '페이지가 자동으로 업데이트됩니다', tip: '모국어로 작성하세요 — 댓글은 자동으로 중국어로 번역되어 가족에게 전달되고, 가족의 답글은 여기에 당신의 언어로 표시됩니다. 🌐을 눌러 원문을 확인하세요.', other: '기타 언어…', langPh: '언어를 입력하세요' },
+  ru: { title: 'Видео боёв Cathy', sub: 'Видео и обсуждение каждого боя', comments: 'Комментарии', send: 'Отправить', namePh: 'Написать комментарий…', none: 'Видео пока нет', general: 'Общие комментарии', coach: 'Тренер', family: 'Семья', loading: 'Загрузка…', auto: 'Страница обновляется автоматически', tip: 'Пишите на своём языке — комментарии автоматически переводятся на китайский для семьи, а их ответы появляются здесь на вашем языке. Нажмите 🌐 чтобы увидеть оригинал.', other: 'Другой язык…', langPh: 'Введите ваш язык' },
+  hu: { title: 'Cathy mérkőzés videói', sub: 'Videók és beszélgetés mérkőzésenként', comments: 'Hozzászólások', send: 'Küldés', namePh: 'Írj hozzászólást…', none: 'Még nincs videó', general: 'Általános hozzászólások', coach: 'Edző', family: 'Család', loading: 'Betöltés…', auto: 'Az oldal automatikusan frissül', tip: 'Írj az anyanyelveden — a hozzászólásaid automatikusan kínaiul jelennek meg a családnak, az ő válaszaik pedig itt a te nyelveden. 🌐 az eredetihez.', other: 'Más nyelv…', langPh: 'Írd be a nyelved' },
+  pt: { title: 'Vídeos dos combates da Cathy', sub: 'Vídeos e discussão por combate', comments: 'Comentários', send: 'Enviar', namePh: 'Escreva um comentário…', none: 'Ainda não há vídeos', general: 'Comentários gerais', coach: 'Treinador', family: 'Família', loading: 'A carregar…', auto: 'A página atualiza-se automaticamente', tip: 'Escreva no seu idioma — os comentários são traduzidos automaticamente para chinês para a família, e as respostas aparecem aqui no seu. Toque 🌐 para ver o original.', other: 'Outro idioma…', langPh: 'Escreva o seu idioma' },
+  uk: { title: 'Відео поєдинків Cathy', sub: 'Відео та обговорення кожного поєдинку', comments: 'Коментарі', send: 'Надіслати', namePh: 'Написати коментар…', none: 'Відео поки немає', general: 'Загальні коментарі', coach: 'Тренер', family: 'Родина', loading: 'Завантаження…', auto: 'Сторінка оновлюється автоматично', tip: 'Пишіть своєю мовою — коментарі автоматично перекладаються китайською для родини, а їхні відповіді з\u2019являються тут вашою. Натисніть 🌐 щоб побачити оригінал.', other: 'Інша мова…', langPh: 'Введіть вашу мову' },
+  pl: { title: 'Wideo walk Cathy', sub: 'Wideo i dyskusja dla każdej walki', comments: 'Komentarze', send: 'Wyślij', namePh: 'Napisz komentarz…', none: 'Brak wideo', general: 'Komentarze ogólne', coach: 'Trener', family: 'Rodzina', loading: 'Ładowanie…', auto: 'Strona aktualizuje się automatycznie', tip: 'Pisz w swoim języku — komentarze są automatycznie tłumaczone na chiński dla rodziny, a ich odpowiedzi pojawiają się tutaj w Twoim języku. Dotknij 🌐, aby zobaczyć oryginał.', other: 'Inny język…', langPh: 'Wpisz swój język' },
+  fa: { title: 'ویدیوهای مبارزه کتی', sub: 'ویدیو و بحث برای هر مبارزه', comments: 'نظرات', send: 'ارسال', namePh: 'نظر بنویسید…', none: 'هنوز ویدیویی نیست', general: 'نظرات کلی', coach: 'مربی', family: 'خانواده', loading: 'در حال بارگذاری…', auto: 'صفحه به‌صورت خودکار به‌روزرسانی می‌شود', tip: 'به زبان خودتان بنویسید — نظرات شما به‌صورت خودکار به چینی برای خانواده ترجمه می‌شود و پاسخ‌های آن‌ها به زبان شما نمایش داده می‌شود. برای دیدن متن اصلی روی 🌐 بزنید.', other: 'زبان دیگر…', langPh: 'زبان خود را بنویسید' },
+  ro: { title: 'Videoclipuri meciuri Cathy', sub: 'Videoclipuri și discuții pentru fiecare asalt', comments: 'Comentarii', send: 'Trimite', namePh: 'Scrie un comentariu…', none: 'Încă nu sunt videoclipuri', general: 'Comentarii generale', coach: 'Antrenor', family: 'Familie', loading: 'Se încarcă…', auto: 'Pagina se actualizează automat', tip: 'Scrie în limba ta — comentariile sunt traduse automat în chineză pentru familie, iar răspunsurile lor apar aici în limba ta. Apasă 🌐 pentru original.', other: 'Altă limbă…', langPh: 'Scrie limba ta' },
+  tr: { title: "Cathy'nin Maç Videoları", sub: 'Her maç için video ve tartışma', comments: 'Yorumlar', send: 'Gönder', namePh: 'Yorum yazın…', none: 'Henüz video yok', general: 'Genel yorumlar', coach: 'Antrenör', family: 'Aile', loading: 'Yükleniyor…', auto: 'Sayfa otomatik güncellenir', tip: 'Kendi dilinizde yazın — yorumlarınız aile için otomatik olarak Çinceye çevrilir ve onların yanıtları burada sizin dilinizde görünür. Orijinal için 🌐 dokunun.', other: 'Diğer dil…', langPh: 'Dilinizi yazın' }
 };
-const LANG_NAME = { zh: '中文', en: 'English', it: 'italiano', fr: 'français' };
+const LANG_NAME = {
+  zh: '中文', 'zh-TW': '繁體中文', en: 'English', it: 'italiano', fr: 'français',
+  es: 'español', ar: 'العربية', de: 'Deutsch', ja: '日本語', ko: '한국어',
+  ru: 'русский', hu: 'magyar', pt: 'português', uk: 'українська', pl: 'polski',
+  fa: 'فارسی', ro: 'română', tr: 'Türkçe'
+};
+// 击剑主流语言选项（顺序 = 常见度）
+const LANG_OPTIONS = ['en', 'it', 'fr', 'zh', 'zh-TW', 'ja', 'ko', 'ru', 'hu', 'es', 'ar', 'de', 'pt', 'uk', 'pl', 'fa', 'ro', 'tr'];
+// 校验语言代码/自定义语言名
+function validLang(l) { return typeof l === 'string' && /^[a-zA-Z\u4e00-\u9fff\u0600-\u06ff\- ]{2,30}$/.test(l) && l.length <= 30; }
+// 非内置语言的 UI 文案：AI 翻译一次后缓存到 R2
+async function getUILang(env, lang) {
+  if (COACH_I18N[lang]) return COACH_I18N[lang];
+  const cacheKey = `coach/ui_${encodeURIComponent(lang)}.json`;
+  const cached = await readJson(env, cacheKey);
+  if (cached) return cached;
+  try {
+    const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
+      messages: [
+        { role: 'system', content: `Translate this JSON's values into ${LANG_NAME[lang] || lang}. Keep keys unchanged. Output ONLY valid JSON.` },
+        { role: 'user', content: JSON.stringify(COACH_I18N.en) }
+      ],
+      max_tokens: 1000
+    });
+    const raw = (res && res.response || '').trim();
+    const m = raw.match(/\{[\s\S]*\}/);
+    const ui = m ? JSON.parse(m[0]) : null;
+    if (ui && ui.title) { await writeJson(env, cacheKey, ui); return ui; }
+  } catch (e) {}
+  return COACH_I18N.en;
+}
 
 async function readJson(env, key) {
   const o = await env.VIDEOS.get(key);
@@ -55,7 +99,7 @@ export default {
         if (!/^[a-z0-9]{16,64}$/i.test(token)) return new Response('invalid link', { status: 403 });
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return new Response('link expired or invalid', { status: 404 });
-        const t = COACH_I18N[meta.lang] || COACH_I18N.en;
+        const t = await getUILang(env, meta.lang || 'en');
         return new Response(renderCoachPage(token, meta, t), { headers: { 'Content-Type': 'text/html; charset=utf-8' } });
       }
 
@@ -67,8 +111,20 @@ export default {
         if (!meta) return json({ error: 'invalid' }, 404);
         const feed = await readJson(env, 'coach/feed.json') || { videos: [] };
         const comments = await readJson(env, `coach/comments_${token}.json`) || [];
-        // 家长留言显示为教练语言版本
-        const shown = comments.map(c => ({ ...c, display: c.author === 'coach' ? c.text : (c.coachText || c.text) }));
+        // 家长留言显示为教练语言版本；缺该语言翻译时现翻并缓存回写
+        const lang = meta.lang || 'en';
+        let dirty = false;
+        const shown = [];
+        for (const c of comments) {
+          if (c.author === 'family' && lang !== 'zh' && c.text && c.text !== '🎤') {
+            c.translations = c.translations || {};
+            if (!c.translations[lang]) { c.translations[lang] = await translate(env, c.text, lang); dirty = true; }
+            shown.push({ ...c, display: c.translations[lang], orig: c.text });
+          } else {
+            shown.push({ ...c, display: c.text, orig: null });
+          }
+        }
+        if (dirty) await writeJson(env, `coach/comments_${token}.json`, comments);
         return json({ meta, feed, comments: shown });
       }
 
@@ -182,6 +238,18 @@ export default {
         return json({ ok: true });
       }
 
+      // 教练自助切换语言（内置 18 种 + 自定义语言名）
+      if (body.action === 'coach_setlang') {
+        const token = String(body.token || '');
+        const lang = String(body.lang || '');
+        if (!/^[a-z0-9]{16,64}$/i.test(token) || !validLang(lang)) return json({ error: 'bad request' }, 400);
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return json({ error: 'invalid link' }, 404);
+        meta.lang = lang;
+        await writeJson(env, `coach/meta_${token}.json`, meta);
+        return json({ ok: true });
+      }
+
       if (body.action === 'feed_save') {
         const feed = body.feed;
         if (!feed || !Array.isArray(feed.videos)) return json({ error: 'bad request' }, 400);
@@ -208,9 +276,13 @@ export default {
           ts: new Date().toISOString()
         };
         if (audioUrl) rec.audioUrl = audioUrl;
-        // 双向翻译：写中文的人 → 翻成教练语言；写教练语言的人 → 翻成中文（家长侧显示）
-        if (author === 'family' && coachLang !== 'zh') rec.coachText = await translate(env, text, coachLang);
-        if (author === 'coach' && coachLang !== 'zh') rec.zhText = await translate(env, text, 'zh');
+        rec.lang = author === 'family' ? 'zh' : coachLang;
+        // 双向翻译：写中文的人 → 翻成教练语言（按语言缓存）；写教练语言的人 → 翻成中文
+        if (author === 'family' && coachLang !== 'zh' && text && text !== '🎤') {
+          rec.translations = { [coachLang]: await translate(env, text, coachLang) };
+          rec.coachText = rec.translations[coachLang];
+        }
+        if (author === 'coach' && coachLang !== 'zh' && text && text !== '🎤') rec.zhText = await translate(env, text, 'zh');
         const list = (await readJson(env, `coach/comments_${token}.json`)) || [];
         list.push(rec);
         if (list.length > 500) list.splice(0, list.length - 500);
@@ -258,9 +330,16 @@ function renderCoachPage(token, meta, t) {
   .box button{padding:8px 14px;border:none;border-radius:8px;background:#2563eb;color:#fff;font-size:0.85rem;cursor:pointer}
   .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin-bottom:14px}
   .note{font-size:0.75rem;color:#94a3b8;text-align:center;margin:16px 0}
+  .langbar{display:flex;justify-content:flex-end;align-items:center;gap:6px;margin-bottom:8px}
+  .langbar select{font-size:0.85rem;padding:4px 8px;border:1px solid #d1d5db;border-radius:8px;background:#fff}
+  .tip{background:#ecfdf5;border:1px solid #a7f3d0;color:#065f46;border-radius:8px;padding:8px 10px;font-size:0.78rem;margin-bottom:12px;line-height:1.5}
+  .cmt .tr{cursor:pointer;font-size:0.7rem;color:#3b82f6;margin-left:4px}
+  .cmt .orig{margin-top:2px;padding:4px 6px;background:#f8fafc;border-radius:6px;font-size:0.78rem;color:#64748b}
 </style></head><body><div class="wrap">
+<div class="langbar">🌐 <select onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></div>
 <h1>🤺 ${esc(t.title)}</h1>
 <div class="sub">${esc(meta.name)} · ${esc(t.sub)} · ${esc(t.auto)}</div>
+<div class="tip">🤖 ${esc(t.tip)}</div>
 <div id="list">${esc(t.loading)}</div>
 <div class="gen"><b>💬 ${esc(t.general)}</b>
   <div class="cmts" id="gen-comments"></div>
@@ -331,9 +410,28 @@ function vidErr(el){
   el.replaceWith(msg);
 }
 function cmtHtml(c){
-  return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') + '</div>' +
+  const shown = c.display || c.text;
+  const hasOrig = c.orig && c.orig !== shown;
+  return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') +
+    (hasOrig ? '<span class="tr" onclick="toggleOrig(this)">🌐</span>' : '') + '</div>' +
+    (hasOrig ? '<div class="orig" style="display:none">' + escH(c.orig) + '</div>' : '') +
     (c.audioUrl ? '<audio controls preload="metadata" src="' + escH(c.audioUrl) + '" style="width:100%;margin:2px 0"></audio>' : '') +
-    (c.text && c.text !== '🎤' ? escH(c.display || c.text) : '') + '</div>';
+    (shown && shown !== '🎤' ? escH(shown) : '') + '</div>';
+}
+function toggleOrig(el){
+  const o = el.parentNode.parentNode.querySelector('.orig');
+  if(o) o.style.display = (o.style.display === 'block') ? 'none' : 'block';
+}
+async function setLang(v){
+  if(v === '__custom'){
+    v = prompt(T.langPh || 'Your language?');
+    if(!v || !v.trim()) return;
+    v = v.trim();
+  }
+  try{
+    await fetch('/', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({action:'coach_setlang', token: TOKEN, lang: v})});
+    location.reload();
+  }catch(e){}
 }
 async function sendCmt(videoId, input){
   input = input || document.getElementById('gen-input');

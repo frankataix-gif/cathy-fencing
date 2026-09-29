@@ -2326,9 +2326,9 @@ function circuitLabel(c) {
   async function addCoachLink() {
     const name = prompt('教练名称（如：意大利教练 Mario）：', '');
     if (!name || !name.trim()) return;
-    const langMap = { '1': 'zh', '2': 'en', '3': 'it', '4': 'fr' };
-    const pick = prompt('教练页面语言：1=中文 2=English 3=Italiano 4=Français', '2');
-    const lang = langMap[pick] || 'en';
+    const langMap = { '1': 'zh', '2': 'zh-TW', '3': 'en', '4': 'it', '5': 'fr', '6': 'es', '7': 'ar', '8': 'de', '9': 'ja', '10': 'ko', '11': 'ru', '12': 'hu' };
+    const pick = prompt('教练初始语言（之后教练可在页面自行更改）：\n1=中文简体 2=中文繁体 3=English 4=Italiano 5=Français 6=Español 7=العربية 8=Deutsch 9=日本語 10=한국어 11=Русский 12=Magyar\n或直接输入语言名（如 فارسی）', '3');
+    const lang = langMap[pick] || (pick && pick.trim()) || 'en';
     const token = newCoachToken();
     const r = await videoWorkerPost({ action: 'coach_register', token, name: name.trim(), lang });
     if (r.error) { alert('创建失败：' + r.error); return; }
@@ -2498,7 +2498,7 @@ function circuitLabel(c) {
     renderVideoLibrary();
     renderResults();
   }
-  const LANG_LABEL = { zh: '🇨🇳 中文', en: '🇬🇧 English', it: '🇮🇹 Italiano', fr: '🇫🇷 Français' };
+  const LANG_LABEL = { zh: '🇨🇳 简中', 'zh-TW': '🇹🇼 繁中', en: '🇬🇧 English', it: '🇮🇹 Italiano', fr: '🇫🇷 Français', es: '🇪🇸 Español', ar: '🇸🇦 العربية', de: '🇩🇪 Deutsch', ja: '🇯🇵 日本語', ko: '🇰🇷 한국어', ru: '🇷🇺 Русский', hu: '🇭🇺 Magyar', pt: '🇵🇹 Português', uk: '🇺🇦 Українська', pl: '🇵🇱 Polski', fa: '🇮🇷 فارسی', ro: '🇷🇴 Română', tr: '🇹🇷 Türkçe' };
   async function renderVideoPage() {
     const bar = document.getElementById('coach-links-bar');
     if (bar) {
@@ -2528,10 +2528,14 @@ function circuitLabel(c) {
     return all;
   }
   function _cmtHtml(c) {
+    const main = c.author === 'coach' ? (c.zhText || c.text) : c.text;
+    const hasOrig = c.author === 'coach' && c.zhText && c.zhText !== c.text;
+    const oid = 'orig_' + c.id;
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
+      <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
+      ${hasOrig ? `<div id="${oid}" style="display:none; margin-top:2px; padding:4px 6px; background:#f8fafc; border-radius:6px; font-size:0.78rem; color:#64748b;">${escapeHtml(c.text)}</div>` : ''}
       ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
-      ${c.text && c.text !== '🎤' ? escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text) : ''}
+      ${main && main !== '🎤' ? escapeHtml(main) : ''}
     </div>`;
   }
   function _replyBox(videoId) {
