@@ -495,11 +495,11 @@ function renderCoachPage(token, meta, t) {
 <div class="apseek"><input type="range" id="apSeek" min="0" max="1000" value="0" oninput="apSeekIn(this)"><div class="apmarks" id="apMarks"></div></div>
 <div class="aptime" id="apTime">0:00 / 0:00</div>
 <div class="apctl">
-  <button id="apBack" onclick="apSkip(-1)">⏪ 10s</button>
+  <button id="apBack" onclick="apSkip(-1)">⏪ 5s</button>
   <button onclick="apStep(-1)" title="frame -">⏮</button>
   <button id="apPlayBtn" onclick="apToggle()">▶</button>
   <button onclick="apStep(1)" title="frame +">⏭</button>
-  <button id="apFwd" onclick="apSkip(1)">10s ⏩</button>
+  <button id="apFwd" onclick="apSkip(1)">5s ⏩</button>
 </div>
 <div class="apsp" id="apSp"></div>
 <div class="apsp" id="apMisc"></div>
@@ -579,7 +579,7 @@ function bcmtKey(v){
   return k === "~~~" ? "#" + v.id : k;
 }
 // ===== 分析播放器：无遮挡控制条 + 打点点评 =====
-let apVid = null, apV = null, apTags = [], apStepN = 10, apZoom = 1;
+let apVid = null, apV = null, apTags = [], apStepN = 5, apZoom = 1;
 let acCtx = null, acGain = null, acSrc = null;
 function openAnalysis(vid){
   const v = vids.find(x => x.id === vid);
@@ -619,7 +619,11 @@ function apFlash(s){
   f.textContent = s; f.style.opacity = 1;
   setTimeout(function(){ f.style.opacity = 0; }, 400);
 }
-function apSkip(dir){ if(apV && apV.duration) apV.currentTime = Math.max(0, Math.min(apV.duration, apV.currentTime + dir * apStepN)); }
+function apSkip(dir){
+  if(!apV || !apV.duration) return;
+  apV.currentTime = Math.max(0, Math.min(apV.duration, apV.currentTime + dir * apStepN));
+  apFlash((dir < 0 ? "-" : "+") + apStepN + "s");
+}
 function apStep(dir){ if(!apV) return; apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; apV.currentTime = Math.max(0, apV.currentTime + dir / 25); }
 function apStepSet(s, btn){
   apStepN = s;
