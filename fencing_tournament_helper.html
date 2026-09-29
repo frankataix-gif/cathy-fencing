@@ -2639,12 +2639,23 @@ function circuitLabel(c) {
     const tagKeys = (Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []));
     const tagH = tagKeys.map(k => CMT_TAGS[k] ? `<span style="display:inline-block; background:#e0e7ff; color:#3730a3; font-size:0.66rem; font-weight:600; padding:0 7px; border-radius:999px; margin-right:4px;">${CMT_TAGS[k]}</span>` : '').join('');
     const vtH = c.vt != null ? `<span style="color:#2563eb; font-size:0.72rem; font-weight:700; margin-right:4px;">⏱${fmtVT(c.vt)}</span>` : '';
+    const delH = (c.coachToken && c.id && !String(c.id).startsWith('tmp_')) ? `<span style="cursor:pointer; float:right; font-size:0.72rem; color:#ef4444; padding:0 2px;" onclick="event.stopPropagation();delCoachCmt('${escapeHtml(c.coachToken)}','${escapeHtml(c.id)}')" title="删除这条留言">✕</span>` : '';
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-      <span style="font-size:0.68rem; color:#94a3b8;">${tagH}${vtH}${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
+      ${delH}<span style="font-size:0.68rem; color:#94a3b8;">${tagH}${vtH}${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
       ${hasOrig ? `<div id="${oid}" style="display:none; margin-top:2px; padding:4px 6px; background:#f8fafc; border-radius:6px; font-size:0.78rem; color:#64748b;">${escapeHtml(c.text)}</div>` : ''}
       ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
       ${main && main !== '🎤' ? escapeHtml(main) : ''}
     </div>`;
+  }
+  // 家长端删除留言：指定教练线程 + 留言 id，服务端过滤后重写
+  async function delCoachCmt(token, id) {
+    if (!token || !id) return;
+    if (!confirm('确认删除这条留言？')) return;
+    try {
+      await videoWorkerPost({ action: 'comment_del', token, id });
+      coachComments[token] = (coachComments[token] || []).filter(x => x.id !== id);
+      renderVideoWall();
+    } catch(e) { alert('删除失败，请重试'); }
   }
   function _replyBox(videoId) {
     if (!coaches.length) return '';
@@ -2736,7 +2747,7 @@ function circuitLabel(c) {
     const ids = new Set([bcid, ...b.vids.map(v => v.id)]);
     const cmts = [];
     coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
-      if (ids.has(cm.videoId)) cmts.push({ ...cm, coachName: c.name });
+      if (ids.has(cm.videoId)) cmts.push({ ...cm, coachName: c.name, coachToken: c.token });
     }));
     cmts.sort((a, b2) => (a.ts || '').localeCompare(b2.ts || ''));
     // 片段级留言标注是哪个片段（本场留言不标）
@@ -2806,7 +2817,7 @@ function circuitLabel(c) {
     const sharedBoutIds = new Set(sharedVids.map(v => boutCmtId(v)));
     const general = [];
     coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
-      if (!cm.videoId || !(sharedIds.has(cm.videoId) || sharedBoutIds.has(cm.videoId))) general.push({ ...cm, coachName: c.name, orphan: !!cm.videoId });
+      if (!cm.videoId || !(sharedIds.has(cm.videoId) || sharedBoutIds.has(cm.videoId))) general.push({ ...cm, coachName: c.name, coachToken: c.token, orphan: !!cm.videoId });
     }));
     general.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
     if (general.length || coaches.length) {
