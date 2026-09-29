@@ -770,6 +770,11 @@
           <span class="my-text"><b>妈妈 🔒</b><small>生活/账号/密码，需主密码解开</small></span>
           <span class="my-chevron">›</span>
         </div>
+        <div class="my-row" id="my-open-videos">
+          <span class="my-icon">📹</span>
+          <span class="my-text"><b>比赛视频库</b><small>上传/管理视频，一键复制链接发给教练</small></span>
+          <span class="my-chevron">›</span>
+        </div>
       </div>
     </div>
 
@@ -821,6 +826,16 @@
       <h3 style="margin-bottom:6px;">常用数据</h3>
       <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">击剑、学校、生活组公开存放、直接可看；🔒 加密组（如妈妈）AES 加密存 GitHub，需主密码解开。</p>
       <div id="vault-body" style="font-size:0.9rem;">加载中…</div>
+    </div>
+
+    <div class="card" id="my-videos-view" style="display:none;">
+      <button class="btn secondary" id="my-back-videos" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
+      <h3 style="margin:0 0 6px;">📹 比赛视频库</h3>
+      <p style="font-size:0.8rem; color:var(--gray); margin:0 0 4px;">新视频存 Cloudflare R2，教练点链接即看；老视频建议传 YouTube 后在此归档，释放空间。</p>
+      <div id="video-lib-stat" style="font-size:0.8rem; color:var(--gray); margin-bottom:8px;"></div>
+      <button class="btn secondary" id="video-lib-upload" style="font-size:0.85rem; padding:6px 14px; margin-bottom:8px;">📤 上传视频（不关联赛事）</button>
+      <button class="btn secondary" id="video-lib-yt" style="font-size:0.85rem; padding:6px 14px; margin-bottom:8px;">▶ 存 YouTube 链接</button>
+      <div id="video-lib-list"></div>
     </div>
   </div>
 
@@ -1962,6 +1977,7 @@ function circuitLabel(c) {
   let currentBase = CATHY.home;
   let currentPage = 1;
   let reflections = {};
+  let videos = [];
   let cachedResults = [];
   let resultsViewMode = 'list';
   const PAGE_SIZE = 1000;
@@ -2253,6 +2269,156 @@ function circuitLabel(c) {
     try { reflections = JSON.parse(getLocal('cathy_reflections', '{}')) || {}; } catch(e) { reflections = {}; }
   }
 
+  function loadVideos() {
+    try { videos = JSON.parse(getLocal('cathy_videos', '[]')) || []; } catch(e) { videos = []; }
+  }
+  function saveVideos() { saveToLocal('cathy_videos', JSON.stringify(videos)); }
+  function videoKeyFromUrl(url) { const m = String(url || '').match(/\/video\/(.+)$/); return m ? decodeURIComponent(m[1]) : ''; }
+  function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
+  // 分片上传视频到 R2（经 Worker，15MB/片，带进度回调与重试）
+  async function uploadVideoFile(file, onProgress) {
+    const wurl = CATHY_SYNC_WORKER_URL.replace(/\/+$/, '');
+    const CHUNK = 15 * 1024 * 1024;
+    const initRes = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action: 'video_init', name: file.name, contentType: file.type || 'video/mp4' }) });
+    const init = await initRes.json();
+    if (!initRes.ok || init.error) throw new Error(init.error || 'init failed');
+    const { key, uploadId } = init;
+    const parts = [];
+    const total = Math.max(1, Math.ceil(file.size / CHUNK));
+    try {
+      for (let i = 0; i < total; i++) {
+        const blob = file.slice(i * CHUNK, Math.min(file.size, (i + 1) * CHUNK));
+        let done = null, lastErr = null;
+        for (let attempt = 0; attempt < 3 && !done; attempt++) {
+          try {
+            const r = await fetch(`${wurl}/video-part?key=${encodeURIComponent(key)}&uploadId=${encodeURIComponent(uploadId)}&part=${i + 1}`, { method: 'POST', body: blob });
+            const j = await r.json();
+            if (r.ok && !j.error) done = j; else lastErr = new Error(j.error || 'HTTP ' + r.status);
+          } catch(e) { lastErr = e; }
+        }
+        if (!done) throw lastErr || new Error('part failed');
+        parts.push({ partNumber: done.partNumber, etag: done.etag });
+        if (onProgress) onProgress((i + 1) / total);
+      }
+      const fin = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'video_complete', key, uploadId, parts }) });
+      const fj = await fin.json();
+      if (!fin.ok || fj.error) throw new Error(fj.error || 'complete failed');
+      return { key, url: fj.url };
+    } catch(e) {
+      try { await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'video_abort', key, uploadId }) }); } catch(e2) {}
+      throw e;
+    }
+  }
+
+  let _videoFileInput = null;
+  function pickAndUploadVideo(tournamentId, btn) {
+    if (!_videoFileInput) {
+      _videoFileInput = document.createElement('input');
+      _videoFileInput.type = 'file';
+      _videoFileInput.accept = 'video/*';
+      _videoFileInput.style.display = 'none';
+      document.body.appendChild(_videoFileInput);
+    }
+    _videoFileInput.onchange = async () => {
+      const f = _videoFileInput.files && _videoFileInput.files[0];
+      _videoFileInput.value = '';
+      if (!f) return;
+      const orig = btn ? btn.textContent : '';
+      if (btn) { btn.disabled = true; btn.textContent = '上传中 0%'; }
+      try {
+        const r = await uploadVideoFile(f, (p) => { if (btn) btn.textContent = '上传中 ' + Math.round(p * 100) + '%'; });
+        videos.push({ id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8), name: f.name, url: r.url, key: r.key, size: f.size, uploadedAt: new Date().toISOString(), tournamentId: tournamentId || null, type: 'r2' });
+        saveVideos();
+        renderResults();
+        renderVideoLibrary();
+      } catch(e) {
+        alert('视频上传失败：' + e.message);
+      }
+      if (btn) { btn.disabled = false; btn.textContent = orig; }
+    };
+    _videoFileInput.click();
+  }
+
+  function shareVideoText(v) {
+    const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
+    return `Cathy 比赛视频${t ? ' - ' + t.name : ''}\n${v.name}\n${v.url}`;
+  }
+  function copyVideoLink(id) {
+    const v = videos.find(x => x.id === id);
+    if (!v) return;
+    const text = shareVideoText(v);
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(() => alert('链接已复制，可直接发给教练')).catch(() => prompt('复制链接：', v.url));
+    } else {
+      prompt('复制链接：', v.url);
+    }
+  }
+  async function deleteVideo(id) {
+    const v = videos.find(x => x.id === id);
+    if (!v) return;
+    if (!confirm(`删除视频「${v.name}」？${v.type === 'r2' ? '云端文件会一并删除。' : ''}`)) return;
+    if (v.type === 'r2' && v.key) {
+      try {
+        await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ action: 'video_delete', key: v.key }) });
+      } catch(e) {}
+    }
+    videos = videos.filter(x => x.id !== id);
+    saveVideos();
+    renderVideoLibrary();
+    renderResults();
+  }
+  async function archiveVideoToYoutube(id) {
+    const v = videos.find(x => x.id === id);
+    if (!v || v.type !== 'r2') return;
+    const yt = prompt('已把视频上传到 YouTube（不公开列出）？粘贴链接：', '');
+    if (!yt || !yt.trim()) return;
+    if (!yt.includes('youtu')) { alert('看起来不是 YouTube 链接'); return; }
+    // 先换链接再删 R2，确保链接始终有效
+    v.type = 'youtube';
+    v.url = yt.trim();
+    saveVideos();
+    try {
+      await fetch(CATHY_SYNC_WORKER_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'video_delete', key: v.key }) });
+    } catch(e) {}
+    renderVideoLibrary();
+    renderResults();
+  }
+  function renderVideoLibrary() {
+    const el = document.getElementById('video-lib-list');
+    if (!el) return;
+    const total = videos.reduce((s, v) => s + (v.type === 'r2' ? (v.size || 0) : 0), 0);
+    const stat = document.getElementById('video-lib-stat');
+    if (stat) stat.textContent = `共 ${videos.length} 个视频 · R2 占用 ${fmtBytes(total) || '0MB'}（免费额度 10GB）`;
+    if (!videos.length) { el.innerHTML = '<div style="color:var(--gray); padding:12px 0;">还没有视频。到赛事卡片展开后点「+上传」，或把 YouTube 链接存进来。</div>'; return; }
+    const now = Date.now();
+    const sorted = videos.slice().sort((a, b) => (b.uploadedAt || '').localeCompare(a.uploadedAt || ''));
+    el.innerHTML = sorted.map(v => {
+      const t = TOURNAMENTS.find(x => x.id === v.tournamentId);
+      const days = v.uploadedAt ? Math.floor((now - new Date(v.uploadedAt).getTime()) / 86400000) : 0;
+      const old = v.type === 'r2' && days > 90;
+      return `<div style="padding:10px 0; border-bottom:1px solid #eef2f7;">
+        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+          <span style="font-size:1rem;">${v.type === 'youtube' ? '▶️' : '🎬'}</span>
+          <div style="flex:1; min-width:160px;">
+            <div style="font-weight:600; font-size:0.9rem;">${escapeHtml(v.name)}</div>
+            <div style="font-size:0.75rem; color:var(--gray);">${t ? escapeHtml(t.name) + ' · ' : ''}${(v.uploadedAt || '').slice(0, 10)} · ${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}${old ? ' · <span style="color:#d97706;">建议归档到 YouTube</span>' : ''}</div>
+          </div>
+        </div>
+        <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:6px;">
+          <a href="${escapeHtml(v.url)}" target="_blank" class="btn" style="font-size:0.75rem; padding:4px 10px;">打开</a>
+          <button class="btn secondary" style="font-size:0.75rem; padding:4px 10px;" onclick="copyVideoLink('${v.id}')">复制链接发教练</button>
+          ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.75rem; padding:4px 10px;" onclick="archiveVideoToYoutube('${v.id}')">归档到 YouTube</button>` : ''}
+          <button class="btn danger" style="font-size:0.75rem; padding:4px 10px;" onclick="deleteVideo('${v.id}')">删除</button>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
   function saveReflection(eventId, round, summary) {
     if (!reflections[eventId]) reflections[eventId] = {};
     reflections[eventId][round] = { summary };
@@ -2496,6 +2662,12 @@ function circuitLabel(c) {
       if (data.reflections && typeof data.reflections === 'object') {
         reflections = mergeReflections(data.reflections, reflections);
         saveToLocal('cathy_reflections', JSON.stringify(reflections));
+      }
+      if (Array.isArray(data.videos)) {
+        const byId = {};
+        videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
+        data.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
+        saveToLocal('cathy_videos', JSON.stringify(videos));
       }
       // 合并远端墓碑（多设备删除同步）
       if (data.taskTombstones && typeof data.taskTombstones === 'object') {
@@ -2971,6 +3143,31 @@ function circuitLabel(c) {
     document.getElementById('my-open-vault')?.addEventListener('click', () => openVault(null));
     document.getElementById('my-open-vault-mom')?.addEventListener('click', () => openVault('妈妈'));
     document.getElementById('my-open-vault-all')?.addEventListener('click', () => openVault(null));
+    const videosView = document.getElementById('my-videos-view');
+    const openVideos = () => {
+      if (mainView) mainView.style.display = 'none';
+      const sv = document.getElementById('my-settings-view');
+      if (sv) sv.style.display = 'none';
+      if (vaultView) vaultView.style.display = 'none';
+      if (videosView) videosView.style.display = 'block';
+      window.scrollTo(0, 0);
+      renderVideoLibrary();
+    };
+    document.getElementById('my-open-videos')?.addEventListener('click', openVideos);
+    document.getElementById('my-back-videos')?.addEventListener('click', () => {
+      if (videosView) videosView.style.display = 'none';
+      if (mainView) mainView.style.display = 'block';
+    });
+    document.getElementById('video-lib-upload')?.addEventListener('click', (e) => pickAndUploadVideo(null, e.target));
+    document.getElementById('video-lib-yt')?.addEventListener('click', () => {
+      const yt = prompt('粘贴 YouTube 视频链接（建议设为不公开列出）：', '');
+      if (!yt || !yt.trim()) return;
+      if (!yt.includes('youtu')) { alert('看起来不是 YouTube 链接'); return; }
+      const name = prompt('视频名称（如：2026-09 BBFC Y12 决赛）：', '比赛视频') || '比赛视频';
+      videos.push({ id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8), name: name.trim(), url: yt.trim(), size: 0, uploadedAt: new Date().toISOString(), tournamentId: null, type: 'youtube' });
+      saveVideos();
+      renderVideoLibrary();
+    });
     document.querySelectorAll('.my-hero[data-vault-group]').forEach(el => {
       el.addEventListener('click', () => openVault(el.dataset.vaultGroup));
     });
@@ -3152,7 +3349,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_videos' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -3224,10 +3421,17 @@ function circuitLabel(c) {
           reflections = mergeReflections(remote.reflections, reflections);
           saveUIToLocal('cathy_reflections', JSON.stringify(reflections));
         }
+        // 视频记录：按 id 并集
+        if (remote && Array.isArray(remote.videos)) {
+          const byId = {};
+          videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
+          remote.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id]) videos.push(rv); });
+          saveUIToLocal('cathy_videos', JSON.stringify(videos));
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs };
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -3998,6 +4202,11 @@ function circuitLabel(c) {
               </select>
             </label>
           </div>
+          <div style="margin-top:8px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+            <span style="font-size:0.85rem;">📹 视频：</span>
+            ${videos.filter(v => v.tournamentId === t.id).map(v => `<a href="${escapeHtml(v.url)}" target="_blank" class="tag" title="${escapeHtml(v.name)}${v.type === 'youtube' ? ' · YouTube' : ''}">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(v.name.length > 20 ? v.name.slice(0, 20) + '…' : v.name)}</a>`).join('')}
+            <button class="btn secondary video-add-btn" data-id="${t.id}" style="font-size:0.8rem; padding:3px 10px;">+上传</button>
+          </div>
         </div>
       `;
       card.addEventListener('click', (e) => { if (!e.target.classList.contains('reg-select')) card.classList.toggle('expanded'); });
@@ -4012,6 +4221,8 @@ function circuitLabel(c) {
         currentPage = 1;
         renderResults();
       });
+      const vbtn = card.querySelector('.video-add-btn');
+      if (vbtn) vbtn.addEventListener('click', (e) => { e.stopPropagation(); pickAndUploadVideo(t.id, vbtn); });
       c.appendChild(card);
     });
     renderPagination(list.length, totalPages);
@@ -5822,6 +6033,7 @@ function circuitLabel(c) {
   initTournamentNav();
   initPullToRefresh();
   loadReflections();
+  loadVideos();
   syncAllToGitHub(true).finally(() => loadUserDataFromGitHub());
   loadEmails();
   renderResults();
