@@ -107,6 +107,14 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
   - 推荐 Cathy 维度细分为 `本地+重要` / `本地距离` / `重要赛事` / `较远但重要` / `Cathy 可报名` / `未推荐`，并对应不同颜色。
   - 地图筛选改为两层：主要筛选（全部 / 推荐 Cathy / 未报名 / 已报名 / 关注赛事）+ 第二层颜色（Region / Circuit），顶部显示当前条件提示。
 
+### 2026-09-29
+- 「视频比赛」子 tab（USA Fencing 区）：
+  - 每教练独立永久链接 `/coach/<32位token>`，页面按教练语言渲染（中/英/意/法），教练刷新即见全部视频，每 45 秒自动更新。
+  - 留言双向 AI 翻译（Workers AI）：教练留言存原文+中文，家长回复自动翻成教练语言；各教练留言串互相隔离。
+  - 成绩页每场 bout 行有 📹 上传按钮，视频自动带赛事/轮次/对手/比分上下文进共享 feed（R2 `coach/feed.json`）。
+  - 家长侧视频墙按时间倒序展示全部视频 + 逐条/总体留言，可回复指定教练线程；教练链接可撤销（token 立即失效）。
+  - `cathy_coaches` 并入多端同步（按 token 并集）。
+
 ### 2026-09-09
 - 修复 `.github/workflows/update.yml` 稳定性：
   - `import_to_html.py` 改用 bracket counting 替换 `TOURNAMENTS` 数组，避免正则表达式解析失败。
