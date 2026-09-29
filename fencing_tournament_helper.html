@@ -2529,18 +2529,58 @@ function circuitLabel(c) {
   function _cmtHtml(c) {
     return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
       <span style="font-size:0.68rem; color:#94a3b8;">${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span><br>
-      ${escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text)}
+      ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
+      ${c.text && c.text !== '🎤' ? escapeHtml(c.author === 'coach' ? (c.zhText || c.text) : c.text) : ''}
     </div>`;
   }
   function _replyBox(videoId) {
     if (!coaches.length) return '';
-    return `<div style="display:flex; gap:6px; margin-top:6px;">
+    return `<div style="display:flex; gap:6px; margin-top:6px;" data-reply="${videoId || ''}">
       <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
         ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
       </select>
       <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
         onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,${videoId ? `'${videoId}'` : 'null'},this)}">
+      <button class="btn secondary" style="font-size:0.8rem; padding:4px 8px;" title="语音留言" onclick="familyVoice(this)">🎤</button>
     </div>`;
+  }
+  // 家长语音留言：录音 → R2 → 写进所选教练的留言串
+  let _famRec = null, _famChunks = [];
+  async function familyVoice(btn) {
+    const box = btn.closest('[data-reply]');
+    const videoId = box && box.dataset.reply || null;
+    const sel = box && box.querySelector('.cmt-coach-sel');
+    const coachId = sel && sel.value;
+    const c = coaches.find(x => x.id === coachId);
+    if (!c) { alert('先创建教练链接'); return; }
+    if (_famRec) { _famRec.stop(); return; }
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const mime = MediaRecorder.isTypeSupported('audio/mp4') ? 'audio/mp4' : (MediaRecorder.isTypeSupported('audio/webm') ? 'audio/webm' : '');
+      _famRec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
+      _famChunks = [];
+      _famRec.ondataavailable = e => { if (e.data && e.data.size) _famChunks.push(e.data); };
+      _famRec.onstop = async () => {
+        stream.getTracks().forEach(t => t.stop());
+        btn.textContent = '⏳';
+        try {
+          const blob = new Blob(_famChunks, { type: _famRec.mimeType || 'audio/webm' });
+          const ext = blob.type.includes('mp4') ? '.m4a' : '.webm';
+          const init = await videoWorkerPost({ action: 'video_init', name: 'voice' + ext, contentType: blob.type });
+          const pr = await fetch(`${CATHY_VIDEO_WORKER_URL}/video-part?key=${encodeURIComponent(init.key)}&uploadId=${encodeURIComponent(init.uploadId)}&part=1`, { method: 'POST', headers: { 'Content-Type': 'application/octet-stream' }, body: blob });
+          const part = await pr.json();
+          const comp = await videoWorkerPost({ action: 'video_complete', key: init.key, uploadId: init.uploadId, parts: [part] });
+          if (comp.url) {
+            const r = await videoWorkerPost({ action: 'comment_add', token: c.token, videoId, author: 'family', text: '🎤', audioUrl: comp.url });
+            if (r.comment) { (coachComments[c.token] = coachComments[c.token] || []).push(r.comment); renderVideoWall(); }
+          }
+        } catch(e) { alert('语音发送失败'); }
+        btn.textContent = '🎤';
+        _famRec = null;
+      };
+      _famRec.start();
+      btn.textContent = '⏹';
+    } catch(e) { alert('麦克风不可用或未授权'); }
   }
   function _videoCardHtml(v) {
     const cmts = videoCommentsAll(v.id);

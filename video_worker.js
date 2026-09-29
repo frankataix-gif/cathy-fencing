@@ -190,13 +190,15 @@ export default {
         return json({ ok: true });
       }
 
-      // 留言：author 'coach'（来自教练页）或 'family'（来自 App）
+      // 留言：author 'coach'（来自教练页）或 'family'（来自 App），可带语音 audioUrl
       if (body.action === 'comment_add') {
         const token = String(body.token || '');
         const text = String(body.text || '').slice(0, 2000).trim();
+        const audioUrl = String(body.audioUrl || '');
         const author = body.author === 'family' ? 'family' : 'coach';
         const videoId = body.videoId || null;
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !text) return json({ error: 'bad request' }, 400);
+        if (!/^[a-z0-9]{16,64}$/i.test(token) || (!text && !audioUrl)) return json({ error: 'bad request' }, 400);
+        if (audioUrl && !audioUrl.startsWith(`${reqUrl.origin}/video/`)) return json({ error: 'bad audio url' }, 400);
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return json({ error: 'invalid link' }, 404);
         const coachLang = meta.lang || 'en';
@@ -205,6 +207,7 @@ export default {
           videoId, author, text,
           ts: new Date().toISOString()
         };
+        if (audioUrl) rec.audioUrl = audioUrl;
         // 双向翻译：写中文的人 → 翻成教练语言；写教练语言的人 → 翻成中文（家长侧显示）
         if (author === 'family' && coachLang !== 'zh') rec.coachText = await translate(env, text, coachLang);
         if (author === 'coach' && coachLang !== 'zh') rec.zhText = await translate(env, text, 'zh');
@@ -261,7 +264,7 @@ function renderCoachPage(token, meta, t) {
 <div id="list">${esc(t.loading)}</div>
 <div class="gen"><b>💬 ${esc(t.general)}</b>
   <div class="cmts" id="gen-comments"></div>
-  <div class="box"><input id="gen-input" placeholder="${esc(t.namePh)}"><button onclick="sendCmt(null)">${esc(t.send)}</button></div>
+  <div class="box"><input id="gen-input" placeholder="${esc(t.namePh)}"><button onclick="sendCmt(null)">${esc(t.send)}</button><button onclick="toggleRec(null,this)" title="Voice" style="background:#dcfce7;color:#166534">🎤</button></div>
 </div>
 <div class="note">Cathy Fencing · videos update automatically</div>
 </div>
@@ -307,7 +310,7 @@ function render(){
             ? '<a href="' + escH(v.url) + '" target="_blank" style="display:block;padding:14px;background:#fee2e2;color:#991b1b;border-radius:8px;text-align:center;text-decoration:none;font-weight:600">▶ Watch on YouTube</a>'
             : '<video controls playsinline preload="metadata" src="' + escH(v.url) + '" onerror="vidErr(this)"></video>') +
           '<div class="cmts" data-vid="' + escH(v.id) + '"></div>' +
-          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.keyCode===13)sendCmt(\\'' + v.id + '\\',this)"><button onclick="sendCmt(\\'' + v.id + '\\',this.previousElementSibling)">' + escH(T.send) + '</button></div>' +
+          '<div class="box"><input placeholder="' + escH(T.namePh) + '" onkeydown="if(event.keyCode===13)sendCmt(\\'' + v.id + '\\',this)"><button onclick="sendCmt(\\'' + v.id + '\\',this.previousElementSibling)">' + escH(T.send) + '</button><button onclick="toggleRec(\\'' + v.id + '\\',this)" title="Voice" style="background:#dcfce7;color:#166534">🎤</button></div>' +
           '</div>'
         ).join('') + '</div>'
       ).join('');
@@ -328,7 +331,9 @@ function vidErr(el){
   el.replaceWith(msg);
 }
 function cmtHtml(c){
-  return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') + '</div>' + escH(c.display || c.text) + '</div>';
+  return '<div class="cmt ' + c.author + '"><div class="who">' + (c.author === 'coach' ? escH(T.coach) : escH(T.family)) + ' · ' + String(c.ts||'').slice(5,16).replace('T',' ') + '</div>' +
+    (c.audioUrl ? '<audio controls preload="metadata" src="' + escH(c.audioUrl) + '" style="width:100%;margin:2px 0"></audio>' : '') +
+    (c.text && c.text !== '🎤' ? escH(c.display || c.text) : '') + '</div>';
 }
 async function sendCmt(videoId, input){
   input = input || document.getElementById('gen-input');
@@ -345,6 +350,41 @@ async function sendCmt(videoId, input){
   }catch(e){ input.value = text; }
   input.disabled = false;
   input.focus();
+}
+// ===== 语音留言：MediaRecorder -> R2 -> comment_add(audioUrl) =====
+let rec = null, recChunks = [];
+async function toggleRec(videoId, btn){
+  if(rec){ rec.stop(); return; }
+  if(!navigator.mediaDevices || !window.MediaRecorder){ alert('Voice recording not supported'); return; }
+  try{
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
+    rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
+    recChunks = [];
+    rec.ondataavailable = e => { if(e.data && e.data.size) recChunks.push(e.data); };
+    rec.onstop = async () => {
+      stream.getTracks().forEach(t => t.stop());
+      btn.textContent = "⏳";
+      try{
+        const blob = new Blob(recChunks, { type: rec.mimeType || "audio/webm" });
+        const ext = blob.type.includes("mp4") ? ".m4a" : ".webm";
+        const init = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_init", name:"voice"+ext, contentType:blob.type }) })).json();
+        const pr = await fetch("/video-part?key=" + encodeURIComponent(init.key) + "&uploadId=" + encodeURIComponent(init.uploadId) + "&part=1", { method:"POST", headers:{"Content-Type":"application/octet-stream"}, body: blob });
+        const part = await pr.json();
+        const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
+        if(comp.url){
+          cmts.push({ id:"tmp_"+Date.now(), videoId, author:"coach", text:"", audioUrl:comp.url, ts:new Date().toISOString() });
+          render();
+          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId, author:"coach", text:"🎤", audioUrl:comp.url }) });
+          await load();
+        }
+      }catch(e){}
+      btn.textContent = "🎤";
+      rec = null;
+    };
+    rec.start();
+    btn.textContent = "⏹";
+  }catch(e){ alert("Mic unavailable"); }
 }
 load();
 setInterval(load, 45000);
