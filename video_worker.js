@@ -9,9 +9,9 @@ const CORS_HEADERS = {
 
 // ===== 教练页多语言 =====
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言' },
-  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言', del: '删除' },
+  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言', del: '刪除' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note', del: 'Delete' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scegli la tua lingua — i commenti si traducono automaticamente. 🌐 mostra l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua', student: 'allieva', refresh: 'Aggiorna', updated: 'Aggiornato', newV: 'nuovi dalla tua ultima visita', cmtsOf: 'commenti', videosHere: 'video dei match in questo link', update: 'Nuova versione — tocca per aggiornare', boutCmt: 'commenti sul match', clipCmt: 'commenti sul video', vidFail: 'Video non caricato', loadFail: 'Caricamento fallito', noVoice: 'Registrazione vocale non supportata', noMic: 'Microfono non disponibile' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Choisissez votre langue — les commentaires sont traduits automatiquement. 🌐 affiche l’original.', other: 'Autre langue…', langPh: 'Tapez votre langue', student: 'élève', refresh: 'Actualiser', updated: 'Actualisé', newV: 'nouvelles depuis votre dernière visite', cmtsOf: 'commentaires', videosHere: 'vidéos de matchs sous ce lien', update: 'Nouvelle version — touchez pour actualiser', boutCmt: 'commentaires du match', clipCmt: 'commentaires de la vidéo', vidFail: 'Échec du chargement de la vidéo', loadFail: 'Échec du chargement', noVoice: 'Enregistrement vocal non pris en charge', noMic: 'Micro indisponible' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Elige tu idioma — los comentarios se traducen automáticamente. 🌐 muestra el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma', student: 'alumna', refresh: 'Actualizar', updated: 'Actualizado', newV: 'nuevos desde tu última visita', cmtsOf: 'comentarios', videosHere: 'videos de combates en este enlace', update: 'Nueva versión — toca para actualizar', boutCmt: 'comentarios del combate', clipCmt: 'comentarios del clip', vidFail: 'Error al cargar el vídeo', loadFail: 'Error de carga', noVoice: 'Grabación de voz no compatible', noMic: 'Micrófono no disponible' },
@@ -366,6 +366,33 @@ export default {
         return json({ ok: true, comment: rec });
       }
 
+      if (body.action === 'comment_del') {
+        const token = String(body.token || '');
+        const id = String(body.id || '');
+        if (!/^[a-z0-9]{16,64}$/i.test(token) || !/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return json({ error: 'invalid link' }, 404);
+        const key = `coach/comments_${token}.json`;
+        const list = (await readJson(env, key)) || [];
+        const kept = list.filter(c => c.id !== id);
+        if (kept.length !== list.length) await writeJson(env, key, kept);
+        return json({ ok: true });
+      }
+
+      if (body.action === 'comment_tags') {
+        const token = String(body.token || '');
+        const id = String(body.id || '');
+        const tags = Array.isArray(body.tags) ? body.tags.filter(t => typeof t === 'string' && /^[a-z]{2,12}$/.test(t)).slice(0, 8) : [];
+        if (!/^[a-z0-9]{16,64}$/i.test(token) || !/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return json({ error: 'invalid link' }, 404);
+        const key = `coach/comments_${token}.json`;
+        const list = (await readJson(env, key)) || [];
+        const c = list.find(c => c.id === id);
+        if (c) { c.tags = tags; delete c.tag; await writeJson(env, key, list); }
+        return json({ ok: true, tags });
+      }
+
       if (body.action === 'comments_get') {
         const token = String(body.token || '');
         if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);
@@ -485,6 +512,11 @@ function renderCoachPage(token, meta, t) {
   .aubar{flex:1;height:4px;background:#e2e8f0;border-radius:4px;overflow:hidden}
   .aupg{height:100%;background:#2563eb;width:0;transition:width .3s linear}
   .autm{font-size:.68rem;color:#64748b;min-width:62px;text-align:right;white-space:nowrap}
+  .cmtcog{float:right;color:#94a3b8;cursor:pointer;padding:0 2px 0 10px;font-size:.85rem;font-weight:700}
+  .cmtmenu{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px;padding-top:6px;border-top:1px dashed #e2e8f0}
+  .cmtmenu button{background:#f1f5f9;color:#334155;border:1px solid #cbd5e1;border-radius:999px;padding:5px 12px;font-size:.75rem;cursor:pointer;min-height:32px}
+  .cmtmenu button.on{background:#065f46;border-color:#10b981;color:#fff}
+  .cmtmenu button.del{background:#fee2e2;color:#b91c1c;border-color:#fecaca}
 </style></head><body><div class="wrap">
 <div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
 <div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
@@ -945,7 +977,8 @@ function cmtHtml(c, anchor){
   const anch = c.vt != null ? "<span class='anchor'>⏱" + fmtT(c.vt) + "</span>" : "";
   // 分析面板里：整条带锚点的留言可点击跳转到该视频时间点
   const canSeek = anchor && c.vt != null;
-  return "<div class='cmt " + c.author + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
+  return "<div class='cmt " + c.author + "' data-cid='" + escH(c.id) + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
+    "<span class='cmtcog' onclick='event.stopPropagation();cmtMenu(this)' title='⋯'>⋯</span>" +
     (hasOrig ? "<span class='tr' onclick='event.stopPropagation();toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
     (c.audioUrl ? "<div class='au'><button class='aub' id='auB_" + auSan(c.id) + "' data-key='" + auSan(c.id) + "' data-url='" + escH(c.audioUrl) + "'" + (canSeek ? " data-vt='" + c.vt + "'" : "") + " onclick='event.stopPropagation();auPlay(this)'>▶</button><div class='aubar'><div class='aupg' id='auP_" + auSan(c.id) + "'></div></div><span class='autm' id='auT_" + auSan(c.id) + "'>0:00</span></div>" : "") +
@@ -981,6 +1014,43 @@ function auSync(){
   document.querySelectorAll(".aub").forEach(function(b){ b.textContent = "▶"; });
   const b = document.getElementById("auB_" + auKey);
   if(b && auO) b.textContent = auO.paused ? "▶" : "❚❚";
+}
+// ===== 留言 ⋯ 菜单：删除 + 勾选标签（服务端保存） =====
+function cmtMenu(btn){
+  const host = btn.closest(".cmt");
+  const c = cmts.find(x => x.id === host.dataset.cid);
+  if(!c) return;
+  const had = host.querySelector(".cmtmenu");
+  if(had){ had.remove(); return; }
+  document.querySelectorAll(".cmtmenu").forEach(function(e){ e.remove(); });
+  const cur = Array.isArray(c.tags) ? c.tags : (c.tag ? [c.tag] : []);
+  const m = document.createElement("div");
+  m.className = "cmtmenu";
+  m.innerHTML = TAG_ORDER.map(k => "<button data-tag='" + k + "'" + (cur.includes(k) ? " class='on'" : "") + ">" + escH(TAGS[k] || k) + "</button>").join("") +
+    "<button class='del'>" + escH(T.del || "Delete") + "</button>";
+  m.addEventListener("click", function(e){
+    e.stopPropagation();
+    const b = e.target.closest("button");
+    if(!b) return;
+    if(b.classList.contains("del")) cmtDel(host); else cmtTagToggle(host, b);
+  });
+  host.appendChild(m);
+}
+function cmtTagToggle(host, btn){
+  const id = host.dataset.cid;
+  const c = cmts.find(x => x.id === id);
+  if(!c) return;
+  btn.classList.toggle("on");
+  const tags = Array.from(host.querySelectorAll(".cmtmenu button.on[data-tag]")).map(b => b.dataset.tag);
+  c.tags = tags; delete c.tag;
+  fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_tags", token:TOKEN, id, tags})}).catch(function(){});
+  render(); if(apVid) apRenderCmts();
+}
+function cmtDel(host){
+  const id = host.dataset.cid;
+  cmts = cmts.filter(c => c.id !== id);
+  fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_del", token:TOKEN, id})}).catch(function(){});
+  render(); if(apVid) apRenderCmts();
 }
 function toggleOrig(el){
   const o = el.parentNode.parentNode.querySelector(".orig");
