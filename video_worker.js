@@ -697,7 +697,7 @@ async function toggleRec(btn){
   }catch(e){ alert(T.noMic || "Mic unavailable"); }
 }
 load();
-setInterval(function(){ load(true); }, 45000);
+setInterval(function(){ load(true); }, 15000);
 </script></body></html>`;
 }
 
