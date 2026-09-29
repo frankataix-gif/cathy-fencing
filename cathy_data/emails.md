@@ -20717,3 +20717,21 @@ fan-favorite 327   A CANADIAN LEGACY SINCE 1940
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OsV1N1lEHyHJHiw2QmMdI14kMtTApAhEDON0vrTGdsmQ-3D-3DWjhw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKZE663QPgP3myTfo-2FqTSrTc4RSOUxVpKA8lbaKj-2FBUS-2Fm2p0nwpU0EUq-2BnXDkkFOR2mOc3nZ715NP2dH70gT6VbqLiMAx0i8-2FXWCEQramccuosZHyiruL8m9ZsWlkjoXtm-2FrGtZ2Cy
 
 ---
+
+## [营销] From your feed to your cart 🤩
+
+**发件人:** Sephora Daily Deals <shop@beauty.sephora.com>
+**日期:** 2026-09-29T13:26:30.000Z
+**摘要:** Sephora发送的促销邮件，提及积分和优惠活动
+**待办:** 无
+**GmailID:** 1a0ed5b70bb67df3
+
+ Sephora 
+
+Slow your scroll for these social superstars. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0ed586c178f7252f4bbcfd118/c516ffb353734a8c0000021ef3a0bcc2/c516
+
+---
