@@ -605,10 +605,8 @@ function openAnalysis(vid){
   sp.innerHTML = [0.25,0.5,1,1.5,2].map(x => "<button data-sp='" + x + "' onclick='apSpeed(" + x + ",this)'>" + x + "x</button>").join("");
   sp.querySelector("[data-sp='1']").classList.add("on"); apSpd = 1;
   const misc = document.getElementById("apMisc");
-  misc.innerHTML = "<span class='aplbl'>⏩</span>" + [2,5,10].map(s => "<button data-st='" + s + "' onclick='apStepSet(" + s + ",this)'>" + s + "s</button>").join("") +
-    "<span class='aplbl'>🔍</span>" + [1,1.5,2].map(z => "<button data-z='" + z + "' onclick='apZoomSet(" + z + ",this)'>" + z + "x</button>").join("");
+  misc.innerHTML = "<span class='aplbl'>⏩</span>" + [2,5,10].map(s => "<button data-st='" + s + "' onclick='apStepSet(" + s + ",this)'>" + s + "s</button>").join("");
   misc.querySelector("[data-st='" + apStepN + "']").classList.add("on");
-  misc.querySelector("[data-z='" + apZoom + "']").classList.add("on");
   document.getElementById("apTags").innerHTML = TAG_ORDER.map(k =>
     "<button data-tag='" + k + "' onclick='apTagSet(this)'>" + TAG_ICON[k] + " " + escH(TAGS[k] || k) + "</button>").join("");
   apRenderCmts();
@@ -695,11 +693,7 @@ function apZoomReset(){
   if(misc) misc.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b.dataset.z === "1"));
   apXf();
 }
-function apZoomSet(z, btn){
-  apZoom = z; pzX = pzY = 0;
-  btn.parentNode.querySelectorAll("[data-z]").forEach(b => b.classList.toggle("on", b === btn));
-  apXf();
-}
+
 // 双指捏合缩放 + 放大后单指拖动平移（只动视频画面）
 (function(){
   const box = document.querySelector(".apv");
