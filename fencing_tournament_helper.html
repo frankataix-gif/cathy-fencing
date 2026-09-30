@@ -724,10 +724,6 @@
     </div>
 
     <div id="cathydata-sub-tasks" class="cathydata-sub-content" style="display:block;">
-      <div class="card" id="upcoming-card" style="display:none;">
-        <h3 style="margin:0 0 10px;">近期事项 / 7 天内</h3>
-        <div id="upcoming-list"></div>
-      </div>
       <div class="card">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; flex-wrap:wrap; gap:8px;">
           <h3 style="margin:0;">待办清单</h3>
@@ -3523,7 +3519,6 @@ function circuitLabel(c) {
       if (text === null) {
         _autoSyncEnabled = true;
         if (typeof renderTasks === 'function') renderTasks();
-        if (typeof renderUpcoming === 'function') renderUpcoming();
         return;
       }
       const data = JSON.parse(text);
@@ -3603,12 +3598,10 @@ function circuitLabel(c) {
       renderResults();
       renderSchedule();
       if (typeof renderTasks === 'function') renderTasks();
-      if (typeof renderUpcoming === 'function') renderUpcoming();
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
       if (typeof renderTasks === 'function') renderTasks();
-      if (typeof renderUpcoming === 'function') renderUpcoming();
     }
   }
 
@@ -6049,7 +6042,7 @@ function circuitLabel(c) {
         else { btn.classList.add('secondary'); btn.classList.remove('active'); }
       }
     });
-    if (tab === 'calendar') { renderSchedule(); if (typeof renderUpcoming === 'function') renderUpcoming(); }
+    if (tab === 'calendar') { renderSchedule(); }
     if (tab === 'tasks' && typeof renderTasks === 'function') renderTasks();
   }
 
@@ -7274,64 +7267,11 @@ function circuitLabel(c) {
   function saveTasks() {
     saveToLocal('cathy_tasks', JSON.stringify(tasks));
     if (typeof renderTasks === 'function') renderTasks();
-    if (typeof renderUpcoming === 'function') renderUpcoming();
     if (typeof renderEmailList === 'function') renderEmailList();
   }
 
   // newTaskId / getTaskTombstones / markTaskDeleted / emailTaskKey / taskCategoryFor
   // 已上移到首个 <script> 块（初始化期就会被调用，不能依赖后块解析顺序）
-
-  function renderUpcoming() {
-    const container = document.getElementById('upcoming-list');
-    const card = document.getElementById('upcoming-card');
-    if (!container || !card) return;
-    const today = vancouverISO().slice(0,10);
-    const future = new Date();
-    future.setDate(future.getDate() + 7);
-    const futureStr = future.toISOString().slice(0,10);
-    const items = [];
-    (scheduleEvents || []).forEach(e => {
-      if (e.date && e.date >= today && e.date <= futureStr) {
-        items.push({ type: 'event', title: e.title, date: e.date, end: e.end, time: e.time, category: e.type || 'other', color: scheduleTypeDot(e.type) });
-      }
-    });
-    (tasks || []).forEach(t => {
-      if (t.completed) return;
-      const inRange = !t.dueDate || t.dueDate <= futureStr || t.dueDate < today;
-      if (inRange) {
-        items.push({ type: 'task', title: t.title, date: t.dueDate || '未设日期', category: t.category, id: t.id, overdue: t.dueDate && t.dueDate < today, color: '' });
-      }
-    });
-    items.sort((a, b) => {
-      if (a.date === '未设日期') return 1;
-      if (b.date === '未设日期') return -1;
-      return a.date.localeCompare(b.date);
-    });
-    if (!items.length) { card.style.display = 'none'; return; }
-    card.style.display = 'block';
-    container.innerHTML = items.map(item => {
-      const color = item.color || `<span class="schedule-dot" style="background:${taskCatColor(item.category)};"></span>`;
-      const badge = item.overdue ? '<span style="background:#ef4444;color:#fff;font-size:11px;padding:1px 6px;border-radius:8px;margin-left:6px;">过期</span>' : '';
-      let dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
-      if (item.type === 'task' && item.date !== '未设日期') {
-        const info = dueCountdownText(item.date);
-        dateText = info.text;
-      }
-      return `<div style="margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
-        <div style="display:flex; align-items:flex-start; gap:8px;">
-          <span style="margin-top:2px;">${color}</span>
-          <div style="flex:1; min-width:0;">
-            <div style="font-weight:600; word-break:break-word; white-space:normal; line-height:1.5;">${escapeHtml(item.title)}${badge}</div>
-            <div style="font-size:0.75rem; color:#6b7280; margin-top:2px;">${escapeHtml(dateText)}</div>
-          </div>
-        </div>
-        ${item.type === 'task' ? `<div style="display:flex; justify-content:flex-end; margin-top:6px;"><button class="btn secondary" style="padding:2px 8px; font-size:0.75rem;" data-task-edit="${item.id}">编辑</button></div>` : ''}
-      </div>`;
-    }).join('');
-    container.querySelectorAll('button[data-task-edit]').forEach(btn => {
-      btn.addEventListener('click', () => openTaskEditor(tasks.find(t => t.id === btn.dataset.taskEdit)));
-    });
-  }
 
   function renderTasks() {
     const container = document.getElementById('task-list');
@@ -8046,7 +7986,6 @@ function circuitLabel(c) {
     // 初始化一次
     initImageLightbox();
     renderTasks();
-    renderUpcoming();
     if (allEmails.length) renderEmailList();
   }
 
