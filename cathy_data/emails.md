@@ -20946,3 +20946,50 @@ lululemon
       -ms-interpolation-mode: bic
 
 ---
+
+## [其他] Emery Wharf South Terrace Now Open 30/09/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-09-30T11:42:14.000Z
+**摘要:** 通知Emery Wharf South Terrace将于2026年9月30日开放
+**待办:** 无
+**GmailID:** 1a0f21f58a766cc2
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
