@@ -152,5 +152,6 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - 不关联 bout 的「上传视频」先弹窗问活动主体名（可空→「自建活动」）+ 对阵/备注，保证每条视频有归属主体。
 - ⚠️ 已知坑：教练页模板字符串里的内嵌 JS 若写 `\'` 会被模板解析成裸 `'` 截断字符串 → 整个脚本语法错误、页面卡 Loading。模板内字符串转义必须写 `\\'` / `\\"`（见 escH）。改完务必用 esprima 校验线上返回页的 `<script>`。
 - 部署命令：`python "C:\Users\25534\AppData\Local\Temp\deploy_video_worker.py"`（若被清理，参数见 git 历史/复制 deploy_cathy_worker.py 改 worker 名为 cathyvideos + VIDEOS binding）。
-- 视频上传改为后台队列（`_upQueue` / `_upRun` / `_upPaint`，与按钮解耦）：文件选择支持多选；底部浮动进度面板（XHR 字节级进度，可收起/重试/移除/清除）；上传中申请 Wake Lock 防锁屏，分片失败等回前台+联网后最多重试 8 次续传；上传中 beforeunload 和「更新」横幅会先提醒。选 MKV/AVI 等会提示格式教练播不了。限制：iOS 把 App 切到后台时网页 JS 会被挂起，回到前台自动续传；页面被关闭/刷新则当前视频需重选。
+- 视频上传改为后台队列（`_upQueue` / `_upRun` / `_upPaint`，与按钮解耦）：文件选择支持多选；底部浮动进度面板（XHR 字节级进度，可收起/重试/移除/清除）；上传中申请 Wake Lock 防锁屏，分片失败等回前台+联网后最多重试 8 次续传；上传中 beforeunload 和「更新」横幅会先提醒。选 MKV/AVI 等会提示格式教练播不了。限制：iOS 把 App 切到后台时网页 JS 会被挂起，回到前台自动续传。
+- 断点续传（跨会话）：选中的视频存 IndexedDB `cathy_uploads`（`files` 存 File 本体、`state` 存 key/uploadId/parts），每传完一片写进度；App 被系统关闭/刷新后，启动时 `_upRestore()` 自动放回队列从断点续传；完成按 R2 key 去重入库并清理本地存储。出错不再 abort（保留断点），用户「移除」才 abort；连续失败 2 次重试会丢弃断点从头传。已用 Playwright 实测：40MB 传 1 片后刷新 → 自动续传完成、IDB 清零。
 - 待办：MKV/HEVC 格式浏览器播不了（无转码，建议拍 MP4/H.264 或归档 YouTube）；教练语音留言不翻译；国内访问 workers.dev 不稳定，如需要可绑自定义域名。

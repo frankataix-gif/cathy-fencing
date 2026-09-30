@@ -903,7 +903,7 @@ function showAppUpdateBanner() {
   if (tabs) tabs.style.top = (h + headerH) + 'px';
   document.getElementById('sw-update-btn').addEventListener('click', async (ev) => {
     const btn = ev.currentTarget;
-    if (typeof _upActive === 'function' && _upActive() && !confirm('视频还在后台上传，现在更新会中断上传。确定更新？')) return;
+    if (typeof _upUnsafe === 'function' && _upUnsafe() && !confirm('有视频还没存到本地，现在更新会中断它的上传。确定更新？')) return;
     btn.textContent = '更新中…';
     btn.disabled = true;
     try {
@@ -2500,19 +2500,26 @@ function circuitLabel(c) {
     });
   }
   // 分片上传视频到 R2（经 Worker，15MB/片）；onProgress(已传字节, 总字节)；分片失败会等回前台/联网后续传
-  async function uploadVideoFile(file, onProgress) {
+  // st（可选）：断点状态 {key, uploadId, parts}，有则跳过已传分片；每传完一片调用 st.save() 持久化
+  const _UP_CHUNK = 15 * 1024 * 1024;
+  async function uploadVideoFile(file, onProgress, st) {
     const wurl = CATHY_VIDEO_WORKER_URL.replace(/\/+$/, '');
-    const CHUNK = 15 * 1024 * 1024;
+    const CHUNK = _UP_CHUNK;
+    st = st || {};
     await _waitUsable();
-    const initRes = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ action: 'video_init', name: file.name, contentType: file.type || 'video/mp4' }) });
-    const init = await initRes.json();
-    if (!initRes.ok || init.error) throw new Error(init.error || 'init failed');
-    const { key, uploadId } = init;
-    const parts = [];
+    if (!st.key || !st.uploadId) {
+      const initRes = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'video_init', name: file.name, contentType: file.type || 'video/mp4' }) });
+      const init = await initRes.json();
+      if (!initRes.ok || init.error) throw new Error(init.error || 'init failed');
+      st.key = init.key; st.uploadId = init.uploadId; st.parts = [];
+      if (st.save) await st.save();
+    }
+    const { key, uploadId } = st;
+    const parts = st.parts = st.parts || [];
     const total = Math.max(1, Math.ceil(file.size / CHUNK));
-    try {
-      for (let i = 0; i < total; i++) {
+    {
+      for (let i = parts.length; i < total; i++) {
         const start = i * CHUNK;
         const blob = file.slice(start, Math.min(file.size, start + CHUNK));
         let done = null, lastErr = null;
@@ -2525,6 +2532,7 @@ function circuitLabel(c) {
         }
         if (!done) throw lastErr || new Error('part failed');
         parts.push({ partNumber: done.partNumber, etag: done.etag });
+        if (st.save) await st.save();
         if (onProgress) onProgress(start + blob.size, file.size);
       }
       await _waitUsable();
@@ -2532,12 +2540,93 @@ function circuitLabel(c) {
         body: JSON.stringify({ action: 'video_complete', key, uploadId, parts }) });
       const fj = await fin.json();
       if (!fin.ok || fj.error) throw new Error(fj.error || 'complete failed');
+      st.url = fj.url;
+      if (st.save) await st.save();
       return { key, url: fj.url };
-    } catch(e) {
-      try { await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action: 'video_abort', key, uploadId }) }); } catch(e2) {}
-      throw e;
     }
+    // 出错不 abort：保留服务器端分片，重试/下次打开 App 时从断点续传；用户「移除」时才 abort
+  }
+
+  // ===== 断点续传本地存储（IndexedDB）：files 存视频本体，state 存进度；App 被系统关掉后下次打开自动续传 =====
+  let _upDBp = null;
+  function _upDB() {
+    return _upDBp || (_upDBp = new Promise((res, rej) => {
+      const r = indexedDB.open('cathy_uploads', 1);
+      r.onupgradeneeded = () => { r.result.createObjectStore('files'); r.result.createObjectStore('state', { keyPath: 'qid' }); };
+      r.onsuccess = () => res(r.result);
+      r.onerror = () => rej(r.error);
+    }));
+  }
+  async function _upIdb(store, mode, fn) {
+    const d = await _upDB();
+    return new Promise((res, rej) => {
+      const tx = d.transaction(store, mode);
+      const rq = fn(tx.objectStore(store));
+      let out;
+      if (rq) rq.onsuccess = () => { out = rq.result; };
+      tx.oncomplete = () => res(out);
+      tx.onerror = tx.onabort = () => rej(tx.error);
+    });
+  }
+  function _upStateOf(q) {
+    return { qid: q.qid, name: q.file.name, size: q.file.size, type: q.file.type, tournamentId: q.tournamentId, meta: q.meta,
+      key: q.key || '', uploadId: q.uploadId || '', parts: q.parts || [], url: q.url || '', createdAt: q.createdAt };
+  }
+  async function _upPersist(q) {
+    if (!window.indexedDB || q.status === 'done' || !_upQueue.includes(q)) return;
+    try {
+      if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
+      await _upIdb('state', 'readwrite', s => s.put(_upStateOf(q)));
+      await _upIdb('files', 'readwrite', s => s.put(q.file, q.qid));
+      q.saved = true;
+      await _upSaveState(q);   // 存文件期间可能已传了几片，补写最新进度
+      if (q.status === 'done' || !_upQueue.includes(q)) await _upForget(q.qid);   // 存完时已传完/被移除 → 清掉，不留残余
+    } catch(e) { q.saved = false; q.saveErr = true; _upForget(q.qid); }
+    _upRender();
+  }
+  async function _upSaveState(q) { if (q.saved) { try { await _upIdb('state', 'readwrite', s => s.put(_upStateOf(q))); } catch(e) {} } }
+  async function _upForget(qid) {
+    if (!window.indexedDB) return;
+    try { await _upIdb('state', 'readwrite', s => s.delete(qid)); await _upIdb('files', 'readwrite', s => s.delete(qid)); } catch(e) {}
+  }
+  // 上传完成 → 进视频库（按 R2 key 去重，防止续传时重复入库）
+  function _upAddVideo(q, r) {
+    if (!videos.some(v => v.key === r.key)) {
+      videos.push(Object.assign({
+        id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
+        name: q.file.name, url: r.url, key: r.key, size: q.file.size,
+        uploadedAt: new Date().toISOString(),
+        tournamentId: q.tournamentId, type: 'r2', share: false
+      }, q.meta));
+      saveVideos();
+      refreshVideoViews();
+    }
+    _upForget(q.qid);
+  }
+  // App 打开时：读出上次没传完的视频，放回队列继续
+  async function _upRestore() {
+    if (!window.indexedDB) return;
+    try {
+      const states = (await _upIdb('state', 'readonly', s => s.getAll())) || [];
+      // 清理没有进度记录的孤立视频文件
+      const fkeys = (await _upIdb('files', 'readonly', s => s.getAllKeys())) || [];
+      const sids = new Set(states.map(s => s.qid));
+      for (const k of fkeys) if (!sids.has(k)) await _upIdb('files', 'readwrite', s => s.delete(k));
+      let n = 0;
+      for (const st of states) {
+        if (_upQueue.some(x => x.qid === st.qid)) continue;
+        const blob = await _upIdb('files', 'readonly', s => s.get(st.qid));
+        if (!blob) { await _upForget(st.qid); continue; }
+        const file = (blob instanceof File) ? blob : new File([blob], st.name, { type: st.type || 'video/mp4' });
+        const q = { qid: st.qid, file, tournamentId: st.tournamentId, meta: st.meta || {}, createdAt: st.createdAt,
+          key: st.key, uploadId: st.uploadId, parts: st.parts || [], url: st.url, saved: true, fails: 0,
+          status: 'queued', loaded: Math.min(file.size, (st.parts || []).length * _UP_CHUNK) };
+        if (q.url) { _upAddVideo(q, { key: q.key, url: q.url }); q.status = 'done'; q.loaded = file.size; }
+        _upQueue.push(q);
+        n++;
+      }
+      if (n) { showToast(`继续上传上次没传完的 ${n} 个视频`); _upRender(); _upRun(); }
+    } catch(e) {}
   }
 
   let _videoFileInput = null;
@@ -2568,10 +2657,13 @@ function circuitLabel(c) {
         files.splice(0, files.length, ...files.filter(f => !bad.includes(f)));
         if (!files.length) return;
       }
-      files.forEach(f => _upQueue.push({ qid: 'q' + Date.now() + Math.random().toString(36).slice(2, 6), file: f, tournamentId: tournamentId || null, meta: Object.assign({}, meta), status: 'queued', loaded: 0 }));
+      const added = files.map(f => ({ qid: 'q' + Date.now() + Math.random().toString(36).slice(2, 6), file: f, tournamentId: tournamentId || null, meta: Object.assign({}, meta), status: 'queued', loaded: 0, parts: [], fails: 0, createdAt: new Date().toISOString() }));
+      _upQueue.push(...added);
       showToast(`已加入后台上传：${files.length} 个视频，可以切到别的页面`);
       _upRender();
       _upRun();
+      // 同时存一份到本地，App 被系统关掉后下次打开能续传（逐个存，先存排在前面的）
+      (async () => { for (const q of added) await _upPersist(q); })();
     };
     _videoFileInput.click();
   }
@@ -2580,6 +2672,7 @@ function circuitLabel(c) {
   const _upQueue = [];
   let _upBusy = false, _upWake = null, _upFold = false;
   function _upActive() { return _upQueue.some(q => q.status === 'queued' || q.status === 'uploading'); }
+  function _upUnsafe() { return _upQueue.some(q => (q.status === 'queued' || q.status === 'uploading') && !q.saved); }
   async function _upKeepAwake(on) {
     try {
       if (on && !_upWake && navigator.wakeLock) { _upWake = await navigator.wakeLock.request('screen'); _upWake.addEventListener('release', () => { _upWake = null; }); }
@@ -2587,27 +2680,21 @@ function circuitLabel(c) {
     } catch(e) {}
   }
   document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && _upActive()) _upKeepAwake(true); });
-  window.addEventListener('beforeunload', e => { if (_upActive()) { e.preventDefault(); e.returnValue = '视频还在上传，离开会中断'; return e.returnValue; } });
+  window.addEventListener('beforeunload', e => { if (_upUnsafe()) { e.preventDefault(); e.returnValue = '视频还没存到本地，离开会中断'; return e.returnValue; } });
   async function _upRun() {
     if (_upBusy) return;
     _upBusy = true;
     _upKeepAwake(true);
     let q;
     while ((q = _upQueue.find(x => x.status === 'queued'))) {
-      q.status = 'uploading'; q.loaded = 0; _upRender();
+      q.status = 'uploading'; q.loaded = Math.min(q.file.size, (q.parts || []).length * _UP_CHUNK); _upRender();
       try {
-        const r = await uploadVideoFile(q.file, (b) => { q.loaded = b; _upRender(); });
-        videos.push(Object.assign({
-          id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
-          name: q.file.name, url: r.url, key: r.key, size: q.file.size,
-          uploadedAt: new Date().toISOString(),
-          tournamentId: q.tournamentId, type: 'r2', share: false
-        }, q.meta));
-        saveVideos();
-        refreshVideoViews();
+        q.save = () => _upSaveState(q);
+        const r = await uploadVideoFile(q.file, (b) => { q.loaded = b; _upRender(); }, q);
+        _upAddVideo(q, r);
         q.status = 'done'; q.loaded = q.file.size;
       } catch(e) {
-        q.status = 'error'; q.err = e.message || String(e);
+        q.status = 'error'; q.err = e.message || String(e); q.fails = (q.fails || 0) + 1;
       }
       _upRender();
     }
@@ -2616,10 +2703,27 @@ function circuitLabel(c) {
     const ok = _upQueue.filter(x => x.status === 'done').length, bad = _upQueue.filter(x => x.status === 'error').length;
     if (ok || bad) showToast(bad ? `上传完成 ${ok} 个，失败 ${bad} 个（可点重试）` : `✅ ${ok} 个视频已全部上传`);
   }
-  function upRetry(qid) { const q = _upQueue.find(x => x.qid === qid); if (q) { q.status = 'queued'; q.err = ''; _upRender(); _upRun(); } }
+  function _upAbortRemote(q) {
+    if (!q.key || !q.uploadId) return;
+    fetch(CATHY_VIDEO_WORKER_URL.replace(/\/+$/, '') + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action: 'video_abort', key: q.key, uploadId: q.uploadId }) }).catch(() => {});
+  }
+  function upRetry(qid) {
+    const q = _upQueue.find(x => x.qid === qid);
+    if (!q) return;
+    // 连续失败两次：服务器端断点可能已失效，丢弃断点从头传
+    if ((q.fails || 0) >= 2) { _upAbortRemote(q); q.key = ''; q.uploadId = ''; q.parts = []; q.fails = 0; _upSaveState(q); }
+    q.status = 'queued'; q.err = ''; _upRender(); _upRun();
+  }
   function upRemove(qid) {
     const i = _upQueue.findIndex(x => x.qid === qid);
-    if (i >= 0 && _upQueue[i].status !== 'uploading') { _upQueue.splice(i, 1); _upRender(); }
+    if (i < 0 || _upQueue[i].status === 'uploading') return;
+    if (!confirm('移除这个视频的上传？已传的部分会丢弃。')) return;
+    const q = _upQueue[i];
+    _upAbortRemote(q);
+    _upForget(q.qid);
+    _upQueue.splice(i, 1);
+    _upRender();
   }
   function upClearDone() { for (let i = _upQueue.length - 1; i >= 0; i--) if (_upQueue[i].status === 'done') _upQueue.splice(i, 1); _upRender(); }
   function upToggleFold() { _upFold = !_upFold; _upRender(); }
@@ -2660,7 +2764,7 @@ function circuitLabel(c) {
           <span style="flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-weight:600;">🎬 ${escapeHtml(q.file.name)}</span>
           <span style="white-space:nowrap;">${st}</span>
         </div>
-        <div style="color:#94a3b8; font-size:0.7rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${fmtBytes(q.loaded || 0) || '0MB'} / ${fmtBytes(q.file.size)}${where ? ' · ' + escapeHtml(where) : ''}${q.err ? ' · ' + escapeHtml(q.err) : ''}</div>
+        <div style="color:#94a3b8; font-size:0.7rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${fmtBytes(q.loaded || 0) || '0MB'} / ${fmtBytes(q.file.size)}${q.status === 'done' ? '' : q.saved ? ' · <span style="color:#16a34a;">💾 已存本地，关掉 App 也能续传</span>' : q.saveErr ? ' · <span style="color:#d97706;">手机空间不足，未能存本地</span>' : ' · 正在存本地…'}${where ? ' · ' + escapeHtml(where) : ''}${q.err ? ' · ' + escapeHtml(q.err) : ''}</div>
         ${q.status === 'done' ? '' : bar(p, q.status === 'error' ? '#ef4444' : '#2563eb')}
       </div>`;
     }).join('');
@@ -6654,6 +6758,7 @@ function circuitLabel(c) {
   initPullToRefresh();
   loadReflections();
   loadVideos();
+  _upRestore();
   syncAllToGitHub(true).finally(() => loadUserDataFromGitHub());
   loadEmails();
   renderResults();
