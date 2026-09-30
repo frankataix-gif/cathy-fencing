@@ -20877,3 +20877,25 @@ lululemon
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101431935-1790728363377.403%26ouid%3D515930.HK-20260930-edm-hase.2026-09-30_8_0.20260930.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D515930.HK-20260930-edm-hase.2026-09-30_8_0.20260930.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzE5MzUtMTc5MDcyODM2MzM3Ny40MDMiLCJ0a
 
 ---
+
+## [营销] Last chance: 3-Day Sale ends today. ⏰
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-09-30T10:08:36.000Z
+**摘要:** BestBuy的3天促销活动今日结束，提醒用户及时参与。
+**待办:** 无
+**GmailID:** 1a0f1cc085c0f3ba
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
