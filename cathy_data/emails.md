@@ -21040,3 +21040,16 @@ Questions about purchased items may be directed to the Cafeteria Manager by emai
 For questions about MyKidsSpending, please sen
 
 ---
+
+## [营销] Soft Spot for Suede
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-09-30T13:07:36.000Z
+**摘要:** Browns Shoes推送冬季鞋款促销信息，鼓励立即购买并2小时内自取。
+**待办:** 无
+**GmailID:** 1a0f26d7c4bdf154
+
+The plush finish every cold-weather look needs   BUY NOW, PICK
+UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PqIbKtm1PdIQWjwOvoX1GJzBzL7QqqgJ3bE6SbGfZftg-3D-3D9_My_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAAeel8mPQPkHub63JxIH8vr63PSMZUWxh1Kj4myYH4XxXNLV6hBcT0kq-2BRbqCE-2FZeTkZVl2QY-2BwQBuJ-2FnDN3-2B3Q2GsTC8P-2B8b0yoerP9wmaBkWQREobvwTFpPSZmnt4bv3FHTgjQdhlDw-2BIKXo2gRNqQbQR4sl4Hdt9bY
+
+---
