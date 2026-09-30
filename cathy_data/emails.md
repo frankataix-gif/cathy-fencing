@@ -21181,3 +21181,30 @@ Only at Sephora.
 <https://app.sephora.com/T/v61000001a0f4573e21c01007369fb45280/28a9ac0f0d9940660000021ef3a0bcc2/28a9ac0f-0d99-4066-b489-b566d0827
 
 ---
+
+## [其他] Your receipt is here! #961 53 1386 09302026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-09-30T22:01:54.000Z
+**摘要:** Best Buy Canada 发来购物小票，显示2026年9月30日购买了兄弟打印机及配件，总金额287.78加元。
+**待办:** 无
+**GmailID:** 1a0f456a8c01e71c
+
+ Digital Receipt 
+Your receipt is here!
+#961 53 1386 09302026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 961 53 1386 09302026 
+Date 2026-09-30 03:01 PM 
+Type Sale 
+Associate Name Kirandeep 
+Transaction Summary
+Brother HL-L2460DW Monochrome Wireless Laser Printer 
+Item #: 17717077 GP $249.99 
+Env
+
+---
