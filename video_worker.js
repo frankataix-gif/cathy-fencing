@@ -229,7 +229,7 @@ export default {
         h.set('Accept-Ranges', 'bytes');
         h.set('Cache-Control', 'public, max-age=86400');
         let status = 200;
-        if (obj.range) {
+        if (obj.range && request.headers.get('Range')) {
           status = 206;
           const r = obj.range;
           let start, end;
@@ -494,6 +494,11 @@ function renderCoachPage(token, meta, t) {
   .vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
   .vcell{position:relative;border-radius:10px;overflow:hidden;background:#000;aspect-ratio:16/9;cursor:pointer}
   .vcell video{width:100%;height:100%;object-fit:cover;display:block}
+  .vcell img.vth{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+  .vcell img.vth:not([src]){display:none}
+  .vcell video.thv{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0.01;pointer-events:none}
+  .vcell video.thv.show{opacity:1}
+  .vcell.nothumb{background:linear-gradient(135deg,#1e293b,#334155)}
   .vcell .pov{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.6rem;background:rgba(0,0,0,.18)}
   .vcell .dur{position:absolute;right:5px;bottom:5px;background:rgba(0,0,0,.72);color:#fff;font-size:0.65rem;padding:1px 6px;border-radius:6px}
   .vcell .newtag{position:absolute;left:5px;top:5px;background:#ef4444;color:#fff;font-size:0.62rem;font-weight:700;padding:1px 6px;border-radius:6px}
@@ -687,15 +692,8 @@ function openAnalysis(vid){
     ld.style.display = "flex";
     apV.removeAttribute("poster");
     // 先用列表缩略图的首帧做海报，视频加载前不黑屏
-    try{
-      const t = document.querySelector(".vcell[data-vid='" + v.id + "'] video");
-      if(t && t.readyState >= 2 && t.videoWidth){
-        const cv = document.createElement("canvas");
-        cv.width = t.videoWidth; cv.height = t.videoHeight;
-        cv.getContext("2d").drawImage(t, 0, 0);
-        apV.poster = cv.toDataURL("image/jpeg", 0.72);
-      }
-    }catch(e){}
+    const th = thGet(v.id);
+    if(th && th.i) apV.poster = th.i;
     apV.src = v.url; apV.load();   // 走原地址；已缓存的部分由 Service Worker 本地应答
   }
   else ldHide();
@@ -996,8 +994,8 @@ function render(){
                 const vc = cmts.filter(c => c.videoId === v.id).length;
                 const cell = v.youtube
                   ? "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>"
-                  : "<div class='vcell' data-vid='" + escH(v.id) + "' onclick='openAnalysis(this.dataset.vid)'>" +
-                    "<video muted playsinline preload='metadata' src='" + escH(v.url) + "#t=0.1' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
+                  : "<div class='vcell' data-vid='" + escH(v.id) + "' data-src='" + escH(v.url) + "' onclick='openAnalysis(this.dataset.vid)'>" +
+                    "<img class='vth' alt=''>" +
                     "<div class='pov'>▶</div><div class='dur'></div>" +
                     (isN ? "<div class='newtag'>NEW</div>" : "") +
                     "<div class='vname'>" + escH(v.name) + "</div></div>";
@@ -1025,18 +1023,98 @@ function render(){
   });
   // 分析面板打开时同步刷新其留言
   if(apVid) apRenderCmts();
+  thumbsKick();
 }
-function durSet(v){
-  const d = v.duration;
-  if(!isFinite(d)) return;
-  const m = Math.floor(d/60), s = Math.round(d%60);
-  const el = v.parentNode.querySelector(".dur");
-  if(el) el.textContent = m + ":" + String(s).padStart(2,"0");
+// ===== 缩略图：排队加载（同时最多 2 个，避免 iPhone 同时加载太多视频而报错）→ 截首帧存本地 → 释放视频 =====
+const THUMBS = {};
+let thQ = [], thRun = 0;
+function fmtDur(d){ return Math.floor(d/60) + ":" + String(Math.round(d%60)).padStart(2,"0"); }
+function thGet(id){
+  if(THUMBS[id]) return THUMBS[id];
+  try{ const s = localStorage.getItem("cth_" + id); if(s) return (THUMBS[id] = JSON.parse(s)); }catch(e){}
+  return null;
 }
-
-function vidErr(v){
-  const cell = v.parentNode;
-  cell.innerHTML = "<div style='display:flex;align-items:center;justify-content:center;height:100%;color:#fca5a5;font-size:0.7rem;padding:8px;text-align:center'>" + escH(T.vidFail || "Video failed to load") + "</div>";
+function thPut(id, o){
+  THUMBS[id] = o;
+  try{ localStorage.setItem("cth_" + id, JSON.stringify(o)); }catch(e){}
+}
+function thApply(cell, o){
+  const im = cell.querySelector("img.vth");
+  if(im && o.i && im.getAttribute("src") !== o.i) im.src = o.i;
+  const d = cell.querySelector(".dur");
+  if(d && isFinite(o.d)) d.textContent = fmtDur(o.d);
+}
+function thumbsKick(){
+  document.querySelectorAll(".vcell[data-src]").forEach(function(c){
+    const o = thGet(c.dataset.vid);
+    if(o) thApply(c, o);
+    if((!o || !o.i) && !c.dataset.q){ c.dataset.q = "1"; thQ.push(c); }
+  });
+  thPump();
+}
+function thPump(){
+  while(thRun < 2 && thQ.length){
+    const c = thQ.shift();
+    if(!c.isConnected) continue;
+    thRun++;
+    thLoad(c, 0).then(function(){ thRun--; thPump(); });
+  }
+}
+function thLoad(cell, tries){
+  return new Promise(function(res){
+    const id = cell.dataset.vid;
+    const had = thGet(id);
+    if(had && had.i){ thApply(cell, had); return res(); }
+    const v = document.createElement("video");
+    v.muted = true; v.playsInline = true; v.preload = "auto";
+    v.setAttribute("muted", ""); v.setAttribute("playsinline", "");
+    v.className = "thv";
+    let done = false;
+    const end = function(keepVideo){
+      if(done) return;
+      done = true;
+      clearTimeout(to);
+      if(!keepVideo){ v.removeAttribute("src"); try{ v.load(); }catch(e){} v.remove(); }
+    };
+    const grab = function(){
+      if(done) return;
+      try{
+        const w = 240, h = Math.round(w * ((v.videoHeight / v.videoWidth) || 0.5625));
+        const cv = document.createElement("canvas");
+        cv.width = w; cv.height = h;
+        const g = cv.getContext("2d");
+        g.drawImage(v, 0, 0, w, h);
+        // iPhone 偶尔画出全黑：这种情况不存图，直接把视频元素留作缩略图（已显示首帧）
+        const px = g.getImageData(0, 0, w, h).data;
+        let sum = 0;
+        for(let k = 0; k < px.length; k += 400) sum += px[k] + px[k+1] + px[k+2];
+        if(sum / (px.length / 400) < 12 && !v.dataset.later && isFinite(v.duration) && v.duration > 1){
+          // 开头是黑画面（如屏幕录像）：往后跳一点再截一次
+          v.dataset.later = "1";
+          v.addEventListener("seeked", function(){ setTimeout(grab, 150); }, { once: true });
+          v.currentTime = Math.min(2, v.duration / 3);
+          return;
+        }
+        if(sum / (px.length / 400) < 12){ v.classList.add("show"); THUMBS[id] = { d: v.duration }; thApply(cell, THUMBS[id]); end(true); return res(); }
+        thPut(id, { i: cv.toDataURL("image/jpeg", 0.6), d: v.duration });
+        thApply(cell, THUMBS[id]);
+      }catch(e){ v.classList.add("show"); end(true); return res(); }
+      end(false); res();
+    };
+    v.addEventListener("loadedmetadata", function(){
+      const d = cell.querySelector(".dur");
+      if(d && isFinite(v.duration)) d.textContent = fmtDur(v.duration);
+    }, { once: true });
+    v.addEventListener("loadeddata", function(){ setTimeout(grab, 120); }, { once: true });
+    v.addEventListener("error", function(){
+      end(false);
+      if(tries < 1) setTimeout(function(){ thLoad(cell, tries + 1).then(res); }, 1500);
+      else { cell.classList.add("nothumb"); res(); }
+    }, { once: true });
+    const to = setTimeout(function(){ end(false); cell.classList.add("nothumb"); res(); }, 25000);
+    cell.insertBefore(v, cell.firstChild);
+    v.src = cell.dataset.src + "#t=0.1";
+  });
 }
 function toggleCmts(btn){
   const body = btn.nextElementSibling;
