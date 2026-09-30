@@ -97,8 +97,8 @@ const EV_I18N = {
 };
 // 家庭模式（家长 / Cathy 端）与对话功能的补充文案
 const FAM_I18N = {
-  zh: { famTitle: 'Cathy 家庭 · 教练对话', famTip: '每位教练一个对话窗口，教练之间互相看不到。发送前选好是 Cathy 还是家长在说话。', all: '全部', pickCoach: '先选一位教练再回复', keyMissing: '这台设备还没有家庭钥匙，请从击剑助手里打开', noCmt: '还没有留言', newc: '新', newCmts: '条新留言', sendFail: '发送失败，请重试', family: '家长' },
-  en: { famTitle: 'Cathy · Family & Coaches', famTip: 'One conversation per coach; coaches cannot see each other. Choose whether Cathy or a parent is speaking before you send.', all: 'All', pickCoach: 'Pick a coach to reply', keyMissing: 'This device has no family key — open it from the Cathy app', noCmt: 'No comments yet', newc: 'new', newCmts: 'new comments', sendFail: 'Send failed, please retry' }
+  zh: { famTitle: 'Cathy 家庭 · 教练对话', famTip: '每位教练一个对话窗口，教练之间互相看不到。发送前选好是 Cathy 还是家长在说话。', all: '全部', pickCoach: '先选一位教练再回复', keyMissing: '这台设备还没有家庭钥匙，请从击剑助手里打开', noCmt: '还没有留言', newc: '新', newCmts: '条新留言', sendFail: '发送失败，请重试', family: '家长', notSynced: '这个视频还没同步到教练页。请返回击剑助手，确认视频已「共享」后再打开。' },
+  en: { famTitle: 'Cathy · Family & Coaches', famTip: 'One conversation per coach; coaches cannot see each other. Choose whether Cathy or a parent is speaking before you send.', all: 'All', pickCoach: 'Pick a coach to reply', keyMissing: 'This device has no family key — open it from the Cathy app', noCmt: 'No comments yet', newc: 'new', newCmts: 'new comments', sendFail: 'Send failed, please retry', notSynced: 'This video has not been shared yet.' }
 };
 FAM_I18N['zh-TW'] = FAM_I18N.zh;
 // 点评标签：优点/问题/步法/进攻/防守/时机/距离/战术（key 固定，按语言显示）
@@ -729,6 +729,9 @@ function renderCoachPage(token, meta, t, mode) {
   .apto .tolab{color:#cbd5e1;font-size:.82rem}
   .apto .anc{background:#1e293b;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:8px 12px;font-size:.8rem;cursor:pointer;margin-left:auto}
   .apto .anc.on{background:#1d4ed8;color:#fff;border-color:#1d4ed8}
+  body.embed .apclose{display:none}
+  body.embed .ap .apbox{padding-top:58px}
+  body.embed .wrap{padding-top:58px}
   .apcomp .aptags{display:none}
   .apcomp.composing .aptags{display:flex}
   .apcomp .apcbtns{margin-top:6px}
@@ -880,6 +883,15 @@ function ago(ts){
   return Math.round(s/86400) + "d";
 }
 let firstLoad = true;
+if(EMBED) document.body.classList.add("embed");
+// 从 App 点进来但视频还没同步到服务器：提示并每 2 秒重试，最多 5 次
+function waitDeepLink(dv, n){
+  const list = document.getElementById("list");
+  if(vids.some(x => x.id === dv)){ openAnalysis(dv, QS.get("s") === "bout" ? "bout" : "clip"); return; }
+  if(n >= 5){ list.insertAdjacentHTML("afterbegin", "<div class='empty' style='color:#b45309'>" + escH(T.notSynced) + "</div>"); return; }
+  if(n === 0) list.insertAdjacentHTML("afterbegin", "<div class='empty' id='dlWait'>⏳ " + escH(T.loading) + "</div>");
+  setTimeout(async function(){ await load(true); const w = document.getElementById("dlWait"); if(w && vids.some(x => x.id === dv)) w.remove(); waitDeepLink(dv, n + 1); }, 2000);
+}
 async function load(manual){
   try{
     let d;
@@ -919,6 +931,7 @@ async function load(manual){
       // 从击剑助手点进来：直接打开指定视频 / 对阵
       const dv = QS.get("v");
       if(dv && vids.some(x => x.id === dv)) openAnalysis(dv, QS.get("s") === "bout" ? "bout" : "clip");
+      else if(dv) waitDeepLink(dv, 0);
     }
   }catch(e){
     if(!vids.length) document.getElementById("list").innerHTML = "<div class='empty' style='color:#b91c1c'>" + escH(T.loadFail || "Load failed") + ": " + escH(e.message) + "</div>";

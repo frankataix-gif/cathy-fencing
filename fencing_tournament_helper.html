@@ -501,7 +501,7 @@
     /* 统一播放器（教练同款）全屏层 */
     .cp-ov { position:fixed; inset:0; z-index:10002; background:#020617; display:none; }
     .cp-ov iframe { width:100%; height:100%; border:0; display:block; }
-    .cp-x { position:absolute; top:calc(10px + env(safe-area-inset-top)); left:12px; width:36px; height:36px; border:none; border-radius:50%; background:rgba(51,65,85,.9); color:#fff; font-size:1.3rem; line-height:1; cursor:pointer; z-index:2; }
+    .cp-x { position:absolute; top:calc(10px + env(safe-area-inset-top)); left:12px; height:40px; padding:0 14px; border:none; border-radius:20px; background:rgba(51,65,85,.92); color:#fff; font-size:0.95rem; font-weight:600; line-height:40px; cursor:pointer; z-index:2; box-shadow:0 2px 8px rgba(0,0,0,.3); }
   </style>
 </head>
 <body>
@@ -2454,7 +2454,12 @@ function circuitLabel(c) {
   let _feedTimer = null;
   function syncCoachFeed() {
     if (_feedTimer) clearTimeout(_feedTimer);
-    _feedTimer = setTimeout(async () => {
+    _feedTimer = setTimeout(() => { pushCoachFeed(); }, 800);
+  }
+  // 立即把共享视频推到教练页（打开播放器前、App 启动时都会调用）；失败会提示
+  async function pushCoachFeed() {
+    if (_feedTimer) { clearTimeout(_feedTimer); _feedTimer = null; }
+    {
       try {
         const feed = {
           familyLang: getLocal('cathy_family_lang', 'zh') || 'zh',
@@ -2473,9 +2478,14 @@ function circuitLabel(c) {
             place: t ? [t.city, t.state, 'USA'].filter(Boolean).join(', ') : (v.country || '')
           };
         })};
-        await videoWorkerPost({ action: 'feed_save', feed });
-      } catch(e) {}
-    }, 800);
+        const r = await videoWorkerPost({ action: 'feed_save', feed });
+        if (!r || !r.ok) throw new Error((r && r.error) || 'failed');
+        return true;
+      } catch(e) {
+        showToast('共享视频同步到教练页失败，请检查网络后重试');
+        return false;
+      }
+    }
   }
   async function addCoachLink() {
     const name = prompt('教练名称（如：Amir）：', '');
@@ -2606,12 +2616,13 @@ function circuitLabel(c) {
     b.textContent = n > 99 ? '99+' : String(n);
   }
   // 共享视频：全屏打开统一播放器（和教练同一套：快慢动作、缩放、按教练分对话）
-  function openCoachPlayer(id, scope) {
+  async function openCoachPlayer(id, scope) {
+    await pushCoachFeed();
     const fk = familyKey();
     let ov = document.getElementById('coach-player-ov');
     if (!ov) { ov = document.createElement('div'); ov.id = 'coach-player-ov'; ov.className = 'cp-ov'; document.body.appendChild(ov); }
     const src = `${CATHY_VIDEO_WORKER_URL}/family?embed=1&v=${encodeURIComponent(id)}&s=${scope === 'bout' ? 'bout' : 'clip'}${fk ? '#fk=' + encodeURIComponent(fk) : ''}`;
-    ov.innerHTML = `<iframe src="${escapeHtml(src)}" allow="microphone; autoplay; fullscreen; clipboard-write" allowfullscreen></iframe><button class="cp-x" onclick="closeCoachPlayer()" aria-label="返回">‹</button>`;
+    ov.innerHTML = `<iframe src="${escapeHtml(src)}" allow="microphone; autoplay; fullscreen; clipboard-write" allowfullscreen></iframe><button class="cp-x" onclick="closeCoachPlayer()" aria-label="返回">‹ 返回</button>`;
     ov.style.display = 'block';
     document.body.style.overflow = 'hidden';
   }
@@ -2624,8 +2635,6 @@ function circuitLabel(c) {
   window.addEventListener('message', e => {
     if (e.origin !== CATHY_VIDEO_WORKER_URL || !e.data) return;
     if (e.data.type === 'cf-close') closeCoachPlayer();
-    // 播放器正常加载后隐藏 App 的返回键（避免两个关闭按钮）；页面加载失败时它作为退路一直在
-    if (e.data.type === 'cf-unread') { const x = document.querySelector('#coach-player-ov .cp-x'); if (x) x.style.display = 'none'; }
   });
   function openVideo(id) {
     const v = videos.find(x => x.id === id);
@@ -6928,6 +6937,7 @@ function circuitLabel(c) {
   loadVideos();
   _upRestore();
   loadCoachComments().then(() => renderVideoWall());
+  if (videos.some(v => v.share === true)) pushCoachFeed();
   syncAllToGitHub(true).finally(() => loadUserDataFromGitHub());
   loadEmails();
   renderResults();
