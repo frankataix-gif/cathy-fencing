@@ -168,5 +168,5 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - **安全（方案 A）**：教练名单 + 密钥只存 R2 `coach/registry.json`，不再写进公开仓库（App 同步不再上传 coaches / coachTombstones，本机 `cathy_coaches` 清除）。家庭钥匙 SHA-256 存 `coach/family.json`（`family_init` 仅首次可用）。需家庭钥匙：family_data / family_seen / coach_create / coach_import / coach_rename / coach_revoke / coach_rotate / coach_register / feed_save / video_delete / comments_get，以及 author=family|cathy 的 comment_add；comment_del / comment_tags 用教练 token（本人线程）或家庭钥匙。App 本机钥匙 localStorage `cathy_family_key`（打开 App 设置链接 `...#fk=<key>` 自动保存，不同步）。**钥匙不要写进任何仓库文件。**
 - App「👤 教练」页：无钥匙时显示输入框；教练菜单新增「🔄 换新链接」（`coach_rotate`，留言搬到新 token、旧链接立即 404）。
 - 翻译提示词加入击剑术语（parata = 防守/格挡，affondo = 弓步）。
-- 测试环境：`cathyvideos-staging` Worker 绑定独立测试桶 `cathy-videos-staging`（部署脚本 `deploy_video_worker_named.py <name>`，名字以 -staging 结尾自动用测试桶），不会动正式数据。
+- 测试环境：需要时用 `deploy_video_worker_named.py cathyvideos-staging` 临时部署测试 Worker（名字以 -staging 结尾自动绑定独立测试桶 `cathy-videos-staging`，不会动正式数据），测完删除该 Worker；测试桶保留。
 - 待办：MKV/HEVC 格式浏览器播不了（无转码，建议拍 MP4/H.264 或归档 YouTube）；教练语音留言不翻译；国内访问 workers.dev 不稳定，如需要可绑自定义域名。
