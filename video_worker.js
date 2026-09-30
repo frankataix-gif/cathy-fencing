@@ -95,6 +95,12 @@ const EV_I18N = {
   tr: { "Women's Foil": 'kadınlar flöre', "Men's Foil": 'erkekler flöre', "Women's Epee": 'kadınlar epe', "Men's Epee": 'erkekler epe', "Women's Sabre": 'kadınlar kılıç', "Men's Sabre": 'erkekler kılıç' },
   ar: { "Women's Foil": 'سلاح الشيش سيدات', "Men's Foil": 'سلاح الشيش رجال', "Women's Epee": 'سلاح المبارزة سيدات', "Men's Epee": 'سلاح المبارزة رجال', "Women's Sabre": 'سلاح السيف سيدات', "Men's Sabre": 'سلاح السيف رجال' }
 };
+// 家庭模式（家长 / Cathy 端）与对话功能的补充文案
+const FAM_I18N = {
+  zh: { famTitle: 'Cathy 家庭 · 教练对话', famTip: '每位教练一个对话窗口，教练之间互相看不到。发送前选好是 Cathy 还是家长在说话。', all: '全部', pickCoach: '先选一位教练再回复', keyMissing: '这台设备还没有家庭钥匙，请从击剑助手里打开', noCmt: '还没有留言', newc: '新', newCmts: '条新留言', sendFail: '发送失败，请重试', family: '家长' },
+  en: { famTitle: 'Cathy · Family & Coaches', famTip: 'One conversation per coach; coaches cannot see each other. Choose whether Cathy or a parent is speaking before you send.', all: 'All', pickCoach: 'Pick a coach to reply', keyMissing: 'This device has no family key — open it from the Cathy app', noCmt: 'No comments yet', newc: 'new', newCmts: 'new comments', sendFail: 'Send failed, please retry' }
+};
+FAM_I18N['zh-TW'] = FAM_I18N.zh;
 // 点评标签：优点/问题/步法/进攻/防守/时机/距离/战术（key 固定，按语言显示）
 const TAG_I18N = {
   zh: { good: '优点', issue: '问题', footwork: '步法', attack: '进攻', defense: '防守', timing: '时机', distance: '距离', tactic: '战术' },
@@ -149,12 +155,33 @@ async function writeJson(env, key, obj) {
   await env.VIDEOS.put(key, JSON.stringify(obj), { httpMetadata: { contentType: 'application/json' } });
 }
 
+// ===== 家庭钥匙 + 教练名单（存 R2，不进公开仓库）=====
+// coach/family.json = { hash }（家庭钥匙 SHA-256）；coach/registry.json = [{ id, token, name, lang, createdAt }]
+// coach/family_reads.json = { "<coachId>|<boutId>": ISO 时间 }（家长端已读位置）
+const TOKEN_RE = /^[a-z0-9]{16,64}$/i;
+async function sha256hex(s) {
+  const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s));
+  return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2, '0')).join('');
+}
+async function famOK(env, fk) {
+  if (typeof fk !== 'string' || fk.length < 32 || fk.length > 128) return false;
+  const f = await readJson(env, 'coach/family.json');
+  return !!(f && f.hash && f.hash === await sha256hex(fk));
+}
+function newToken() { return [...crypto.getRandomValues(new Uint8Array(16))].map(b => b.toString(16).padStart(2, '0')).join(''); }
+async function getReg(env) { return (await readJson(env, 'coach/registry.json')) || []; }
+// 家长端操作某教练线程：按 coachId（或旧的 token）在名单里找
+async function regCoach(env, body) {
+  const reg = await getReg(env);
+  return reg.find(c => (body.coachId && c.id === body.coachId) || (body.token && c.token === body.token)) || null;
+}
+
 async function translate(env, text, targetLang) {
   if (!env.AI || !text) return text;
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
       messages: [
-        { role: 'system', content: `Translate the user's text into ${LANG_NAME[targetLang] || 'English'}. Output ONLY the translation, no explanation. Keep names/numbers/scores as-is.` },
+        { role: 'system', content: `You translate short messages between a fencing coach and a young fencer's family (foil/épée/sabre). Translate the user's text into ${LANG_NAME[targetLang] || 'English'}, using correct fencing terminology (e.g. Italian "parata" = parry, "stoccata" = hit/touch, "affondo" = lunge; 防守/格挡 = parry, 弓步 = lunge). Output ONLY the translation, no explanation, no quotes. Keep names/numbers/scores as-is. If the text is already in the target language, output it unchanged.` },
         { role: 'user', content: text }
       ],
       max_tokens: 512
@@ -202,7 +229,7 @@ export default {
         let dirty = false;
         const shown = [];
         for (const c of comments) {
-          if (c.author === 'family' && lang !== familyLang && c.text && c.text !== '🎤') {
+          if (c.author !== 'coach' && lang !== familyLang && c.text && c.text !== '🎤') {
             c.translations = c.translations || {};
             if (!c.translations[lang]) { c.translations[lang] = await translate(env, c.text, lang); dirty = true; }
             shown.push({ ...c, display: c.translations[lang], orig: c.text });
@@ -212,6 +239,13 @@ export default {
         }
         if (dirty) await writeJson(env, `coach/comments_${token}.json`, comments);
         return json({ meta, feed, comments: shown, v: PAGE_VERSION });
+      }
+
+      // 家庭模式页面（家长 / Cathy）：钥匙放在网址 # 后面，只在浏览器里用，不经过服务器日志
+      if (request.method === 'GET' && (reqUrl.pathname === '/family' || reqUrl.pathname === '/family/')) {
+        const feed = await readJson(env, 'coach/feed.json') || {};
+        const lang = COACH_I18N[feed.familyLang] ? feed.familyLang : 'zh';
+        return new Response(renderCoachPage(null, { name: '', lang }, COACH_I18N[lang], 'family'), { headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' } });
       }
 
       // GET /video/<key> — R2 视频流式播放（支持 Range 拖进度，key 为不可猜随机串）
@@ -291,14 +325,6 @@ export default {
         return json({ ok: true });
       }
 
-      if (body.action === 'video_delete') {
-        if (!env.VIDEOS) return json({ error: 'videos not configured' }, 503);
-        const key = String(body.key || '');
-        if (!key.startsWith('videos/') || key.includes('..')) return json({ error: 'forbidden' }, 403);
-        await env.VIDEOS.delete(key);
-        return json({ ok: true });
-      }
-
       if (body.action === 'video_stat') {
         if (!env.VIDEOS) return json({ error: 'videos not configured' }, 503);
         const key = String(body.key || '');
@@ -307,32 +333,124 @@ export default {
         return json({ exists: !!obj, size: obj ? obj.size : 0 });
       }
 
-      // ===== 教练链接管理 =====
-      if (body.action === 'coach_register') {
-        const token = String(body.token || '');
-        const name = String(body.name || '').slice(0, 60);
-        const lang = String(body.lang || 'en');
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !name || !COACH_I18N[lang]) return json({ error: 'bad request' }, 400);
-        await writeJson(env, `coach/meta_${token}.json`, { name, lang, createdAt: new Date().toISOString() });
+      // ===== 家庭钥匙：首次初始化（仅在未设置时可用）=====
+      if (body.action === 'family_init') {
+        if (await readJson(env, 'coach/family.json')) return json({ error: 'already initialized' }, 403);
+        const fk = String(body.fk || '');
+        if (fk.length < 32 || fk.length > 128) return json({ error: 'bad key' }, 400);
+        await writeJson(env, 'coach/family.json', { hash: await sha256hex(fk), createdAt: new Date().toISOString() });
         return json({ ok: true });
       }
 
-      // 改名：同步教练页显示的名字
-      if (body.action === 'coach_rename') {
-        const token = String(body.token || '');
+      // ===== 以下家长端操作全部需要家庭钥匙 =====
+      const FAMILY_ACTIONS = ['family_data', 'family_seen', 'coach_create', 'coach_import', 'coach_rename', 'coach_revoke', 'coach_rotate', 'coach_register', 'feed_save', 'video_delete', 'comments_get'];
+      if (FAMILY_ACTIONS.includes(body.action) && !(await famOK(env, body.fk))) return json({ error: 'family key required' }, 401);
+
+      // 家长端数据：feed + 教练名单 + 全部教练的留言（每条带 coachId）+ 已读位置
+      if (body.action === 'family_data') {
+        const reg = await getReg(env);
+        const feed = await readJson(env, 'coach/feed.json') || { videos: [] };
+        const comments = [];
+        for (const c of reg) {
+          const list = (await readJson(env, `coach/comments_${c.token}.json`)) || [];
+          list.forEach(x => comments.push(Object.assign({}, x, { coachId: c.id })));
+        }
+        const coaches = [];
+        for (const c of reg) {
+          const m = await readJson(env, `coach/meta_${c.token}.json`) || {};
+          coaches.push({ id: c.id, token: c.token, name: m.name || c.name, lang: m.lang || c.lang || 'en', createdAt: c.createdAt, lastSeen: m.lastSeen || null });
+        }
+        const reads = (await readJson(env, 'coach/family_reads.json')) || {};
+        return json({ feed, coaches, comments, reads, v: PAGE_VERSION });
+      }
+
+      // 家长端已读：keys = ["<coachId>|<boutId>", ...]
+      if (body.action === 'family_seen') {
+        const keys = Array.isArray(body.keys) ? body.keys.filter(k => typeof k === 'string' && k.length < 400).slice(0, 50) : [];
+        if (!keys.length) return json({ ok: true });
+        const reads = (await readJson(env, 'coach/family_reads.json')) || {};
+        const now = new Date().toISOString();
+        keys.forEach(k => { reads[k] = now; });
+        await writeJson(env, 'coach/family_reads.json', reads);
+        return json({ ok: true, ts: now });
+      }
+
+      // ===== 教练链接管理（家庭钥匙）=====
+      if (body.action === 'coach_create') {
         const name = String(body.name || '').slice(0, 60).trim();
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !name) return json({ error: 'bad request' }, 400);
-        const meta = await readJson(env, `coach/meta_${token}.json`);
-        if (!meta) return json({ error: 'invalid link' }, 404);
-        meta.name = name;
-        await writeJson(env, `coach/meta_${token}.json`, meta);
+        const lang = validLang(String(body.lang || '')) ? String(body.lang) : 'en';
+        if (!name) return json({ error: 'bad request' }, 400);
+        const token = newToken();
+        const now = new Date().toISOString();
+        await writeJson(env, `coach/meta_${token}.json`, { name, lang, createdAt: now });
+        const reg = await getReg(env);
+        const c = { id: 'co_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), token, name, lang, createdAt: now };
+        reg.push(c);
+        await writeJson(env, 'coach/registry.json', reg);
+        return json({ ok: true, coach: c });
+      }
+
+      // 把已有教练（旧 token）登记进名单（迁移用，幂等）
+      if (body.action === 'coach_import') {
+        const reg = await getReg(env);
+        const added = [];
+        for (const x of (Array.isArray(body.coaches) ? body.coaches : [])) {
+          const token = String(x.token || '');
+          if (!TOKEN_RE.test(token) || reg.some(c => c.token === token)) continue;
+          const meta = await readJson(env, `coach/meta_${token}.json`);
+          if (!meta) continue;
+          const c = { id: 'co_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), token, name: meta.name || String(x.name || ''), lang: meta.lang || 'en', createdAt: x.createdAt || meta.createdAt || new Date().toISOString() };
+          reg.push(c); added.push(c);
+        }
+        await writeJson(env, 'coach/registry.json', reg);
+        return json({ ok: true, added: added.length, coaches: reg });
+      }
+
+      if (body.action === 'coach_rename') {
+        const name = String(body.name || '').slice(0, 60).trim();
+        const reg = await getReg(env);
+        const c = reg.find(x => x.id === body.coachId);
+        if (!c || !name) return json({ error: 'bad request' }, 400);
+        c.name = name;
+        const meta = await readJson(env, `coach/meta_${c.token}.json`);
+        if (meta) { meta.name = name; await writeJson(env, `coach/meta_${c.token}.json`, meta); }
+        await writeJson(env, 'coach/registry.json', reg);
         return json({ ok: true });
       }
 
       if (body.action === 'coach_revoke') {
+        const reg = await getReg(env);
+        const c = reg.find(x => x.id === body.coachId);
+        if (!c) return json({ error: 'not found' }, 404);
+        await env.VIDEOS.delete(`coach/meta_${c.token}.json`);
+        await writeJson(env, 'coach/registry.json', reg.filter(x => x.id !== c.id));
+        return json({ ok: true });
+      }
+
+      // 换新链接：留言和设置搬到新 token，旧链接立即失效
+      if (body.action === 'coach_rotate') {
+        const reg = await getReg(env);
+        const c = reg.find(x => x.id === body.coachId);
+        if (!c) return json({ error: 'not found' }, 404);
+        const old = c.token, token = newToken();
+        const meta = (await readJson(env, `coach/meta_${old}.json`)) || { name: c.name, lang: c.lang || 'en', createdAt: c.createdAt };
+        const list = (await readJson(env, `coach/comments_${old}.json`)) || [];
+        await writeJson(env, `coach/comments_${token}.json`, list);
+        await writeJson(env, `coach/meta_${token}.json`, meta);
+        c.token = token;
+        await writeJson(env, 'coach/registry.json', reg);
+        await env.VIDEOS.delete(`coach/meta_${old}.json`);
+        await env.VIDEOS.delete(`coach/comments_${old}.json`);
+        return json({ ok: true, coach: c });
+      }
+
+      // 旧接口：App 本地生成 token 后登记（保留兼容，需家庭钥匙）
+      if (body.action === 'coach_register') {
         const token = String(body.token || '');
-        if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);
-        await env.VIDEOS.delete(`coach/meta_${token}.json`);
+        const name = String(body.name || '').slice(0, 60);
+        const lang = String(body.lang || 'en');
+        if (!TOKEN_RE.test(token) || !name || !COACH_I18N[lang]) return json({ error: 'bad request' }, 400);
+        await writeJson(env, `coach/meta_${token}.json`, { name, lang, createdAt: new Date().toISOString() });
         return json({ ok: true });
       }
 
@@ -340,7 +458,7 @@ export default {
       if (body.action === 'coach_setlang') {
         const token = String(body.token || '');
         const lang = String(body.lang || '');
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !validLang(lang)) return json({ error: 'bad request' }, 400);
+        if (!TOKEN_RE.test(token) || !validLang(lang)) return json({ error: 'bad request' }, 400);
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return json({ error: 'invalid link' }, 404);
         meta.lang = lang;
@@ -351,7 +469,7 @@ export default {
       // 教练页打开后回写 lastSeen，用于「自上次访问新增视频」标记
       if (body.action === 'coach_seen') {
         const token = String(body.token || '');
-        if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);
+        if (!TOKEN_RE.test(token)) return json({ error: 'bad request' }, 400);
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return json({ error: 'invalid link' }, 404);
         meta.lastSeen = new Date().toISOString();
@@ -367,17 +485,42 @@ export default {
         return json({ ok: true });
       }
 
-      // 留言：author 'coach'（来自教练页）或 'family'（来自 App），可带语音 audioUrl
-      if (body.action === 'comment_add') {
+      if (body.action === 'video_delete') {
+        if (!env.VIDEOS) return json({ error: 'videos not configured' }, 503);
+        const key = String(body.key || '');
+        if (!key.startsWith('videos/') || key.includes('..')) return json({ error: 'forbidden' }, 403);
+        await env.VIDEOS.delete(key);
+        return json({ ok: true });
+      }
+
+      // 定位留言所属线程：教练用自己的 token；家长/Cathy 必须带家庭钥匙 + coachId
+      async function threadOf(asFamily) {
+        if (asFamily) {
+          if (!(await famOK(env, body.fk))) return { err: json({ error: 'family key required' }, 401) };
+          const c = await regCoach(env, body);
+          if (!c) return { err: json({ error: 'coach not found' }, 404) };
+          const meta = await readJson(env, `coach/meta_${c.token}.json`);
+          if (!meta) return { err: json({ error: 'invalid link' }, 404) };
+          return { token: c.token, meta };
+        }
         const token = String(body.token || '');
+        if (!TOKEN_RE.test(token)) return { err: json({ error: 'bad request' }, 400) };
+        const meta = await readJson(env, `coach/meta_${token}.json`);
+        if (!meta) return { err: json({ error: 'invalid link' }, 404) };
+        return { token, meta };
+      }
+
+      // 留言：author 'coach'（教练页）/ 'family'（家长）/ 'cathy'（Cathy 本人），可带语音 audioUrl
+      if (body.action === 'comment_add') {
         const text = String(body.text || '').slice(0, 2000).trim();
         const audioUrl = String(body.audioUrl || '');
-        const author = body.author === 'family' ? 'family' : 'coach';
-        const videoId = body.videoId || null;
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || (!text && !audioUrl)) return json({ error: 'bad request' }, 400);
+        const author = ['family', 'cathy'].includes(body.author) ? body.author : 'coach';
+        const videoId = typeof body.videoId === 'string' ? body.videoId.slice(0, 300) : null;
+        if (!text && !audioUrl) return json({ error: 'bad request' }, 400);
         if (audioUrl && !audioUrl.startsWith(`${reqUrl.origin}/video/`)) return json({ error: 'bad audio url' }, 400);
-        const meta = await readJson(env, `coach/meta_${token}.json`);
-        if (!meta) return json({ error: 'invalid link' }, 404);
+        const th = await threadOf(author !== 'coach');
+        if (th.err) return th.err;
+        const { token, meta } = th;
         const coachLang = meta.lang || 'en';
         const feed = await readJson(env, 'coach/feed.json') || {};
         const familyLang = feed.familyLang || 'zh';
@@ -391,9 +534,10 @@ export default {
         if (typeof body.vt === 'number' && isFinite(body.vt) && body.vt >= 0 && body.vt < 86400) rec.vt = +body.vt.toFixed(2);
         if (typeof body.tag === 'string' && /^[a-z]{2,12}$/.test(body.tag)) rec.tag = body.tag;
         if (Array.isArray(body.tags)) rec.tags = body.tags.filter(t => typeof t === 'string' && /^[a-z]{2,12}$/.test(t)).slice(0, 6);
-        rec.lang = author === 'family' ? familyLang : coachLang;
-        // 双向翻译：家长留言 → 翻成教练语言（按语言缓存）；教练留言 → 翻成家长语言
-        if (author === 'family' && coachLang !== familyLang && text && text !== '🎤') {
+        if (typeof body.replyTo === 'string' && /^[a-z0-9_]{4,40}$/i.test(body.replyTo)) rec.replyTo = body.replyTo;
+        rec.lang = author === 'coach' ? coachLang : familyLang;
+        // 双向翻译：家长/Cathy 留言 → 翻成教练语言；教练留言 → 翻成家长语言
+        if (author !== 'coach' && coachLang !== familyLang && text && text !== '🎤') {
           rec.translations = { [coachLang]: await translate(env, text, coachLang) };
           rec.coachText = rec.translations[coachLang];
         }
@@ -410,37 +554,28 @@ export default {
         return json({ ok: true, comment: rec });
       }
 
-      if (body.action === 'comment_del') {
-        const token = String(body.token || '');
+      if (body.action === 'comment_del' || body.action === 'comment_tags') {
         const id = String(body.id || '');
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
-        const meta = await readJson(env, `coach/meta_${token}.json`);
-        if (!meta) return json({ error: 'invalid link' }, 404);
-        const key = `coach/comments_${token}.json`;
+        if (!/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
+        const th = await threadOf(!!body.fk);
+        if (th.err) return th.err;
+        const key = `coach/comments_${th.token}.json`;
         const list = (await readJson(env, key)) || [];
-        const kept = list.filter(c => c.id !== id);
-        if (kept.length !== list.length) await writeJson(env, key, kept);
-        return json({ ok: true });
-      }
-
-      if (body.action === 'comment_tags') {
-        const token = String(body.token || '');
-        const id = String(body.id || '');
+        if (body.action === 'comment_del') {
+          const kept = list.filter(c => c.id !== id);
+          if (kept.length !== list.length) await writeJson(env, key, kept);
+          return json({ ok: true });
+        }
         const tags = Array.isArray(body.tags) ? body.tags.filter(t => typeof t === 'string' && /^[a-z]{2,12}$/.test(t)).slice(0, 8) : [];
-        if (!/^[a-z0-9]{16,64}$/i.test(token) || !/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
-        const meta = await readJson(env, `coach/meta_${token}.json`);
-        if (!meta) return json({ error: 'invalid link' }, 404);
-        const key = `coach/comments_${token}.json`;
-        const list = (await readJson(env, key)) || [];
         const c = list.find(c => c.id === id);
         if (c) { c.tags = tags; delete c.tag; await writeJson(env, key, list); }
         return json({ ok: true, tags });
       }
 
       if (body.action === 'comments_get') {
-        const token = String(body.token || '');
-        if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'bad request' }, 400);
-        const list = (await readJson(env, `coach/comments_${token}.json`)) || [];
+        const c = await regCoach(env, body);
+        if (!c) return json({ error: 'coach not found' }, 404);
+        const list = (await readJson(env, `coach/comments_${c.token}.json`)) || [];
         return json({ comments: list });
       }
 
@@ -457,9 +592,10 @@ const _pvSrc = renderCoachPage.toString() + esc.toString() + JSON.stringify(COAC
 let _pvH = 0; for (let i = 0; i < _pvSrc.length; i++) _pvH = (_pvH * 31 + _pvSrc.charCodeAt(i)) >>> 0;
 const PAGE_VERSION = _pvSrc.length.toString(36) + _pvH.toString(36);
 // 布局：教练主页（教练名为主、学员副标）→ 赛事(可带官方链接,吸顶) → 对阵 → 视频片段缩略图 → 折叠留言
-function renderCoachPage(token, meta, t) {
-  t = Object.assign({}, COACH_I18N.en, t);
-  const title = 'Coach ' + meta.name + ' — ' + t.title;
+function renderCoachPage(token, meta, t, mode) {
+  mode = mode === 'family' ? 'family' : 'coach';
+  t = Object.assign({}, COACH_I18N.en, t, FAM_I18N[meta.lang] || FAM_I18N.en, mode === 'family' ? {} : { family: t.family || COACH_I18N.en.family });
+  const title = mode === 'family' ? t.famTitle : 'Coach ' + meta.name + ' — ' + t.title;
   return `<!DOCTYPE html><html lang="${esc(meta.lang)}"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title>
@@ -530,7 +666,7 @@ function renderCoachPage(token, meta, t) {
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
   .upd{display:none;position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:0.82rem;font-weight:600;padding:9px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(37,99,235,.4);cursor:pointer;z-index:999;white-space:nowrap}
   /* ===== 分析播放器（点评用）===== */
-  .ap{display:none;position:fixed;inset:0;background:rgba(2,6,23,.95);z-index:100;overflow:auto}
+  .ap{display:none;position:fixed;inset:0;background:#020617;z-index:100;overflow:auto}
   .apbox{max-width:640px;margin:0 auto;padding:12px 12px 30px;position:relative;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
   .apstick{position:sticky;top:0;z-index:60;background:rgba(2,6,23,.97);padding-top:4px;border-radius:12px}
   .apv{position:relative;background:#000;border-radius:12px;overflow:hidden;touch-action:none}
@@ -568,18 +704,43 @@ function renderCoachPage(token, meta, t) {
   .cmtmenu button{background:#f1f5f9;color:#334155;border:1px solid #cbd5e1;border-radius:999px;padding:5px 12px;font-size:.75rem;cursor:pointer;min-height:32px}
   .cmtmenu button.on{background:#065f46;border-color:#10b981;color:#fff}
   .cmtmenu button.del{background:#fee2e2;color:#b91c1c;border-color:#fecaca}
+  .cmt.cathy{background:#fdf2f8}
+  .cmt.unread{box-shadow:inset 3px 0 0 #ef4444}
+  .wn{font-weight:700}
+  .tocn{color:#64748b}
+  .rep{float:right;color:#2563eb;cursor:pointer;padding:0 8px;font-weight:700;font-size:.9rem}
+  .ub{display:inline-block;background:#ef4444;color:#fff;font-size:.64rem;font-weight:700;padding:0 6px;border-radius:999px;margin-left:4px;line-height:16px;vertical-align:middle}
+  .apclips,.aptabs,.apscope{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+  .apclips:empty,.aptabs:empty{display:none}
+  .apclips button,.aptabs button,.apscope button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:7px 12px;font-size:.82rem;cursor:pointer;min-height:36px;display:inline-flex;align-items:center;gap:6px}
+  .apclips button.on,.apscope button.on{background:#2563eb;border-color:#2563eb;color:#fff}
+  .aptabs button.on{background:#fff;color:#0f172a;border-color:#fff;font-weight:700}
+  .aptabs i{width:9px;height:9px;border-radius:50%;display:inline-block}
+  .apempty{color:#64748b;font-size:.82rem;padding:10px 2px}
+  .apcomp{position:sticky;bottom:0;background:rgba(2,6,23,.97);padding:8px 0 calc(8px + env(safe-area-inset-bottom));margin-top:8px;z-index:50;border-top:1px solid #1e293b}
+  .apto{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .apto .idn{display:inline-flex;border:1px solid #334155;border-radius:999px;overflow:hidden}
+  .apto .idn button{background:transparent;color:#cbd5e1;border:none;padding:8px 14px;font-size:.82rem;cursor:pointer}
+  .apto .idn button.on{background:#db2777;color:#fff}
+  .apto .idn button[data-k=family].on{background:#16a34a}
+  .apto .tolab{color:#cbd5e1;font-size:.82rem}
+  .apto .anc{background:#1e293b;color:#94a3b8;border:1px solid #334155;border-radius:999px;padding:8px 12px;font-size:.8rem;cursor:pointer;margin-left:auto}
+  .apto .anc.on{background:#1d4ed8;color:#fff;border-color:#1d4ed8}
+  .apcomp .aptags{display:none}
+  .apcomp.composing .aptags{display:flex}
+  .apcomp .apcbtns{margin-top:6px}
 </style></head><body><div class="wrap">
-<div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
-<div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>
+${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
+<div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>`}
 <div class="hd">
-  <div class="cname">🛡 Coach ${esc(meta.name)}</div>
+  <div class="cname">${mode === 'family' ? '👨‍👩‍👧 ' + esc(t.famTitle) : '🛡 Coach ' + esc(meta.name)}</div>
   <span class="newb" id="newBadge" style="display:none"></span>
 </div>
 <div class="stu">
   <div class="av">🤺</div>
   <div><div class="sname" id="stuName">Cathy He</div><div class="smeta" id="stuLine">Foil · Vancouver · ${esc(t.videosHere)}</div></div>
 </div>
-<div class="tip">🤖 ${esc(t.tip)}</div>
+<div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
@@ -600,15 +761,88 @@ function renderCoachPage(token, meta, t) {
 <div class="apsp" id="apSp"></div>
 </div>
 <div class="apvol" id="apVolRow">🔊 <input type="range" id="apVol" min="0" max="100" value="80" oninput="apVolIn(this)"></div>
-<div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
-<div class="aptags" id="apTags"></div>
-<div class="box" id="apTxtBox" style="display:none;margin-top:6px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13)apSend()"><button onclick="apSend()">${esc(t.send)}</button></div>
-<div class="box" id="apRecBox" style="display:none;margin-top:6px"><span class="rect" id="apRecT">● 0:00</span><button onclick="apStopRec()">⏹ ${esc(t.send)}</button><button onclick="apCancelRec()" style="background:#475569">✕</button></div>
+<div class="apclips" id="apClips"></div>
+<div class="aptabs" id="apTabs"></div>
+<div class="apscope" id="apScope"></div>
 <div class="cmts" id="apCmts" style="margin-top:8px"></div>
+<div class="apcomp">
+<div class="apto" id="apTo"></div>
+<div class="aptags" id="apTags"></div>
+<div class="apcbtns"><button onclick="apShowTxt()">💬 ${esc(t.comments)}</button><button onclick="apStartRec()">🎤 ${esc(t.voice || 'Voice')}</button></div>
+<div class="box" id="apTxtBox" style="display:none;margin-top:6px"><input id="apInput" placeholder="${esc(t.namePh)}" oncontextmenu="event.stopPropagation()" onkeydown="if(event.keyCode===13&&!event.isComposing)apSend()"><button onclick="apSend()">${esc(t.send)}</button></div>
+<div class="box" id="apRecBox" style="display:none;margin-top:6px"><span class="rect" id="apRecT">● 0:00</span><button onclick="apStopRec()">⏹ ${esc(t.send)}</button><button onclick="apCancelRec()" style="background:#475569">✕</button></div>
+</div>
 </div></div>
 <div class="upd" id="updBar" onclick="location.reload()">🔄 ${esc(t.update || 'Update available — tap to refresh')}</div>
 <script>
 const TOKEN = ${JSON.stringify(token)};
+const MODE = ${JSON.stringify(mode)};
+const QS = new URLSearchParams(location.search);
+const EMBED = QS.get("embed") === "1";
+let FK = "";
+if(MODE === "family"){
+  const m = location.hash.match(/fk=([A-Za-z0-9_-]+)/);
+  if(m){ FK = m[1]; try{ localStorage.setItem("cf_fk", FK); }catch(e){} try{ history.replaceState(null, "", location.pathname + location.search); }catch(e){} }
+  else { try{ FK = localStorage.getItem("cf_fk") || ""; }catch(e){} }
+}
+// 统一请求：教练端带 token，家长端带家庭钥匙
+function api(body){
+  const b = Object.assign({}, body, MODE === "family" ? { fk: FK } : { token: TOKEN });
+  return fetch("/", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(b) });
+}
+let COACHES = [], READS = {}, IDENT = "cathy";
+try{ IDENT = localStorage.getItem("cf_ident") === "family" ? "family" : "cathy"; }catch(e){}
+const PAL = ["#2563eb", "#db2777", "#059669", "#d97706", "#7c3aed", "#0891b2"];
+function coachOf(id){ return COACHES.find(c => c.id === id); }
+function coachColor(id){ const i = COACHES.findIndex(c => c.id === id); return PAL[(i < 0 ? 0 : i) % PAL.length]; }
+const byTs = (a, b) => (a.ts || "").localeCompare(b.ts || "");
+// 家长端显示：教练留言显示翻译，家长/Cathy 留言显示原文
+function famShow(c){
+  if(c.author === "coach"){ const tr = c.familyText || c.zhText || ""; return Object.assign({}, c, { display: tr || c.text, orig: tr && tr !== c.text ? c.text : null }); }
+  return Object.assign({}, c, { display: c.text, orig: null });
+}
+// 片段 → 对阵：留言挂在片段（videoId = 片段 id）或整场（videoId = b:...）
+let vidB = {}, boutClips = {};
+function indexBouts(){
+  vidB = {}; boutClips = {};
+  vids.forEach(v => { const b = "b:" + (v.tournament || "—") + "~" + bcmtKey(v); vidB[v.id] = b; (boutClips[b] = boutClips[b] || []).push(v.id); });
+}
+function bOf(c){ return (c.videoId && String(c.videoId).indexOf("b:") === 0) ? c.videoId : vidB[c.videoId]; }
+// 未读：家长端 = 教练的新留言（服务器记录已读位置，多台设备同步）；教练端 = 家长/Cathy 的新留言（本机记录）
+let LREAD = {};
+try{ LREAD = JSON.parse(localStorage.getItem("cr_" + TOKEN) || "{}"); }catch(e){}
+function isUnread(c){
+  const b = bOf(c);
+  if(!b || String(c.id).indexOf("tmp_") === 0) return false;
+  if(MODE === "family") return c.author === "coach" && (c.ts || "") > (READS[c.coachId + "|" + b] || "");
+  return c.author !== "coach" && (c.ts || "") > (LREAD[b] || "");
+}
+function markRead(bcid){
+  if(!bcid) return;
+  const now = new Date().toISOString();
+  if(MODE === "family"){
+    const keys = COACHES.filter(co => (apCoach === "all" || apCoach === co.id) && cmts.some(c => c.coachId === co.id && bOf(c) === bcid && isUnread(c))).map(co => co.id + "|" + bcid);
+    if(!keys.length) return;
+    keys.forEach(k => { READS[k] = now; });
+    api({ action: "family_seen", keys }).catch(function(){});
+  } else {
+    if(!cmts.some(c => bOf(c) === bcid && isUnread(c))) return;
+    LREAD[bcid] = now;
+    try{ localStorage.setItem("cr_" + TOKEN, JSON.stringify(LREAD)); }catch(e){}
+  }
+  render();
+}
+function whoLabel(c){
+  if(c.author === "cathy") return "<b class='wn' style='color:#db2777'>Cathy</b>";
+  if(c.author === "family") return "<b class='wn' style='color:#15803d'>" + escH(T.family) + "</b>";
+  if(MODE === "family"){ const co = coachOf(c.coachId); return "<b class='wn' style='color:" + coachColor(c.coachId) + "'>🎓 " + escH(co ? co.name : T.coach) + "</b>"; }
+  return "<b class='wn' style='color:#1d4ed8'>" + escH(T.coach) + "</b>";
+}
+function markColor(c){
+  if(c.author === "cathy") return "#db2777";
+  if(c.author === "family") return "#16a34a";
+  return MODE === "family" ? coachColor(c.coachId) : "#ef4444";
+}
 const PAGE_VER = ${JSON.stringify(PAGE_VERSION)};
 const T = ${JSON.stringify(t)};
 const EV = ${JSON.stringify(EV_I18N[meta.lang] || {})};
@@ -642,13 +876,27 @@ function ago(ts){
   if(s < 86400) return Math.round(s/3600) + "h";
   return Math.round(s/86400) + "d";
 }
+let firstLoad = true;
 async function load(manual){
   try{
-    const r = await fetch("/coach-data/" + TOKEN);
-    if(!r.ok) throw new Error("HTTP " + r.status);
-    const d = await r.json();
+    let d;
+    if(MODE === "family"){
+      if(!FK) throw new Error(T.keyMissing);
+      const r = await api({ action: "family_data" });
+      if(r.status === 401) throw new Error(T.keyMissing);
+      if(!r.ok) throw new Error("HTTP " + r.status);
+      d = await r.json();
+      COACHES = d.coaches || []; READS = d.reads || {};
+      d.comments = (d.comments || []).map(famShow);
+      lastSeen = Infinity;
+    } else {
+      const r = await fetch("/coach-data/" + TOKEN);
+      if(!r.ok) throw new Error("HTTP " + r.status);
+      d = await r.json();
+      // 只取打开页面时的「上次访问」，避免 15 秒后 NEW / 未读标记被刷掉
+      if(firstLoad) lastSeen = d.meta && d.meta.lastSeen ? new Date(d.meta.lastSeen).getTime() : 0;
+    }
     if(!d.feed) throw new Error("no feed");
-    lastSeen = d.meta && d.meta.lastSeen ? new Date(d.meta.lastSeen).getTime() : 0;
     const stu = d.feed.student;
     if(stu){
       const age = stu.birth ? Math.floor((Date.now() - new Date(stu.birth).getTime()) / 31557600000) : null;
@@ -657,16 +905,22 @@ async function load(manual){
     }
     vids = d.feed.videos || [];
     cmts = d.comments || [];
+    indexBouts();
     render();
-    warmVideoCache();
+    if(MODE === "coach") warmVideoCache();
     document.getElementById("upd").textContent = T.updated + " " + new Date().toLocaleTimeString().slice(0,5);
     if(d.v && d.v !== PAGE_VER) document.getElementById("updBar").style.display = "block";
-    if(manual !== true){
+    if(firstLoad){
+      firstLoad = false;
       // 首次加载后回写 lastSeen，下次访问可标 NEW
-      fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_seen", token:TOKEN})});
+      if(MODE === "coach" && manual !== true) api({ action: "coach_seen" }).catch(function(){});
+      // 从击剑助手点进来：直接打开指定视频 / 对阵
+      const dv = QS.get("v");
+      if(dv && vids.some(x => x.id === dv)) openAnalysis(dv, QS.get("s") === "bout" ? "bout" : "clip");
     }
   }catch(e){
-    document.getElementById("list").innerHTML = "<div class='empty' style='color:#b91c1c'>" + escH(T.loadFail || "Load failed") + ": " + escH(e.message) + "</div>";
+    if(!vids.length) document.getElementById("list").innerHTML = "<div class='empty' style='color:#b91c1c'>" + escH(T.loadFail || "Load failed") + ": " + escH(e.message) + "</div>";
+    else document.getElementById("upd").textContent = (T.loadFail || "Load failed") + " · " + new Date().toLocaleTimeString().slice(0,5);
   }
 }
 let renderedSig = "";
@@ -678,12 +932,34 @@ function bcmtKey(v){
 }
 // ===== 分析播放器：无遮挡控制条 + 打点点评 =====
 let apVid = null, apV = null, apTags = [], apStepN = 5, apZoom = 1;
+let apScope = "clip", apCoach = "all", apAnchor = true, apBcid = null, apHL = new Set();
+// 默认打开：先看这个片段（有未读的教练 → 最近留言的教练），再看整场，最后第一位教练
+function pickCoach(b, vid){
+  if(COACHES.length === 1) return COACHES[0].id;
+  const pick = list => {
+    const u = list.filter(isUnread).sort(byTs).pop();
+    if(u) return u.coachId;
+    const l = list.filter(c => c.author === "coach").sort(byTs).pop();
+    return l ? l.coachId : null;
+  };
+  const inB = cmts.filter(c => bOf(c) === b && c.coachId && c.coachId !== "me");
+  return (vid && pick(inB.filter(c => c.videoId === vid))) || pick(inB) || (COACHES.length ? COACHES[0].id : "all");
+}
 let acCtx = null, acGain = null, acSrc = null;
-function openAnalysis(vid){
+function openAnalysis(vid, scope, keepCoach){
   const v = vids.find(x => x.id === vid);
   if(!v) return;
   if(v.youtube){ window.open(v.url, "_blank"); return; }
+  const sameBout = apVid && vidB[apVid] === vidB[vid];
+  if(!sameBout) apHL = new Set();
   apVid = vid; apTags = [];
+  apScope = scope === "bout" ? "bout" : "clip";
+  apBcid = vidB[vid];
+  if(MODE === "family" && !(keepCoach && sameBout)) apCoach = pickCoach(apBcid, apScope === "clip" ? vid : null);
+  if(!sameBout && !rec){
+    document.querySelector(".apcomp").classList.remove("composing");
+    document.getElementById("apTxtBox").style.display = "none";
+  }
   document.getElementById("ap").style.display = "block";
   apV = document.getElementById("apVideo");
   const ld = document.getElementById("apLoad");
@@ -722,7 +998,9 @@ function openAnalysis(vid){
 function closeAnalysis(){
   document.getElementById("ap").style.display = "none";
   if(apV) apV.pause();
+  if(auO) auO.pause();
   apVid = null;
+  if(EMBED && QS.get("v")){ try{ parent.postMessage({ type: "cf-close" }, "*"); }catch(e){} }
 }
 function apWake(){ if(acCtx && acCtx.state === "suspended") acCtx.resume().catch(function(){}); }
 function apToggle(){
@@ -867,8 +1145,10 @@ function apTick(){
   document.getElementById("apSeek").value = Math.round(apV.currentTime / apV.duration * 1000);
   document.getElementById("apTime").textContent = fmtT(apV.currentTime) + " / " + fmtT(apV.duration);
   // 进度条上的点评红点
-  document.getElementById("apMarks").innerHTML = cmts.filter(c => c.videoId === apVid && c.vt != null)
-    .map(c => "<span class='apmark' style='left:" + Math.min(99, c.vt / apV.duration * 100) + "%' onclick='apSeekTo(" + c.vt + ")' title='" + fmtT(c.vt) + "'></span>").join("");
+  document.getElementById("apMarks").innerHTML = cmts.filter(c => c.videoId === apVid && c.vt != null && (MODE !== "family" || apCoach === "all" || c.coachId === apCoach))
+    .map(c => "<span class='apmark' style='left:" + Math.min(99, c.vt / apV.duration * 100) + "%;background:" + markColor(c) + "' onclick='apSeekTo(" + c.vt + ")' title='" + fmtT(c.vt) + "'></span>").join("");
+  const at = document.getElementById("apAncT");
+  if(at && apAnchor) at.textContent = fmtT(apV.currentTime);
 }
 function apTagSet(btn){
   btn.classList.toggle("on");
@@ -876,40 +1156,105 @@ function apTagSet(btn){
   if(btn.classList.contains("on")) apTags.push(k);
   else apTags = apTags.filter(x => x !== k);
 }
+// 面板里的留言：范围 = 本片段 / 整场；家长端再按教练标签过滤
+function panelCmts(scope, coach){
+  return cmts.filter(c => (scope === "clip" ? c.videoId === apVid : bOf(c) === apBcid) && (MODE !== "family" || coach === "all" || c.coachId === coach)).sort(byTs);
+}
 function apRenderCmts(){
   const el = document.getElementById("apCmts");
-  if(!el) return;
+  if(!el || !apVid) return;
   if(el.querySelector(".cmtmenu")) return;      // 留言菜单打开时跳过本轮刷新，不打断标签编辑/删除
-  el.innerHTML = cmts.filter(c => c.videoId === apVid).map(c => cmtHtml(c, true)).join(""); auSync(); auTickA();
+  const clips = boutClips[apBcid] || [apVid];
+  const inCoach = c => MODE !== "family" || apCoach === "all" || c.coachId === apCoach;
+  document.getElementById("apClips").innerHTML = clips.length > 1 ? clips.map((id, i) => {
+    const n = cmts.filter(c => c.videoId === id && inCoach(c)).length;
+    return "<button class='" + (id === apVid ? "on" : "") + "' data-vid='" + escH(id) + "' onclick='openAnalysis(this.dataset.vid, apScope, true)'>🎬 " + (i + 1) + (n ? " · " + n : "") + "</button>";
+  }).join("") : "";
+  const tabs = document.getElementById("apTabs");
+  if(MODE === "family" && COACHES.length > 1){
+    tabs.innerHTML = COACHES.map(co => {
+      const u = cmts.filter(c => c.coachId === co.id && bOf(c) === apBcid && isUnread(c)).length;
+      const n = cmts.filter(c => c.coachId === co.id && bOf(c) === apBcid).length;
+      return "<button class='" + (apCoach === co.id ? "on" : "") + "' data-co='" + escH(co.id) + "' onclick='apSetCoach(this.dataset.co)'><i style='background:" + coachColor(co.id) + "'></i>" + escH(co.name) + (n ? " · " + n : "") + (u ? "<b class='ub'>" + u + "</b>" : "") + "</button>";
+    }).join("") + "<button class='" + (apCoach === "all" ? "on" : "") + "' data-co='all' onclick='apSetCoach(this.dataset.co)'>" + escH(T.all) + "</button>";
+  } else tabs.innerHTML = "";
+  const nClip = panelCmts("clip", apCoach).length, nBout = panelCmts("bout", apCoach).length;
+  document.getElementById("apScope").innerHTML =
+    "<button class='" + (apScope === "clip" ? "on" : "") + "' data-s='clip' onclick='apSetScope(this.dataset.s)'>" + escH(T.clipCmt) + " · " + nClip + "</button>" +
+    "<button class='" + (apScope === "bout" ? "on" : "") + "' data-s='bout' onclick='apSetScope(this.dataset.s)'>" + escH(T.boutCmt) + " · " + nBout + "</button>";
+  const list = panelCmts(apScope, apCoach);
+  list.forEach(c => { if(isUnread(c)) apHL.add(c.id); });     // 本次打开期间保留「新」高亮
+  el.innerHTML = list.length ? list.map(c => cmtHtml(c, true)).join("") : "<div class='apempty'>" + escH(T.noCmt) + "</div>";
+  renderTo();
+  auSync(); auTickA();
+  markRead(apBcid);
+}
+function apSetCoach(id){ apCoach = id; apRenderCmts(); apTick(); }
+function apSetScope(s){ apScope = s === "bout" ? "bout" : "clip"; apRenderCmts(); }
+function apSetIdent(k){ IDENT = k === "family" ? "family" : "cathy"; try{ localStorage.setItem("cf_ident", IDENT); }catch(e){} renderTo(); }
+function apToggleAnchor(){ apAnchor = !apAnchor; renderTo(); }
+// 发送区：家长端 = 身份（Cathy / 家长）+ 发给哪位教练；两端都有「⏱ 挂在当前时间」开关（关掉 = 整场留言）
+function renderTo(){
+  const el = document.getElementById("apTo");
+  if(!el) return;
+  let h = "";
+  if(MODE === "family"){
+    h += "<span class='idn'>" + ["cathy", "family"].map(k => "<button class='" + (IDENT === k ? "on" : "") + "' data-k='" + k + "' onclick='apSetIdent(this.dataset.k)'>" + (k === "cathy" ? "Cathy" : escH(T.family)) + "</button>").join("") + "</span>";
+    const co = coachOf(apCoach);
+    h += "<span class='tolab'>" + (co ? "→ <b style='color:" + coachColor(co.id) + "'>" + escH(co.name) + "</b>" : escH(T.pickCoach)) + "</span>";
+  }
+  h += "<button class='anc" + (apAnchor ? " on" : "") + "' onclick='apToggleAnchor()'>⏱ <span id='apAncT'>" + (apAnchor ? fmtT(apV ? apV.currentTime : 0) : escH(T.boutCmt)) + "</span></button>";
+  el.innerHTML = h;
+}
+// 发送目标：家长端必须先选定教练；挂点 = 当前片段 + 时间，不挂 = 整场
+function sendTarget(){
+  const t = {};
+  if(MODE === "family"){
+    if(!coachOf(apCoach)){ alert(T.pickCoach); return null; }
+    t.coachId = apCoach; t.author = IDENT;
+  } else t.author = "coach";
+  if(apAnchor && apV){ t.videoId = apVid; t.vt = +apV.currentTime.toFixed(2); }
+  else t.videoId = apBcid;
+  return t;
 }
 async function apSend(){
   const input = document.getElementById("apInput");
   const text = input.value.trim();
   if(!text) return;
-  const vt = apV ? +apV.currentTime.toFixed(2) : null;
+  const tg = sendTarget();
+  if(!tg) return;
   input.value = ""; input.disabled = true;
-  cmts.push({ id: "tmp_" + Date.now(), videoId: apVid, author: "coach", text, display: text, vt, tags: apTags.slice(), ts: new Date().toISOString() });
+  cmts.push(Object.assign({ id: "tmp_" + Date.now(), text, display: text, tags: apTags.slice(), ts: new Date().toISOString() }, tg));
   apRenderCmts(); render();
   try{
-    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId: apVid, vt, tags: apTags, author:"coach", text})});
-    await load();
-  }catch(e){ input.value = text; }
+    const r = await api(Object.assign({ action: "comment_add", text, tags: apTags }, tg));
+    if(!r.ok) throw new Error("HTTP " + r.status);
+    await load(true);
+  }catch(e){
+    input.value = text;
+    cmts = cmts.filter(c => String(c.id).indexOf("tmp_") !== 0);
+    apRenderCmts(); render();
+    alert(T.sendFail || "Send failed");
+  }
   input.disabled = false; input.focus();
 }
 // 分析面板留言：💬文字 / 🎤语音 两个按钮各展开一条操作栏
 function apShowTxt(){
+  document.querySelector(".apcomp").classList.add("composing");
   document.getElementById("apTxtBox").style.display = "flex";
   document.getElementById("apRecBox").style.display = "none";
   document.getElementById("apInput").focus();
 }
-let recTimer = null, recStartT = 0, recCancel = false, recVt = null;
+let recTimer = null, recStartT = 0, recCancel = false, recTg = null;
 async function apStartRec(){
   if(rec) return;
   if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
-  recVt = apV ? +apV.currentTime.toFixed(2) : null;
+  recTg = sendTarget();
+  if(!recTg) return;
   if(apV){ apV.pause(); document.getElementById("apPlayBtn").textContent = "▶"; }
   const rb = document.getElementById("apRecBox"), rt = document.getElementById("apRecT");
   rb.style.display = "flex";
+  document.querySelector(".apcomp").classList.add("composing");
   document.getElementById("apTxtBox").style.display = "none";
   rt.textContent = "● …";
   try{
@@ -931,12 +1276,13 @@ async function apStartRec(){
         const part = await pr.json();
         const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
         if(comp.url){
-          cmts.push({ id:"tmp_"+Date.now(), videoId:apVid, author:"coach", text:"", audioUrl:comp.url, vt:recVt, tags:apTags.slice(), ts:new Date().toISOString() });
+          cmts.push(Object.assign({ id:"tmp_"+Date.now(), text:"", audioUrl:comp.url, tags:apTags.slice(), ts:new Date().toISOString() }, recTg));
           apRenderCmts(); render();
-          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId:apVid, vt:recVt, tags:apTags, author:"coach", text:"🎤", audioUrl:comp.url }) });
-          await load();
+          const r = await api(Object.assign({ action:"comment_add", text:"🎤", audioUrl:comp.url, tags:apTags }, recTg));
+          if(!r.ok) throw new Error("HTTP " + r.status);
+          await load(true);
         }
-      }catch(e){}
+      }catch(e){ cmts = cmts.filter(c => String(c.id).indexOf("tmp_") !== 0); apRenderCmts(); alert(T.sendFail || "Send failed"); }
       rb.style.display = "none"; rec = null;
     };
     recStartT = Date.now();
@@ -988,8 +1334,7 @@ function render(){
             const bid = escH(bk);
             // 对阵级留言挂在稳定 key：b:赛事~回合~对手~比分（与家长端公式一致）
             const bcid = "b:" + tname + "~" + bcmtKey(b.vids[0]);
-            const n = cmts.filter(c => c.videoId === bcid).length;
-            const cbox = "<div class='box'><input placeholder='" + escH(T.namePh) + "' onkeydown='if(event.keyCode===13)sendCmt(this)'><button onclick='sendCmt(this.previousElementSibling)'>" + escH(T.send) + "</button><button class='mic' onclick='toggleRec(this)' title='Voice'>🎤</button></div>";
+            const n = cmts.filter(c => bOf(c) === bcid).length;
             return "<div class='bout' data-bkey='" + bid + "' data-bcid='" + escH(bcid) + "'><div class='bhead'>" + escH(locEvent(b.label || b.vids[0].name)) + "</div>" +
               "<div class='vgrid'>" + b.vids.map(v => {
                 const isN = isNew(v.uploadedAt);
@@ -1004,41 +1349,37 @@ function render(){
                 return "<div class='vwrap'>" + cell +
                   "<button class='vbtn' data-vid='" + escH(v.id) + "' onclick='openAnalysis(this.dataset.vid)'>💬 " + vc + "</button></div>";
               }).join("") + "</div>" +
-              "<button class='cbtn' onclick='toggleCmts(this)'>💬 " + n + " " + escH(T.boutCmt) + "</button>" +
-              "<div class='cbody" + (openCmts[bk] ? " open" : "") + "'><div class='cmts'></div>" + cbox + "</div></div>";
+              "<button class='cbtn' data-vid='" + escH(b.vids[0].id) + "' data-s='bout' onclick='openAnalysis(this.dataset.vid, this.dataset.s)'>💬 " + n + " " + escH(T.boutCmt) + "</button></div>";
           }).join("") + "</div>";
       }).join("");
     }
   }
-  // 留言原地更新 + 计数刷新
+  // 计数 + 未读：对阵按钮 = 整场（含各片段），片段按钮 = 该片段
+  let unTotal = 0;
   document.querySelectorAll(".bout").forEach(el => {
     const bcid = el.dataset.bcid;
-    // 本场留言 = 对阵级留言 + 各片段留言（与家长端一致），片段留言标 [🎬N]，点击打开该片段并跳到时间点
-    const segIds = Array.from(el.querySelectorAll(".vbtn")).map(b => b.dataset.vid);
-    const bc = cmts.filter(c => c.videoId === bcid || segIds.includes(c.videoId)).sort((a, b) => (a.ts || "").localeCompare(b.ts || ""));
-    const ce = el.querySelector(".cbody .cmts");
-    if(ce && !ce.querySelector(".cmtmenu")){
-      ce.innerHTML = bc.map(c => {
-        const i = segIds.indexOf(c.videoId);
-        if(i < 0) return cmtHtml(c, false);
-        const lab = segIds.length > 1 ? "<span class='seglab'>🎬" + (i + 1) + "</span>" : "";
-        return "<div class='segc' data-vid='" + escH(c.videoId) + "' data-vt='" + (c.vt != null ? c.vt : "") + "' onclick='openAt(this.dataset.vid, parseFloat(this.dataset.vt))'>" + cmtHtml(c, false).replace("<div class='who'>", "<div class='who'>" + lab) + "</div>";
-      }).join("");
-      auSync(); auTickA();
-    }
+    const bc = cmts.filter(c => bOf(c) === bcid).sort(byTs);
+    const un = bc.filter(isUnread).length;
+    unTotal += un;
     const btn = el.querySelector(".cbtn");
-    if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
+    if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (un ? " <span class='ub'>" + un + " " + escH(T.newc) + "</span>" : (bc.length ? " · " + ago(bc[bc.length-1].ts) : ""));
     el.querySelectorAll(".vbtn").forEach(b => {
-      const list3 = cmts.filter(c => c.videoId === b.dataset.vid);
-      b.innerHTML = "💬 " + list3.length + (list3.length ? " · " + ago(list3[list3.length-1].ts) : "");
+      const l3 = cmts.filter(c => c.videoId === b.dataset.vid);
+      const u3 = l3.filter(isUnread).length;
+      b.innerHTML = "💬 " + l3.length + (u3 ? " <span class='ub'>" + u3 + "</span>" : (l3.length ? " · " + ago(l3[l3.length-1].ts) : ""));
     });
   });
+  if(MODE === "family"){
+    const nb = document.getElementById("newBadge");
+    if(unTotal){ nb.textContent = "● " + unTotal + " " + T.newCmts; nb.style.display = "inline-block"; } else nb.style.display = "none";
+  }
+  if(EMBED){ try{ parent.postMessage({ type: "cf-unread", n: unTotal }, "*"); }catch(e){} }
   // 分析面板打开时同步刷新其留言
   if(apVid) apRenderCmts();
   thumbsKick();
 }
 function openAt(vid, vt){
-  openAnalysis(vid);
+  openAnalysis(vid, apScope, true);
   if(!apV || isNaN(vt)) return;
   const go = function(){ apSeekTo(vt); };
   if(apV.readyState >= 1) go(); else apV.addEventListener("loadedmetadata", go, { once: true });
@@ -1134,22 +1475,26 @@ function thLoad(cell, tries){
     v.src = cell.dataset.src + "#t=0.1";
   });
 }
-function toggleCmts(btn){
-  const body = btn.nextElementSibling;
-  const open = body.classList.toggle("open");
-  const bk = btn.closest(".bout").dataset.bkey;
-  openCmts[bk] = open;
-}
-function cmtHtml(c, anchor){
+function cmtHtml(c, inPanel){
   const shown = c.display || c.text;
   const hasOrig = c.orig && c.orig !== shown;
   const tagList = Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []);
   const tag = tagList.map(k => "<span class='tag'>" + escH(TAGS[k] || k) + "</span>").join("");
   const anch = c.vt != null ? "<span class='anchor'>⏱" + fmtT(c.vt) + "</span>" : "";
-  // 分析面板里：整条带锚点的留言可点击跳转到该视频时间点
-  const canSeek = anchor && c.vt != null;
-  return "<div class='cmt " + c.author + "' data-cid='" + escH(c.id) + "'" + (canSeek ? " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'" : "") + "><div class='who'>" + tag + anch + (c.author === "coach" ? escH(T.coach) : escH(T.family)) + " · " + ago(c.ts) +
-    "<span class='cmtcog' onclick='event.stopPropagation();cmtMenu(this)' title='⋯'>⋯</span>" +
+  const clips = boutClips[bOf(c)] || [];
+  const ci = clips.indexOf(c.videoId);
+  // 整场视图里，片段留言标 🎬N；点当前片段的留言跳到时间点，点其他片段的留言切到那个片段
+  const seg = inPanel && apScope === "bout" && ci >= 0 && clips.length > 1 ? "<span class='seglab'>🎬" + (ci + 1) + "</span>" : "";
+  const canSeek = inPanel && c.videoId === apVid && c.vt != null;
+  let click = "";
+  if(canSeek) click = " onclick='apSeekTo(" + c.vt + ")' style='cursor:pointer'";
+  else if(inPanel && ci >= 0 && c.videoId !== apVid) click = " data-vid='" + escH(c.videoId) + "' data-vt='" + (c.vt != null ? c.vt : "") + "' onclick='openAt(this.dataset.vid, parseFloat(this.dataset.vt))' style='cursor:pointer'";
+  let to = "";
+  if(MODE === "family" && c.author !== "coach" && apCoach === "all"){ const co = coachOf(c.coachId); if(co) to = " <span class='tocn'>→ " + escH(co.name) + "</span>"; }
+  const rep = MODE === "family" && inPanel && apCoach === "all" && c.author === "coach" ? "<span class='rep' data-co='" + escH(c.coachId) + "' onclick='event.stopPropagation();apSetCoach(this.dataset.co);apShowTxt()' title='Reply'>↩</span>" : "";
+  const hl = isUnread(c) || (inPanel && apHL.has(c.id));
+  return "<div class='cmt " + c.author + (hl ? " unread" : "") + "' data-cid='" + escH(c.id) + "'" + click + "><div class='who'>" + seg + tag + anch + whoLabel(c) + to + " · " + ago(c.ts) +
+    "<span class='cmtcog' onclick='event.stopPropagation();cmtMenu(this)' title='⋯'>⋯</span>" + rep +
     (hasOrig ? "<span class='tr' onclick='event.stopPropagation();toggleOrig(this)' title='查看原文 / Original'>🌐</span>" : "") + "</div>" +
     (hasOrig ? "<div class='orig' style='display:none'>" + escH(c.orig) + "</div>" : "") +
     (c.audioUrl ? "<div class='au'><button class='aub' id='auB_" + auSan(c.id) + "' data-key='" + auSan(c.id) + "' data-url='" + escH(c.audioUrl) + "'" + (canSeek ? " data-vt='" + c.vt + "'" : "") + " onclick='event.stopPropagation();auPlay(this)'>▶</button><div class='aubar'><div class='aupg' id='auP_" + auSan(c.id) + "'></div></div><span class='autm' id='auT_" + auSan(c.id) + "'>0:00</span></div>" : "") +
@@ -1214,15 +1559,16 @@ function cmtTagToggle(host, btn){
   btn.classList.toggle("on");
   const tags = Array.from(host.querySelectorAll(".cmtmenu button.on[data-tag]")).map(b => b.dataset.tag);
   c.tags = tags; delete c.tag;
-  fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_tags", token:TOKEN, id, tags})}).catch(function(){});
+  api({ action: "comment_tags", id, tags, coachId: c.coachId }).catch(function(){});
   render(); if(apVid) apRenderCmts();
 }
 function cmtDel(host){
   if(!confirm((T.del || "Delete") + "?")) return;
   const m = host.querySelector(".cmtmenu"); if(m) m.remove();   // 先关菜单，否则刷新守卫挡住本次渲染
   const id = host.dataset.cid;
+  const c0 = cmts.find(c => c.id === id);
   cmts = cmts.filter(c => c.id !== id);
-  fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_del", token:TOKEN, id})}).catch(function(){});
+  api({ action: "comment_del", id, coachId: c0 && c0.coachId }).catch(function(){});
   render(); if(apVid) apRenderCmts();
 }
 function toggleOrig(el){
@@ -1237,72 +1583,15 @@ async function setLang(v){
   }
   dismissHint();
   try{
-    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"coach_setlang", token: TOKEN, lang: v})});
+    await api({ action: "coach_setlang", lang: v });
     location.reload();
   }catch(e){}
 }
-// 对阵留言区输入框 → b: 前缀的对阵 key（片段留言在分析面板里直接走 apVid）
-function inputTarget(el){
-  const b = el.closest(".bout");
-  return b ? b.dataset.bcid : null;
-}
-async function sendCmt(input){
-  const text = input.value.trim();
-  if(!text) return;
-  const videoId = inputTarget(input);
-  input.value = "";
-  input.disabled = true;
-  const b = input.closest(".bout");
-  if(b && input.closest(".cbody")) openCmts[b.dataset.bkey] = true;
-  cmts.push({ id: "tmp_" + Date.now(), videoId, author: "coach", text, display: text, ts: new Date().toISOString() });
-  render();
-  try{
-    await fetch("/", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({action:"comment_add", token: TOKEN, videoId, author:"coach", text})});
-    await load();
-  }catch(e){ input.value = text; }
-  input.disabled = false;
-  input.focus();
-}
-// ===== 语音留言：MediaRecorder -> R2 -> comment_add(audioUrl) =====
 let rec = null, recChunks = [];
-async function toggleRec(btn){
-  const videoId = inputTarget(btn);
-  if(rec){ rec.stop(); return; }
-  if(!navigator.mediaDevices || !window.MediaRecorder){ alert(T.noVoice || "Voice recording not supported"); return; }
-  try{
-    btn.textContent = "⏳";
-    const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } });
-    const mime = MediaRecorder.isTypeSupported("audio/mp4") ? "audio/mp4" : (MediaRecorder.isTypeSupported("audio/webm") ? "audio/webm" : "");
-    rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
-    recChunks = [];
-    rec.ondataavailable = e => { if(e.data && e.data.size) recChunks.push(e.data); };
-    rec.onstop = async () => {
-      stream.getTracks().forEach(t => t.stop());
-      btn.textContent = "⏳";
-      try{
-        const blob = new Blob(recChunks, { type: rec.mimeType || "audio/webm" });
-        const ext = blob.type.includes("mp4") ? ".m4a" : ".webm";
-        const init = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_init", name:"voice"+ext, contentType:blob.type }) })).json();
-        const pr = await fetch("/video-part?key=" + encodeURIComponent(init.key) + "&uploadId=" + encodeURIComponent(init.uploadId) + "&part=1", { method:"POST", headers:{"Content-Type":"application/octet-stream"}, body: blob });
-        const part = await pr.json();
-        const comp = await (await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"video_complete", key:init.key, uploadId:init.uploadId, parts:[part] }) })).json();
-        if(comp.url){
-          cmts.push({ id:"tmp_"+Date.now(), videoId, author:"coach", text:"", audioUrl:comp.url, ts:new Date().toISOString() });
-          render();
-          await fetch("/", { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify({ action:"comment_add", token:TOKEN, videoId, author:"coach", text:"🎤", audioUrl:comp.url }) });
-          await load();
-        }
-      }catch(e){}
-      btn.textContent = "🎤";
-      rec = null;
-    };
-    rec.start();
-    btn.textContent = "⏹";
-  }catch(e){ btn.textContent = "🎤"; alert((T.noMic || "Mic unavailable") + " (" + (e.name || e.message || e) + ")"); }
-}
 load();
 if("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(function(){});
-setInterval(function(){ load(true); }, 15000);
+let pollN = 0;
+setInterval(function(){ pollN++; if(apVid || pollN % 3 === 0) load(true); }, 5000);
 </script></body></html>`;
 }
 

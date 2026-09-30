@@ -160,4 +160,13 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - 教练页缩略图改为排队截图（`thumbsKick` / `thLoad`）：同时最多加载 2 个视频（iPhone 同时加载太多 `<video>` 会随机报错，旧版一报错就把格子换成「Video failed to load」且不重试），截首帧（黑画面会往后跳到 ~2s 再截）存 localStorage `cth_<id>`，然后释放视频元素；失败重试一次，仍失败显示中性深色格子（仍可点开播放），不再显示报错文字。播放器海报直接用缓存截图。Worker `/video/`：无 Range 请求改回 200（原来误返回 206）。
 - 留言数统一口径（两端一致）：视频下「💬 N」= 该片段的留言，点开播放器/分析面板也只列这 N 条；对阵下「💬 N 条留言 / match comments」= 对阵级 + 全部片段留言合并（片段留言标 🎬N / [片段N]，教练页点击可打开该片段并跳到时间点 `openAt`）。App 播放器回复默认挂到当前片段（videoId = 片段 id）。注意：教练页只含本教练线程，App 汇总所有教练，多教练时 App 数字会更大。
 - MKV 不再按扩展名拦截：实测这些 MKV（内为浏览器可解码编码）在教练页、Chrome 都能播；App 去掉「MKV 播不了」提示和上传警告，改为按实际加载失败才提示。App 缩略图也改为排队加载（同时 2 个、优先当前可见页、失败重试一次、不显示报错）。
+### 2026-09-30 统一播放器 + 家庭钥匙（第一阶段）
+- **一套播放器两种身份**（video_worker.js `renderCoachPage(token, meta, t, mode)`）：`/coach/<token>` 教练模式；`/family`（钥匙放网址 `#fk=`，页面存 localStorage `cf_fk`）家庭模式。App 里点共享视频 → 全屏 iframe 打开 `/family?embed=1&v=<id>&s=clip|bout#fk=`，面板关闭时 postMessage `cf-close` 通知 App 关层，`cf-unread` 报未读数。
+- 家庭模式：按教练分标签（未读数、颜色点）+「全部」；默认打开有未读 / 最近留言的教练（先看当前片段再看整场）；片段切换 🎬N；范围「片段留言 / 本场留言」；发送区身份 Cathy / 家长 + 「⏱ 挂在当前时间」开关（关 = 整场留言）；进度条标记按教练上色；标签只在准备发送时展开。
+- 对话模型：每位教练每场对阵一条对话，留言 videoId = 片段 id（可带 vt）或 `b:赛事~项目~回合~对手~比分`（整场）。author = coach / family / cathy。
+- 未读：家长端存服务器 `coach/family_reads.json`（key `<coachId>|<boutId>`，多设备同步，`family_seen`）；教练端存本机 localStorage `cr_<token>`。教练页 lastSeen 只在首次加载时取（修复 15 秒后 NEW 消失）。
+- **安全（方案 A）**：教练名单 + 密钥只存 R2 `coach/registry.json`，不再写进公开仓库（App 同步不再上传 coaches / coachTombstones，本机 `cathy_coaches` 清除）。家庭钥匙 SHA-256 存 `coach/family.json`（`family_init` 仅首次可用）。需家庭钥匙：family_data / family_seen / coach_create / coach_import / coach_rename / coach_revoke / coach_rotate / coach_register / feed_save / video_delete / comments_get，以及 author=family|cathy 的 comment_add；comment_del / comment_tags 用教练 token（本人线程）或家庭钥匙。App 本机钥匙 localStorage `cathy_family_key`（打开 App 设置链接 `...#fk=<key>` 自动保存，不同步）。**钥匙不要写进任何仓库文件。**
+- App「👤 教练」页：无钥匙时显示输入框；教练菜单新增「🔄 换新链接」（`coach_rotate`，留言搬到新 token、旧链接立即 404）。
+- 翻译提示词加入击剑术语（parata = 防守/格挡，affondo = 弓步）。
+- 测试环境：`cathyvideos-staging` Worker 绑定独立测试桶 `cathy-videos-staging`（部署脚本 `deploy_video_worker_named.py <name>`，名字以 -staging 结尾自动用测试桶），不会动正式数据。
 - 待办：MKV/HEVC 格式浏览器播不了（无转码，建议拍 MP4/H.264 或归档 YouTube）；教练语音留言不翻译；国内访问 workers.dev 不稳定，如需要可绑自定义域名。
