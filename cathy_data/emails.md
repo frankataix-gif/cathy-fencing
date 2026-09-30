@@ -21208,3 +21208,19 @@ Item #: 17717077 GP $249.99
 Env
 
 ---
+
+## [营销] Michaels Rewards
+
+**发件人:** Michaels Family <no-reply@michaels.com>
+**日期:** 2026-09-30T23:17:01.000Z
+**摘要:** 邮件确认用户成功加入Michaels Rewards计划，并提供忠诚度ID。
+**待办:** 无
+**GmailID:** 1a0f49b7183bad60
+
+Michaels Rewards
+You are successfully enrolled in Michaels Rewards! Your Michaels Loyalty ID is
+LMR90856988218
+
+©2026 Michaels Stores, Inc. Michaels and the Michaels logo and other trademarks and logos used in this email are owned or licensed by Michaels Stores, Inc. All rights reserved.
+
+---
