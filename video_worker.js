@@ -163,7 +163,10 @@ async function sha256hex(s) {
   const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s));
   return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2, '0')).join('');
 }
+// 家庭钥匙开关：用户决定不需要（2026-09-30），设为 false 时家长端操作不再校验钥匙；改回 true 即恢复
+const FAMILY_KEY_REQUIRED = false;
 async function famOK(env, fk) {
+  if (!FAMILY_KEY_REQUIRED) return true;
   if (typeof fk !== 'string' || fk.length < 32 || fk.length > 128) return false;
   const f = await readJson(env, 'coach/family.json');
   return !!(f && f.hash && f.hash === await sha256hex(fk));
@@ -557,7 +560,7 @@ export default {
       if (body.action === 'comment_del' || body.action === 'comment_tags') {
         const id = String(body.id || '');
         if (!/^[a-z0-9_]{4,40}$/i.test(id)) return json({ error: 'bad request' }, 400);
-        const th = await threadOf(!!body.fk);
+        const th = await threadOf(!!(body.fam || body.fk));
         if (th.err) return th.err;
         const key = `coach/comments_${th.token}.json`;
         const list = (await readJson(env, key)) || [];
@@ -787,7 +790,7 @@ if(MODE === "family"){
 }
 // 统一请求：教练端带 token，家长端带家庭钥匙
 function api(body){
-  const b = Object.assign({}, body, MODE === "family" ? { fk: FK } : { token: TOKEN });
+  const b = Object.assign({}, body, MODE === "family" ? { fk: FK, fam: 1 } : { token: TOKEN });
   return fetch("/", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(b) });
 }
 let COACHES = [], READS = {}, IDENT = "cathy";
@@ -881,7 +884,6 @@ async function load(manual){
   try{
     let d;
     if(MODE === "family"){
-      if(!FK) throw new Error(T.keyMissing);
       const r = await api({ action: "family_data" });
       if(r.status === 401) throw new Error(T.keyMissing);
       if(!r.ok) throw new Error("HTTP " + r.status);

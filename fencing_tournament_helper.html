@@ -2481,7 +2481,6 @@ function circuitLabel(c) {
     const name = prompt('教练名称（如：Amir）：', '');
     if (!name || !name.trim()) return;
     const lang = 'en'; // 界面默认英文，教练打开后可在页面右上角自选语言
-    if (!familyKey()) { alert('这台设备还没绑定家庭钥匙，先在「👤 教练」页设置'); return; }
     const r = await videoWorkerPost({ action: 'coach_create', name: name.trim(), lang });
     if (r.error || !r.coach) { alert('创建失败：' + (r.error || '未知错误')); return; }
     await renderVideoPage();
@@ -2565,7 +2564,6 @@ function circuitLabel(c) {
   // 从视频服务器读取教练名单 + 所有教练的留言 + 家长端已读位置（需要家庭钥匙）
   let famReads = {}, famKeyBad = false;
   async function loadCoachComments() {
-    if (!familyKey()) { coaches = []; coachComments = {}; return; }
     try {
       const d = await videoWorkerPost({ action: 'family_data' });
       famKeyBad = d && d.error === 'family key required';
@@ -2610,10 +2608,9 @@ function circuitLabel(c) {
   // 共享视频：全屏打开统一播放器（和教练同一套：快慢动作、缩放、按教练分对话）
   function openCoachPlayer(id, scope) {
     const fk = familyKey();
-    if (!fk) { alert('这台设备还没绑定家庭钥匙，请到「视频 → 👤 教练」里设置'); return; }
     let ov = document.getElementById('coach-player-ov');
     if (!ov) { ov = document.createElement('div'); ov.id = 'coach-player-ov'; ov.className = 'cp-ov'; document.body.appendChild(ov); }
-    const src = `${CATHY_VIDEO_WORKER_URL}/family?embed=1&v=${encodeURIComponent(id)}&s=${scope === 'bout' ? 'bout' : 'clip'}#fk=${encodeURIComponent(fk)}`;
+    const src = `${CATHY_VIDEO_WORKER_URL}/family?embed=1&v=${encodeURIComponent(id)}&s=${scope === 'bout' ? 'bout' : 'clip'}${fk ? '#fk=' + encodeURIComponent(fk) : ''}`;
     ov.innerHTML = `<iframe src="${escapeHtml(src)}" allow="microphone; autoplay; fullscreen; clipboard-write" allowfullscreen></iframe><button class="cp-x" onclick="closeCoachPlayer()" aria-label="返回">‹</button>`;
     ov.style.display = 'block';
     document.body.style.overflow = 'hidden';
@@ -2633,7 +2630,7 @@ function circuitLabel(c) {
   function openVideo(id) {
     const v = videos.find(x => x.id === id);
     if (!v) return;
-    if (v.share === true && familyKey()) openCoachPlayer(id, 'clip'); else openFamPlayer(id);
+    if (v.share === true) openCoachPlayer(id, 'clip'); else openFamPlayer(id);
   }
   function videoKeyFromUrl(url) { const m = String(url || '').match(/\/video\/(.+)$/); return m ? decodeURIComponent(m[1]) : ''; }
   function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
@@ -2982,7 +2979,7 @@ function circuitLabel(c) {
   async function renderVideoPage() {
     await loadCoachComments();
     const bar = document.getElementById('coach-links-bar');
-    if (bar && (!familyKey() || famKeyBad)) {
+    if (bar && famKeyBad) {
       bar.innerHTML = `<div style="border:1px solid #fde68a; background:#fffbeb; border-radius:10px; padding:12px; font-size:0.85rem;">
         <b>🔑 ${famKeyBad ? '这台设备的家庭钥匙不对' : '这台设备还没绑定家庭钥匙'}</b>
         <div style="color:#92400e; margin:4px 0 8px;">教练名单和所有教练的对话都需要家庭钥匙才能看。打开「设置链接」就会自动保存；也可以把链接或钥匙粘贴到下面。</div>
@@ -3210,7 +3207,7 @@ function circuitLabel(c) {
       <div class="vw-pvid"><video id="fp-video" controls playsinline autoplay preload="auto" src="${escapeHtml(v.url)}"></video></div>
       <div class="vw-pbody">
         <div class="vw-pmeta">${escapeHtml([videoTKey(v) === '_other' ? '' : videoTKey(v), v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '))}</div>
-        ${v.share ? '<div style="font-size:0.8rem; color:#94a3b8;">🔑 绑定家庭钥匙后，共享视频会用教练同款播放器打开，并能和教练对话。</div>' : '<div style="font-size:0.8rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
+        ${v.share ? '' : '<div style="font-size:0.8rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
       </div>`;
     m.style.display = 'flex';
     document.body.style.overflow = 'hidden';
