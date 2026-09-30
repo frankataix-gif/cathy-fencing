@@ -21130,3 +21130,23 @@ Manage your bill preference
 Monitor your monthly Interne
 
 ---
+
+## [待办] Confirmation of payment to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-09-30T17:53:39.000Z
+**摘要:** 确认支付到TELUS移动账户的详情，包括支付金额和未支付余额。
+**待办:** 检查支付详情并确认未支付余额是否处理。
+**GmailID:** 1a0f373653a72067
+
+Bonjour ,  
+Vous avez fait un paiement le , pour rembourser votre solde de des services mobiles de TELUS. En voici les détails :  
+Montant payé : 
+Mode de paiement : Paiement Carte de Crédit traite bancaire 
+Numéro d’autorisation de paiement : 
+Solde impayé : 
+ 
+Vous pouvez consulter les détails de votre facture en ouvrant une session dans Mon TELUS. Vous pouvez aussi gérer votre compte facilement, en tout temps et n’importe où, avec l’application Mon TELUS.  
+Mon TELUS est l’endroit le 
+
+---
