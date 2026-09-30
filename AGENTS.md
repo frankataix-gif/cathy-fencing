@@ -170,4 +170,12 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - App「👤 教练」页：服务器要求钥匙时才显示输入框；教练菜单新增「🔄 换新链接」（`coach_rotate`，留言搬到新 token、旧链接立即 404）。
 - 翻译提示词加入击剑术语（parata = 防守/格挡，affondo = 弓步）。
 - 测试环境：需要时用 `deploy_video_worker_named.py cathyvideos-staging` 临时部署测试 Worker（名字以 -staging 结尾自动绑定独立测试桶 `cathy-videos-staging`，不会动正式数据），测完删除该 Worker；测试桶保留。
+### 2026-09-30 日程 / 待办 / 邮件参照「Frank非洲创业」（07_Frank小助手）改进
+- 日历修 bug：月初补空格（以前 1 号永远排在星期日列）、点哪天预填哪天（以前总是今天）、高亮今天。
+- 日程：编辑器支持 prefill（`openScheduleEditor(event, prefill)`）、多附件（`attach:{images[],files[]}`）、编辑器内删除；列表显示类型名、地点点开 Google 地图、来源邮件。保存时保留事件原有字段（Object.assign）。
+- 待办：分类可自定义（「我的 → 设置 → 🏷️ 待办分类」，localStorage `cathy_task_categories` + `cathy_task_categories_at`，同步 payload `taskCategories:{list, updatedAt}`，新的覆盖旧的，`mergeRemoteTaskCats`）；地址字段（地图链接）；多图多文件（`_attachNormalize` 兼容旧 `image`/`pdf`，编辑保存后迁移到 `attach`，旧字段清空）；保留语音；已完成按 updatedAt 倒序。颜色用 `taskCatColor(cat)`。
+- 返回手势：`overlayPush/overlayPop` + popstate（`_overlayIgnorePop` 防止按钮关闭时误关下一层）；日程/待办编辑器、视频全屏播放器已接入。
+- 邮件：AI 归纳窗口 7 → 30 天（`getWindowCutoffDate` -29，`EMAIL_AI_VERSION` 9，worker 提示词同步）；重绘保持「查看原文」展开和滚动位置；AI 待办加「📧 原邮件」（`jumpToEmailBySource`）；信息通知可点「知道了」（dismiss key `info:<topic>`）。
+- 邮件识别日程：worker.js `classifyEmail` 让 AI 额外输出 `日程`（标题/日期/时间/地点，营销邮件不取），写入 emails.md `**日程:** {json}`；App 解析后在邮件卡片显示「📅 … 加入日程」，保存后显示「已在日程」（事件记 `sourceEmailKey`/`sourceSubject`）。**只对新进来的邮件生效。** worker 解析 JSON 改为先贪婪匹配（嵌套对象）。
+- cathysync 部署：用 `deploy_cathy_worker_content.py`（PUT `/workers/scripts/cathysync/content`，只换代码、保留绑定和密钥）；旧的 `deploy_cathy_worker.py` 会因要求重填 GITHUB_TOKEN 被拒。
 - 待办：MKV/HEVC 格式浏览器播不了（无转码，建议拍 MP4/H.264 或归档 YouTube）；教练语音留言不翻译；国内访问 workers.dev 不稳定，如需要可绑自定义域名。

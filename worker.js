@@ -169,7 +169,7 @@ export default {
       const outgoing = isOutgoing(email, cfg0);
       const meta = await classifyEmail(env, { subject, from, text: classifyText, isSent: outgoing }, cfg0);
       const gmailId = email.gmailId || '';
-      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${outgoing ? '**方向:** 发出\n' : ''}${meta.kid && meta.kid !== '无' ? `**涉及:** ${meta.kid}\n` : ''}${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
+      const entry = `\n## [${meta.category}] ${subject}\n\n**发件人:** ${from}\n**日期:** ${date}\n**摘要:** ${meta.summary}\n**待办:** ${meta.todo}\n${outgoing ? '**方向:** 发出\n' : ''}${meta.kid && meta.kid !== '无' ? `**涉及:** ${meta.kid}\n` : ''}${meta.schedule ? `**日程:** ${JSON.stringify(meta.schedule)}\n` : ''}${gmailId ? `**GmailID:** ${gmailId}\n` : ''}\n${storeText}\n\n---\n`;
       const normDate = (d) => { try { return new Date(d).toISOString(); } catch(e) { return d; } };
       const emailKey = `${subject}|${from}|${normDate(date)}`;
       let result = null;
@@ -393,7 +393,7 @@ function isOutgoing(email, cfg) {
 
 async function classifyEmail(env, email, cfg) {
   const prompt = `你是 Cathy 家庭的邮件助理。请阅读邮件，按以下 JSON 格式输出，不要任何额外文字：
-{"分类":"...","摘要":"...","待办":"...","涉及":"..."}
+{"分类":"...","摘要":"...","待办":"...","涉及":"...","日程":"..."}
 
 分类只能从这六个中选一个：击剑 / Cathy&David / 生活旅行 / 营销 / 待办 / 其他
 分类说明：
@@ -406,6 +406,7 @@ async function classifyEmail(env, email, cfg) {
 摘要用 1-2 句中文总结邮件核心
 待办：这封邮件需要做什么？不需要行动写"无"
 涉及：这封邮件涉及哪个孩子？只能选 Cathy / David / 两个 / 不明。与孩子无关的分类（生活旅行/营销/待办/其他）写"无"
+日程：如果邮件里有明确日期的比赛/训练营/课程/会议/活动/截止日，输出 {"标题":"...","日期":"YYYY-MM-DD","时间":"HH:MM或空","地点":"..."}（日期推算成完整年月日，只取最主要的一个）；没有写"无"。营销邮件一律写"无"
 
 发件人：${email.from}
 主题：${email.subject}
@@ -427,17 +428,26 @@ async function classifyEmail(env, email, cfg) {
     if (typeof rawText === 'object' && rawText !== null) {
       obj = rawText;
     } else if (typeof rawText === 'string') {
-      const m = rawText.match(/\{[\s\S]*?\}/);
-      if (m) obj = JSON.parse(m[0]);
+      // 日程是嵌套对象：先贪婪匹配整个 JSON，失败再退回第一个 {...}
+      const m = rawText.match(/\{[\s\S]*\}/);
+      if (m) { try { obj = JSON.parse(m[0]); } catch (e1) { const m2 = rawText.match(/\{[\s\S]*?\}/); if (m2) obj = JSON.parse(m2[0]); } }
     }
     if (obj) {
       let aiCat = obj['分类'] || obj.category || '其他';
       if (isExcluded(email.from, aiCat, cfg0.exclude)) aiCat = '其他';
+      const finalCat = keywordCategory || aiCat;
+      let schedule = null;
+      const s = obj['日程'] || obj.schedule;
+      if (s && typeof s === 'object' && finalCat !== '营销' && /^\d{4}-\d{2}-\d{2}$/.test(String(s['日期'] || s.date || ''))) {
+        const tm = String(s['时间'] || s.time || '');
+        schedule = { title: String(s['标题'] || s.title || email.subject).slice(0, 120), date: String(s['日期'] || s.date), time: /^\d{1,2}:\d{2}$/.test(tm) ? tm : '', location: String(s['地点'] || s.location || '').slice(0, 120) };
+      }
       return {
-        category: keywordCategory || aiCat,
+        category: finalCat,
         summary: obj['摘要'] || obj.summary || '',
         todo: obj['待办'] || obj.todo || '无',
         kid: obj['涉及'] || obj.kid || '',
+        schedule,
         raw: rawText
       };
     }
@@ -459,7 +469,7 @@ function buildEmailSummaryPrompt(body) {
 - 信息通知：${(previous.info || []).map(a => a.topic).join('；') || '无'}
 - 一句话总结：${previous.summary || ''}
 
-新增邮件：` : `请把以下邮件按话题归纳整理（覆盖最近7天）。
+新增邮件：` : `请把以下邮件按话题归纳整理（覆盖最近30天）。
 
 邮件列表：`;
   return `你是 Cathy 家庭的邮件助理，为家长整理邮件。${previousText}

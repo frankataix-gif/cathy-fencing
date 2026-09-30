@@ -283,6 +283,8 @@
     .schedule-bar.single { border-radius: 0; }
     .schedule-cal-day:hover { background:var(--primary-light); }
     .schedule-cal-day .num { font-weight:600; }
+    .schedule-cal-day.today .num { background:var(--primary); color:#fff !important; border-radius:10px; }
+    .schedule-cal-day.today { background:#eff6ff; }
     .schedule-dot { width:6px; height:6px; border-radius:50%; display:inline-block; }
     .schedule-list-item { border-left:4px solid var(--border); padding:8px 12px; margin-bottom:8px; border-radius:6px; background:#f8fafc; }
     .schedule-list-item .title { font-weight:600; }
@@ -772,6 +774,7 @@
     </div>
     <h3 id="schedule-editor-title" style="margin-bottom:12px;">添加事件</h3>
     <input type="hidden" id="schedule-edit-id">
+    <div id="se-source" style="display:none; font-size:0.8rem; color:#6b7280; margin-bottom:12px; padding:8px 12px; background:#f8fafc; border-radius:10px;"></div>
     <div class="form-row"><label for="se-title">标题</label><input id="se-title" type="text" placeholder="如：Portland RJCC"></div>
     <div class="form-row" style="display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:10px;">
       <div style="min-width:0;"><label for="se-date">日期</label><input id="se-date" type="date"></div>
@@ -797,7 +800,9 @@
     <div class="form-row"><label for="se-map-url">地图链接</label><input id="se-map-url" type="text" placeholder="https://www.google.com/maps/search/..."></div>
     <div class="form-row"><label for="se-url">官网 / 报名链接</label><input id="se-url" type="text" placeholder="https://..."></div>
     <div class="form-row"><label for="se-notes">备注</label><textarea id="se-notes" rows="3" placeholder="地点、备注、感受等"></textarea></div>
+    <div class="form-row"><div id="se-attach-area"></div></div>
     <div style="display:flex; gap:8px; justify-content:flex-end; margin-top:16px; margin-bottom:40px;">
+      <button class="btn danger" id="schedule-editor-delete" style="display:none; margin-right:auto;">删除</button>
       <button class="btn secondary" id="schedule-editor-cancel">取消</button>
       <button class="btn cathy" id="schedule-editor-save">保存</button>
     </div>
@@ -833,14 +838,16 @@
           </select>
         </div>
       </div>
+      <div class="form-row" style="margin-bottom:16px;">
+        <label for="te-address" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">地址（可选，可点开地图）</label>
+        <input id="te-address" type="text" placeholder="如：Meadowridge School, Maple Ridge" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+      </div>
       <div class="form-row" style="margin-bottom:20px;">
         <label for="te-notes" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">备注</label>
         <textarea id="te-notes" placeholder="补充说明" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-height:120px; resize:vertical; overflow-y:hidden; line-height:1.5;"></textarea>
       </div>
       <div class="form-row" style="margin-bottom:20px;">
-        <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">图片 / 附件</label>
-        <input type="file" id="te-image-input" accept="image/*,application/pdf" style="display:none;">
-        <div id="te-image-area"></div>
+        <div id="te-attach-area"></div>
       </div>
       <div class="form-row" style="margin-bottom:20px;">
         <label style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">语音留言</label>
@@ -913,12 +920,28 @@
           <span class="my-text"><b>邮件分类设置</b><small>关键词/发件人规则，新邮件自动归类</small></span>
           <span class="my-chevron">›</span>
         </div>
+        <div class="my-row" id="my-open-task-cats">
+          <span class="my-icon">🏷️</span>
+          <span class="my-text"><b>待办分类</b><small>增加 / 删除待办分类，所有设备同步</small></span>
+          <span class="my-chevron">›</span>
+        </div>
         <a class="my-row" href="cathyai.html" target="_blank">
           <span class="my-icon">📤</span>
           <span class="my-text"><b>Cathy 数据导出</b><small>收集训练/比赛数据，发给其它 AI 分析</small></span>
           <span class="my-chevron">›</span>
         </a>
 
+      </div>
+    </div>
+
+    <div class="card" id="my-task-cats-view" style="display:none;">
+      <button class="btn secondary" id="my-back-task-cats" style="padding:4px 12px; font-size:0.8rem; margin-bottom:12px;">‹ 返回</button>
+      <h3 style="margin-bottom:6px;">待办分类</h3>
+      <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">添加待办时可选的分类。删除分类不会删掉待办，原来的分类名会保留显示。</p>
+      <div id="task-cat-list" class="my-list" style="margin-bottom:12px;"></div>
+      <div style="display:flex; gap:8px;">
+        <input type="text" id="task-cat-new" placeholder="新分类名，如：学校" style="flex:1; min-width:0; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px; box-sizing:border-box;">
+        <button class="btn" id="task-cat-add" style="padding:6px 16px;">添加</button>
       </div>
     </div>
 
@@ -2625,8 +2648,14 @@ function circuitLabel(c) {
     ov.innerHTML = `<iframe src="${escapeHtml(src)}" allow="microphone; autoplay; fullscreen; clipboard-write" allowfullscreen></iframe><button class="cp-x" onclick="closeCoachPlayer()" aria-label="返回">‹ 返回</button>`;
     ov.style.display = 'block';
     document.body.style.overflow = 'hidden';
+    _overlayOnBack['coach-player-ov'] = () => closeCoachPlayer(true);
+    overlayPush('coach-player-ov');
   }
-  function closeCoachPlayer() {
+  function closeCoachPlayer(fromBack) {
+    if (fromBack !== true) {
+      const i = _overlayStack.indexOf('coach-player-ov');
+      if (i >= 0) { _overlayStack.splice(i, 1); _overlayIgnorePop++; try { history.back(); } catch(e) { _overlayIgnorePop--; } }
+    }
     const ov = document.getElementById('coach-player-ov');
     if (ov) { ov.style.display = 'none'; ov.innerHTML = ''; }
     document.body.style.overflow = '';
@@ -3548,6 +3577,7 @@ function circuitLabel(c) {
         Object.entries(data.taskTombstones).forEach(([id, ts]) => { if (!mt[id] || mt[id] < ts) mt[id] = ts; });
         try { localStorage.setItem('cathy_task_tombstones', JSON.stringify(mt)); } catch(e) {}
       }
+      if (data.taskCategories) mergeRemoteTaskCats(data.taskCategories);
       if (Array.isArray(data.tasks)) {
         const tombs = getTaskTombstones();
         const isTombstoned = (t) => t && t.id && tombs[t.id] && (!t.updatedAt || t.updatedAt <= tombs[t.id]);
@@ -4214,7 +4244,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_videos' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_task_categories' || key === 'cathy_videos' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -4244,6 +4274,7 @@ function circuitLabel(c) {
     const schedTombs = getScheduleTombstones();
     let vidTombs = getVideoTombstones();
     let coachTombs = getCoachTombstones();
+    let remoteTaskCats = null;
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
       const rtext = await fetchRepoFile('cathy_data/user_data.json');
@@ -4253,6 +4284,7 @@ function circuitLabel(c) {
           Object.entries(remote.taskTombstones).forEach(([id, ts]) => { if (!taskTombstones[id] || taskTombstones[id] < ts) taskTombstones[id] = ts; });
           saveToLocal('cathy_task_tombstones', JSON.stringify(taskTombstones));
         }
+        if (remote && remote.taskCategories) remoteTaskCats = remote.taskCategories;
         if (remote && Array.isArray(remote.tasks)) {
           const isTomb = (t) => t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id]);
           const localById = {};
@@ -4304,7 +4336,8 @@ function circuitLabel(c) {
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones() };
+    if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
+    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones() };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -4372,13 +4405,14 @@ function circuitLabel(c) {
           else if (line.startsWith('**摘要:**')) { meta.summary = line.replace(/^\*\*摘要:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**待办:**')) { meta.todo = line.replace(/^\*\*待办:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**涉及:**')) { meta.kid = line.replace(/^\*\*涉及:\*\*\s*/, '').trim(); bodyStart = i + 1; }
+          else if (line.startsWith('**日程:**')) { try { const s = JSON.parse(line.replace(/^\*\*日程:\*\*\s*/, '')); if (s && s.date) meta.schedule = s; } catch(e) {} bodyStart = i + 1; }
           else if (line.startsWith('**方向:**')) { meta.dir = line.replace(/^\*\*方向:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (line.startsWith('**GmailID:**')) { meta.gmailId = line.replace(/^\*\*GmailID:\*\*\s*/, '').trim(); bodyStart = i + 1; }
           else if (!line.startsWith('**') && bodyStart === 0) { bodyStart = i; break; }
           else if (bodyStart > 0 && !line.startsWith('**')) break;
         }
         const body = lines.slice(bodyStart).join('\n').replace(/---$/, '').trim();
-        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', kid: meta.kid || '', outgoing: meta.dir === '发出', body, gmailId: meta.gmailId || '', color: catColorMap[category] || '#6b7280' };
+        return { category, subject, from: meta.from || '', date: meta.date || '', summary: meta.summary || '', todo: meta.todo || '无', kid: meta.kid || '', outgoing: meta.dir === '发出', body, gmailId: meta.gmailId || '', schedule: meta.schedule || null, color: catColorMap[category] || '#6b7280' };
       }).sort((a, b) => {
         const da = a.date ? new Date(a.date) : 0;
         const db = b.date ? new Date(b.date) : 0;
@@ -4480,7 +4514,7 @@ function circuitLabel(c) {
 
   function getTodayInVancouver() { return vancouverISO().slice(0, 10); }
 
-  const EMAIL_AI_VERSION = '8';
+  const EMAIL_AI_VERSION = '9';   // 9：归纳窗口改为 30 天
   function getEmailAIState() {
     try {
       const state = JSON.parse(localStorage.getItem('cathy_email_ai_state') || '{}');
@@ -4663,7 +4697,7 @@ function circuitLabel(c) {
     };
     const windowEmails = allEmails.filter(e => inWindow(e) && AI_CATS.includes(e.category || '其他') && !e.outgoing);
 
-    // ===== 主集合：学校+击剑，7 天滚动窗口 =====
+    // ===== 主集合：学校+击剑，30 天滚动窗口 =====
     const windowSlid = state.windowStart !== cutoff;
     let summary = (!windowSlid && state.summary) ? state.summary : null;
     let analyzedKeys = (!windowSlid && Array.isArray(state.analyzedKeys)) ? state.analyzedKeys : [];
@@ -6376,32 +6410,241 @@ function circuitLabel(c) {
     return `<span class="schedule-dot" style="background:${c};"></span>`;
   }
 
-  function openScheduleEditor(event) {
+  // ---------- 弹层历史栈：手机「返回」手势先关掉编辑框 / 播放器，而不是退出 App ----------
+  const _overlayStack = [];
+  let _overlayIgnorePop = 0;   // 按钮关闭时自己触发的 history.back，不要再多关一层
+  function _hideOverlay(id) { const el = document.getElementById(id); if (el) el.style.display = 'none'; }
+  function overlayPush(id) {
+    if (_overlayStack.includes(id)) return;
+    _overlayStack.push(id);
+    try { history.pushState({ cathyOverlay: id }, ''); } catch(e) {}
+  }
+  function overlayPop(id) {   // 按钮 / ESC 主动关：把压进去的历史也退掉
+    const i = _overlayStack.indexOf(id);
+    _hideOverlay(id);
+    if (i < 0) return;
+    _overlayStack.splice(i, 1);
+    _overlayIgnorePop++;
+    try { history.back(); } catch(e) { _overlayIgnorePop--; }
+  }
+  const _overlayOnBack = {};   // 某些层关闭时要额外清理（如停止视频）
+  window.addEventListener('popstate', () => {
+    if (_overlayIgnorePop > 0) { _overlayIgnorePop--; return; }
+    const id = _overlayStack.pop();
+    if (!id) return;
+    if (_overlayOnBack[id]) _overlayOnBack[id](); else _hideOverlay(id);
+  });
+
+  // ---------- 日程 / 待办通用附件：多图片 + 多文件 ----------
+  const _attBtnStyle = 'background:#f1f5f9; border:1px solid #d1d5db; border-radius:8px; padding:4px 10px; font-size:0.78rem; cursor:pointer;';
+  let _seAttach = { images: [], files: [] }, _teAttach = { images: [], files: [] }, _gUploading = null;
+  function _attachBuf(key) { return key === 'se' ? _seAttach : _teAttach; }
+  // 兼容旧版单附件：待办 {image, pdf}、{image, file}
+  function _attachNormalize(a) {
+    const out = { images: [], files: [] };
+    if (!a) return out;
+    if (Array.isArray(a.images)) out.images = a.images.slice();
+    if (Array.isArray(a.files)) out.files = a.files.slice();
+    if (a.image && !out.images.includes(a.image)) out.images.push(a.image);
+    const f1 = a.file || a.pdf;
+    if (f1 && !out.files.some(f => (f.path || f.url) === (f1.path || f1.url))) out.files.push(f1);
+    return out;
+  }
+  function _attachRender(key) {
+    const el = document.getElementById(key + '-attach-area');
+    if (!el) return;
+    const a = _attachBuf(key);
+    let html = '<div style="font-size:0.85rem; color:#374151; font-weight:600; margin-bottom:6px;">附件（图片 / PDF / 文件，可传多份）</div>';
+    if (a.images.length) {
+      html += '<div style="display:flex; gap:8px; flex-wrap:wrap; margin:6px 0;">' + a.images.map((img, i) =>
+        `<div style="position:relative;"><img src="${img}" style="width:72px; height:72px; object-fit:cover; border-radius:8px; border:1px solid #d1d5db; cursor:pointer; display:block;" data-g-img="${i}"><button type="button" data-g-imgdel="${i}" style="position:absolute; top:-6px; right:-6px; width:20px; height:20px; border-radius:50%; border:none; background:#ef4444; color:#fff; font-size:11px; cursor:pointer; line-height:1; padding:0;">✕</button></div>`
+      ).join('') + '</div>';
+    }
+    a.files.forEach((f, i) => {
+      html += `<div style="margin:4px 0; font-size:0.85rem;">📄 <a href="${escapeHtml(taskFileUrl(f))}" target="_blank" rel="noopener" style="color:var(--primary);">${escapeHtml(f.name || '附件')}</a> <button type="button" data-g-filedel="${i}" style="${_attBtnStyle}">删除</button></div>`;
+    });
+    html += `<div style="display:flex; gap:10px; margin-top:6px; align-items:center; flex-wrap:wrap;">
+      <button type="button" data-g-imgadd="1" style="${_attBtnStyle}">📷 图片</button>
+      <button type="button" data-g-fileadd="1" style="${_attBtnStyle}">📄 文件 / PDF</button>
+      <span style="font-size:0.75rem; color:#9ca3af;">${_gUploading === key ? '上传中…' : ''}</span>
+    </div>`;
+    el.innerHTML = html;
+    el.querySelectorAll('[data-g-img]').forEach(img => img.addEventListener('click', () => openImageModal(a.images[+img.dataset.gImg])));
+    el.querySelectorAll('[data-g-imgdel]').forEach(b => b.addEventListener('click', () => {
+      if (!confirm('删除这张图片？')) return;
+      a.images.splice(+b.dataset.gImgdel, 1); _attachRender(key);
+    }));
+    el.querySelectorAll('[data-g-filedel]').forEach(b => b.addEventListener('click', () => {
+      if (!confirm('删除这个文件？')) return;
+      a.files.splice(+b.dataset.gFiledel, 1); _attachRender(key);
+    }));
+    el.querySelector('[data-g-imgadd]').addEventListener('click', () => _pickAttachFile(key, 'image'));
+    el.querySelector('[data-g-fileadd]').addEventListener('click', () => _pickAttachFile(key, 'file'));
+  }
+  let _gFileInput = null;
+  function _pickAttachFile(key, kind) {
+    if (!_gFileInput) {
+      _gFileInput = document.createElement('input');
+      _gFileInput.type = 'file';
+      _gFileInput.multiple = true;
+      _gFileInput.style.display = 'none';
+      document.body.appendChild(_gFileInput);
+      _gFileInput.addEventListener('change', async () => {
+        const files = Array.from(_gFileInput.files || []);
+        _gFileInput.value = '';
+        const k = _gFileInput.dataset.key;
+        if (!files.length || !k) return;
+        const buf = _attachBuf(k);
+        _gUploading = k; _attachRender(k);
+        for (const f of files) {
+          try {
+            if (f.type.startsWith('image/')) {
+              try { buf.images.push(await compressImageFile(f)); }
+              catch (e2) { buf.files.push(await uploadRepoFile(f)); }   // 解不出（如 HEIC）→ 原样存文件
+            } else {
+              buf.files.push(await uploadRepoFile(f));
+            }
+            _attachRender(k);
+          } catch (err) { alert('上传失败：' + f.name + ' ' + err.message); }
+        }
+        _gUploading = null; _attachRender(k);
+      });
+    }
+    _gFileInput.dataset.key = key;
+    _gFileInput.accept = kind === 'image' ? 'image/*' : '*';
+    _gFileInput.click();
+  }
+  function _attachOut(buf) { return (buf.images.length || buf.files.length) ? { images: buf.images.slice(), files: buf.files.slice() } : null; }
+  function mapsSearchUrl(loc) { return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(loc); }
+  function attachDisplayHTML(a) {
+    const n = _attachNormalize(a);
+    if (!n.images.length && !n.files.length) return '';
+    let h = '';
+    if (n.images.length) {
+      h += '<div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:6px;">' + n.images.map(img =>
+        `<img src="${img}" style="width:64px; height:64px; object-fit:cover; border-radius:8px; cursor:pointer; border:1px solid #d1d5db;" onclick="openImageModal(this.src)">`
+      ).join('') + '</div>';
+    }
+    h += n.files.map(f =>
+      `<a href="${escapeHtml(taskFileUrl(f))}" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; margin-right:6px; font-size:0.78rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(f.name || '附件')}</a>`
+    ).join('');
+    return h;
+  }
+
+  // ---------- 待办分类：可自定义，多设备同步（按修改时间，新的覆盖旧的）----------
+  const DEFAULT_TASK_CATEGORIES = ['待办', '击剑', 'Cathy&David', '生活旅行', '营销', '其他'];
+  const TASK_CAT_PALETTE = ['#ef4444', '#2563eb', '#f59e0b', '#0ea5e9', '#9ca3af', '#6b7280', '#8b5cf6', '#22c55e', '#ec4899', '#84cc16'];
+  let taskCategories = (() => {
+    try { const a = JSON.parse(localStorage.getItem('cathy_task_categories') || 'null'); if (Array.isArray(a) && a.length) return a; } catch(e) {}
+    return DEFAULT_TASK_CATEGORIES.slice();
+  })();
+  function taskCatColor(cat) {
+    if (typeof taskCategoryColor !== 'undefined' && taskCategoryColor[cat]) return taskCategoryColor[cat];
+    const i = taskCategories.indexOf(cat);
+    return i < 0 ? '#9ca3af' : TASK_CAT_PALETTE[i % TASK_CAT_PALETTE.length];
+  }
+  function saveTaskCategories() {
+    try { localStorage.setItem('cathy_task_categories_at', new Date().toISOString()); } catch(e) {}
+    saveToLocal('cathy_task_categories', JSON.stringify(taskCategories));
+    renderTaskCatSettings();
+  }
+  function taskCatsPayload() { return { list: taskCategories, updatedAt: localStorage.getItem('cathy_task_categories_at') || '' }; }
+  // 远端分类更新得更晚 → 采用远端（不触发自动同步）
+  function mergeRemoteTaskCats(rc) {
+    if (!rc || !Array.isArray(rc.list) || !rc.list.length) return;
+    const localAt = localStorage.getItem('cathy_task_categories_at') || '';
+    if ((rc.updatedAt || '') <= localAt) return;
+    taskCategories = rc.list.slice();
+    saveUIToLocal('cathy_task_categories', JSON.stringify(taskCategories));
+    saveUIToLocal('cathy_task_categories_at', rc.updatedAt || '');
+    renderTaskCatSettings();
+  }
+  function renderTaskCatSettings() {
+    const box = document.getElementById('task-cat-list');
+    if (!box) return;
+    box.innerHTML = taskCategories.map(c => {
+      const used = (typeof tasks !== 'undefined' ? tasks : []).filter(t => t.category === c && !t.completed).length;
+      return `<div class="my-row">
+        <span class="my-icon"><span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:${taskCatColor(c)};"></span></span>
+        <span class="my-text"><b>${escapeHtml(c)}</b><small>${used ? used + ' 个进行中待办' : '暂无待办'}</small></span>
+        <button class="btn danger" data-cat-del="${escapeHtml(c)}" style="padding:4px 12px; font-size:0.78rem; white-space:nowrap;">删除</button>
+      </div>`;
+    }).join('');
+    box.querySelectorAll('[data-cat-del]').forEach(b => b.addEventListener('click', () => {
+      const cat = b.dataset.catDel;
+      if (taskCategories.length <= 1) { alert('至少保留一个分类'); return; }
+      const used = tasks.filter(t => t.category === cat && !t.completed).length;
+      if (!confirm(`确认删除分类「${cat}」？${used ? '\n该分类下还有 ' + used + ' 个未完成待办，会保留原分类名显示。' : ''}`)) return;
+      taskCategories = taskCategories.filter(x => x !== cat);
+      saveTaskCategories();
+    }));
+  }
+  function addTaskCategory() {
+    const inp = document.getElementById('task-cat-new');
+    const name = (inp && inp.value || '').trim();
+    if (!name) { inp && inp.focus(); return; }
+    if (taskCategories.includes(name)) { alert('分类已存在'); return; }
+    taskCategories.push(name);
+    inp.value = '';
+    saveTaskCategories();
+  }
+  (function initTaskCatSettings() {
+    const settingsView = document.getElementById('my-settings-view');
+    const view = document.getElementById('my-task-cats-view');
+    document.getElementById('my-open-task-cats')?.addEventListener('click', () => {
+      if (settingsView) settingsView.style.display = 'none';
+      if (view) view.style.display = 'block';
+      renderTaskCatSettings();
+      window.scrollTo(0, 0);
+    });
+    document.getElementById('my-back-task-cats')?.addEventListener('click', () => {
+      if (view) view.style.display = 'none';
+      if (settingsView) settingsView.style.display = 'block';
+    });
+    document.getElementById('task-cat-add')?.addEventListener('click', addTaskCategory);
+    document.getElementById('task-cat-new')?.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.isComposing) { e.preventDefault(); addTaskCategory(); } });
+  })();
+
+  // prefill：从日历点某天 / 从邮件「加入日程」带入的内容
+  function openScheduleEditor(event, prefill) {
     const isEdit = !!event;
+    const p = prefill || {};
     document.getElementById('schedule-edit-id').value = isEdit ? event.id : '';
-    document.getElementById('se-title').value = isEdit ? (event.title || '') : '';
-    document.getElementById('se-date').value = isEdit ? event.date : vancouverISO();
-    document.getElementById('se-end').value = isEdit ? (event.end || '') : '';
-    document.getElementById('se-time').value = isEdit ? (event.time || '') : '';
+    document.getElementById('se-title').value = isEdit ? (event.title || '') : (p.title || '');
+    document.getElementById('se-date').value = isEdit ? event.date : (p.date || vancouverISO());
+    document.getElementById('se-end').value = isEdit ? (event.end || '') : (p.end || '');
+    document.getElementById('se-time').value = isEdit ? (event.time || '') : (p.time || '');
     document.getElementById('se-endtime').value = isEdit ? (event.endTime || '') : '';
-    document.getElementById('se-type').value = isEdit ? (event.type || 'competition') : 'competition';
-    document.getElementById('se-location').value = isEdit ? (event.location || '') : '';
+    document.getElementById('se-type').value = isEdit ? (event.type || 'competition') : (p.type || 'competition');
+    document.getElementById('se-location').value = isEdit ? (event.location || '') : (p.location || '');
     document.getElementById('se-map-url').value = isEdit ? (event.mapUrl || '') : '';
     document.getElementById('se-url').value = isEdit ? (event.url || '') : '';
-    document.getElementById('se-notes').value = isEdit ? (event.description || '') : '';
+    document.getElementById('se-notes').value = isEdit ? (event.description || '') : (p.notes || '');
+    _seAttach = _attachNormalize(isEdit ? event.attach : null);
+    _attachRender('se');
+    const src = document.getElementById('se-source');
+    const srcSubject = isEdit ? event.sourceSubject : p.source;
+    if (src) { src.style.display = srcSubject ? 'block' : 'none'; src.textContent = srcSubject ? '📧 来自邮件：' + srcSubject : ''; }
+    const ed = document.getElementById('schedule-editor');
+    ed.dataset.srcKey = isEdit ? (event.sourceEmailKey || '') : (p.emailKey || '');
+    ed.dataset.srcSubject = srcSubject || '';
     document.getElementById('schedule-editor-title').textContent = isEdit ? '编辑事件' : '添加事件';
-    document.getElementById('schedule-editor').style.display = 'block';
+    const del = document.getElementById('schedule-editor-delete');
+    if (del) del.style.display = isEdit ? 'inline-block' : 'none';
+    ed.style.display = 'block';
+    overlayPush('schedule-editor');
     document.getElementById('se-title').focus();
   }
 
-  function closeScheduleEditor() { document.getElementById('schedule-editor').style.display = 'none'; }
+  function closeScheduleEditor() { overlayPop('schedule-editor'); }
 
   function deleteSchedule(id) {
-    if (!confirm('确认删除这个事件？')) return;
+    if (!confirm('确认删除这个事件？')) return false;
     markScheduleDeleted(id);
     scheduleEvents = scheduleEvents.filter(e => e.id !== id);
     saveSchedule();
     renderSchedule();
+    return true;
   }
 
   function saveScheduleEvent() {
@@ -6418,7 +6661,11 @@ function circuitLabel(c) {
     const description = document.getElementById('se-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('se-title').focus(); return; }
     if (!date) { alert('日期不能为空'); document.getElementById('se-date').focus(); return; }
-    const ev = { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, location: location || null, mapUrl: mapUrl || null, url: url || null, description: description || null, updatedAt: new Date().toISOString() };
+    if (_gUploading === 'se') { alert('附件还在上传中，请稍候再保存'); return; }
+    const ed = document.getElementById('schedule-editor');
+    const prev = id ? (scheduleEvents.find(e => e.id === id) || {}) : {};
+    const ev = Object.assign({}, prev, { id: id || newEventId(), title, date, end: end || null, time: time || null, endTime: endTime || null, type, location: location || null, mapUrl: mapUrl || null, url: url || null, description: description || null, attach: _attachOut(_seAttach), updatedAt: new Date().toISOString() });
+    if (ed.dataset.srcKey) { ev.sourceEmailKey = ed.dataset.srcKey; ev.sourceSubject = ed.dataset.srcSubject || ''; }
     if (id) {
       const idx = scheduleEvents.findIndex(e => e.id === id);
       if (idx >= 0) scheduleEvents[idx] = ev;
@@ -6472,6 +6719,8 @@ function circuitLabel(c) {
       return { ...e, track: idx };
     });
 
+    const todayStr = vancouverISO();
+    for (let i = 0; i < start; i++) html += '<div class="schedule-cal-day empty"></div>';   // 1 号前补空格，星期才对得上
     for (let d=1; d<=days; d++) {
       const iso = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
       const isoDate = new Date(iso + 'T00:00:00');
@@ -6505,7 +6754,7 @@ function circuitLabel(c) {
         maxTrack = Math.max(maxTrack, maxTrack + 1);
       }
       const minHeight = Math.max(90, (maxTrack + 2) * 20 + 24);
-      html += `<div class="schedule-cal-day" data-date="${iso}" style="min-height:${minHeight}px;"><div class="num" style="font-size:0.75rem; color:var(--gray); margin-bottom:4px;">${d}</div>${bars}</div>`;
+      html += `<div class="schedule-cal-day${iso === todayStr ? ' today' : ''}" data-date="${iso}" style="min-height:${minHeight}px;"><div class="num" style="font-size:0.75rem; color:var(--gray); margin-bottom:4px;">${d}</div>${bars}</div>`;
     }
     const totalCells = rowsNeeded * 7;
     const filled = start + days;
@@ -6514,7 +6763,7 @@ function circuitLabel(c) {
     calendar.querySelectorAll('.schedule-cal-day[data-date]').forEach(day => {
       day.addEventListener('click', () => {
         scheduleSelectedDate = day.dataset.date;
-        openScheduleEditor(null);
+        openScheduleEditor(null, { date: day.dataset.date });
       });
     });
   }
@@ -6548,9 +6797,12 @@ function circuitLabel(c) {
     const dot = scheduleTypeDot(e.type);
     let html = `<div class="schedule-list-item ${tc}">`;
     html += `<div class="title" style="display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;"><span style="display:flex; align-items:center; gap:6px;">${dot} ${escapeHtml(e.title)}</span><span class="schedule-countdown ${cd.class}">${cd.text}</span></div>`;
-    html += `<div class="meta">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime && e.end && e.end !== e.date ? ' - ' + e.endTime : ''}</div>`;
-    if (e.location) html += `<div class="meta">地点：${escapeHtml(e.location)}</div>`;
-    if (e.description) html += `<div class="meta">备注：${escapeHtml(e.description)}</div>`;
+    const tLabel = (SCHEDULE_EVENT_TYPES[e.type] || SCHEDULE_EVENT_TYPES.other).label;
+    html += `<div class="meta">${escapeHtml(tLabel)} · ${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''}${e.endTime ? ' - ' + e.endTime : ''}</div>`;
+    if (e.location) html += `<div class="meta">地点：<a href="${escapeHtml(e.mapUrl || mapsSearchUrl(e.location))}" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none;">${escapeHtml(e.location)} 📍</a></div>`;
+    if (e.description) html += `<div class="meta" style="white-space:pre-wrap;">备注：${escapeHtml(e.description)}</div>`;
+    if (e.sourceSubject) html += `<div class="meta" style="color:#9ca3af;">📧 来自邮件：${escapeHtml(e.sourceSubject)}</div>`;
+    if (e.attach) html += attachDisplayHTML(e.attach);
     if (e.url || e.mapUrl) {
       html += `<div style="margin-top:4px; display:flex; gap:6px; flex-wrap:wrap;">`;
       if (e.url) html += `<a href="${escapeHtml(e.url)}" target="_blank" class="btn" style="padding:4px 10px; font-size:0.8rem; text-decoration:none;">官网/报名</a>`;
@@ -6720,7 +6972,11 @@ function circuitLabel(c) {
     document.getElementById('schedule-editor-close').addEventListener('click', closeScheduleEditor);
     document.getElementById('schedule-editor-save').addEventListener('click', saveScheduleEvent);
     document.getElementById('schedule-editor-cancel').addEventListener('click', closeScheduleEditor);
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeScheduleEditor(); });
+    document.getElementById('schedule-editor-delete')?.addEventListener('click', () => {
+      const id = document.getElementById('schedule-edit-id').value;
+      if (id && deleteSchedule(id)) closeScheduleEditor();
+    });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.getElementById('schedule-editor').style.display === 'block') closeScheduleEditor(); });
     const exportBtn = document.getElementById('schedule-export');
     if (exportBtn) exportBtn.addEventListener('click', exportScheduleJSON);
     const importBtn = document.getElementById('schedule-import');
@@ -7054,7 +7310,7 @@ function circuitLabel(c) {
     if (!items.length) { card.style.display = 'none'; return; }
     card.style.display = 'block';
     container.innerHTML = items.map(item => {
-      const color = item.color || `<span class="schedule-dot" style="background:${taskCategoryColor[item.category] || '#6b7280'};"></span>`;
+      const color = item.color || `<span class="schedule-dot" style="background:${taskCatColor(item.category)};"></span>`;
       const badge = item.overdue ? '<span style="background:#ef4444;color:#fff;font-size:11px;padding:1px 6px;border-radius:8px;margin-left:6px;">过期</span>' : '';
       let dateText = item.date === '未设日期' ? '未设日期' : item.date + (item.end && item.end !== item.date ? ' ~ ' + item.end : '') + (item.time ? ' · ' + item.time : '');
       if (item.type === 'task' && item.date !== '未设日期') {
@@ -7099,7 +7355,7 @@ function circuitLabel(c) {
       html += `<div style="margin-bottom:12px;"><div style="font-size:0.75rem; color:#6b7280; margin-bottom:6px; font-weight:600;">${g.label}</div>` + list.map(t => renderTaskItem(t)).join('') + '</div>';
     });
 
-    const doneList = tasks.filter(t => t.completed).sort((a,b) => (a.dueDate||'').localeCompare(b.dueDate||''));
+    const doneList = tasks.filter(t => t.completed).sort((a,b) => (b.updatedAt||'').localeCompare(a.updatedAt||''));   // 最近完成的在前
     if (doneList.length) {
       html += `<div style="margin-bottom:12px;"><button class="btn secondary" id="task-toggle-done" style="padding:4px 12px; font-size:0.8rem;">${showCompletedTasks ? '隐藏' : '显示'}已完成 (${doneList.length})</button></div>`;
       if (showCompletedTasks) {
@@ -7123,9 +7379,6 @@ function circuitLabel(c) {
         if (t) { t.important = !t.important; t.updatedAt = new Date().toISOString(); saveTasks(); }
       });
     });
-    container.querySelectorAll('img.task-thumb').forEach(img => {
-      img.addEventListener('click', () => openImageModal(img.src));
-    });
     container.querySelectorAll('[data-task-src]').forEach(el => {
       el.addEventListener('click', (e) => { e.stopPropagation(); jumpToSourceEmail(el.dataset.taskSrc); });
     });
@@ -7138,7 +7391,7 @@ function circuitLabel(c) {
   }
 
   function renderTaskItem(t) {
-    const color = taskCategoryColor[t.category] || '#6b7280';
+    const color = taskCatColor(t.category);
     const dueInfo = t.dueDate ? dueCountdownText(t.dueDate) : null;
     const due = dueInfo ? `<span style="font-size:0.75rem; color:${dueInfo.color};">${dueInfo.text}</span>` : '';
     const source = t.sourceType === 'email' ? `<span data-task-src="${t.id}" style="font-size:0.75rem; color:#9ca3af; display:block; white-space:pre-wrap; word-break:break-word; cursor:pointer;">来自：${escapeHtml(t.sourceSubject || '')} <span style="color:var(--primary);">📧 查看邮件 ›</span></span>` : '';
@@ -7149,9 +7402,9 @@ function circuitLabel(c) {
           <div style="font-weight:600; ${t.completed ? 'text-decoration:line-through; color:#9ca3af;' : ''} word-break:break-word; white-space:normal; line-height:1.5;">${escapeHtml(t.title)}</div>
           ${due}
           ${source}
+          ${t.address ? '<div style="font-size:0.78rem; margin-top:3px;"><a href="' + escapeHtml(mapsSearchUrl(t.address)) + '" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none;">📍 ' + escapeHtml(t.address) + '</a></div>' : ''}
           ${t.notes ? '<div style="font-size:0.8rem; color:#6b7280; margin-top:4px; white-space:pre-wrap; word-break:break-word;">' + escapeHtml(t.notes) + '</div>' : ''}
-          ${t.image ? `<img src="${t.image}" class="task-thumb" style="width:64px; height:64px; object-fit:cover; border-radius:8px; margin-top:6px; cursor:pointer; display:block; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">` : ''}
-          ${t.pdf ? `<a href="${escapeHtml(taskFileUrl(t.pdf))}" target="_blank" style="display:inline-flex; align-items:center; gap:4px; margin-top:6px; font-size:0.8rem; color:var(--primary); text-decoration:none; padding:4px 8px; background:#f8fafc; border-radius:6px;">📄 ${escapeHtml(t.pdf.name || 'PDF 附件')}</a>` : ''}
+          ${attachDisplayHTML(Object.assign({}, t.attach || {}, { image: t.image, pdf: t.pdf }))}
           ${t.voice ? `<audio controls src="${taskFileUrl(t.voice)}" style="height:32px; margin-top:6px; width:230px; max-width:100%; display:block;" preload="none"></audio>` : ''}
         </div>
       </div>
@@ -7183,7 +7436,12 @@ function circuitLabel(c) {
     document.getElementById('task-edit-id').value = isEdit ? task.id : '';
     document.getElementById('te-title').value = isEdit ? (task.title || '') : '';
     document.getElementById('te-due').value = isEdit ? (task.dueDate || '') : '';
-    document.getElementById('te-category').value = isEdit ? (task.category || '待办') : '待办';
+    const catSel = document.getElementById('te-category');
+    const cur = isEdit ? (task.category || taskCategories[0]) : taskCategories[0];
+    const cats = taskCategories.includes(cur) ? taskCategories : taskCategories.concat([cur]);
+    catSel.innerHTML = cats.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');
+    catSel.value = cur;
+    document.getElementById('te-address').value = isEdit ? (task.address || '') : '';
     const impEl = document.getElementById('te-important');
     if (impEl) impEl.checked = isEdit ? !!task.important : false;
     const notesEl = document.getElementById('te-notes');
@@ -7198,18 +7456,18 @@ function circuitLabel(c) {
       }
     }
     discardVoiceRec();
-    _teImage = (isEdit && task.image) || '';
-    _tePdf = (isEdit && task.pdf) || null;
+    _teAttach = _attachNormalize(isEdit ? Object.assign({}, task.attach || {}, { image: task.image, pdf: task.pdf }) : null);
     _teVoice = (isEdit && task.voice) || null;
-    renderTeImage();
+    _attachRender('te');
     renderTeVoice();
     document.getElementById('task-editor-title').textContent = isEdit ? '编辑待办' : '添加待办';
     document.getElementById('task-editor-delete').style.display = isEdit ? 'inline-block' : 'none';
     document.getElementById('task-editor').style.display = 'block';
+    overlayPush('task-editor');
     requestAnimationFrame(() => autoResizeTextarea(document.getElementById('te-notes')));
   }
 
-  function closeTaskEditor() { discardVoiceRec(); document.getElementById('task-editor').style.display = 'none'; }
+  function closeTaskEditor() { discardVoiceRec(); overlayPop('task-editor'); }
 
   let _teImage = '';
   let _tePdf = null; // {name, url}
@@ -7367,8 +7625,9 @@ function circuitLabel(c) {
     const category = document.getElementById('te-category').value;
     const notes = document.getElementById('te-notes').value.trim();
     if (!title) { alert('标题不能为空'); document.getElementById('te-title').focus(); return; }
-    if (_teUploading) { alert('附件还在上传中，请稍候再保存'); return; }
-    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, image: _teImage || '', pdf: _tePdf || null, voice: _teVoice || null, important: !!(document.getElementById('te-important') || {}).checked, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
+    if (_teUploading || _gUploading === 'te') { alert('附件还在上传中，请稍候再保存'); return; }
+    const address = document.getElementById('te-address').value.trim();
+    const t = { id: id || newTaskId(), title, dueDate: dueDate || null, category, notes, address: address || null, attach: _attachOut(_teAttach), image: '', pdf: null, voice: _teVoice || null, important: !!(document.getElementById('te-important') || {}).checked, sourceType: 'manual', completed: false, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
     if (id) {
       const existing = tasks.find(x => x.id === id);
       if (existing) {
@@ -7480,7 +7739,7 @@ function circuitLabel(c) {
   function getWindowCutoffDate(summaryDateStr) {
     const [y, m, d] = summaryDateStr.split('-').map(Number);
     const dt = new Date(Date.UTC(y, m - 1, d, 23, 0, 0));
-    dt.setUTCDate(dt.getUTCDate() - 6);
+    dt.setUTCDate(dt.getUTCDate() - 29);   // 最近 30 天
     return emailDateLocal(dt.toISOString());
   }
 
@@ -7499,7 +7758,7 @@ function circuitLabel(c) {
       if (window._emailAIAnalyzing) {
         html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px;">AI 正在归纳 ${windowEmails.length} 封邮件…</div>`;
       } else if (windowEmails.length === 0) {
-        html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px; color:#6b7280;">过去7天无相关邮件</div>`;
+        html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px; color:#6b7280;">过去 30 天无相关邮件</div>`;
       } else {
         html += `<div style="padding:12px; background:#f8fafc; border-radius:8px; margin-bottom:10px; color:#6b7280;">待分析（${windowEmails.length} 封）</div>`;
       }
@@ -7531,12 +7790,17 @@ function circuitLabel(c) {
             } else {
               btn = `<button class="add-ai-task" data-ai-task-index="${i}" style="padding:2px 10px; font-size:0.75rem; flex-shrink:0; background:#16a34a; color:#fff; border:none; border-radius:8px; cursor:pointer; height:26px;">加入待办</button><button class="dismiss-ai-task" data-ai-task-index="${i}" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; align-self:center;">取消</button>`;
             }
+            if (a.source) btn = `<button class="jump-ai-mail" data-ai-task-index="${i}" title="查看原邮件" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:#fff; color:var(--primary); border:1px solid #d1d5db; border-radius:8px; cursor:pointer; height:26px; white-space:nowrap;">📧 原邮件</button>` + btn;
             return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;${dismissed ? ' opacity:0.55;' : ''}"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(title)}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span>${btn}</div>`;
           };
           return (active.length ? `<div style="font-weight:600; margin:10px 0 6px;">需要办理（${active.filter(x => !x.added).length}）</div>` + active.map(x => row(x, false)).join('') : '')
             + (dismissedList.length ? `<div style="font-weight:600; margin:12px 0 6px; color:#9ca3af;">取消的邮件任务（${dismissedList.length}）</div>` + dismissedList.map(x => row(x, true)).join('') : '');
         })()}
-        ${summary.info && summary.info.length ? `<div style="font-weight:600; margin:10px 0 6px; color:#6b7280;">信息通知（${summary.info.length}）</div>` + summary.info.map(a => `<div style="margin-bottom:6px; padding:6px 8px; background:#f8fafc; border-radius:8px; font-size:0.8rem;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '其他')}</span><span style="font-weight:500;">${escapeHtml(a.topic || '')}</span><span style="color:#6b7280;"> — ${escapeHtml(a.detail || '')}</span></div>`).join('') : ''}
+        ${(() => {
+          const infos = (summary.info || []).map((a, i) => ({ a, i })).filter(x => !isAiItemDismissed({ task: x.a.topic, source: 'info:' + (x.a.topic || '') }));
+          if (!infos.length) return '';
+          return `<div style="font-weight:600; margin:10px 0 6px; color:#6b7280;">信息通知（${infos.length}）</div>` + infos.map(({ a, i }) => `<div style="display:flex; gap:8px; align-items:flex-start; margin-bottom:6px; padding:6px 8px; background:#f8fafc; border-radius:8px; font-size:0.8rem;"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '其他')}</span><span style="font-weight:500;">${escapeHtml(a.topic || '')}</span><span style="color:#6b7280;"> — ${escapeHtml(a.detail || '')}</span></span><button class="dismiss-ai-info" data-ai-info-index="${i}" style="padding:2px 10px; font-size:0.72rem; flex-shrink:0; background:#fff; color:#6b7280; border:1px solid #d1d5db; border-radius:8px; cursor:pointer;">知道了</button></div>`).join('');
+        })()}
       </div>`;
     }
     html += `<div style="margin-top:12px;">
@@ -7556,6 +7820,7 @@ function circuitLabel(c) {
     } else {
       btn = `<button class="add-ai-task" data-ai-task-index="${i}" data-ai-src="other" style="padding:2px 10px; font-size:0.75rem; flex-shrink:0; background:#16a34a; color:#fff; border:none; border-radius:8px; cursor:pointer; height:26px;">加入待办</button><button class="dismiss-ai-task" data-ai-task-index="${i}" data-ai-src="other" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:none; color:#9ca3af; border:none; cursor:pointer; align-self:center;">取消</button>`;
     }
+    if (a.source) btn = `<button class="jump-ai-mail" data-ai-task-index="${i}" data-ai-src="other" title="查看原邮件" style="padding:2px 8px; font-size:0.72rem; flex-shrink:0; background:#fff; color:var(--primary); border:1px solid #d1d5db; border-radius:8px; cursor:pointer; height:26px; white-space:nowrap;">📧 原邮件</button>` + btn;
     return `<div style="display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;${dismissed ? ' opacity:0.55;' : ''}"><span style="flex:1; min-width:0;"><span style="background:${taskCategoryColor[a.category] || '#6b7280'};color:#fff;font-size:10px;padding:1px 6px;border-radius:8px;margin-right:6px;">${escapeHtml(a.category || '待办')}</span><span style="font-weight:500;">${escapeHtml(title)}</span>${a.deadline && a.deadline !== '无' ? `<span style="color:#ef4444;font-size:0.75rem;"> · 截止 ${escapeHtml(a.deadline)}</span>` : ''}${a.detail ? `<div style="color:#6b7280;font-size:0.78rem;margin-top:2px;">${escapeHtml(a.detail)}</div>` : ''}<div style="color:#9ca3af;font-size:0.72rem;margin-top:2px;">${escapeHtml(a.source || '')}</div></span>${btn}</div>`;
   }
 
@@ -7605,6 +7870,9 @@ function circuitLabel(c) {
       : allEmails.filter(e => e.category === currentEmailFilter);
     if (countEl) countEl.textContent = list.length + ' 封';
     if (!list.length) { container.innerHTML = '<div class="empty-state">没有邮件</div>'; return; }
+    // 重绘前记住：展开着原文的邮件 + 滚动位置（新邮件进来不打断正在读的邮件）
+    const openKeys = new Set(Array.from(container.querySelectorAll('details[data-ekey][open]')).map(d => d.dataset.ekey));
+    const savedScroll = window.scrollY;
     container.innerHTML = list.map((e, idx) => {
       const key = emailTaskKey(e);
       const globalIdx = allEmails.indexOf(e);
@@ -7628,7 +7896,12 @@ function circuitLabel(c) {
         <div style="font-size:0.8rem; color:#6b7280; margin-bottom:6px;">${escapeHtml(e.from)} · ${escapeHtml(e.date)}</div>
         ${e.summary ? `<div style="font-size:0.85rem; margin-bottom:4px; color:#374151;">${escapeHtml(e.summary)}</div>` : ''}
         ${e.todo && e.todo !== '无' ? `<div style="font-size:0.85rem; color:#ef4444; margin-bottom:4px;">⚠️ 待办：${escapeHtml(e.todo)}</div>` : ''}
-        <details style="font-size:0.85rem; color:#4b5563; margin-top:6px;">
+        ${e.schedule && e.schedule.date ? (() => {
+          const inSched = scheduleEvents.some(ev => ev.sourceEmailKey === key);
+          return `<div style="font-size:0.82rem; color:#1d4ed8; margin-bottom:4px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">📅 ${escapeHtml(e.schedule.title || e.subject)} · ${escapeHtml(e.schedule.date)}${e.schedule.time ? ' ' + escapeHtml(e.schedule.time) : ''}${e.schedule.location ? ' · ' + escapeHtml(e.schedule.location) : ''}
+            ${inSched ? '<span style="font-size:0.72rem; color:#9ca3af; background:#f3f4f6; padding:2px 8px; border-radius:8px;">已在日程</span>' : `<button class="btn secondary" data-sched-add="${escapeHtml(key)}" style="padding:2px 10px; font-size:0.75rem;">加入日程</button>`}</div>`;
+        })() : ''}
+        <details data-ekey="${escapeHtml(key)}"${openKeys.has(key) ? ' open' : ''} style="font-size:0.85rem; color:#4b5563; margin-top:6px;">
           <summary style="cursor:pointer; color:var(--primary); font-size:0.8rem;">查看原文</summary>
           <pre style="white-space:pre-wrap; word-break:break-word; margin-top:8px; font-family:inherit; line-height:1.6;">${escapeHtml(e.body)}</pre>
         </details>
@@ -7638,6 +7911,35 @@ function circuitLabel(c) {
     container.querySelectorAll('button[data-email-key]').forEach(btn => {
       btn.addEventListener('click', () => addTaskFromEmail(allEmails.find(e => emailTaskKey(e) === btn.dataset.emailKey)));
     });
+    container.querySelectorAll('button[data-sched-add]').forEach(btn => {
+      btn.addEventListener('click', () => addScheduleFromEmail(allEmails.find(e => emailTaskKey(e) === btn.dataset.schedAdd)));
+    });
+    if (openKeys.size || savedScroll) requestAnimationFrame(() => window.scrollTo(0, savedScroll));
+  }
+  // 邮件里识别出的日程 → 打开日程编辑器（预填），保存后标记「已在日程」
+  function addScheduleFromEmail(e) {
+    if (!e || !e.schedule) return;
+    const s = e.schedule;
+    openScheduleEditor(null, { title: s.title || e.subject, date: s.date, time: s.time || '', location: s.location || '', type: e.category === '击剑' ? 'competition' : 'other', notes: '来自邮件：' + e.subject, source: e.subject, emailKey: emailTaskKey(e) });
+  }
+  // AI 待办 → 原邮件：切到「全部」并滚动高亮
+  async function jumpToEmailBySource(source) {
+    const ns = _aiNormSource(source);
+    const find = () => {
+      let i = allEmails.findIndex(e => e.subject && _aiNormSource(e.subject) === ns);
+      if (i < 0) i = allEmails.findIndex(e => e.subject && (_aiNormSource(e.subject).includes(ns) || ns.includes(_aiNormSource(e.subject))));
+      return i;
+    };
+    const idx = find();
+    if (idx < 0) { alert('未找到这封邮件（可能已被移除）'); return; }
+    renderEmailList('all');
+    const sel = document.querySelector(`#emails-list-full .email-cat-select[data-email-index="${idx}"]`);
+    const card = sel && sel.closest('.card');
+    if (!card) return;
+    const det = card.querySelector('details'); if (det) det.open = true;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.style.boxShadow = '0 0 0 3px #f59e0b';
+    setTimeout(() => { if (card.isConnected) card.style.boxShadow = ''; }, 2500);
   }
 
   function initEmailTasks() {
@@ -7648,6 +7950,21 @@ function circuitLabel(c) {
     document.getElementById('emails-list-full')?.addEventListener('click', (e) => {
       const refreshBtn = e.target.closest('#email-ai-refresh');
       if (refreshBtn) { updateEmailAISummary(true); return; }
+      const infoBtn = e.target.closest('.dismiss-ai-info');
+      if (infoBtn) {
+        const st = getEmailAIState();
+        const a = ((st.summary && st.summary.info) || [])[parseInt(infoBtn.dataset.aiInfoIndex || '-1')];
+        if (a) { dismissAiItem({ task: a.topic, source: 'info:' + (a.topic || '') }); renderEmailList(); }
+        return;
+      }
+      const jumpBtn = e.target.closest('.jump-ai-mail');
+      if (jumpBtn) {
+        const st = getEmailAIState();
+        const lst = jumpBtn.dataset.aiSrc === 'other' ? ((st.otherTodos && st.otherTodos.items) || []) : ((st.summary && st.summary.todos) || []);
+        const a = lst[parseInt(jumpBtn.dataset.aiTaskIndex || '-1')];
+        if (a && a.source) jumpToEmailBySource(a.source);
+        return;
+      }
       const aiBtn = e.target.closest('.add-ai-task, .dismiss-ai-task, .restore-ai-task');
       if (aiBtn) {
         const idx = parseInt(aiBtn.dataset.aiTaskIndex || '-1');
@@ -7725,7 +8042,7 @@ function circuitLabel(c) {
       if (id) deleteTask(id);
       closeTaskEditor();
     });
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeTaskEditor(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.getElementById('task-editor').style.display === 'block') closeTaskEditor(); });
     // 初始化一次
     initImageLightbox();
     renderTasks();
