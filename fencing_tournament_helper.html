@@ -2726,11 +2726,6 @@ function circuitLabel(c) {
       const files = Array.from(_videoFileInput.files || []);
       _videoFileInput.value = '';
       if (!files.length) return;
-      const bad = files.filter(f => /\.(mkv|avi|wmv|flv)$/i.test(f.name));
-      if (bad.length && !confirm(`${bad.map(f => f.name).join('、')}\n\n这是浏览器/iPhone 播放不了的格式（建议 MP4），教练会看不了。仍然上传？`)) {
-        files.splice(0, files.length, ...files.filter(f => !bad.includes(f)));
-        if (!files.length) return;
-      }
       const added = files.map(f => ({ qid: 'q' + Date.now() + Math.random().toString(36).slice(2, 6), file: f, tournamentId: tournamentId || null, meta: Object.assign({}, meta), status: 'queued', loaded: 0, parts: [], fails: 0, createdAt: new Date().toISOString() }));
       _upQueue.push(...added);
       showToast(`已加入后台上传：${files.length} 个视频，可以切到别的页面`);
@@ -3122,17 +3117,15 @@ function circuitLabel(c) {
     });
   }
   // 视频缩略图格子（与教练页同款）：首帧 + ▶ + 时长 + 文件名；下方 💬 数 / 大小 + ⋯ 管理菜单
-  const _VW_BADFMT = /\.(mkv|avi|wmv|flv)$/i;
   function _videoCardHtml(v, shared, nCmt) {
     const vid = escapeHtml(v.id);
     let cell;
     if (v.type === 'youtube') {
       cell = `<a class="vw-yt" href="${escapeHtml(v.url)}" target="_blank" rel="noopener">▶ ${escapeHtml(v.name)}</a>`;
-    } else if (_VW_BADFMT.test(v.name || '')) {
-      cell = `<div class="vw-cell vw-bad" data-vid="${vid}" onclick="openFamPlayer(this.dataset.vid)"><div>⚠️ ${escapeHtml((v.name.match(/\.(\w+)$/) || ['', ''])[1].toUpperCase())} 格式浏览器播不了<br>请转成 MP4 再传</div><div class="vw-name">${escapeHtml(v.name)}</div></div>`;
     } else {
+      // 不设 src，交给 _vwThumbKick 排队加载（同时最多 2 个，iPhone 同时加载太多视频会随机失败）
       cell = `<div class="vw-cell" data-vid="${vid}" onclick="openFamPlayer(this.dataset.vid)">
-        <video muted playsinline preload="metadata" src="${escapeHtml(v.url)}#t=0.1" onloadedmetadata="vwDur(this)" onerror="vwErr(this)"></video>
+        <video muted playsinline preload="metadata" data-src="${escapeHtml(v.url)}#t=0.1" onloadedmetadata="vwDur(this)" onloadeddata="_vwThumbDone(this)" onerror="vwErr(this)"></video>
         <div class="vw-pov">▶</div><div class="vw-dur"></div><div class="vw-name">${escapeHtml(v.name)}</div></div>`;
     }
     const left = shared
@@ -3146,12 +3139,37 @@ function circuitLabel(c) {
     const o = el.parentNode.querySelector('.vw-dur');
     if (o) o.textContent = Math.floor(d / 60) + ':' + String(Math.round(d % 60)).padStart(2, '0');
   }
+  // 缩略图排队加载
+  let _vwThRun = 0;
+  function _vwThumbKick() {
+    document.querySelectorAll('.vw-cell video[data-src]:not([src])').forEach(v => { if (!v.dataset.q) v.dataset.q = '1'; });
+    while (_vwThRun < 2) {
+      const all = Array.from(document.querySelectorAll('.vw-cell video[data-q="1"]:not([src])'));
+      const v = all.find(x => x.offsetParent !== null) || all[0];   // 先加载当前页面看得到的
+      if (!v) break;
+      _vwThRun++;
+      v.dataset.q = 'loading';
+      v._vwTo = setTimeout(() => _vwThumbDone(v), 20000);
+      v.src = v.dataset.src;
+    }
+  }
+  function _vwThumbDone(v) {
+    if (v.dataset.q !== 'loading') return;
+    clearTimeout(v._vwTo);
+    v.dataset.q = 'done';
+    _vwThRun = Math.max(0, _vwThRun - 1);
+    _vwThumbKick();
+  }
+  // 缩略图加载失败：重试一次；仍失败就留深色格子（点开照样能播），不显示报错
   function vwErr(el) {
-    const c = el.parentNode;
-    c.classList.add('vw-bad');
-    el.remove();
-    const p = c.querySelector('.vw-pov');
-    if (p) p.outerHTML = '<div>⚠️ 视频加载失败</div>';
+    const retry = !el.dataset.retried;
+    _vwThumbDone(el);
+    if (retry) {
+      el.dataset.retried = '1';
+      setTimeout(() => { el.removeAttribute('src'); el.dataset.q = '1'; _vwThumbKick(); }, 1500);
+    } else {
+      el.style.visibility = 'hidden';
+    }
   }
   // ⋯ 管理菜单：共享/收回、复制链接、归档 YouTube、删除
   function vwMenu(btn) {
@@ -3287,6 +3305,7 @@ function circuitLabel(c) {
         </div>`;
       }).join('');
     }
+    _vwThumbKick();
     if (!shared) return;
     // 留言原地更新：计数 + 列表
     ordered.forEach(g => Object.values(g.bouts).forEach(b => {
@@ -3316,31 +3335,36 @@ function circuitLabel(c) {
       m.className = 'vw-player';
       document.body.appendChild(m);
     }
-    const bad = _VW_BADFMT.test(v.name || '');
     m.innerHTML = `<div class="vw-ptop">
         <div class="vw-ptitle">${escapeHtml(v.name)}</div>
         <button class="vw-pclose" onclick="closeFamPlayer()" aria-label="关闭">✕</button>
       </div>
-      <div class="vw-pvid">${bad
-        ? '<div class="vw-pbad">⚠️ 这个格式（' + escapeHtml((v.name.match(/\.(\w+)$/) || ['', ''])[1].toUpperCase()) + '）浏览器和 iPhone 播放不了<br>请转成 MP4 后重新上传</div>'
-        : `<video id="fp-video" controls playsinline autoplay preload="auto" src="${escapeHtml(v.url)}"></video>`}</div>
+      <div class="vw-pvid"><video id="fp-video" controls playsinline autoplay preload="auto" src="${escapeHtml(v.url)}"></video></div>
       <div class="vw-pbody">
         <div class="vw-pmeta">${escapeHtml([videoTKey(v) === '_other' ? '' : videoTKey(v), v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '))}</div>
-        ${v.share ? '<b style="font-size:0.85rem; color:#3730a3;">💬 本场留言</b><div id="fp-cmts"></div>' + _replyBox(boutCmtId(v), true) : '<div style="font-size:0.8rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
+        ${v.share ? '<b id="fp-cmt-title" style="font-size:0.85rem; color:#3730a3;">💬 这个片段的留言</b><div id="fp-cmts"></div>' + _replyBox(v.id, true) : '<div style="font-size:0.8rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
       </div>`;
     m.style.display = 'flex';
     document.body.style.overflow = 'hidden';
     const vd = document.getElementById('fp-video');
-    if (vd) vd.addEventListener('timeupdate', () => { const t = m.querySelector('.vw-vtt'); if (t) t.textContent = fmtVT(vd.currentTime); });
+    if (vd) {
+      vd.addEventListener('timeupdate', () => { const t = m.querySelector('.vw-vtt'); if (t) t.textContent = fmtVT(vd.currentTime); });
+      // 真正播不了时才提示（按实际解码结果判断，不按文件扩展名）
+      vd.addEventListener('error', () => { vd.parentNode.innerHTML = '<div class="vw-pbad">⚠️ 这个视频在当前浏览器播放不了<br>可以换 Chrome / Safari 试试，或转成 MP4 后重新上传</div>'; });
+    }
     if (v.share) _fpRenderCmts();
   }
+  // 播放器只列这个片段的留言，数量与列表上该视频的 💬 N 一致；整场留言在列表对阵下的「💬 N 条留言」里看
   function _fpRenderCmts() {
     const el = document.getElementById('fp-cmts');
     const v = videos.find(x => x.id === _fpVid);
     if (!el || !v) return;
-    const bk = boutCmtId(v);
-    const vids = videos.filter(x => x.share === true && boutCmtId(x) === bk).sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || ''));
-    el.innerHTML = _boutCmtListHtml(vids.length ? vids : [v], _boutCmts(vids.length ? vids : [v]), v.id);
+    const cmts = [];
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => { if (cm.videoId === v.id) cmts.push({ ...cm, coachName: c.name, coachToken: c.token }); }));
+    cmts.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
+    el.innerHTML = _boutCmtListHtml([v], cmts, v.id);
+    const t = document.getElementById('fp-cmt-title');
+    if (t) t.textContent = `💬 这个片段的留言 · ${cmts.length} 条`;
     _vwAuSync();
   }
   function famSeek(t) {
@@ -3366,6 +3390,7 @@ function circuitLabel(c) {
       const btn = document.querySelector('#video-subtabs button[data-vtab="' + s + '"]');
       if (btn) { btn.classList.toggle('active', s === tab); btn.classList.toggle('secondary', s !== tab); }
     });
+    _vwThumbKick();
   }
   function renderVideoWall() {
     renderWallInto('video-wall-private', videos.filter(v => !v.share), false);

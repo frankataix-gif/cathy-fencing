@@ -499,6 +499,8 @@ function renderCoachPage(token, meta, t) {
   .vcell video.thv{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0.01;pointer-events:none}
   .vcell video.thv.show{opacity:1}
   .vcell.nothumb{background:linear-gradient(135deg,#1e293b,#334155)}
+  .segc{cursor:pointer}
+  .seglab{display:inline-block;background:#e2e8f0;color:#475569;font-size:0.62rem;font-weight:700;padding:0 6px;border-radius:6px;margin-right:4px}
   .vcell .pov{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.6rem;background:rgba(0,0,0,.18)}
   .vcell .dur{position:absolute;right:5px;bottom:5px;background:rgba(0,0,0,.72);color:#fff;font-size:0.65rem;padding:1px 6px;border-radius:6px}
   .vcell .newtag{position:absolute;left:5px;top:5px;background:#ef4444;color:#fff;font-size:0.62rem;font-weight:700;padding:1px 6px;border-radius:6px}
@@ -1011,9 +1013,19 @@ function render(){
   // 留言原地更新 + 计数刷新
   document.querySelectorAll(".bout").forEach(el => {
     const bcid = el.dataset.bcid;
-    const bc = cmts.filter(c => c.videoId === bcid);
+    // 本场留言 = 对阵级留言 + 各片段留言（与家长端一致），片段留言标 [🎬N]，点击打开该片段并跳到时间点
+    const segIds = Array.from(el.querySelectorAll(".vbtn")).map(b => b.dataset.vid);
+    const bc = cmts.filter(c => c.videoId === bcid || segIds.includes(c.videoId)).sort((a, b) => (a.ts || "").localeCompare(b.ts || ""));
     const ce = el.querySelector(".cbody .cmts");
-    if(ce && !ce.querySelector(".cmtmenu")){ ce.innerHTML = bc.map(cmtHtml).join(""); auSync(); auTickA(); }
+    if(ce && !ce.querySelector(".cmtmenu")){
+      ce.innerHTML = bc.map(c => {
+        const i = segIds.indexOf(c.videoId);
+        if(i < 0) return cmtHtml(c, false);
+        const lab = segIds.length > 1 ? "<span class='seglab'>🎬" + (i + 1) + "</span>" : "";
+        return "<div class='segc' data-vid='" + escH(c.videoId) + "' data-vt='" + (c.vt != null ? c.vt : "") + "' onclick='openAt(this.dataset.vid, parseFloat(this.dataset.vt))'>" + cmtHtml(c, false).replace("<div class='who'>", "<div class='who'>" + lab) + "</div>";
+      }).join("");
+      auSync(); auTickA();
+    }
     const btn = el.querySelector(".cbtn");
     if(btn) btn.innerHTML = "💬 " + bc.length + " " + escH(T.boutCmt) + (bc.length ? " · " + ago(bc[bc.length-1].ts) : "");
     el.querySelectorAll(".vbtn").forEach(b => {
@@ -1024,6 +1036,12 @@ function render(){
   // 分析面板打开时同步刷新其留言
   if(apVid) apRenderCmts();
   thumbsKick();
+}
+function openAt(vid, vt){
+  openAnalysis(vid);
+  if(!apV || isNaN(vt)) return;
+  const go = function(){ apSeekTo(vt); };
+  if(apV.readyState >= 1) go(); else apV.addEventListener("loadedmetadata", go, { once: true });
 }
 // ===== 缩略图：排队加载（同时最多 2 个，避免 iPhone 同时加载太多视频而报错）→ 截首帧存本地 → 释放视频 =====
 const THUMBS = {};
