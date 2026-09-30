@@ -903,6 +903,7 @@ function showAppUpdateBanner() {
   if (tabs) tabs.style.top = (h + headerH) + 'px';
   document.getElementById('sw-update-btn').addEventListener('click', async (ev) => {
     const btn = ev.currentTarget;
+    if (typeof _upActive === 'function' && _upActive() && !confirm('视频还在后台上传，现在更新会中断上传。确定更新？')) return;
     btn.textContent = '更新中…';
     btn.disabled = true;
     try {
@@ -2472,10 +2473,37 @@ function circuitLabel(c) {
   }
   function videoKeyFromUrl(url) { const m = String(url || '').match(/\/video\/(.+)$/); return m ? decodeURIComponent(m[1]) : ''; }
   function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
-  // 分片上传视频到 R2（经 Worker，15MB/片，带进度回调与重试）
+  // 等到页面回到前台且联网（App 切后台/断网时分片会失败，回来后再续传）
+  function _waitUsable() {
+    return new Promise(res => {
+      const ok = () => document.visibilityState === 'visible' && navigator.onLine !== false;
+      if (ok()) return res();
+      const chk = () => { if (ok()) { document.removeEventListener('visibilitychange', chk); window.removeEventListener('online', chk); res(); } };
+      document.addEventListener('visibilitychange', chk);
+      window.addEventListener('online', chk);
+    });
+  }
+  // 单个分片用 XHR 上传，拿到字节级进度
+  function _putPart(url, blob, onBytes) {
+    return new Promise((resolve, reject) => {
+      const x = new XMLHttpRequest();
+      x.open('POST', url);
+      x.upload.onprogress = e => { if (e.lengthComputable && onBytes) onBytes(e.loaded); };
+      x.onload = () => {
+        let j = {}; try { j = JSON.parse(x.responseText || '{}'); } catch(e) {}
+        if (x.status >= 200 && x.status < 300 && !j.error) resolve(j); else reject(new Error(j.error || 'HTTP ' + x.status));
+      };
+      x.onerror = () => reject(new Error('network'));
+      x.ontimeout = () => reject(new Error('timeout'));
+      x.timeout = 180000;
+      x.send(blob);
+    });
+  }
+  // 分片上传视频到 R2（经 Worker，15MB/片）；onProgress(已传字节, 总字节)；分片失败会等回前台/联网后续传
   async function uploadVideoFile(file, onProgress) {
     const wurl = CATHY_VIDEO_WORKER_URL.replace(/\/+$/, '');
     const CHUNK = 15 * 1024 * 1024;
+    await _waitUsable();
     const initRes = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ action: 'video_init', name: file.name, contentType: file.type || 'video/mp4' }) });
     const init = await initRes.json();
@@ -2485,19 +2513,21 @@ function circuitLabel(c) {
     const total = Math.max(1, Math.ceil(file.size / CHUNK));
     try {
       for (let i = 0; i < total; i++) {
-        const blob = file.slice(i * CHUNK, Math.min(file.size, (i + 1) * CHUNK));
+        const start = i * CHUNK;
+        const blob = file.slice(start, Math.min(file.size, start + CHUNK));
         let done = null, lastErr = null;
-        for (let attempt = 0; attempt < 3 && !done; attempt++) {
+        for (let attempt = 0; attempt < 8 && !done; attempt++) {
+          if (attempt) { await _waitUsable(); await new Promise(r => setTimeout(r, Math.min(15000, 1500 * attempt))); }
           try {
-            const r = await fetch(`${wurl}/video-part?key=${encodeURIComponent(key)}&uploadId=${encodeURIComponent(uploadId)}&part=${i + 1}`, { method: 'POST', body: blob });
-            const j = await r.json();
-            if (r.ok && !j.error) done = j; else lastErr = new Error(j.error || 'HTTP ' + r.status);
+            done = await _putPart(`${wurl}/video-part?key=${encodeURIComponent(key)}&uploadId=${encodeURIComponent(uploadId)}&part=${i + 1}`, blob,
+              b => onProgress && onProgress(start + b, file.size));
           } catch(e) { lastErr = e; }
         }
         if (!done) throw lastErr || new Error('part failed');
         parts.push({ partNumber: done.partNumber, etag: done.etag });
-        if (onProgress) onProgress((i + 1) / total);
+        if (onProgress) onProgress(start + blob.size, file.size);
       }
+      await _waitUsable();
       const fin = await fetch(wurl + '/', { method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'video_complete', key, uploadId, parts }) });
       const fj = await fin.json();
@@ -2525,31 +2555,116 @@ function circuitLabel(c) {
       _videoFileInput = document.createElement('input');
       _videoFileInput.type = 'file';
       _videoFileInput.accept = 'video/*';
+      _videoFileInput.multiple = true;
       _videoFileInput.style.display = 'none';
       document.body.appendChild(_videoFileInput);
     }
-    _videoFileInput.onchange = async () => {
-      const f = _videoFileInput.files && _videoFileInput.files[0];
+    _videoFileInput.onchange = () => {
+      const files = Array.from(_videoFileInput.files || []);
       _videoFileInput.value = '';
-      if (!f) return;
-      const orig = btn ? btn.textContent : '';
-      if (btn) { btn.disabled = true; btn.textContent = '上传中 0%'; }
-      try {
-        const r = await uploadVideoFile(f, (p) => { if (btn) btn.textContent = '上传中 ' + Math.round(p * 100) + '%'; });
-        videos.push(Object.assign({
-          id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
-          name: f.name, url: r.url, key: r.key, size: f.size,
-          uploadedAt: new Date().toISOString(),
-          tournamentId: tournamentId || null, type: 'r2', share: false
-        }, meta));
-        saveVideos();
-        refreshVideoViews();
-      } catch(e) {
-        alert('视频上传失败：' + e.message);
+      if (!files.length) return;
+      const bad = files.filter(f => /\.(mkv|avi|wmv|flv)$/i.test(f.name));
+      if (bad.length && !confirm(`${bad.map(f => f.name).join('、')}\n\n这是浏览器/iPhone 播放不了的格式（建议 MP4），教练会看不了。仍然上传？`)) {
+        files.splice(0, files.length, ...files.filter(f => !bad.includes(f)));
+        if (!files.length) return;
       }
-      if (btn) { btn.disabled = false; btn.textContent = orig; }
+      files.forEach(f => _upQueue.push({ qid: 'q' + Date.now() + Math.random().toString(36).slice(2, 6), file: f, tournamentId: tournamentId || null, meta: Object.assign({}, meta), status: 'queued', loaded: 0 }));
+      showToast(`已加入后台上传：${files.length} 个视频，可以切到别的页面`);
+      _upRender();
+      _upRun();
     };
     _videoFileInput.click();
+  }
+
+  // ===== 后台上传队列：与页面/按钮解耦，切 tab、列表重绘都不影响；逐个上传 =====
+  const _upQueue = [];
+  let _upBusy = false, _upWake = null, _upFold = false;
+  function _upActive() { return _upQueue.some(q => q.status === 'queued' || q.status === 'uploading'); }
+  async function _upKeepAwake(on) {
+    try {
+      if (on && !_upWake && navigator.wakeLock) { _upWake = await navigator.wakeLock.request('screen'); _upWake.addEventListener('release', () => { _upWake = null; }); }
+      if (!on && _upWake) { await _upWake.release(); _upWake = null; }
+    } catch(e) {}
+  }
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && _upActive()) _upKeepAwake(true); });
+  window.addEventListener('beforeunload', e => { if (_upActive()) { e.preventDefault(); e.returnValue = '视频还在上传，离开会中断'; return e.returnValue; } });
+  async function _upRun() {
+    if (_upBusy) return;
+    _upBusy = true;
+    _upKeepAwake(true);
+    let q;
+    while ((q = _upQueue.find(x => x.status === 'queued'))) {
+      q.status = 'uploading'; q.loaded = 0; _upRender();
+      try {
+        const r = await uploadVideoFile(q.file, (b) => { q.loaded = b; _upRender(); });
+        videos.push(Object.assign({
+          id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
+          name: q.file.name, url: r.url, key: r.key, size: q.file.size,
+          uploadedAt: new Date().toISOString(),
+          tournamentId: q.tournamentId, type: 'r2', share: false
+        }, q.meta));
+        saveVideos();
+        refreshVideoViews();
+        q.status = 'done'; q.loaded = q.file.size;
+      } catch(e) {
+        q.status = 'error'; q.err = e.message || String(e);
+      }
+      _upRender();
+    }
+    _upBusy = false;
+    _upKeepAwake(false);
+    const ok = _upQueue.filter(x => x.status === 'done').length, bad = _upQueue.filter(x => x.status === 'error').length;
+    if (ok || bad) showToast(bad ? `上传完成 ${ok} 个，失败 ${bad} 个（可点重试）` : `✅ ${ok} 个视频已全部上传`);
+  }
+  function upRetry(qid) { const q = _upQueue.find(x => x.qid === qid); if (q) { q.status = 'queued'; q.err = ''; _upRender(); _upRun(); } }
+  function upRemove(qid) {
+    const i = _upQueue.findIndex(x => x.qid === qid);
+    if (i >= 0 && _upQueue[i].status !== 'uploading') { _upQueue.splice(i, 1); _upRender(); }
+  }
+  function upClearDone() { for (let i = _upQueue.length - 1; i >= 0; i--) if (_upQueue[i].status === 'done') _upQueue.splice(i, 1); _upRender(); }
+  function upToggleFold() { _upFold = !_upFold; _upRender(); }
+  let _upRaf = 0;
+  function _upRender() {
+    if (_upRaf) return;
+    _upRaf = requestAnimationFrame(() => { _upRaf = 0; _upPaint(); });
+  }
+  function _upPaint() {
+    let el = document.getElementById('upload-panel');
+    if (!_upQueue.length) { if (el) el.remove(); return; }
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'upload-panel';
+      el.style.cssText = 'position:fixed; left:12px; bottom:calc(76px + env(safe-area-inset-bottom)); width:min(calc(100vw - 24px), 380px); max-height:50vh; overflow-y:auto; background:#fff; border:1px solid #e2e8f0; border-radius:12px; box-shadow:0 8px 24px rgba(15,23,42,.18); z-index:9998; font-size:0.8rem;';
+      document.body.appendChild(el);
+    }
+    const tot = _upQueue.reduce((s, q) => s + q.file.size, 0);
+    const got = _upQueue.reduce((s, q) => s + (q.status === 'done' ? q.file.size : (q.loaded || 0)), 0);
+    const nDone = _upQueue.filter(q => q.status === 'done').length;
+    const pct = tot ? Math.floor(got / tot * 100) : 0;
+    const active = _upActive();
+    const head = `<div style="display:flex; align-items:center; gap:8px; padding:10px 12px; cursor:pointer; ${_upFold ? '' : 'border-bottom:1px solid #eef2f7;'}" onclick="upToggleFold()">
+      <b style="flex:1;">${active ? '⏫ 后台上传中' : '上传完成'} · ${nDone}/${_upQueue.length} · ${pct}%</b>
+      ${!active && nDone ? `<button class="btn secondary" style="font-size:0.72rem; padding:3px 10px;" onclick="event.stopPropagation(); upClearDone()">清除</button>` : ''}
+      <span style="color:#64748b;">${_upFold ? '▲' : '▼'}</span>
+    </div>`;
+    const bar = (p, color) => `<div style="height:6px; background:#e2e8f0; border-radius:999px; overflow:hidden; margin-top:4px;"><div style="height:100%; width:${p}%; background:${color}; transition:width .3s;"></div></div>`;
+    const rows = _upFold ? '' : _upQueue.map(q => {
+      const p = q.status === 'done' ? 100 : Math.floor((q.loaded || 0) / (q.file.size || 1) * 100);
+      const st = q.status === 'done' ? '<span style="color:#16a34a;">✅ 完成</span>'
+        : q.status === 'error' ? `<span style="color:#ef4444;">失败</span> <button class="btn" style="font-size:0.7rem; padding:2px 8px;" onclick="upRetry('${q.qid}')">重试</button> <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="upRemove('${q.qid}')">移除</button>`
+        : q.status === 'uploading' ? `<span style="color:#2563eb;">${p}%</span>`
+        : `<span style="color:#64748b;">排队中</span> <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="upRemove('${q.qid}')">移除</button>`;
+      const where = [q.meta.tournamentName, q.meta.boutLabel, q.meta.opponent ? 'vs ' + q.meta.opponent : ''].filter(Boolean).join(' · ');
+      return `<div style="padding:8px 12px; border-bottom:1px solid #f1f5f9;">
+        <div style="display:flex; align-items:center; gap:6px;">
+          <span style="flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-weight:600;">🎬 ${escapeHtml(q.file.name)}</span>
+          <span style="white-space:nowrap;">${st}</span>
+        </div>
+        <div style="color:#94a3b8; font-size:0.7rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${fmtBytes(q.loaded || 0) || '0MB'} / ${fmtBytes(q.file.size)}${where ? ' · ' + escapeHtml(where) : ''}${q.err ? ' · ' + escapeHtml(q.err) : ''}</div>
+        ${q.status === 'done' ? '' : bar(p, q.status === 'error' ? '#ef4444' : '#2563eb')}
+      </div>`;
+    }).join('');
+    el.innerHTML = head + rows;
   }
 
   function shareVideoText(v) {
