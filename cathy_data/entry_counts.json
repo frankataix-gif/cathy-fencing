@@ -44772,14 +44772,21 @@
     "total": 0
   },
   "nashville-challenge-ryc-rjcc-l-2026-10-17-mtsu-campus-recreation-murfreesboro-tn": {
-    "fetched_at": "2026-09-29T17:12:57.165489Z",
+    "fetched_at": "2026-09-30T02:51:38.785375Z",
     "counts": {
       "Y14WF": 9,
-      "Y12WF": 10,
-      "CDTWF": 5
+      "CDTWF": 5,
+      "Y12WF": 10
     },
     "names": {
       "Y14WF": [
+        {
+          "name": "Ewing, Bonne",
+          "club": "Fencing TN Alliance",
+          "division": "Tennessee",
+          "member_num": "101823617",
+          "status": ""
+        },
         {
           "name": "Friedman, Mayvin",
           "club": "Birmingham Fencing Club",
@@ -44809,13 +44816,6 @@
           "status": ""
         },
         {
-          "name": "Reilly, Carys",
-          "club": "OnTarget Fencing Club",
-          "division": "Maryland",
-          "member_num": "100314119",
-          "status": ""
-        },
-        {
           "name": "Searcy, Lena",
           "club": "Birmingham Fencing Club",
           "division": "Alabama",
@@ -44841,6 +44841,43 @@
           "club": "Research Triangle Fencing",
           "division": "North Carolina",
           "member_num": "100478473",
+          "status": ""
+        }
+      ],
+      "CDTWF": [
+        {
+          "name": "Chan, Ella",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100293397",
+          "status": ""
+        },
+        {
+          "name": "Dai, Iris Yuyang",
+          "club": "Golubitsky Fencing Center",
+          "division": "US Fencing",
+          "member_num": "100353113",
+          "status": ""
+        },
+        {
+          "name": "Ewing, Bonne",
+          "club": "Fencing TN Alliance",
+          "division": "Tennessee",
+          "member_num": "101823617",
+          "status": ""
+        },
+        {
+          "name": "Norman, Lyla",
+          "club": "Fencing TN Alliance",
+          "division": "Tennessee",
+          "member_num": "102448453",
+          "status": ""
+        },
+        {
+          "name": "Teplova, Elizabeth",
+          "club": "Fioretto Fencing Academy",
+          "division": "Gateway Florida",
+          "member_num": "100851120",
           "status": ""
         }
       ],
@@ -44913,43 +44950,6 @@
           "club": "Research Triangle Fencing",
           "division": "North Carolina",
           "member_num": "100478473",
-          "status": ""
-        }
-      ],
-      "CDTWF": [
-        {
-          "name": "Chan, Ella",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100293397",
-          "status": ""
-        },
-        {
-          "name": "Dai, Iris Yuyang",
-          "club": "Golubitsky Fencing Center",
-          "division": "US Fencing",
-          "member_num": "100353113",
-          "status": ""
-        },
-        {
-          "name": "Norman, Lyla",
-          "club": "Fencing TN Alliance",
-          "division": "Tennessee",
-          "member_num": "102448453",
-          "status": ""
-        },
-        {
-          "name": "Reilly, Carys",
-          "club": "OnTarget Fencing Club",
-          "division": "Maryland",
-          "member_num": "100314119",
-          "status": ""
-        },
-        {
-          "name": "Teplova, Elizabeth",
-          "club": "Fioretto Fencing Academy",
-          "division": "Gateway Florida",
-          "member_num": "100851120",
           "status": ""
         }
       ]
