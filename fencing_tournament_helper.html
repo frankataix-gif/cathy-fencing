@@ -2790,7 +2790,7 @@ function circuitLabel(c) {
       videos.push(Object.assign({
         id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8),
         name: q.file.name, url: r.url, key: r.key, size: q.file.size,
-        uploadedAt: new Date().toISOString(),
+        uploadedAt: new Date().toISOString(), updatedAt: new Date().toISOString(),
         tournamentId: q.tournamentId, type: 'r2', share: false
       }, q.meta));
       saveVideos();
@@ -3131,6 +3131,7 @@ function circuitLabel(c) {
     const v = videos.find(x => x.id === id);
     if (!v) return;
     v.share = !v.share;
+    v.updatedAt = new Date().toISOString();
     saveVideos();
     refreshVideoViews();
   }
@@ -3141,7 +3142,8 @@ function circuitLabel(c) {
   }
   // 整组（一个赛事/活动）批量共享或收回
   function setGroupShare(tKey, share) {
-    videos.forEach(v => { if (videoTKey(v) === tKey) v.share = share; });
+    const now = new Date().toISOString();
+    videos.forEach(v => { if (videoTKey(v) === tKey) { v.share = share; v.updatedAt = now; } });
     saveVideos();
     refreshVideoViews();
   }
@@ -3560,10 +3562,16 @@ function circuitLabel(c) {
       }
       if (Array.isArray(data.videos)) {
         const vt = getVideoTombstones();
-        videos = videos.filter(v => !(v && v.id && vt[v.id]));
+        const vts = (v) => (v && (v.updatedAt || v.uploadedAt)) || '';
+        videos = videos.filter(v => !(v && v.id && vt[v.id] && vts(v) <= vt[v.id]));
         const byId = {};
         videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
-        data.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id] && !vt[rv.id]) videos.push(rv); });
+        data.videos.forEach(rv => {
+          if (!rv || !rv.id || (vt[rv.id] && vts(rv) <= vt[rv.id])) return;
+          const lv = byId[rv.id];
+          if (!lv) videos.push(rv);
+          else if (vts(rv) > vts(lv)) Object.assign(lv, rv);
+        });
         saveToLocal('cathy_videos', JSON.stringify(videos));
       }
       // 合并远端墓碑（多设备删除同步）
@@ -4052,7 +4060,7 @@ function circuitLabel(c) {
       if (!yt || !yt.trim()) return;
       if (!yt.includes('youtu')) { alert('看起来不是 YouTube 链接'); return; }
       const name = prompt('视频名称（如：2026-09 BBFC Y12 决赛）：', '比赛视频') || '比赛视频';
-      videos.push({ id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8), name: name.trim(), url: yt.trim(), size: 0, uploadedAt: new Date().toISOString(), tournamentId: null, type: 'youtube' });
+      videos.push({ id: 'v_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8), name: name.trim(), url: yt.trim(), size: 0, uploadedAt: new Date().toISOString(), updatedAt: new Date().toISOString(), tournamentId: null, type: 'youtube' });
       saveVideos();
       renderVideoLibrary();
     });
@@ -4318,12 +4326,18 @@ function circuitLabel(c) {
           Object.entries(remote.videoTombstones).forEach(([id, ts]) => { if (!vidTombs[id] || vidTombs[id] < ts) vidTombs[id] = ts; });
           try { localStorage.setItem('cathy_video_tombstones', JSON.stringify(vidTombs)); } catch(e2) {}
         }
-        // 视频记录：按 id 并集，跳过墓碑
+        // 视频记录：按 id 合并，updatedAt（回落 uploadedAt）新者胜，墓碑拦截已删视频复活
         if (remote && Array.isArray(remote.videos)) {
-          videos = videos.filter(v => !(v && v.id && vidTombs[v.id]));
+          const vts = (v) => (v && (v.updatedAt || v.uploadedAt)) || '';
+          videos = videos.filter(v => !(v && v.id && vidTombs[v.id] && vts(v) <= vidTombs[v.id]));
           const byId = {};
           videos.forEach(v => { if (v && v.id) byId[v.id] = v; });
-          remote.videos.forEach(rv => { if (rv && rv.id && !byId[rv.id] && !vidTombs[rv.id]) videos.push(rv); });
+          remote.videos.forEach(rv => {
+            if (!rv || !rv.id || (vidTombs[rv.id] && vts(rv) <= vidTombs[rv.id])) return;
+            const lv = byId[rv.id];
+            if (!lv) videos.push(rv);
+            else if (vts(rv) > vts(lv)) Object.assign(lv, rv);
+          });
           saveUIToLocal('cathy_videos', JSON.stringify(videos));
         }
       }
