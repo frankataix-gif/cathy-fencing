@@ -688,7 +688,7 @@ function openAnalysis(vid){
     apV.removeAttribute("poster");
     // 先用列表缩略图的首帧做海报，视频加载前不黑屏
     try{
-      const t = document.querySelector("video[src='" + v.url + "']");
+      const t = document.querySelector(".vcell[data-vid='" + v.id + "'] video");
       if(t && t.readyState >= 2 && t.videoWidth){
         const cv = document.createElement("canvas");
         cv.width = t.videoWidth; cv.height = t.videoHeight;
@@ -997,7 +997,7 @@ function render(){
                 const cell = v.youtube
                   ? "<a class='ytcell' href='" + escH(v.url) + "' target='_blank' rel='noopener'>▶ " + escH(v.name) + "</a>"
                   : "<div class='vcell' data-vid='" + escH(v.id) + "' onclick='openAnalysis(this.dataset.vid)'>" +
-                    "<video muted playsinline preload='metadata' src='" + escH(v.url) + "' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
+                    "<video muted playsinline preload='metadata' src='" + escH(v.url) + "#t=0.1' onloadedmetadata='durSet(this)' onerror='vidErr(this)'></video>" +
                     "<div class='pov'>▶</div><div class='dur'></div>" +
                     (isN ? "<div class='newtag'>NEW</div>" : "") +
                     "<div class='vname'>" + escH(v.name) + "</div></div>";

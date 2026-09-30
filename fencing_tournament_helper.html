@@ -455,6 +455,48 @@
     .vw-pbad { color:#fca5a5; text-align:center; padding:48px 16px; font-size:0.85rem; line-height:1.6; }
     .vw-pbody { flex:1; overflow-y:auto; background:#f8fafc; padding:10px 12px calc(12px + env(safe-area-inset-bottom)); }
     .vw-pmeta { font-size:0.78rem; color:#475569; margin-bottom:8px; }
+    /* 留言气泡 */
+    .vw-cmt { font-size:0.88rem; padding:8px 10px; border-radius:10px; margin-bottom:6px; line-height:1.45; }
+    .vw-coach { background:#eff6ff; }
+    .vw-fam { background:#f0fdf4; }
+    .vw-chead { display:flex; align-items:center; gap:6px; font-size:0.74rem; color:#94a3b8; }
+    .vw-cwho { color:#1d4ed8; font-size:0.78rem; }
+    .vw-cto { color:#64748b; }
+    .vw-cts { color:#94a3b8; }
+    .vw-cact { border:none; background:none; color:#2563eb; font-size:0.76rem; padding:4px 6px; cursor:pointer; border-radius:6px; }
+    .vw-cact:active { background:rgba(37,99,235,.1); }
+    .vw-cdel { color:#ef4444; }
+    .vw-cmeta { margin-top:3px; display:flex; flex-wrap:wrap; gap:4px; align-items:center; }
+    .vw-ctag { background:#e0e7ff; color:#3730a3; font-size:0.68rem; font-weight:600; padding:1px 8px; border-radius:999px; }
+    .vw-cvt { color:#2563eb; font-size:0.74rem; font-weight:700; }
+    .vw-ctext { margin-top:3px; color:#0f172a; word-break:break-word; }
+    .vw-corig { color:#3b82f6; font-size:0.72rem; cursor:pointer; white-space:nowrap; }
+    .vw-origtxt { margin-top:4px; padding:5px 8px; background:#f8fafc; border-radius:6px; font-size:0.8rem; color:#64748b; }
+    .vw-au { display:flex; align-items:center; gap:8px; margin-top:5px; }
+    .vw-aub { width:36px; height:36px; flex:none; border:none; border-radius:50%; background:#2563eb; color:#fff; font-size:0.85rem; cursor:pointer; }
+    .vw-aubar { flex:1; height:5px; background:#cbd5e1; border-radius:999px; overflow:hidden; }
+    .vw-aupg { height:100%; width:0; background:#2563eb; }
+    .vw-autm { font-size:0.72rem; color:#64748b; min-width:64px; text-align:right; }
+    /* 回复框 */
+    .vw-reply { margin-top:8px; }
+    .vw-pbody .vw-reply { position:sticky; bottom:calc(-12px - env(safe-area-inset-bottom)); background:#f8fafc; padding:8px 0 calc(8px + env(safe-area-inset-bottom)); border-top:1px solid #e2e8f0; }
+    .vw-to { display:flex; align-items:center; gap:6px; flex-wrap:wrap; font-size:0.76rem; color:#64748b; margin-bottom:6px; }
+    .vw-chip { border:1px solid #cbd5e1; background:#fff; color:#334155; border-radius:999px; padding:5px 12px; font-size:0.78rem; cursor:pointer; }
+    .vw-chip.on { background:#2563eb; border-color:#2563eb; color:#fff; }
+    .vw-vtchip { margin-top:6px; }
+    .vw-rrow { display:flex; gap:6px; align-items:center; }
+    .vw-rin { flex:1; min-width:0; box-sizing:border-box; height:44px; font-size:16px; padding:0 12px; border:1px solid #cbd5e1; border-radius:22px; background:#fff; }
+    .vw-rin:focus { outline:none; border-color:#2563eb; }
+    .vw-send { height:44px; padding:0 16px; border:none; border-radius:22px; background:var(--primary); color:#fff; font-size:0.88rem; font-weight:600; cursor:pointer; white-space:nowrap; }
+    .vw-send:disabled { opacity:.6; }
+    .vw-mic { width:44px; height:44px; flex:none; border:1px solid #cbd5e1; border-radius:50%; background:#fff; font-size:1.1rem; cursor:pointer; }
+    .vw-recbar { align-items:center; gap:8px; height:44px; padding:0 6px 0 14px; background:#fef2f2; border:1px solid #fecaca; border-radius:22px; color:#b91c1c; font-size:0.88rem; }
+    .vw-recdot { animation:vwBlink 1s infinite; }
+    @keyframes vwBlink { 50% { opacity:.2; } }
+    .vw-rect { font-variant-numeric:tabular-nums; font-weight:700; }
+    .vw-recok { height:34px; padding:0 14px; border:none; border-radius:17px; background:#ef4444; color:#fff; font-weight:600; cursor:pointer; }
+    .vw-recx { width:34px; height:34px; border:none; border-radius:50%; background:#fff; color:#64748b; cursor:pointer; }
+    .vw-noco { font-size:0.8rem; color:#94a3b8; padding:6px 0; }
   </style>
 </head>
 <body>
@@ -2503,17 +2545,6 @@ function circuitLabel(c) {
       } catch(e) {}
     }
   }
-  async function familyComment(coachId, videoId, inputEl) {
-    const c = coaches.find(x => x.id === coachId);
-    if (!c) { alert('先创建教练链接'); return; }
-    const text = (inputEl.value || '').trim();
-    if (!text) return;
-    inputEl.value = '';
-    try {
-      const r = await videoWorkerPost({ action: 'comment_add', token: c.token, videoId, author: 'family', text });
-      if (r.comment) { (coachComments[c.token] = coachComments[c.token] || []).push(r.comment); renderVideoWall(); }
-    } catch(e) { inputEl.value = text; alert('发送失败'); }
-  }
   function videoKeyFromUrl(url) { const m = String(url || '').match(/\/video\/(.+)$/); return m ? decodeURIComponent(m[1]) : ''; }
   function fmtBytes(n) { if (!n) return ''; return n >= 1073741824 ? (n/1073741824).toFixed(1)+'GB' : (n/1048576).toFixed(0)+'MB'; }
   // 等到页面回到前台且联网（App 切后台/断网时分片会失败，回来后再续传）
@@ -2902,14 +2933,21 @@ function circuitLabel(c) {
     const hasOrig = c.author === 'coach' && (c.familyText || c.zhText) && (c.familyText || c.zhText) !== c.text;
     const oid = 'orig_' + c.id;
     const tagKeys = (Array.isArray(c.tags) && c.tags.length ? c.tags : (c.tag ? [c.tag] : []));
-    const tagH = tagKeys.map(k => CMT_TAGS[k] ? `<span style="display:inline-block; background:#e0e7ff; color:#3730a3; font-size:0.66rem; font-weight:600; padding:0 7px; border-radius:999px; margin-right:4px;">${CMT_TAGS[k]}</span>` : '').join('');
-    const vtH = c.vt != null ? `<span style="color:#2563eb; font-size:0.72rem; font-weight:700; margin-right:4px;">⏱${fmtVT(c.vt)}</span>` : '';
-    const delH = (c.coachToken && c.id && !String(c.id).startsWith('tmp_')) ? `<span style="cursor:pointer; float:right; font-size:0.72rem; color:#ef4444; padding:0 2px;" onclick="event.stopPropagation();delCoachCmt('${escapeHtml(c.coachToken)}','${escapeHtml(c.id)}')" title="删除这条留言">✕</span>` : '';
-    return `<div style="font-size:0.8rem; padding:4px 8px; border-radius:6px; margin-bottom:3px; ${c.author === 'coach' ? 'background:#eff6ff;' : 'background:#f0fdf4;'}">
-      ${delH}<span style="font-size:0.68rem; color:#94a3b8;">${tagH}${vtH}${c.author === 'coach' ? '🎓 ' + escapeHtml(c.coachName || '教练') : '👨‍👩‍👧 家长'}${c.orphan ? ' · 未关联视频' : ''} · ${(c.ts || '').slice(5, 16).replace('T', ' ')}</span>${hasOrig ? `<span style="cursor:pointer; font-size:0.7rem; color:#3b82f6; margin-left:4px;" onclick="const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐</span>` : ''}<br>
-      ${hasOrig ? `<div id="${oid}" style="display:none; margin-top:2px; padding:4px 6px; background:#f8fafc; border-radius:6px; font-size:0.78rem; color:#64748b;">${escapeHtml(c.text)}</div>` : ''}
-      ${c.audioUrl ? `<audio controls preload="metadata" src="${escapeHtml(c.audioUrl)}" style="width:100%; margin:2px 0;"></audio>` : ''}
-      ${main && main !== '🎤' ? escapeHtml(main) : ''}
+    const tagH = tagKeys.map(k => CMT_TAGS[k] ? `<span class="vw-ctag">${CMT_TAGS[k]}</span>` : '').join('');
+    const vtH = c.vt != null ? `<span class="vw-cvt">⏱${fmtVT(c.vt)}</span>` : '';
+    const real = c.coachToken && c.id && !String(c.id).startsWith('tmp_');
+    const who = c.author === 'coach'
+      ? `<b class="vw-cwho">🎓 ${escapeHtml(c.coachName || '教练')}</b>`
+      : `<b class="vw-cwho" style="color:#15803d;">👨‍👩‍👧 家长</b>${coaches.length > 1 && c.coachName ? `<span class="vw-cto">→ ${escapeHtml(c.coachName)}</span>` : ''}`;
+    const acts = (c.author === 'coach' && c.coachToken ? `<button class="vw-cact" onclick="event.stopPropagation();vwReplyTo(this,'${escapeHtml(c.coachToken)}')">↩ 回复</button>` : '')
+      + (real ? `<button class="vw-cact vw-cdel" onclick="event.stopPropagation();delCoachCmt('${escapeHtml(c.coachToken)}','${escapeHtml(c.id)}')" title="删除">✕</button>` : '');
+    const au = c.audioUrl ? `<div class="vw-au" onclick="event.stopPropagation()"><button class="vw-aub" data-key="${escapeHtml(String(c.id).replace(/[^\w]/g, '_'))}" data-url="${escapeHtml(c.audioUrl)}"${c.vt != null ? ` data-vt="${Number(c.vt)}" data-vid="${escapeHtml(c.videoId || '')}"` : ''} onclick="vwAuPlay(this)">▶</button><div class="vw-aubar"><div class="vw-aupg"></div></div><span class="vw-autm">🎤</span></div>` : '';
+    return `<div class="vw-cmt ${c.author === 'coach' ? 'vw-coach' : 'vw-fam'}">
+      <div class="vw-chead">${who}<span class="vw-cts">${escapeHtml(_vwAgo(c.ts) || (c.ts || '').slice(5, 16).replace('T', ' '))}</span>${c.orphan ? '<span class="vw-cts">· 未关联视频</span>' : ''}<span style="flex:1"></span>${acts}</div>
+      ${tagH || vtH ? `<div class="vw-cmeta">${vtH}${tagH}</div>` : ''}
+      ${main && main !== '🎤' ? `<div class="vw-ctext">${escapeHtml(main)}${hasOrig ? ` <span class="vw-corig" onclick="event.stopPropagation();const o=document.getElementById('${oid}');o.style.display=o.style.display==='block'?'none':'block'" title="查看原文">🌐原文</span>` : ''}</div>` : ''}
+      ${hasOrig ? `<div id="${oid}" class="vw-origtxt" style="display:none;">${escapeHtml(c.text)}</div>` : ''}
+      ${au}
     </div>`;
   }
   // 家长端删除留言：指定教练线程 + 留言 id，服务端过滤后重写
@@ -2922,54 +2960,166 @@ function circuitLabel(c) {
       renderVideoWall();
     } catch(e) { alert('删除失败，请重试'); }
   }
-  function _replyBox(videoId) {
-    if (!coaches.length) return '';
-    return `<div style="display:flex; gap:6px; margin-top:6px;" data-reply="${escapeHtml(videoId || '')}">
-      <select class="cmt-coach-sel" style="font-size:0.8rem; padding:4px 6px; border:1px solid #d1d5db; border-radius:6px;">
-        ${coaches.map(c => `<option value="${c.id}">${escapeHtml(c.name)}</option>`).join('')}
-      </select>
-      <input placeholder="回复（自动翻译为教练语言）…" style="flex:1; min-width:120px; font-size:0.8rem; padding:4px 8px; border:1px solid #d1d5db; border-radius:6px;"
-        onkeydown="if(event.key==='Enter'){const s=this.previousElementSibling;familyComment(s.value,this.closest('[data-reply]').dataset.reply||null,this)}">
-      <button class="btn secondary" style="font-size:0.8rem; padding:4px 8px;" title="语音留言" onclick="familyVoice(this)">🎤</button>
+  // ===== 回复框：回复给哪位教练（默认 = 这条线里最近留言的教练）+ 输入框 + 发送 + 🎤；播放器里可挂视频时间点 =====
+  function _threadCoach(videoId) {
+    const ids = new Set([videoId]);
+    if (videoId) videos.forEach(v => { if (boutCmtId(v) === videoId) ids.add(v.id); });
+    let best = null;
+    coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
+      if (cm.author === 'coach' && (videoId ? ids.has(cm.videoId) : !cm.videoId) && (!best || (cm.ts || '') > best.ts)) best = { id: c.id, ts: cm.ts || '' };
+    }));
+    return best ? best.id : (coaches[0] && coaches[0].id);
+  }
+  function _replyBox(videoId, inPlayer) {
+    if (!coaches.length) return '<div class="vw-noco">先到「👤 教练」页新建教练链接，才能留言。</div>';
+    const def = _threadCoach(videoId);
+    const dc = coaches.find(c => c.id === def) || coaches[0];
+    const chips = coaches.length > 1
+      ? `<div class="vw-to"><span>回复给</span>${coaches.map(c => `<button type="button" class="vw-chip${c.id === dc.id ? ' on' : ''}" data-cid="${c.id}" onclick="vwPickCoach(this)">${escapeHtml(c.name)}</button>`).join('')}</div>` : '';
+    return `<div class="vw-reply" data-reply="${escapeHtml(videoId || '')}" data-coach="${dc.id}">
+      ${chips}
+      <div class="vw-rrow">
+        <input class="vw-rin" enterkeyhint="send" placeholder="回复 ${escapeHtml(dc.name)}（自动翻译）…" onkeydown="if(event.key==='Enter'&&!event.isComposing&&event.keyCode!==229){event.preventDefault();vwSend(this)}">
+        <button type="button" class="vw-send" onclick="vwSend(this)">发送</button>
+        <button type="button" class="vw-mic" onclick="vwRec(this)" title="语音留言">🎤</button>
+      </div>
+      <div class="vw-recbar" style="display:none;"><span class="vw-recdot">●</span><span class="vw-rect">0:00</span><span style="flex:1;">录音中…</span><button type="button" class="vw-recok">⏹ 发送</button><button type="button" class="vw-recx">✕</button></div>
+      ${inPlayer ? `<button type="button" class="vw-chip vw-vtchip" onclick="this.classList.toggle('on')">⏱ 挂在视频 <span class="vw-vtt">0:00</span></button>` : ''}
     </div>`;
   }
-  // 家长语音留言：录音 → R2 → 写进所选教练的留言串
-  let _famRec = null, _famChunks = [];
-  async function familyVoice(btn) {
-    const box = btn.closest('[data-reply]');
-    const videoId = box && box.dataset.reply || null;
-    const sel = box && box.querySelector('.cmt-coach-sel');
-    const coachId = sel && sel.value;
-    const c = coaches.find(x => x.id === coachId);
-    if (!c) { alert('先创建教练链接'); return; }
-    if (_famRec) { _famRec.stop(); return; }
+  function vwPickCoach(btn) {
+    const box = btn.closest('.vw-reply');
+    box.dataset.coach = btn.dataset.cid;
+    box.querySelectorAll('.vw-chip[data-cid]').forEach(x => x.classList.toggle('on', x === btn));
+    const c = coaches.find(x => x.id === btn.dataset.cid);
+    const inp = box.querySelector('.vw-rin');
+    if (c && inp) inp.placeholder = `回复 ${c.name}（自动翻译）…`;
+  }
+  // 留言上的「↩ 回复」：切到该教练并聚焦输入框
+  function vwReplyTo(el, token) {
+    const scope = el.closest('#fam-player, .vw-cbody, .vw-general');
+    const box = scope && scope.querySelector('.vw-reply');
+    const c = coaches.find(x => x.token === token);
+    if (!box || !c) return;
+    const chip = box.querySelector(`.vw-chip[data-cid="${c.id}"]`);
+    if (chip) vwPickCoach(chip);
+    else { box.dataset.coach = c.id; const i = box.querySelector('.vw-rin'); if (i) i.placeholder = `回复 ${c.name}（自动翻译）…`; }
+    const inp = box.querySelector('.vw-rin');
+    if (inp) { inp.focus(); inp.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
+  }
+  // 发送目标：播放器里勾了「⏱ 挂在视频」→ 挂到当前片段 + 时间点；否则挂到本场（对阵）
+  function _vwTarget(box) {
+    const chip = box.querySelector('.vw-vtchip.on');
+    const vd = document.getElementById('fp-video');
+    if (chip && vd && _fpVid) return { videoId: _fpVid, vt: Math.round(vd.currentTime * 100) / 100 };
+    return { videoId: box.dataset.reply || null };
+  }
+  function _vwAfterSend(box) {
+    const chip = box.querySelector('.vw-vtchip.on');
+    if (chip) chip.classList.remove('on');
+    renderVideoWall();
+    const pb = box.closest('.vw-pbody');
+    if (pb) setTimeout(() => { pb.scrollTop = pb.scrollHeight; }, 50);
+  }
+  async function vwSend(el) {
+    const box = el.closest('.vw-reply');
+    const inp = box.querySelector('.vw-rin'), btn = box.querySelector('.vw-send');
+    const c = coaches.find(x => x.id === box.dataset.coach);
+    const text = (inp.value || '').trim();
+    if (!c) { alert('先到「教练」页新建教练链接'); return; }
+    if (!text) { inp.focus(); return; }
+    if (btn.disabled) return;
+    const tg = _vwTarget(box);
+    btn.disabled = true; btn.textContent = '发送中'; inp.disabled = true;
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      const mime = MediaRecorder.isTypeSupported('audio/mp4') ? 'audio/mp4' : (MediaRecorder.isTypeSupported('audio/webm') ? 'audio/webm' : '');
-      _famRec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
-      _famChunks = [];
-      _famRec.ondataavailable = e => { if (e.data && e.data.size) _famChunks.push(e.data); };
-      _famRec.onstop = async () => {
-        stream.getTracks().forEach(t => t.stop());
-        btn.textContent = '⏳';
-        try {
-          const blob = new Blob(_famChunks, { type: _famRec.mimeType || 'audio/webm' });
-          const ext = blob.type.includes('mp4') ? '.m4a' : '.webm';
-          const init = await videoWorkerPost({ action: 'video_init', name: 'voice' + ext, contentType: blob.type });
-          const pr = await fetch(`${CATHY_VIDEO_WORKER_URL}/video-part?key=${encodeURIComponent(init.key)}&uploadId=${encodeURIComponent(init.uploadId)}&part=1`, { method: 'POST', headers: { 'Content-Type': 'application/octet-stream' }, body: blob });
-          const part = await pr.json();
-          const comp = await videoWorkerPost({ action: 'video_complete', key: init.key, uploadId: init.uploadId, parts: [part] });
-          if (comp.url) {
-            const r = await videoWorkerPost({ action: 'comment_add', token: c.token, videoId, author: 'family', text: '🎤', audioUrl: comp.url });
-            if (r.comment) { (coachComments[c.token] = coachComments[c.token] || []).push(r.comment); renderVideoWall(); }
-          }
-        } catch(e) { alert('语音发送失败'); }
-        btn.textContent = '🎤';
-        _famRec = null;
-      };
-      _famRec.start();
-      btn.textContent = '⏹';
-    } catch(e) { alert('麦克风不可用或未授权'); }
+      const r = await videoWorkerPost(Object.assign({ action: 'comment_add', token: c.token, author: 'family', text }, tg));
+      if (!r || !r.comment) throw new Error((r && r.error) || 'failed');
+      (coachComments[c.token] = coachComments[c.token] || []).push(r.comment);
+      inp.value = '';
+      _vwAfterSend(box);
+    } catch(e) { alert('发送失败，请重试'); }
+    btn.disabled = false; btn.textContent = '发送'; inp.disabled = false;
+  }
+  // 语音留言：点 🎤 → 录音条（计时 / ⏹ 发送 / ✕ 取消）；播放器里录音时暂停视频
+  let _vwRec = null;
+  async function vwRec(btn) {
+    if (_vwRec) { alert('正在录另一条语音'); return; }
+    const box = btn.closest('.vw-reply');
+    const c = coaches.find(x => x.id === box.dataset.coach);
+    if (!c) { alert('先到「教练」页新建教练链接'); return; }
+    if (!navigator.mediaDevices || !window.MediaRecorder) { alert('这个浏览器不支持网页录音，请用 Safari / Chrome 打开'); return; }
+    const row = box.querySelector('.vw-rrow'), bar = box.querySelector('.vw-recbar'), tm = box.querySelector('.vw-rect');
+    btn.textContent = '⏳'; btn.disabled = true;
+    let stream;
+    try { stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true } }); }
+    catch(e) { btn.textContent = '🎤'; btn.disabled = false; alert('麦克风不可用或未授权（' + (e.name || e.message || e) + '）'); return; }
+    btn.textContent = '🎤'; btn.disabled = false;
+    const vd = document.getElementById('fp-video');
+    if (vd && box.closest('#fam-player')) vd.pause();
+    const tg = _vwTarget(box);
+    const mime = MediaRecorder.isTypeSupported('audio/mp4') ? 'audio/mp4' : (MediaRecorder.isTypeSupported('audio/webm') ? 'audio/webm' : '');
+    const rec = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
+    const chunks = []; let cancelled = false;
+    const t0 = Date.now();
+    const timer = setInterval(() => { const s = Math.floor((Date.now() - t0) / 1000); tm.textContent = Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); }, 500);
+    _vwRec = rec;
+    row.style.display = 'none'; bar.style.display = 'flex'; tm.textContent = '0:00';
+    const reset = () => { clearInterval(timer); stream.getTracks().forEach(t => t.stop()); bar.style.display = 'none'; row.style.display = 'flex'; _vwRec = null; };
+    rec.ondataavailable = e => { if (e.data && e.data.size) chunks.push(e.data); };
+    rec.onstop = async () => {
+      reset();
+      if (cancelled || !chunks.length) return;
+      const send = box.querySelector('.vw-send');
+      send.disabled = true; send.textContent = '上传中';
+      try {
+        const blob = new Blob(chunks, { type: rec.mimeType || 'audio/webm' });
+        const ext = blob.type.includes('mp4') ? '.m4a' : '.webm';
+        const init = await videoWorkerPost({ action: 'video_init', name: 'voice' + ext, contentType: blob.type });
+        const pr = await fetch(`${CATHY_VIDEO_WORKER_URL}/video-part?key=${encodeURIComponent(init.key)}&uploadId=${encodeURIComponent(init.uploadId)}&part=1`, { method: 'POST', headers: { 'Content-Type': 'application/octet-stream' }, body: blob });
+        const part = await pr.json();
+        const comp = await videoWorkerPost({ action: 'video_complete', key: init.key, uploadId: init.uploadId, parts: [part] });
+        if (!comp.url) throw new Error('upload failed');
+        const r = await videoWorkerPost(Object.assign({ action: 'comment_add', token: c.token, author: 'family', text: '🎤', audioUrl: comp.url }, tg));
+        if (!r || !r.comment) throw new Error('comment failed');
+        (coachComments[c.token] = coachComments[c.token] || []).push(r.comment);
+        _vwAfterSend(box);
+      } catch(e) { alert('语音发送失败，请重试'); }
+      send.disabled = false; send.textContent = '发送';
+    };
+    bar.querySelector('.vw-recok').onclick = () => rec.stop();
+    bar.querySelector('.vw-recx').onclick = () => { cancelled = true; rec.stop(); };
+    rec.start();
+  }
+  // 语音播放：全局一个 Audio，点另一条自动停当前；带时间点的语音在播放器里先把视频跳到该点
+  let _vwAu = null, _vwAuKey = null;
+  function vwAuPlay(btn) {
+    const key = btn.dataset.key;
+    const vt = parseFloat(btn.dataset.vt || '');
+    const vd = document.getElementById('fp-video');
+    if (!isNaN(vt) && vd && btn.dataset.vid === _fpVid) { vd.pause(); vd.currentTime = vt; }
+    if (_vwAu && _vwAuKey === key) { if (_vwAu.paused) _vwAu.play().catch(() => {}); else _vwAu.pause(); _vwAuSync(); return; }
+    if (!_vwAu) {
+      _vwAu = new Audio();
+      ['timeupdate', 'loadedmetadata', 'play', 'pause', 'ended'].forEach(ev => _vwAu.addEventListener(ev, _vwAuSync));
+    }
+    _vwAu.pause();
+    _vwAuKey = key;
+    _vwAu.src = btn.dataset.url;
+    _vwAu.play().catch(() => {});
+    _vwAuSync();
+  }
+  function _vwAuSync() {
+    const f = s => Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
+    document.querySelectorAll('.vw-aub').forEach(b => {
+      const me = _vwAu && b.dataset.key === _vwAuKey;
+      b.textContent = me && !_vwAu.paused ? '❚❚' : '▶';
+      const wrap = b.parentNode;
+      const pg = wrap.querySelector('.vw-aupg'), tm = wrap.querySelector('.vw-autm');
+      if (me && isFinite(_vwAu.duration) && _vwAu.duration > 0) {
+        pg.style.width = Math.min(100, _vwAu.currentTime / _vwAu.duration * 100) + '%';
+        tm.textContent = f(_vwAu.currentTime) + ' / ' + f(_vwAu.duration);
+      } else if (!me) { pg.style.width = '0%'; tm.textContent = '🎤'; }
+    });
   }
   // 视频缩略图格子（与教练页同款）：首帧 + ▶ + 时长 + 文件名；下方 💬 数 / 大小 + ⋯ 管理菜单
   const _VW_BADFMT = /\.(mkv|avi|wmv|flv)$/i;
@@ -3150,6 +3300,7 @@ function circuitLabel(c) {
       box.querySelectorAll('.vw-vbtn').forEach(vb => { vb.textContent = '💬 ' + cmts.filter(c => c.videoId === vb.dataset.vid).length; });
     }));
     if (_fpVid) _fpRenderCmts();
+    _vwAuSync();
   }
 
   // ===== 播放器弹层（点缩略图打开）：视频 + 本场留言（带时间点的可点击跳转）+ 回复 =====
@@ -3175,10 +3326,12 @@ function circuitLabel(c) {
         : `<video id="fp-video" controls playsinline autoplay preload="auto" src="${escapeHtml(v.url)}"></video>`}</div>
       <div class="vw-pbody">
         <div class="vw-pmeta">${escapeHtml([videoTKey(v) === '_other' ? '' : videoTKey(v), v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '))}</div>
-        ${v.share ? '<b style="font-size:0.8rem; color:#3730a3;">💬 本场留言</b><div id="fp-cmts"></div>' + _replyBox(boutCmtId(v)) : '<div style="font-size:0.78rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
+        ${v.share ? '<b style="font-size:0.85rem; color:#3730a3;">💬 本场留言</b><div id="fp-cmts"></div>' + _replyBox(boutCmtId(v), true) : '<div style="font-size:0.8rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
       </div>`;
     m.style.display = 'flex';
     document.body.style.overflow = 'hidden';
+    const vd = document.getElementById('fp-video');
+    if (vd) vd.addEventListener('timeupdate', () => { const t = m.querySelector('.vw-vtt'); if (t) t.textContent = fmtVT(vd.currentTime); });
     if (v.share) _fpRenderCmts();
   }
   function _fpRenderCmts() {
@@ -3188,12 +3341,15 @@ function circuitLabel(c) {
     const bk = boutCmtId(v);
     const vids = videos.filter(x => x.share === true && boutCmtId(x) === bk).sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || ''));
     el.innerHTML = _boutCmtListHtml(vids.length ? vids : [v], _boutCmts(vids.length ? vids : [v]), v.id);
+    _vwAuSync();
   }
   function famSeek(t) {
     const vd = document.getElementById('fp-video');
     if (vd) { vd.currentTime = t; vd.pause(); }
   }
   function closeFamPlayer() {
+    if (_vwRec) { alert('正在录音，先点 ⏹ 发送或 ✕ 取消'); return; }
+    if (_vwAu) _vwAu.pause();
     const m = document.getElementById('fam-player');
     if (m) { const vd = m.querySelector('video'); if (vd) { vd.pause(); vd.removeAttribute('src'); vd.load(); } m.style.display = 'none'; m.innerHTML = ''; }
     _fpVid = null;
@@ -3234,6 +3390,7 @@ function circuitLabel(c) {
       gen.innerHTML = `<div class="vw-general"><b style="font-size:0.85rem;">💬 总体留言</b><div class="vw-gcmts"></div>${_replyBox(null)}</div>`;
     }
     gen.querySelector('.vw-gcmts').innerHTML = general.map(_cmtHtml).join('');
+    _vwAuSync();
   }
 
   function renderVideoLibrary() {
