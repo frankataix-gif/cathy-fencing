@@ -414,6 +414,47 @@
     .trend-legend { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px; font-size:0.8rem; }
     .trend-legend span { display:flex; align-items:center; gap:4px; }
     .trend-dot { width:10px; height:10px; border-radius:50%; }
+
+    /* 视频墙（与教练页同款）：赛事 → 对阵卡片 → 缩略图格 */
+    .vw-empty { color:var(--gray); padding:16px 0; }
+    .vw-tgroup { margin-bottom:16px; }
+    .vw-thead { display:flex; align-items:center; gap:8px; background:#f1f5f9; border-radius:10px; padding:8px 10px; margin-bottom:8px; }
+    .vw-tname { font-weight:800; font-size:0.95rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .vw-tname a { color:#1d4ed8; text-decoration:none; }
+    .vw-tmeta { font-size:0.72rem; color:#64748b; margin-top:1px; }
+    .vw-bout { background:#fff; border-radius:12px; padding:10px 12px; margin-bottom:10px; box-shadow:0 1px 3px rgba(0,0,0,.08); }
+    .vw-bhead { font-weight:700; font-size:0.85rem; margin-bottom:8px; color:#0f172a; }
+    .vw-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:8px; }
+    .vw-wrap { display:flex; flex-direction:column; gap:4px; min-width:0; }
+    .vw-cell { position:relative; border-radius:10px; overflow:hidden; background:#000; aspect-ratio:16/9; cursor:pointer; }
+    .vw-cell video { width:100%; height:100%; object-fit:cover; display:block; pointer-events:none; }
+    .vw-pov { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; color:#fff; font-size:1.6rem; background:rgba(0,0,0,.18); }
+    .vw-dur { position:absolute; right:5px; top:5px; background:rgba(0,0,0,.72); color:#fff; font-size:0.65rem; padding:1px 6px; border-radius:6px; }
+    .vw-dur:empty { display:none; }
+    .vw-name { position:absolute; left:5px; bottom:5px; right:5px; color:#fff; font-size:0.62rem; text-shadow:0 1px 2px #000; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .vw-bad { display:flex; align-items:center; justify-content:center; text-align:center; background:#1e293b; color:#fca5a5; font-size:0.7rem; padding:8px; line-height:1.4; }
+    .vw-yt { display:flex; align-items:center; justify-content:center; aspect-ratio:16/9; border-radius:10px; background:#fee2e2; color:#b91c1c; font-size:0.75rem; font-weight:600; text-decoration:none; padding:6px; text-align:center; overflow:hidden; }
+    .vw-row { display:flex; gap:4px; }
+    .vw-vbtn, .vw-size { flex:1; border:1px solid #e2e8f0; background:#f8fafc; border-radius:7px; font-size:0.7rem; color:#475569; padding:4px 0; text-align:center; cursor:pointer; min-height:28px; box-sizing:border-box; }
+    .vw-size { cursor:default; line-height:18px; }
+    .vw-more { width:36px; border:1px solid #e2e8f0; background:#f8fafc; border-radius:7px; font-size:0.9rem; color:#475569; cursor:pointer; }
+    .vw-menu { position:absolute; z-index:10000; width:180px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; box-shadow:0 8px 24px rgba(15,23,42,.18); padding:4px; }
+    .vw-menu button { display:block; width:100%; text-align:left; background:none; border:none; padding:10px 12px; font-size:0.85rem; border-radius:8px; cursor:pointer; color:#0f172a; }
+    .vw-menu button:active { background:#f1f5f9; }
+    .vw-menu .vw-del { color:#ef4444; }
+    .vw-cbtn { margin-top:8px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:8px; padding:6px 10px; font-size:0.76rem; color:#475569; cursor:pointer; width:100%; text-align:left; }
+    .vw-cbody { display:none; margin-top:6px; }
+    .vw-bout.vw-open .vw-cbody { display:block; }
+    .vw-general { background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:10px 12px; }
+    .vw-player { position:fixed; inset:0; z-index:10001; background:#0f172a; display:none; flex-direction:column; }
+    .vw-ptop { display:flex; align-items:center; gap:8px; padding:calc(8px + env(safe-area-inset-top)) 12px 8px; color:#fff; }
+    .vw-ptitle { flex:1; min-width:0; font-weight:700; font-size:0.9rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .vw-pclose { width:44px; height:44px; border:none; border-radius:50%; background:rgba(255,255,255,.15); color:#fff; font-size:1.2rem; cursor:pointer; }
+    .vw-pvid { background:#000; }
+    .vw-pvid video { width:100%; max-height:56vh; display:block; background:#000; }
+    .vw-pbad { color:#fca5a5; text-align:center; padding:48px 16px; font-size:0.85rem; line-height:1.6; }
+    .vw-pbody { flex:1; overflow-y:auto; background:#f8fafc; padding:10px 12px calc(12px + env(safe-area-inset-bottom)); }
+    .vw-pmeta { font-size:0.78rem; color:#475569; margin-bottom:8px; }
   </style>
 </head>
 <body>
@@ -579,7 +620,7 @@
       </div>
 
       <div id="vpane-private" class="vpane">
-        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">上传的视频默认私密，只有你能看。点「🌐 共享」后才会出现在教练页面。</p>
+        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">上传的视频默认私密，只有你能看。点视频下的 ⋯ →「🌐 共享给教练」，或整组共享后，才会出现在教练页面。</p>
         <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px;">
           <button class="btn secondary" id="videos-upload" style="font-size:0.85rem; padding:6px 14px;">📤 上传视频</button>
           <span id="video-lib-stat2" style="font-size:0.75rem; color:var(--gray); align-self:center;"></span>
@@ -588,7 +629,7 @@
       </div>
 
       <div id="vpane-shared" class="vpane" style="display:none;">
-        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">这里的视频所有教练都能看到并留言。点「🔒 收回」退回私密。</p>
+        <p style="font-size:0.78rem; color:var(--gray); margin:0 0 10px;">这里的视频所有教练都能看到并留言。点视频下的 ⋯ →「🔒 收回为私密」退回私密。</p>
         <div id="video-wall-shared"></div>
       </div>
 
@@ -2928,15 +2969,66 @@ function circuitLabel(c) {
       btn.textContent = '⏹';
     } catch(e) { alert('麦克风不可用或未授权'); }
   }
-  function _videoCardHtml(v, shared) {
-    return `<div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin:4px 0;">
-        <a href="${escapeHtml(v.url)}" target="_blank" style="font-weight:600; font-size:0.85rem; color:var(--primary); text-decoration:none;">${v.type === 'youtube' ? '▶' : '🎬'} ${escapeHtml(v.name)}</a>
-        <span style="font-size:0.72rem; color:var(--gray);">${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>
-        <button class="btn ${shared ? 'secondary' : ''}" style="font-size:0.7rem; padding:2px 8px;" onclick="toggleVideoShare('${v.id}')" title="${shared ? '收回为私密' : '共享给所有教练'}">${shared ? '🔒 收回' : '🌐 共享'}</button>
-        <button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="copyVideoLink('${v.id}')">📋</button>
-        ${v.type === 'r2' ? `<button class="btn secondary" style="font-size:0.7rem; padding:2px 8px;" onclick="archiveVideoToYoutube('${v.id}')">归档YT</button>` : ''}
-        <button class="btn danger" style="font-size:0.7rem; padding:2px 8px;" onclick="deleteVideo('${v.id}')">删</button>
-      </div>`;
+  // 视频缩略图格子（与教练页同款）：首帧 + ▶ + 时长 + 文件名；下方 💬 数 / 大小 + ⋯ 管理菜单
+  const _VW_BADFMT = /\.(mkv|avi|wmv|flv)$/i;
+  function _videoCardHtml(v, shared, nCmt) {
+    const vid = escapeHtml(v.id);
+    let cell;
+    if (v.type === 'youtube') {
+      cell = `<a class="vw-yt" href="${escapeHtml(v.url)}" target="_blank" rel="noopener">▶ ${escapeHtml(v.name)}</a>`;
+    } else if (_VW_BADFMT.test(v.name || '')) {
+      cell = `<div class="vw-cell vw-bad" data-vid="${vid}" onclick="openFamPlayer(this.dataset.vid)"><div>⚠️ ${escapeHtml((v.name.match(/\.(\w+)$/) || ['', ''])[1].toUpperCase())} 格式浏览器播不了<br>请转成 MP4 再传</div><div class="vw-name">${escapeHtml(v.name)}</div></div>`;
+    } else {
+      cell = `<div class="vw-cell" data-vid="${vid}" onclick="openFamPlayer(this.dataset.vid)">
+        <video muted playsinline preload="metadata" src="${escapeHtml(v.url)}#t=0.1" onloadedmetadata="vwDur(this)" onerror="vwErr(this)"></video>
+        <div class="vw-pov">▶</div><div class="vw-dur"></div><div class="vw-name">${escapeHtml(v.name)}</div></div>`;
+    }
+    const left = shared
+      ? `<button class="vw-vbtn" data-vid="${vid}" onclick="openFamPlayer(this.dataset.vid)">💬 ${nCmt || 0}</button>`
+      : `<span class="vw-size">${v.type === 'youtube' ? 'YouTube' : fmtBytes(v.size)}</span>`;
+    return `<div class="vw-wrap">${cell}<div class="vw-row">${left}<button class="vw-more" data-vid="${vid}" onclick="vwMenu(this)" title="更多">⋯</button></div></div>`;
+  }
+  function vwDur(el) {
+    const d = el.duration;
+    if (!isFinite(d)) return;
+    const o = el.parentNode.querySelector('.vw-dur');
+    if (o) o.textContent = Math.floor(d / 60) + ':' + String(Math.round(d % 60)).padStart(2, '0');
+  }
+  function vwErr(el) {
+    const c = el.parentNode;
+    c.classList.add('vw-bad');
+    el.remove();
+    const p = c.querySelector('.vw-pov');
+    if (p) p.outerHTML = '<div>⚠️ 视频加载失败</div>';
+  }
+  // ⋯ 管理菜单：共享/收回、复制链接、归档 YouTube、删除
+  function vwMenu(btn) {
+    const had = document.getElementById('vw-menu');
+    if (had) { const same = had.dataset.vid === btn.dataset.vid; had.remove(); if (same) return; }
+    const v = videos.find(x => x.id === btn.dataset.vid);
+    if (!v) return;
+    const m = document.createElement('div');
+    m.id = 'vw-menu';
+    m.dataset.vid = v.id;
+    m.className = 'vw-menu';
+    m.innerHTML = `<button data-a="share">${v.share ? '🔒 收回为私密' : '🌐 共享给教练'}</button>
+      <button data-a="copy">📋 复制链接</button>
+      ${v.type === 'r2' ? '<button data-a="yt">📦 归档到 YouTube</button>' : ''}
+      <button data-a="del" class="vw-del">🗑 删除</button>`;
+    m.addEventListener('click', e => {
+      const b = e.target.closest('button');
+      if (!b) return;
+      m.remove();
+      ({ share: toggleVideoShare, copy: copyVideoLink, yt: archiveVideoToYoutube, del: deleteVideo })[b.dataset.a](v.id);
+    });
+    const r = btn.getBoundingClientRect();
+    m.style.top = (window.scrollY + r.bottom + 4) + 'px';
+    m.style.left = Math.max(8, Math.min(window.innerWidth - 188, window.scrollX + r.right - 180)) + 'px';
+    document.body.appendChild(m);
+    setTimeout(() => document.addEventListener('click', function off(ev) {
+      if (!m.isConnected) return document.removeEventListener('click', off);
+      if (!m.contains(ev.target)) { m.remove(); document.removeEventListener('click', off); }
+    }), 0);
   }
   function toggleVideoShare(id) {
     const v = videos.find(x => x.id === id);
@@ -2963,60 +3055,149 @@ function circuitLabel(c) {
     const k = [v.eventName || '', v.boutLabel || v.bout || '', v.opponent || '', v.boutScore || v.score || ''].join('~');
     return 'b:' + tname + '~' + (k === '~~~' ? '#' + v.id : k);
   }
-  // 对阵级统一留言区：本场留言(bcid) + 各片段留言(v.id) 合并为一条时间线
-  function _boutCmtHtml(b) {
-    const bcid = boutCmtId(b.vids[0]);
-    const ids = new Set([bcid, ...b.vids.map(v => v.id)]);
+  // 对阵级统一留言：本场留言(bcid) + 各片段留言(v.id) 合并为一条时间线
+  function _boutCmts(vids) {
+    const ids = new Set([boutCmtId(vids[0]), ...vids.map(v => v.id)]);
     const cmts = [];
     coaches.forEach(c => (coachComments[c.token] || []).forEach(cm => {
       if (ids.has(cm.videoId)) cmts.push({ ...cm, coachName: c.name, coachToken: c.token });
     }));
-    cmts.sort((a, b2) => (a.ts || '').localeCompare(b2.ts || ''));
-    // 片段级留言标注是哪个片段（本场留言不标）
+    return cmts.sort((a, b2) => (a.ts || '').localeCompare(b2.ts || ''));
+  }
+  // 留言列表 HTML；多片段时标注 [片段N]；seekVid 给定时，该片段带时间点的留言可点击跳转
+  function _boutCmtListHtml(vids, cmts, seekVid) {
     const vidIdx = {};
-    b.vids.forEach((v, i) => { vidIdx[v.id] = i + 1; });
-    const html = cmts.map(c => {
-      const seg = vidIdx[c.videoId] && b.vids.length > 1 ? `<span style="color:#64748b; font-size:0.66rem; margin-right:4px;">[片段${vidIdx[c.videoId]}]</span>` : '';
-      return seg ? _cmtHtml(c).replace('<br>', seg + '<br>') : _cmtHtml(c);
+    vids.forEach((v, i) => { vidIdx[v.id] = i + 1; });
+    if (!cmts.length) return '<div style="font-size:0.76rem; color:#94a3b8; padding:4px 2px;">还没有留言</div>';
+    return cmts.map(c => {
+      const seg = vidIdx[c.videoId] && vids.length > 1 ? `<span style="color:#64748b; font-size:0.66rem; margin-right:4px;">[片段${vidIdx[c.videoId]}]</span>` : '';
+      const h = seg ? _cmtHtml(c).replace('<br>', seg + '<br>') : _cmtHtml(c);
+      return (seekVid && c.videoId === seekVid && c.vt != null) ? `<div style="cursor:pointer;" onclick="famSeek(${Number(c.vt)})">${h}</div>` : h;
     }).join('');
-    return `<div style="margin-top:8px; border-top:1px dashed #e2e8f0; padding-top:6px;">
-      <b style="font-size:0.78rem; color:#3730a3;">💬 本场留言</b>
-      ${html}
-      ${_replyBox(bcid)}
-    </div>`;
+  }
+  function _vwAgo(ts) {
+    const s = (Date.now() - new Date(ts).getTime()) / 1000;
+    if (!isFinite(s)) return '';
+    return s < 3600 ? Math.max(1, Math.floor(s / 60)) + '分钟前' : s < 86400 ? Math.floor(s / 3600) + '小时前' : Math.floor(s / 86400) + '天前';
+  }
+  const _vwOpen = {};   // 展开的对阵留言区，重绘后保持
+  function vwToggleCmts(btn) {
+    const box = btn.closest('.vw-bout');
+    const open = box.classList.toggle('vw-open');
+    _vwOpen[box.dataset.bk] = open;
+  }
+  function _vwGroups(list) {
+    const tGroups = {};
+    list.forEach(v => {
+      const tKey = videoTKey(v);
+      const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
+      if (!tGroups[tKey]) tGroups[tKey] = { key: tKey, name: tKey === '_other' ? '未关联赛事' : tKey, date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10), place: t ? [t.city, t.state].filter(Boolean).join(', ') : '', tUrl: (t && t.url) || '', bouts: {} };
+      const bKey = [v.eventName, v.boutLabel || v.bout, v.opponent, v.boutScore || v.score].filter(Boolean).join('|') || '_nb';
+      if (!tGroups[tKey].bouts[bKey]) tGroups[tKey].bouts[bKey] = { bk: tKey + '||' + bKey, label: [v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '), vids: [] };
+      tGroups[tKey].bouts[bKey].vids.push(v);
+    });
+    const ordered = Object.values(tGroups).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    ordered.forEach(g => Object.values(g.bouts).forEach(b => b.vids.sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || ''))));
+    return ordered;
   }
   function renderWallInto(elId, list, shared) {
     const el = document.getElementById(elId);
     if (!el) return;
     if (!list.length) {
+      el.dataset.sig = '';
       el.innerHTML = shared
-        ? '<div style="color:var(--gray); padding:16px 0;">还没有共享的视频。到「私密」区点 🌐 共享后，教练就能看到。</div>'
-        : '<div style="color:var(--gray); padding:16px 0;">还没有视频。到「成绩」每场对阵旁点 📹 上传，或点上方「上传视频」。</div>';
+        ? '<div class="vw-empty">还没有共享的视频。到「私密」区点 ⋯ →「🌐 共享给教练」，教练就能看到。</div>'
+        : '<div class="vw-empty">还没有视频。到「成绩」每场对阵旁点 📹 上传，或点上方「上传视频」。</div>';
       return;
     }
-    // 分组：赛事/活动 → 对阵 → 视频片段
-    const tGroups = {};
-    list.forEach(v => {
-      const tKey = videoTKey(v);
-      const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
-      if (!tGroups[tKey]) tGroups[tKey] = { key: tKey, name: tKey === '_other' ? '未关联赛事' : tKey, date: (t && t.start) || v.boutDate || (v.uploadedAt || '').slice(0, 10), bouts: {} };
-      const bKey = [v.eventName, v.boutLabel || v.bout, v.opponent, v.boutScore || v.score].filter(Boolean).join('|') || '_nb';
-      if (!tGroups[tKey].bouts[bKey]) tGroups[tKey].bouts[bKey] = { label: [v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '), vids: [] };
-      tGroups[tKey].bouts[bKey].vids.push(v);
-    });
-    const ordered = Object.values(tGroups).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    el.innerHTML = ordered.map(g => `<div style="background:#fff; border:1px solid #e5e7eb; border-radius:10px; padding:10px 12px; margin-bottom:10px;">
-      <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-        <span style="font-weight:700; font-size:0.9rem; flex:1; min-width:160px;">🏆 ${escapeHtml(g.name)}<span style="font-weight:400; font-size:0.75rem; color:var(--gray);"> · ${escapeHtml(g.date || '')} · ${Object.values(g.bouts).reduce((s, b) => s + b.vids.length, 0)} 个视频</span></span>
-        <button class="btn ${shared ? 'secondary' : ''}" style="font-size:0.72rem; padding:3px 10px;" onclick="setGroupShare('${g.key.replace(/'/g, "\\'")}', ${shared ? 'false' : 'true'})">${shared ? '🔒 整组收回' : '🌐 整组共享'}</button>
-      </div>
-      ${Object.values(g.bouts).map(b => `<div style="margin-top:8px; padding-left:8px; border-left:3px solid #e0e7ff;">
-        ${b.label ? `<div style="font-size:0.82rem; font-weight:600; color:#3730a3;">${escapeHtml(b.label)}</div>` : ''}
-        ${b.vids.sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || '')).map(v => _videoCardHtml(v, shared)).join('')}
-        ${shared ? _boutCmtHtml(b) : ''}
-      </div>`).join('')}
-    </div>`).join('');
+    const ordered = _vwGroups(list);
+    // 结构签名不变时只原地更新留言，不重建缩略图（避免视频反复重新加载、正在打的回复被清掉）
+    const sig = JSON.stringify([shared, coaches.map(c => c.id), ordered.map(g => [g.key, Object.values(g.bouts).map(b => [b.bk, b.vids.map(v => v.id + v.url + v.share)])])]);
+    if (el.dataset.sig !== sig) {
+      el.dataset.sig = sig;
+      el.innerHTML = ordered.map(g => {
+        const n = Object.values(g.bouts).reduce((s, b) => s + b.vids.length, 0);
+        const title = g.tUrl ? `<a href="${escapeHtml(g.tUrl)}" target="_blank" rel="noopener">${escapeHtml(g.name)} ↗</a>` : escapeHtml(g.name);
+        return `<div class="vw-tgroup">
+          <div class="vw-thead">
+            <div style="flex:1; min-width:0;">
+              <div class="vw-tname">🏆 ${title}</div>
+              <div class="vw-tmeta">${escapeHtml([g.date, g.place, n + ' 个视频'].filter(Boolean).join(' · '))}</div>
+            </div>
+            <button class="btn ${shared ? 'secondary' : ''}" style="font-size:0.72rem; padding:3px 10px; white-space:nowrap;" onclick="setGroupShare('${escapeHtml(g.key.replace(/\\/g, '\\\\').replace(/'/g, "\\'"))}', ${shared ? 'false' : 'true'})">${shared ? '🔒 整组收回' : '🌐 整组共享'}</button>
+          </div>
+          ${Object.values(g.bouts).map(b => `<div class="vw-bout${_vwOpen[b.bk] ? ' vw-open' : ''}" data-bk="${escapeHtml(b.bk)}">
+            <div class="vw-bhead">${escapeHtml(b.label || b.vids[0].name)}</div>
+            <div class="vw-grid">${b.vids.map(v => _videoCardHtml(v, shared, 0)).join('')}</div>
+            ${shared ? `<button class="vw-cbtn" onclick="vwToggleCmts(this)"></button>
+              <div class="vw-cbody"><div class="vw-cmts"></div>${_replyBox(boutCmtId(b.vids[0]))}</div>` : ''}
+          </div>`).join('')}
+        </div>`;
+      }).join('');
+    }
+    if (!shared) return;
+    // 留言原地更新：计数 + 列表
+    ordered.forEach(g => Object.values(g.bouts).forEach(b => {
+      const box = Array.from(el.querySelectorAll('.vw-bout')).find(x => x.dataset.bk === b.bk);
+      if (!box) return;
+      const cmts = _boutCmts(b.vids);
+      const btn = box.querySelector('.vw-cbtn');
+      if (btn) btn.textContent = `💬 ${cmts.length} 条留言${cmts.length ? ' · ' + _vwAgo(cmts[cmts.length - 1].ts) : ''}`;
+      const lst = box.querySelector('.vw-cmts');
+      if (lst) lst.innerHTML = _boutCmtListHtml(b.vids, cmts);
+      box.querySelectorAll('.vw-vbtn').forEach(vb => { vb.textContent = '💬 ' + cmts.filter(c => c.videoId === vb.dataset.vid).length; });
+    }));
+    if (_fpVid) _fpRenderCmts();
   }
+
+  // ===== 播放器弹层（点缩略图打开）：视频 + 本场留言（带时间点的可点击跳转）+ 回复 =====
+  let _fpVid = null;
+  function openFamPlayer(id) {
+    const v = videos.find(x => x.id === id);
+    if (!v) return;
+    _fpVid = id;
+    let m = document.getElementById('fam-player');
+    if (!m) {
+      m = document.createElement('div');
+      m.id = 'fam-player';
+      m.className = 'vw-player';
+      document.body.appendChild(m);
+    }
+    const bad = _VW_BADFMT.test(v.name || '');
+    m.innerHTML = `<div class="vw-ptop">
+        <div class="vw-ptitle">${escapeHtml(v.name)}</div>
+        <button class="vw-pclose" onclick="closeFamPlayer()" aria-label="关闭">✕</button>
+      </div>
+      <div class="vw-pvid">${bad
+        ? '<div class="vw-pbad">⚠️ 这个格式（' + escapeHtml((v.name.match(/\.(\w+)$/) || ['', ''])[1].toUpperCase()) + '）浏览器和 iPhone 播放不了<br>请转成 MP4 后重新上传</div>'
+        : `<video id="fp-video" controls playsinline autoplay preload="auto" src="${escapeHtml(v.url)}"></video>`}</div>
+      <div class="vw-pbody">
+        <div class="vw-pmeta">${escapeHtml([videoTKey(v) === '_other' ? '' : videoTKey(v), v.eventName, v.boutLabel || v.bout, v.opponent ? 'vs ' + v.opponent : '', v.boutScore || v.score].filter(Boolean).join(' · '))}</div>
+        ${v.share ? '<b style="font-size:0.8rem; color:#3730a3;">💬 本场留言</b><div id="fp-cmts"></div>' + _replyBox(boutCmtId(v)) : '<div style="font-size:0.78rem; color:#94a3b8;">🔒 私密视频，教练看不到。点列表里的 ⋯ 可共享。</div>'}
+      </div>`;
+    m.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    if (v.share) _fpRenderCmts();
+  }
+  function _fpRenderCmts() {
+    const el = document.getElementById('fp-cmts');
+    const v = videos.find(x => x.id === _fpVid);
+    if (!el || !v) return;
+    const bk = boutCmtId(v);
+    const vids = videos.filter(x => x.share === true && boutCmtId(x) === bk).sort((x, y) => (x.uploadedAt || '').localeCompare(y.uploadedAt || ''));
+    el.innerHTML = _boutCmtListHtml(vids.length ? vids : [v], _boutCmts(vids.length ? vids : [v]), v.id);
+  }
+  function famSeek(t) {
+    const vd = document.getElementById('fp-video');
+    if (vd) { vd.currentTime = t; vd.pause(); }
+  }
+  function closeFamPlayer() {
+    const m = document.getElementById('fam-player');
+    if (m) { const vd = m.querySelector('video'); if (vd) { vd.pause(); vd.removeAttribute('src'); vd.load(); } m.style.display = 'none'; m.innerHTML = ''; }
+    _fpVid = null;
+    document.body.style.overflow = '';
+  }
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && _fpVid) closeFamPlayer(); });
   let currentVideoTab = 'private';
   function switchVideoTab(tab) {
     currentVideoTab = tab;
@@ -3042,13 +3223,15 @@ function circuitLabel(c) {
       if (!cm.videoId || !(sharedIds.has(cm.videoId) || sharedBoutIds.has(cm.videoId))) general.push({ ...cm, coachName: c.name, coachToken: c.token, orphan: !!cm.videoId });
     }));
     general.sort((a, b) => (a.ts || '').localeCompare(b.ts || ''));
-    if (general.length || coaches.length) {
-      el.innerHTML += `<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:10px 12px;">
-        <b style="font-size:0.85rem;">💬 总体留言</b>
-        ${general.map(_cmtHtml).join('')}
-        ${_replyBox(null)}
-      </div>`;
+    let gen = document.getElementById('video-wall-general');
+    if (!gen) { gen = document.createElement('div'); gen.id = 'video-wall-general'; el.insertAdjacentElement('afterend', gen); }
+    if (!(general.length || coaches.length)) { gen.innerHTML = ''; gen.dataset.sig = ''; return; }
+    const gsig = coaches.map(c => c.id).join(',');
+    if (gen.dataset.sig !== gsig) {
+      gen.dataset.sig = gsig;
+      gen.innerHTML = `<div class="vw-general"><b style="font-size:0.85rem;">💬 总体留言</b><div class="vw-gcmts"></div>${_replyBox(null)}</div>`;
     }
+    gen.querySelector('.vw-gcmts').innerHTML = general.map(_cmtHtml).join('');
   }
 
   function renderVideoLibrary() {
