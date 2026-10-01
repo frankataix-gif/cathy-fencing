@@ -21294,3 +21294,24 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Trigger-_-CRM_TGR_CAN_WelcometoLOY_T
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [Cathy&David] Stratford Hall Open House Reminder
+
+**发件人:** Stratford Hall  <stratfordhall@myschoolapp.com>
+**日期:** 2026-10-01T07:03:14.000Z
+**摘要:** Stratford Hall 提醒用户已注册参加2026年10月6日的全校开放日活动
+**待办:** 无
+**涉及:** 不明
+**日程:** {"title":"Whole School Open House","date":"2026-10-06","time":"09:00","location":"无"}
+**GmailID:** 1a0f646450eafe12
+
+Hello jingqi,
+
+You are registered for the following event: Whole School Open House - Oct  6 2026  9:00AM
+
+We look forward to seeing you!
+
+Thank you,
+Stratford Hall
+
+---
