@@ -21393,3 +21393,21 @@ You may also cal
 IN 48 HOURS. ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M9TCaTRfYR1S3NouUoqPfVhvX7Zlnt2BQGxU0FoxFNuA-3D-3D1P8u_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIJrLIX8AKti9AXdLHn-2Bor3-2F9JthNxsP4n3DvylZ-2FZhXHKFqS1RM-2Fjmroknj51GWWJcSVIRSAT18YLh1adxCqfMoEe1ZQiJQyzd-2Btd7VDQAdkQMZnI0lKvIkh8pI3t6ywlRwdgBHbBox17IreomnOWnm4k9zmDW-2BfsPvRTkp
 
 ---
+
+## [营销] STARTS TODAY: earn 2X points on your purchase and 5X points on ALL Sephora Collection 😍
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-01T14:04:16.000Z
+**摘要:** Sephora推出积分翻倍活动，购买可获2倍积分，Sephora Collection产品享5倍积分，并提供免费当日送达服务。
+**待办:** 无
+**GmailID:** 1a0f7d448be2d22e
+
+ Sephora 
+
+Insider, get FREE Same-Day Delivery through 10/7 at 1pm PT. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0f7c78c12bad13e369ff0b33c/e71cd002453840560000021
+
+---
