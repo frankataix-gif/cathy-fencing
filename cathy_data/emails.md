@@ -21380,3 +21380,16 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [营销] October arrives with a fresh step
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-01T13:09:06.000Z
+**摘要:** 促销UGG Evelina鞋款，提供48小时快速配送服务
+**待办:** 无
+**GmailID:** 1a0f7953f5f1e3fc
+
++RESTOCKED: UGG Evelina in chestnut   FASTEST DELIVERY. GET IT
+IN 48 HOURS. ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M9TCaTRfYR1S3NouUoqPfVhvX7Zlnt2BQGxU0FoxFNuA-3D-3D1P8u_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIJrLIX8AKti9AXdLHn-2Bor3-2F9JthNxsP4n3DvylZ-2FZhXHKFqS1RM-2Fjmroknj51GWWJcSVIRSAT18YLh1adxCqfMoEe1ZQiJQyzd-2Btd7VDQAdkQMZnI0lKvIkh8pI3t6ywlRwdgBHbBox17IreomnOWnm4k9zmDW-2BfsPvRTkp
+
+---
