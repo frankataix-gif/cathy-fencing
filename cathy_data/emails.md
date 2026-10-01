@@ -21224,3 +21224,33 @@ LMR90856988218
 ©2026 Michaels Stores, Inc. Michaels and the Michaels logo and other trademarks and logos used in this email are owned or licensed by Michaels Stores, Inc. All rights reserved.
 
 ---
+
+## [营销] Check out all your new perks.
+
+**发件人:** Michaels Rewards <michaels@emdeals.michaels.com>
+**日期:** 2026-10-01T00:44:11.000Z
+**摘要:** 邮件介绍了Michaels Rewards的新优惠和奖励，包含多个链接供查看。
+**待办:** 无
+**GmailID:** 1a0f4eb41db7cf34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=TPIX3SU42UCUXADNJJSUT2KJVU.100225 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Trigger-_-CRM_TGR_CAN_WelcometoLOY_T1-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u= 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Trigger-_-CRM_TGR_CAN_WelcometoLOY_T1-_-HEADER_SHOP&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ
+
+---
