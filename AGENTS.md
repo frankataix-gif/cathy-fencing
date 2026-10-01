@@ -78,7 +78,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - 常用资料（公开组 + 🔒 加密组「妈妈」，AES 主密码）、比赛视频库、设置（邮件分类规则、待办分类、Cathy 数据导出）。
 
 ### 通用
-- 多设备同步：`cathy_data/user_data.json`，registrations / schedule / reflections / tasks / videos 按 id 合并 + 墓碑（防已删项复活）；tasks / videos 字段级更新按 updatedAt 谁新用谁（videos 回落 uploadedAt），改视频字段必须盖 updatedAt；待办分类按时间覆盖。
+- 多设备同步：`cathy_data/user_data.json`，registrations / schedule / reflections / tasks / videos 按 id 合并 + 墓碑（防已删项复活）；tasks / videos 字段级更新按 updatedAt 谁新用谁（videos 回落 uploadedAt），改视频字段必须盖 updatedAt；registrations 用平行表 `registrationTs` 记时间戳，无戳远端值视为旧数据不能盖过有戳本地值；待办分类按时间覆盖。
 - 手机返回手势先关弹层（`overlayPush` / `overlayPop` + popstate，`_overlayIgnorePop` 防误关下一层），已接入日程 / 待办编辑器、视频全屏播放器。
 - 打开 / 回到前台检测新版本，顶部出现更新横幅。
 

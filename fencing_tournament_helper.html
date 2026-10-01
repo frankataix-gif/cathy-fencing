@@ -2400,18 +2400,20 @@ function circuitLabel(c) {
     if (keys.length > 300) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 300).forEach(k => delete m[k]);
     try { localStorage.setItem('cathy_schedule_tombstones', JSON.stringify(m)); } catch(e) {}
   }
-  // 教练/视频墓碑：防止并集合并时已删条目复活
-  function getCoachTombstones() {
-    try { return JSON.parse(localStorage.getItem('cathy_coach_tombstones') || '{}'); } catch(e) { return {}; }
+  // 报名状态时间戳：多设备同步按 ts 谁新用谁（旧客户端不写 ts，视为最旧，不能盖过有戳的本地值）
+  function getRegTsMap() {
+    try { return JSON.parse(localStorage.getItem('cathy_reg_ts') || '{}') || {}; } catch(e) { return {}; }
   }
-  function markCoachDeleted(token) {
-    if (!token) return;
-    const m = getCoachTombstones();
-    m[token] = new Date().toISOString();
-    const keys = Object.keys(m);
-    if (keys.length > 200) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 200).forEach(k => delete m[k]);
-    try { localStorage.setItem('cathy_coach_tombstones', JSON.stringify(m)); } catch(e) {}
+  function saveRegTsMap(m) {
+    try { localStorage.setItem('cathy_reg_ts', JSON.stringify(m)); } catch(e) {}
   }
+  function setReg(id, status, ts) {
+    saveToLocal('reg_' + id, status);
+    const m = getRegTsMap();
+    m[id] = ts !== undefined ? ts : new Date().toISOString();
+    saveRegTsMap(m);
+  }
+  // 视频墓碑：防止并集合并时已删条目复活
   function getVideoTombstones() {
     try { return JSON.parse(localStorage.getItem('cathy_video_tombstones') || '{}'); } catch(e) { return {}; }
   }
@@ -3530,9 +3532,20 @@ function circuitLabel(c) {
       const data = JSON.parse(text);
       _isLoadingGitHubData = true;
       if (data.registrations && typeof data.registrations === 'object') {
+        const regTs = getRegTsMap();
+        const rtsMap = (data.registrationTs && typeof data.registrationTs === 'object') ? data.registrationTs : {};
+        let tsChanged = false;
         Object.entries(data.registrations).forEach(([id, status]) => {
-          saveToLocal('reg_' + id, status);
+          const rts = rtsMap[id] || '';
+          const lts = regTs[id] || '';
+          if (rts && rts > lts) {
+            saveToLocal('reg_' + id, status); regTs[id] = rts; tsChanged = true;
+          } else if (!rts && !lts) {
+            saveToLocal('reg_' + id, status);   // 双方都无时间戳（旧数据）→ 远端为准
+          }
+          // 远端无戳而本地有戳 → 本地更新，跳过
         });
+        if (tsChanged) saveRegTsMap(regTs);
       }
       // 合并远端日程墓碑
       const schedTombs = getScheduleTombstones();
@@ -3610,6 +3623,7 @@ function circuitLabel(c) {
       renderResults();
       renderSchedule();
       if (typeof renderTasks === 'function') renderTasks();
+      if (typeof renderVideoWall === 'function') renderVideoWall();
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
@@ -4266,6 +4280,7 @@ function circuitLabel(c) {
     if (!workerUrl) { if (!auto) alert('请先设置 Worker URL'); return; }
     if (_isLoadingGitHubData) return;
     const registrations = {};
+    const regTs = getRegTsMap();
     for (let i = 0; i < localStorage.length; i++) {
       const key = localStorage.key(i);
       if (key && key.startsWith('reg_')) registrations[key.slice(4)] = localStorage.getItem(key);
@@ -4278,7 +4293,6 @@ function circuitLabel(c) {
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
     const schedTombs = getScheduleTombstones();
     let vidTombs = getVideoTombstones();
-    let coachTombs = getCoachTombstones();
     let remoteTaskCats = null;
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
@@ -4306,9 +4320,26 @@ function circuitLabel(c) {
           taskList.forEach(t => { if (t && t.id && !seen.has(t.id) && !isTomb(t)) merged.push(t); });
           taskList = merged;
         }
-        // 报名：按键并集，本地值优先（空值=取消报名也生效）
+        // 报名：按键合并，registrationTs 谁新用谁；远端无戳视为旧数据，不能盖过有戳的本地值
         if (remote && remote.registrations && typeof remote.registrations === 'object') {
-          Object.keys(remote.registrations).forEach(id => { if (!(id in registrations)) registrations[id] = remote.registrations[id]; });
+          const rtsMap = (remote.registrationTs && typeof remote.registrationTs === 'object') ? remote.registrationTs : {};
+          let regLocalChanged = false;
+          Object.keys(remote.registrations).forEach(id => {
+            const rts = rtsMap[id] || '';
+            const lts = regTs[id] || '';
+            if (!(id in registrations)) {
+              registrations[id] = remote.registrations[id];
+              if (rts) regTs[id] = rts;
+              saveUIToLocal('reg_' + id, remote.registrations[id]);
+              regLocalChanged = true;
+            } else if (rts && rts > lts) {
+              registrations[id] = remote.registrations[id];
+              regTs[id] = rts;
+              saveUIToLocal('reg_' + id, remote.registrations[id]);
+              regLocalChanged = true;
+            }
+          });
+          if (regLocalChanged) saveRegTsMap(regTs);
         }
         // 日程：墓碑 + updatedAt 合并
         if (remote && remote.scheduleTombstones) {
@@ -4348,7 +4379,7 @@ function circuitLabel(c) {
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
-    const userData = { registrations, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones() };
+    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones() };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -5003,6 +5034,7 @@ function circuitLabel(c) {
         if (v && !byId[id]) orphans.push([id, v]);
       }
     }
+    const regTsMap = getRegTsMap();
     orphans.forEach(([oid, status]) => {
       const dm = oid.match(/\d{4}-\d{2}-\d{2}/);
       const date = dm ? dm[0] : null;
@@ -5014,7 +5046,7 @@ function circuitLabel(c) {
         const hits = tokens.filter(w => hay.includes(w)).length;
         if (hits >= 3 && hits >= tokens.length * 0.4) {
           t.reg_status = status;
-          saveToLocal('reg_' + t.id, status);
+          setReg(t.id, status, regTsMap[oid] || '');
         }
       });
     });
@@ -5132,11 +5164,10 @@ function circuitLabel(c) {
       regSel.addEventListener('click', (e) => e.stopPropagation());
       regSel.addEventListener('change', (e) => {
         e.stopPropagation();
-        saveToLocal('reg_' + t.id, e.target.value);
+        setReg(t.id, e.target.value);
         t.reg_status = e.target.value;
         syncTournamentToSchedule(t, e.target.value);
         renderSchedule();
-        currentPage = 1;
         renderResults();
       });
       const vbtn = card.querySelector('.video-add-btn');
@@ -6331,9 +6362,9 @@ function circuitLabel(c) {
     }
     try {
       const ks = await caches.keys();
-      await Promise.all(ks.map(k => caches.delete(k)));
+      await Promise.all(ks.filter(k => k.startsWith('cathy-fencing-')).map(k => caches.delete(k)));
       const rs = await navigator.serviceWorker.getRegistrations();
-      await Promise.all(rs.map(r => r.unregister()));
+      await Promise.all(rs.filter(r => (r.active && r.active.scriptURL.includes('fencing_sw')) || (r.waiting && r.waiting.scriptURL.includes('fencing_sw')) || (r.installing && r.installing.scriptURL.includes('fencing_sw'))).map(r => r.unregister()));
     } catch (e) {}
     setTimeout(() => window.location.replace(url), 400);
   }
@@ -6940,31 +6971,6 @@ function circuitLabel(c) {
     } catch (err) {}
   }
 
-  function exportScheduleJSON() {
-    const el = document.getElementById('schedule-io');
-    if (el) el.value = JSON.stringify(scheduleEvents, null, 2);
-  }
-
-  function importScheduleJSON() {
-    const el = document.getElementById('schedule-io');
-    if (!el || !el.value.trim()) return;
-    try {
-      const data = JSON.parse(el.value.trim());
-      if (!Array.isArray(data)) { alert('JSON 格式应为数组'); return; }
-      const ids = new Set(scheduleEvents.map(e => e.id));
-      data.forEach(ev => {
-        if (!ev || !ev.id) return;
-        if (ids.has(ev.id)) return;
-        scheduleEvents.push(ev);
-        ids.add(ev.id);
-      });
-      scheduleEvents.sort((a,b) => new Date(a.date + 'T' + (a.time || '00:00:00')) - new Date(b.date + 'T' + (b.time || '00:00:00')));
-      saveSchedule();
-      renderSchedule();
-      alert('导入完成');
-    } catch(e) { alert('JSON 解析失败'); }
-  }
-
   function initSchedule() {
     loadSchedule();
     document.getElementById('schedule-prev').addEventListener('click', () => {
@@ -6988,10 +6994,6 @@ function circuitLabel(c) {
       if (id && deleteSchedule(id)) closeScheduleEditor();
     });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.getElementById('schedule-editor').style.display === 'block') closeScheduleEditor(); });
-    const exportBtn = document.getElementById('schedule-export');
-    if (exportBtn) exportBtn.addEventListener('click', exportScheduleJSON);
-    const importBtn = document.getElementById('schedule-import');
-    if (importBtn) importBtn.addEventListener('click', importScheduleJSON);
     syncAllRegisteredTournaments();
     renderSchedule();
     loadRemoteSchedule();
@@ -7427,8 +7429,6 @@ function circuitLabel(c) {
 
   function closeTaskEditor() { discardVoiceRec(); overlayPop('task-editor'); }
 
-  let _teImage = '';
-  let _tePdf = null; // {name, url}
   let _teVoice = null; // {name, url}
   let _recorder = null, _voiceChunks = [], _recStartAt = 0, _recTimer = null;
 
@@ -7483,26 +7483,6 @@ function circuitLabel(c) {
       clearInterval(_recTimer); _recTimer = null;
     }
   }
-  function renderTeImage() {
-    const area = document.getElementById('te-image-area');
-    if (!area) return;
-    let html = '';
-    if (_teImage) {
-      html += `<img src="${_teImage}" style="max-width:100%; max-height:220px; border-radius:10px; display:block; margin-bottom:8px; border:1px solid #d1d5db; box-shadow:0 1px 2px rgba(0,0,0,0.08);">
-         <div style="display:flex; gap:10px; margin-bottom:8px;">
-           <button type="button" class="btn secondary" id="te-image-change" style="padding:4px 12px; font-size:0.8rem;">更换图片</button>
-           <button type="button" class="btn danger" id="te-image-remove" style="padding:4px 12px; font-size:0.8rem;">删除图片</button>
-         </div>`;
-    }
-    if (_tePdf) {
-      html += `<div style="display:flex; align-items:center; gap:8px; padding:8px 10px; background:#f8fafc; border-radius:8px; margin-bottom:8px;">
-        <span>📄</span><a href="${escapeHtml(taskFileUrl(_tePdf))}" target="_blank" style="flex:1; min-width:0; font-size:0.85rem; color:var(--primary); word-break:break-all;">${escapeHtml(_tePdf.name)}</a>
-        <button type="button" class="btn danger" id="te-pdf-remove" style="padding:2px 10px; font-size:0.75rem;">删除</button>
-      </div>`;
-    }
-    html += `<button type="button" class="btn secondary" id="te-image-add" style="padding:8px 14px; font-size:0.85rem;">📷 上传图片 / PDF</button><span id="te-upload-status" style="font-size:0.75rem; color:#9ca3af; margin-left:8px;"></span>`;
-    area.innerHTML = html;
-  }
   let _teUploading = false;
   // 通用文件上传到 cathy_data/files/，返回 {name, path, url}
   async function uploadRepoFile(file) {
@@ -7534,15 +7514,14 @@ function circuitLabel(c) {
     if (!path) return rec.url || '';
     return CATHY_SYNC_WORKER_URL.replace(/\/$/, '') + '/file?path=' + encodeURIComponent(path);
   }
-  async function uploadTaskFile(file, slot) {
-    const status = document.getElementById(slot === 'voice' ? 'te-voice-status' : 'te-upload-status');
+  async function uploadTaskFile(file) {
+    const status = document.getElementById('te-voice-status');
     if (file.size > 8 * 1024 * 1024) { alert('文件太大（超过 8MB），请压缩后再传'); return; }
     _teUploading = true;
     if (status) status.textContent = '上传中…';
     try {
       const rec = await uploadRepoFile(file);
-      if (slot === 'voice') { _teVoice = rec; renderTeVoice(); }
-      else { _tePdf = rec; renderTeImage(); }
+      _teVoice = rec; renderTeVoice();
     } catch(e) {
       if (status) status.textContent = '上传失败：' + e.message;
     } finally { _teUploading = false; }
@@ -7565,11 +7544,6 @@ function circuitLabel(c) {
       img.src = url;
     });
   }
-  function compressTaskImage(file) {
-    // 解不出（如 iPhone HEIC）→ 原样存成文件附件，不丢
-    compressImageFile(file).then(d => { _teImage = d; renderTeImage(); }).catch(() => uploadTaskFile(file));
-  }
-
   function autoResizeTextarea(el) {
     if (!el) return;
     el.style.height = 'auto';
@@ -7970,26 +7944,6 @@ function circuitLabel(c) {
       document.getElementById(id)?.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); saveTask(); } });
     });
     document.getElementById('te-notes')?.addEventListener('input', function() { autoResizeTextarea(this); });
-    // 图片上传
-    document.getElementById('te-image-input')?.addEventListener('change', (e) => {
-      const f = e.target.files && e.target.files[0];
-      if (f) {
-        if (f.type === 'application/pdf' || /\.pdf$/i.test(f.name)) uploadTaskFile(f);
-        else compressTaskImage(f);
-      }
-      e.target.value = '';
-    });
-    document.getElementById('te-image-area')?.addEventListener('click', (e) => {
-      if (e.target.closest('#te-image-add') || e.target.closest('#te-image-change')) {
-        document.getElementById('te-image-input')?.click();
-      } else if (e.target.closest('#te-image-remove')) {
-        _teImage = '';
-        renderTeImage();
-      } else if (e.target.closest('#te-pdf-remove')) {
-        _tePdf = null;
-        renderTeImage();
-      }
-    });
     document.getElementById('te-voice-area')?.addEventListener('click', (e) => {
       if (e.target.closest('#te-voice-start')) startVoiceRec(renderTeVoice, async (f) => { renderTeVoice(); await uploadTaskFile(f, 'voice'); });
       else if (e.target.closest('#te-voice-stop')) { if (_recorder && _recorder.state === 'recording') _recorder.stop(); }
