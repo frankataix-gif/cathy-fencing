@@ -21254,3 +21254,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Trigger-_-CRM_TGR_CAN_WelcometoLOY_T
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Trigger-_-CRM_TGR_CAN_WelcometoLOY_T1-_-HEADER_SHOP&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ
 
 ---
+
+## [生活旅行] 【重陽優惠】HK$1 搭高鐵！酒店減 HK$150🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-01T00:47:18.000Z
+**摘要:** Trip.com推送重阳节促销信息，提供高铁票和酒店优惠。
+**待办:** 无
+**GmailID:** 1a0f4ee17beb95b8
+
+一連5日！1/10-5/10 8AM 準時開搶，趁長假期去短途 trip 叉電👉🏻
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014320547-1790815637476.373%26ouid%3D517449.HK-20261001-edm-traintravel.2026-10-01_8_0.20261001.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D517449.HK-20261001-edm-traintravel.2026-10-01_8_0.20261001.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk
+
+---
