@@ -104,6 +104,8 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 6. Worker AI 返回的 JSON 有嵌套（日程）时要贪婪匹配 `\{[\s\S]*\}`。
 7. 公开仓库：`cathy_data/` 下的邮件摘要、日程等都是公开可读的（见待做「方案 B」）。
 8. 家庭钥匙已按用户决定关闭（`video_worker.js` `FAMILY_KEY_REQUIRED = false`，改回 true 即恢复；哈希仍在 R2 `coach/family.json`）。家长端接口因此无鉴权，懂技术的人可调用拿到教练链接。
+9. **GITHUB_TOKEN 会过期/被吊销**（2026-10-01 发生过一次：401 → PDF/附件打不开 + 全部同步静默失败）。健康检查：`curl -X POST https://cathysync.frankataix.workers.dev/ -d '{"action":"read","path":"cathy_data/version.json"}' -H 'Content-Type: application/json'`。恢复：本机 `git credential fill`（protocol=https host=github.com）里的有效 token → `PUT /accounts/{acc}/workers/scripts/cathysync/secrets` 更新 `GITHUB_TOKEN`（cf token 在 `Temp/cf_token.txt`）。注意 gho_ 开头的 OAuth token 也可能过期，复发就换长期 PAT。
+10. **静态审查查不出线上故障**：审查代码前先 curl 三个活接口（read /file /feed），401/403 一眼可见。
 
 ## 5. 待做 / 已商定
 
