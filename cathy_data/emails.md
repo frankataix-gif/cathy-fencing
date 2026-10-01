@@ -21315,3 +21315,16 @@ Thank you,
 Stratford Hall
 
 ---
+
+## [营销] Promozione Mid Season in outlet: fino a -50%
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-01T11:15:47.000Z
+**摘要:** Calvin Klein 发送的春季促销邮件，最高折扣50%
+**待办:** 无
+**GmailID:** 1a0f7361da4bc099
+
+
+
+
+---
