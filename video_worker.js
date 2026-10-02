@@ -758,6 +758,7 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
 </div>
 <div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
+<div id="bio"></div>
 <div id="career"></div>
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
@@ -930,6 +931,7 @@ async function load(manual){
     }
     vids = d.feed.videos || [];
     renderCareer(d.feed.career);
+    renderBio(d.feed.bio);
     cmts = d.comments || [];
     indexBouts();
     render();
@@ -951,6 +953,15 @@ async function load(manual){
   }
 }
 let renderedSig = "";
+// ===== 击剑之路（feed.bio：AI 生成的生涯介绍）=====
+function renderBio(bio){
+  var el = document.getElementById("bio");
+  if(!el) return;
+  var text = bio && bio.text ? bio.text : "";
+  if(!text){ el.innerHTML = ""; return; }
+  var upd = bio.generatedAt ? '<div style="font-size:10px; color:#94a3b8; margin-top:6px;">' + escH(bio.generatedAt.slice(0,10)) + '</div>' : "";
+  el.innerHTML = '<details class="car"><summary>📖 Fencing Journey · 击剑之路</summary><div style="padding:8px 2px; font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div>' + upd + '</details>';
+}
 // ===== 生涯档案（来自 feed.career：美国赛事 + 手动录入的其他国家赛事）=====
 function renderCareer(list){
   var el = document.getElementById("career");

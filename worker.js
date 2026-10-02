@@ -55,6 +55,20 @@ export default {
       }
     }
 
+    if (body.action === 'bio') {
+      try {
+        const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
+          messages: [
+            { role: 'system', content: '你是资深击剑记者，擅长把运动员的真实数据写成流畅的生涯档案介绍。规则：只用提供的数据，不编造事实；中文叙述、保留英文赛事名/组别名；写给教练看，客观、克制、有信息量。' },
+            { role: 'user', content: String(body.prompt || '') }
+          ]
+        });
+        return json({ text: (res && res.response) ? res.response : '' });
+      } catch (e) {
+        return json({ error: e.message || 'ai failed' }, 500);
+      }
+    }
+
     if (body.action === 'read') {
       // 直接读 GitHub API，不走 raw CDN —— 避免 CDN 延迟导致多设备同步拿到旧数据
       const path = body.path || '';

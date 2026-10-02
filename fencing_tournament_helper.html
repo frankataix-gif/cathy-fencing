@@ -556,7 +556,7 @@
     <div class="sub-tabs" style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
       <button class="btn active" data-subtab="tournaments" style="padding:4px 12px; font-size:0.8rem;">USA Fencing</button>
       <button class="btn secondary" data-subtab="results" style="padding:4px 12px; font-size:0.8rem;">成绩</button>
-      <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">AI</button>
+      <button class="btn secondary" data-subtab="coach" style="padding:4px 12px; font-size:0.8rem;">历程</button>
       <button class="btn secondary" data-subtab="membership" style="padding:4px 12px; font-size:0.8rem;">会员</button>
     </div>
 
@@ -658,8 +658,8 @@
 
     <div id="sub-tab-coach" class="fencing-sub-content" style="display:none;">
       <div class="card">
-        <h2 style="margin-bottom:12px;">Cathy 训练助手 / AI Coach</h2>
-        <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">整合比赛、反思、日程，给出训练和赛前建议。</p>
+        <h2 style="margin-bottom:12px;">🗺️ Cathy 击剑之路 / Fencing Journey</h2>
+        <p style="font-size:0.8rem; color:var(--gray); margin-bottom:12px;">AI 根据全部赛事数据自动整理的生涯档案——教练打开链接即可一页读懂 Cathy 的击剑经历。</p>
         <div id="coach-body" style="font-size:0.9rem; color:var(--dark);">加载中…</div>
       </div>
     </div>
@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T16:59:36Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T19:15:45Z';
+const APP_VERSION = '2026-10-02T19:29:27Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1176,6 +1176,8 @@ let cathyDataRecords = {};
 let scheduleEvents = [];
 let tasks = [];
 let careerEvents = [];
+let bioData = null;
+try { bioData = JSON.parse(localStorage.getItem('cathy_bio') || 'null'); } catch(e) {}
 try { careerEvents = JSON.parse(localStorage.getItem('cathy_career') || '[]') || []; } catch(e) { careerEvents = []; }
 let allEmails = [];
 try { cathyDataRecords = JSON.parse(localStorage.getItem('cathy_training_data') || '{}'); } catch(e) { cathyDataRecords = {}; }
@@ -2618,6 +2620,7 @@ function circuitLabel(c) {
           familyLang: getLocal('cathy_family_lang', 'zh') || 'zh',
           student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
           career: await buildCareerFeed(),
+          bio: (bioData && bioData.text) ? { text: bioData.text, generatedAt: bioData.generatedAt || '' } : null,
           videos: videos.filter(v => v.url && v.share === true).map(v => {
           const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {
@@ -4537,11 +4540,15 @@ function circuitLabel(c) {
         if (remote && remote.oppBirth && typeof remote.oppBirth === 'object') {
           oppBirthMap = Object.assign({}, remote.oppBirth, oppBirthMap);
         }
+        if (remote && remote.bio && remote.bio.generatedAt && (!bioData || !bioData.generatedAt || remote.bio.generatedAt > bioData.generatedAt)) {
+          bioData = remote.bio;
+          saveUIToLocal('cathy_bio', JSON.stringify(bioData));
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
-    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs, oppBirth: oppBirthMap };
+    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs, oppBirth: oppBirthMap, bio: bioData };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -5556,237 +5563,87 @@ function circuitLabel(c) {
     return all;
   }
 
-  function computeCoachData(results) {
-    const data = {
-      totalEvents: results.length,
-      totalBouts: 0,
-      wins: 0,
-      losses: 0,
-      poolWins: 0,
-      poolLosses: 0,
-      deRounds: [],
-      avgPlace: null,
-      reflections: flattenReflections(),
-      themes: {},
-      opponents: {},
-      upcoming: []
-    };
-
-    results.forEach(r => {
-      const bouts = r.bouts || [];
-      data.totalBouts += bouts.length;
-      const wins = bouts.filter(b => b.result === 'Victory').length;
-      const losses = bouts.length - wins;
-      data.wins += wins;
-      data.losses += losses;
-      data.poolWins += bouts.filter(b => b.bout === 'Pool' && b.result === 'Victory').length;
-      data.poolLosses += bouts.filter(b => b.bout === 'Pool' && b.result === 'Defeat').length;
-      const deRounds = [...new Set(bouts.filter(b => b.bout !== 'Pool').map(b => b.bout))];
-      data.deRounds.push(...deRounds);
-      const parsed = parsePlaceNum(r.place);
-      if (parsed.place !== null) {
-        if (data.avgPlace === null) data.avgPlace = parsed.place;
-        else data.avgPlace = (data.avgPlace + parsed.place) / 2;
-      }
-
-      // opponents
-      bouts.forEach(b => {
-        const key = b.opponent;
-        if (!data.opponents[key]) data.opponents[key] = { name: key, club: b.opponent_club || '', bouts: [] };
-        data.opponents[key].bouts.push(b);
-      });
+  // ===== 历程页：AI 生涯档案（给教练一页读懂 Cathy 的击剑之路）=====
+  function journeyStats() {
+    const entries = allCareerEntries();
+    const st = { ev: entries.length, g: 0, s: 0, b: 0, countries: {}, up: 0, w: 0, l: 0 };
+    entries.forEach(e => {
+      const p = parseInt(e.place, 10);
+      if (p === 1) st.g++; else if (p === 2) st.s++; else if (p === 3) st.b++;
+      if (e.country) st.countries[e.country] = 1;
+      if (careerUpBadge(e)) st.up++;
+      st.w += e.wins || 0; st.l += e.losses || 0;
     });
-
-    // recurring themes
-    data.reflections.forEach(ref => {
-      const cats = categorizeReflection(ref.summary);
-      cats.forEach(c => { data.themes[c] = (data.themes[c] || 0) + 1; });
-    });
-
-    // upcoming events
-    const today = vancouverISO().slice(0, 10);
-    const upcoming = scheduleEvents
-      .filter(e => e.type === 'competition' || e.type === 'camp' || e.type === 'club')
-      .filter(e => e.date >= today)
-      .sort((a, b) => a.date.localeCompare(b.date))
-      .slice(0, 5);
-    data.upcoming = upcoming;
-
-    return data;
+    return st;
   }
 
-  async function aiOnlineCoachPlan(btn) {
-    const out = document.getElementById('coach-ai-plan');
-    if (!out) return;
-    out.style.display = 'block';
-    out.innerHTML = '<div class="ai-title">在线 AI 生成计划中…</div>';
-    try {
-      const data = computeCoachData(cachedResults);
-      const totalBouts = data.totalBouts;
-      const winRate = totalBouts > 0 ? Math.round(data.wins / totalBouts * 100) + '%' : '-';
-      const poolRate = (data.poolWins + data.poolLosses) > 0 ? Math.round(data.poolWins / (data.poolWins + data.poolLosses) * 100) + '%' : '-';
-      const context = {
-        stats: { totalEvents: data.totalEvents, totalBouts, winRate, poolRate, avgPlace: data.avgPlace !== null ? Math.round(data.avgPlace) : '-' },
-        themes: data.themes,
-        recentReflections: data.reflections.slice(-5).reverse(),
-        upcoming: data.upcoming.map(e => ({ title: e.title, date: e.date, type: e.type }))
-      };
-      const ai = await aiOnlineInterpret('coach', context);
-      if (ai && ai.suggestions && ai.suggestions.length) {
-        out.innerHTML = '<div class="ai-title">在线 AI 训练计划</div><ul>' + ai.suggestions.map(s => `<li>${escapeHtml(s)}</li>`).join('') + '</ul>';
-      } else if (ai && ai.analysis) {
-        out.innerHTML = '<div class="ai-title">在线 AI 训练计划</div><p>' + escapeHtml(ai.analysis) + '</p>';
-      } else {
-        throw new Error('empty');
-      }
-    } catch(e) {
-      out.innerHTML = '<div class="ai-title">在线 AI 暂不可用</div><p style="font-size:0.8rem; color:var(--gray);">Worker 未配置或网络错误，已用本地分析代替。</p>';
-    }
-  }
-
-  function renderCoachView() {
+  function renderJourneyView() {
     const body = document.getElementById('coach-body');
     if (!body) return;
-
-    const data = computeCoachData(cachedResults);
-    const themeEntries = Object.entries(data.themes).sort((a, b) => b[1] - a[1]);
-
-    // 训练重点
-    let focusHtml = '';
-    if (themeEntries.length) {
-      const top = themeEntries.slice(0, 3);
-      const focusMap = {
-        '装备': '检查装备、剑条压力、备用武器。',
-        '心理/赛前': '赛前 15 分钟安静、少社交，做深呼吸和自我暗示。',
-        '节奏': '多练"先动"，不要跟着对手节奏走。',
-        '自信': '进攻或被压时不要退，练习 counter-time 和 parry-riposte。',
-        '距离': '练习小步逼近，到合适距离再出手。',
-        '战术/目标': '多练 feint 和变线，不要连续打同一个落点。',
-        '裁判': '前 2 剑观察裁判尺度，及时调整战术。',
-        '防守': '防守时用 blade work 破坏节奏，寻找反击时机。',
-        '进攻': '保持进攻主动性，确认距离和时机再出手。'
-      };
-      focusHtml = `<ul>${top.map(([t, n]) => `<li><strong>${t}</strong>（出现 ${n} 次）— ${focusMap[t] || '注意训练。'}</li>`).join('')}</ul>`;
-    } else {
-      focusHtml = '<div style="color:var(--gray);">暂无反思数据，先写赛后总结。</div>';
-    }
-
-    // 下一场
-    let upcomingHtml = '';
-    if (data.upcoming.length) {
-      upcomingHtml = data.upcoming.map(e => {
-        const cd = scheduleCountdown(e);
-        const cls = cd.class;
-        return `<div style="margin-bottom:10px; padding:8px; background:#f8fafc; border-radius:8px;">
-          <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
-            <strong>${escapeHtml(e.title)}</strong>
-            <span class="schedule-countdown ${cls}">${cd.text}</span>
-          </div>
-          <div style="font-size:0.8rem; color:var(--gray); margin-top:4px;">${e.date}${e.end && e.end !== e.date ? ' ~ ' + e.end : ''}${e.time ? ' · ' + e.time : ''} · ${scheduleTypeLabel(e.type)}</div>
-          ${e.description ? `<div style="font-size:0.8rem; color:var(--gray); margin-top:2px;">${escapeHtml(e.description)}</div>` : ''}
-        </div>`;
-      }).join('');
-      if (!data.upcoming.length) upcomingHtml = '<div style="color:var(--gray);">暂无日程。</div>';
-    } else {
-      upcomingHtml = '<div style="color:var(--gray);">日程里暂无下一场比赛。</div>';
-    }
-
-    // 整体数据
-    const totalBouts = data.totalBouts;
-    const winRate = totalBouts > 0 ? Math.round(data.wins / totalBouts * 100) + '%' : '-';
-    const poolRate = (data.poolWins + data.poolLosses) > 0 ? Math.round(data.poolWins / (data.poolWins + data.poolLosses) * 100) + '%' : '-';
-    const deRounds = [...new Set(data.deRounds)];
-    const deDepth = deRounds.length ? deRounds[deRounds.length - 1] : '-';
-
-    const statsHtml = `
-      <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:8px;">
-        <div class="result-summary-card"><div class="num">${data.totalEvents}</div><div class="label">赛事</div></div>
-        <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
-        <div class="result-summary-card"><div class="num">${winRate}</div><div class="label">总胜率</div></div>
-        <div class="result-summary-card"><div class="num">${poolRate}</div><div class="label">Pool 胜率</div></div>
-        <div class="result-summary-card"><div class="num">${deDepth}</div><div class="label">DE 深度</div></div>
-        <div class="result-summary-card"><div class="num">${data.avgPlace !== null ? Math.round(data.avgPlace) : '-'}</div><div class="label">平均名次</div></div>
-      </div>
-    `;
-
-    // 反复出现的对手
-    const opponentEntries = Object.values(data.opponents)
-      .filter(o => o.bouts.length > 1)
-      .map(o => {
-        const wins = o.bouts.filter(b => b.result === 'Victory').length;
-        const losses = o.bouts.length - wins;
-        return { ...o, wins, losses };
-      });
-    const opponentsHtml = opponentEntries.length ? opponentEntries.map(o => {
-      const key = `${o.name}`;
-      const winText = `${o.wins}胜 ${o.losses}负`;
-      const ref = data.reflections.find(r => r.key === `T32 / ${o.name}` || r.key === `Pool / ${o.name}`);
-      return `<div style="margin-bottom:8px; padding:8px; background:#f8fafc; border-radius:8px;">
-        <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
-          <strong>${escapeHtml(o.name)}</strong>
-          <span style="font-size:0.75rem; color:var(--gray);">${winText}</span>
-        </div>
-        <div style="font-size:0.75rem; color:var(--gray); margin-top:2px;">${escapeHtml(o.club || '')}</div>
-        ${ref ? `<div class="bout-reflection" style="margin-top:6px; font-size:0.75rem;">${escapeHtml(ref.summary)}</div>` : ''}
-      </div>`;
-    }).join('') : '<div style="color:var(--gray);">暂无重复对手记录。</div>';
-
-    // 最近反思
-    const recentRefs = data.reflections.slice(-5).reverse().map(r => `<li><strong>${escapeHtml(r.key)}：</strong>${escapeHtml(r.summary.slice(0, 120))}${r.summary.length > 120 ? '...' : ''}</li>`).join('');
-
+    const st = journeyStats();
+    const nb = st.w + st.l;
+    const bioHtml = (bioData && bioData.text)
+      ? bioData.text.split(/\n{2,}/).map(para => `<p style="margin-bottom:10px; line-height:1.8;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')
+      : '<div style="color:var(--gray); padding:16px 0;">还没有生成档案——点下方「生成」，AI 会根据现有全部赛事数据整理一份生涯介绍，并同步到教练链接页。</div>';
     body.innerHTML = `
-      <div class="coach-section">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
-          <h3 style="margin:0;">在线 AI 训练计划</h3>
-          <button class="btn" onclick="aiOnlineCoachPlan(this)" style="padding:4px 12px; font-size:0.8rem;">生成</button>
-        </div>
-        <div id="coach-ai-plan" style="display:none;"></div>
+      <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;">
+        <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${st.ev}</div><div class="label">场次</div></div>
+        <div class="result-summary-card" style="padding:10px 14px;"><div class="num">🥇${st.g}🥈${st.s}🥉${st.b}</div><div class="label">奖牌</div></div>
+        <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${Object.keys(st.countries).length}</div><div class="label">国家/地区</div></div>
+        <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${nb ? Math.round(st.w / nb * 100) + '%' : '—'}</div><div class="label">胜率</div></div>
+        ${st.up ? `<div class="result-summary-card" style="padding:10px 14px;"><div class="num">⬆${st.up}</div><div class="label">跳打</div></div>` : ''}
       </div>
-      <div class="coach-section">
-        <h3>训练重点</h3>
-        ${focusHtml}
-      </div>
-      <div class="coach-section">
-        <h3>下一场 / 日程</h3>
-        ${upcomingHtml}
-      </div>
-      <div class="coach-section">
-        <h3>弱点趋势</h3>
-        <div style="display:flex; flex-wrap:wrap; gap:6px;">
-          ${themeEntries.map(([t, n]) => `<span class="coach-pill">${t} <span>${n}</span></span>`).join('')}
-        </div>
-      </div>
-      <div class="coach-section">
-        <h3>整体数据</h3>
-        ${statsHtml}
-      </div>
-      <div class="coach-section">
-        <h3>对手档案</h3>
-        ${opponentsHtml}
-      </div>
-      <div class="coach-section">
-        <h3>最近反思</h3>
-        <ul>${recentRefs || '<li>暂无</li>'}</ul>
-      </div>
-    `;
+      ${bioHtml}
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-top:14px; padding-top:12px; border-top:1px solid #eef2f7; gap:8px;">
+        <span style="font-size:0.72rem; color:var(--gray);">${bioData && bioData.generatedAt ? '更新于 ' + bioData.generatedAt.slice(0, 16).replace('T', ' ') : ''}</span>
+        <button class="btn secondary" id="bio-gen-btn" style="padding:6px 14px; font-size:0.8rem; flex-shrink:0;">${bioData && bioData.text ? '🔄 用最新数据重新生成' : '✨ 生成生涯档案'}</button>
+      </div>`;
+    document.getElementById('bio-gen-btn').addEventListener('click', e => generateCathyBio(e.currentTarget));
   }
 
-  async function loadCoachView() {
+  async function generateCathyBio(btn) {
+    if (btn) { btn.disabled = true; btn.textContent = '生成中…'; }
     const body = document.getElementById('coach-body');
-    if (!body) return;
-    if (!cachedResults.length) {
-      body.innerHTML = '加载中…';
-      try {
-        const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
-        const data = await res.json();
-        cachedResults = data && data.results ? data.results : [];
-      } catch (e) {
-        body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
-        return;
-      }
+    try {
+      const st = journeyStats();
+      const entries = allCareerEntries().slice().sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+      const rows = entries.map(e => `${e.date || '日期未录'} | ${e.name} | ${e.event || ''} | ${e.place ? '第' + e.place + '名' + (e.total ? '/' + e.total : '') : '名次未录'} | ${e.country || 'USA'}${e.wins != null ? ' | ' + e.wins + '胜' + (e.losses || 0) + '负' : ''}`).join('\n');
+      const prompt = `请基于以下真实数据，为花剑运动员 Cathy He 写一份「击剑生涯档案」，供教练快速了解她的击剑之路。
+
+要求：
+- 中文叙述，保留英文赛事名/组别名（如 Y-14 Women's Foil、EFC、SYC）
+- 分四节：1) 基本情况 2) 击剑之路（按时间叙述：起步、俱乐部、各国赛事足迹与关键奖牌）3) 数据速览 4) 当前状态与方向
+- 只使用给出的数据，不编造；日期只有月份的就不要编具体日
+- 总长度 300-500 字，客观克制
+
+运动员：Cathy He（何云熙），2014-03-13 出生，Vancouver, BC，USA Fencing Region 2，花剑（Foil），俱乐部 Dynamo Fencing Club。
+
+生涯赛事记录（共 ${st.ev} 场，按时间）：
+${rows || '（暂无）'}
+
+汇总：奖牌 🥇${st.g} 🥈${st.s} 🥉${st.b}；跳打（超龄组别参赛）${st.up} 场；涉足 ${Object.keys(st.countries).length} 个国家/地区；逐剑战绩 ${st.w}胜${st.l}负。`;
+      const res = await fetch('https://cathysync.frankataix.workers.dev/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'bio', prompt })
+      });
+      const d = await res.json();
+      if (!d || !d.text) throw new Error(d && d.error ? d.error : 'empty');
+      bioData = { text: d.text, generatedAt: new Date().toISOString() };
+      saveUIToLocal('cathy_bio', JSON.stringify(bioData));
+      syncAllToGitHub(true);
+      syncCoachFeed();
+      renderJourneyView();
+    } catch (e) {
+      if (btn) { btn.disabled = false; btn.textContent = '重试'; }
+      if (body) body.insertAdjacentHTML('beforeend', `<div style="color:var(--danger); font-size:0.8rem; margin-top:8px;">生成失败：${escapeHtml(e.message || 'error')}</div>`);
     }
-    renderCoachView();
   }
+
+  function loadJourneyView() {
+    renderJourneyView();
+  }
+
 
   function parseScore(score) {
     const m = String(score || '').match(/(\d+)\s*[:：]\s*(\d+)/);
@@ -6601,7 +6458,7 @@ function circuitLabel(c) {
       updateMapMarkers();
     }
     if (tab === 'results') loadResultsView();
-    if (tab === 'coach') loadCoachView();
+    if (tab === 'coach') loadJourneyView();
   }
 
   function setCathydataSubTab(tab) {
