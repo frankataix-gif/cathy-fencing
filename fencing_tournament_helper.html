@@ -643,9 +643,8 @@
       <div class="card">
         <h2 style="margin-bottom:12px;">比赛成绩 / Results</h2>
         <div style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
-          <button class="btn active" id="results-view-list" style="padding:4px 12px; font-size:0.8rem;">列表</button>
+          <button class="btn active" id="results-view-list" style="padding:4px 12px; font-size:0.8rem;">赛事</button>
           <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
-          <button class="btn secondary" id="results-view-career" style="padding:4px 12px; font-size:0.8rem;">生涯</button>
           <button class="btn secondary" id="results-view-opp" style="padding:4px 12px; font-size:0.8rem;">对手</button>
         </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
@@ -3603,8 +3602,7 @@ function circuitLabel(c) {
         saveBoutReflection(eventId, round, opponent, summary);
         form.style.display = 'none';
         form.innerHTML = '';
-        if (resultsViewMode === 'list') renderResultsList(cachedResults);
-        else if (resultsViewMode === 'career') renderCareerView();
+        if (resultsViewMode === 'list') renderResultsList();
         else if (resultsViewMode === 'opp') renderTrendOpponents(document.getElementById('results-view-body'));
         else renderTrendChart(allCareerEntries());
       });
@@ -3749,7 +3747,7 @@ function circuitLabel(c) {
       renderSchedule();
       if (typeof renderTasks === 'function') renderTasks();
       if (typeof renderVideoWall === 'function') renderVideoWall();
-      if (typeof renderCareerView === 'function' && resultsViewMode === 'career') renderCareerView();
+      if (resultsViewMode === 'list' && typeof renderResultsList === 'function') renderResultsList();
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
@@ -5847,7 +5845,7 @@ function circuitLabel(c) {
     return insights;
   }
 
-  function renderResultCard(r) {
+  function renderResultCard(r, grouped) {
     const bouts = (r.bouts || []).map((b, idx) => {
       const isWin = b.result === 'Victory';
       const resultClass = isWin ? 'bout-win' : 'bout-loss';
@@ -5895,9 +5893,9 @@ function circuitLabel(c) {
     ` : '';
 
     return `
-      <div class="result-card" data-event-id="${r.event_id || ''}" data-title="${titleAttr}" data-rounds="${roundsAttr}">
-        <h3>${escapeHtml(r.tournament)}</h3>
-        <div class="meta">${escapeHtml(r.date_display || '')} · ${escapeHtml(r.event || '')} · ${escapeHtml(r.event_class || '')} ${escapeHtml(r.age_group || '')}</div>
+      <div class="result-card" data-event-id="${r.event_id || ''}" data-title="${titleAttr}" data-rounds="${roundsAttr}"${grouped ? ' style="box-shadow:none; border:1px solid #eef2f7; margin-bottom:10px;"' : ''}>
+        <h3>${escapeHtml(grouped ? (r.event || '赛事') : r.tournament)}</h3>
+        <div class="meta">${grouped ? escapeHtml([r.date_display, r.event_class, r.age_group].filter(Boolean).join(' · ')) : escapeHtml(r.date_display || '') + ' · ' + escapeHtml(r.event || '') + ' · ' + escapeHtml(r.event_class || '') + ' ' + escapeHtml(r.age_group || '')}</div>
         <div class="stats">
           <span class="result-stat"><strong>名次</strong> ${escapeHtml(r.place || '-')}</span>
           <span class="result-stat"><strong>参赛</strong> ${escapeHtml(String(r.total || '-'))} 人</span>
@@ -5967,54 +5965,76 @@ function circuitLabel(c) {
     box.style.display = 'block';
   }
 
-  function renderResultsList(results) {
+  // 赛事视图：按赛事名分组（美国自动 + 国际手动录入合并），赛事卡下挂各年龄组
+  function renderResultsList() {
     const body = document.getElementById('results-view-body');
     if (!body) return;
 
-    // 整体汇总
-    const totalEvents = results.length;
-    const totalBouts = results.reduce((sum, r) => sum + (r.bouts || []).length, 0);
-    const wins = results.reduce((sum, r) => sum + (r.bouts || []).filter(b => b.result === 'Victory').length, 0);
-    const losses = totalBouts - wins;
+    const groups = new Map();
+    const addItem = (key, it) => {
+      const k = (key || '').trim() || '（未命名赛事）';
+      if (!groups.has(k)) groups.set(k, { name: k, items: [], latest: '' });
+      const g = groups.get(k);
+      g.items.push(it);
+      if ((it.date || '') > g.latest) g.latest = it.date;
+    };
+    (cachedResults || []).forEach(r => addItem(r.tournament, { src: 'usaf', r, date: r.date_iso || '' }));
+    (careerEvents || []).forEach(e => addItem(e.name, { src: 'manual', e, date: e.date || '' }));
+    const list = [...groups.values()].sort((a, b) => b.latest.localeCompare(a.latest));
 
-    const groupStats = computeGroupStats(results);
-    const groupHtml = Object.entries(groupStats).map(([g, s]) => {
-      const winRate = s.wins + s.losses > 0 ? Math.round(s.wins / (s.wins + s.losses) * 100) + '%' : '-';
-      return `
-        <div class="result-summary-card" style="text-align:left; padding:12px;">
-          <div style="font-size:0.85rem; color:var(--gray); margin-bottom:4px;">年龄组</div>
-          <div style="font-size:1.1rem; font-weight:700;">${g}</div>
-          <div style="display:flex; gap:10px; margin-top:8px; flex-wrap:wrap; font-size:0.75rem; color:var(--gray);">
-            <span>${s.events.length} 场</span>
-            <span>胜率 ${winRate}</span>
-            <span>最佳 ${s.best !== null ? s.best : '-'}</span>
-          </div>
-        </div>
-      `;
-    }).join('');
+    let html = `<div style="display:flex; justify-content:space-between; align-items:center; margin:6px 0 10px;">
+        <span style="font-size:0.75rem; color:var(--gray);">按赛事分组 · 美国赛事自动收录 · 其他国家点右侧录入</span>
+        <button class="btn cathy" id="career-add-btn" style="padding:6px 16px; font-size:0.85rem;">+ 录入成绩</button>
+      </div>`;
 
-    const summaryHtml = `
-      <div class="result-summary">
-        <div class="result-summary-card"><div class="num">${totalEvents}</div><div class="label">赛事</div></div>
-        <div class="result-summary-card"><div class="num">${totalBouts}</div><div class="label">剑数</div></div>
-        <div class="result-summary-card"><div class="num">${wins}</div><div class="label">胜</div></div>
-        <div class="result-summary-card"><div class="num">${losses}</div><div class="label">负</div></div>
-      </div>
-      <div class="result-summary" style="margin-top:12px;">
-        ${groupHtml}
-      </div>
-    `;
-
-    // 按年龄组分组显示
-    const byAge = {};
-    results.forEach(r => { const g = r.age_group || '未分组'; if (!byAge[g]) byAge[g] = []; byAge[g].push(r); });
-    let cardsHtml = '';
-    for (const [g, list] of Object.entries(byAge)) {
-      cardsHtml += `<h3 style="margin:20px 0 10px; font-size:1rem; color:var(--gray);">${g}</h3>`;
-      cardsHtml += list.map(renderResultCard).join('');
+    if (!list.length) {
+      body.innerHTML = html + '<div class="results-empty">暂无赛事记录</div>';
+      document.getElementById('career-add-btn').addEventListener('click', () => openCareerEditor(null));
+      return;
     }
 
-    body.innerHTML = summaryHtml + cardsHtml;
+    let lastYear = '';
+    list.forEach(g => {
+      const y = g.latest.slice(0, 4) || '未注明日期';
+      if (y !== lastYear) { lastYear = y; html += `<h3 style="margin:16px 0 10px; font-size:0.95rem; color:var(--gray);">${escapeHtml(y)}</h3>`; }
+      const us = g.items.filter(i => i.src === 'usaf').map(i => i.r);
+      const man = g.items.filter(i => i.src === 'manual').map(i => i.e);
+      const m0 = man[0];
+      const flag = careerFlag(m0 ? m0.country : 'USA');
+      const loc = m0 ? [m0.city, m0.country].filter(Boolean).join(', ') : '美国';
+      const level = us[0] ? (us[0].circuits || []).join('/') : (m0 && m0.level) || '';
+      html += `<div class="card" style="margin-bottom:14px; padding:14px;">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <div style="font-weight:700; font-size:0.95rem;">${flag} ${escapeHtml(g.name)}</div>
+          <div style="font-size:0.72rem; color:var(--gray); flex-shrink:0;">${escapeHtml(g.latest)}</div>
+        </div>
+        <div style="font-size:0.75rem; color:var(--gray); margin:2px 0 4px;">${escapeHtml(loc)}${level ? ' · ' + escapeHtml(level) : ''}</div>`;
+      // 国际赛事：紧凑行 + 编辑
+      man.forEach(e => {
+        const pl = parseInt(e.place, 10);
+        const placeTxt = pl === 1 ? '🥇' : pl === 2 ? '🥈' : pl === 3 ? '🥉' : (e.place || '—');
+        const up = careerUpBadge(e);
+        const wl = (e.wins || e.losses) ? ` · ${e.wins || 0}胜${e.losses || 0}负` : '';
+        html += `<div style="display:flex; gap:10px; align-items:center; padding:7px 0; border-top:1px solid #f1f5f9;">
+          <div style="flex:none; min-width:44px; font-weight:800; font-size:0.95rem;">${placeTxt}${pl && pl > 3 && e.total ? `<span style="font-weight:400; font-size:0.7rem; color:var(--gray);">/${e.total}</span>` : ''}</div>
+          <div style="flex:1; min-width:0;">
+            <span style="font-size:0.86rem; font-weight:600;">${escapeHtml(e.event || '未注明项目')}</span>
+            ${up ? `<span title="${up.age}岁参加${up.group}岁组" style="margin-left:6px; font-size:0.62rem; padding:1px 6px; border-radius:8px; background:#f3e8ff; color:#7c3aed;">⬆跳打</span>` : ''}
+            <div style="font-size:0.73rem; color:var(--gray); margin-top:1px;">${escapeHtml(e.date || '')}${wl}${e.notes ? ' · ' + escapeHtml(e.notes) : ''}${e.url ? ` · <a href="${escapeHtml(e.url)}" target="_blank" style="color:#2563eb; text-decoration:none;">🔗</a>` : ''}</div>
+          </div>
+          <button class="btn secondary career-edit" data-cid="${e.id}" style="flex:none; padding:2px 8px; font-size:0.72rem;">编辑</button>
+        </div>`;
+      });
+      // 美国赛事：完整对阵卡
+      us.forEach(r => { html += renderResultCard(r, true); });
+      html += '</div>';
+    });
+    body.innerHTML = html;
+
+    document.getElementById('career-add-btn').addEventListener('click', () => openCareerEditor(null));
+    body.querySelectorAll('.career-edit').forEach(btn => {
+      btn.addEventListener('click', () => openCareerEditor(careerEvents.find(e => e.id === btn.dataset.cid)));
+    });
 
     // 绑定比赛感言按钮
     body.querySelectorAll('.reflection-btn').forEach(btn => {
@@ -6391,51 +6411,6 @@ function circuitLabel(c) {
   }
   function newCareerId() { return 'ce_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8); }
 
-  function renderCareerView() {
-    const body = document.getElementById('results-view-body');
-    if (!body) return;
-    const list = allCareerEntries().slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    renderMedalBoard(list);
-    let html = `<div style="display:flex; justify-content:space-between; align-items:center; margin:14px 0 4px;">
-        <span style="font-size:0.75rem; color:var(--gray);">美国赛事自动收录 · 其他国家点右侧录入</span>
-        <button class="btn cathy" id="career-add-btn" style="padding:6px 16px; font-size:0.85rem;">+ 录入成绩</button>
-      </div>`;
-    if (!list.length) {
-      body.innerHTML = html + '<div class="results-empty">还没有生涯记录<br>美国赛事会自动出现在这里</div>';
-      const ab = document.getElementById('career-add-btn');
-      if (ab) ab.addEventListener('click', () => openCareerEditor(null));
-      return;
-    }
-    let lastYear = '';
-    list.forEach(e => {
-      const y = (e.date || '').slice(0, 4) || '未注明日期';
-      if (y !== lastYear) { lastYear = y; html += `<h3 style="margin:18px 0 8px; font-size:1rem; color:var(--gray);">${escapeHtml(y)}</h3>`; }
-      const medal = e.place === 1 ? '🥇 ' : e.place === 2 ? '🥈 ' : e.place === 3 ? '🥉 ' : '';
-      const placeTxt = e.place ? medal + e.place + (e.total ? '/' + e.total : '') : '—';
-      const loc = [e.city, e.country].filter(Boolean).join(', ');
-      const recTxt = (e.wins != null || e.losses != null) ? ` · ${e.wins || 0}胜${e.losses || 0}负` : '';
-      const up = careerUpBadge(e);
-      const upBadge = up ? ` <span title="${up.age}岁参加${up.group}岁组" style="font-size:0.66rem; background:#fdf2f8; color:#be185d; border:1px solid #fbcfe8; border-radius:6px; padding:1px 6px; vertical-align:2px;">⬆ 跳打</span>` : '';
-      const srcBadge = e.src === 'usaf' ? '' : ' <span style="font-size:0.66rem; background:#eef2ff; color:#4338ca; border-radius:6px; padding:1px 6px; vertical-align:2px;">录入</span>';
-      const nameHtml = e.url ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none; font-weight:700;">${escapeHtml(e.name)}</a>` : `<b>${escapeHtml(e.name)}</b>`;
-      const editBtn = e.src === 'manual' ? `<button class="btn secondary career-edit" data-cid="${escapeHtml(e.id)}" style="padding:3px 12px; font-size:0.75rem; flex-shrink:0;">编辑</button>` : '';
-      html += `<div class="card" style="margin-bottom:10px; padding:12px; display:flex; gap:12px; align-items:flex-start;">
-        <div style="flex:none; min-width:46px; text-align:center; font-weight:800; color:var(--dark); font-size:0.92rem; padding-top:1px;">${placeTxt}</div>
-        <div style="flex:1; min-width:0;">
-          <div style="font-size:0.92rem; line-height:1.4;">${careerFlag(e.country)} ${nameHtml}${srcBadge}${upBadge}</div>
-          <div style="font-size:0.78rem; color:var(--gray); margin-top:3px;">${escapeHtml(e.date || '')}${e.event ? ' · ' + escapeHtml(e.event) : ''}${e.level ? ' · ' + escapeHtml(e.level) : ''}${loc ? ' · ' + escapeHtml(loc) : ''}${recTxt}</div>
-          ${e.notes ? `<div style="font-size:0.82rem; color:#4b5563; margin-top:4px;">${escapeHtml(e.notes)}</div>` : ''}
-        </div>
-        ${editBtn}
-      </div>`;
-    });
-    body.innerHTML = html;
-    const ab = document.getElementById('career-add-btn');
-    if (ab) ab.addEventListener('click', () => openCareerEditor(null));
-    body.querySelectorAll('.career-edit').forEach(btn => {
-      btn.addEventListener('click', () => openCareerEditor(careerEvents.find(x => x.id === btn.dataset.cid) || null));
-    });
-  }
 
   function openCareerEditor(entry) {
     const isEdit = !!entry;
@@ -6494,7 +6469,7 @@ function circuitLabel(c) {
     } else careerEvents.push(ev);
     saveCareer();
     closeCareerEditor();
-    renderCareerView();
+    renderResultsList();
   }
   // 推送教练页用：合并美国成绩 + 手动录入，精简字段
   async function buildCareerFeed() {
@@ -6524,30 +6499,28 @@ function circuitLabel(c) {
         return;
       }
       if (resultsViewMode === 'trend') renderTrendChart(allCareerEntries());
-      else if (resultsViewMode === 'career') renderCareerView();
       else if (resultsViewMode === 'opp') renderTrendOpponents(body);
-      else renderResultsList(cachedResults);
+      else renderResultsList();
     } catch (e) {
-      // 美国成绩接口挂了时，生涯/走势仍用手动录入的数据渲染
+      // 美国成绩接口挂了时，赛事/走势仍用手动录入的数据渲染
       renderMedalBoard(allCareerEntries());
-      if (resultsViewMode === 'career') renderCareerView();
-      else if (resultsViewMode === 'trend' && careerEvents.length) renderTrendChart(allCareerEntries());
+      if (resultsViewMode === 'trend' && careerEvents.length) renderTrendChart(allCareerEntries());
+      else if (resultsViewMode === 'list' && careerEvents.length) renderResultsList();
       else body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
     }
   }
 
   function switchResultsView(mode) {
     resultsViewMode = mode;
-    ['list', 'trend', 'career', 'opp'].forEach(m => {
+    ['list', 'trend', 'opp'].forEach(m => {
       const btn = document.getElementById('results-view-' + m);
       if (btn) { btn.classList.toggle('active', mode === m); btn.classList.toggle('secondary', mode !== m); }
     });
-    if (cachedResults.length || mode === 'career' || mode === 'opp') {
+    if (cachedResults.length || careerEvents.length || mode === 'opp') {
       const body = document.getElementById('results-view-body');
       if (mode === 'trend') renderTrendChart(allCareerEntries());
-      else if (mode === 'career') renderCareerView();
       else if (mode === 'opp') renderTrendOpponents(body);
-      else renderResultsList(cachedResults);
+      else renderResultsList();
     } else {
       loadResultsView();
     }
@@ -6620,8 +6593,6 @@ function circuitLabel(c) {
     const trendBtn = document.getElementById('results-view-trend');
     if (listBtn) listBtn.addEventListener('click', () => switchResultsView('list'));
     if (trendBtn) trendBtn.addEventListener('click', () => switchResultsView('trend'));
-    const careerBtn = document.getElementById('results-view-career');
-    if (careerBtn) careerBtn.addEventListener('click', () => switchResultsView('career'));
     const oppBtn = document.getElementById('results-view-opp');
     if (oppBtn) oppBtn.addEventListener('click', () => switchResultsView('opp'));
     // 生涯编辑器（录入其他国家赛事成绩）
@@ -6634,7 +6605,7 @@ function circuitLabel(c) {
     document.getElementById('career-editor-save')?.addEventListener('click', saveCareerEvent);
     document.getElementById('career-editor-delete')?.addEventListener('click', () => {
       const id = document.getElementById('career-edit-id').value;
-      if (id && deleteCareer(id)) { closeCareerEditor(); renderCareerView(); }
+      if (id && deleteCareer(id)) { closeCareerEditor(); renderResultsList(); }
     });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.getElementById('career-editor').style.display === 'block') closeCareerEditor(); });
     const nc = document.getElementById('videos-new-coach');
