@@ -646,6 +646,7 @@
           <button class="btn active" id="results-view-list" style="padding:4px 12px; font-size:0.8rem;">列表</button>
           <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
           <button class="btn secondary" id="results-view-career" style="padding:4px 12px; font-size:0.8rem;">生涯</button>
+          <button class="btn secondary" id="results-view-opp" style="padding:4px 12px; font-size:0.8rem;">对手</button>
         </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
       </div>
@@ -3604,6 +3605,7 @@ function circuitLabel(c) {
         form.innerHTML = '';
         if (resultsViewMode === 'list') renderResultsList(cachedResults);
         else if (resultsViewMode === 'career') renderCareerView();
+        else if (resultsViewMode === 'opp') renderTrendOpponents(document.getElementById('results-view-body'));
         else renderTrendChart(allCareerEntries());
       });
     } else {
@@ -6073,15 +6075,14 @@ function circuitLabel(c) {
   function renderTrendChart(entries) {
     const body = document.getElementById('results-view-body');
     if (!body) return;
-    const modes = [['place', '名次走势'], ['pct', '击败率'], ['medals', '年度奖牌'], ['opp', '对手记录']];
-    body.innerHTML = '<div style="display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap;">' +
+    const modes = [['place', '📈 名次'], ['pct', '📊 击败率'], ['medals', '🏅 年度']];
+    body.innerHTML = '<div style="display:flex; gap:8px; margin-bottom:14px;">' +
       modes.map(([m, label]) => `<button class="btn ${trendSubMode === m ? 'active' : 'secondary'}" data-trendsub="${m}" style="padding:4px 12px; font-size:0.8rem;">${label}</button>`).join('') +
       '</div><div id="trend-sub-body"></div>';
     body.querySelectorAll('[data-trendsub]').forEach(b => b.addEventListener('click', () => { trendSubMode = b.dataset.trendsub; renderTrendChart(entries); }));
     const sub = document.getElementById('trend-sub-body');
     if (trendSubMode === 'pct') renderTrendPercentile(entries, sub);
     else if (trendSubMode === 'medals') renderTrendMedals(entries, sub);
-    else if (trendSubMode === 'opp') renderTrendOpponents(sub);
     else renderTrendPlace(entries, sub);
   }
 
@@ -6255,10 +6256,13 @@ function circuitLabel(c) {
     const byYear = {};
     (entries || []).forEach(e => {
       const y = (e.date || '').slice(0, 4) || '未知';
-      if (!byYear[y]) byYear[y] = { total: 0, g: 0, s: 0, b: 0, other: 0 };
+      if (!byYear[y]) byYear[y] = { total: 0, g: 0, s: 0, b: 0, other: 0, t8: 0, wins: 0, losses: 0 };
       byYear[y].total++;
       const p = parseInt(e.place, 10);
       if (p === 1) byYear[y].g++; else if (p === 2) byYear[y].s++; else if (p === 3) byYear[y].b++; else byYear[y].other++;
+      if (p && p <= 8) byYear[y].t8++;
+      byYear[y].wins += e.wins || 0;
+      byYear[y].losses += e.losses || 0;
     });
     const years = Object.keys(byYear).sort().reverse();
     if (!years.length) { body.innerHTML = '<div class="results-empty">暂无数据</div>'; return; }
@@ -6276,7 +6280,22 @@ function circuitLabel(c) {
           </div>
           <div style="flex:none; font-size:0.78rem; color:var(--gray); white-space:nowrap;">${s.total}场 · ${medals ? `🥇${s.g}🥈${s.s}🥉${s.b}` : '无奖牌'}</div>
         </div>`;
-      }).join('');
+      }).join('') +
+      // FencingTracker 式赛季统计表：场次 / 金 / 银 / 铜 / T8 / 胜率
+      '<h3 style="font-size:1rem; margin:18px 0 10px;">赛季统计 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">T8 = 进前八的次数</span></h3>' +
+      '<div style="overflow-x:auto;"><table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
+      '<tr style="text-align:center; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:left;">赛季</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">场次</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥇</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥈</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥉</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">T8</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">胜率</th></tr>' +
+      years.map(y => {
+        const s = byYear[y];
+        const n = s.wins + s.losses;
+        return `<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">${escapeHtml(y)}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.total}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.g || '—'}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.s || '—'}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.b || '—'}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.t8 || '—'}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${n ? Math.round(s.wins / n * 100) + '%' : '—'}</td></tr>`;
+      }).join('') + '</table></div>';
   }
 
   // 对手出生信息：本地维护的小表（对手名 → YYYY 或 YYYY-MM-DD），存 user_data 同步
@@ -6310,8 +6329,18 @@ function circuitLabel(c) {
     }));
     const list = Object.values(opp).filter(o => o.w + o.l > 0).sort((a, b) => (b.w + b.l) - (a.w + a.l) || b.w - a.w);
     if (!list.length) { body.innerHTML = '<div class="results-empty">暂无对阵数据</div>'; return; }
+    let poolW = 0, poolL = 0, deW = 0, deL = 0;
+    (cachedResults || []).forEach(r => (r.bouts || []).forEach(b => {
+      const pool = String(b.bout || '').toLowerCase() === 'pool';
+      if (b.result === 'Victory') { pool ? poolW++ : deW++; } else { pool ? poolL++ : deL++; }
+    }));
+    const pct = (w, l) => (w + l) ? Math.round(w / (w + l) * 100) + '%' : '—';
     const repeat = list.filter(o => o.w + o.l >= 2);
-    body.innerHTML = `<h3 style="font-size:1rem; margin-bottom:12px;">对手记录 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">仅美国赛事逐剑数据 · 共 ${list.length} 位对手</span></h3>` +
+    body.innerHTML = `<h3 style="font-size:1rem; margin-bottom:12px;">对手记录 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">仅美国赛事逐剑数据 · 共 ${list.length} 位对手 · 点「年龄」格录入出生年</span></h3>` +
+      `<div style="display:flex; gap:10px; margin-bottom:10px;">` +
+      `<div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:8px 12px; font-size:0.8rem;"><b>分组赛 Pool</b><br>${poolW}胜${poolL}负 · ${pct(poolW, poolL)}</div>` +
+      `<div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:8px 12px; font-size:0.8rem;"><b>淘汰赛 DE</b><br>${deW}胜${deL}负 · ${pct(deW, deL)}</div>` +
+      `</div>` +
       (repeat.length ? `<div style="font-size:0.8rem; color:#92400e; background:#fffbeb; border:1px solid #fde68a; border-radius:8px; padding:8px 10px; margin-bottom:10px;">🔁 交手 ≥2 次：${repeat.map(o => `${escapeHtml(o.name)}（${o.w}胜${o.l}负）`).join('、')}</div>` : '') +
       '<div style="overflow-x:auto;">' +
       '<table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
@@ -6495,6 +6524,7 @@ function circuitLabel(c) {
       }
       if (resultsViewMode === 'trend') renderTrendChart(allCareerEntries());
       else if (resultsViewMode === 'career') renderCareerView();
+      else if (resultsViewMode === 'opp') renderTrendOpponents(body);
       else renderResultsList(cachedResults);
     } catch (e) {
       // 美国成绩接口挂了时，生涯/走势仍用手动录入的数据渲染
@@ -6507,13 +6537,15 @@ function circuitLabel(c) {
 
   function switchResultsView(mode) {
     resultsViewMode = mode;
-    ['list', 'trend', 'career'].forEach(m => {
+    ['list', 'trend', 'career', 'opp'].forEach(m => {
       const btn = document.getElementById('results-view-' + m);
       if (btn) { btn.classList.toggle('active', mode === m); btn.classList.toggle('secondary', mode !== m); }
     });
-    if (cachedResults.length || mode === 'career') {
+    if (cachedResults.length || mode === 'career' || mode === 'opp') {
+      const body = document.getElementById('results-view-body');
       if (mode === 'trend') renderTrendChart(allCareerEntries());
       else if (mode === 'career') renderCareerView();
+      else if (mode === 'opp') renderTrendOpponents(body);
       else renderResultsList(cachedResults);
     } else {
       loadResultsView();
@@ -6589,6 +6621,8 @@ function circuitLabel(c) {
     if (trendBtn) trendBtn.addEventListener('click', () => switchResultsView('trend'));
     const careerBtn = document.getElementById('results-view-career');
     if (careerBtn) careerBtn.addEventListener('click', () => switchResultsView('career'));
+    const oppBtn = document.getElementById('results-view-opp');
+    if (oppBtn) oppBtn.addEventListener('click', () => switchResultsView('opp'));
     // 生涯编辑器（录入其他国家赛事成绩）
     const ceMask = document.getElementById('career-editor');
     let ceDownOnMask = false;
