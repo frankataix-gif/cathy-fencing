@@ -34,7 +34,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 | 邮件推送 | `gmail_sync_script.gs`（Apps Script） | Gmail → cathysync `email` action |
 | 赛事数据 | `.github/workflows/update.yml` + `cathy_data/*.py` | 定时抓 USA Fencing，更新 TOURNAMENTS 数组 |
 
-顶部导航：`赛事 视频 日程 邮件 我的`；赛事内子页：`USA Fencing / 成绩 / AI / 会员`。
+顶部导航：`赛事 视频 日程 邮件 我的`；赛事内子页：`USA Fencing / 成绩 / 历程 / 会员`（历程 = AI 生成的击剑生涯档案，存 user_data.bio，随 feed 推到教练页；worker action `bio`）。
 
 ## 2. 功能总览
 
