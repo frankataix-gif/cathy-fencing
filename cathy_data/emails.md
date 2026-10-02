@@ -21767,3 +21767,18 @@ Get three 100-point rewards for just 250 points.
  
 
 ---
+
+## [Cathy&David] Notice: Upcoming Uniform Shop hours and closures
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-10-02T18:15:06.000Z
+**摘要:** 通知校服店的营业时间和关闭情况
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0fdd3c6acb4421
+
+<!--placeholder-->
+
+
+
+---
