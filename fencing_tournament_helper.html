@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T22:36:09Z';
+const APP_VERSION = '2026-10-02T22:45:16Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1185,6 +1185,20 @@ let bioQATombs = {};
 try { bioQATombs = JSON.parse(localStorage.getItem('cathy_bio_qa_tombs') || '{}'); } catch(e) {}
 // 基础信息问答已并入生涯档案「基本情况」——问答库只保留理念与个性化问答（可自定义添加）
 const BIO_PRESET_QUESTIONS = [];
+// 花剑理念默认文本：bioQA 还没同步到 phil_* 时兜底展示（与云端 phil_* 内容一致）
+const PHILOSOPHY_DEFAULT = [
+  ['我们对花剑的整体理解', '击剑是决策运动。花剑有效区域小、有优先权规则，胜负不在力量速度，在"正确的时间做正确的事"——读对手、控距离、打节奏差。\n\n花剑进攻质量主要靠脚步：变速、急停、二次启动、距离压缩。手上靠"小动作"：disengage、coupé、击打转移、近身剑感。大动作、大力量在花剑里不是优势。优先权规则早理解早受益——"这分该谁得"的直觉本身就是得分手段。'],
+  ['基本功怎么抓？', '规范优先，宁可慢不将就。少儿骨骼发育期，动作定型同时也是身体保护。弓步落地、发力链条、平衡训练——这些要到位。'],
+  ['如何避免靠"惯性动作"打球？', '多问"为什么打这一剑"，不只问"打没打进"。训练课里希望多一些对话和复盘：这一剑为什么选这个时机？对手什么习惯？动作的目的比动作的完成度更重要——技术是意图的工具，不是惯性本身。带着意图打球，动作才会随着年龄越磨越利。'],
+  ['比赛气质/敢打怎么培养？', '鼓励主动决策，不只奖励不犯错。比赛中犹豫比失误更贵。希望她敢出手、敢做选择，错了赛后复盘，不要练出"怕犯错不敢打"。'],
+  ['希望什么练习方式？', '在变化中练技术，不靠孤立刷量。同一动作换对手、换距离、换规则反复练，比单一重复更接近真实比赛。'],
+  ['技术训练重点在哪？', '脚步和节奏优先，手上抓"小动作"。训练重点放变速、急停、距离控制；手上细化小剑花、变线、转移，不要练成"大开大合"。'],
+  ['身体发育阶段怎么安排？', '抓住发育窗口，先当运动员再当击剑手。10-13 岁是协调性、反应、节奏感的敏感期，错过补不回。这个阶段的身体建设是协调、敏捷、柔韧、双侧均衡，不是举铁。'],
+  ['训练量怎么调？', '跟着发育走，不跟着年龄走。同龄孩子发育可以差两年——长个期协调性暂时退步很正常，训练量和预期请按她的发育节奏调。'],
+  ['风格什么时候定型？', '多打不同风格的对手，晚定型。希望她多碰防守型、压迫型、快慢不同节奏的对手，技术库厚一点，风格以后再定。'],
+  ['对比赛名次的态度？', '比赛看过程不看名次。少儿参赛我们看经验积累和调整能力，不看奖牌数。'],
+  ['如何面对输球？', '输球要复盘，不输人。输得起和赢得起同样重要。赛后我们会陪她做反思、看视频、记对手档案。'],
+];
 function bioQASave() {
   saveUIToLocal('cathy_bio_qa', JSON.stringify(bioQA));
   saveUIToLocal('cathy_bio_qa_tombs', JSON.stringify(bioQATombs));
@@ -5627,6 +5641,17 @@ function circuitLabel(c) {
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${nb ? Math.round(st.w / nb * 100) + '%' : '—'}</div><div class="label">胜率</div></div>
         ${st.up ? `<div class="result-summary-card" style="padding:10px 14px;"><div class="num">⬆${st.up}</div><div class="label">跳打</div></div>` : ''}
       </div>
+      ${(() => {
+        let phils = Object.entries(bioQA).filter(([id, e]) => id.indexOf('phil_') === 0 && e.a && e.a.trim()).sort((a, b) => a[0] < b[0] ? -1 : 1).map(([, e]) => e);
+        if (!phils.length) phils = PHILOSOPHY_DEFAULT.map(([q, a]) => ({ q, a }));
+        return `<div style="background:linear-gradient(135deg,#eff6ff,#f0fdf4); border:1px solid #bfdbfe; border-radius:12px; padding:14px 16px; margin-bottom:14px;">
+          <div style="font-weight:700; font-size:0.95rem; margin-bottom:10px; color:#1d4ed8;">⚔️ 花剑理念 · 家长视角<span style="font-size:0.7rem; font-weight:400; color:var(--gray); margin-left:8px;">问答式 · 教练页同步展示</span></div>
+          ${phils.map(e => `<div style="margin-bottom:10px; background:white; border-radius:8px; padding:10px 12px;">
+            <div style="font-weight:600; font-size:0.84rem; color:#1e40af; margin-bottom:4px;">${escapeHtml(e.q || '')}</div>
+            <div style="font-size:0.8rem; color:#374151; line-height:1.7; white-space:pre-line;">${escapeHtml(e.a.trim())}</div>
+          </div>`).join('')}
+        </div>`;
+      })()}
       <details class="bout-details" style="margin-bottom:14px;">
         <summary style="background:#eff6ff; border-color:#bfdbfe; color:#1d4ed8;">${qaSummary}</summary>
         <div id="bio-qa-list" style="margin-top:8px;"></div>
