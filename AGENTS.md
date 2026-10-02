@@ -85,7 +85,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 
 ## 3. 部署与验证
 
-- App：改 `fencing_tournament_helper.html` → commit → push（远端 GitHub Actions 提交很密，push 被拒就 `git pull --rebase` 重试）。
+- App：改 `fencing_tournament_helper.html` → commit → push（远端 GitHub Actions 提交很密，push 被拒就 `git pull --rebase` 重试）。**纯代码推送必须顺手 bump `cathy_data/version.json`**（它只在赛事数据更新时被 workflow 写；不变则已打开的 App 永远不弹更新横幅）。
 - 视频服务：`python C:\Users\25534\AppData\Local\Temp\deploy_video_worker_named.py cathyvideos`
 - 同步服务：`python C:\Users\25534\AppData\Local\Temp\deploy_cathy_worker_content.py`（只换代码、保留 GITHUB_TOKEN 等密钥；旧的 `deploy_cathy_worker.py` 会被拒）
 - 部署脚本和 Cloudflare token（`cf_token.txt`）都在 Temp 目录，被清理时需重建；token 不进仓库。
