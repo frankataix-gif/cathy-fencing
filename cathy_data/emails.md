@@ -21673,3 +21673,19 @@ FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQRVAmqn38ElC9XD82aT26o0-3DEJNU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFkvxM-2FHyeWzRngcIL4QcBs4h-2FpwZ0ReIUP3QF4WuYVTrasTBpetJdUwsHEKuDp3UYjG02karrxLe0XwgWNhMAxXo6ZtGw5CzgzrLFIqlZ5AP5oyoTEMjhmrq7N
 
 ---
+
+## [其他] How could the new first-time buyer scheme help the housing market?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-10-02T16:19:42.000Z
+**摘要:** Rightmove 发送关于新首次购房者计划对房地产市场影响的邮件，提及预算中将公布更多细节。
+**待办:** 无
+**GmailID:** 1a0fd6a175d7b46d
+
+More details to come at the Budget - here's what we know so far
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/ejf2JUkXqDeE8C68vKg0dw~~/AAAHahA~/S5u4KMrRWzylWZvh2IOG-qqdgaDkV0kk6Vj5a_sludV_TLMbMRqDQMAE8dOPArXsAQ7wTLk2daWh7qEH1AAY6uEji1MEQfH_9dsBROMHC1WDic_sPvNQNnJI_Z-EGzFbQOutOQtRA2asV-hBp1W0MIWpH-bDv2oHkLPCJFrkmSU~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/xMVztTxMLD_NQV3lTXyzbw~~/AAAHahA~/AXfssOrpKLmz8HAdpyBAMUHc0UXtfHyxJEH2KklID6rQdldEGgD-LBLmeKdgSMIDRUEa9MD3Zx7L5TLJ-pGblPqad
+
+---
