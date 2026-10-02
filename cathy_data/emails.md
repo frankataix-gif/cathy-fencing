@@ -21659,3 +21659,17 @@ Your perfect arch, inside.
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Let it rain: Meet our waterproof collection
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-02T13:09:30.000Z
+**摘要:** Browns Shoes推广其防水鞋款，涵盖ARTICA、UGG、Lemon Jelly等品牌，并提供48小时快速配送服务。
+**待办:** 无
+**GmailID:** 1a0fd382b2870b42
+
+Explore storm-ready styles from ARTICA, UGG, Lemon Jelly + more!
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQRVAmqn38ElC9XD82aT26o0-3DEJNU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFkvxM-2FHyeWzRngcIL4QcBs4h-2FpwZ0ReIUP3QF4WuYVTrasTBpetJdUwsHEKuDp3UYjG02karrxLe0XwgWNhMAxXo6ZtGw5CzgzrLFIqlZ5AP5oyoTEMjhmrq7N
+
+---
