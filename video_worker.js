@@ -731,6 +731,12 @@ function renderCoachPage(token, meta, t, mode) {
   .ctabs{display:flex;gap:6px;margin:10px 0 12px}
   .ctabs button{flex:1;background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:10px;padding:9px 4px;font-size:.85rem;cursor:pointer;min-height:40px}
   .ctabs button.on{background:#2563eb;color:#fff;border-color:#2563eb;font-weight:700}
+  .rsub{display:flex;gap:5px;margin:0 0 10px}
+  .rsub button{flex:1;background:#f1f5f9;color:#475569;border:1px solid #e2e8f0;border-radius:8px;padding:7px 2px;font-size:.78rem;cursor:pointer;min-height:34px}
+  .rsub button.on{background:#1e293b;color:#fff;border-color:#1e293b;font-weight:700}
+  .rq{font-weight:700;font-size:13px;color:#1e40af;margin:12px 0 4px}
+  .ra{font-size:12.5px;line-height:1.75;color:#374151;margin-bottom:10px;white-space:pre-line}
+  svg.cchart{width:100%;height:auto;display:block}
   .aptabs i{width:9px;height:9px;border-radius:50%;display:inline-block}
   .apempty{color:#64748b;font-size:.82rem;padding:10px 2px}
   .apcomp{position:sticky;bottom:0;background:rgba(2,6,23,.97);padding:8px 0 calc(8px + env(safe-area-inset-bottom));margin-top:8px;z-index:50;border-top:1px solid #1e293b}
@@ -767,8 +773,17 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
   <button data-ct="j" onclick="switchCoachTab('j')">📖 历程</button>
 </div>
 <div id="ctab-v"><div id="list"><div class="empty">${esc(t.loading)}</div></div></div>
-<div id="ctab-r" style="display:none"><div id="career"></div></div>
-<div id="ctab-j" style="display:none"><div id="phil"></div><div id="bio"></div></div>
+<div id="ctab-r" style="display:none">
+  <div class="rsub">
+    <button class="on" data-rs="list" onclick="switchResSub('list')">赛事</button>
+    <button data-rs="medals" onclick="switchResSub('medals')">年度奖牌</button>
+    <button data-rs="place" onclick="switchResSub('place')">名次</button>
+    <button data-rs="opp" onclick="switchResSub('opp')">对手</button>
+  </div>
+  <div id="career"></div>
+  <div id="resSubBody"></div>
+</div>
+<div id="ctab-j" style="display:none"><div id="bio"></div><div id="phil"></div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
@@ -938,7 +953,8 @@ async function load(manual){
       document.getElementById("stuLine").textContent = [stu.weapon, stu.birth ? "🎂 " + stu.birth + (age ? " (" + age + ")" : "") : "", stu.home, T.videosHere].filter(Boolean).join(" · ");
     }
     vids = d.feed.videos || [];
-    renderCareer(d.feed.career);
+    CUR_FEED = d.feed || {};
+    renderCareer(CUR_FEED.career);
     renderBio(d.feed.bio);
     renderPhil(d.feed.philosophy);
     cmts = d.comments || [];
@@ -974,7 +990,8 @@ function renderPhil(p){
   var text = p && p.text ? p.text : "";
   if(!text){ el.innerHTML = ""; return; }
   el.innerHTML = '<div class="car" style="border-left:4px solid #2563eb; background:#f8fafc; border-radius:10px; padding:12px 14px; margin-bottom:10px;">'
-    + '<div style="font-weight:700; font-size:14px; margin-bottom:8px;">📜 训练理念 · Training Philosophy（家长视角）</div>'
+    + '<div style="font-weight:700; font-size:14px; margin-bottom:4px;">📜 家长对花剑的理解与期望</div>'
+    + '<div style="font-size:11px; color:#64748b; margin-bottom:10px;">仅代表家长对花剑项目的理解 · 供教练参考，专业安排以教练为准，不代表对训练的要求</div>'
     + '<div style="font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div></div>';
 }
 // ===== 击剑之路（feed.bio：AI 生成的生涯介绍）=====
@@ -991,7 +1008,7 @@ function renderBio(bio){
     if (pi === 0 && para.length < 60) return '<div style="font-weight:800; font-size:15px; color:#1f2937; margin-bottom:8px;">' + escH(para) + '</div>';
     return '<div style="margin-bottom:8px; font-size:12.5px; line-height:1.75; color:#374151; white-space:pre-line;">' + escH(para) + '</div>';
   }).join('');
-  el.innerHTML = '<details class="car"><summary>📖 Fencing Journey · 击剑之路</summary><div style="padding:8px 2px;">' + bioHtml + '</div>' + upd + '</details>';
+  el.innerHTML = '<div class="car" style="padding:12px 14px; margin-bottom:10px; border-radius:10px;"><div style="font-weight:700; font-size:14px; margin-bottom:6px;">📖 击剑生涯档案</div><div style="padding:4px 0;">' + bioHtml + '</div>' + upd + '</div>';
 }
 // ===== 生涯档案（来自 feed.career：美国赛事 + 手动录入的其他国家赛事）=====
 function renderCareer(list){
@@ -1007,7 +1024,7 @@ function renderCareer(list){
   var byYear = {};
   list.forEach(function(e){ var y=(e.date||"").slice(0,4)||"—"; (byYear[y]=byYear[y]||[]).push(e); });
   var years = Object.keys(byYear).sort().reverse();
-  var h = '<details class="car"><summary>🏆 Career · 生涯档案 <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></summary>';
+  var h = '<div class="car"><div style="font-weight:700; font-size:13px; margin-bottom:4px;">📋 赛事记录 <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></div>';
   years.forEach(function(y){
     h += '<div class="cary">' + escH(y) + '</div>';
     byYear[y].forEach(function(e){
@@ -1024,8 +1041,126 @@ function renderCareer(list){
         + '<span class="card-c">' + escH(loc) + '</span></div>';
     });
   });
-  h += "</details>";
+  h += "</div>";
   el.innerHTML = h;
+}
+// ===== 成绩栏子视图：赛事(上面的列表) / 年度奖牌 / 名次 / 对手 =====
+var CUR_FEED = {};
+function firstNum(s){ var t = "", i = 0; s = String(s || ""); while(i < s.length && !(s[i] >= "0" && s[i] <= "9")) i++; while(i < s.length && s[i] >= "0" && s[i] <= "9"){ t += s[i]; i++; } return t ? parseInt(t, 10) : null; }
+function cAgeGroup(e){
+  var ev = String((e && (e.age_group || e.event)) || "").toUpperCase();
+  if(ev.indexOf("CADET") >= 0 || ev.indexOf("CDT") >= 0) return 17;
+  if(ev.indexOf("JUNIOR") >= 0 || ev.indexOf("JNR") >= 0) return 20;
+  if(ev.indexOf("SENIOR") >= 0 || ev.indexOf("VET") >= 0 || ev.indexOf("DIV") >= 0) return 99;
+  return firstNum(ev);
+}
+function cAgeLabel(g){ return g == null ? "其他" : g >= 99 ? "成人" : g + "岁组"; }
+function switchResSub(m){
+  document.querySelectorAll('.rsub button').forEach(function(b){ b.classList.toggle('on', b.dataset.rs === m); });
+  var career = document.getElementById("career"), sub = document.getElementById("resSubBody");
+  if(career) career.style.display = (m === "list") ? "" : "none";
+  if(!sub) return;
+  var list = CUR_FEED.career || [];
+  if(m === "list") sub.innerHTML = "";
+  else if(m === "medals") sub.innerHTML = resMedalsHtml(list);
+  else if(m === "place") sub.innerHTML = resPlaceHtml(list);
+  else if(m === "opp") sub.innerHTML = resOppHtml();
+}
+function resMedalsHtml(list){
+  var by = {}, T = { n:0, g:0, s:0, b:0, w:0, l:0 };
+  list.forEach(function(e){
+    var y = String(e.date || "").slice(0,4) || "—";
+    var o = by[y] = by[y] || { n:0, g:0, s:0, b:0, w:0, l:0 };
+    o.n++;
+    var p = parseInt(e.place, 10);
+    if(p === 1) o.g++; else if(p === 2) o.s++; else if(p === 3) o.b++;
+    o.w += e.wins || 0; o.l += e.losses || 0;
+  });
+  var ys = Object.keys(by).sort().reverse();
+  var h = '<table style="width:100%; border-collapse:collapse; font-size:12.5px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
+    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">赛季</th><th style="padding:7px 4px; text-align:center">场次</th><th style="padding:7px 4px; text-align:center">🥇</th><th style="padding:7px 4px; text-align:center">🥈</th><th style="padding:7px 4px; text-align:center">🥉</th><th style="padding:7px 4px; text-align:center">胜-负</th></tr>';
+  ys.forEach(function(y){
+    var o = by[y];
+    ['n','g','s','b','w','l'].forEach(function(k){ T[k] += o[k]; });
+    h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:7px 6px; font-weight:700; color:#1e293b">' + escH(y) + '</td>'
+      + '<td style="text-align:center">' + o.n + '</td>'
+      + '<td style="text-align:center">' + (o.g || '·') + '</td><td style="text-align:center">' + (o.s || '·') + '</td><td style="text-align:center">' + (o.b || '·') + '</td>'
+      + '<td style="text-align:center">' + (o.w || o.l ? o.w + '-' + o.l : '·') + '</td></tr>';
+  });
+  h += '<tr style="background:#fffbeb; font-weight:700"><td style="padding:7px 6px">总计</td><td style="text-align:center">' + T.n + '</td><td style="text-align:center">' + T.g + '</td><td style="text-align:center">' + T.s + '</td><td style="text-align:center">' + T.b + '</td><td style="text-align:center">' + (T.w || T.l ? T.w + '-' + T.l : '·') + '</td></tr></table>';
+  return h;
+}
+function resPlaceHtml(list){
+  var items = [];
+  list.forEach(function(e){
+    var p = parseInt(e.place, 10);
+    if(!(p >= 1 && p <= 32) || !e.date) return;
+    var ds = String(e.date);
+    if(ds.length === 7) ds += "-01";
+    if(ds.length === 4) ds += "-01-01";
+    var d = new Date(ds);
+    if(isNaN(d)) return;
+    items.push({ d: d.getTime(), p: p, g: cAgeGroup(e) });
+  });
+  if(!items.length) return '<div class="empty">暂无足够名次数据</div>';
+  items.sort(function(a, b){ return a.d - b.d; });
+  var groups = {};
+  items.forEach(function(x){ var k = x.g == null ? 99 : x.g; (groups[k] = groups[k] || []).push(x); });
+  var names = Object.keys(groups).map(Number).sort(function(a, b){ return b - a; });
+  var colors = ['#3b82f6','#ef4444','#22c55e','#f59e0b','#8b5cf6','#14b8a6','#ec4899','#84cc16'];
+  var W = 400, H = 240, pad = { t:26, r:14, b:44, l:38 };
+  var xMin = items[0].d, xMax = items[items.length-1].d;
+  function xS(t){ return pad.l + (t - xMin) / ((xMax - xMin) || 1) * (W - pad.l - pad.r); }
+  function yS(v){ return pad.t + Math.log(Math.max(1, v)) / Math.LN2 / 5 * (H - pad.t - pad.b); }
+  function medalC(p){ return p === 1 ? '#eab308' : p === 2 ? '#94a3b8' : p === 3 ? '#b45309' : '#64748b'; }
+  var yGrid = '';
+  [1,2,4,8,16,32].forEach(function(v){
+    var y = yS(v).toFixed(1);
+    yGrid += '<line x1="' + pad.l + '" y1="' + y + '" x2="' + (W - pad.r) + '" y2="' + y + '" stroke="#e2e8f0" stroke-width="1"/><text x="4" y="' + (+y + 3) + '" font-size="10" fill="#94a3b8">' + v + '</text>';
+  });
+  var xTicks = '';
+  for(var yy = new Date(xMin).getFullYear(); yy <= new Date(xMax).getFullYear(); yy++){
+    var x = xS(new Date(yy, 0, 1).getTime());
+    xTicks += '<text x="' + x.toFixed(1) + '" y="' + (H - pad.b + 16) + '" font-size="10" fill="#94a3b8" text-anchor="middle">' + yy + '</text>';
+  }
+  var out = '';
+  names.forEach(function(g, gi){
+    var pts = groups[g].slice().sort(function(a, b){ return a.d - b.d; });
+    var color = colors[gi % colors.length];
+    var path = pts.map(function(x, i){ return (i ? 'L' : 'M') + xS(x.d).toFixed(1) + ',' + yS(x.p).toFixed(1); }).join(' ');
+    var dots = pts.map(function(x){ return '<circle cx="' + xS(x.d).toFixed(1) + '" cy="' + yS(x.p).toFixed(1) + '" r="4" fill="' + medalC(x.p) + '" stroke="' + color + '" stroke-width="1.5"/>'; }).join('');
+    out += '<div style="background:white; border-radius:10px; padding:10px; margin-bottom:10px;">'
+      + '<div style="font-weight:700; font-size:13px; color:#1e293b; margin-bottom:2px;">' + cAgeLabel(g) + ' · ' + pts.length + ' 场</div>'
+      + '<svg class="cchart" viewBox="0 0 ' + W + ' ' + H + '">' + yGrid + xTicks
+      + '<path d="' + path + '" fill="none" stroke="' + color + '" stroke-width="1.6"/>' + dots + '</svg></div>';
+  });
+  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">纵轴：名次（越靠上越好，对数刻度）· 圆点颜色：🥇金 🥈银 🥉铜</div>' + out;
+}
+function resOppHtml(){
+  var list = CUR_FEED.opponents || [];
+  if(!list.length) return '<div class="empty">暂无对阵数据</div>';
+  var nowY = new Date().getFullYear();
+  var pw = 0, pl = 0, dw = 0, dl = 0;
+  var rows = list.slice().sort(function(a, b){ return (b.w + b.l) - (a.w + a.l) || b.w - a.w; });
+  list.forEach(function(o){ pw += o.pw || 0; pl += o.pl || 0; dw += o.dw || 0; dl += o.dl || 0; });
+  var pct = function(w, l){ return (w + l) ? Math.round(w / (w + l) * 100) + '%' : '—'; };
+  var h = '<div style="display:flex; gap:8px; margin-bottom:10px;">'
+    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>分组赛 Pool</b><br>' + pw + '胜' + pl + '负 · ' + pct(pw, pl) + '</div>'
+    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>淘汰赛 DE</b><br>' + dw + '胜' + dl + '负 · ' + pct(dw, dl) + '</div></div>';
+  h += '<table style="width:100%; border-collapse:collapse; font-size:12px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
+    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">对手</th><th style="padding:7px 4px;">俱乐部</th><th style="padding:7px 4px; text-align:center">年龄</th><th style="padding:7px 4px; text-align:center">交手</th><th style="padding:7px 4px; text-align:center">胜</th><th style="padding:7px 4px; text-align:center">负</th><th style="padding:7px 4px; text-align:center">胜率</th></tr>';
+  rows.forEach(function(o){
+    var by = firstNum(o.birth), age = by ? nowY - by : null;
+    var tot = o.w + o.l;
+    h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:6px; font-weight:600">' + escH(o.name) + '</td>'
+      + '<td style="padding:6px 4px; font-size:11px; color:#64748b">' + escH(o.club || '') + '</td>'
+      + '<td style="text-align:center">' + (age ? age + '岁' : '—') + '</td>'
+      + '<td style="text-align:center">' + tot + '</td>'
+      + '<td style="text-align:center; color:#16a34a">' + o.w + '</td>'
+      + '<td style="text-align:center; color:#dc2626">' + o.l + '</td>'
+      + '<td style="text-align:center; font-weight:600">' + pct(o.w, o.l) + '</td></tr>';
+  });
+  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">仅美国赛事逐剑数据 · 共 ' + rows.length + ' 位对手</div>' + h + '</table>';
 }
 function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
 // 对阵级留言 id 的 bout 部分：全部为空时退化为视频 id，避免串组

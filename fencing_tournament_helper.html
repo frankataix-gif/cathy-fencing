@@ -1067,7 +1067,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T23:18:44Z';
+const APP_VERSION = '2026-10-02T23:42:54Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -2649,6 +2649,18 @@ function circuitLabel(c) {
           student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
           career: await buildCareerFeed(),
           bio: (bioData && bioData.text) ? { text: bioData.text, generatedAt: bioData.generatedAt || '' } : null,
+          opponents: (() => {
+            const opp = {}; const ob = getOppBirth();
+            (cachedResults || []).forEach(r => (r.bouts || []).forEach(b => {
+              const o = b.opponent || '';
+              if (!o) return;
+              if (!opp[o]) opp[o] = { name: o, club: b.opponent_club || '', w: 0, l: 0, pw: 0, pl: 0, dw: 0, dl: 0 };
+              const win = b.result === 'Victory';
+              if (win) opp[o].w++; else opp[o].l++;
+              if (String(b.bout || '').toLowerCase() === 'pool') { win ? opp[o].pw++ : opp[o].pl++; } else { win ? opp[o].dw++ : opp[o].dl++; }
+            }));
+            return Object.values(opp).map(o => ({ name: o.name, club: o.club, w: o.w, l: o.l, pw: o.pw, pl: o.pl, dw: o.dw, dl: o.dl, birth: ob[o.name] || '' }));
+          })(),
           philosophy: (() => {
             const ents = Object.entries(bioQA).filter(([id, x]) => id.indexOf('phil_') === 0 && x.a && x.a.trim()).sort((a, b) => a[0] < b[0] ? -1 : 1);
             if (!ents.length) { const e = Object.values(bioQA).find(x => x.q && x.q.indexOf('理念') >= 0 && x.a && x.a.trim()); return e ? { text: e.a.trim(), updatedAt: e.updatedAt || '' } : null; }
