@@ -21807,3 +21807,18 @@ Centre. Please review this Campus Map
 <https://calendly.com/url?q=https%3A%2F%2Fwww.croftonhouse.ca%2Fuploaded%2FAdmissions%2FArrival-Map-Fine-Arts-Centre.pdf&user_uuid=fc48e0ae-baec-4b50-9491-8d6642e8205c&stage=1&hmac=579cc093145dbd75af12648debeffd302e20701dd
 
 ---
+
+## [Cathy&David] September 28 Photo Day – Portraits Are Now Available
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-10-02T23:08:17.000Z
+**摘要:** 学校通知9月28日的拍照日肖像照片已发布
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a0fee02ff320f5e
+
+<!--placeholder-->
+
+
+
+---
