@@ -85,7 +85,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 
 ## 3. 部署与验证
 
-- App：改 `fencing_tournament_helper.html` → commit → push（远端 GitHub Actions 提交很密，push 被拒就 `git pull --rebase` 重试）。**纯代码推送必须顺手 bump `cathy_data/version.json`**（它只在赛事数据更新时被 workflow 写；不变则已打开的 App 永远不弹更新横幅）。
+- App：改 `fencing_tournament_helper.html` → commit → push（远端 GitHub Actions 提交很密，push 被拒就 `git pull --rebase` 重试）。**纯代码推送必须同时把 `cathy_data/version.json` 和 HTML 里的 `const APP_VERSION` 改成同一个新时间戳**（2026-10-02 起：版本检测比的是 APP_VERSION；workflow 数据更新时会同步写两者，故数据更新静默不出横幅，代码推送才弹横幅，刷新后即消失——只 bump version.json 不改 APP_VERSION 会导致横幅刷新后仍复发）。
 - 视频服务：`python C:\Users\25534\AppData\Local\Temp\deploy_video_worker_named.py cathyvideos`
 - 同步服务：`python C:\Users\25534\AppData\Local\Temp\deploy_cathy_worker_content.py`（只换代码、保留 GITHUB_TOKEN 等密钥；旧的 `deploy_cathy_worker.py` 会被拒）
 - 部署脚本和 Cloudflare token（`cf_token.txt`）都在 Temp 目录，被清理时需重建；token 不进仓库。
