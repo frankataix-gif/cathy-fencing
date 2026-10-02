@@ -6266,23 +6266,8 @@ function circuitLabel(c) {
     });
     const years = Object.keys(byYear).sort().reverse();
     if (!years.length) { body.innerHTML = '<div class="results-empty">暂无数据</div>'; return; }
-    const maxTotal = Math.max(...years.map(y => byYear[y].total));
-    const seg = (n, color, label) => n ? `<span title="${label}" style="display:inline-block; height:100%; width:${(n / maxTotal * 100).toFixed(1)}%; background:${color};"></span>` : '';
-    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">年度奖牌</h3>' +
-      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:10px;">🥇金 🥈银 🥉铜 · 灰=未进前三</div>' +
-      years.map(y => {
-        const s = byYear[y];
-        const medals = s.g + s.s + s.b;
-        return `<div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-          <div style="flex:none; width:44px; font-weight:700; font-size:0.85rem;">${escapeHtml(y)}</div>
-          <div style="flex:1; min-width:0; height:22px; background:#f1f5f9; border-radius:6px; overflow:hidden; display:flex;">
-            ${seg(s.g, '#f59e0b', '金牌')}${seg(s.s, '#9ca3af', '银牌')}${seg(s.b, '#b45309', '铜牌')}${seg(s.other, '#cbd5e1', '其他')}
-          </div>
-          <div style="flex:none; font-size:0.78rem; color:var(--gray); white-space:nowrap;">${s.total}场 · ${medals ? `🥇${s.g}🥈${s.s}🥉${s.b}` : '无奖牌'}</div>
-        </div>`;
-      }).join('') +
-      // FencingTracker 式赛季统计表：场次 / 金 / 银 / 铜 / T8 / 胜率
-      '<h3 style="font-size:1rem; margin:18px 0 10px;">赛季统计 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">T8 = 进前八的次数</span></h3>' +
+    // FencingTracker 式赛季统计表：场次 / 金 / 银 / 铜 / T8 / 胜率
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:10px;">赛季统计 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">T8 = 进前八的次数</span></h3>' +
       '<div style="overflow-x:auto;"><table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
       '<tr style="text-align:center; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:left;">赛季</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">场次</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥇</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥈</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥉</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">T8</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">胜率</th></tr>' +
       years.map(y => {
@@ -6296,6 +6281,20 @@ function circuitLabel(c) {
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${s.t8 || '—'}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${n ? Math.round(s.wins / n * 100) + '%' : '—'}</td></tr>`;
       }).join('') + '</table></div>';
+    // 生涯总览汇总行（总场次 / 奖牌 / 国家 / 跳打 / 胜率）
+    const tot = { ev: 0, g: 0, s: 0, b: 0, w: 0, l: 0, countries: {}, up: 0 };
+    (entries || []).forEach(e => {
+      tot.ev++;
+      const p = parseInt(e.place, 10);
+      if (p === 1) tot.g++; else if (p === 2) tot.s++; else if (p === 3) tot.b++;
+      if (e.country) tot.countries[e.country] = 1;
+      tot.w += e.wins || 0; tot.l += e.losses || 0;
+      if (careerUpBadge(e)) tot.up++;
+    });
+    const tn = tot.w + tot.l;
+    body.innerHTML += `<div style="margin-top:16px; padding:12px 14px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; font-size:0.82rem; color:#374151; line-height:1.9;">
+      <b>生涯总览</b> · ${tot.ev} 场赛事 · 🥇${tot.g} 🥈${tot.s} 🥉${tot.b} · ${Object.keys(tot.countries).length} 个国家/地区 · 总战绩 ${tn ? tot.w + '胜' + tot.l + '负（' + Math.round(tot.w / tn * 100) + '%）' : '—'}${tot.up ? ' · ⬆ 跳打 ' + tot.up + ' 场' : ''}
+    </div>`;
   }
 
   // 对手出生信息：本地维护的小表（对手名 → YYYY 或 YYYY-MM-DD），存 user_data 同步
@@ -6394,9 +6393,8 @@ function circuitLabel(c) {
     if (!body) return;
     const list = allCareerEntries().slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     renderMedalBoard(list);
-    const upN = list.filter(e => careerUpBadge(e)).length;
     let html = `<div style="display:flex; justify-content:space-between; align-items:center; margin:14px 0 4px;">
-        <span style="font-size:0.75rem; color:var(--gray);">生涯共 ${list.length} 场${upN ? ` · ⬆ 跳打 ${upN} 场` : ''} · 美国赛事自动收录 · 其他国家点右侧录入</span>
+        <span style="font-size:0.75rem; color:var(--gray);">美国赛事自动收录 · 其他国家点右侧录入</span>
         <button class="btn cathy" id="career-add-btn" style="padding:6px 16px; font-size:0.85rem;">+ 录入成绩</button>
       </div>`;
     if (!list.length) {
