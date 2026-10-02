@@ -6014,7 +6014,7 @@ function circuitLabel(c) {
       const man = g.items.filter(i => i.src === 'manual').map(i => i.e);
       const m0 = man[0];
       const flag = flagImg(m0 ? m0.country : 'USA');
-      const loc = m0 ? [m0.city, m0.country ? flag + ' ' + m0.country : ''].filter(Boolean).join(', ') : flag + ' 美国';
+      const locHtml = (m0 ? [escapeHtml(m0.city || ''), m0.country ? flag + escapeHtml(m0.country) : ''] : [flag + '美国']).filter(Boolean).join(', ');
       const level = us[0] ? (us[0].circuits || []).join('/') : (m0 && m0.level) || '';
       html += `<div class="card" style="margin-bottom:14px; padding:0; overflow:hidden;">
         <div style="background:#1e293b; color:#fff; padding:10px 14px;">
@@ -6022,7 +6022,7 @@ function circuitLabel(c) {
             <div style="font-weight:700; font-size:0.95rem;">${flag} ${escapeHtml(g.name)}</div>
             <div style="font-size:0.72rem; opacity:0.8; flex-shrink:0;">${escapeHtml(g.latest)}</div>
           </div>
-          <div style="font-size:0.72rem; opacity:0.75; margin-top:2px;">${escapeHtml(loc)}${level ? ' · ' + escapeHtml(level) : ''}</div>
+          <div style="font-size:0.72rem; opacity:0.75; margin-top:2px;">${locHtml}${level ? ' · ' + escapeHtml(level) : ''}</div>
         </div>
         <div style="padding:8px 14px 12px;">`;
       // 国际赛事：紧凑行 + 编辑
