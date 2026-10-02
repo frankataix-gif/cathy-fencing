@@ -6116,7 +6116,7 @@ function circuitLabel(c) {
       const d = padded ? new Date(padded) : null;
       const place = typeof r.place === 'number' ? { place: r.place, total: r.total || null } : parsePlaceNum(r.place);
       return { ...r, parsed: place, _date: (d && !isNaN(d)) ? d : null };
-    }).filter(r => r.parsed.place !== null && r.parsed.place <= 64 && r._date);
+    }).filter(r => r.parsed.place !== null && r.parsed.place <= 32 && r._date);
     valid.sort((a, b) => a._date - b._date);
 
     if (!valid.length) {
@@ -6151,12 +6151,12 @@ function circuitLabel(c) {
         `<line x1="${x.toFixed(1)}" y1="${pad.top}" x2="${x.toFixed(1)}" y2="${H - pad.bottom}" stroke="#f1f5f9" stroke-width="1" />`;
     }).join('');
 
-    // 纵轴统一固定 1–64（超过 64 名不统计），log₂ 刻度：1/2/4/8/16/32/64 等距 = 每格一轮淘汰赛
-    const yTicksSet = [1, 2, 4, 8, 16, 32, 64];
+    // 纵轴统一固定 1–32（超过 32 名不统计），log₂ 刻度：1/2/4/8/16/32 等距 = 每格一轮淘汰赛
+    const yTicksSet = [1, 2, 4, 8, 16, 32];
     const charts = groupNames.map(g => {
       const list = groups[g], color = colorMap[g];
       const places = list.map(r => r.parsed.place);
-      const yScale = v => pad.top + Math.log2(Math.max(1, v)) / 6 * (H - pad.top - pad.bottom);
+      const yScale = v => pad.top + Math.log2(Math.max(1, v)) / 5 * (H - pad.top - pad.bottom);
       const d = list.map((r, i) => `${i === 0 ? 'M' : 'L'} ${xScale(r._date.getTime()).toFixed(1)} ${yScale(r.parsed.place).toFixed(1)}`).join(' ');
       let pts = '', lbls = '', yT = '';
       list.forEach(r => {
@@ -6187,7 +6187,7 @@ function circuitLabel(c) {
     }).join('');
 
     body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:4px;">名次走势（按年龄组分图）</h3>' +
-      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次等距刻度，每格一轮（64→32→16→8→4→2→1），超过 64 名不统计 · 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次等距刻度，每格一轮（32→16→8→4→2→1），超过 32 名不统计 · 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
   }
 
   // 击败率%：名次 / 总人数 归一化——跨赛事可比（81人第1 = 击败100%，50/102 ≈ 52%）
