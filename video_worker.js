@@ -728,6 +728,9 @@ function renderCoachPage(token, meta, t, mode) {
   .apclips button,.aptabs button,.apscope button{background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:999px;padding:7px 12px;font-size:.82rem;cursor:pointer;min-height:36px;display:inline-flex;align-items:center;gap:6px}
   .apclips button.on,.apscope button.on{background:#2563eb;border-color:#2563eb;color:#fff}
   .aptabs button.on{background:#fff;color:#0f172a;border-color:#fff;font-weight:700}
+  .ctabs{display:flex;gap:6px;margin:10px 0 12px}
+  .ctabs button{flex:1;background:#1e293b;color:#cbd5e1;border:1px solid #334155;border-radius:10px;padding:9px 4px;font-size:.85rem;cursor:pointer;min-height:40px}
+  .ctabs button.on{background:#2563eb;color:#fff;border-color:#2563eb;font-weight:700}
   .aptabs i{width:9px;height:9px;border-radius:50%;display:inline-block}
   .apempty{color:#64748b;font-size:.82rem;padding:10px 2px}
   .apcomp{position:sticky;bottom:0;background:rgba(2,6,23,.97);padding:8px 0 calc(8px + env(safe-area-inset-bottom));margin-top:8px;z-index:50;border-top:1px solid #1e293b}
@@ -758,10 +761,14 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
 </div>
 <div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
-<div id="phil"></div>
-<div id="bio"></div>
-<div id="career"></div>
-<div id="list"><div class="empty">${esc(t.loading)}</div></div>
+<div class="ctabs">
+  <button class="on" data-ct="v" onclick="switchCoachTab('v')">📹 视频</button>
+  <button data-ct="r" onclick="switchCoachTab('r')">🏆 成绩</button>
+  <button data-ct="j" onclick="switchCoachTab('j')">📖 历程</button>
+</div>
+<div id="ctab-v"><div id="list"><div class="empty">${esc(t.loading)}</div></div></div>
+<div id="ctab-r" style="display:none"><div id="career"></div></div>
+<div id="ctab-j" style="display:none"><div id="phil"></div><div id="bio"></div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
@@ -955,6 +962,11 @@ async function load(manual){
   }
 }
 let renderedSig = "";
+// ===== 教练页三栏：视频 / 成绩 / 历程 =====
+function switchCoachTab(k){
+  document.querySelectorAll('.ctabs button').forEach(function(b){ b.classList.toggle('on', b.dataset.ct === k); });
+  ['v','r','j'].forEach(function(x){ var el = document.getElementById('ctab-' + x); if (el) el.style.display = (x === k) ? '' : 'none'; });
+}
 // ===== 训练理念（feed.philosophy：家长对花剑训练的理解与期望）=====
 function renderPhil(p){
   var el = document.getElementById("phil");
@@ -973,8 +985,8 @@ function renderBio(bio){
   if(!text){ el.innerHTML = ""; return; }
   var upd = bio.generatedAt ? '<div style="font-size:10px; color:#94a3b8; margin-top:6px;">' + escH(bio.generatedAt.slice(0,10)) + '</div>' : "";
   // 【小节标题】渲染成蓝竖线标题，段落分层清晰
-  var bioHtml = text.split(/\n{2,}/).map(function(para, pi){
-    var m = para.match(/^【(.+?)】\s*\n?([\s\S]*)$/);
+  var bioHtml = text.split(/\\n{2,}/).map(function(para, pi){
+    var m = para.match(/^【(.+?)】\\s*\\n?([\\s\\S]*)$/);
     if (m) return '<div style="margin:' + (pi ? '14' : '8') + 'px 0 4px;"><div style="font-weight:700; font-size:13px; color:#1d4ed8; border-left:3px solid #2563eb; padding-left:8px;">' + escH(m[1]) + '</div>' + (m[2].trim() ? '<div style="margin-top:5px; font-size:12.5px; line-height:1.75; color:#374151; white-space:pre-line;">' + escH(m[2].trim()) + '</div>' : '') + '</div>';
     if (pi === 0 && para.length < 60) return '<div style="font-weight:800; font-size:15px; color:#1f2937; margin-bottom:8px;">' + escH(para) + '</div>';
     return '<div style="margin-bottom:8px; font-size:12.5px; line-height:1.75; color:#374151; white-space:pre-line;">' + escH(para) + '</div>';
