@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T22:23:28Z';
+const APP_VERSION = '2026-10-02T22:36:09Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1183,16 +1183,8 @@ let bioQA = {};
 try { bioQA = JSON.parse(localStorage.getItem('cathy_bio_qa') || '{}'); } catch(e) {}
 let bioQATombs = {};
 try { bioQATombs = JSON.parse(localStorage.getItem('cathy_bio_qa_tombs') || '{}'); } catch(e) {}
-const BIO_PRESET_QUESTIONS = [
-  '什么时候开始学击剑？在哪里（俱乐部/城市）？',
-  '第一个俱乐部是哪个？练了多久？',
-  '中间换过哪些俱乐部？分别是什么时间？',
-  '现在在哪个俱乐部训练？一周练几次？',
-  '为什么选花剑？',
-  null, // 原「运动/特长背景」题已移除（占位防止 preset id 错位）
-  '印象最深的一场比赛或成绩是哪场？为什么？',
-  '击剑的目标是什么（近期/长期）？'
-];
+// 基础信息问答已并入生涯档案「基本情况」——问答库只保留理念与个性化问答（可自定义添加）
+const BIO_PRESET_QUESTIONS = [];
 function bioQASave() {
   saveUIToLocal('cathy_bio_qa', JSON.stringify(bioQA));
   saveUIToLocal('cathy_bio_qa_tombs', JSON.stringify(bioQATombs));
@@ -2642,7 +2634,12 @@ function circuitLabel(c) {
           student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
           career: await buildCareerFeed(),
           bio: (bioData && bioData.text) ? { text: bioData.text, generatedAt: bioData.generatedAt || '' } : null,
-          philosophy: (() => { const e = Object.values(bioQA).find(x => x.q && x.q.indexOf('理念') >= 0 && x.a && x.a.trim()); return e ? { text: e.a.trim(), updatedAt: e.updatedAt || '' } : null; })(),
+          philosophy: (() => {
+            const ents = Object.entries(bioQA).filter(([id, x]) => id.indexOf('phil_') === 0 && x.a && x.a.trim()).sort((a, b) => a[0] < b[0] ? -1 : 1);
+            if (!ents.length) { const e = Object.values(bioQA).find(x => x.q && x.q.indexOf('理念') >= 0 && x.a && x.a.trim()); return e ? { text: e.a.trim(), updatedAt: e.updatedAt || '' } : null; }
+            const mx = ents.reduce((m, [, e]) => (e.updatedAt || '') > m ? (e.updatedAt || '') : m, '');
+            return { text: '训练理念 · 家长视角\n\n' + ents.map(([, e]) => 'Q：' + (e.q || '') + '\nA：' + e.a.trim()).join('\n\n'), updatedAt: mx };
+          })(),
           videos: videos.filter(v => v.url && v.share === true).map(v => {
           const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {
@@ -5618,7 +5615,7 @@ function circuitLabel(c) {
     const nb = st.w + st.l;
     const answeredN = Object.values(bioQA).filter(e => e.a && e.a.trim()).length;
     const totalN = Math.max(BIO_PRESET_QUESTIONS.filter(Boolean).length, Object.keys(bioQA).length);
-    const qaSummary = `📋 资料问答库 · 已答 ${answeredN}/${totalN}（AI 写档案的事实来源，点按展开填写）`;
+    const qaSummary = `📋 资料问答库 · ${answeredN} 条（训练理念与家长视角 · 教练页同步展示，点按展开）`;
     const bioHtml = (bioData && bioData.text)
       ? bioData.text.split(/\n{2,}/).map(para => `<p style="margin-bottom:10px; line-height:1.8;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')
       : '<div style="color:var(--gray); padding:16px 0;">还没有生成档案——点下方「生成」，AI 会根据现有全部赛事数据整理一份生涯介绍，并同步到教练链接页。</div>';
