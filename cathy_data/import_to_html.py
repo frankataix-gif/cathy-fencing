@@ -433,14 +433,16 @@ def replace_tournaments_array(html, new_array_text):
 
 
 def replace_data_updated(html, new_timestamp):
-    marker = "const DATA_UPDATED = '"
-    start = html.find(marker)
-    if start < 0:
-        return html
-    end = html.find("';", start + len(marker))
-    if end < 0:
-        return html
-    return html[:start + len(marker)] + new_timestamp + html[end:]
+    out = html
+    for marker in ("const DATA_UPDATED = '", "const APP_VERSION = '"):
+        start = out.find(marker)
+        if start < 0:
+            continue
+        end = out.find("';", start + len(marker))
+        if end < 0:
+            continue
+        out = out[:start + len(marker)] + new_timestamp + out[end:]
+    return out
 
 
 def update_html(merged):

@@ -1065,6 +1065,8 @@
 <!-- ====== 数据开始 / DATA START ====== -->
 <script>
 const DATA_UPDATED = '2026-10-02T16:59:36Z';
+// 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
+const APP_VERSION = '2026-10-02T19:15:45Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1129,7 +1131,7 @@ async function checkForUpdate() {
   try {
     const res = await fetch('./cathy_data/version.json?_=' + Date.now(), { cache: 'no-store' });
     const data = await res.json();
-    if (data.version && data.version !== DATA_UPDATED) {
+    if (data.version && data.version !== APP_VERSION) {
       show();
       showAppUpdateBanner();
       return;
