@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T21:35:50Z';
+const APP_VERSION = '2026-10-02T22:00:41Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -2642,6 +2642,7 @@ function circuitLabel(c) {
           student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
           career: await buildCareerFeed(),
           bio: (bioData && bioData.text) ? { text: bioData.text, generatedAt: bioData.generatedAt || '' } : null,
+          philosophy: (() => { const e = Object.values(bioQA).find(x => x.q && x.q.indexOf('理念') >= 0 && x.a && x.a.trim()); return e ? { text: e.a.trim(), updatedAt: e.updatedAt || '' } : null; })(),
           videos: videos.filter(v => v.url && v.share === true).map(v => {
           const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {

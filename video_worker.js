@@ -758,6 +758,7 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
 </div>
 <div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
+<div id="phil"></div>
 <div id="bio"></div>
 <div id="career"></div>
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
@@ -932,6 +933,7 @@ async function load(manual){
     vids = d.feed.videos || [];
     renderCareer(d.feed.career);
     renderBio(d.feed.bio);
+    renderPhil(d.feed.philosophy);
     cmts = d.comments || [];
     indexBouts();
     render();
@@ -953,6 +955,14 @@ async function load(manual){
   }
 }
 let renderedSig = "";
+// ===== 训练理念（feed.philosophy：家长对花剑训练的理解与期望）=====
+function renderPhil(p){
+  var el = document.getElementById("phil");
+  if(!el) return;
+  var text = p && p.text ? p.text : "";
+  if(!text){ el.innerHTML = ""; return; }
+  el.innerHTML = '<details class="car" open><summary>📜 训练理念 · Training Philosophy（家长视角）</summary><div style="padding:8px 2px; font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div></details>';
+}
 // ===== 击剑之路（feed.bio：AI 生成的生涯介绍）=====
 function renderBio(bio){
   var el = document.getElementById("bio");
