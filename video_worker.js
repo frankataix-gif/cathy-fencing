@@ -667,6 +667,16 @@ function renderCoachPage(token, meta, t, mode) {
   .gen{background:#fffbeb;border:1px solid #fde68a;border-radius:12px;padding:12px;margin:14px 0}
   .note{font-size:0.72rem;color:#94a3b8;text-align:center;margin:16px 0}
   .empty{background:#fff;border-radius:12px;padding:24px;text-align:center;color:#94a3b8;font-size:0.85rem}
+  .car{background:#fff;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.06);margin-bottom:14px;overflow:hidden}
+  .car summary{padding:12px;cursor:pointer;font-weight:700;font-size:0.9rem;list-style:none}
+  .car summary::-webkit-details-marker{display:none}
+  .car .carn{font-size:0.72rem;color:#64748b;font-weight:400}
+  .car .cary{padding:8px 12px 2px;font-size:0.68rem;color:#94a3b8;font-weight:700;border-top:1px solid #f1f5f9}
+  .car .carr{display:flex;gap:8px;padding:7px 12px;border-top:1px solid #f8fafc;font-size:0.78rem;align-items:baseline}
+  .car .card-d{color:#94a3b8;flex:none;width:44px}
+  .car .card-p{flex:none;min-width:56px;font-weight:700;color:#1d4ed8}
+  .car .card-b{flex:1;min-width:0}
+  .car .card-c{color:#94a3b8;flex:none;font-size:0.7rem}
   .upd{display:none;position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#2563eb;color:#fff;font-size:0.82rem;font-weight:600;padding:9px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(37,99,235,.4);cursor:pointer;z-index:999;white-space:nowrap}
   /* ===== 分析播放器（点评用）===== */
   .ap{display:none;position:fixed;inset:0;background:#020617;z-index:100;overflow:auto}
@@ -748,6 +758,7 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
 </div>
 <div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
+<div id="career"></div>
 <div id="list"><div class="empty">${esc(t.loading)}</div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
@@ -918,6 +929,7 @@ async function load(manual){
       document.getElementById("stuLine").textContent = [stu.weapon, stu.birth ? "🎂 " + stu.birth + (age ? " (" + age + ")" : "") : "", stu.home, T.videosHere].filter(Boolean).join(" · ");
     }
     vids = d.feed.videos || [];
+    renderCareer(d.feed.career);
     cmts = d.comments || [];
     indexBouts();
     render();
@@ -939,6 +951,38 @@ async function load(manual){
   }
 }
 let renderedSig = "";
+// ===== 生涯档案（来自 feed.career：美国赛事 + 手动录入的其他国家赛事）=====
+function renderCareer(list){
+  var el = document.getElementById("career");
+  if(!el) return;
+  if(!list || !list.length){ el.innerHTML = ""; return; }
+  var m1=0,m2=0,m3=0,countries={};
+  list.forEach(function(e){
+    var p = parseInt(e.place,10);
+    if(p===1)m1++;else if(p===2)m2++;else if(p===3)m3++;
+    if(e.country) countries[e.country]=1;
+  });
+  var byYear = {};
+  list.forEach(function(e){ var y=(e.date||"").slice(0,4)||"—"; (byYear[y]=byYear[y]||[]).push(e); });
+  var years = Object.keys(byYear).sort().reverse();
+  var h = '<details class="car"><summary>🏆 Career · 生涯档案 <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></summary>';
+  years.forEach(function(y){
+    h += '<div class="cary">' + escH(y) + '</div>';
+    byYear[y].forEach(function(e){
+      var p = parseInt(e.place,10);
+      var medal = p===1?"🥇 ":p===2?"🥈 ":p===3?"🥉 ":"";
+      var ptxt = p ? medal + p + (e.total?"/"+e.total:"") : "—";
+      var rec = (e.wins!=null||e.losses!=null) ? " · " + (e.wins||0) + "W-" + (e.losses||0) + "L" : "";
+      var loc = [e.city, e.country].filter(Boolean).join(", ");
+      h += '<div class="carr"><span class="card-d">' + escH((e.date||"").slice(5,10) || "—") + '</span>'
+        + '<span class="card-p">' + escH(ptxt) + '</span>'
+        + '<span class="card-b"><b>' + escH(e.name) + '</b>' + (e.event ? ' · ' + escH(e.event) : '') + (e.level ? ' · ' + escH(e.level) : '') + rec + '</span>'
+        + '<span class="card-c">' + escH(loc) + '</span></div>';
+    });
+  });
+  h += "</details>";
+  el.innerHTML = h;
+}
 function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
 // 对阵级留言 id 的 bout 部分：全部为空时退化为视频 id，避免串组
 function bcmtKey(v){

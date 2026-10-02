@@ -645,6 +645,7 @@
         <div style="display:flex; gap:8px; margin-bottom:12px; border-bottom:1px solid #e5e7eb; padding-bottom:8px;">
           <button class="btn active" id="results-view-list" style="padding:4px 12px; font-size:0.8rem;">列表</button>
           <button class="btn secondary" id="results-view-trend" style="padding:4px 12px; font-size:0.8rem;">走势</button>
+          <button class="btn secondary" id="results-view-career" style="padding:4px 12px; font-size:0.8rem;">生涯</button>
         </div>
         <div id="results-view-body" style="font-size:0.9rem; line-height:1.8; color:var(--gray);">加载中…</div>
       </div>
@@ -860,6 +861,78 @@
         <div style="display:flex; gap:10px;">
           <button class="btn secondary" id="task-editor-cancel" style="padding:8px 16px;">取消</button>
           <button class="btn cathy" id="task-editor-save" style="padding:8px 20px;">保存</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 生涯档案：手动录入赛事成绩（美国之外的赛事等） -->
+  <div id="career-editor" style="display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:rgba(0,0,0,0.5); z-index:200; overflow-y:auto; padding:20px 16px;">
+    <div style="max-width:520px; margin:0 auto; background:#fff; border-radius:16px; padding:24px; box-shadow:0 10px 40px rgba(0,0,0,0.16);">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+        <h3 id="career-editor-title" style="margin:0; font-size:1.15rem; font-weight:700;">录入成绩</h3>
+        <button class="btn secondary" id="career-editor-close" style="padding:6px 14px; font-size:0.85rem;">关闭</button>
+      </div>
+      <input type="hidden" id="career-edit-id">
+      <div class="form-row" style="margin-bottom:16px;">
+        <label for="ce-name" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">赛事名称</label>
+        <input id="ce-name" type="text" placeholder="如：BC Provincial Championships" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+      </div>
+      <div class="form-row" style="display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:16px; margin-bottom:16px;">
+        <div style="min-width:0;">
+          <label for="ce-date" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">日期</label>
+          <input id="ce-date" type="date" style="width:100%; max-width:170px; height:40px; padding:0 10px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-width:0;">
+        </div>
+        <div style="min-width:0;">
+          <label for="ce-country" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">国家/地区</label>
+          <input id="ce-country" type="text" placeholder="Canada" value="Canada" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+      </div>
+      <div class="form-row" style="display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:16px; margin-bottom:16px;">
+        <div style="min-width:0;">
+          <label for="ce-city" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">城市（可选）</label>
+          <input id="ce-city" type="text" placeholder="如：Vancouver" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+        <div style="min-width:0;">
+          <label for="ce-level" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">级别/主办方（可选）</label>
+          <input id="ce-level" type="text" placeholder="如：CFF / 省赛" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+      </div>
+      <div class="form-row" style="margin-bottom:16px;">
+        <label for="ce-event" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">项目</label>
+        <input id="ce-event" type="text" placeholder="如：Y14 Women's Foil" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+      </div>
+      <div class="form-row" style="display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:12px; margin-bottom:16px;">
+        <div style="min-width:0;">
+          <label for="ce-place" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">名次</label>
+          <input id="ce-place" type="number" min="1" inputmode="numeric" placeholder="3" style="width:100%; padding:10px 8px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+        <div style="min-width:0;">
+          <label for="ce-total" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">总人数</label>
+          <input id="ce-total" type="number" min="1" inputmode="numeric" placeholder="40" style="width:100%; padding:10px 8px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+        <div style="min-width:0;">
+          <label for="ce-wins" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">胜</label>
+          <input id="ce-wins" type="number" min="0" inputmode="numeric" placeholder="-" style="width:100%; padding:10px 8px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+        <div style="min-width:0;">
+          <label for="ce-losses" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">负</label>
+          <input id="ce-losses" type="number" min="0" inputmode="numeric" placeholder="-" style="width:100%; padding:10px 8px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+        </div>
+      </div>
+      <div class="form-row" style="margin-bottom:16px;">
+        <label for="ce-url" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">链接（可选，成绩页/官网）</label>
+        <input id="ce-url" type="url" placeholder="https://…" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box;">
+      </div>
+      <div class="form-row" style="margin-bottom:20px;">
+        <label for="ce-notes" style="display:block; font-size:0.85rem; color:#374151; margin-bottom:6px; font-weight:600;">备注</label>
+        <textarea id="ce-notes" placeholder="如：个人最好成绩 / 亮点" style="width:100%; padding:10px 12px; border:1px solid #d1d5db; border-radius:10px; font-size:16px; box-sizing:border-box; min-height:80px; resize:vertical; overflow-y:hidden; line-height:1.5;"></textarea>
+      </div>
+      <div style="display:flex; gap:10px; justify-content:space-between; align-items:center; margin-top:24px;">
+        <button class="btn danger" id="career-editor-delete" style="display:none; padding:8px 16px;">删除</button>
+        <div style="display:flex; gap:10px;">
+          <button class="btn secondary" id="career-editor-cancel" style="padding:8px 16px;">取消</button>
+          <button class="btn cathy" id="career-editor-save" style="padding:8px 20px;">保存</button>
         </div>
       </div>
     </div>
@@ -1082,6 +1155,8 @@ const SCHEDULE_EVENT_TYPES = {
 let cathyDataRecords = {};
 let scheduleEvents = [];
 let tasks = [];
+let careerEvents = [];
+try { careerEvents = JSON.parse(localStorage.getItem('cathy_career') || '[]') || []; } catch(e) { careerEvents = []; }
 let allEmails = [];
 try { cathyDataRecords = JSON.parse(localStorage.getItem('cathy_training_data') || '{}'); } catch(e) { cathyDataRecords = {}; }
 try { scheduleEvents = JSON.parse(localStorage.getItem('cathy_schedule_events') || '[]'); } catch(e) { scheduleEvents = []; }
@@ -2415,6 +2490,35 @@ function circuitLabel(c) {
     m[id] = ts !== undefined ? ts : new Date().toISOString();
     saveRegTsMap(m);
   }
+  // 生涯档案（手动录入的非美国赛事成绩）：墓碑 + updatedAt 合并
+  function getCareerTombstones() {
+    try { return JSON.parse(localStorage.getItem('cathy_career_tombstones') || '{}'); } catch(e) { return {}; }
+  }
+  function markCareerDeleted(id) {
+    if (!id) return;
+    const m = getCareerTombstones();
+    m[id] = new Date().toISOString();
+    const keys = Object.keys(m);
+    if (keys.length > 300) keys.sort((a, b) => m[a] < m[b] ? -1 : 1).slice(0, keys.length - 300).forEach(k => delete m[k]);
+    try { localStorage.setItem('cathy_career_tombstones', JSON.stringify(m)); } catch(e) {}
+  }
+  function saveCareer() { saveToLocal('cathy_career', JSON.stringify(careerEvents)); }
+  function mergeCareerLists(remoteList, localList, tombs) {
+    const isTomb = (e) => e && e.id && tombs[e.id] && (!e.updatedAt || e.updatedAt <= tombs[e.id]);
+    const localById = {};
+    (localList || []).forEach(e => { if (e && e.id) localById[e.id] = e; });
+    const merged = [], seen = new Set();
+    (remoteList || []).forEach(re => {
+      if (!re || !re.id) return;
+      seen.add(re.id);
+      if (isTomb(re)) return;
+      const le = localById[re.id];
+      if (le && (!re.updatedAt || (le.updatedAt && le.updatedAt >= re.updatedAt))) merged.push(le);
+      else merged.push(re);
+    });
+    (localList || []).forEach(e => { if (e && e.id && !seen.has(e.id) && !isTomb(e)) merged.push(e); });
+    return merged;
+  }
   // 视频墓碑：防止并集合并时已删条目复活
   function getVideoTombstones() {
     try { return JSON.parse(localStorage.getItem('cathy_video_tombstones') || '{}'); } catch(e) { return {}; }
@@ -2491,6 +2595,7 @@ function circuitLabel(c) {
         const feed = {
           familyLang: getLocal('cathy_family_lang', 'zh') || 'zh',
           student: { name: CATHY.nameEn, birth: CATHY.birth, home: CATHY.home, weapon: CATHY.weapon },
+          career: await buildCareerFeed(),
           videos: videos.filter(v => v.url && v.share === true).map(v => {
           const t = TOURNAMENTS.find(x => x.id === v.tournamentId) || TOURNAMENTS.find(x => v.tournamentName && x.name === v.tournamentName);
           return {
@@ -3496,6 +3601,7 @@ function circuitLabel(c) {
         form.style.display = 'none';
         form.innerHTML = '';
         if (resultsViewMode === 'list') renderResultsList(cachedResults);
+        else if (resultsViewMode === 'career') renderCareerView();
         else renderTrendChart(cachedResults);
       });
     } else {
@@ -3620,12 +3726,22 @@ function circuitLabel(c) {
         tasks.forEach(t => { if (t && t.category === '学校') t.category = 'Cathy&David'; });
         saveToLocal('cathy_tasks', JSON.stringify(tasks));
       }
+      if (data.careerTombstones && typeof data.careerTombstones === 'object') {
+        const ct = getCareerTombstones();
+        Object.entries(data.careerTombstones).forEach(([id, ts]) => { if (!ct[id] || ct[id] < ts) ct[id] = ts; });
+        try { localStorage.setItem('cathy_career_tombstones', JSON.stringify(ct)); } catch(e) {}
+      }
+      if (Array.isArray(data.career)) {
+        careerEvents = mergeCareerLists(data.career, careerEvents, getCareerTombstones());
+        saveToLocal('cathy_career', JSON.stringify(careerEvents));
+      }
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
       renderResults();
       renderSchedule();
       if (typeof renderTasks === 'function') renderTasks();
       if (typeof renderVideoWall === 'function') renderVideoWall();
+      if (typeof renderCareerView === 'function' && resultsViewMode === 'career') renderCareerView();
     } catch (err) {
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
@@ -4265,7 +4381,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_task_categories' || key === 'cathy_videos' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_task_categories' || key === 'cathy_videos' || key === 'cathy_career' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -4293,6 +4409,10 @@ function circuitLabel(c) {
     try { taskList = JSON.parse(getLocal('cathy_tasks', '[]') || '[]'); } catch(e) { taskList = []; }
     const taskTombstones = getTaskTombstones();
     taskList = taskList.filter(t => !(t && t.id && taskTombstones[t.id] && (!t.updatedAt || t.updatedAt <= taskTombstones[t.id])));
+    let careerList = [];
+    try { careerList = JSON.parse(getLocal('cathy_career', '[]') || '[]'); } catch(e) { careerList = []; }
+    const careerTombs = getCareerTombstones();
+    careerList = careerList.filter(c => !(c && c.id && careerTombs[c.id] && (!c.updatedAt || c.updatedAt <= careerTombs[c.id])));
     const schedTombs = getScheduleTombstones();
     let vidTombs = getVideoTombstones();
     let remoteTaskCats = null;
@@ -4377,11 +4497,21 @@ function circuitLabel(c) {
           });
           saveUIToLocal('cathy_videos', JSON.stringify(videos));
         }
+        // 生涯档案：墓碑 + updatedAt 合并
+        if (remote && remote.careerTombstones) {
+          Object.entries(remote.careerTombstones).forEach(([id, ts]) => { if (!careerTombs[id] || careerTombs[id] < ts) careerTombs[id] = ts; });
+          try { localStorage.setItem('cathy_career_tombstones', JSON.stringify(careerTombs)); } catch(e2) {}
+        }
+        if (remote && Array.isArray(remote.career)) {
+          careerList = mergeCareerLists(remote.career, careerList, careerTombs);
+          careerEvents = careerList;
+          saveUIToLocal('cathy_career', JSON.stringify(careerList));
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
-    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones() };
+    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -6010,6 +6140,154 @@ function circuitLabel(c) {
     body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">成绩走势（按年龄组）</h3>' + svg;
   }
 
+  // ===== 生涯档案：美国赛事（自动）+ 手动录入的其他赛事，按时间线汇总 =====
+  function careerFlag(country) {
+    const k = String(country || '').toLowerCase();
+    const map = { 'usa': '🇺🇸', 'united states': '🇺🇸', '美国': '🇺🇸', 'us': '🇺🇸', 'canada': '🇨🇦', '加拿大': '🇨🇦', 'can': '🇨🇦', 'china': '🇨🇳', '中国': '🇨🇳', 'chn': '🇨🇳', 'france': '🇫🇷', '法国': '🇫🇷', 'germany': '🇩🇪', '德国': '🇩🇪', 'italy': '🇮🇹', '意大利': '🇮🇹', 'japan': '🇯🇵', '日本': '🇯🇵', 'korea': '🇰🇷', '韩国': '🇰🇷', 'poland': '🇵🇱', '波兰': '🇵🇱', 'uk': '🇬🇧', '英国': '🇬🇧', 'austria': '🇦🇹', '奥地利': '🇦🇹', 'hong kong': '🇭🇰', '香港': '🇭🇰', 'mexico': '🇲🇽', '墨西哥': '🇲🇽', 'brazil': '🇧🇷', '巴西': '🇧🇷', 'spain': '🇪🇸', '西班牙': '🇪🇸', 'egypt': '🇪🇬', '埃及': '🇪🇬', 'czech': '🇨🇿', '捷克': '🇨🇿', 'hungary': '🇭🇺', '匈牙利': '🇭🇺' };
+    return map[k] || '🏳';
+  }
+  function allCareerEntries() {
+    const us = (cachedResults || []).map(r => {
+      const nb = (r.bouts || []).length;
+      const wins = (r.bouts || []).filter(b => b.result === 'Victory').length;
+      const p = parseInt(r.place, 10);
+      return { src: 'usaf', date: r.date_iso || '', name: r.tournament || '', event: r.event || '', level: (r.circuits || []).join('/'), city: '', country: 'USA', place: isNaN(p) ? null : p, total: r.total || null, wins: nb ? wins : null, losses: nb ? nb - wins : null, url: '', notes: '' };
+    });
+    return us.concat((careerEvents || []).map(c => Object.assign({ src: 'manual' }, c)));
+  }
+  function newCareerId() { return 'ce_' + Date.now() + '_' + Math.random().toString(36).slice(2, 8); }
+
+  function renderCareerView() {
+    const body = document.getElementById('results-view-body');
+    if (!body) return;
+    const list = allCareerEntries().slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    const medals = [0, 0, 0, 0];
+    const countries = {};
+    let wins = 0, bouts = 0;
+    list.forEach(e => {
+      if (e.place >= 1 && e.place <= 3) medals[e.place]++;
+      if (e.country) countries[e.country] = (countries[e.country] || 0) + 1;
+      wins += e.wins || 0;
+      bouts += (e.wins || 0) + (e.losses || 0);
+    });
+    let html = `<div class="result-summary">
+        <div class="result-summary-card"><div class="num">${list.length}</div><div class="label">生涯赛事</div></div>
+        <div class="result-summary-card"><div class="num">${medals[1] + medals[2] + medals[3]}</div><div class="label">奖牌 🥇${medals[1]}🥈${medals[2]}🥉${medals[3]}</div></div>
+        <div class="result-summary-card"><div class="num">${Object.keys(countries).length}</div><div class="label">国家/地区</div></div>
+        <div class="result-summary-card"><div class="num">${bouts ? Math.round(wins / bouts * 100) + '%' : '—'}</div><div class="label">胜率</div></div>
+      </div>
+      <div style="display:flex; justify-content:space-between; align-items:center; margin:14px 0 4px;">
+        <span style="font-size:0.75rem; color:var(--gray);">美国赛事自动收录 · 其他国家点右侧录入</span>
+        <button class="btn cathy" id="career-add-btn" style="padding:6px 16px; font-size:0.85rem;">+ 录入成绩</button>
+      </div>`;
+    if (!list.length) {
+      body.innerHTML = html + '<div class="results-empty">还没有生涯记录<br>美国赛事会自动出现在这里</div>';
+      const ab = document.getElementById('career-add-btn');
+      if (ab) ab.addEventListener('click', () => openCareerEditor(null));
+      return;
+    }
+    let lastYear = '';
+    list.forEach(e => {
+      const y = (e.date || '').slice(0, 4) || '未注明日期';
+      if (y !== lastYear) { lastYear = y; html += `<h3 style="margin:18px 0 8px; font-size:1rem; color:var(--gray);">${escapeHtml(y)}</h3>`; }
+      const medal = e.place === 1 ? '🥇 ' : e.place === 2 ? '🥈 ' : e.place === 3 ? '🥉 ' : '';
+      const placeTxt = e.place ? medal + e.place + (e.total ? '/' + e.total : '') : '—';
+      const loc = [e.city, e.country].filter(Boolean).join(', ');
+      const recTxt = (e.wins != null || e.losses != null) ? ` · ${e.wins || 0}胜${e.losses || 0}负` : '';
+      const srcBadge = e.src === 'usaf' ? '' : ' <span style="font-size:0.66rem; background:#eef2ff; color:#4338ca; border-radius:6px; padding:1px 6px; vertical-align:2px;">录入</span>';
+      const nameHtml = e.url ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none; font-weight:700;">${escapeHtml(e.name)}</a>` : `<b>${escapeHtml(e.name)}</b>`;
+      const editBtn = e.src === 'manual' ? `<button class="btn secondary career-edit" data-cid="${escapeHtml(e.id)}" style="padding:3px 12px; font-size:0.75rem; flex-shrink:0;">编辑</button>` : '';
+      html += `<div class="card" style="margin-bottom:10px; padding:12px; display:flex; gap:12px; align-items:flex-start;">
+        <div style="flex:none; min-width:46px; text-align:center; font-weight:800; color:var(--dark); font-size:0.92rem; padding-top:1px;">${placeTxt}</div>
+        <div style="flex:1; min-width:0;">
+          <div style="font-size:0.92rem; line-height:1.4;">${careerFlag(e.country)} ${nameHtml}${srcBadge}</div>
+          <div style="font-size:0.78rem; color:var(--gray); margin-top:3px;">${escapeHtml(e.date || '')}${e.event ? ' · ' + escapeHtml(e.event) : ''}${e.level ? ' · ' + escapeHtml(e.level) : ''}${loc ? ' · ' + escapeHtml(loc) : ''}${recTxt}</div>
+          ${e.notes ? `<div style="font-size:0.82rem; color:#4b5563; margin-top:4px;">${escapeHtml(e.notes)}</div>` : ''}
+        </div>
+        ${editBtn}
+      </div>`;
+    });
+    body.innerHTML = html;
+    const ab = document.getElementById('career-add-btn');
+    if (ab) ab.addEventListener('click', () => openCareerEditor(null));
+    body.querySelectorAll('.career-edit').forEach(btn => {
+      btn.addEventListener('click', () => openCareerEditor(careerEvents.find(x => x.id === btn.dataset.cid) || null));
+    });
+  }
+
+  function openCareerEditor(entry) {
+    const isEdit = !!entry;
+    const v = (id, val) => { const el = document.getElementById(id); if (el) el.value = val == null ? '' : val; };
+    document.getElementById('career-edit-id').value = isEdit ? entry.id : '';
+    v('ce-name', isEdit ? entry.name : '');
+    v('ce-date', isEdit ? entry.date : '');
+    v('ce-country', isEdit && entry.country ? entry.country : 'Canada');
+    v('ce-city', isEdit ? entry.city : '');
+    v('ce-level', isEdit ? entry.level : '');
+    v('ce-event', isEdit ? entry.event : '');
+    v('ce-place', isEdit ? entry.place : '');
+    v('ce-total', isEdit ? entry.total : '');
+    v('ce-wins', isEdit ? entry.wins : '');
+    v('ce-losses', isEdit ? entry.losses : '');
+    v('ce-url', isEdit ? entry.url : '');
+    v('ce-notes', isEdit ? entry.notes : '');
+    document.getElementById('career-editor-title').textContent = isEdit ? '编辑成绩' : '录入成绩';
+    document.getElementById('career-editor-delete').style.display = isEdit ? 'inline-block' : 'none';
+    document.getElementById('career-editor').style.display = 'block';
+    overlayPush('career-editor');
+    document.getElementById('ce-name').focus();
+  }
+  function closeCareerEditor() { overlayPop('career-editor'); }
+  function deleteCareer(id) {
+    if (!confirm('确认删除这条成绩记录？')) return false;
+    markCareerDeleted(id);
+    careerEvents = careerEvents.filter(e => e.id !== id);
+    saveCareer();
+    return true;
+  }
+  function saveCareerEvent() {
+    const id = document.getElementById('career-edit-id').value;
+    const name = document.getElementById('ce-name').value.trim();
+    const date = document.getElementById('ce-date').value;
+    if (!name) { alert('赛事名称不能为空'); document.getElementById('ce-name').focus(); return; }
+    if (!date) { alert('日期不能为空'); document.getElementById('ce-date').focus(); return; }
+    const num = (elId) => { const s = document.getElementById(elId).value.trim(); return s === '' ? null : Math.max(0, parseInt(s, 10) || 0); };
+    const prev = id ? (careerEvents.find(e => e.id === id) || {}) : {};
+    const ev = Object.assign({}, prev, {
+      id: id || newCareerId(), name, date,
+      city: document.getElementById('ce-city').value.trim() || null,
+      country: document.getElementById('ce-country').value.trim() || null,
+      level: document.getElementById('ce-level').value.trim() || null,
+      event: document.getElementById('ce-event').value.trim() || null,
+      place: num('ce-place'), total: num('ce-total'), wins: num('ce-wins'), losses: num('ce-losses'),
+      url: document.getElementById('ce-url').value.trim() || null,
+      notes: document.getElementById('ce-notes').value.trim() || null,
+      source: 'manual',
+      createdAt: prev.createdAt || new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    });
+    if (prev && prev.id) {
+      const i = careerEvents.findIndex(e => e.id === id);
+      if (i >= 0) careerEvents[i] = ev; else careerEvents.push(ev);
+    } else careerEvents.push(ev);
+    saveCareer();
+    closeCareerEditor();
+    renderCareerView();
+  }
+  // 推送教练页用：合并美国成绩 + 手动录入，精简字段
+  async function buildCareerFeed() {
+    if (!cachedResults.length) {
+      try {
+        const res = await fetch('cathy_data/results.json?_=' + Date.now(), { cache: 'no-store' });
+        const d = await res.json();
+        cachedResults = (d && d.results) ? d.results : [];
+      } catch(e) {}
+    }
+    return allCareerEntries()
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+      .map(e => ({ date: e.date || '', name: e.name || '', event: e.event || '', level: e.level || '', place: e.place || null, total: e.total || null, wins: e.wins != null ? e.wins : null, losses: e.losses != null ? e.losses : null, city: e.city || '', country: e.country || '', src: e.src === 'usaf' ? 'usaf' : 'manual' }));
+  }
+
   async function loadResultsView() {
     const body = document.getElementById('results-view-body');
     if (!body) return;
@@ -6024,6 +6302,7 @@ function circuitLabel(c) {
         return;
       }
       if (resultsViewMode === 'trend') renderTrendChart(cachedResults);
+      else if (resultsViewMode === 'career') renderCareerView();
       else renderResultsList(cachedResults);
     } catch (e) {
       body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
@@ -6032,12 +6311,13 @@ function circuitLabel(c) {
 
   function switchResultsView(mode) {
     resultsViewMode = mode;
-    const listBtn = document.getElementById('results-view-list');
-    const trendBtn = document.getElementById('results-view-trend');
-    if (listBtn) { listBtn.classList.toggle('active', mode === 'list'); listBtn.classList.toggle('secondary', mode !== 'list'); }
-    if (trendBtn) { trendBtn.classList.toggle('active', mode === 'trend'); trendBtn.classList.toggle('secondary', mode !== 'trend'); }
-    if (cachedResults.length) {
+    ['list', 'trend', 'career'].forEach(m => {
+      const btn = document.getElementById('results-view-' + m);
+      if (btn) { btn.classList.toggle('active', mode === m); btn.classList.toggle('secondary', mode !== m); }
+    });
+    if (cachedResults.length || mode === 'career') {
       if (mode === 'trend') renderTrendChart(cachedResults);
+      else if (mode === 'career') renderCareerView();
       else renderResultsList(cachedResults);
     } else {
       loadResultsView();
@@ -6111,6 +6391,21 @@ function circuitLabel(c) {
     const trendBtn = document.getElementById('results-view-trend');
     if (listBtn) listBtn.addEventListener('click', () => switchResultsView('list'));
     if (trendBtn) trendBtn.addEventListener('click', () => switchResultsView('trend'));
+    const careerBtn = document.getElementById('results-view-career');
+    if (careerBtn) careerBtn.addEventListener('click', () => switchResultsView('career'));
+    // 生涯编辑器（录入其他国家赛事成绩）
+    const ceMask = document.getElementById('career-editor');
+    let ceDownOnMask = false;
+    ceMask?.addEventListener('mousedown', (e) => { ceDownOnMask = (e.target === ceMask); });
+    ceMask?.addEventListener('click', (e) => { if (e.target === ceMask && ceDownOnMask) closeCareerEditor(); ceDownOnMask = false; });
+    document.getElementById('career-editor-close')?.addEventListener('click', closeCareerEditor);
+    document.getElementById('career-editor-cancel')?.addEventListener('click', closeCareerEditor);
+    document.getElementById('career-editor-save')?.addEventListener('click', saveCareerEvent);
+    document.getElementById('career-editor-delete')?.addEventListener('click', () => {
+      const id = document.getElementById('career-edit-id').value;
+      if (id && deleteCareer(id)) { closeCareerEditor(); renderCareerView(); }
+    });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && document.getElementById('career-editor').style.display === 'block') closeCareerEditor(); });
     const nc = document.getElementById('videos-new-coach');
     if (nc) nc.addEventListener('click', addCoachLink);
     const up = document.getElementById('videos-upload');

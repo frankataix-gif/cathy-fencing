@@ -42,6 +42,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - USA Fencing 赛事列表 + 地图（筛选：全部 / 推荐 Cathy / 未报名 / 已报名 / 关注；第二层 Region / Circuit 颜色），报名人数、live 链接、距离与车程。
 - 报名 / 关注状态；已报名赛事自动同步进日程，取消报名同步移除。
 - 成绩页：每场对阵可写反思、📹 上传视频（自动带赛事 / 回合 / 对手 / 比分）。
+- **生涯档案**（成绩页「生涯」视图）：美国赛事自动收录 + 「+ 录入成绩」手动录入其他国家赛事（日期、赛事、城市/国家、项目、级别、名次/总人数、胜负、链接、备注）；按年分组时间线 + 汇总卡（场次 / 奖牌 / 国家数 / 胜率）；存 `user_data.json` 的 `career` + `careerTombstones`（updatedAt 合并、墓碑防复活）；经 `pushCoachFeed` 推入 `feed.career`，教练页 / 家庭页渲染可折叠「🏆 Career 生涯档案」区块。
 
 ### 视频（App「视频」页 + 教练页 + 家庭页）
 - **上传**：多选、后台队列、底部进度面板（字节级进度、重试 / 移除 / 清除），上传中防锁屏；视频存 IndexedDB `cathy_uploads` 做**跨会话断点续传**（App 被关掉后重开自动续传）。iOS 切到后台时暂停，回前台继续。
@@ -78,7 +79,7 @@ You are the dedicated fencing AI for Cathy He (何云熙), a 2014-born Y14 Foil 
 - 常用资料（公开组 + 🔒 加密组「妈妈」，AES 主密码）、比赛视频库、设置（邮件分类规则、待办分类、Cathy 数据导出）。
 
 ### 通用
-- 多设备同步：`cathy_data/user_data.json`，registrations / schedule / reflections / tasks / videos 按 id 合并 + 墓碑（防已删项复活）；tasks / videos 字段级更新按 updatedAt 谁新用谁（videos 回落 uploadedAt），改视频字段必须盖 updatedAt；registrations 用平行表 `registrationTs` 记时间戳，无戳远端值视为旧数据不能盖过有戳本地值；待办分类按时间覆盖。
+- 多设备同步：`cathy_data/user_data.json`，registrations / schedule / reflections / tasks / videos 按 id 合并 + 墓碑（防已删项复活）；tasks / videos 字段级更新按 updatedAt 谁新用谁（videos 回落 uploadedAt），改视频字段必须盖 updatedAt；registrations 用平行表 `registrationTs` 记时间戳，无戳远端值视为旧数据不能盖过有戳本地值；待办分类按时间覆盖；`career`（生涯档案）同 tasks 规则（updatedAt + 墓碑）。
 - 手机返回手势先关弹层（`overlayPush` / `overlayPop` + popstate，`_overlayIgnorePop` 防误关下一层），已接入日程 / 待办编辑器、视频全屏播放器。
 - 打开 / 回到前台检测新版本，顶部出现更新横幅。
 
