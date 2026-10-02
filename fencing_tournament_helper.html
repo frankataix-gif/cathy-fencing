@@ -6047,9 +6047,25 @@ function circuitLabel(c) {
     return g;
   }
 
-  // 走势图基于生涯总口径：美国赛事 + 手动录入的国际赛事
-  function renderTrendChart(results) {
+  // ===== 走势：四种专业视图（名次走势 / 击败率 / 年度奖牌 / 对手记录）=====
+  let trendSubMode = 'place';
+  function renderTrendChart(entries) {
     const body = document.getElementById('results-view-body');
+    if (!body) return;
+    const modes = [['place', '名次走势'], ['pct', '击败率'], ['medals', '年度奖牌'], ['opp', '对手记录']];
+    body.innerHTML = '<div style="display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap;">' +
+      modes.map(([m, label]) => `<button class="btn ${trendSubMode === m ? 'active' : 'secondary'}" data-trendsub="${m}" style="padding:4px 12px; font-size:0.8rem;">${label}</button>`).join('') +
+      '</div><div id="trend-sub-body"></div>';
+    body.querySelectorAll('[data-trendsub]').forEach(b => b.addEventListener('click', () => { trendSubMode = b.dataset.trendsub; renderTrendChart(entries); }));
+    const sub = document.getElementById('trend-sub-body');
+    if (trendSubMode === 'pct') renderTrendPercentile(entries, sub);
+    else if (trendSubMode === 'medals') renderTrendMedals(entries, sub);
+    else if (trendSubMode === 'opp') renderTrendOpponents(sub);
+    else renderTrendPlace(entries, sub);
+  }
+
+  // 名次走势基于生涯总口径：美国赛事 + 手动录入的国际赛事
+  function renderTrendPlace(results, body) {
     if (!body) return;
     if (!results.length) {
       body.innerHTML = '<div class="results-empty">暂无足够数据绘制走势</div>';
@@ -6151,7 +6167,124 @@ function circuitLabel(c) {
       </svg>
     `;
 
-    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">成绩走势（按年龄组）</h3>' + svg;
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">名次走势（按年龄组）</h3>' + svg;
+  }
+
+  // 击败率%：名次 / 总人数 归一化——跨赛事可比（81人第1 = 击败100%，50/102 ≈ 52%）
+  function renderTrendPercentile(entries, body) {
+    const pts = (entries || []).filter(e => e.place && e.total && e.total > 0).map(e => {
+      const ds = e.date_iso || e.date || '';
+      const padded = ds.length === 7 ? ds + '-01' : ds.length === 4 ? ds + '-01-01' : ds;
+      return { date: new Date(padded), pct: Math.round((e.total - e.place + 1) / e.total * 100), place: e.place, total: e.total, group: careerAgeGroup(e) };
+    }).filter(p => !isNaN(p.date)).sort((a, b) => a.date - b.date);
+    if (pts.length < 2) { body.innerHTML = '<div class="results-empty">需要至少 2 场「有名次 + 总人数」的比赛<br>录入成绩时填「总人数」即可计入</div>'; return; }
+
+    const groups = {};
+    pts.forEach(p => { (groups[p.group] = groups[p.group] || []).push(p); });
+    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6'];
+    const groupNames = Object.keys(groups);
+    const colorMap = {};
+    groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
+
+    const W = 600, H = 260, pad = { top: 30, right: 30, bottom: 50, left: 50 };
+    const xMin = pts[0].date.getTime(), xMax = pts[pts.length - 1].date.getTime();
+    const yMin = Math.max(0, Math.min(...pts.map(p => p.pct)) - 10), yMax = 100;
+    const xScale = t => pad.left + (t - xMin) / ((xMax - xMin) || 1) * (W - pad.left - pad.right);
+    const yScale = v => pad.top + (v - yMin) / (yMax - yMin) * (H - pad.top - pad.bottom);
+
+    let paths = '', points = '', labels = '';
+    groupNames.forEach(g => {
+      const list = groups[g], color = colorMap[g];
+      paths += `<path d="${list.map((p, i) => `${i === 0 ? 'M' : 'L'} ${xScale(p.date.getTime()).toFixed(1)} ${yScale(p.pct).toFixed(1)}`).join(' ')}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />`;
+      list.forEach(p => {
+        const x = xScale(p.date.getTime()), y = yScale(p.pct);
+        points += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5"><title>${p.place}/${p.total} → ${p.pct}%</title></circle>`;
+        labels += `<text x="${x.toFixed(1)}" y="${(y - 10).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${p.pct}%</text>`;
+      });
+    });
+    let yTicks = '';
+    [0, 25, 50, 75, 100].forEach(v => {
+      if (v < yMin) return;
+      const y = yScale(v);
+      yTicks += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />` +
+        `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${v}%</text>`;
+    });
+    let xTicks = '';
+    const xSteps = Math.min(pts.length, 5);
+    for (let i = 0; i < xSteps; i++) {
+      const idx = Math.round(i * (pts.length - 1) / (xSteps - 1 || 1));
+      const p = pts[idx], x = xScale(p.date.getTime());
+      xTicks += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${p.date.getMonth() + 1}/${p.date.getDate()}</text>` +
+        `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
+    }
+    const legendHtml = groupNames.map(g => `<span><span class="trend-dot" style="background:${colorMap[g]}"></span>${g}</span>`).join('');
+    body.innerHTML = `<h3 style="font-size:1rem; margin-bottom:12px;">击败率走势（按年龄组）</h3>
+      <div class="trend-legend">${legendHtml}</div>
+      <div style="font-size:0.75rem; color:var(--gray); margin-bottom:8px;">纵轴：击败对手百分比（越高越好）· 例：81人中第1名 = 100%</div>
+      <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
+        ${yTicks}${xTicks}
+        <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+        <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+        ${paths}${points}${labels}
+      </svg>`;
+  }
+
+  // 年度奖牌：堆叠条，每年参赛量 + 金银铜构成
+  function renderTrendMedals(entries, body) {
+    const byYear = {};
+    (entries || []).forEach(e => {
+      const y = (e.date || '').slice(0, 4) || '未知';
+      if (!byYear[y]) byYear[y] = { total: 0, g: 0, s: 0, b: 0, other: 0 };
+      byYear[y].total++;
+      const p = parseInt(e.place, 10);
+      if (p === 1) byYear[y].g++; else if (p === 2) byYear[y].s++; else if (p === 3) byYear[y].b++; else byYear[y].other++;
+    });
+    const years = Object.keys(byYear).sort().reverse();
+    if (!years.length) { body.innerHTML = '<div class="results-empty">暂无数据</div>'; return; }
+    const maxTotal = Math.max(...years.map(y => byYear[y].total));
+    const seg = (n, color, label) => n ? `<span title="${label}" style="display:inline-block; height:100%; width:${(n / maxTotal * 100).toFixed(1)}%; background:${color};"></span>` : '';
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">年度奖牌</h3>' +
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:10px;">🥇金 🥈银 🥉铜 · 灰=未进前三</div>' +
+      years.map(y => {
+        const s = byYear[y];
+        const medals = s.g + s.s + s.b;
+        return `<div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
+          <div style="flex:none; width:44px; font-weight:700; font-size:0.85rem;">${escapeHtml(y)}</div>
+          <div style="flex:1; min-width:0; height:22px; background:#f1f5f9; border-radius:6px; overflow:hidden; display:flex;">
+            ${seg(s.g, '#f59e0b', '金牌')}${seg(s.s, '#9ca3af', '银牌')}${seg(s.b, '#b45309', '铜牌')}${seg(s.other, '#cbd5e1', '其他')}
+          </div>
+          <div style="flex:none; font-size:0.78rem; color:var(--gray); white-space:nowrap;">${s.total}场 · ${medals ? `🥇${s.g}🥈${s.s}🥉${s.b}` : '无奖牌'}</div>
+        </div>`;
+      }).join('');
+  }
+
+  // 对手记录：逐剑数据（美国赛事有 bouts；国际赛事手动录入无对阵明细）
+  function renderTrendOpponents(body) {
+    const opp = {};
+    (cachedResults || []).forEach(r => (r.bouts || []).forEach(b => {
+      const o = b.opponent || '';
+      if (!o) return;
+      if (!opp[o]) opp[o] = { name: o, club: b.opponent_club || '', w: 0, l: 0 };
+      if (b.result === 'Victory') opp[o].w++; else opp[o].l++;
+    }));
+    const list = Object.values(opp).filter(o => o.w + o.l > 0).sort((a, b) => (b.w + b.l) - (a.w + a.l) || b.w - a.w);
+    if (!list.length) { body.innerHTML = '<div class="results-empty">暂无对阵数据</div>'; return; }
+    const repeat = list.filter(o => o.w + o.l >= 2);
+    body.innerHTML = `<h3 style="font-size:1rem; margin-bottom:12px;">对手记录 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">仅美国赛事逐剑数据 · 共 ${list.length} 位对手</span></h3>` +
+      (repeat.length ? `<div style="font-size:0.8rem; color:#92400e; background:#fffbeb; border:1px solid #fde68a; border-radius:8px; padding:8px 10px; margin-bottom:10px;">🔁 交手 ≥2 次：${repeat.map(o => `${escapeHtml(o.name)}（${o.w}胜${o.l}负）`).join('、')}</div>` : '') +
+      '<div style="overflow-x:auto;">' +
+      '<table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
+      '<tr style="text-align:left; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">对手</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">俱乐部</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">交手</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">胜</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">负</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:center;">胜率</th></tr>' +
+      list.map(o => {
+        const n = o.w + o.l, pct = Math.round(o.w / n * 100);
+        const pc = pct >= 60 ? '#16a34a' : pct >= 40 ? '#d97706' : '#dc2626';
+        return `<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">${escapeHtml(o.name)}</td>
+          <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; color:var(--gray); font-size:0.75rem;">${escapeHtml(o.club)}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${n}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#16a34a; font-weight:700;">${o.w}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#dc2626;">${o.l}</td>
+          <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; text-align:center; color:${pc}; font-weight:700;">${pct}%</td></tr>`;
+      }).join('') + '</table></div>';
   }
 
   // ===== 生涯档案：美国赛事（自动）+ 手动录入的其他赛事，按时间线汇总 =====
