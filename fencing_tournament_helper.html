@@ -3604,7 +3604,7 @@ function circuitLabel(c) {
         form.innerHTML = '';
         if (resultsViewMode === 'list') renderResultsList(cachedResults);
         else if (resultsViewMode === 'career') renderCareerView();
-        else renderTrendChart(cachedResults);
+        else renderTrendChart(allCareerEntries());
       });
     } else {
       form.style.display = 'none';
@@ -6036,6 +6036,18 @@ function circuitLabel(c) {
     });
   }
 
+  // 从项目名提取年龄组：U14 → Y14（和美国数据同组），Cadet/Junior 保留
+  function careerAgeGroup(e) {
+    if (e.age_group) return e.age_group;
+    const m = String(e.event || '').match(/\b(U\d+|Y\d+|Cadet|Junior|CDT|Senior|Vet\w*)\b/i);
+    if (!m) return '其他';
+    const g = m[1].toUpperCase();
+    if (/^U\d+/.test(g)) return 'Y' + g.slice(1);
+    if (g === 'CDT') return 'Cadet';
+    return g;
+  }
+
+  // 走势图基于生涯总口径：美国赛事 + 手动录入的国际赛事
   function renderTrendChart(results) {
     const body = document.getElementById('results-view-body');
     if (!body) return;
@@ -6044,12 +6056,14 @@ function circuitLabel(c) {
       return;
     }
 
-    const valid = results.map(r => ({
-      ...r,
-      parsed: parsePlaceNum(r.place),
-      date: r.date_iso ? new Date(r.date_iso) : null
-    })).filter(r => r.parsed.place !== null && r.date);
-    valid.sort((a, b) => a.date - b.date);
+    const valid = results.map(r => {
+      const ds = r.date_iso || r.date || '';
+      const padded = ds.length === 7 ? ds + '-01' : ds.length === 4 ? ds + '-01-01' : ds;
+      const d = padded ? new Date(padded) : null;
+      const place = typeof r.place === 'number' ? { place: r.place, total: r.total || null } : parsePlaceNum(r.place);
+      return { ...r, parsed: place, _date: (d && !isNaN(d)) ? d : null };
+    }).filter(r => r.parsed.place !== null && r._date);
+    valid.sort((a, b) => a._date - b._date);
 
     if (!valid.length) {
       body.innerHTML = '<div class="results-empty">暂无足够数据绘制走势</div>';
@@ -6058,7 +6072,7 @@ function circuitLabel(c) {
 
     const groups = {};
     valid.forEach(r => {
-      const g = r.age_group || '未分组';
+      const g = careerAgeGroup(r);
       if (!groups[g]) groups[g] = [];
       groups[g].push(r);
     });
@@ -6070,7 +6084,7 @@ function circuitLabel(c) {
 
     // chart dimensions
     const W = 600, H = 260, pad = { top: 30, right: 30, bottom: 50, left: 50 };
-    const xMin = valid[0].date.getTime(), xMax = valid[valid.length - 1].date.getTime();
+    const xMin = valid[0]._date.getTime(), xMax = valid[valid.length - 1]._date.getTime();
     const allPlaces = valid.map(r => r.parsed.place);
     const yMin = Math.max(1, Math.min(...allPlaces) - 2);
     const yMax = Math.max(...allPlaces) + 2;
@@ -6086,14 +6100,14 @@ function circuitLabel(c) {
       const list = groups[g];
       const color = colorMap[g];
       const d = list.map((r, i) => {
-        const x = xScale(r.date.getTime());
+        const x = xScale(r._date.getTime());
         const y = yScale(r.parsed.place);
         return `${i === 0 ? 'M' : 'L'} ${x.toFixed(1)} ${y.toFixed(1)}`;
       }).join(' ');
       paths += `<path d="${d}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />`;
 
       list.forEach(r => {
-        const x = xScale(r.date.getTime());
+        const x = xScale(r._date.getTime());
         const y = yScale(r.parsed.place);
         points += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5" />`;
         labels += `<text x="${x.toFixed(1)}" y="${(y - 10).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${r.parsed.place}</text>`;
@@ -6115,8 +6129,8 @@ function circuitLabel(c) {
     for (let i = 0; i < xSteps; i++) {
       const idx = Math.round(i * (valid.length - 1) / (xSteps - 1 || 1));
       const r = valid[idx];
-      const x = xScale(r.date.getTime());
-      const label = `${r.date.getMonth() + 1}/${r.date.getDate()}`;
+      const x = xScale(r._date.getTime());
+      const label = `${r._date.getMonth() + 1}/${r._date.getDate()}`;
       xTicks += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${label}</text>`;
       xTicks += `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
     }
@@ -6283,15 +6297,19 @@ function circuitLabel(c) {
       const data = await res.json();
       cachedResults = data && data.results ? data.results : [];
       renderMedalBoard(allCareerEntries());
-      if (!cachedResults.length) {
+      if (!cachedResults.length && !careerEvents.length) {
         body.innerHTML = '<div class="results-empty">暂无比赛成绩<br>数据会自动从 FencingTracker 更新</div>';
         return;
       }
-      if (resultsViewMode === 'trend') renderTrendChart(cachedResults);
+      if (resultsViewMode === 'trend') renderTrendChart(allCareerEntries());
       else if (resultsViewMode === 'career') renderCareerView();
       else renderResultsList(cachedResults);
     } catch (e) {
-      body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
+      // 美国成绩接口挂了时，生涯/走势仍用手动录入的数据渲染
+      renderMedalBoard(allCareerEntries());
+      if (resultsViewMode === 'career') renderCareerView();
+      else if (resultsViewMode === 'trend' && careerEvents.length) renderTrendChart(allCareerEntries());
+      else body.innerHTML = '<p>无法加载成绩数据，请稍后重试。</p>';
     }
   }
 
@@ -6302,7 +6320,7 @@ function circuitLabel(c) {
       if (btn) { btn.classList.toggle('active', mode === m); btn.classList.toggle('secondary', mode !== m); }
     });
     if (cachedResults.length || mode === 'career') {
-      if (mode === 'trend') renderTrendChart(cachedResults);
+      if (mode === 'trend') renderTrendChart(allCareerEntries());
       else if (mode === 'career') renderCareerView();
       else renderResultsList(cachedResults);
     } else {
