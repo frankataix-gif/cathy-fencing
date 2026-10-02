@@ -21612,3 +21612,50 @@ Your perfect arch, inside.
 <https://app.sephora.com/T/v61000001a0fcbab90dbafa67f4bbe5cfc0/5933be2d22cc492b0000021ef3a0bcc2/5933be2d-22cc-492b-a9e2
 
 ---
+
+## [生活旅行] Resident Newsletter - LH - 02/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-02T15:29:05.000Z
+**摘要:** 关于伦敦码头社区的居民通讯，包含最新活动和通知。
+**待办:** 无
+**GmailID:** 1a0fd3bc3ac77369
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
