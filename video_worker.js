@@ -961,7 +961,9 @@ function renderPhil(p){
   if(!el) return;
   var text = p && p.text ? p.text : "";
   if(!text){ el.innerHTML = ""; return; }
-  el.innerHTML = '<details class="car" open><summary>📜 训练理念 · Training Philosophy（家长视角）</summary><div style="padding:8px 2px; font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div></details>';
+  el.innerHTML = '<div class="car" style="border-left:4px solid #2563eb; background:#f8fafc; border-radius:10px; padding:12px 14px; margin-bottom:10px;">'
+    + '<div style="font-weight:700; font-size:14px; margin-bottom:8px;">📜 训练理念 · Training Philosophy（家长视角）</div>'
+    + '<div style="font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div></div>';
 }
 // ===== 击剑之路（feed.bio：AI 生成的生涯介绍）=====
 function renderBio(bio){
