@@ -6046,28 +6046,28 @@ function circuitLabel(c) {
     });
   }
 
-  // 从项目名提取年龄组：U14 → Y14（和美国数据同组）；U15/U17 保留原名（不是美国 Y 组）
+  // 年龄组统一按岁数归并：Y12 / U12 / Y-12 / U-12 都是 12 岁组；Cadet=17、Junior=20、成人=99
   function careerAgeGroup(e) {
-    if (e.age_group) return e.age_group;
-    const m = String(e.event || '').match(/\b(U\d+|Y\d+|Cadet|Junior|CDT|Senior|Vet\w*)\b/i);
-    if (!m) return '其他';
-    const g = m[1].toUpperCase();
-    if (/^U(\d+)/.test(g)) { const n = parseInt(g.slice(1), 10); return n <= 14 ? 'Y' + n : 'U' + n; }
-    if (g === 'CDT') return 'Cadet';
-    return g;
+    const src = String((e && (e.age_group || e.event)) || '');
+    const m = src.match(/\b[UY][-\s]?(\d{1,2})\b/i);
+    if (m) return parseInt(m[1], 10);
+    if (/cadet|cdt/i.test(src)) return 17;
+    if (/junior|jnr/i.test(src)) return 20;
+    if (/senior|vet|div/i.test(src)) return 99;
+    return null;
   }
-  // 跳打：参赛组别上限 > Cathy 当时所属的最低组别（年龄对应 Y10/Y12/Y14/Cadet/Junior）
-  const _AGE_CAPS = { Y10: 10, Y12: 12, Y14: 14, U15: 15, U16: 16, Cadet: 16, U17: 17, U19: 19, U20: 20, Junior: 20, JNR: 20, Senior: 99, SNR: 99 };
+  function careerAgeLabel(g) { return g == null ? '其他' : g >= 99 ? '成人' : g + '岁组'; }
+  // 跳打：参赛组别年龄上限 > Cathy 当时所属的最低组别
   function careerUpBadge(e) {
-    const cap = _AGE_CAPS[careerAgeGroup(e)];
-    if (!cap) return null;
+    const cap = careerAgeGroup(e);
+    if (!cap || cap >= 99) return null;
     const ds = e.date || '';
     const padded = ds.length === 7 ? ds + '-01' : ds.length === 4 ? ds + '-01-01' : ds;
     const d = padded ? new Date(padded) : null;
     if (!d || isNaN(d)) return null;
     const age = getAgeAt(CATHY.birth, d);
-    const own = age <= 10 ? 10 : age <= 12 ? 12 : age <= 14 ? 14 : age <= 16 ? 16 : age <= 19 ? 20 : 99;
-    return cap > own ? { group: careerAgeGroup(e), age } : null;
+    const own = age <= 10 ? 10 : age <= 12 ? 12 : age <= 14 ? 14 : age <= 16 ? 17 : age <= 19 ? 20 : 99;
+    return cap > own ? { group: cap, age } : null;
   }
 
   // ===== 走势：四种专业视图（名次走势 / 击败率 / 年度奖牌 / 对手记录）=====
@@ -6127,17 +6127,13 @@ function circuitLabel(c) {
     const groups = {};
     valid.forEach(r => {
       const g = careerAgeGroup(r);
-      if (!groups[g]) groups[g] = [];
-      groups[g].push(r);
+      const key = g == null ? 'other' : String(g);
+      if (!groups[key]) groups[key] = [];
+      groups[key].push(r);
     });
 
-    // 每个年龄组一张独立小图，共享同一时间轴，方便同组跨赛事对比
-    // 排序：年龄组大的在上，往下排到 Y10
-    const order = ['Y10', 'Y12', 'Y14', 'U15', 'U16', 'Cadet', 'U17', 'U19', 'U20', 'Junior', 'Senior', '其他'];
-    const groupNames = Object.keys(groups).sort((a, b) => {
-      const ia = order.indexOf(a), ib = order.indexOf(b);
-      return (ib < 0 ? 99 : ib) - (ia < 0 ? 99 : ia) || b.localeCompare(a);
-    });
+    // 每个年龄组一张独立小图，共享同一时间轴；岁数大的在上
+    const groupNames = Object.keys(groups).sort((a, b) => (b === 'other' ? -1 : a === 'other' ? 1 : Number(b) - Number(a)));
     const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6', '#ec4899', '#84cc16'];
     const colorMap = {};
     groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
@@ -6176,7 +6172,7 @@ function circuitLabel(c) {
       return `<div style="margin-bottom:18px;">
         <div style="display:flex; align-items:baseline; gap:8px; margin-bottom:6px;">
           <span class="trend-dot" style="background:${color}; display:inline-block; width:10px; height:10px; border-radius:50%;"></span>
-          <b style="font-size:0.92rem;">${escapeHtml(g)}</b>
+          <b style="font-size:0.92rem;">${escapeHtml(g === 'other' ? '其他' : g + '岁组')}</b>
           <span style="font-size:0.72rem; color:var(--gray);">${list.length} 场 · 最好 ${Math.min(...places)}</span>
         </div>
         <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
@@ -6203,12 +6199,8 @@ function circuitLabel(c) {
     if (pts.length < 2) { body.innerHTML = '<div class="results-empty">需要至少 2 场「有名次 + 总人数」的比赛<br>录入成绩时填「总人数」即可计入</div>'; return; }
 
     const groups = {};
-    pts.forEach(p => { (groups[p.group] = groups[p.group] || []).push(p); });
-    const order = ['Y10', 'Y12', 'Y14', 'U15', 'U16', 'Cadet', 'U17', 'U19', 'U20', 'Junior', 'Senior', '其他'];
-    const groupNames = Object.keys(groups).sort((a, b) => {
-      const ia = order.indexOf(a), ib = order.indexOf(b);
-      return (ib < 0 ? 99 : ib) - (ia < 0 ? 99 : ia) || b.localeCompare(a);
-    });
+    pts.forEach(p => { const k = p.group == null ? 'other' : String(p.group); (groups[k] = groups[k] || []).push(p); });
+    const groupNames = Object.keys(groups).sort((a, b) => (b === 'other' ? -1 : a === 'other' ? 1 : Number(b) - Number(a)));
     const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6', '#ec4899', '#84cc16'];
     const colorMap = {};
     groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
@@ -6245,7 +6237,7 @@ function circuitLabel(c) {
       return `<div style="margin-bottom:18px;">
         <div style="display:flex; align-items:baseline; gap:8px; margin-bottom:6px;">
           <span class="trend-dot" style="background:${color}; display:inline-block; width:10px; height:10px; border-radius:50%;"></span>
-          <b style="font-size:0.92rem;">${escapeHtml(g)}</b>
+          <b style="font-size:0.92rem;">${escapeHtml(g === 'other' ? '其他' : g + '岁组')}</b>
           <span style="font-size:0.72rem; color:var(--gray);">${list.length} 场 · 最高击败 ${Math.max(...list.map(p => p.pct))}%</span>
         </div>
         <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
@@ -6333,8 +6325,8 @@ function circuitLabel(c) {
       if (!o) return;
       if (!opp[o]) opp[o] = { name: o, club: b.opponent_club || '', w: 0, l: 0, groups: {} };
       if (b.result === 'Victory') opp[o].w++; else opp[o].l++;
-      const g = r.age_group || careerAgeGroup(r);
-      if (g && g !== '其他') opp[o].groups[g] = 1;
+      const g = careerAgeGroup(r);
+      if (g != null) opp[o].groups[g] = 1;
     }));
     const list = Object.values(opp).filter(o => o.w + o.l > 0).sort((a, b) => (b.w + b.l) - (a.w + a.l) || b.w - a.w);
     if (!list.length) { body.innerHTML = '<div class="results-empty">暂无对阵数据</div>'; return; }
@@ -6357,7 +6349,7 @@ function circuitLabel(c) {
       list.map(o => {
         const n = o.w + o.l, pct = Math.round(o.w / n * 100);
         const pc = pct >= 60 ? '#16a34a' : pct >= 40 ? '#d97706' : '#dc2626';
-        const gtxt = Object.keys(o.groups).sort().join('/');
+        const gtxt = Object.keys(o.groups).map(Number).sort((a, b) => a - b).map(g => g + '岁').join('/');
         const ageTxt = oppAgeText(o.name);
         return `<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">${escapeHtml(o.name)}</td>
           <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; color:var(--gray); font-size:0.75rem;">${escapeHtml(o.club)}${gtxt ? ' · ' + escapeHtml(gtxt) : ''}</td>
@@ -6422,7 +6414,7 @@ function circuitLabel(c) {
       const loc = [e.city, e.country].filter(Boolean).join(', ');
       const recTxt = (e.wins != null || e.losses != null) ? ` · ${e.wins || 0}胜${e.losses || 0}负` : '';
       const up = careerUpBadge(e);
-      const upBadge = up ? ` <span title="${up.age}岁参加${up.group}组" style="font-size:0.66rem; background:#fdf2f8; color:#be185d; border:1px solid #fbcfe8; border-radius:6px; padding:1px 6px; vertical-align:2px;">⬆ 跳打</span>` : '';
+      const upBadge = up ? ` <span title="${up.age}岁参加${up.group}岁组" style="font-size:0.66rem; background:#fdf2f8; color:#be185d; border:1px solid #fbcfe8; border-radius:6px; padding:1px 6px; vertical-align:2px;">⬆ 跳打</span>` : '';
       const srcBadge = e.src === 'usaf' ? '' : ' <span style="font-size:0.66rem; background:#eef2ff; color:#4338ca; border-radius:6px; padding:1px 6px; vertical-align:2px;">录入</span>';
       const nameHtml = e.url ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none; font-weight:700;">${escapeHtml(e.name)}</a>` : `<b>${escapeHtml(e.name)}</b>`;
       const editBtn = e.src === 'manual' ? `<button class="btn secondary career-edit" data-cid="${escapeHtml(e.id)}" style="padding:3px 12px; font-size:0.75rem; flex-shrink:0;">编辑</button>` : '';
