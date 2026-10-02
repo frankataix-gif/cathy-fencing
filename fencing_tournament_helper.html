@@ -3737,6 +3737,10 @@ function circuitLabel(c) {
         careerEvents = mergeCareerLists(data.career, careerEvents, getCareerTombstones());
         saveToLocal('cathy_career', JSON.stringify(careerEvents));
       }
+      if (data.oppBirth && typeof data.oppBirth === 'object') {
+        const ob = Object.assign({}, data.oppBirth, getOppBirth());
+        try { localStorage.setItem('cathy_opp_birth', JSON.stringify(ob)); } catch(e) {}
+      }
       _isLoadingGitHubData = false;
       _autoSyncEnabled = true;
       renderResults();
@@ -4383,7 +4387,7 @@ function circuitLabel(c) {
   }
 
   function isAutoSyncKey(key) {
-    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_task_categories' || key === 'cathy_videos' || key === 'cathy_career' || (key && key.startsWith('reg_'));
+    return key === 'cathy_reflections' || key === 'cathy_schedule_events' || key === 'cathy_base_city' || key === 'cathy_tasks' || key === 'cathy_task_categories' || key === 'cathy_videos' || key === 'cathy_career' || key === 'cathy_opp_birth' || (key && key.startsWith('reg_'));
   }
 
   function queueAutoSync(key) {
@@ -4418,6 +4422,7 @@ function circuitLabel(c) {
     const schedTombs = getScheduleTombstones();
     let vidTombs = getVideoTombstones();
     let remoteTaskCats = null;
+    let oppBirthMap = getOppBirth();
     // 推送前先合并远端：避免旧设备本地的过期数据覆盖远端更新（updatedAt 谁新用谁）
     try {
       const rtext = await fetchRepoFile('cathy_data/user_data.json');
@@ -4509,11 +4514,14 @@ function circuitLabel(c) {
           careerEvents = careerList;
           saveUIToLocal('cathy_career', JSON.stringify(careerList));
         }
+        if (remote && remote.oppBirth && typeof remote.oppBirth === 'object') {
+          oppBirthMap = Object.assign({}, remote.oppBirth, oppBirthMap);
+        }
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
-    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs };
+    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs, oppBirth: oppBirthMap };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -6271,6 +6279,24 @@ function circuitLabel(c) {
       }).join('');
   }
 
+  // 对手出生信息：本地维护的小表（对手名 → YYYY 或 YYYY-MM-DD），存 user_data 同步
+  function getOppBirth() {
+    try { return JSON.parse(localStorage.getItem('cathy_opp_birth') || '{}'); } catch(e) { return {}; }
+  }
+  function setOppBirth(name, birth) {
+    const m = getOppBirth();
+    if (birth) m[name] = birth; else delete m[name];
+    saveToLocal('cathy_opp_birth', JSON.stringify(m));
+  }
+  function oppAgeText(name) {
+    const b = getOppBirth()[name];
+    if (!b) return '—';
+    const y = parseInt(b.slice(0, 4), 10);
+    if (!y) return '—';
+    const age = b.length >= 10 ? getAgeAt(b, new Date().toISOString().slice(0, 10)) : new Date().getFullYear() - y;
+    return age > 0 && age < 100 ? age + '岁' : '—';
+  }
+
   // 对手记录：逐剑数据（美国赛事有 bouts；国际赛事手动录入无对阵明细）
   function renderTrendOpponents(body) {
     const opp = {};
@@ -6289,19 +6315,32 @@ function circuitLabel(c) {
       (repeat.length ? `<div style="font-size:0.8rem; color:#92400e; background:#fffbeb; border:1px solid #fde68a; border-radius:8px; padding:8px 10px; margin-bottom:10px;">🔁 交手 ≥2 次：${repeat.map(o => `${escapeHtml(o.name)}（${o.w}胜${o.l}负）`).join('、')}</div>` : '') +
       '<div style="overflow-x:auto;">' +
       '<table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
-      '<tr style="text-align:left; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">对手</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">俱乐部</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">组别</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">交手</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">胜</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">负</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:center;">胜率</th></tr>' +
+      '<tr style="text-align:left; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">对手</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">俱乐部</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">年龄</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">交手</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">胜</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">负</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:center;">胜率</th></tr>' +
       list.map(o => {
         const n = o.w + o.l, pct = Math.round(o.w / n * 100);
         const pc = pct >= 60 ? '#16a34a' : pct >= 40 ? '#d97706' : '#dc2626';
         const gtxt = Object.keys(o.groups).sort().join('/');
+        const ageTxt = oppAgeText(o.name);
         return `<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">${escapeHtml(o.name)}</td>
-          <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; color:var(--gray); font-size:0.75rem;">${escapeHtml(o.club)}</td>
-          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; font-size:0.75rem;">${gtxt || '—'}</td>
+          <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; color:var(--gray); font-size:0.75rem;">${escapeHtml(o.club)}${gtxt ? ' · ' + escapeHtml(gtxt) : ''}</td>
+          <td class="opp-age" data-opp="${escapeHtml(o.name)}" title="${escapeHtml(getOppBirth()[o.name] || '点按录入出生年月')}" style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; font-size:0.78rem; cursor:pointer; color:${ageTxt === '—' ? '#94a3b8' : 'var(--dark)'}; font-weight:${ageTxt === '—' ? '400' : '600'};">${ageTxt}${ageTxt === '—' ? '<span style="font-size:0.66rem;"> ✏️</span>' : ''}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${n}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#16a34a; font-weight:700;">${o.w}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#dc2626;">${o.l}</td>
           <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; text-align:center; color:${pc}; font-weight:700;">${pct}%</td></tr>`;
       }).join('') + '</table></div>';
+    body.querySelectorAll('.opp-age').forEach(td => {
+      td.addEventListener('click', () => {
+        const name = td.dataset.opp;
+        const cur = getOppBirth()[name] || '';
+        const v = prompt(`录入 ${name} 的出生日期\n格式：YYYY-MM-DD，或只有年份 YYYY（清空 = 删除）`, cur);
+        if (v === null) return;
+        const s = v.trim();
+        if (s && !/^\d{4}(-\d{2}-\d{2})?$/.test(s)) { alert('格式：YYYY-MM-DD 或 YYYY'); return; }
+        setOppBirth(name, s);
+        renderTrendOpponents(body);
+      });
+    });
   }
 
   // ===== 生涯档案：美国赛事（自动）+ 手动录入的其他赛事，按时间线汇总 =====
