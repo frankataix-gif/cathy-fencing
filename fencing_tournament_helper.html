@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T16:59:36Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T19:29:27Z';
+const APP_VERSION = '2026-10-02T19:48:55Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1178,6 +1178,26 @@ let tasks = [];
 let careerEvents = [];
 let bioData = null;
 try { bioData = JSON.parse(localStorage.getItem('cathy_bio') || 'null'); } catch(e) {}
+// 问答库（历程页资料来源）：{ id: {q, a, updatedAt} }，删除走墓碑
+let bioQA = {};
+try { bioQA = JSON.parse(localStorage.getItem('cathy_bio_qa') || '{}'); } catch(e) {}
+let bioQATombs = {};
+try { bioQATombs = JSON.parse(localStorage.getItem('cathy_bio_qa_tombs') || '{}'); } catch(e) {}
+const BIO_PRESET_QUESTIONS = [
+  '什么时候开始学击剑？在哪里（俱乐部/城市）？',
+  '第一个俱乐部是哪个？练了多久？',
+  '中间换过哪些俱乐部？分别是什么时间？',
+  '现在在哪个俱乐部训练？一周练几次？',
+  '为什么选花剑？',
+  '学击剑前/之外还有什么运动或特长背景？',
+  '印象最深的一场比赛或成绩是哪场？为什么？',
+  '击剑的目标是什么（近期/长期）？'
+];
+function bioQASave() {
+  saveUIToLocal('cathy_bio_qa', JSON.stringify(bioQA));
+  saveUIToLocal('cathy_bio_qa_tombs', JSON.stringify(bioQATombs));
+  syncAllToGitHub(true);
+}
 try { careerEvents = JSON.parse(localStorage.getItem('cathy_career') || '[]') || []; } catch(e) { careerEvents = []; }
 let allEmails = [];
 try { cathyDataRecords = JSON.parse(localStorage.getItem('cathy_training_data') || '{}'); } catch(e) { cathyDataRecords = {}; }
@@ -4544,11 +4564,23 @@ function circuitLabel(c) {
           bioData = remote.bio;
           saveUIToLocal('cathy_bio', JSON.stringify(bioData));
         }
+        // 问答库：按 id 字段级合并（updatedAt 谁新用谁）+ 墓碑
+        if (remote && remote.bioQATombs) {
+          Object.entries(remote.bioQATombs).forEach(([id, ts]) => { if (!bioQATombs[id] || bioQATombs[id] < ts) bioQATombs[id] = ts; });
+        }
+        if (remote && remote.bioQA && typeof remote.bioQA === 'object') {
+          Object.entries(remote.bioQA).forEach(([id, e]) => {
+            if (!e || (bioQATombs[id] && (e.updatedAt || '') <= bioQATombs[id])) return;
+            const l = bioQA[id];
+            if (!l || (e.updatedAt || '') > (l.updatedAt || '')) bioQA[id] = e;
+          });
+        }
+        Object.keys(bioQATombs).forEach(id => { if (bioQA[id] && (bioQA[id].updatedAt || '') <= bioQATombs[id]) delete bioQA[id]; });
       }
     } catch(e) {}
     const baseCity = getLocal('cathy_base_city', '');
     if (remoteTaskCats) mergeRemoteTaskCats(remoteTaskCats);
-    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs, oppBirth: oppBirthMap, bio: bioData };
+    const userData = { registrations, registrationTs: regTs, schedule, baseCity, reflections, tasks: taskList, taskCategories: taskCatsPayload(), taskTombstones, scheduleTombstones: schedTombs, videos, videoTombstones: vidTombs || getVideoTombstones(), career: careerList, careerTombstones: careerTombs, oppBirth: oppBirthMap, bio: bioData, bioQA, bioQATombs };
     try {
       const res = await fetch(workerUrl, {
         method: 'POST',
@@ -5582,6 +5614,9 @@ function circuitLabel(c) {
     if (!body) return;
     const st = journeyStats();
     const nb = st.w + st.l;
+    const answeredN = Object.values(bioQA).filter(e => e.a && e.a.trim()).length;
+    const totalN = Math.max(BIO_PRESET_QUESTIONS.length, Object.keys(bioQA).length);
+    const qaSummary = `📋 资料问答库 · 已答 ${answeredN}/${totalN}（AI 写档案的事实来源，点按展开填写）`;
     const bioHtml = (bioData && bioData.text)
       ? bioData.text.split(/\n{2,}/).map(para => `<p style="margin-bottom:10px; line-height:1.8;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')
       : '<div style="color:var(--gray); padding:16px 0;">还没有生成档案——点下方「生成」，AI 会根据现有全部赛事数据整理一份生涯介绍，并同步到教练链接页。</div>';
@@ -5593,12 +5628,65 @@ function circuitLabel(c) {
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${nb ? Math.round(st.w / nb * 100) + '%' : '—'}</div><div class="label">胜率</div></div>
         ${st.up ? `<div class="result-summary-card" style="padding:10px 14px;"><div class="num">⬆${st.up}</div><div class="label">跳打</div></div>` : ''}
       </div>
+      <details class="bout-details" style="margin-bottom:14px;">
+        <summary>${qaSummary}</summary>
+        <div id="bio-qa-list" style="margin-top:8px;"></div>
+        <button class="btn secondary" id="bio-qa-add" style="margin-top:8px; padding:6px 12px; font-size:0.8rem;">+ 自定义问题</button>
+      </details>
       ${bioHtml}
       <div style="display:flex; justify-content:space-between; align-items:center; margin-top:14px; padding-top:12px; border-top:1px solid #eef2f7; gap:8px;">
         <span style="font-size:0.72rem; color:var(--gray);">${bioData && bioData.generatedAt ? '更新于 ' + bioData.generatedAt.slice(0, 16).replace('T', ' ') : ''}</span>
         <button class="btn secondary" id="bio-gen-btn" style="padding:6px 14px; font-size:0.8rem; flex-shrink:0;">${bioData && bioData.text ? '🔄 用最新数据重新生成' : '✨ 生成生涯档案'}</button>
       </div>`;
     document.getElementById('bio-gen-btn').addEventListener('click', e => generateCathyBio(e.currentTarget));
+    document.getElementById('bio-qa-add').addEventListener('click', () => {
+      const q = prompt('自定义问题（如：为什么选择 Dynamo？）');
+      if (!q || !q.trim()) return;
+      const id = 'qa_' + Date.now().toString(36);
+      bioQA[id] = { q: q.trim(), a: '', updatedAt: new Date().toISOString() };
+      bioQASave(); renderJourneyView();
+      const det = document.querySelector('#bio-qa-list'); if (det && det.parentElement) det.parentElement.open = true;
+    });
+    bioQARenderList();
+  }
+
+  // 问答库列表：预设问题 + 已存条目；答案失焦即存并同步
+  function bioQARenderList() {
+    const wrap = document.getElementById('bio-qa-list');
+    if (!wrap) return;
+    const seen = new Set();
+    const rows = [];
+    BIO_PRESET_QUESTIONS.forEach((q, i) => {
+      const id = 'preset_' + i;
+      seen.add(id);
+      const e = bioQA[id];
+      rows.push({ id, q: (e && e.q) || q, a: (e && e.a) || '', preset: true });
+    });
+    Object.keys(bioQA).forEach(id => { if (!seen.has(id)) rows.push({ id, q: bioQA[id].q || '', a: bioQA[id].a || '', preset: false }); });
+    wrap.innerHTML = rows.map(r => `
+      <div style="margin-bottom:10px;">
+        <div style="display:flex; align-items:center; gap:6px;">
+          <span style="font-size:0.8rem; font-weight:600; color:var(--cathy); flex:1;">${escapeHtml(r.q)}</span>
+          ${r.preset ? '' : `<button class="btn secondary bio-qa-del" data-id="${r.id}" style="padding:0 8px; font-size:0.75rem; min-height:28px;">删</button>`}
+        </div>
+        <textarea class="bio-qa-a" data-id="${r.id}" placeholder="填写答案（留空则不参与生成）" style="width:100%; margin-top:4px; padding:8px 10px; border:1px solid #d1d5db; border-radius:8px; font-size:16px; min-height:52px; resize:vertical; box-sizing:border-box; line-height:1.5;">${escapeHtml(r.a)}</textarea>
+      </div>`).join('');
+    wrap.querySelectorAll('.bio-qa-a').forEach(ta => ta.addEventListener('change', () => {
+      const id = ta.dataset.id;
+      const e = bioQA[id] || { q: rows.find(r => r.id === id).q };
+      e.a = ta.value.trim(); e.updatedAt = new Date().toISOString();
+      bioQA[id] = e;
+      bioQASave();
+    }));
+    wrap.querySelectorAll('.bio-qa-del').forEach(b => b.addEventListener('click', () => {
+      const id = b.dataset.id;
+      if (!confirm('删除这个问题和答案？')) return;
+      delete bioQA[id];
+      bioQATombs[id] = new Date().toISOString();
+      bioQASave(); bioQARenderList();
+      renderJourneyView();
+      const det2 = document.querySelector('#bio-qa-list'); if (det2 && det2.parentElement) det2.parentElement.open = true;
+    }));
   }
 
   async function generateCathyBio(btn) {
@@ -5608,6 +5696,7 @@ function circuitLabel(c) {
       const st = journeyStats();
       const entries = allCareerEntries().slice().sort((a, b) => (a.date || '').localeCompare(b.date || ''));
       const rows = entries.map(e => `${e.date || '日期未录'} | ${e.name} | ${e.event || ''} | ${e.place ? '第' + e.place + '名' + (e.total ? '/' + e.total : '') : '名次未录'} | ${e.country || 'USA'}${e.wins != null ? ' | ' + e.wins + '胜' + (e.losses || 0) + '负' : ''}`).join('\n');
+      const qaRows = Object.values(bioQA).filter(e => e.a && e.a.trim()).map(e => `问：${e.q}\n答：${e.a.trim()}`).join('\n\n');
       const prompt = `请基于以下真实数据，为花剑运动员 Cathy He 写一份「击剑生涯档案」，供教练快速了解她的击剑之路。
 
 要求：
@@ -5620,6 +5709,9 @@ function circuitLabel(c) {
 
 生涯赛事记录（共 ${st.ev} 场，按时间）：
 ${rows || '（暂无）'}
+
+问答资料（家长填写的一手信息，优先于推断）：
+${qaRows || '（暂无）'}
 
 汇总：奖牌 🥇${st.g} 🥈${st.s} 🥉${st.b}；跳打（超龄组别参赛）${st.up} 场；涉足 ${Object.keys(st.countries).length} 个国家/地区；逐剑战绩 ${st.w}胜${st.l}负。`;
       const res = await fetch('https://cathysync.frankataix.workers.dev/', {
