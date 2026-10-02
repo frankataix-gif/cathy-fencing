@@ -6000,7 +6000,7 @@ function circuitLabel(c) {
       const us = g.items.filter(i => i.src === 'usaf').map(i => i.r);
       const man = g.items.filter(i => i.src === 'manual').map(i => i.e);
       const m0 = man[0];
-      const flag = careerFlag(m0 ? m0.country : 'USA');
+      const flag = flagImg(m0 ? m0.country : 'USA');
       const loc = m0 ? [m0.city, m0.country ? flag + ' ' + m0.country : ''].filter(Boolean).join(', ') : flag + ' 美国';
       const level = us[0] ? (us[0].circuits || []).join('/') : (m0 && m0.level) || '';
       html += `<div class="card" style="margin-bottom:14px; padding:0; overflow:hidden;">
@@ -6405,6 +6405,19 @@ function circuitLabel(c) {
     // ISO 3166-1 alpha-2 兜底（如 'hr' → 🇭🇷）
     if (/^[a-z]{2}$/.test(k)) return String.fromCodePoint(...[...k].map(c => 127397 + c.charCodeAt(0)));
     return '🏳';
+  }
+  // Windows Chrome 不支持国旗 emoji（只显示 US/HR 字母）——改用 flagcdn 图片
+  function careerFlagISO(country) {
+    const e = careerFlag(country);
+    if (e === '🏳') { const k = String(country || '').trim().toLowerCase(); return /^[a-z]{2}$/.test(k) ? k : null; }
+    const iso = [...e].map(c => String.fromCharCode(c.codePointAt(0) - 127397)).join('').toLowerCase();
+    return /^[a-z]{2}$/.test(iso) ? iso : null;
+  }
+  function flagImg(country, px) {
+    const iso = careerFlagISO(country);
+    if (!iso) return '';
+    const w = px || 20;
+    return `<img src="https://flagcdn.com/w${w * 2}/${iso}.png" srcset="https://flagcdn.com/w${w * 4}/${iso}.png 2x" width="${w}" title="${escapeHtml(country || '')}" alt="${iso}" style="display:inline-block; vertical-align:-3px; border-radius:2px; margin-right:5px; border:1px solid rgba(0,0,0,0.15);">`;
   }
   function allCareerEntries() {
     const us = (cachedResults || []).map(r => {
