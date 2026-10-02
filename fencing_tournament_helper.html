@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T22:13:54Z';
+const APP_VERSION = '2026-10-02T22:23:28Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -1189,7 +1189,7 @@ const BIO_PRESET_QUESTIONS = [
   '中间换过哪些俱乐部？分别是什么时间？',
   '现在在哪个俱乐部训练？一周练几次？',
   '为什么选花剑？',
-  '学击剑前/之外还有什么运动或特长背景？',
+  null, // 原「运动/特长背景」题已移除（占位防止 preset id 错位）
   '印象最深的一场比赛或成绩是哪场？为什么？',
   '击剑的目标是什么（近期/长期）？'
 ];
@@ -5617,7 +5617,7 @@ function circuitLabel(c) {
     const st = journeyStats();
     const nb = st.w + st.l;
     const answeredN = Object.values(bioQA).filter(e => e.a && e.a.trim()).length;
-    const totalN = Math.max(BIO_PRESET_QUESTIONS.length, Object.keys(bioQA).length);
+    const totalN = Math.max(BIO_PRESET_QUESTIONS.filter(Boolean).length, Object.keys(bioQA).length);
     const qaSummary = `📋 资料问答库 · 已答 ${answeredN}/${totalN}（AI 写档案的事实来源，点按展开填写）`;
     const bioHtml = (bioData && bioData.text)
       ? bioData.text.split(/\n{2,}/).map(para => `<p style="margin-bottom:10px; line-height:1.8;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')
@@ -5659,6 +5659,7 @@ function circuitLabel(c) {
     const seen = new Set();
     const rows = [];
     BIO_PRESET_QUESTIONS.forEach((q, i) => {
+      if (!q) return; // null = 已移除的预设题，占位防 id 错位
       const id = 'preset_' + i;
       seen.add(id);
       const e = bioQA[id];
