@@ -974,7 +974,9 @@ function renderCareer(list){
       var ptxt = p ? medal + p + (e.total?"/"+e.total:"") : "—";
       var rec = (e.wins!=null||e.losses!=null) ? " · " + (e.wins||0) + "W-" + (e.losses||0) + "L" : "";
       var loc = [e.city, e.country].filter(Boolean).join(", ");
-      h += '<div class="carr"><span class="card-d">' + escH((e.date||"").slice(5,10) || "—") + '</span>'
+      var dt = e.date || "";
+      var dtxt = dt.length > 7 ? dt.slice(5,10) : (dt.length === 7 ? dt.slice(5) : "—");
+      h += '<div class="carr"><span class="card-d">' + escH(dtxt) + '</span>'
         + '<span class="card-p">' + escH(ptxt) + '</span>'
         + '<span class="card-b"><b>' + escH(e.name) + '</b>' + (e.event ? ' · ' + escH(e.event) : '') + (e.level ? ' · ' + escH(e.level) : '') + rec + '</span>'
         + '<span class="card-c">' + escH(loc) + '</span></div>';
