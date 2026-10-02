@@ -6115,81 +6115,64 @@ function circuitLabel(c) {
       groups[g].push(r);
     });
 
-    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6'];
-    const groupNames = Object.keys(groups);
+    // 每个年龄组一张独立小图，共享同一时间轴，方便同组跨赛事对比
+    const order = ['Y10', 'Y12', 'Y14', 'U15', 'U16', 'Cadet', 'U17', 'U19', 'U20', 'Junior', 'Senior', '其他'];
+    const groupNames = Object.keys(groups).sort((a, b) => {
+      const ia = order.indexOf(a), ib = order.indexOf(b);
+      return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+    });
+    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6', '#ec4899', '#84cc16'];
     const colorMap = {};
     groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
 
-    // chart dimensions
-    const W = 600, H = 260, pad = { top: 30, right: 30, bottom: 50, left: 50 };
+    const W = 600, H = 190, pad = { top: 26, right: 30, bottom: 42, left: 50 };
     const xMin = valid[0]._date.getTime(), xMax = valid[valid.length - 1]._date.getTime();
-    const allPlaces = valid.map(r => r.parsed.place);
-    const yMin = Math.max(1, Math.min(...allPlaces) - 2);
-    const yMax = Math.max(...allPlaces) + 2;
+    const xScale = t => pad.left + (t - xMin) / ((xMax - xMin) || 1) * (W - pad.left - pad.right);
+    const medalColor = p => p === 1 ? '#f59e0b' : p === 2 ? '#9ca3af' : p === 3 ? '#b45309' : null;
 
-    function xScale(t) { return pad.left + (t - xMin) / (xMax - xMin) * (W - pad.left - pad.right); }
-    function yScale(v) { return pad.top + (v - yMin) / (yMax - yMin) * (H - pad.top - pad.bottom); }
-
-    let paths = '';
-    let points = '';
-    let labels = '';
-
-    groupNames.forEach(g => {
-      const list = groups[g];
-      const color = colorMap[g];
-      const d = list.map((r, i) => {
-        const x = xScale(r._date.getTime());
-        const y = yScale(r.parsed.place);
-        return `${i === 0 ? 'M' : 'L'} ${x.toFixed(1)} ${y.toFixed(1)}`;
-      }).join(' ');
-      paths += `<path d="${d}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />`;
-
+    const charts = groupNames.map(g => {
+      const list = groups[g], color = colorMap[g];
+      const places = list.map(r => r.parsed.place);
+      const yMin = Math.max(1, Math.min(...places) - 2), yMax = Math.max(...places) + 2;
+      const yScale = v => pad.top + (v - yMin) / ((yMax - yMin) || 1) * (H - pad.top - pad.bottom);
+      const d = list.map((r, i) => `${i === 0 ? 'M' : 'L'} ${xScale(r._date.getTime()).toFixed(1)} ${yScale(r.parsed.place).toFixed(1)}`).join(' ');
+      let pts = '', lbls = '', yT = '', xT = '';
       list.forEach(r => {
-        const x = xScale(r._date.getTime());
-        const y = yScale(r.parsed.place);
-        points += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5" />`;
-        labels += `<text x="${x.toFixed(1)}" y="${(y - 10).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${r.parsed.place}</text>`;
+        const x = xScale(r._date.getTime()), y = yScale(r.parsed.place);
+        const mc = medalColor(r.parsed.place);
+        pts += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${mc || color}" stroke="white" stroke-width="1.5"><title>${escapeHtml(r.name || r.tournament || '')} ${r.parsed.place}${r.parsed.total ? '/' + r.parsed.total : ''}</title></circle>`;
+        lbls += `<text x="${x.toFixed(1)}" y="${(y - 9).toFixed(1)}" text-anchor="middle" font-size="10" fill="${mc || color}">${r.parsed.place}</text>`;
       });
-    });
+      for (let v = yMin; v <= yMax; v++) {
+        const y = yScale(v);
+        yT += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />` +
+          `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${v}</text>`;
+      }
+      const xSteps = Math.min(list.length, 5);
+      for (let i = 0; i < xSteps; i++) {
+        const idx = Math.round(i * (list.length - 1) / (xSteps - 1 || 1));
+        const r = list[idx], x = xScale(r._date.getTime());
+        xT += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${r._date.getFullYear()}/${r._date.getMonth() + 1}/${r._date.getDate()}</text>` +
+          `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
+      }
+      return `<div style="margin-bottom:18px;">
+        <div style="display:flex; align-items:baseline; gap:8px; margin-bottom:6px;">
+          <span class="trend-dot" style="background:${color}; display:inline-block; width:10px; height:10px; border-radius:50%;"></span>
+          <b style="font-size:0.92rem;">${escapeHtml(g)}</b>
+          <span style="font-size:0.72rem; color:var(--gray);">${list.length} 场 · 最好 ${Math.min(...places)}</span>
+        </div>
+        <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
+          ${yT}${xT}
+          <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+          <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+          <path d="${d}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+          ${pts}${lbls}
+        </svg>
+      </div>`;
+    }).join('');
 
-    // y-axis ticks
-    let yTicks = '';
-    for (let v = yMin; v <= yMax; v++) {
-      if (Math.round(v) !== v) continue;
-      const y = yScale(v);
-      yTicks += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />`;
-      yTicks += `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${Math.round(v)}</text>`;
-    }
-
-    // x-axis labels (date)
-    let xTicks = '';
-    const xSteps = Math.min(valid.length, 5);
-    for (let i = 0; i < xSteps; i++) {
-      const idx = Math.round(i * (valid.length - 1) / (xSteps - 1 || 1));
-      const r = valid[idx];
-      const x = xScale(r._date.getTime());
-      const label = `${r._date.getMonth() + 1}/${r._date.getDate()}`;
-      xTicks += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${label}</text>`;
-      xTicks += `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
-    }
-
-    const legendHtml = groupNames.map(g => `<span><span class="trend-dot" style="background:${colorMap[g]}"></span>${g}</span>`).join('');
-
-    const svg = `
-      <div class="trend-legend">${legendHtml}</div>
-      <div style="font-size:0.75rem; color:var(--gray); margin-bottom:8px;">纵轴：名次（越低越好）</div>
-      <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
-        ${yTicks}
-        ${xTicks}
-        <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
-        <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
-        ${paths}
-        ${points}
-        ${labels}
-      </svg>
-    `;
-
-    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:12px;">名次走势（按年龄组）</h3>' + svg;
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:4px;">名次走势（按年龄组分图）</h3>' +
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次（越低越好）· 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
   }
 
   // 击败率%：名次 / 总人数 归一化——跨赛事可比（81人第1 = 击败100%，50/102 ≈ 52%）
@@ -6203,52 +6186,60 @@ function circuitLabel(c) {
 
     const groups = {};
     pts.forEach(p => { (groups[p.group] = groups[p.group] || []).push(p); });
-    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6'];
-    const groupNames = Object.keys(groups);
+    const order = ['Y10', 'Y12', 'Y14', 'U15', 'U16', 'Cadet', 'U17', 'U19', 'U20', 'Junior', 'Senior', '其他'];
+    const groupNames = Object.keys(groups).sort((a, b) => {
+      const ia = order.indexOf(a), ib = order.indexOf(b);
+      return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+    });
+    const colors = ['#3b82f6', '#ef4444', '#22c55e', '#f59e0b', '#8b5cf6', '#14b8a6', '#ec4899', '#84cc16'];
     const colorMap = {};
     groupNames.forEach((g, i) => colorMap[g] = colors[i % colors.length]);
 
-    const W = 600, H = 260, pad = { top: 30, right: 30, bottom: 50, left: 50 };
+    const W = 600, H = 190, pad = { top: 26, right: 30, bottom: 42, left: 50 };
     const xMin = pts[0].date.getTime(), xMax = pts[pts.length - 1].date.getTime();
-    const yMin = Math.max(0, Math.min(...pts.map(p => p.pct)) - 10), yMax = 100;
     const xScale = t => pad.left + (t - xMin) / ((xMax - xMin) || 1) * (W - pad.left - pad.right);
-    const yScale = v => pad.top + (v - yMin) / (yMax - yMin) * (H - pad.top - pad.bottom);
 
-    let paths = '', points = '', labels = '';
-    groupNames.forEach(g => {
+    const charts = groupNames.map(g => {
       const list = groups[g], color = colorMap[g];
-      paths += `<path d="${list.map((p, i) => `${i === 0 ? 'M' : 'L'} ${xScale(p.date.getTime()).toFixed(1)} ${yScale(p.pct).toFixed(1)}`).join(' ')}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />`;
+      const yMin = Math.max(0, Math.min(...list.map(p => p.pct)) - 10), yMax = 100;
+      const yScale = v => pad.top + (v - yMin) / (yMax - yMin) * (H - pad.top - pad.bottom);
+      const d = list.map((p, i) => `${i === 0 ? 'M' : 'L'} ${xScale(p.date.getTime()).toFixed(1)} ${yScale(p.pct).toFixed(1)}`).join(' ');
+      let pts2 = '', lbls = '', yT = '', xT = '';
       list.forEach(p => {
         const x = xScale(p.date.getTime()), y = yScale(p.pct);
-        points += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5"><title>${p.place}/${p.total} → ${p.pct}%</title></circle>`;
-        labels += `<text x="${x.toFixed(1)}" y="${(y - 10).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${p.pct}%</text>`;
+        pts2 += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${color}" stroke="white" stroke-width="1.5"><title>${p.place}/${p.total} → ${p.pct}%</title></circle>`;
+        lbls += `<text x="${x.toFixed(1)}" y="${(y - 9).toFixed(1)}" text-anchor="middle" font-size="10" fill="${color}">${p.pct}%</text>`;
       });
-    });
-    let yTicks = '';
-    [0, 25, 50, 75, 100].forEach(v => {
-      if (v < yMin) return;
-      const y = yScale(v);
-      yTicks += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />` +
-        `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${v}%</text>`;
-    });
-    let xTicks = '';
-    const xSteps = Math.min(pts.length, 5);
-    for (let i = 0; i < xSteps; i++) {
-      const idx = Math.round(i * (pts.length - 1) / (xSteps - 1 || 1));
-      const p = pts[idx], x = xScale(p.date.getTime());
-      xTicks += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${p.date.getMonth() + 1}/${p.date.getDate()}</text>` +
-        `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
-    }
-    const legendHtml = groupNames.map(g => `<span><span class="trend-dot" style="background:${colorMap[g]}"></span>${g}</span>`).join('');
-    body.innerHTML = `<h3 style="font-size:1rem; margin-bottom:12px;">击败率走势（按年龄组）</h3>
-      <div class="trend-legend">${legendHtml}</div>
-      <div style="font-size:0.75rem; color:var(--gray); margin-bottom:8px;">纵轴：击败对手百分比（越高越好）· 例：81人中第1名 = 100%</div>
-      <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
-        ${yTicks}${xTicks}
-        <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
-        <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
-        ${paths}${points}${labels}
-      </svg>`;
+      [0, 25, 50, 75, 100].forEach(v => {
+        if (v < yMin) return;
+        const y = yScale(v);
+        yT += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />` +
+          `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${v}%</text>`;
+      });
+      const xSteps = Math.min(list.length, 5);
+      for (let i = 0; i < xSteps; i++) {
+        const idx = Math.round(i * (list.length - 1) / (xSteps - 1 || 1));
+        const p = list[idx], x = xScale(p.date.getTime());
+        xT += `<text x="${x.toFixed(1)}" y="${H - pad.bottom + 18}" text-anchor="middle" font-size="10" fill="#6b7280">${p.date.getFullYear()}/${p.date.getMonth() + 1}/${p.date.getDate()}</text>` +
+          `<line x1="${x.toFixed(1)}" y1="${H - pad.bottom}" x2="${x.toFixed(1)}" y2="${H - pad.bottom + 5}" stroke="#e5e7eb" />`;
+      }
+      return `<div style="margin-bottom:18px;">
+        <div style="display:flex; align-items:baseline; gap:8px; margin-bottom:6px;">
+          <span class="trend-dot" style="background:${color}; display:inline-block; width:10px; height:10px; border-radius:50%;"></span>
+          <b style="font-size:0.92rem;">${escapeHtml(g)}</b>
+          <span style="font-size:0.72rem; color:var(--gray);">${list.length} 场 · 最高击败 ${Math.max(...list.map(p => p.pct))}%</span>
+        </div>
+        <svg class="trend-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
+          ${yT}${xT}
+          <line x1="${pad.left}" y1="${H - pad.bottom}" x2="${W - pad.right}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+          <line x1="${pad.left}" y1="${pad.top}" x2="${pad.left}" y2="${H - pad.bottom}" stroke="#d1d5db" stroke-width="1" />
+          <path d="${d}" fill="none" stroke="${color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+          ${pts2}${lbls}
+        </svg>
+      </div>`;
+    }).join('');
+    body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:4px;">击败率走势（按年龄组分图）</h3>' +
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：击败对手百分比（越高越好）· 例：81人中第1名 = 100% · 需填「总人数」</div>' + charts;
   }
 
   // 年度奖牌：堆叠条，每年参赛量 + 金银铜构成
