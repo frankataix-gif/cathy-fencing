@@ -1067,7 +1067,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T23:08:56Z';
+const APP_VERSION = '2026-10-02T23:18:44Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -5632,11 +5632,23 @@ function circuitLabel(c) {
     const totalN = Math.max(BIO_PRESET_QUESTIONS.filter(Boolean).length, Object.keys(bioQA).length);
     const qaSummary = `📋 资料问答库 · ${answeredN} 条（训练理念与家长视角 · 教练页同步展示，点按展开）`;
     const bioHtml = (bioData && bioData.text)
-      ? bioData.text.split(/\n{2,}/).map(para => `<p style="margin-bottom:10px; line-height:1.8;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`).join('')
+      ? bioData.text.split(/\n{2,}/).map((para, pi) => {
+          const m = para.match(/^【(.+?)】\s*\n?([\s\S]*)$/);
+          if (m) return `<div style="margin:${pi ? '16' : '10'}px 0 6px;">
+            <div style="font-weight:700; font-size:0.88rem; color:#1d4ed8; border-left:3px solid #2563eb; padding-left:9px;">${escapeHtml(m[1])}</div>
+            ${m[2].trim() ? `<div style="margin-top:6px; font-size:0.84rem; line-height:1.85; color:#374151;">${escapeHtml(m[2].trim()).replace(/\n/g, '<br>')}</div>` : ''}
+          </div>`;
+          const isTitle = pi === 0 && para.length < 60;
+          return isTitle
+            ? `<div style="font-weight:800; font-size:1.02rem; color:var(--dark); margin-bottom:10px;">${escapeHtml(para).replace(/\n/g, '<br>')}</div>`
+            : `<p style="margin-bottom:10px; line-height:1.85; font-size:0.84rem; color:#374151;">${escapeHtml(para).replace(/\n/g, '<br>')}</p>`;
+        }).join('')
       : '<div style="color:var(--gray); padding:16px 0;">还没有生成档案——点下方「生成」，AI 会根据现有全部赛事数据整理一份生涯介绍，并同步到教练链接页。</div>';
+    const fenceYearN = Math.floor((Date.now() - new Date('2021-09-01').getTime()) / 31557600000) + 1;
     body.innerHTML = `
       <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;">
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${st.ev}</div><div class="label">场次</div></div>
+        <div class="result-summary-card" style="padding:10px 14px; background:linear-gradient(135deg,#fef3c7,#fffbeb);"><div class="num">第${fenceYearN}年</div><div class="label">剑龄 · 2021.09 起</div></div>
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">🥇${st.g}🥈${st.s}🥉${st.b}</div><div class="label">奖牌</div></div>
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${Object.keys(st.countries).length}</div><div class="label">国家/地区</div></div>
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${nb ? Math.round(st.w / nb * 100) + '%' : '—'}</div><div class="label">胜率</div></div>

@@ -972,7 +972,14 @@ function renderBio(bio){
   var text = bio && bio.text ? bio.text : "";
   if(!text){ el.innerHTML = ""; return; }
   var upd = bio.generatedAt ? '<div style="font-size:10px; color:#94a3b8; margin-top:6px;">' + escH(bio.generatedAt.slice(0,10)) + '</div>' : "";
-  el.innerHTML = '<details class="car"><summary>📖 Fencing Journey · 击剑之路</summary><div style="padding:8px 2px; font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div>' + upd + '</details>';
+  // 【小节标题】渲染成蓝竖线标题，段落分层清晰
+  var bioHtml = text.split(/\n{2,}/).map(function(para, pi){
+    var m = para.match(/^【(.+?)】\s*\n?([\s\S]*)$/);
+    if (m) return '<div style="margin:' + (pi ? '14' : '8') + 'px 0 4px;"><div style="font-weight:700; font-size:13px; color:#1d4ed8; border-left:3px solid #2563eb; padding-left:8px;">' + escH(m[1]) + '</div>' + (m[2].trim() ? '<div style="margin-top:5px; font-size:12.5px; line-height:1.75; color:#374151; white-space:pre-line;">' + escH(m[2].trim()) + '</div>' : '') + '</div>';
+    if (pi === 0 && para.length < 60) return '<div style="font-weight:800; font-size:15px; color:#1f2937; margin-bottom:8px;">' + escH(para) + '</div>';
+    return '<div style="margin-bottom:8px; font-size:12.5px; line-height:1.75; color:#374151; white-space:pre-line;">' + escH(para) + '</div>';
+  }).join('');
+  el.innerHTML = '<details class="car"><summary>📖 Fencing Journey · 击剑之路</summary><div style="padding:8px 2px;">' + bioHtml + '</div>' + upd + '</details>';
 }
 // ===== 生涯档案（来自 feed.career：美国赛事 + 手动录入的其他国家赛事）=====
 function renderCareer(list){
