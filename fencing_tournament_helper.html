@@ -5948,14 +5948,11 @@ function circuitLabel(c) {
         <div style="font-size:1.6rem; font-weight:800; color:var(--dark);">${l.length}</div>
         <div style="font-size:0.7rem; color:var(--gray);">${label}</div>
       </div>`).join('');
-    const detail = rows.filter(([, , l]) => l.length)
-      .map(([icon, , l]) => l.map(r =>
-        `<div style="margin-top:6px; font-size:0.8rem; text-align:left;">${icon} <b>${escapeHtml(r.name || r.tournament || '')}</b> · ${escapeHtml(r.event || '')} · ${careerFlag(r.country)} ${escapeHtml(r.date_display || r.date_iso || r.date || '')}</div>`
-      ).join('')).join('');
+    const hasMedals = medals.gold.length || medals.silver.length || medals.bronze.length;
     box.innerHTML = `<div class="card" style="background:linear-gradient(135deg,#fffbeb,#fef3c7); border:1px solid #fde68a; margin-bottom:14px;">
       <div style="display:flex; align-items:baseline; gap:8px; font-weight:700; margin-bottom:6px;">🏆 奖牌榜 <span style="font-size:0.72rem; font-weight:400; color:var(--gray);">全球赛事 · 前三名有奖牌</span></div>
       <div style="display:flex;">${cells}</div>
-      ${detail || '<div style="font-size:0.75rem; color:var(--gray); margin-top:8px;">还没有奖牌，继续加油！</div>'}
+      ${hasMedals ? '' : '<div style="font-size:0.75rem; color:var(--gray); margin-top:8px;">还没有奖牌，继续加油！</div>'}
     </div>`;
     box.style.display = 'block';
   }
