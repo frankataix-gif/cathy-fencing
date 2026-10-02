@@ -6151,13 +6151,12 @@ function circuitLabel(c) {
         `<line x1="${x.toFixed(1)}" y1="${pad.top}" x2="${x.toFixed(1)}" y2="${H - pad.bottom}" stroke="#f1f5f9" stroke-width="1" />`;
     }).join('');
 
-    // 纵轴统一固定 1–64（超过 64 名不统计），刻度按淘汰赛轮次 1/2/4/8/16/32/64
-    const Y_MIN = 1, Y_MAX = 64;
+    // 纵轴统一固定 1–64（超过 64 名不统计），log₂ 刻度：1/2/4/8/16/32/64 等距 = 每格一轮淘汰赛
     const yTicksSet = [1, 2, 4, 8, 16, 32, 64];
     const charts = groupNames.map(g => {
       const list = groups[g], color = colorMap[g];
       const places = list.map(r => r.parsed.place);
-      const yScale = v => pad.top + (v - Y_MIN) / (Y_MAX - Y_MIN) * (H - pad.top - pad.bottom);
+      const yScale = v => pad.top + Math.log2(Math.max(1, v)) / 6 * (H - pad.top - pad.bottom);
       const d = list.map((r, i) => `${i === 0 ? 'M' : 'L'} ${xScale(r._date.getTime()).toFixed(1)} ${yScale(r.parsed.place).toFixed(1)}`).join(' ');
       let pts = '', lbls = '', yT = '';
       list.forEach(r => {
@@ -6188,7 +6187,7 @@ function circuitLabel(c) {
     }).join('');
 
     body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:4px;">名次走势（按年龄组分图）</h3>' +
-      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次（越低越好），统一 1–64，超过 64 名不统计 · 刻度=淘汰赛轮次（T64/T32/T16/T8/奖牌） · 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次等距刻度，每格一轮（64→32→16→8→4→2→1），超过 64 名不统计 · 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
   }
 
   // 击败率%：名次 / 总人数 归一化——跨赛事可比（81人第1 = 击败100%，50/102 ≈ 52%）
