@@ -6116,7 +6116,7 @@ function circuitLabel(c) {
       const d = padded ? new Date(padded) : null;
       const place = typeof r.place === 'number' ? { place: r.place, total: r.total || null } : parsePlaceNum(r.place);
       return { ...r, parsed: place, _date: (d && !isNaN(d)) ? d : null };
-    }).filter(r => r.parsed.place !== null && r._date);
+    }).filter(r => r.parsed.place !== null && r.parsed.place <= 64 && r._date);
     valid.sort((a, b) => a._date - b._date);
 
     if (!valid.length) {
@@ -6151,11 +6151,13 @@ function circuitLabel(c) {
         `<line x1="${x.toFixed(1)}" y1="${pad.top}" x2="${x.toFixed(1)}" y2="${H - pad.bottom}" stroke="#f1f5f9" stroke-width="1" />`;
     }).join('');
 
+    // 纵轴统一固定 1–64（超过 64 名不统计），刻度按淘汰赛轮次 1/2/4/8/16/32/64
+    const Y_MIN = 1, Y_MAX = 64;
+    const yTicksSet = [1, 2, 4, 8, 16, 32, 64];
     const charts = groupNames.map(g => {
       const list = groups[g], color = colorMap[g];
       const places = list.map(r => r.parsed.place);
-      const yMin = Math.max(1, Math.min(...places) - 2), yMax = Math.max(...places) + 2;
-      const yScale = v => pad.top + (v - yMin) / ((yMax - yMin) || 1) * (H - pad.top - pad.bottom);
+      const yScale = v => pad.top + (v - Y_MIN) / (Y_MAX - Y_MIN) * (H - pad.top - pad.bottom);
       const d = list.map((r, i) => `${i === 0 ? 'M' : 'L'} ${xScale(r._date.getTime()).toFixed(1)} ${yScale(r.parsed.place).toFixed(1)}`).join(' ');
       let pts = '', lbls = '', yT = '';
       list.forEach(r => {
@@ -6164,11 +6166,11 @@ function circuitLabel(c) {
         pts += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${mc || color}" stroke="white" stroke-width="1.5"><title>${escapeHtml(r.name || r.tournament || '')} ${r.parsed.place}${r.parsed.total ? '/' + r.parsed.total : ''}</title></circle>`;
         lbls += `<text x="${x.toFixed(1)}" y="${(y - 9).toFixed(1)}" text-anchor="middle" font-size="10" fill="${mc || color}">${r.parsed.place}</text>`;
       });
-      for (let v = yMin; v <= yMax; v++) {
+      yTicksSet.forEach(v => {
         const y = yScale(v);
-        yT += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="#e5e7eb" stroke-width="1" />` +
+        yT += `<line x1="${pad.left}" y1="${y.toFixed(1)}" x2="${W - pad.right}" y2="${y.toFixed(1)}" stroke="${v <= 8 ? '#cbd5e1' : '#e5e7eb'}" stroke-width="1" />` +
           `<text x="${pad.left - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" font-size="10" fill="#6b7280">${v}</text>`;
-      }
+      });
       return `<div style="margin-bottom:18px;">
         <div style="display:flex; align-items:baseline; gap:8px; margin-bottom:6px;">
           <span class="trend-dot" style="background:${color}; display:inline-block; width:10px; height:10px; border-radius:50%;"></span>
@@ -6186,7 +6188,7 @@ function circuitLabel(c) {
     }).join('');
 
     body.innerHTML = '<h3 style="font-size:1rem; margin-bottom:4px;">名次走势（按年龄组分图）</h3>' +
-      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次（越低越好）· 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
+      '<div style="font-size:0.75rem; color:var(--gray); margin-bottom:14px;">纵轴：名次（越低越好），统一 1–64，超过 64 名不统计 · 刻度=淘汰赛轮次（T64/T32/T16/T8/奖牌） · 金银铜点=进前三 · 悬停看赛事名</div>' + charts;
   }
 
   // 击败率%：名次 / 总人数 归一化——跨赛事可比（81人第1 = 击败100%，50/102 ≈ 52%）
