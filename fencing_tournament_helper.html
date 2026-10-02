@@ -6014,7 +6014,7 @@ function circuitLabel(c) {
       const man = g.items.filter(i => i.src === 'manual').map(i => i.e);
       const m0 = man[0];
       const flag = flagImg(m0 ? m0.country : 'USA');
-      const locHtml = (m0 ? [escapeHtml(m0.city || ''), m0.country ? flag + escapeHtml(m0.country) : ''] : [flag + '美国']).filter(Boolean).join(', ');
+      const locHtml = escapeHtml(m0 ? [m0.city, m0.country].filter(Boolean).join(', ') : '美国');
       const level = us[0] ? (us[0].circuits || []).join('/') : (m0 && m0.level) || '';
       html += `<div class="card" style="margin-bottom:14px; padding:0; overflow:hidden;">
         <div style="background:#1e293b; color:#fff; padding:10px 14px;">
