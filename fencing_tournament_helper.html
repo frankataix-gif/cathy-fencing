@@ -6036,15 +6036,28 @@ function circuitLabel(c) {
     });
   }
 
-  // 从项目名提取年龄组：U14 → Y14（和美国数据同组），Cadet/Junior 保留
+  // 从项目名提取年龄组：U14 → Y14（和美国数据同组）；U15/U17 保留原名（不是美国 Y 组）
   function careerAgeGroup(e) {
     if (e.age_group) return e.age_group;
     const m = String(e.event || '').match(/\b(U\d+|Y\d+|Cadet|Junior|CDT|Senior|Vet\w*)\b/i);
     if (!m) return '其他';
     const g = m[1].toUpperCase();
-    if (/^U\d+/.test(g)) return 'Y' + g.slice(1);
+    if (/^U(\d+)/.test(g)) { const n = parseInt(g.slice(1), 10); return n <= 14 ? 'Y' + n : 'U' + n; }
     if (g === 'CDT') return 'Cadet';
     return g;
+  }
+  // 跳打：参赛组别上限 > Cathy 当时所属的最低组别（年龄对应 Y10/Y12/Y14/Cadet/Junior）
+  const _AGE_CAPS = { Y10: 10, Y12: 12, Y14: 14, U15: 15, U16: 16, Cadet: 16, U17: 17, U19: 19, U20: 20, Junior: 20, JNR: 20, Senior: 99, SNR: 99 };
+  function careerUpBadge(e) {
+    const cap = _AGE_CAPS[careerAgeGroup(e)];
+    if (!cap) return null;
+    const ds = e.date || '';
+    const padded = ds.length === 7 ? ds + '-01' : ds.length === 4 ? ds + '-01-01' : ds;
+    const d = padded ? new Date(padded) : null;
+    if (!d || isNaN(d)) return null;
+    const age = getAgeAt(CATHY.birth, d);
+    const own = age <= 10 ? 10 : age <= 12 ? 12 : age <= 14 ? 14 : age <= 16 ? 16 : age <= 19 ? 20 : 99;
+    return cap > own ? { group: careerAgeGroup(e), age } : null;
   }
 
   // ===== 走势：四种专业视图（名次走势 / 击败率 / 年度奖牌 / 对手记录）=====
@@ -6264,8 +6277,10 @@ function circuitLabel(c) {
     (cachedResults || []).forEach(r => (r.bouts || []).forEach(b => {
       const o = b.opponent || '';
       if (!o) return;
-      if (!opp[o]) opp[o] = { name: o, club: b.opponent_club || '', w: 0, l: 0 };
+      if (!opp[o]) opp[o] = { name: o, club: b.opponent_club || '', w: 0, l: 0, groups: {} };
       if (b.result === 'Victory') opp[o].w++; else opp[o].l++;
+      const g = r.age_group || careerAgeGroup(r);
+      if (g && g !== '其他') opp[o].groups[g] = 1;
     }));
     const list = Object.values(opp).filter(o => o.w + o.l > 0).sort((a, b) => (b.w + b.l) - (a.w + a.l) || b.w - a.w);
     if (!list.length) { body.innerHTML = '<div class="results-empty">暂无对阵数据</div>'; return; }
@@ -6274,12 +6289,14 @@ function circuitLabel(c) {
       (repeat.length ? `<div style="font-size:0.8rem; color:#92400e; background:#fffbeb; border:1px solid #fde68a; border-radius:8px; padding:8px 10px; margin-bottom:10px;">🔁 交手 ≥2 次：${repeat.map(o => `${escapeHtml(o.name)}（${o.w}胜${o.l}负）`).join('、')}</div>` : '') +
       '<div style="overflow-x:auto;">' +
       '<table style="width:100%; border-collapse:collapse; font-size:0.82rem;">' +
-      '<tr style="text-align:left; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">对手</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">俱乐部</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">交手</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">胜</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">负</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:center;">胜率</th></tr>' +
+      '<tr style="text-align:left; color:var(--gray); font-size:0.75rem;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">对手</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">俱乐部</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">组别</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">交手</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">胜</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">负</th><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:center;">胜率</th></tr>' +
       list.map(o => {
         const n = o.w + o.l, pct = Math.round(o.w / n * 100);
         const pc = pct >= 60 ? '#16a34a' : pct >= 40 ? '#d97706' : '#dc2626';
+        const gtxt = Object.keys(o.groups).sort().join('/');
         return `<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">${escapeHtml(o.name)}</td>
           <td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; color:var(--gray); font-size:0.75rem;">${escapeHtml(o.club)}</td>
+          <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; font-size:0.75rem;">${gtxt || '—'}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">${n}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#16a34a; font-weight:700;">${o.w}</td>
           <td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#dc2626;">${o.l}</td>
@@ -6309,8 +6326,9 @@ function circuitLabel(c) {
     if (!body) return;
     const list = allCareerEntries().slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     renderMedalBoard(list);
+    const upN = list.filter(e => careerUpBadge(e)).length;
     let html = `<div style="display:flex; justify-content:space-between; align-items:center; margin:14px 0 4px;">
-        <span style="font-size:0.75rem; color:var(--gray);">生涯共 ${list.length} 场 · 美国赛事自动收录 · 其他国家点右侧录入</span>
+        <span style="font-size:0.75rem; color:var(--gray);">生涯共 ${list.length} 场${upN ? ` · ⬆ 跳打 ${upN} 场` : ''} · 美国赛事自动收录 · 其他国家点右侧录入</span>
         <button class="btn cathy" id="career-add-btn" style="padding:6px 16px; font-size:0.85rem;">+ 录入成绩</button>
       </div>`;
     if (!list.length) {
@@ -6327,13 +6345,15 @@ function circuitLabel(c) {
       const placeTxt = e.place ? medal + e.place + (e.total ? '/' + e.total : '') : '—';
       const loc = [e.city, e.country].filter(Boolean).join(', ');
       const recTxt = (e.wins != null || e.losses != null) ? ` · ${e.wins || 0}胜${e.losses || 0}负` : '';
+      const up = careerUpBadge(e);
+      const upBadge = up ? ` <span title="${up.age}岁参加${up.group}组" style="font-size:0.66rem; background:#fdf2f8; color:#be185d; border:1px solid #fbcfe8; border-radius:6px; padding:1px 6px; vertical-align:2px;">⬆ 跳打</span>` : '';
       const srcBadge = e.src === 'usaf' ? '' : ' <span style="font-size:0.66rem; background:#eef2ff; color:#4338ca; border-radius:6px; padding:1px 6px; vertical-align:2px;">录入</span>';
       const nameHtml = e.url ? `<a href="${escapeHtml(e.url)}" target="_blank" rel="noopener" style="color:var(--primary); text-decoration:none; font-weight:700;">${escapeHtml(e.name)}</a>` : `<b>${escapeHtml(e.name)}</b>`;
       const editBtn = e.src === 'manual' ? `<button class="btn secondary career-edit" data-cid="${escapeHtml(e.id)}" style="padding:3px 12px; font-size:0.75rem; flex-shrink:0;">编辑</button>` : '';
       html += `<div class="card" style="margin-bottom:10px; padding:12px; display:flex; gap:12px; align-items:flex-start;">
         <div style="flex:none; min-width:46px; text-align:center; font-weight:800; color:var(--dark); font-size:0.92rem; padding-top:1px;">${placeTxt}</div>
         <div style="flex:1; min-width:0;">
-          <div style="font-size:0.92rem; line-height:1.4;">${careerFlag(e.country)} ${nameHtml}${srcBadge}</div>
+          <div style="font-size:0.92rem; line-height:1.4;">${careerFlag(e.country)} ${nameHtml}${srcBadge}${upBadge}</div>
           <div style="font-size:0.78rem; color:var(--gray); margin-top:3px;">${escapeHtml(e.date || '')}${e.event ? ' · ' + escapeHtml(e.event) : ''}${e.level ? ' · ' + escapeHtml(e.level) : ''}${loc ? ' · ' + escapeHtml(loc) : ''}${recTxt}</div>
           ${e.notes ? `<div style="font-size:0.82rem; color:#4b5563; margin-top:4px;">${escapeHtml(e.notes)}</div>` : ''}
         </div>
