@@ -1066,7 +1066,7 @@
 <script>
 const DATA_UPDATED = '2026-10-02T21:35:50Z';
 // 客户端版本号：与 cathy_data/version.json 对应；只有我主动推送（代码或数据）时才变化
-const APP_VERSION = '2026-10-02T22:45:16Z';
+const APP_VERSION = '2026-10-02T22:49:23Z';
 const CATHY_SYNC_WORKER_URL = 'https://cathysync.frankataix.workers.dev/';
 const CATHY_VIDEO_WORKER_URL = 'https://cathyvideos.frankataix.workers.dev';
 // 家庭钥匙：打开「设置链接」(网址 #fk=...) 时存到本机；只存本机，不同步到 GitHub
@@ -5641,17 +5641,6 @@ function circuitLabel(c) {
         <div class="result-summary-card" style="padding:10px 14px;"><div class="num">${nb ? Math.round(st.w / nb * 100) + '%' : '—'}</div><div class="label">胜率</div></div>
         ${st.up ? `<div class="result-summary-card" style="padding:10px 14px;"><div class="num">⬆${st.up}</div><div class="label">跳打</div></div>` : ''}
       </div>
-      ${(() => {
-        let phils = Object.entries(bioQA).filter(([id, e]) => id.indexOf('phil_') === 0 && e.a && e.a.trim()).sort((a, b) => a[0] < b[0] ? -1 : 1).map(([, e]) => e);
-        if (!phils.length) phils = PHILOSOPHY_DEFAULT.map(([q, a]) => ({ q, a }));
-        return `<div style="background:linear-gradient(135deg,#eff6ff,#f0fdf4); border:1px solid #bfdbfe; border-radius:12px; padding:14px 16px; margin-bottom:14px;">
-          <div style="font-weight:700; font-size:0.95rem; margin-bottom:10px; color:#1d4ed8;">⚔️ 花剑理念 · 家长视角<span style="font-size:0.7rem; font-weight:400; color:var(--gray); margin-left:8px;">问答式 · 教练页同步展示</span></div>
-          ${phils.map(e => `<div style="margin-bottom:10px; background:white; border-radius:8px; padding:10px 12px;">
-            <div style="font-weight:600; font-size:0.84rem; color:#1e40af; margin-bottom:4px;">${escapeHtml(e.q || '')}</div>
-            <div style="font-size:0.8rem; color:#374151; line-height:1.7; white-space:pre-line;">${escapeHtml(e.a.trim())}</div>
-          </div>`).join('')}
-        </div>`;
-      })()}
       <details class="bout-details" style="margin-bottom:14px;">
         <summary style="background:#eff6ff; border-color:#bfdbfe; color:#1d4ed8;">${qaSummary}</summary>
         <div id="bio-qa-list" style="margin-top:8px;"></div>
@@ -5661,7 +5650,18 @@ function circuitLabel(c) {
       <div style="display:flex; justify-content:space-between; align-items:center; margin-top:14px; padding-top:12px; border-top:1px solid #eef2f7; gap:8px;">
         <span style="font-size:0.72rem; color:var(--gray);">${bioData && bioData.generatedAt ? '更新于 ' + bioData.generatedAt.slice(0, 16).replace('T', ' ') : ''}</span>
         <button class="btn secondary" id="bio-gen-btn" style="padding:6px 14px; font-size:0.8rem; flex-shrink:0;">${bioData && bioData.text ? '🔄 用最新数据重新生成' : '✨ 生成生涯档案'}</button>
-      </div>`;
+      </div>
+      ${(() => {
+        let phils = Object.entries(bioQA).filter(([id, e]) => id.indexOf('phil_') === 0 && e.a && e.a.trim()).sort((a, b) => a[0] < b[0] ? -1 : 1).map(([, e]) => e);
+        if (!phils.length) phils = PHILOSOPHY_DEFAULT.map(([q, a]) => ({ q, a }));
+        return `<div style="background:linear-gradient(135deg,#eff6ff,#f0fdf4); border:1px solid #bfdbfe; border-radius:12px; padding:14px 16px; margin-top:14px;">
+          <div style="font-weight:700; font-size:0.95rem; margin-bottom:10px; color:#1d4ed8;">⚔️ 花剑理念 · 家长视角<span style="font-size:0.7rem; font-weight:400; color:var(--gray); margin-left:8px;">问答式 · 教练页同步展示</span></div>
+          ${phils.map(e => `<div style="margin-bottom:10px; background:white; border-radius:8px; padding:10px 12px;">
+            <div style="font-weight:600; font-size:0.84rem; color:#1e40af; margin-bottom:4px;">${escapeHtml(e.q || '')}</div>
+            <div style="font-size:0.8rem; color:#374151; line-height:1.7; white-space:pre-line;">${escapeHtml(e.a.trim())}</div>
+          </div>`).join('')}
+        </div>`;
+      })()}`;
     document.getElementById('bio-gen-btn').addEventListener('click', e => generateCathyBio(e.currentTarget));
     document.getElementById('bio-qa-add').addEventListener('click', () => {
       const q = prompt('自定义问题（如：为什么选择 Dynamo？）');
