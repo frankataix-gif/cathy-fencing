@@ -21689,3 +21689,21 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/xMVztTxMLD_NQV3lTXyzbw~~/AAAHahA~/AXfssOrpKLmz8HAdpyBAMUHc0UXtfHyxJEH2KklID6rQdldEGgD-LBLmeKdgSMIDRUEa9MD3Zx7L5TLJ-pGblPqad
 
 ---
+
+## [营销] Use your 761 points on a 250-point bundle
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-02T16:10:57.000Z
+**摘要:** Sephora 提醒用户可用积分兑换奖励
+**待办:** 无
+**GmailID:** 1a0fd62167e499ae
+
+ Sephora 
+
+Get three 100-point rewards for just 250 points. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a0fd61e66db5d41ff4bbe5cfc0/c285782dec5e46000000021ef3a0bcc2/c
+
+---
