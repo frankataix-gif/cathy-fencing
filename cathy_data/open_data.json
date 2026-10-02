@@ -4,20 +4,6 @@
       "name": "击剑",
       "items": [
         {
-          "name": "USA Fencing 会员中心",
-          "url": "https://member.usafencing.org",
-          "user": "frankcathynatalie",
-          "pass": "Mm98796395",
-          "note": "会员信息 / 参赛资格 / Regional 排名",
-          "image": "",
-          "pdf": {
-            "name": "membershipCard_3.pdf",
-            "path": "cathy_data/files/file_1789547735151.pdf",
-            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789547735151.pdf"
-          },
-          "voice": null
-        },
-        {
           "name": "AskFRED",
           "url": "https://askfred.net",
           "user": "frankataix@gmail.com",
@@ -58,6 +44,20 @@
             "name": "加拿大协会.pdf",
             "path": "cathy_data/files/file_1789549702854.pdf",
             "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789549702854.pdf"
+          },
+          "voice": null
+        },
+        {
+          "name": "USA Fencing 会员中心",
+          "url": "https://member.usafencing.org",
+          "user": "frankcathynatalie",
+          "pass": "Mm98796395",
+          "note": "会员信息 / Membership Name: He Yunxi  Preferred Name: Cathy  Country: Grenada  Federation: USA Fencing (Region 1)  Birth: Mar 13, 2014 · 12 years old · Female  Height / Weight: 165 cm / 114.6 lb  Home: Vancouver, BC · Region 1 (WA, OR, MT, ID, WY)  Weapon: Foil  Hand: TBD  USA Fencing Membership Member ID: 102111079  Membership Expires: Jul 31, 2027  Parents: Frank He & Natalie Wu  Club / Coach: Dynamo Fencing Club（温哥华）/ TBD  Notes: None",
+          "image": "",
+          "pdf": {
+            "name": "membershipCard_3.pdf",
+            "path": "cathy_data/files/file_1789547735151.pdf",
+            "url": "https://cathysync.frankataix.workers.dev/file?path=cathy_data%2Ffiles%2Ffile_1789547735151.pdf"
           },
           "voice": null
         }
