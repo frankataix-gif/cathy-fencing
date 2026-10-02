@@ -309,7 +309,7 @@
     #sw-update-banner {
       position: fixed; top: 0; left: 0; right: 0; z-index: 100001;
       background: #000000; color: #ffffff;
-      padding: 14px 16px; text-align: center; font-size: 1rem;
+      padding: 14px 16px; padding-top: calc(14px + env(safe-area-inset-top)); text-align: center; font-size: 1rem;
       display: flex; justify-content: center; align-items: center; gap: 12px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       font-weight: 600;
@@ -1107,6 +1107,17 @@ function showAppUpdateBanner() {
   });
 }
 
+// 移除更新横幅时同时复位它加过的内联偏移，否则顶栏上方留缝、滚动内容会从缝里透出
+function removeAppUpdateBanner() {
+  const banner = document.getElementById('sw-update-banner');
+  if (banner) banner.remove();
+  document.body.style.paddingTop = '';
+  const header = document.querySelector('.header');
+  const tabs = document.getElementById('tabs');
+  if (header) header.style.top = '';
+  if (tabs) tabs.style.top = '';
+}
+
 // 打开或回到前台时检测服务器是否有新版本，有则顶部出现横幅
 async function checkForUpdate() {
   function show() { document.documentElement.classList.remove('app-checking'); }
@@ -1118,6 +1129,8 @@ async function checkForUpdate() {
       showAppUpdateBanner();
       return;
     }
+    // 版本已一致，若横幅还挂着则移除并复位布局
+    removeAppUpdateBanner();
   } catch (e) {}
   show();
 }
@@ -7679,8 +7692,7 @@ function circuitLabel(c) {
       if (hadController) {
         showAppUpdateBanner();
       } else {
-        const banner = document.getElementById('sw-update-banner');
-        if (banner) banner.remove();
+        removeAppUpdateBanner();
       }
     }
 
