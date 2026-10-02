@@ -365,6 +365,11 @@
     .result-stat { background:#f8fafc; border-radius:20px; padding:4px 10px; font-size:0.75rem; color:var(--gray); }
     .result-stat strong { color:var(--dark); }
     .bout-list { display:flex; flex-direction:column; gap:8px; }
+    .bout-details > summary { list-style:none; cursor:pointer; padding:8px 10px; background:#f8fafc; border:1px solid #e5e7eb; border-radius:8px; font-size:0.8rem; font-weight:600; color:#475569; display:flex; align-items:center; gap:6px; }
+    .bout-details > summary::-webkit-details-marker { display:none; }
+    .bout-details > summary::after { content:'▸'; margin-left:auto; transition:transform .15s; }
+    .bout-details[open] > summary { margin-bottom:8px; }
+    .bout-details[open] > summary::after { transform:rotate(90deg); }
     .bout-row { display:flex; align-items:center; gap:6px; flex-wrap:nowrap; font-size:0.85rem; padding:6px 8px; background:#f8fafc; border-radius:8px; }
     .bout-type { min-width:38px; color:var(--gray); font-size:0.75rem; }
     .bout-opponent { flex:1; min-width:0; }
@@ -5894,6 +5899,9 @@ function circuitLabel(c) {
       `;
     }).join('');
 
+    const nb2 = (r.bouts || []).length;
+    const bw = (r.bouts || []).filter(b => b.result === 'Victory').length;
+    const bl = nb2 - bw;
     const snippet = renderReflectionSnippet(r.event_id);
     const roundsAttr = encodeURIComponent(JSON.stringify(r.rounds || {}));
     const titleAttr = escapeHtml(r.tournament || '');
@@ -5920,7 +5928,7 @@ function circuitLabel(c) {
         </div>
         ${snippet}
         ${insightHtml}
-        <div class="bout-list">${bouts}</div>
+        ${nb2 ? `<details class="bout-details"><summary>⚔️ 对阵明细 · ${nb2} 剑（${bw}胜${bl}负）</summary><div class="bout-list">${bouts}</div></details>` : ''}
       </div>
     `;
   }
