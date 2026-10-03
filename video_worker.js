@@ -192,15 +192,18 @@ async function regCoach(env, body) {
   return reg.find(c => (body.coachId && c.id === body.coachId) || (body.token && c.token === body.token)) || null;
 }
 
-async function translate(env, text, targetLang) {
+async function translate(env, text, targetLang, maxTokens, properNounMode) {
   if (!env.AI || !text) return text;
+  const sys = properNounMode
+    ? `Translate the following fencing tournament name / category / city into ${LANG_NAME[targetLang] || targetLang || 'English'}. Translate the whole phrase including the tournament name itself (transliterate brand names if needed, e.g. 京跃杯 = Jingyue Cup). Output ONLY the translation, no explanation, no quotes. Keep age groups (U8/U10/Y-14/Cadet), weapon names (Foil), scores and numbers unchanged.`
+    : `You translate messages between a fencing coach and a young fencer's family (foil/épée/sabre). Translate the user's text into ${LANG_NAME[targetLang] || targetLang || 'English'}, using correct fencing terminology (e.g. Italian "parata" = parry, "stoccata" = hit/touch, "affondo" = lunge; 防守/格挡 = parry, 弓步 = lunge). Output ONLY the translation, no explanation, no quotes. Keep names/numbers/scores as-is. If the text is already in the target language, output it unchanged.`;
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
       messages: [
-        { role: 'system', content: `You translate short messages between a fencing coach and a young fencer's family (foil/épée/sabre). Translate the user's text into ${LANG_NAME[targetLang] || 'English'}, using correct fencing terminology (e.g. Italian "parata" = parry, "stoccata" = hit/touch, "affondo" = lunge; 防守/格挡 = parry, 弓步 = lunge). Output ONLY the translation, no explanation, no quotes. Keep names/numbers/scores as-is. If the text is already in the target language, output it unchanged.` },
+        { role: 'system', content: sys },
         { role: 'user', content: text }
       ],
-      max_tokens: 512
+      max_tokens: maxTokens || 512
     });
     const t = (res && res.response) ? res.response.trim() : '';
     return t || text;
@@ -237,11 +240,83 @@ export default {
         if (!/^[a-z0-9]{16,64}$/i.test(token)) return json({ error: 'invalid' }, 403);
         const meta = await readJson(env, `coach/meta_${token}.json`);
         if (!meta) return json({ error: 'invalid' }, 404);
-        const feed = await readJson(env, 'coach/feed.json') || { videos: [] };
+        let feed = await readJson(env, 'coach/feed.json') || { videos: [] };
         const comments = await readJson(env, `coach/comments_${token}.json`) || [];
         // 家长留言显示为教练语言版本；同语言直接显示原文，缺翻译时现翻并缓存回写
         const lang = meta.lang || 'en';
         const familyLang = feed.familyLang || 'zh';
+        // 内容级翻译：理念 / 档案 / 中文赛事名 → 教练语言，译文缓存进 feed.tx（每语言翻一次）
+        if (feed && lang !== 'zh') {
+          const cjk = /[\u4e00-\u9fff]/;
+          feed.tx = feed.tx || {};
+          const tx = feed.tx[lang] = feed.tx[lang] || {};
+          let fdirty = false;
+          // 单字段翻译：译文仍含中文视为失败，不落缓存下次重试
+          const txf = async (s, mt) => { const r = await translate(env, s, lang, mt || 256); return cjk.test(r || '') ? null : r; };
+          const txfN = async (s, mt) => {
+            // 中文引号/括号容易让模型整句回吐原文，先转 ASCII
+            const r = await translate(env, String(s).replace(/[“”「」『』]/g, '"').replace(/[（）]/g, m => m === '（' ? '(' : ')'), lang, mt || 128, true);
+            return cjk.test(r || '') ? null : r;
+          };
+          if (feed.philosophy && cjk.test(feed.philosophy.text || '') && tx.philosophyAt !== feed.philosophy.updatedAt) {
+            const r = await txf(feed.philosophy.text, 2048);
+            if (r) { tx.philosophy = r; tx.philosophyAt = feed.philosophy.updatedAt || ''; fdirty = true; }
+          }
+          if (feed.bio && cjk.test(feed.bio.text || '') && tx.bioAt !== (feed.bio.generatedAt || feed.bio.updatedAt)) {
+            const r = await txf(feed.bio.text, 2048);
+            if (r) { tx.bio = r; tx.bioAt = feed.bio.generatedAt || feed.bio.updatedAt || ''; fdirty = true; }
+          }
+          // 视频卡上的中文赛事/项目名
+          tx.videos = tx.videos || {};
+          for (const v of feed.videos || []) {
+            if (!v || !v.id) continue;
+            const cv = tx.videos[v.id];
+            if (cv && !cjk.test((cv.tournament || '') + (cv.event || ''))) continue; // 已有有效译文
+            if (!cjk.test((v.tournament || '') + (v.event || ''))) continue;
+            const ve = tx.videos[v.id] = tx.videos[v.id] || {};
+            if (v.tournament && cjk.test(v.tournament) && !ve.tournament) { const r = await txfN(v.tournament); if (r) ve.tournament = r; }
+            if (v.event && cjk.test(v.event) && !ve.event) { const r = await txfN(v.event); if (r) ve.event = r; }
+            fdirty = true;
+          }
+          tx.career = tx.career || {};
+          for (let i = 0; i < (feed.career || []).length; i++) {
+            const e = feed.career[i];
+            if (!e) continue;
+            if (!cjk.test((e.name || '') + (e.event || '') + (e.level || '') + (e.city || ''))) continue;
+            const ce = tx.career[i] = tx.career[i] || {};
+            for (const f of ['name', 'event', 'level', 'city']) {
+              if (typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) { const r = await txfN(e[f]); if (r) ce[f] = r; }
+            }
+            fdirty = true;
+          }
+          // 顽固字段（单条翻不动）批量重试：编号清单一次翻完
+          const stuck = [];
+          for (let i = 0; i < (feed.career || []).length; i++) {
+            const e = feed.career[i], ce = tx.career[i] || {};
+            for (const f of ['name', 'event', 'level', 'city']) {
+              if (e && typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) stuck.push({ i, f, s: e[f] });
+            }
+          }
+          if (stuck.length) {
+            const list = stuck.map((x, n) => `${n + 1}. ${x.s}`).join('\n');
+            const batch = await translate(env, list, lang, 1024, true);
+            if (batch && batch !== list) {
+              const lines = String(batch).split(/\n+/).map(l => l.replace(/^\s*\d+[.、)）]?\s*/, '').trim());
+              stuck.forEach((x, n) => {
+                const v = lines[n];
+                if (v && !cjk.test(v)) { tx.career[x.i] = tx.career[x.i] || {}; tx.career[x.i][x.f] = v; fdirty = true; }
+              });
+            }
+          }
+          if (fdirty) await writeJson(env, 'coach/feed.json', feed);
+          // 返回译文版（client 不用改）
+          const tFeed = Object.assign({}, feed);
+          if (tx.philosophy && feed.philosophy) tFeed.philosophy = Object.assign({}, feed.philosophy, { text: tx.philosophy });
+          if (tx.bio && feed.bio) tFeed.bio = Object.assign({}, feed.bio, { text: tx.bio });
+          if (Object.keys(tx.career).length) tFeed.career = (feed.career || []).map((e, i) => tx.career[i] ? Object.assign({}, e, tx.career[i]) : e);
+          if (Object.keys(tx.videos).length) tFeed.videos = (feed.videos || []).map(v => (v && tx.videos[v.id]) ? Object.assign({}, v, tx.videos[v.id]) : v);
+          feed = tFeed;
+        }
         let dirty = false;
         const shown = [];
         for (const c of comments) {
@@ -499,7 +574,7 @@ export default {
         // 旧版客户端不带 philosophy/bio/opponents/career 字段——整体覆盖会把这些清空，这里做字段级保留
         const old = await readJson(env, 'coach/feed.json');
         if (old) {
-          ['philosophy', 'bio', 'opponents'].forEach(k => {
+          ['philosophy', 'bio', 'opponents', 'tx'].forEach(k => {
             if (feed[k] == null && old[k] != null) feed[k] = old[k];
           });
           if ((!Array.isArray(feed.career) || !feed.career.length) && Array.isArray(old.career) && old.career.length) feed.career = old.career;
