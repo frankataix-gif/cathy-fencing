@@ -21936,3 +21936,28 @@ Get ready.
   ­ ͏ 
 
 ---
+
+## [Cathy&David] Reminder: Grade 8 Ivy Discovery Day at 12:30 (Pacific Time - US & Canada) on Saturday, October 3, 2026
+
+**发件人:** CHS Events <notifications@calendly.com>
+**日期:** 2026-10-03T17:30:10.000Z
+**摘要:** 提醒Cathy参加2026年10月3日12:30的八年级Ivy Discovery Day活动，包含家长演讲和学生活动环节。
+**待办:** 无
+**涉及:** Cathy
+**日程:** {"title":"Grade 8 Ivy Discovery Day","date":"2026-10-03","time":"12:30","location":"Beedie Fine Arts Centre"}
+**GmailID:** 1a102d0f6774e8ca
+
+ Calendly 
+
+Hi jingqi wu,
+
+
+This is a friendly reminder that your Grade 8 Ivy Discovery Day is at 12:30 
+(Pacific Time - US & Canada) on Saturday, October 3, 2026.
+
+
+Check-in opens 30 minutes before the start time at the Beedie Fine Arts 
+Centre. Please review this Campus Map 
+<https://calendly.com/url?q=https%3A%2F%2Fwww.croftonhouse.ca%2Fuploaded%2FAdmissions%2FArrival-Map-Fine-Arts-Centre.pdf&user_uuid=fc48e0ae-baec-4b50-9491-8d6642e8205c&stage=1&hmac=579cc093145dbd75af12648debeffd302e20701dd
+
+---
