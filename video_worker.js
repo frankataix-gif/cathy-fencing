@@ -211,7 +211,7 @@ async function translate(env, text, targetLang, maxTokens, properNounMode) {
   if (!env.AI || !text) return text;
   const sys = properNounMode
     ? `Translate the following fencing tournament name / category / city into ${LANG_NAME[targetLang] || targetLang || 'English'}. Translate the whole phrase including the tournament name itself (transliterate brand names if needed, e.g. 京跃杯 = Jingyue Cup). Output ONLY the translation, no explanation, no quotes. Keep age groups (U8/U10/Y-14/Cadet), weapon names (Foil), scores and numbers unchanged.`
-    : `You translate messages between a fencing coach and a young fencer's family (foil/épée/sabre). Translate the user's text into ${LANG_NAME[targetLang] || targetLang || 'English'}, using correct fencing terminology (e.g. Italian "parata" = parry, "stoccata" = hit/touch, "affondo" = lunge; 防守/格挡 = parry, 弓步 = lunge). Output ONLY the translation, no explanation, no quotes. Keep names/numbers/scores as-is. If the text is already in the target language, output it unchanged.`;
+    : `You translate messages between a fencing coach and a young fencer's family (foil/épée/sabre). Translate the user's text into ${LANG_NAME[targetLang] || targetLang || 'English'}, using correct fencing terminology (e.g. Italian "parata" = parry, "stoccata" = hit/touch, "affondo" = lunge; 防守/格挡 = parry, 弓步 = lunge). Output ONLY the translation, no explanation, no quotes. Keep names/numbers/scores as-is. If the text is already in the target language, output it unchanged. FORMATTING RULES: if the text contains 【...】 section markers, keep the 【】 brackets exactly and translate only the title inside. Preserve paragraph breaks (blank lines), list numbering, and Q：/A： or 问：/答： prefixes exactly.`;
   try {
     const res = await env.AI.run('@cf/qwen/qwen3-30b-a3b-fp8', {
       messages: [
@@ -273,13 +273,13 @@ export default {
             const r = await translate(env, String(s).replace(/[“”「」『』]/g, '"').replace(/[（）]/g, m => m === '（' ? '(' : ')'), lang, mt || 128, true);
             return cjk.test(r || '') ? null : r;
           };
-          if (feed.philosophy && cjk.test(feed.philosophy.text || '') && tx.philosophyAt !== feed.philosophy.updatedAt) {
+          if (feed.philosophy && cjk.test(feed.philosophy.text || '') && (tx.philosophyAt !== feed.philosophy.updatedAt || tx.philV !== 2)) {
             const r = await txf(feed.philosophy.text, 2048);
-            if (r) { tx.philosophy = r; tx.philosophyAt = feed.philosophy.updatedAt || ''; fdirty = true; }
+            if (r) { tx.philosophy = r; tx.philosophyAt = feed.philosophy.updatedAt || ''; tx.philV = 2; fdirty = true; }
           }
-          if (feed.bio && cjk.test(feed.bio.text || '') && tx.bioAt !== (feed.bio.generatedAt || feed.bio.updatedAt)) {
+          if (feed.bio && cjk.test(feed.bio.text || '') && (tx.bioAt !== (feed.bio.generatedAt || feed.bio.updatedAt) || tx.bioV !== 2)) {
             const r = await txf(feed.bio.text, 2048);
-            if (r) { tx.bio = r; tx.bioAt = feed.bio.generatedAt || feed.bio.updatedAt || ''; fdirty = true; }
+            if (r) { tx.bio = r; tx.bioAt = feed.bio.generatedAt || feed.bio.updatedAt || ''; tx.bioV = 2; fdirty = true; }
           }
           // 视频卡上的中文赛事/项目名
           tx.videos = tx.videos || {};
