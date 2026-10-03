@@ -868,7 +868,7 @@ function renderCoachPage(token, meta, t, mode) {
   .apcomp .apcbtns{margin-top:6px}
 </style></head><body><div class="wrap">
 ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel" onchange="setLang(this.value)">${LANG_OPTIONS.map(l => `<option value="${esc(l)}"${meta.lang === l ? ' selected' : ''}>${esc(LANG_NAME[l])}</option>`).join('')}<option value="__custom"${LANG_OPTIONS.includes(meta.lang) ? '' : ' selected'}>${esc(t.other)}</option></select></span>
-<div class="langhint" id="langHint">Choose your language / 选择语言 ▲</div></div>`}
+<div class="langhint" id="langHint">Choose your language / 选择语言 ▲<span onclick="dismissHint()" style="cursor:pointer; margin-left:8px; opacity:.7; padding:0 3px;" title="dismiss">✕</span></div></div>`}
 <div class="hd">
   <div class="cname">${mode === 'family' ? '👨‍👩‍👧 ' + esc(t.famTitle) : '🛡 Coach ' + esc(meta.name)}</div>
   <span class="newb" id="newBadge" style="display:none"></span>
@@ -1130,7 +1130,7 @@ function flagImg(country, px){
   var iso = CTRY_ISO[k] || (/^[a-z]{2}$/.test(k) ? k : null);
   if(!iso) return "";
   var w = px || 18;
-  return '<img src="https://flagcdn.com/w' + (w*2) + '/' + iso + '.png" width="' + w + '" title="' + escH(country||"") + '" alt="' + iso + '" style="display:inline-block;vertical-align:-3px;border-radius:2px;margin-right:5px;border:1px solid rgba(0,0,0,.15);">';
+  return '<img src="https://flagcdn.com/w40/' + iso + '.png" srcset="https://flagcdn.com/w80/' + iso + '.png 2x" width="' + w + '" title="' + escH(country||"") + '" alt="' + iso + '" style="display:inline-block;vertical-align:-3px;border-radius:2px;margin-right:5px;border:1px solid rgba(0,0,0,.15);">';
 }
 // Cathy 出生日期（跳打判断用）
 var CATHY_BIRTH = "2014-03-13";
