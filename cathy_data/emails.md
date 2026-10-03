@@ -21899,3 +21899,21 @@ Styles topping wishlists right now   FASTEST DELIVERY. GET IT IN
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQd6rkQzR-2BF7M1JI7tmGo01U-3Df355_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKrurFItt5RKIwVBhYG-2B-2BkZWmcuZZEEB20t-2FBAdjWfQV5gk8M8FOEDwgeuWg3t-2By7TOevQaoXw99Sz-2BI7Hv4slKDzwEk31eSTj7yD1SPadTSwtFzPrHc18BaLdA2cjIY9ASzD0nZRsmSkrh
 
 ---
+
+## [营销] Hot drops coming through
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-03T13:20:43.000Z
+**摘要:** Sephora 发送促销信息，提醒用户有761积分可使用，并介绍相关优惠服务。
+**待办:** 无
+**GmailID:** 1a101ecb5d506409
+
+ Sephora 
+
+Get ready. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a101ec87bfa12beef4bbe5be68/2eb0ac50978241270000021ef3a0bcc2/2eb0ac50-9782-4127-830d-da8cf77d6821?__
+
+---
