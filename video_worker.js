@@ -228,7 +228,7 @@ async function translate(env, text, targetLang, maxTokens, properNounMode) {
 function esc(s) { return String(s || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     try {
       if (request.method === 'OPTIONS') return new Response(null, { headers: CORS_HEADERS });
 
@@ -261,69 +261,87 @@ export default {
         const lang = meta.lang || 'en';
         const familyLang = feed.familyLang || 'zh';
         // 内容级翻译：理念 / 档案 / 中文赛事名 → 教练语言，译文缓存进 feed.tx（每语言翻一次）
-        if (feed && lang !== 'zh') {
+        // zh-* 一律不翻；ja/ko 目标语本身含汉字，不能用「含中文=失败」校验
+        if (feed && !String(lang).startsWith('zh')) {
           const cjk = /[\u4e00-\u9fff]/;
           feed.tx = feed.tx || {};
           const tx = feed.tx[lang] = feed.tx[lang] || {};
           let fdirty = false;
-          // 单字段翻译：译文仍含中文视为失败，不落缓存下次重试
-          const txf = async (s, mt) => { const r = await translate(env, s, lang, mt || 256); return cjk.test(r || '') ? null : r; };
+          const cjkTarget = /^(ja|ko|yue|zh)/.test(lang);
+          const okTx = (r, src) => r && r.trim() !== '' && (cjkTarget ? true : !cjk.test(r));
+          const jobs = [];
+          if (feed.philosophy && cjk.test(feed.philosophy.text || '') && (tx.philosophyAt !== feed.philosophy.updatedAt || tx.philV !== 2)) {
+            jobs.push(async () => {
+              const r = await translate(env, feed.philosophy.text, lang, 2048);
+              if (okTx(r)) { tx.philosophy = r; tx.philosophyAt = feed.philosophy.updatedAt || ''; tx.philV = 2; fdirty = true; }
+            });
+          }
+          if (feed.bio && cjk.test(feed.bio.text || '') && (tx.bioAt !== (feed.bio.generatedAt || feed.bio.updatedAt) || tx.bioV !== 2)) {
+            jobs.push(async () => {
+              const r = await translate(env, feed.bio.text, lang, 2048);
+              if (okTx(r)) { tx.bio = r; tx.bioAt = feed.bio.generatedAt || feed.bio.updatedAt || ''; tx.bioV = 2; fdirty = true; }
+            });
+          }
           const txfN = async (s, mt) => {
             // 中文引号/括号容易让模型整句回吐原文，先转 ASCII
             const r = await translate(env, String(s).replace(/[“”「」『』]/g, '"').replace(/[（）]/g, m => m === '（' ? '(' : ')'), lang, mt || 128, true);
-            return cjk.test(r || '') ? null : r;
+            return okTx(r) ? r : null;
           };
-          if (feed.philosophy && cjk.test(feed.philosophy.text || '') && (tx.philosophyAt !== feed.philosophy.updatedAt || tx.philV !== 2)) {
-            const r = await txf(feed.philosophy.text, 2048);
-            if (r) { tx.philosophy = r; tx.philosophyAt = feed.philosophy.updatedAt || ''; tx.philV = 2; fdirty = true; }
-          }
-          if (feed.bio && cjk.test(feed.bio.text || '') && (tx.bioAt !== (feed.bio.generatedAt || feed.bio.updatedAt) || tx.bioV !== 2)) {
-            const r = await txf(feed.bio.text, 2048);
-            if (r) { tx.bio = r; tx.bioAt = feed.bio.generatedAt || feed.bio.updatedAt || ''; tx.bioV = 2; fdirty = true; }
-          }
           // 视频卡上的中文赛事/项目名
           tx.videos = tx.videos || {};
           for (const v of feed.videos || []) {
             if (!v || !v.id) continue;
             const cv = tx.videos[v.id];
-            if (cv && !cjk.test((cv.tournament || '') + (cv.event || ''))) continue; // 已有有效译文
+            if (cv && (cjkTarget || !cjk.test((cv.tournament || '') + (cv.event || '')))) continue; // 已有有效译文
             if (!cjk.test((v.tournament || '') + (v.event || ''))) continue;
-            const ve = tx.videos[v.id] = tx.videos[v.id] || {};
-            if (v.tournament && cjk.test(v.tournament) && !ve.tournament) { const r = await txfN(v.tournament); if (r) ve.tournament = r; }
-            if (v.event && cjk.test(v.event) && !ve.event) { const r = await txfN(v.event); if (r) ve.event = r; }
-            fdirty = true;
+            jobs.push(async () => {
+              const ve = tx.videos[v.id] = tx.videos[v.id] || {};
+              let ch = false;
+              if (v.tournament && cjk.test(v.tournament) && !ve.tournament) { const r = await txfN(v.tournament); if (r) { ve.tournament = r; ch = true; } }
+              if (v.event && cjk.test(v.event) && !ve.event) { const r = await txfN(v.event); if (r) { ve.event = r; ch = true; } }
+              if (ch) fdirty = true;
+            });
           }
           tx.career = tx.career || {};
           for (let i = 0; i < (feed.career || []).length; i++) {
             const e = feed.career[i];
             if (!e) continue;
             if (!cjk.test((e.name || '') + (e.event || '') + (e.level || '') + (e.city || ''))) continue;
-            const ce = tx.career[i] = tx.career[i] || {};
-            for (const f of ['name', 'event', 'level', 'city']) {
-              if (typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) { const r = await txfN(e[f]); if (r) ce[f] = r; }
-            }
-            fdirty = true;
+            const ci = i;
+            jobs.push(async () => {
+              const ce = tx.career[ci] = tx.career[ci] || {};
+              for (const f of ['name', 'event', 'level', 'city']) {
+                if (typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) { const r = await txfN(e[f]); if (r) { ce[f] = r; fdirty = true; } }
+              }
+            });
           }
           // 顽固字段（单条翻不动）批量重试：编号清单一次翻完
-          const stuck = [];
-          for (let i = 0; i < (feed.career || []).length; i++) {
-            const e = feed.career[i], ce = tx.career[i] || {};
-            for (const f of ['name', 'event', 'level', 'city']) {
-              if (e && typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) stuck.push({ i, f, s: e[f] });
+          jobs.push(async () => {
+            const stuck = [];
+            for (let i = 0; i < (feed.career || []).length; i++) {
+              const e = feed.career[i], ce = tx.career[i] || {};
+              for (const f of ['name', 'event', 'level', 'city']) {
+                if (e && typeof e[f] === 'string' && cjk.test(e[f]) && !ce[f]) stuck.push({ i, f, s: e[f] });
+              }
             }
-          }
-          if (stuck.length) {
+            if (!stuck.length) return;
             const list = stuck.map((x, n) => `${n + 1}. ${x.s}`).join('\n');
             const batch = await translate(env, list, lang, 1024, true);
-            if (batch && batch !== list) {
-              const lines = String(batch).split(/\n+/).map(l => l.replace(/^\s*\d+[.、)）]?\s*/, '').trim());
-              stuck.forEach((x, n) => {
-                const v = lines[n];
-                if (v && !cjk.test(v)) { tx.career[x.i] = tx.career[x.i] || {}; tx.career[x.i][x.f] = v; fdirty = true; }
-              });
-            }
-          }
-          if (fdirty) await writeJson(env, 'coach/feed.json', feed);
+            if (!batch || batch === list) return;
+            const lines = String(batch).split(/\n+/).map(l => l.replace(/^\s*\d+[.、)）]?\s*/, '').trim());
+            stuck.forEach((x, n) => {
+              const v = lines[n];
+              if (v && v.trim() !== '' && (cjkTarget || !cjk.test(v))) { tx.career[x.i] = tx.career[x.i] || {}; tx.career[x.i][x.f] = v; fdirty = true; }
+            });
+          });
+          // 请求内限时跑翻译（避免一个请求几十次 AI 调用超时→整页无数据），剩余后台跑
+          const t0 = Date.now();
+          while (jobs.length && Date.now() - t0 < 8000) { try { await jobs.shift()(); } catch (e) {} }
+          const rest = jobs.length;
+          const finish = async () => { while (jobs.length) { try { await jobs.shift()(); } catch (e) {} } if (fdirty) await writeJson(env, 'coach/feed.json', feed); };
+          if (rest && ctx && ctx.waitUntil) { ctx.waitUntil(finish()); }
+          else if (rest) { await finish(); }
+          else if (fdirty) { try { await writeJson(env, 'coach/feed.json', feed); } catch (e) {} }
           // 返回译文版（client 不用改）
           const tFeed = Object.assign({}, feed);
           if (tx.philosophy && feed.philosophy) tFeed.philosophy = Object.assign({}, feed.philosophy, { text: tx.philosophy });
@@ -334,16 +352,28 @@ export default {
         }
         let dirty = false;
         const shown = [];
+        const cmtJobs = [];
         for (const c of comments) {
           if (c.author !== 'coach' && lang !== familyLang && c.text && c.text !== '🎤') {
             c.translations = c.translations || {};
-            if (!c.translations[lang]) { c.translations[lang] = await translate(env, c.text, lang); dirty = true; }
-            shown.push({ ...c, display: c.translations[lang], orig: c.text });
+            if (!c.translations[lang]) {
+              // 限时补翻：新语言第一次打开可能几十条留言，逐条翻会超时
+              cmtJobs.push(async () => { c.translations[lang] = await translate(env, c.text, lang); dirty = true; });
+            }
+            shown.push({ ...c, display: c.translations[lang] || c.text, orig: c.translations[lang] ? c.text : null });
           } else {
             shown.push({ ...c, display: c.text, orig: null });
           }
         }
-        if (dirty) await writeJson(env, `coach/comments_${token}.json`, comments);
+        if (cmtJobs.length) {
+          const ct0 = Date.now();
+          while (cmtJobs.length && Date.now() - ct0 < 6000) { try { await cmtJobs.shift()(); } catch (e) {} }
+          const crest = cmtJobs.length;
+          const cfinish = async () => { while (cmtJobs.length) { try { await cmtJobs.shift()(); } catch (e) {} } if (dirty) await writeJson(env, `coach/comments_${token}.json`, comments); };
+          if (crest && ctx && ctx.waitUntil) ctx.waitUntil(cfinish());
+          else if (crest) await cfinish();
+          else if (dirty) { try { await writeJson(env, `coach/comments_${token}.json`, comments); } catch (e) {} }
+        }
         return json({ meta, feed, comments: shown, v: PAGE_VERSION });
       }
 
