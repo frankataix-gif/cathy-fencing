@@ -21835,3 +21835,22 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Request for Assistance
+
+**发件人:** Michaels <customerexperience@send.michaels.com>
+**日期:** 2026-10-03T01:39:21.000Z
+**摘要:** Michaels 请求顾客填写购物体验调查问卷以获取优惠券。
+**待办:** 无
+**GmailID:** 1a0ff6c624b6204c
+
+Hi ,
+
+You recently visited the Michaels at 7488 King George Hwy Blvd #490
+
+How was it? What did you think?
+Your experience at our store (and your opinion about that experience) is important to us. As a thank you, after you complete the survey, we’ll send you 2 coupons, one to use in store and one for an online purchase.                                                                                                                                                                   
+
+Please 
+
+---
