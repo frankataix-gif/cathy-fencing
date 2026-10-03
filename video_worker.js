@@ -48,9 +48,22 @@ self.addEventListener('fetch', e => {
 `;
 
 const COACH_I18N = {
-  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言', del: '删除' },
-  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言', del: '刪除' },
-  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note', del: 'Delete' },
+  zh: { title: 'Cathy 比赛视频', sub: '每场对阵的视频与讨论', comments: '留言', send: '发送', namePh: '留言…', none: '还没有视频', general: '总体留言', coach: '教练', family: '家长', loading: '加载中…', auto: '页面会自动更新新视频', tip: '先选你的语言，留言自动互译。点 🌐 看原文。', other: '其他语言…', langPh: '输入你的语言（如 Hrvatski）', student: '学员', refresh: '刷新', updated: '已更新', newV: '个新视频', cmtsOf: '条留言', videosHere: '这个链接里的比赛视频', update: '有新版本，点击更新', boutCmt: '本场留言', clipCmt: '片段留言', vidFail: '视频加载失败', loadFail: '加载失败', noVoice: '不支持语音录制', noMic: '麦克风不可用', voice: '语音留言', del: '删除',
+    tabVideos: '📹 视频', tabResults: '🏆 成绩', tabJourney: '📖 历程',
+    rEvents: '赛事', rMedals: '年度奖牌', rPlace: '名次', rOpp: '对手',
+    bioTitle: '📖 击剑生涯档案', philTitle: '📜 家长对花剑的理解与期望', philNote: '仅代表家长对花剑项目的理解 · 供教练参考，专业安排以教练为准，不代表对训练的要求',
+    cEvList: '📋 赛事记录', medYear: '赛季', medN: '场次', medWL: '胜-负', medTotal: '总计',
+    oName: '对手', oClub: '俱乐部', oAge: '年龄', oN: '交手', oW: '胜', oL: '负', oPct: '胜率', oppNote: '仅美国赛事逐剑数据 · 共 ', oppTail: ' 位对手', poolLbl: '分组赛 Pool', deLbl: '淘汰赛 DE', noOpp: '暂无对阵数据', noPlace: '暂无足够名次数据', placeNote: '纵轴：名次（越靠上越好，对数刻度）· 圆点颜色：🥇金 🥈银 🥉铜',
+    agAdult: '成人组', agOther: '其他', agSuf: '岁组', agPre: '', eventsW: ' 场', wSuffix: '胜', lSuffix: '负' },
+  'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言', del: '刪除',
+    tabVideos: '📹 影片', tabResults: '🏆 成績', tabJourney: '📖 歷程', rEvents: '賽事', rMedals: '年度獎牌', rPlace: '名次', rOpp: '對手', bioTitle: '📖 擊劍生涯檔案', philTitle: '📜 家長對花劍的理解與期望' },
+  en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note', del: 'Delete',
+    tabVideos: '📹 Videos', tabResults: '🏆 Results', tabJourney: '📖 Journey',
+    rEvents: 'Events', rMedals: 'Medals', rPlace: 'Ranking', rOpp: 'Opponents',
+    bioTitle: '📖 Fencing Journey', philTitle: "📜 Parents' view on foil", philNote: "The family's understanding of foil — for the coach's reference only; training decisions remain the coach's",
+    cEvList: '📋 Event history', medYear: 'Season', medN: 'Events', medWL: 'W-L', medTotal: 'Total',
+    oName: 'Opponent', oClub: 'Club', oAge: 'Age', oN: 'Bouts', oW: 'W', oL: 'L', oPct: 'Win%', oppNote: 'US events bout data · ', oppTail: ' opponents', poolLbl: 'Pools', deLbl: 'DE', noOpp: 'No bout data yet', noPlace: 'Not enough ranking data', placeNote: 'Y-axis: placement (higher is better, log scale) · dot colors: 🥇gold 🥈silver 🥉bronze',
+    agAdult: 'Senior', agOther: 'Other', agSuf: '', agPre: 'U', eventsW: ' events', wSuffix: 'W', lSuffix: 'L' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scegli la tua lingua — i commenti si traducono automaticamente. 🌐 mostra l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua', student: 'allieva', refresh: 'Aggiorna', updated: 'Aggiornato', newV: 'nuovi dalla tua ultima visita', cmtsOf: 'commenti', videosHere: 'video dei match in questo link', update: 'Nuova versione — tocca per aggiornare', boutCmt: 'commenti sul match', clipCmt: 'commenti sul video', vidFail: 'Video non caricato', loadFail: 'Caricamento fallito', noVoice: 'Registrazione vocale non supportata', noMic: 'Microfono non disponibile' },
   fr: { title: 'Vidéos des matchs de Cathy', sub: 'Vidéos et discussion par assaut', comments: 'Commentaires', send: 'Envoyer', namePh: 'Écrire un commentaire…', none: 'Pas encore de vidéos', general: 'Commentaires généraux', coach: 'Coach', family: 'Famille', loading: 'Chargement…', auto: 'La page se met à jour automatiquement', tip: 'Choisissez votre langue — les commentaires sont traduits automatiquement. 🌐 affiche l’original.', other: 'Autre langue…', langPh: 'Tapez votre langue', student: 'élève', refresh: 'Actualiser', updated: 'Actualisé', newV: 'nouvelles depuis votre dernière visite', cmtsOf: 'commentaires', videosHere: 'vidéos de matchs sous ce lien', update: 'Nouvelle version — touchez pour actualiser', boutCmt: 'commentaires du match', clipCmt: 'commentaires de la vidéo', vidFail: 'Échec du chargement de la vidéo', loadFail: 'Échec du chargement', noVoice: 'Enregistrement vocal non pris en charge', noMic: 'Micro indisponible' },
   es: { title: 'Videos de combates de Cathy', sub: 'Vídeos y discusión por asalto', comments: 'Comentarios', send: 'Enviar', namePh: 'Escribe un comentario…', none: 'Aún no hay vídeos', general: 'Comentarios generales', coach: 'Entrenador', family: 'Familia', loading: 'Cargando…', auto: 'La página se actualiza automáticamente', tip: 'Elige tu idioma — los comentarios se traducen automáticamente. 🌐 muestra el original.', other: 'Otro idioma…', langPh: 'Escribe tu idioma', student: 'alumna', refresh: 'Actualizar', updated: 'Actualizado', newV: 'nuevos desde tu última visita', cmtsOf: 'comentarios', videosHere: 'videos de combates en este enlace', update: 'Nueva versión — toca para actualizar', boutCmt: 'comentarios del combate', clipCmt: 'comentarios del clip', vidFail: 'Error al cargar el vídeo', loadFail: 'Error de carga', noVoice: 'Grabación de voz no compatible', noMic: 'Micrófono no disponible' },
@@ -768,17 +781,17 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
 <div class="tip">${mode === 'family' ? '💬 ' + esc(t.famTip) : '🤖 ' + esc(t.tip)}</div>
 <div class="statusbar"><span id="upd"></span><button onclick="load(true)">⟳ ${esc(t.refresh)}</button></div>
 <div class="ctabs">
-  <button class="on" data-ct="v" onclick="switchCoachTab('v')">📹 视频</button>
-  <button data-ct="r" onclick="switchCoachTab('r')">🏆 成绩</button>
-  <button data-ct="j" onclick="switchCoachTab('j')">📖 历程</button>
+  <button class="on" data-ct="v" onclick="switchCoachTab('v')">${esc(t.tabVideos || '📹 Videos')}</button>
+  <button data-ct="r" onclick="switchCoachTab('r')">${esc(t.tabResults || '🏆 Results')}</button>
+  <button data-ct="j" onclick="switchCoachTab('j')">${esc(t.tabJourney || '📖 Journey')}</button>
 </div>
 <div id="ctab-v"><div id="list"><div class="empty">${esc(t.loading)}</div></div></div>
 <div id="ctab-r" style="display:none">
   <div class="rsub">
-    <button class="on" data-rs="list" onclick="switchResSub('list')">赛事</button>
-    <button data-rs="medals" onclick="switchResSub('medals')">年度奖牌</button>
-    <button data-rs="place" onclick="switchResSub('place')">名次</button>
-    <button data-rs="opp" onclick="switchResSub('opp')">对手</button>
+    <button class="on" data-rs="list" onclick="switchResSub('list')">${esc(t.rEvents || 'Events')}</button>
+    <button data-rs="medals" onclick="switchResSub('medals')">${esc(t.rMedals || 'Medals')}</button>
+    <button data-rs="place" onclick="switchResSub('place')">${esc(t.rPlace || 'Ranking')}</button>
+    <button data-rs="opp" onclick="switchResSub('opp')">${esc(t.rOpp || 'Opponents')}</button>
   </div>
   <div id="career"></div>
   <div id="resSubBody"></div>
@@ -990,8 +1003,8 @@ function renderPhil(p){
   var text = p && p.text ? p.text : "";
   if(!text){ el.innerHTML = ""; return; }
   el.innerHTML = '<div class="car" style="border-left:4px solid #2563eb; background:#f8fafc; border-radius:10px; padding:12px 14px; margin-bottom:10px;">'
-    + '<div style="font-weight:700; font-size:14px; margin-bottom:4px;">📜 家长对花剑的理解与期望</div>'
-    + '<div style="font-size:11px; color:#64748b; margin-bottom:10px;">仅代表家长对花剑项目的理解 · 供教练参考，专业安排以教练为准，不代表对训练的要求</div>'
+    + '<div style="font-weight:700; font-size:14px; margin-bottom:4px;">' + escH(T.philTitle || "Training Philosophy") + '</div>'
+    + '<div style="font-size:11px; color:#64748b; margin-bottom:10px;">' + escH(T.philNote || "") + '</div>'
     + '<div style="font-size:13px; line-height:1.8; white-space:pre-line;">' + escH(text) + '</div></div>';
 }
 // ===== 击剑之路（feed.bio：AI 生成的生涯介绍）=====
@@ -1024,7 +1037,7 @@ function renderCareer(list){
   var byYear = {};
   list.forEach(function(e){ var y=(e.date||"").slice(0,4)||"—"; (byYear[y]=byYear[y]||[]).push(e); });
   var years = Object.keys(byYear).sort().reverse();
-  var h = '<div class="car"><div style="font-weight:700; font-size:13px; margin-bottom:4px;">📋 赛事记录 <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></div>';
+  var h = '<div class="car"><div style="font-weight:700; font-size:13px; margin-bottom:4px;">' + escH(T.cEvList || "📋 Events") + ' <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></div>';
   years.forEach(function(y){
     h += '<div class="cary">' + escH(y) + '</div>';
     byYear[y].forEach(function(e){
@@ -1054,7 +1067,7 @@ function cAgeGroup(e){
   if(ev.indexOf("SENIOR") >= 0 || ev.indexOf("VET") >= 0 || ev.indexOf("DIV") >= 0) return 99;
   return firstNum(ev);
 }
-function cAgeLabel(g){ return g == null ? "其他" : g >= 99 ? "成人" : g + "岁组"; }
+function cAgeLabel(g){ return g == null ? (T.agOther || "Other") : g >= 99 ? (T.agAdult || "Senior") : (T.agPre || "") + g + (T.agSuf || ""); }
 function switchResSub(m){
   document.querySelectorAll('.rsub button').forEach(function(b){ b.classList.toggle('on', b.dataset.rs === m); });
   var career = document.getElementById("career"), sub = document.getElementById("resSubBody");
@@ -1067,7 +1080,7 @@ function switchResSub(m){
   else if(m === "opp") sub.innerHTML = resOppHtml();
 }
 function resMedalsHtml(list){
-  var by = {}, T = { n:0, g:0, s:0, b:0, w:0, l:0 };
+  var by = {}, tot = { n:0, g:0, s:0, b:0, w:0, l:0 };
   list.forEach(function(e){
     var y = String(e.date || "").slice(0,4) || "—";
     var o = by[y] = by[y] || { n:0, g:0, s:0, b:0, w:0, l:0 };
@@ -1078,16 +1091,16 @@ function resMedalsHtml(list){
   });
   var ys = Object.keys(by).sort().reverse();
   var h = '<table style="width:100%; border-collapse:collapse; font-size:12.5px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
-    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">赛季</th><th style="padding:7px 4px; text-align:center">场次</th><th style="padding:7px 4px; text-align:center">🥇</th><th style="padding:7px 4px; text-align:center">🥈</th><th style="padding:7px 4px; text-align:center">🥉</th><th style="padding:7px 4px; text-align:center">胜-负</th></tr>';
+    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">' + escH(T.medYear || 'Season') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.medN || 'Events') + '</th><th style="padding:7px 4px; text-align:center">🥇</th><th style="padding:7px 4px; text-align:center">🥈</th><th style="padding:7px 4px; text-align:center">🥉</th><th style="padding:7px 4px; text-align:center">' + escH(T.medWL || 'W-L') + '</th></tr>';
   ys.forEach(function(y){
     var o = by[y];
-    ['n','g','s','b','w','l'].forEach(function(k){ T[k] += o[k]; });
+    ['n','g','s','b','w','l'].forEach(function(k){ tot[k] += o[k]; });
     h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:7px 6px; font-weight:700; color:#1e293b">' + escH(y) + '</td>'
       + '<td style="text-align:center">' + o.n + '</td>'
       + '<td style="text-align:center">' + (o.g || '·') + '</td><td style="text-align:center">' + (o.s || '·') + '</td><td style="text-align:center">' + (o.b || '·') + '</td>'
       + '<td style="text-align:center">' + (o.w || o.l ? o.w + '-' + o.l : '·') + '</td></tr>';
   });
-  h += '<tr style="background:#fffbeb; font-weight:700"><td style="padding:7px 6px">总计</td><td style="text-align:center">' + T.n + '</td><td style="text-align:center">' + T.g + '</td><td style="text-align:center">' + T.s + '</td><td style="text-align:center">' + T.b + '</td><td style="text-align:center">' + (T.w || T.l ? T.w + '-' + T.l : '·') + '</td></tr></table>';
+  h += '<tr style="background:#fffbeb; font-weight:700"><td style="padding:7px 6px">' + escH(T.medTotal || 'Total') + '</td><td style="text-align:center">' + tot.n + '</td><td style="text-align:center">' + tot.g + '</td><td style="text-align:center">' + tot.s + '</td><td style="text-align:center">' + tot.b + '</td><td style="text-align:center">' + (tot.w || tot.l ? tot.w + '-' + tot.l : '·') + '</td></tr></table>';
   return h;
 }
 function resPlaceHtml(list){
@@ -1102,7 +1115,7 @@ function resPlaceHtml(list){
     if(isNaN(d)) return;
     items.push({ d: d.getTime(), p: p, g: cAgeGroup(e) });
   });
-  if(!items.length) return '<div class="empty">暂无足够名次数据</div>';
+  if(!items.length) return '<div class="empty">' + escH(T.noPlace || 'No data') + '</div>';
   items.sort(function(a, b){ return a.d - b.d; });
   var groups = {};
   items.forEach(function(x){ var k = x.g == null ? 99 : x.g; (groups[k] = groups[k] || []).push(x); });
@@ -1130,37 +1143,37 @@ function resPlaceHtml(list){
     var path = pts.map(function(x, i){ return (i ? 'L' : 'M') + xS(x.d).toFixed(1) + ',' + yS(x.p).toFixed(1); }).join(' ');
     var dots = pts.map(function(x){ return '<circle cx="' + xS(x.d).toFixed(1) + '" cy="' + yS(x.p).toFixed(1) + '" r="4" fill="' + medalC(x.p) + '" stroke="' + color + '" stroke-width="1.5"/>'; }).join('');
     out += '<div style="background:white; border-radius:10px; padding:10px; margin-bottom:10px;">'
-      + '<div style="font-weight:700; font-size:13px; color:#1e293b; margin-bottom:2px;">' + cAgeLabel(g) + ' · ' + pts.length + ' 场</div>'
+      + '<div style="font-weight:700; font-size:13px; color:#1e293b; margin-bottom:2px;">' + cAgeLabel(g) + ' · ' + pts.length + (T.eventsW || ' events') + '</div>'
       + '<svg class="cchart" viewBox="0 0 ' + W + ' ' + H + '">' + yGrid + xTicks
       + '<path d="' + path + '" fill="none" stroke="' + color + '" stroke-width="1.6"/>' + dots + '</svg></div>';
   });
-  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">纵轴：名次（越靠上越好，对数刻度）· 圆点颜色：🥇金 🥈银 🥉铜</div>' + out;
+  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">' + escH(T.placeNote || '') + '</div>' + out;
 }
 function resOppHtml(){
   var list = CUR_FEED.opponents || [];
-  if(!list.length) return '<div class="empty">暂无对阵数据</div>';
+  if(!list.length) return '<div class="empty">' + escH(T.noOpp || 'No data') + '</div>';
   var nowY = new Date().getFullYear();
   var pw = 0, pl = 0, dw = 0, dl = 0;
   var rows = list.slice().sort(function(a, b){ return (b.w + b.l) - (a.w + a.l) || b.w - a.w; });
   list.forEach(function(o){ pw += o.pw || 0; pl += o.pl || 0; dw += o.dw || 0; dl += o.dl || 0; });
   var pct = function(w, l){ return (w + l) ? Math.round(w / (w + l) * 100) + '%' : '—'; };
   var h = '<div style="display:flex; gap:8px; margin-bottom:10px;">'
-    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>分组赛 Pool</b><br>' + pw + '胜' + pl + '负 · ' + pct(pw, pl) + '</div>'
-    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>淘汰赛 DE</b><br>' + dw + '胜' + dl + '负 · ' + pct(dw, dl) + '</div></div>';
+    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.poolLbl||'Pools') + '</b><br>' + pw + (T.wSuffix||'W') + ' ' + pl + (T.lSuffix||'L') + ' · ' + pct(pw, pl) + '</div>'
+    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.deLbl||'DE') + '</b><br>' + dw + (T.wSuffix||'W') + ' ' + dl + (T.lSuffix||'L') + ' · ' + pct(dw, dl) + '</div></div>';
   h += '<table style="width:100%; border-collapse:collapse; font-size:12px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
-    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">对手</th><th style="padding:7px 4px;">俱乐部</th><th style="padding:7px 4px; text-align:center">年龄</th><th style="padding:7px 4px; text-align:center">交手</th><th style="padding:7px 4px; text-align:center">胜</th><th style="padding:7px 4px; text-align:center">负</th><th style="padding:7px 4px; text-align:center">胜率</th></tr>';
+    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">' + escH(T.oName || 'Opponent') + '</th><th style="padding:7px 4px;">' + escH(T.oClub || 'Club') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oAge || 'Age') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oN || 'Bouts') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oW || 'W') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oL || 'L') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oPct || 'Win%') + '</th></tr>';
   rows.forEach(function(o){
     var by = firstNum(o.birth), age = by ? nowY - by : null;
     var tot = o.w + o.l;
     h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:6px; font-weight:600">' + escH(o.name) + '</td>'
       + '<td style="padding:6px 4px; font-size:11px; color:#64748b">' + escH(o.club || '') + '</td>'
-      + '<td style="text-align:center">' + (age ? age + '岁' : '—') + '</td>'
+      + '<td style="text-align:center">' + (age ? age : '—') + '</td>'
       + '<td style="text-align:center">' + tot + '</td>'
       + '<td style="text-align:center; color:#16a34a">' + o.w + '</td>'
       + '<td style="text-align:center; color:#dc2626">' + o.l + '</td>'
       + '<td style="text-align:center; font-weight:600">' + pct(o.w, o.l) + '</td></tr>';
   });
-  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">仅美国赛事逐剑数据 · 共 ' + rows.length + ' 位对手</div>' + h + '</table>';
+  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">' + escH(T.oppNote || '') + rows.length + escH(T.oppTail || '') + '</div>' + h + '</table>';
 }
 function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
 // 对阵级留言 id 的 bout 部分：全部为空时退化为视频 id，避免串组
