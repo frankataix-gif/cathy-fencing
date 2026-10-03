@@ -21885,3 +21885,17 @@ Please
                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 
 ---
+
+## [营销] Not to brag, but everyone wants these
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-03T13:09:05.000Z
+**摘要:** 推广最新鞋款，强调48小时内送达
+**待办:** 无
+**GmailID:** 1a101e1f1a195514
+
+Styles topping wishlists right now   FASTEST DELIVERY. GET IT IN
+48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NPFyqmD2-2BjgRv9A50i0o2w-2BswtO-2FZ29VsQskRDUyoNQd6rkQzR-2BF7M1JI7tmGo01U-3Df355_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKrurFItt5RKIwVBhYG-2B-2BkZWmcuZZEEB20t-2FBAdjWfQV5gk8M8FOEDwgeuWg3t-2By7TOevQaoXw99Sz-2BI7Hv4slKDzwEk31eSTj7yD1SPadTSwtFzPrHc18BaLdA2cjIY9ASzD0nZRsmSkrh
+
+---
