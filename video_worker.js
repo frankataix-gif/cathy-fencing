@@ -66,7 +66,7 @@ const COACH_I18N = {
     plTitle: '名次走勢（按年齡組分圖）', plNote: '縱軸：名次等距刻度，每格一輪（32→16→8→4→2→1），超過 32 名不統計 · 金銀銅點=進前三 · 懸停看賽事名',
     plBest: '最好', plLast: '最近', trUp: '進步', trDown: '回落', trFlat: '持平', plDot: ' 場 · 最好 ',
     oppTitle: '對手記錄', oppRep: '🔁 交手 ≥2 次：', oppFoot: '口徑：僅美國賽事逐劍數據 · 勝率 ≥60% 綠 / ≥40% 黃 / 其餘紅',
-    jEvents: '場次', jYears: '劍齡', jSince: '起', jYr: '第', jYrS: '年', jMedals: '獎牌', jCtry: '國家/地區', jWin: '勝率', jUp: '跳打', upLbl: '跳打' },
+    jEvents: '場次', jYears: '劍齡', jSince: '2021.09 起', jYr: '第', jYrS: '年', jMedals: '獎牌', jCtry: '國家/地區', jWin: '勝率', jUp: '跳打', upLbl: '跳打' },
   en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note', del: 'Delete',
     tabVideos: '📹 Videos', tabResults: '🏆 Results', tabJourney: '📖 Journey',
     rEvents: 'Events', rMedals: 'Medals', rPlace: 'Ranking', rOpp: 'Opponents',
@@ -76,7 +76,7 @@ const COACH_I18N = {
     plTitle: 'Ranking trend by age group', plNote: 'Y-axis: equal spacing per round (32→16→8→4→2→1); placements beyond 32 are excluded · medal-colored dots = podium · hover a dot for the event name',
     plBest: 'Best', plLast: 'Latest', trUp: 'improving', trDown: 'declining', trFlat: 'steady', plDot: ' events · best ',
     oppTitle: 'Opponents', oppRep: '🔁 Rematches (≥2 bouts): ', oppFoot: 'US events bout data only · win% colors: ≥60% green / ≥40% amber / else red · age estimated from birth year',
-    jEvents: 'events', jYears: 'fencing yr', jSince: 'since ', jYr: 'Yr ', jYrS: '', jMedals: 'medals', jCtry: 'countries', jWin: 'win rate', jUp: 'up-age', upLbl: 'up',
+    jEvents: 'events', jYears: 'fencing yr', jSince: 'since 2021.09', jYr: 'Yr ', jYrS: '', jMedals: 'medals', jCtry: 'countries', jWin: 'win rate', jUp: 'up-age', upLbl: 'up',
     oName: 'Opponent', oClub: 'Club', oAge: 'Age', oN: 'Bouts', oW: 'W', oL: 'L', oPct: 'Win%', oppNote: 'US events bout data · ', oppTail: ' opponents', poolLbl: 'Pools', deLbl: 'DE', noOpp: 'No bout data yet', noPlace: 'Not enough ranking data', placeNote: 'Y-axis: placement (higher is better, log scale) · dot colors: 🥇gold 🥈silver 🥉bronze',
     agAdult: 'Senior', agOther: 'Other', agSuf: '', agPre: 'U', eventsW: ' events', wSuffix: 'W', lSuffix: 'L' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scegli la tua lingua — i commenti si traducono automaticamente. 🌐 mostra l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua', student: 'allieva', refresh: 'Aggiorna', updated: 'Aggiornato', newV: 'nuovi dalla tua ultima visita', cmtsOf: 'commenti', videosHere: 'video dei match in questo link', update: 'Nuova versione — tocca per aggiornare', boutCmt: 'commenti sul match', clipCmt: 'commenti sul video', vidFail: 'Video non caricato', loadFail: 'Caricamento fallito', noVoice: 'Registrazione vocale non supportata', noMic: 'Microfono non disponibile' },
@@ -155,7 +155,7 @@ function validLang(l) { return typeof l === 'string' && /^[a-zA-Z\u4e00-\u9fff\u
 // 非内置语言的 UI 文案：AI 翻译一次后缓存到 R2
 async function getUILang(env, lang) {
   if (COACH_I18N[lang]) return COACH_I18N[lang];
-  const cacheKey = `coach/ui_${encodeURIComponent(lang)}.json`;
+  const cacheKey = `coach/ui_v3_${encodeURIComponent(lang)}.json`;
   const cached = await readJson(env, cacheKey);
   if (cached) return cached;
   try {
@@ -164,7 +164,7 @@ async function getUILang(env, lang) {
         { role: 'system', content: `Translate this JSON's values into ${LANG_NAME[lang] || lang}. Keep keys unchanged. Output ONLY valid JSON.` },
         { role: 'user', content: JSON.stringify(COACH_I18N.en) }
       ],
-      max_tokens: 1000
+      max_tokens: 2500
     });
     const raw = (res && res.response || '').trim();
     const m = raw.match(/\{[\s\S]*\}/);
