@@ -496,6 +496,15 @@ export default {
       if (body.action === 'feed_save') {
         const feed = body.feed;
         if (!feed || !Array.isArray(feed.videos)) return json({ error: 'bad request' }, 400);
+        // 旧版客户端不带 philosophy/bio/opponents/career 字段——整体覆盖会把这些清空，这里做字段级保留
+        const old = await readJson(env, 'coach/feed.json');
+        if (old) {
+          ['philosophy', 'bio', 'opponents'].forEach(k => {
+            if (feed[k] == null && old[k] != null) feed[k] = old[k];
+          });
+          if ((!Array.isArray(feed.career) || !feed.career.length) && Array.isArray(old.career) && old.career.length) feed.career = old.career;
+          if (feed.familyLang == null && old.familyLang != null) feed.familyLang = old.familyLang;
+        }
         feed.updatedAt = new Date().toISOString();
         await writeJson(env, 'coach/feed.json', feed);
         return json({ ok: true });
