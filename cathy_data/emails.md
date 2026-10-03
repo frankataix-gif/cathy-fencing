@@ -21854,3 +21854,34 @@ Your experience at our store (and your opinion about that experience) is importa
 Please 
 
 ---
+
+## [营销] Francesca 大衣
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-10-03T07:46:36.000Z
+**摘要:** 宣传Francesca大衣系列
+**待办:** 无
+**GmailID:** 1a100bac2a8b6864
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+诠释品牌内敛雅致的 Icon 经典之作
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+---
