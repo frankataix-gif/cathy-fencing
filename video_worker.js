@@ -53,15 +53,30 @@ const COACH_I18N = {
     rEvents: '赛事', rMedals: '年度奖牌', rPlace: '名次', rOpp: '对手',
     bioTitle: '📖 击剑生涯档案', philTitle: '📜 家长对花剑的理解与期望', philNote: '仅代表家长对花剑项目的理解 · 供教练参考，专业安排以教练为准，不代表对训练的要求',
     cEvList: '📋 赛事记录', medYear: '赛季', medN: '场次', medWL: '胜-负', medTotal: '总计',
+    medTitle: '赛季统计', medT8Hint: 'T8 = 进前八的次数', medWin: '胜率', medFoot: '口径：按日历年统计全部赛事 · 🥇🥈🥉 = 前三名场次 · T8 = 进前八 · 胜率 = 逐剑胜负（仅美国赛事有逐剑数据）', ovTitle: '生涯总览', ovRec: '总战绩',
+    plTitle: '名次走势（按年龄组分图）', plNote: '纵轴：名次等距刻度，每格一轮（32→16→8→4→2→1），超过 32 名不统计 · 金银铜点=进前三 · 悬停看赛事名',
+    plBest: '最好', plLast: '最近', trUp: '进步', trDown: '回落', trFlat: '持平', plDot: ' 场 · 最好 ',
+    oppTitle: '对手记录', oppRep: '🔁 交手 ≥2 次：', oppFoot: '口径：仅美国赛事逐剑数据 · 胜率 ≥60% 绿 / ≥40% 黄 / 其余红 · 年龄按出生年推算',
+    jEvents: '场次', jYears: '剑龄', jSince: '2021.09 起', jYr: '第', jYrS: '年', jMedals: '奖牌', jCtry: '国家/地区', jWin: '胜率', jUp: '跳打', upLbl: '跳打',
     oName: '对手', oClub: '俱乐部', oAge: '年龄', oN: '交手', oW: '胜', oL: '负', oPct: '胜率', oppNote: '仅美国赛事逐剑数据 · 共 ', oppTail: ' 位对手', poolLbl: '分组赛 Pool', deLbl: '淘汰赛 DE', noOpp: '暂无对阵数据', noPlace: '暂无足够名次数据', placeNote: '纵轴：名次（越靠上越好，对数刻度）· 圆点颜色：🥇金 🥈银 🥉铜',
     agAdult: '成人组', agOther: '其他', agSuf: '岁组', agPre: '', eventsW: ' 场', wSuffix: '胜', lSuffix: '负' },
   'zh-TW': { title: 'Cathy 比賽影片', sub: '每場對陣的影片與討論', comments: '留言', send: '發送', namePh: '留言…', none: '還沒有影片', general: '總體留言', coach: '教練', family: '家長', loading: '載入中…', auto: '頁面會自動更新新影片', tip: '先選你的語言，留言自動互譯。點 🌐 看原文。', other: '其他語言…', langPh: '輸入你的語言', student: '學員', refresh: '重新整理', updated: '已更新', newV: '個新影片', cmtsOf: '則留言', videosHere: '這個連結裡的比賽影片', update: '有新版本，點擊更新', boutCmt: '本場留言', clipCmt: '片段留言', vidFail: '影片載入失敗', loadFail: '載入失敗', noVoice: '不支援語音錄製', noMic: '麥克風不可用', voice: '語音留言', del: '刪除',
-    tabVideos: '📹 影片', tabResults: '🏆 成績', tabJourney: '📖 歷程', rEvents: '賽事', rMedals: '年度獎牌', rPlace: '名次', rOpp: '對手', bioTitle: '📖 擊劍生涯檔案', philTitle: '📜 家長對花劍的理解與期望' },
+    tabVideos: '📹 影片', tabResults: '🏆 成績', tabJourney: '📖 歷程', rEvents: '賽事', rMedals: '年度獎牌', rPlace: '名次', rOpp: '對手', bioTitle: '📖 擊劍生涯檔案', philTitle: '📜 家長對花劍的理解與期望',
+    medTitle: '賽季統計', medT8Hint: 'T8 = 進前八的次數', medWin: '勝率', medFoot: '口徑：按日曆年統計全部賽事 · 🥇🥈🥉 = 前三名場次 · T8 = 進前八 · 勝率 = 逐劍勝負（僅美國賽事有逐劍數據）', ovTitle: '生涯總覽', ovRec: '總戰績',
+    plTitle: '名次走勢（按年齡組分圖）', plNote: '縱軸：名次等距刻度，每格一輪（32→16→8→4→2→1），超過 32 名不統計 · 金銀銅點=進前三 · 懸停看賽事名',
+    plBest: '最好', plLast: '最近', trUp: '進步', trDown: '回落', trFlat: '持平', plDot: ' 場 · 最好 ',
+    oppTitle: '對手記錄', oppRep: '🔁 交手 ≥2 次：', oppFoot: '口徑：僅美國賽事逐劍數據 · 勝率 ≥60% 綠 / ≥40% 黃 / 其餘紅',
+    jEvents: '場次', jYears: '劍齡', jSince: '起', jYr: '第', jYrS: '年', jMedals: '獎牌', jCtry: '國家/地區', jWin: '勝率', jUp: '跳打', upLbl: '跳打' },
   en: { title: "Cathy's Bout Videos", sub: 'Videos and discussion per bout', comments: 'Comments', send: 'Send', namePh: 'Write a comment…', none: 'No videos yet', general: 'General comments', coach: 'Coach', family: 'Family', loading: 'Loading…', auto: 'This page updates automatically', tip: 'Pick your language above — comments auto-translate both ways. 🌐 shows the original.', other: 'Other language…', langPh: 'Type your language (e.g. Hrvatski)', student: 'Your student', refresh: 'Refresh', updated: 'Updated', newV: 'new since last visit', cmtsOf: 'comments', videosHere: 'bout videos under this link', update: 'Update available — tap to refresh', boutCmt: 'match comments', clipCmt: 'clip comments', vidFail: 'Video failed to load', loadFail: 'Load failed', noVoice: 'Voice recording not supported', noMic: 'Mic unavailable', voice: 'Voice note', del: 'Delete',
     tabVideos: '📹 Videos', tabResults: '🏆 Results', tabJourney: '📖 Journey',
     rEvents: 'Events', rMedals: 'Medals', rPlace: 'Ranking', rOpp: 'Opponents',
     bioTitle: '📖 Fencing Journey', philTitle: "📜 Parents' view on foil", philNote: "The family's understanding of foil — for the coach's reference only; training decisions remain the coach's",
     cEvList: '📋 Event history', medYear: 'Season', medN: 'Events', medWL: 'W-L', medTotal: 'Total',
+    medTitle: 'Season stats', medT8Hint: 'T8 = top-8 finishes', medWin: 'Win%', medFoot: 'Calendar-year stats, all events · 🥇🥈🥉 = podium finishes · T8 = top-8 · Win% = individual bouts (US events only)', ovTitle: 'Career overview', ovRec: 'record',
+    plTitle: 'Ranking trend by age group', plNote: 'Y-axis: equal spacing per round (32→16→8→4→2→1); placements beyond 32 are excluded · medal-colored dots = podium · hover a dot for the event name',
+    plBest: 'Best', plLast: 'Latest', trUp: 'improving', trDown: 'declining', trFlat: 'steady', plDot: ' events · best ',
+    oppTitle: 'Opponents', oppRep: '🔁 Rematches (≥2 bouts): ', oppFoot: 'US events bout data only · win% colors: ≥60% green / ≥40% amber / else red · age estimated from birth year',
+    jEvents: 'events', jYears: 'fencing yr', jSince: 'since ', jYr: 'Yr ', jYrS: '', jMedals: 'medals', jCtry: 'countries', jWin: 'win rate', jUp: 'up-age', upLbl: 'up',
     oName: 'Opponent', oClub: 'Club', oAge: 'Age', oN: 'Bouts', oW: 'W', oL: 'L', oPct: 'Win%', oppNote: 'US events bout data · ', oppTail: ' opponents', poolLbl: 'Pools', deLbl: 'DE', noOpp: 'No bout data yet', noPlace: 'Not enough ranking data', placeNote: 'Y-axis: placement (higher is better, log scale) · dot colors: 🥇gold 🥈silver 🥉bronze',
     agAdult: 'Senior', agOther: 'Other', agSuf: '', agPre: 'U', eventsW: ' events', wSuffix: 'W', lSuffix: 'L' },
   it: { title: 'Video dei match di Cathy', sub: 'Video e discussione per ogni assalto', comments: 'Commenti', send: 'Invia', namePh: 'Scrivi un commento…', none: 'Nessun video ancora', general: 'Commenti generali', coach: 'Coach', family: 'Famiglia', loading: 'Caricamento…', auto: 'La pagina si aggiorna automaticamente', tip: 'Scegli la tua lingua — i commenti si traducono automaticamente. 🌐 mostra l’originale.', other: 'Altra lingua…', langPh: 'Scrivi la tua lingua', student: 'allieva', refresh: 'Aggiorna', updated: 'Aggiornato', newV: 'nuovi dalla tua ultima visita', cmtsOf: 'commenti', videosHere: 'video dei match in questo link', update: 'Nuova versione — tocca per aggiornare', boutCmt: 'commenti sul match', clipCmt: 'commenti sul video', vidFail: 'Video non caricato', loadFail: 'Caricamento fallito', noVoice: 'Registrazione vocale non supportata', noMic: 'Microfono non disponibile' },
@@ -880,7 +895,7 @@ ${mode === 'family' ? '' : `<div class="langbar"><span>🌐 <select id="langSel"
   <div id="career"></div>
   <div id="resSubBody"></div>
 </div>
-<div id="ctab-j" style="display:none"><div id="bio"></div><div id="phil"></div></div>
+<div id="ctab-j" style="display:none"><div id="jstats"></div><div id="bio"></div><div id="phil"></div></div>
 <div class="note">Cathy Fencing · ${esc(t.auto)}</div>
 </div>
 <div class="ap" id="ap" oncontextmenu="return false"><div class="apbox">
@@ -1052,6 +1067,7 @@ async function load(manual){
     vids = d.feed.videos || [];
     CUR_FEED = d.feed || {};
     renderCareer(CUR_FEED.career);
+    renderJStats(CUR_FEED.career);
     renderBio(d.feed.bio);
     renderPhil(d.feed.philosophy);
     cmts = d.comments || [];
@@ -1107,39 +1123,108 @@ function renderBio(bio){
   }).join('');
   el.innerHTML = '<div class="car" style="padding:12px 14px; margin-bottom:10px; border-radius:10px;"><div style="font-weight:700; font-size:14px; margin-bottom:6px;">📖 击剑生涯档案</div><div style="padding:4px 0;">' + bioHtml + '</div>' + upd + '</div>';
 }
-// ===== 生涯档案（来自 feed.career：美国赛事 + 手动录入的其他国家赛事）=====
+// ===== 生涯档案（App 同款卡片 UI：深色头部 + 国旗 + 分组明细）=====
+var CTRY_ISO = {"usa":"us","united states":"us","美国":"us","canada":"ca","加拿大":"ca","china":"cn","中国":"cn","france":"fr","法国":"fr","japan":"jp","日本":"jp","poland":"pl","波兰":"pl","croatia":"hr","克罗地亚":"hr","spain":"es","西班牙":"es","italy":"it","意大利":"it","germany":"de","德国":"de","korea":"kr","south korea":"kr","韩国":"kr","uk":"gb","great britain":"gb","英国":"gb","hong kong":"hk","香港":"hk","austria":"at","hungary":"hu","czech":"cz","ukraine":"ua","sweden":"se","switzerland":"ch","netherlands":"nl","belgium":"be","portugal":"pt","denmark":"dk","norway":"no","finland":"fi","greece":"gr","israel":"il","egypt":"eg","brazil":"br","mexico":"mx","argentina":"ar","chile":"cl","peru":"pe","colombia":"co","singapore":"sg","malaysia":"my","thailand":"th","vietnam":"vn","australia":"au","turkey":"tr","romania":"ro","russia":"ru"};
+function flagImg(country, px){
+  var k = String(country||"").trim().toLowerCase();
+  var iso = CTRY_ISO[k] || (/^[a-z]{2}$/.test(k) ? k : null);
+  if(!iso) return "";
+  var w = px || 18;
+  return '<img src="https://flagcdn.com/w' + (w*2) + '/' + iso + '.png" width="' + w + '" title="' + escH(country||"") + '" alt="' + iso + '" style="display:inline-block;vertical-align:-3px;border-radius:2px;margin-right:5px;border:1px solid rgba(0,0,0,.15);">';
+}
+// Cathy 出生日期（跳打判断用）
+var CATHY_BIRTH = "2014-03-13";
+function ageAt(dateStr){
+  var ds = String(dateStr||"");
+  if(ds.length===7) ds += "-01"; if(ds.length===4) ds += "-01-01";
+  var d = new Date(ds), b = new Date(CATHY_BIRTH);
+  if(isNaN(d)||isNaN(b)) return null;
+  var a = d.getFullYear()-b.getFullYear();
+  if(d.getMonth()<b.getMonth() || (d.getMonth()===b.getMonth() && d.getDate()<b.getDate())) a--;
+  return a;
+}
+// 跳打：参赛组别年龄上限 > 当时所属组别
+function upBadge(e){
+  var cap = cAgeGroup(e);
+  if(!cap || cap >= 99) return null;
+  var age = ageAt(e.date);
+  if(age == null) return null;
+  var own = age<=10?10:age<=12?12:age<=14?14:age<=16?17:age<=19?20:99;
+  return cap > own ? {group:cap, age:age} : null;
+}
 function renderCareer(list){
   var el = document.getElementById("career");
   if(!el) return;
   if(!list || !list.length){ el.innerHTML = ""; return; }
-  var m1=0,m2=0,m3=0,countries={};
+  // 按赛事名分组（一场赛事可能有多个项目行）
+  var groups = {}, order = [];
   list.forEach(function(e){
-    var p = parseInt(e.place,10);
-    if(p===1)m1++;else if(p===2)m2++;else if(p===3)m3++;
-    if(e.country) countries[e.country]=1;
+    var k = (e.name||"").trim() || "—";
+    if(!groups[k]){ groups[k] = {name:k, items:[], latest:"", country:e.country||"", city:e.city||"", level:e.level||""}; order.push(k); }
+    var g = groups[k];
+    g.items.push(e);
+    if((e.date||"") > g.latest) g.latest = e.date;
+    if(!g.country && e.country) g.country = e.country;
+    if(!g.city && e.city) g.city = e.city;
   });
-  var byYear = {};
-  list.forEach(function(e){ var y=(e.date||"").slice(0,4)||"—"; (byYear[y]=byYear[y]||[]).push(e); });
-  var years = Object.keys(byYear).sort().reverse();
-  var h = '<div class="car"><div style="font-weight:700; font-size:13px; margin-bottom:4px;">' + escH(T.cEvList || "📋 Events") + ' <span class="carn">' + list.length + ' events · 🥇' + m1 + ' 🥈' + m2 + ' 🥉' + m3 + ' · ' + Object.keys(countries).length + ' countries</span></div>';
-  years.forEach(function(y){
-    h += '<div class="cary">' + escH(y) + '</div>';
-    byYear[y].forEach(function(e){
+  var gl = order.map(function(k){ return groups[k]; }).sort(function(a,b){ return b.latest.localeCompare(a.latest); });
+  var h = '', lastY = '';
+  gl.forEach(function(g){
+    var y = g.latest.slice(0,4) || "—";
+    if(y !== lastY){ lastY = y; h += '<div style="margin:14px 0 8px; font-size:13px; font-weight:700; color:#64748b;">' + escH(y) + '</div>'; }
+    var loc = [g.city, g.country].filter(Boolean).join(", ");
+    h += '<div class="car" style="margin-bottom:12px; padding:0; overflow:hidden;">'
+      + '<div style="background:#1e293b; color:#fff; padding:9px 13px;">'
+      + '<div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">'
+      + '<div style="font-weight:700; font-size:13px;">' + flagImg(g.country, 18) + escH(g.name) + '</div>'
+      + '<div style="font-size:10px; opacity:.8; flex-shrink:0;">' + escH(g.latest) + '</div></div>'
+      + '<div style="font-size:10px; opacity:.75; margin-top:2px;">' + escH(loc) + (g.level ? ' · ' + escH(g.level) : '') + '</div></div>'
+      + '<div style="padding:6px 13px 10px;">';
+    g.items.forEach(function(e){
       var p = parseInt(e.place,10);
-      var medal = p===1?"🥇 ":p===2?"🥈 ":p===3?"🥉 ":"";
-      var ptxt = p ? medal + p + (e.total?"/"+e.total:"") : "—";
-      var rec = (e.wins!=null||e.losses!=null) ? " · " + (e.wins||0) + "W-" + (e.losses||0) + "L" : "";
-      var loc = [e.city, e.country].filter(Boolean).join(", ");
-      var dt = e.date || "";
-      var dtxt = dt.length > 7 ? dt.slice(5,10) : (dt.length === 7 ? dt.slice(5) : "—");
-      h += '<div class="carr"><span class="card-d">' + escH(dtxt) + '</span>'
-        + '<span class="card-p">' + escH(ptxt) + '</span>'
-        + '<span class="card-b"><b>' + escH(e.name) + '</b>' + (e.event ? ' · ' + escH(e.event) : '') + (e.level ? ' · ' + escH(e.level) : '') + rec + '</span>'
-        + '<span class="card-c">' + escH(loc) + '</span></div>';
+      var ptxt = p===1 ? '🥇' : p===2 ? '🥈' : p===3 ? '🥉' : (e.place || '—');
+      var wl = (e.wins!=null||e.losses!=null) ? ' · ' + (e.wins||0) + escH(T.wSuffix||'W') + (e.losses||0) + escH(T.lSuffix||'L') : '';
+      var up = upBadge(e);
+      h += '<div style="display:flex; gap:8px; align-items:center; padding:6px 0; border-top:1px solid #f1f5f9;">'
+        + '<div style="flex:none; min-width:44px; font-weight:800; font-size:13px;">' + escH(String(ptxt)) + (p && p>3 && e.total ? '<span style="font-weight:400; font-size:10px; color:#64748b;">/' + e.total + '</span>' : '') + '</div>'
+        + '<div style="flex:1; min-width:0;"><span style="font-size:12px; font-weight:600;">' + escH(e.event || '') + '</span>'
+        + (up ? '<span title="' + up.age + 'y at U' + up.group + '" style="margin-left:6px; font-size:9px; padding:1px 6px; border-radius:8px; background:#f3e8ff; color:#7c3aed;">⬆' + (T.upLbl || 'up') + '</span>' : '')
+        + '<div style="font-size:10px; color:#64748b; margin-top:1px;">' + escH(e.date || '') + escH(wl) + '</div></div></div>';
     });
+    h += '</div></div>';
   });
-  h += "</div>";
   el.innerHTML = h;
+}
+// ===== 历程页顶部统计卡（App 同款）=====
+function renderJStats(list){
+  var el = document.getElementById("jstats");
+  if(!el) return;
+  list = list || [];
+  if(!list.length){ el.innerHTML = ""; return; }
+  var st = {ev:0,g:0,s:0,b:0,cc:{},up:0,w:0,l:0};
+  list.forEach(function(e){
+    st.ev++;
+    var p = parseInt(e.place,10);
+    if(p===1)st.g++;else if(p===2)st.s++;else if(p===3)st.b++;
+    if(e.country) st.cc[e.country]=1;
+    if(upBadge(e)) st.up++;
+    st.w += e.wins||0; st.l += e.losses||0;
+  });
+  var nb = st.w + st.l;
+  var fy = Math.floor((Date.now() - new Date("2021-09-01").getTime()) / 31557600000) + 1;
+  var cell = function(num, lbl, gold){
+    return '<div style="flex:1; min-width:86px; background:' + (gold ? 'linear-gradient(135deg,#fef3c7,#fffbeb)' : '#fff') + '; border:1px solid #e2e8f0; border-radius:10px; padding:9px 12px; text-align:center;">'
+      + '<div style="font-size:15px; font-weight:800; color:#1e293b;">' + num + '</div>'
+      + '<div style="font-size:10px; color:#64748b; margin-top:1px;">' + lbl + '</div></div>';
+  };
+  el.innerHTML = '<div style="display:flex; flex-wrap:wrap; gap:7px; margin-bottom:14px;">'
+    + cell(st.ev, escH(T.jEvents||'events'))
+    + cell(escH(T.jYr||'') + fy + escH(T.jYrS||''), escH(T.jYears||'fencing yr') + ' · ' + escH(T.jSince||'since 2021.09'), true)
+    + cell('🥇'+st.g+' 🥈'+st.s+' 🥉'+st.b, escH(T.jMedals||'medals'))
+    + cell(Object.keys(st.cc).length, escH(T.jCtry||'countries'))
+    + cell(nb ? Math.round(st.w/nb*100)+'%' : '—', escH(T.jWin||'win rate'))
+    + (st.up ? cell('⬆'+st.up, escH(T.jUp||'up-age')) : '')
+    + '</div>';
 }
 // ===== 成绩栏子视图：赛事(上面的列表) / 年度奖牌 / 名次 / 对手 =====
 var CUR_FEED = {};
@@ -1164,27 +1249,46 @@ function switchResSub(m){
   else if(m === "opp") sub.innerHTML = resOppHtml();
 }
 function resMedalsHtml(list){
-  var by = {}, tot = { n:0, g:0, s:0, b:0, w:0, l:0 };
+  var by = {};
   list.forEach(function(e){
     var y = String(e.date || "").slice(0,4) || "—";
-    var o = by[y] = by[y] || { n:0, g:0, s:0, b:0, w:0, l:0 };
+    var o = by[y] = by[y] || { n:0, g:0, s:0, b:0, t8:0, w:0, l:0 };
     o.n++;
     var p = parseInt(e.place, 10);
     if(p === 1) o.g++; else if(p === 2) o.s++; else if(p === 3) o.b++;
+    if(p && p <= 8) o.t8++;
     o.w += e.wins || 0; o.l += e.losses || 0;
   });
   var ys = Object.keys(by).sort().reverse();
-  var h = '<table style="width:100%; border-collapse:collapse; font-size:12.5px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
-    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">' + escH(T.medYear || 'Season') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.medN || 'Events') + '</th><th style="padding:7px 4px; text-align:center">🥇</th><th style="padding:7px 4px; text-align:center">🥈</th><th style="padding:7px 4px; text-align:center">🥉</th><th style="padding:7px 4px; text-align:center">' + escH(T.medWL || 'W-L') + '</th></tr>';
+  var h = '<div style="font-size:14px; font-weight:700; margin:2px 0 8px;">' + escH(T.medTitle || 'Season stats') + ' <span style="font-size:10px; font-weight:400; color:#64748b;">' + escH(T.medT8Hint || 'T8 = top-8 finishes') + '</span></div>'
+    + '<div style="overflow-x:auto;"><table style="width:100%; border-collapse:collapse; font-size:12.5px;">'
+    + '<tr style="text-align:center; color:#64748b; font-size:11px;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb; text-align:left;">' + escH(T.medYear || 'Season') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">' + escH(T.medN || 'Events') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥇</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥈</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">🥉</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">T8</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb;">' + escH(T.medWin || 'Win%') + '</th></tr>';
   ys.forEach(function(y){
-    var o = by[y];
-    ['n','g','s','b','w','l'].forEach(function(k){ tot[k] += o[k]; });
-    h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:7px 6px; font-weight:700; color:#1e293b">' + escH(y) + '</td>'
-      + '<td style="text-align:center">' + o.n + '</td>'
-      + '<td style="text-align:center">' + (o.g || '·') + '</td><td style="text-align:center">' + (o.s || '·') + '</td><td style="text-align:center">' + (o.b || '·') + '</td>'
-      + '<td style="text-align:center">' + (o.w || o.l ? o.w + '-' + o.l : '·') + '</td></tr>';
+    var s = by[y], n = s.w + s.l;
+    h += '<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:700;">' + escH(y) + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + s.n + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (s.g || '—') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (s.s || '—') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (s.b || '—') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (s.t8 || '—') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (n ? Math.round(s.w/n*100) + '%' : '—') + '</td></tr>';
   });
-  h += '<tr style="background:#fffbeb; font-weight:700"><td style="padding:7px 6px">' + escH(T.medTotal || 'Total') + '</td><td style="text-align:center">' + tot.n + '</td><td style="text-align:center">' + tot.g + '</td><td style="text-align:center">' + tot.s + '</td><td style="text-align:center">' + tot.b + '</td><td style="text-align:center">' + (tot.w || tot.l ? tot.w + '-' + tot.l : '·') + '</td></tr></table>';
+  // 生涯总览（App 同款汇总框）
+  var tot = { ev:0, g:0, s:0, b:0, w:0, l:0, cc:{}, up:0 };
+  list.forEach(function(e){
+    tot.ev++;
+    var p = parseInt(e.place,10);
+    if(p===1)tot.g++;else if(p===2)tot.s++;else if(p===3)tot.b++;
+    if(e.country) tot.cc[e.country]=1;
+    tot.w += e.wins||0; tot.l += e.losses||0;
+    if(upBadge(e)) tot.up++;
+  });
+  var tn = tot.w + tot.l;
+  h += '</table></div>'
+    + '<div style="font-size:10.5px; color:#64748b; margin-top:6px; line-height:1.7;">' + escH(T.medFoot || '') + '</div>'
+    + '<div style="margin-top:12px; padding:11px 13px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; font-size:12px; color:#374151; line-height:1.9;">'
+    + '<b>' + escH(T.ovTitle || 'Career overview') + '</b> · ' + tot.ev + ' ' + escH(T.jEvents || 'events') + ' · 🥇' + tot.g + ' 🥈' + tot.s + ' 🥉' + tot.b + ' · ' + Object.keys(tot.cc).length + ' ' + escH(T.jCtry || 'countries') + ' · ' + escH(T.ovRec || 'record') + ' ' + (tn ? tot.w + escH(T.wSuffix||'W') + '-' + tot.l + escH(T.lSuffix||'L') + ' (' + Math.round(tot.w/tn*100) + '%)' : '—') + (tot.up ? ' · ⬆' + escH(T.jUp || 'up-age') + ' ' + tot.up : '')
+    + '</div>';
   return h;
 }
 function resPlaceHtml(list){
@@ -1197,7 +1301,7 @@ function resPlaceHtml(list){
     if(ds.length === 4) ds += "-01-01";
     var d = new Date(ds);
     if(isNaN(d)) return;
-    items.push({ d: d.getTime(), p: p, g: cAgeGroup(e) });
+    items.push({ d: d.getTime(), p: p, g: cAgeGroup(e), name: e.name || '', total: e.total || null });
   });
   if(!items.length) return '<div class="empty">' + escH(T.noPlace || 'No data') + '</div>';
   items.sort(function(a, b){ return a.d - b.d; });
@@ -1221,17 +1325,30 @@ function resPlaceHtml(list){
     xTicks += '<text x="' + x.toFixed(1) + '" y="' + (H - pad.b + 16) + '" font-size="10" fill="#94a3b8" text-anchor="middle">' + yy + '</text>';
   }
   var out = '';
+  var fmtD = function(t){ var dd = new Date(t); return dd.getFullYear() + '-' + ('0' + (dd.getMonth()+1)).slice(-2); };
   names.forEach(function(g, gi){
     var pts = groups[g].slice().sort(function(a, b){ return a.d - b.d; });
     var color = colors[gi % colors.length];
     var path = pts.map(function(x, i){ return (i ? 'L' : 'M') + xS(x.d).toFixed(1) + ',' + yS(x.p).toFixed(1); }).join(' ');
-    var dots = pts.map(function(x){ return '<circle cx="' + xS(x.d).toFixed(1) + '" cy="' + yS(x.p).toFixed(1) + '" r="4" fill="' + medalC(x.p) + '" stroke="' + color + '" stroke-width="1.5"/>'; }).join('');
-    out += '<div style="background:white; border-radius:10px; padding:10px; margin-bottom:10px;">'
-      + '<div style="font-weight:700; font-size:13px; color:#1e293b; margin-bottom:2px;">' + cAgeLabel(g) + ' · ' + pts.length + (T.eventsW || ' events') + '</div>'
+    var dots = pts.map(function(x){ return '<circle cx="' + xS(x.d).toFixed(1) + '" cy="' + yS(x.p).toFixed(1) + '" r="5" fill="' + medalC(x.p) + '" stroke="white" stroke-width="1.5"><title>' + escH(x.name || '') + ' ' + x.p + (x.total ? '/' + x.total : '') + '</title></circle>'; }).join('');
+    var lbls = pts.map(function(x){ return '<text x="' + xS(x.d).toFixed(1) + '" y="' + (yS(x.p) - 9).toFixed(1) + '" text-anchor="middle" font-size="10" font-weight="700" fill="' + medalC(x.p) + '">' + x.p + '</text>'; }).join('');
+    var best = pts.reduce(function(a, b){ return a.p <= b.p ? a : b; });
+    var last = pts[pts.length - 1], first = pts[0];
+    var trend = last.p < first.p ? '📈 ' + (T.trUp || 'improving') : last.p > first.p ? '📉 ' + (T.trDown || 'declining') : '➡️ ' + (T.trFlat || 'steady');
+    var bm = best.p === 1 ? '🥇' : best.p === 2 ? '🥈' : best.p === 3 ? '🥉' : '';
+    out += '<div style="margin-bottom:14px;">'
+      + '<div style="display:flex; align-items:baseline; gap:7px; margin-bottom:5px;"><span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:' + color + ';"></span><b style="font-size:13px;">' + escH(cAgeLabel(g)) + '</b><span style="font-size:10px; color:#64748b;">' + pts.length + escH(T.plDot || ' events · best ') + Math.min.apply(null, pts.map(function(x){ return x.p; })) + '</span></div>'
       + '<svg class="cchart" viewBox="0 0 ' + W + ' ' + H + '">' + yGrid + xTicks
-      + '<path d="' + path + '" fill="none" stroke="' + color + '" stroke-width="1.6"/>' + dots + '</svg></div>';
+      + '<line x1="' + pad.l + '" y1="' + (H - pad.b) + '" x2="' + (W - pad.r) + '" y2="' + (H - pad.b) + '" stroke="#d1d5db"/>'
+      + '<line x1="' + pad.l + '" y1="' + pad.t + '" x2="' + pad.l + '" y2="' + (H - pad.b) + '" stroke="#d1d5db"/>'
+      + '<path d="' + path + '" fill="none" stroke="' + color + '" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>' + dots + lbls + '</svg>'
+      + '<div style="font-size:10.5px; color:#64748b; margin-top:4px; line-height:1.7;">'
+      + escH(T.plBest || 'Best') + ': <b style="color:' + medalC(best.p) + '">' + bm + '#' + best.p + (best.total ? '/' + best.total : '') + '</b> · ' + escH(best.name || '') + '（' + fmtD(best.d) + '）<br>'
+      + escH(T.plLast || 'Latest') + ': #' + last.p + (last.total ? '/' + last.total : '') + ' · ' + escH(last.name || '') + '（' + fmtD(last.d) + '）· ' + trend
+      + '</div></div>';
   });
-  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">' + escH(T.placeNote || '') + '</div>' + out;
+  return '<div style="font-size:14px; font-weight:700; margin:2px 0 4px;">' + escH(T.plTitle || 'Ranking trend') + '</div>'
+    + '<div style="font-size:11px; color:#64748b; margin-bottom:12px;">' + escH(T.plNote || T.placeNote || '') + '</div>' + out;
 }
 function resOppHtml(){
   var list = CUR_FEED.opponents || [];
@@ -1241,23 +1358,27 @@ function resOppHtml(){
   var rows = list.slice().sort(function(a, b){ return (b.w + b.l) - (a.w + a.l) || b.w - a.w; });
   list.forEach(function(o){ pw += o.pw || 0; pl += o.pl || 0; dw += o.dw || 0; dl += o.dl || 0; });
   var pct = function(w, l){ return (w + l) ? Math.round(w / (w + l) * 100) + '%' : '—'; };
-  var h = '<div style="display:flex; gap:8px; margin-bottom:10px;">'
-    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.poolLbl||'Pools') + '</b><br>' + pw + (T.wSuffix||'W') + ' ' + pl + (T.lSuffix||'L') + ' · ' + pct(pw, pl) + '</div>'
-    + '<div style="flex:1; background:white; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.deLbl||'DE') + '</b><br>' + dw + (T.wSuffix||'W') + ' ' + dl + (T.lSuffix||'L') + ' · ' + pct(dw, dl) + '</div></div>';
-  h += '<table style="width:100%; border-collapse:collapse; font-size:12px; background:white; border-radius:10px; overflow:hidden; margin-bottom:12px">'
-    + '<tr style="text-align:left; color:#64748b; font-size:11px; background:#f8fafc"><th style="padding:7px 6px;">' + escH(T.oName || 'Opponent') + '</th><th style="padding:7px 4px;">' + escH(T.oClub || 'Club') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oAge || 'Age') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oN || 'Bouts') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oW || 'W') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oL || 'L') + '</th><th style="padding:7px 4px; text-align:center">' + escH(T.oPct || 'Win%') + '</th></tr>';
+  var rep = rows.filter(function(o){ return o.w + o.l >= 2; });
+  var h = '<div style="font-size:14px; font-weight:700; margin:2px 0 10px;">' + escH(T.oppTitle || 'Opponents') + ' <span style="font-size:10px; font-weight:400; color:#64748b;">' + escH(T.oppNote || '') + rows.length + escH(T.oppTail || '') + '</span></div>'
+    + '<div style="display:flex; gap:8px; margin-bottom:10px;">'
+    + '<div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.poolLbl||'Pools') + '</b><br>' + pw + escH(T.wSuffix||'W') + ' ' + pl + escH(T.lSuffix||'L') + ' · ' + pct(pw, pl) + '</div>'
+    + '<div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:8px 10px; font-size:12px;"><b>' + escH(T.deLbl||'DE') + '</b><br>' + dw + escH(T.wSuffix||'W') + ' ' + dl + escH(T.lSuffix||'L') + ' · ' + pct(dw, dl) + '</div></div>'
+    + (rep.length ? '<div style="font-size:11px; color:#92400e; background:#fffbeb; border:1px solid #fde68a; border-radius:8px; padding:7px 9px; margin-bottom:10px;">' + escH(T.oppRep || '🔁 Rematches: ') + rep.map(function(o){ return escH(o.name) + '（' + o.w + escH(T.wSuffix||'W') + o.l + escH(T.lSuffix||'L') + '）'; }).join(' · ') + '</div>' : '')
+    + '<div style="overflow-x:auto;"><table style="width:100%; border-collapse:collapse; font-size:12px;">'
+    + '<tr style="text-align:left; color:#64748b; font-size:11px;"><th style="padding:6px 8px; border-bottom:2px solid #e5e7eb;">' + escH(T.oName || 'Opponent') + '</th><th style="padding:6px 6px; border-bottom:2px solid #e5e7eb;">' + escH(T.oClub || 'Club') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">' + escH(T.oAge || 'Age') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">' + escH(T.oN || 'Bouts') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">' + escH(T.oW || 'W') + '</th><th style="padding:6px 4px; border-bottom:2px solid #e5e7eb; text-align:center;">' + escH(T.oL || 'L') + '</th><th style="padding:6px 6px; border-bottom:2px solid #e5e7eb; text-align:center;">' + escH(T.oPct || 'Win%') + '</th></tr>';
   rows.forEach(function(o){
     var by = firstNum(o.birth), age = by ? nowY - by : null;
-    var tot = o.w + o.l;
-    h += '<tr style="border-bottom:1px solid #f1f5f9"><td style="padding:6px; font-weight:600">' + escH(o.name) + '</td>'
-      + '<td style="padding:6px 4px; font-size:11px; color:#64748b">' + escH(o.club || '') + '</td>'
-      + '<td style="text-align:center">' + (age ? age : '—') + '</td>'
-      + '<td style="text-align:center">' + tot + '</td>'
-      + '<td style="text-align:center; color:#16a34a">' + o.w + '</td>'
-      + '<td style="text-align:center; color:#dc2626">' + o.l + '</td>'
-      + '<td style="text-align:center; font-weight:600">' + pct(o.w, o.l) + '</td></tr>';
+    var tot = o.w + o.l, pc = Math.round(o.w / tot * 100);
+    var pcC = pc >= 60 ? '#16a34a' : pc >= 40 ? '#d97706' : '#dc2626';
+    h += '<tr><td style="padding:7px 8px; border-bottom:1px solid #f1f5f9; font-weight:600;">' + escH(o.name) + '</td>'
+      + '<td style="padding:7px 6px; border-bottom:1px solid #f1f5f9; font-size:11px; color:#64748b;">' + escH(o.club || '') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + (age ? age + 'y' : '—') + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center;">' + tot + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#16a34a; font-weight:700;">' + o.w + '</td>'
+      + '<td style="padding:7px 4px; border-bottom:1px solid #f1f5f9; text-align:center; color:#dc2626;">' + o.l + '</td>'
+      + '<td style="padding:7px 6px; border-bottom:1px solid #f1f5f9; text-align:center; color:' + pcC + '; font-weight:700;">' + pc + '%</td></tr>';
   });
-  return '<div style="font-size:11px; color:#64748b; margin-bottom:8px;">' + escH(T.oppNote || '') + rows.length + escH(T.oppTail || '') + '</div>' + h + '</table>';
+  return h + '</table></div><div style="font-size:10.5px; color:#64748b; margin-top:6px; line-height:1.7;">' + escH(T.oppFoot || '') + '</div>';
 }
 function boutKey(v){ return [v.event||"", v.bout||"", v.opponent||"", v.score||""].join("|") || v.id; }
 // 对阵级留言 id 的 bout 部分：全部为空时退化为视频 id，避免串组
