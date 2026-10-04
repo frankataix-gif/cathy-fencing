@@ -21998,3 +21998,29 @@ td, .mobile-text { font-family:Helvetica Neue, Helvetica,
 Verdana, Arial, sans-serif !important; }     
 
 ---
+
+## [Cathy&David] Thank you for your time!
+
+**发件人:** CHS Events <notifications@calendly.com>
+**日期:** 2026-10-04T00:30:06.000Z
+**摘要:** 感谢参加2026年10月3日的八年级Ivy发现日活动，并邀请填写反馈调查。
+**待办:** 填写反馈调查
+**涉及:** 不明
+**日程:** {"title":"Grade 8 Ivy Discovery Day","date":"2026-10-03","time":"12:30","location":"无"}
+**GmailID:** 1a104516d0188a66
+
+ Calendly 
+
+Hi jingqi wu,
+
+
+Thank you for attending Grade 8 Ivy Discovery Day at 12:30 (Pacific Time - 
+US & Canada) on Saturday, October 3, 2026.
+
+
+We hope you and your daughter had a great time with us. Your feedback is 
+greatly appreciated, as we continue to grow and improve our events. Please 
+take two minutes to fill out this *short feedback survey* 
+<https://calendly.com/url?q=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdHn_WF_kXRsYX42MjGhOWCyHGrNOjfcMO9NVq_G-DzEa6XZA%2Fviewfor
+
+---
