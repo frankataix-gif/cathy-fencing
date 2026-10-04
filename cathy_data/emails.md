@@ -22159,3 +22159,18 @@ We’re talking point of view., Caudalie, and more!
 <https://beauty.sephora.com/T/v61000001a10850f2dfa914c66e965fd798/f357eb7f5a9343560000021ef3a0bc
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Oct 5-9
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-04T20:11:53.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1088b73aab6c26
+
+Good day, Grade 7 Families,
+Hope you're having a great start to October, one of our family's favourite months!
+CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/9df6f6cd-7961-493f-9d9d-7e41593d8b1e> and read this week's eGryphon for news & updates from Meadowridge School, including this week: VIDIGAMI LOGIN help, LIBRARY GRAND OPENING invitation, and more. Keep informed about what’s coming up and how your family can get involved with ALL SCHOOL Events & Athletics.
+Next Week for G
+
+---
