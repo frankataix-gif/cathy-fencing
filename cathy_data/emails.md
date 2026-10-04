@@ -22088,3 +22088,21 @@ Tall, heeled, or ankle—find your perfect pair.   BUY NOW, PICK
 UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M20lijuGXAA08XFdmJpS26qkg-2FpIeeu6zkfy4lhyYXmQ-3D-3D9Fa5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAG5i3sxT8RZ8oc0V2M52kPBWovJYUkuDrZ9Ld7-2FX17ntTs3Ppcy1-2BRxXP2aR8zbpHpqWD2YNuooeviZu0A0xC-2B4DcpuqYVam9TwuJgX9uR3u9KANvbw-2BDigA8cN8DbG0sV8FfA-2BVwAuJ7vOSqsFZqHQfdRIR2wzP1gyUUTQ
 
 ---
+
+## [营销] LAST CALL: up to 40% off hair faves 👀
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-04T16:19:40.000Z
+**摘要:** Sephora 发送促销邮件，宣布部分护发产品最高降价40%
+**待办:** 无
+**GmailID:** 1a107b6cf1a9a91a
+
+ Sephora 
+
+Ft. dae, Vegamour, PATTERN by Tracee Ellis Ross, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a107b6b04ca17a72369fe94b70/524dfa84f320497a0000021e
+
+---
