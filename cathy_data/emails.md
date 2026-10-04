@@ -22075,3 +22075,16 @@ Warm layers if you must go outside.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] The finishing touch: Modern boot silhouettes
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-04T13:08:13.000Z
+**摘要:** 推广新款靴子系列，提供两小时自提服务
+**待办:** 无
+**GmailID:** 1a107078258e6148
+
+Tall, heeled, or ankle—find your perfect pair.   BUY NOW, PICK
+UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M20lijuGXAA08XFdmJpS26qkg-2FpIeeu6zkfy4lhyYXmQ-3D-3D9Fa5_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAG5i3sxT8RZ8oc0V2M52kPBWovJYUkuDrZ9Ld7-2FX17ntTs3Ppcy1-2BRxXP2aR8zbpHpqWD2YNuooeviZu0A0xC-2B4DcpuqYVam9TwuJgX9uR3u9KANvbw-2BDigA8cN8DbG0sV8FfA-2BVwAuJ7vOSqsFZqHQfdRIR2wzP1gyUUTQ
+
+---
