@@ -22174,3 +22174,30 @@ CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/9df6f6cd-7961-493
 Next Week for G
 
 ---
+
+## [其他] Your receipt is here! #961 42 7344 10042026
+
+**发件人:** Best Buy Canada <noreply@e.bestbuy.ca>
+**日期:** 2026-10-04T22:46:55.000Z
+**摘要:** Best Buy 发来交易确认收据，包含换货详情和交易日期
+**待办:** 无
+**GmailID:** 1a109194d5ac2574
+
+ Digital Receipt 
+Your receipt is here!
+#961 42 7344 10042026
+Thank you for shopping at Best Buy. Here’s your receipt from your recent 
+in-store visit.
+You can use this receipt for returns, exchanges, or other services.
+The tech you need at the prices you'll love.
+Transaction Information
+Store Transaction # 961 42 7344 10042026 
+Date 2026-10-04 03:46 PM 
+Type Exchange 
+Associate Name Navya 
+Transaction Summary
+Brother HL-L2460DW Monochrome Wireless Laser Printer 
+Item #: 17717077 
+LP #: 961A0STQ
+
+---
