@@ -22499,3 +22499,35 @@ MYP teacher, Science
 darcie.hook@meadowridge.bc.ca<mailto:darcie.hook@m
 
 ---
+
+## [Cathy&David] Re: schedule change
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-05T19:00:09.000Z
+**摘要:** 调整会议时间至明天上午10:40，Natalie已确认
+**待办:** 无
+**方向:** 发出
+**涉及:** 两个
+**日程:** {"title":"schedule change","date":"2026-10-06","time":"10:40","location":""}
+**GmailID:** 1a10d6b9fb842f85
+
+
+
+Hi Ms. Hook,
+
+Yes, 10:40 a.m. tomorrow works for me.
+
+Thank you,
+Natalie
+
+
+On Mon, 05 Oct 2026 18:55:16 +0000, Darcie Hook 
+<Darcie.Hook@Meadowridge.bc.ca> wrote:
+
+Hello Natalie, Due to a hot water tank eruption in my home this morning, I 
+need to shuffle some meetings around tomorrow so that I am at home to have 
+the tank replaced. Would it be possible for you to come at 10:40 am 
+instead? Please let me know asap, as if you can't take it, I will ask the 
+next family on the list. If you cannot
+
+---
