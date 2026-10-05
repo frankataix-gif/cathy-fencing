@@ -22355,3 +22355,22 @@ knightfrank.com
 This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immed
 
 ---
+
+## [营销] Reminder - Request for Assistance
+
+**发件人:** Michaels <customerexperience@send.michaels.com>
+**日期:** 2026-10-05T12:34:16.000Z
+**摘要:** Michaels 邀请填写调查问卷以获取店内和在线使用的优惠券。
+**待办:** 无
+**GmailID:** 1a10c1b353280fca
+
+Hi ,
+
+You recently visited the Michaels at 7488 King George Hwy Blvd #490
+
+How was it? What did you think?
+Your experience at our store (and your opinion about that experience) is important to us. As a thank you, after you complete the survey, we’ll send you 2 coupons, one to use in store and one for an online purchase.                                                                                                                                                                   
+
+Please 
+
+---
