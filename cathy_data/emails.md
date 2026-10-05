@@ -22291,3 +22291,35 @@ Google Apps Script
 Need help? Visit the 
 
 ---
+
+## [Cathy&David] Meadowridge School - Conference Reminder
+
+**发件人:** "appointments@schoolsoft.com" <appointments@schoolsoft.com>
+**日期:** 2026-10-05T10:00:29.000Z
+**摘要:** Meadowridge School 提醒 Natalie 有关于 Cathy 的家长会安排
+**待办:** 参加 Cathy 的学校家长会
+**涉及:** Cathy
+**日程:** {"title":"FACE TO FACE CONFERENCE","date":"2026-10-06","time":"13:00","location":"ADVISORY ROOM"}
+**GmailID:** 1a10b8204b6d69b2
+
+Hello Natalie,
+
+This is a reminder that you have the following appointment(s) scheduled 
+soon:
+
+School: Meadowridge School
+Type: FACE TO FACE CONFERENCE
+Date and Time: Tuesday October 6, 2026 at 1:00 PM
+Teacher: Ms. Darcie Hook
+Location: ADVISORY ROOM 
+Student: Cathy
+
+
+
+You can view or print your bookings by returning to 
+https://meadowridge.schoolsoft.com/login.jsf.
+
+Want some tips for having a successful teacher parent conference? Click here 
+<https://www.schoolsoft.com/conference-tips-for-par
+
+---
