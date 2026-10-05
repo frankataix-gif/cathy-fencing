@@ -22201,3 +22201,16 @@ Item #: 17717077
 LP #: 961A0STQ
 
 ---
+
+## [生活旅行] 【阿聯酋航空】歐洲來回低至 HK$5,0XX✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-05T00:37:47.000Z
+**摘要:** 邮件提供阿联酋航空欧洲往返机票的限时优惠，抢优惠券可再减300港币，适合年底飞欧洲过圣诞。
+**待办:** 无
+**GmailID:** 1a1097ed056661dd
+
+限時優惠🔥搶優惠券再減 HK$300！年尾飛歐洲過聖誕☃️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014321417-1791160663161.318%26ouid%3D517442.HK-20261005-edm-hkairlineEKxHKIA.2026-10-05_8_0.20261005.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D517442.HK-20261005-edm-hkairlineEKxHKIA.2026-10-05_8_0.20261005.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS
+
+---
