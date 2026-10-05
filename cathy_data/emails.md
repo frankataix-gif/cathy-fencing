@@ -22478,3 +22478,24 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacin
 
 ---
+
+## [Cathy&David] schedule change
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-10-05T18:55:16.000Z
+**摘要:** 老师因家中热水器问题需调整会议时间，请求对方调整至10:40或4:20。
+**待办:** 回复确认时间安排
+**GmailID:** 1a10d6b9fb842f85
+
+Hello Natalie,
+Due to a hot water tank eruption in my home this morning, I need to shuffle some meetings around tomorrow so that I am at home to have the tank replaced.  Would  it be possible for you to come at 10:40 am instead?
+Please let me know asap, as if you can't take it, I will ask the next family on the list.  If you cannot make that time, could you possibly do 4:20?
+Thanks,
+Ms. Hook
+
+
+Darcie Hook, (she/her)
+MYP teacher, Science
+darcie.hook@meadowridge.bc.ca<mailto:darcie.hook@m
+
+---
