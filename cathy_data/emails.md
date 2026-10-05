@@ -22604,3 +22604,30 @@ TH103
 
 
 ---
+
+## [生活旅行] Stratford Hall visit confirmation
+
+**发件人:** Sign In App <notify@signinapp.com>
+**日期:** 2026-10-05T22:58:25.000Z
+**摘要:** 确认用户已被预注册为2026年10月6日上午9点访问Stratford Hall的访客，地点位于温哥华。
+**待办:** 无
+**日程:** {"title":"Stratford Hall visit confirmation","date":"2026-10-06","time":"09:00","location":"3000 Commercial Drive, Vancouver, B.C. Canada V5N 4E2"}
+**GmailID:** 1a10e4a329a99a49
+
+ Stratford Hall visit confirmation 
+You are now set for your visit to us 
+ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ ﻿͏ 
+
+  
+VISITS 
+Stratford Hall visit confirmation 
+
+Dear jingqi wu, you have been pre-registered as a visitor to Stratford Hall 
+on October 6, 2026 9:00 AM.
+  
+Tuesday 10/06/2026 - 9:00 AM 
+3000 Commercial Drive
+Vancouver, B.C. Canada V5N 4E2 
+Get 
+
+---
