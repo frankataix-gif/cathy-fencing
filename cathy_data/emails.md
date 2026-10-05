@@ -22242,3 +22242,24 @@ New Crepette — and returning favourites.
 ͏‌  ͏‌  
 
 ---
+
+## [Cathy&David] Stratford Hall Open House Reminder
+
+**发件人:** Stratford Hall  <stratfordhall@myschoolapp.com>
+**日期:** 2026-10-05T07:06:53.000Z
+**摘要:** Stratford Hall提醒已注册参加全校开放日，时间为2026年10月6日上午9点。
+**待办:** 无
+**涉及:** 两个
+**日程:** {"title":"Whole School Open House","date":"2026-10-06","time":"09:00","location":""}
+**GmailID:** 1a10ae30d63318ad
+
+Hello jingqi,
+
+You are registered for the following event: Whole School Open House - Oct  6 2026  9:00AM
+
+We look forward to seeing you!
+
+Thank you,
+Stratford Hall
+
+---
