@@ -22531,3 +22531,35 @@ instead? Please let me know asap, as if you can't take it, I will ask the
 next family on the list. If you cannot
 
 ---
+
+## [Cathy&David] Re: schedule change
+
+**发件人:** Darcie Hook <Darcie.Hook@meadowridge.bc.ca>
+**日期:** 2026-10-05T19:10:57.000Z
+**摘要:** Darcie Hook因家庭问题需调整明天的会议时间，询问是否可改为10:40am或4:20pm。
+**待办:** 无
+**日程:** {"title":"会议时间调整","date":"2026-10-06","time":"10:40","location":"无"}
+**GmailID:** 1a10d6b9fb842f85
+
+Great. See you then.
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Monday, 05 October 2026 12:00:09
+To: Darcie Hook <Darcie.Hook@Meadowridge.bc.ca>
+Subject: Re: schedule change
+
+
+Hi Ms. Hook,
+
+Yes, 10:40 a.m. tomorrow works for me.
+
+Thank you,
+Natalie
+
+
+On Mon, 05 Oct 2026 18:55:16 +0000, Darcie Hook <Darcie.Hook@Meadowridge.bc.ca<mailto:Darcie.Hook@Meadowridge.bc.ca>> wrote:
+Hello Natalie, Due to a ho
+
+---
