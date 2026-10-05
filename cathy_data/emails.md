@@ -22323,3 +22323,35 @@ Want some tips for having a successful teacher parent conference? Click here
 <https://www.schoolsoft.com/conference-tips-for-par
 
 ---
+
+## [其他] RE: Knight Frank - Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-10-05T10:26:03.000Z
+**摘要:** Lauren D'Souza跟进伦敦Lancer Square公寓的相关事宜
+**待办:** 无
+**GmailID:** 1a0e782a87ac7216
+
+Good Morning Natalie,
+
+I hope you are well.
+
+I just wanted to follow up on the below if possible?
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+
+This email (including any attachments) is confidential. If it is not addressed to you, please do not read, disclose, copy or forward it on, but notify the sender immed
+
+---
