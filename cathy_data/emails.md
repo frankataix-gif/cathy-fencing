@@ -22413,3 +22413,21 @@ wearing right now   BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MM-2B-2FQRIReMFRPJC7lMfseO09I2cTqj1WipGFEx7vEfkQ-3D-3DUGU0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALDL-2F1VaZ5SmZRaijO6g-2FmHe8te6z2p4ZvI6bKWWz2GpNDyKvwSlUJ0u9iaDQJTofF3Dq8iBxP8Id9-2ByZI5TIo9pBYX0dqwjKpGJChtOBSJdQUSVfU-2Blnr1exGfwmvhR0n
 
 ---
+
+## [营销] ‼️ APP EARLY ACCESS: Glossier, LANEIGE, and more ‼️
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-05T13:37:01.000Z
+**摘要:** Sephora推送促销信息，提供Glossier、LANEIGE等品牌早期访问及10%折扣
+**待办:** 无
+**GmailID:** 1a10c49d891f0d41
+
+ Sephora 
+
+Plus, get 10% off $100+. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a10c483436a6264cf4bbe5be68/3ebb39d517ce4cc90000021ef3a0bcc2/3ebb39d5-17ce-4cc9-8550-d
+
+---
