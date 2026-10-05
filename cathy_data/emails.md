@@ -22431,3 +22431,22 @@ Plus, get 10% off $100+.
 <https://app.sephora.com/T/v61000001a10c483436a6264cf4bbe5be68/3ebb39d517ce4cc90000021ef3a0bcc2/3ebb39d5-17ce-4cc9-8550-d
 
 ---
+
+## [营销] Still time for 20% off your Costco haul
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-10-05T15:46:27.000Z
+**摘要:** DoorDash推送促销信息，提供20%折扣优惠
+**待办:** 无
+**GmailID:** 1a10cbeb874310d3
+
+ DoorDash Now available on DoorDash 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
