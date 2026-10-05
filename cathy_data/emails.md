@@ -22399,3 +22399,17 @@ Webinar
 
 
 ---
+
+## [营销] Step Into UGG: Dusted Cocoa, Chestnut, and Sand
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-05T13:07:37.000Z
+**摘要:** Browns Shoes 推广UGG新色款，提供即时购买和两小时自提服务。
+**待办:** 无
+**GmailID:** 1a10c2d5292fea4d
+
+Unmatched comfort meets the refined neutral palette everyone is
+wearing right now   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MM-2B-2FQRIReMFRPJC7lMfseO09I2cTqj1WipGFEx7vEfkQ-3D-3DUGU0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALDL-2F1VaZ5SmZRaijO6g-2FmHe8te6z2p4ZvI6bKWWz2GpNDyKvwSlUJ0u9iaDQJTofF3Dq8iBxP8Id9-2ByZI5TIo9pBYX0dqwjKpGJChtOBSJdQUSVfU-2Blnr1exGfwmvhR0n
+
+---
