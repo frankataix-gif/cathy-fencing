@@ -22374,3 +22374,28 @@ Your experience at our store (and your opinion about that experience) is importa
 Please 
 
 ---
+
+## [营销] Score better leads, build a hiring pipeline, and read how AI keeps customers loyal 🚀
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-10-05T12:56:16.000Z
+**摘要:** 这是一封关于AI优化Meta广告策略的营销邮件，邀请参加线上网络研讨会。
+**待办:** 无
+**GmailID:** 1a10c22e8cda6d86
+
+Live builds, real results — all inside
+
+Come see what's next in AI.
+
+Waves '26 is two weeks away ( https://waves.make.com?utm_campaign=Insights_Weekly_051026&utm_medium=email&utm_source=customer.io )
+→
+
+Logo ( https://www.make.com?utm_campaign=Insights_Weekly_051026&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://www.make.com/en/webinars/meta-lead-gen-strategies-with-make-webinar?utm_campaign=Insights_Weekly_051026&utm_medium=email&utm_source=customer.io )
+
+Webinar
+
+
+
+---
