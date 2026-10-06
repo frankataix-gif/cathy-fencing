@@ -22747,3 +22747,21 @@ Get
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] 🚨2X points on your purchase and 5X on ALL Sephora Collection ends tomorrow 🚨
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-06T13:02:35.000Z
+**摘要:** Sephora促销活动，购买积分翻倍，部分产品5倍积分，免费当日送达服务即将结束。
+**待办:** 无
+**GmailID:** 1a111503ca4ba38a
+
+ Sephora 
+
+Also ends tomorrow: FREE Same-Day Delivery. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1114efd36a4544af4bbe5be68/4888a42c023c4ca00000021ef3a0bcc2/4888a4
+
+---
