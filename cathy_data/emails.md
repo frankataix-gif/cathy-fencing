@@ -22778,3 +22778,21 @@ Also ends tomorrow: FREE Same-Day Delivery.
 UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PVZsH0fZVhMTwgWKh4FBycDdQhjhNO25EZNtNEAjSvjg-3D-3DFnoG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPYkqo2bAnJLs-2BQi2z06KZ7dNnRfnLRBmWgiNkp9515sgWlQ4WXNJGl183mp9V-2BqtRoHb-2FhvIJHbW63x4lCkIx5XeZZdEyAYeeQWASX8D7l9uqKHnsuCLNXSdV3tD-2BSGOw6L-2BD-2FxotB1vpu4sHQfae756spFb3c74KolUM
 
 ---
+
+## [营销] Use your 761 points for Laura Mercier rewards ➡️
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-06T16:12:03.000Z
+**摘要:** Sephora 提醒用户及时使用761积分兑换Laura Mercier奖励，并提供积分兑换链接。
+**待办:** 无
+**GmailID:** 1a111fce14dd855c
+
+ Sephora 
+
+Don’t wait—they go fast! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a111fc7fe3b6fa98f4bbcf76f8/ebe5540092ae4c9b0000021ef3a0bcc2/ebe55400-92ae-4c9b-8634-6
+
+---
