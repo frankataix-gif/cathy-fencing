@@ -22765,3 +22765,16 @@ Also ends tomorrow: FREE Same-Day Delivery.
 <https://app.sephora.com/T/v61000001a1114efd36a4544af4bbe5be68/4888a42c023c4ca00000021ef3a0bcc2/4888a4
 
 ---
+
+## [营销] Natalie! The Fall Flash Sale starts NOW!	🍂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-06T14:15:00.000Z
+**摘要:** 布朗鞋店秋季促销活动开始，提供新到秋季款式折扣，可两小时内自提。
+**待办:** 无
+**GmailID:** 1a111915f314f4d9
+
+🚨Fresh markdowns on newly added autumn styles.   BUY NOW, PICK
+UP IN 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PVZsH0fZVhMTwgWKh4FBycDdQhjhNO25EZNtNEAjSvjg-3D-3DFnoG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPYkqo2bAnJLs-2BQi2z06KZ7dNnRfnLRBmWgiNkp9515sgWlQ4WXNJGl183mp9V-2BqtRoHb-2FhvIJHbW63x4lCkIx5XeZZdEyAYeeQWASX8D7l9uqKHnsuCLNXSdV3tD-2BSGOw6L-2BD-2FxotB1vpu4sHQfae756spFb3c74KolUM
+
+---
