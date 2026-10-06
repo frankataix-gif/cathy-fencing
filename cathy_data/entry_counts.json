@@ -19169,13 +19169,715 @@
     "total": 0
   },
   "afm-super-regional-ryc-rjcc-ro-2026-10-23-santa-clara-convention-center-santa-clara-ca": {
-    "fetched_at": "2026-10-05T12:57:33.489142Z",
+    "fetched_at": "2026-10-06T03:43:14.365997Z",
     "counts": {
-      "Y14WF": 106,
       "CDTWF": 100,
+      "Y14WF": 106,
       "Y12WF": 92
     },
     "names": {
+      "CDTWF": [
+        {
+          "name": "Ahn, Hayley",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100331536",
+          "status": ""
+        },
+        {
+          "name": "Amore, Elizabeth",
+          "club": "Piedmont Fencing Team",
+          "division": "US Fencing",
+          "member_num": "101341298",
+          "status": ""
+        },
+        {
+          "name": "Anwar, Sara",
+          "club": "Elite Zone Fencing Academy",
+          "division": "Central California",
+          "member_num": "102209480",
+          "status": ""
+        },
+        {
+          "name": "Arya, Leela",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100356636",
+          "status": ""
+        },
+        {
+          "name": "Bastunas, Marissa",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "100315068",
+          "status": ""
+        },
+        {
+          "name": "Bennyhoff, Naia",
+          "club": "Fresno Fencing Club",
+          "division": "Mountain Valley",
+          "member_num": "100305715",
+          "status": ""
+        },
+        {
+          "name": "Chan, Ella",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100293397",
+          "status": ""
+        },
+        {
+          "name": "Chan, Mila",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100293398",
+          "status": ""
+        },
+        {
+          "name": "Chang, Lydia",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100314960",
+          "status": ""
+        },
+        {
+          "name": "Chang, Olivia",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100316004",
+          "status": ""
+        },
+        {
+          "name": "Chen, Elysia",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100326558",
+          "status": ""
+        },
+        {
+          "name": "Chen, Madeleine",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100317167",
+          "status": ""
+        },
+        {
+          "name": "Chen, Yifan",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100346448",
+          "status": ""
+        },
+        {
+          "name": "Cheng, Audrey",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100347879",
+          "status": ""
+        },
+        {
+          "name": "Cho, Karis",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100320149",
+          "status": ""
+        },
+        {
+          "name": "Ciafardini Stoner, Sophia",
+          "club": "Piedmont Fencing Team",
+          "division": "Northern California",
+          "member_num": "102306005",
+          "status": ""
+        },
+        {
+          "name": "COLIC, LANI",
+          "club": "Elite Zone Fencing Academy",
+          "division": "Central California",
+          "member_num": "100341950",
+          "status": ""
+        },
+        {
+          "name": "DeJoy, Leilah",
+          "club": "Team Touche Fencing Center",
+          "division": "San Diego",
+          "member_num": "100309766",
+          "status": ""
+        },
+        {
+          "name": "Deng, Claire",
+          "club": "Spartak",
+          "division": "San Diego",
+          "member_num": "100301231",
+          "status": ""
+        },
+        {
+          "name": "Deng, Gaowa",
+          "club": "Fencers Club Inc.",
+          "division": "US Fencing",
+          "member_num": "100345741",
+          "status": ""
+        },
+        {
+          "name": "Desai, Zoya",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Southern California",
+          "member_num": "100298917",
+          "status": ""
+        },
+        {
+          "name": "Domantay, Sophia",
+          "club": "LA International Fencing",
+          "division": "Southern California",
+          "member_num": "101796098",
+          "status": ""
+        },
+        {
+          "name": "Dong, Nancy",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100357229",
+          "status": ""
+        },
+        {
+          "name": "Dvoiris, Maya",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100349811",
+          "status": ""
+        },
+        {
+          "name": "Fang, Kelervia",
+          "club": "Spartak",
+          "division": "San Diego",
+          "member_num": "100345002",
+          "status": ""
+        },
+        {
+          "name": "Feng, Sophia",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100938724",
+          "status": ""
+        },
+        {
+          "name": "Fu, Pui Lam (Paisley)",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100336491",
+          "status": ""
+        },
+        {
+          "name": "gowda, Siyona",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100341302",
+          "status": ""
+        },
+        {
+          "name": "Guo, Jianing",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100333362",
+          "status": ""
+        },
+        {
+          "name": "Gupta, Pearl",
+          "club": "Bay Area Fencing Club Pleasanton",
+          "division": "Northern California",
+          "member_num": "100354156",
+          "status": ""
+        },
+        {
+          "name": "Han, Gian",
+          "club": "Spartak",
+          "division": "San Diego",
+          "member_num": "100293586",
+          "status": ""
+        },
+        {
+          "name": "Haylett, Emily",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100347386",
+          "status": ""
+        },
+        {
+          "name": "Hom, Avery",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100283055",
+          "status": ""
+        },
+        {
+          "name": "Hom, Emma",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100289897",
+          "status": ""
+        },
+        {
+          "name": "Hsiao, Ariya",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100301133",
+          "status": ""
+        },
+        {
+          "name": "Hsu, Rachel",
+          "club": "Halberstadt Fencers' Club",
+          "division": "Northern California",
+          "member_num": "100333402",
+          "status": ""
+        },
+        {
+          "name": "Ireland, Moira",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100332095",
+          "status": ""
+        },
+        {
+          "name": "Jena, Aanvi",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100339569",
+          "status": ""
+        },
+        {
+          "name": "Jin, Jada Y",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100711818",
+          "status": ""
+        },
+        {
+          "name": "Joesuf, Aurielle",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100316024",
+          "status": ""
+        },
+        {
+          "name": "Joesuf, Thea",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100316034",
+          "status": ""
+        },
+        {
+          "name": "Kaiman, Tabitha",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100952071",
+          "status": ""
+        },
+        {
+          "name": "Khanal, Sarah",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100349111",
+          "status": ""
+        },
+        {
+          "name": "Kim, Ines",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100352175",
+          "status": ""
+        },
+        {
+          "name": "Kim, Isabella",
+          "club": "Las Positas Fencing Center",
+          "division": "Northern California",
+          "member_num": "100857720",
+          "status": ""
+        },
+        {
+          "name": "Kim, Lauren",
+          "club": "Spartak",
+          "division": "San Diego",
+          "member_num": "100337374",
+          "status": ""
+        },
+        {
+          "name": "Kim, Natalie",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100305624",
+          "status": ""
+        },
+        {
+          "name": "Kim, Sydney",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100253889",
+          "status": ""
+        },
+        {
+          "name": "Lam, Dorris Yandor",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100354391",
+          "status": ""
+        },
+        {
+          "name": "Lavery, Lucy",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100317248",
+          "status": ""
+        },
+        {
+          "name": "Lee, Abigail",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100317941",
+          "status": ""
+        },
+        {
+          "name": "Lee, Clara",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100716335",
+          "status": ""
+        },
+        {
+          "name": "Lee, Zoe",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100306780",
+          "status": ""
+        },
+        {
+          "name": "Li, Alice",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100314546",
+          "status": ""
+        },
+        {
+          "name": "Li, Chelsea",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100304754",
+          "status": ""
+        },
+        {
+          "name": "Li, Sophia",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100487021",
+          "status": ""
+        },
+        {
+          "name": "Lim, Kensie",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100323906",
+          "status": ""
+        },
+        {
+          "name": "Lin, Avery",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Central California",
+          "member_num": "100332560",
+          "status": ""
+        },
+        {
+          "name": "Liu, Madeleine",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100392096",
+          "status": ""
+        },
+        {
+          "name": "Lu, Yuexi",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100786985",
+          "status": ""
+        },
+        {
+          "name": "Lucas, Ava",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "100313517",
+          "status": ""
+        },
+        {
+          "name": "Maqsood, Minnah",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100343575",
+          "status": ""
+        },
+        {
+          "name": "Mattupalli, Ashwika",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100295651",
+          "status": ""
+        },
+        {
+          "name": "Mclanahan, Jasmine",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100331884",
+          "status": ""
+        },
+        {
+          "name": "Merrigan, Annabelle",
+          "club": "Bay Area Fencing Club",
+          "division": "Central California",
+          "member_num": "100342215",
+          "status": ""
+        },
+        {
+          "name": "Miyashiro, Katelyn",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100298908",
+          "status": ""
+        },
+        {
+          "name": "Miyoshi, Kylie",
+          "club": "Golden State Fencing Academy",
+          "division": "Central California",
+          "member_num": "100302160",
+          "status": ""
+        },
+        {
+          "name": "Monat, Jennifer",
+          "club": "United Fencing Academy",
+          "division": "Southern California",
+          "member_num": "100300883",
+          "status": ""
+        },
+        {
+          "name": "Neumann, Erika",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100328902",
+          "status": ""
+        },
+        {
+          "name": "Nicoletti, Thea",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100320199",
+          "status": ""
+        },
+        {
+          "name": "Nwodo, Naila",
+          "club": "Space City Fencing Academy",
+          "division": "Gulf Coast",
+          "member_num": "100339662",
+          "status": ""
+        },
+        {
+          "name": "Pan, Samantha",
+          "club": "Bay Area Fencing Club",
+          "division": "Northern California",
+          "member_num": "100322823",
+          "status": ""
+        },
+        {
+          "name": "Park, Lauren",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100312613",
+          "status": ""
+        },
+        {
+          "name": "Pawar, Sanvi",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100353867",
+          "status": ""
+        },
+        {
+          "name": "Pedersen, Haley",
+          "club": "United Fencing Academy",
+          "division": "Southern California",
+          "member_num": "100274224",
+          "status": ""
+        },
+        {
+          "name": "Renganathan, Krithiga",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100328524",
+          "status": ""
+        },
+        {
+          "name": "Rui, Jessie",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100318994",
+          "status": ""
+        },
+        {
+          "name": "Santiago, Rania",
+          "club": "Precision Athletics Fencing Club",
+          "division": "Orange Coast",
+          "member_num": "100330413",
+          "status": ""
+        },
+        {
+          "name": "Shen, Gloria",
+          "club": "Altius Fencing Academy",
+          "division": "South Texas",
+          "member_num": "100327567",
+          "status": ""
+        },
+        {
+          "name": "Sousa, Lauren",
+          "club": "Prime Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100305202",
+          "status": ""
+        },
+        {
+          "name": "Tai, Taphanie",
+          "club": "California Fencing Academy",
+          "division": "Central California",
+          "member_num": "100312165",
+          "status": ""
+        },
+        {
+          "name": "Tao, Ann",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100250156",
+          "status": ""
+        },
+        {
+          "name": "Tewari, Amaira",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100329988",
+          "status": ""
+        },
+        {
+          "name": "Theron, Zoe",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100250327",
+          "status": ""
+        },
+        {
+          "name": "Thota, Akira",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100330594",
+          "status": ""
+        },
+        {
+          "name": "Vorobiev, Alexandra",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100318124",
+          "status": ""
+        },
+        {
+          "name": "Wang, Ellen",
+          "club": "Bay Area Fencing Club Pleasanton",
+          "division": "Central California",
+          "member_num": "100304866",
+          "status": ""
+        },
+        {
+          "name": "Wu, Gloria",
+          "club": "Dynamo Fencing Club - Austin",
+          "division": "US Fencing",
+          "member_num": "100333144",
+          "status": ""
+        },
+        {
+          "name": "Yang, Byanca",
+          "club": "California Fencing Academy",
+          "division": "Central California",
+          "member_num": "100330114",
+          "status": ""
+        },
+        {
+          "name": "Yang, Hanli",
+          "club": "LA International Fencing",
+          "division": "Orange Coast",
+          "member_num": "100341298",
+          "status": ""
+        },
+        {
+          "name": "Yao, Abby",
+          "club": "SoCAL Fencing Center",
+          "division": "Southern California",
+          "member_num": "100327204",
+          "status": ""
+        },
+        {
+          "name": "Yu, Sophie",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100270798",
+          "status": ""
+        },
+        {
+          "name": "Yu, Xintong",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100301178",
+          "status": ""
+        },
+        {
+          "name": "Yuen, Kaitlyn",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Northern California",
+          "member_num": "100307080",
+          "status": ""
+        },
+        {
+          "name": "Yung, Zoe",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100333915",
+          "status": ""
+        },
+        {
+          "name": "Zhan, Catherine",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "100303274",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Katie",
+          "club": "Bay Area Fencing Club",
+          "division": "Northern California",
+          "member_num": "100343508",
+          "status": ""
+        },
+        {
+          "name": "Zhou, Joi",
+          "club": "SoCAL Fencing Center",
+          "division": "Southern California",
+          "member_num": "100309106",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Claire",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "100338817",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Yunning",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100740625",
+          "status": ""
+        }
+      ],
       "Y14WF": [
         {
           "name": "Aleksandrova, Miroslava",
@@ -19917,708 +20619,6 @@
           "club": "Silicon Valley Fencing Center",
           "division": "Northern California",
           "member_num": "100338817",
-          "status": ""
-        }
-      ],
-      "CDTWF": [
-        {
-          "name": "Ahn, Hayley",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100331536",
-          "status": ""
-        },
-        {
-          "name": "Amore, Elizabeth",
-          "club": "Piedmont Fencing Team",
-          "division": "US Fencing",
-          "member_num": "101341298",
-          "status": ""
-        },
-        {
-          "name": "Anwar, Sara",
-          "club": "Elite Zone Fencing Academy",
-          "division": "Central California",
-          "member_num": "102209480",
-          "status": ""
-        },
-        {
-          "name": "Arya, Leela",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100356636",
-          "status": ""
-        },
-        {
-          "name": "Bastunas, Marissa",
-          "club": "Halberstadt Fencers' Club",
-          "division": "Northern California",
-          "member_num": "100315068",
-          "status": ""
-        },
-        {
-          "name": "Bennyhoff, Naia",
-          "club": "Fresno Fencing Club",
-          "division": "Mountain Valley",
-          "member_num": "100305715",
-          "status": ""
-        },
-        {
-          "name": "Chan, Ella",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100293397",
-          "status": ""
-        },
-        {
-          "name": "Chan, Mila",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100293398",
-          "status": ""
-        },
-        {
-          "name": "Chang, Lydia",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100314960",
-          "status": ""
-        },
-        {
-          "name": "Chang, Olivia",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100316004",
-          "status": ""
-        },
-        {
-          "name": "Chen, Elysia",
-          "club": "S-Class Fencing",
-          "division": "Western Washington",
-          "member_num": "100326558",
-          "status": ""
-        },
-        {
-          "name": "Chen, Madeleine",
-          "club": "SoCAL Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100317167",
-          "status": ""
-        },
-        {
-          "name": "Chen, Yifan",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100346448",
-          "status": ""
-        },
-        {
-          "name": "Cheng, Audrey",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100347879",
-          "status": ""
-        },
-        {
-          "name": "Cho, Karis",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100320149",
-          "status": ""
-        },
-        {
-          "name": "Ciafardini Stoner, Sophia",
-          "club": "Piedmont Fencing Team",
-          "division": "Northern California",
-          "member_num": "102306005",
-          "status": ""
-        },
-        {
-          "name": "COLIC, LANI",
-          "club": "Elite Zone Fencing Academy",
-          "division": "Central California",
-          "member_num": "100341950",
-          "status": ""
-        },
-        {
-          "name": "DeJoy, Leilah",
-          "club": "Team Touche Fencing Center",
-          "division": "San Diego",
-          "member_num": "100309766",
-          "status": ""
-        },
-        {
-          "name": "Deng, Claire",
-          "club": "Spartak",
-          "division": "San Diego",
-          "member_num": "100301231",
-          "status": ""
-        },
-        {
-          "name": "Deng, Gaowa",
-          "club": "Fencers Club Inc.",
-          "division": "US Fencing",
-          "member_num": "100345741",
-          "status": ""
-        },
-        {
-          "name": "Desai, Zoya",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Southern California",
-          "member_num": "100298917",
-          "status": ""
-        },
-        {
-          "name": "Domantay, Sophia",
-          "club": "LA International Fencing",
-          "division": "Southern California",
-          "member_num": "101796098",
-          "status": ""
-        },
-        {
-          "name": "Dong, Nancy",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100357229",
-          "status": ""
-        },
-        {
-          "name": "Dvoiris, Maya",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100349811",
-          "status": ""
-        },
-        {
-          "name": "Fang, Kelervia",
-          "club": "Spartak",
-          "division": "San Diego",
-          "member_num": "100345002",
-          "status": ""
-        },
-        {
-          "name": "Feng, Sophia",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100938724",
-          "status": ""
-        },
-        {
-          "name": "Fu, Pui Lam (Paisley)",
-          "club": "Unattached",
-          "division": "N/A",
-          "member_num": "100336491",
-          "status": ""
-        },
-        {
-          "name": "gowda, Siyona",
-          "club": "SoCAL Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100341302",
-          "status": ""
-        },
-        {
-          "name": "Guo, Jianing",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100333362",
-          "status": ""
-        },
-        {
-          "name": "Gupta, Pearl",
-          "club": "Bay Area Fencing Club Pleasanton",
-          "division": "Northern California",
-          "member_num": "100354156",
-          "status": ""
-        },
-        {
-          "name": "Han, Gian",
-          "club": "Spartak",
-          "division": "San Diego",
-          "member_num": "100293586",
-          "status": ""
-        },
-        {
-          "name": "Haylett, Emily",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100347386",
-          "status": ""
-        },
-        {
-          "name": "Hom, Avery",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100283055",
-          "status": ""
-        },
-        {
-          "name": "Hom, Emma",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100289897",
-          "status": ""
-        },
-        {
-          "name": "Hsiao, Ariya",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100301133",
-          "status": ""
-        },
-        {
-          "name": "Hsu, Rachel",
-          "club": "Halberstadt Fencers' Club",
-          "division": "Northern California",
-          "member_num": "100333402",
-          "status": ""
-        },
-        {
-          "name": "Ireland, Moira",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100332095",
-          "status": ""
-        },
-        {
-          "name": "Jena, Aanvi",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100339569",
-          "status": ""
-        },
-        {
-          "name": "Jin, Jada Y",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100711818",
-          "status": ""
-        },
-        {
-          "name": "Joesuf, Aurielle",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100316024",
-          "status": ""
-        },
-        {
-          "name": "Joesuf, Thea",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100316034",
-          "status": ""
-        },
-        {
-          "name": "Kaiman, Tabitha",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100952071",
-          "status": ""
-        },
-        {
-          "name": "Khanal, Sarah",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100349111",
-          "status": ""
-        },
-        {
-          "name": "Kim, Ines",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100352175",
-          "status": ""
-        },
-        {
-          "name": "Kim, Isabella",
-          "club": "Las Positas Fencing Center",
-          "division": "Northern California",
-          "member_num": "100857720",
-          "status": ""
-        },
-        {
-          "name": "Kim, Lauren",
-          "club": "Spartak",
-          "division": "San Diego",
-          "member_num": "100337374",
-          "status": ""
-        },
-        {
-          "name": "Kim, Natalie",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100305624",
-          "status": ""
-        },
-        {
-          "name": "Kim, Sydney",
-          "club": "Elite Fencing Club",
-          "division": "Southern California",
-          "member_num": "100253889",
-          "status": ""
-        },
-        {
-          "name": "Lam, Dorris Yandor",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100354391",
-          "status": ""
-        },
-        {
-          "name": "Lavery, Lucy",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100317248",
-          "status": ""
-        },
-        {
-          "name": "Lee, Abigail",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100317941",
-          "status": ""
-        },
-        {
-          "name": "Lee, Clara",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100716335",
-          "status": ""
-        },
-        {
-          "name": "Lee, Zoe",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100306780",
-          "status": ""
-        },
-        {
-          "name": "Li, Alice",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100314546",
-          "status": ""
-        },
-        {
-          "name": "Li, Chelsea",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100304754",
-          "status": ""
-        },
-        {
-          "name": "Li, Sophia",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100487021",
-          "status": ""
-        },
-        {
-          "name": "Lim, Kensie",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Orange Coast",
-          "member_num": "100323906",
-          "status": ""
-        },
-        {
-          "name": "Lin, Avery",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Central California",
-          "member_num": "100332560",
-          "status": ""
-        },
-        {
-          "name": "Liu, Madeleine",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100392096",
-          "status": ""
-        },
-        {
-          "name": "Lu, Yuexi",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100786985",
-          "status": ""
-        },
-        {
-          "name": "Lucas, Ava",
-          "club": "Elite Fencing Club",
-          "division": "Southern California",
-          "member_num": "100313517",
-          "status": ""
-        },
-        {
-          "name": "Maqsood, Minnah",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100343575",
-          "status": ""
-        },
-        {
-          "name": "Mattupalli, Ashwika",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100295651",
-          "status": ""
-        },
-        {
-          "name": "Mclanahan, Jasmine",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100331884",
-          "status": ""
-        },
-        {
-          "name": "Merrigan, Annabelle",
-          "club": "Bay Area Fencing Club",
-          "division": "Central California",
-          "member_num": "100342215",
-          "status": ""
-        },
-        {
-          "name": "Miyashiro, Katelyn",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Orange Coast",
-          "member_num": "100298908",
-          "status": ""
-        },
-        {
-          "name": "Miyoshi, Kylie",
-          "club": "Golden State Fencing Academy",
-          "division": "Central California",
-          "member_num": "100302160",
-          "status": ""
-        },
-        {
-          "name": "Monat, Jennifer",
-          "club": "United Fencing Academy",
-          "division": "Southern California",
-          "member_num": "100300883",
-          "status": ""
-        },
-        {
-          "name": "Neumann, Erika",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100328902",
-          "status": ""
-        },
-        {
-          "name": "Nicoletti, Thea",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100320199",
-          "status": ""
-        },
-        {
-          "name": "Nwodo, Naila",
-          "club": "Space City Fencing Academy",
-          "division": "Gulf Coast",
-          "member_num": "100339662",
-          "status": ""
-        },
-        {
-          "name": "Pan, Samantha",
-          "club": "Bay Area Fencing Club",
-          "division": "Northern California",
-          "member_num": "100322823",
-          "status": ""
-        },
-        {
-          "name": "Park, Lauren",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Orange Coast",
-          "member_num": "100312613",
-          "status": ""
-        },
-        {
-          "name": "Pawar, Sanvi",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100353867",
-          "status": ""
-        },
-        {
-          "name": "Pedersen, Haley",
-          "club": "United Fencing Academy",
-          "division": "Southern California",
-          "member_num": "100274224",
-          "status": ""
-        },
-        {
-          "name": "Renganathan, Krithiga",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100328524",
-          "status": ""
-        },
-        {
-          "name": "Rui, Jessie",
-          "club": "SoCAL Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100318994",
-          "status": ""
-        },
-        {
-          "name": "Santiago, Rania",
-          "club": "Precision Athletics Fencing Club",
-          "division": "Orange Coast",
-          "member_num": "100330413",
-          "status": ""
-        },
-        {
-          "name": "Shen, Gloria",
-          "club": "Altius Fencing Academy",
-          "division": "South Texas",
-          "member_num": "100327567",
-          "status": ""
-        },
-        {
-          "name": "Sousa, Lauren",
-          "club": "Prime Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100305202",
-          "status": ""
-        },
-        {
-          "name": "Tai, Taphanie",
-          "club": "California Fencing Academy",
-          "division": "Central California",
-          "member_num": "100312165",
-          "status": ""
-        },
-        {
-          "name": "Tao, Ann",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100250156",
-          "status": ""
-        },
-        {
-          "name": "Tewari, Amaira",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100329988",
-          "status": ""
-        },
-        {
-          "name": "Theron, Zoe",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100250327",
-          "status": ""
-        },
-        {
-          "name": "Thota, Akira",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100330594",
-          "status": ""
-        },
-        {
-          "name": "Vorobiev, Alexandra",
-          "club": "Golden State Fencing Academy",
-          "division": "Northern California",
-          "member_num": "100318124",
-          "status": ""
-        },
-        {
-          "name": "Wang, Ellen",
-          "club": "Bay Area Fencing Club Pleasanton",
-          "division": "Central California",
-          "member_num": "100304866",
-          "status": ""
-        },
-        {
-          "name": "Wu, Gloria",
-          "club": "Dynamo Fencing Club - Austin",
-          "division": "US Fencing",
-          "member_num": "100333144",
-          "status": ""
-        },
-        {
-          "name": "Yang, Byanca",
-          "club": "California Fencing Academy",
-          "division": "Central California",
-          "member_num": "100330114",
-          "status": ""
-        },
-        {
-          "name": "Yang, Hanli",
-          "club": "LA International Fencing",
-          "division": "Orange Coast",
-          "member_num": "100341298",
-          "status": ""
-        },
-        {
-          "name": "Yao, Abby",
-          "club": "SoCAL Fencing Center",
-          "division": "Southern California",
-          "member_num": "100327204",
-          "status": ""
-        },
-        {
-          "name": "Yu, Sophie",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100270798",
-          "status": ""
-        },
-        {
-          "name": "Yu, Xintong",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Central California",
-          "member_num": "100301178",
-          "status": ""
-        },
-        {
-          "name": "Yuen, Kaitlyn",
-          "club": "Massialas Foundation (M Team)",
-          "division": "Northern California",
-          "member_num": "100307080",
-          "status": ""
-        },
-        {
-          "name": "Yung, Zoe",
-          "club": "Golubitsky Fencing Center",
-          "division": "Orange Coast",
-          "member_num": "100333915",
-          "status": ""
-        },
-        {
-          "name": "Zhan, Catherine",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Northern California",
-          "member_num": "100303274",
-          "status": ""
-        },
-        {
-          "name": "Zhang, Katie",
-          "club": "Bay Area Fencing Club",
-          "division": "Northern California",
-          "member_num": "100343508",
-          "status": ""
-        },
-        {
-          "name": "Zhou, Joi",
-          "club": "SoCAL Fencing Center",
-          "division": "Southern California",
-          "member_num": "100309106",
-          "status": ""
-        },
-        {
-          "name": "Zhu, Claire",
-          "club": "Silicon Valley Fencing Center",
-          "division": "Northern California",
-          "member_num": "100338817",
-          "status": ""
-        },
-        {
-          "name": "Zhu, Yunning",
-          "club": "Unattached",
-          "division": "N/A",
-          "member_num": "100740625",
           "status": ""
         }
       ],
