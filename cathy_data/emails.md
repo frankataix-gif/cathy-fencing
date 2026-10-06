@@ -22796,3 +22796,33 @@ Don’t wait—they go fast!
 <https://app.sephora.com/T/v61000001a111fc7fe3b6fa98f4bbcf76f8/ebe5540092ae4c9b0000021ef3a0bcc2/ebe55400-92ae-4c9b-8634-6
 
 ---
+
+## [生活旅行] Re: Parking Garage Access Sticker Not Working – TH103
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-10-06T18:30:28.000Z
+**摘要:** Natalie的停车库通行证无法使用，需前往办公室领取新通行证并携带旧通行证
+**待办:** 去办公室领取新通行证并携带旧通行证
+**GmailID:** 1a10e383bb785548
+
+Hi Natalie,
+Thank you for letting me know.
+Please come by my office, and I will provide you with a new access sticker. Please bring your old sticker with you when you come in.
+Thanks,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:ca06b828-3854-4612-a1a7-e76778a4be4b]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended so
+
+---
