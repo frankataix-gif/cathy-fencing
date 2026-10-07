@@ -23091,3 +23091,50 @@ Google Play
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [其他] Resident Notice – Emery Rooftop Terraces Opening Hours
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-07T12:46:26.000Z
+**摘要:** 关于Emery屋顶露台开放时间的通知
+**待办:** 无
+**GmailID:** 1a11666a999de5e2
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
