@@ -23016,3 +23016,51 @@ Google Play
 
 
 ---
+
+## [生活旅行] Emery Wharf - window cleaning continues from 6th to 9th October
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-07T10:24:29.000Z
+**摘要:** Emery Wharf窗户清洁工作将于10月6日至9日进行。
+**待办:** 无
+**日程:** {"title":"Emery Wharf窗户清洁","date":"2023-10-06","time":"","location":"Emery Wharf"}
+**GmailID:** 1a115e4aed05b6b5
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
