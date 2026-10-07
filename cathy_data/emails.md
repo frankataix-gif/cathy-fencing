@@ -23319,3 +23319,21 @@ Calvin Klein
   &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;  &zwnj; &zwnj; &zwnj
 
 ---
+
+## [生活旅行] Updated bike facilities + bike storage for rent
+
+**发件人:** "Smith & Farrow Resident Care Team" <residentcare@boffo.ca>
+**日期:** 2026-10-07T22:34:40.000Z
+**摘要:** Smith & Farrow物业更新了自行车存储和维修设施，并提供不同价位的存储租赁选项。
+**待办:** 联系物业管理租赁自行车存储空间
+**GmailID:** 1a1188130a846996
+
+ 
+Hello residents, 
+We are pleased to share that we’ve recently completed some visual improvements in the bike storage + bike repair rooms. New graphics and wall treatments have been added to make these spaces feel brighter and more inviting for the cycling community at Smith & Farrow. 
+Here's a sneak peek before you check it out for yourselves. 
+🚲 Bike Storage Options 
+For residents looking for a place to store their bike, we offer three bike storage options, available to rent monthly: 
+
+
+---
