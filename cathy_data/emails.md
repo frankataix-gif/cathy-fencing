@@ -23188,3 +23188,31 @@ The more friends you invite, the more you could earn
 ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
 
 ---
+
+## [营销] XIAOJUN, Ready to simplify your global business payments?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-10-07T18:51:45.000Z
+**摘要:** 邀请使用Payoneer简化全球业务支付
+**待办:** 无
+**GmailID:** 1a117b51720cc536
+
+Get started
+with Payoneer now 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" w
+
+---
