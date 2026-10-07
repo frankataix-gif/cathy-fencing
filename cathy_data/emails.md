@@ -23169,3 +23169,22 @@ Stock up before it’s too late, Insider.
 <https://app.sephora.com/T/v61000001a116adba11a59cfb6e965fd798/3bff1805f1a74f220000021ef3a0bcc2/3bff1805-f
 
 ---
+
+## [营销] More friends, more money for you
+
+**发件人:** "Wise (formerly TransferWise)" <noreply@info.wise.com>
+**日期:** 2026-10-07T14:40:07.000Z
+**摘要:** 邮件内容为邀请朋友使用Wise以获得更多金钱奖励
+**待办:** 无
+**GmailID:** 1a116ceb6f08e5fd
+
+ Know any friends who’d love Wise? 
+The more friends you invite, the more you could earn
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
+  ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ 
+‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     
+﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌ 
+    ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
+
+---
