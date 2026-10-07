@@ -22943,3 +22943,19 @@ The Super Puff range of fabrics has you covered.
 
 
 ---
+
+## [其他] Ridge Wilderness Adventure Ltd - Your WaiverFile Waiver
+
+**发件人:** Ridge Wilderness Adventure Ltd <waivers@waiverfile.com>
+**日期:** 2026-10-07T05:16:11.000Z
+**摘要:** 收到Ridge Wilderness Adventure Ltd的豁免文件通知，需确认或签署相关协议。
+**待办:** 需查看并处理豁免文件
+**GmailID:** 1a114ca695419e2d
+
+<html  xmlns:cc1="remove" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><head><meta name="viewport" content="width=device-width" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Ridge Wilderness Adventure Ltd - Your WaiverFile Waiver</title><style>
+          /* -------------------------------------
+          INLINED WITH htmlemail.io/inline
+          ------------------------------------- */
+          /* -------
+
+---
