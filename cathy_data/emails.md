@@ -22878,3 +22878,16 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t634c76c,40a
  https://t.info.telus.com/r/?id=t634c76c,40af3e84,2b02793a&e=Y2lkPXRlbERNMjMzMjQxNCZiaWQ9MTA0MTIyMjIw&s=2rhPDDDtIBxl5YmnskEyMtSS
 
 ---
+
+## [生活旅行] 秋冬遊日本機票勁減 HK$400🍁
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-07T01:01:39.000Z
+**摘要:** Trip.com 发布秋冬游日本机票和酒店折扣促销信息，包含信用卡额外优惠。
+**待办:** 无
+**GmailID:** 1a113e1613cc1484
+
+12PM 開搶！機票酒店各減 HK$200，精選酒店低至 HK$199/晚！指定信用卡再減 HK$250☃️
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10142175172-1791334897942.795%26ouid%3D520214.HK-20261007-edm-gojapan.2026-10-07_8_0.20261007.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D520214.HK-20261007-edm-gojapan.2026-10-07_8_0.20261007.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0
+
+---
