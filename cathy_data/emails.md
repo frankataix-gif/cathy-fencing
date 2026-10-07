@@ -22919,3 +22919,27 @@ The Super Puff range of fabrics has you covered.
 
 
 ---
+
+## [Cathy&David] Fwd: Grade 7 CWOW Widgeon Creek - October 9
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-07T05:11:27.000Z
+**摘要:** 学校通知七年级学生将于10月9日参加户外课堂活动，需家长填写并提交同意表。
+**待办:** 填写并提交CWOW活动同意表
+**方向:** 发出
+**涉及:** 两个
+**日程:** {"title":"Grade 7 CWOW Widgeon Creek","date":"2026-10-09","time":"","location":"Widgeon Creek"}
+**GmailID:** 1a0cf618f75c3e45
+
+---------- 转发的邮件 ---------
+发件人： Meadowridge School <noreply@meadowridge.myenotice.com>
+日期：2026年9月23日 周三10:47
+主题：Grade 7 CWOW Widgeon Creek - October 9
+收件人： <nataliewu100@gmail.com>
+
+
+[image: Image]
+<https://email.meadowridge.myenotice.com/c/eJxMjsGuhCAMAL9mORqKWuDQbzG1VreJQuLylt9_8bbnmWRGamksbbGNRpxnxOw2gllDyk4JYvaQZozBvUmjyrimLYcxYV5nkF1RAFIMHCf0zgh5ncBLZFXcF5AxpJiyptfkzyp8vuunDRfb6U7qvQ-X8lb7bduhwyqDsHugleP5wQQTgLupcOPTtP-B96_JH48zSL1co1Kb7SbcrJblo_fXRF3TwqUthS-ln4L7UvgPAAD__7rETUc>
+
+
+---
