@@ -23151,3 +23151,21 @@ Your fall favourites just got even better   YOUR TOP FOOTWEAR
 DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Pqp7fFBh1nskIeWSlsd1i9snSzT23pKtZY55xbirGuww-3D-3DXyGF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALEUds1zC9xMXYdi63K92mO5jNVWp2HLwc5saiWt9qKmftNuX2AnZpwd1dqoPdDr8aFqlE7BmsEQwojkBlHAG13cLOpoXaINfGd9bDxuJdnrhX3OBhzoSVN3FL9FnZhEyPu5M0umh9rWWwtaP0u1P5WQEEHxwb57zorP46g-2FTcu5SQ8qEJi3
 
 ---
+
+## [营销] 2X points on your purchase and 5X points on ALL Sephora Collection ends today❗
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-07T14:04:13.000Z
+**摘要:** Sephora 发送促销邮件，宣布今日购买积分翻倍及全系列商品积分五倍活动。
+**待办:** 无
+**GmailID:** 1a116b3504455f18
+
+ Sephora 
+
+Stock up before it’s too late, Insider. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a116adba11a59cfb6e965fd798/3bff1805f1a74f220000021ef3a0bcc2/3bff1805-f
+
+---
