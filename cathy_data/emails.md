@@ -23138,3 +23138,16 @@ Google Play
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Pajar + Sorel + UGG → ON SALE
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-07T13:08:35.000Z
+**摘要:** 邮件内容为Pajar、Sorel、UGG品牌的秋季促销信息。
+**待办:** 无
+**GmailID:** 1a1167aeb31774df
+
+Your fall favourites just got even better   YOUR TOP FOOTWEAR
+DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Pqp7fFBh1nskIeWSlsd1i9snSzT23pKtZY55xbirGuww-3D-3DXyGF_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALEUds1zC9xMXYdi63K92mO5jNVWp2HLwc5saiWt9qKmftNuX2AnZpwd1dqoPdDr8aFqlE7BmsEQwojkBlHAG13cLOpoXaINfGd9bDxuJdnrhX3OBhzoSVN3FL9FnZhEyPu5M0umh9rWWwtaP0u1P5WQEEHxwb57zorP46g-2FTcu5SQ8qEJi3
+
+---
