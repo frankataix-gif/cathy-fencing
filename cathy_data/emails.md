@@ -23263,3 +23263,24 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] Stratford Hall Open House - October 6
+
+**发件人:** SH Admissions <admissions@stratfordhall.ca>
+**日期:** 2026-10-07T21:52:11.000Z
+**摘要:** 提醒用户已注册开放日但未参加，可重新注册后续活动
+**待办:** 重新注册开放日活动
+**涉及:** 两个
+**GmailID:** 1a1185a7484cc230
+
+We noted a registration was made for you and your family to attend our Open
+House yesterday. We were sorry you were unable to attend.
+
+If you are still interested in visiting, please log into your account and
+choose another event. There are still a few seats left in our Open House
+events and virtual events later this month.
+
+Or you can click here
+<https://stratfordhall.myschoolapp.com/app/embed?svcid=edu#admeventregister/3566/selector=.internet/1788469362%3awcqInLb9MpwgFcN9uJro%2bHA%2b9N
+
+---
