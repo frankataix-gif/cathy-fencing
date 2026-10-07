@@ -22861,3 +22861,20 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Fraudsters are lurking. Are you protected?
+
+**发件人:** TELUS Online Security <telus@email.telus.com>
+**日期:** 2026-10-07T00:05:25.000Z
+**摘要:** 推广TELUS在线安全终极计划，提供40%折扣以保护身份和财务
+**待办:** 无
+**GmailID:** 1a113ade77186673
+
+Help protect your identity and finances. Save 40% on a TELUS Online Security Ultimate plan.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t634c76c,40af3e84,2b027939&e=Y2lkPXRlbERNMjMzMjQxNCZiaWQ9MTA0MTIyMjIwJnAxPSU0MG5ONDNyOVcwNmt6UmJWUzFLZWNWaVgzZ1FLaVlQUlZWSzhqSGhpNk9reW8lM0Q&s=AYgQdFhsG6vDrJQD9aEm9_tZWyBZPLmkqhsoAQveaAs web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=t634c76c,40af3e84,2b02793a&e=Y2lkPXRlbERNMjMzMjQxNCZiaWQ9MTA0MTIyMjIw&s=2rhPDDDtIBxl5YmnskEyMtSS
+
+---
