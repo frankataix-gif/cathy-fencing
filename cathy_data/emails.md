@@ -23516,3 +23516,36 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpad
 
 ---
+
+## [其他] Re: Viewing request for tomorrow!
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-08T19:49:30.000Z
+**摘要:** 同意明天的房产查看请求，时间12:15-13:15，地点120 Emery Way。
+**待办:** 无
+**方向:** 发出
+**日程:** {"title":"房产查看","date":"2026-10-09","time":"12:15","location":"120 Emery Way"}
+**GmailID:** 1a11b9eee9ecf771
+
+hello Joshua
+tomorrow is fine, u can go check directly!
+if there is any issue please let me know!
+
+thanks
+在 Oct 8, 2026, 15:06 +0200，Joshua Kotey <Joshua.Kotey@foxtons.co.uk>，写道：
+>
+>
+> Good afternoon Jingqi,
+>
+> Hope you’re doing well!
+>
+> I wanted to reach out to ask if we could come over to 120 Emery Way for a viewing tomorrow between 12:15-13:15 please?
+>
+> Best regards,
+> ------------------------------------
+> Joshua Kotey
+> Sales Negotiator
+> Wapping Sales, Foxtons
+> T: 0
+
+---
