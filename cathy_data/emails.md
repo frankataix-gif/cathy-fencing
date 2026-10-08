@@ -23645,3 +23645,27 @@ lululemon
 
 
 ---
+
+## [生活旅行] You're Invited - Gather Over Coffee
+
+**发件人:** "Smith & Farrow Resident Care Team" <residentcare@boffo.ca>
+**日期:** 2026-10-08T23:00:03.000Z
+**摘要:** 邀请参加Smith & Farrow社区咖啡聚会，时间地点为10月24日10:30-12:00在Level 1 Family Lounge
+**待办:** 无
+**日程:** {"title":"Gather Over Coffee","date":"2023-10-24","time":"10:30","location":"Level 1 - Family Lounge"}
+**GmailID:** 1a11dbec9921aa42
+
+ 
+Hi Residents, 
+We’d love to welcome you to Gather Over Coffee — a relaxed morning to meet your neighbours, enjoy some coffee and pastries, and connect with the Smith & Farrow community. 
+Saturday, October 24th 
+10.30 AM – 12.00 PMLevel 1 - Family Lounge 
+We hope to see you there! 
+Warm regards,​​​​​​​ 
+The Smith & Farrow Resident Care Teamresidentcare@boffo.ca | 604.317.4060 
+residentcare@boffo.ca 
+View this email in your browser | 
+Unsubscribe | Preferences 
+#200-4580 Hastings Stre
+
+---
