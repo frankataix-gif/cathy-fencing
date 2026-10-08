@@ -23444,3 +23444,30 @@ W: https://www.foxtons.co.uk
 Privacy and Confidentiality Notice: This is strictly confidential and intended solel
 
 ---
+
+## [其他] Hear Make’s next chapter first 🚀 plus Maia for AI Agents and new AI models
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-10-08T14:53:11.000Z
+**摘要:** Make公司发布新产品和功能更新，并邀请参加10月19-20日在布拉格的Cubex活动。
+**待办:** 无
+**日程:** {"title":"New releases, fresh roadmap, be there when it happens","date":"2026-10-19","time":"","location":"Cubex, Prague"}
+**GmailID:** 1a11c010b8dee028
+
+GPT-6 Sol and Luna, Claude Opus 5.5, Grok 4.7, and more
+
+Logo ( https://www.make.com?utm_campaign=Product_Newsletter_081026&utm_medium=email&utm_source=customer.io )
+
+********************
+What’s new in Make
+********************
+
+Hi natalie, take a moment to unwind and explore the fresh features, apps, and modules added to Make over the past month.
+
+Hero image ( https://waves.make.com?utm_campaign=Product_Newsletter_081026&utm_medium=email&utm_source=customer.io )
+
+Event
+
+**********
+
+---
