@@ -23337,3 +23337,29 @@ For residents looking for a place to store their bike, we offer three bike stora
 
 
 ---
+
+## [营销] ⏰ Up to 60% off online ends today! Save big during our Flash Cyber Sale.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-08T07:19:40.000Z
+**摘要:** 这是一封促销邮件，提供在线折扣和优惠券，包括60%的折扣和每周广告链接。
+**待办:** 无
+**GmailID:** 1a11a620463cb088
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=XH25RSRZ5RCUBCROB6TRCRHTQI.100229 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261008_S4_CyberSale_OtherPromo_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=81205572&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Prom
+
+---
