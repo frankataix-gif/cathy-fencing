@@ -23411,3 +23411,36 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Prom
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NzmQ48EgAls5flGdjuOFLaSGrRbWAnD8qr-2BQn0lCZWpg-3D-3DP-dc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC2jODaK5egbfmqX7hcrQwXaMsZaN0840Qtv11udKai7ZzrC70qYt3gHYsy9SXUzUwLFSUIzl67aJmp9rnalzOY2oOCLrm7jFzfgqTW7tnlaciuzkBhnuDWAkWpRtkrX9VP4nO8RLk9kKc62F-2FCwORxiJMBHkV2x50uODb7uhrCTzanbxBnpPkRpegQrcBKJCC
 
 ---
+
+## [生活旅行] Viewing request for tomorrow!
+
+**发件人:** Joshua Kotey <Joshua.Kotey@foxtons.co.uk>
+**日期:** 2026-10-08T13:05:57.000Z
+**摘要:** 请求明天中午12:15到13:15到120 Emery Way看房
+**待办:** 确认看房时间
+**日程:** {"title":"看房请求","date":"2023-10-06","time":"12:15","location":"120 Emery Way"}
+**GmailID:** 1a11b9eee9ecf771
+
+Good afternoon Jingqi,
+
+Hope you’re doing well!
+
+I wanted to reach out to ask if we could come over to 120 Emery Way for a viewing tomorrow between 12:15-13:15 please?
+
+Best regards,
+
+------------------------------------
+Joshua Kotey
+Sales Negotiator
+Wapping Sales, Foxtons
+
+T: 020 3728 2207
+M: 07875 80 0307
+E: Joshua.Kotey@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solel
+
+---
