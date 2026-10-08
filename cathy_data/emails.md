@@ -23581,3 +23581,38 @@ thanks
 > <image001.
 
 ---
+
+## [生活旅行] Re: Viewing request for tomorrow!
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-08T19:52:35.000Z
+**摘要:** 收到房产中介关于明天下午看房的请求
+**待办:** 安排明天的看房时间
+**方向:** 发出
+**日程:** {"title":"看房请求","date":"2026-10-08","time":"12:15","location":"120 Emery Way"}
+**GmailID:** 1a11b9eee9ecf771
+
+hi
+Foxtons (Managing Agent)
+
+
+在 Oct 8, 2026, 15:06 +0200，Joshua Kotey <Joshua.Kotey@foxtons.co.uk>，写道：
+>
+>
+> Good afternoon Jingqi,
+>
+> Hope you’re doing well!
+>
+> I wanted to reach out to ask if we could come over to 120 Emery Way for a viewing tomorrow between 12:15-13:15 please?
+>
+> Best regards,
+> ------------------------------------
+> Joshua Kotey
+> Sales Negotiator
+> Wapping Sales, Foxtons
+> T: 020 3728 2207
+> M: 07875 80 0307
+> E: Joshua.Kotey@foxtons.co.uk
+> W: https
+
+---
