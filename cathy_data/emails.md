@@ -23398,3 +23398,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Prom
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Fall Favourites Are Here 🍂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-08T13:07:42.000Z
+**摘要:** 秋季促销活动，提供多种折扣
+**待办:** 无
+**GmailID:** 1a11ba07682656f1
+
++ SO MANY NEW MARKDOWNS    YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NzmQ48EgAls5flGdjuOFLaSGrRbWAnD8qr-2BQn0lCZWpg-3D-3DP-dc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC2jODaK5egbfmqX7hcrQwXaMsZaN0840Qtv11udKai7ZzrC70qYt3gHYsy9SXUzUwLFSUIzl67aJmp9rnalzOY2oOCLrm7jFzfgqTW7tnlaciuzkBhnuDWAkWpRtkrX9VP4nO8RLk9kKc62F-2FCwORxiJMBHkV2x50uODb7uhrCTzanbxBnpPkRpegQrcBKJCC
+
+---
