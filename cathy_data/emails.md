@@ -23363,3 +23363,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261008_S4_Cybe
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Prom
 
 ---
+
+## [营销] Da non perdere: fino a -50%
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-08T08:05:26.000Z
+**摘要:** 这封邮件是Calvin Klein的促销广告，宣传最高50%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a11a8d5ae4b40ee
+
+
+
+
+---
