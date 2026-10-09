@@ -23853,3 +23853,50 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t68568b2,40b
 More family, 
 
 ---
+
+## [其他] Resident Newsletter - LH - 09/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-09T14:50:07.000Z
+**摘要:** 社区居民通讯，包含社区活动和通知信息
+**待办:** 无
+**GmailID:** 1a121249f7b1af3c
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
