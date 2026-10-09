@@ -23918,3 +23918,19 @@ Just so you know, it’s worth a look.
 <https://app.sephora.com/T/v61000001a12165ec36a3e9e4369fea4b34/f0c033244563466a0000021ef3a0bcc2/f0c03324-4563
 
 ---
+
+## [营销] Natalie, could affordability matter more than mortgage rates?
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-10-09T16:17:45.000Z
+**摘要:** Rightmove发送的关于购房负担能力与房贷利率的讨论，以及购房建议和音乐疗愈之旅的信息。
+**待办:** 无
+**GmailID:** 1a12182416e0b520
+
+Plus heat pumps, home-buying tips and a musical retreat
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/83JVwAy0bUp4KmBtAAUQMw~~/AAAHahA~/vboaQ4xAMpb6-MyVpo2ntTO5Af342iqsUNwmRvHIhCMjPRNd1m94rLoVWWBBJ8L5k8QynQHwnOE0LUlTDRN4ARc_OBZoXLrxIBAcwZDAycbPguX_Byh_FLqBPd613nsdjUYzufY54J7a_m31jknNSy6FOa0YiT_hleA1raXpu9M~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/l3JTOdNj66QRvdCcVn68fg~~/AAAHahA~/lCO7HFaOfzDNn-qpYBv84m9KAHpN5gGbMKshgkuj34TAIJJhfy5h2b1bWgy5cmNYSFkv1SwH7zHIvlph6zM2JvYDjEX-haM3V
+
+---
