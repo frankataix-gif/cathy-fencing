@@ -23669,3 +23669,16 @@ Unsubscribe | Preferences
 #200-4580 Hastings Stre
 
 ---
+
+## [生活旅行] 【新西蘭航空】直飛新西蘭低至 HK$4,XXX 🌟
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-09T01:39:12.000Z
+**摘要:** 宣传圣诞节期间飞往新西兰的机票早鸟优惠。
+**待办:** 无
+**GmailID:** 1a11e507bb4eb05b
+
+今個聖誕想飛遠啲？即鎖定早鳥優惠價💰
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014223574-1791509774878.110%26ouid%3D520487.HK-20261009-edm-hkairlinenz-zhhk.2026-10-09_8_0.20261009.zh_HK.520522%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D520487.HK-20261009-edm-hkairlinenz-zhhk.2026-10-09_8_0.20261009.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE
+
+---
