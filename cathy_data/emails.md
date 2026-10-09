@@ -23710,3 +23710,34 @@ For your permanent collection.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] 经典外套
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-10-09T04:03:53.000Z
+**摘要:** 推广Loro Piana的经典外套产品
+**待办:** 无
+**GmailID:** 1a11ed501aa03e3c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版型与精工饰面相得益彰
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+---
