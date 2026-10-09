@@ -23900,3 +23900,21 @@ More family,
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] APP EXCLUSIVE: the latest from Sephora Favorites, Glossier, and more
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-09T16:01:32.000Z
+**摘要:** Sephora推送最新产品和促销信息，提及积分奖励和优惠服务。
+**待办:** 无
+**GmailID:** 1a1216654e1f4bfb
+
+ Sephora 
+
+Just so you know, it’s worth a look. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a12165ec36a3e9e4369fea4b34/f0c033244563466a0000021ef3a0bcc2/f0c03324-4563
+
+---
