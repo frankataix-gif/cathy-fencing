@@ -23962,3 +23962,23 @@ My Rightmove
 <http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eEgL3_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvyoD2RK0DbJHvEGDGNpLijs58B-2FgolIPtlXNB9vv2ZsqnILYNgatOT0p9mvKJiJ1A2fW7U6tDcrxFRwRqN2MRfnd33mJ-2FWa2jgfAyP5aMfVunPvlmlLtk0HCYlbABt5OTMRP2STnQ7AKTd2R1-2FpknOSEIIXRsRNaehw8eUaeI7gSIr5b9Se3c7rfai7fCjOtonLCl2unOx0Ubr4hULs-2F3yO5vl7y50Ckcc3TZ5Qz7IAj0zEVXAPs-2BlGzqRwf1fRBejq7anmsETcUYG3c-2Fv
 
 ---
+
+## [营销] Elevate Your TV Experience with VIP Pricing
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-10-09T22:26:49.000Z
+**摘要:** TELUS 推出电视套餐升级优惠，包含直播电视、体育赛事和Netflix流媒体服务，提供每月$45的折扣价格。
+**待办:** 无
+**GmailID:** 1a122c6c28f3984c
+
+Elevate Your TV Experience with VIP Pricing 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t69e0c36,40b115f6,2b043320&e=Y2lkPXRlbERNMjMzNjMwOSZiaWQ9MTExMDIxMTEwJnAxPSU0MEJ4ODE1b3VtUVNxMzIySlVibyUyRlQlMkJVbG5JZjk4MXNyWHExTnRrcCUyRklxVWMlM0Q&s=8lv10OyquHZ7xoUynr7tQX5xZs2vhQRa5VdpfIp8ZdM web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=t69e0c36,40b115f6,2b043321&e=Y2lkPXRlbERNMjMzNjMwOSZiaWQ9MTExMDIxMTEw&s=uJ8K-pCZNHFpI0jWBStY1K9liD0CExf187WfiT8PGQ8 	
+	
+
+Your Perfec
+
+---
