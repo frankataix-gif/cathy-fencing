@@ -23767,3 +23767,32 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261009_S4_Cir
 https://canada.michaels.com
 
 ---
+
+## [生活旅行] RE: Viewing request for tomorrow!
+
+**发件人:** Joshua Kotey <Joshua.Kotey@foxtons.co.uk>
+**日期:** 2026-10-09T07:13:59.000Z
+**摘要:** 请求明天在120 Emery Way进行房产查看，时间为12:15-13:15。
+**待办:** 无
+**日程:** {"title":"房产查看","date":"2026-10-09","time":"","location":"120 Emery Way"}
+**GmailID:** 1a11b9eee9ecf771
+
+Hi Jingqi,
+
+Perfect, thank you very much!
+
+Best regards,
+Josh
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 08 October 2026 20:50
+To: Joshua Kotey <Joshua.Kotey@foxtons.co.uk>
+Subject: Re: Viewing request for tomorrow!
+
+EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments before opening or responding. IMPORTANT: You will never be asked to enter your credentials via email
+
+hello Joshua
+tomorrow is fine, u can go check directly!
+if there is any
+
+---
