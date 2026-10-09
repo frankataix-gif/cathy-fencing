@@ -23934,3 +23934,17 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/l3JTOdNj66QRvdCcVn68fg~~/AAAHahA~/lCO7HFaOfzDNn-qpYBv84m9KAHpN5gGbMKshgkuj34TAIJJhfy5h2b1bWgy5cmNYSFkv1SwH7zHIvlph6zM2JvYDjEX-haM3V
 
 ---
+
+## [Cathy&David] St. John's School - BC
+
+**发件人:** "St. John's School (SJS) Admissions" <stjohnsbc@myschoolapp.com>
+**日期:** 2026-10-09T17:13:10.000Z
+**摘要:** St. John's School 邀请家长参加虚拟问答会议，了解学校情况。
+**待办:** 参加虚拟问答会议
+**涉及:** 两个
+**日程:** {"title":"Virtual Q&A Session with SJS","date":"2026-10-15","time":"12:30","location":"线上"}
+**GmailID:** 1a121a78eced5be7
+
+<p><div><img src="https://aws-ca01.cdn.sjs.ca/common/logo/rgb/ib/1024h/colour.png" height="171" width="133" /><br /><div dir="ltr">October 9, 2026</div><div dir="ltr">&#160;</div><div dir="ltr">Dear Parents,<br /><br /></div><div dir="ltr">We invite you to join us for a <b>Virtual Q&amp;A Session with SJS</b>, an informal opportunity to connect with our Senior School Principal and Admissions team, ask questions, and learn more about life at SJS, both in and out of the classroom.<br /><br /></div
+
+---
