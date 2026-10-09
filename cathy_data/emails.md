@@ -23741,3 +23741,29 @@ For your permanent collection.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 ---
+
+## [营销] The Big Thanksgiving Sale starts TODAY! ⚡ Shop our top offers.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-09T07:19:24.000Z
+**摘要:**  Michaels 发起的感恩节大促销活动今日开启，包含购物、优惠券等链接。
+**待办:** 无
+**GmailID:** 1a11f885f4d253df
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=QIY5OBAEDYTE5L7HKONJJ7XYBM.100227 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261009_S4_Circular_BigThanksgivingSaleALLStatements_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=81205572&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com
+
+---
