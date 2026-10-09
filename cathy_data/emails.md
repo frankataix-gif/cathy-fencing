@@ -23948,3 +23948,17 @@ My Rightmove
 <p><div><img src="https://aws-ca01.cdn.sjs.ca/common/logo/rgb/ib/1024h/colour.png" height="171" width="133" /><br /><div dir="ltr">October 9, 2026</div><div dir="ltr">&#160;</div><div dir="ltr">Dear Parents,<br /><br /></div><div dir="ltr">We invite you to join us for a <b>Virtual Q&amp;A Session with SJS</b>, an informal opportunity to connect with our Senior School Principal and Admissions team, ask questions, and learn more about life at SJS, both in and out of the classroom.<br /><br /></div
 
 ---
+
+## [待办] Jingqi, your Koodo account has been cancelled
+
+**发件人:** Koodo Team <paymybill@koodo.com>
+**日期:** 2026-10-09T20:21:01.000Z
+**摘要:** Jingqi的Koodo账户被取消，仍有59.81美元欠款需支付
+**待办:** 支付欠款59.81美元
+**GmailID:** 1a12253879de42dc
+
+ 
+[image: Koodo Logo] 
+<http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eEgL3_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvyoD2RK0DbJHvEGDGNpLijs58B-2FgolIPtlXNB9vv2ZsqnILYNgatOT0p9mvKJiJ1A2fW7U6tDcrxFRwRqN2MRfnd33mJ-2FWa2jgfAyP5aMfVunPvlmlLtk0HCYlbABt5OTMRP2STnQ7AKTd2R1-2FpknOSEIIXRsRNaehw8eUaeI7gSIr5b9Se3c7rfai7fCjOtonLCl2unOx0Ubr4hULs-2F3yO5vl7y50Ckcc3TZ5Qz7IAj0zEVXAPs-2BlGzqRwf1fRBejq7anmsETcUYG3c-2Fv
+
+---
