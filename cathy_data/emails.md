@@ -23819,3 +23819,17 @@ if there is any
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] Boots You’ll Want. Now On Sale.
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-09T13:12:03.000Z
+**摘要:** 这封邮件是Browns Shoes的秋季促销广告，宣传ARTICA、Pajar、UGG等品牌的折扣活动。
+**待办:** 无
+**GmailID:** 1a120cacc7b5bd2e
+
+Shop ARTICA, Pajar, UGG and more during the Fall Flash Sale   A
+CANADIAN LEGACY SINCE 1940 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PV4kBBJR0uygl2ZMHs2FePKjXEQiOTuo7h6-2FrE2bPnEQ-3D-3Dy3Hr_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAM3ujey5hBV6KxDgpypVjuSQq1EuYDng9SyH0je0l75aeUMphrW-2F1sdMwcH0PGb3h1Mca6Xo9jM0It28fTk0nV2vBG-2F3EcJbkHEAzsvPuL7QlPrA68b4iX73wc1syhKRTxsAarvaLSLJn87ywHAYUdAvxu4f2
+
+---
