@@ -23833,3 +23833,23 @@ CANADIAN LEGACY SINCE 1940
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PV4kBBJR0uygl2ZMHs2FePKjXEQiOTuo7h6-2FrE2bPnEQ-3D-3Dy3Hr_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAM3ujey5hBV6KxDgpypVjuSQq1EuYDng9SyH0je0l75aeUMphrW-2F1sdMwcH0PGb3h1Mca6Xo9jM0It28fTk0nV2vBG-2F3EcJbkHEAzsvPuL7QlPrA68b4iX73wc1syhKRTxsAarvaLSLJn87ywHAYUdAvxu4f2
 
 ---
+
+## [营销] Jingqi, bring your family closer and save big.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-10-09T14:01:32.000Z
+**摘要:** TELUS 提供家庭折扣和优惠，鼓励添加线路以享受 savings。
+**待办:** 无
+**GmailID:** 1a120f820f11b130
+
+Add a line today and unlock amazing deals.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t68568b2,40b021db,2b03c119&e=Y2lkPXRlbERNMjMzNTI3MCZiaWQ9MTA5NDA2Mzg2JnAxPSU0MHEyTCUyQktYMVppWHFZdiUyQjVmT05kTm8lMkZzREJtcjZudmszS0VQSXg3WUNvc3MlM0Q&s=orREtK-8QWOCJz12hPqIS_v69W1TA4GHKL8nhCj9H8o web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=t68568b2,40b021db,2b03c11a&e=Y2lkPXRlbERNMjMzNTI3MCZiaWQ9MTA5NDA2Mzg2&s=0cNm94w9K3SLJfgknsBMBp7b5fS-l6FoWHV5R_0H5Mc 	
+	
+
+More family, 
+
+---
