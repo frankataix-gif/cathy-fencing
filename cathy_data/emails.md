@@ -24162,3 +24162,29 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261010_S4_VariableIL
 https://canada.michaels.com/?cm_mmc=EMAIL-_
 
 ---
+
+## [其他] October at Ridge: Sweater Weather Is Here. Are You Prepared?
+
+**发件人:** Jamie <adventures@exploreridge.com>
+**日期:** 2026-10-10T16:33:02.000Z
+**摘要:** 邮件内容关于十月天气变化，提醒做好准备，并介绍秋季活动。
+**待办:** 无
+**GmailID:** 1a126a97b57888e0
+
+View this email in your browser (https://mailchi.mp/a0a23e349147/october-at-ridge-sweater-weather-is-here-are-you-prepared?e=b683a9dc22)
+
+
+** October 2026 Newsletter
+------------------------------------------------------------
+
+
+** October at Ridge:
+------------------------------------------------------------
+
+
+** A Month of Change and Beauty…
+------------------------------------------------------------
+
+The golden trees and falling leaves are a pretty good indication that fall has
+
+---
