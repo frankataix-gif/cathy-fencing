@@ -23982,3 +23982,29 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t69e0c36,40b
 Your Perfec
 
 ---
+
+## [Cathy&David] Grade 7 French – Upcoming Assessments and Preparation (October 22, 27, and 29)
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-10-10T00:10:07.000Z
+**摘要:** 七年级法语将进行听力和写作评估，包含复习资料和准备建议。
+**待办:** 确保Cathy和David完成法语评估准备
+**涉及:** 两个
+**日程:** {"title":"Grade 7 French Summative Writing Assessment","date":"2023-10-27","time":"","location":""}
+**GmailID:** 1a123255b24f57a1
+
+Dear Parents and Students,
+
+I hope you are doing well.
+
+I would like to share the dates of our upcoming Grade 7 French assessments and provide some guidance to help students prepare and feel confident.
+
+1. Formative Listening Assessment – October 22
+
+Students will have a formative listening assessment on October 22. To prepare, they should :
+
+a-review the vocabulary using the following Quizlet set:
+
+https://quizlet.com/ca/1207529341/unit-1-listening-formativela-nature-du-canada-flash
+
+---
