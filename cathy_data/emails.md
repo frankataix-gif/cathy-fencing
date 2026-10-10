@@ -24069,3 +24069,16 @@ https://canada.michaels.com/?cm_mm
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] The 3 trends taking over fall
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-10T13:06:02.000Z
+**摘要:** 秋季促销活动即将结束，提供最新趋势的鞋子折扣。
+**待办:** 无
+**GmailID:** 1a125eba9e0cde33
+
++ Fall Flash Sale Ending Soon!   YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O7OzmqvDicnfI-2BP70PgNX7C0L-2FYUyZUHszVfV1jkAqAQ-3D-3De5_2_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH5Qpbfpcm8U-2BtvnKHjH7e9wJFKI4kWyx0hIcshscqThb2pPWxauyqZFrEDpTt8I99pcYGNo90LXoLupWkyOc0HFxfQQeMem7ZiGDQVArtyDavrAZOZQpt4ZeTurqIYE7toeSW2RE9C7iFegm9ER-2Frj0lAqMEm-2FTv9yYrE4W83AcxazN-2BuTyEsk
+
+---
