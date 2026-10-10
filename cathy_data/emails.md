@@ -24136,3 +24136,29 @@ Login to Self Serve
 Please do not reply 
 
 ---
+
+## [营销] ✔️ New yarn ✔️ $10 Caron Cakes skeins ✔️ So much to celebrate
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-10T15:13:48.000Z
+**摘要:** 促销新的纱线产品和优惠券
+**待办:** 无
+**GmailID:** 1a12660c457dd2c0
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=WFYEHSLU65TUBCC6NPNKYZ2TIE.100222 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261010_S4_VariableILoveYarnDayYarnNewness_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=90054452&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_
+
+---
