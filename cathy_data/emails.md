@@ -24034,3 +24034,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261010_S3_Pro
 https://canada.michaels.com/?cm_mm
 
 ---
+
+## [营销] Il nostro intimo più iconico
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-10T08:05:36.000Z
+**摘要:** 推广Calvin Klein标志性内衣系列，可能包含新品或促销信息。
+**待办:** 无
+**GmailID:** 1a124da74abc4815
+
+
+
+
+---
