@@ -24082,3 +24082,21 @@ https://canada.michaels.com/?cm_mm
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O7OzmqvDicnfI-2BP70PgNX7C0L-2FYUyZUHszVfV1jkAqAQ-3D-3De5_2_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH5Qpbfpcm8U-2BtvnKHjH7e9wJFKI4kWyx0hIcshscqThb2pPWxauyqZFrEDpTt8I99pcYGNo90LXoLupWkyOc0HFxfQQeMem7ZiGDQVArtyDavrAZOZQpt4ZeTurqIYE7toeSW2RE9C7iFegm9ER-2Frj0lAqMEm-2FTv9yYrE4W83AcxazN-2BuTyEsk
 
 ---
+
+## [营销] Meet Caudalie’s reformulated Resveratrol-Lift Firming Serum and Cashmere Cream
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-10T13:21:35.000Z
+**摘要:** Sephora推广Caudalie新款护肤精华和面霜，描述其紧致肌肤和减少细纹的功效
+**待办:** 无
+**GmailID:** 1a125fa1dcff53c6
+
+ Sephora 
+
+Visibly firm and plump skin, plus smooth fine lines. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a125f9de7295d91d6e96c566a0/ac45409d71b64c7b0000021ef3a0bc
+
+---
