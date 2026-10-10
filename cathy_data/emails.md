@@ -24008,3 +24008,29 @@ a-review the vocabulary using the following Quizlet set:
 https://quizlet.com/ca/1207529341/unit-1-listening-formativela-nature-du-canada-flash
 
 ---
+
+## [营销] Don’t miss our best deals during The Big Thanksgiving Sale! 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-10T07:20:15.000Z
+**摘要:** 邮件内容为Michaels商店的感恩节大促销活动宣传，包含多个促销链接和优惠信息。
+**待办:** 无
+**GmailID:** 1a124af4aa71ad8e
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=QEQNW2VEMERUXADKZLVBUDPAAQ.100224 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261010_S3_Promo_BigThanksgivingSaleTopOffers_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=90054452&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mm
+
+---
