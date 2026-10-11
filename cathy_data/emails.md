@@ -24284,3 +24284,29 @@ Hi Meadowridge Families,
 October is always a busy and exciting month at Meadowridge! Alongside the many activities our children enjoy, we have lots of wonderful celebrations and events bringing our school community toge
 
 ---
+
+## [营销] The Big Thanksgiving Sale = time to restock your craft stash ✂️
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-11T07:19:56.000Z
+**摘要:** 促销邮件，介绍感恩节大促销活动，提供手工艺用品折扣。
+**待办:** 无
+**GmailID:** 1a129d541f9bccfd
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=2MM4CQPSGHWU5D6C4KD2WOH7IE.100228 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261011_S4_Promo_ThanksgivingBOGOs_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=90054452&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-C
+
+---
