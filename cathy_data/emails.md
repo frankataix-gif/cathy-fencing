@@ -24415,3 +24415,23 @@ In the meantime, many of the answers to your questions can be found in our Help 
 
 
 ---
+
+## [击剑] Re: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-11T22:09:46.000Z
+**摘要:** Cathy的家长请求将她的击剑区域隶属从Region 4改回Region 1，因行程安排调整。
+**待办:** 协助更改Cathy的区域隶属至Region 1
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+Dear USA Fencing Membership Services,
+
+I hope you are having a good day.
+
+I am writing to sincerely apologize for the inconvenience, but I would like to request another change for my daughter, Cathy YUNXI He (Member #102111079).
+
+We previously requested to change her affiliation to Region 4, but after further consideration of her upcoming schedule and travel plans, we realized that Region 1 is actually the correct affiliation for her. We are very sorry for the back-and-forth and truly appr
+
+---
