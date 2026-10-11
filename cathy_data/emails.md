@@ -24333,3 +24333,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-C
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] 🔥ENDS TOMORROW: Fall Flash Sale
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-11T12:32:50.000Z
+**摘要:** Browns Shoes秋季促销活动即将于明天结束，提供额外20%折扣和新品销售，需尽快购买并自提。
+**待办:** 无
+**GmailID:** 1a12af39daa5ab17
+
+Extra 20% + New Sale Styles   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OOBnYQBLBRW6QfzgP0L2Ct3jWFsJQ-2BKMuXNJswAPqcug-3D-3DOcvJ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAI2U3MbuBa3pW5RU6unyxWIfg-2BBsttbmjiFm0naRD-2BScCu6P9exMOlJQJL2JiTwc3QTkTvwmkhqi1650To-2B4hK4QG1R9eFbs1BCOKdNS0x8xqZv13ahIsUVgEMP1pKZkNFsVu8O0gP7Gg1H9ddLTq7hxzakmz83jUUxdbE-2Fjc64KsWjuatG-2Fgadtl
+
+---
