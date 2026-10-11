@@ -24256,3 +24256,31 @@ Verdana, Arial, sans-serif !important; }     96
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [Cathy&David] Special Message from the Parent Guild
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-11T03:03:19.000Z
+**摘要:** 学校通知十月的活动安排，包括校服店和Guild Executive的申请，并祝福感恩节。
+**待办:** 申请成为Guild Executive
+**涉及:** 两个
+**日程:** {"title":"Used Uniform Shop","date":"2023-10-14","time":"15:00","location":"无"}
+**GmailID:** 1a128ea4be36f4e2
+
+Good evening, Grade 7 and 5 familes,
+
+Please scroll down for a special message from the Parent Guild.
+
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+
+Hi Meadowridge Families,
+
+October is always a busy and exciting month at Meadowridge! Alongside the many activities our children enjoy, we have lots of wonderful celebrations and events bringing our school community toge
+
+---
