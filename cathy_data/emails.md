@@ -24346,3 +24346,21 @@ Extra 20% + New Sale Styles   BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OOBnYQBLBRW6QfzgP0L2Ct3jWFsJQ-2BKMuXNJswAPqcug-3D-3DOcvJ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAI2U3MbuBa3pW5RU6unyxWIfg-2BBsttbmjiFm0naRD-2BScCu6P9exMOlJQJL2JiTwc3QTkTvwmkhqi1650To-2B4hK4QG1R9eFbs1BCOKdNS0x8xqZv13ahIsUVgEMP1pKZkNFsVu8O0gP7Gg1H9ddLTq7hxzakmz83jUUxdbE-2Fjc64KsWjuatG-2Fgadtl
 
 ---
+
+## [营销] Beauty for literally everybody
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-11T13:07:04.000Z
+**摘要:** Sephora宣传会员优惠和购物服务
+**待办:** 无
+**GmailID:** 1a12b13bf744bca7
+
+ Sephora 
+
+(Yes, you.) 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a12b12e4feae8ab86e96638918/71e9b22f10d74e060000021ef3a0bcc2/71e9b22f-10d7-4e06-88fb-7c9a81ec47d5?_
+
+---
