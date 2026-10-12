@@ -24465,3 +24465,29 @@ Please refer to the separate email “Special Message from the Parent Guild” s
 For anyone wanting to volunteer for Halloween Candy sorting and/or Trick-or-Treating in the North Forest, please reach out and I will add you to the Meadowridge Halloween WhatsApp gr
 
 ---
+
+## [营销] 🦃 Happy Thanksgiving! Score deals on Christmas trees, yarn and more.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-12T07:19:32.000Z
+**摘要:** 感恩节促销活动，提供圣诞树、毛线等商品的折扣优惠。
+**待办:** 无
+**GmailID:** 1a12efb304528be8
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=BFJ4Z4IXU3KENO3F4OMHLSQG2A.100229 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261012_S4_HappyThanksgivingShortFormat_Promo_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=90054452&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mm
+
+---
