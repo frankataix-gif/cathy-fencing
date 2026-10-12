@@ -41153,7 +41153,7 @@
     "total": 18
   },
   "fortune-roc-rjcc-ryc-2026": {
-    "fetched_at": "2026-10-11T11:46:11.466832Z",
+    "fetched_at": "2026-10-12T03:07:55.270127Z",
     "counts": {
       "Y12WF": 77,
       "Y14WF": 86,
@@ -51255,5 +51255,69 @@
       "Y12WF": []
     },
     "total": 108
+  },
+  "midwest-roc-rjcc---local-y14-o-2026-12-19-canlan-sports-liberyville-libertyville-il": {
+    "fetched_at": "2026-10-12T03:07:55.274096Z",
+    "counts": {
+      "Y12WF": 0,
+      "Y14WF": 0,
+      "CDTWF": 7
+    },
+    "names": {
+      "Y12WF": [],
+      "Y14WF": [],
+      "CDTWF": [
+        {
+          "name": "Aslam, Lyla",
+          "club": "Bluegrass Fencers' Club",
+          "division": "Kentucky",
+          "member_num": "102357769",
+          "status": ""
+        },
+        {
+          "name": "Fraser, Morgan",
+          "club": "Bluegrass Fencers' Club",
+          "division": "Kentucky",
+          "member_num": "100297964",
+          "status": ""
+        },
+        {
+          "name": "Leggett, Emilia",
+          "club": "Youth Enrichment League Fencing Club",
+          "division": "Minnesota",
+          "member_num": "100646571",
+          "status": ""
+        },
+        {
+          "name": "Li, Sophia",
+          "club": "Golden State Fencing Academy",
+          "division": "Northern California",
+          "member_num": "100487021",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sophia",
+          "club": "RedStar Fencing Club Chicago",
+          "division": "Illinois",
+          "member_num": "100321122",
+          "status": ""
+        },
+        {
+          "name": "Wang, Ellen",
+          "club": "Bay Area Fencing Club Pleasanton",
+          "division": "Central California",
+          "member_num": "100304866",
+          "status": ""
+        },
+        {
+          "name": "Yang, Olivia",
+          "club": "Bluegrass Fencers' Club",
+          "division": "Southwest Ohio",
+          "member_num": "100329336",
+          "status": ""
+        }
+      ]
+    },
+    "total": 7
   }
 }
