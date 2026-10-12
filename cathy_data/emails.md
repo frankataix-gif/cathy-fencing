@@ -24491,3 +24491,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261012_S4_Hap
 https://canada.michaels.com/?cm_mm
 
 ---
+
+## [营销] ⏳LAST CALL FOR FALL FLASH SALE⏳
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-12T12:34:33.000Z
+**摘要:** 布朗鞋店发起秋季闪购促销，提供额外20%折扣和新品销售，活动今日截止。
+**待办:** 无
+**GmailID:** 1a1301b8c51f9eaa
+
+Extra 20% + New Sale Styles ENDS TODAY   A CANADIAN LEGACY SINCE
+1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Og-2FEnf3-2F2bWRacSStm-2Bs-2Fk6CCrZE7OG-2FqyMpJlhzeTRw-3D-3D2_IE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFDo6bQyKsMzFq1XdKaThymjL8HqehE8D-2FaN-2FWUoSxBL5HjjWLdhyxJcun95cC9NU046dlTc1vkCGdxk2qWGPm3cMazXAoUAvIeKZDcHRGYGyljOqQUZMlQybkSksd3lTqV2qY6ApT0NQbTRejQkrZh7jNeMd-2Bb3Sw1zIyiryx
+
+---
