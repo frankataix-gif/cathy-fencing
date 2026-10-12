@@ -24448,3 +24448,20 @@ We previously requested to change her affiliation to Region 4, but after further
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014320854-1791762444448.964%26ouid%3D521341.HK-20261012-edm-brandcampaignweek1.2026-10-12_8_0.20261012.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D521341.HK-20261012-edm-brandcampaignweek1.2026-10-12_8_0.20261012.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Oct 13-16
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-12T02:53:44.000Z
+**摘要:** 学校提醒家长志愿者机会，感恩节假期安排，下周活动及校服要求。
+**待办:** 无
+**涉及:** 两个
+**日程:** {"title":"感恩节假期","date":"2023-10-12","time":"","location":""}
+**GmailID:** 1a12e07e220fdc71
+
+Good day, Grade 7 Families,
+Happy Thanksgiving! Hope everyone is enjoying some rest and relaxation with family.
+Please refer to the separate email “Special Message from the Parent Guild” sent on Oct 10, for ways to get involved and volunteer with the Parent Guild Executives, Diwali Celebration, and Winter Market.
+For anyone wanting to volunteer for Halloween Candy sorting and/or Trick-or-Treating in the North Forest, please reach out and I will add you to the Meadowridge Halloween WhatsApp gr
+
+---
