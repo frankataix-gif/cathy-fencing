@@ -24522,3 +24522,50 @@ The internet has spoken.
 <https://app.sephora.com/T/v61000001a130389044a1680b969125cd18/0e38cd2bcc2242500000021ef3a0bcc2/0e38cd2b-cc22-4250-8f7d-b
 
 ---
+
+## [待办] License to Alter - Forms and information - 12/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-12T14:29:55.000Z
+**摘要:** 需要处理装修许可相关表格和信息
+**待办:** 需要填写并提交装修许可表格
+**GmailID:** 1a1308531da12439
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
