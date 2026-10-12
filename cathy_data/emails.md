@@ -24622,3 +24622,22 @@ The experts are at your service.
 <https://app.sephora.com/T/v61000001a130e835188f9a6ef4bbe5bf30/744ac531672448ca0000021ef3a0bcc2/744ac531-6724-48c
 
 ---
+
+## [营销] Try Uchi West Hollywood on DoorDash Reservations
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-10-12T18:14:07.000Z
+**摘要:** DoorDash推广Uchi West Hollywood餐厅预订服务，用餐后可获最高10美元积分。
+**待办:** 无
+**GmailID:** 1a131526ef393005
+
+ DoorDash Email Reserve your next table and earn up to $10 in DoorDash 
+credits after you dine. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     
+
+---
