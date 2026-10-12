@@ -24504,3 +24504,21 @@ Extra 20% + New Sale Styles ENDS TODAY   A CANADIAN LEGACY SINCE
 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Og-2FEnf3-2F2bWRacSStm-2Bs-2Fk6CCrZE7OG-2FqyMpJlhzeTRw-3D-3D2_IE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFDo6bQyKsMzFq1XdKaThymjL8HqehE8D-2FaN-2FWUoSxBL5HjjWLdhyxJcun95cC9NU046dlTc1vkCGdxk2qWGPm3cMazXAoUAvIeKZDcHRGYGyljOqQUZMlQybkSksd3lTqV2qY6ApT0NQbTRejQkrZh7jNeMd-2Bb3Sw1zIyiryx
 
 ---
+
+## [营销] All over your feed 🤩
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-12T13:06:16.000Z
+**摘要:** Sephora推送促销信息，提及积分、送货服务和免费配送优惠。
+**待办:** 无
+**GmailID:** 1a13038bf8fa21ca
+
+ Sephora 
+
+The internet has spoken. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a130389044a1680b969125cd18/0e38cd2bcc2242500000021ef3a0bcc2/0e38cd2b-cc22-4250-8f7d-b
+
+---
