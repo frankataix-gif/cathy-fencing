@@ -24641,3 +24641,31 @@ credits after you dine.
 ͏ ‌     ­ ͏ ‌     
 
 ---
+
+## [营销] The sooner you request a payment...
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-10-12T18:07:54.000Z
+**摘要:** 这封邮件是Payoneer的推广邮件，宣传其快速付款服务，鼓励用户尽早请求付款以加快到账速度。
+**待办:** 无
+**GmailID:** 1a1314cbc91c91a0
+
+ ...the sooner
+you’ll get paid! 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
