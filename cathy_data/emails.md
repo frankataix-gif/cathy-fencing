@@ -24569,3 +24569,38 @@ The internet has spoken.
       -ms-interpolation-mode: bic
 
 ---
+
+## [击剑] Re: Re: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-10-12T14:50:42.000Z
+**摘要:** 邮件询问是否确认更改Cathy的区域隶属关系，并提示更改后积分将不计入区域1排名
+**待办:** 确认是否更改Cathy的区域隶属关系
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+----------------------------------------------
+
+Hi,
+
+If we change the regional affiliation for Cathy, the points she has earned will not be added to her standings in Region 1. Are you sure you want to proceed with updating her regional affiliation?
+
+Thanks,
+Regional Events
+
+--------------------------------
+This email is a service from USA Fencing.
+
+
+
+
+
+
+
+
+
+
+
+[G55XN0-51VP9]
+
+---
