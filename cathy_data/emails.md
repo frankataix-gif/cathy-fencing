@@ -24950,3 +24950,21 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Jingqi, pair your Internet with premium entertainment. 🎬
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-10-13T23:16:16.000Z
+**摘要:** TELUS推广其互联网套餐，结合流媒体和直播频道，提供优惠价格。
+**待办:** 无
+**GmailID:** 1a1378d6a5b65f0a
+
+Enjoy your favourite streaming, live channels or both.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t71bc612,40b34c90,2b062c55&e=Y2lkPXRlbERNMjM0MDQwNyZiaWQ9MTE5MjYwNjkwJnAxPSU0MGxJQmwlMkJzZmVmTnl6SGglMkZsSDViV0U4YWVBOEdCMThQVDQ1UHNjJTJCeXp0R3MlM0Q&s=MkMVwdEW_FhduqSd0GLtIuaEet_6Jhj9Wj-YAT6ntq0 web browser . 	
+ https://t.info.telus.com/r/?id=t71bc612,40b34c90,2b062c56&e=Y2lkPXRlbERNMjM0MDQwNyZiaWQ9MTE5MjYwNjkw&s=JHS0FaXCu_0m4VQmsEiR-qLmaXxrR7cItyzeJX0H90Q 	
+	
+
+Elevat
+
+---
