@@ -24742,3 +24742,28 @@ Last chance to shop the sale before it’s over!   A CANADIAN
 LEGACY SINCE 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PBeFaLoo5q7Iyb1N7Qi5mX6Zvv1W5mBzOW1DQeTtKgcA-3D-3D7okI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAK1X9EKJTWlSaC3iXcNfpz-2BanwcN5Z-2BrBLKmjqr0iBMxiE6l3wc3GSTaZNRFtkPOwXJ2fkygoVsSQIIu6P-2B1SXqn7p6G9Ok5T9CMehFAGJhJ4avEDUE4o3vjzze5x5qP8csj3I6mTXf0VyUKa4ry-2FhpHDBYNIsM8W6hBE-2FRh
 
 ---
+
+## [营销] Your best Big Thanksgiving Sale deals? Right this way ➡️ 🎃 🧶
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-13T07:22:45.000Z
+**摘要:** 邮件内容为感恩节促销活动的广告，提供相关优惠链接。
+**待办:** 无
+**GmailID:** 1a13424f76198f7e
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=MJRR3WH3K3HURJYGTBKFZ3AZYA.100227 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHOP&customerEmail=bmF0
+
+---
