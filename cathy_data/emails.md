@@ -24855,3 +24855,35 @@ Gifts for them, gifts for you.
 <https://app.sephora.com/T/v61000001a1355dcb0a971935f4bbcf6cc0/2c9d20c8b2c34d190000021ef3a0bcc2/2c9d20c8-b2c3-4d19-
 
 ---
+
+## [其他] FW: Knight Frank - Apartment 1, 2 Lancer Square, London, W8 4AX
+
+**发件人:** "Lauren D'Souza" <Lauren.DSouza@knightfrank.com>
+**日期:** 2026-10-13T14:19:25.000Z
+**摘要:** 邮件内容为房产中介关于伦敦公寓的询问，未提及具体事项或需要处理的内容
+**待办:** 无
+**GmailID:** 1a0e782a87ac7216
+
+Good Afternoon Natalie,
+
+Please do let me know if you have any questions in regards to the below request.
+
+Kind Regards,
+Lauren
+
+
+Lauren D'Souza
+Senior Operations Coordinator
+London Sales Operations
+______
+D:  +44 2089392806
+ M:+44 7811771417
+knightfrank.com
+52-56 Kensington Church Street,London,W8 4DB,United Kingdom
+
+From: Lauren D'Souza <Lauren.DSouza@knightfrank.com>
+Sent: 05 October 2026 11:26
+To: Harshal Pujari <Harshal.Pujari@knightfrank.com>; nataliewu100@gmail.com
+Cc:
+
+---
