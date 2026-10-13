@@ -24789,3 +24789,51 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHO
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [击剑] Planned Remedial Works and Temporary Closure of The Club Facilities
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-13T12:47:15.000Z
+**摘要:** 关于俱乐部设施计划中的修复工作和临时关闭的通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1354d8ba1d3e96
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
