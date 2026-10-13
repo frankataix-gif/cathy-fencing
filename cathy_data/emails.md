@@ -24837,3 +24837,21 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHO
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] 💝 MAKEUP SETS: HERE & NOWHERE ELSE 💝
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-13T13:05:04.000Z
+**摘要:** Sephora推送美妆套装促销信息，包含礼物优惠活动。
+**待办:** 无
+**GmailID:** 1a1356044a54c53b
+
+ Sephora 
+
+Gifts for them, gifts for you. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1355dcb0a971935f4bbcf6cc0/2c9d20c8b2c34d190000021ef3a0bcc2/2c9d20c8-b2c3-4d19-
+
+---
