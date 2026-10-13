@@ -24937,3 +24937,16 @@ Dear Nathalie,
 Welcome to the great team of the positive energy revolution, where electric innovation and sustainability meet with every charge, propelling together towards a greener future.<br /><br />We hope that it would reply to your needs.<br /><br /><b>1. Who are we?</b><br /><br />Axso is a Hydro-Québec subsidiary founded
 
 ---
+
+## [营销] What's new: Steady State's stripes
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-10-13T22:42:35.000Z
+**摘要:** lululemon发送的新品推广邮件
+**待办:** 无
+**GmailID:** 1a1376ea65a6d074
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
