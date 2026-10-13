@@ -24915,3 +24915,25 @@ Your next stop is here.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [其他] Invitation to join the Eddie platform
+
+**发件人:** Eddie - Assistant de recharge <support@eddie.eco>
+**日期:** 2026-10-13T14:40:38.000Z
+**摘要:** 邀请加入Eddie平台以管理位于708 Farrow Street的充电站
+**待办:** 创建账户并点击链接接受邀请
+**GmailID:** 1a135b5568d3c849
+
+Eddie - Charging Assistant Logo (  )
+
+ 
+
+***********************
+Smith &amp; Farrow Operations invites you to join the Eddie platform
+***********************
+
+Dear Nathalie,
+
+Welcome to the great team of the positive energy revolution, where electric innovation and sustainability meet with every charge, propelling together towards a greener future.<br /><br />We hope that it would reply to your needs.<br /><br /><b>1. Who are we?</b><br /><br />Axso is a Hydro-Québec subsidiary founded
+
+---
