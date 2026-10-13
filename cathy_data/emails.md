@@ -24729,3 +24729,16 @@ lululemon
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] 🚨FINAL HOURS: UGG, adidas & ARTICA ON SALE
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-13T00:09:03.000Z
+**摘要:** 促销活动提醒，UGG、adidas和ARTICA正在打折，限时销售
+**待办:** 无
+**GmailID:** 1a13297608527b9e
+
+Last chance to shop the sale before it’s over!   A CANADIAN
+LEGACY SINCE 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PBeFaLoo5q7Iyb1N7Qi5mX6Zvv1W5mBzOW1DQeTtKgcA-3D-3D7okI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAK1X9EKJTWlSaC3iXcNfpz-2BanwcN5Z-2BrBLKmjqr0iBMxiE6l3wc3GSTaZNRFtkPOwXJ2fkygoVsSQIIu6P-2B1SXqn7p6G9Ok5T9CMehFAGJhJ4avEDUE4o3vjzze5x5qP8csj3I6mTXf0VyUKa4ry-2FhpHDBYNIsM8W6hBE-2FRh
+
+---
