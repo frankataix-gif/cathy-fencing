@@ -25097,3 +25097,19 @@ https://canada.michaels.com/?cm_mmc=E
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Introducing the new Apple HomeView, HomePod mini 2 and Apple TV 4K.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-10-14T11:11:48.000Z
+**摘要:** Apple推出新款Apple HomeView、HomePod mini 2和Apple TV 4K，介绍其设计和颜色特性。
+**待办:** 无
+**GmailID:** 1a13a1c91c71acbb
+
+Apple Home
+
+Introducing the new Apple Home lineup.
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsToVl1G%2B4tYm0goRD96F2A8Or%2BEwMrG4Ai%2BI2Fcvi1q%2BeuTJKBCUNcBZ8TO%2FAahzGRyX2S3Wu%2BRrbRxcls9%2B2JFTpc5F%2BnhtwpTz2tgDNytwnsB3Nlrg4YwpxrD1pTrys9KKW39CXviAsV6%2B1w7FBhf2gmaflqRrYiPHGtsSKGmtNt9n8F64eUZK2bMPWvJ
+
+---
