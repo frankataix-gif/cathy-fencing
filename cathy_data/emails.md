@@ -25257,3 +25257,20 @@ Verdana, Arial, sans-serif !important; }     96
 
 
 ---
+
+## [Cathy&David] Summative Assessment
+
+**发件人:** Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca>
+**日期:** 2026-10-14T23:30:34.000Z
+**摘要:** Cathy未完成S&L学科的总结性评估，需在明天提交作业
+**待办:** 确保Cathy完成作业并明天提交
+**涉及:** Cathy
+**GmailID:** 1a13cc0e53744a91
+
+Hello. This is Ms. Mac, Cathy’s S & L teacher. Cathy did not complete her first summative assessment today. The students were given the project to start two weeks ago but she didn’t have hers ready to submit today on the final due date. Please ensure that her work is done and handed in tomorrow. Thank you.
+
+Regards,
+Ms. Mac
+
+
+---
