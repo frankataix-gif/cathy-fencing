@@ -25014,3 +25014,38 @@ October 13, 2026
 https://click.communications.best
 
 ---
+
+## [待办] Your BC Hydro bill is ready Oct 9, 2026
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-10-14T03:57:33.000Z
+**摘要:** BC Hydro通知电费账单已生成，金额$99.86需在2026年11月2日前支付。
+**待办:** 支付电费账单
+**GmailID:** 1a1388ef44f6ca3d
+
+View your bill
+
+
+Your bill is ready
+-----------------------------------------
+Hi natalie,
+
+Your bill for 103-708 FARROW ST, COQUITLAM BC  V3J 0P2 is ready.
+
+Your bill amount of $99.86 is due by Nov 2, 2026.
+
+
+You can make a one-time payment by withdrawal from your bank account directly in MyHydro.
+
+[Make a payment](https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da3078576bb79c9fbaecb0de6e3d0ce920ec74eefa400a839d536f27b9099574f6a8)
+
+
+
+
+
+
+
+
+Account number: XXXXXX
+
+---
