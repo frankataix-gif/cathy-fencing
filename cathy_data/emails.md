@@ -25174,3 +25174,24 @@ TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8No31CJLNtPQtgV0VcXgT4kQtOM5v-2Fygb7HP5iZvmiqdg-3D-3Db8Lw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD1P-2FDf90vT3zzUC3Gp-2BL-2FemsvVXHO29TZbvEVegf3I3Kof0qAIHNFwfMxDKUj1ugac4-2F3mmzY0-2FKNj5Hr5J17dFkAf86xy2RLaxndzk8wDzmUPJMuhCKZu4A4PGEARlvul0rqo6HMuy2JxIVFQuFR8uGV
 
 ---
+
+## [Cathy&David] Welcome to Spanish 7!
+
+**发件人:** Joyce Villadiego <Joyce.Villadiego@meadowridge.bc.ca>
+**日期:** 2026-10-14T15:00:00.000Z
+**摘要:** 老师欢迎学生回到西班牙语7班，并介绍课程安排、作业要求及家长需配合的评估签名事项。
+**待办:** 查看并签名评估表
+**涉及:** 两个
+**GmailID:** 1a13aedde2b1bab4
+
+¡¡Bienvenidos de regreso a Español 7!!  Welcome back to Spanish 7!
+
+I am touching base today to provide you with information for a successful first year of learning Spanish as we begin our second week of Spanish, where we will learn through lessons, activities, games, homework, inquiry, y mucho más.
+
+
+  *
+Homework is given out almost every day and should take no more than 15 minutes.
+  *
+Google Classroom will have summaries of the week, lesson notes, and additional resources will be prov
+
+---
