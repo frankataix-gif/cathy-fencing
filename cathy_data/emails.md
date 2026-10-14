@@ -25274,3 +25274,27 @@ Ms. Mac
 
 
 ---
+
+## [Cathy&David] Re: Summative Assessment
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-14T23:39:23.000Z
+**摘要:** Cathy未完成学校总结性评估作业，老师要求家长督促明天提交。
+**待办:** 确保Cathy完成并提交作业
+**方向:** 发出
+**涉及:** Cathy
+**日程:** {"title":"Summative Assessment","date":"2026-10-15","time":"","location":""}
+**GmailID:** 1a13cc0e53744a91
+
+Hi Ms. Mac,
+
+Thank you for letting me know. Cathy will complete the assignment today.
+
+Best regards,
+Natalie
+
+On Wed, 14 Oct 2026 23:30:34 +0000, Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca> wrote:
+> Hello. This is Ms. Mac, Cathy’s S & L teacher. Cathy did not complete her first summative assessment today. The students were given the project to start two weeks ago but she didn’t have hers ready to submit today on the final due date. Please ensure that her
+> work is done and handed in 
+
+---
