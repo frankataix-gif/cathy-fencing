@@ -25049,3 +25049,29 @@ You can make a one-time payment by withdrawal from your bank account directly in
 Account number: XXXXXX
 
 ---
+
+## [营销] 🎃 Grab these deals for under $15!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-14T07:19:23.000Z
+**摘要:** 秋季促销活动，提供低于15美元的优惠。
+**待办:** 无
+**GmailID:** 1a13947ec4548b71
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=AKD6RVOVJMHE7H65BCBKX7CVNY.100226 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261014_S4_EOW_BigThanksgivingSaleUnder$15_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=84667593&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=E
+
+---
