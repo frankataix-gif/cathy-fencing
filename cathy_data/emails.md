@@ -25113,3 +25113,32 @@ Introducing the new Apple Home lineup.
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsToVl1G%2B4tYm0goRD96F2A8Or%2BEwMrG4Ai%2BI2Fcvi1q%2BeuTJKBCUNcBZ8TO%2FAahzGRyX2S3Wu%2BRrbRxcls9%2B2JFTpc5F%2BnhtwpTz2tgDNytwnsB3Nlrg4YwpxrD1pTrys9KKW39CXviAsV6%2B1w7FBhf2gmaflqRrYiPHGtsSKGmtNt9n8F64eUZK2bMPWvJ
 
 ---
+
+## [Cathy&David] SAGE Dining Account Statement Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-10-14T12:07:42.000Z
+**摘要:** 通知Yunxi He的SAGE餐饮账户余额及自动充值状态，并附有账户管理链接
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a13a4fade9ea7e2
+
+
+
+
+Dear JingQi Wu, 
+
+Welcome to MyKidsSpending with SAGE Dining at Meadowridge School. 
+
+Attached is your dining account statement for Yunxi He. 
+
+  Your current balance is $23.15. 
+  At this time, autofunding is currently on for this account. 
+
+To view and manage your account, please click on the following link: Home Page 
+
+Questions about purchased items may be directed to the Cafeteria Manager by email at sage@meadowridge.bc.ca. 
+
+For questions about MyKidsSpending, please sen
+
+---
