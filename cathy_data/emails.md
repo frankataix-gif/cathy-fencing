@@ -25242,3 +25242,18 @@ Verdana, Arial, sans-serif !important; }     96
 [image: DoorDash
 
 ---
+
+## [Cathy&David] Update: 2027/2028 Re-enrolment Deadlines
+
+**发件人:** Meadowridge School Admissions Office <noreply@meadowridge.myenotice.com>
+**日期:** 2026-10-14T23:00:09.000Z
+**摘要:** 更新2027/2028学年注册截止日期通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a13ca5120f85d27
+
+<!--placeholder-->
+
+
+
+---
