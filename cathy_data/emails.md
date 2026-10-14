@@ -25160,3 +25160,17 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web browser does not open, please paste the link into the 
 
 ---
+
+## [营销] ARTICA. Every style. Waterproof.
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-14T13:29:47.000Z
+**摘要:** Browns Shoes宣传其防水鞋款和多种风格的鞋类产品。
+**待办:** 无
+**GmailID:** 1a13a9ad6422cf94
+
+Designed to move through every forecast with confidence   YOUR
+TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8No31CJLNtPQtgV0VcXgT4kQtOM5v-2Fygb7HP5iZvmiqdg-3D-3Db8Lw_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD1P-2FDf90vT3zzUC3Gp-2BL-2FemsvVXHO29TZbvEVegf3I3Kof0qAIHNFwfMxDKUj1ugac4-2F3mmzY0-2FKNj5Hr5J17dFkAf86xy2RLaxndzk8wDzmUPJMuhCKZu4A4PGEARlvul0rqo6HMuy2JxIVFQuFR8uGV
+
+---
