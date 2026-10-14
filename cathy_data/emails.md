@@ -24968,3 +24968,49 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t71bc612,40b
 Elevat
 
 ---
+
+## [其他] Updates to My Best Buy Terms
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-10-13T23:46:10.000Z
+**摘要:** Best Buy 通知 My Best Buy 会员条款更新，需查阅最新条款内容。
+**待办:** 无
+**GmailID:** 1a137b1d5080a1cb
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+
+
+https://click.communications.bestbuypromotions.ca/?qs=ABl7ImQiOjUwMjgsInQiOjY3NDUsInMiOjd9AAcAAAAAB9a5smysCBaSYCFGO0AQFQ2vzROAAS9yflTEHRLBZUI1WG3Q6STwtl4EXg3IrwHC4b2c8Nq3aVWdy6zKGROf_tsAa5RV6zPslKnuSevY 
+
+
+
+
+
+
+
+
+October 13, 2026
+
+
+
+
+
+
+
+
+
+ Hello,
+
+
+ We hope you are enjoying all the great benefits of being a My Best Buy member! With all the new program developments available to account holders we need to update the 
+https://click.communications.best
+
+---
