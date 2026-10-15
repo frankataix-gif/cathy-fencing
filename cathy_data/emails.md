@@ -25517,3 +25517,28 @@ adidas, VEJA, WISHBONE & more   YOUR TOP FOOTWEAR DESTINATION
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] Up to 40% off Christmas trees 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-15T15:15:34.000Z
+**摘要:**  Michaels 发送的圣诞树促销邮件，提供最高40%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a14022543ae3045
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=DIFN2RG67WZEHFKVWEPHVENNF4.100229 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_SHOP&customerEmail=bmF0
+
+---
