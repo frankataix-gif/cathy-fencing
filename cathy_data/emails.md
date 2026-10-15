@@ -25542,3 +25542,19 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOG
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_SHOP&customerEmail=bmF0
 
 ---
+
+## [Cathy&David] Halloween Fun Night - October 22
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-10-15T20:15:02.000Z
+**摘要:** 学校通知万圣节晚会活动
+**待办:** 无
+**涉及:** 两个
+**日程:** {"title":"Halloween Fun Night","date":"2023-10-22","time":"","location":""}
+**GmailID:** 1a141343be7555b7
+
+<!--placeholder-->
+
+
+
+---
