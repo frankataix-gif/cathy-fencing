@@ -25311,3 +25311,37 @@ On Wed, 14 Oct 2026 23:30:34 +0000, Trisha Macatangay <trisha.macatangay@meadowr
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101563848-1792025736544.326%26ouid%3D524820.HK-20261015-edm-superdestinationvn.2026-10-15_8_0.20261015.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D524820.HK-20261015-edm-superdestinationvn.2026-10-15_8_0.20261015.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQL
 
 ---
+
+## [击剑] Re: Region Affiliation Change Request – Cathy YUNXI He (#102111079)
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-15T05:40:55.000Z
+**摘要:** Natalie请求取消将Cathy的击剑地区隶属从Region 4改为Region 1，因影响积分和排名。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a0ac82acda140a1
+
+
+
+Dear USA Fencing Support,
+
+Thank you for letting me know. Due to the impact on Cathy's points and 
+regional standings, I no longer wish to proceed with changing her regional 
+affiliation to Region 1.
+
+Please keep Cathy YUNXI He (Member #102111079) affiliated with Region 4.
+
+Thank you very much for your help.
+
+Best regards,
+Natalie
+
+
+On Mon, 12 Oct 2026 14:50:42 +0000, Support <information@usafencing.org> 
+wrote:
+
+---------------------------------------------- Hi, If we change the 
+regional aff
+
+---
