@@ -25298,3 +25298,16 @@ On Wed, 14 Oct 2026 23:30:34 +0000, Trisha Macatangay <trisha.macatangay@meadowr
 > work is done and handed in 
 
 ---
+
+## [生活旅行] 越南之旅🏝️機酒優惠大放送
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-15T01:20:18.000Z
+**摘要:** Trip.com推送越南旅行机票酒店优惠信息，包含富国岛酒店折扣活动
+**待办:** 无
+**GmailID:** 1a13d2556c1ddaa5
+
+機票＋酒店立減 HK$600！富國島精選酒店低至5折，再享額外5折「折上折」👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101563848-1792025736544.326%26ouid%3D524820.HK-20261015-edm-superdestinationvn.2026-10-15_8_0.20261015.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D524820.HK-20261015-edm-superdestinationvn.2026-10-15_8_0.20261015.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQL
+
+---
