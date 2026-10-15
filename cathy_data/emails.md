@@ -25376,3 +25376,29 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border
 
 ---
+
+## [营销] Get up to 40% off Christmas trees right NOW at The Big Thanksgiving Sale! 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-15T07:20:37.000Z
+**摘要:** Michaels 举办感恩节促销，提供圣诞树最高40%折扣。
+**待办:** 无
+**GmailID:** 1a13e6f3ebe10bd2
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=BU7F6GMEYUIELF4IV3VJG3TT44.100227 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261015_S4_Promo_ThanksgivingTREES_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=7221032&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Ci
+
+---
