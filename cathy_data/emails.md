@@ -25345,3 +25345,34 @@ wrote:
 regional aff
 
 ---
+
+## [其他] Payoneer Scheduled Maintenance (November 15, 2026)
+
+**发件人:** Payoneer <no-reply@alerts.payoneer.com>
+**日期:** 2026-10-15T06:53:13.000Z
+**摘要:** Payoneer通知将于2026年11月15日进行系统维护。
+**待办:** 无
+**GmailID:** 1a13e562028622a9
+
+Here’s everything you need to
+know about our maintenance
+window?
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border
+
+---
