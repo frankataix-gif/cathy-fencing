@@ -25476,3 +25476,16 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [营销] 👟 SNEAKER SALE: UP TO 50% OFF
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-15T13:12:46.000Z
+**摘要:** 运动鞋品牌促销，最高50%折扣
+**待办:** 无
+**GmailID:** 1a13fb19c337258e
+
+adidas, VEJA, WISHBONE & more   YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NqG88ht7EyznWA0KsALF1tRR1ZlvW7zKYOPpqRfHcMlw-3D-3DUyuy_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAMcS-2FfKsCTjLWvR-2Be3RfsnnQD6QsIWr9CBAd6itspxG7f3m73n9I5WupnYZ9wwr-2FY63gVY325UCEeGTrm-2FvfCcCEmkWWJc2D8EwWo6FBtgD061M-2BjOx0J0JG4Rr4Q9fGf9BLQDKJnlyUl4iArYEaeUsVwoRsMvtopXSNUb7n3jrS7e5syKqrfIq
+
+---
