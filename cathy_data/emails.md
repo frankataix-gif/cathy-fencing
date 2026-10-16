@@ -25798,3 +25798,16 @@ Verdana, Arial, sans-serif !important; }     96
 
 
 ---
+
+## [营销] These boots have plans
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-16T13:18:48.000Z
+**摘要:** Browns Shoes宣传其正装靴子，强调品牌历史和公司背景。
+**待办:** 无
+**GmailID:** 1a144dd7f51adc5c
+
+Dressier boots. Very good company.   A CANADIAN LEGACY SINCE
+1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NqChDwe8tvUcPo3vvDiIrsMZT1bjjJYz92KxPTdf1yTw-3D-3Dhq9J_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJVoG6IdJqESC4xIl2MaELV-2F8nJNQs2D6H2JN85XBz1wMOP68jhWN3OkoJpFM3tI4oC0q0LP9MRqhUMlrNTkymyGCulV0UGERxQfeCMnqMl4o8v-2F7jxMGbfMkSnVVKI1tq8K5ZwsHnHwxG0AEZy8M8TUSbSodN4oXD1ac5uPuZUoJNkcXtWzllE-2B
+
+---
