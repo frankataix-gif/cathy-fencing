@@ -25737,3 +25737,25 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261016_S4_Big
 https://canada.michaels.com/?cm_mmc=EMA
 
 ---
+
+## [其他] Resident Newsletter - LH - 16/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-16T08:07:23.000Z
+**摘要:** 通知居民有关附件中的社区通讯
+**待办:** 无
+**GmailID:** 1a143c062745ad4c
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/VsDYlZEhPXBxv4Hf_SIOUtN49i4YPbubJusZjC7nic3p46zj189tTzbMNrEnSLBcwm3mmwvkLxmSfnd4WUuFbI5N73w3uBhTUC83XZmx3Ckn_PWGm2sTXIoT_pamXS8_J2SCvmg0cNogskxylts9BeTlJJU33D5owIy23r_TjfSvCJvYqHb7god5FXOu5JEKoCe9MddnmkZyeh0TciLVcttapznSkakOr5qoeScorRqs83z4J4IhZQYZwypZQDOe2eM6y6KrKWBprYbDz8j1> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/g2xmNziJkiq
+
+---
