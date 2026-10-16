@@ -25639,3 +25639,44 @@ Regarding last month’s payment, I asked my husband to send money but realized 
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014320231-1792110491219.515%26ouid%3D525653.HK-20261016-edm-traintravel.2026-10-16_8_0.20261016.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D525653.HK-20261016-edm-traintravel.2026-10-16_8_0.20261016.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0
 
 ---
+
+## [其他] RE: Maybank Singapore Limited - W065023
+
+**发件人:** "BEATRICE LEE WEN YUIN (SG)" <beatricelee@maybank.com>
+**日期:** 2026-10-16T01:52:17.000Z
+**摘要:** 关于Maybank Singapore Limited的银行详细信息的回复
+**待办:** 无
+**GmailID:** 1a1417ffaad990e7
+
+Restricted
+
+Dear MS WU, JINGQI,
+Thank you for your email. Please find below bank details:
+
+Bank Full Name
+Maybank Singapore Limited
+Bank Address
+2 Battery Road Maybank Tower Singapore 049907
+Bank Code
+7302
+Branch code
+001
+SWIFT BIC
+MBBESGS2
+Account Name
+
+UK/London Intermediary Bank / SWIFT/Chaps Sorting Code
+Barclays Bank PLC / BARCGB22
+GBP Account Number(s)
+
+
+Thank you.
+
+Best Regards,
+Beatrice Lee
+Consumer Credit, Community Financial Services
+DID: + 65 6593 1421
+
+[J
+
+---
