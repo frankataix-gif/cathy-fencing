@@ -52390,5 +52390,33 @@
       "Y14WF": []
     },
     "total": 0
+  },
+  "designated-fie-senior-world-cu-2026-11-12-tbd-": {
+    "fetched_at": "2026-10-16T02:05:54.256645Z",
+    "counts": {
+      "Y14WF": 0,
+      "CDTWF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "Y14WF": [],
+      "CDTWF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-senior-world-cu-2026-11-13-tbd-": {
+    "fetched_at": "2026-10-16T02:05:54.266720Z",
+    "counts": {
+      "Y14WF": 0,
+      "CDTWF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "Y14WF": [],
+      "CDTWF": [],
+      "Y12WF": []
+    },
+    "total": 0
   }
 }
