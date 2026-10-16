@@ -25889,3 +25889,19 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] 7 Traitors-style castles for sale
+
+**发件人:** Laura at Rightmove <rightmovenews@mail.rightmove.co.uk>
+**日期:** 2026-10-16T16:23:14.000Z
+**摘要:** Rightmove推送7座类似《叛徒》风格的城堡出售信息，并附有能源账单提示和出售指南。
+**待办:** 无
+**GmailID:** 1a1458656e44793c
+
+Plus energy bill tips and selling guidance
+Rightmove Logo 
+( https://clicks.rightmove.co.uk/f/a/SID5atwyjfReEKM-gp0Q3A~~/AAAHahA~/KR7Iv4lpMjUdcfmop0gYFjTRhf2gxI_rUkvA1LK0h5KAwvxRucWzbFaedaJIyQFE8rdUIeTm-sjDP8ZYqdViNYFOPSlxJM-NZ4ulg9SxYRqi43iurur45qxhalQZLbjE676oopp39jti6wr5-8NNqrpr0uNEQ_oLPm_lTtCSMK4~ )
+My Rightmove 
+( https://clicks.rightmove.co.uk/f/a/n1ZcGYuiCdNA4quGmGrfjA~~/AAAHahA~/i_9f3j-BiF2fjPummWxcQj6Q1QSoNzOfyPOwDw-b-Z4BnZGdFHzLH72uwGhui8RwwozPIcpeSQbugvi1P2DPwPw-6GNVKYYLc4GsVdb8Ri7UN0
+
+---
