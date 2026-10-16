@@ -25858,3 +25858,21 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEAD
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEADER_SHOP&
 
 ---
+
+## [营销] Are you getting the most out of your hauls?
+
+**发件人:** Sephora Beauty Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-16T15:31:52.000Z
+**摘要:** Sephora推送优惠活动，提醒用户充分利用购物优惠
+**待办:** 无
+**GmailID:** 1a1455a3056d8aeb
+
+ Sephora 
+
+Find out in this email. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a14557106dc3ab606e96c660f0/b2ab4930790a43c00000021ef3a0bcc2/b2ab4930-790a-43c0-ae02-b6
+
+---
