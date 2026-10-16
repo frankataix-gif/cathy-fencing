@@ -25905,3 +25905,24 @@ My Rightmove
 ( https://clicks.rightmove.co.uk/f/a/n1ZcGYuiCdNA4quGmGrfjA~~/AAAHahA~/i_9f3j-BiF2fjPummWxcQj6Q1QSoNzOfyPOwDw-b-Z4BnZGdFHzLH72uwGhui8RwwozPIcpeSQbugvi1P2DPwPw-6GNVKYYLc4GsVdb8Ri7UN0
 
 ---
+
+## [营销] Pre-order the new iPhone Duo now.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-10-16T17:01:06.000Z
+**摘要:** Apple推出新iPhone Duo，邀请用户预购并提供相关链接。
+**待办:** 无
+**GmailID:** 1a145a90577a575e
+
+Apple
+
+iPhone Duo
+
+A new iPhone enters the fold.
+
+iPhone Duo, held by two hands in open landscape position, inside exterior, Star White color, iOS home screen display, photos on the left, apps on the right.
+
+Pre-order, iPhone Duo Pre-order
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9AID4rTwyQeh4tXCh9K2yvQbMpKiZFO91zJL9HEJsf4hRMSVm5MjdRUtgMYTdarFZ6gNzPO%2FmhcrhC3diZq0fUD%2BMBu1DsTgf%2FJN4olaWmLCLoWb%2BLrsFkwG6%2BVQw5uYc%2BNcK12oW0%2B3oPj6B3KlPtIKjm2uzKcxzIrWVET
+
+---
