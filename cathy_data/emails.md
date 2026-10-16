@@ -25626,3 +25626,16 @@ Regarding last month’s payment, I asked my husband to send money but realized 
 
 
 ---
+
+## [生活旅行] 重陽晚鳥限定：HK$1 撘高鐵🚄
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-16T00:28:12.000Z
+**摘要:** 促销高铁票和酒店优惠，包含重阳节特别活动。
+**待办:** 无
+**GmailID:** 1a1421bfeb1430b1
+
+8AM 搶高鐵飛 HK$1 去深圳，半價去廣東/廣西，酒店減 HK$150，仲有券包等你搶👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014320231-1792110491219.515%26ouid%3D525653.HK-20261016-edm-traintravel.2026-10-16_8_0.20261016.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D525653.HK-20261016-edm-traintravel.2026-10-16_8_0.20261016.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0
+
+---
