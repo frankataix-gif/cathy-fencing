@@ -25785,3 +25785,16 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:
 
 ---
+
+## [营销] Promozione Mid Season: accessori autunnali
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-16T11:22:46.000Z
+**摘要:** Calvin Klein秋季配件促销活动
+**待办:** 无
+**GmailID:** 1a144775086fae32
+
+
+
+
+---
