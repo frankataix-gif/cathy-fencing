@@ -25954,3 +25954,23 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing=
 
 ---
+
+## [生活旅行] TH103 - URGENT: Tenant Insurance  – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-10-16T21:04:11.000Z
+**摘要:** 需要提交更新的租客保险证明以符合租约第36条要求
+**待办:** 立即提交更新的保险声明页至房东指定方
+**GmailID:** 1a14687994c6a923
+
+Dear Natalie,
+
+This is an urgent request to provide your updated insurance declaration page to ensure your file remains compliant with your lease obligations.
+As outlined in Section 36 of your signed Residential Tenancy Agreement:
+Liability and Insurance.
+
+  1.  The Tenant agrees to carry sufficient insurance to cover their property against loss or damage from any cause and for third party liability, with a minimum of $2,000,000 liability coverage.
+
+  1.  Tenant insurance is required at 
+
+---
