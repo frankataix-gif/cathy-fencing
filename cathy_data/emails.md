@@ -25759,3 +25759,29 @@ Powered by Locale
 <https://bhidfah.r.af.d.sendibt2.com/tr/cl/g2xmNziJkiq
 
 ---
+
+## [营销] Explore Payoneer: Get Paid, Manage Funds & Grow Globally
+
+**发件人:** Payoneer <no-reply@send.payoneer.com>
+**日期:** 2026-10-16T09:49:33.000Z
+**摘要:** 推广Payoneer的全球支付和资金管理服务
+**待办:** 无
+**GmailID:** 1a1441df0efd6111
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:
+
+---
