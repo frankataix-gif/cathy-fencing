@@ -25711,3 +25711,29 @@ DID: + 65 6593 1421
                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ---
+
+## [营销] 🧶 🎃 ENDS SOON! Christmas trees, Halloween and more are on sale. 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-16T07:20:50.000Z
+**摘要:** 邮件内容为Michaels节日促销信息，包含圣诞树、万圣节商品和感恩节大促活动。
+**待办:** 无
+**GmailID:** 1a14395d31866026
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=ZVL75HMKFBUUDCOFS62UURZIKU.100228 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261016_S4_BigThanksgivingSaleShortFormat_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=7221032&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMA
+
+---
