@@ -25834,3 +25834,27 @@ Dressier boots. Very good company.   A CANADIAN LEGACY SINCE
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] Earning on every purchase = Shopping smarter. 🧠 See how close you are to another voucher ➡️
+
+**发件人:** Michaels Rewards <michaels@emdeals.michaels.com>
+**日期:** 2026-10-16T15:28:14.000Z
+**摘要:** 通知用户购物积分情况，提醒接近获得优惠券，并附有相关链接。
+**待办:** 无
+**GmailID:** 1a1455433cb87078
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=QO2BXVZO454UBLFKTAHBGYDGLM.100226 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=70189478&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEADER_SHOP&
+
+---
