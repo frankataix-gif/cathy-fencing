@@ -26035,3 +26035,16 @@ https://canada.michaels.com/?cm_mmc
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] In deep: Burgundy, brown, and timeless black
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-17T13:03:41.000Z
+**摘要:** 关于当季流行鞋款的促销信息
+**待办:** 无
+**GmailID:** 1a149f6080fd6ce4
+
+The rich shades leading the season.   YOUR FIRST STOP FOR TRENDS
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OjMTMVA-2FaMMg5ChTp2RsyveCx2TGSPSeq727PjqreNCg-3D-3Diks6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGbb-2Ft-2BiWWq0oXgIg5Qqj2IHlTNnVGruYNV3gguZGiINLCZc5jSnDi7fMLj2a1Hp7VhBV-2BebLiDn3AMo00dMtEfjj2IwcEyfuWb42ebqiOnzoiGEzXZeRIwbL6-2BYDvSUVc8YE5ymfKWONwqHdoCR2jrjdyO7KvDnExjf-2BQSrvvq6QPJBlsb
+
+---
