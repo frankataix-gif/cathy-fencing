@@ -26107,3 +26107,33 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Reminder: We’ve paused some of your account features
+
+**发件人:** "service@intl.paypal.com" <service@intl.paypal.com>
+**日期:** 2026-10-17T19:51:39.000Z
+**摘要:** PayPal账户功能因疑似他人注册被暂停，需用户登录验证以恢复
+**待办:** 登录PayPal账户并按照提示恢复账户功能
+**GmailID:** 1a14b6b84afeabc7
+
+ Reminder: We’ve paused some of your account features xiaojun he, here’s 
+how to restore them. 
+Hello, xiaojun he 
+[image: PayPal] 
+
+Your account features are paused
+
+There’s a new PayPal account that’s been created using your name. We wanted 
+to make sure your account is owned by you and no one else.
+
+To keep your account and money safe, the following features are temporarily 
+paused:
+
+   - Send money or pay using PayPal 
+   - Withdraw money 
+   - Receive money 
+   - And a few other features 
+
+
+
+---
