@@ -26048,3 +26048,21 @@ The rich shades leading the season.   YOUR FIRST STOP FOR TRENDS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OjMTMVA-2FaMMg5ChTp2RsyveCx2TGSPSeq727PjqreNCg-3D-3Diks6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGbb-2Ft-2BiWWq0oXgIg5Qqj2IHlTNnVGruYNV3gguZGiINLCZc5jSnDi7fMLj2a1Hp7VhBV-2BebLiDn3AMo00dMtEfjj2IwcEyfuWb42ebqiOnzoiGEzXZeRIwbL6-2BYDvSUVc8YE5ymfKWONwqHdoCR2jrjdyO7KvDnExjf-2BQSrvvq6QPJBlsb
 
 ---
+
+## [营销] Beauty this good moves fast 👀
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-17T13:17:41.000Z
+**摘要:** Sephora推送促销信息，提及积分、快速配送及免费送货服务。
+**待办:** 无
+**GmailID:** 1a14a02e133a52b8
+
+ Sephora 
+
+Blink and it’s gone. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a14a02c9ca99ee4a369ff0b384/b51589c72984412f0000021ef3a0bcc2/b51589c7-2984-412f-aa88-761f1
+
+---
