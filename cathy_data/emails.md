@@ -26198,3 +26198,16 @@ https://canada.michaels.com/?cm
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Fall Looks Good in Blundstone
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-18T13:09:49.000Z
+**摘要:** 推广Blundstone秋季鞋款，强调加拿大传统与秋季穿搭搭配
+**待办:** 无
+**GmailID:** 1a14f21fc7d6bc42
+
+Plus, more boots to round out your fall rotation   A CANADIAN
+LEGACY SINCE 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8ObWRct0t8El-2FyYzPUfyKwer6AFT-2BLx8hV0KHPZ4XgH3A-3D-3Dn2Gz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEglSB5d9fVBcmfE42rGwK6aOHLBYS43QYAaseXioGkNhwL3C4MpJpO2dzggU0lky9HN9r1SmlOKkdNXmT90fn1jZHy1QpTkELp7FhFR-2Fx4T8MJ9EpBXWEKYQygs5ulujI6mU1bMB76uyVZ3ePiIhyI8xbbnMm6HEPUSodLNr0
+
+---
