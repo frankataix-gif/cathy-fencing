@@ -26258,3 +26258,30 @@ To: Guild Chair <Guild.Chair@meadowridge.bc.ca>
 Cc: Audrey Lum <Audrey.Lum@meadowridge.bc.ca>, Emily Gish <emily.g
 
 ---
+
+## [Cathy&David] Fw: Special Message from the Parent Guild
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-18T17:08:48.000Z
+**摘要:** 家长协会发布每周更新，提及万圣节糖果捐赠及越野比赛相关信息。
+**待办:** 捐赠无坚果万圣节糖果至ES教室或MS/HS导师处
+**涉及:** 两个
+**GmailID:** 1a14ffce02249bec
+
+Please see below a weekly update from the Parent Guild...
+
+We are now accepting (nut-free) Halloween candy donations. It can be delivered to your ES homeroom or MS/HS advisory teacher.
+
+For Grades 1-7, I forwarded the previous email about Cross Country.
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+
+________________________________
+From: Guild Chair <Guild.Chair@Meado
+
+---
