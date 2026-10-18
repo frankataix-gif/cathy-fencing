@@ -26150,3 +26150,29 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] The Big Thanksgiving Sale ends TODAY! ⚡ Shop our top offers.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-18T07:18:43.000Z
+**摘要:**  Michaels 发送的感恩节促销活动邮件，提醒今日截止。
+**待办:** 无
+**GmailID:** 1a14de08cf09a574
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=TBS3TOMVWKUETFF4ZJJBNGJS7U.100229 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261018_S5_Promo_BigThanksgivingSaleALLStatements_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5199805&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm
+
+---
