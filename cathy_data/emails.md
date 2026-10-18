@@ -26211,3 +26211,24 @@ Plus, more boots to round out your fall rotation   A CANADIAN
 LEGACY SINCE 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8ObWRct0t8El-2FyYzPUfyKwer6AFT-2BLx8hV0KHPZ4XgH3A-3D-3Dn2Gz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEglSB5d9fVBcmfE42rGwK6aOHLBYS43QYAaseXioGkNhwL3C4MpJpO2dzggU0lky9HN9r1SmlOKkdNXmT90fn1jZHy1QpTkELp7FhFR-2Fx4T8MJ9EpBXWEKYQygs5ulujI6mU1bMB76uyVZ3ePiIhyI8xbbnMm6HEPUSodLNr0
 
 ---
+
+## [其他] You've joined the CAN Crew! ❤️🤍 | Bienvenue à Communauté CAN ❤️🤍
+
+**发件人:** "Canadian Paralympic Committee | Comité paralympique canadien" <digital@paralympic.ca>
+**日期:** 2026-10-18T15:36:18.000Z
+**摘要:** 这封邮件是加拿大残奥委会的欢迎邮件，邀请加入其社区并支持加拿大残奥运动员，强调促进体育包容性。
+**待办:** 无
+**GmailID:** 1a14fa8184f292e4
+
+View this email in your browser (https://us17.campaign-archive.com/?e=8ba4750f99&i=340e2aac7c&u=b4448d01eeedd68fc5fe68c33&id=cc167da978)
+https://paralympic.ca/
+
+French (#French)
+
+
+** Welcome 
+------------------------------------------------------------
+
+We are thrilled to have you join our passionate community dedicated to supporting the Canadian Paralympic Team and promoting inclusivity in sports. Your involvement is vital in helping our athletes achieve greatness on and off the field,
+
+---
