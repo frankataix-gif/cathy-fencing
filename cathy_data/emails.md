@@ -26232,3 +26232,29 @@ French (#French)
 We are thrilled to have you join our passionate community dedicated to supporting the Canadian Paralympic Team and promoting inclusivity in sports. Your involvement is vital in helping our athletes achieve greatness on and off the field,
 
 ---
+
+## [Cathy&David] Fw: Cross Country
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-18T17:03:47.000Z
+**摘要:** 学校通知Grade 3-7学生参加ISEA越野跑活动，需穿着校服并携带替换衣物和食物。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a14ff853b759c9b
+
+Please see the forwarded email below regarding Cross Country...
+
+If this does not apply to you, please disregard...
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+From: Nicola Pitzey <nicola.pitzey@meadowridge.bc.ca>
+Date: October 16, 2026 at 5:49:46 PM PDT
+To: Guild Chair <Guild.Chair@meadowridge.bc.ca>
+Cc: Audrey Lum <Audrey.Lum@meadowridge.bc.ca>, Emily Gish <emily.g
+
+---
