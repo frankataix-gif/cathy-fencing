@@ -26302,3 +26302,19 @@ you ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌
  ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Oct 19-23
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-18T17:40:35.000Z
+**摘要:** 提醒家长下周校服穿着要求，并邀请参与家长协会活动及查看学校通讯
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a15019f549aebca
+
+Good day, Grade 7 Families,
+We are experiencing another action-packed weekend. How about you?
+Please read the forwarded emails regarding Cross Country (if it applies to you) and the “Special Message from the Parent Guild” sent on Oct 18, for ways to get involved and volunteer with the Parent Guild Executives, Diwali Celebration, and Winter Market. We are now accepting (nut-free) Candy Donations, and it can be delivered to your advisory teacher.
+CLICK HERE<https://www.meadowridge.bc.ca/fs/comm
+
+---
