@@ -26331,3 +26331,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Reminder: Get paid so you can get your Payoneer card
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-10-18T18:09:41.000Z
+**摘要:** 提醒用户处理付款以获取Payoneer卡
+**待办:** 验证账户并处理付款事宜
+**GmailID:** 1a15034899133bb6
+
+ The global card for global
+business expenses 
+
+
+
+/* Force outlook to fallback on Arial instead of Times
+Roman and removes extra spaces */ table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     
+
+---
