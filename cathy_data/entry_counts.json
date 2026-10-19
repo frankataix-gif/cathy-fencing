@@ -19402,10 +19402,10 @@
     "total": 0
   },
   "afm-super-regional-ryc-rjcc-ro-2026-10-23-santa-clara-convention-center-santa-clara-ca": {
-    "fetched_at": "2026-10-19T11:30:24.202083Z",
+    "fetched_at": "2026-10-19T21:50:16.591401Z",
     "counts": {
       "Y14WF": 105,
-      "Y12WF": 91,
+      "Y12WF": 90,
       "CDTWF": 99
     },
     "names": {
@@ -19908,13 +19908,6 @@
           "status": ""
         },
         {
-          "name": "Schor, Katherine",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100310522",
-          "status": ""
-        },
-        {
           "name": "Shen, Gloria",
           "club": "Altius Fencing Academy",
           "division": "South Texas",
@@ -20003,6 +19996,13 @@
           "club": "Heisler Fencing Club",
           "division": "Mountain Valley",
           "member_num": "100750351",
+          "status": ""
+        },
+        {
+          "name": "Wang, Doreen",
+          "club": "LA International Fencing",
+          "division": "San Bernardino",
+          "member_num": "100305906",
           "status": ""
         },
         {
@@ -20572,13 +20572,6 @@
           "club": "Golden State Fencing Academy",
           "division": "Northern California",
           "member_num": "100345745",
-          "status": ""
-        },
-        {
-          "name": "Schor, Katherine",
-          "club": "Maximum Fencing Club",
-          "division": "Central California",
-          "member_num": "100310522",
           "status": ""
         },
         {
@@ -21481,7 +21474,7 @@
         }
       ]
     },
-    "total": 295
+    "total": 294
   },
   "emerald-city-roc-open-registra-2026-11-07-salle-auriol-seattle-seattle-wa": {
     "fetched_at": "2026-10-19T17:57:15.773218Z",
