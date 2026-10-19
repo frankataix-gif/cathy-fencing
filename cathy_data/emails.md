@@ -26383,3 +26383,23 @@ New shearling, knits and other classics.
 ͏‌  ͏‌  
 
 ---
+
+## [待办] Your MyHydro Profile password has changed
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-10-19T04:10:42.000Z
+**摘要:** 账户密码已更改，需确认是否本人操作。
+**待办:** 检查账户安全，确认是否本人操作
+**GmailID:** 1a1525ac53e7f6f7
+
+https://email.bchydro.com/c/443/1afe76d00c048e696f918bf9cacc2e94baa2451f6ba41c5999025913e4b69772bd0fbc8edf1c587e7e7227d23e8b8ab8 Your MyHydro Profile has been changed
+Read this email online (https://email.bchydro.com/v/443/1afe76d00c048e696f918bf9cacc2e94ae4190be3670651f887a78ab4eb55c65)
+Password updated
+
+Hi natalie,
+
+The password you use to access your MyHydro Profile has been updated.
+
+Please contact us (https://email.bchydro.com/c/443/1afe76d00c048e696f918bf9cacc2e94baa2451f6ba41c5987
+
+---
