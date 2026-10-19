@@ -26674,3 +26674,24 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [击剑] You have an incomplete registration!
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-19T19:09:51.000Z
+**摘要:** 提醒Yunxi He完成击剑协会的注册
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a15591f7b96a474
+
+<table style="margin: 0 50px; width: 600px; font-family: helvetica, arial, sans-serif; font-size: 14px; color: #585555; border-collapse: collapse;">
+            
+            <tr>
+                <td style="width:600px; border-bottom: 5px solid #dcdcdc;">
+                    <img src="https://2mev.com/content/uploads/images/2M_Header_-_FINAL-20240229062427.png" style="display: block; margin: 0; width: 400px; margin-left: 100px;"/>
+                </td>
+            </tr>
+            
+     
+
+---
