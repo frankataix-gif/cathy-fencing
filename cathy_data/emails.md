@@ -26616,3 +26616,29 @@ Our latest Super fabric innovation.
 ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] 📢 New Cricut machines! Create stickers, press vinyl and personalize everything, easily.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-19T15:35:06.000Z
+**摘要:** 推广新Cricut机器，提供制作贴纸、压花等个性化产品功能
+**待办:** 无
+**GmailID:** 1a154cd6d8623d28
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=S36OOI2ECFWEPDASW2AR25752U.100229 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261019_S3_CrossCategory_Cricut_Newness_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5199805&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Bra
+
+---
