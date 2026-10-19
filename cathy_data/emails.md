@@ -26642,3 +26642,22 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261019_S3_CrossCateg
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Bra
 
 ---
+
+## [营销] Dine at Casa Madera West Hollywood
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-10-19T16:28:34.000Z
+**摘要:** DoorDash推广Casa Madera West Hollywood餐厅的优惠活动，用餐后可获得DoorDash积分奖励。
+**待办:** 无
+**GmailID:** 1a154fe51e426803
+
+ DoorDash Email Make a reservation through DoorDash and earn up to $10 in 
+DoorDash credits after you dine. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌   
+
+---
