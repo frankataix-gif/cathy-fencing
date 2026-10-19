@@ -26403,3 +26403,24 @@ The password you use to access your MyHydro Profile has been updated.
 Please contact us (https://email.bchydro.com/c/443/1afe76d00c048e696f918bf9cacc2e94baa2451f6ba41c5987
 
 ---
+
+## [待办] Create or change your MyHydro password
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-10-19T04:10:12.000Z
+**摘要:** 需要重置MyHydro账户密码，链接24小时内有效
+**待办:** 需要按照邮件中的链接重置密码
+**GmailID:** 1a1525a4f7655a2c
+
+https://email.bchydro.com/c/443/e15279b99d542b1693ec5b71a9d13324baa2451f6ba41c59d2b19033f35d6b72bd0fbc8edf1c587e915cc250ec13cd77 Reset your MyHydro Profile password (https://www.bchydro.com/BCHCustomerPortal/resetNewPassword.html?key=026CE22961A1525A3958)
+Read this email online (https://email.bchydro.com/v/443/e15279b99d542b1693ec5b71a9d13324ae4190be3670651fdfb2839c2e340803)
+
+Password reset
+
+
+Hi natalie,
+
+
+Use the temporary link below and follow the instructions to create a new password
+
+---
