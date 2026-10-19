@@ -26570,3 +26570,21 @@ PLUS! Up to 50% off select sneakers 👟   BUY NOW, PICK UP IN 2
 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8P2xjM1gwv64MICyJooFFqQ01nJc-2BRoXMLqwYtPZzJdaw-3D-3DmbNa_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGH9ot0k8vB-2Fj6G82OysYTdXUNWbXksy7hGKjrm2OaXtvq3wX4QqhTN4QLzW7xrbleMacTW8UPZIZOSba4Knp7UCjyHRlV-2FXXcnF553qmCvBvrqF4jrjt-2FOg4XXew-2FnnXk8kwkIsjcUhBAwKAIDPszSJlCm-2BIktVWhxpDFMy5cF0uei
 
 ---
+
+## [营销] New, limited-edition Sephora Favorites kit 😍
+
+**发件人:** Sephora Insider <shop@beauty.sephora.com>
+**日期:** 2026-10-19T13:25:05.000Z
+**摘要:** Sephora推出限量版美容礼盒，可能包含促销信息。
+**待办:** 无
+**GmailID:** 1a154565ad6b1f23
+
+ Sephora 
+
+Nurture strands *and* support a cause. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a154564f52a1dc9cf4bbc780a0/af140c6f92b44fdc0000021ef3a0bcc2/af140c6f-92
+
+---
