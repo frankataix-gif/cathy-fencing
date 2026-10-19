@@ -26519,3 +26519,19 @@ https://myaccount.google.com/notifications
  
 
 ---
+
+## [待办] Your one-time code
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-19T08:56:39.000Z
+**摘要:** 邮件提供了用于Square One账户登录的一次性代码756106
+**待办:** 输入一次性代码登录账户
+**GmailID:** 1a1536093a8a41eb
+
+ 
+Here’s the one-time code for your Square One account. 
+
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WHDXm_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQhFFaJTrUWGJk-2BGIiCiWpczL4RA8TF4aJ5xCgLTkrWPAdBaALb2onRGmzSvlZ4aNc5c1GzN-2BEQU0aydkoiB-2BwJmG7Wf0-2Frth-2FUDQbPlr9OFYHyB-2FhrQKWBy0bAF-2BG-2B3VhtKshUTIgYHtulkq7xOE-2BfzoRR1p7w5cOR-2FZNtkqgILg2foHy3-2FcW-2F-2Bz
+
+---
