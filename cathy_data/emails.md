@@ -26557,3 +26557,16 @@ Here’s the one-time code for your Square One account.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Just looking? Famous last words
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-19T13:12:16.000Z
+**摘要:** 促销邮件，提供部分运动鞋50%折扣，并支持两小时后自提。
+**待办:** 无
+**GmailID:** 1a1544a9653fb530
+
+PLUS! Up to 50% off select sneakers 👟   BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8P2xjM1gwv64MICyJooFFqQ01nJc-2BRoXMLqwYtPZzJdaw-3D-3DmbNa_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGH9ot0k8vB-2Fj6G82OysYTdXUNWbXksy7hGKjrm2OaXtvq3wX4QqhTN4QLzW7xrbleMacTW8UPZIZOSba4Knp7UCjyHRlV-2FXXcnF553qmCvBvrqF4jrjt-2FOg4XXew-2FnnXk8kwkIsjcUhBAwKAIDPszSJlCm-2BIktVWhxpDFMy5cF0uei
+
+---
