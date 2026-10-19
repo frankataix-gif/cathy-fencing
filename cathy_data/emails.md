@@ -26709,3 +26709,21 @@ lululemon
 <http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eVW1z_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvKP30l3VBwX2M6gQe9usGh-2BFE0u7arAjXdvPxwwjCc7rCYAVXdpt-2FJ7jL7v5FNwW4-2Bq-2F43sCSi4OT-2B77XOUqjqKl7gIueSUH42YRUoDYh9qEIR2610qY9xKW7Yj48u2PM8leLILz096d5KVJiMuMzxJ-2BWiy02dcXUM4jS92BBdNrTmO6pSyslrVAJKh1111fxdCuQWjWX8ApL5NTIYRl3Kxrn75M-2Fual8m9QDeoLuBZuoC5BYq2vBCA9nGDDxWcZhbFXMkKpFLykwnzT
 
 ---
+
+## [营销] Welcome to VIB 🥳
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-10-19T20:15:31.000Z
+**摘要:** Sephora欢迎用户加入VIB会员，提供积分、当日送达、免费送货和店内自取等福利。
+**待办:** 无
+**GmailID:** 1a155ce1c6c05af9
+
+ Sephora 
+
+Congrats on leveling up. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a155ce0f56b66f646e96c65848/dee59e8c551449680000021ef3a0bcc2/dee59e8c-5514-4968-9c73-b
+
+---
