@@ -26475,3 +26475,34 @@ https://myaccount.google.com/notifications
 © 2026 Google LLC
 
 ---
+
+## [其他] Email Change Notification
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-19T07:49:29.000Z
+**摘要:** Yunxi He的邮箱地址从nataliewu100@gmail.com更改为frankataix@gmail.com，此变更由Yunxi本人发起。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a1532314e3c8df4
+
+
+        
+            
+            
+                
+                    
+                
+            
+            
+            
+            
+                
+                    yunxi he,
+                    
+                    
+                    This is a notification that your email for 2M has changed from nataliewu100@gmail.com to frankataix@gmail.com.
+                    This change was initiated by yunxi at nataliewu100@gmail.com.
+                    
+                
+
+---
