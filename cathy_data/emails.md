@@ -26695,3 +26695,17 @@ lululemon
      
 
 ---
+
+## [待办] Jingqi, please pay your final bill
+
+**发件人:** Koodo Team <paymybill@koodo.com>
+**日期:** 2026-10-19T20:12:05.000Z
+**摘要:** 催促Jingqi支付剩余账款，账户已取消，需尽快处理
+**待办:** 支付剩余账款
+**GmailID:** 1a155caefaffdd5c
+
+ 
+[image: Koodo Logo] 
+<http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eVW1z_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvKP30l3VBwX2M6gQe9usGh-2BFE0u7arAjXdvPxwwjCc7rCYAVXdpt-2FJ7jL7v5FNwW4-2Bq-2F43sCSi4OT-2B77XOUqjqKl7gIueSUH42YRUoDYh9qEIR2610qY9xKW7Yj48u2PM8leLILz096d5KVJiMuMzxJ-2BWiy02dcXUM4jS92BBdNrTmO6pSyslrVAJKh1111fxdCuQWjWX8ApL5NTIYRl3Kxrn75M-2Fual8m9QDeoLuBZuoC5BYq2vBCA9nGDDxWcZhbFXMkKpFLykwnzT
+
+---
