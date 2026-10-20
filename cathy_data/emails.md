@@ -26751,3 +26751,16 @@ gear.
 [image: Daydrift High-Rise Wide-Leg Trouser Regul
 
 ---
+
+## [生活旅行] 日本酒店低至半價
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-20T05:55:55.000Z
+**摘要:** Trip.com推送日本酒店促销信息，提供大幅折扣吸引用户规划旅行。
+**待办:** 无
+**GmailID:** 1a157e177f35e069
+
+規劃下一趟日本之旅👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143116117-1792475499538.203%26ouid%3D528250.HK-20261020-edm-brandinghk.2026-10-20_8_0.20261020.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D528250.HK-20261020-edm-brandinghk.2026-10-20_8_0.20261020.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzExNjExNy0xNzkyNDc1NDk5
+
+---
