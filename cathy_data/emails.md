@@ -26832,3 +26832,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHO
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Your next favourite UGG is here
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-20T13:11:23.000Z
+**摘要:** 促销UGG靴子，提供多种型号选择，并支持两小时后自提。
+**待办:** 无
+**GmailID:** 1a1597028ff8dc62
+
+Tazz II, Lowmel & Classic Ultra Mini—find your pick   BUY NOW,
+PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ns38Ftee6nro51pbX-2B05Ocj-2BALcw1OW1TZ6j1eBsUHig-3D-3DU7B3_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAA-2BsSi4YGeY-2BWRa44tHCbDwLrCj-2BXA80cGsfkvsB0OsvdzPgS7OvWlJJoHSWkt1iTPyGbqRt85Da9ogo-2BdYwOxcqO7IPVFbVuzKZroc-2FWn3FqJ5-2Bf7B3sgIeHSZSDShgRmPY-2B0JcA55kyjnvL7o0kw1Gv1
+
+---
