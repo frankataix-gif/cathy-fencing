@@ -26764,3 +26764,28 @@ gear.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143116117-1792475499538.203%26ouid%3D528250.HK-20261020-edm-brandinghk.2026-10-20_8_0.20261020.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D528250.HK-20261020-edm-brandinghk.2026-10-20_8_0.20261020.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzExNjExNy0xNzkyNDc1NDk5
 
 ---
+
+## [营销] The right fright for your fright night 🎃 👻
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-20T07:23:24.000Z
+**摘要:** 万圣节主题促销活动，包含各种折扣和优惠券链接
+**待办:** 无
+**GmailID:** 1a15831a780788eb
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=67CARWRX5VAENMP52E2V6ARCME.100224 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHOP&customerEmail=bmF0
+
+---
