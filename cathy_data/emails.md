@@ -26789,3 +26789,24 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOG
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_SHOP&customerEmail=bmF0
 
 ---
+
+## [击剑] You have an incomplete registration!
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-20T09:09:53.000Z
+**摘要:** 提醒Cathy He未完成2026/2027年度加拿大击剑联合会和不列颠哥伦比亚省击剑协会的会员注册
+**待办:** 协助Cathy完成击剑会员注册
+**涉及:** Cathy
+**GmailID:** 1a158930950cadde
+
+<table style="margin: 0 50px; width: 600px; font-family: helvetica, arial, sans-serif; font-size: 14px; color: #585555; border-collapse: collapse;">
+            
+            <tr>
+                <td style="width:600px; border-bottom: 5px solid #dcdcdc;">
+                    <img src="https://2mev.com/content/uploads/images/2M_Header_-_FINAL-20240229062427.png" style="display: block; margin: 0; width: 400px; margin-left: 100px;"/>
+                </td>
+            </tr>
+            
+     
+
+---
