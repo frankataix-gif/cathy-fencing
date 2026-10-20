@@ -26727,3 +26727,27 @@ Congrats on leveling up.
 <https://app.sephora.com/T/v61000001a155ce0f56b66f646e96c65848/dee59e8c551449680000021ef3a0bcc2/dee59e8c-5514-4968-9c73-b
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-10-20T03:39:04.000Z
+**摘要:** Lululemon询问客户对新购买的Daydrift高腰宽腿裤的使用体验，并邀请提供反馈和照片
+**待办:** 无
+**GmailID:** 1a157642d6401a9c
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new Daydrift High-Rise Wide-Leg Trouser Regular *Twill? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Daydrift High-Rise Wide-Leg Trouser Regul
+
+---
