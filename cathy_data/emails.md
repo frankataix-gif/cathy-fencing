@@ -26993,3 +26993,23 @@ likely and damaging winds in some areas.*
 Strong we
 
 ---
+
+## [其他] Club female changing room shower update 21/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-21T09:47:23.000Z
+**摘要:** 通知女更衣室淋浴设施故障维修情况，隔离了一个隔间，其他正常运作，计划修复后恢复所有隔间。
+**待办:** 无
+**GmailID:** 1a15ddbc979a6f58
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/0td6_gXDJHj7eBVfKrCvKrrlDoi8_vCWeddpgR0RI2-NZiKcgGunDf-jttnE0TwnHEiIICC_IPY91d-4yG2c227-F84ZlfM03J-5Sc7QtKxI6MltZNygQN4U6uabhioY3eGaYmcLlDzI1Jsy99Ie9PWf35L2mgFGtrnPOVCcMt2OU7DLChN_RDY2o_85bMdJlUVeemM49shI32KN__LJALlPF2L9hBWg4TS4FROu67184BCjTkPbufsRwxXdEPZQhrIZObgFP2POW0FG8JQW44lJGA> 
+
+Dear Ms Jingqi Wu,
+
+Following the issue with the female changing room shower last night, we 
+have isolated one of the cubicles, the others remain in service.
+
+We will re
+
+---
