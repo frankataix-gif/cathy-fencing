@@ -27413,3 +27413,19 @@ Maybank Singapore Limited
 0
 
 ---
+
+## [待办] Your one-time code
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-21T20:56:58.000Z
+**摘要:** 邮件提供Square One账户的一次性验证码，需用户进行账户验证。
+**待办:** 账户验证
+**GmailID:** 1a16040c3ab6b26a
+
+ 
+Here’s the one-time code for your Square One account. 
+
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WQ5cG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQjzld4hzEyqMr9wkojAJSbY2z94LPaA5Sa2BWurCVsZr0NG8afRsipVbNPVwZu823WsIbHhEAFvagfTpf5e-2BShQyYSOQPwonIB51m-2Bm4tDjTp6Qih5d5nsw-2FRIuY7mO78ZzX180vuaoCCJ6QcAWzaTf8eJpEJMNr8fx-2BR6-2BSS0JFvYmueYF6-2Fp-2F7H-2B3WynPl8>
+
+---
