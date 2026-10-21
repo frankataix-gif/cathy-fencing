@@ -26887,3 +26887,23 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [生活旅行] Club shower room out of service
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-21T02:30:12.000Z
+**摘要:** 俱乐部淋浴设施因安全问题暂停使用，工程师已安排检查并将在恢复后通知住户。
+**待办:** 无
+**GmailID:** 1a15c4b7a998fbd3
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/fFPXMOkl1cu_q_0tTDbJ7-BxN1Z8NFw6KZuqkLwdYZ_BkYWNbANzul_XFgLILd2L78746L7Js5h0YD6CkUAnZ0PF82zfJIPNVjGAHh3Qu-JYbU0lLdCnB4BFi56L0jPXynnkJqvzmuKwd-8_6J0ogo2xMN3nZhPFCqdWEsAMzKVEf0EKybNKN0AgtU8KHKlMS103gmaPhAiHQ5JdMMGcn8FYv2dg5kBiwIQIVra-wL5UG4W7qE0HZtA6TZNiJD8fo3VLlkjbZjAVQZyoZaj7MoeYKA> 
+
+Dear Ms Jingqi Wu,
+
+Dear Residents, 
+
+Unfortunately, the shower facility is out of service for safety reasons. An 
+engineer has been scheduled to inspect and resolve the
+
+---
