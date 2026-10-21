@@ -27448,3 +27448,31 @@ There also appears to be an existing light switch or electrical connection on th
 I would appreciate your approval, as I would like to have the light instal
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-07-30T22:38:16.000Z
+**摘要:** Natalie请求安装餐厅吊灯，需发送照片给房东审核
+**待办:** 发送照片给房东审核
+**GmailID:** 19fb05bfe950b991
+
+Hi Natalie,
+Thank you for your request.
+If you could please send us a photo of the ceiling light you would like to install above your dining area. Once we receive the picture, we'll review it and get back to you with an update.
+Thank you, and we look forward to hearing from you.
+Kind regards,
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:980d4458-1e3c-4603-bad5-5fecefb3d30c]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.c
+
+---
