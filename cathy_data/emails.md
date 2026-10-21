@@ -27565,3 +27565,20 @@ Natalie
 On Wed, 5 Aug 2026 18:42:21 +0000, "Smith & Farrow Rental R
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-05T19:00:48.000Z
+**摘要:** 关于安装餐厅吊灯的许可请求，询问是否需要更多文件或认证
+**待办:** 无
+**方向:** 发出
+**GmailID:** 19fb05bfe950b991
+
+Hi,
+
+The packaging does not show the voltage, wattage, or other electrical specifications. These details are generally not listed on the packaging. However, the light fixture was purchased locally in Canada and is a relatively small and lightweight model, so I do not expect it to place a significant load on the existing ceiling connection.
+
+I will also have a qualified professional verify that the fixture is compatible and install it safely. Could you please let me know whether you can approve t
+
+---
