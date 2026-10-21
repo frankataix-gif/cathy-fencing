@@ -26971,3 +26971,25 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261021_S4_EOW
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/
 
 ---
+
+## [生活旅行] Weather Warning -  Storm Austen - 22-24/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-21T09:39:32.000Z
+**摘要:** 关于风暴Austen的天气警告，预计带来强风和交通中断，建议采取防范措施。
+**待办:** 无
+**GmailID:** 1a15dd48d37107b5
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/WxpFXGwpQvtKDacam9WI01UH6TpW4hcMOR7p-vvLS-YwoTalgBZVVyDRINSuq9We3DkyMIfueYiCypGIFtktscaYcUZ6nZEP4bpl2bEY8XvxE50HStRHX8NG54HyAAqyHLievwi9RmxFswDcCmkfZiNGjExTns_Cec3kKOR4352-TpgOsrytz7jqARRToVUJIfrX3uestHuNkA701_qEOyuBcpdZlc2eJ8hy_fa2R-Ep08oO1sC2cN0YWA0etwWulExw4WvrRwhrPG9UsgZ3Oa2HcQ> 
+
+Dear Ms Jingqi Wu,
+
+*Storm Austen bringing a spell of strong winds with transport disruption 
+likely and damaging winds in some areas.*
+
+*What be the extent?*
+
+Strong we
+
+---
