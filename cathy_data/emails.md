@@ -27524,3 +27524,22 @@ Thank you, Natalie
 > Hi, Thank you for your reply. I have attached a few photos of the style of ceiling light I would like to install above the dining a
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-05T18:42:21.000Z
+**摘要:** 请求安装餐厅吊灯的许可，需提供灯具规格表以供审核
+**待办:** 无
+**GmailID:** 19fb05bfe950b991
+
+Hi Natalie,
+Thank you for sending us the photos of the ceiling light you are interested in installing.
+Could you please provide us with the specification sheet for the light fixture you are planning to install? We need to review the fixture’s weight and electrical specifications to ensure it is suitable for the existing ceiling.
+Once we receive the specification sheet, we will review it and get back to you regarding the next steps.
+Thank you for your cooperation.
+Kind regards,
+
+__________
+
+---
