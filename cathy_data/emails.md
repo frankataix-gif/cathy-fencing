@@ -27758,3 +27758,34 @@ Policy #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wp7YH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ0iSRy0MCbYz6vicOOjdG-2F8PhdoblXrQazXPgTFcf-2FXYWo30JEWWbzXv49aE2bryP0XAQE8qjodGpPuFlkZK1hroa4zQD8XHGcLxdPiEQNJPynZb5fFfIx83nRulHHgRlLZPQh7fvWbf6u5CCCu7l8lp0gEbDmIujmb55EA-2FP
 
 ---
+
+## [生活旅行] Re: TH103 - URGENT: Tenant Insurance – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-10-21T22:13:43.000Z
+**摘要:** 房东要求提供租客保险证明，Natalie已支付保险费并请求确认收款。
+**待办:** 确认保险费用是否收到
+**GmailID:** 1a14687994c6a923
+
+Hi Natalie,
+
+Kindly please share with us a PDF copy of your insurance.
+
+Have a nice day.
+
+Thank you
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:3055675f-9e43-4280-8bc1-5857a495cfe8]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not 
+
+---
