@@ -27543,3 +27543,25 @@ Kind regards,
 __________
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-05T18:50:10.000Z
+**摘要:** Natalie回复关于安装餐厅吊灯的请求，提供了灯具的重量、尺寸和电气规格，并询问是否需要进一步信息。
+**待办:** 确认是否需要进一步提供信息
+**方向:** 发出
+**GmailID:** 19fb05bfe950b991
+
+Hi,
+
+Please find attached an additional photo showing the light fixture’s weight and dimensions. The packaging lists a net weight of 1.82 kg, a gross weight of 2.56 kg, and dimensions of 41.5 × 31 × 31 cm.
+
+Could you please confirm whether this information is sufficient for your review? I understand that you also requested the electrical specifications, so please let me know if you still require further information.
+
+Thank you,
+Natalie
+
+On Wed, 5 Aug 2026 18:42:21 +0000, "Smith & Farrow Rental R
+
+---
