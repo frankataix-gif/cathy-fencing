@@ -26945,3 +26945,29 @@ To: LIM LENG TECK GLENN (SG) <glennlim@maybank.com>
 Cc: B
 
 ---
+
+## [营销] Up to 50% off: Monster Deals start now! 👻
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-21T07:21:42.000Z
+**摘要:** 促销优惠，提供最高50%的折扣
+**待办:** 无
+**GmailID:** 1a15d566d8f14437
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?vawpToken=H5S5DBCFDBZU7BV4MTPERWX74Y.100224 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261021_S4_EOW_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=4738773&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d14180ae972c4d58b2e0a36ccc6f 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/
+
+---
