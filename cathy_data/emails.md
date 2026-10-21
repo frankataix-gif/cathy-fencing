@@ -26907,3 +26907,41 @@ Unfortunately, the shower facility is out of service for safety reasons. An
 engineer has been scheduled to inspect and resolve the
 
 ---
+
+## [待办] RE: Maybank Singapore Limited ( W065023)- MS WU, JINGQI
+
+**发件人:** "LIM LENG TECK GLENN (SG)" <glennlim@maybank.com>
+**日期:** 2026-10-21T05:58:56.000Z
+**摘要:** 银行通知账户逾期，要求尽快转账以避免进一步行动
+**待办:** 处理逾期付款，转账并发送收据
+**GmailID:** 1a14180ad292a178
+
+Restricted
+
+Dear Ms Wu,
+
+We have not received the funds
+
+Your account is 2 months overdue
+
+Bank is reviewing for further actions
+
+Kindly transfer the funds urgently and send us the receipt to avoid further actions
+
+Thank you
+
+Regards,
+Glenn Lim
+
+
+CFS - Consumer Credit
+Tel: 6593 1459 | Fax: 6298 9954
+
+[cid:image001.jpg@01DD6164.4C00AF00]
+
+From: natalie <nataliewu100@gmail.com>
+Sent: Friday, 16 October 2026 5:38 am
+To: LIM LENG TECK GLENN (SG) <glennlim@maybank.com>
+Cc: B
+
+---
