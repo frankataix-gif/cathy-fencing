@@ -27429,3 +27429,22 @@ Here’s the one-time code for your Square One account.
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WQ5cG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQjzld4hzEyqMr9wkojAJSbY2z94LPaA5Sa2BWurCVsZr0NG8afRsipVbNPVwZu823WsIbHhEAFvagfTpf5e-2BShQyYSOQPwonIB51m-2Bm4tDjTp6Qih5d5nsw-2FRIuY7mO78ZzX180vuaoCCJ6QcAWzaTf8eJpEJMNr8fx-2BR6-2BSS0JFvYmueYF6-2Fp-2F7H-2B3WynPl8>
 
 ---
+
+## [生活旅行] Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-07-30T00:10:46.000Z
+**摘要:** Natalie请求批准在餐厅安装天花板灯，并提到会找专业人员安装。
+**待办:** 请求批准安装餐厅天花板灯
+**方向:** 发出
+**GmailID:** 19fb05bfe950b991
+
+Hi,
+
+I would like to request permission to install a ceiling light above the dining area in my unit. I noticed that an upstairs unit has a similar light in its dining area, and I would like to install something in a similar style.
+
+There also appears to be an existing light switch or electrical connection on the wall. I will arrange for a qualified professional to complete the installation and will cover the cost myself.
+
+I would appreciate your approval, as I would like to have the light instal
+
+---
