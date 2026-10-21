@@ -27739,3 +27739,22 @@ thank u
 > 2. The Tenant agrees to carry sufficie
 
 ---
+
+## [生活旅行] Welcome to Square One and congratulations on your new home insurance policy!
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-21T21:08:23.000Z
+**摘要:** 欢迎加入Square One保险，确认新的家庭保险政策，并提供登录账户查看详情的链接。
+**待办:** 登录账户查看或修改保险政策
+**GmailID:** 1a1604b36c044c5a
+
+ 
+Here’s your new home insurance policy #7181329. 
+
+Policy #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2Wp7YH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ0iSRy0MCbYz6vicOOjdG-2F8PhdoblXrQazXPgTFcf-2FXYWo30JEWWbzXv49aE2bryP0XAQE8qjodGpPuFlkZK1hroa4zQD8XHGcLxdPiEQNJPynZb5fFfIx83nRulHHgRlLZPQh7fvWbf6u5CCCu7l8lp0gEbDmIujmb55EA-2FP
+
+---
