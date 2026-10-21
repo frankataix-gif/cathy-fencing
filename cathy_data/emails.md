@@ -27080,3 +27080,24 @@ YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OjSZENgad66COn0YAcm1NlmqPr-2FyU11zJu4KnDqEo4KA-3D-3D-uem_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJZRHEbJEz5HIbHijsEOxMutpNX9OWTjSmfbvIm2CgVn8F54wegcANSQqpW9Y6Asr-2B2i4oCoKo3Tn7GHCkHS4l3tmSXNy9CPY9bBITMiyWYFyZuxbkhvUntxPV5Q46zBfONAsDLR2oG1sRakAcePbObQbLkcQBZDt
 
 ---
+
+## [生活旅行] External works - Pennington Quay Walk - 22-29/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-21T14:03:43.000Z
+**摘要:** 伦敦码头街区进行高压电线工程，涉及Pennington Quay Walk区域的施工，持续时间为10月22日至29日。
+**待办:** 无
+**日程:** {"title":"External works - Pennington Quay Walk","date":"2026-10-22","time":"","location":"Pennington Quay Walk near 1 Boxwood Gardens"}
+**GmailID:** 1a15ec66de6c5ee8
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/nSY6dFFZ93TNBXfd74YyKtdqVx1x4KU1__VqQNFvMVsPou6gVUK6Uoc4kriJ9PXhZkba4K4zrU8XQP3PQhgO-D78cNat4CqKyYWOb1PhArsZdzwp2w-41noWu5gD27MI_hOohe5BF9Nkj3ZRlEebHunWzO4YX7UjIoktuzT6mhQXDzzkloXHgRplZ7rf7FrQeBYRDTMsiY4qgpUjceuFzP6tzqmeNAUNU6Dgbqr24Kl-8gab9ujYpMX_0QDAsKKPzitcL6vk2afeAFlwjukfKgNSZQ> 
+
+Dear Ms Jingqi Wu,
+
+Ground works will be starting from the 22nd of October until the 29th of 
+October as part of the High Voltage electrical line works for block G.
+
+The
+
+---
