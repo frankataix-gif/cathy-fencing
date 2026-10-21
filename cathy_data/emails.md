@@ -27167,3 +27167,25 @@ Update your pre-authorized payment information.
 Log in to your My TELUS account. 
 
 ---
+
+## [生活旅行] Short term letting update - 21/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-21T15:56:47.000Z
+**摘要:** 邮件通知关于短期租赁流程的更新，并附有相关摘要文件。
+**待办:** 无
+**GmailID:** 1a15f2e1a83bf749
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/N_qa2uGd6hakdglvj3SsxYsQXfX0_-zP87V99QQBTn8tOGYrm6vzzQ_IZjnen1yTHEcldMYK16m8PpTCH17WTRHP8F0g1Jx99GY-C8TdBzkEpDJYiACKFuWqoC9-nHz53SJYxG1F5UTNyrhfBHiQC1D04OJqeISD0UAuteNnMz4Y1u_ax8sgqbp5Da6nlfMH2MfBk-l3UZ5ALhszmMXYjpH8Y9bPSvC2hG6UEHcuTEfIAzly3txBZaxCylqWrfd9Xi9NRygZThDFOT2h-WDHSzKl7g> 
+
+Dear Ms Jingqi Wu,
+
+Please find attached our presentation on Short Stay process and updated 
+summary (pg 13 on).
+
+Kind Regards,
+*London Dock Management Team*
+Powered by 
+
+---
