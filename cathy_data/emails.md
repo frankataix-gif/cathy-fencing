@@ -27289,3 +27289,31 @@ lululemon
         <td style="p
 
 ---
+
+## [击剑] British Columbia Fencing Membership Confirmation
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-21T19:37:43.000Z
+**摘要:** 确认不列颠哥伦比亚击剑协会会员资格
+**待办:** 无
+**涉及:** 不明
+**GmailID:** 1a15ff833a93b880
+
+
+
+<table style="margin: 0 50px; width: 600px; font-family: helvetica, arial, sans-serif; font-size: 14px; color: #585555; border-collapse: collapse;">
+
+    <!-- Event Header -->
+    
+    <tr>
+        <td style="width:600px; border-bottom: 2px solid #dcdcdc; text-align: center;">
+            <img src="https://2mev.com/content/uploads/images/BCFA_copy-20240708150946.webp" style="margin: 2px; height:100px;"/>
+        </td>
+    </tr>
+    
+
+    <!-- Body -->
+    <tr>
+        <td style=
+
+---
