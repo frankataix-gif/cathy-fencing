@@ -27789,3 +27789,28 @@ Phone 604 317 4060
 The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not 
 
 ---
+
+## [生活旅行] Re: TH103 - URGENT: Tenant Insurance – Section 36 Compliance Required
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-10-21T22:14:26.000Z
+**摘要:** 关于租客保险合规性的确认，Natalie已支付费用，对方确认已收到。
+**待办:** 无
+**GmailID:** 1a14687994c6a923
+
+Sorry Natalie, we just received it, no need to send it , all good 🙂
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:8b7d61d2-8cda-4a8f-a7fe-01a63b689fb4]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosur
+
+---
