@@ -27148,3 +27148,22 @@ You can pay online at my.t-mobile.com. <https://my.t-mobile.com> Please
 disrega
 
 ---
+
+## [待办] Attention required: your recent pre-authorized payment was declined
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-10-21T15:26:10.000Z
+**摘要:** 提醒处理被拒的预授权支付以避免滞纳金
+**待办:** 处理被拒的预授权支付，避免滞纳金
+**GmailID:** 1a15f13f2d6fb028
+
+Account Number:  
+Hello,  
+Your recent pre-authorized payment to TELUS was declined by your financial institution on . 
+
+You will need to make a one-time payment for any outstanding bill amounts. To avoid late payment fees, log in to your My TELUS account to make a quick and easy payment using your credit card or Visa Debit card. This payment will be reflected immediately on your account.  
+Pay bill now  
+Update your pre-authorized payment information.  
+Log in to your My TELUS account. 
+
+---
