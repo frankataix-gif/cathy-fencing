@@ -27476,3 +27476,30 @@ Phone 604 317 4060
 708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.c
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-01T20:28:52.000Z
+**摘要:** Natalie请求安装餐厅吊灯并附上照片，等待房东审批
+**待办:** 无
+**方向:** 发出
+**GmailID:** 19fb05bfe950b991
+
+Hi,
+
+Thank you for your reply. I have attached a few photos of the style of ceiling light I would like to install above the dining area. I would like to install a light similar to these examples.
+
+Could you please review the photos and let me know if this type of light would be approved?
+
+Thank you,
+Natalie
+
+On Thu, 30 Jul 2026 22:38:16 +0000, "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca> wrote:
+> Hi Natalie,
+> 
+> Thank you for your request.
+> 
+> If you could please send us a pho
+
+---
