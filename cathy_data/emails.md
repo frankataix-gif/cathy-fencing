@@ -27714,3 +27714,28 @@ Phone 604 317 4060
 708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithan
 
 ---
+
+## [生活旅行] Re: TH103 - URGENT: Tenant Insurance – Section 36 Compliance Required
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-21T21:09:52.000Z
+**摘要:** Natalie已支付租客保险费用，请求确认收到，并强调需符合租赁协议第36条的保险要求。
+**待办:** 确认保险费用是否已收到
+**方向:** 发出
+**GmailID:** 1a14687994c6a923
+
+Hi dear,
+I have just paid the insurance fee. Please check and confirm receipt.
+
+thank u
+
+在 Oct 16, 2026, 23:04 +0200，Smith & Farrow Rental Resident Care <residentcare@boffo.ca>，写道：
+> Dear Natalie,
+>
+> This is an urgent request to provide your updated insurance declaration page to ensure your file remains compliant with your lease obligations.
+> As outlined in Section 36 of your signed Residential Tenancy Agreement:
+> Liability and Insurance.
+>
+> 2. The Tenant agrees to carry sufficie
+
+---
