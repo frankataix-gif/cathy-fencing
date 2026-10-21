@@ -27261,3 +27261,31 @@ lululemon
 [image: DoorDash
 
 ---
+
+## [击剑] Canadian Fencing Federation Confirmation
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-21T19:37:43.000Z
+**摘要:** 加拿大击剑联合会确认注册，许可证有效期至2027年7月31日
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a15ff834219d5bf
+
+
+
+<table style="margin: 0 50px; width: 600px; font-family: helvetica, arial, sans-serif; font-size: 14px; color: #585555; border-collapse: collapse;">
+
+    <!-- Event Header -->
+    
+    <tr>
+        <td style="width:600px; border-bottom: 2px solid #dcdcdc; text-align: center;">
+            <img src="https://2mev.com/content/uploads/images/logo_cff-1-201904081454.png" style="margin: 2px; height:100px;"/>
+        </td>
+    </tr>
+    
+
+    <!-- Body -->
+    <tr>
+        <td style="p
+
+---
