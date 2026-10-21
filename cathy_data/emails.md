@@ -27189,3 +27189,21 @@ Kind Regards,
 Powered by 
 
 ---
+
+## [营销] Jingqi, your $120 Skip+ membership is on us
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-10-21T17:32:52.000Z
+**摘要:** TELUS通知Jingqi作为客户可免费获得Skip+会员，并邀请激活账户享受优惠及参与抽奖。
+**待办:** 无
+**GmailID:** 1a15f85f757e6074
+
+ TELUS 
+Plus, $500+ in perks in value waiting for you in TELUS Rewards 
+Trouble viewing this email? View in web browser 
+<https://t.info.telus.com/r/?id=h7db542d,40b78d5b,2b09b2fe&e=Y2lkPXRlbERNMjM0ODQ3MSZiaWQ9MTMxODE0NDQ1JnAxPSU0MCUyQjZIMkNXU2JyRmI5TTE5RXJhUjlxcEJySDlZcHlBRHZDcExWJTJCRjVKQlpnJTNE&s=RSyu3Z2Ga_koobtMf8ysd3EYx416__BngkGch23AIsc>
+. 
+[image: TELUS] 
+<https://t.info.telus.com/r/?id=h7db542d,40b78d5b,2b09b2ff&e=Y2lkPXRlbERNMjM0ODQ3MSZiaWQ9MTMxODE0NDQ1&s=i4AwQV1U14wHKV5qszeP7zy3rywHASS
+
+---
