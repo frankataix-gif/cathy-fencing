@@ -27066,3 +27066,17 @@ We will re
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Yes, you definitely need another pair
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-21T13:13:54.000Z
+**摘要:** 这封邮件是关于推广新的运动鞋，鼓励用户购买新鞋。
+**待办:** 无
+**GmailID:** 1a15e98cab1bf5d9
+
+Don’t overthink it. Your current sneakers will understand.
+YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OjSZENgad66COn0YAcm1NlmqPr-2FyU11zJu4KnDqEo4KA-3D-3D-uem_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJZRHEbJEz5HIbHijsEOxMutpNX9OWTjSmfbvIm2CgVn8F54wegcANSQqpW9Y6Asr-2B2i4oCoKo3Tn7GHCkHS4l3tmSXNy9CPY9bBITMiyWYFyZuxbkhvUntxPV5Q46zBfONAsDLR2oG1sRakAcePbObQbLkcQBZDt
+
+---
