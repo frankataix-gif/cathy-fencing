@@ -27317,3 +27317,31 @@ lululemon
         <td style=
 
 ---
+
+## [其他] Receipt
+
+**发件人:** info@2mev.com
+**日期:** 2026-10-21T19:37:42.000Z
+**摘要:** 这封邮件是关于使用2M服务的交易收据，感谢用户并附上交易摘要。
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a15ff82edb0514d
+
+
+
+<table style="margin: 0 50px; width: 600px; font-family: helvetica, arial, sans-serif; font-size: 14px; color: #585555; border-collapse: collapse;">
+
+    <!-- Event Header -->
+    
+    <tr>
+        <td style="width:600px; border-bottom: 2px solid #dcdcdc; text-align: center;">
+            <img src="https://2mev.com/content/uploads/images/2M_Header_-_FINAL-20240229062427.png" style="margin: 2px; height:100px;"/>
+        </td>
+    </tr>
+    
+
+    <!-- Body -->
+    <tr>
+        <td
+
+---
