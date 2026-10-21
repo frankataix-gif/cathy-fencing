@@ -27681,3 +27681,36 @@ Best regards,
 Natalie
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-10-21T20:56:41.000Z
+**摘要:** 要求支付餐厅吊灯安装费用，并附上发票
+**待办:** 安排支付吊灯安装费用
+**GmailID:** 19fb05bfe950b991
+
+Hi Natalie,
+Please find attached Invoice #10172 for the light installation in your dining area, as per the approved quote.
+Please arrange payment directly to Tower Electric using the details below:
+Tower Electric
+3915 Kitchener Street
+Burnaby, BC
+Phone: 604-569-0048
+Please let me know if you have any questions.
+Thank you,
+Anastasia
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:2978d31c-a9b0-4ced-867a-41d55d4882ce]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithan
+
+---
