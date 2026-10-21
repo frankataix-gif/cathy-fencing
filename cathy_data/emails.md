@@ -27582,3 +27582,22 @@ The packaging does not show the voltage, wattage, or other electrical specificat
 I will also have a qualified professional verify that the fixture is compatible and install it safely. Could you please let me know whether you can approve t
 
 ---
+
+## [生活旅行] Re: Request for Permission to Install a Dining Room Ceiling Light
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-08-05T19:10:14.000Z
+**摘要:** 租赁公司要求提供餐厅吊灯的制造商和型号信息以获得安装许可，Natalie 回复说明灯具情况并承诺由专业人员安装
+**待办:** 提供灯具的制造商和型号信息以获得安装许可
+**GmailID:** 19fb05bfe950b991
+
+Hi Natalie,
+Could you please provide us with the manufacturer and model number of the light fixture you purchased?
+The specification sheet is required so we can review the fixture and confirm that it is suitable for installation in your unit. If you are able to provide the manufacturer and model number, we can use that information to locate the appropriate specification sheet.
+Thank you for your help and cooperation.
+Kind regards,
+
+________________________________
+From: natalie <nataliewu
+
+---
