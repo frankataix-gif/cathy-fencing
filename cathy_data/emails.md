@@ -27013,3 +27013,34 @@ have isolated one of the cubicles, the others remain in service.
 We will re
 
 ---
+
+## [营销] Holiday 2026 系列
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-10-21T10:14:30.000Z
+**摘要:** 介绍Holiday 2026系列，强调舒适和感官体验
+**待办:** 无
+**GmailID:** 1a15df75544a5160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+温润暖意邂逅细腻触感，构筑舒适感官体验
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+---
