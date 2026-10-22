@@ -28020,3 +28020,18 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpad
 
 ---
+
+## [待办] Jingqi, tackle your Koodo balance before it’s too late
+
+**发件人:** Koodo Team <paymybill@koodo.com>
+**日期:** 2026-10-22T20:44:01.000Z
+**摘要:** 提醒Jingqi处理逾期的Koodo账单，避免信用评分受损
+**待办:** 支付全额账单以消除负面影响
+**涉及:** 不明
+**GmailID:** 1a1655b45b8a49ef
+
+ 
+[image: Koodo Logo] 
+<http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eVttD_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8Cv6a7bljkdB3o4cuB5cMeVrvnrjysZjnMgyEZiUzhcttRd3qrc9YpsXXk9pgVO2WqBJlguWEOmRkdFRq0gTxEku336v9OKrDO-2BDEo-2Be7hFjRNtuGl68ZbewgzMuOi7vDT7mn87MYKtbys0kaMA5A1i8yVVQuokcttoPdBLrVOxk1nhdGqc269zdV1teLRE9TEMt5AG-2B-2FNutVR53AaHv0-2BjM-2BmtyQ5o6jq4Lru5H9h4F1C6udn-2BKXoecWtJiEscJQpG4lYHjQgjp6tvf2W
+
+---
