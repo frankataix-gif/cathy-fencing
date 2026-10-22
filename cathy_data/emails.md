@@ -27837,3 +27837,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d
 
 ---
+
+## [营销] Outlet: intimo iconico
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-22T09:51:30.000Z
+**摘要:** 宣传Calvin Klein的Outlet促销活动
+**待办:** 无
+**GmailID:** 1a1630b0dd08549f
+
+
+
+
+---
