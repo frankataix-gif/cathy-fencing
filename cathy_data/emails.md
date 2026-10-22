@@ -27932,3 +27932,17 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web browser does not open, please paste the link into the 
 
 ---
+
+## [营销] Cold mornings, cozy favourites
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-22T13:10:14.000Z
+**摘要:** 推广UGG、Birkenstock和The North Face的冬季鞋款，提供保暖选择。
+**待办:** 无
+**GmailID:** 1a163bbd07844c37
+
+Meet the morning lineup from UGG, Birkenstock & The North Face
+YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M2lmAmGEGy-2FuXuND8a-2B4rysD0PLF7GoL04-2B8k6yCN3EQ-3D-3DlG6h_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAL4Scx-2FV4uJ8eJtIv-2Bkvucsb-2F7VPGyNtz4Mpj6z9fT8LDivBcowW0-2BPXyIqiI6rVQBjT06dFVCviH14b0JYvKiNZfkoy7qXaHvWpXiyPadO3w3h2Qb3kK6qK-2FcfxVPM8BIpqwkJI0HHMv8jCp
+
+---
