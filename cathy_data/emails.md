@@ -27868,3 +27868,20 @@ BRB, adding to basket.
 <https://app.sephora.com/T/v61000001a1631329019ee3256e96c660f0/b3729ae5672f4b450000021ef3a0bcc2/b3729ae5-672f-4b45-91d0-d59
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-10-22T10:05:43.000Z
+**摘要:** Frank多次转账失败，需确认账户信息及SWIFT代码以安排贷款
+**待办:** 确认账户信息并安排贷款
+**GmailID:** 1a1417ffaad990e7
+
+wen yuin Hello
+I apologize that the previous transfers were unsuccessful. I made a second transfer of £15,000 on the 16th of last week, but the money was returned on Monday. The bank said it could not find the SWIFT code.
+
+I only noticed today that the SWIFT code you confirmed on the 15th may have been incorrect. Your email stated: MBBESGS2. I checked our previous email and found that the SWIFT code I sent for confirmation was MBBESGSG.
+
+I would like to confirm once again that all my accoun
+
+---
