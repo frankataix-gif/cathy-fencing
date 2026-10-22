@@ -27885,3 +27885,32 @@ I only noticed today that the SWIFT code you confirmed on the 15th may have been
 I would like to confirm once again that all my accoun
 
 ---
+
+## [Cathy&David] SAGE Dining Account Statement Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-10-22T12:07:14.000Z
+**摘要:** 通知Yunxi He的SAGE餐饮账户余额及自动充值状态，并提供账户管理链接
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a163822136451ca
+
+
+
+
+Dear JingQi Wu, 
+
+Welcome to MyKidsSpending with SAGE Dining at Meadowridge School. 
+
+Attached is your dining account statement for Yunxi He. 
+
+  Your current balance is $13.40. 
+  At this time, autofunding is currently on for this account. 
+
+To view and manage your account, please click on the following link: Home Page 
+
+Questions about purchased items may be directed to the Cafeteria Manager by email at sage@meadowridge.bc.ca. 
+
+For questions about MyKidsSpending, please sen
+
+---
