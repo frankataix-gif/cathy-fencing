@@ -28035,3 +28035,16 @@ Verdana, Arial, sans-serif !important; }     96
 <http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eVttD_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8Cv6a7bljkdB3o4cuB5cMeVrvnrjysZjnMgyEZiUzhcttRd3qrc9YpsXXk9pgVO2WqBJlguWEOmRkdFRq0gTxEku336v9OKrDO-2BDEo-2Be7hFjRNtuGl68ZbewgzMuOi7vDT7mn87MYKtbys0kaMA5A1i8yVVQuokcttoPdBLrVOxk1nhdGqc269zdV1teLRE9TEMt5AG-2B-2FNutVR53AaHv0-2BjM-2BmtyQ5o6jq4Lru5H9h4F1C6udn-2BKXoecWtJiEscJQpG4lYHjQgjp6tvf2W
 
 ---
+
+## [营销] Your outerwear guide to winter warmth
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-10-22T21:28:11.000Z
+**摘要:** lululemon发送的冬季外衣指南，推荐适合冬季的户外服装
+**待办:** 无
+**GmailID:** 1a16583cfd043417
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
