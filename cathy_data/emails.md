@@ -27946,3 +27946,27 @@ YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M2lmAmGEGy-2FuXuND8a-2B4rysD0PLF7GoL04-2B8k6yCN3EQ-3D-3DlG6h_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAL4Scx-2FV4uJ8eJtIv-2Bkvucsb-2F7VPGyNtz4Mpj6z9fT8LDivBcowW0-2BPXyIqiI6rVQBjT06dFVCviH14b0JYvKiNZfkoy7qXaHvWpXiyPadO3w3h2Qb3kK6qK-2FcfxVPM8BIpqwkJI0HHMv8jCp
 
 ---
+
+## [营销] 🤩 JUST DROPPED: This year’s holiday décor collections, priced right every day.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-22T15:31:19.000Z
+**摘要:**  Michaels 发布节日装饰系列促销信息，提供日常优惠价格和相关链接。
+**待办:** 无
+**GmailID:** 1a1644042e6aedbe
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwMzcsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFqxz9rnrOxnlQRyGxE94GIgyyfomjKOYqU869ddrjf2f_N2oBGAENsmYUFPMZMJGtnNLHCblVzIRxZKQBLU2H7Dun_G13nlf80bd82rKxMD24phaLmQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261022_S6_Seasonal_HolidayDecorCollection_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&c
+
+---
