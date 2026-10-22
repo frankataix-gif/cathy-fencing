@@ -27814,3 +27814,26 @@ Phone 604 317 4060
 The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosur
 
 ---
+
+## [营销] Eeek! These spooky deals are sooo you 😱
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-22T07:21:52.000Z
+**摘要:** 推送万圣节促销活动，包含优惠券和折扣链接。
+**待办:** 无
+**GmailID:** 1a1627cec62f047f
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwMzcsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFp2Tv-OUQh1u2iLSjyGdt2K1cV9G3T80iOtehCtomJlNvLsZe_MXlzIVSj1OXdg-O45_4M5q3cYgFkSmZPQRzQSW33u-HQxVhu3Yd5yITBKDH9X0o 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d
+
+---
