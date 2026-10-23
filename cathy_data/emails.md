@@ -28280,3 +28280,25 @@ online at
 my.t-mobile.com. <https://my.t-mobile.com> Please disregard if
 
 ---
+
+## [营销] The keynote that named AI’s biggest blind spot 🧊
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-10-23T14:20:19.000Z
+**摘要:** 邮件介绍Make公司推出的MakeOS和Process Intelligence产品，并邀请观看 keynote 演讲录像。
+**待办:** 无
+**GmailID:** 1a169234ebba7bdd
+
+MakeOS, Process Intelligence, plus where to meet us next
+
+Logo ( https://www.make.com?utm_campaign=Insights_Newsletter_030926&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://waves.make.com?utm_campaign=Insights_Newsletter_030926&utm_medium=email&utm_source=customer.io )
+
+**************************************************
+AI adoption is everywhere. AI accountability isn’t
+**************************************************
+
+At Waves ‘26, we named something companies are q
+
+---
