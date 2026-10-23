@@ -28302,3 +28302,22 @@ AI adoption is everywhere. AI accountability isn’t
 At Waves ‘26, we named something companies are q
 
 ---
+
+## [其他] Wet North Ramp In Car Park
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-23T14:52:59.000Z
+**摘要:** 提醒注意停车场北坡因天气湿滑可能有滑倒风险
+**待办:** 无
+**GmailID:** 1a169403c5288e41
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/1Mbqg6yLbFfq5_XkoThqYGC6Kv4aq1_aLUBrHXfaChHJ7v3v7m2i-XiZ_LJ7ZdWJPPb-gbgwwMd-qKyn7qbkvtlQ_Au8yhSRMoJAREY_Lekz0N3zLz6Osp3oZzNqF55FsLzDtkZDN2HhfMCR1E7xiRZ8qFKO-wUPyTXqn8IrGvy7696KX2FgkikqjnjH9dltyAaWULweMIHN3MaVSdiPen-Bl8QnlJxNrJREjcdHU_9gJgso3Sbl56NaoFJNMg_1eTk8kLIWOZoBtYO1Mxh_> 
+
+Dear Ms Jingqi Wu,
+
+Due to recent weather conditions, the surface of the north ramp in the car 
+park is wet. Please exercise caution when accessing this area, whether by 
+vehi
+
+---
