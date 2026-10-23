@@ -28235,3 +28235,25 @@ YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M9cf8VxRZc67LadAZoMXBT5Jj0Y-2F8TPhDLBWLyiALPKQ-3D-3DnNnl_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAF-2FLehw7CzF-2FkJIXmM6N9X2UxPx5hfWjvNxKOvwu5o67VnXTd4XAXSjW7GjOUYBWCmMncpp-2B4ut7-2BLytL70cxwK-2FJO-2B4JDtHj4moR-2BzloQnKZNEGV0wEjo1nLXOZYun4-2BSDST0Qfn0dSPlaQz
 
 ---
+
+## [营销] The new iPhone Duo is here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-10-23T13:09:51.000Z
+**摘要:** 苹果推出全新iPhone Duo，介绍其主要功能和购买信息。
+**待办:** 无
+**GmailID:** 1a168e1d3ac6d0a5
+
+Apple
+
+iPhone Duo
+
+Hello, hello.
+
+The largest iPhone display ever, in a thin, foldable design. Reimagined iOS experiences for ultimate versatility. 48MP Dual Fusion camera system. Vapour‑cooled A20 Pro chip for pro performance.
+
+Two iPhone Duo models in various poses side by side, left iPhone Duo, front interior in closed position, iOS lockscreen displayed on inner screen, right iPhone Duo open in landscape mode, showing a split screen of photos on the left and apps on the right
+
+iPhon
+
+---
