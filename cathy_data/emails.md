@@ -28198,3 +28198,26 @@ Questions about purchased items may be directed to the Cafeteria Manager by emai
 For questions about MyKidsSpending, please sen
 
 ---
+
+## [Cathy&David] School account funded - Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-10-23T12:05:32.000Z
+**摘要:** Yunxi He的学校账户已成功充值100美元，包含1.75美元服务费，交易记录已发送至邮箱
+**待办:** 无
+**涉及:** Cathy
+**GmailID:** 1a168a6ee6d73ffe
+
+JingQi Wu
+Your account Funding Card at BMO mother card has been debited in the amount of 101.75 to fund the account of Yunxi He
+This includes a deposit in the amount of 100.00 and a service charge of 1.75
+Transaction reference: WK5421374
+The transaction will appear on your bank statement as MyKidsSpending.com 
+
+You may view the account at any time at
+https://www.MyKidsSpending.com/logon
+
+Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.com
+You may also cal
+
+---
