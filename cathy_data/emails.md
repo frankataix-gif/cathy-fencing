@@ -28134,3 +28134,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261023_S4_Circular_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mm
 
 ---
+
+## [营销] Promozione Mid Season: -20% extra
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-10-23T08:31:48.000Z
+**摘要:** Calvin Klein的夏季促销活动，部分商品打八折
+**待办:** 无
+**GmailID:** 1a167e7d85f7dcc3
+
+
+
+
+---
