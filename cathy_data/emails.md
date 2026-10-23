@@ -28344,3 +28344,24 @@ vehi
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] Nicole Kidman and Sandra Bullock are back for Practical Magic 2.
+
+**发件人:** Apple TV Store <appletvstore@insideapple.apple.com>
+**日期:** 2026-10-23T23:14:00.000Z
+**摘要:** 推广《Practical Magic 2》和漫威蜘蛛侠新电影
+**待办:** 无
+**GmailID:** 1a16b0af0a1220da
+
+Promotional artwork for “Practical Magic 2” showcasing two women in a mystical setting with candles.
+https://tv.apple.com/ca/movie/practical-magic-2/umc.cmc.2e0x5rla466dkovz6ucgie52?itscg=10200&itsct=TVsubscriptions_WW
+
+
+Fall under Sandra Bullock and Nicole Kidman’s spell again as the bewitching sisters confront their family curse.
+
+Buy or Rent Now
+https://tv.apple.com/ca/movie/practical-magic-2/umc.cmc.2e0x5rla466dkovz6ucgie52?itscg=10200&itsct=TVsubscriptions_WW
+ 
+Promotional poster f
+
+---
