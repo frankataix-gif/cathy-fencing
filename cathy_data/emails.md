@@ -28110,3 +28110,27 @@ In new 100% leather and suede.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] ⏱️ Get a gift of an extra small or small craft pumpkin with in-store purchase.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-23T07:21:46.000Z
+**摘要:** Michaels促销活动，购买指定商品可获赠小南瓜，并附有优惠券链接。
+**待办:** 无
+**GmailID:** 1a167a7cd81acba4
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwMzgsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFrw5ZyaICYMFGplbsTwRysBw4PXZx_jLnXzzAzcpsXlo1sMcdso50MlRNfN95qFkud1gWSKj1invVRl0E91qqHy_Yw9G0FzP7Ed6YeOEUDy-hkv4NAw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261023_S4_Circular_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mm
+
+---
