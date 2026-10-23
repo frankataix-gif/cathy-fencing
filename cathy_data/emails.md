@@ -28221,3 +28221,17 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [营销] Online exclusive: adidas x Molly Mae | LIMITED QUANTITES
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-23T12:34:19.000Z
+**摘要:** 商家推出adidas与Molly Mae联名鞋款，库存有限，可能有促销活动。
+**待办:** 无
+**GmailID:** 1a168c40dc280e00
+
+The coveted collab is live! Plus, see what’s new from adidas
+YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M9cf8VxRZc67LadAZoMXBT5Jj0Y-2F8TPhDLBWLyiALPKQ-3D-3DnNnl_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAF-2FLehw7CzF-2FkJIXmM6N9X2UxPx5hfWjvNxKOvwu5o67VnXTd4XAXSjW7GjOUYBWCmMncpp-2B4ut7-2BLytL70cxwK-2FJO-2B4JDtHj4moR-2BzloQnKZNEGV0wEjo1nLXOZYun4-2BSDST0Qfn0dSPlaQz
+
+---
