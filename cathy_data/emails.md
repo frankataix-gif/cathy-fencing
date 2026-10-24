@@ -28444,3 +28444,24 @@ Pre-payment notification:
 The payment amount and withdrawal date will be sho
 
 ---
+
+## [其他] Thanks for your recent payment
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-10-24T01:30:47.000Z
+**摘要:** 这封邮件是关于电费支付确认的，包含支付金额、日期和银行信息。
+**待办:** 无
+**GmailID:** 1a16b882b8b8274f
+
+https://email.bchydro.com/c/443/3796999202f6fcbd7a23c14a2c5bd05a8783b56d66930b34e62acd0edeea74c9275515ed788d5676ebf40ee78b28b72c See payment details (https://email.bchydro.com/c/443/3796999202f6fcbd7a23c14a2c5bd05ae15700cd8ae63634e31b91f269d523be275515ed788d5676ebf40ee78b28b72c)
+Read this email online (https://email.bchydro.com/v/443/3796999202f6fcbd7a23c14a2c5bd05aad99a072eb38699cd7ff0d372d9967c5f04a0def718f13e1)
+Payment submitted 
+
+Hi natalie,
+
+Account number: XXXXXXXXXX14
+
+
+Thanks fo
+
+---
