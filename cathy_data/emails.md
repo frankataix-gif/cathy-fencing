@@ -28531,3 +28531,31 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261024_S3_Promo_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2
 
 ---
+
+## [待办] Your primary number 3107095128 has been cancelled
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-10-24T11:15:51.000Z
+**摘要:** 您的主号码3107095128已被取消
+**待办:** 无
+**GmailID:** 1a16d9fcd80b4e51
+
+ 
+[image: T-Mobile™ Logo] 
+[image: T-Mobile™ Logo] 
+Your line has been canceled. 
+3107095128 is no longer active and has been canceled. 
+
+If you have any questions, please call us 877-788-2106. 
+
+[image: T-Mobile™ Logo] 
+[image: T-Mobile™ Logo] 
+THIS IS AN AUTOMATED EMAIL. PLEASE DO NOT REPLY. 
+
+T-Mobile, the T logo, Magenta, and the magenta color are registered 
+trademarks of Deutsche Telekom AG. © 2026 T-Mobile USA, Inc. 
+
+Terms of Use 
+<http://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_
+
+---
