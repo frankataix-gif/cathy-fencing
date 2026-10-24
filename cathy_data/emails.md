@@ -67,3 +67,22 @@ Hi Meadowridge Families,
 Here’s a roundup of what’s happening at school, along with a little information about each event. We’d love for you to get involved, volunteer, and join in the fes
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Oct 26-30
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-24T21:55:20.000Z
+**摘要:** 包含Grade 7本周学校提醒，涉及照片重拍日、Leger图书馆开幕式及着装要求。
+**待办:** 无
+**涉及:** 两个
+**日程:** {"title":"The Leger Library Grand Opening","date":"2023-10-29","time":"10:00","location":"无"}
+**GmailID:** 1a16fe94d20a50ed
+
+Good day, Grade 7 Families,
+I hope you are enjoying this cozy rainy day.
+CLICK HERE<https://www.meadowridge.bc.ca/fs/comms-manager/view/3eafec6c-d238-4390-98c6-11a44232f162> and read this week's eGryphon for news & updates from Meadowridge, including instructions about Photo Retake Day on Oct 26 and The Leger Library Grand Opening on Oct 29. Keep informed about what’s coming up and how your family can get involved with ALL SCHOOL Events & Athletics.
+Next Week for Grade 7
+Mon, 26
+Today is Da
+
+---
