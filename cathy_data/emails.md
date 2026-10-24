@@ -28594,3 +28594,21 @@ From rich coffee tones to subtle clay neutrals.   YOUR FIRST
 STOP FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MfqlOHYLY9-2FxOThFGzPiREYAeIwjSSCqyZpH5eQ3XzHQ-3D-3DvOlb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJDw0K4ZDM210t7RTFmuZgeNG1O2QQaSgSmxC82rbqqNeF8LNGKINXTQ3IYq0VSLLD227omQRL1txS-2BmXIQt5dvJPQerzhn9ZSkHEsfTZkLr0AJl686xT6S2KgVgRrZjxeLcfBttDCFm1D4y2flMZuaCKLxOLfUJDMKUXWdC0b7tHBT
 
 ---
+
+## [营销] NEW! Summer Fridays Lip Butter Balm: Sugar Plum and Mocha Bonbon
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-10-24T13:31:48.000Z
+**摘要:** Sephora 推出夏季限定款唇膏产品，仅在节假日发售。
+**待办:** 无
+**GmailID:** 1a16e1c88a499414
+
+ Sephora 
+
+Limited edition, just for the holidays. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a16e1c32d6a105b1f4bbcfb648/eda5057c67f14b070000021ef3a0bcc2/eda5057c-6
+
+---
