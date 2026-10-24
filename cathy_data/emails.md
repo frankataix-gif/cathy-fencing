@@ -28581,3 +28581,16 @@ Terms of Use
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] The Autumn Palette
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-24T13:07:01.000Z
+**摘要:** 推广秋季新款鞋子系列，包含多种时尚色调
+**待办:** 无
+**GmailID:** 1a16e059cbc87337
+
+From rich coffee tones to subtle clay neutrals.   YOUR FIRST
+STOP FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MfqlOHYLY9-2FxOThFGzPiREYAeIwjSSCqyZpH5eQ3XzHQ-3D-3DvOlb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJDw0K4ZDM210t7RTFmuZgeNG1O2QQaSgSmxC82rbqqNeF8LNGKINXTQ3IYq0VSLLD227omQRL1txS-2BmXIQt5dvJPQerzhn9ZSkHEsfTZkLr0AJl686xT6S2KgVgRrZjxeLcfBttDCFm1D4y2flMZuaCKLxOLfUJDMKUXWdC0b7tHBT
+
+---
