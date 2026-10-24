@@ -28507,3 +28507,27 @@ Help and Support
 To dispute a parking violation or for parking operations questions, please contact the following:
 
 ---
+
+## [营销] This weekend only: Gift with purchase when you shop in store!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-24T07:22:11.000Z
+**摘要:** Michaels推出周末促销活动，购物满额赠送礼品，并附有优惠链接。
+**待办:** 无
+**GmailID:** 1a16cc9f5aa7c325
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwMzksInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFtcZfb5URLyR7uWl3Snb5YhrzxBP99daioZDzGH-ba-GLOIAWFVCgTTEmLgqHz_Z5yjMIZtjsrdQj2K9qcRDbiUedE2SXcLpzu_XiqGkgoAXBz39BYg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261024_S3_Promo_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2
+
+---
