@@ -28410,3 +28410,37 @@ Parking Information
 
 
 ---
+
+## [待办] Pre-authorized payment plan confirmation
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-10-24T01:32:18.000Z
+**摘要:** 确认预授权付款计划的信息，包括账户、银行账号和付款开始日期。
+**待办:** 确认并检查付款计划信息。
+**GmailID:** 1a16b898c48d2f9f
+
+Pre-authorized payment plan confirmation
+
+#  Confirmation
+
+NATALIE WU  
+103 - 708 FARROW ST , COQUITLAM BC V3J 0P2
+
+Thanks for setting up a pre-authorized payment plan for your BC Hydro account. Please take a few moments to confirm this information:
+
+BC Hydro account number:
+000013773014
+
+Bank account number:
+***9433
+
+Type of pre-authorized withdrawal:
+Personal
+
+Payment frequency:
+Every two months
+
+Pre-payment notification:
+The payment amount and withdrawal date will be sho
+
+---
