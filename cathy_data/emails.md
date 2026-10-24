@@ -28365,3 +28365,48 @@ https://tv.apple.com/ca/movie/practical-magic-2/umc.cmc.2e0x5rla466dkovz6ucgie52
 Promotional poster f
 
 ---
+
+## [其他] Lot 2305 - 4200 No 3 Road – Richmond - Parking Confirmation - Oct 23, 2026
+
+**发件人:** Offstreet Parking <no-reply@email.offstreet.io>
+**日期:** 2026-10-24T00:06:04.000Z
+**摘要:** 停车确认，许可证号#371916917，有效期至2026年10月23日19:05，停车时间为当日17:05-19:05，地点为Richmond的4200 No 3 Road。
+**待办:** 无
+**日程:** {"title":"停车确认","date":"2026-10-23","time":"17:05","location":"Lot 2305 - 4200 No 3 Road – Richmond"}
+**GmailID:** 1a16b3a9daec5f6a
+
+Lot 2305 - 4200 No 3 Road – Richmond
+
+Parking Confirmed!
+
+Your parking permit
+
+#371916917
+
+Expires on Oct 23, 2026 at 7:05 PM
+
+Parking instructions
+
+License plate must be facing the driving lane.
+
+This is a virtual permit, do not print this off.
+
+Parking Details
+
+Lot 2305 - 4200 No 3 Road – Richmond
+
+Oct 23, 2026
+
+5:05 PM - 7:05 PM
+
+Lot 2305 - 4200 No 3 Road – Richmond • Unit 160 dba Bliss Kitchen.
+
+
+
+----------------------------------------
+
+Parking Information
+
+
+
+---
