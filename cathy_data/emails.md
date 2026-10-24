@@ -39,3 +39,31 @@ Verdana, Arial, sans-serif !important; }     96
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143191233-1792874268285.484%26ouid%3D532135.trippulse_edm_1024_hk.2026-10-24_-8_0.20261025.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D532135.trippulse_edm_1024_hk.2026-10-24_-8_0.20261025.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzE5MTIzMy0xNzkyODc0MjY
 
 ---
+
+## [Cathy&David] Special Message from the Parent Guild - week of Oct 26
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-24T21:52:52.000Z
+**摘要:** 家长协会通知学校活动及志愿者机会，包括冬季市场供应商注册、排灯节表演和Guild执行委员招募。
+**待办:** 注册冬季市场供应商、报名排灯节表演、申请Guild执行委员职位
+**涉及:** 两个
+**GmailID:** 1a16fe7166232b1b
+
+Good day, Grade 7 and 5 families,
+
+Please scroll down for a special message from the Parent Guild.
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+________________________________
+
+
+Hi Meadowridge Families,
+
+Here’s a roundup of what’s happening at school, along with a little information about each event. We’d love for you to get involved, volunteer, and join in the fes
+
+---
