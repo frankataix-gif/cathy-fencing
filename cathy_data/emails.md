@@ -28612,3 +28612,34 @@ Limited edition, just for the holidays.
 <https://app.sephora.com/T/v61000001a16e1c32d6a105b1f4bbcfb648/eda5057c67f14b070000021ef3a0bcc2/eda5057c-6
 
 ---
+
+## [待办] Your service has been canceled.
+
+**发件人:** T-Mobile USA <donotreply@notifications.t-mobile.com>
+**日期:** 2026-10-24T13:47:57.000Z
+**摘要:** T-Mobile服务已被取消，需重新激活
+**待办:** 重新激活T-Mobile服务
+**GmailID:** 1a16e2b0dc33b3a9
+
+ Your T‑Mobile service has been canceled 
+[image: T-Mobile] 
+[image: T-Mobile] 
+*Your T‑Mobile service has been canceled* 
+Hi 
+
+Your service has been canceled. To reactivate your line, go to 
+https://secure.t-mobile.com/sRkStR4TqYb or call 800-866-2453 <+18008662453>. 
+
+
+Sincerely, 
+Your T‑Mobile Team 
+
+Thanks for being a T‑Mobile customer. 
+[image: El logotipo de T-Mobile en color magenta] 
+[image: El logotipo de T-Mobile en color magenta] 
+
+THIS IS AN AUTOMATED EMAIL. PLEASE DO NOT REPLY.
+
+T‑M
+
+---
