@@ -54898,5 +54898,1037 @@
       "Y12WF": []
     },
     "total": 0
+  },
+  "pizza-ryc-rjcc-late-registrati-2026-11-14-floyd-little-athletic-center-new-haven-ct": {
+    "fetched_at": "2026-10-24T15:01:39.579555Z",
+    "counts": {
+      "Y12WF": 40,
+      "Y14WF": 42,
+      "CDTWF": 63
+    },
+    "names": {
+      "Y12WF": [
+        {
+          "name": "Androsenko, Aleksandra",
+          "club": "Echo Fencing",
+          "division": "New England",
+          "member_num": "100639907",
+          "status": ""
+        },
+        {
+          "name": "Byk, Karalina",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100331777",
+          "status": ""
+        },
+        {
+          "name": "Cao, Kexin",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "US Fencing",
+          "member_num": "101239395",
+          "status": ""
+        },
+        {
+          "name": "Cao, Vivien",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100309238",
+          "status": ""
+        },
+        {
+          "name": "Caze, Nora",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100393326",
+          "status": ""
+        },
+        {
+          "name": "Chen, Aria",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "101446002",
+          "status": ""
+        },
+        {
+          "name": "Chiang, Ellie",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "101203594",
+          "status": ""
+        },
+        {
+          "name": "Cloud, Cailynn",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "100351736",
+          "status": ""
+        },
+        {
+          "name": "Cloud, Chrystie",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "100352324",
+          "status": ""
+        },
+        {
+          "name": "Davidovski, Evelyn",
+          "club": "FitFence Club",
+          "division": "New England",
+          "member_num": "100353827",
+          "status": ""
+        },
+        {
+          "name": "Dong, Audrey",
+          "club": "5T Fencers Club",
+          "division": "Long Island",
+          "member_num": "100341407",
+          "status": ""
+        },
+        {
+          "name": "Gutkovskiy, Chloe",
+          "club": "Gutkovskiy Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "100358808",
+          "status": ""
+        },
+        {
+          "name": "Hall, Olivia",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "101370578",
+          "status": ""
+        },
+        {
+          "name": "Jain, Adab",
+          "club": "Zeljkovic Fencing Academy",
+          "division": "Philadelphia",
+          "member_num": "101456519",
+          "status": ""
+        },
+        {
+          "name": "Jin, Kerina",
+          "club": "East Coast Fencing Club",
+          "division": "Long Island",
+          "member_num": "100304752",
+          "status": ""
+        },
+        {
+          "name": "Jovanovic, Una",
+          "club": "Jovanovic Fencing",
+          "division": "New England",
+          "member_num": "101340584",
+          "status": ""
+        },
+        {
+          "name": "Kalapala, Olivia",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "101109811",
+          "status": ""
+        },
+        {
+          "name": "Kerson, Emma",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "100998633",
+          "status": ""
+        },
+        {
+          "name": "Klingensmith, Avia",
+          "club": "Fencing Academy Of Philadelphia - North",
+          "division": "Philadelphia",
+          "member_num": "102126894",
+          "status": ""
+        },
+        {
+          "name": "Lavoie, Cecilia",
+          "club": "Jovanovic Fencing",
+          "division": "Northeast",
+          "member_num": "100351443",
+          "status": ""
+        },
+        {
+          "name": "Li, Isabella",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "101696350",
+          "status": ""
+        },
+        {
+          "name": "Mahadevia, Nina",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "101696010",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Grayce",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346557",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Madison",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346556",
+          "status": ""
+        },
+        {
+          "name": "Mehta, Zara",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "101388585",
+          "status": ""
+        },
+        {
+          "name": "Moores, Jane",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "New England",
+          "member_num": "102509388",
+          "status": ""
+        },
+        {
+          "name": "Nadtocheva, Vera",
+          "club": "FitFence Club",
+          "division": "New England",
+          "member_num": "100292419",
+          "status": ""
+        },
+        {
+          "name": "Paek, Ellie",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100336937",
+          "status": ""
+        },
+        {
+          "name": "Sui, Jessie",
+          "club": "Mid-Island Fencing Academy",
+          "division": "Long Island",
+          "member_num": "100342594",
+          "status": ""
+        },
+        {
+          "name": "SUN, YOUXI",
+          "club": "Star Fencing Academy",
+          "division": "US Fencing",
+          "member_num": "100955679",
+          "status": ""
+        },
+        {
+          "name": "Wang, Amelia",
+          "club": "Worldwide Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101351123",
+          "status": ""
+        },
+        {
+          "name": "Wang, Jacy",
+          "club": "Star Fencing Academy",
+          "division": "Connecticut",
+          "member_num": "101241592",
+          "status": ""
+        },
+        {
+          "name": "Wang, Joann",
+          "club": "Mid-Island Fencing Academy",
+          "division": "Long Island",
+          "member_num": "100340507",
+          "status": ""
+        },
+        {
+          "name": "Wang, Qianxun",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "101379383",
+          "status": ""
+        },
+        {
+          "name": "Wang, Yixin",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "101379361",
+          "status": ""
+        },
+        {
+          "name": "Xu, Elaina",
+          "club": "Gold Fencing Club",
+          "division": "New England",
+          "member_num": "101054537",
+          "status": ""
+        },
+        {
+          "name": "Xu, Emily",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "102390552",
+          "status": ""
+        },
+        {
+          "name": "Yan, Miduo Elena",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100354012",
+          "status": ""
+        },
+        {
+          "name": "Zhao, Adelina",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100358295",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Chelsea",
+          "club": "5T Fencers Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100950266",
+          "status": ""
+        }
+      ],
+      "Y14WF": [
+        {
+          "name": "Aksakal, Ela",
+          "club": "Worldwide Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101251896",
+          "status": ""
+        },
+        {
+          "name": "Braveboy, Shania",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "100352326",
+          "status": ""
+        },
+        {
+          "name": "Chen, Rachel",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "101711387",
+          "status": ""
+        },
+        {
+          "name": "Chiu Wu, Katherine",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "102474436",
+          "status": ""
+        },
+        {
+          "name": "Cloud, Chrystie",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "100352324",
+          "status": ""
+        },
+        {
+          "name": "Comora, Elena",
+          "club": "Portland Fencing Center",
+          "division": "Northeast",
+          "member_num": "100350675",
+          "status": ""
+        },
+        {
+          "name": "de Castro, Kai",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Connecticut",
+          "member_num": "100301208",
+          "status": ""
+        },
+        {
+          "name": "Dong, Iris",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "100318153",
+          "status": ""
+        },
+        {
+          "name": "Dong, Katelyn",
+          "club": "5T Fencers Club",
+          "division": "Long Island",
+          "member_num": "100341326",
+          "status": ""
+        },
+        {
+          "name": "Duncan, Kate",
+          "club": "East Coast Fencing Club",
+          "division": "Long Island",
+          "member_num": "101109187",
+          "status": ""
+        },
+        {
+          "name": "Ge, Deanna",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100309839",
+          "status": ""
+        },
+        {
+          "name": "Giguere, Ari",
+          "club": "Portland Fencing Center",
+          "division": "Northeast",
+          "member_num": "100339839",
+          "status": ""
+        },
+        {
+          "name": "Hampton-Dowson, Winter",
+          "club": "Shoreline Fencers Club",
+          "division": "Connecticut",
+          "member_num": "100359778",
+          "status": ""
+        },
+        {
+          "name": "Hautala, Elin",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "New England",
+          "member_num": "102405384",
+          "status": ""
+        },
+        {
+          "name": "Hou, Xu",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "101033399",
+          "status": ""
+        },
+        {
+          "name": "Iwersen, Marte",
+          "club": "Jovanovic Fencing",
+          "division": "US Fencing",
+          "member_num": "100358628",
+          "status": ""
+        },
+        {
+          "name": "Kim, Gaon",
+          "club": "Gutkovskiy Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101521215",
+          "status": ""
+        },
+        {
+          "name": "Kirby, Emelie",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100301863",
+          "status": ""
+        },
+        {
+          "name": "Koesters, Cecilie",
+          "club": "Jovanovic Fencing",
+          "division": "New England",
+          "member_num": "100321886",
+          "status": ""
+        },
+        {
+          "name": "Kuklina, Maria",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100347808",
+          "status": ""
+        },
+        {
+          "name": "Lavoie, Cecilia",
+          "club": "Jovanovic Fencing",
+          "division": "Northeast",
+          "member_num": "100351443",
+          "status": ""
+        },
+        {
+          "name": "Lee, Annabel",
+          "club": "East Coast Fencing Club",
+          "division": "Long Island",
+          "member_num": "100349421",
+          "status": ""
+        },
+        {
+          "name": "Leibowitz, Cassidy",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "101755696",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Grayce",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346557",
+          "status": ""
+        },
+        {
+          "name": "Mcclain, Madison",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100346556",
+          "status": ""
+        },
+        {
+          "name": "McClellan, Florence",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100295264",
+          "status": ""
+        },
+        {
+          "name": "Miller, Anna",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100331433",
+          "status": ""
+        },
+        {
+          "name": "Min, Claire",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "101010018",
+          "status": ""
+        },
+        {
+          "name": "Paek, Ellie",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100336937",
+          "status": ""
+        },
+        {
+          "name": "Renelique, Sophie",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "101036308",
+          "status": ""
+        },
+        {
+          "name": "Sun, Erin",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100340253",
+          "status": ""
+        },
+        {
+          "name": "Thomas, Isabella",
+          "club": "Mission Fencing Center",
+          "division": "Long Island",
+          "member_num": "101420822",
+          "status": ""
+        },
+        {
+          "name": "Wang, Amelia",
+          "club": "Worldwide Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101351123",
+          "status": ""
+        },
+        {
+          "name": "Wang, Joann",
+          "club": "Mid-Island Fencing Academy",
+          "division": "Long Island",
+          "member_num": "100340507",
+          "status": ""
+        },
+        {
+          "name": "Wang, Rebecca",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100303259",
+          "status": ""
+        },
+        {
+          "name": "Wang, Yixin",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "101379361",
+          "status": ""
+        },
+        {
+          "name": "Xu, Elaina",
+          "club": "Gold Fencing Club",
+          "division": "New England",
+          "member_num": "101054537",
+          "status": ""
+        },
+        {
+          "name": "Yan, Miduo Elena",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100354012",
+          "status": ""
+        },
+        {
+          "name": "Zeldin, Nina",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "100310124",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Caroline",
+          "club": "Rochester Fencing Club",
+          "division": "Western New York",
+          "member_num": "100306085",
+          "status": ""
+        },
+        {
+          "name": "Zhilkov, Anya",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100279135",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Ella",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100332514",
+          "status": ""
+        }
+      ],
+      "CDTWF": [
+        {
+          "name": "Atticks, Rachel",
+          "club": "Portland Fencing Center",
+          "division": "Northeast",
+          "member_num": "100302488",
+          "status": ""
+        },
+        {
+          "name": "Baulin, Zoya",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "100280103",
+          "status": ""
+        },
+        {
+          "name": "Bo, Iris",
+          "club": "Moe Fencing Club LLC",
+          "division": "New England",
+          "member_num": "100304605",
+          "status": ""
+        },
+        {
+          "name": "Bradshaw, Tamira",
+          "club": "PISTE Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "100321736",
+          "status": ""
+        },
+        {
+          "name": "Byk, Karalina",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100331777",
+          "status": ""
+        },
+        {
+          "name": "Cavanagh, Emma",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "100288699",
+          "status": ""
+        },
+        {
+          "name": "Chan, Kaitlyn",
+          "club": "5T Fencers Club",
+          "division": "Long Island",
+          "member_num": "100335087",
+          "status": ""
+        },
+        {
+          "name": "Choi, Cara",
+          "club": "Top Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100335070",
+          "status": ""
+        },
+        {
+          "name": "Chung, Stella",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100306361",
+          "status": ""
+        },
+        {
+          "name": "Comora, Elena",
+          "club": "Portland Fencing Center",
+          "division": "Northeast",
+          "member_num": "100350675",
+          "status": ""
+        },
+        {
+          "name": "Conrad, Alessia",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "US Fencing",
+          "member_num": "102507236",
+          "status": ""
+        },
+        {
+          "name": "de Castro, Kai",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Connecticut",
+          "member_num": "100301208",
+          "status": ""
+        },
+        {
+          "name": "Dinar, Julia",
+          "club": "PISTE Fencing Academy",
+          "division": "US Fencing",
+          "member_num": "100321734",
+          "status": ""
+        },
+        {
+          "name": "Dong, Iris",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "100318153",
+          "status": ""
+        },
+        {
+          "name": "Dong, Katelyn",
+          "club": "5T Fencers Club",
+          "division": "Long Island",
+          "member_num": "100341326",
+          "status": ""
+        },
+        {
+          "name": "Duncan, Kate",
+          "club": "East Coast Fencing Club",
+          "division": "Long Island",
+          "member_num": "101109187",
+          "status": ""
+        },
+        {
+          "name": "Feder, Acadia",
+          "club": "Polaris Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "100291216",
+          "status": ""
+        },
+        {
+          "name": "Ferrari, Ande",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "101236230",
+          "status": ""
+        },
+        {
+          "name": "Giguere, Ari",
+          "club": "Portland Fencing Center",
+          "division": "Northeast",
+          "member_num": "100339839",
+          "status": ""
+        },
+        {
+          "name": "Huang, Sophie",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Connecticut",
+          "member_num": "100331263",
+          "status": ""
+        },
+        {
+          "name": "Irwin, Juliet",
+          "club": "Marx Fencing Academy",
+          "division": "New England",
+          "member_num": "100348368",
+          "status": ""
+        },
+        {
+          "name": "Iwersen, Marte",
+          "club": "Jovanovic Fencing",
+          "division": "US Fencing",
+          "member_num": "100358628",
+          "status": ""
+        },
+        {
+          "name": "Kim, Claire",
+          "club": "Way Of The Sword.Org",
+          "division": "Connecticut",
+          "member_num": "100295751",
+          "status": ""
+        },
+        {
+          "name": "Kim, Gaon",
+          "club": "Gutkovskiy Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101521215",
+          "status": ""
+        },
+        {
+          "name": "Kirby, Emelie",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100301863",
+          "status": ""
+        },
+        {
+          "name": "Koesters, Cecilie",
+          "club": "Jovanovic Fencing",
+          "division": "New England",
+          "member_num": "100321886",
+          "status": ""
+        },
+        {
+          "name": "Krahe, Annika",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100323069",
+          "status": ""
+        },
+        {
+          "name": "Kundu, Sarah",
+          "club": "Candlewood Fencing Center",
+          "division": "Connecticut",
+          "member_num": "101453105",
+          "status": ""
+        },
+        {
+          "name": "Li, Christina",
+          "club": "Moe Fencing Club LLC",
+          "division": "New England",
+          "member_num": "100330913",
+          "status": ""
+        },
+        {
+          "name": "Li, Doreen",
+          "club": "East Coast Fencing Club",
+          "division": "Long Island",
+          "member_num": "100291773",
+          "status": ""
+        },
+        {
+          "name": "Li, Savannah",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100294035",
+          "status": ""
+        },
+        {
+          "name": "Liu, Caydence",
+          "club": "Fencing Academy Of Westchester",
+          "division": "Westchester-Rockland",
+          "member_num": "100256101",
+          "status": ""
+        },
+        {
+          "name": "Lobo, Sophie",
+          "club": "Worldwide Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "101010875",
+          "status": ""
+        },
+        {
+          "name": "Lopes, Julia",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "New England",
+          "member_num": "100440925",
+          "status": ""
+        },
+        {
+          "name": "Manglani, Maya",
+          "club": "Marx Fencing Academy",
+          "division": "New England",
+          "member_num": "100333684",
+          "status": ""
+        },
+        {
+          "name": "McClellan, Florence",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100295264",
+          "status": ""
+        },
+        {
+          "name": "Min, Claire",
+          "club": "Manhattan Fencing Center",
+          "division": "Metropolitan NYC",
+          "member_num": "101010018",
+          "status": ""
+        },
+        {
+          "name": "Murphy, Genevieve",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100297417",
+          "status": ""
+        },
+        {
+          "name": "Ontso, Eleanor",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "New England",
+          "member_num": "100964238",
+          "status": ""
+        },
+        {
+          "name": "Orbé-Austin, Maya",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100287856",
+          "status": ""
+        },
+        {
+          "name": "Ottaviano, Maris",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100279128",
+          "status": ""
+        },
+        {
+          "name": "Park, Addison",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "100339605",
+          "status": ""
+        },
+        {
+          "name": "Pepe, Natalia",
+          "club": "Iconic Fencing Club",
+          "division": "Connecticut",
+          "member_num": "100317369",
+          "status": ""
+        },
+        {
+          "name": "Persechino, Mia",
+          "club": "Sword In The Scroll Fencing Academy",
+          "division": "Connecticut",
+          "member_num": "101272848",
+          "status": ""
+        },
+        {
+          "name": "Phan, Logan",
+          "club": "OnTarget Fencing Club",
+          "division": "Maryland",
+          "member_num": "100337705",
+          "status": ""
+        },
+        {
+          "name": "Prinz-Strateman, Matilda",
+          "club": "Candlewood Fencing Center",
+          "division": "Connecticut",
+          "member_num": "100330141",
+          "status": ""
+        },
+        {
+          "name": "Saravana, Supriti",
+          "club": "Way Of The Sword.Org",
+          "division": "Connecticut",
+          "member_num": "100351410",
+          "status": ""
+        },
+        {
+          "name": "Shui, Zola",
+          "club": "Unattached",
+          "division": "N/A",
+          "member_num": "100842003",
+          "status": ""
+        },
+        {
+          "name": "Sichel-Outcalt, Margaret",
+          "club": "Unattached",
+          "division": "Westchester-Rockland",
+          "member_num": "101281366",
+          "status": ""
+        },
+        {
+          "name": "Song, Sarah",
+          "club": "Metropolitan Fencing Academy",
+          "division": "Metropolitan NYC",
+          "member_num": "101097417",
+          "status": ""
+        },
+        {
+          "name": "Stewart, Isla",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100358724",
+          "status": ""
+        },
+        {
+          "name": "Stuart, Skylar",
+          "club": "Mission Fencing Center",
+          "division": "Long Island",
+          "member_num": "100521818",
+          "status": ""
+        },
+        {
+          "name": "Sun, Erin",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100340253",
+          "status": ""
+        },
+        {
+          "name": "Vaccaro, Lillian",
+          "club": "Morris Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100347420",
+          "status": ""
+        },
+        {
+          "name": "Wang, Joann",
+          "club": "Mid-Island Fencing Academy",
+          "division": "Long Island",
+          "member_num": "100340507",
+          "status": ""
+        },
+        {
+          "name": "wardman, Abigail",
+          "club": "Rochester Fencing Club",
+          "division": "Western New York",
+          "member_num": "101619272",
+          "status": ""
+        },
+        {
+          "name": "Wolf, Fiona",
+          "club": "Fencing Academy Of Westchester",
+          "division": "Westchester-Rockland",
+          "member_num": "101377995",
+          "status": ""
+        },
+        {
+          "name": "Yan, Miduo Elena",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100354012",
+          "status": ""
+        },
+        {
+          "name": "Yin, Chloe",
+          "club": "Star Fencing Academy",
+          "division": "New England",
+          "member_num": "100252600",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Caroline",
+          "club": "Rochester Fencing Club",
+          "division": "Western New York",
+          "member_num": "100306085",
+          "status": ""
+        },
+        {
+          "name": "Zhilkov, Anya",
+          "club": "Vivo Fencing Club",
+          "division": "New England",
+          "member_num": "100279135",
+          "status": ""
+        },
+        {
+          "name": "Zhou, Lillian",
+          "club": "Rhode Island Fencing Academy And Club",
+          "division": "New England",
+          "member_num": "100684666",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Ella",
+          "club": "Tim Morehouse Fencing Club (Port Chester)",
+          "division": "Westchester-Rockland",
+          "member_num": "100332514",
+          "status": ""
+        }
+      ]
+    },
+    "total": 145
   }
 }
