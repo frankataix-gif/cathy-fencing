@@ -137,3 +137,21 @@ Pick up the latest deals.
 <https://app.sephora.com/T/v61000001a1733610dea87184369fe94bd8/a549309c803645210000021ef3a0bcc2/a549309c-8036-4521-9f2a-
 
 ---
+
+## [营销] Last chance: 20% off Costco ends soon
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-10-25T15:48:11.000Z
+**摘要:** 提醒用户DoorDash上的Costco 20%折扣活动即将结束
+**待办:** 无
+**GmailID:** 1a173bf7e64bd15a
+
+ DoorDash Come welcome Costco to DoorDash 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+
+---
