@@ -119,3 +119,21 @@ One colour. So many ways to wear it.   A CANADIAN LEGACY SINCE
 1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O4O-2Boe3UZRJPZN49I0QXcx1a-2BnY8SCVgQZBqs-2FqT8Iog-3D-3DXbW6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANn5zPXJ0X1soNG3oGWWFM4ntv3rCQzqXmbyIYhNRHqLe-2FUi-2BybWs2gzG4TASMRgOIVWvC-2BCO1Gp3A8zOC2RGfTkUAX-2FqmQjpivT-2B9IOoLDnmKX1rwQBVF9J6gkGONr-2B0QvJvL20uDIfBQHbn8pw9pZtKvtAazSvZ9GIG2Zj30
 
 ---
+
+## [营销] This beauty is the talk of the town 📞
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-10-25T13:18:11.000Z
+**摘要:** Sephora发送的促销邮件，提及最新优惠和积分奖励
+**待办:** 无
+**GmailID:** 1a1733662a24b888
+
+ Sephora 
+
+Pick up the latest deals. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1733610dea87184369fe94bd8/a549309c803645210000021ef3a0bcc2/a549309c-8036-4521-9f2a-
+
+---
