@@ -106,3 +106,16 @@ Policy #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WxFKx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQAO3gldGCMRZ1awLsDbPoRX6uAj2TTt57yt0gHTZiLRGU86G2eDoPdj0k7KR805l1yGILr1LzkOOuG2CkWbT-2BX4gIsQIKsfcI-2BTwipRKQ
 
 ---
+
+## [营销] The Wardrobe Essential: Black Boots
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-25T13:09:08.000Z
+**摘要:** 推广Black Boots的广告邮件
+**待办:** 无
+**GmailID:** 1a1732de23d66422
+
+One colour. So many ways to wear it.   A CANADIAN LEGACY SINCE
+1940 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O4O-2Boe3UZRJPZN49I0QXcx1a-2BnY8SCVgQZBqs-2FqT8Iog-3D-3DXbW6_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IANn5zPXJ0X1soNG3oGWWFM4ntv3rCQzqXmbyIYhNRHqLe-2FUi-2BybWs2gzG4TASMRgOIVWvC-2BCO1Gp3A8zOC2RGfTkUAX-2FqmQjpivT-2B9IOoLDnmKX1rwQBVF9J6gkGONr-2B0QvJvL20uDIfBQHbn8pw9pZtKvtAazSvZ9GIG2Zj30
+
+---
