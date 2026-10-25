@@ -86,3 +86,23 @@ Mon, 26
 Today is Da
 
 ---
+
+## [待办] Welcome to Square One – Learn about your coverage limits
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-25T00:30:32.000Z
+**摘要:** 这封邮件是保险公司发送的，介绍保险覆盖限额和如何更新政策。
+**待办:** 查看保险覆盖限额并更新政策
+**GmailID:** 1a1707761311b770
+
+ 
+In this second of four emails, you'll learn what the limits of your 
+coverage are, and how to update your policy. 
+
+Policy #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WxFKx_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQAO3gldGCMRZ1awLsDbPoRX6uAj2TTt57yt0gHTZiLRGU86G2eDoPdj0k7KR805l1yGILr1LzkOOuG2CkWbT-2BX4gIsQIKsfcI-2BTwipRKQ
+
+---
