@@ -400,3 +400,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261026_S3_CrossCategory_Knit&SewYarnsgiving_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c
 
 ---
+
+## [营销] WISHBONE has new arrivals
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-26T13:06:42.000Z
+**摘要:** Browns Shoes通知WISHBONE新品到货，并提供两小时后自提服务。
+**待办:** 无
+**GmailID:** 1a1785204e742c8c
+
+Fresh fall styles from a Browns favourite   BUY NOW, PICK UP IN
+2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PwJ8lievCLCZu3uMdZMrLPJ1Ndqc22RJBxCb1DpDiM0Q-3D-3D3TGU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAACxb3wZ8QmrbeMELBl7GedJ-2FhaIjfvcP7hADnBu4MZy5kGeYuF7s4iWum5wFEqsngKyn-2F2l-2BOFt-2FiTIzdjVTHrN5Oltt-2FVR-2Fdh6TuSW-2BHLWPUbsREaz57fjAYDrJB5F8vOS9BEiVawwVf1ibyoD9nW8-2FOMk9-2ByQIpC6bg
+
+---
