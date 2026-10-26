@@ -335,3 +335,16 @@ Tel: 6593 1459 | Fax: 6298 9954
 [cid:image001.jp
 
 ---
+
+## [生活旅行] 10點搶 HK$900 旅行急救包🥳
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-26T00:46:37.000Z
+**摘要:** Trip.com 发送旅行促销邮件，宣传泰国5星级酒店折扣及机票信息。
+**待办:** 无
+**GmailID:** 1a175ac72dfd8724
+
+無憂旅程探索展進行中！泰國5星酒店低至8折，再賺額外7%回贈，今日預訂👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143103244-1792974896884.287%26ouid%3D530609.HK-20261026-edm-brandinghk-TH.2026-10-26_8_0.20261026.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D530609.HK-20261026-edm-brandinghk-TH.2026-10-26_8_0.20261026.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4
+
+---
