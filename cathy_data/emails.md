@@ -287,3 +287,51 @@ I only noticed today that the SWIFT code you confirmed on the 15th may have been
 I would like to confirm once again that all my accoun
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** "LIM LENG TECK GLENN (SG)" <glennlim@maybank.com>
+**日期:** 2026-10-26T00:38:52.000Z
+**摘要:** 提供Maybank新加坡有限公司的银行账户详细信息，包括SWIFT代码和账号。
+**待办:** 需要确认账户信息并进行验证
+**GmailID:** 1a1417ffaad990e7
+
+Restricted
+
+Dear Ms Wu,
+
+The details as per attached
+
+Thank you
+
+
+Information for London property
+
+Bank Full Name
+Maybank Singapore Limited
+Bank Address
+2 Battery Road Maybank Tower Singapore 049907
+Bank Code
+7302
+Branch code
+001
+SWIFT BIC
+MBBESGSG
+Account Name
+
+UK/London Intermediary Bank / SWIFT/Chaps Sorting Code
+Barclays Bank PLC / BARCGB22
+GBP Account Number(s)
+
+
+
+Regards,
+Glenn Lim
+
+
+CFS - Consumer Credit
+Tel: 6593 1459 | Fax: 6298 9954
+
+[cid:image001.jp
+
+---
