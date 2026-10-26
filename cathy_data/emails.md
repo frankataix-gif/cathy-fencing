@@ -270,3 +270,20 @@ Maybank Singapore Limited
 0
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** Frank <frankataix@gmail.com>
+**日期:** 2026-10-22T10:05:43.000Z
+**摘要:** Frank多次转账失败，因SWIFT代码问题，请求确认账户信息是否正确。
+**待办:** 确认账户信息是否正确
+**GmailID:** 1a1417ffaad990e7
+
+wen yuin Hello
+I apologize that the previous transfers were unsuccessful. I made a second transfer of £15,000 on the 16th of last week, but the money was returned on Monday. The bank said it could not find the SWIFT code.
+
+I only noticed today that the SWIFT code you confirmed on the 15th may have been incorrect. Your email stated: MBBESGS2. I checked our previous email and found that the SWIFT code I sent for confirmation was MBBESGSG.
+
+I would like to confirm once again that all my accoun
+
+---
