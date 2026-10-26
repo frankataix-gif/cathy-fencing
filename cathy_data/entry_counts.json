@@ -57019,5 +57019,131 @@
       ]
     },
     "total": 6
+  },
+  "designated-fie-senior-world-cu-2026-12-04-vancouver-": {
+    "fetched_at": "2026-10-26T22:03:18.652313Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-junior-world-cu-2026-11-28-novi-sad-": {
+    "fetched_at": "2026-10-26T22:03:18.642152Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-senior-fie-grand-pr-2026-12-04-orléans-": {
+    "fetched_at": "2026-10-26T22:03:18.642208Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-junior-world-cu-2026-12-19-tbd-": {
+    "fetched_at": "2026-10-26T22:03:19.502010Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-junior-world-cu-2026-12-19-tbilisi-": {
+    "fetched_at": "2026-10-26T22:03:19.550574Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-senior-world-cu-2026-12-11-shanghai-": {
+    "fetched_at": "2026-10-26T22:03:18.652399Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-junior-world-cu-2026-11-28-samorin-": {
+    "fetched_at": "2026-10-26T22:03:18.642129Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "non-designated-efc-cadet-event-2026-12-20-zagreb-": {
+    "fetched_at": "2026-10-26T22:03:20.049108Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-senior-world-cu-2027-02-26-athens-": {
+    "fetched_at": "2026-10-26T22:03:20.304357Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y14WF": 0,
+      "Y12WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y14WF": [],
+      "Y12WF": []
+    },
+    "total": 0
   }
 }
