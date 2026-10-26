@@ -189,3 +189,44 @@ lululemon
 <https://customerreviews.google.com/surveyui/nymnym?context=AJgVhVfTuzeRCOY-fT4icIn61QMU38Rgvd_di1KZhiDawMOiv-N-nkVpZMPhkZcHACFk3TvxONqoXJp0Rstr-_uFXwIW5L6sMzM-Az2VqY9hTdub0MxsyPN
 
 ---
+
+## [其他] RE: Maybank Singapore Limited - W065023
+
+**发件人:** "BEATRICE LEE WEN YUIN (SG)" <beatricelee@maybank.com>
+**日期:** 2026-10-16T01:52:17.000Z
+**摘要:** 邮件涉及银行账户信息的回复，并包含来自外部邮件的警告。
+**待办:** 无
+**GmailID:** 1a1417ffaad990e7
+
+Restricted
+
+Dear MS WU, JINGQI,
+Thank you for your email. Please find below bank details:
+
+Bank Full Name
+Maybank Singapore Limited
+Bank Address
+2 Battery Road Maybank Tower Singapore 049907
+Bank Code
+7302
+Branch code
+001
+SWIFT BIC
+MBBESGS2
+Account Name
+
+UK/London Intermediary Bank / SWIFT/Chaps Sorting Code
+Barclays Bank PLC / BARCGB22
+GBP Account Number(s)
+
+
+Thank you.
+
+Best Regards,
+Beatrice Lee
+Consumer Credit, Community Financial Services
+DID: + 65 6593 1421
+
+[J
+
+---
