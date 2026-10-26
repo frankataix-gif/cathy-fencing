@@ -376,3 +376,27 @@ Expertly Tailored Outerwear changes everything.
 ͏
 
 ---
+
+## [营销] Yarn is on sale ... including cashmere, alpaca, bamboo and more 🧶
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-26T07:17:42.000Z
+**摘要:**  Michaels 发来邮件宣传毛线产品促销，包含羊绒、骆马毛、竹纤维等材质。
+**待办:** 无
+**GmailID:** 1a1771294d34e25e
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDEsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFv-mZQw5cYNjX4nghNFrik1t8scFUR7dTgEKrgsYYCzCSeOKeK3CxytYt_vmZkZlUnuQKq85HNFeq4eCuVeKt_naBBFajmSop_NAqMJtTN2YFaOSw_Q 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261026_S3_CrossCategory_Knit&SewYarnsgiving_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c
+
+---
