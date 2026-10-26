@@ -413,3 +413,31 @@ Fresh fall styles from a Browns favourite   BUY NOW, PICK UP IN
 2 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PwJ8lievCLCZu3uMdZMrLPJ1Ndqc22RJBxCb1DpDiM0Q-3D-3D3TGU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAACxb3wZ8QmrbeMELBl7GedJ-2FhaIjfvcP7hADnBu4MZy5kGeYuF7s4iWum5wFEqsngKyn-2F2l-2BOFt-2FiTIzdjVTHrN5Oltt-2FVR-2Fdh6TuSW-2BHLWPUbsREaz57fjAYDrJB5F8vOS9BEiVawwVf1ibyoD9nW8-2FOMk9-2ByQIpC6bg
 
 ---
+
+## [营销] The sooner you request a payment...
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-10-26T18:15:22.000Z
+**摘要:** Payoneer发送的促销邮件，提醒用户尽快请求付款以加快到账速度。
+**待办:** 无
+**GmailID:** 1a1796c9d8ecaf37
+
+ ...the sooner
+you’ll get paid! 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0"
+
+---
