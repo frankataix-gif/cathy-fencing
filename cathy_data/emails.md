@@ -493,3 +493,16 @@ Policy #7181329
 <https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WPMQS_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ2VRKoh7A4ONUeDeUMN99t3jonPtd0XwyQgXsidJN7zMJp7hMJYmACnJSz435Ct2xyQgXROKju-2BvZ9b-2F7WB-2FAPileUJn3jgPZBD6Y5Fd0AScf-2BcT-2FI9v
 
 ---
+
+## [生活旅行] Trip.com 生日快樂🎉齊賺 9% 回贈🎂
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-27T05:22:11.000Z
+**摘要:** Trip.com 发起的会员日促销活动，预订机票、酒店等可获得返现优惠。
+**待办:** 无
+**GmailID:** 1a17bcf1d894db98
+
+9週年會員日：今日訂機票、酒店、高鐵即賺 9% 回贈！訂指定酒店再賺額外 5%👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143109221-1793076886552.975%26ouid%3D530616.HK-20261027-edm-memberday.2026-10-27_8_0.20261027.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D530616.HK-20261027-edm-memberday.2026-10-27_8_0.20261027.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0x
+
+---
