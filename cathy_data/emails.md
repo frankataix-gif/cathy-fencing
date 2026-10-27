@@ -635,3 +635,31 @@ Mule   BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Oy2LZ01Egv4yy9IB1izrgh1-2BNc3HpjZHtIfXK31-2FcRNw-3D-3DWwDG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGXxnNeXGLb0ePLvKeab3f4xpnp-2BD9h9CUjuKzLqkhfiPyPH3OP54d-2BAa6DaCaWewz09UBIFzlmEFcUGUpvUIw-2BKoB3bWk9bZQ1wWbqp9hfjW-2B9r62yHXjIWc2Z3hDH6H14241YIvNDHE5uB1
 
 ---
+
+## [营销] Now Trending — Bold Expression
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-10-27T14:21:51.000Z
+**摘要:** Aritzia 发送的冬季新品促销邮件，强调层次感穿搭。
+**待办:** 无
+**GmailID:** 1a17dd09233f79e2
+
+Winter speaks in layers.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
