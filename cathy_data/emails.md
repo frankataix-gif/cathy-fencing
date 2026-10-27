@@ -526,3 +526,23 @@ ________________________________
 This email is confidential and may also be legally privileged. If you are not the intended recipient, you should delete it and any record or copy from your system. You should not use, disclose, copy, distribute the message or retain the contents and information for any purpose. Please notify the sender 
 
 ---
+
+## [待办] Re: Maybank Singapore Limited - W065023
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-15T21:37:35.000Z
+**摘要:** 关于Maybank账户逾期付款及更新银行信息的邮件
+**待办:** 确认账户信息并处理付款
+**方向:** 发出
+**GmailID:** 1a1417ffaad990e7
+
+Dear Beatrice,
+
+I am very sorry for the delay. I am currently on a business trip in North America, so my Chinese mobile number has no signal. You can reach me at my current phone number: 1-778-255-5899
+Please feel free to contact me anytime!
+
+Regarding last month’s payment, I asked my husband to send money but realized he transferred the funds to the old account. I suspect the payment may not have been successful, as I recently saw an email stating that the account details have changed.
+
+
+
+---
