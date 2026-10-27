@@ -565,3 +565,36 @@ thank you！
 在 Oct 26, 2026, 02:39 +0200，LIM LENG TECK GLENN (SG) <glennlim
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** "LIM LENG TECK GLENN (SG)" <glennlim@maybank.com>
+**日期:** 2026-10-27T06:22:41.000Z
+**摘要:** 邮件涉及Maybank账户被限制，需要确认账户信息和转账细节。
+**待办:** 确认Wu Jingqi的Maybank账户详情并处理转账问题。
+**GmailID:** 1a1417ffaad990e7
+
+Restricted
+
+Dera Ms Wu,
+
+Your Maybank account is the one ending with XXXXX107293
+
+Thank you
+
+Regards,
+Glenn Lim
+
+
+CFS - Consumer Credit
+Tel: 6593 1459 | Fax: 6298 9954
+
+[cid:image001.jpg@01DD661E.9CEDB8E0]
+
+From: natalie <nataliewu100@gmail.com>
+Sent: Tuesday, 27 October 2026 2:12 pm
+To: LIM LENG TECK GLENN (SG) <glennlim@maybank.com>; BEATRICE LEE WEN YUIN (SG) <beatricelee@maybank.com>; natalie <nataliewu100@gmail.com>
+Cc: SEE LENG TAT (SG) <ltsee@maybank.com>
+Subject: RE:
+
+---
