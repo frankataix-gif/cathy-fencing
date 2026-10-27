@@ -687,3 +687,25 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261027_S5_Seasonal_Hallmark_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=69973070
 
 ---
+
+## [其他] Champagne Route  - Festive announcement
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-27T16:48:04.000Z
+**摘要:** 关于Champagne Route的节日公告
+**待办:** 无
+**GmailID:** 1a17e43113afae78
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/fvlknWvak5O3klFwehCd2yC5bwSoyIgvLsyJpQZSBww4gve76BLCaS5Vm3uOUZACRV0HFQ9yvSZawb_QO7uxDwUrAeiMZuqUB_LbGB1krqJvLPGGp5PgO6_nrvoS2IdP68fTQ0lXWwrWMMTz9k7sG2lckeF-jlPBrMwtxPW8wrXJkIUkGlZyLwaitWmljmxKED0PHnosIa0rvsYdLqMHYHnpBFHAaRVPGjQ2UZQqTVFZvaP25uv8ipd79QMTLFns9JeGFxjHfTrbBARD5oZAAse4tw> 
+
+Dear Ms Jingqi Wu,
+
+Please find attached announcement from Champagne Route.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.bh.d.sendi
+
+---
