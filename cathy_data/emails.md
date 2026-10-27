@@ -506,3 +506,23 @@ Policy #7181329
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143109221-1793076886552.975%26ouid%3D530616.HK-20261027-edm-memberday.2026-10-27_8_0.20261027.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D530616.HK-20261027-edm-memberday.2026-10-27_8_0.20261027.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0x
 
 ---
+
+## [其他] Automatic reply: Maybank Singapore Limited - W065023
+
+**发件人:** "BEATRICE LEE WEN YUIN (SG)" <beatricelee@maybank.com>
+**日期:** 2026-10-27T06:13:17.000Z
+**摘要:** 这是一封来自Maybank Singapore的自动回复邮件，告知发件人暂时无法处理邮件。
+**待办:** 无
+**GmailID:** 1a17bfe06ec99106
+
+Dear all,
+
+Thank you for your email. I am away and has no access to email. I will respond to your emails as soon as possible upon my return.
+
+Thank you.
+
+________________________________
+
+This email is confidential and may also be legally privileged. If you are not the intended recipient, you should delete it and any record or copy from your system. You should not use, disclose, copy, distribute the message or retain the contents and information for any purpose. Please notify the sender 
+
+---
