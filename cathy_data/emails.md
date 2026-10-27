@@ -663,3 +663,27 @@ Winter speaks in layers.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] 3, 2, 1 … ready for some Hallmark holiday magic? ❤️ 🎄✨
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-27T15:15:56.000Z
+**摘要:** Michaels发送的节日促销邮件，包含优惠券和活动链接。
+**待办:** 无
+**GmailID:** 1a17deef0062a6c1
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFyh4aHOY4TWzaESsG0xDnQt89J5NON6cMh6lm4RI7h29hNTqnvHmM6FKiJx0o113f2tftfuu7RSnYXT8UfKokTLj1NsVqQZ8IFbCS-KYMK_gFd3hc 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261027_S5_Seasonal_Hallmark_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=69973070
+
+---
