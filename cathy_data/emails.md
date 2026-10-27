@@ -546,3 +546,22 @@ Regarding last month’s payment, I asked my husband to send money but realized 
 
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-27T06:12:16.000Z
+**摘要:** 请求确认Maybank新加坡账户信息以确保正确转账
+**待办:** 确认Wu Jingqi的Maybank新加坡账户信息
+**方向:** 发出
+**GmailID:** 1a1417ffaad990e7
+
+Dear Lim
+
+Thank you for the bank transfer information. I will transfer the money today.
+Could you please help me confirm my personal Maybank Singapore account details for Wu Jingqi? My current account is linked to Singapore Standard Chartered Bank, but I would like to use another account for this transfer. Please check and share my Maybank account number so I can make sure the payment is sent to the correct account.
+
+thank you！
+在 Oct 26, 2026, 02:39 +0200，LIM LENG TECK GLENN (SG) <glennlim
+
+---
