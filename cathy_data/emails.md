@@ -473,3 +473,23 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Welcome to Square One – Learn about submitting a claim
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-27T00:36:02.000Z
+**摘要:** 保险索赔流程说明邮件，指导如何提交索赔及后续步骤
+**待办:** 无
+**GmailID:** 1a17ac91f6bb7bc3
+
+ 
+In this third of four emails, you'll learn how to submit a claim and what 
+to expect afterwards. 
+
+Policy #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2WPMQS_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQ2VRKoh7A4ONUeDeUMN99t3jonPtd0XwyQgXsidJN7zMJp7hMJYmACnJSz435Ct2xyQgXROKju-2BvZ9b-2F7WB-2FAPileUJn3jgPZBD6Y5Fd0AScf-2BcT-2FI9v
+
+---
