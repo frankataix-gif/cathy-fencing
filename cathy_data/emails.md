@@ -725,3 +725,37 @@ Powered by Locale
 
 
 ---
+
+## [待办] RE: Maybank Singapore Limited - W065023
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-10-27T21:21:57.000Z
+**摘要:** Natalie确认已通过母亲账户转账，并附上收据
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1417ffaad990e7
+
+Dear Glenn,
+
+I have completed the transfer of 20,000 USD, approximately 15,000 GBP. This repayment was made from my mother’s account using Guan Shifen’s bank card.
+
+I have attached the transfer receipt for your records.
+
+Thank you.
+在 Oct 27, 2026, 08:22 +0200，LIM LENG TECK GLENN (SG) <glennlim@maybank.com>，写道：
+> Restricted
+>
+> Dera Ms Wu,
+>
+> Your Maybank account is the one ending with XXXXX107293
+>
+> Thank you
+>
+> Regards,
+> Glenn Lim
+>
+>
+> CFS - Consumer Credit
+> Tel: 6593
+
+---
