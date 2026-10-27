@@ -621,3 +621,17 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [营销] The North Face: Peak comfort meets street style
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-27T13:12:40.000Z
+**摘要:** 这封邮件是关于North Face新款鞋款的促销信息，鼓励用户立即购买。
+**待办:** 无
+**GmailID:** 1a17d7dd55b086a1
+
+Featuring the Nuptse Traction Chukka and Base Camp Thermoball
+Mule   BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Oy2LZ01Egv4yy9IB1izrgh1-2BNc3HpjZHtIfXK31-2FcRNw-3D-3DWwDG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAGXxnNeXGLb0ePLvKeab3f4xpnp-2BD9h9CUjuKzLqkhfiPyPH3OP54d-2BAa6DaCaWewz09UBIFzlmEFcUGUpvUIw-2BKoB3bWk9bZQ1wWbqp9hfjW-2B9r62yHXjIWc2Z3hDH6H14241YIvNDHE5uB1
+
+---
