@@ -598,3 +598,26 @@ Cc: SEE LENG TAT (SG) <ltsee@maybank.com>
 Subject: RE:
 
 ---
+
+## [营销] 🎃 Sweet inspo with spooooky vibes inside 👻
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-27T07:22:31.000Z
+**摘要:** 迈克尔斯发送万圣节主题促销邮件，提供装饰品和优惠信息。
+**待办:** 无
+**GmailID:** 1a17c3da18a6423d
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFxruX19LVIwsHSCs0U7GHXmqmIliJ_FuC_1JgIesXabGUNgThK70nPnnG9azwXzvK0xPhJilSoOoQQYGuH9VnFCBWlJGGfsZnyuF-VxeBAx0Ig2BFcg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
