@@ -795,3 +795,27 @@ Hi Jingqi,
 On October 28, 2026, you removed pre-authorized payments from your mobility account. Charges for your account will no longer be automatically withdrawn from your bank account  ending 
 
 ---
+
+## [营销] Up to 50% off: Find Monster Deals inside! 👻
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-28T07:20:16.000Z
+**摘要:** 促销邮件，提供最高50%折扣，链接至商店页面。
+**待办:** 无
+**GmailID:** 1a18161a986a03b0
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAFzasNQBcoe2f2rSsJG5KO_vCd1xO9Y002b_9jQr_ZAZXjSQUEjx2AekGclbxmPojvHMhTxK3WdPzfXWshLnxcKmkhb1Q0gEIuGfZTSIJern0zqOGgsw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261028_S4_EOW_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=6
+
+---
