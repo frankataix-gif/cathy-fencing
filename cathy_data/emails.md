@@ -921,3 +921,36 @@ Verdana, Arial, sans-serif !important; }     96
 [image: DoorDash
 
 ---
+
+## [Cathy&David] Transaction Receipt - Reference: MR-27-001
+
+**发件人:** LYNCH BUS LINES LTD <noreply@elavon.com>
+**日期:** 2026-10-28T20:06:14.000Z
+**摘要:** 收到LYNCH BUS LINES LTD的退款确认，金额1869加元，日期2026年10月28日。
+**待办:** 无
+**GmailID:** 1a1841ede6964eb3
+
+ 
+
+$1,869.00 CAD
+
+10/28/2026 01:06:13 PM
+
+LYNCH BUS LINES LTD
+Your return was approved 
+Transaction Type RETURN 
+Payment VISA   43**********2813 
+Transaction ID 281026O6D-C2BAF261-1D86-4BBC-9BD0-9D4328E21296 
+Approval Code 512123 
+Approval Message APPROVAL 
+
+Thank you for your business!
+Total $1,869.00 CAD 
+Other Information Required 
+Invoice or Confirmation Number MR-27-001 
+LYNCH BUS LINES LTD 
+4687 BYRNE ROAD BURNABY BC V5J 3H6 | www.lynchbuslines.com | 604-439-0842 
+
+The information containe
+
+---
