@@ -819,3 +819,27 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261028_S4_EOW_MonsterDeals_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=6
 
 ---
+
+## [营销] Don't miss your chance to tell us about your gear!
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-10-28T10:21:10.000Z
+**摘要:** Lululemon邀请用户评价Daydrift High-Rise Wide-Leg Trouser裤子，并鼓励提供照片和反馈以帮助改进产品
+**待办:** 无
+**GmailID:** 1a182072c887682b
+
+ Don't miss your chance to tell us about your gear! 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Just a quick reminder to review your Daydrift High-Rise Wide-Leg Trouser 
+Regular *Twill. 
+ 
+Reviews that include photos help others pick the right size and fit. Don’t 
+hesitate to show us and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Daydrift High-Rise Wide-Leg Trouser Regular *Twil
+
+---
