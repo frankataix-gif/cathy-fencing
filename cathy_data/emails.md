@@ -772,3 +772,26 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] You’ve successfully removed pre-authorized payments from your account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-10-28T07:10:00.000Z
+**摘要:** 您已成功取消预授权支付，后续将不再从银行账户自动扣款。可通过My TELUS查看账单详情及支付选项。
+**待办:** 无
+**GmailID:** 1a18158266c1d472
+
+
+
+
+Trouble viewing this email? View in  https://t.i.telus.com/r/?id=t181912bb,15da7fe6,59c8661&e=cDE9JTQwb0JROUdPcmd6NzUlMkJINUZVV1pYd2Fta3NGcVlmdEJCd0clMkJYWHpoRVY2dU0lM0Q&s=BmMqB8ESRURsBoFxVsuk_M_mSwtk5IScckbVtNBszi8 web browser . 	
+	
+	
+
+You’re no longer using pre-authorized payments. 	
+	
+
+Hi Jingqi, 	
+On October 28, 2026, you removed pre-authorized payments from your mobility account. Charges for your account will no longer be automatically withdrawn from your bank account  ending 
+
+---
