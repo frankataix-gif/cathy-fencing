@@ -967,3 +967,17 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Less worry. More security. With SmartHome+.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-10-28T20:39:58.000Z
+**摘要:** TELUS推广SmartHome+智能家居安全服务，提供全方位家庭安全控制功能。
+**待办:** 无
+**GmailID:** 1a1843db8b7e0e6d
+
+Unparalleled control, all in one app from Canada’s most trusted security provider.͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t9030d2d,40bb6d75,2b0d453b&e=Y2lkPXRlbERNMjM1NjM4MSZiaWQ9MTUxMTk0OTI1JnAxPSU0MGlhVzVRVXhWT0dqRmhJZnp2VkFVV1JmMjIzbCUyRlZYR3VPM1o0M0prM3p4VSUzRA&s=PA3-6r4K
+
+---
