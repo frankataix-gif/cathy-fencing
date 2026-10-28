@@ -857,3 +857,20 @@ TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MUb1T-2BUyGBUF-2BzfD3SBLXewztuEk8-2Bx8Lf8pmTzt54PA-3D-3D8bvW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALQM6LeVctj-2Fx-2BpeyLvIC1gF4aQqvt2wv4CqHvPXiJn5vfYxyg2O1KK1s9YdNukyWd5gA6QoWbGpLxK8OXoMJvPem4B9xg9rAjjhWs2Ml5GTLfi3nwvZgx3K-2BzfLIio4P9J-2B3SMUFA0-2FpPJH9OHj8
 
 ---
+
+## [营销] Pro tips for your recent purchase inside, Natalie ➡️
+
+**发件人:** Sephora <shop@s.sephora.com>
+**日期:** 2026-10-28T15:07:12.000Z
+**摘要:** 关于最近购买的使用技巧和更多优惠信息
+**待办:** 无
+**GmailID:** 1a1830d104cf4944
+
+ Pro tips for your recent purchase inside, Natalie ➡️ 
+Plus, more ways to get helpful 
+tricks. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
