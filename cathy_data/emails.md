@@ -981,3 +981,28 @@ Unparalleled control, all in one app from Canada’s most trusted security provi
 Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t9030d2d,40bb6d75,2b0d453b&e=Y2lkPXRlbERNMjM1NjM4MSZiaWQ9MTUxMTk0OTI1JnAxPSU0MGlhVzVRVXhWT0dqRmhJZnp2VkFVV1JmMjIzbCUyRlZYR3VPM1o0M0prM3p4VSUzRA&s=PA3-6r4K
 
 ---
+
+## [击剑] USA Fencing: How would you rate the support you received?
+
+**发件人:** Support <information@usafencing.org>
+**日期:** 2026-09-17T19:02:07.000Z
+**摘要:** USA Fencing请求评价客服服务，并提及Cathy的区域变更和积分规则问题。
+**待办:** 评价USA Fencing的客服服务
+**涉及:** Cathy
+**GmailID:** 1a0b0bf9bfb5bd0a
+
+Hello natalie,
+
+We'd love to hear what you think of our customer service. Please take a moment to answer one simple question by clicking either link below:
+
+How would you rate the support you received?
+
+You can copy the following URL into your browser to rate:
+
+  https://usafencing.zendesk.com/requests/59339/satisfaction/new/xUO7kcWsAeChER82VPkyzX8mg?locale=1
+
+Thank you for being a member of USA Fencing! Please feel free to reach out if you have any additional questions.
+
+Here's a re
+
+---
