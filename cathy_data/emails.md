@@ -1104,3 +1104,16 @@ If you didn't request a password reset, please call us free of charge at
 1-866-995-6636 or *611 from yo
 
 ---
+
+## [生活旅行] 親子旅客專屬好禮，每月最高減HK$470，即刻領取🎁✨
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-29T03:21:35.000Z
+**摘要:** Trip.com推出亲子旅客专属优惠，填写亲子档案并加入社群可享每月折扣及抽奖活动。
+**待办:** 无
+**GmailID:** 1a185ad6781fd7d8
+
+完成填寫親子檔案+加入社群，即享每月專屬優惠💰，仲有限時HK$200大獎等你搶🎉🏆
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10156124168-1793244094955.634%26ouid%3D532450.Family-profile-and-community-recruitment-EDM-Oct28-onlyHK.2026-10-28_-8_0.20261029.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D532450.Family-profile-and-community-recruitment-EDM-Oct28-onlyHK.2026-10-28_-8_0.20261029.zh_HK.%26trip_in_si
+
+---
