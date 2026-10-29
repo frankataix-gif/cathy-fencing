@@ -1253,3 +1253,21 @@ PROLED XDR Display
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Fx6Yckyxxl8Pg2dMxhXJi23KmD2dAYRdF84Vjtcyyplho308aRHc5TqNXBpDI6ctsuY8%2Brq3S6%2FS9EBpjxYUIT4JeGsGNg6T2QSDaqRBj0Wq3dsLSxcoAWon7ZBE%2FremjeOTPoO5enh%2FTUh5Y%2BpwoN3yqGJPaSKJEPiti1j2WXnP8X22MyM7k%2BPpJtbb0WX
 
 ---
+
+## [营销] Top-shelf beauty, right this way 👉🏽
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-10-29T16:06:35.000Z
+**摘要:** Sephora 发送的美容产品促销邮件
+**待办:** 无
+**GmailID:** 1a1886cf09b85572
+
+ Sephora 
+
+Worth showing off. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a18869c4a2acdb29f4bbe5be50/e0b0fca25b53487a0000021ef3a0bcc2/e0b0fca2-5b53-487a-8003-3c309de
+
+---
