@@ -1081,3 +1081,26 @@ Privacy Policy <https://www.koodomobile.com/legal> Support
 <https
 
 ---
+
+## [待办] Reset your Koodo My Account password
+
+**发件人:** customerservice@koodomobile.com
+**日期:** 2026-10-29T00:27:55.000Z
+**摘要:** 提醒用户重置Koodo账户密码，并提供重置链接和客服联系方式
+**待办:** 重置Koodo账户密码
+**GmailID:** 1a1850e76e55640b
+
+ 
+[image: Koodo Logo] <http://koodomobile.com/>
+
+Hey JINGQI,
+
+Need to reset your password? Log into Self Serve below.
+
+Reset password 
+<https://profile.koodomobile.com/clientIdentity/resetPassword.do?parameter=validate&serviceType=koodo&locale=en&email=nataliewu100%40gmail.com&uid=&passwordToken=bec28bfd-109d-4025-a8d6-d4c115e70f476337fd94-1bbb-441b-8936-24d0c35c4c5f&INTCMP=EmlBtnFgPwReset> 
+
+If you didn't request a password reset, please call us free of charge at 
+1-866-995-6636 or *611 from yo
+
+---
