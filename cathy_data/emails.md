@@ -1207,3 +1207,27 @@ Don’t miss out on top savings! Plus get 30% off ALL Sephora Collection.
 <https://app.sephora.com/T/v61000001a187e7b0f2cb63316e96638858/33853c6510a
 
 ---
+
+## [营销] Incoming: Expert tips for holiday decorating 📬
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-29T15:13:07.000Z
+**摘要:** 提供节日装饰的专家建议
+**待办:** 无
+**GmailID:** 1a18839730457256
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDQsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF2ipHimZPM3GvWnbL5doITkdjWDEDuVp8vkImg6jzZa4YvppmFvaismJEHbrwJWLNJE2vRh3WYOtP2raK0thIqm-Cmq7VArQaINDXoSF2feoiERkUmA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261029_S4_Seasonal_HolidayDecorTips_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca
+
+---
