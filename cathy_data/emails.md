@@ -1175,3 +1175,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOG
 
 
 ---
+
+## [营销] Fall, After Hours 🍂
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-29T13:03:53.000Z
+**摘要:** 秋季鞋款促销广告，介绍适合多种场合的鞋履产品
+**待办:** 无
+**GmailID:** 1a187c285ad175d9
+
+Sophisticated silhouettes designed for dinner, drinks, and
+beyond.   YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MF4aq-2BcnmXWBsdiJtXif7HBGjmve3I26gyreZlN4Xgbw-3D-3D2FRI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAP0pgY8RsZcfQPJWC0VxH-2FauCLjGOLsHAvLRmB02Aexf8aA-2B-2BzvEptvF476VngFYgN8DEqY0XAvhDw0EEb9rSALKjNzKjq8XSujYbSxpsKNmLsk4-2FODUaWjtZyvCPj-2BdFJrbLdkZyNHlun8
+
+---
