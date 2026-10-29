@@ -1117,3 +1117,26 @@ If you didn't request a password reset, please call us free of charge at
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10156124168-1793244094955.634%26ouid%3D532450.Family-profile-and-community-recruitment-EDM-Oct28-onlyHK.2026-10-28_-8_0.20261029.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D532450.Family-profile-and-community-recruitment-EDM-Oct28-onlyHK.2026-10-28_-8_0.20261029.zh_HK.%26trip_in_si
 
 ---
+
+## [营销] Everything for a frighteningly sweet Halloween 🍬 👻
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-29T07:22:33.000Z
+**摘要:** Michaels 发送的万圣节主题促销邮件，包含购物、优惠券和广告链接
+**待办:** 无
+**GmailID:** 1a1868a0b3f0290a
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDQsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF1pKvBEcOV2cKm1MHqr99qJSI_2P1FeG64MAWxE_SJ_l2-EdjpS1hF3qT7BFbn5DCWbffD7-P8UqMXtwQtWsJ4tspDWZvxajakow7H29VaqIYIRPk 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc75d
+
+---
