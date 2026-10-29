@@ -1031,3 +1031,23 @@ Thank you for being a member of USA Fencing! Please feel free to reach out if yo
 Here's a re
 
 ---
+
+## [营销] Welcome to Square One — Learn about our Referral Program and extra benefits
+
+**发件人:** Square One Insurance Services <info@squareone.ca>
+**日期:** 2026-10-29T00:32:46.000Z
+**摘要:** 保险公司介绍推荐计划和额外福利，鼓励客户了解更多信息。
+**待办:** 无
+**GmailID:** 1a18512defd30565
+
+ 
+In this final email, you’ll learn about our Referral Program and some of 
+the extra benefits provided by Square One. 
+
+Policy #7181329
+
+103 - 708 Farrow Street
+[image: Square One Insurance Logo] 
+<https://u1877795.ct.sendgrid.net/ls/click?upn=u001.TXZUhbpZjlMcgXduxcKW-2FUtR9OABGv4xLY2o27BZr2x8tdeLlNz6fHcoHMp35W2W8Jmz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Nn0A-2FxeeJnnKZIEmeXSgJQrgmIMMIH9a-2BdgEpFAPBlE7Rz9IHQSPc4M6mVtbIoP1-2FjmwqscKu0C0ifhunKDT2wqx3Tdqk6ZL-2Bk-2BSo1LJ85ZUysXPxvgvi7M
+
+---
