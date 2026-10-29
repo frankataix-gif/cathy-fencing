@@ -1271,3 +1271,27 @@ Worth showing off.
 <https://app.sephora.com/T/v61000001a18869c4a2acdb29f4bbe5be50/e0b0fca25b53487a0000021ef3a0bcc2/e0b0fca2-5b53-487a-8003-3c309de
 
 ---
+
+## [营销] Investment doubles in next gen athletes and we are halfway to LA28 🥇☀️
+
+**发件人:** "Canadian Paralympic Team | Équipe paralympique canadienne" <digital@paralympic.ca>
+**日期:** 2026-10-29T20:05:03.000Z
+**摘要:** 关于加拿大残奥队投资增加和2026年洛杉矶奥运会的进展信息
+**待办:** 无
+**GmailID:** 1a189443bf88239a
+
+https://us.list-manage.com/135odJ89yvA?e=8ba4750f99&c2id=a4fd0585c47d8d125c1053e85b7177c5
+
+Issue 53 | October 2026
+Français (#French)
+
+
+** Top Stories this Month
+------------------------------------------------------------
+https://us.list-manage.com/1AkRsP6KT6L?e=8ba4750f99&c2id=a4fd0585c47d8d125c1053e85b7177c5
+
+Investment doubles in Next Gen athletes
+Read the full article (https://us.list-manage.com/1899fJOyaWL?e=8ba4750f99&c2id=a4fd0585c47d8d125c1053e85b7177c5)
+https://us.list-mana
+
+---
