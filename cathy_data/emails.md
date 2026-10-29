@@ -1189,3 +1189,21 @@ beyond.   YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MF4aq-2BcnmXWBsdiJtXif7HBGjmve3I26gyreZlN4Xgbw-3D-3D2FRI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAP0pgY8RsZcfQPJWC0VxH-2FauCLjGOLsHAvLRmB02Aexf8aA-2B-2BzvEptvF476VngFYgN8DEqY0XAvhDw0EEb9rSALKjNzKjq8XSujYbSxpsKNmLsk4-2FODUaWjtZyvCPj-2BdFJrbLdkZyNHlun8
 
 ---
+
+## [营销] COMING SOON: Get 15% off your entire purchase‼️
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-10-29T13:44:30.000Z
+**摘要:** Sephora 发布促销活动，提供全店15%折扣及所有Sephora Collection产品30%折扣。
+**待办:** 无
+**GmailID:** 1a187e7b9bcff4dc
+
+ Sephora 
+
+Don’t miss out on top savings! Plus get 30% off ALL Sephora Collection. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a187e7b0f2cb63316e96638858/33853c6510a
+
+---
