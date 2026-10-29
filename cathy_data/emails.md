@@ -1231,3 +1231,25 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261029_S4_Seasonal_HolidayDecorTips_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca
 
 ---
+
+## [营销] Introducing the new MacBook Pro lineup and a new iMac.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-10-29T15:44:56.000Z
+**摘要:** Apple推出新款MacBook Pro和iMac，配备PROLED XDR显示屏和M6芯片
+**待办:** 无
+**GmailID:** 1a1885615a2b49b4
+
+Apple
+
+New Mac lineup. Totally thrilluminating.
+
+MacBook Pro with PROLED XDR Display opens up new possibilities. And the 14‑inch MacBook Pro and iMac soar with the all‑new M6 chip.
+
+MacBook Pro
+
+PROLED XDR Display
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Fx6Yckyxxl8Pg2dMxhXJi23KmD2dAYRdF84Vjtcyyplho308aRHc5TqNXBpDI6ctsuY8%2Brq3S6%2FS9EBpjxYUIT4JeGsGNg6T2QSDaqRBj0Wq3dsLSxcoAWon7ZBE%2FremjeOTPoO5enh%2FTUh5Y%2BpwoN3yqGJPaSKJEPiti1j2WXnP8X22MyM7k%2BPpJtbb0WX
+
+---
