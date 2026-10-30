@@ -1376,3 +1376,25 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261030_S4_Circular_GreatBigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm
 
 ---
+
+## [其他] Resident Newsletter - LH - 30/10/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-10-30T09:07:08.000Z
+**摘要:** 收到伦敦码头地产的业主通讯附件
+**待办:** 无
+**GmailID:** 1a18c1022cfca0bd
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/SzQ9Dgd77yu4jMpwjkliJ52G1mPQMgTgHvm4PMYf78aXGyHBR97yjejLgo0NhGgwol1km4CesCYcN-YqypbD-Qe8kU4Dpesk5wz3ZaIBlEBZEo6GNAkQRfbmsIPN1Or4ymQoS7VFtpEJNwvg9TndPVM6IeC8-ORL1Mj7kC9ETGDcMVmGgZzbYlMuLxw_gOW6cB72N6EGsMNe7_FCTtD_n0dG4nvA-lfOz9rmEJVZdXmhwfvrz7lAGeCir6-7Zd5DQoeWbZePpskBJW2_a9ZH> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/bh5NhHXPMc4
+
+---
