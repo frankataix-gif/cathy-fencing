@@ -1704,3 +1704,17 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border="0" cellpadding="0" cellspacing=
 
 ---
+
+## [待办] Jingqi, things don’t always go as planned
+
+**发件人:** Koodo Team <paymybill@koodo.com>
+**日期:** 2026-10-30T20:31:00.000Z
+**摘要:** 提醒Jingqi支付未结清的账单，金额为61.55美元。
+**待办:** 支付未结清的账单
+**GmailID:** 1a18e823d69bcc42
+
+ 
+[image: Koodo Logo] 
+<http://url4118.symend.net/ls/click?upn=u001.r8M47IsNO3ns4gl9Qvq-2FRxxuQCGt2d8qh3drjxkR944Sask1-2FR5JX1uLD02KTn9eN9IP_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvqSJ29OLJTLe2g3DhK8-2BBSR-2FB7HcV8VBpYd6KDAIxVvY4dq-2FJ1KZFF3GdY47xxXadXgpupeitkTHgWWqqgtNTeOIkoqCs6cqovmJyz-2BrsruljeG9ke7Fnac7o-2Be-2FlozgrNqIwXRWCaTYipWUmBjCNGYQRbf-2FILzYeixcZATtLLYc7cT37H1hlY51HQvvVpJDCpN2UlQ-2B5Svf2DpQN8cUhedcygssU6fXTp6U867pkBUYGl-2BosLyoEdYNETYJahHRrpZYZ-2Ft8YR
+
+---
