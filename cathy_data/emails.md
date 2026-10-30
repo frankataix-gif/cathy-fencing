@@ -1428,3 +1428,38 @@ W: https://www.foxtons.co.uk
 Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is 
 
 ---
+
+## [生活旅行] RE: Viewing - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** London Dock Concierge <concierge@mylondondock.net>
+**日期:** 2026-10-30T10:40:37.000Z
+**摘要:** 关于释放公寓钥匙的确认
+**待办:** 无
+**GmailID:** 1a18c5be94d62353
+
+Hi Freya,
+
+Thank you for your email.
+
+We will release the keys as requested.
+
+Kind regards,
+ Sean
+Concierge
+
+[cid:image002.png@01DD685B.7520A810]
+
+12 Arrival Square | London | E1W 2AA
+T: 0207 680 9500
+M: 07516 395 751
+E: concierge@mylondondock.net<mailto:concierge@mylondondock.net>
+Web: www.premierestates.co.uk<http://www.premierestates.co.uk/>
+
+
+
+[A green and black logo      Description automatically generated]
+Registered Office
+Contact
+[A white background with black dots
+
+---
