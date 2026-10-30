@@ -1323,3 +1323,32 @@ lululemon
 
 
 ---
+
+## [待办] Your TELUS home services e.Bill is ready
+
+**发件人:** TELUS <telusbilling@info.telus.com>
+**日期:** 2026-10-30T01:12:48.000Z
+**摘要:** TELUS通知家庭服务电子账单已准备好
+**待办:** 无
+**GmailID:** 1a18a5ddb9c6e7a0
+
+Your home services e.Bill is ready.  
+ 
+Hi , 
+Here are your bill details at a glance:  
+Bill month: 
+Account number: 
+Total due, if received by : 
+ 
+
+Paying on time is easy - sign-up for pre-authorized payments, it’s easy to do. Simply register your credit card or Visa Debit. It’s fast, convenient and worry-free.  
+Log in  
+ 
+ 
+View and pay your bill online with My TELUS. 
+With My TELUS, you can:  
+View and pay your bill 
+Manage your bill preference 
+Monitor your monthly Interne
+
+---
