@@ -1627,3 +1627,21 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web browser does not open, please paste the link into the 
 
 ---
+
+## [营销] STARTS TODAY: Get 30% off ALL Sephora Collection 😊
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-10-30T13:12:03.000Z
+**摘要:** Sephora推出30%折扣活动，所有产品均可享受优惠，活动持续至11月9日。
+**待办:** 无
+**GmailID:** 1a18cf067ac7143b
+
+ Sephora 
+
+Save big now through 11/9. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a18cf051819ba0e16e96c660f0/3eff61d67bd141410000021ef3a0bcc2/3eff61d6-7bd1-4141-9d7d
+
+---
