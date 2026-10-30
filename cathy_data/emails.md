@@ -1352,3 +1352,27 @@ Manage your bill preference
 Monitor your monthly Interne
 
 ---
+
+## [营销] STARTS NOW: Up to 50% off trees at The Great Big Tree Spree!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-30T07:22:00.000Z
+**摘要:** Michaels 促销活动，提供高达50%的折扣优惠
+**待办:** 无
+**GmailID:** 1a18bb0100416eb5
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDUsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF3YbIfcoTqrH_CloPVMu8mZanWrt_VbEJpWyOms2gQbXwEKSKeifo3GUPLPNZMA1HtpIS59QWEX52vAq6UrmrVgqDcCVs-SJx1itQJDtauW--B2Gc 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261030_S4_Circular_GreatBigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm
+
+---
