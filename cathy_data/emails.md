@@ -1398,3 +1398,33 @@ Powered by Locale
 <https://bhidfah.r.af.d.sendibt2.com/tr/cl/bh5NhHXPMc4
 
 ---
+
+## [生活旅行] Viewing - Flat 120, 1 Emery Way - Foxtons
+
+**发件人:** Freya Wan <Freya.Wan@foxtons.co.uk>
+**日期:** 2026-10-30T10:29:46.000Z
+**摘要:** 安排今天下午12点查看Flat 120, 1 Emery Way的房产
+**待办:** 释放钥匙给Billy
+**日程:** {"title":"查看Flat 120, 1 Emery Way","date":"2023-10-05","time":"12:00","location":"Flat 120, 1 Emery Way"}
+**GmailID:** 1a18c5be94d62353
+
+Hi London Dock Concierge,
+
+Could you please release keys to Billy for Flat 120, 1 Emery Way viewing today 12pm?
+
+
+------------------------------------
+Freya Wan
+Operations Director/Associate Director
+New Homes & Investments, Foxtons
+
+T: 020 7893 6010
+M: 07875 80 2146
+E: Freya.Wan@foxtons.co.uk
+W: https://www.foxtons.co.uk
+
+[Foxtons Loves Landlords]
+
+Privacy and Confidentiality Notice: This is strictly confidential and intended solely for the person or organisation to whom it is 
+
+---
