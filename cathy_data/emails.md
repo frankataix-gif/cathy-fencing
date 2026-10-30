@@ -1658,3 +1658,21 @@ Save big now through 11/9.
 DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ny9u-2FxOxDHCnPyqPcqbPu4wVYpQfiiZHwDelNK9eNJ3Q-3D-3Ducel_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALJuhSjiVsaTS7qWLGzeqeOy-2BO6BKQUN-2BPQSQ9E6UrdDJiktufvRs7xV21sH70bxklZO7poXU3x3P1XE40EP3SO8XgJatWrqkWdUWvlil-2FSXmMmt3KnQqAwuITMbyTympen-2BqvqEaA2IKEQofjzvEUUcVb1UlDPdIM7WeerAt
 
 ---
+
+## [营销] 40% off your next ✌️orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-10-30T16:38:55.000Z
+**摘要:** DoorDash提供40%折扣优惠，适用于订单。
+**待办:** 无
+**GmailID:** 1a18dadc0be92745
+
+ DoorDash Food, groceries, gifts, and beyond. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+
+---
