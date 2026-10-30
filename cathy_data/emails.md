@@ -1645,3 +1645,16 @@ Save big now through 11/9.
 <https://app.sephora.com/T/v61000001a18cf051819ba0e16e96c660f0/3eff61d67bd141410000021ef3a0bcc2/3eff61d6-7bd1-4141-9d7d
 
 ---
+
+## [营销] A fresh look at Artica
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-30T13:08:57.000Z
+**摘要:** Browns Shoes 发布新鞋款促销信息
+**待办:** 无
+**GmailID:** 1a18ced804bf426c
+
++ JUST ADDED: 500+ sneakers are now on SALE!   YOUR TOP FOOTWEAR
+DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8Ny9u-2FxOxDHCnPyqPcqbPu4wVYpQfiiZHwDelNK9eNJ3Q-3D-3Ducel_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALJuhSjiVsaTS7qWLGzeqeOy-2BO6BKQUN-2BPQSQ9E6UrdDJiktufvRs7xV21sH70bxklZO7poXU3x3P1XE40EP3SO8XgJatWrqkWdUWvlil-2FSXmMmt3KnQqAwuITMbyTympen-2BqvqEaA2IKEQofjzvEUUcVb1UlDPdIM7WeerAt
+
+---
