@@ -1956,3 +1956,23 @@ Hi TELUS,
 Your one-time verification code t
 
 ---
+
+## [待办] Confirmation of payment to your TELUS Mobility account
+
+**发件人:** TELUS <telusservice@i.telus.com>
+**日期:** 2026-10-31T19:25:20.000Z
+**摘要:** 确认支付到TELUS移动账户，包含支付详情和账户管理提示
+**待办:** 无
+**GmailID:** 1a1936c74b03b347
+
+Bonjour ,  
+Vous avez fait un paiement le , pour rembourser votre solde de des services mobiles de TELUS. En voici les détails :  
+Montant payé : 
+Mode de paiement : Paiement Carte de Crédit traite bancaire 
+Numéro d’autorisation de paiement : 
+Solde impayé : 
+ 
+Vous pouvez consulter les détails de votre facture en ouvrant une session dans Mon TELUS. Vous pouvez aussi gérer votre compte facilement, en tout temps et n’importe où, avec l’application Mon TELUS.  
+Mon TELUS est l’endroit le 
+
+---
