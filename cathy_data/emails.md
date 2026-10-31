@@ -1976,3 +1976,16 @@ Vous pouvez consulter les détails de votre facture en ouvrant une session dans 
 Mon TELUS est l’endroit le 
 
 ---
+
+## [生活旅行] 本週旅行熱話：5大熱門盛事
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-10-31T20:11:48.000Z
+**摘要:** Trip.com推送本周旅行热点和热门盛事信息
+**待办:** 无
+**GmailID:** 1a19396fe30fe9b9
+
+
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143109183-1793477507160.670%26ouid%3D536510.trippulse_edm_1031_hk.2026-10-31_-8_0.20261101.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D536510.trippulse_edm_1031_hk.2026-10-31_-8_0.20261101.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzEwOTE4My0xNzkzNDc3NTA3MTYwLjY3MCIsInRpdGx
+
+---
