@@ -1851,3 +1851,16 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [营销] The UGG edit you’ve been waiting for
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-10-31T13:09:32.000Z
+**摘要:** 促销UGG鞋款，500+运动鞋正在打折
+**待办:** 无
+**GmailID:** 1a192146b86c7cbe
+
++ JUST ADDED: 500+ sneakers are now on SALE!   YOUR FIRST STOP
+FOR TRENDS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MsAo54m56JrAwg1w3SlLW8HKk5i1a6jFMYurNxUBIWsQ-3D-3DkJFo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFJ7eSkVJKKJoL05-2FEKnIyZ30KORfFuC63BvVFxaemal8mCCbDHu-2FPDEThMXZp06ihed8rMd8sxUHhN1DjG1iT4xekvEbOGuj-2F1-2BsJx7K8lC6IV-2FDbYOND3iPX0AabVjFaY4Txbq8-2BRG1-2FQd8O8yGT8fCYEs12L1b-2FR1yH
+
+---
