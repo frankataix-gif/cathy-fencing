@@ -1989,3 +1989,19 @@ Mon TELUS est l’endroit le
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143109183-1793477507160.670%26ouid%3D536510.trippulse_edm_1031_hk.2026-10-31_-8_0.20261101.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D536510.trippulse_edm_1031_hk.2026-10-31_-8_0.20261101.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzEwOTE4My0xNzkzNDc3NTA3MTYwLjY3MCIsInRpdGx
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Nov 2-6
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-31T21:01:57.000Z
+**摘要:** 学校通知万圣节活动感谢家长志愿者，并发起糖果捐赠活动，同时邀请参与后续活动。
+**待办:** 参与糖果捐赠，阅读转发邮件了解志愿机会。
+**涉及:** 两个
+**日程:** {"title":"Halloween Candy Drive","date":"2023-11-05","time":"","location":"学校食堂后方"}
+**GmailID:** 1a193c4f5b955c42
+
+Good day, Grade 7 Families,
+Happy Halloween! BIG THANKS again to all the Parent Volunteers who supported yesterday's ES Halloween celebrations! Many photos and video clips have been uploaded to Vidigami – enjoy! This was my last ES Halloween celebration, and it was a memorable one. Been volunteering since our kids were 5yo – they will both be in MS G6&8 next year – time flies!
+Council & Eco Club are so excited to announce the Halloween Candy Drive! This Halloween, instead of letting unopened c
+
+---
