@@ -1882,3 +1882,21 @@ Stock up during the Sephora Savings Event.
 <https://app.sephora.com/T/v61000001a1921c9c36925ad9f4bbcfbb48/8446f1a632ae4c070000021ef3a0bcc2/8446f1a
 
 ---
+
+## [营销] Your personal holiday shopper, inside ➡️
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-10-31T16:15:31.000Z
+**摘要:** Sephora推送节日购物优惠，推荐使用AI Beauty Chat挑选礼物，并提及当前的促销活动。
+**待办:** 无
+**GmailID:** 1a192bebb5cb53bf
+
+ Sephora 
+
+Find gifts easily with AI Beauty Chat 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a192beaa4f960fa5369fea47bc/c72011c4fa5647ff0000021ef3a0bcc2/c72011c4-fa5
+
+---
