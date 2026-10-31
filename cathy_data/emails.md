@@ -1938,3 +1938,21 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [待办] Verify your identity with My TELUS
+
+**发件人:** donotreply@external.telus.com
+**日期:** 2026-10-31T19:23:39.000Z
+**摘要:** 需要验证My TELUS账户身份，提供了一次性验证码并提醒注意账户安全。
+**待办:** 验证My TELUS账户身份
+**GmailID:** 1a1936aeb9ae0ed0
+
+ TELUS 
+Here's your verification code to validate your identity. 
+[image: TELUS] 
+<https://u27333001.ct.sendgrid.net/ls/click?upn=u001.SCElYa292QU0eUJVHWJNp8d2rCV-2B35zzM25WPhV0c0A-3DsiJI_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3Pwu5Z6wAP5pVosSZ6hep7CnVyLQy0kiLcKoTz7-2BqzDrdMST9exkCmH5BpeHT75BLSNfGtiHLCsLB0bgZoVbwC3GUPdZVIi9Wnm6xFrmU6c0gtzXnIviHpbW3R-2FFdLaij8b5kzEee1EHOd7JqLqndf6j9MCwTm5BtXAIvNLW5twYA-3D-3D> 
+Your My TELUS verification code 
+Hi TELUS, 
+Your one-time verification code t
+
+---
