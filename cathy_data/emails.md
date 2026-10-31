@@ -1753,3 +1753,27 @@ https://link.apple/Nocturne
 Promotional banner
 
 ---
+
+## [营销] Up to 50% off trees? 🎄 YES! Save today at The Great Big Tree Spree.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-10-31T07:21:01.000Z
+**摘要:** Michaels 促销圣诞树，提供最高50%的折扣。
+**待办:** 无
+**GmailID:** 1a190d5802c2064b
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDYsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF5GSu68yhStTZK-hRVJAQna1AAeaV-1jMDIUYgD_9mZwACg21wVVkDjSJfYaHWijw8PziEUX6VtDRrN-KQeG8el7GKgNe7F6VLRTeDpsmyZxuRJET7Q 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261031_S3_Promo_GreatBigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_
+
+---
