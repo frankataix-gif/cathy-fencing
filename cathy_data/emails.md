@@ -1900,3 +1900,28 @@ Find gifts easily with AI Beauty Chat
 <https://app.sephora.com/T/v61000001a192beaa4f960fa5369fea47bc/c72011c4fa5647ff0000021ef3a0bcc2/c72011c4-fa5
 
 ---
+
+## [Cathy&David] Special Message from the Parent Guild (Week of Nov 2)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-10-31T17:30:54.000Z
+**摘要:** 家长协会发布特别消息，邀请家长参加年度大会并感谢志愿者。
+**待办:** 参加家长协会年度大会并报名
+**日程:** {"title":"Meadowridge Parent Guild AGM","date":"2026-11-04","time":"08:45","location":"Conference Room"}
+**GmailID:** 1a19303c91673f41
+
+Good day, Grade 7 and 5 families,
+
+Please scroll down for a special message from the Parent Guild. There are many invitations and events coming up. Please take a look to see how you and your family can get involved.
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+________________________________
+From: Guild Chair <Guild.Chair@Meadowridge.bc.ca>
+Sent: Friday, October 30, 2
+
+---
