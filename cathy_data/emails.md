@@ -2060,3 +2060,16 @@ Neutrals with a taste for winter.
 
 
 ---
+
+## [营销] 🚨All your favourite sneaker brands ON SALE🚨
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-01T14:32:42.000Z
+**摘要:** 促销邮件，宣布多个运动鞋品牌正在打折
+**待办:** 无
+**GmailID:** 1a19786e7b22a093
+
++ JUST ADDED: 500+ sneakers are now on SALE!   YOUR TOP FOOTWEAR
+DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MrTpS935UUDiSgJOrLuc-2BhG4Jkia9IMKVd4Q0AgZvUzg-3D-3DloDz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD6E93Tk-2BAa5OUAt5gRcmZGb7EE1qsIk0-2FvH6nXnQL7Kla1Po67wFpV2-2BWgzEG4lYNpaguedPRaCKOpqXpObVnNCaIZuiMROSj1oX5qNffO1FkepGzyCw7142eceuLweJnxcPfHrA6TpvySdR3rjvyg0wTpgMX2H2FKJNSFGhs1
+
+---
