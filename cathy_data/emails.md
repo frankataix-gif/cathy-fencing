@@ -2019,3 +2019,31 @@ Council & Eco Club are so excited to announce the Halloween Candy Drive! This Ha
 <https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsl8CU_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3NqqOH6pcaT5Ckmio-2BTI3YH6Fd2mFY3gdqURFJ6sa7Hhkh71Iomkv1gwomFnFR6Nh4eTsKOhpEbhtYz87K8s5MX47LBHLoi9Ee7F0N1HzkMHciY2TsGaiQlwRQxBLzMHox-2BVvVOh6ztYLKgmes9mAS5M0VQon
 
 ---
+
+## [营销] Colour Spotlight: Cacao Nib Brown
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-11-01T02:20:50.000Z
+**摘要:** 推广Cacao Nib Brown颜色的服饰系列
+**待办:** 无
+**GmailID:** 1a194f120dbcc673
+
+Neutrals with a taste for winter.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌ 
+
+---
