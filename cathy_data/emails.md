@@ -2073,3 +2073,21 @@ Neutrals with a taste for winter.
 DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MrTpS935UUDiSgJOrLuc-2BhG4Jkia9IMKVd4Q0AgZvUzg-3D-3DloDz_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD6E93Tk-2BAa5OUAt5gRcmZGb7EE1qsIk0-2FvH6nXnQL7Kla1Po67wFpV2-2BWgzEG4lYNpaguedPRaCKOpqXpObVnNCaIZuiMROSj1oX5qNffO1FkepGzyCw7142eceuLweJnxcPfHrA6TpvySdR3rjvyg0wTpgMX2H2FKJNSFGhs1
 
 ---
+
+## [营销] Save 30% on ALL Sephora Collection 💄
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-01T14:30:02.000Z
+**摘要:** Sephora推出30%折扣促销，所有产品均可享受优惠。
+**待办:** 无
+**GmailID:** 1a1978c5d2412641
+
+ Sephora 
+
+Natalie, now’s the time to stock up. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1978472ccae70606e96c660c0/71e6cc29ae3e4c8b0000021ef3a0bcc2/71e6cc29-ae3e
+
+---
