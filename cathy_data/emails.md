@@ -2826,3 +2826,38 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 > 12224 2
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-09-17T00:18:04.000Z
+**摘要:** 学校要求补充Cathy的Study Permit和妈妈的入境记录
+**待办:** 提交Cathy的Study Permit和妈妈的入境记录
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+希望你们今天一切顺利！
+
+谢谢您更新你们的 Residency Form。地址方面，我们保留了你原有的 postcode (V3J 0P2)。签证方面，我们还需要记录以下两项文件：
+
+  *
+Cathy 的 Study Permit (除了护照里贴的签证，应该还有一张独立的Letter size “金纸”<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm78HQlrZu7ZzyPJ9MKd5x3YY9B2BM14dpPFVnyfSniwCjW3q92v0kaY_&s=10>)
+  *
+妈妈的入境记录 "Visitor Record"  -  版面跟 Study Permit 差不多
+
+方便时电邮传给我就可以了。有疑问请随时跟我们联系。这几天辛苦您了，谢谢！
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwon
+
+---
