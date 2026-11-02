@@ -2144,3 +2144,16 @@ Verdana, Arial, sans-serif !important; }
 <https://s.openai.com/ls/cl
 
 ---
+
+## [生活旅行] 你嘅 HK$900 優惠碼已更新‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-02T00:13:46.000Z
+**摘要:** 通知HK$900优惠码更新，提供韩国酒店8折及额外7%回赠。
+**待办:** 无
+**GmailID:** 1a1999ae66c9edd7
+
+10AM 開始！今日預訂再賺額外 7% 回贈，韓國酒店 8 折起，立即展開你嘅無憂旅程🤩
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143103123-1793578426116.739%26ouid%3D535684.HK-20261102-edm-brandinghk-korea.2026-11-02_8_0.20261102.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D535684.HK-20261102-edm-brandinghk-korea.2026-11-02_8_0.20261102.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0
+
+---
