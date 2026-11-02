@@ -2321,3 +2321,18 @@ services from block F to block G.
 This will close a section of the carpark adja
 
 ---
+
+## [Cathy&David] Drills and Emergency Procedures Announcement
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-02T17:33:02.000Z
+**摘要:** 学校发布安全演练和应急程序通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a19d526af69f643
+
+<!--placeholder-->
+
+
+
+---
