@@ -2894,3 +2894,41 @@ hello adrian
 > Adrian Kwong (he/
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-11-02T19:27:52.000Z
+**摘要:** 学校跟进Cathy的陪读签办理进展，并确认监护人信息。
+**待办:** 跟进陪读签办理进展，提供副本给学校
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Hi Natalie,
+
+您最近好吗？希望Cathy开学两个月过得开心。感觉她在这边适应很快。
+
+这里想跟进一下您的陪读签办理进展；方便时希望您可以提供一份副本，让我们完成系统里的学生家庭记录。
+
+另外，请问Cathy的监护人是 Wan Ling Li 吗？如果您希望监护人也收到学校发出的电邮信息，请通知校方的注册主任 Ms. Crystal Zhang (crystal.zhang@meadowridge.bc.ca<mailto:%20crystal.zhang@meadowridge.bc.ca>).
+
+谢谢！Have a wonderful week!
+
+
+
+Best regards,
+
+Adrian Kwong (he/him)
+
+Admissions Officer
+
+t  604.467.4444 (ext. 214)
+
+adrian.kwong@meadowridge.bc.ca<mailto:adrian.kwong@meadowridge.bc.ca>
+
+
+
+Meadowridge School
+12224 240t
+
+---
