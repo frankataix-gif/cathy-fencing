@@ -2157,3 +2157,27 @@ Verdana, Arial, sans-serif !important; }
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143103123-1793578426116.739%26ouid%3D535684.HK-20261102-edm-brandinghk-korea.2026-11-02_8_0.20261102.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D535684.HK-20261102-edm-brandinghk-korea.2026-11-02_8_0.20261102.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0
 
 ---
+
+## [营销] The merriest holiday décor? We have tips for that 🎄 ✨
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-02T08:20:37.000Z
+**摘要:** 邮件内容为节日装饰的建议和促销信息
+**待办:** 无
+**GmailID:** 1a19b591861c6ecb
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDgsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF73l9nHW6VMma8iDD1rg8CvtnhpF-rkHYHnstVN36ONxpFPVO2ewtnjKNHSYSjgumDNO2u2937Pgkr0KgirxmIfHp9J568Z0nQ2pPi425kX0OkTDk_w 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261102_S4_Seasonal_HolidayDecorTipsandTricks_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501
+
+---
