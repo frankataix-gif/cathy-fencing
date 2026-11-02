@@ -58738,5 +58738,163 @@
       ]
     },
     "total": 1
+  },
+  "portland-winter-ryc-open-regis-2027-02-20-northwest-fencing-center-tigard-or": {
+    "fetched_at": "2026-11-02T03:13:03.942947Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 4,
+      "Y14WF": 7
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [
+        {
+          "name": "Chai, Alice",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "102050921",
+          "status": ""
+        },
+        {
+          "name": "Chai, Huantong (Aria)",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100755914",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Ziqi",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100334049",
+          "status": ""
+        },
+        {
+          "name": "Urion, Alicia",
+          "club": "Salle Auriol Seattle",
+          "division": "Western Washington",
+          "member_num": "100641658",
+          "status": ""
+        }
+      ],
+      "Y14WF": [
+        {
+          "name": "Chai, Huantong (Aria)",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100755914",
+          "status": ""
+        },
+        {
+          "name": "Choi, Lydia",
+          "club": "Northwest Fencing Center",
+          "division": "Oregon",
+          "member_num": "100291574",
+          "status": ""
+        },
+        {
+          "name": "Fitch, Abigail",
+          "club": "High Desert Fencing Club",
+          "division": "Oregon",
+          "member_num": "100338317",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Ziqi",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100334049",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Ziqing",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100321509",
+          "status": ""
+        },
+        {
+          "name": "Ligeret, Stella",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100319084",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sylvia",
+          "club": "Northwest Fencing Center",
+          "division": "Oregon",
+          "member_num": "100973031",
+          "status": ""
+        }
+      ]
+    },
+    "total": 11
+  },
+  "portland-spring-ryc-open-regis-2027-03-27-northwest-fencing-center-tigard-or": {
+    "fetched_at": "2026-11-02T03:13:03.943056Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 3,
+      "Y14WF": 4
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [
+        {
+          "name": "Jiang, Ziqi",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100334049",
+          "status": ""
+        },
+        {
+          "name": "Lin, Ione",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100354694",
+          "status": ""
+        },
+        {
+          "name": "Urion, Alicia",
+          "club": "Salle Auriol Seattle",
+          "division": "Western Washington",
+          "member_num": "100641658",
+          "status": ""
+        }
+      ],
+      "Y14WF": [
+        {
+          "name": "Jiang, Ziqi",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100334049",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Ziqing",
+          "club": "S-Class Fencing",
+          "division": "US Fencing",
+          "member_num": "100321509",
+          "status": ""
+        },
+        {
+          "name": "Ligeret, Stella",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100319084",
+          "status": ""
+        },
+        {
+          "name": "Liu, Sylvia",
+          "club": "Northwest Fencing Center",
+          "division": "Oregon",
+          "member_num": "100973031",
+          "status": ""
+        }
+      ]
+    },
+    "total": 7
   }
 }
