@@ -2301,3 +2301,23 @@ take place to the *Low Temperature Hot Water (LTHW) system pipework*
 locat
 
 ---
+
+## [其他] Car park closure - Integration of services from block F to block G - 06/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-02T16:57:03.000Z
+**摘要:** 通知停车场因施工关闭
+**待办:** 无
+**GmailID:** 1a19d316f8c4c8ae
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/aak4rxBXedJFMxsFJGR99diuY24r0s87bJWutis4l9GwHOPMJlxnqm5HJ8CLwvICz0ooWt0dqMTjYzJbqk3rB-gg_0LLr_OwgGpSgy9YVvTLMbnd56X0oLdcA856tStIL-T8vXSiaAZqwXft7fDXhjqco_gJMafIjwrxOH0JzeITCKmKo08Y5pby1xmidaHVp8WkhFVr3tavsC1iSt2ghdvtQfWuPHX9pBAy7c9aEUJcSkACvHEegsWbvXb6G2XqLYco6Hw7CiTwte5EM_nsy99oLQ> 
+
+Dear Ms Jingqi Wu,
+
+Works will commence on the 6th of November for 4 weeks to integrate 
+services from block F to block G.
+
+This will close a section of the carpark adja
+
+---
