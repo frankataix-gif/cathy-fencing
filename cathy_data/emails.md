@@ -2336,3 +2336,18 @@ This will close a section of the carpark adja
 
 
 ---
+
+## [Cathy&David] Drills and Emergency Procedures Conclusion
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-02T18:05:22.000Z
+**摘要:** 关于学校安全演习和应急程序的总结通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a19d7020e6c0ca0
+
+<!--placeholder-->
+
+
+
+---
