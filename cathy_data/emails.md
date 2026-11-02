@@ -2390,3 +2390,39 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 “Learning to live well with
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-28T20:39:32.000Z
+**摘要:** 邮件确认是否在学签申请中附上录取通知书（LOA），以加快处理进度。
+**待办:** 无
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Adrian 您好，
+
+非常感谢您的跟进和提供的录取通知书 (LOA)。
+
+我会核实一下学签申请中是否已经附上了这份文件。如果有任何来自 IRCC 的消息，我会第一时间告知您。
+
+再次感谢您的帮助，我们会保持联系。
+在 Aug 28, 2026, 22:33 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie 您好，
+>
+> 附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+>
+> 请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+>
+> 我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.467.4444 (ext. 214)
+> adrian.kwong@meadowridge.bc.ca
+>
+> Meadowr
+
+---
