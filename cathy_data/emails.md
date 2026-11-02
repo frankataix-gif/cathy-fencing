@@ -2458,3 +2458,36 @@ Adrian 您好，
 > 我会继续跟进你的情况；如果IRCC那边有任何消息，请保
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-28T20:54:01.000Z
+**摘要:** 邮件涉及Cathy的入学申请和学签处理，确认参加9月2日的迎新日，并寻求移民公司协助。
+**待办:** 联系移民公司协助学签申请
+**方向:** 发出
+**涉及:** Cathy
+**日程:** {"title":"迎新日","date":"2026-09-02","time":"","location":"Meadowridge School"}
+**GmailID:** 1a04a13eda2c8086
+
+Adrian 您好，
+
+我们也是今天才得到移民局的邮件，虽然 Cathy 可能无法按原计划很快入学，但我们依然非常希望她能够就读 Meadowridge，并会继续申请学签。我们也会参加 9 月 2 日的迎新日（Orientation Day），到校与老师们见面。
+
+另外，如果你们有熟悉的专业移民公司或顾问，可以协助我们处理这次的学签申请，这样可以更安心一些。
+
+期待您的回复，谢谢。
+在 Aug 28, 2026, 22:33 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie 您好，
+>
+> 附上5月12号 我们财政部门发给Frank的录取通知 (Letter of Acceptance / LOA).
+>
+> 请问 你们的学签申请里 有附上这文件吗？一般有LOA的个案 处理时间不会很久的。
+>
+> 我会继续跟进你的情况；如果IRCC那边有任何消息，请保持联系。
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions 
+
+---
