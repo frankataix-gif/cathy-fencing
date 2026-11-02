@@ -2554,3 +2554,26 @@ Adrian 您好，
 > 现在的重点应该是尽快办理学签，如果期间必须身在境外的话
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** Adrian Kwong <adrian.kwong@meadowridge.bc.ca>
+**日期:** 2026-08-29T00:01:21.000Z
+**摘要:** 学校通知需完成Cathy的入学手续，包括提交居住证明、医疗信息等表格，并安排与校长沟通延迟入学事宜。
+**待办:** 完成入学所需表格和手续，与校长沟通Cathy延迟入学事宜
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+Natalie,
+
+我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+
+昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+
+
+  1.
+Complete one Residency Form<https://www.meadowridge.bc.ca/new-family-portal/residency> for the family. Submit your address in Canada, student's Study Permit & parent's Visitor Record(s).
+  2.
+Complete required forms: Medical Info, Emergency Consent & RUTA. Log in to the Meadowridge Hub and lo
+
+---
