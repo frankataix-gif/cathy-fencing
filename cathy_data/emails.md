@@ -2712,3 +2712,39 @@ Meadowridge School
 t  604.467.444
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T18:32:37.000Z
+**摘要:** 学校安排Cathy明天到周五去Gibsons Farm郊游，并需要家长提交医疗咨询表格和提供签证副本。
+**待办:** 提交Cathy的医疗咨询表格并提供签证副本
+**方向:** 发出
+**涉及:** Cathy
+**日程:** {"title":"Gibsons Farm郊游","date":"2026-09-16","time":"","location":"Gibsons Farm"}
+**GmailID:** 1a04a13eda2c8086
+
+你好 adrian
+我想联系您，但转拨不到您电话！
+我们想问一下是否后天cathy能参加吗？我可以把他送到郊游的地方！我们要明天5点到温哥华！
+
+谢谢
+On 15 Sep 2026 at 8:07 PM +0200, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>, wrote:
+> Hi Natalie,
+>
+> 谢谢您的通知。我们也非常期待！
+>
+> 中学生明天到星期五会在Gibsons Farm郊游， 他们这几天不会再学校。请你们尽快通知 Ms. Hook，看看可以怎样安排。
+>
+> 方便时，也请您登入Hub 账户提交Cathy的医疗咨询表格 (Medical Info form)。请确保所有资料正确，在最后一页签署后点击提交。
+>
+> Cathy 回校前，也请您提供Cathy的签证副本。
+>
+> Thank you and see you soon!
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.
+
+---
