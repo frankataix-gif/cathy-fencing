@@ -2932,3 +2932,44 @@ Meadowridge School
 12224 240t
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-02T19:28:37.000Z
+**摘要:** Natalie回复关于Cathy的陪读签进展，确认监护人为Wan Ling Li，并提及将联系学校更新信息。
+**待办:** 联系Ms. Crystal Zhang更新Cathy的监护人信息
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+--- Option 1 — "提供陪读签副本" ---
+
+Hi Adrian,
+
+谢谢关心，Cathy在这边适应得很好。
+
+陪读签证已经办好了，附件是签证副本供学校系统记录。另外，Cathy的监护人确实是 Wan Ling Li，我会发邮件给 Ms. Crystal Zhang 说明监护人接收邮件的事宜。
+
+谢谢！
+
+Natalie
+
+--- Option 2 — "陪读签仍在办理" ---
+
+Hi Adrian,
+
+谢谢关心，Cathy在这边适应得很不错。
+
+陪读签目前还在办理中，等收到后我会第一时间把副本发给您。另外，Cathy的监护人确实是 Wan Ling Li，我稍后会联系 Ms. Crystal Zhang 更新信息。
+
+谢谢！
+
+Natalie
+On Nov 2, 2026 at 19:27 +0000, Adrian Kwong <adrian.kwong@meadowridge.bc.ca>, wrote:
+> Hi Natalie,
+>
+> 您最近好吗？希望Cathy开学两个月过得开心。感觉她在这边适应很快。
+
+
+---
