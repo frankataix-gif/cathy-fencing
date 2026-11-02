@@ -2789,3 +2789,40 @@ www.meadowridge.bc.ca<http://www.meadowridge.bc.ca/>
 “Learning to live well
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-09-15T18:58:23.000Z
+**摘要:** 关于Cathy的郊游安排及入学时间调整的沟通
+**待办:** 联系Hook老师确认郊游安排及入学时间
+**方向:** 发出
+**涉及:** Cathy
+**GmailID:** 1a04a13eda2c8086
+
+好的，感谢Adrian
+我一会发邮件给Hook老师，看看线路怎么走。因为我们是明天2点飞机。如果不方便的话，我们就周一正式报道！
+感谢您一直来帮助！
+
+谢谢！
+在 Sep 15, 2026, 20:52 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Hi Natalie,
+>
+> 不好意思，我的同事以为有家长来门口找我们了 😄.
+>
+> 郊游方面，因为不是我负责范围之内，请让Cathy发邮件给Ms. Darcie Hook跟进。我这边会尽量找初中校长Mr. Rinn让他知道。
+>
+> 如果不能安排中途参加郊游，Cathy可能要星期一才开始上学。
+>
+> 谢谢！
+>
+> Best regards,
+> Adrian Kwong (he/him)
+> Admissions Officer
+> t  604.467.4444 (ext. 214)
+> adrian.kwong@meadowridge.bc.ca
+>
+> Meadowridge School
+> 12224 2
+
+---
