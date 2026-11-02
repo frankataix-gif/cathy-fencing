@@ -2281,3 +2281,23 @@ Made for the best moments spent at home.
   ­ ͏ ‌  
 
 ---
+
+## [生活旅行] LTHW shut down - 12/11/26 - no hot water site wide.
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-02T16:39:27.000Z
+**摘要:** 小区将于11月12日进行热水系统维修，导致全天热水和供暖中断。
+**待办:** 无
+**日程:** {"title":"LTHW系统维修","date":"2023-11-12","time":"","location":"小区服务院"}
+**GmailID:** 1a19d2150c8d9b68
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/pj76Uf0C1qac98tNeQe7SoQ8k7gU4zVWmeXCh7-mbiV4Y--Y3WxGuKHOzLZVGZWWGlXxcbheGWqNpxFNLMFWajj6WHHWMlOyF3lcpx1UdUjdKwcDcssVT9uo6tDov9nvwF7FeqrMbhMATFknNOFleq3P6JvZe17pwfuZCVCHjr6kpFjpO6d1pg8Q9NMSBVjXDM-lCkS9dIACsz2p9pz4fgRLGmi8qJx5d9EIYdCONMDlrHeqYz9WWbGEgM1hd-wCNOvcw2rvQ3R09YYsdLKoHO-pJA> 
+
+Dear Ms Jingqi Wu,
+
+We would like to inform you that essential repair works are scheduled to 
+take place to the *Low Temperature Hot Water (LTHW) system pipework* 
+locat
+
+---
