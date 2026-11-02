@@ -2221,3 +2221,16 @@ The Sephora Savings Event is about to begin.
 <https://app.sephora.com/T/v61000001a19c9b3f87a3f619369ff04b84/020460c4525643170000021ef3a0bcc2/02046
 
 ---
+
+## [营销] How We Do Winter ❄️
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-02T14:09:43.000Z
+**摘要:** 冬季靴子促销广告，鼓励立即购买并2小时内自提
+**待办:** 无
+**GmailID:** 1a19c983ab6c2894
+
+The boots made for our kind of cold   BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O-2FBROo7dStwbbipH3zurt43WOLa5o-2B2oQImm0tN-2Biqzg-3D-3DWbQ9_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC3IYxWmQyi6GGT0iHQmvuUqZxa2NsaFaYKIs-2F0KiSy1oJba3zuEAAt3DBDpPBwBVmZH-2FAAEBadhcDBfLo8Z1PE7F5vauhoEGC1KP2LyMb24mVK3F2GgrsHy30YAx8zDqvFZ7GNTmXewR468OcbrAGcQ08jfVn0qZulibdLDRkMId66I-2FU
+
+---
