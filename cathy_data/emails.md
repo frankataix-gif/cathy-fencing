@@ -2234,3 +2234,31 @@ The boots made for our kind of cold   BUY NOW, PICK UP IN 2
 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O-2FBROo7dStwbbipH3zurt43WOLa5o-2B2oQImm0tN-2Biqzg-3D-3DWbQ9_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAC3IYxWmQyi6GGT0iHQmvuUqZxa2NsaFaYKIs-2F0KiSy1oJba3zuEAAt3DBDpPBwBVmZH-2FAAEBadhcDBfLo8Z1PE7F5vauhoEGC1KP2LyMb24mVK3F2GgrsHy30YAx8zDqvFZ7GNTmXewR468OcbrAGcQ08jfVn0qZulibdLDRkMId66I-2FU
 
 ---
+
+## [营销] Holiday Pajamas. Your exclusive 24-hour early access.
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-11-02T15:08:54.000Z
+**摘要:** 关于假日睡衣的专属提前访问促销信息
+**待办:** 无
+**GmailID:** 1a19cd5b359ddb5c
+
+Made for the best moments spent at home.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  
+
+---
