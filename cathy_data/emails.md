@@ -2577,3 +2577,33 @@ Complete one Residency Form<https://www.meadowridge.bc.ca/new-family-portal/resi
 Complete required forms: Medical Info, Emergency Consent & RUTA. Log in to the Meadowridge Hub and lo
 
 ---
+
+## [Cathy&David] Re: Fw: Payment for He,Yunxi- Letter of Acceptance
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-08-29T00:05:58.000Z
+**摘要:** 邮件讨论Cathy延迟入学可能性及入学手续办理，需完成学校要求的表格和文件准备。
+**待办:** 完成学校要求的Residency Form、Medical Info等表格，关注开学准备事项。
+**方向:** 发出
+**涉及:** Cathy
+**日程:** {"title":"New Student Orientation","date":"2026-09-02","time":"10:00","location":"无"}
+**GmailID:** 1a04a13eda2c8086
+
+Adrian 您好，
+
+谢谢您的回复，我也是这个想法。由于临近开学，我们还是想来学校和老师当面沟通解释一下，然后我们再继续等待新的签证。
+
+在等待期间，我们也希望能随时了解学校的一些课程安排，这样即使在外面等待也能不落下进度。我预计几周到 1 个月左右就会有结果。
+
+我会尽快完成您提到的表格。再次感谢您的支持与理解。
+在 Aug 29, 2026, 02:01 +0200，Adrian Kwong <adrian.kwong@meadowridge.bc.ca>，写道：
+> Natalie,
+>
+> 我理解您的想法，也尊重您的选择。由于签证的审批时间始终不能预计，我也不能给太肯定的建议。我们下星期会跟初中校长沟通，让他先了解Cathy延迟入学的可能性；周三迎新时也请您跟他交代一下。
+>
+> 昨天学校发了一封电邮 "Get set for September" ，请您跟Cathy仔细留意开学跟第一学期的重要节目/日期，并确保入学前完成电邮提到的项目。重点如下:
+>
+>
+> 1. > Complete one Residency Form for the fa
+
+---
