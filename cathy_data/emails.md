@@ -3305,3 +3305,36 @@ Go ahead, treat yourself.
 <https://app.sephora.com/T/v61000001a1a2606ce9b32e0b6e96c660c0/11ac7d203f154af70000021ef3a0bcc2/11ac7d20-3f15-4af7-917b-
 
 ---
+
+## [其他] Flat 120 1 Emery Way, E1W 2AS
+
+**发件人:** Udoka Okoli <Udoka.Okoli@foxtons.co.uk>
+**日期:** 2026-11-03T17:31:36.000Z
+**摘要:** 房产中介建议将房产出租以加快销售
+**待办:** 考虑出租
+**GmailID:** 1a1a2777807999aa
+
+
+Good afternoon, Jingqi
+
+Hope all is well.
+
+I’ve come across your property on the market for sales with us . It seems to be going quite slow!
+
+Would you consider letting out the property?
+
+We have let 7 properties last week and have disappointed applicants we would love to introduce.
+
+Could we redirect our applicants to your property securing a quality tenancy?
+
+Many thanks,
+
+Udoka.
+
+
+------------------------------------
+Udoka Okoli
+Move Consultant
+Property Services, City & 
+
+---
