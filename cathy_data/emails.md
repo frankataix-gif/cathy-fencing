@@ -3338,3 +3338,31 @@ Move Consultant
 Property Services, City & 
 
 ---
+
+## [其他] Re: Flat 120 1 Emery Way, E1W 2AS
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-03T17:32:14.000Z
+**摘要:** 邮件讨论房产出租条件及销售市场状态，涉及房产租赁方案和条款协商
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1a2777807999aa
+
+--- Option 1 — "Consider with conditions" ---
+
+Hi Udoka,
+
+We would consider letting the property depending on the terms. Our requirements are a multiple-agency agreement, a commission rate of 3%, a Mandarin-speaking point of contact for daily communication, and legal review of any tenancy agreement by Spencer West LLP.
+
+Let me know if this aligns with your team's terms.
+
+Best,
+Natalie
+
+--- Option 2 — "Remain on sales market" ---
+
+Hi Udoka,
+
+Thanks for reaching out, but we are keep
+
+---
