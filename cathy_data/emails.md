@@ -3211,3 +3211,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOG
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101439646-1793705731881.562%26ouid%3D539079.HK-20261103-edm-hkhotelVFR.2026-11-03_8_0.20261103.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D539079.HK-20261103-edm-hkhotelVFR.2026-11-03_8_0.20261103.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0Mzk2NDYtMTc5MzcwNTczMTg4MS4
 
 ---
+
+## [营销] The boots you need this season
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-03T14:09:21.000Z
+**摘要:** Browns Shoes 推出本季热门靴子，鼓励立即购买。
+**待办:** 无
+**GmailID:** 1a1a1be43ecd17f9
+
+The season’s most-wanted city silhouettes have officially landed
+BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OxdokKBom0OApV4li-2FbvlgyMkSnEPicw33kr9dki2TcA-3D-3DgBYM_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAI62tGqP-2FHYE7369jYJ2Y2g1EKnBd8S5TMvUCEetaVi1xhNhLypGfvBtKNNk0I3TnIwO55uutSJQie2lfLlZ2ccf6wJt4K0N5kgp-2FL8HTctXxinYh-2FAXhl7ZvghwG8m0Xrg29CN4nZ-2B3WNkinMomIKy
+
+---
