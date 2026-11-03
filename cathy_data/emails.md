@@ -3144,3 +3144,26 @@ gear.
 [image: Swiftly Tech Short-Sleeve Shirt 2.0 *Waist
 
 ---
+
+## [营销] Time to unwrap savings! 🎁 Shop the Great Big Tree Spree for BOGOs on holiday must-haves ➡️
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-03T08:25:14.000Z
+**摘要:** 促销邮件，介绍节日购物优惠活动
+**待办:** 无
+**GmailID:** 1a1a0835f4c06dd1
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNDksInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF9gkwQWIh-whZvZoB3Cjayjj79JUs329OnacVcFHcSG19dyYzDLvgEFBEun7zqKyjaiiveokH5WFD0Hl5T8rOi_PN3zCg2U6UzPG2WpYTrwtmJYc-zg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
