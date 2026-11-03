@@ -3198,3 +3198,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOG
                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 ---
+
+## [生活旅行] 香港酒店低至55折  回港探親首選🏨
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-03T11:35:32.000Z
+**摘要:** 提供香港酒店折扣和机票信息，适合回港探亲。
+**待办:** 无
+**GmailID:** 1a1a1316d1ecb743
+
+讓這趟相聚，多留一會
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101439646-1793705731881.562%26ouid%3D539079.HK-20261103-edm-hkhotelVFR.2026-11-03_8_0.20261103.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D539079.HK-20261103-edm-hkhotelVFR.2026-11-03_8_0.20261103.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0Mzk2NDYtMTc5MzcwNTczMTg4MS4
+
+---
