@@ -3120,3 +3120,27 @@ Google 会定期通过与您的运营商交换设备信息（例如 SIM 卡标�
 © 2026 Google LLC, 1600 
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-11-03T04:16:51.000Z
+**摘要:** Lululemon 邀请用户分享新购买的运动装备使用体验，以帮助改进产品并鼓励提交评价。
+**待办:** 无
+**GmailID:** 1a19f9fcbfb26464
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new Swiftly Tech Short-Sleeve Shirt 2.0 *Waist Length? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Swiftly Tech Short-Sleeve Shirt 2.0 *Waist
+
+---
