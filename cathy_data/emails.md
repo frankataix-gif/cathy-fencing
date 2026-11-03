@@ -3225,3 +3225,21 @@ BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OxdokKBom0OApV4li-2FbvlgyMkSnEPicw33kr9dki2TcA-3D-3DgBYM_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAI62tGqP-2FHYE7369jYJ2Y2g1EKnBd8S5TMvUCEetaVi1xhNhLypGfvBtKNNk0I3TnIwO55uutSJQie2lfLlZ2ccf6wJt4K0N5kgp-2FL8HTctXxinYh-2FAXhl7ZvghwG8m0Xrg29CN4nZ-2B3WNkinMomIKy
 
 ---
+
+## [营销] 15% off starts TODAY, Natalie 🪄
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-03T14:37:05.000Z
+**摘要:** Sephora推出15%折扣和30%的全店优惠，活动今日开始。
+**待办:** 无
+**GmailID:** 1a1a1d7d56923f8b
+
+ Sephora 
+
+Plus get 30% off ALL Sephora Collection. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1a1d7a124b64e8e6e96c65848/6b9b9d35df5d498e0000021ef3a0bcc2/6b9b9d35-
+
+---
