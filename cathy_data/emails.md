@@ -3167,3 +3167,34 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [营销] Loro Piana以节日暖意点亮首尔
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-11-03T09:15:07.000Z
+**摘要:** Loro Piana在首尔举办节日主题活动，营造节日氛围。
+**待办:** 无
+**GmailID:** 1a1a0b0e25186b02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+沉浸节日氛围
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+---
