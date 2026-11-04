@@ -3472,3 +3472,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261104_S4_EOW_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5
 
 ---
+
+## [营销] Novità in outlet: maglieria autunnale
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-04T12:01:33.000Z
+**摘要:** Calvin Klein推出秋季毛衣促销活动，提供限时优惠。
+**待办:** 无
+**GmailID:** 1a1a6700d9c9094a
+
+
+
+
+---
