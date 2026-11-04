@@ -3521,3 +3521,21 @@ FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MAtzd6yQAd23nu79ugT-2FyV-2B6aTq9uLr3Jhn-2BaPgF2S7ilua9ktKJPKKcKuAJvqt9c-3DmvuH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADWUZXBgXyoE1176j4zqcBkt2bQVyz-2F6pInsRpI7x3jA59PqKkujiQQvZ6IGwM9QK8i5jAnIh1LvE9Vfrs21GIo9Wo08li1myo3lNVHbqE9nH-2FdBP8NcztEGmgDxbddB
 
 ---
+
+## [营销] Get 15% off must-haves AND a FREE gift with purchase ✨
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-04T14:31:04.000Z
+**摘要:** Sephora推出促销活动，购买指定商品可享15%折扣并获赠礼品。
+**待办:** 无
+**GmailID:** 1a1a6f87916a2349
+
+ Sephora 
+
+Your shopping list is now that much better. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1a6f86d1aa59681f4bbcfb648/52c3741058c641260000021ef3a0bcc2/52c374
+
+---
