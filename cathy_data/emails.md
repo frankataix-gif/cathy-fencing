@@ -3630,3 +3630,21 @@ take place to the *Low Temperature Hot Water (LTHW) system pipework*
 located wit
 
 ---
+
+## [营销] Come in store for savings, FREE gifts with purchase, and exclusive brand experiences ⭐
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-04T20:04:04.000Z
+**摘要:** Sephora 发送促销邮件，包含15%折扣、免费礼物和品牌体验活动。
+**待办:** 无
+**GmailID:** 1a1a8297d8aa43ac
+
+ Sephora 
+
+Savings like 15% off, VIB. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1a82956eda39227f4bbcf6cc0/971734d8be344fcb0000021ef3a0bcc2/971734d8-be34-4fcb-b118
+
+---
