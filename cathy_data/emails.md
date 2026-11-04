@@ -3507,3 +3507,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261104_S4_EOW
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] UP TO 40% OFF → Your favorites are waiting for you
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-04T14:07:51.000Z
+**摘要:** Browns Shoes提供多品牌折扣，最快48小时送达。
+**待办:** 无
+**GmailID:** 1a1a6e33d5ba0c6a
+
+Best brands included: adidas, Wishbone, Michael Kors + more
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MAtzd6yQAd23nu79ugT-2FyV-2B6aTq9uLr3Jhn-2BaPgF2S7ilua9ktKJPKKcKuAJvqt9c-3DmvuH_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADWUZXBgXyoE1176j4zqcBkt2bQVyz-2F6pInsRpI7x3jA59PqKkujiQQvZ6IGwM9QK8i5jAnIh1LvE9Vfrs21GIo9Wo08li1myo3lNVHbqE9nH-2FdBP8NcztEGmgDxbddB
+
+---
