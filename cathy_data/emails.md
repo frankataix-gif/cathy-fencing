@@ -3448,3 +3448,27 @@ Trip.com 機票搜尋器幫你搵平飛🔍日韓台機票低至 HK$1,6XX 起，
 
 
 ---
+
+## [营销] Up to 50% off trees + BOGOs on holiday must-haves, including Christmas décor.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-04T08:20:03.000Z
+**摘要:** Michaels圣诞装饰促销，提供50%折扣和买一送一优惠。
+**待办:** 无
+**GmailID:** 1a1a5a4d113c6df0
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTAsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF_FuE5ordddQLrVk7t3zCXGYzCEa_fjy4h__BHU6FWtBMVoLEKdsS0K3bddvqWYZ-PJgOwysyUUMBHGugje4nPvp_4xWAH3mNkocnzWFa-NVwbtTO8A 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261104_S4_EOW_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5
+
+---
