@@ -3611,3 +3611,22 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261104_S5_CrossCategory_Cricut_Newness_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmc
 
 ---
+
+## [生活旅行] LTHW shut down - 12/11/26 - no hot water site wide.
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-04T17:06:27.000Z
+**摘要:** 小区将进行热水系统维修，11月12日全天暂停热水和供暖服务。
+**待办:** 无
+**GmailID:** 1a1a786c1eb723d8
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/SN3Y81WECIyX7dcadQvJZ42l4Os0bzFwg4Om2fGL3jLmwUqIzJBNcDKdreZniYX3_TZ2hVUXtBvz_1hvJLLaSj0hL2pDxn47UUlurlgev9A5aOyuI3TQbwKKrdVb5naUEPfTqBad5zUJWWDuUYzb0AUpwweJ28nMm2fa_vgs5jujp4HO0m-IbfGwUw55hLasLnLWf8i4WPDxpjSDkm2H62WeHWmp-Zwrj4fWsEOFv63ZtVD_iFJsjj7DyKZkus48Kpjq5S-3rFbHBUg-lTVG> 
+
+Dear Ms Jingqi Wu,
+
+We would like to inform you that essential repair works are scheduled to 
+take place to the *Low Temperature Hot Water (LTHW) system pipework* 
+located wit
+
+---
