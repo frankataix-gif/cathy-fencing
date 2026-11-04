@@ -3567,3 +3567,23 @@ Only the world’s best for you.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [生活旅行] Local Event - St Katherine Docks - Christmas light switch on - 19/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-04T16:23:45.000Z
+**摘要:** 伦敦圣凯瑟琳码头将举办圣诞灯饰启动仪式，包含圣诞市场、音乐表演和卫兵表演等活动。
+**待办:** 无
+**日程:** {"title":"Local Event - St Katherine Docks - Christmas light switch on","date":"2019-11-26","time":"17:00","location":"St Katharine Docks, Marble Quay"}
+**GmailID:** 1a1a75faaafb1d3f
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/j5w9WURLPcSEH7zfJs-kxS3lpRo29a8J3ZgqNB1vQaYoi1eqohsUUEngAWb9IcWHXirL3FnrFpiQ2wY0iUxmM7cXgkOrdBoY6gin3UnKCZ7Famh7W1aArrObfz2M6SfNtk0GQCBIlaYk0dj8fiB-87R5U9hljwG2v1PMryUDA922NJsdtTPhh9QbAn9txDcwNbE-ryRtOkTfOElKC4gHFjs_SkIKjlP9WArqaHRtYDespa9mUpDMn63Xg0Djwhl6LVBPgMtXjPjvPcYnxC3z4Gdl1Q> 
+
+Dear Ms Jingqi Wu,
+
+Join us on Thursday 19 November as St Katharine Docks welcomes the festive 
+season with a free evening of Christmas celebrations on our Marble Quay 
+
+
+---
