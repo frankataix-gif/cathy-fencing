@@ -3587,3 +3587,27 @@ season with a free evening of Christmas celebrations on our Marble Quay
 
 
 ---
+
+## [营销] 📢 New Cricut machines! Create stickers, press vinyl and personalize everything, easily.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-04T16:13:29.000Z
+**摘要:** 推广新的Cricut机器，可用于制作贴纸、压印乙烯基和个性化物品。
+**待办:** 无
+**GmailID:** 1a1a756461748a87
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTAsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAF_3NpavxfNvleFSDuteKePORduXFfV4EaN1HC_rSW4SKsagzFdG8q1BjFojK0q7sqK5TankQMxs69RqLwK8Oqa6eRXoibvKk6MIz06ne3qRLBK2PZ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261104_S5_CrossCategory_Cricut_Newness_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmc
+
+---
