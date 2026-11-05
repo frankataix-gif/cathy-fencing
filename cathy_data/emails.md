@@ -4192,3 +4192,22 @@ Thanks for reaching out. We are focusing sol
       -ms-interpolation-mode: bic
 
 ---
+
+## [营销] Jingqi, don’t miss your chance to protect your device with Device Care Complete.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-11-05T16:16:40.000Z
+**摘要:** TELUS发送促销邮件，宣传Device Care Complete设备保护服务，每月17美元。
+**待办:** 无
+**GmailID:** 1a1ac7f905e37336
+
+Get coverage for $17/mo. with this limited-time opportunity.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t9a062d5,40bf2a88,2b108846&e=Y2lkPXRlbERNMjM2MzYzMSZiaWQ9MTYxNTA2MDA1JnAxPSU0MGVhZDllV0dBVVJSMXAzejhIeWJqQnIxczclMkZpSXExZEpKNW96TUdTRGJ0USUzRA&s=ZkqYcGbi99xoQbkYEofUP9q1K5MhYkByypb2Kv8FoPc web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=t9a062d5,40bf2a88,2b108847&e=Y2lkPXRlbERNMjM2MzYzMSZiaWQ9MTYxNTA2MDA1&s=9jygxJA46YW8d1FG5RpOrgYrR2TZK8N7a5_isIh-rDE 	
+	
+Gr
+
+---
