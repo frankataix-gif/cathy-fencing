@@ -4252,3 +4252,31 @@ Hi natalie, big things are happening. Meet MakeOS and Process Intelligence, see 
 Hero image ( https://www.make.com/makeos?utm_campaign=Product_Newsletter_021126&utm_medium=email&utm_source=customer
 
 ---
+
+## [营销] XIAOJUN, Ready to simplify your global business payments?
+
+**发件人:** Payoneer <noreply@send.payoneer.com>
+**日期:** 2026-11-05T18:18:49.000Z
+**摘要:** Payoneer推广其全球业务支付服务，邀请用户开始使用
+**待办:** 无
+**GmailID:** 1a1acef5cadfd038
+
+Get started
+with Payoneer now 
+
+
+
+    table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border="0" cellpadding="0" cellspacing="0" w
+
+---
