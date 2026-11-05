@@ -4211,3 +4211,22 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=t9a062d5,40b
 Gr
 
 ---
+
+## [营销] We want you back 👀 40% off x2
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-11-05T16:40:39.000Z
+**摘要:** DoorDash发送的促销邮件，提供40%折扣和双倍优惠
+**待办:** 无
+**GmailID:** 1a1ac957f99ac101
+
+ DoorDash This deal’s for you. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ 
+
+---
