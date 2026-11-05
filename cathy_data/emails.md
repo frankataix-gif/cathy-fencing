@@ -3883,3 +3883,25 @@ Hi Sam,
 Thanks for reaching out. We would prefer not to pursue short lets at this stage and want to keep our focus entirely on the sale of the property
 
 ---
+
+## [生活旅行] Re: Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-05T14:44:02.000Z
+**摘要:** 询问房产是否空置，建议短期出租以增加收入，并保持销售市场灵活性，但发件人表示不感兴趣。
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1ac2890ddd5846
+
+Not interested in rent, only for
+Don’t email
+On 5 Nov 2026 at 4:41 PM +0200, Sam Jourdain <Sam.Jourdain@foxtons.co.uk>, wrote:
+>
+>
+> Hi Jingqi,
+> I hope you're well.
+> I wanted to touch base regarding your property and discuss an option that could help maximise your return while we continue our sales efforts.
+> Can I first ask, is the property currently vacant?
+> If it is, a short let could be worth considering whilst we market the property for sale. We are seeing strong demand from cor
+
+---
