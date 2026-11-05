@@ -3857,3 +3857,29 @@ Can I first ask, is the property currently vacant?
 If it is, a short let could be worth considering whilst we market the property for sale. We are seeing strong demand from corporate tenants and professionals looking for flexible accommodation, and short lets can often generate a significantly higher monthly inco
 
 ---
+
+## [生活旅行] Re: Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-05T14:41:59.000Z
+**摘要:** Natalie询问房产是否空置，讨论短期租赁或出售选项，并要求中文沟通
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1ac2890ddd5846
+
+--- Option 1 — "Explore short let" ---
+
+Hi Sam,
+
+Yes, the property is vacant. Please go ahead and take a look to provide an estimated rental price for a short let. Could you also ensure that our day-to-day communications can be handled by a Mandarin-speaking colleague on your team?
+
+Best,
+Natalie
+
+--- Option 2 — "Focus on sale" ---
+
+Hi Sam,
+
+Thanks for reaching out. We would prefer not to pursue short lets at this stage and want to keep our focus entirely on the sale of the property
+
+---
