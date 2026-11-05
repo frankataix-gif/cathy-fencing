@@ -4230,3 +4230,25 @@ Gr
   ­ ͏ 
 
 ---
+
+## [其他] Get early access to MakeOS and Process Intelligence 🔎 plus global search and new plugins
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-11-05T17:10:21.000Z
+**摘要:** 邮件通知MakeOS和Process Intelligence的早期访问机会，邀请加入等待名单。
+**待办:** 无
+**GmailID:** 1a1acb220d5c7848
+
+Join the waitlists. Plus event subscriptions, and 12 new Airtable modules.
+
+Logo ( https://www.make.com?utm_campaign=Product_Newsletter_021126&utm_medium=email&utm_source=customer.io )
+
+******************
+What’s new in Make
+******************
+
+Hi natalie, big things are happening. Meet MakeOS and Process Intelligence, see the new releases, and get ready for what’s next.
+
+Hero image ( https://www.make.com/makeos?utm_campaign=Product_Newsletter_021126&utm_medium=email&utm_source=customer
+
+---
