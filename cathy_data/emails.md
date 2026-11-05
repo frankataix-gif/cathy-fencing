@@ -3819,3 +3819,21 @@ FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PY1san05Oaw-2BIrHPsIvsAUMY87gwceQ7OqbjCRP-2FIRHA-3D-3DWzHQ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPblTxQBbe4xXNFgn7JQYiS3j1JHdbs0mhfX3QLoSbhRBVcZooC0RTzrBjYxHLGdQYccqd9roet3RCwNRL5yCxeYxGdhMGJ5zpySefgOmRk
 
 ---
+
+## [营销] 15% off our most-searched beauty 🛍️
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-05T14:32:36.000Z
+**摘要:** Sephora 发送的15%折扣促销邮件，活动持续至11月9日。
+**待办:** 无
+**GmailID:** 1a1ac20546b8cdc6
+
+ Sephora 
+
+Save on EVERYTHING through 11/9. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1ac20399397f7fb6e965fc958/2fb2d2bee05e4fbd0000021ef3a0bcc2/2fb2d2be-e05e-4fb
+
+---
