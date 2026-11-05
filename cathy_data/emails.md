@@ -3837,3 +3837,23 @@ Save on EVERYTHING through 11/9.
 <https://app.sephora.com/T/v61000001a1ac20399397f7fb6e965fc958/2fb2d2bee05e4fbd0000021ef3a0bcc2/2fb2d2be-e05e-4fb
 
 ---
+
+## [营销] Foxtons
+
+**发件人:** Sam Jourdain <Sam.Jourdain@foxtons.co.uk>
+**日期:** 2026-11-05T14:41:35.000Z
+**摘要:** 建议将空置房产短期出租以增加收入，并提供租赁服务咨询
+**待办:** 无
+**GmailID:** 1a1ac2890ddd5846
+
+Hi Jingqi,
+
+I hope you're well.
+
+I wanted to touch base regarding your property and discuss an option that could help maximise your return while we continue our sales efforts.
+
+Can I first ask, is the property currently vacant?
+
+If it is, a short let could be worth considering whilst we market the property for sale. We are seeing strong demand from corporate tenants and professionals looking for flexible accommodation, and short lets can often generate a significantly higher monthly inco
+
+---
