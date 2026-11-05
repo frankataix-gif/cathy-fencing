@@ -4103,3 +4103,17 @@ Your winter could be richer and sweeter.
 ͏‌  ͏‌  
 
 ---
+
+## [生活旅行] Foxtons - Lettings
+
+**发件人:** Peter Macdonald <Peter.MacDonald@foxtons.co.uk>
+**日期:** 2026-11-05T15:33:10.000Z
+**摘要:** 建议延长房产租赁期，等待市场改善后出售
+**待办:** 无
+**GmailID:** 1a1ac57cc142e95f
+
+Good Afternoon
+
+I hope you are well, I wanted to reach out as I noticed your property for sale which was currently vacant and wondered if you would consider the lettings market for another year and attempt to sell in 12 months when perhaps the market may improve on the sales side. At the moment we are seeing a lot of corporate lets register with ourselves in Wapping and specifically asking about London Dock via their relocation agent because of the convenience when starting jobs in the city bu
+
+---
