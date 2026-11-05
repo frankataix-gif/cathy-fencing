@@ -3680,3 +3680,22 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] Grade 7 French – Unit 2 Overview, Assessments and Peer Tutoring
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-11-05T04:58:15.000Z
+**摘要:** 老师通知七年级法语课程的安排和第二单元内容，包括每日练习和比较级学习
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1aa1299a8a29d1
+
+Dear Parents and Students,
+
+As we approach the well-deserved Reading Break, I would like to take this opportunity to share some information about our upcoming learning in French.
+
+First and foremost, students are not expected to spend their Reading Break studying or working on French. This is a time for them to relax, have fun, spend time with family and friends, and recharge. I hope everyone enjoys a wonderful and restful break and returns feeling refreshed and ready for new learning!
+
+On
+
+---
