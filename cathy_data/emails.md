@@ -3786,3 +3786,21 @@ Questions about purchased items may be directed to the Cafeteria Manager by emai
 For questions about MyKidsSpending, please send
 
 ---
+
+## [Cathy&David] School account funding - Yunxi He
+
+**发件人:** MyKidsSpending with SAGE at Meadowridge School <AccountSetup@mykidsspending.com>
+**日期:** 2026-11-05T13:05:26.000Z
+**摘要:** 提醒将从BMO账户扣款100美元以资助Yunxi He的学校账户
+**待办:** 检查是否需要取消自动充值
+**涉及:** Cathy
+**GmailID:** 1a1abd072581a510
+
+JingQi Wu
+This is a reminder that your account Funding Card at BMO mother card with account number ending in 9433 will be debited within the next day or two in the amount of 100.00 to fund the account of Yunxi He
+
+If you wish to cancel automatic funding, please click the following link, and then click the "Confirm" button.
+https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e-11f1-8b3c-125919141f5f
+If your web browser does not open, please paste the link into the 
+
+---
