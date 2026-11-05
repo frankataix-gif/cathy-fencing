@@ -4145,3 +4145,50 @@ Hi Peter,
 Thanks for reaching out. We are focusing sol
 
 ---
+
+## [其他] Key Activity
+
+**发件人:** Estate Team <no_replies@estateteam.co.uk>
+**日期:** 2026-11-05T15:35:13.000Z
+**摘要:** 无
+**待办:** 无
+**GmailID:** 1a1ac4dd9e717049
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bic
+
+---
