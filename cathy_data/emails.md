@@ -4117,3 +4117,31 @@ Good Afternoon
 I hope you are well, I wanted to reach out as I noticed your property for sale which was currently vacant and wondered if you would consider the lettings market for another year and attempt to sell in 12 months when perhaps the market may improve on the sales side. At the moment we are seeing a lot of corporate lets register with ourselves in Wapping and specifically asking about London Dock via their relocation agent because of the convenience when starting jobs in the city bu
 
 ---
+
+## [待办] Re: Foxtons - Lettings
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-05T15:33:52.000Z
+**摘要:** 邮件是关于Natalie回复Peter关于是否考虑租赁房产的选项，分为考虑租赁和拒绝租赁两种情况，并提到法律条款和沟通要求。
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1ac57cc142e95f
+
+--- Option 1 — "Consider with terms" ---
+
+Hi Peter,
+
+We could consider letting, provided it is on a multiple-agency basis and we have a Mandarin-speaking point of contact for daily communication. Any agreement would also be subject to review by our legal counsel at Spencer West LLP.
+
+Please let us know your commission structure and expected rental figures for London Dock.
+
+Best,
+Natalie
+
+--- Option 2 — "Decline lettings" ---
+
+Hi Peter,
+
+Thanks for reaching out. We are focusing sol
+
+---
