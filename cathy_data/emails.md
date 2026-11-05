@@ -3699,3 +3699,26 @@ First and foremost, students are not expected to spend their Reading Break study
 On
 
 ---
+
+## [营销] The Great Big Tree Spree is here! 🎄 Get up to 50% off Christmas trees ➡️
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-05T08:24:04.000Z
+**摘要:** 促销圣诞树，最高50%折扣
+**待办:** 无
+**GmailID:** 1a1aacf44ae6e409
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTEsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGBJ__e4E97bbpavcwnOqGxgFF_lAzzP_mSwx94io8u1O-ZeGddNd0H80r-06xgierP-dzYVRfhnAxb9D1upstNoLd5OBxNUePCc2pBE9sPLihRGMgdQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
