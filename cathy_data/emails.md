@@ -3735,3 +3735,25 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOG
 
 
 ---
+
+## [营销] ⏰ Natalie, your Exclusive Early Black Friday Deals end today.
+
+**发件人:** "BestBuy.ca" <newsletter@e.bestbuy.ca>
+**日期:** 2026-11-05T11:05:45.000Z
+**摘要:** BestBuy.ca 发送的黑五促销邮件，提醒 Natalie 的专属优惠今日截止。
+**待办:** 无
+**GmailID:** 1a1ab6484ff9e946
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
