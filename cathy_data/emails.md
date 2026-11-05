@@ -3804,3 +3804,18 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web browser does not open, please paste the link into the 
 
 ---
+
+## [营销] 🍸 The Holiday Edit: What are you wearing?
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-05T14:21:10.000Z
+**摘要:** 布朗鞋店推送节日鞋履促销活动，展示为各类庆典精选的鞋款
+**待办:** 无
+**GmailID:** 1a1ac15c9f692999
+
+You bring the RSVP. We’ll handle the footwear. Explore curated
+pairs for every celebration on your calendar.    YOUR TOP
+FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PY1san05Oaw-2BIrHPsIvsAUMY87gwceQ7OqbjCRP-2FIRHA-3D-3DWzHQ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPblTxQBbe4xXNFgn7JQYiS3j1JHdbs0mhfX3QLoSbhRBVcZooC0RTzrBjYxHLGdQYccqd9roet3RCwNRL5yCxeYxGdhMGJ5zpySefgOmRk
+
+---
