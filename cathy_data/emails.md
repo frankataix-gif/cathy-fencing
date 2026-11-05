@@ -3971,3 +3971,30 @@ On 5 Nov 2026 at 4:41 PM +0200, Sam Jourdain <Sam.Jourdain@foxtons.co.uk>, wro
 > If it is, a short let could be worth considering whilst we market the property for sale. We are seeing strong demand from corporate
 
 ---
+
+## [其他] RE: Foxtons
+
+**发件人:** Sam Jourdain <Sam.Jourdain@foxtons.co.uk>
+**日期:** 2026-11-05T14:46:40.000Z
+**摘要:** 讨论房产出售前的短期租赁可能性，以增加收入
+**待办:** 无
+**GmailID:** 1a1ac2890ddd5846
+
+Hi,
+
+Thanks for your email.
+
+it would not disrupt the sale at all and would generate a nice income.
+
+I can get a price if you would like to see if it would make financial sense.
+
+Kind regards,
+
+From: natalie <nataliewu100@gmail.com>
+Sent: 05 November 2026 14:44
+To: Sam Jourdain <Sam.Jourdain@foxtons.co.uk>
+Subject: Re: Foxtons
+
+EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments before opening or responding. IMPORTANT: You will never be asked
+
+---
