@@ -3722,3 +3722,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [营销] Nuova Icon Cotton Modal Smooth Edge
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-05T09:19:06.000Z
+**摘要:** Calvin Klein 新品发布或促销信息
+**待办:** 无
+**GmailID:** 1a1ab01f6bb397c3
+
+
+
+
+---
