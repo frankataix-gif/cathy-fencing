@@ -3998,3 +3998,33 @@ Subject: Re: Foxtons
 EXTERNAL EMAIL: This email originated outside of the company. Verify links and attachments before opening or responding. IMPORTANT: You will never be asked
 
 ---
+
+## [其他] RE: Foxtons
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-05T14:48:22.000Z
+**摘要:** 发件人拒绝租赁请求，仅关注房产出售，对方提议短期租赁以增加收益，但发件人明确不感兴趣。
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a1ac2890ddd5846
+
+stop send me for request renting purpose. only sale
+在 Nov 5, 2026, 16:46 +0200，Sam Jourdain <Sam.Jourdain@foxtons.co.uk>，写道：
+> Hi,
+>
+> Thanks for your email.
+>
+> it would not disrupt the sale at all and would generate a nice income.
+>
+> I can get a price if you would like to see if it would make financial sense.
+>
+> Kind regards,
+>
+> From: natalie <nataliewu100@gmail.com>
+> Sent: 05 November 2026 14:44
+> To: Sam Jourdain <Sam.Jourdain@foxtons.co.uk>
+> Subject: Re: Foxtons
+>
+> EX
+
+---
