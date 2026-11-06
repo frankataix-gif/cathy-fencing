@@ -4359,3 +4359,39 @@ If you would like to share photos from s
                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 ---
+
+## [待办] Your BC Hydro bill is ready Nov 4, 2026
+
+**发件人:** BC Hydro <notifications@bchydro.com>
+**日期:** 2026-11-06T05:32:35.000Z
+**摘要:** 电费账单已生成并准备扣款
+**待办:** 查看账单并管理账户
+**日程:** {"title":"电费扣款","date":"2026-11-09","time":"","location":"无"}
+**GmailID:** 1a1af5834bae55b3
+
+View your bill
+
+Your bill is ready
+-----------------------------------------
+Hi natalie,
+
+Your bill for 103-708 FARROW ST, COQUITLAM BC  V3J 0P2 is ready.
+
+Your pre-authorized payment of $72.25 will be withdrawn on or after Nov 9, 2026.
+
+
+
+
+
+
+
+
+
+Account number: XXXXXXXXXX14
+Billing date: Nov 4, 2026
+
+
+
+[Log in to MyHydro](https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da3078576bb79c9fbaecb0de6e3d0ce920ecb3df0d3234668ea4a287389a0d391d4a) to view your bill, mana
+
+---
