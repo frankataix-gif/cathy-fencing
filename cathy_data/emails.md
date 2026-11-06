@@ -4568,3 +4568,25 @@ adidas, Wishbone, Michael Kors + more!    YOUR TOP FOOTWEAR
 DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O1glOcBRakc6z5yFGwJ4V-2FVGdqr8QLImwzJaWLbK7Xcw-3D-3DwLVv_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAO7Y8tVcGivOMd-2Bcj-2FkO076iu5vzd9bclW-2FDGXxemGAT15M2T1qpQAAVwMxuhYUfQK2PqXLwoy9A0D2mG-2BHuKqSx1WeMZv-2FjObc0XtCVXvaBnt7ZR6b1Vc4hDh-2B1etLpk8eRIbKLO7VbNJyUt4MEXoWujBNKBF654Bg2lS8OXd
 
 ---
+
+## [其他] Resident Newsletter - LH - 06/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-06T14:25:20.000Z
+**摘要:** 通知住户有附带的社区新闻通讯
+**待办:** 无
+**GmailID:** 1a1b13ff7a60f21d
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/JzCnXYG3tieOJHXdbIf56gwsWLPw9AHerRY_SrAlMOcEpXs-HhxBsnDdobHi0nnEhQ9o3A-l3nB2expcgVRwhGnOsVdz1hKxZKCul2xJVfD_AVscYi4lmYkhzNB-uVzxZwmqLmP88uTwGj5FCzT3GRLCRZJtBS5aTpAa_BQgXuzoTkO73gO5I6ZWX6A7l1RifjlQ7-QEGWRqPidjS63kV5vx2EYn4vm3dP-sItRQ0fHu6tpmkvz01nIxUxCGVa_lTXPXddTKFitAVHWzYYwxYKEhRg> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/fO49d
+
+---
