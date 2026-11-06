@@ -4328,3 +4328,34 @@ To protect their privacy, we are unable to identify to other parents which stude
 If you would like to share photos from s
 
 ---
+
+## [营销] Holiday 2026 限时体验店
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-11-06T05:01:42.000Z
+**摘要:** 介绍2026年冬季节日限时体验店活动
+**待办:** 无
+**GmailID:** 1a1af3c2dc9ff922
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+探索沉浸式冬日节日盛境
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+---
