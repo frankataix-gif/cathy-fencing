@@ -4632,3 +4632,16 @@ Get three 100-point rewards for just 250 points.
 <https://app.sephora.com/T/v61000001a1b1d3092aab3a56369ff04b84/fd249ae9177b45610000021ef3a0bcc2/f
 
 ---
+
+## [Cathy&David] Application to SJS: Next Steps
+
+**发件人:** "St. John's School (SJS) Admission Office" <stjohnsbc@myschoolapp.com>
+**日期:** 2026-11-06T21:14:10.000Z
+**摘要:** 关于申请圣约翰学校下一步的指示
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1b2b6413633690
+
+<p><div dir="ltr"><img height="171" width="133" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAxkAAAQACAYAAACNnZQiAAAQAElEQVR4AeydTXLcRra2TxbpOyUt9Zz0CgQPv3B3i16B6LAccWeiNnBFzSWrZGlOsjcganYjWg7TKzDllsNDQyswNbdoanpNFr5zwCqqSNYPqgo/mYknAyDrB8g8+RwUkG+eTKAjJAhAAAIQgAAEIAABCEAAAiUSQGSUCJOsIFAeAXKCAAQgAAEIQAAC4RJAZITrOyyHAAQgAIG6CVAeBCAAAQgUIoDIKISJjSAAAQhAAAIQgAAEfCWAXf4RQGT45xMsggAEIAABCEAAAhCAQNAEEBlBu68s48kHAhCAAAQgAAEIQAAC5RFAZJTHkpwgAAEIlEuA3CAAAQhAAAKBEkBkBOo4zIYABCAAAQhAoBkClAoBCEwngMiYz
+
+---
