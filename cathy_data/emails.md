@@ -4590,3 +4590,27 @@ Powered by Locale
 <https://bhidfah.r.bh.d.sendibt3.com/tr/cl/fO49d
 
 ---
+
+## [营销] Need balloons? Party supplies? We've got you covered 🎈
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-06T16:34:18.000Z
+**摘要:** 推广派对用品和促销活动的营销邮件。
+**待办:** 无
+**GmailID:** 1a1b1b629997ad33
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGD0b3VPZG_LzVu043lPOP6jagHa3UOZS77zTSVGIx5GQfqRhEPULnLwluJuhliswu4UdVjavFM4guaRtK9iFhixMBkgd8_dH-tStLNcPsTok9Ww 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261106_S6_PartyBalloon_OtherPromo_TARG_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=54
+
+---
