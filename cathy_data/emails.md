@@ -4535,3 +4535,23 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [营销] Say hello to the newest generation of Mac.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-11-06T13:19:56.000Z
+**摘要:** Apple发布新一代MacBook Pro，配备PROLED XDR显示屏，起价3999美元。
+**待办:** 无
+**GmailID:** 1a1b10417045293b
+
+Apple
+
+New Mac lineup. Fresh and brightest.
+
+MacBook Pro with PROLED XDR Display
+
+A screen come true.
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Fx6Yckyxxl8Pg2dMxhXJi23KmD2dAYRdF84Vjtcyyplho308aRHc5TqNXBpDI6ctsuY8%2Brq3S6%2FS9EBpjxYUIT4JeGsGNg6T2QSDaqRBj0Wq3dsLSxcoAWon7ZBE%2FremjeOTPoO5enh%2FTUh5Y%2BpwoNXrr1WkTXYBlN4148gr9pHHOVSL3frNNaMHVVX4AXXtn6ddhejdIlQwhv9EGzvWJPOoVsviCOy%2FPgrfNRaqQCy%2FkAMBxmze4O3nVrdyKv9mkLJLRuhOqQMwX%2FP0w6TnHTLigsG8UfCd8S0WGIYM%2Bly
+
+---
