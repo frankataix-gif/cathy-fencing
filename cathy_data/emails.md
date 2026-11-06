@@ -4645,3 +4645,16 @@ Get three 100-point rewards for just 250 points.
 <p><div dir="ltr"><img height="171" width="133" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAxkAAAQACAYAAACNnZQiAAAQAElEQVR4AeydTXLcRra2TxbpOyUt9Zz0CgQPv3B3i16B6LAccWeiNnBFzSWrZGlOsjcganYjWg7TKzDllsNDQyswNbdoanpNFr5zwCqqSNYPqgo/mYknAyDrB8g8+RwUkG+eTKAjJAhAAAIQgAAEIAABCEAAAiUSQGSUCJOsIFAeAXKCAAQgAAEIQAAC4RJAZITrOyyHAAQgAIG6CVAeBCAAAQgUIoDIKISJjSAAAQhAAAIQgAAEfCWAXf4RQGT45xMsggAEIAABCEAAAhCAQNAEEBlBu68s48kHAhCAAAQgAAEIQAAC5RFAZJTHkpwgAAEIlEuA3CAAAQhAAAKBEkBkBOo4zIYABCAAAQhAoBkClAoBCEwngMiYz
 
 ---
+
+## [营销] New gear in True Navy is here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-11-06T21:36:48.000Z
+**摘要:** lululemon 发布了全新 True Navy 系列产品。
+**待办:** 无
+**GmailID:** 1a1b2cb050ad0ce9
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
