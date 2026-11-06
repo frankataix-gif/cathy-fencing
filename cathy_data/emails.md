@@ -4395,3 +4395,27 @@ Billing date: Nov 4, 2026
 [Log in to MyHydro](https://email.bchydro.com/c/443/355a10b70a9655a1acaaf4d9f9b1da3078576bb79c9fbaecb0de6e3d0ce920ecb3df0d3234668ea4a287389a0d391d4a) to view your bill, mana
 
 ---
+
+## [营销] ⌚ It’s time to save BIG at the Great Big Tree Spree! 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-06T08:21:03.000Z
+**摘要:** Michaels 举办圣诞促销活动，提供大幅折扣。
+**待办:** 无
+**GmailID:** 1a1aff290ee95a61
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGDETo0IWPhMM7A6LngWPrrcJseA5HRIuFCl1QIArJFTgbd7bXHs6gfTuvvZvQVs6IOtY1zNvTHacszOQEPc_PdUyI_QlYRXZ0axibB63TEdioZ_4q 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261106_S4_Circular_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca
+
+---
