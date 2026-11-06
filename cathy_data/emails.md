@@ -4658,3 +4658,26 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Owen Wilson takes a big swing in Stick, Season 2.
+
+**发件人:** Apple TV <appletv@insideapple.apple.com>
+**日期:** 2026-11-06T23:28:53.000Z
+**摘要:** 宣传Apple TV新剧《Stick》第二季及其他节目《Small Prophets》和《Nocturne》的推广内容。
+**待办:** 无
+**GmailID:** 1a1b33196fd2779e
+
+The promotional illustration shows actor Owen Wilson in the Apple TV show 'Stick,' holding a golf club with a bird on his shoulder and a large crowd in the background.
+https://geni.us/DM_STK
+
+
+Comebacks don’t get sweeter than this. 
+Owen Wilson is back in Season 2 and taking a big, risky swing at reviving his glory days just as his protégé reaches new heights. Don’t miss the season premiere.
+
+Sign Up to Watch
+https://geni.us/DM_STK
+
+
+Promotional image for the TV show “Small Prophets,”
+
+---
