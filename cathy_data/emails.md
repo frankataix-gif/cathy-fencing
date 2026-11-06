@@ -4440,3 +4440,23 @@ Good food, great wine, and the perfect Sunday treat!
 
 
 ---
+
+## [生活旅行] Intercom System Fault – South Emery Wharf (Flats 1–49) - 06/11/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-06T12:34:22.000Z
+**摘要:** 南埃默里码头公寓对讲系统出现故障，导致无法通过对讲机沟通和远程开门，建议访客直接联系门卫协助。
+**待办:** 无
+**GmailID:** 1a1b0da65a44edd7
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/KZH4bcKytyq7TGWVt56nMQbDx9Mn2-3td6snVyumCGChq2BXW8DVwYMIB7pebYLoIpyjaU-GjxrA8kZErpzBXKM8w6sIZePqnW8D7LWD_PhR7GOVTz96cESKTlLEDRsgC29zuZ93dvmP3g4bbbjtdCH9XHLYNHqqRL5MIeSaifMnwecomb9Ic1TjgkPyxRgUFxAqK845X6f0o54oR8i4FXvLGlVjKUTplDwW9LXNBO_qOhCAaxG7JWitARKpcZZUUJ6Doo0XM-2F17NRKFax> 
+
+Dear Ms Jingqi Wu,
+
+Please be advised that the intercom system serving *South Emery Wharf 
+(Flats 1–49 only)* is currently experiencing a fault.
+
+*Smart Britannia, *the contra
+
+---
