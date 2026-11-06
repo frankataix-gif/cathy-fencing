@@ -4419,3 +4419,24 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261106_S4_Circular_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca
 
 ---
+
+## [营销] Champagne route - Sunday Roast Special
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-06T11:17:00.000Z
+**摘要:** 推广周末烤肉套餐及圣诞季节预订优惠
+**待办:** 无
+**GmailID:** 1a1b0938b173b028
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/Z742pR2gHldsOzgZoQrZf27-UHVpd-8YaVTizOv0Ollg32X1AYEZzbJHmP_T1EPX-DdX-WygMnJfHFluqUxJ8bujvzRZ2pmCITO5NEQ0t4py33OnZQccI3ZNMjoybo-MpyKA-PprbYMWCbZObL7uP2I0myR68gnva5o9GyO6Mr7SFMAFF2j1-ODIvaIxGdJhf5pVJtDLVg7VmW-lVybOtDktRePqE9mIJDR2jgnOpHvBcXG_He36puZXLm1PgEODSRVbeG5OtxOLGjjkl_OrEs5dNw> 
+
+Dear Ms Jingqi Wu,
+
+Enjoy a delicious Sunday Roast for 4 people and receive a *FREE bottle of 
+Gamay Red Wine!* 🍷
+
+Good food, great wine, and the perfect Sunday treat!
+
+
+---
