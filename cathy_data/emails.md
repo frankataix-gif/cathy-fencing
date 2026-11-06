@@ -4555,3 +4555,16 @@ A screen come true.
 https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2Fx6Yckyxxl8Pg2dMxhXJi23KmD2dAYRdF84Vjtcyyplho308aRHc5TqNXBpDI6ctsuY8%2Brq3S6%2FS9EBpjxYUIT4JeGsGNg6T2QSDaqRBj0Wq3dsLSxcoAWon7ZBE%2FremjeOTPoO5enh%2FTUh5Y%2BpwoNXrr1WkTXYBlN4148gr9pHHOVSL3frNNaMHVVX4AXXtn6ddhejdIlQwhv9EGzvWJPOoVsviCOy%2FPgrfNRaqQCy%2FkAMBxmze4O3nVrdyKv9mkLJLRuhOqQMwX%2FP0w6TnHTLigsG8UfCd8S0WGIYM%2Bly
 
 ---
+
+## [营销] 🥿 Up to 40% off for you.
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-06T14:09:09.000Z
+**摘要:** 这是一则鞋类和时尚品牌的促销广告，提供最高40%的折扣。
+**待办:** 无
+**GmailID:** 1a1b1312b9afc5b7
+
+adidas, Wishbone, Michael Kors + more!    YOUR TOP FOOTWEAR
+DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8O1glOcBRakc6z5yFGwJ4V-2FVGdqr8QLImwzJaWLbK7Xcw-3D-3DwLVv_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAO7Y8tVcGivOMd-2Bcj-2FkO076iu5vzd9bclW-2FDGXxemGAT15M2T1qpQAAVwMxuhYUfQK2PqXLwoy9A0D2mG-2BHuKqSx1WeMZv-2FjObc0XtCVXvaBnt7ZR6b1Vc4hDh-2B1etLpk8eRIbKLO7VbNJyUt4MEXoWujBNKBF654Bg2lS8OXd
+
+---
