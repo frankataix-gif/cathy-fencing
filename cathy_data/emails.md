@@ -4309,3 +4309,22 @@ lululemon
 
 
 ---
+
+## [Cathy&David] Student Photo Sharing Guidelines
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-11-06T01:43:08.000Z
+**摘要:** 学校提醒家长不要在家长群或社交媒体上分享学生照片，建议使用Vidigami平台上传照片以保护隐私。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1ae86411e206e3
+
+Good evening, Grade 5 and 7 families,
+
+The Parent Guild has received a kind reminder when it comes to sharing student photos...
+
+Please do not share identifiable photos of students in Parent Group Chats or Parent Guild social media accounts - some families have privacy restrictions in place.
+To protect their privacy, we are unable to identify to other parents which students are affected - so kindly ask this blanket rule is followed for all students.
+If you would like to share photos from s
+
+---
