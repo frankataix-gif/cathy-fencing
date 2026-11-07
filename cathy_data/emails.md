@@ -4810,3 +4810,16 @@ Google Play
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] Cold air, warm boots: Dr. Martens lined for the chill
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-07T14:13:38.000Z
+**摘要:** Browns Shoes促销Dr. Martens靴子，最高折扣40%
+**待办:** 无
+**GmailID:** 1a1b65b98d525d8a
+
++ Sale: Up to 40% Off 🔥    YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M5qMUjiSgwl49PUvUyAMNeb0Gwcm6pJkCo3O-2Ftcjg2PA-3D-3DSzqR_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHrhsU917v05xJqsRtiF-2FX14eDZIHwGqprSdjlzcZSg034KWajZdqBT-2FdIFwU3LmQA6WKzyzFmtvTxd37HHAz2I3kayPYMNsBhbmRUbwkfEJm9eMgcGZu8-2F4i7xg7LO30cUS7TDVH-2F-2B6tHGv6Acb9DVB3bnYurhelPvyTZYe71v6adp-2BcqYrEzSsGl
+
+---
