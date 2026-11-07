@@ -4841,3 +4841,23 @@ From HUDA BEAUTY, Danessa Myricks Beauty, and PATRICK TA.
 <https://app.sephora.com/T/v61000001a1b65a1eada61fec369fb45280/5887bc44ad8f4cd30000021ef
 
 ---
+
+## [生活旅行] LTHW shut down - 12/11/26 - no hot water site wide.
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-07T17:06:25.000Z
+**摘要:** 公寓进行热水系统维修，导致11月12日全天停水和供暖中断
+**待办:** 无
+**日程:** {"title":"LTHW系统维修","date":"2026-11-12","time":"","location":"London Dock Estate"}
+**GmailID:** 1a1b6f9cc1eabae9
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/2w1ZMppo0zBm7-IySHLX21OFLoMY1DsF5fnVDZEiAyGAUx3kywjAYNE-n_ShJH7WEOv8uKKgGA6f-R12hPDHqEZ0OxyGE4Ie0j42BCYGysOZw2u51AdOLcIRBb8wngleY2ytKWJ3MDbU5UWpTanCn06eN97vvjmrIolnHuvb2kyKzeMOTvUyDHzwGgHoqJ6ImA8C1lap0MvbRUq1yAWkRmHPrCcr9wMvu8_SNespERYNZNTeznqtHZUfJj7vcbMdjGrUERvkAr3UlUp2ESyC> 
+
+Dear Ms Jingqi Wu,
+
+We would like to inform you that essential repair works are scheduled to 
+take place to the *Low Temperature Hot Water (LTHW) system pipework* 
+located wit
+
+---
