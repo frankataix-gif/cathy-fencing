@@ -4897,3 +4897,17 @@ lululemon
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [其他] Your receipt from Aritzia
+
+**发件人:** yourpurchase@aritzia.com
+**日期:** 2026-11-07T23:28:21.000Z
+**摘要:** Aritzia 发来购物收据确认邮件，附有订单详情。
+**待办:** 无
+**GmailID:** 1a1b857754c67b72
+
+ Aritzia 
+[image: ARITZIA] 
+<https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgs9iTE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3MKuASJJ29PpxyrAZuJuwZ8nVZJMgBDQG-2F6GctEYNZ-2BZJbdAlWn5IoPaJ4FHhp-2FzPWd8PF8sG6wRgquMq4QX1hjS-2Fwob18Ae4uI4tgokoe5PQFpjFyM0vyFeXxWtTfFhNy8A1OmOcTD-2Bq3HHgGh4UEH
+
+---
