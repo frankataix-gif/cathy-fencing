@@ -4775,3 +4775,16 @@ Google Play
 
 
 ---
+
+## [营销] Singles Day: 30% di sconto
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-07T09:28:13.000Z
+**摘要:** Calvin Klein 发送的双十一直接折扣促销邮件
+**待办:** 无
+**GmailID:** 1a1b563200d33aa5
+
+
+
+
+---
