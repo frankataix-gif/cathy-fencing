@@ -4823,3 +4823,21 @@ Google Play
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8M5qMUjiSgwl49PUvUyAMNeb0Gwcm6pJkCo3O-2Ftcjg2PA-3D-3DSzqR_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAHrhsU917v05xJqsRtiF-2FX14eDZIHwGqprSdjlzcZSg034KWajZdqBT-2FdIFwU3LmQA6WKzyzFmtvTxd37HHAz2I3kayPYMNsBhbmRUbwkfEJm9eMgcGZu8-2F4i7xg7LO30cUS7TDVH-2F-2B6tHGv6Acb9DVB3bnYurhelPvyTZYe71v6adp-2BcqYrEzSsGl
 
 ---
+
+## [营销] Get 15% off when you stock up on new palettes 💖
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-07T14:12:02.000Z
+**摘要:** Sephora推出促销活动，购买特定品牌色板可享15%折扣
+**待办:** 无
+**GmailID:** 1a1b65a336c47bc1
+
+ Sephora 
+
+From HUDA BEAUTY, Danessa Myricks Beauty, and PATRICK TA. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1b65a1eada61fec369fb45280/5887bc44ad8f4cd30000021ef
+
+---
