@@ -4681,3 +4681,16 @@ https://geni.us/DM_STK
 Promotional image for the TV show “Small Prophets,”
 
 ---
+
+## [生活旅行] 雙11搶先睇🔥3個時段搶年度最強優惠‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-07T02:15:22.000Z
+**摘要:** Trip.com 发送双11促销邮件，宣传机票优惠和高额优惠券活动。
+**待办:** 无
+**GmailID:** 1a1b3ca067a5ae94
+
+機票連稅 HK$11 起，優惠券高達 HK$1,111，快人一步睇優惠👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101564057-1794017200712.935%26ouid%3D543678.HK-20261107-edm-11mega.2026-11-07_8_0.20261107.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D543678.HK-20261107-edm-11mega.2026-11-07_8_0.20261107.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE1NjQwNTct
+
+---
