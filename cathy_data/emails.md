@@ -4694,3 +4694,27 @@ Promotional image for the TV show “Small Prophets,”
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101564057-1794017200712.935%26ouid%3D543678.HK-20261107-edm-11mega.2026-11-07_8_0.20261107.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D543678.HK-20261107-edm-11mega.2026-11-07_8_0.20261107.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE1NjQwNTct
 
 ---
+
+## [营销] 🗣️ Trees are up to 50% off RIGHT NOW!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-07T08:23:18.000Z
+**摘要:**  Michaels 发送的树木产品促销邮件，提供最高50%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a1b51b16d92cf98
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGEoXlVmBGSmHS-mGZK18CMHGEwI1tTRX_Vsp1kpA91tUvw7kQd9KROR7wTy19yAjF8Y04p0NUfqPXpq_KdrfSZ5OVVUg3edyQbltGTawVqRToHctA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261107_S4_Promo_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=7
+
+---
