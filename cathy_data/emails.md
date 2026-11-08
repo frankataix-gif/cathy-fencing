@@ -4911,3 +4911,16 @@ lululemon
 <https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgs9iTE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3MKuASJJ29PpxyrAZuJuwZ8nVZJMgBDQG-2F6GctEYNZ-2BZJbdAlWn5IoPaJ4FHhp-2FzPWd8PF8sG6wRgquMq4QX1hjS-2Fwob18Ae4uI4tgokoe5PQFpjFyM0vyFeXxWtTfFhNy8A1OmOcTD-2Bq3HHgGh4UEH
 
 ---
+
+## [生活旅行] 倒數3日！雙11機票優惠懶人包✈️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-08T02:31:43.000Z
+**摘要:** 宣传双11机票优惠活动，提供特价机票和折扣信息。
+**待办:** 无
+**GmailID:** 1a1b8ff546456fb5
+
+HK$1,111機票優惠券、HK$11機票、熱門目的地機票低至55折⋯⋯
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014214980-1794105101656.215%26ouid%3D544882.HK-20261108-edm-1111Mega-flight.2026-11-08_8_0.20261108.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D544882.HK-20261108-edm-1111Mega-flight.2026-11-08_8_0.20261108.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMz
+
+---
