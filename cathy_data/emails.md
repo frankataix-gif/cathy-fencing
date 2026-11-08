@@ -4952,3 +4952,17 @@ Prep your closet with these.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] 👀 400+ MORE STYLES. ALL ON SALE.
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-08T14:13:04.000Z
+**摘要:** 商家推广鞋类打折促销活动
+**待办:** 无
+**GmailID:** 1a1bb8174b01c197
+
+More markdowns just dropped. Don't miss out.    YOUR TOP
+FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PqDM73nrLhZoXjVvEEqyA1cVJ8den5xFmbpa3dylcyOw-3D-3D60VC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAM-2FDtxTr7YZkOgNnFpMvDWCulI4b8zrI38jRnnqbpSjzvxEUgPGjydYr36dAbjRIfsPLUGLHgeyzPQR4MnbuMhBNnUmbFbpFjzet1SqqoY34rD5hzi7m5dxQmM2-2F19Y3dllB5KjPjWRUSCUsthxAfHcRI4nVhjPhgS4H7Dfs6sCA
+
+---
