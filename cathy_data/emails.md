@@ -4966,3 +4966,21 @@ FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PqDM73nrLhZoXjVvEEqyA1cVJ8den5xFmbpa3dylcyOw-3D-3D60VC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAM-2FDtxTr7YZkOgNnFpMvDWCulI4b8zrI38jRnnqbpSjzvxEUgPGjydYr36dAbjRIfsPLUGLHgeyzPQR4MnbuMhBNnUmbFbpFjzet1SqqoY34rD5hzi7m5dxQmM2-2F19Y3dllB5KjPjWRUSCUsthxAfHcRI4nVhjPhgS4H7Dfs6sCA
 
 ---
+
+## [营销] 15% off ends TOMORROW ⚠️ Don’t miss out, Natalie!
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-08T14:28:03.000Z
+**摘要:** Sephora推出30%折扣促销，活动将于明天结束，提醒用户及时购买。
+**待办:** 无
+**GmailID:** 1a1bb8f332860811
+
+ Sephora 
+
+30% off ALL Sephora Collection ends tomorrow too! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1bb8f20a29cbae9f4bbcf6cc0/de8ecbfc20c14dad0000021ef3a0bcc2/
+
+---
