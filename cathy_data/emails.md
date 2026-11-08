@@ -4924,3 +4924,31 @@ HK$1,111機票優惠券、HK$11機票、熱門目的地機票低至55折⋯⋯
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014214980-1794105101656.215%26ouid%3D544882.HK-20261108-edm-1111Mega-flight.2026-11-08_8_0.20261108.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D544882.HK-20261108-edm-1111Mega-flight.2026-11-08_8_0.20261108.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMz
 
 ---
+
+## [营销] Before you RSVP to that holiday party…
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-11-08T03:10:41.000Z
+**摘要:** 建议为节日派对准备衣橱，可能涉及服装促销
+**待办:** 无
+**GmailID:** 1a1b92b1acfe7ee2
+
+Prep your closet with these.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
+
+---
