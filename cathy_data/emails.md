@@ -5163,3 +5163,23 @@ Save on EVERYTHING before the Sephora Savings Event is over.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [生活旅行] LTHW shut down - 12/11/26 - no hot water site wide.
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-09T17:06:50.000Z
+**摘要:** 因维修工作，12月11日整个小区将停热水12小时，影响所有公寓的供暖和热水供应。
+**待办:** 无
+**日程:** {"title":"LTHW shut down","date":"2026-12-11","time":"","location":"服务庭院"}
+**GmailID:** 1a1c146ea305ef9b
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/9NVLkxhrwUOYZEK_lr43kh6DI7gfr6RTtKmD6gx-tD3PyayzFTKWFvRIkQ0L2sh92f_OTUo7onzft7wekqYZAifFYJesKswsqYs2EVWUkP_8PGM35PSixRYoqWDn1arZ2QvCj8WoKw1kUyVjcj8KH5K7NOYdms0QTmJh-lePur5DMDuYSSeJvDpPmt30OwF8wUpm4e7BP2VNjqLYvpH5usQgD29ul3WR24BDE5W-7rvr4t7oKcCGN8AEBxf2gF1KlacJEH_6I7AlXHwQoWUo> 
+
+Dear Ms Jingqi Wu,
+
+We would like to inform you that essential repair works are scheduled to 
+take place to the *Low Temperature Hot Water (LTHW) system pipework* 
+located wit
+
+---
