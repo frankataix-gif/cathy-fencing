@@ -5090,3 +5090,17 @@ https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9ijYA9uBpH
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] The New Hunter Cold-Weather Collection
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-09T14:06:39.000Z
+**摘要:** Browns Shoes 推出冬季鞋款促销活动，鼓励尽快购买并两小时内自提。
+**待办:** 无
+**GmailID:** 1a1c0a1f177f415d
+
+It is only a matter of time before winter arrives.    BUY NOW,
+PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8N3sePIvuasA3swwM757YaMRHSFpNPeQTVInK4S6-2F-2Bqgg-3D-3Do9ap_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADgfi-2BhqFzf2S2HD9Hotu5qvY809LsTFaVrZXXRARfq6QTJX5UwKnqxQssvBneYxPsYZcXajVcljtKFWhwY8mgTc4rF5vEm6joVbuEcDhnH3xBrBN5mZuZiHfJ6E-2FH7s1C16vUds-2FzkpbshDDGmEa6YnSkv6-2FKN8
+
+---
