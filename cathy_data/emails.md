@@ -5214,3 +5214,23 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Elevate Your TV Experience with VIP Pricing
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-11-09T22:32:52.000Z
+**摘要:** TELUS推广电视服务套餐及优惠价格
+**待办:** 无
+**GmailID:** 1a1c2716b44822a9
+
+Elevate Your TV Experience with VIP Pricing 
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=ta0b8c4e,40c1e3ea,2b127ea8&e=Y2lkPXRlbERNMjM2NzkxOSZiaWQ9MTY4NTI4OTc0JnAxPSU0MDRIM3FXdk02Qk4zaER6MDhYdlRuZlJyS0hPdjlMN0NwdVFWaUpNUE1MeTQlM0Q&s=_ECEXXuUyxjGom9r4g3hQgsxMWB4pLU0VJRrjUyvsio web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=ta0b8c4e,40c1e3ea,2b127ea9&e=Y2lkPXRlbERNMjM2NzkxOSZiaWQ9MTY4NTI4OTc0&s=zC_2g1Hb6biYAfla8tv3Nhp3YZd8NacP-zy0_65smiM 	
+	
+
+Your Perfect Entert
+
+---
