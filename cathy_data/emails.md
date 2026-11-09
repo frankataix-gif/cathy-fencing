@@ -5234,3 +5234,17 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=ta0b8c4e,40c
 Your Perfect Entert
 
 ---
+
+## [其他] Your receipt from Aritzia
+
+**发件人:** yourpurchase@aritzia.com
+**日期:** 2026-11-09T22:51:37.000Z
+**摘要:** 这是一封来自Aritzia的购物收据邮件，附有购买详情。
+**待办:** 无
+**GmailID:** 1a1c282908545aeb
+
+ Aritzia 
+[image: ARITZIA] 
+<https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsbJ6s_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PV9SrKJDny3-2FUCY77l-2FrHBkGjBE32lU2CWiuYOCH-2BWU9hC9FWwPVputvo6QsX1eC9AfdvDXKri-2B6escGblpWideK-2BSFOmNCeT74LhpGyggP-2F5Pm-2BaOKLXEmQQRYE2Mqm9KvGmnWW6QRfVGtmRm
+
+---
