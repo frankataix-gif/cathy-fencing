@@ -5047,3 +5047,24 @@ Tesla
 [https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DRchC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FuMWInECo8fCvAVtJds7FYOapg
 
 ---
+
+## [营销] The new iPad mini is here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-11-09T12:11:07.000Z
+**摘要:** Apple 发布新 iPad mini 的促销广告，介绍产品特点和购买信息。
+**待办:** 无
+**GmailID:** 1a1c03829af78630
+
+Apple
+
+iPad mini
+
+More than a little awesome.
+
+From $949 or $81.23/mo. for 12 mo. at 4.99% APR(1)
+
+Buy
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV9ijYA9uBpHhuWTMEbgVHv5QkzYOby%2BaiiRxvyrRzGmrauR%2BMZlVRetoPu1oVuUfsVAbJieLrzexCmEXILAOtkbteI0Iz%2FIeWmjzT6t67%2BU6vU7NihpmSeKKn3OqovJJFAgqHTFUafyHMMLTFuAP1CJU96VSNDHJhcdHUd3YmJfZB%2BhfPEOUPXsdBQ5NxAcxGenKmwu4d%2FjuQ%2BWlp6NGkebLvq%2FcuG0GvzArU6HxhB56fH5WtAMsK2Qw1Ih7TYasT17N6nINQw5tiWH4KiG0jup098st%2Fu%2FH02o7D4hHahV
+
+---
