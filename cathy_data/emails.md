@@ -5034,3 +5034,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261109_S4_Seasonal_CountdowntoCraftsmasGifting_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c
 
 ---
+
+## [其他] Confirming your Model Y update
+
+**发件人:** Tesla <noreply@tesla.com>
+**日期:** 2026-11-09T09:15:28.000Z
+**摘要:** 确认特斯拉Model Y的订单更新详情，包含车辆配置和订单协议。
+**待办:** 无
+**GmailID:** 1a1bf975ca531d61
+
+Tesla
+[https://link.tesla.com/ls/click?upn=u001.pWUC6dM8Msun3LxPCegEXK2iwXgo4rPue6ahHxGd5kTRoFJ8uyMa7dLLIbbIdaZYXTk-2F3ghHvcmuAwlUqPpZ3bFlPOAvVQUsEmAY-2FL-2BjlgEgem-2FVGR52cNg4XwZlpYWAU2qX3j9k2fsvdXXCIQ8rPg-3D-3DRchC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PGUXohnShT9P63QE7M-2F8CvJLJ4hiB79msDl6owk2Y1yjkxNj-2Fzc4IsU8tRZeuFgRylQadz8IcRZHnaFJ73CHTHPX3opWUGTJqBbRcWXeK8p6pNnC6aoWp1n2gGSs1pIb2cYOxGh5WtnBRAdCfl4G-2Fs23lQYhXq9g2eGdwnVS-2FPwHKI-2BDAlTzDwFO8T2CdZ-2Fe-2FuMWInECo8fCvAVtJds7FYOapg
+
+---
