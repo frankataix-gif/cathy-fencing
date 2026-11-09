@@ -5122,3 +5122,22 @@ Save on EVERYTHING before the Sephora Savings Event is over.
 <https://app.sephora.com/T/v61000001a1c0b58068971576969125ccc4/e09b9f0dbeed40ff000002
 
 ---
+
+## [营销] Clock’s ticking: 40% off two orders
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-11-09T16:41:10.000Z
+**摘要:** DoorDash推出40% off两单的促销活动
+**待办:** 无
+**GmailID:** 1a1c12f6bdcdc753
+
+ DoorDash These savings won’t last. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+ 
+
+---
