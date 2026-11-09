@@ -5010,3 +5010,27 @@ HK$1,111 Mastercard酒店優惠券、低至5折熱門目的地酒店等！
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143108250-1794193653704.742%26ouid%3D545659.HK-20261109-edm-1111Mega-hotel.2026-11-09_8_0.20261109.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D545659.HK-20261109-edm-1111Mega-hotel.2026-11-09_8_0.20261109.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zM
 
 ---
+
+## [营销] 3, 2, 1 … Get ready to Countdown to Craftsmas! 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-09T08:21:34.000Z
+**摘要:** Michaels的圣诞手工艺促销邮件，介绍限时优惠和活动。
+**待办:** 无
+**GmailID:** 1a1bf660f7d6747c
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTUsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGHaCIr0G-F7pSPx0NjZASLBJSWfXA5A2W-LZf-Doe3KXWPx_pZTy5nJsCqK-UOnPqWDbH2_tPFTtlpFtnxaNIVFA1K222o494pbMmN3uZ7_syrRI 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261109_S4_Seasonal_CountdowntoCraftsmasGifting_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c
+
+---
