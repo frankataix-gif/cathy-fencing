@@ -5104,3 +5104,21 @@ PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8N3sePIvuasA3swwM757YaMRHSFpNPeQTVInK4S6-2F-2Bqgg-3D-3Do9ap_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IADgfi-2BhqFzf2S2HD9Hotu5qvY809LsTFaVrZXXRARfq6QTJX5UwKnqxQssvBneYxPsYZcXajVcljtKFWhwY8mgTc4rF5vEm6joVbuEcDhnH3xBrBN5mZuZiHfJ6E-2FH7s1C16vUds-2FzkpbshDDGmEa6YnSkv6-2FKN8
 
 ---
+
+## [营销] ENDS TODAY 🚨 15% off your purchase and 30% off ALL Sephora Collection
+
+**发件人:** Sephora Savings Event <shop@beauty.sephora.com>
+**日期:** 2026-11-09T14:28:03.000Z
+**摘要:** Sephora促销活动今日结束，提供15%折扣和30%全品折扣。
+**待办:** 无
+**GmailID:** 1a1c0b646f0c22ca
+
+ Sephora 
+
+Save on EVERYTHING before the Sephora Savings Event is over. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1c0b58068971576969125ccc4/e09b9f0dbeed40ff000002
+
+---
