@@ -5261,3 +5261,26 @@ Your Perfect Entert
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101426477-1794290335388.86%26ouid%3D546877.HK-20261110-EDM-1111.2026-11-10_8_0.20261110.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D546877.HK-20261110-EDM-1111.2026-11-10_8_0.20261110.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjY0NzctMTc5
 
 ---
+
+## [营销] Hot holiday deals! 🎅 Up to 50% off Christmas trees + BOGOs on ornaments ➡️
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-10T08:24:32.000Z
+**摘要:** Michaels 促销活动，圣诞树最高50折，装饰品买一送一。
+**待办:** 无
+**GmailID:** 1a1c48f1c010450e
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTYsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGI333l1ygspa5Byu0IGdgcVaQncNsF_cJyUUAuEFpzs1dpmI3JEYssf-82ykp1zLOKlaeBjF002fKoKtPDWsMF7_KtiLSG2eis5XddF57lixwhV64rA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
