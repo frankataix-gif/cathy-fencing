@@ -5248,3 +5248,16 @@ Your Perfect Entert
 <https://u55566172.ct.sendgrid.net/ls/click?upn=u001.tmwMwPnuPNS-2BA5jEwO-2BDCJiwsR3k530ZCEUdZDkAnGNqlEZU-2F9LCGuDmCFXVL5GOAGwMMO2yMBLKYyBnHNLZfZFCWJVCZeMBH2-2B1uwIsilRAGOw911q1XWy8IUacdz2-2B648vV2urFdsktWJCODR-2F5k7GonNxs4GZlHhheoCNlwScYncDPul05FleK6YJClgsbJ6s_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PV9SrKJDny3-2FUCY77l-2FrHBkGjBE32lU2CWiuYOCH-2BWU9hC9FWwPVputvo6QsX1eC9AfdvDXKri-2B6escGblpWideK-2BSFOmNCeT74LhpGyggP-2F5Pm-2BaOKLXEmQQRYE2Mqm9KvGmnWW6QRfVGtmRm
 
 ---
+
+## [生活旅行] 11.11即將開始🔥大量產品半價！
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-10T05:59:29.000Z
+**摘要:** Trip.com 11.11促销活动，高铁、旅行团、邮轮等产品半价起，限时优惠。
+**待办:** 无
+**GmailID:** 1a1c40a49510882f
+
+聽日預訂高鐵、旅行團、郵輪等通通都半價起！無論長途或短途都適用，唔好錯過🤩
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101426477-1794290335388.86%26ouid%3D546877.HK-20261110-EDM-1111.2026-11-10_8_0.20261110.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D546877.HK-20261110-EDM-1111.2026-11-10_8_0.20261110.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjY0NzctMTc5
+
+---
