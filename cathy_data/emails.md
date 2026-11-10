@@ -5350,3 +5350,16 @@ The works will proceed on the 19th only.
 Thank 
 
 ---
+
+## [营销] Ankle, tall or heeled—find your perfect boot for the season.
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-10T14:08:09.000Z
+**摘要:** 推广Adidas Samba Mule靴子，提供两小时内自提服务。
+**待办:** 无
+**GmailID:** 1a1c5c9a9d05c334
+
+👀 THE VIRAL ADIDAS SAMBA MULE IS HERE    BUY NOW, PICK UP IN 2
+HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PJaC-2BxomczbgCuYMiQVOpPWSbg8G1Sawxm42aV1Rl0Yw-3D-3D00hZ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH64K939TM5bw1BIChzAMd27-2BRnYslMpHHZunTC6ck-2BJuX-2BcVY5-2BKq7G9J-2BmQuh74w6SZNXAdh8NMQgWhNaQ8Zr6ZFVLaEx2SEJLxWHqEyF40lF7hkCL6KdpltzMwth0fHq1LSqMQ8iL9qJwwPoZOuB6X0iTg6ytIao0xYPPRm5VG5
+
+---
