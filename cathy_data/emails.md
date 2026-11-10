@@ -5381,3 +5381,21 @@ Add these to your basket, stat.
 <https://app.sephora.com/T/v61000001a1c5cd3669bf239f369fea47bc/5ee2573baa0a475e0000021ef3a0bcc2/5ee2573b-aa0a-475e
 
 ---
+
+## [营销] You have 973 points to use on these just-dropped Summer Fridays rewards
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-10T17:08:33.000Z
+**摘要:** 通知用户有973积分可用于兑换夏季新品，提醒尽快使用。
+**待办:** 无
+**GmailID:** 1a1c67523e18da13
+
+ Sephora 
+
+Check them out before they’re gone! 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1c66ec6dd954f9c369fb45280/940e9e6a01f84c430000021ef3a0bcc2/940e9e6a-01f8-
+
+---
