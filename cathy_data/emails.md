@@ -5326,3 +5326,27 @@ locat
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [生活旅行] LTHW shut down clarification - 19/11/26 - no hot water
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-10T11:54:33.000Z
+**摘要:** 关于LTHW施工时间调整的通知，原定12日的施工取消，改为19日进行，可能影响热水供应。
+**待办:** 无
+**日程:** {"title":"LTHW施工","date":"2026-11-19","time":"","location":""}
+**GmailID:** 1a1c54f58b2a4604
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/rITCB0u9IZ30YkTBtnGv-zI1D2cVkkNKnhdTGbgcA1QPyVBrpe4chcsND6Q83YW0kz8RppS2vfSVWe-Q4EFibz1wq6TRFTDrxMtTbE_6f-IbE2cnpkO0XwLGnUDNPgVDfnDfg-D0w_hKDViu2ZAs9LTplTbc-G2Uur7-KyUMWMY4I3kxJcmyb6bV3V_si1diz8n4RGxCDKj0bt-kKd7OcxGhVsXaB86MmExepPbZ2lCnbzhfeivficWoOxmqkbJAE8XtSGwL2xMKmhcg8vUs8EvxmA> 
+
+Dear Ms Jingqi Wu,
+
+Apologies for the lack of clarity in my earlier communication.
+
+The works on the 12th are cancelled
+
+The works will proceed on the 19th only.
+
+Thank 
+
+---
