@@ -5363,3 +5363,21 @@ Thank
 HOURS ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PJaC-2BxomczbgCuYMiQVOpPWSbg8G1Sawxm42aV1Rl0Yw-3D-3D00hZ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAH64K939TM5bw1BIChzAMd27-2BRnYslMpHHZunTC6ck-2BJuX-2BcVY5-2BKq7G9J-2BmQuh74w6SZNXAdh8NMQgWhNaQ8Zr6ZFVLaEx2SEJLxWHqEyF40lF7hkCL6KdpltzMwth0fHq1LSqMQ8iL9qJwwPoZOuB6X0iTg6ytIao0xYPPRm5VG5
 
 ---
+
+## [营销] The best NEW holiday sets go fast
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-10T14:12:03.000Z
+**摘要:** Sephora 发送节日新品套装促销邮件，推荐用户尽快购买新品。
+**待办:** 无
+**GmailID:** 1a1c5ce19774ad45
+
+ Sephora 
+
+Add these to your basket, stat. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1c5cd3669bf239f369fea47bc/5ee2573baa0a475e0000021ef3a0bcc2/5ee2573b-aa0a-475e
+
+---
