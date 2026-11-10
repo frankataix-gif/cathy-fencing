@@ -5435,3 +5435,21 @@ Login to Self Serve
 Please do not reply 
 
 ---
+
+## [营销] 📍 Cold and flu cases are rising in your area
+
+**发件人:** DoorDash <no-reply@doordash.com>
+**日期:** 2026-11-10T18:05:21.000Z
+**摘要:** DoorDash提醒当地流感病例增加，并推广其快速配送药品的服务
+**待办:** 无
+**GmailID:** 1a1c6a2d26ec37df
+
+ DoorDash Email Get sick-day essentials delivered in as fast as 30 minutes 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­
+
+---
