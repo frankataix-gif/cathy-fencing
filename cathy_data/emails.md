@@ -5399,3 +5399,39 @@ Check them out before they’re gone!
 <https://app.sephora.com/T/v61000001a1c66ec6dd954f9c369fb45280/940e9e6a01f84c430000021ef3a0bcc2/940e9e6a-01f8-
 
 ---
+
+## [待办] Your Koodo E-Bill is ready
+
+**发件人:** Koodo <koodobilling@mailing.koodomobile.com>
+**日期:** 2026-11-10T18:09:02.000Z
+**摘要:** 提醒查看3月电子账单并避免滞纳金
+**待办:** 查看账单并支付
+**GmailID:** 1a1c6a6734cae64e
+
+Trouble viewing this email? View in web browser 
+
+   
+Hello , 
+Your E-Bill for March is ready and can be viewed on Self Serve.
+
+
+Avoid late payment charges by signing up for pre-authorized payments. It’s a convenient and hassle free option for paying your monthly bill. 
+
+Learn more about your bill:
+
+Partial charges explained 
+
+
+Account #: 
+
+Total amount due: 
+ 
+Recent payments may not be reflected on this bill.
+
+If received by: 
+
+Login to Self Serve 
+
+Please do not reply 
+
+---
