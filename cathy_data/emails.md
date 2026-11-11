@@ -5569,3 +5569,27 @@ lululemon
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [营销] ⏳ Hurry! The Great Big Tree Spree ends tomorrow in store, continues online through Sunday. 😲
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-11T08:25:34.000Z
+**摘要:** Michaels商店的大型树形商品促销活动即将结束，线上活动持续到周日。
+**待办:** 无
+**GmailID:** 1a1c9b69e5d003c2
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTcsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGKp17F-Z1_iR84_LRzGJpMgDJYuivyGGB61bs1V-P4eB2QsTYuWPf3dfMpan9U1echq6uSWt07mJXv5VP3tiwMPeL1ol0ozoGpHk_u1k-Pzk5YN89QQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261111_S5_EOW_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=2
+
+---
