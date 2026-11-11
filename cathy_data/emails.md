@@ -5593,3 +5593,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261111_S5_EOW_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=2
 
 ---
+
+## [营销] Ultima occasione: Singles Day, 30% di sconto
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-11T09:28:08.000Z
+**摘要:** Calvin Klein 发起的双十一促销活动，提供30%折扣。
+**待办:** 无
+**GmailID:** 1a1c9f843a69eff2
+
+
+
+
+---
