@@ -5606,3 +5606,23 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261111_S5_EOW
 
 
 ---
+
+## [生活旅行] New date - LTHW shut down - 19/11/26 - no hot water site wide. LH
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-11T12:06:37.000Z
+**摘要:** 通知11月19日因维修工作，全屋将中断热水供应并影响供暖。
+**待办:** 无
+**日程:** {"title":"LTHW系统维修","date":"2023-11-19","time":"","location":"London Dock Estate"}
+**GmailID:** 1a1ca80cb8a1b800
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/A53JhdVHEyxe173uDpJGEhcQxcme0lCi0No9Up6iZMZzLy-qBXCpq3bKWrF1QYiFm45hZHdZdAUlPnyjAnKulqRlmm4LNT30mRCT7KfxbQ2YSTvI6va-Cw8Q-UZwAghAm_Etv5vIpEb8fnGecuDeIK3qlDCRXnQLbdBSRGt8oXsb0qJ6zb5jtfbl29QEiGyhTZR0c3vuL5Bs74a1ccVHiFCdJHF6Yu0avVqAnT7lBKVM230AmdRhs-P0kV4CFFAUgrILgKkqghCTKYUIAkUc> 
+
+Dear Ms Jingqi Wu,
+
+We would like to inform you that essential repair works are scheduled to 
+take place to the *Low Temperature Hot Water (LTHW) system pipework* 
+located wit
+
+---
