@@ -5659,3 +5659,17 @@ We got you.
 <https://app.sephora.com/T/v61000001a1cafe259dc254bc969125cd18/4fa26791448643500000021ef3a0bcc2/4fa26791-4486-4350-b2a0-6b802f79fd23?_
 
 ---
+
+## [营销] EARLY BLACK FRIDAY IS ON 🔥
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-11T14:19:17.000Z
+**摘要:** 促销活动，提供多个品牌的折扣和快速配送服务
+**待办:** 无
+**GmailID:** 1a1cafa3da97367a
+
+Save on Wishbone, Michael Kors, Frye & Co and more!   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MAtzd6yQAd23nu79ugT-2FyVmLOiFq9D05qd6-2FqrHAgAF2ppP7rBAERooGMED8gzd0c-3DCg5e_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALnK0a9YE4htQ0K8Vxtj5NmLOz1STdcHaO2bM9OcLkwWvgC-2BING3JuOy5ZlXcf9Z84NRe7pPrBf7ZGQnGCAGZVauBYZJOOHewHxsef2Ield8gKOtx47lMW6qbu55X8ijIjVSLCeDe-
+
+---
