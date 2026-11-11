@@ -5686,3 +5686,26 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [生活旅行] Resident fire safety guide 11/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-11T15:19:31.000Z
+**摘要:** 关于居民消防安全指南的邮件
+**待办:** 无
+**GmailID:** 1a1cb3161cf758d2
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/P5w9i5_awfI7GiLKRvzOpaPUuL9blSPqIYvDfwOTUjXX83VK9liL5zoV7Rilhhek6OCNlZlWvAHuguzEPvCDIPJF3UZ0GhOmDg9umFePOzV71rcLdEoyZUHFl-r1J3wXP930fqwjfP-P1Ew5MGcugCsclpsvJwok0tLVOgf8yxq5eShGxWN0d8jkQjxZLV-Mj6Aas76pUPcFDl7HTr8OJVnpBtTgE1oSN57xEcKpkF9or2327baCv_ca8r4gfVFn8isANGAa8kdfTAfpoY0qJK5Mmg> 
+
+Dear Ms Jingqi Wu,
+
+Please find attached the resident fire safety guide.
+
+This should be read by all occupiers
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Lo
+
+---
