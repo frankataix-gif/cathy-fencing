@@ -5709,3 +5709,27 @@ Kind Regards,
 Powered by Lo
 
 ---
+
+## [营销] 3, 2, 1 ... 🚀 Get a holi-DIY head start with handmade projects.
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-11T16:14:42.000Z
+**摘要:** 促销手工项目和优惠券的邮件
+**待办:** 无
+**GmailID:** 1a1cb640cc2f95b6
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTcsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGLaEWgU8B_tGBLRtlNGO5-keIGE9q5SqwanD04O9fsumuNCJPaGxXw1OBYtB882rf2njEYtD6Xi3HGnS5f1GgwaZYUW-lzxPNWPNVKfaohWGg3X1A 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261111_S6_CrossCategory_Holi_DIY_Christmas_Christmas_Kits_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc16
+
+---
