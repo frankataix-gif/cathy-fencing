@@ -64345,5 +64345,33 @@
       "Y12WF": []
     },
     "total": 0
+  },
+  "designated-fie-senior-world-cu-2026-12-04-tashkent-": {
+    "fetched_at": "2026-11-11T03:39:11.222228Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 0,
+      "Y14WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [],
+      "Y14WF": []
+    },
+    "total": 0
+  },
+  "designated-fie-senior-world-cu-2026-12-03-tashkent-": {
+    "fetched_at": "2026-11-11T03:39:11.222162Z",
+    "counts": {
+      "CDTWF": 0,
+      "Y12WF": 0,
+      "Y14WF": 0
+    },
+    "names": {
+      "CDTWF": [],
+      "Y12WF": [],
+      "Y14WF": []
+    },
+    "total": 0
   }
 }
