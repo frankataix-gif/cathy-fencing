@@ -5479,3 +5479,27 @@ lululemon
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10143162238-1794350862414.254%26ouid%3D548242.HK-20261111-eDM-mega.2026-11-11_8_0.20261111.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D548242.HK-20261111-eDM-mega.2026-11-11_8_0.20261111.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5P
 
 ---
+
+## [营销] Don't miss your chance to tell us about your gear!
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-11-11T01:11:21.000Z
+**摘要:** Lululemon邀请用户评价Daydrift高腰宽腿裤产品，鼓励分享穿着体验以帮助其他顾客和改进产品设计。
+**待办:** 无
+**GmailID:** 1a1c828d5d59c72b
+
+ Don't miss your chance to tell us about your gear! 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Just a quick reminder to review your Daydrift High-Rise Wide-Leg Trouser 
+Regular *Twill. 
+ 
+Reviews that include photos help others pick the right size and fit. Don’t 
+hesitate to show us and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Daydrift High-Rise Wide-Leg Trouser Regular *Twil
+
+---
