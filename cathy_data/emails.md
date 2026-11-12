@@ -5817,3 +5817,26 @@ HK$399 起連稅去台北、首爾 + HK$299 起酒店🔥仲有 HK$9.9 起餐飲
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101428281-1794449876903.420%26ouid%3D547836.HK-20261112-edm-11mega.2026-11-12_8_0.20261112.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D547836.HK-20261112-edm-11mega.2026-11-12_8_0.20261112.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xM
 
 ---
+
+## [营销] Today: Ends in store. Tomorrow thru Sunday: Continues online 🥳 The Great Big Tree Spree!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-12T08:26:21.000Z
+**摘要:** Michaels公司正在进行节日装饰品促销活动，今日店内结束，明日到周日继续在线促销。
+**待办:** 无
+**GmailID:** 1a1cedd7d452682e
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTgsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGMyNozysAeYfiQaoY9Qar6zoq1N6G6bcGI-QIxGiwyEfRDMeXGhn4wbU8W2_JDbyA9gVYSxCdJmWAt6SM1v97pYFl2oCgKiQeBNlm0DwSCdXBZ-nbaQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
