@@ -6023,3 +6023,30 @@ nataliewu100@gmail.com
 “<https://c.gle/AGSJxQyTuCwje-wbhoXNR6R_8Jg1OiBQcjqyAcSk
 
 ---
+
+## [其他] Your account has been updated
+
+**发件人:** lululemon <mail@lululemon.com>
+**日期:** 2026-11-12T22:36:41.000Z
+**摘要:** 账户信息已更新，可能涉及账户安全或信息变更
+**待办:** 无
+**GmailID:** 1a1d1e7f882133a8
+
+
+
+
+
+    
+    
+    
+    
+        .ReadMsgBody{width:100%}.ExternalClass{width:100%}.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td{line-height:100%}body{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0 auto!important}@-ms-viewport{width:device-width}
+    
+    
+        .forgot-password-content-styles {
+             padding: 0px 162px 48px 24px;!important;
+        }
+        .forgot-password-cta-styles {
+    
+
+---
