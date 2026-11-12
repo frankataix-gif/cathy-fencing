@@ -5907,3 +5907,27 @@ The most wonderful time of the year is just around the corner, and there’s
 no better way to cele
 
 ---
+
+## [营销] Need balloons? Party supplies? We've got you covered 🎈
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-12T16:04:00.000Z
+**摘要:** Michaels 推广派对用品和促销活动，提供气球、装饰品等产品。
+**待办:** 无
+**GmailID:** 1a1d08086bc59123
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTgsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGNrw_J55SRNZ-6MoiQ613n927BEJ3iXIZMxDrYwAizYQvZe4FN22CregiJkJAcjMEYAd7kSTvWxsDLKdr3B6Cy8zX4kIVHF-zeTrxKnbURoaV 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261112_S5_PartyBalloon_OtherPromo_TARG_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=7714
+
+---
