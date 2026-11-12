@@ -6050,3 +6050,29 @@ nataliewu100@gmail.com
     
 
 ---
+
+## [待办] 490156 verification code to reset your password
+
+**发件人:** lululemon <mail@lululemon.com>
+**日期:** 2026-11-12T22:36:08.000Z
+**摘要:** 需要验证身份以重置密码
+**待办:** 验证身份以重置密码
+**GmailID:** 1a1d1e774f0e75d3
+
+
+
+
+
+    
+    
+    
+    
+        .ReadMsgBody{width:100%}.ExternalClass{width:100%}.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td{line-height:100%}body{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0 auto!important}@-ms-viewport{width:device-width}
+    
+    
+        .forgot-password-content-classic-flow-styles {
+             padding: 0px 162px 48px 24px;!important;
+        }
+        .forgot-password-cta-c
+
+---
