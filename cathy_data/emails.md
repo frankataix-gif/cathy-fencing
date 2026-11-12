@@ -5872,3 +5872,16 @@ Verdana, Arial, sans-serif !important; }     96
 <table class="wrappers" align="center" border
 
 ---
+
+## [营销] Après-ski icon: Moon Boot is here ❄️
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-12T14:10:18.000Z
+**摘要:** Browns Shoes 发送的黑色星期五促销邮件，宣传冬季鞋类折扣活动。
+**待办:** 无
+**GmailID:** 1a1d0185ea438f65
+
+Early Black Friday Sale: HAPPENING NOW    YOUR TOP FOOTWEAR
+DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NCo8A4eaGERiwujDDnY-2FC3keO1jAtUmmJb-2FyTyrmIBtg-3D-3D9tNb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IACOTr96om1ZlWpvY86ryWIgloEGsBXYYwGw3fRuIDe6sn7p5a5VWsnn6dI8m0v4-2BG-2BhddNmuBwT3K7-2Bx19WPoVDJL1nOz5ExiKslPTPft7DF7zL-2BlterNnJB0lV4xh-2F5kpaqmZB-2Bzz8A5P7iiaMh9muURF-2Fej8N2NlwMEX
+
+---
