@@ -6091,3 +6091,16 @@ nataliewu100@gmail.com
 
 
 ---
+
+## [生活旅行] 最後召集！雙11一口價機票、酒店最後一搶🔥
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-12T23:42:36.000Z
+**摘要:** Trip.com推送双11特价机票和酒店促销信息，上海、昆明航线票价低至399港元，中午12点开始抢购。
+**待办:** 无
+**GmailID:** 1a1d2244f98e4eab
+
+上海、昆明一口價機票HK$399起、HK$1交通等，12PM正式開搶！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014335103-1794526189611.627%26ouid%3D550958.HK-20261113-edm-1111Mega.2026-11-13_8_0.20261113.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D550958.HK-20261113-edm-1111Mega.2026-11-13_8_0.20261113.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzM1M
+
+---
