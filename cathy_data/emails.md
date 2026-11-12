@@ -6076,3 +6076,18 @@ nataliewu100@gmail.com
         .forgot-password-cta-c
 
 ---
+
+## [Cathy&David] eGryphon: November 12
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-12T23:00:12.000Z
+**摘要:** 关于11月12日的eGryphon通知
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1d1fd91c6c7077
+
+<!--placeholder-->
+
+
+
+---
