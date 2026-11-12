@@ -5885,3 +5885,25 @@ Early Black Friday Sale: HAPPENING NOW    YOUR TOP FOOTWEAR
 DESTINATION ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NCo8A4eaGERiwujDDnY-2FC3keO1jAtUmmJb-2FyTyrmIBtg-3D-3D9tNb_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IACOTr96om1ZlWpvY86ryWIgloEGsBXYYwGw3fRuIDe6sn7p5a5VWsnn6dI8m0v4-2BG-2BhddNmuBwT3K7-2Bx19WPoVDJL1nOz5ExiKslPTPft7DF7zL-2BlterNnJB0lV4xh-2F5kpaqmZB-2Bzz8A5P7iiaMh9muURF-2Fej8N2NlwMEX
 
 ---
+
+## [营销] Your Festive Table Awaits – Discover Our Special Festive Menu.
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-12T14:26:01.000Z
+**摘要:** 这封邮件是关于节日菜单的促销信息，邀请接收者在圣诞季举办各类庆祝活动。
+**待办:** 无
+**GmailID:** 1a1d026c74d5ea2f
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/BRv9K_GuD9F2RBbMQk4jg82hl_-TfPVjdhZVQiuADSfu7ya_Tqvh60P-2lW89ozUbslVSTDPX_FpgkrjhvWgRP4zUZSi68uPBrL6rn0coPe8MBqT2KfPrFHKA-oEUUlEU9yTcgXpFPGNJM1SofvDm5zqgni_J8gk-yHa5uANVXlXTJL3AwAn8jSQw-LzsNZ4nSnDHlQGJEzioQrKC1ryW1jtJ2lgPPNu7vLROp7pgWvFI2MLWqDYvLKEPG8shyqYSF3yYwW8qMl4Zsrw_TfKDoBAyQ> 
+
+Dear Ms Jingqi Wu,
+
+*✨** Celebrate the Festive Season with Us! **✨*
+
+ 
+
+The most wonderful time of the year is just around the corner, and there’s 
+no better way to cele
+
+---
