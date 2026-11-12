@@ -5840,3 +5840,35 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [待办] Payoneer Scheduled Maintenance (November 15, 2026)
+
+**发件人:** Payoneer <no-reply@alerts.payoneer.com>
+**日期:** 2026-11-12T13:17:42.000Z
+**摘要:** Payoneer将进行系统维护，可能影响账户操作。
+**待办:** 无
+**日程:** {"title":"Payoneer系统维护","date":"2026-11-15","time":"","location":""}
+**GmailID:** 1a1cfe835dfd8a2a
+
+Here’s everything you need to
+know about our maintenance
+window?
+
+
+
+
+
+      table { border-collapse:
+collapse !important; mso-table-lspace: 0pt!important;
+mso-table-rspace: 0pt!important; margin: 0 auto; } h1, h2, h3,
+h4, h5, h6, p, a, span, td, strong { font-family:
+Arial,Helvetica,Verdana,sans-serif !important; }     body, table,
+td, .mobile-text { font-family:Helvetica Neue, Helvetica,
+Verdana, Arial, sans-serif !important; }     96
+
+
+
+<!--Logo-->
+<table class="wrappers" align="center" border
+
+---
