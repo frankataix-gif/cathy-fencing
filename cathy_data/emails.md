@@ -6257,3 +6257,23 @@ Powered by Locale
                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 ---
+
+## [生活旅行] Temporary Closure of Rooftop Terraces - 13.11.26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-13T09:14:33.000Z
+**摘要:** 因低温导致屋顶露台地面结冰，存在滑倒风险，暂时关闭直至进一步通知。
+**待办:** 无
+**GmailID:** 1a1d42ff23ff718b
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/bii6K1vVEEabD-D83H450tZ7fcxwN0bimNSwQMYma2vt8yTHnbiK40Fq08O43A4isC8WPuSlPe7GF3Ze7_9gWbtNoszV9Qsg0Wy5IoVr8g3xV-oxurksqbxAG0k4z-U7cXWI8wALQmTqV3S870JLPyucZDPEL4sYlQl1gtNFUqKMZbGd6BMLGGrAaee1Hs2varrzPpigU7lGnBbWvH58TgNkQ03OE68okWc_3I46sj0G4UzsVWCEISqLEasapb7xEf89t9tACANSXvuyS4ze> 
+
+Dear Ms Jingqi Wu,
+
+Please be advised that the rooftop terraces at Emery Wharf are currently 
+closed until further notice due to the cold weather conditions.
+
+The low temperat
+
+---
