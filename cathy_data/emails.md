@@ -6334,3 +6334,21 @@ DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROadlkyrtbMNzCXHjc-2FSOV0-3DwkNX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIWM2e7skom8S3Ea6oYWITJFyoAXNXOzFPPKIp-2Fesx2QrEHTmkmIu5xv1C-2BdpKYkjQ1J42u-2FqJxPkB6hVggewNSsmg2EGwTcFmmzO0zpbeiaOpOd1O0OOycEUunM6tGuanYu0RNdo83
 
 ---
+
+## [营销] Meet the best of the best🏆
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-13T14:19:03.000Z
+**摘要:** Sephora推送顶级美妆产品促销信息，包含优惠链接。
+**待办:** 无
+**GmailID:** 1a1d546e1c97780a
+
+ Sephora 
+
+This beauty tops every list. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1d546b459846b6e369fea4b34/7b9b0ce5eb7346720000021ef3a0bcc2/7b9b0ce5-eb73-4672-a8
+
+---
