@@ -6371,3 +6371,22 @@ Blue and brown, winter’s cutest color combo
 ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
 
 ---
+
+## [营销] The new Apple Home lineup is here.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-11-13T14:38:00.000Z
+**摘要:** Apple推出新的HomeView产品，售价429美元，提供购买链接。
+**待办:** 无
+**GmailID:** 1a1d5581087a7408
+
+Apple HomeView
+
+Designed for life at home.
+
+$429
+
+Buy, Apple HomeView Buy
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsH0uYvaJq2OzVrHtfLXTVjbGW4WewuNZ6coUamIsXyeJl14YrE0YOANtRtlTIterXBucRXnJbvPTmr3LBt8wGWGTvYcP6B7nB2zlIPIxxUrXwmPrPc4%2FeLstdAGPu%2Fm6Z78wJt%2B4K6r9zQMGqeU5mbQdY9jhUIFM8T1HK70AjN2%2FEo7p
+
+---
