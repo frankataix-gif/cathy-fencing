@@ -6508,3 +6508,26 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] Today’s a great day for a heist.
+
+**发件人:** Apple TV <appletv@insideapple.apple.com>
+**日期:** 2026-11-13T23:32:03.000Z
+**摘要:** Apple TV推送最新节目和电影的推广信息，包括剧集‘12 12 12’、电影‘Being Heumann’和系列‘Stick’的简介及观看链接。
+**待办:** 无
+**GmailID:** 1a1d74101b0ff347
+
+Promotional poster for the Apple TV series '12 12 12' featuring two main characters and a cityscape.
+https://link.apple/121212
+
+
+Assemble the crew. The heist is going down now.
+An $800 million bank job ignites a deadly game of cat and mouse. The pulse-pounding action kicks off today with the 2-episode premiere.
+
+Sign Up to Watch
+https://link.apple/121212
+
+
+Promotional image for the Apple TV movie “Being Heumann,” showing a woman in a wheelchair raising her arms, with text overlay indi
+
+---
