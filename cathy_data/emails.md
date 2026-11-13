@@ -6175,3 +6175,20 @@ Thanks for activating your Alo customer account!
 ͏‌  ͏‌  ͏‌
 
 ---
+
+## [营销] Your Cart Called: It's 30% Off
+
+**发件人:** ALO <notification@bc.aloyoga.com>
+**日期:** 2026-11-13T03:25:53.000Z
+**摘要:** ALO发送的促销邮件，提供30%的折扣优惠。
+**待办:** 无
+**GmailID:** 1a1d2f0bc0a8a00c
+
+ ALO 
+Consider this your sign to checkout 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   
+
+[image: ALO] 
+<https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLttJEaBjBWs0h_vbCqEyXQq23gqKv
+
+---
