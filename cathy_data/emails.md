@@ -6277,3 +6277,23 @@ closed until further notice due to the cold weather conditions.
 The low temperat
 
 ---
+
+## [其他] Outlook Outage - 13/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-13T10:14:36.000Z
+**摘要:** 微软服务中断影响通信，提供联系礼宾团队的方式
+**待办:** 无
+**GmailID:** 1a1d466eeda182ec
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/SbiMg_YINTZsYmhM88C4BpupjDBBZ-TVLo4eoSzNFYQ3TiuxSHeVH2uUOaFIE-vLpxRHzTyKWstYQTMHUv-USU0DL90mBtSk5El0SbRkKhbjwkoqdYi2oh_4DDTSKIw47rdHmibMqVnWVdaxqjNxHzh_Ugf-r32vAwRrYoybG7WcVsQZTJfZL4fmSVeirrD0Ul8rb6boQHyyQQ7yC6ForyBRIHlAlVjYjtpCekwyD6BA7bBttorMP-N7sj0PhooaNkNz153GdAAeQ0TVCXlU> 
+
+Dear Ms Jingqi Wu,
+
+Please be aware that a Microsoft outage is affecting our communication 
+services including Teams and Outlook.
+
+To get in touch with the Concierge Team plea
+
+---
