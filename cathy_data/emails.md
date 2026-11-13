@@ -6352,3 +6352,22 @@ This beauty tops every list.
 <https://app.sephora.com/T/v61000001a1d546b459846b6e369fea4b34/7b9b0ce5eb7346720000021ef3a0bcc2/7b9b0ce5-eb73-4672-a8
 
 ---
+
+## [营销] Early Access: Double Drop
+
+**发件人:** ALO Access <notification@emails.aloyoga.com>
+**日期:** 2026-11-13T14:26:38.000Z
+**摘要:** ALO Yoga推出冬季新款服装促销
+**待办:** 无
+**GmailID:** 1a1d54da6f0c6e76
+
+ ALO Yoga 
+Blue and brown, winter’s cutest color combo
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
+  ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ 
+‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     
+﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌ 
+    ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
+
+---
