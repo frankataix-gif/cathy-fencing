@@ -6320,3 +6320,17 @@ To get in touch with the Concierge Team plea
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] 🔥Browns Exclusive: UGG styles now on SALE!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-13T14:05:14.000Z
+**摘要:** Browns Shoes 发送的 UGG 促销邮件，提供黑色星期五优惠和快速配送服务。
+**待办:** 无
+**GmailID:** 1a1d53a11117787d
+
+Hurry!! Early Black Friday just got BETTER   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROadlkyrtbMNzCXHjc-2FSOV0-3DwkNX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAIWM2e7skom8S3Ea6oYWITJFyoAXNXOzFPPKIp-2Fesx2QrEHTmkmIu5xv1C-2BdpKYkjQ1J42u-2FqJxPkB6hVggewNSsmg2EGwTcFmmzO0zpbeiaOpOd1O0OOycEUunM6tGuanYu0RNdo83
+
+---
