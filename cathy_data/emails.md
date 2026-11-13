@@ -6531,3 +6531,16 @@ https://link.apple/121212
 Promotional image for the Apple TV movie “Being Heumann,” showing a woman in a wheelchair raising her arms, with text overlay indi
 
 ---
+
+## [生活旅行] 雙11最後狂賞搶HK$998‼️
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-13T23:46:08.000Z
+**摘要:** 双11促销活动，包含麦当劳电子券及机票优惠。
+**待办:** 无
+**GmailID:** 1a1d74de4bfdc7e2
+
+12PM仲有半價麥當勞電子券及其他優惠！
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1015615112-1794613566979.27%26ouid%3D551938.HK-20261114-edm-1111Mega.2026-11-14_8_0.20261114.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D551938.HK-20261114-edm-1111Mega.2026-11-14_8_0.20261114.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE1NjE1MTEyLTE3OTQ2MTM1N
+
+---
