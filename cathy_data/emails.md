@@ -6104,3 +6104,28 @@ nataliewu100@gmail.com
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014335103-1794526189611.627%26ouid%3D550958.HK-20261113-edm-1111Mega.2026-11-13_8_0.20261113.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D550958.HK-20261113-edm-1111Mega.2026-11-13_8_0.20261113.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzM1M
 
 ---
+
+## [营销] How’s your new gear?
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-11-13T01:49:38.000Z
+**摘要:** 询问用户对新购买装备的使用体验，并鼓励留下评论。
+**待办:** 无
+**GmailID:** 1a1d2989df3e5b67
+
+ How’s your new gear? 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Are you loving your new City Essentials Mini Shoulder Bag 0.5L *Tumbled 
+Fleece? 
+ 
+We’d love to know what you think of your new gear. Reviews that include 
+photos help others pick the right size and fit. Don’t hesitate to show us 
+and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: City Essentials Mini Shoulder Bag 0.
+
+---
