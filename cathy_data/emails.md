@@ -6205,3 +6205,25 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [生活旅行] Resident Newsletter - LH - 13/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-13T09:07:24.000Z
+**摘要:** 社区新闻简报已附上，具体内容未详细说明。
+**待办:** 无
+**GmailID:** 1a1d4296a804c4f2
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/R94pBq2B_UQ_mizJG-tRtTHnA74QLMBujPOG6OGiEqxUk4rX8nxvqfpPq-dARunbqiaw-NK_kiLZhW5gkSVmotCECvI28L4B8ZubwQMT4ZWsZDF_2ti0fi20K_et7ZYIGdrc5bhkGL-wEZ9-KGQUpiChB-n81nzNRmUI26gKaKnlE38V4ptmfYFTPda2IdzfEmkynB1hbcHqQ3Kro2UUIT-t7j4qFoqXPs245p_RDsbQwUvm95Vn9mp99SSQWISD7Ke2tAsvw14cnRfy9phv> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/_s5Sgsv8H3k
+
+---
