@@ -6407,3 +6407,27 @@ View in Browser
 <https://click.em.michaelscustomframing.com/?qs=ABt7ImQiOjUwNTksInQiOjE0OTU1LCJzIjoxMH0ACgAAAAAGPIiMKZQOrC8tO_H3_jDNp0qGhYfGqs5xcMnEpfkwSz5B8cQKtcfQtvIwgj_0vIU2vTHB1F28bQ9PoxVYkzN_cjG
 
 ---
+
+## [其他] Your order is arriving today!
+
+**发件人:** lululemon <customercare@lululemon.narvar.com>
+**日期:** 2026-11-13T15:48:16.000Z
+**摘要:** 订单今天送达，需要腾出空间并跟踪运输
+**待办:** 无
+**GmailID:** 1a1d598662c6a946
+
+ 
+Clear some space in your wardrobe. 
+ORDER ID: c179436008301736 
+<https://cta.narvar.com/f/a/p4CIsJKWhPaLZ3PMnNPhDA~~/AAG0DBA~/JENT38jgE0I_-S1F_Jq4QeJbk89uywSF4QGTvlRMg0xpb5LEhvOHPvQAX1_m3DBZVJENtsfehJYjCTh61Q2AgBg9KjDnZkJwozuy7GiRPepz1Zf_t5cb-9aWdyOIpnif1EvFrqpooy04LFOX4elj6Wm-_NuoakaWt3xwzRpqFlo~>
+[image: Marketing banner] 
+  
+Your package is out for delivery.
+  
+Your order is out for delivery and arriving today. For more details, you 
+can track your shipment.
+  
+TRACK SHIPMENT 
+<https://cta.
+
+---
