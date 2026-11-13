@@ -6453,3 +6453,27 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=57779751&mi_u=6d287df482534f5b467cd7b08
 
 ---
+
+## [营销] The Great Big Tree Spree continues online only thru Sunday! ⏳
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-13T16:30:03.000Z
+**摘要:** 促销活动，介绍在线购物优惠，截止到周日。
+**待办:** 无
+**GmailID:** 1a1d5bec5b7b6ca2
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTksInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGPVr0P2Zfa6ETMedPzIjjE_GUF_POoDmnPITUg1iDtXqjqDB7fxBlZK7y3sEE91Ro9581mFflckn7mvXTdXmv9RKtJgJTauuF2G_1yRUoe4vvr8QKNQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261113_S4_Circular_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mm
+
+---
