@@ -6431,3 +6431,25 @@ TRACK SHIPMENT
 <https://cta.
 
 ---
+
+## [营销] Rewards Roundup! 🤠 Check out your status + see how close you are to a voucher ➡️
+
+**发件人:** Michaels Rewards <michaels@emdeals.michaels.com>
+**日期:** 2026-11-13T16:30:06.000Z
+**摘要:** 通知奖励积分状态并推广优惠券和促销活动
+**待办:** 无
+**GmailID:** 1a1d5c173cfae214
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNTksInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGPVecslAvgB0eNo1PcPwpHvYYkDijrTThOrQ-878JeCYfU_tmoOOgBS7xWd4BED6ehQ_AFFi886YCPbcOfjb62gsDrtxTJXEtjtRWGL2AxqKW7IoX 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Loyalty-_-LOY_MonthlyStmt_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=57779751&mi_u=6d287df482534f5b467cd7b08
+
+---
