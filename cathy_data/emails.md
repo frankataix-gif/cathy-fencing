@@ -6672,3 +6672,16 @@ You made the move.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [生活旅行] 【雙11親子優惠】領取高達HK$790 WhatsApp Community禮遇🎁✨
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-14T21:20:45.000Z
+**摘要:** Trip.com推出双11亲子优惠活动，提供长隆、迪士尼酒店券及机票、酒店券礼遇。
+**待办:** 无
+**GmailID:** 1a1dbef2afe50fc3
+
+長隆、迪士尼酒店券，以及HK$200機票、酒店券🎉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014357100-1794691244938.424%26ouid%3D551238.Community-EDM-20261114-HK.2026-11-14_-8_0.20261115.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D551238.Community-EDM-20261114-HK.2026-11-14_-8_0.20261115.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzU3MTAwLT
+
+---
