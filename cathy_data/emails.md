@@ -6727,3 +6727,71 @@ Hi Natalie,
  We’d love to hear
 
 ---
+
+## [其他] Receipt for order #M1953431
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-14T23:20:43.000Z
+**摘要:** 订单确认邮件，包含订单日期、商品信息及价格明细
+**待办:** 无
+**GmailID:** 1a1dc5cfcb91aa33
+
+Mejuri Newsletter
+
+96
+
+We've received your order.
+
+Mejuri
+( https://mejuri.com/ )
+
+Hi Natalie, here's your
+receipt!
+
+Order Date
+
+Order Number
+
+Store Address
+
+11/14/2026
+
+#M1953431
+
+Kitsilano,
+2166 West 4th Avenue,
+
+Vancouver BC,
+V6K 1N6
+
+---------------
+Items purchased
+---------------
+
+Tube Large Hoops  ( # )
+
+Tube Large
+Hoops
+
+Material:
+Sterling Silver
+
+Qty
+
+1
+
+$138.00 CAD
+
+$110.40 CAD
+
+Subtotal
+
+$138.00 CAD
+
+Promotion
+
+-$27.60 CAD
+
+Shippi
+
+---
