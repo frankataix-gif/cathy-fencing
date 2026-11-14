@@ -6817,3 +6817,29 @@ Shippi
 We’re less “penny for your thoughts,” and more the $500 for your thoughts type. We’d love to hear how you're liking yo
 
 ---
+
+## [营销] Welcome to Mejuri
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-14T23:34:17.000Z
+**摘要:** 这封邮件是Mejuri的欢迎邮件，主要内容为推广其珠宝品牌并提供首次购买15%折扣优惠。
+**待办:** 无
+**GmailID:** 1a1dc696f42073d1
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Mejuri. Brighten Your Day.](https://mejuri.com)
+
+We’ve never bought into the idea that fine jewelry should be saved for a special occasion. So we make it for every ordinary, beautiful day.
+
+[Mejuri. Brighten Your Day. ](https://mejuri.com)
+
+We’ve never bought into the idea
+
+---
