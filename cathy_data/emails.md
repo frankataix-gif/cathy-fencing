@@ -6605,3 +6605,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261114_S3_Pro
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PECyP1puuWGPNwIlhGpzBadQkPgx1My97AuNfdoHgFpA-3D-3DrL8H_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKaw-2FteEWgS47fsLIPKx7px2bJtOlNLdXM3yIYCRZiHkIpa6bi2oVWKYHpao3WrMANKCBS0CzyAagbZuOSD-2Fff7vdhmB2OCGpRWiXcUaON4EAjhw67m8zvxU2lx2f22GC4QogkpJ-2BLHCaigMnfFhImAimIob3USz-2F0Xval-2Bf2wcHBUUt7dSQr
 
 ---
+
+## [营销] Your gear is ready
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-11-14T17:01:46.000Z
+**摘要:** lululemon通知用户的装备已准备就绪。
+**待办:** 无
+**GmailID:** 1a1db020e233eb88
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
