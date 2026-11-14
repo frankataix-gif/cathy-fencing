@@ -6544,3 +6544,27 @@ Promotional image for the Apple TV movie “Being Heumann,” showing a woman in
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1015615112-1794613566979.27%26ouid%3D551938.HK-20261114-edm-1111Mega.2026-11-14_8_0.20261114.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D551938.HK-20261114-edm-1111Mega.2026-11-14_8_0.20261114.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE1NjE1MTEyLTE3OTQ2MTM1N
 
 ---
+
+## [其他] The waiting game is over
+
+**发件人:** lululemon <customercare@lululemon.narvar.com>
+**日期:** 2026-11-14T03:36:42.000Z
+**摘要:** 订单已送达，通知用户收货，并提供跟踪链接。
+**待办:** 无
+**GmailID:** 1a1d820fd8003a8d
+
+ 
+The waiting game is over 
+ORDER ID: c179436008301736 
+<https://cta.narvar.com/f/a/CVOGzJ2aeGSMiR_rnhnHZA~~/AAG0DBA~/xcfR7C4kU_dNRZxtF2eLkXc6pJs31LSFaFN992jXmgnf_iQzckY6JPRl3WzEjl0by-8DBwAviQX3Lhi3lqJ4kvfucURgdGQEWyydtkqS7XA06bJAQD8cT90YyMrgEM89N_df7ed5QINht7zrtbx3LAXEfGB_KMXn0Kjt-yOx_OA~>
+[image: Marketing banner] 
+  
+Your gear has been delivered.
+  
+We hope you enjoy your purchase and please let us know if there is anything 
+we can do to help. 
+
+Missing your package? We can help 
+<https://cta
+
+---
