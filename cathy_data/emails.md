@@ -6618,3 +6618,29 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [Cathy&David] Special Message from the Parent Guild (week of Nov 16)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-11-14T17:12:15.000Z
+**摘要:** 通知家长社交活动及报名信息
+**待办:** 注册参加家长社交活动
+**涉及:** 两个
+**日程:** {"title":"家长社交活动","date":"2026-12-10","time":"18:00","location":"Patch Brewery"}
+**GmailID:** 1a1db0bbab04d080
+
+Good day, Grade 7 and 5 families,
+
+Please scroll down for a special message from the Parent Guild. There are many invitations and events coming up. Please take a look to see how you and your family can get involved.
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+________________________________
+From: Guild Chair <Guild.Chair@Meadowridge.bc.ca>
+Sent: Friday, November 13, 
+
+---
