@@ -6568,3 +6568,27 @@ Missing your package? We can help
 <https://cta
 
 ---
+
+## [营销] 🙂‍↕️The Great Big Tree Spree is still going — online only thru Sunday!
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-14T08:19:41.000Z
+**摘要:** Michaels 举办圣诞树促销活动，限时在线优惠。
+**待办:** 无
+**GmailID:** 1a1d9243f95bb976
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjAsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGQbO0NYaeRWNvhDWWXyds8xULf7_yXNX9WRk624HS_xDbECgkWY1xlgVKj9TBx1T4CYV1zLg-4jWhBDJiSCFSjIbgIGJIB09JnBsJqEe2ddSoVKoKLw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261114_S3_Promo_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2
+
+---
