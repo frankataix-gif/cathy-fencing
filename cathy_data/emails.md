@@ -6795,3 +6795,25 @@ Promotion
 Shippi
 
 ---
+
+## [营销] Thank you for Shopping at Mejuri
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-14T23:33:10.000Z
+**摘要:** Mejuri感谢购物并邀请填写调查问卷，有机会赢取500美元礼品卡。
+**待办:** 无
+**GmailID:** 1a1dc68667e02592
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Mejuri. Tell US What You Think.](https://form.typeform.com/to/TblMqlml?typeform-source=app.klaviyo.com#email=nataliewu100@gmail.com&city=&country={{country})
+
+We’re less “penny for your thoughts,” and more the $500 for your thoughts type. We’d love to hear how you're liking yo
+
+---
