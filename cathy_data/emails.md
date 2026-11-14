@@ -6701,3 +6701,29 @@ It’s shop o'clock somewhere
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRfuf63-2FijshEGIhi2or6aoh1hDVlMQh3QH5fxEAI-2B2Vw-3D-3D1eSE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT
 
 ---
+
+## [其他] How did we do?
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-14T23:21:41.000Z
+**摘要:** 邮件邀请收件人反馈门店体验，旨在提升服务质量。
+**待办:** 无
+**GmailID:** 1a1dc5de0bfd76ae
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Mejuri. Tell US What You Think.](https://form.typeform.com/to/TblMqlml?typeform-source=app.klaviyo.com#email=nataliewu100@gmail.com&city=&country={{country})
+
+Hi Natalie,
+
+ Thanks for stopping by our Mejuri Kitsilano Store location, we loved having you.
+
+ We’d love to hear
+
+---
