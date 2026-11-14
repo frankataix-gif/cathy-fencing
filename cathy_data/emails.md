@@ -6592,3 +6592,16 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261114_S3_Promo_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2
 
 ---
+
+## [营销] The best of UGG, before they’re gone
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-14T14:10:22.000Z
+**摘要:** UGG促销信息，强调限时折扣和趋势款
+**待办:** 无
+**GmailID:** 1a1da65232895e3c
+
++UGG exclusive styles on SALE!! 🤩    YOUR FIRST STOP FOR TRENDS
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8PECyP1puuWGPNwIlhGpzBadQkPgx1My97AuNfdoHgFpA-3D-3DrL8H_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAKaw-2FteEWgS47fsLIPKx7px2bJtOlNLdXM3yIYCRZiHkIpa6bi2oVWKYHpao3WrMANKCBS0CzyAagbZuOSD-2Fff7vdhmB2OCGpRWiXcUaON4EAjhw67m8zvxU2lx2f22GC4QogkpJ-2BLHCaigMnfFhImAimIob3USz-2F0Xval-2Bf2wcHBUUt7dSQr
+
+---
