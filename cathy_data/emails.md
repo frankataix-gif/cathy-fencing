@@ -6685,3 +6685,19 @@ You made the move.
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014357100-1794691244938.424%26ouid%3D551238.Community-EDM-20261114-HK.2026-11-14_-8_0.20261115.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D551238.Community-EDM-20261114-HK.2026-11-14_-8_0.20261115.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MzU3MTAwLT
 
 ---
+
+## [营销] Time for New
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-14T23:02:38.000Z
+**摘要:** 邮件主题为'Time for New'，正文提到'It’s shop o'clock somewhere'，可能涉及购物或促销活动。
+**待办:** 无
+**GmailID:** 1a1dc4c7191bacc5
+
+It’s shop o'clock somewhere
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRfuf63-2FijshEGIhi2or6aoh1hDVlMQh3QH5fxEAI-2B2Vw-3D-3D1eSE_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT
+
+---
