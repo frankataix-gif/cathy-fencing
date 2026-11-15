@@ -6887,3 +6887,27 @@ I hope you enjoyed the Reading Break.
 CLICK HERE<https://chat.whatsapp.com/DXziWfj8HSK05Wr6H88Owa?s=sh&p=a&iam=2> if you are interested in joining the Grade 7 Christmas WhatsApp group. The Parent Guild has started planning the Grade 7 Christmas Luncheon and is inviting Parent Volunteers who would like to help set up, serve, and clean up (date and time TBC by the G7 Team). We will be kindly requesting monetary contributions f
 
 ---
+
+## [营销] Ends today online! Shop The Great Big Tree Spree. ⏱️
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-15T08:26:30.000Z
+**摘要:** 提醒用户今日结束的在线促销活动，鼓励购买商品。
+**待办:** 无
+**GmailID:** 1a1de50bd7cad415
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjEsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGR5I8fRvyayhuF6ljW9Y5WOXDIf6suwCRyjU5W-XbsDlKEPW9_fWHS96gskZj1K0iQf45vQcsiKn4iccwlcR3MSVv3q5mjAaClo8xg8RSds5JSHgjXg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261115_S4_Circular_BigTreeSpree_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mm
+
+---
