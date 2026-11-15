@@ -6933,3 +6933,21 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261115_S4_Cir
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [营销] New from LANEIGE: Bouncy & Firm Hydrogel Eye Patches
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-15T14:11:05.000Z
+**摘要:** Sephora 发送的 LANEIGE 新产品促销邮件，介绍具有冷却保湿和消肿效果的眼部护理产品。
+**待办:** 无
+**GmailID:** 1a1df8c39776c025
+
+ Sephora 
+
+Cooling hydration + a visibly depuffing boost? Sooo good. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1df8c202a9ac3e96e96c566a0/d3405b4b7e62480b0000021ef
+
+---
