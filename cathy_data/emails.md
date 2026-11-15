@@ -6965,3 +6965,16 @@ sizes sell out.   FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRC8q3Fa32QF7Xi6m2Fp4boo-3DGCUA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALiiuho-2BSvCMWePZAv6jsT53y6Y8gAqbDnS4ZtYpOc3S2G44KfbueO9iJNYHAI9RPxcykm2BdGHTilBBjhv7j3q4DwXM7NXiSfksM2sNSsd
 
 ---
+
+## [营销] Tomorrow: Black Friday Early Access
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-11-15T15:06:24.000Z
+**摘要:** lululemon通知用户关于黑色星期五提前访问的促销活动
+**待办:** 无
+**GmailID:** 1a1dfbf07e75b48d
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
