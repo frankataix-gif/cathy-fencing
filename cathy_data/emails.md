@@ -6871,3 +6871,19 @@ New faux fur and opulent textures.
 ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Nov 16-20
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-11-15T03:10:50.000Z
+**摘要:** 学校通知Grade 7家长志愿者活动及圣诞午餐筹备，同时提醒下周课程安排和着装要求。
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1dd2fc0562c823
+
+Good day, Grade 7 Families,
+I hope you enjoyed the Reading Break.
+'Tis the season for winter celebrations!
+CLICK HERE<https://chat.whatsapp.com/DXziWfj8HSK05Wr6H88Owa?s=sh&p=a&iam=2> if you are interested in joining the Grade 7 Christmas WhatsApp group. The Parent Guild has started planning the Grade 7 Christmas Luncheon and is inviting Parent Volunteers who would like to help set up, serve, and clean up (date and time TBC by the G7 Team). We will be kindly requesting monetary contributions f
+
+---
