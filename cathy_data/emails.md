@@ -6951,3 +6951,17 @@ Cooling hydration + a visibly depuffing boost? Sooo good.
 <https://app.sephora.com/T/v61000001a1df8c202a9ac3e96e96c566a0/d3405b4b7e62480b0000021ef
 
 ---
+
+## [营销] ⚡Sunday Drop: 500+ NEW markdowns just hit Early Black Friday!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-15T14:06:30.000Z
+**摘要:** Browns Shoes 发送黑色星期五促销邮件，宣布新增500+鞋类商品折扣。
+**待办:** 无
+**GmailID:** 1a1df87f966669d8
+
+Shop loafers, flats, and must-have styles by category before top
+sizes sell out.   FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRC8q3Fa32QF7Xi6m2Fp4boo-3DGCUA_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IALiiuho-2BSvCMWePZAv6jsT53y6Y8gAqbDnS4ZtYpOc3S2G44KfbueO9iJNYHAI9RPxcykm2BdGHTilBBjhv7j3q4DwXM7NXiSfksM2sNSsd
+
+---
