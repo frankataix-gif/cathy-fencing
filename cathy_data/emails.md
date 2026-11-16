@@ -7087,3 +7087,27 @@ Check out before it's too late
 <https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLttJEaBjBWs0h_vbCqEyXQq23gqKvkYpFx
 
 ---
+
+## [营销] Find your holiday style 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-16T08:20:47.000Z
+**摘要:** 节日风格促销和优惠券链接
+**待办:** 无
+**GmailID:** 1a1e371cfb2d31c3
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGTc_rgTZ8G3CQbUpueKvtSxkJirzNUfhcyEda_BOJd_GCTC5ed2lD4yoYUYr3SW7kCfEY4vkwyJBjlPVtwoaTQJOIp2BFxfXVB4N3zDNNT4It8Dbn 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261116_S4_Seasonal_StylequizforChristmas_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_m
+
+---
