@@ -7070,3 +7070,20 @@ Your favorite shade, a fresh order of styles
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1015667137-1794789249779.152%26ouid%3D551945.HK-20261116-edm-branding.2026-11-16_8_0.20261116.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D551945.HK-20261116-edm-branding.2026-11-16_8_0.20261116.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE1NjY3MTM3LTE
 
 ---
+
+## [其他] Your cart’s ready
+
+**发件人:** ALO <notification@bc.aloyoga.com>
+**日期:** 2026-11-16T02:18:27.000Z
+**摘要:** 提醒用户结账购买购物车中的商品
+**待办:** 结账购买购物车中的商品
+**GmailID:** 1a1e22613b9669ea
+
+ ALO 
+Check out before it's too late 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   
+
+[image: ALO] 
+<https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLttJEaBjBWs0h_vbCqEyXQq23gqKvkYpFx
+
+---
