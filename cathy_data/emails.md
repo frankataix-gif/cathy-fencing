@@ -7245,3 +7245,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [营销] For Your Ears Only
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-16T23:35:18.000Z
+**摘要:** Mejuri珠宝品牌推广耳饰产品并提供15%折扣优惠
+**待办:** 无
+**GmailID:** 1a1e6b70fdb1c806
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Mejuri. Brighten Your Day. Shop Colored Gemstones.](https://mejuri.com/collections/earrings)
+
+The best ear stacks aren’t built on perfect symmetry, they’re curated for contrast.​A small stud next to something with movement. A pop of color. There’s always room for one more.
+
+
+
+---
