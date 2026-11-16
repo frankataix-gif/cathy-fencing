@@ -7154,3 +7154,17 @@ take place to the *Low Temperature Hot Water (LTHW) system pipework*
 located wit
 
 ---
+
+## [营销] Up to 40% off designer styles
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-16T14:04:54.000Z
+**摘要:** 布朗鞋店推出设计师品牌鞋款最高40%折扣促销活动
+**待办:** 无
+**GmailID:** 1a1e4acdb47a2b40
+
+Shop coveted pairs from The Lane, Rowenn, Chie Mihara, and more
+before sizes go.    BUY NOW, PICK UP IN 2 HOURS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OIra-2F0X5eFWyJiqEaYtZOfj8W0aT3oJ0NE1tsB0pyo6g-3D-3DXtH4_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFrgbraqs24t6urmP6rSKaYXTW9mUpKttLNhFijL0jNPESCwOQSE5ZDxYS7-2B1l-2F0TWfNDmEmREJ-2FHK7-2BkaYgQSbQBPBQX6ufKUm3Yi-2F9-2FXvPrQjIadr8SXKDBNvOoSc1
+
+---
