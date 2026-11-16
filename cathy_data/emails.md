@@ -7168,3 +7168,21 @@ before sizes go.    BUY NOW, PICK UP IN 2 HOURS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8OIra-2F0X5eFWyJiqEaYtZOfj8W0aT3oJ0NE1tsB0pyo6g-3D-3DXtH4_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFrgbraqs24t6urmP6rSKaYXTW9mUpKttLNhFijL0jNPESCwOQSE5ZDxYS7-2B1l-2F0TWfNDmEmREJ-2FHK7-2BkaYgQSbQBPBQX6ufKUm3Yi-2F9-2FXvPrQjIadr8SXKDBNvOoSc1
 
 ---
+
+## [营销] How to avoid holiday FOMO
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-16T14:13:32.000Z
+**摘要:** Sephora发送节日促销邮件，提醒客户在节日季前购买新品以避免错过。
+**待办:** 无
+**GmailID:** 1a1e4b4d0bfcf7a8
+
+ Sephora 
+
+Shop new sets before they sell out. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1e4b4b9818ec5516e96c569c8/0cc0b47aff144eb00000021ef3a0bcc2/0cc0b47a-ff14-
+
+---
