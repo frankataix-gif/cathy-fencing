@@ -7186,3 +7186,23 @@ Shop new sets before they sell out.
 <https://app.sephora.com/T/v61000001a1e4b4b9818ec5516e96c569c8/0cc0b47aff144eb00000021ef3a0bcc2/0cc0b47a-ff14-
 
 ---
+
+## [生活旅行] Works notice - The Club - Wetside remedials. 16/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-16T14:47:24.000Z
+**摘要:** 泳池和池边区域因防水工程维修，将于11月16日至12月21日关闭。
+**待办:** 无
+**GmailID:** 1a1e4d3c620a78e6
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/c9EvuAl4TVxpGlly0PaH2_VGbpcxElaG-vHbcFJXmas7ODwLrolFc8ASSM15QLs-bX0IiXQqZPktUoIEULk-FBIh1cCwSgGCCWTZ889f_bYgur4YbYgmxggNNbtnFZb7QDyMspmMzmYcwgFH53Hkjmvk3p2vhVl0JgzuYj-s5XKUT6ggQes4YzdfxZ6nhAgvpyMwOLdiigTLiBly3iy-p4ACUzvUKjb2QmKkST_EdR_jEdkt-EYDRcxMdOwKjmARlC_Vx286GwDy8EwfFuRR4H3O0w> 
+
+Dear Ms Jingqi Wu,
+
+Works are planned to resolve issues with the waterproofing in the wet-side 
+facilities.
+
+This will mean that the pools and poolside areas will not be
+
+---
