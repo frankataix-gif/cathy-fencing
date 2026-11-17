@@ -7480,3 +7480,37 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [生活旅行] IMPORTANT NOTICE TO ALL RESIDENTS - Annual Fire & Life Safety Inspections
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-17T23:08:03.000Z
+**摘要:** 通知Smith & Farrow Rental Homes的年度消防和生命安全检查安排。
+**待办:** 确保有人在家或安排钥匙
+**日程:** {"title":"Annual Fire & Life Safety Inspections","date":"2026-11-25","time":"08:30","location":"20th to 10th floors"}
+**GmailID:** 1a1ebc4a7ca59eb4
+
+IMPORTANT NOTICE TO ALL RESIDENTS
+Annual Fire & Life Safety Inspections
+Dear Residents,
+Please be advised that Great Canadian Fire Alarm Guys Ltd. will be attending Smith & Farrow Rental Homes from November 25 to November 27, 2026, to conduct the annual inspections and testing of the following systems:
+
+  *
+Fire alarm system
+  *
+Sprinkler system
+  *
+Emergency lighting
+  *
+Fire extinguishers
+  *
+Backflow prevention system
+
+Inspection Schedule
+Date
+Location
+Time
+November 25
+20
+
+---
