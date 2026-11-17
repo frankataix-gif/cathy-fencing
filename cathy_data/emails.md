@@ -7417,3 +7417,16 @@ FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROI3hkeERAl9m9Zd87rZftc-3D1jbk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAE1iSQPdDtnPEkT8qIeiugVKElbqZnrKs-2FAfcol2Umme5DTXhfai7nXx4nRRvk64IxVPQzM1TN-2B8bXsWl5-2Bli7kICIoJry3uJA61fikB4d5VlnTcyZzMdItNIa-2BExwzo
 
 ---
+
+## [营销] Black Friday Outlet: sconti fino al 50%
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-17T15:01:56.000Z
+**摘要:** Calvin Klein 黑色星期五促销活动，提供最高50%的折扣
+**待办:** 无
+**GmailID:** 1a1ea0827e3c47fb
+
+
+
+
+---
