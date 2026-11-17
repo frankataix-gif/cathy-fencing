@@ -7269,3 +7269,21 @@ The best ear stacks aren’t built on perfect symmetry, they’re curated for co
 
 
 ---
+
+## [营销] Black Friday is coming — mark your calendar
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-11-17T00:23:08.000Z
+**摘要:** 关于黑色星期五的促销活动，提供高达80%的折扣和免费一个月。
+**待办:** 无
+**GmailID:** 1a1e6e2da7b23804
+
+ Black Friday is coming — mark your calendar 
+Up to 80% off + 1 free month. The biggest deal of the year is almost here! 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+
+---
