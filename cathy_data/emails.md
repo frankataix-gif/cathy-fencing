@@ -7304,3 +7304,19 @@ These look way better on you than sitting in your cart
 <https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLtt5XsVh22
 
 ---
+
+## [营销] Best-Selling & Blue
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-17T02:45:49.000Z
+**摘要:** 宣传新品颜色款式
+**待办:** 无
+**GmailID:** 1a1e7657de32d1bb
+
+Iconic styles, now in Moonshadow Blue
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQGppREWb99Q8Z39DdjzykfD7ydCuVJThJTmmeNW9yPIA-3D-3DGoMg_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV6
+
+---
