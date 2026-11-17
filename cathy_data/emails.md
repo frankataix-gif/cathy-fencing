@@ -7320,3 +7320,27 @@ Iconic styles, now in Moonshadow Blue
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQGppREWb99Q8Z39DdjzykfD7ydCuVJThJTmmeNW9yPIA-3D-3DGoMg_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV6
 
 ---
+
+## [营销] ✨ This just in ✨ The Elf on the Shelf® is back! 🧝
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-17T08:21:06.000Z
+**摘要:**  Michaels 发送的圣诞装饰品促销邮件，宣传 Elf on the Shelf® 产品。
+**待办:** 无
+**GmailID:** 1a1e898a65b18cbb
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGVNCHHPfM4W-NnorwNDTC_UK7zXBpYZ0nbnngsiF33Kq9saClLL9tyom9hU_MDoiMriIQPc_w4B5H3XqXt05PnaaCB01Kvdl88glqQRGSMwC9vIw80w 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261117_S5_Variable_ElfontheShelf_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=6
+
+---
