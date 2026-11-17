@@ -7385,3 +7385,21 @@ issue affecting at *South Emery Wharf (Flats 1–49)*. The contractor has
 confirmed 
 
 ---
+
+## [营销] Holiday hair-care sets are here—only at Sephora
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-17T14:07:41.000Z
+**摘要:** Sephora 推出假日护发产品套装促销
+**待办:** 无
+**GmailID:** 1a1e9d917fc96076
+
+ Sephora 
+
+Wrap up must-have Crown Affair, dae, and more. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1e9d5b342a2248ff4bbcf6cc0/0d8494060bf74a9b0000021ef3a0bcc2/0d8
+
+---
