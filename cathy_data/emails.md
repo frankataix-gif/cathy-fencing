@@ -7366,3 +7366,22 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261117_S5_Variable_E
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [生活旅行] Update about Intercom Issue – South Emery Wharf (Flats 1–49) - 17/11/2026
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-17T11:58:45.000Z
+**摘要:** 公寓对讲机故障维修安排更新
+**待办:** 无
+**GmailID:** 1a1e95fb69a3408f
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/bon8UHfhqqE-SYX9jhI5ZZghsFwrpdUdt0KnCB91Uy9IEDngrXCRgistosrxLsw1uc9IKSWs7xie7F7E3POPBOT2Yk_meRXghXeAZ6Srvrp6m5sDvVn1q-e3sFAkfy5WZxlZrDI5I2635xeB2JdcZUHfCHqWVxMel1LNY3nk4LSW7SLcLBFPpKUANScFh0hWBDwjYAHrwvcYvB2LqPKBbT5uypz0Nh6ibM1DGJDAycb9S33z-g7XZb8eNM-Dnt6qefzn8bO38Kkq4niN2Zyt> 
+
+Dear Ms Jingqi Wu,
+
+We would like to provide an update regarding the intercom door release 
+issue affecting at *South Emery Wharf (Flats 1–49)*. The contractor has 
+confirmed 
+
+---
