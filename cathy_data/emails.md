@@ -7403,3 +7403,17 @@ Wrap up must-have Crown Affair, dae, and more.
 <https://app.sephora.com/T/v61000001a1e9d5b342a2248ff4bbcf6cc0/0d8494060bf74a9b0000021ef3a0bcc2/0d8
 
 ---
+
+## [营销] Just dropped: Hunter x LoveShackFancy
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-17T14:06:44.000Z
+**摘要:** Browns Shoes 发布秋季黑五促销活动，500多款鞋子打折，支持48小时快速配送。
+**待办:** 无
+**GmailID:** 1a1e9d4e8383ee09
+
+Don't miss: 500+ styles on sale for Early Black Friday!
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROI3hkeERAl9m9Zd87rZftc-3D1jbk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAE1iSQPdDtnPEkT8qIeiugVKElbqZnrKs-2FAfcol2Umme5DTXhfai7nXx4nRRvk64IxVPQzM1TN-2B8bXsWl5-2Bli7kICIoJry3uJA61fikB4d5VlnTcyZzMdItNIa-2BExwzo
+
+---
