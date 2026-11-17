@@ -7457,3 +7457,26 @@ In The Super Puff you love — now warmer and puffier.
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  
 
 ---
+
+## [营销] Holiday, your way — Top deals on your fave crafts & décor ✨
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-17T20:32:48.000Z
+**摘要:** 促销邮件，提供手工艺和装饰品的优惠折扣
+**待办:** 无
+**GmailID:** 1a1eb368fe45ea8b
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGWlwJZJvD9xZL8cIb6lvJyhLNvA8Qcf_WblwarqPnsfDNTJZF9BPqHjNxFJC9jiyDlBaAg0Kq0uUFlDL3PPupFGZJrOMYjF6FBn6KXe-o9CsrzoKLJw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
