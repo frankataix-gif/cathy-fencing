@@ -7527,3 +7527,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] We've Got You Covered
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-17T23:34:24.000Z
+**摘要:** 邮件提供珠宝保养指南和2年保修信息，包含售后FAQ链接
+**待办:** 无
+**GmailID:** 1a1ebdc9953a0dfa
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Shop Online.](https://mejuri.com/collections/shop-all)
+
+[Shop In Store.](https://mejuri.com/stores/hub)
+
+[Your Care & Warranty Guide. Learn More.](https://mejuri.com/faq/top-faqs)
+
+[Your Care & Warranty Guide. Learn More.](https://mejuri.com/faq/top-faqs)
+
+Now that you’ve picked up your new favorite jewelry, here’s everything you need to keep it looking its best. Think of this a
+
+---
