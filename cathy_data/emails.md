@@ -7912,3 +7912,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] The waiting game is over
+
+**发件人:** lululemon <customercare@lululemon.narvar.com>
+**日期:** 2026-11-18T20:52:41.000Z
+**摘要:** 通知包裹已送达，订单号c179453761721743。
+**待办:** 无
+**GmailID:** 1a1f06ee7018775d
+
+ 
+The waiting game is over 
+ORDER ID: c179453761721743 
+<https://cta.narvar.com/f/a/idK3RDUwqneXamFsVaMrYw~~/AAG0DBA~/OKG5YW0gbzXftqwYAt9dNafXh3PI65NL5uJGJtJkWNpYy5weUcEM490a9WjzeVIeSCySPpZE0s7BkuH7J9ehQycJrvz5_aiyZesK73ZNDPTlJ8LscAAZAwdij2V5yJgBr4VEGsmg3f8PPmeTcLBcaAmYBSyiCPL2K05fsHmBU7Y~>
+[image: Marketing banner] 
+  
+Your gear has been delivered.
+  
+We hope you enjoy your purchase and please let us know if there is anything 
+we can do to help. 
+
+Missing your package? We can help 
+<https://cta
+
+---
