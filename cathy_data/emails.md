@@ -7875,3 +7875,27 @@ TRACK SHIPMENT
 <https://cta.
 
 ---
+
+## [营销] Ready, set ... go! ✨ Holiday joy starts now. ✨
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-18T16:12:49.000Z
+**摘要:** 这是一封来自Michaels的节日促销邮件，包含多个购物和优惠链接。
+**待办:** 无
+**GmailID:** 1a1ef6ed8deefeef
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjQsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGYBCWpfmZo-thqrb-Re_hex00Tr2Gz3KWgP8LjrFrcHfzn3Ji-JQmsSJLYidb7ptpCcAiGQwZJdoqJSZzU7LRLa2RCVLAfIb6CgA5OHKLhoE3tM9fGg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261118_S7_CrossCategory_Treetrimming+alltheextras_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f
+
+---
