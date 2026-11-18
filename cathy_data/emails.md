@@ -7605,3 +7605,19 @@ TRACK SHIPMENT
 <https://cta.narvar.com/f/a/ThfTORB9SWEcB28EPmroDg~~/AAG0DBA~/uCJqRZ-UCwohmVBRh
 
 ---
+
+## [营销] Feel That Chill? It’s Outerwear Time.
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-18T02:42:17.000Z
+**摘要:** ALO 发布新品 Faux Suede Long Coat 的广告邮件
+**待办:** 无
+**GmailID:** 1a1ec889c7f4543e
+
+The new Faux Suede Long Coat is here
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRs4MH9Lu23IVk-2FrJGVM8SPSpFyGIVvtICts0d8lszHrA-3D-3DbRwX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV
+
+---
