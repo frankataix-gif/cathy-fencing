@@ -7569,3 +7569,16 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tb06f801,40c
 	
 
 ---
+
+## [生活旅行] 優惠券領取提醒⏰幫你慳 HK$5,580💰
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-18T00:36:08.000Z
+**摘要:** 提醒领取机票、酒店、旅行团优惠券，可节省HK$5,580。
+**待办:** 无
+**GmailID:** 1a1ec151ccd07979
+
+機票、酒店、旅行團券等即領即用！日本/韓國機票減 HK$400，信用卡減 HK$400👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101429225-1794962111674.87%26ouid%3D553870.HK-20261118-edm-CouponHub.2026-11-18_8_0.20261118.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D553870.HK-20261118-edm-CouponHub.2026-11-18_8_0.20261118.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0
+
+---
