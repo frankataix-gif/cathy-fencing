@@ -7551,3 +7551,21 @@ lululemon
 Now that you’ve picked up your new favorite jewelry, here’s everything you need to keep it looking its best. Think of this a
 
 ---
+
+## [营销] Jingqi, escape the Black Friday chaos with Stream+. 🖤
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-11-18T00:06:20.000Z
+**摘要:** 促销信息：TELUS推广Stream+流媒体套餐，包含Netflix、Disney+和Amazon Prime，价格为每月43加元。
+**待办:** 无
+**GmailID:** 1a1ebf9e5a51bbf4
+
+Get ad-free Netflix, Disney+, and Amazon Prime for just $43/mo.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tb06f801,40c6a471,2b163c7a&e=Y2lkPXRlbERNMjM3NjExMSZiaWQ9MTg1MDA2MDgxJnAxPSU0MEZra2NvaEg1U0ZCUXJ6SmZZNWNrUjFOYjJOTyUyQlRUeXNoV2JYOXNGZFBIRSUzRA&s=e46qyei9DaSFXzYDiWDhzGvWJjeBv6UAhREwOOWVwwc web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=tb06f801,40c6a471,2b163c7b&e=Y2lkPXRlbERNMjM3NjExMSZiaWQ9MTg1MDA2MDgx&s=mI5C_zJfwt8KdTQ-ygRxI4C8nBcUJonUiJleJFXnnuk 	
+	
+
+---
