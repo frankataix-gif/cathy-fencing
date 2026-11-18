@@ -7851,3 +7851,27 @@ Holiday gift sets for everyone on your list.
 <https://app.sephora.com/T/v61000001a1ef0b9778bdd2bcf4bbcfb648/4abec619e95848f60000021ef3a0bcc2/4abec
 
 ---
+
+## [营销] Your order is arriving today!
+
+**发件人:** lululemon <customercare@lululemon.narvar.com>
+**日期:** 2026-11-18T14:40:20.000Z
+**摘要:** 您的订单今天送达，请清理衣柜空间并跟踪包裹运输状态。
+**待办:** 无
+**GmailID:** 1a1ef19fe23a3d8f
+
+ 
+Clear some space in your wardrobe. 
+ORDER ID: c179453761721743 
+<https://cta.narvar.com/f/a/OUc1dNJokKjnazmJ0XVxrw~~/AAG0DBA~/JB3t0wGhdPr18wsLnFVIhlDXsZDp_-ek-qwBcyTFm2TM_fpuDzSW-4jdCDhKrU4l6Z0Iw_ycqRtsZzMAVIfyGv1iLxyC7ZpuUWCyQR1YDaVr_eT8NsF5xU7iJsx6qsrX7dUXGpXqogojkxVcpzr-EmdVH1l_2sOcPsxl2HiNIfU~>
+[image: Marketing banner] 
+  
+Your package is out for delivery.
+  
+Your order is out for delivery and arriving today. For more details, you 
+can track your shipment.
+  
+TRACK SHIPMENT 
+<https://cta.
+
+---
