@@ -7656,3 +7656,22 @@ Book an Appointment Online:
 Click this link to update yo
 
 ---
+
+## [待办] Your Receipt - Kinnect
+
+**发件人:** Kinnect <notifications@janeapp.com>
+**日期:** 2026-11-18T06:30:58.000Z
+**摘要:** 您有一张新的收据，请查看链接下载或打印。
+**待办:** 查看并处理收据
+**GmailID:** 1a1ed59f973a69e8
+
+Your receipt.
+
+Hello Cathy,
+
+You have a new receipt available. Please visit the link below to securely review, download, or print your receipt.
+
+View Receipt
+https://kinnect.janeapp.com/ct/2825/f8d4db0a8cb687cb437d3e3860125ad66e3dfd3c2eec066be15e7862e66b4a59/aHR0cHM6Ly9raW5uZWN0LmphbmVhcHAuY29tL3NlY3VyZV9kb2N1bWVudHM/cGF5bG9hZD1jakJ2TUhsVE5FSlhVRWhwTmxOdWNtcGtRVTUyUm1aQ01tUkxlV1ZtWTFrd1oxQjFSVWxZZFRac2FreEJibkV6YlRGTmExTXdPVmRUUWpSbU5qVjNaRlJrTlVWMlkwWklRazFoVDBORFpVSkpibUp6Umt4bWFGbFlRMU
+
+---
