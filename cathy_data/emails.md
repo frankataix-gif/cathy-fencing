@@ -7955,3 +7955,28 @@ Missing your package? We can help
 [image: DoorDash
 
 ---
+
+## [生活旅行] Re: IMPORTANT NOTICE TO ALL RESIDENTS - Annual Fire & Life Safety Inspections
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-18T23:00:00.000Z
+**摘要:** 通知居民将于11月25日至27日进行年度消防和生命安全检查
+**待办:** 无
+**日程:** {"title":"年度消防和生命安全检查","date":"2026-11-25","time":"","location":"Smith & Farrow Rental Homes"}
+**GmailID:** 1a1ebc4a7ca59eb4
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+[cid:30ee2ff0-17bf-4067-bc50-7fccc1e6aa67]
+
+
+
+708 Farrow Street | Coquitlam BC | V3J 1P7 | rentsmithandfarrow.ca<https://rentsmithandfarrow.boffo.ca/>
+
+The information in the email is confidential and may be legally privileged. It is intended solely for the addressee.  Access to this email by anyone else is unauthorized.  If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in
+
+---
