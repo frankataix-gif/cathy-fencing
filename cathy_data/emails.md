@@ -7621,3 +7621,38 @@ The new Faux Suede Long Coat is here
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRs4MH9Lu23IVk-2FrJGVM8SPSpFyGIVvtICts0d8lszHrA-3D-3DbRwX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV
 
 ---
+
+## [待办] A change has been made to your Account permissions
+
+**发件人:** Kinnect <notifications@janeapp.com>
+**日期:** 2026-11-18T06:33:39.000Z
+**摘要:** 账户权限发生更改，需要家长审查并调整相关权限。
+**待办:** 检查并调整账户权限
+**涉及:** Cathy
+**GmailID:** 1a1ed5c6e847ecdf
+
+Permissions on your Account
+
+Hello Natalie, permissions have been adjusted on your Account. Please review the changes below.
+
+Cathy H. has permission to:
+- use payment methods on file
+
+You can adjust all of these permission by signing in to your Account or by contacting us.
+https://kinnect.janeapp.com/account#family_profiles
+
+
+
+
+
+Thanks for choosing Kinnect.
+
+
+Book an Appointment Online:
+https://kinnect.janeapp.com/
+
+
+Book an Appointment Online:
+Click this link to update yo
+
+---
