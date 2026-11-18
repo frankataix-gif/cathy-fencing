@@ -7582,3 +7582,26 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tb06f801,40c
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101429225-1794962111674.87%26ouid%3D553870.HK-20261118-edm-CouponHub.2026-11-18_8_0.20261118.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D553870.HK-20261118-edm-CouponHub.2026-11-18_8_0.20261118.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0
 
 ---
+
+## [营销] Your package is almost there!
+
+**发件人:** lululemon <customercare@lululemon.narvar.com>
+**日期:** 2026-11-18T02:21:51.000Z
+**摘要:** 通知包裹即将到达，并附有物流追踪链接
+**待办:** 无
+**GmailID:** 1a1ec75e6e6084f8
+
+ 
+Coming soon to your wardrobe. 
+ORDER ID: c179453761721743 
+<https://cta.narvar.com/f/a/MQUiJdltj1tv-e4GT1ygTQ~~/AAG0DBA~/JKozKL81EsPwaxjN191oayO759JrSHwtF8aLB7v1MSlDRv_3QyEH9AyWNZWeKEQX9TOK2DYTH-9LhK_CoNSp3HHeBoUnErm2qToRog6iy7GxhVf3rPVbQXbrnfwdT9EVwLZI1ZBHMtBzeuujp_XvVHjekGKYjXHVYxlHeIjKSYs~>
+[image: Marketing banner] 
+  
+Home stretch—your gear is arriving soon.
+  
+Your order will be there soon.
+  
+TRACK SHIPMENT 
+<https://cta.narvar.com/f/a/ThfTORB9SWEcB28EPmroDg~~/AAG0DBA~/uCJqRZ-UCwohmVBRh
+
+---
