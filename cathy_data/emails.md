@@ -7688,3 +7688,27 @@ https://kinnect.janeapp.com/ct/2825/f8d4db0a8cb687cb437d3e3860125ad66e3dfd3c2eec
 
 
 ---
+
+## [营销] 3, 2, 1 … ready for some Hallmark holiday magic? ❤️ 🎄 ✨
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-18T08:21:42.000Z
+**摘要:** 促销邮件，提供节日促销链接
+**待办:** 无
+**GmailID:** 1a1edbf7e14b791f
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjQsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGXVt3tfNi5HjDtKtXaZNnc5kIrtAQFc4kXHZ-doQ8-carjT0Fo2iVR3nAGRjdkd7o_U8HA4HO5odmr0WRdM0_i83mrIzjRoJH9JIY58xdeWr8Qw2xTQ 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Circular/EOW/Promo-_-20261118_S6_EOW_Hallmark_WKND_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=65662
+
+---
