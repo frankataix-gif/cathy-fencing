@@ -7833,3 +7833,21 @@ DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRIG-2BYqqm-2B84wzl4TsdKyjvA-3DvWG0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAMtXiDA0x0WIfl3KC3BOOCXSv6WN3qVOme5uIANbLoEaGeRC57WxsZKFjmxOMyjjWuBCDwcTBwxfFJOkRkNRG-2FmXL-2FKmZmST3Is-2FdissqBDgxpF-2BJaiBgnhb8QBx1gcdZtyB2A7I
 
 ---
+
+## [营销] New from MERIT 🎁 Only at Sephora.
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-18T14:24:37.000Z
+**摘要:** Sephora 推出MERIT新品促销，提供假日礼品套装
+**待办:** 无
+**GmailID:** 1a1ef0b9a269007b
+
+ Sephora 
+
+Holiday gift sets for everyone on your list. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: Sephora] 
+<https://app.sephora.com/T/v61000001a1ef0b9778bdd2bcf4bbcfb648/4abec619e95848f60000021ef3a0bcc2/4abec
+
+---
