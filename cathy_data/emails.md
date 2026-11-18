@@ -7819,3 +7819,17 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web br
 
 ---
+
+## [营销] 💥NOW UP TO 50% OFF | EARLY BLACK FRIDAY
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-18T13:28:04.000Z
+**摘要:** Browns Shoes推出黑五促销，部分品牌鞋子最高50%折扣，并保证48小时送达。
+**待办:** 无
+**GmailID:** 1a1eed7da495aef3
+
+ARTICA, Timberland and Hunter now on SALE   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRIG-2BYqqm-2B84wzl4TsdKyjvA-3DvWG0_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAMtXiDA0x0WIfl3KC3BOOCXSv6WN3qVOme5uIANbLoEaGeRC57WxsZKFjmxOMyjjWuBCDwcTBwxfFJOkRkNRG-2FmXL-2FKmZmST3Is-2FdissqBDgxpF-2BJaiBgnhb8QBx1gcdZtyB2A7I
+
+---
