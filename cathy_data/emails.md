@@ -7675,3 +7675,16 @@ View Receipt
 https://kinnect.janeapp.com/ct/2825/f8d4db0a8cb687cb437d3e3860125ad66e3dfd3c2eec066be15e7862e66b4a59/aHR0cHM6Ly9raW5uZWN0LmphbmVhcHAuY29tL3NlY3VyZV9kb2N1bWVudHM/cGF5bG9hZD1jakJ2TUhsVE5FSlhVRWhwTmxOdWNtcGtRVTUyUm1aQ01tUkxlV1ZtWTFrd1oxQjFSVWxZZFRac2FreEJibkV6YlRGTmExTXdPVmRUUWpSbU5qVjNaRlJrTlVWMlkwWklRazFoVDBORFpVSkpibUp6Umt4bWFGbFlRMU
 
 ---
+
+## [营销] È iniziato l’accesso in anteprima al Black Friday
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-18T07:30:26.000Z
+**摘要:** 这封邮件通知用户已开启Black Friday提前访问权限。
+**待办:** 无
+**GmailID:** 1a1ed9117f4edf99
+
+
+
+
+---
