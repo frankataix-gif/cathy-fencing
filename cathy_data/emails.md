@@ -8324,3 +8324,24 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261119_S7_PartyBalloon_OtherPromo_TARG_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=
 
 ---
+
+## [营销] 81% never get past the AI pilot. Are you one of them? 👀
+
+**发件人:** Make <info@make.com>
+**日期:** 2026-11-19T17:06:41.000Z
+**摘要:** 邀请参加关于AI试点的网络研讨会，时间2026年12月3日，线上进行。
+**待办:** 无
+**GmailID:** 1a1f4c6624c5644e
+
+A live session on scaling in 2027, plus ChatGPT and Claude running Make scenarios.
+
+Logo ( https://www.make.com?utm_campaign=Insights_Newsletter_191126&utm_medium=email&utm_source=customer.io )
+
+Hero image ( https://www.make.com/webinars/beyond-ai-pilots-what-mid-market-ai-adoption-looks-like-heading-into-2027?utm_campaign=Insights_Newsletter_191126&utm_medium=email&utm_source=customer.io )
+
+Webinar
+
+**************************************************************************
+Beyond AI pi
+
+---
