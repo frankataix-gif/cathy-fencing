@@ -8241,3 +8241,39 @@ With redeemable voucher for a full size.
 <https://app.sephora.com/T/v61000001a1f442a68f9cc99af4bbe5c7c0/306a257a8d8e49f30000021ef3a0bcc2/306a257a-
 
 ---
+
+## [生活旅行] RESIDENT NOTICE HOT TUB – PLEASE COVER AFTER EACH USE
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-19T15:00:00.000Z
+**摘要:** 提醒住户使用热水浴缸后需立即盖上盖子以节约能源和维护设备
+**待办:** 无
+**GmailID:** 1a1f452b1ef49bfe
+
+RESIDENT NOTICE
+
+HOT TUB – PLEASE COVER AFTER EACH USE
+
+
+
+Dear Residents,
+
+
+
+Please be advised that all residents using the hot tub are required to place the cover on immediately after each use.
+
+
+
+We kindly ask everyone to follow this requirement, as keeping the hot tub covered helps retain heat, reduce unnecessary energy consumption, and maintain the hot tub for the enjoyment of all residents.
+
+
+
+Thank you for your cooperation.
+
+
+
+Resident Care Team
+
+Phone 604 317 4060
+
+---
