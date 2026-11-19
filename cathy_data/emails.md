@@ -8223,3 +8223,21 @@ FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MiqLF3SU7OPc39sFm2OLHXfUWfBb-2B9YXtC9TEaOl83Ag-3D-3DssVu_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAK6v895wTNfWSMbP6yr9MhrCW2e50TO0cIz26KcMaE8Qeh7kQlywqmL2JgtFXOjcAwriVZET2ITaUocB3VANzKGd3Hu-2BSBnw4P-2Fz0rAAFHEkX3PZEZ-2FdF9y9TXfGTKHYagGhjgRX2rsl0SLtcZZR0bVMRYcbPv1sWpaw6-2B
 
 ---
+
+## [营销] NEW! Sephora Favorites fragrance sampler
+
+**发件人:** Sephora VIB <shop@beauty.sephora.com>
+**日期:** 2026-11-19T14:42:51.000Z
+**摘要:** Sephora发送的新香水试用装优惠
+**待办:** 无
+**GmailID:** 1a1f442aaf38477e
+
+ Sephora 
+
+With redeemable voucher for a full size. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1f442a68f9cc99af4bbe5c7c0/306a257a8d8e49f30000021ef3a0bcc2/306a257a-
+
+---
