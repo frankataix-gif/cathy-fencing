@@ -8064,3 +8064,21 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [其他] Worried about fraud or scams?
+
+**发件人:** TELUS <telusservice@info.telus.com>
+**日期:** 2026-11-19T08:43:46.000Z
+**摘要:** TELUS发送的账户安全防护指南，提醒用户防范诈骗行为
+**待办:** 无
+**GmailID:** 1a1f2f9ede9ef27e
+
+Here’s how to protect your TELUS Account
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tb4e5cc5,40c7599c,2b16d242&e=Y2lkPXRlbERNMjM3NzQ0NiZiaWQ9MTg5Njg0OTMzJnAxPSU0MHAwd1VBNW5EWmhwaXVoZUolMkJ1SyUyQkEyQ2VMckY2VHhJUlFoY1NzZ0R5dFpVJTNE&s=LDth3FGBPIr5tCwyGXc7t4CvqhIrIgwZrp1Ss1FkXWQ web browser . 	
+  https://t.info.telus.com/r/?id=tb4e5cc5,40c7599c,2b16d243&e=Y2lkPXRlbERNMjM3NzQ0NiZiaWQ9MTg5Njg0OTMz&s=cmVlbGBRfHaZAcdYbaUYvuRwXUt1wLITtRFp6laDl9k 	
+	
+
+Better Protect Your TE
+
+---
