@@ -8121,3 +8121,26 @@ These look way better on you than sitting in your cart
 <https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLttuHAUoA1
 
 ---
+
+## [营销] The Black Friday Sale is on. 💳
+
+**发件人:** "BestBuy.ca Black Friday" <newsletter@e.bestbuy.ca>
+**日期:** 2026-11-19T12:11:35.000Z
+**摘要:** BestBuy.ca 发送的黑色星期五促销活动邮件
+**待办:** 无
+**GmailID:** 1a1f3bdf6988f2b5
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
+
+---
