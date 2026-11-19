@@ -8300,3 +8300,27 @@ The system will begin filling by 5pm.
 We anticipate the system being b
 
 ---
+
+## [营销] Need balloons? Party supplies? We've got you covered 🎈
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-19T16:03:58.000Z
+**摘要:** 促销气球和派对用品的广告
+**待办:** 无
+**GmailID:** 1a1f48d0786e1e77
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjUsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGajTuRvYFp0nSjK7k7uTl1Z72QV1Snxe_b6TmcI0m6h8HkaxN-LgQtCRqkJPIboCD27UTA8aHYhIIXThfIc8cUUr0VIhutjY072AbXX46FIPlPGQp 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261119_S7_PartyBalloon_OtherPromo_TARG_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=
+
+---
