@@ -8397,3 +8397,24 @@ Once the system is satisfactorily holding pressure the heat will be
 reintroduced to the system
 
 ---
+
+## [生活旅行] Heating and hot water update
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-19T22:13:46.000Z
+**摘要:** 邮件通知供暖和热水供应延迟，目前仍在修复中，暂时请勿使用自来水，预计今晚恢复。
+**待办:** 无
+**GmailID:** 1a1f5df81719d44d
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/fLK3GyK8fnC8sSndMg8FJAno6wYZH5T74bhnGj_gl38upwLnj3KS3w5LeMrVc7BAp-QaPj-y-oB4Ai_M8X6gbryXawAsuRuvGIu6jzXRCvyA34DLA6n5pqqv4ORvd9MszVWOsmtKKxZ4Nuwugii2iyPxCaMKq242L4X8Pt6JnUBtUrADgKPfgEMjjOYmCyITVzCqpkLHDHXF54nZyHs0g61bxdOdjXbiaArjX2ZVfC76xvVk3Tdn73LoU_dM_5Kv4OZh0vVvqLa2iEMHxxuz> 
+
+Dear Ms Jingqi Wu,
+
+*Important Notice – Heating and Hot Water Supply*
+
+We apologise for the delay in restoring the heating and hot water supply.
+
+We understand the inconvenien
+
+---
