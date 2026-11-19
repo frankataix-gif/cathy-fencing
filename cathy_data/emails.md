@@ -8376,3 +8376,24 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [生活旅行] Hot water outage - update 3
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-19T19:07:58.000Z
+**摘要:** 关于热水供应中断的最新更新，系统正在测试，热水预计将在晚上恢复，建议减少使用以避免早晨问题。
+**待办:** 无
+**GmailID:** 1a1f53565d7f2fc1
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/u_KQqDEyX6kW0ESc2eIxvHcxqqChMYCYLxRHJHwmX96EP0_KkXF9eBVOf-zB5CG1QiHKxTcIu_pGqj9s3Kiwir1TWH4PNaJJi-56ce6Ry8IHt2Yuw0_0r96YKrKlcWwjGbyPa1-ub86x6_vTzPXUzBpvgJsYciuLUawXAQqy75gwY_6yKIw9Dn6L6r93cICiCsOS7mwHBp7mUz_hnxUvHkDt175qEqW1K19uUwUbg5EQHc6LjeQmGV-5yiot-UznBay105HIxrrGxiwCHz7E> 
+
+Dear Ms Jingqi Wu,
+
+Hi,
+
+We are now at the filling and pressure testing phase. 
+Once the system is satisfactorily holding pressure the heat will be 
+reintroduced to the system
+
+---
