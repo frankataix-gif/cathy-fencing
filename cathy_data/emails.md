@@ -8277,3 +8277,26 @@ Resident Care Team
 Phone 604 317 4060
 
 ---
+
+## [生活旅行] Hot water outage - Update 2
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-19T15:47:08.000Z
+**摘要:** 通知热水供应中断的最新进展，施工正在进行，系统预计今晚8点恢复。
+**待办:** 无
+**GmailID:** 1a1f47d87f8abb54
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/6ymlgtbL-BD6UwP_zMCuUmrATD9AFOaKVazWhkf53U1U9hlhDzMFShjdXUQ7lM16CZvRah6Jg907s6UAqzdD6IaEABxokUoNRc4H1MRt7ZFhYcbFj511jVT3z1HFL-pXqV6ZalQlyhQ3X0fQaczQI4VBoasFcvvNFgGS6eFYgIBLNFQpsE3XijCmuEApa-mhUGJ1tcmLFHqy1je3vc9KXzHAHqD-uzi78WLtY0xOk5V8qFWdUN_GFtILka40pUNmbGofoe5CWyfPID5McSTHuIJt6Q> 
+
+Dear Ms Jingqi Wu,
+
+The works are progressing.
+
+The new pipework connections are being made now.
+
+The system will begin filling by 5pm.
+
+We anticipate the system being b
+
+---
