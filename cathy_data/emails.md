@@ -8459,3 +8459,18 @@ Ms. Mac
 
 
 ---
+
+## [Cathy&David] eGryphon: November 19
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-19T23:00:17.000Z
+**摘要:** 学校通知eGryphon的11月19日相关事项
+**待办:** 无
+**涉及:** 两个
+**GmailID:** 1a1f60a316ffc7c0
+
+<!--placeholder-->
+
+
+
+---
