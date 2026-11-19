@@ -8440,3 +8440,22 @@ Thank you all for your patience, understanding and cooperation.
 
 
 ---
+
+## [Cathy&David] L & L Summative and Signature
+
+**发件人:** Trisha Macatangay <trisha.macatangay@meadowridge.bc.ca>
+**日期:** 2026-11-19T22:41:11.000Z
+**摘要:** 老师要求家长签名并返回孩子的L & L评估表，用于1月家长会时查看学习进展。
+**待办:** 签名并返回评估表
+**涉及:** 不明
+**GmailID:** 1a1f5f898b4737f9
+
+Good afternoon parents! Your child should be bringing home their L & L assessment that was completed last month. I have asked them to complete their reflection and have you sign after you have a look.  Please have them return it to me at your earliest convenience. I will hang onto the assessments until our conferences in January so we can look at their growth in my class!
+
+Thank you everyone,
+Ms. Mac
+
+
+
+
+---
