@@ -8418,3 +8418,25 @@ We apologise for the delay in restoring the heating and hot water supply.
 We understand the inconvenien
 
 ---
+
+## [生活旅行] Heating restored
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-19T22:30:27.000Z
+**摘要:** 供暖和热水供应已恢复，感谢住户的耐心与配合。
+**待办:** 无
+**GmailID:** 1a1f5eec3565716c
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/2Lkj46aVCEUoPoCaNOA6IBP9ZIz1c4JyzbmRkfQeKecIZ1swk7vUl_NJbrq5hSanCEIcHR9V_U6erQNAfdzw2HEWrk4ifKXrT3-ltUjRoFCMC8-yQhYZSCQ2oeF8_MJ3GpllbagqvBmiM-NElPndf-r_uhkVXcKI_a9Zy7zt4IMVOivnl4iabwsb2efV_E3IeHTzEEwkf8oU-qz24txN4r_h-GlRFi1oKyBJlmndBYWlcY-Ln_PnBoYuumTZ24oJsJoQQHUeYrELC1IqL3Wh> 
+
+Dear Ms Jingqi Wu,
+
+*Important Notice – Heating and Hot Water Supply*
+
+Hot water and heating is now working. 
+
+Thank you all for your patience, understanding and cooperation.
+
+
+---
