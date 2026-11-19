@@ -8041,3 +8041,26 @@ Your winter wardrobe has a new obsession
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [营销] Holiday picks with fa-la-la-la fab deals 🎄
+
+**发件人:** Michaels <michaels@emdeals.michaels.com>
+**日期:** 2026-11-19T08:24:32.000Z
+**摘要:** 这封邮件是Michaels的假日促销广告，包含多个购物和优惠链接。
+**待办:** 无
+**GmailID:** 1a1f2e86052629ed
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjUsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGZp0AVwqOF-sIPnGTFXk5lDpwyu6SXe9DM-m95PkRj31iT7M0gsTQck0BK46stY4Y_dMidXuFQRHzkkpxWebgXYRQCym1h_QoH3dXyHhlOlutO7VJfA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
