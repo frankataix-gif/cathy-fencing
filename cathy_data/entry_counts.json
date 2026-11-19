@@ -70317,5 +70317,364 @@
       ]
     },
     "total": 141
+  },
+  "march-nac-open-registration-cl-2027-03-05-atlantic-city-convention-center-atlantic-city-nj": {
+    "fetched_at": "2026-11-19T04:55:34.075438Z",
+    "counts": {
+      "Y12WF": 24,
+      "CDTWF": 0,
+      "Y14WF": 25
+    },
+    "names": {
+      "Y12WF": [
+        {
+          "name": "Aleksandrova, Miroslava",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Central California",
+          "member_num": "100882793",
+          "status": ""
+        },
+        {
+          "name": "Chan, Hailey",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "100352449",
+          "status": ""
+        },
+        {
+          "name": "Chen, Arianna",
+          "club": "Capital Fencers Club",
+          "division": "Virginia",
+          "member_num": "101016865",
+          "status": ""
+        },
+        {
+          "name": "Chen, Yifan",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100346448",
+          "status": ""
+        },
+        {
+          "name": "Choi, Jian",
+          "club": "Golubitsky Fencing Center",
+          "division": "US Fencing",
+          "member_num": "101120816",
+          "status": ""
+        },
+        {
+          "name": "Dai, Claire",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100823911",
+          "status": ""
+        },
+        {
+          "name": "Ellison, Ingrid",
+          "club": "Fencers Club Inc.",
+          "division": "Metropolitan NYC",
+          "member_num": "100336097",
+          "status": ""
+        },
+        {
+          "name": "Enriquez, Bianca Perla",
+          "club": "Morris Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100337492",
+          "status": ""
+        },
+        {
+          "name": "Fang, Yining",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "101566998",
+          "status": ""
+        },
+        {
+          "name": "Feng, Christy",
+          "club": "Fencing Institute Of Texas",
+          "division": "North Texas",
+          "member_num": "100320122",
+          "status": ""
+        },
+        {
+          "name": "Gao, Evelyn",
+          "club": "Brooklyn Bridge Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "101450177",
+          "status": ""
+        },
+        {
+          "name": "Hszieh, Evelyn",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "101639693",
+          "status": ""
+        },
+        {
+          "name": "Hszieh, Madeline",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "101839553",
+          "status": ""
+        },
+        {
+          "name": "Huang, Rosalyn",
+          "club": "Renaissance Fencing Club",
+          "division": "Michigan",
+          "member_num": "100884254",
+          "status": ""
+        },
+        {
+          "name": "Khanal, Sarah",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100349111",
+          "status": ""
+        },
+        {
+          "name": "Khetpal, Aalia",
+          "club": "Capital Fencers Club",
+          "division": "Virginia",
+          "member_num": "100356310",
+          "status": ""
+        },
+        {
+          "name": "Qiao, Lori-Ann",
+          "club": "Team Touche Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100337778",
+          "status": ""
+        },
+        {
+          "name": "Wen, Lillian",
+          "club": "Echo Fencing",
+          "division": "New England",
+          "member_num": "100316536",
+          "status": ""
+        },
+        {
+          "name": "Wu, Gloria",
+          "club": "Dynamo Fencing Club - Austin",
+          "division": "US Fencing",
+          "member_num": "100333144",
+          "status": ""
+        },
+        {
+          "name": "Xiao, Dorothy",
+          "club": "Empire United Fencing",
+          "division": "Metropolitan NYC",
+          "member_num": "100360077",
+          "status": ""
+        },
+        {
+          "name": "Xing, Melly",
+          "club": "East Coast Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100342744",
+          "status": ""
+        },
+        {
+          "name": "Yuen, Hannah",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "101052539",
+          "status": ""
+        },
+        {
+          "name": "Zhan, Catherine",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "100303274",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Alicia",
+          "club": "V Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100492582",
+          "status": ""
+        }
+      ],
+      "CDTWF": [],
+      "Y14WF": [
+        {
+          "name": "Aleksandrova, Miroslava",
+          "club": "Massialas Foundation (M Team)",
+          "division": "Central California",
+          "member_num": "100882793",
+          "status": ""
+        },
+        {
+          "name": "Chan, Hailey",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "100352449",
+          "status": ""
+        },
+        {
+          "name": "Chen, Arianna",
+          "club": "Capital Fencers Club",
+          "division": "Virginia",
+          "member_num": "101016865",
+          "status": ""
+        },
+        {
+          "name": "Chen, Sophie",
+          "club": "Polaris Fencing Center",
+          "division": "New Jersey",
+          "member_num": "101435293",
+          "status": ""
+        },
+        {
+          "name": "Chen, Yifan",
+          "club": "Golubitsky Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100346448",
+          "status": ""
+        },
+        {
+          "name": "Choi, Jian",
+          "club": "Golubitsky Fencing Center",
+          "division": "US Fencing",
+          "member_num": "101120816",
+          "status": ""
+        },
+        {
+          "name": "Dai, Iris Yuyang",
+          "club": "Golubitsky Fencing Center",
+          "division": "US Fencing",
+          "member_num": "100353113",
+          "status": ""
+        },
+        {
+          "name": "Ellison, Ingrid",
+          "club": "Fencers Club Inc.",
+          "division": "Metropolitan NYC",
+          "member_num": "100336097",
+          "status": ""
+        },
+        {
+          "name": "Enriquez, Bianca Perla",
+          "club": "Morris Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100337492",
+          "status": ""
+        },
+        {
+          "name": "Fang, Yining",
+          "club": "Unattached",
+          "division": "US Fencing",
+          "member_num": "101566998",
+          "status": ""
+        },
+        {
+          "name": "Feng, Christy",
+          "club": "Fencing Institute Of Texas",
+          "division": "North Texas",
+          "member_num": "100320122",
+          "status": ""
+        },
+        {
+          "name": "Hszieh, Evelyn",
+          "club": "SoCAL Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "101639693",
+          "status": ""
+        },
+        {
+          "name": "Huang, Rosalyn",
+          "club": "Renaissance Fencing Club",
+          "division": "Michigan",
+          "member_num": "100884254",
+          "status": ""
+        },
+        {
+          "name": "Khanal, Sarah",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100349111",
+          "status": ""
+        },
+        {
+          "name": "Khetpal, Aalia",
+          "club": "Capital Fencers Club",
+          "division": "Virginia",
+          "member_num": "100356310",
+          "status": ""
+        },
+        {
+          "name": "Lu, Sophia",
+          "club": "Worldwide Fencing Academy",
+          "division": "New Jersey",
+          "member_num": "100354020",
+          "status": ""
+        },
+        {
+          "name": "Qiao, Lori-Ann",
+          "club": "Team Touche Fencing Center",
+          "division": "Orange Coast",
+          "member_num": "100337778",
+          "status": ""
+        },
+        {
+          "name": "Smolich, Emily",
+          "club": "Research Triangle Fencing",
+          "division": "North Carolina",
+          "member_num": "100332533",
+          "status": ""
+        },
+        {
+          "name": "Wen, Lillian",
+          "club": "Echo Fencing",
+          "division": "New England",
+          "member_num": "100316536",
+          "status": ""
+        },
+        {
+          "name": "Wu, Gloria",
+          "club": "Dynamo Fencing Club - Austin",
+          "division": "US Fencing",
+          "member_num": "100333144",
+          "status": ""
+        },
+        {
+          "name": "Xing, Melly",
+          "club": "East Coast Fencing Club",
+          "division": "Metropolitan NYC",
+          "member_num": "100342744",
+          "status": ""
+        },
+        {
+          "name": "Yuen, Hannah",
+          "club": "Elite Fencing Club",
+          "division": "Southern California",
+          "member_num": "101052539",
+          "status": ""
+        },
+        {
+          "name": "Zhan, Catherine",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Northern California",
+          "member_num": "100303274",
+          "status": ""
+        },
+        {
+          "name": "Zhang, Vivian",
+          "club": "Star Fencing Academy",
+          "division": "National",
+          "member_num": "100356821",
+          "status": ""
+        },
+        {
+          "name": "Zhu, Alicia",
+          "club": "V Fencing Club",
+          "division": "New Jersey",
+          "member_num": "100492582",
+          "status": ""
+        }
+      ]
+    },
+    "total": 49
   }
 }
