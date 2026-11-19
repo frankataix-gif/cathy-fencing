@@ -8082,3 +8082,25 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tb4e5cc5,40c
 Better Protect Your TE
 
 ---
+
+## [生活旅行] Hot water outage update
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-19T09:47:33.000Z
+**摘要:** 关于伦敦码头地产热水供应中断的更新，说明锅炉温度调整和维修进展
+**待办:** 无
+**GmailID:** 1a1f3344e392a779
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/slDDKqIOhu_yK_4LDCAvS4WlMrI3HTBYZHf3v5x6yssYVS8Y56Z8mHSDPV2B940miXFW6ZjVSClFwwc09sOU0C2VnOsiVlID_VTmJgnVwJHXhMlOMXVpLDMVgO920VLsOdvB9QcEbzSgI-dRJLOYvKdMrmmCfyc0-PrNezrsp--jNeY7cC2FbgFCpmOcDJm1hAb1vm4fLEuv_tLwrq6uFKibth-6_XAZzfany_xViqoTa8LjWWleJIUsFrerVFVH0HDtC1gUEwziqORQr95JmXhhNw> 
+
+Dear Ms Jingqi Wu,
+
+The works are underway.
+
+At 7am this morning the energy centre boilers temps were dropped from 75 
+degrees to 65 degrees.
+
+At 7.50 am turned all boil
+
+---
