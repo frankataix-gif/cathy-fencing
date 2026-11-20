@@ -8474,3 +8474,27 @@ Ms. Mac
 
 
 ---
+
+## [其他] Don't miss your chance to tell us about your gear!
+
+**发件人:** Lululemon <noreply-lululemon@bazaarvoice-cgc.com>
+**日期:** 2026-11-20T00:54:44.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f672dbe0d8fc5
+
+ Don't miss your chance to tell us about your gear! 
+[image: lululemon logo] <https://shop.lululemon.com/> 
+Hi Natalie Wu! 
+ 
+Just a quick reminder to review your Daydrift High-Rise Wide-Leg Trouser 
+Regular *Twill. 
+ 
+Reviews that include photos help others pick the right size and fit. Don’t 
+hesitate to show us and our community how you wear your gear! 
+ 
+We appreciate your feedback as it helps us design and create our very best 
+gear. 
+[image: Daydrift High-Rise Wide-Leg Trouser Regular *Twil
+
+---
