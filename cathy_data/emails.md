@@ -8580,3 +8580,19 @@ Stream thousands of hours of exclusive Apple Originals with new releases every 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 
 ---
+
+## [其他] Trend Report
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-20T06:05:38.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f78f82db14dee
+
+How to pair Espresso & Moonshadow Blue
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSDUvhOkOcr2vB0M4j7ji1QrQ5CJas-2BGEmVOQ0dXs2SfQ-3D-3D82lc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3
+
+---
