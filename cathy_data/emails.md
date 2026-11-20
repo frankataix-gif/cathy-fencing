@@ -8498,3 +8498,27 @@ gear.
 [image: Daydrift High-Rise Wide-Leg Trouser Regular *Twil
 
 ---
+
+## [其他] Talk about great timing! Save over 50% on Apple TV.
+
+**发件人:** Apple TV <appletv@insideapple.apple.com>
+**日期:** 2026-11-20T01:37:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f699b0ed3a4b3
+
+Apple TV
+ 
+
+-----------------------------
+
+Collage of promotional posters from Apple TV shows and movies.
+https://link.apple/TVBlackFriday2026LTO_Announce
+
+
+It’s go time: Save over 50% on Apple TV for 6 months.*
+It’s everything Apple TV — all for just $6.99/month for 6 months. This offer ends November 30. 
+
+Stream thousands of hours of exclusive Apple Originals with new releases every week and no ads. Plus, get a fresh selection of great movies added every month and more live sports 
+
+---
