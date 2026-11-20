@@ -8684,3 +8684,25 @@ during late-night hours.
 We kindly ask all residents to be mindful of their n
 
 ---
+
+## [其他] Resident Newsletter - LH - 20/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-20T12:00:44.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f8d4b9450c81d
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/Anb2tsj_TOI6-pNdBkbyrGW3b1X7CWqheCZ-0Aw4QVHtL25kc0NEhbNgjQYDRbMUDFhBXcj8HTwv_VYchtxrvkWuS3ImJ_A3nDMSVavvWQ9quY8Fdrq47woHDm69wDSbZDq7DOPODdSbSanU4lgBWyo3PKXj19jMjl67heqxQuLFjVh3AtfyLEI7gyDPHdskOEmz3L1w-FyoRKA4OhEOd9YTx05fvJlZggtwaWwVFegdziMEdIrKYTF3823l_mLlVAqKVCTV9TZTybja5f-_S6PXHw> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/TGKMe
+
+---
