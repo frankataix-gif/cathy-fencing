@@ -8796,3 +8796,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] Up to 60% off almost EVERYTHING + free 9" poinsettia with in-store purchase.
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-20T16:34:31.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f9cf58267e5d3
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjYsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGc2xtaROQvqg1YxFgCeWquO44X2QDCeUYKWeHCgEplZJutQmlxN9hlAGJ7uxC2HjeBFam0riI0DyyIVSOTqKX54RULbPtg56O6mMZDvLr5UT_Y_V7Sw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Other_Promo/Value-_-20261120_S8_BFShortFormat_FirstSend_OtherPromo_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501
+
+---
