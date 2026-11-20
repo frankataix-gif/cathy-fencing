@@ -8596,3 +8596,27 @@ How to pair Espresso & Moonshadow Blue
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSDUvhOkOcr2vB0M4j7ji1QrQ5CJas-2BGEmVOQ0dXs2SfQ-3D-3D82lc_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3
 
 ---
+
+## [其他] Our Black Friday Sale starts now! 🚨 Get up to 60% off almost EVERYTHING ➡️
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-20T08:33:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f816b528100ce
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjYsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGb97xuRivAzE0zQPnkaX97UNfGYcV_BJgF8kZK0c8AUwdRIi9anUF-g3IpbMlHsvTzdgwHXLlR_3SG2g4lN35wh5ZY39Yy9NPLhiJenh9P46X2aS3 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261120_S5_BFAllStatements_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=10027628&m
+
+---
