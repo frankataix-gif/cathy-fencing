@@ -8734,3 +8734,22 @@ FOR TRENDS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRIgi3JxEeokHky-2F-2F1xle-2BAw-3DObNG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IABuoFGZvU8sZq53lM1I5JMQkDvF0O5NnD1epAA-2FrNhope-2BAgjalOV0tH6jvGp8VddHhqM-2BZtFIgKRmXi839-2FfwDBSTUQqXiKN6kwOkLufY6l6YPpa5QNV4XuXFynFk1UdhXgfv6fu345Kt
 
 ---
+
+## [其他] Early Access: Deep Gravel
+
+**发件人:** ALO Access <notification@emails.aloyoga.com>
+**日期:** 2026-11-20T14:16:40.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f95148c2948d9
+
+ ALO Yoga 
+A darker take on your favorite neutral
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌   
+  ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ 
+‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     
+﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌ 
+    ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ 
+͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌  
+
+---
