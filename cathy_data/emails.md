@@ -8706,3 +8706,17 @@ Powered by Locale
 <https://bhidfah.r.af.d.sendibt2.com/tr/cl/TGKMe
 
 ---
+
+## [其他] 🗓 Apple Black Friday starts soon.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-11-20T12:38:45.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f8f76eb175e14
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2BTiNWxh2qeKNkCr0ks8zPxYPS6isi4%2BP%2FKD1auHH%2FZD%2B1ihNDrOYTACOFSXoTR8EqQsqcKdNHcNsWnD1Ccxnv2XKwfDTEUZC3m9H%2B3ynGt75il6y%2B7f8jsFxPoPhsHygl1%2Bj7hRwv0k752aYFqEoHsrhcFiVajsycNnxsDHPauYkySjNenLbqbBP9kfKSivXb8aGbolV7A8cT1u%2BovDKkhkkBKsyGrSu0SwNPRN7P1fXoDBI8F8jdBU%2Brjo6uWPdufEW7v7%2FStIYK1louZb87Yxf4PrZWpM7VhpvRFT%2BnAd8BZdGuzF%2FpRSkdcFFO2G6PJPTv1Pn2TCShCCoKZFKz%2Bz14tti74ZBynB1%2BexOHlED7aYXnoFGk99n8fGMY4sAc%3D
+
+Take a s
+
+---
