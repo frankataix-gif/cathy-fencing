@@ -8642,3 +8642,25 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261120_S5_BFAllState
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Hot water outage - Update - 20/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-20T10:30:55.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1f882619f9c5e1
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/ptmXs26ZDNB8-Z5aW8eueKuzBqhVTt-y7hV-By_dVVozIB8dyL59kj47oTnjUwPy_VNSpL2YKU7Vmw29niHSbK4Ovu_2rie1hLnKIgBKrObH5jp1sZ0mi5V1_x_-4DGk7AFsZDt3cQlndZ5m6lDhlpJ6HaaXV1mdoEwvLYoldkhWpqlu6V2iKbT0IXVWlnBQBkncpdlU37Ygkdc8dhT_urbs1LokT-qw53c-trwMHtMcRr83TwUdras8Yov798I--PKVqJyzmFNqglhY5MgqyCQQoQ> 
+
+Dear Ms Jingqi Wu,
+
+ 
+
+Thank you for your patience while we carried out essential maintenance to 
+the Low Temperature Hot Water (LTHW) pipework.
+
+The work has now been c
+
+---
