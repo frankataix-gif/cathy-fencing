@@ -8850,3 +8850,27 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] BLACK FRIDAY SALE: Get up to 60% off almost everything today 👀
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-21T08:37:52.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1fd41826153868
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjcsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGeEs0NfgqO_mmGKE4VeWB7x9X_-AHFXUlIiqD8Y6iRss3vrqnXVe4tEdWeF6rPiRs2zxEptOKRNO0w4xILlAfZbqfAC1btCAnpx-_P6g5YSs-4uPRog 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261121_S4_BF_TopOffers_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=11116989&mi
+
+---
