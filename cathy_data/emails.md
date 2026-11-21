@@ -8955,3 +8955,21 @@ These look way better on you than sitting in your cart
 <https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLtt5XsVh22
 
 ---
+
+## [其他] Cyber Week daily deals just dropped exclusively on the app 👀
+
+**发件人:** Sephora Cyber Week <shop@beauty.sephora.com>
+**日期:** 2026-11-21T19:20:33.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1ff8db48725388
+
+ Sephora 
+
+That’s not all—more select beauty is on sale. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a1ff8d9b7d999b6b369ff1d668/30970efb30a34e740000021ef3a0bcc2/3097
+
+---
