@@ -8874,3 +8874,17 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261121_S4_BF_TopOffers_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=11116989&mi
 
 ---
+
+## [其他] ✨ Consider your party look complete — shop new & sale styles
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-21T14:10:16.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a1fe7193d7d30df
+
+ARTICA, Hunter, Michael Kors, WISHBONE ON SALE! 🛍️   YOUR TOP
+FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MCvk3MChrGDtm4eYGGY9T4tVKcvi6FrbaPFi9CjOpvMg-3D-3DZUYo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAOqRhwJn0-2BKtbVmE46vfIgYr6KQoXO3KcFepmwRbxiN054n6Q1I169tBp44EIfSeupU81hQYd5JCNv6hGdgWX0zpssg2F8Twa3dOkA242sA-2FgOe57vyp5qt1lWCvTj4PKQdYYP-2FZXb4-2BC9-2FjaBNU-2FOLD1VyBRC
+
+---
