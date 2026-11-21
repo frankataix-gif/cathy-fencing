@@ -8973,3 +8973,27 @@ That’s not all—more select beauty is on sale.
 <https://app.sephora.com/T/v61000001a1ff8d9b7d999b6b369ff1d668/30970efb30a34e740000021ef3a0bcc2/3097
 
 ---
+
+## [Cathy&David] Special Message from the Parent Guild (week of Nov 23)
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-11-21T22:41:24.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2004598e2e8870
+
+Good day, Grade 7 and 5 families,
+
+Please scroll down for a special message from the Parent Guild. There are many invitations and events coming up. Please take a look to see how you and your family can get involved.
+
+Kindly,
+
+Kirstin Carley
+Volunteer Grade Liaison | Grade 7 & 5 Parent | Class of 2032 & 2034
+2032liaison@meadowridge.bc.ca<mailto:2032liaison@meadowridge.bc.ca>
+
+________________________________
+From: Guild Chair <Guild.Chair@Meadowridge.bc.ca>
+Sent: Friday, November 20, 
+
+---
