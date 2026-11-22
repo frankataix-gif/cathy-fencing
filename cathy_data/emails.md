@@ -9157,3 +9157,21 @@ So many styles up to 50% off!   YOUR TOP FOOTWEAR DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NA6cXdbl3D8C0QVsmHZxHUrwhrerQPBfJzGHoFZGLI7g-3D-3DFFhe_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEk7mBn-2BuZJtJexcaApqPnGawdDlOaCae1WgsQePrgvzK1aNF34QGddqqoj9qHhPmMsZzN908Mwe1Ajmp8qKh45nifgvO1mAsurfNbvA-2BdLOjGUdC7dWMDya5SugtH-2FaHfl1AKm6LUsa7rYHdbaRXMlumyrsCWY-2BN7b36J9zuv16pdrk5Qv5vRL4h
 
 ---
+
+## [其他] PSA 📣 Cyber Week starts early on the app!
+
+**发件人:** Sephora Cyber Week <shop@beauty.sephora.com>
+**日期:** 2026-11-22T14:07:35.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2039589e018091
+
+ Sephora 
+
+Plus, get a FREE sample bag with min. spend. Use code BAGITFIRST. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a203956f8e9296656e96c566a0/fd137967a20e4a7d0
+
+---
