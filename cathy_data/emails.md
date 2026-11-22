@@ -9144,3 +9144,16 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261122_S4_BFBOGOs_St
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   
 
 ---
+
+## [其他] ARTICA, Hunter, Dr. Martens - ALL ON SALE! 🛍️
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-22T13:04:59.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2035c2895493c5
+
+So many styles up to 50% off!   YOUR TOP FOOTWEAR DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8NA6cXdbl3D8C0QVsmHZxHUrwhrerQPBfJzGHoFZGLI7g-3D-3DFFhe_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEk7mBn-2BuZJtJexcaApqPnGawdDlOaCae1WgsQePrgvzK1aNF34QGddqqoj9qHhPmMsZzN908Mwe1Ajmp8qKh45nifgvO1mAsurfNbvA-2BdLOjGUdC7dWMDya5SugtH-2FaHfl1AKm6LUsa7rYHdbaRXMlumyrsCWY-2BN7b36J9zuv16pdrk5Qv5vRL4h
+
+---
