@@ -9175,3 +9175,19 @@ Plus, get a FREE sample bag with min. spend. Use code BAGITFIRST.
 <https://app.sephora.com/T/v61000001a203956f8e9296656e96c566a0/fd137967a20e4a7d0
 
 ---
+
+## [其他] New: Airlift Plaid Set
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-22T17:19:33.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20445345d9d97e
+
+A sleek take on a classic pattern
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSTTTNwLcrqyk-2BqRZ5SQX4F5nvlcHvAVo4zdoKRwvTdMbg-3D-3DmP5j_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60t
+
+---
