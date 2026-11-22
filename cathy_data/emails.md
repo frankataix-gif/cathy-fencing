@@ -9191,3 +9191,22 @@ A sleek take on a classic pattern
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSTTTNwLcrqyk-2BqRZ5SQX4F5nvlcHvAVo4zdoKRwvTdMbg-3D-3DmP5j_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60t
 
 ---
+
+## [其他] 专属抢先购优惠：订阅 Google AI Plus 优惠 50% 📣
+
+**发件人:** Google One <googleone-noreply@google.com>
+**日期:** 2026-11-22T19:32:56.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a204bf5042a0c8b
+
+在浏览器中查看  
+<https://notifications.google.com/g/vib/AGSJxQznkrTpSEviOnn9VM5N5B4-b4P-MprHrRBKMV2zSevqjlPi9pKuZcbj_qqtwlcEz9FWnLVtqcRzw6TSLkOTkKKbHrcHFi5Ex4-Ub97UfLeAk3eJa91tuRDzz-7XfBCQuRM>
+---
+This email was sent to nataliewu100@gmail.com because you indicated that  
+you'd like to receive information on the latest news and features for  
+Google One. If you do not wish to receive these emails, please unsubscribe  
+here  
+<https://myaccount.google.com/communication-preferences/unsubscribe/gt/
+
+---
