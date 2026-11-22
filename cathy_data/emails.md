@@ -9012,3 +9012,19 @@ CLICK HERE<https://chat.whatsapp.com/DXziWfj8HSK05Wr6H88Owa?s=sh&p=a&iam=2> if y
 A Special Lunch will be provided by a local business, plus we will provide some accompaniments. Please stay tuned for a separa
 
 ---
+
+## [其他] The Winter Report is Here
+
+**发件人:** ALO Men <notification@emails.aloyoga.com>
+**日期:** 2026-11-22T00:15:03.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2009b42af20114
+
+Meet the latest arrivals
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+ ALO 
+( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSxQJzTCcc57-2BjKMVBbQIVxAEpZiQsedvEgZZt4H1ujZw-3D-3D50VC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmV
+
+---
