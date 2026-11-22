@@ -8997,3 +8997,18 @@ From: Guild Chair <Guild.Chair@Meadowridge.bc.ca>
 Sent: Friday, November 20, 
 
 ---
+
+## [Cathy&David] Grade 7 Weekly Reminders for Nov 23-27
+
+**发件人:** Grade 7 Liaison <2032liaison@meadowridge.bc.ca>
+**日期:** 2026-11-22T00:02:58.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2009040fe01107
+
+Good day, Grade 7 Families,
+'Tis the season for winter celebrations!
+CLICK HERE<https://chat.whatsapp.com/DXziWfj8HSK05Wr6H88Owa?s=sh&p=a&iam=2> if you are interested in joining the Grade 7 Christmas WhatsApp group. The Parent Guild has started planning the Grade 7 Christmas Luncheon and is inviting Parent Volunteers who would like to help set up, serve, and clean up.
+A Special Lunch will be provided by a local business, plus we will provide some accompaniments. Please stay tuned for a separa
+
+---
