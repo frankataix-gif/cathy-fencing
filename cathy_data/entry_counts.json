@@ -71461,5 +71461,260 @@
       ]
     },
     "total": 101
+  },
+  "rain-city-spring-rjcc-open-reg-2027-02-27-rain-city-fencing-center-bellevue-wa": {
+    "fetched_at": "2026-11-22T03:55:29.399427Z",
+    "counts": {
+      "Y12WF": 0,
+      "CDTWF": 9,
+      "Y14WF": 0
+    },
+    "names": {
+      "Y12WF": [],
+      "CDTWF": [
+        {
+          "name": "Alvarez, Hazel",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100323445",
+          "status": ""
+        },
+        {
+          "name": "Hong, Elsie",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100332128",
+          "status": ""
+        },
+        {
+          "name": "Kim, Ellen",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100407920",
+          "status": ""
+        },
+        {
+          "name": "Kim, Olivia",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100408001",
+          "status": ""
+        },
+        {
+          "name": "Klesert, Elizabeth",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100320740",
+          "status": ""
+        },
+        {
+          "name": "Ligeret, Stella",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100319084",
+          "status": ""
+        },
+        {
+          "name": "Nakazato, Olivia",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100353856",
+          "status": ""
+        },
+        {
+          "name": "Peng, Yuewei",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100343110",
+          "status": ""
+        },
+        {
+          "name": "Schultz, Sumi",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100316803",
+          "status": ""
+        }
+      ],
+      "Y14WF": []
+    },
+    "total": 9
+  },
+  "rain-city-super-youth-circuit--2027-04-23-rain-city-fencing-center-bellevue-wa": {
+    "fetched_at": "2026-11-22T03:55:29.399616Z",
+    "counts": {
+      "Y12WF": 9,
+      "CDTWF": 0,
+      "Y14WF": 14
+    },
+    "names": {
+      "Y12WF": [
+        {
+          "name": "Ho, Alyssa",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "101009226",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Katherine",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "101246686",
+          "status": ""
+        },
+        {
+          "name": "Kim, Rylie",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100334115",
+          "status": ""
+        },
+        {
+          "name": "Lam, Dorris Yandor",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100354391",
+          "status": ""
+        },
+        {
+          "name": "Mahapatra, Alisha",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100332893",
+          "status": ""
+        },
+        {
+          "name": "Nakazato, Isabella",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100358710",
+          "status": ""
+        },
+        {
+          "name": "Peng, Yuerui",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100384868",
+          "status": ""
+        },
+        {
+          "name": "Schultz, Emmi",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100354883",
+          "status": ""
+        },
+        {
+          "name": "Yim, Tessa",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "101790935",
+          "status": ""
+        }
+      ],
+      "CDTWF": [],
+      "Y14WF": [
+        {
+          "name": "Hong, Elsie",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100332128",
+          "status": ""
+        },
+        {
+          "name": "Jiang, Katherine",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "101246686",
+          "status": ""
+        },
+        {
+          "name": "Kim, Ellen",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100407920",
+          "status": ""
+        },
+        {
+          "name": "Kim, Olivia",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100408001",
+          "status": ""
+        },
+        {
+          "name": "Kim, Rylie",
+          "club": "Maximum Fencing Club",
+          "division": "Central California",
+          "member_num": "100334115",
+          "status": ""
+        },
+        {
+          "name": "Lam, Dorris Yandor",
+          "club": "Silicon Valley Fencing Center",
+          "division": "Central California",
+          "member_num": "100354391",
+          "status": ""
+        },
+        {
+          "name": "Ligeret, Stella",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100319084",
+          "status": ""
+        },
+        {
+          "name": "Mahapatra, Alisha",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100332893",
+          "status": ""
+        },
+        {
+          "name": "Nakazato, Isabella",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100358710",
+          "status": ""
+        },
+        {
+          "name": "Nakazato, Olivia",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100353856",
+          "status": ""
+        },
+        {
+          "name": "Peng, Yuerui",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100384868",
+          "status": ""
+        },
+        {
+          "name": "Peng, Yuewei",
+          "club": "S-Class Fencing",
+          "division": "Western Washington",
+          "member_num": "100343110",
+          "status": ""
+        },
+        {
+          "name": "Schultz, Sumi",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "100316803",
+          "status": ""
+        },
+        {
+          "name": "Yim, Tessa",
+          "club": "Rain City Fencing Center",
+          "division": "Western Washington",
+          "member_num": "101790935",
+          "status": ""
+        }
+      ]
+    },
+    "total": 23
   }
 }
