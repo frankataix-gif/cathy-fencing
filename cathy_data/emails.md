@@ -9097,3 +9097,27 @@ natalie，你好！
 
 
 ---
+
+## [其他] Stock up & save big with buy and get deals at our Black Friday Sale!
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-22T08:31:47.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20262352f8d2a9
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjgsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGfpd6vwjmYNvQjLrgfo2-WOuVan2FBJBz0pTuZfeZDTERPGvu2nZUiSmMwu527QMeaCbT2EPjEnCDSsLrq4o56mCeG2iLr6mA7_dDu1S49lygwihVQg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261122_S4_BFBOGOs_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=11116989&mi_u=6d
+
+---
