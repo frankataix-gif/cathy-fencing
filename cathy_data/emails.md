@@ -9084,3 +9084,16 @@ natalie，你好！
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏
 
 ---
+
+## [其他] Ultima occasione: 40% di sconto
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-22T07:26:18.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a202281188649c2
+
+
+
+
+---
