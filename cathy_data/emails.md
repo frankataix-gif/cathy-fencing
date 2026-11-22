@@ -9028,3 +9028,32 @@ Meet the latest arrivals
 ( https://click.emails.aloyoga.com/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSxQJzTCcc57-2BjKMVBbQIVxAEpZiQsedvEgZZt4H1ujZw-3D-3D50VC_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmV
 
 ---
+
+## [其他] Gemini 应用的重要更新
+
+**发件人:** Google Gemini <google-gemini-noreply@google.com>
+**日期:** 2026-11-22T02:06:48.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a201018cbb92d4f
+
+
+
+
+
+
+
+natalie，你好！
+
+
+我们正在更新 Gemini 应用中的隐私设置，旨在让你能更好地控制自己的数据，同时帮 
+助提高 Gemini 的安全性。我们将在未来几周内开始推出这些变更。
+
+• 有何变化：目前，“保留活动记录”设置决定了对话记录的保存时长，以及这些记录是 
+否会用于训练生成式 AI 模型。在未来几周内，我们将用两项新设置取代“保留活动记 
+录”。通过第一项设置 
+<<https://c.gle/AGSJxQxCOB0dAuJSkC52H035ZpgDzTeMttpoOWmiQfiatxG3qis8plW-IP5i_v44MufpZ6vUdXXjRE4jsQDLFxKGR6r6_r0kkYQPe1uPM6CRd1Tqugh6ixV7MhzyhyGSbGCTVm5s49pyAyLV-E3YLKFdPaadc1Zr_xIkRsFV1Vo>>，你 
+可以控制历史记录的保存时长。通过第二项设置 
+<<https://c.gle/AGSJxQwILo3TQEu9yVDZiq0Lmsxrm9vf160Rs1rAhEzCfCqRfPwYpYd
+
+---
