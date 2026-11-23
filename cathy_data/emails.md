@@ -9669,3 +9669,20 @@ To prevent any further issues, please temporarily suspend the tenants’ access 
 I will follow up with you once we have spoken w
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-23T22:30:27.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a208e5af359d607
+
+Dear Joshua,
+
+I am very sorry to hear this, and this behavior from the tenants is completely unacceptable. We will contact her first thing tomorrow to demand that she strictly follow the house rules.
+
+To prevent any further issues, please temporarily suspend the tenants’ access to all communal facilities and services. This suspension should remain in place until she agrees to comply with the rules and provide a written letter of guarantee. Please issue a written notice to the tenant stating 
+
+---
