@@ -9555,3 +9555,20 @@ It's time to get excited
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROgZntRwxuPr2gpIgpE1Fjw-3DPQnQ_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJCehppozON-2Fe75GtNa-2FnfAW3q2hbc1NBV-2BjgKUAiDT37sJxwTynP-2Bqzt5Jv0nM1Kzu2HOusaZiiiLVIeaP6H4jxoF-2FEQy354Uhv2AOSN4C7v79CSJSWbJLm0Z3hNfx-2FY-2Ff78kpYYicLH7tHjo
 
 ---
+
+## [其他] IT’S HAPPENING: 30% Off Sitewide
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-23T16:02:52.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a209255f8e52bfe
+
+ ALO Yoga 
+Are you ready? It’s Black Friday.
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: ALO] 
+<https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRiNCalm95uQITuHjFRSFpihSAurfthJax7NVtTlzNXFeMUp5WExS19mAQbxnCRWURNPKgZ2oMzfDgOZapcvkC9115JDbUmwlb-2Ba-2FWhzTZa
+
+---
