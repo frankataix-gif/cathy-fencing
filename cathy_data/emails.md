@@ -9479,3 +9479,26 @@ Hi Joshua,
 Thank you for reaching out. I have looped in our managing agents at Glencoe Property, with Ellie in CC, to handle t
 
 ---
+
+## [其他] [Alo Yoga] Payment for #48879884 has been received
+
+**发件人:** Alo Yoga <no-reply@aloyoga.com>
+**日期:** 2026-11-23T15:28:10.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a209059549d43ec
+
+Your payment for #48879884 has been received
+
+Alo Yoga
+
+Order #48879884
+
+--------------------------------------------
+Your payment for #48879884 has been received
+--------------------------------------------
+
+View your order 
+( https://www.aloyoga.com/21852813/orders/17f2f778e5283f985109e3324634b1c4/authenticate?key=shcct_TG9FT0x3K0dWVGk4Q0F5WktoalVLVnl4L1g1VnVrU2grSnRQODRYTDREOHpSN2JEQjQ5MXBGVlhQc3AvMFBSS0xGRTRYckhGbGpzSmM0bzJyb0xUMW5LazFCTEtKY3ZvU1g1dVo0akoxcGFTcG9DeEc1b2NuM0dxNThJe
+
+---
