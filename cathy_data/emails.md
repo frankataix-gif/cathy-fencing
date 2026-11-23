@@ -9338,3 +9338,27 @@ lululemon
 
 
 ---
+
+## [其他] Sweet finds under $5? 😲 Must be Black Friday!
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-23T08:32:17.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20788ff825d9eb
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNjksInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGhfRK89HQnMfqqqbuIqXVq2T48946hKGl60TD7xz3Dz_Bf6JD2vD3dVEEvKktRmLuFELm3DeDFbCkyqhnHN8nk3TUQgMhYiTyl7SjPfduKkK14ra4Rg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261123_S4_BFDealsStartingUnder5_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=11
+
+---
