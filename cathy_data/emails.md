@@ -9298,3 +9298,17 @@ Check out before it's too late
 <https://trk.bc.aloyoga.com/uni/ss/c/u001.difxxnH3rjFaRLm-GsiSetThqzvLTLT2hrS7gqwzH2Ye2Nuv2tVuD_aifQ-6ACrl4AHEJWS85Ws0ad625RO9wa2YmHP1HKbwzLi5tPd8QYt0nubcMvyBgSlQEB3gdLttuHAUoA1Oe0CubrxyKROOZsxyxI601k7
 
 ---
+
+## [其他] 🚨UGG UP TO 30% OFF!! STOP EVERYTHING!🚨
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-23T04:46:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a206b9d2dcbc7bb
+
+Tasman, Classic Ultra Mini, Tazz II, Adirondack - they're all
+here!   FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRLkRO-2F-2BeUXINBNlTUvYpuR8-3DSOJt_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAFJ-2B7F9-2BcWVbAj1ymikJhm6WrNjcz5xlI3yX9HuXOVi4BNC7yKoQgTRlYTZEOgBLbfRDO3i0JG-2FhpXxGQKBGQzfXARxQSvdHZKnNNc5zo8td-2Bg
+
+---
