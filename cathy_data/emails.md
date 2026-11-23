@@ -9502,3 +9502,22 @@ View your order
 ( https://www.aloyoga.com/21852813/orders/17f2f778e5283f985109e3324634b1c4/authenticate?key=shcct_TG9FT0x3K0dWVGk4Q0F5WktoalVLVnl4L1g1VnVrU2grSnRQODRYTDREOHpSN2JEQjQ5MXBGVlhQc3AvMFBSS0xGRTRYckhGbGpzSmM0bzJyb0xUMW5LazFCTEtKY3ZvU1g1dVo0akoxcGFTcG9DeEc1b2NuM0dxNThJe
 
 ---
+
+## [其他] Verify your Shop account
+
+**发件人:** Shop <noreply@shop.app>
+**日期:** 2026-11-23T15:27:44.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2090535f586d41
+
+ Verify for fast checkout and order tracking
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏
+[image: Shop] 
+<https://mail.shop.app/_t/c/v3/AACgFnZFA2tc9lKxcPFuNxgZHCapv-rIbTBsXZMpnHDhw
+
+---
