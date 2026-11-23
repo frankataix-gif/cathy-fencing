@@ -9439,3 +9439,17 @@ Enjoy eight days of can’t-miss beauty savings.
 <https://app.sephora.com/T/v61000001a208d5753d9383baf4bbc782e8/ce6d7c55ce3044510000021ef3a0bcc2/ce6
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-11-23T14:53:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a208e5af359d607
+
+Good afternoon, Natalie I hope you are well,
+I am emailing as we have received a further complaint regarding this matter further to that the agents in place have not suitably or meaningfully replied to it.
+The tenants currently residing in apartment 1 2 lancer are repeatedly misusing the communal facilities, including prolonged occupation of the spa showers, removal of communal toiletries, toilet paper and bottled water, unplugging communal speakers to charge personal devices, and occupying mu
+
+---
