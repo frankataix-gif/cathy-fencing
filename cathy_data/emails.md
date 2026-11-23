@@ -9453,3 +9453,29 @@ I am emailing as we have received a further complaint regarding this matter furt
 The tenants currently residing in apartment 1 2 lancer are repeatedly misusing the communal facilities, including prolonged occupation of the spa showers, removal of communal toiletries, toilet paper and bottled water, unplugging communal speakers to charge personal devices, and occupying mu
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-23T14:53:51.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a208e5af359d607
+
+--- Option 1 — "Propose call times" ---
+
+Hi Joshua,
+
+Thanks for bringing this to my attention. I am available for a call on Tuesday, November 24 at 10:00 or Wednesday, November 25 at 14:00 to discuss the situation and the charges on our account. Let me know if either of those times works for you.
+
+Best,
+Natalie
+
+--- Option 2 — "Refer to managing agent" ---
+
+Hi Joshua,
+
+Thank you for reaching out. I have looped in our managing agents at Glencoe Property, with Ellie in CC, to handle t
+
+---
