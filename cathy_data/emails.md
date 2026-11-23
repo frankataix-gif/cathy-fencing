@@ -9384,3 +9384,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261123_S4_BFDealsSta
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] ICYMI: UGG IS UP TO 30% OFF! 🤎
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-23T12:06:37.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2084d140f1983a
+
+BLACK FRIDAY IS ON - UP TO 50% OFF!!   FASTEST DELIVERY. GET IT
+IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRBBHQDH-2Bin9dbTYMQBDWPxg-3D7rSk_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPJuK2UTKGe8yRnCtd3ZOE7UBkHNQgb-2Fn-2FDVHaYIjjfi2Hs1B8cPcx3mn6CU6OnQ6EHTTBLJ2bQah5eYw-2BLwY5KAXX2RGzNWQC0pMdPPI635JsweaZiEOxTu63U9WgnyagAizl6OGam4FYsf9
+
+---
