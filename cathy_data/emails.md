@@ -10150,3 +10150,22 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261124_S5_CrossCateg
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [Cathy&David] We are sorry we missed you!
+
+**发件人:** SJS Admissions <admissions@sjs.ca>
+**日期:** 2026-11-24T21:22:38.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20f7078d6d2007
+
+We are sorry we missed you!
+---------------------------
+
+Hello Natalie,
+
+We’re sorry we missed you at the recent tour of SJS. We understand that sometimes things come up, and we want to make sure you still have the chance to learn more about our school.
+
+If you would like to visit us, please feel free to register for any of our upcoming tours on the Visiting SJS page ( https://sjs.ca/admissions/visiting-sjs/ ). For any questions, our Admissions FAQ page ( https://sjs.ca/admissions/faq/ ) 
+
+---
