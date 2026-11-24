@@ -10104,3 +10104,27 @@ lululemon
 ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌    
 
 ---
+
+## [其他] STACK YOUR SAVINGS: Get an EXTRA 30% off holiday décor collections with coupon 🤑
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-24T18:18:50.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20ec8857bf1278
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzAsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGksgLURUMXmH8RRzgeDUpGPSmWfjqZ2_pWnouELGfTXUOCaSjxE8bJknlMxR8cHyfCfFVsjp2rpDZBY0XbfC_2UwDNa3DdPOEH_8yIKZa6IpbdiZm0g 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261124_S5_CrossCategory_HolidayDecorDeals_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&c
+
+---
