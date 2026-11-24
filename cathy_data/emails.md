@@ -10046,3 +10046,30 @@ From frosted tones to moody hues
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQqjpjY8qodDBC-2BqceUqKOFEkJoPlCn6-2BK5a-2BSvaP7cuC8GK-2FDx-2Fe-2FWLxjuecarSgbtKedfxUK3QzR-2FupI4f1FRxep-2F25xlL
 
 ---
+
+## [Cathy&David] Re: Cathy’s reminder
+
+**发件人:** Barmak Badie <barmak.badie@meadowridge.bc.ca>
+**日期:** 2026-11-24T16:01:39.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20b7e9e300484b
+
+Hi Natalie,
+
+Thank you for letting me know. Cathy can sit out of PHE until her ankle has recovered.
+
+Have a great day,
+
+Barmak Badie
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: November 23, 2026 10:04 PM
+To: Barmak Badie <barmak.badie@Meadowridge.bc.ca>
+Subject: Cathy’s reminder
+
+You don't often get email from nataliewu100@gmail.com. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+Hello Mr.Baddie,
+I am Natalie, Cathy’s m
+
+---
