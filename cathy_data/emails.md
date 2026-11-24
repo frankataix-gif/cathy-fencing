@@ -9991,3 +9991,23 @@ DESTINATION
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROTnxbPMgvMAQjcteEr7ATg-3D17vM_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEVrYBQ-2FKzMZGD8cY62TPLJmzgYfEi1HnVKvf5Wg7nX6NGIFr0H3eaiO60mkX0lSY4y6kG7tjKUxevmiyg3k-2FBJNqsJikFTuEvZn2zN-2FuzIs26sw6bdGX98DculwjyCB-2BGpEpj9AI8URk0V77
 
 ---
+
+## [其他] Book your apartment Annual Service Report Inspection - appointments available now
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-24T14:15:51.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20de9bcbd3ef10
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/rYoo3ozerdR7tt3OyGDQk_srrAFUYOqMUc_SLYoUMcjALEHu7deKN7p4ZAd7aBeamo0QoQjnpO23zvmHq4BfUNWIymAoruVePYHdV5wO9RJe53qxHs-_Vi9pQp0IjB7jKPEmhk9OhS4AhC_Ta1tsEbObvA_pueWIsHgyjqOGkgcy4T786gyqcpNCzZTaH3SI-6GO4sr6JbV1mdKYkdcH9Vkq9JThC-nCG80w60MvgBJB1Ar7xqfKhKOTOKtf3XEMe4r5JvRBT9x6KERQMNPa> 
+
+Dear Ms Jingqi Wu,
+
+This is a reminder about your annual apartment service inspection, aimed at 
+identifying potential leaks or maintenance issues.
+
+If you've already had your
+
+---
