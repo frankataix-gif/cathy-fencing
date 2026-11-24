@@ -9928,3 +9928,24 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261124_S4_BFTopOffers_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=13134191&mi_
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-11-24T08:45:22.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a208e5af359d607
+
+Good morning, Natalie,
+Thank you for the reply, I don’t mind speaking with the tenants and explaining the concern with them, that way they have an opportunity to align with the standard.  Your prompt concerning restricting the access is helpful in case they do not react positively.
+Thank you again for your swift response and please let me know.
+
+
+LANCER SQUARE GENERAL MANAGER
+T: +44 (0) 20 7509 1970 
+LancerSquareGM@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3
+
+---
