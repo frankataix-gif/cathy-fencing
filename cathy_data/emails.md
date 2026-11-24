@@ -9977,3 +9977,17 @@ Out-of-hours emergency number: 020 3
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] Pajar up to 40% off? Hurry! ⏰
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-24T14:10:24.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20de4c3c7cd7a2
+
+BLACK FRIDAY 🚨 The Best Brands are on SALE!   YOUR TOP FOOTWEAR
+DESTINATION 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNROTnxbPMgvMAQjcteEr7ATg-3D17vM_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAEVrYBQ-2FKzMZGD8cY62TPLJmzgYfEi1HnVKvf5Wg7nX6NGIFr0H3eaiO60mkX0lSY4y6kG7tjKUxevmiyg3k-2FBJNqsJikFTuEvZn2zN-2FuzIs26sw6bdGX98DculwjyCB-2BGpEpj9AI8URk0V77
+
+---
