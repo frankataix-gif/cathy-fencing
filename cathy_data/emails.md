@@ -9884,3 +9884,23 @@ View your order
 ( https://www.aloyoga.com/21852813/orders/590e56eb981f214b779b3122b9fa6dac/authenticate?key=shcct_NjhtMUxSNGtEdFM1MmR6WVRiWkU3Wll0UFRCTXZTM1Y4TldDL0htUXJqbEJNTDYzMmtqTXdleVB5RWpTU0g2NTEzRktiTkliSkZRaEw0SWtMN0F0ZjV0bnUwUG1VblRMZ0s3cnpTOXQ5a1ViVXpHVFA2Z08zV01kOGQ0d
 
 ---
+
+## [其他] Here's Your ALO Order Confirmation: #49144919
+
+**发件人:** Alo Yoga <no-reply@aloyoga.com>
+**日期:** 2026-11-24T06:00:08.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20c23e4bcaf57e
+
+Alo Yoga
+
+* *
+
+96
+
+It's time to get excited
+
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+---
