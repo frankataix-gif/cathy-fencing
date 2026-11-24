@@ -10029,3 +10029,20 @@ STACK. SAVE. ENJOY.
 <https://app.sephora.com/T/v61000001a20e2735b99e9a98f4bbe5be68/d7ccc5127bf14f1a0000021ef3a0bcc2/d7ccc512-7bf1-4f1a-9325-322323
 
 ---
+
+## [其他] 30% Off Your Winter Color Palette
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-24T16:03:44.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20e4c88c044730
+
+ ALO Yoga 
+From frosted tones to moody hues
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: ALO] 
+<https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQqjpjY8qodDBC-2BqceUqKOFEkJoPlCn6-2BK5a-2BSvaP7cuC8GK-2FDx-2Fe-2FWLxjuecarSgbtKedfxUK3QzR-2FupI4f1FRxep-2F25xlL
+
+---
