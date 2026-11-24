@@ -10187,3 +10187,42 @@ Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tc2c523e,40c
 	
 
 ---
+
+## [其他] DHL On Demand Delivery
+
+**发件人:** DHL EXPRESS <NoReply.ODD@dhl.com>
+**日期:** 2026-11-24T22:50:48.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20fc137c087d94
+
+
+English | Français <#French>Event Notification
+[image: On Demand Delivery]
+  
+
+Your Shipment Is On Its Way
+  
+[image: logo]  
+  
+ 
+
+Hello NATALIE WU,
+ 
+
+Your DHL Express shipment with waybill number 1574134133 from ALO YOGA is 
+on its way.
+
+We'll send another message prior to delivery. To authorise delivery without 
+signature, or for other delivery options, click here 
+<https://del.dhl.com/CA/CJdetwI1Fzo0?locale=en-CA>.
+ 
+
+Delivery Information
+Waybill No.
+1574134133
+
+Delivery Address
+708 Farrow
+
+---
