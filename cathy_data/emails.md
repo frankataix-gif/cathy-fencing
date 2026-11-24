@@ -10169,3 +10169,21 @@ We’re sorry we missed you at the recent tour of SJS. We understand that someti
 If you would like to visit us, please feel free to register for any of our upcoming tours on the Visiting SJS page ( https://sjs.ca/admissions/visiting-sjs/ ). For any questions, our Admissions FAQ page ( https://sjs.ca/admissions/faq/ ) 
 
 ---
+
+## [其他] Jingqi, The Rings of Power S3 has arrived.
+
+**发件人:** TELUS <telus@email.telus.com>
+**日期:** 2026-11-24T22:21:46.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20fa6a48679c41
+
+Bring the magic home with an exclusive $20/mo. off on Optik TV.
+
+Trouble viewing this email? View in  https://t.info.telus.com/r/?id=tc2c523e,40cab92d,2b19ae06&e=Y2lkPXRlbERNMjM4MzYxNiZiaWQ9MjA0MjMxMjMwJnAxPSU0MHlhQmNVJTJCU3NMNk1HM3ZWdjk1NXh6TGxmSXk4dXlEc1lLM0hoaVVnNWJhbyUzRA&s=L4_6CI7aXskv82bfdq37OXm6m-0TAgKsPIh8pe3ZrV8 web browser . 	
+	
+
+ https://t.info.telus.com/r/?id=tc2c523e,40cab92d,2b19ae07&e=Y2lkPXRlbERNMjM4MzYxNiZiaWQ9MjA0MjMxMjMw&s=R-wuWZz_25v6zJvECrLB1d2enOXka8KPZ3IS9wUeTlk 	
+	
+
+---
