@@ -10239,3 +10239,51 @@ Delivery Address
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-10142184115-1795569078547.728%26ouid%3D560758.HK-20261125-edm-gojapan.2026-11-25_8_0.20261125.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D560758.HK-20261125-edm-gojapan.2026-11-25_8_0.20261125.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0M
 
 ---
+
+## [其他] DHL On Demand Delivery
+
+**发件人:** DHL EXPRESS <NoReply.ODD@dhl.com>
+**日期:** 2026-11-25T02:58:16.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a20fc137c087d94
+
+
+English | Français <#French>Event Notification
+[image: On Demand Delivery]
+  
+
+DON’T WANT TO SIGN?
+  
+[image: logo]  
+  
+ 
+
+Hello NATALIE WU,
+ 
+
+To quickly and easily authorise a no signature / non-contact delivery for 
+your DHL Express shipment 1574134133 from ALO YOGA, just click​ here 
+<https://del.dhl.com/CA/YQ58sdMJCOE0?locale=en-CA>.
+ 
+
+Delivery Information
+Waybill No.
+1574134133
+
+Delivery Address
+708 Farrow St
+103
+COQUITLAM
+103
+V3J 0P2
+COQUITLAM
+
+Shipper's Reference
+N/A
+ 
+ 
+
+*DHL Express
+
+---
