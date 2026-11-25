@@ -10287,3 +10287,27 @@ N/A
 *DHL Express
 
 ---
+
+## [其他] DOORBUSTERS ❗ PRICE DROPS ❗ OUR BEST BLACK FRIDAY DEALS!
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-25T08:36:33.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a211d99f868121e
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzEsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGlu2Z25w6dgaMqNOEYzGmR9hhj3zeM9CwS1c7Tt_UJb5-OIPviA2b5MQQtfuPUXS18YGBMqI_22ByjpLmUhlnooCJgE718k5IA8RM-5yHgmWVnEbfHA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261125_S4_BF_PriceDropsPlusDoorbusters_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_m
+
+---
