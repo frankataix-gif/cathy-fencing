@@ -10503,3 +10503,21 @@ HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRK-2FeYnT0TpXjwXYkFspkRN0-3D1MRo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IABka-2BeY0AVGUYnnKjGHCUocFDnQqmziPhZh2Vf0pAW5C0IkrxCK-2FxyzaxXymzC53WNd9p3DKECQISay-2F-2B6TdkUvy-2BCDIypPmj5RKdWSNMFcK2ZrblDt7hG2l4heORLMsvCmIhr6e8-2FpHeEzp8U
 
 ---
+
+## [其他] Got Viktor&Rolf and EILISH FRAGRANCES on your wish list?
+
+**发件人:** Sephora Cyber Week <shop@beauty.sephora.com>
+**日期:** 2026-11-25T14:40:10.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21326db9c219f7
+
+ Sephora 
+
+Make your move and save 30% today. 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+
+[image: SEPHORA] 
+<https://app.sephora.com/T/v61000001a2132647c9a52895f4bbcfb920/18ab8833afaa46830000021ef3a0bcc2/18ab8833-afaa-4
+
+---
