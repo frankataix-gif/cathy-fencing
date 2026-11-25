@@ -10489,3 +10489,17 @@ It would be helpful if you could clarify how the additional fob was obtained so 
 Thank you again for bringing this to our attention
 
 ---
+
+## [其他] BLACK FRIDAY: ARTICA, UGG, Hunter + more up to 50% off!!
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-25T14:02:49.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a213042fd6ce599
+
++ UGG Goldenstar now on SALE!   FASTEST DELIVERY. GET IT IN 48
+HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRK-2FeYnT0TpXjwXYkFspkRN0-3D1MRo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IABka-2BeY0AVGUYnnKjGHCUocFDnQqmziPhZh2Vf0pAW5C0IkrxCK-2FxyzaxXymzC53WNd9p3DKECQISay-2F-2B6TdkUvy-2BCDIypPmj5RKdWSNMFcK2ZrblDt7hG2l4heORLMsvCmIhr6e8-2FpHeEzp8U
+
+---
