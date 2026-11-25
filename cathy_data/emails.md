@@ -10686,3 +10686,30 @@ You've accepted the following offer:
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNREVqD17FdAsGi6Lz0cB1GNA-3Dd_Ch_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD28KRJDbShCjxS7g5McVDsjgDKKyZ-2BAZP-2B65hyIrOKaSYDQUlr4dH5-2Bojfv4O3JXtKt2zw1x4ZeFKQxUsM1NEbs4FBJlqw-2FQioLb5i5pr5pQbFi4pnWfQwq6ibafUkF-2Bz-2ByBVLzJooUGnbdhJEwePNX3
 
 ---
+
+## [生活旅行] Reminders about amenity spaces
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-25T23:00:00.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a214f081d6f0a14
+
+Dear Residents,
+
+
+
+It’s great to see so many of you enjoying the amenity spaces at Smith & Farrow!
+
+
+
+As our community continues to grow, we'd like to share a few friendly reminders to help ensure everyone can enjoy the amenities comfortably and respectfully.
+
+
+
+Hours of Operation
+
+  *   All indoor and outdoor amenity spaces (L1 and L20) are open daily from 8:30 AM to 10:30 PM.
+  *   Please be mindful of noise, particularly during the evening. We've received a few noise complaints
+
+---
