@@ -10398,3 +10398,28 @@ Gift them, gift yourself — it’s all on sale.
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [其他] Emery Wharf - 7th and 8th December, Fire Door inspections - book now
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-25T12:52:03.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a212c36453de718
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/blWfGn1ZRGrdiomy307URZBLrEZJTEiQ99wq5Yydkzlwas4Dm6wn-9vY3n63DvW7ks3mLi6hRZ9iMQ8sT9VPH3vXP1IDXifioPnINm19aITg8DMlIxZoff2lIU9WuLqcZGIWr_NXah7R46rnh1E2rBl4m8kIR-sxl4a-fsEwB7f569vsfyhfNKBh6K1uaZ1TDyT__KNysu_cFyrMMot7cjdr3yJpw9HSh5sqvmlvgLfw1IB78IA2VvEMgMzOzlIe-PPe8bx6bfVYkdkMU0Ti> 
+
+Dear Ms Jingqi Wu,
+
+*EMERY WHARF *
+
+*Fire Door inspections - apartment entry door*
+
+*Mon.  07/12/2026  a.m. or p.m.      and*
+
+*Tues. 08/12/2026  a.m. or p.m.   *
+
+The annual 
+
+---
