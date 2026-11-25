@@ -10672,3 +10672,17 @@ You've accepted the following offer:
 [image: DoorDash
 
 ---
+
+## [其他] Don't wait: Black Friday boots are up to 50% off
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-25T23:03:59.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a214f3a5d5c3bb8
+
++ UGG Tasman Alpine now $114.98!   YOUR TOP FOOTWEAR DESTINATION
+
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNREVqD17FdAsGi6Lz0cB1GNA-3Dd_Ch_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAD28KRJDbShCjxS7g5McVDsjgDKKyZ-2BAZP-2B65hyIrOKaSYDQUlr4dH5-2Bojfv4O3JXtKt2zw1x4ZeFKQxUsM1NEbs4FBJlqw-2FQioLb5i5pr5pQbFi4pnWfQwq6ibafUkF-2Bz-2ByBVLzJooUGnbdhJEwePNX3
+
+---
