@@ -10596,3 +10596,29 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template2-_-HEADER_LOG
 &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
 
 ---
+
+## [Cathy&David] Grade 7 French – Updated Assessment Schedule and Speaking Project
+
+**发件人:** Marjan Mahmoudi <marjan.mahmoudi@meadowridge.bc.ca>
+**日期:** 2026-11-25T19:43:23.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2143c1322c263a
+
+Dear Parents and students
+
+I hope you are doing well.
+
+Due to a change in the school schedule effective December 7, our Grade 7 French assessment dates have been adjusted. Please find the updated schedule below:
+
+Updated Assessment Schedule
+
+  *   December 7: Speaking Summative Assessment – Grade 7-3
+
+  *   December 8: Reading Formative Assessment – All Grade 7 students
+
+  *   December 9: Speaking Summative Assessment – Grades 7-1 and 7-2
+
+  *   December 10: Speaking Summative Asse
+
+---
