@@ -10521,3 +10521,20 @@ Make your move and save 30% today.
 <https://app.sephora.com/T/v61000001a2132647c9a52895f4bbcfb920/18ab8833afaa46830000021ef3a0bcc2/18ab8833-afaa-4
 
 ---
+
+## [其他] RESTOCKED (and 30% off)
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-25T16:05:44.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21374b7006e72e
+
+ ALO Yoga 
+Your favorites are so back
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: ALO] 
+<https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSTSxFUe6Uy1SMK335GhUej8xQQiwrnHTPVOUB6q-2FMkMo-2BHUkQ0-2Bc-2FOqDxZ5-2B3URGgmsIgTj9tsYjl-2BPxTNflNkuuAG12INRVAFPLpeo1xj
+
+---
