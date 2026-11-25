@@ -10469,3 +10469,23 @@ https://www.MyKidsSpending.com/disableautofund?groupid=WUJI056&uid=ca2d3c12-b19e
 If your web br
 
 ---
+
+## [其他] Re: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** Glencoe Property <management@glencoe.london>
+**日期:** 2026-11-25T13:33:59.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a208e5af359d607
+
+Good afternoon,
+
+Thank you for letting us know.
+
+Regarding the additional fob, could you please clarify whether this was an authorised copy issued by the concierge or reception team? When the tenants initially moved in, we only provided her with one fob, so we were not aware that she had an additional one.
+
+It would be helpful if you could clarify how the additional fob was obtained so that we can look into this further with the tenant.
+
+Thank you again for bringing this to our attention
+
+---
