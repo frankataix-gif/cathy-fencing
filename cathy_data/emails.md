@@ -10326,3 +10326,25 @@ To let you know that there was another incident last night.  One of the tenants 
 We
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-25T11:47:18.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a208e5af359d607
+
+Hi Joshua,
+
+Thank you for the update. This behavior is completely unacceptable, and I fully support the cancellation of the unauthorized fob.
+
+I have asked Ellie and the Glencoe team to coordinate an urgent inspection, check on the missing towels, and reiterate the building rules firmly with the tenant. We will ensure this is handled promptly.
+
+Thank you,
+Natalie
+On Nov 25, 2026 at 11:46 +0000, Lancer Square General Manager <LancerSquareGM@jaresidential.com>, wrote:
+> Good morning Natal
+
+---
