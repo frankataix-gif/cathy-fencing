@@ -10311,3 +10311,18 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261125_S4_BF_PriceDropsPlusDoorbusters_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_m
 
 ---
+
+## [其他] RE: Lancer Square - Apt 1 B2 - SPA usage
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-11-25T11:46:43.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a208e5af359d607
+
+Good morning Natalie,
+Once again thank you kindly for your affirmative actions on this.
+To let you know that there was another incident last night.  One of the tenants had a fob that we were not aware of, they came down to the spa, filled one of their water bottles with water from the jug and then took one of the supplied water bottles that a resident had requested to use and it was already claimed.  When the resident went to let them know about this your tenant was rude and inconsiderate.
+We
+
+---
