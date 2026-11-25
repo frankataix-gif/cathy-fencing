@@ -10538,3 +10538,16 @@ Your favorites are so back
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSTSxFUe6Uy1SMK335GhUej8xQQiwrnHTPVOUB6q-2FMkMo-2BHUkQ0-2Bc-2FOqDxZ5-2B3URGgmsIgTj9tsYjl-2BPxTNflNkuuAG12INRVAFPLpeo1xj
 
 ---
+
+## [其他] Align low-rise styles are here
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-11-25T16:22:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21383caec6ee40
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
