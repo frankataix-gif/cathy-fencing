@@ -10622,3 +10622,34 @@ Updated Assessment Schedule
   *   December 10: Speaking Summative Asse
 
 ---
+
+## [其他] Your Subscription is Confirmed
+
+**发件人:** Apple <no_reply@email.apple.com>
+**日期:** 2026-11-25T19:42:57.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2143b937ebc563
+
+ 
+
+[image: Apple] Subscription Confirmed 
+ 
+  
+  
+[image: CAN Diamond VIP Monthly Plan] [image: CAN Diamond VIP Monthly Plan] 
+CAN Auto-renew Membership Group   
+  
+  
+Dear Natalie, 
+  
+You've accepted the following offer: 
+  
+*App* iQIYI - Dramas, Anime, Shows 
+<https://apps.apple.com/ca/app/id1461999674> 
+*Subscription* CAN Diamond VIP Monthly Plan 
+*Content Provider* IQIYI INTERNATIONAL SINGAPORE PTE. LTD. 
+*Date Accepted * Nov 25, 2026 
+*Trial* $1.99 every month for 1 month, starting Nov 25,
+
+---
