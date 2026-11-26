@@ -11036,3 +11036,24 @@ Should you wish to contact us, please send an e-mail to Support@MyKidsSpending.c
 You may also cal
 
 ---
+
+## [其他] London Dock Residents' Christmas event - 02/12/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-26T13:41:11.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21816c25cbe619
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/o352bdOxAZSllp8rdob-Z1xTrUqVWJmhUtse3lY034o3x0pRSJSRfml2jrplggvEVmdi-iR_ZWKpLtUwL6a30bkkeFtG0B25mnIRB-HuSsoyEj06FHQjf3JvVwoC6KjWUNNjpwiJd19iBQAJbfpW_IGtK41zpETu4r5aCzzQ9te4zLSSyBDeeKDjIYyQT0BDuhqWhVWvsKgMu0yAlbliqM4yaMVpiSsvRIyqSODdQ95gmAlikoqcO2vncZsYJqiSm0WEplGBbXQF3_8Nwc6xX1WvFw> 
+
+Dear Ms Jingqi Wu,
+
+You’re invited to our Residents’ Christmas Event! 
+
+
+A festive evening with your neighbours
+We hope you can join us to share some Christmas cheer and
+
+---
