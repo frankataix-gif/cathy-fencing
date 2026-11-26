@@ -11124,3 +11124,26 @@ Make your list and check it twice
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSREd8WoUUgfnaIHA4Ye8JtKKK0bbznKDc-2BlAo56-2B5aTB5yTGTqYgzOBXC5VTp5yscBISh5sEf2XJ7MuLODmLXtglbV1Ky6NAA5vInfhsR5o
 
 ---
+
+## [其他] Fire safety - Safe homes
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-26T16:42:52.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a218bd10b1c73d1
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/EVi1mbQuo6wEUotisoxWm9uMu1OUnAck-EPPFSTSBpujH0mz5YSuLAZL-zJ9BFYEia6l0t1fKiMYmEPBguNxbpNZawZFuSDCQd_AJJ2MLSq6HuelaYV8o1Yw0eTFuuwqZADj60Ku-VzLjd0swcbF-6yf8YbjolTDni9oBytFCnYMVebwulHXjbIZ3Pau05_YC9MqBOEhSnrPpLPpNsa0zLr2FIsPZQ0oPLKh5za4RVid9daMapQxKxsWfE6W7hLidyn_dXNY_nW7ti6VcWHxNeAyAQ> 
+
+Dear Ms Jingqi Wu,
+
+Please find important fire safety information attached.
+
+Share with all in your household.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Lo
+
+---
