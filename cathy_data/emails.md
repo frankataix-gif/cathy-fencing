@@ -10963,3 +10963,26 @@ As the landlord of 1,2 Lancer Square, I want to state my position with absolute 
 I stand 100% with Lancer
 
 ---
+
+## [其他] RE: FW: Subject: FORMAL LEGAL NOTICE OF BREACH OF TENANCY, UNLAWFUL INTERFERENCE, THREATS & FINANCIAL CLAIMS – Unauthorised Fob Restriction | Lancer Square, W8
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-11-26T12:57:49.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a217326da7ed112
+
+Thank you Natalie I will reach out to Frank for a call.
+
+
+LANCER SQUARE GENERAL MANAGER
+T: +44 (0) 20 7509 1970 
+LancerSquareGM@jaresidential.com
+jaresidential.com
+Out-of-hours emergency number: 020 3764 5568​
+This email and any attachments may contain confidential information intended only for the
+​named recipient. If you have received this email in error, please notify the sender and delete it
+​immediately.
+Whilst reasonable precautions have been taken to ensure this email is free f
+
+---
