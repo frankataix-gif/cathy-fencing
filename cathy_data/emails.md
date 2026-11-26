@@ -10879,3 +10879,25 @@ Good morning,
 Thank you for flagging this. I would like to arrange a call t
 
 ---
+
+## [其他] Black Friday: don’t miss these deals.
+
+**发件人:** "BestBuy.ca Black Friday" <newsletter@e.bestbuy.ca>
+**日期:** 2026-11-26T11:12:51.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2178eedf181496
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+&#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279; &#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#8199; &#65279;&#847; &zwnj;   &#
+
+---
