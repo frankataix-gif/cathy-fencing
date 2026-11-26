@@ -11160,3 +11160,43 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] DHL On Demand Delivery
+
+**发件人:** DHL EXPRESS <NoReply.ODD@dhl.com>
+**日期:** 2026-11-26T18:41:39.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21929d3e4e636e
+
+
+English | Français <#French>Event Notification
+[image: On Demand Delivery]
+  
+
+Your Delivery Is Today
+  
+[image: logo]  
+  
+ 
+
+Hello NATALIE WU,
+ 
+
+Your DHL Express shipment with waybill number 1574134133 from ALO YOGA is 
+scheduled for delivery TODAY between 15:30 and 17:30.
+
+To authorise delivery without signature, or for other delivery options, 
+click here <https://del.dhl.com/CA/MzySDs7Zzrn0?locale=en-CA>.
+ 
+
+Delivery Information
+Waybill No.
+1574134133
+
+Delivery Address
+708 Farrow St
+103
+CO
+
+---
