@@ -10831,3 +10831,23 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
 
 ---
+
+## [其他] FW: Subject: FORMAL LEGAL NOTICE OF BREACH OF TENANCY, UNLAWFUL INTERFERENCE, THREATS & FINANCIAL CLAIMS – Unauthorised Fob Restriction | Lancer Square, W8
+
+**发件人:** Lancer Square General Manager <LancerSquareGM@jaresidential.com>
+**日期:** 2026-11-26T09:31:43.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a217326da7ed112
+
+Good morning natalie I hope you are well,
+So you are aware please see my response to Kelly below.
+We have restricted the access to the spa however this needs not to be permanent, it can be temporary as long as the spa is not misused as such and as long as the tenant can make those improvements.
+Unfortunately we have received the below which is quite aggressive.
+Happy to arrange a call with you if you would like to discuss it further.
+
+
+LANCER SQUARE GENERAL MANAGER
+T: +44 (0) 20 7509 197
+
+---
