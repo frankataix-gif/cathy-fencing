@@ -11366,3 +11366,17 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261126_S4_BF_PreBFShoppingHype_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=563
 
 ---
+
+## [Cathy&David] eGryphon: November 26
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-26T23:00:14.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21a16b0d5ba2ee
+
+<!--placeholder-->
+
+
+
+---
