@@ -10851,3 +10851,31 @@ LANCER SQUARE GENERAL MANAGER
 T: +44 (0) 20 7509 197
 
 ---
+
+## [其他] Re: FW: Subject: FORMAL LEGAL NOTICE OF BREACH OF TENANCY, UNLAWFUL INTERFERENCE, THREATS & FINANCIAL CLAIMS – Unauthorised Fob Restriction | Lancer Square, W8
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-26T09:33:25.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a217326da7ed112
+
+--- Option 1 — "Review with legal counsel" ---
+
+Good morning,
+
+Thank you for bringing this to my attention. Given the legal nature of the tenant's notice, I am forwarding this correspondence to our legal counsel and our managing agents at Glencoe to review before taking any further steps.
+
+I will follow up once we have discussed the best way to proceed.
+
+Best,
+Natalie
+
+--- Option 2 — "Arrange a call" ---
+
+Good morning,
+
+Thank you for flagging this. I would like to arrange a call t
+
+---
