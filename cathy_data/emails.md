@@ -10943,3 +10943,23 @@ DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRHNSIXKTZIdf1vPPlt-2F85mw-3DnGH3_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAALQ8-2FEDYFmieo-2FTLfcsvGEEL4O1AZgrABVvqNNAnMKysEQ80vV7UE3yaMaLRdo0i2QB-2BR5l-2BA7CoQu5DlPiQ-2FzwrIZqSNCZqgkdl2gx8pEWLlTJaTH39uzsVPCLZv3hu7wb
 
 ---
+
+## [其他] Re: FW: Subject: FORMAL LEGAL NOTICE OF BREACH OF TENANCY, UNLAWFUL INTERFERENCE, THREATS & FINANCIAL CLAIMS – Unauthorised Fob Restriction | Lancer Square, W8
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-26T12:19:41.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a217326da7ed112
+
+Dear Joshua and & Lancer Square Management Team
+
+Thank you for forwarding Kelly’s highly aggressive email. I entirely share your frustration. Lancer Square is a premier luxury residence, and we cannot tolerate any resident who damages property, breaches community rules, or behaves disrespectfully toward our staff and management.
+
+As the landlord of 1,2 Lancer Square, I want to state my position with absolute clarity:
+
+1. Uncompromising Support for Fob Restrictions
+I stand 100% with Lancer
+
+---
