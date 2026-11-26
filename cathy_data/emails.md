@@ -11380,3 +11380,17 @@ https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261126_S4_BF_PreBFSh
 
 
 ---
+
+## [其他] Your fave brands. Extra 20% off🔥
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-26T23:09:45.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21a1f49aacbf15
+
++ Stop scrolling: On Cloudtilt is on sale right now   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRDaws-2BYQzG7m29qSCJz7ZzY-3DkbsG_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IACC-2BlyOhl2sBFgmqC3f7QwJDjpQYI6oSG9HUxYNRL15ILxhI54RcDPnvzxorO3mub5t7ZuhBd4wHqBJXP2jSa7zcvxU7gTVB3CqG-2FAGSyjBaj8w37D2KHxjzOzNg8vbmkChU
+
+---
