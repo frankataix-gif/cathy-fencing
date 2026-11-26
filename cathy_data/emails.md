@@ -11075,3 +11075,22 @@ DO. NOT. MISS.
 <https://app.sephora.com/T/v61000001a218579636a3b1a0369ff04b84/e6ff1707410940870000021ef3a0bcc2/e6ff1707-4109-4087-8c7b-9d297c1948a
 
 ---
+
+## [其他] Welcome to Shop–here’s what’s next
+
+**发件人:** Shop <noreply@email.shop.app>
+**日期:** 2026-11-26T15:27:46.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a218784d801f53e
+
+ Track orders, discover deals, and check out fast across millions of stores 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏ 
+ ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏  ﻿͏
+One account for all your Shopping–let’s get started 
+Track 
+
+---
