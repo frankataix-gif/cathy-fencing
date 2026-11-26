@@ -10929,3 +10929,17 @@ Be generous with yourself. Black Fiveday Sale.
 ͏‌
 
 ---
+
+## [其他] 🔓EXTRA 20% OFF SALE STARTS NOW! UGG INCLUDED! 🥳
+
+**发件人:** Browns Shoes <browns@info.brownsshoes.com>
+**日期:** 2026-11-26T12:06:59.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a217c0789d5a4ea
+
+First dibs on WISHBONE, Michael Kors & adidas   FASTEST
+DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRHNSIXKTZIdf1vPPlt-2F85mw-3DnGH3_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAALQ8-2FEDYFmieo-2FTLfcsvGEEL4O1AZgrABVvqNNAnMKysEQ80vV7UE3yaMaLRdo0i2QB-2BR5l-2BA7CoQu5DlPiQ-2FzwrIZqSNCZqgkdl2gx8pEWLlTJaTH39uzsVPCLZv3hu7wb
+
+---
