@@ -11217,3 +11217,26 @@ them. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ �
  ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌
 
 ---
+
+## [其他] A November look at Para sport in Canada 🇨🇦👏
+
+**发件人:** "Canadian Paralympic Team | Équipe paralympique canadienne" <digital@paralympic.ca>
+**日期:** 2026-11-26T20:02:01.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a219738c14fed80
+
+https://us.list-manage.com/oxQ3XepgVP9?e=8ba4750f99&c2id=a4fd0585c47d8d125c1053e85b7177c5
+
+Issue 54 | November 2026
+Français (#French)
+
+
+** Top Stories this Month
+------------------------------------------------------------
+https://us.list-manage.com/zPe5HozfI7O?e=8ba4750f99&c2id=a4fd0585c47d8d125c1053e85b7177c5
+
+Todd Nicholson makes Para ice hockey history with Order of Hockey Canada honour
+Read the full article (https://us.list-manage.com/137caorE1z1?e=8ba4750f99&c2id=a4fd0585c47d8d
+
+---
