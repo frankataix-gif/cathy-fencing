@@ -10808,3 +10808,26 @@ You can view your receipts in App Sto
                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 ---
+
+## [其他] Get up to 60% off almost everything today ✨
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-26T08:35:28.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a216fef85efd098
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzIsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGoRLI3wAQ5fJdOEJ57PHEbZaNhbTL4Cw5BQihr2GGxj9k6w2PYFkKqOadacjGtKjAnnMpsVL96lxgWOL6K9aBd5DWBVbJ77ANSflSkR1DxRUjuQZ6Gw 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-DCE-_-CAN_DCE_Template3-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=&mi_u=6d287df482534f5b467cd7b0820e8aecbc7
+
+---
