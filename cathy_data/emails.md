@@ -11254,3 +11254,49 @@ Read the full article (https://us.list-manage.com/137caorE1z1?e=8ba4750f99&c2id=
 
 
 ---
+
+## [其他] DHL On Demand Delivery
+
+**发件人:** DHL EXPRESS <NoReply.ODD@dhl.com>
+**日期:** 2026-11-26T21:39:47.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21929d3e4e636e
+
+
+English | Français <#French>Event Notification
+[image: On Demand Delivery]
+  
+
+Delivered!
+  
+[image: logo]  
+  
+ 
+
+Hello NATALIE WU,
+ 
+
+Your DHL Express shipment with waybill number 1574134133 from ALO YOGA has 
+been delivered on Thu Nov 26 at 14:23. For more details, click​ here 
+<https://del.dhl.com/CA/3fdO85ePD3s0?locale=en-CA>.
+
+Thank you for using On Demand Delivery.
+ 
+
+Delivery Information
+Waybill No.
+1574134133
+
+Delivery Address
+708 Farrow St
+103
+COQUITLAM
+103
+V3J 0P2
+COQUITLAM
+ 
+
+*DHL E
+
+---
