@@ -10778,3 +10778,33 @@ $2.23
 You can view your receipts in App Sto
 
 ---
+
+## [其他] 甄选配饰，悦己寄情
+
+**发件人:** Loro Piana <loropiana@news.loropiana.com>
+**日期:** 2026-11-26T05:04:22.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2163d954279e21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+细节之处，尽显优雅
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+---
