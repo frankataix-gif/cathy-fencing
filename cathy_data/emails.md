@@ -11444,3 +11444,16 @@ While our Rules and Regulations generally prohibit exterior lighting, decoration
 
 
 ---
+
+## [生活旅行] 僅限今日！超級會員日額外 5% 回贈🤑
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-27T01:24:23.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21a9a869cea647
+
+每月27號專屬💙落單賺額外 5% Trip Coins，全球酒店 5 折起👉
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014212165-1795742205443.232%26ouid%3D562809.HK-20261127-edm-memberday.2026-11-27_8_0.20261127.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D562809.HK-20261127-edm-memberday.2026-11-27_8_0.20261127.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMD
+
+---
