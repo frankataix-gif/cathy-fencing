@@ -11862,3 +11862,43 @@ Here’s what’s on our list
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQu3GLw-2FhMFeiLuzkUyLTcRrAehf5GLkjo-2F02gmFbdJmyeHLYqtHAAr2Bogwugyss2XCgDYtBj1JwDY73LOcPgDdADvkjBttQ2ecFTzbR978Q5BJeSB
 
 ---
+
+## [生活旅行] You’re invited – Jingle & Mingle at Smith & Farrow!
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-27T15:00:00.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21d85e860f6615
+
+Hello Everyone,
+
+
+
+The holiday season is just around the corner, and we'd love to celebrate together!
+
+
+
+Join us for a Jingle & Mingle Holiday Social on Thursday, December 17th  in the L1 Family Lounge.
+
+
+
+[cid:1b0b8e64-0e5e-4175-971b-dca3629a806c]
+
+
+
+Please RSVP to residentcare@boffo.ca<mailto:residentcare@boffo.ca> by December 10th so we can plan accordingly.
+
+
+
+We hope you'll join us for some holiday cheer. We look forward to seeing you there!
+
+
+
+Warm regards,
+
+
+
+R
+
+---
