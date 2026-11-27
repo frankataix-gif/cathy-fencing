@@ -11687,3 +11687,25 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261127_S4_DoorbustersNEWPriceDrops&AllStatements_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f8
 
 ---
+
+## [其他] Resident Newsletter - LH - 27/11/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-27T09:07:11.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21c423a67c6d8b
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/hRMN47vQooPCeGXGkbezfLwIjys0mVTpRF-x4x99jFPOTM1tSrgY6evLNLgwz9t4_g170Wbsc_xUOrMUmBVd5VLhBlT53MQN7GVmKzgeRwn1hYMkACJPKm7LCioY_cS1CGRwgDBpQCi55XmjOpY4QeEpfZGZrMVNxRFxjIYnrJF7cL6ptXaUhvDMe0kZiPI2-0gkqf1fo6yyMK7Po1t4xuq_QxVsI_LA21t36GDjneTwMdv-MDtbTWD1oYxmlfGDxCMSrEzDwHqnmA3VuhQW> 
+
+Dear Ms Jingqi Wu,
+
+Please find our newsletter attached.
+
+Kind Regards,
+*London Dock Management Team*
+Powered by Locale 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/n2dZHsNs2-9
+
+---
