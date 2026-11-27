@@ -11603,3 +11603,30 @@ Ep
 升級 Spotify Premium。 https://www.
 
 ---
+
+## [其他] Welcome to Luxer One
+
+**发件人:** Luxer One <support@luxerone.com>
+**日期:** 2026-11-27T05:07:12.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21b6680bce1ebd
+
+ Luxerone 
+[image: Luxer One] 
+[image: Hello, I'm Luxi - Here to help with all your package needs] 
+
+Hi Natalie! 
+------------------------------
+
+To pick up your packages at 708 Farrow - (South Tower), *click the button 
+below to download our app* from either the Apple App Store or the Google 
+Play Store.
+[image: Download the Luxer One App] 
+<https://app.luxerone.com/mobile?email=nataliewu100%40gmail.com&key=75C9618E&action=login> 
+
+[image: Have a question? I'm here to help] 
+
+Get support & more
+
+---
