@@ -11761,3 +11761,31 @@ late.   FASTEST DELIVERY. GET IT IN 48 HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRNwwgnFeRl119MPADjdjHhM-3DWvWW_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAAGNEEjGxVgF8WOvrS9j2tWa8duB0IDX2QPu5VmXEvpVHv730AXh-2FB-2BPEgOGY1Cx-2FE3b-2BnrHaxiXDByE1P59xhIOSzC1Spdl1Gz7OfeWW5bBnzKU
 
 ---
+
+## [其他] Black Friday must-haves are 20–50% off
+
+**发件人:** Aritzia <aritzia@em.aritzia.com>
+**日期:** 2026-11-27T12:04:33.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21ce5f2f2a1c2d
+
+Your closet thanks you in advance.
+
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
+͏‌  ͏‌  ͏‌  ͏‌
+
+---
