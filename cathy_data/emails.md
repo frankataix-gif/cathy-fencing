@@ -11650,3 +11650,16 @@ Natalie
 
 
 ---
+
+## [其他] Black Friday: 10% di sconto extra
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-27T08:10:23.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21c11c7c187dc2
+
+
+
+
+---
