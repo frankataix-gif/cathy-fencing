@@ -11422,3 +11422,25 @@ Deeper markdowns. 20–50% off everything.
 ͏‌  ͏‌  
 
 ---
+
+## [生活旅行] CHRISTMAS LIGHTS – SEASONAL BALCONY GUIDELINES
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-27T01:30:00.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21a9fe693329de
+
+Dear Residents,
+
+
+
+With the holiday season approaching, we are pleased to allow a temporary exception to our building's existing rules regarding exterior decorations, permitting residents to display Christmas lights on their balcony railings during the holiday season.
+
+
+
+While our Rules and Regulations generally prohibit exterior lighting, decorations and alterations to the appearance of the building, we are happy to make this seasonal exception, subject to the following guidelines:
+
+
+
+---
