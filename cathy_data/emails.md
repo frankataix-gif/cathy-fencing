@@ -11709,3 +11709,18 @@ Powered by Locale
 <https://bhidfah.r.bh.d.sendibt3.com/tr/cl/n2dZHsNs2-9
 
 ---
+
+## [其他] 🎉 Shop our Black Friday, get a gift card.
+
+**发件人:** Apple <News@insideapple.apple.com>
+**日期:** 2026-11-27T10:05:07.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21c7740ad1e4b5
+
+https://c.apple.com/r?v=2&a=1zIdgxRYc2DtYV9mVx1rKVlLY4S3XP4jfdSiAIA8JV%2FVCpV8yIQVqxgdV7v%2FIOlXHUhgDwpXD6mMBHs%2FFB4hYgb6KVoaujWrsstC%2FCjEkk054GFnUwh2e7SbkEP1BpP7wSXUhiM4Z7D4lHknfQ994zwysSLfrfgzqTEJUnR4Hn8BwOIWmSpE8QdiFxiecF5KVIUIz3W2tU5PWK2nmI0JeL42UhqjDaHWpUpxxmsClJUBB%2FFT8sP0Hf1JfZvI9tjcC8%2Ftqh70dxO4i9euM9LsI5ftJJEniPOfCvNsWsToaHQAZXOycu1ABbzdhhgj7Gz14j5%2BsJj%2BQ3IqplvW3cnQR%2BMbqOBL80ZPCHPg%2BOoIgWq81pl80GmG0Ol7g8uBpSKW%2B64LHSfms%2BwsOu%2BUXpGH3%2B8w0N8R4JbvXvSjZa1A6jQ%3D
+
+Shop all
+
+
+---
