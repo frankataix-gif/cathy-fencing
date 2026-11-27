@@ -12046,3 +12046,17 @@ View in Browser
 https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261127_S6_BF_Everything60Off_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5639890
 
 ---
+
+## [其他] THE BEST OF UGG ON SALE - UP TO 30% OFF
+
+**发件人:** Browns Shoes BLACK FRIDAY <browns@info.brownsshoes.com>
+**日期:** 2026-11-27T17:04:13.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21df6f9ab38170
+
+Styles are selling fast—now's your chance to get yours!
+FASTEST DELIVERY. GET IT IN 48 HOURS. 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRMXOHNHvjvyBSqHAXHRoFF4-3D3LN8_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAPOqxog7MzwzqMSVdcqMap4l97XTDcS4TC6mCH5ls72sZpRvZRqD6PcGie-2F2P8j7FBPVU8e-2By-2B9hmyLG54UelijMWv7Wl3phAiflB7lLQ4nfGJ6P5mwIHDFlojZnWwijHW
+
+---
