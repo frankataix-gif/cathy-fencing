@@ -11663,3 +11663,27 @@ Natalie
 
 
 ---
+
+## [其他] It’s go time! 🏃 Black Friday price drops + buy & get deals are here!
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-27T08:36:14.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21c2a5f4a95d6e
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGqw_jGcdd9F-mdEisM5lZJ7jbx13Vh_iBqYo2SkENqO6_n7hYX72w3cayH20D2EdtUnC3aA4Q5m9N0AoJD4GbH8yeW_Xk6i95P9xXKaTHMLDh6FBjxg 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261127_S4_DoorbustersNEWPriceDrops&AllStatements_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f8
+
+---
