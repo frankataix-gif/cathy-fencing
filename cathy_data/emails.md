@@ -12022,3 +12022,27 @@ On Nov 27, 2026 at 16:14 +0000, Smith & Farrow Rental Resident Care <residentcar
 > Get Outlo
 
 ---
+
+## [其他] You need to see this. 👀 Everything in this email is 60% off!
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-27T16:35:43.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21ddd121e67559
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzMsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGsgze0qL4wrVeTwFAAYRqxVb_6h8u9-skK3DHzRM9bhsAS3eAMQ87VQuVy_tpmGxXvKCHr6c5S1ExDQN2b4bVbZz_YouJZgJD6hlg5WB7uDaqtGhy 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261127_S6_BF_Everything60Off_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=5639890
+
+---
