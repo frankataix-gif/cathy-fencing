@@ -11630,3 +11630,23 @@ Play Store.
 Get support & more
 
 ---
+
+## [其他] Luxer one
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-27T05:30:16.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a21b773339f1455
+
+Hi,
+I just ordered something online. I created an account on luxury one. The
+delivery man  assigned my package to a wrong email. Can you please contact
+me and tell me to manually open locker 11 . The chat support of luxur one
+said also approve my account first.
+Thank you,
+Natalie
+
+
+---
