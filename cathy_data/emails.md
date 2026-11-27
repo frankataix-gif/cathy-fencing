@@ -11920,3 +11920,22 @@ Stack 50% off with daily deals and save big.
 <https://app.sephora.com/T/v61000001a21d9217469714d1f4bbcfd118/ff29c249789146b70000021ef3a0bcc2/ff29c
 
 ---
+
+## [其他] Your Black Friday offer ends soon 😮
+
+**发件人:** TradingView <hello@tradingview.com>
+**日期:** 2026-11-27T16:03:21.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21dbf3fbc3609c
+
+ Your Black Friday offer ends soon 😮 
+Get up to 80% off, plus 1 month free! Your future self will thank you for 
+not missing this. 
+͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌   
+  ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ 
+‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     
+­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌ 
+    ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌
+
+---
