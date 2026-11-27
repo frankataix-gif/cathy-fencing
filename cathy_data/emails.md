@@ -11845,3 +11845,20 @@ View in Browser
 <https://click.em.michaelscustomframing.com/?qs=ABt7ImQiOjUwNzMsInQiOjE0OTU1LCJzIjoxMH0ACgAAAAAGsFEgnm4eAuAniNZBSQs0qfXeBuR_0_5xc72IgpcRH6QdsxhIV39RLlaVy4SJoXPJHXWfpwYnc10KTb6KWRc_x1B_cxk
 
 ---
+
+## [其他] The Best of Black Friday: 30% Off
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-27T15:01:06.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21d8644c38309b
+
+ ALO Yoga 
+Here’s what’s on our list
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: ALO] 
+<https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSQu3GLw-2FhMFeiLuzkUyLTcRrAehf5GLkjo-2F02gmFbdJmyeHLYqtHAAr2Bogwugyss2XCgDYtBj1JwDY73LOcPgDdADvkjBttQ2ecFTzbR978Q5BJeSB
+
+---
