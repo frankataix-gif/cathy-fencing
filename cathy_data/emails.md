@@ -11939,3 +11939,23 @@ not missing this.
     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌     ­ ͏ ‌
 
 ---
+
+## [其他] Be Ready: Government initiative
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-27T16:01:56.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21dbdf65a98703
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/dcEOVhfRBu5cSyMiBwBrDrLLwrEyk4zH9Pl-imcPredDESZqvBGTR16LH9kuB8FHG3cSQ6g73whYkz6ltx7X9rvrLfQkB9iFZaTmtwgZFZlqeX-2eWd1fGvE47tJx0YPiGuz3abhdjNDayN-TCrcXFwXo7p8uexBELkDeke4smvhq_X2CwAOmb0C53n6aYSloPD7WpG4YRCQUH9EZXavvUWE5gaMwken6JdyjN5_4QYjOPqu1ZpKDKmQjp0-7obO73m3ncPR2Mo-rmVB-cB7C6woog> 
+
+Dear Ms Jingqi Wu,
+
+We wanted to ensure our residents are well informed and have prepared the 
+attached document sharing a summary of the government initiative.
+
+You can
+
+---
