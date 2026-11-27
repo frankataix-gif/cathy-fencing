@@ -11457,3 +11457,34 @@ While our Rules and Regulations generally prohibit exterior lighting, decoration
 <https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-1014212165-1795742205443.232%26ouid%3D562809.HK-20261127-edm-memberday.2026-11-27_8_0.20261127.zh_HK.%26sid%3D1520828%26trip_in_aid%3D1023%26trip_in_ouid%3D562809.HK-20261127-edm-memberday.2026-11-27_8_0.20261127.zh_HK.%26trip_in_sid%3D1121&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMD
 
 ---
+
+## [Cathy&David] Re: Our next New Family Onboarding Session is tomorrow!
+
+**发件人:** natalie <nataliewu100@gmail.com>
+**日期:** 2026-11-27T01:38:48.000Z
+**摘要:** 
+**待办:** 无
+**方向:** 发出
+**GmailID:** 1a2198f68b725170
+
+
+
+Hi,
+
+Thank you for the reminder. I would like to confirm that I will attend the 
+New Family Onboarding Session on November 27.
+
+Best regards,
+Natalie
+
+
+On Thu, 26 Nov 2026 20:32:37 +0000, Meadowridge School 
+<noreply@meadowridge.myenotice.com> wrote:
+
+*Join Us Tomorrow: **New Family Onboarding** Session #2*
+
+A couple of weeks ago, we kicked off our New Family Onboarding program—a 
+series designed to connect you with our community, explore our programs, 
+and help you make the most of your Meado
+
+---
