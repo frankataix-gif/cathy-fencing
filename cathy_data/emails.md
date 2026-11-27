@@ -12131,3 +12131,17 @@ Make them yours while you can
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSRLQZ018pcP734xj7RNcM2ECMmeDCsim-2FQgyFUf84Ery8LDIX-2FWxZ9cxKdp9-2FW7Rx5b9DEKMWjSzxHTYY40X-2FfauqA-2FAl0XjwYjmbztYV
 
 ---
+
+## [Cathy&David] What will they accomplish because of you?
+
+**发件人:** Meadowridge School <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-27T21:55:10.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21f0165186c130
+
+<!--placeholder-->
+
+
+
+---
