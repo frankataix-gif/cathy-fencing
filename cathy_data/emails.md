@@ -11959,3 +11959,29 @@ attached document sharing a summary of the government initiative.
 You can
 
 ---
+
+## [生活旅行] Re: Luxer one
+
+**发件人:** "Smith & Farrow Rental Resident Care" <residentcare@boffo.ca>
+**日期:** 2026-11-27T16:14:14.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21b773339f1455
+
+Hi Natalie,
+
+Please come to my office today
+Thanks
+Anastasia
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+________________________________
+From: natalie <nataliewu100@gmail.com>
+Sent: Thursday, 26 November 2026 22:30:16
+To: Smith & Farrow Rental Resident Care <residentcare@boffo.ca>
+Subject: Luxer one
+
+Hi,
+I just ordered something online. I created an account on luxury one. The delivery man  assigned my package to a wrong email. Can you please contact me and tell me to manually open
+
+---
