@@ -11789,3 +11789,29 @@ Your closet thanks you in advance.
 ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] Black Friday (Or Gold or Silver)
+
+**发件人:** Mejuri <contact@mejuri.com>
+**日期:** 2026-11-27T13:20:09.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21d2bd1082a2e0
+
+[Shop Sale Online.](https://mejuri.com/collections/shop-all)
+
+[Shop Sale Online.](https://mejuri.com/collections/shop-all)
+
+[Shop Sale In Store.](https://mejuri.com/stores/hub)
+
+[Shop Sale In Store.](https://mejuri.com/stores/hub)
+
+[Mejuri. Sale. Shop Black Friday.](https://mejuri.com/collections/black-friday-sale)
+
+[Mejuri. Sale. Shop Black Friday.](https://mejuri.com/collections/black-friday-sale)
+
+UP TO 30% OFF, ENDS MONDAY
+
+Don’t be shy—it’s okay to admit this is your favorite 
+
+---
