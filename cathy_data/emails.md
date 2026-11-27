@@ -11564,3 +11564,18 @@ Which weapon do you use? *
 Ep
 
 ---
+
+## [Cathy&David] Submission Confirmation for New Family Onboarding RSVP Form
+
+**发件人:** "communications@meadowridge.bc.ca" <noreply@meadowridge.myenotice.com>
+**日期:** 2026-11-27T04:10:29.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21b32950516700
+
+<!DOCTYPE html >
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><title></title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="width=device-width,initial-scale=1" name="viewport"><!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/><
+
+---
