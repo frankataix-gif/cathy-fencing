@@ -11828,3 +11828,20 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] Black Friday Sale ends soon! Shop now for 55% off custom frames.
+
+**发件人:** Michaels Custom Framing <customframe@em.michaelscustomframing.com>
+**日期:** 2026-11-27T14:39:06.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a21d73b04a6ecc1
+
+
+Impress everyone on your list for less.
+View in Browser 
+<https://click.em.michaelscustomframing.com/?qs=ABt7ImQiOjUwNzMsInQiOjE0OTU1LCJzIjoxMH0ACgAAAAAGsFEgnmyArPu_VSoPKpnZznPhn3kp6DqPIbIcL3V8_9gFRRb6Opn4UCpHSU8_24OVWbqfZWvFWtTvqij7xS7VAgvpHXViUawMkVDg4sc> 
+[image: aaron brothers™ CUSTOM FRAMING AT Michaels] 
+<https://click.em.michaelscustomframing.com/?qs=ABt7ImQiOjUwNzMsInQiOjE0OTU1LCJzIjoxMH0ACgAAAAAGsFEgnm4eAuAniNZBSQs0qfXeBuR_0_5xc72IgpcRH6QdsxhIV39RLlaVy4SJoXPJHXWfpwYnc10KTb6KWRc_x1B_cxk
+
+---
