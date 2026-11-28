@@ -12209,3 +12209,27 @@ HOURS.
 
 
 ---
+
+## [其他] Don’t miss out on these incredible Black Friday deals! 🏃‍
+
+**发件人:** Michaels SALE <michaels@emdeals.michaels.com>
+**日期:** 2026-11-28T08:38:26.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2214e59fc22910
+
+
+
+
+
+
+
+
+
+
+https://view.emdeals.michaels.com/?qs=ACR7ImQiOjUwNzQsInQiOjE0OTU1LCJwIjoiVlciLCJzIjoxMH0ACgAAAAAGuhRB4ImxQnCvxOydWaJTOW9Ydb_bXP3dawEo7LoTljBC3YR0TxlnX5zoLSivamEJ1AjGZoF-OG-N_M65XUynP_w03uXs1AxcGibZs4_WfEnNkJUqLA 
+View in Browser 
+
+https://canada.michaels.com/?cm_mmc=EMAIL-_-Brand_Story-_-20261128_S3_PriceDropsandBOGOs_Story_FF_CAN-_-HEADER_LOGO&customerEmail=bmF0YWxpZXd1MTAwQGdtYWlsLmNvbQ==&emId=6f1605b8538a31c0d12bb6dccbf149601f2982644e4fad5bcc1644878f85501c&cm_mmca2=74577
+
+---
