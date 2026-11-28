@@ -12372,3 +12372,16 @@ And tell your coworkers about it, too
 <https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSTR4fKOHdmWFt9kEQ3uhiAYxtEsNzuSGFDD9PflF0JjLo1M-2FuS6zZCSm03qbarv5RVHQeXWEFgUhO9I-2FsrWyb1lEfm2Y4sNHORgiYS
 
 ---
+
+## [其他] Black Friday Sale’s final stretch
+
+**发件人:** lululemon <hello@e.lululemon.com>
+**日期:** 2026-11-28T15:51:34.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a222f35779faf52
+
+lululemon
+ &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
+
+---
