@@ -12433,3 +12433,16 @@ Google Apps Script
 Need help? Visit the 
 
 ---
+
+## [生活旅行] 本週旅行熱話：魔法、音樂與Santa Run🪄
+
+**发件人:** "Trip.com" <Trip.com@newsletter.trip.com>
+**日期:** 2026-11-28T20:06:03.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a223c3ca3f1a213
+
+
+<https://deeplink.trip.com/forward/middlepages/?targetUrl=https%3A%2F%2Fhk.trip.com%2Findex%3Flocale%3Dzh_hk%26allianceid%3D324048%26edm_id%3DSGP-NOR-33981-101421407-1795896361983.781%26ouid%3D564825.trippulse_edm_1128_hk.2026-11-28_-8_0.20261129.zh_HK.%26sid%3D1520826%26trip_in_aid%3D1023%26trip_in_ouid%3D564825.trippulse_edm_1128_hk.2026-11-28_-8_0.20261129.zh_HK.%26trip_in_sid%3D1119&bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiU0dQLU5PUi0zMzk4MS0xMDE0MjE0MDctMTc5NTg5NjM2MTk4My43ODEiLCJ0aXRsZSI6I
+
+---
