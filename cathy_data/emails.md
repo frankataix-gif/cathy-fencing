@@ -12355,3 +12355,20 @@ Why choose when you can stack 50% off with daily deals?
 <https://app.sephora.com/T/v61000001a222810a74ac339af4bbe5cfc0/2aa37890ae814d230000021ef3a
 
 ---
+
+## [其他] 30% Off the Workwear Edit
+
+**发件人:** ALO <notification@emails.aloyoga.com>
+**日期:** 2026-11-28T16:06:28.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a222e8792b391c4
+
+ ALO Yoga 
+And tell your coworkers about it, too
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+[image: ALO] 
+<https://click.emails.aloyoga.com/uni/ls/click?upn=u001.QV1314xvOzHBMZTXVbujrMm6kdsH41jKl0JcCKercSSTR4fKOHdmWFt9kEQ3uhiAYxtEsNzuSGFDD9PflF0JjLo1M-2FuS6zZCSm03qbarv5RVHQeXWEFgUhO9I-2FsrWyb1lEfm2Y4sNHORgiYS
+
+---
