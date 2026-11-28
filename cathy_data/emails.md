@@ -12302,3 +12302,17 @@ Dress for the occasion(s).
 ͏‌  ͏‌  ͏‌  ͏‌  ͏‌  ͏‌
 
 ---
+
+## [其他] 🎁 Great UGG gifts, now on sale
+
+**发件人:** Browns Shoes BLACK FRIDAY <browns@info.brownsshoes.com>
+**日期:** 2026-11-28T13:09:35.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a22246853a63baf
+
+Now’s the time to find their favourites from Artica to Sorel up
+to 50% off   YOUR FIRST STOP FOR TRENDS 
+( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRM8HrHKUitbh13wUyUn53G0-3DzXYX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IABUsldz4gQTaAA1-2B-2BDL1-2BtDIu1LaXshXUwHpPcxdhoGq0ifvgpM9OFwuQPe-2Fr1mDRDfztEaGZ3jKg3g3FBwToflHKt9yz6XVUETTEkGXj92yfjFjdS6bry
+
+---
