@@ -12316,3 +12316,24 @@ to 50% off   YOUR FIRST STOP FOR TRENDS
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRM8HrHKUitbh13wUyUn53G0-3DzXYX_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IABUsldz4gQTaAA1-2B-2BDL1-2BtDIu1LaXshXUwHpPcxdhoGq0ifvgpM9OFwuQPe-2Fr1mDRDfztEaGZ3jKg3g3FBwToflHKt9yz6XVUETTEkGXj92yfjFjdS6bry
 
 ---
+
+## [其他] London Dock Residents' Christmas event - 02/12/26
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-28T14:06:26.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2227a8f80d591a
+
+ 
+<https://bhidfah.r.bh.d.sendibt3.com/tr/cl/UEGgCzDoiFFmYUrSPBV8U836bmZ201EGT-AP8iW2Dgp3BSsZR_sZBWgAQgNvhoBmOGXy1H1fgSijkx2IigsMcpVLKGdh6I3xJV9KpTL5flhDZ68X8ep_NZevaWqDOg2gPUQiPn-4A7JztoQpyIYXZCRkvzO1bkTHul3E0pRq3eWWNrikdUi17vUV69qLv-LqMS6jlCDtKrS6lVklmmVhl7r7gtfkMfWD5mRA0bnHjxmfKcr7LGcjTuVlr79g68F_atolG8qHn_2PUysWpIga> 
+
+Dear Ms Jingqi Wu,
+
+You’re invited to our Residents’ Christmas Event! 
+
+
+A festive evening with your neighbours
+We hope you can join us to share some Christmas cheer and celeb
+
+---
