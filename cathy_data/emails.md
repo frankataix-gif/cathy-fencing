@@ -12385,3 +12385,23 @@ lululemon
  &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &#847;&#847; &#847;&#847; &#847; &#847; &
 
 ---
+
+## [其他] IMPORTANT NOTICE – PARCEL COLLECTION
+
+**发件人:** London Dock Estate Team <noreplies@1783507.brevosend.com>
+**日期:** 2026-11-28T17:57:59.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a2234e8f532690f
+
+ 
+<https://bhidfah.r.af.d.sendibt2.com/tr/cl/1cXzSDCNY38IDk3jrm9YtdyvXz9TLl5ZMImIlefTb_pIrgs_yy6AYXOPCxD5tyyS9-2_IJ58BLuHtUP_Gms83APcUpJLBqC7M-DigSF_v7q3mmL77b6_8oSR1p71Nip32lVERfH-JOcRfbWDsMDG235afEIGgP2-PY8VB9WsT4PvpykEZeRfyNwJYE7_waE9su8nRtN5BmZBkmBJK355jgee3HFRhF1JCMgjfHxD-EYEmqtv7u8VrFMO-FnfQ_YmTXyeaNgiSHqsyzn9HX2-> 
+
+Dear Ms Jingqi Wu,
+
+**A Friendly Reminder to All Residents**
+
+With the current busy period, including Black Friday sales and the upcoming 
+Christmas shopping season, we antici
+
+---
