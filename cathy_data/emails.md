@@ -12405,3 +12405,31 @@ With the current busy period, including Black Friday sales and the upcoming
 Christmas shopping season, we antici
 
 ---
+
+## [其他] Summary of failures for Google Apps Script: 未命名项目
+
+**发件人:** noreply-apps-scripts-notifications@google.com
+**日期:** 2026-11-28T19:32:18.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a223a4e457f97cd
+
+Your script, 未命名项目, has recently failed to finish successfully. A  
+summary of the failure(s) is shown below. To configure the triggers for  
+this script, or change your setting for receiving future failure  
+notifications, click here.
+
+
+Start Function Error Message Trigger End
+
+11/28/26 9:24:18 PM CAT syncCathyEmails We're sorry, a server error  
+occurred. Please wait a bit and try again. time-based 11/28/26 9:32:18 PM  
+CAT
+
+
+Sincerely,
+Google Apps Script
+
+Need help? Visit the 
+
+---
