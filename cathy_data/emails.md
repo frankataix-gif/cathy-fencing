@@ -12196,3 +12196,16 @@ HOURS.
 ( http://clicks.brownsshoes.com/ls/click?upn=u001.Mhp6JEW2xr9ulz-2FutIaHMWWnaYqMjHl-2Fa6sTRPXlW8MGCDZA3wFRKpbBSTuHk-2FtrI-2Fou-2FDcVdwzS6F1jcrNNRBI4kGcC2tx6H14-2FR45kdFc-3D4ZKo_-2F-2FN5zRB8Vr4d3tj4Ql0btEeFKc18gmZ-2F0QE8f5ip-2F3PIc1IEHpMt6oFga0R3oV60tWECT9nDmVT9RKERP09IAJ-2B2WXSQIC4WxGw9i7DhrF6WDAOnIcj5yjQiLDvxirBt5YcqXeS43yvapYp6I9vXj5mI3lZcnjvsdfhCtfvU0BrslbMJefHgx3O1OFeqDVDBuj23OTrQIfaD0Slfq5qOIq6yRA2wvyvor5tkPy9njXf38jTjDy
 
 ---
+
+## [其他] Ultima occasione: sconti fino al 50%
+
+**发件人:** Calvin Klein <news@mailing.calvinklein.com>
+**日期:** 2026-11-28T06:21:04.000Z
+**摘要:** 
+**待办:** 无
+**GmailID:** 1a220d09a9450663
+
+
+
+
+---
